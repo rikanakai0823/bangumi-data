@@ -1,5 +1,6 @@
 var fse = require('fs-extra')
 var config = require('./config')
+process.env.TZ = 'Asia/Tokyo'
 
 var schedule = fse.readJsonSync(process.argv[2])
 
