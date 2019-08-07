@@ -10,6 +10,6 @@ schedule.forEach(function(chan) {
     let stime = new Date(prog.start)
     let mon = `0${stime.getMonth() + 1}`.slice(-2)
     let date = `0${stime.getDate()}`.slice(-2)
-    fse.outputJsonSync(`./programs/${stime.getFullYear()}/${mon}/${date}/${prog.id}.json`, prog)
+    fse.outputJsonSync(`./programs/${stime.getFullYear()}/${mon}/${date}/${prog.id}.json`, prog, {spaces: 2})
   })
 })
