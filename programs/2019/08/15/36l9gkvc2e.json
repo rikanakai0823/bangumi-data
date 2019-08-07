@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkvc2e",
+  "category": "information",
+  "title": "生活情報３０分",
+  "fullTitle": "生活情報３０分",
+  "detail": "【内容】電動ビューティーフェイスシェーバー「フローレス」　【電話】０１２０－８８８－０６０",
+  "start": 1565839800000,
+  "end": 1565841600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
