@@ -1,1 +1,28 @@
-{"id":"36h6jr1thb","category":"music","title":"清水節子と安藤栄子の歌日記","fullTitle":"清水節子と安藤栄子の歌日記[Ｓ]","detail":"島あきの\n◇番組内容\n島あきの\n◇出演者\n島あきの","start":1565656200000,"end":1565658000000,"seconds":1800,"description":"島あきの","extra":{"番組内容":"島あきの","出演者":"島あきの"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1thb",
+  "category": "music",
+  "title": "清水節子と安藤栄子の歌日記",
+  "fullTitle": "清水節子と安藤栄子の歌日記[Ｓ]",
+  "detail": "島あきの\n◇番組内容\n島あきの\n◇出演者\n島あきの",
+  "start": 1565656200000,
+  "end": 1565658000000,
+  "seconds": 1800,
+  "description": "島あきの",
+  "extra": {
+    "番組内容": "島あきの",
+    "出演者": "島あきの"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

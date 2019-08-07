@@ -1,1 +1,23 @@
-{"id":"36rdttk6ta","category":"etc","title":"朝の周波数カード","fullTitle":"朝の周波数カード","detail":"アルバム「Ｎｏ．６ コラボレーションズ・プロジェクト」\r\nエド・シーラン","start":1564946700000,"end":1564948500000,"seconds":1800,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"Ｎｏ．６ コラボレーションズ・プロジェクト","episode":null,"flags":[]}
+{
+  "id": "36rdttk6ta",
+  "category": "etc",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「Ｎｏ．６ コラボレーションズ・プロジェクト」\r\nエド・シーラン",
+  "start": 1564946700000,
+  "end": 1564948500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "Ｎｏ．６ コラボレーションズ・プロジェクト",
+  "episode": null,
+  "flags": []
+}

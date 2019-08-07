@@ -1,1 +1,25 @@
-{"id":"36l9gkvby6","category":"anime","title":"トムとジェリーテイルズ▽みどり色の訪問者　ほか","fullTitle":"トムとジェリーテイルズ▽[二]みどり色の訪問者　ほか　＃２１","detail":"第２１話（全２６話）　①みどり色の訪問者　②モンスター大集合　③オバケ森からの脱出","start":1565598600000,"end":1565600400000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":21,"flags":["二"]}
+{
+  "id": "36l9gkvby6",
+  "category": "anime",
+  "title": "トムとジェリーテイルズ▽みどり色の訪問者　ほか",
+  "fullTitle": "トムとジェリーテイルズ▽[二]みどり色の訪問者　ほか　＃２１",
+  "detail": "第２１話（全２６話）　①みどり色の訪問者　②モンスター大集合　③オバケ森からの脱出",
+  "start": 1565598600000,
+  "end": 1565600400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 21,
+  "flags": [
+    "二"
+  ]
+}

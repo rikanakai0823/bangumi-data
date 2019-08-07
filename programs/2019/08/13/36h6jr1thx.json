@@ -1,1 +1,23 @@
-{"id":"36h6jr1thx","category":"variety","title":"ちょっと贅沢！欧州列車旅行","fullTitle":"ちょっと贅沢！欧州列車旅行[Ｓ]","detail":"美食の都　リヨン（フランス）","start":1565700300000,"end":1565700900000,"seconds":600,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1thx",
+  "category": "variety",
+  "title": "ちょっと贅沢！欧州列車旅行",
+  "fullTitle": "ちょっと贅沢！欧州列車旅行[Ｓ]",
+  "detail": "美食の都　リヨン（フランス）",
+  "start": 1565700300000,
+  "end": 1565700900000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

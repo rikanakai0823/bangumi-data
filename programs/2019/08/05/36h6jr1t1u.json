@@ -1,1 +1,30 @@
-{"id":"36h6jr1t1u","category":"music","title":"カラオケ１ばん","fullTitle":"カラオケ１ばん[Ｓ][再]","detail":"ゲスト：山川豊・岩出和也\n◇番組内容\nゲスト：山川豊・岩出和也\n◇出演者\n司会：岸田敏志　永井みゆき","start":1564976100000,"end":1564979400000,"seconds":3300,"description":"ゲスト：山川豊・岩出和也","extra":{"番組内容":"ゲスト：山川豊・岩出和也","出演者":"司会：岸田敏志　永井みゆき"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36h6jr1t1u",
+  "category": "music",
+  "title": "カラオケ１ばん",
+  "fullTitle": "カラオケ１ばん[Ｓ][再]",
+  "detail": "ゲスト：山川豊・岩出和也\n◇番組内容\nゲスト：山川豊・岩出和也\n◇出演者\n司会：岸田敏志　永井みゆき",
+  "start": 1564976100000,
+  "end": 1564979400000,
+  "seconds": 3300,
+  "description": "ゲスト：山川豊・岩出和也",
+  "extra": {
+    "番組内容": "ゲスト：山川豊・岩出和也",
+    "出演者": "司会：岸田敏志　永井みゆき"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

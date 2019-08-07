@@ -1,1 +1,23 @@
-{"id":"36l9gkvbv2","category":"documentary","title":"茂原七夕まつり","fullTitle":"茂原七夕まつり","detail":"７月２６日（金）～２８日（日）に行われた「第６５回茂原七夕まつり」の模様をダイジェストでお送りします。","start":1565431200000,"end":1565434500000,"seconds":3300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"第６５回茂原七夕まつり","episode":65,"flags":[]}
+{
+  "id": "36l9gkvbv2",
+  "category": "documentary",
+  "title": "茂原七夕まつり",
+  "fullTitle": "茂原七夕まつり",
+  "detail": "７月２６日（金）～２８日（日）に行われた「第６５回茂原七夕まつり」の模様をダイジェストでお送りします。",
+  "start": 1565431200000,
+  "end": 1565434500000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "第６５回茂原七夕まつり",
+  "episode": 65,
+  "flags": []
+}

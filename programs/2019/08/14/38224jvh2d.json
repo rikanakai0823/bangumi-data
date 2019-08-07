@@ -1,1 +1,30 @@
-{"id":"38224jvh2d","category":"variety","title":"潜入有吉","fullTitle":"潜入有吉[字]","detail":"バラエティと謎解きが融合した新しいロケバラエティ！\n◇◇出演者\n有吉弘行\n◇◇おしらせ\n※この番組は放送時間が変更になる場合があります\r\n\r\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/sennyu/","start":1565794200000,"end":1565797800000,"seconds":3600,"description":"バラエティと謎解きが融合した新しいロケバラエティ！","extra":{"◇出演者":"有吉弘行","◇おしらせ":"※この番組は放送時間が変更になる場合があります\r\n\r\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/sennyu/"},"channel":{"type":"GR","channel":"24","name":"テレビ朝日","id":"1i5bcjs","sid":1064,"nid":32741,"hasLogoData":true,"n":18},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "38224jvh2d",
+  "category": "variety",
+  "title": "潜入有吉",
+  "fullTitle": "潜入有吉[字]",
+  "detail": "バラエティと謎解きが融合した新しいロケバラエティ！\n◇◇出演者\n有吉弘行\n◇◇おしらせ\n※この番組は放送時間が変更になる場合があります\r\n\r\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/sennyu/",
+  "start": 1565794200000,
+  "end": 1565797800000,
+  "seconds": 3600,
+  "description": "バラエティと謎解きが融合した新しいロケバラエティ！",
+  "extra": {
+    "◇出演者": "有吉弘行",
+    "◇おしらせ": "※この番組は放送時間が変更になる場合があります\r\n\r\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/sennyu/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

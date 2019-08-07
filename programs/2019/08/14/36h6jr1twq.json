@@ -1,1 +1,23 @@
-{"id":"36h6jr1twq","category":"music","title":"彩の国百科","fullTitle":"彩の国百科[Ｓ]","detail":"異国情緒編　県内の四季の映像を音楽にあわせて紹介します。","start":1565784000000,"end":1565785800000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1twq",
+  "category": "music",
+  "title": "彩の国百科",
+  "fullTitle": "彩の国百科[Ｓ]",
+  "detail": "異国情緒編　県内の四季の映像を音楽にあわせて紹介します。",
+  "start": 1565784000000,
+  "end": 1565785800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

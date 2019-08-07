@@ -1,1 +1,25 @@
-{"id":"3826py4b21","category":"information","title":"「ＳＴＡＧＥ：０」ファイナルステージ　オススメ","fullTitle":"「ＳＴＡＧＥ：０」ファイナルステージ　オススメ[字]","detail":"９／１(日)放送「STAGE:0　eSPORTS　High-School　Championship　2019　ファイナルステージ」の見どころを紹介します！","start":1565560800000,"end":1565561100000,"seconds":300,"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"STAGE:0　eSPORTS　High-School　Championship　2019　ファイナルステージ","episode":null,"flags":["字"]}
+{
+  "id": "3826py4b21",
+  "category": "information",
+  "title": "「ＳＴＡＧＥ：０」ファイナルステージ　オススメ",
+  "fullTitle": "「ＳＴＡＧＥ：０」ファイナルステージ　オススメ[字]",
+  "detail": "９／１(日)放送「STAGE:0　eSPORTS　High-School　Championship　2019　ファイナルステージ」の見どころを紹介します！",
+  "start": 1565560800000,
+  "end": 1565561100000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "STAGE:0　eSPORTS　High-School　Championship　2019　ファイナルステージ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

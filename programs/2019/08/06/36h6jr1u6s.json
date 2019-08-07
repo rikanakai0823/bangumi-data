@@ -1,1 +1,27 @@
-{"id":"36h6jr1u6s","category":"information","title":"ＴＶショッピング・スマイルショッピング","fullTitle":"ＴＶショッピング・スマイルショッピング[Ｓ]","detail":"スマイルショッピング\n◇番組内容\n神秘の健康力（金氏高麗人参）　　　　　　０１２０－２２－３３６６","start":1565064000000,"end":1565065800000,"seconds":1800,"description":"スマイルショッピング","extra":{"番組内容":"神秘の健康力（金氏高麗人参）　　　　　　０１２０－２２－３３６６"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1u6s",
+  "category": "information",
+  "title": "ＴＶショッピング・スマイルショッピング",
+  "fullTitle": "ＴＶショッピング・スマイルショッピング[Ｓ]",
+  "detail": "スマイルショッピング\n◇番組内容\n神秘の健康力（金氏高麗人参）　　　　　　０１２０－２２－３３６６",
+  "start": 1565064000000,
+  "end": 1565065800000,
+  "seconds": 1800,
+  "description": "スマイルショッピング",
+  "extra": {
+    "番組内容": "神秘の健康力（金氏高麗人参）　　　　　　０１２０－２２－３３６６"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36h6jr1tz4","category":"information","title":"わくわくショッピング・ファーマフーズＴＶショッピング","fullTitle":"わくわくショッピング・ファーマフーズＴＶショッピング[Ｓ]","detail":"ファーマフーズＴＶショッピング\n◇番組内容\nタマゴサミン　　　　　　　　　　　　　　０１２０－３７１－８１８","start":1564603200000,"end":1564605000000,"seconds":1800,"description":"ファーマフーズＴＶショッピング","extra":{"番組内容":"タマゴサミン　　　　　　　　　　　　　　０１２０－３７１－８１８"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1tz4",
+  "category": "information",
+  "title": "わくわくショッピング・ファーマフーズＴＶショッピング",
+  "fullTitle": "わくわくショッピング・ファーマフーズＴＶショッピング[Ｓ]",
+  "detail": "ファーマフーズＴＶショッピング\n◇番組内容\nタマゴサミン　　　　　　　　　　　　　　０１２０－３７１－８１８",
+  "start": 1564603200000,
+  "end": 1564605000000,
+  "seconds": 1800,
+  "description": "ファーマフーズＴＶショッピング",
+  "extra": {
+    "番組内容": "タマゴサミン　　　　　　　　　　　　　　０１２０－３７１－８１８"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

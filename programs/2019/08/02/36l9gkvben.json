@@ -1,1 +1,25 @@
-{"id":"36l9gkvben","category":"music","title":"歌う！セールスマン島あきの・美里里美・門松みゆき","fullTitle":"歌う！セールスマン[再]【ゲスト】島あきの・美里里美・門松みゆき","detail":"歌の営業会議・楽曲のプレゼン・加門亮のＭｏｏｄｙ　Ｗｏｒｌｄ・今週のイチオシ【出演者】山崎ていじ・大下香奈【ゲスト】島あきの・美里里美・門松みゆき","start":1564714800000,"end":1564716600000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkvben",
+  "category": "music",
+  "title": "歌う！セールスマン島あきの・美里里美・門松みゆき",
+  "fullTitle": "歌う！セールスマン[再]【ゲスト】島あきの・美里里美・門松みゆき",
+  "detail": "歌の営業会議・楽曲のプレゼン・加門亮のＭｏｏｄｙ　Ｗｏｒｌｄ・今週のイチオシ【出演者】山崎ていじ・大下香奈【ゲスト】島あきの・美里里美・門松みゆき",
+  "start": 1564714800000,
+  "end": 1564716600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,1 +1,23 @@
-{"id":"381jqyzzpk","category":"anime","title":"プチプチ・アニメ　モノだらけ！","fullTitle":"プチプチ・アニメ　モノだらけ！「たちつてと」","detail":"ふだん何気なく見ている身の回りのたくさんのモノたち。ちょっと想像をひろげてみると、あんなモノやこんなモノに変身して、楽しいお話を繰り広げてくれます。","start":1565592000000,"end":1565592300000,"seconds":300,"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"たちつてと","episode":null,"flags":[]}
+{
+  "id": "381jqyzzpk",
+  "category": "anime",
+  "title": "プチプチ・アニメ　モノだらけ！",
+  "fullTitle": "プチプチ・アニメ　モノだらけ！「たちつてと」",
+  "detail": "ふだん何気なく見ている身の回りのたくさんのモノたち。ちょっと想像をひろげてみると、あんなモノやこんなモノに変身して、楽しいお話を繰り広げてくれます。",
+  "start": 1565592000000,
+  "end": 1565592300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "たちつてと",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkvbg8","category":"information","title":"生活情報３０分","fullTitle":"生活情報３０分","detail":"【内容】ラサーナ薬用地肌エッセンス（０１２０－７５－２３２８）／うるおい宣言セラミドプラス（０１２０－３３３－０００）","start":1564797600000,"end":1564799400000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"内容","episode":null,"flags":[]}
+{
+  "id": "36l9gkvbg8",
+  "category": "information",
+  "title": "生活情報３０分",
+  "fullTitle": "生活情報３０分",
+  "detail": "【内容】ラサーナ薬用地肌エッセンス（０１２０－７５－２３２８）／うるおい宣言セラミドプラス（０１２０－３３３－０００）",
+  "start": 1564797600000,
+  "end": 1564799400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": []
+}

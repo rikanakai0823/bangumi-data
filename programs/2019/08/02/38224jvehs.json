@@ -1,1 +1,23 @@
-{"id":"38224jvehs","category":"information","title":"ショッピングなう","fullTitle":"ショッピングなう","detail":"今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！","start":1564684260000,"end":1564686000000,"seconds":1740,"channel":{"type":"GR","channel":"24","name":"テレビ朝日","id":"1i5bcjs","sid":1064,"nid":32741,"hasLogoData":true,"n":18},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "38224jvehs",
+  "category": "information",
+  "title": "ショッピングなう",
+  "fullTitle": "ショッピングなう",
+  "detail": "今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！",
+  "start": 1564684260000,
+  "end": 1564686000000,
+  "seconds": 1740,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

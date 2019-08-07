@@ -1,1 +1,23 @@
-{"id":"381ocd7vyj","category":"sports","title":"ＲＯＡＤ　ＴＯ　ＴＯＫＹＯ２０２０","fullTitle":"ＲＯＡＤ　ＴＯ　ＴＯＫＹＯ２０２０「女子マラソン　高橋尚子　野口みずき」","detail":"","start":1565467500000,"end":1565467800000,"seconds":300,"channel":{"type":"GR","channel":"25","name":"日テレ１","id":"1i54x1s","sid":1040,"nid":32738,"hasLogoData":true,"n":15},"subTitle":"女子マラソン　高橋尚子　野口みずき","episode":null,"flags":[]}
+{
+  "id": "381ocd7vyj",
+  "category": "sports",
+  "title": "ＲＯＡＤ　ＴＯ　ＴＯＫＹＯ２０２０",
+  "fullTitle": "ＲＯＡＤ　ＴＯ　ＴＯＫＹＯ２０２０「女子マラソン　高橋尚子　野口みずき」",
+  "detail": "",
+  "start": 1565467500000,
+  "end": 1565467800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "女子マラソン　高橋尚子　野口みずき",
+  "episode": null,
+  "flags": []
+}

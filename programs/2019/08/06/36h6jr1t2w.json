@@ -1,1 +1,28 @@
-{"id":"36h6jr1t2w","category":"music","title":"千葉一夫と藍ようこの歌謡音楽館","fullTitle":"千葉一夫と藍ようこの歌謡音楽館[Ｓ]","detail":"泉沢しげる\n◇番組内容\n泉沢しげる\n◇出演者\n泉沢しげる","start":1565037000000,"end":1565038800000,"seconds":1800,"description":"泉沢しげる","extra":{"番組内容":"泉沢しげる","出演者":"泉沢しげる"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1t2w",
+  "category": "music",
+  "title": "千葉一夫と藍ようこの歌謡音楽館",
+  "fullTitle": "千葉一夫と藍ようこの歌謡音楽館[Ｓ]",
+  "detail": "泉沢しげる\n◇番組内容\n泉沢しげる\n◇出演者\n泉沢しげる",
+  "start": 1565037000000,
+  "end": 1565038800000,
+  "seconds": 1800,
+  "description": "泉沢しげる",
+  "extra": {
+    "番組内容": "泉沢しげる",
+    "出演者": "泉沢しげる"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,25 @@
-{"id":"3826py4ajo","category":"information","title":"８／１２(月・休)オススメ","fullTitle":"８／１２(月・休)「池上彰の戦争を考えるＳＰ第１１弾」オススメ[字]","detail":"８／１２(月・休)夜８時放送「池上彰の戦争を考えるＳＰ第１１弾」の見どころを紹介します。","start":1565423700000,"end":1565424900000,"seconds":1200,"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"池上彰の戦争を考えるＳＰ第１１弾","episode":null,"flags":["字"]}
+{
+  "id": "3826py4ajo",
+  "category": "information",
+  "title": "８／１２(月・休)オススメ",
+  "fullTitle": "８／１２(月・休)「池上彰の戦争を考えるＳＰ第１１弾」オススメ[字]",
+  "detail": "８／１２(月・休)夜８時放送「池上彰の戦争を考えるＳＰ第１１弾」の見どころを紹介します。",
+  "start": 1565423700000,
+  "end": 1565424900000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "池上彰の戦争を考えるＳＰ第１１弾",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

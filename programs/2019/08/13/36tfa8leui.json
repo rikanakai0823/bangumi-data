@@ -1,1 +1,23 @@
-{"id":"36tfa8leui","category":"sports","title":"東京シティ競馬中継","fullTitle":"東京シティ競馬中継","detail":"「東京記念トライアル」「サマービーチ賞」","start":1565677200000,"end":1565697600000,"seconds":20400,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8leui",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「東京記念トライアル」「サマービーチ賞」",
+  "start": 1565677200000,
+  "end": 1565697600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

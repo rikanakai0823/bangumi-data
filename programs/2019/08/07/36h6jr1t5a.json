@@ -1,1 +1,27 @@
-{"id":"36h6jr1t5a","category":"drama","title":"長七郎江戸日記","fullTitle":"長七郎江戸日記","detail":"風流浮世絵崩し\n◇出演者\n里見浩太朗　下川辰平　野川由美子　加藤純平　火野正平　三田明　伏見尚子　高品格　ほか","start":1565148600000,"end":1565152200000,"seconds":3600,"description":"風流浮世絵崩し","extra":{"出演者":"里見浩太朗　下川辰平　野川由美子　加藤純平　火野正平　三田明　伏見尚子　高品格　ほか"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1t5a",
+  "category": "drama",
+  "title": "長七郎江戸日記",
+  "fullTitle": "長七郎江戸日記",
+  "detail": "風流浮世絵崩し\n◇出演者\n里見浩太朗　下川辰平　野川由美子　加藤純平　火野正平　三田明　伏見尚子　高品格　ほか",
+  "start": 1565148600000,
+  "end": 1565152200000,
+  "seconds": 3600,
+  "description": "風流浮世絵崩し",
+  "extra": {
+    "出演者": "里見浩太朗　下川辰平　野川由美子　加藤純平　火野正平　三田明　伏見尚子　高品格　ほか"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
