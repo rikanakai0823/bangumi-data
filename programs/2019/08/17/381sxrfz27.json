@@ -1,0 +1,29 @@
+{
+  "id": "381sxrfz27",
+  "category": "information",
+  "title": "「ＵＴＡＧＥ！」ナビ",
+  "fullTitle": "「ＵＴＡＧＥ！」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/UTAGE-SAITEN/",
+  "start": 1566021600000,
+  "end": 1566025200000,
+  "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/UTAGE-SAITEN/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
