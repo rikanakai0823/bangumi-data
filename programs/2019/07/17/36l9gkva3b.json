@@ -1,1 +1,25 @@
-{"id":"36l9gkva3b","category":"music","title":"ザ・カラオケトライアル若山かずさ","fullTitle":"ザ・カラオケトライアル[再]【ゲスト】若山かずさ","detail":"【ゲスト】若山かずさ　【審査委員長】徳久広司　　【司会】栗田貫一、藤澤希未","start":1563361200000,"end":1563364800000,"seconds":3600,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkva3b",
+  "category": "music",
+  "title": "ザ・カラオケトライアル若山かずさ",
+  "fullTitle": "ザ・カラオケトライアル[再]【ゲスト】若山かずさ",
+  "detail": "【ゲスト】若山かずさ　【審査委員長】徳久広司　　【司会】栗田貫一、藤澤希未",
+  "start": 1563361200000,
+  "end": 1563364800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

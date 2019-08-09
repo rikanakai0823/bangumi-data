@@ -1,1 +1,27 @@
-{"id":"36tfa8gmjn","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"透輝の滴【化粧品】\n◇お知らせ\n0120-187-187","start":1554249600000,"end":1554251400000,"seconds":1800,"description":"透輝の滴【化粧品】","extra":{"お知らせ":"0120-187-187"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"化粧品","episode":null,"flags":[]}
+{
+  "id": "36tfa8gmjn",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "透輝の滴【化粧品】\n◇お知らせ\n0120-187-187",
+  "start": 1554249600000,
+  "end": 1554251400000,
+  "seconds": 1800,
+  "description": "透輝の滴【化粧品】",
+  "extra": {
+    "お知らせ": "0120-187-187"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "化粧品",
+  "episode": null,
+  "flags": []
+}

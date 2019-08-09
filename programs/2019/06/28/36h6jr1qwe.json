@@ -1,1 +1,28 @@
-{"id":"36h6jr1qwe","category":"sports","title":"ＢＡＣＨプラザ","fullTitle":"ＢＡＣＨプラザ[Ｓ]","detail":"「ボートレース戸田」「浦和競馬」\n◇番組内容\n▽ボートレース戸田：関東専門紙カップ・２日目▽浦和競馬・２日目\n◇出演者\n堂前英男","start":1561728600000,"end":1561730400000,"seconds":1800,"description":"「ボートレース戸田」「浦和競馬」","extra":{"番組内容":"▽ボートレース戸田：関東専門紙カップ・２日目▽浦和競馬・２日目","出演者":"堂前英男"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1qwe",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
+  "detail": "「ボートレース戸田」「浦和競馬」\n◇番組内容\n▽ボートレース戸田：関東専門紙カップ・２日目▽浦和競馬・２日目\n◇出演者\n堂前英男",
+  "start": 1561728600000,
+  "end": 1561730400000,
+  "seconds": 1800,
+  "description": "「ボートレース戸田」「浦和競馬」",
+  "extra": {
+    "番組内容": "▽ボートレース戸田：関東専門紙カップ・２日目▽浦和競馬・２日目",
+    "出演者": "堂前英男"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

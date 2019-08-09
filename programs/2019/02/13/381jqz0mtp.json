@@ -1,1 +1,23 @@
-{"id":"381jqz0mtp","category":"anime","title":"プチプチ・アニメ　森のレシオ","fullTitle":"プチプチ・アニメ　森のレシオ「すごろくの箱」","detail":"氷の世界に住む少女レシオとその友だち、毛むくじゃらのジャモン。ふたりは出かけ先で出あった精霊や不思議な生き物たちから、さまざまなことを学んでゆきます。","start":1550015100000,"end":1550015400000,"seconds":300,"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"すごろくの箱","episode":null,"flags":[]}
+{
+  "id": "381jqz0mtp",
+  "category": "anime",
+  "title": "プチプチ・アニメ　森のレシオ",
+  "fullTitle": "プチプチ・アニメ　森のレシオ「すごろくの箱」",
+  "detail": "氷の世界に住む少女レシオとその友だち、毛むくじゃらのジャモン。ふたりは出かけ先で出あった精霊や不思議な生き物たちから、さまざまなことを学んでゆきます。",
+  "start": 1550015100000,
+  "end": 1550015400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "すごろくの箱",
+  "episode": null,
+  "flags": []
+}

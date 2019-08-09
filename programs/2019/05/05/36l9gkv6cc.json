@@ -1,1 +1,30 @@
-{"id":"36l9gkv6cc","category":"theater","title":"浅草お茶の間寄席▽林家　たけ平","fullTitle":"浅草お茶の間寄席[再]▽林家　たけ平「妾馬」","detail":"林家　たけ平「妾馬」\n◇番組内容\n浅草演芸ホールで収録した落語・漫才等、爆笑の高座をお届けします！\r\n\n◇出演者\n司会：田代沙織","start":1557019800000,"end":1557023100000,"seconds":3300,"description":"林家　たけ平「妾馬」","extra":{"番組内容":"浅草演芸ホールで収録した落語・漫才等、爆笑の高座をお届けします！\r\n","出演者":"司会：田代沙織\r\n"},"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"妾馬","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv6cc",
+  "category": "theater",
+  "title": "浅草お茶の間寄席▽林家　たけ平",
+  "fullTitle": "浅草お茶の間寄席[再]▽林家　たけ平「妾馬」",
+  "detail": "林家　たけ平「妾馬」\n◇番組内容\n浅草演芸ホールで収録した落語・漫才等、爆笑の高座をお届けします！\r\n\n◇出演者\n司会：田代沙織",
+  "start": 1557019800000,
+  "end": 1557023100000,
+  "seconds": 3300,
+  "description": "林家　たけ平「妾馬」",
+  "extra": {
+    "番組内容": "浅草演芸ホールで収録した落語・漫才等、爆笑の高座をお届けします！\r\n",
+    "出演者": "司会：田代沙織\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "妾馬",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

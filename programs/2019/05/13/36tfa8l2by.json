@@ -1,1 +1,25 @@
-{"id":"36tfa8l2by","category":"anime","title":"スポンジ・ボブ","fullTitle":"スポンジ・ボブ[二]","detail":"＃１６７「巨大パテ、町を襲う！」「やんちゃなシャボンくん」","start":1557734400000,"end":1557736200000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"巨大パテ、町を襲う！","episode":167,"flags":["二"]}
+{
+  "id": "36tfa8l2by",
+  "category": "anime",
+  "title": "スポンジ・ボブ",
+  "fullTitle": "スポンジ・ボブ[二]",
+  "detail": "＃１６７「巨大パテ、町を襲う！」「やんちゃなシャボンくん」",
+  "start": 1557734400000,
+  "end": 1557736200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "巨大パテ、町を襲う！",
+  "episode": 167,
+  "flags": [
+    "二"
+  ]
+}

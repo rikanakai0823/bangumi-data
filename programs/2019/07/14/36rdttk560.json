@@ -1,1 +1,23 @@
-{"id":"36rdttk560","category":"hobby","title":"パチンコ　パチスロ　エンタメ情報　パチＦＵＮ！","fullTitle":"パチンコ　パチスロ　エンタメ情報　パチＦＵＮ！","detail":"パチアイドルが毎週パチンコ＆スロットの最新情報や神奈川のホール情報など、楽しい企画を愉快なパチファミリーとともにたっぷりお届けします！","start":1563035400000,"end":1563037200000,"seconds":1800,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttk560",
+  "category": "hobby",
+  "title": "パチンコ　パチスロ　エンタメ情報　パチＦＵＮ！",
+  "fullTitle": "パチンコ　パチスロ　エンタメ情報　パチＦＵＮ！",
+  "detail": "パチアイドルが毎週パチンコ＆スロットの最新情報や神奈川のホール情報など、楽しい企画を愉快なパチファミリーとともにたっぷりお届けします！",
+  "start": 1563035400000,
+  "end": 1563037200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

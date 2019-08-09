@@ -1,1 +1,27 @@
-{"id":"36h6jr1ru8","category":"information","title":"買物情報・ダイレクトテレショップ","fullTitle":"買物情報・ダイレクトテレショップ[Ｓ]","detail":"◇番組内容\nフローレス　豪華スペシャルセット　　　　０１２０－８８８－０６０","start":1561496400000,"end":1561498200000,"seconds":1800,"description":"","extra":{"番組内容":"フローレス　豪華スペシャルセット　　　　０１２０－８８８－０６０"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ru8",
+  "category": "information",
+  "title": "買物情報・ダイレクトテレショップ",
+  "fullTitle": "買物情報・ダイレクトテレショップ[Ｓ]",
+  "detail": "◇番組内容\nフローレス　豪華スペシャルセット　　　　０１２０－８８８－０６０",
+  "start": 1561496400000,
+  "end": 1561498200000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "フローレス　豪華スペシャルセット　　　　０１２０－８８８－０６０"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

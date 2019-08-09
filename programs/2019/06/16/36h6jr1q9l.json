@@ -1,1 +1,28 @@
-{"id":"36h6jr1q9l","category":"music","title":"藤原浩と鈴木和華の朝ナビ歌謡曲","fullTitle":"藤原浩と鈴木和華の朝ナビ歌謡曲[Ｓ]","detail":"五十川ゆき\n◇番組内容\n五十川ゆき\n◇出演者\n五十川ゆき","start":1560629700000,"end":1560630600000,"seconds":900,"description":"五十川ゆき","extra":{"番組内容":"五十川ゆき","出演者":"五十川ゆき"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1q9l",
+  "category": "music",
+  "title": "藤原浩と鈴木和華の朝ナビ歌謡曲",
+  "fullTitle": "藤原浩と鈴木和華の朝ナビ歌謡曲[Ｓ]",
+  "detail": "五十川ゆき\n◇番組内容\n五十川ゆき\n◇出演者\n五十川ゆき",
+  "start": 1560629700000,
+  "end": 1560630600000,
+  "seconds": 900,
+  "description": "五十川ゆき",
+  "extra": {
+    "番組内容": "五十川ゆき",
+    "出演者": "五十川ゆき"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

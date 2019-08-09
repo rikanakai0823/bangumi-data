@@ -1,1 +1,30 @@
-{"id":"381f5ksilh","category":"news","title":"視点・論点","fullTitle":"視点・論点「イスラエル総選挙と今後の中東情勢」[字][再]","detail":"防衛大学校名誉教授…立山良司\n◇出演者\n【出演】防衛大学校名誉教授…立山良司","start":1556045400000,"end":1556046000000,"seconds":600,"description":"防衛大学校名誉教授…立山良司","extra":{"出演者":"【出演】防衛大学校名誉教授…立山良司"},"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"イスラエル総選挙と今後の中東情勢","episode":null,"flags":["字","再"]}
+{
+  "id": "381f5ksilh",
+  "category": "news",
+  "title": "視点・論点",
+  "fullTitle": "視点・論点「イスラエル総選挙と今後の中東情勢」[字][再]",
+  "detail": "防衛大学校名誉教授…立山良司\n◇出演者\n【出演】防衛大学校名誉教授…立山良司",
+  "start": 1556045400000,
+  "end": 1556046000000,
+  "seconds": 600,
+  "description": "防衛大学校名誉教授…立山良司",
+  "extra": {
+    "出演者": "【出演】防衛大学校名誉教授…立山良司"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "イスラエル総選挙と今後の中東情勢",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

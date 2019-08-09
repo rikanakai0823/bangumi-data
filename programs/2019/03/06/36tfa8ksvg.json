@@ -1,1 +1,27 @@
-{"id":"36tfa8ksvg","category":"sports","title":"東京シティ競馬中継","fullTitle":"東京シティ競馬中継","detail":"「君子蘭特別」「フジノウェーブ記念（ＳⅢ）」\n◇出演者\n【ＭＣ】\r\n前半：西島まどか\r\n後半：佐々木麻衣\r\n【解説】\r\n市川俊吾（日刊競馬）\r\n【場内リポート】\r\n瀬戸山知花","start":1551853200000,"end":1551859200000,"seconds":6000,"description":"「君子蘭特別」「フジノウェーブ記念（ＳⅢ）」","extra":{"出演者":"【ＭＣ】\r\n前半：西島まどか\r\n後半：佐々木麻衣\r\n【解説】\r\n市川俊吾（日刊競馬）\r\n【場内リポート】\r\n瀬戸山知花"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8ksvg",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「君子蘭特別」「フジノウェーブ記念（ＳⅢ）」\n◇出演者\n【ＭＣ】\r\n前半：西島まどか\r\n後半：佐々木麻衣\r\n【解説】\r\n市川俊吾（日刊競馬）\r\n【場内リポート】\r\n瀬戸山知花",
+  "start": 1551853200000,
+  "end": 1551859200000,
+  "seconds": 6000,
+  "description": "「君子蘭特別」「フジノウェーブ記念（ＳⅢ）」",
+  "extra": {
+    "出演者": "【ＭＣ】\r\n前半：西島まどか\r\n後半：佐々木麻衣\r\n【解説】\r\n市川俊吾（日刊競馬）\r\n【場内リポート】\r\n瀬戸山知花"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

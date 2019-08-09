@@ -1,1 +1,23 @@
-{"id":"36tfa8gl9o","category":"documentary","title":"ＧＯ　ＴＶ　～私たちこれでメシ食ってきます～３","fullTitle":"ＧＯ　ＴＶ　～私たちこれでメシ食ってきます～３","detail":" ","start":1553421600000,"end":1553424300000,"seconds":2700,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8gl9o",
+  "category": "documentary",
+  "title": "ＧＯ　ＴＶ　～私たちこれでメシ食ってきます～３",
+  "fullTitle": "ＧＯ　ＴＶ　～私たちこれでメシ食ってきます～３",
+  "detail": " ",
+  "start": 1553421600000,
+  "end": 1553424300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

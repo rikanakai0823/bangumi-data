@@ -1,1 +1,30 @@
-{"id":"381sxrfqpc","category":"information","title":"超感激！バラ色サロン～最安値が女の幸せ～","fullTitle":"超感激！バラ色サロン～最安値が女の幸せ～[解][字]","detail":"番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://ishop.tbs.co.jp/tbs/tvradio/salon/","start":1551510000000,"end":1551513600000,"seconds":3600,"description":"番組情報決定までしばらくお待ちください。","extra":{"公式ページ":"◇番組ＨＰ\r\nhttps://ishop.tbs.co.jp/tbs/tvradio/salon/\r\n"},"channel":{"type":"GR","channel":"22","name":"ＴＢＳ１","id":"1i5727s","sid":1048,"nid":32739,"hasLogoData":true,"n":22},"subTitle":"","episode":null,"flags":["解","字"]}
+{
+  "id": "381sxrfqpc",
+  "category": "information",
+  "title": "超感激！バラ色サロン～最安値が女の幸せ～",
+  "fullTitle": "超感激！バラ色サロン～最安値が女の幸せ～[解][字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://ishop.tbs.co.jp/tbs/tvradio/salon/",
+  "start": 1551510000000,
+  "end": 1551513600000,
+  "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://ishop.tbs.co.jp/tbs/tvradio/salon/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

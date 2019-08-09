@@ -1,1 +1,25 @@
-{"id":"36tfa8l6zr","category":"news","title":"ＢＢＣクリック","fullTitle":"ＢＢＣクリック[二]","detail":" ","start":1560726000000,"end":1560727800000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":["二"]}
+{
+  "id": "36tfa8l6zr",
+  "category": "news",
+  "title": "ＢＢＣクリック",
+  "fullTitle": "ＢＢＣクリック[二]",
+  "detail": " ",
+  "start": 1560726000000,
+  "end": 1560727800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

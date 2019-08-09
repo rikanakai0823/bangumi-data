@@ -1,1 +1,27 @@
-{"id":"36tfa8gumm","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"ジニエブラエア【アンダーウェア】\n◇お知らせ\n0120-00-2828","start":1559435400000,"end":1559437200000,"seconds":1800,"description":"ジニエブラエア【アンダーウェア】","extra":{"お知らせ":"0120-00-2828"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"アンダーウェア","episode":null,"flags":[]}
+{
+  "id": "36tfa8gumm",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "ジニエブラエア【アンダーウェア】\n◇お知らせ\n0120-00-2828",
+  "start": 1559435400000,
+  "end": 1559437200000,
+  "seconds": 1800,
+  "description": "ジニエブラエア【アンダーウェア】",
+  "extra": {
+    "お知らせ": "0120-00-2828"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "アンダーウェア",
+  "episode": null,
+  "flags": []
+}

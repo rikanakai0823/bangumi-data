@@ -1,1 +1,30 @@
-{"id":"3826py43vg","category":"music","title":"月～金お昼のソングショー　ひるソン！","fullTitle":"月～金お昼のソングショー　ひるソン！【The　Super　Ball】[字]","detail":"月曜～金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！\n◇出演者\n【ゲスト】The　Super　Ball\n◇関連情報\n【番組公式ホームページ】\r\nwww.tv-tokyo.co.jp/hiruson/","start":1550630100000,"end":1550630400000,"seconds":300,"description":"月曜～金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！","extra":{"出演者":"【ゲスト】The　Super　Ball","関連情報":"【番組公式ホームページ】\r\nwww.tv-tokyo.co.jp/hiruson/"},"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"The　Super　Ball","episode":null,"flags":["字"]}
+{
+  "id": "3826py43vg",
+  "category": "music",
+  "title": "月～金お昼のソングショー　ひるソン！",
+  "fullTitle": "月～金お昼のソングショー　ひるソン！【The　Super　Ball】[字]",
+  "detail": "月曜～金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！\n◇出演者\n【ゲスト】The　Super　Ball\n◇関連情報\n【番組公式ホームページ】\r\nwww.tv-tokyo.co.jp/hiruson/",
+  "start": 1550630100000,
+  "end": 1550630400000,
+  "seconds": 300,
+  "description": "月曜～金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！",
+  "extra": {
+    "出演者": "【ゲスト】The　Super　Ball",
+    "関連情報": "【番組公式ホームページ】\r\nwww.tv-tokyo.co.jp/hiruson/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "The　Super　Ball",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

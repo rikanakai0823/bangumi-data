@@ -1,1 +1,23 @@
-{"id":"36rdttjuon","category":"information","title":"お買物情報","fullTitle":"お買物情報「ショップチャンネル生放送」","detail":"暮らしに役立つ、選りすぐりの商品をご紹介します。","start":1551520800000,"end":1551524400000,"seconds":3600,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"ショップチャンネル生放送","episode":null,"flags":[]}
+{
+  "id": "36rdttjuon",
+  "category": "information",
+  "title": "お買物情報",
+  "fullTitle": "お買物情報「ショップチャンネル生放送」",
+  "detail": "暮らしに役立つ、選りすぐりの商品をご紹介します。",
+  "start": 1551520800000,
+  "end": 1551524400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "ショップチャンネル生放送",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36tfa8grfd","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":" ","start":1557427200000,"end":1557428100000,"seconds":900,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8grfd",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": " ",
+  "start": 1557427200000,
+  "end": 1557428100000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

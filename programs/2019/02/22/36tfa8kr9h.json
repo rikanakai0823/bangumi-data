@@ -1,1 +1,27 @@
-{"id":"36tfa8kr9h","category":"news","title":"ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ","fullTitle":"ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ","detail":"東京の、各地のニュース・天気情報など詳しくお伝えします。\n◇番組内容    \nニュース▽天気▽交通情報","start":1550816400000,"end":1550817000000,"seconds":600,"description":"東京の、各地のニュース・天気情報など詳しくお伝えします。","extra":{"番組内容    ":"ニュース▽天気▽交通情報"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8kr9h",
+  "category": "news",
+  "title": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ",
+  "fullTitle": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ",
+  "detail": "東京の、各地のニュース・天気情報など詳しくお伝えします。\n◇番組内容    \nニュース▽天気▽交通情報",
+  "start": 1550816400000,
+  "end": 1550817000000,
+  "seconds": 600,
+  "description": "東京の、各地のニュース・天気情報など詳しくお伝えします。",
+  "extra": {
+    "番組内容    ": "ニュース▽天気▽交通情報"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

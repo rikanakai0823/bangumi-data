@@ -1,1 +1,30 @@
-{"id":"36tfa8kqmw","category":"anime","title":"ぽこよ","fullTitle":"ぽこよ[再][二]","detail":"◇出演者      \n【ぽこよ】\r\n星野亜門\r\n【ナレーター】\r\n工藤静香","start":1550389020000,"end":1550389920000,"seconds":900,"description":" ","extra":{"出演者      ":"【ぽこよ】\r\n星野亜門\r\n【ナレーター】\r\n工藤静香"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":["再","二"]}
+{
+  "id": "36tfa8kqmw",
+  "category": "anime",
+  "title": "ぽこよ",
+  "fullTitle": "ぽこよ[再][二]",
+  "detail": "◇出演者      \n【ぽこよ】\r\n星野亜門\r\n【ナレーター】\r\n工藤静香",
+  "start": 1550389020000,
+  "end": 1550389920000,
+  "seconds": 900,
+  "description": " ",
+  "extra": {
+    "出演者      ": "【ぽこよ】\r\n星野亜門\r\n【ナレーター】\r\n工藤静香"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再",
+    "二"
+  ]
+}

@@ -1,1 +1,23 @@
-{"id":"36rdttk4ne","category":"information","title":"ジャパ得　生放送テレショップ　期間限定商品がお得","fullTitle":"ジャパ得　生放送テレショップ　期間限定商品がお得","detail":"佐世保の自社スタジオから生放送でお届けするテレビショッピング！夏本番今欲しい季節商材＆期間限定のお得な商品を多数取り揃えております。生活を豊かにする商品をご紹介","start":1562493600000,"end":1562497200000,"seconds":3600,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttk4ne",
+  "category": "information",
+  "title": "ジャパ得　生放送テレショップ　期間限定商品がお得",
+  "fullTitle": "ジャパ得　生放送テレショップ　期間限定商品がお得",
+  "detail": "佐世保の自社スタジオから生放送でお届けするテレビショッピング！夏本番今欲しい季節商材＆期間限定のお得な商品を多数取り揃えております。生活を豊かにする商品をご紹介",
+  "start": 1562493600000,
+  "end": 1562497200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

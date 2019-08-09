@@ -1,1 +1,27 @@
-{"id":"381jqz0egm","category":"news","title":"ＮＨＫ手話ニュース","fullTitle":"ＮＨＫ手話ニュース[手]","detail":"【キャスター】河合祐三子\n◇出演者\n【キャスター】河合祐三子","start":1556251200000,"end":1556251500000,"seconds":300,"description":"【キャスター】河合祐三子","extra":{"出演者":"【キャスター】河合祐三子"},"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"キャスター","episode":null,"flags":[]}
+{
+  "id": "381jqz0egm",
+  "category": "news",
+  "title": "ＮＨＫ手話ニュース",
+  "fullTitle": "ＮＨＫ手話ニュース[手]",
+  "detail": "【キャスター】河合祐三子\n◇出演者\n【キャスター】河合祐三子",
+  "start": 1556251200000,
+  "end": 1556251500000,
+  "seconds": 300,
+  "description": "【キャスター】河合祐三子",
+  "extra": {
+    "出演者": "【キャスター】河合祐三子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "キャスター",
+  "episode": null,
+  "flags": []
+}

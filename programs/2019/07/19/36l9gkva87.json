@@ -1,1 +1,23 @@
-{"id":"36l9gkva87","category":"information","title":"生活情報３０分ウルトラエイト","fullTitle":"生活情報３０分【内容】ウルトラエイト","detail":"あなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！　【内容】ウルトラエイト　【電話】０１２０－１３１３－００","start":1563501600000,"end":1563503400000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"内容","episode":null,"flags":[]}
+{
+  "id": "36l9gkva87",
+  "category": "information",
+  "title": "生活情報３０分ウルトラエイト",
+  "fullTitle": "生活情報３０分【内容】ウルトラエイト",
+  "detail": "あなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！　【内容】ウルトラエイト　【電話】０１２０－１３１３－００",
+  "start": 1563501600000,
+  "end": 1563503400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": []
+}

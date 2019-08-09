@@ -1,1 +1,28 @@
-{"id":"36h6jr1pms","category":"music","title":"ＳＳＣ５","fullTitle":"ＳＳＣ５[Ｓ]","detail":"人間椅子「無情のスキャット」\n◇番組内容\n人間椅子「無情のスキャット」\n◇出演者\n人間椅子「無情のスキャット」","start":1559581500000,"end":1559581800000,"seconds":300,"description":"人間椅子「無情のスキャット」","extra":{"番組内容":"人間椅子「無情のスキャット」","出演者":"人間椅子「無情のスキャット」"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"無情のスキャット","episode":null,"flags":[]}
+{
+  "id": "36h6jr1pms",
+  "category": "music",
+  "title": "ＳＳＣ５",
+  "fullTitle": "ＳＳＣ５[Ｓ]",
+  "detail": "人間椅子「無情のスキャット」\n◇番組内容\n人間椅子「無情のスキャット」\n◇出演者\n人間椅子「無情のスキャット」",
+  "start": 1559581500000,
+  "end": 1559581800000,
+  "seconds": 300,
+  "description": "人間椅子「無情のスキャット」",
+  "extra": {
+    "番組内容": "人間椅子「無情のスキャット」",
+    "出演者": "人間椅子「無情のスキャット」"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "無情のスキャット",
+  "episode": null,
+  "flags": []
+}

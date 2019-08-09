@@ -1,1 +1,23 @@
-{"id":"36h6jr1m9d","category":"music","title":"四季　彩の国紀行","fullTitle":"四季　彩の国紀行[Ｓ]","detail":"芝桜の丘（秩父市）　県内の四季の映像を音楽にあわせて紹介します。","start":1554295500000,"end":1554296400000,"seconds":900,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1m9d",
+  "category": "music",
+  "title": "四季　彩の国紀行",
+  "fullTitle": "四季　彩の国紀行[Ｓ]",
+  "detail": "芝桜の丘（秩父市）　県内の四季の映像を音楽にあわせて紹介します。",
+  "start": 1554295500000,
+  "end": 1554296400000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

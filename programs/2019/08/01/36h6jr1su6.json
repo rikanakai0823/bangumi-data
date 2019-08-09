@@ -1,1 +1,28 @@
-{"id":"36h6jr1su6","category":"music","title":"若山かずさと一条聖矢の歌謡音楽館","fullTitle":"若山かずさと一条聖矢の歌謡音楽館[Ｓ]","detail":"ハン・ジナ\n◇番組内容\nハン・ジナ\n◇出演者\nハン・ジナ","start":1564605000000,"end":1564606800000,"seconds":1800,"description":"ハン・ジナ","extra":{"番組内容":"ハン・ジナ","出演者":"ハン・ジナ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1su6",
+  "category": "music",
+  "title": "若山かずさと一条聖矢の歌謡音楽館",
+  "fullTitle": "若山かずさと一条聖矢の歌謡音楽館[Ｓ]",
+  "detail": "ハン・ジナ\n◇番組内容\nハン・ジナ\n◇出演者\nハン・ジナ",
+  "start": 1564605000000,
+  "end": 1564606800000,
+  "seconds": 1800,
+  "description": "ハン・ジナ",
+  "extra": {
+    "番組内容": "ハン・ジナ",
+    "出演者": "ハン・ジナ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

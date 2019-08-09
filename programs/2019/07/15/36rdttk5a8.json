@@ -1,1 +1,23 @@
-{"id":"36rdttk5a8","category":"information","title":"ジャパ得　生放送テレショップ　本日限りのチャレンジデー開催！","fullTitle":"ジャパ得　生放送テレショップ　本日限りのチャレンジデー開催！","detail":"１日１商品限りの衝撃特価！ありえないくらいの限界価格にチャレンジします！受付は本日夜１２時まで","start":1563184800000,"end":1563191700000,"seconds":6900,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttk5a8",
+  "category": "information",
+  "title": "ジャパ得　生放送テレショップ　本日限りのチャレンジデー開催！",
+  "fullTitle": "ジャパ得　生放送テレショップ　本日限りのチャレンジデー開催！",
+  "detail": "１日１商品限りの衝撃特価！ありえないくらいの限界価格にチャレンジします！受付は本日夜１２時まで",
+  "start": 1563184800000,
+  "end": 1563191700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

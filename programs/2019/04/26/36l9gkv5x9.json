@@ -1,1 +1,23 @@
-{"id":"36l9gkv5x9","category":"sports","title":"金曜競馬ＣＬＵＢ▽日曜京都　１１Ｒ天皇賞・春（ＧⅠ）他","fullTitle":"金曜競馬ＣＬＵＢ▽日曜京都　１１Ｒ天皇賞・春（ＧⅠ）他","detail":"日曜京都１１Ｒ　天皇賞・春（ＧⅠ）　土曜東京１１Ｒ　青葉賞（ＧⅡ）　月曜新潟１１Ｒ　新潟大賞典（ＧⅢ）","start":1556280000000,"end":1556281800000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv5x9",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜京都　１１Ｒ天皇賞・春（ＧⅠ）他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜京都　１１Ｒ天皇賞・春（ＧⅠ）他",
+  "detail": "日曜京都１１Ｒ　天皇賞・春（ＧⅠ）　土曜東京１１Ｒ　青葉賞（ＧⅡ）　月曜新潟１１Ｒ　新潟大賞典（ＧⅢ）",
+  "start": 1556280000000,
+  "end": 1556281800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

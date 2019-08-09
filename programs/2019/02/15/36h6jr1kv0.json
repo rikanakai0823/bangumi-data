@@ -1,1 +1,27 @@
-{"id":"36h6jr1kv0","category":"information","title":"ＴＶショッピング・ＵＭＩウェルネス　テレビショッピング","fullTitle":"ＴＶショッピング・ＵＭＩウェルネス　テレビショッピング[Ｓ]","detail":"◇番組内容\nＮ－アセチルグルコサミン（機能性表示食品）　　　　　　　　　　　　　　　　　　　０１２０－８８－９９－８１","start":1550192400000,"end":1550194200000,"seconds":1800,"description":"","extra":{"番組内容":"Ｎ－アセチルグルコサミン（機能性表示食品）　　　　　　　　　　　　　　　　　　　０１２０－８８－９９－８１"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kv0",
+  "category": "information",
+  "title": "ＴＶショッピング・ＵＭＩウェルネス　テレビショッピング",
+  "fullTitle": "ＴＶショッピング・ＵＭＩウェルネス　テレビショッピング[Ｓ]",
+  "detail": "◇番組内容\nＮ－アセチルグルコサミン（機能性表示食品）　　　　　　　　　　　　　　　　　　　０１２０－８８－９９－８１",
+  "start": 1550192400000,
+  "end": 1550194200000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "Ｎ－アセチルグルコサミン（機能性表示食品）　　　　　　　　　　　　　　　　　　　０１２０－８８－９９－８１"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

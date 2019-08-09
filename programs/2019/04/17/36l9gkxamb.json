@@ -1,1 +1,23 @@
-{"id":"36l9gkxamb","category":"sports","title":"マリーンズナイター▽千葉ロッテ×福岡ソフトバンク","fullTitle":"マリーンズナイター▽千葉ロッテ×福岡ソフトバンク","detail":"【実況】黒沢幸司　【解説】倉持　明　【球場】ＺＯＺＯマリン","start":1555504200000,"end":1555507800000,"seconds":3600,"channel":{"type":"GR","channel":"30","name":"チバテレ２","id":"1hgoknt","sid":27705,"nid":32327,"hasLogoData":true,"n":10},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkxamb",
+  "category": "sports",
+  "title": "マリーンズナイター▽千葉ロッテ×福岡ソフトバンク",
+  "fullTitle": "マリーンズナイター▽千葉ロッテ×福岡ソフトバンク",
+  "detail": "【実況】黒沢幸司　【解説】倉持　明　【球場】ＺＯＺＯマリン",
+  "start": 1555504200000,
+  "end": 1555507800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

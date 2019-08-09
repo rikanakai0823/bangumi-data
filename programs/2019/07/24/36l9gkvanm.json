@@ -1,1 +1,25 @@
-{"id":"36l9gkvanm","category":"documentary","title":"匝瑳市八日市場八重垣神社祇園祭","fullTitle":"匝瑳市八日市場八重垣神社祇園祭[再]","detail":"８月４日・５日に行われた「八日市場八重垣神社祇園祭」の模様をお送りします。","start":1563949800000,"end":1563953100000,"seconds":3300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"八日市場八重垣神社祇園祭","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkvanm",
+  "category": "documentary",
+  "title": "匝瑳市八日市場八重垣神社祇園祭",
+  "fullTitle": "匝瑳市八日市場八重垣神社祇園祭[再]",
+  "detail": "８月４日・５日に行われた「八日市場八重垣神社祇園祭」の模様をお送りします。",
+  "start": 1563949800000,
+  "end": 1563953100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "八日市場八重垣神社祇園祭",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

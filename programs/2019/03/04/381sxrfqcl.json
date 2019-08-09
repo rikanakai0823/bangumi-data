@@ -1,1 +1,23 @@
-{"id":"381sxrfqcl","category":"etc","title":"オープニング","fullTitle":"オープニング","detail":"","start":1551639540000,"end":1551639600000,"seconds":60,"channel":{"type":"GR","channel":"22","name":"ＴＢＳ１","id":"1i5727s","sid":1048,"nid":32739,"hasLogoData":true,"n":22},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381sxrfqcl",
+  "category": "etc",
+  "title": "オープニング",
+  "fullTitle": "オープニング",
+  "detail": "",
+  "start": 1551639540000,
+  "end": 1551639600000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

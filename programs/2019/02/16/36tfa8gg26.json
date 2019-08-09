@@ -1,1 +1,27 @@
-{"id":"36tfa8gg26","category":"information","title":"お買い物情報","fullTitle":"お買い物情報","detail":"Ｓｕｈａｄａｂｉクッションファンデーション【化粧品】\n◇お知らせ\n0120-13-1818","start":1550260800000,"end":1550262600000,"seconds":1800,"description":"Ｓｕｈａｄａｂｉクッションファンデーション【化粧品】","extra":{"お知らせ":"0120-13-1818"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"化粧品","episode":null,"flags":[]}
+{
+  "id": "36tfa8gg26",
+  "category": "information",
+  "title": "お買い物情報",
+  "fullTitle": "お買い物情報",
+  "detail": "Ｓｕｈａｄａｂｉクッションファンデーション【化粧品】\n◇お知らせ\n0120-13-1818",
+  "start": 1550260800000,
+  "end": 1550262600000,
+  "seconds": 1800,
+  "description": "Ｓｕｈａｄａｂｉクッションファンデーション【化粧品】",
+  "extra": {
+    "お知らせ": "0120-13-1818"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "化粧品",
+  "episode": null,
+  "flags": []
+}

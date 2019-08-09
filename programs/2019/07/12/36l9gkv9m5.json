@@ -1,1 +1,23 @@
-{"id":"36l9gkv9m5","category":"anime","title":"キャプテン▽丸井キャプテン奮戦","fullTitle":"キャプテン▽丸井キャプテン奮戦","detail":"第１３話「丸井キャプテン奮戦」（全２６話）","start":1562918400000,"end":1562920200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"丸井キャプテン奮戦","episode":13,"flags":[]}
+{
+  "id": "36l9gkv9m5",
+  "category": "anime",
+  "title": "キャプテン▽丸井キャプテン奮戦",
+  "fullTitle": "キャプテン▽丸井キャプテン奮戦",
+  "detail": "第１３話「丸井キャプテン奮戦」（全２６話）",
+  "start": 1562918400000,
+  "end": 1562920200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "丸井キャプテン奮戦",
+  "episode": 13,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36tfa8glaa","category":"information","title":"お買い物情報","fullTitle":"お買い物情報","detail":"Ｃｏｙｏｒｉ美容液オイル・化粧水【化粧品】\n◇お知らせ\n0120-448-998","start":1553477400000,"end":1553479200000,"seconds":1800,"description":"Ｃｏｙｏｒｉ美容液オイル・化粧水【化粧品】","extra":{"お知らせ":"0120-448-998"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"化粧品","episode":null,"flags":[]}
+{
+  "id": "36tfa8glaa",
+  "category": "information",
+  "title": "お買い物情報",
+  "fullTitle": "お買い物情報",
+  "detail": "Ｃｏｙｏｒｉ美容液オイル・化粧水【化粧品】\n◇お知らせ\n0120-448-998",
+  "start": 1553477400000,
+  "end": 1553479200000,
+  "seconds": 1800,
+  "description": "Ｃｏｙｏｒｉ美容液オイル・化粧水【化粧品】",
+  "extra": {
+    "お知らせ": "0120-448-998"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "化粧品",
+  "episode": null,
+  "flags": []
+}

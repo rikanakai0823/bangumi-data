@@ -1,1 +1,25 @@
-{"id":"36l9gkv3a7","category":"documentary","title":"ちば見聞録","fullTitle":"ちば見聞録[再]","detail":"稲毛物語（千葉）　【内容】稲毛浅間神社や、ワイン王・神谷伝兵衛の別荘など、稲毛にまつわる様々な物語を紹介。","start":1551607200000,"end":1551608700000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"内容","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv3a7",
+  "category": "documentary",
+  "title": "ちば見聞録",
+  "fullTitle": "ちば見聞録[再]",
+  "detail": "稲毛物語（千葉）　【内容】稲毛浅間神社や、ワイン王・神谷伝兵衛の別荘など、稲毛にまつわる様々な物語を紹介。",
+  "start": 1551607200000,
+  "end": 1551608700000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

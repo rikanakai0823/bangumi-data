@@ -1,1 +1,23 @@
-{"id":"36tfa8ky7x","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"エステアップＶ【美顔器】","start":1555142400000,"end":1555144200000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"美顔器","episode":null,"flags":[]}
+{
+  "id": "36tfa8ky7x",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "エステアップＶ【美顔器】",
+  "start": 1555142400000,
+  "end": 1555144200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "美顔器",
+  "episode": null,
+  "flags": []
+}

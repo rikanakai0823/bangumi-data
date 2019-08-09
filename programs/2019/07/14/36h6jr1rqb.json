@@ -1,1 +1,23 @@
-{"id":"36h6jr1rqb","category":"news","title":"ようこそ　さいたま市議会へ","fullTitle":"ようこそ　さいたま市議会へ[手][Ｓ]","detail":"令和元度　６月定例会","start":1563098400000,"end":1563100200000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1rqb",
+  "category": "news",
+  "title": "ようこそ　さいたま市議会へ",
+  "fullTitle": "ようこそ　さいたま市議会へ[手][Ｓ]",
+  "detail": "令和元度　６月定例会",
+  "start": 1563098400000,
+  "end": 1563100200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

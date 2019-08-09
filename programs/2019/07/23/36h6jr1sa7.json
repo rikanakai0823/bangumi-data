@@ -1,1 +1,28 @@
-{"id":"36h6jr1sa7","category":"music","title":"清水節子と安藤栄子の歌日記","fullTitle":"清水節子と安藤栄子の歌日記[Ｓ]","detail":"山口かおる\n◇番組内容\n山口かおる\n◇出演者\n山口かおる","start":1563838200000,"end":1563840000000,"seconds":1800,"description":"山口かおる","extra":{"番組内容":"山口かおる","出演者":"山口かおる"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1sa7",
+  "category": "music",
+  "title": "清水節子と安藤栄子の歌日記",
+  "fullTitle": "清水節子と安藤栄子の歌日記[Ｓ]",
+  "detail": "山口かおる\n◇番組内容\n山口かおる\n◇出演者\n山口かおる",
+  "start": 1563838200000,
+  "end": 1563840000000,
+  "seconds": 1800,
+  "description": "山口かおる",
+  "extra": {
+    "番組内容": "山口かおる",
+    "出演者": "山口かおる"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

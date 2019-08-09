@@ -1,1 +1,28 @@
-{"id":"36h6jr1ox4","category":"music","title":"水沢明美と藍ようこの歌謡音楽館","fullTitle":"水沢明美と藍ようこの歌謡音楽館[Ｓ]","detail":"門松みゆき\n◇番組内容\n門松みゆき\n◇出演者\n門松みゆき","start":1558384200000,"end":1558386000000,"seconds":1800,"description":"門松みゆき","extra":{"番組内容":"門松みゆき","出演者":"門松みゆき"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ox4",
+  "category": "music",
+  "title": "水沢明美と藍ようこの歌謡音楽館",
+  "fullTitle": "水沢明美と藍ようこの歌謡音楽館[Ｓ]",
+  "detail": "門松みゆき\n◇番組内容\n門松みゆき\n◇出演者\n門松みゆき",
+  "start": 1558384200000,
+  "end": 1558386000000,
+  "seconds": 1800,
+  "description": "門松みゆき",
+  "extra": {
+    "番組内容": "門松みゆき",
+    "出演者": "門松みゆき"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

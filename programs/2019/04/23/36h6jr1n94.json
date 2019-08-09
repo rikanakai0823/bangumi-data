@@ -1,1 +1,28 @@
-{"id":"36h6jr1n94","category":"music","title":"水沢明美と藍ようこの歌謡音楽館","fullTitle":"水沢明美と藍ようこの歌謡音楽館[Ｓ]","detail":"大木あつし\n◇番組内容\n大木あつし\n◇出演者\n大木あつし","start":1555965000000,"end":1555966800000,"seconds":1800,"description":"大木あつし","extra":{"番組内容":"大木あつし","出演者":"大木あつし"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1n94",
+  "category": "music",
+  "title": "水沢明美と藍ようこの歌謡音楽館",
+  "fullTitle": "水沢明美と藍ようこの歌謡音楽館[Ｓ]",
+  "detail": "大木あつし\n◇番組内容\n大木あつし\n◇出演者\n大木あつし",
+  "start": 1555965000000,
+  "end": 1555966800000,
+  "seconds": 1800,
+  "description": "大木あつし",
+  "extra": {
+    "番組内容": "大木あつし",
+    "出演者": "大木あつし"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36tfa8gztz","category":"hobby","title":"ふるさと食堂","fullTitle":"ふるさと食堂","detail":"長野の味・高知の味","start":1562799600000,"end":1562801400000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8gztz",
+  "category": "hobby",
+  "title": "ふるさと食堂",
+  "fullTitle": "ふるさと食堂",
+  "detail": "長野の味・高知の味",
+  "start": 1562799600000,
+  "end": 1562801400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

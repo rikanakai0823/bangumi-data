@@ -1,1 +1,23 @@
-{"id":"36rdttk1cc","category":"news","title":"ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ","fullTitle":"ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「日本大学」","detail":"県内の天気予報","start":1558706100000,"end":1558706400000,"seconds":300,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"日本大学","episode":null,"flags":[]}
+{
+  "id": "36rdttk1cc",
+  "category": "news",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ",
+  "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「日本大学」",
+  "detail": "県内の天気予報",
+  "start": 1558706100000,
+  "end": 1558706400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "日本大学",
+  "episode": null,
+  "flags": []
+}

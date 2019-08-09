@@ -1,1 +1,27 @@
-{"id":"36h6jr1sdz","category":"information","title":"ＴＶショッピング・バルコスＴＶショッピング","fullTitle":"ＴＶショッピング・バルコスＴＶショッピング[Ｓ]","detail":"バルコスＴＶショッピング\n◇番組内容\nバルコスＧＬウオレット　　　　　　　　　０１２０－１１１－９５２","start":1562131800000,"end":1562133600000,"seconds":1800,"description":"バルコスＴＶショッピング","extra":{"番組内容":"バルコスＧＬウオレット　　　　　　　　　０１２０－１１１－９５２"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1sdz",
+  "category": "information",
+  "title": "ＴＶショッピング・バルコスＴＶショッピング",
+  "fullTitle": "ＴＶショッピング・バルコスＴＶショッピング[Ｓ]",
+  "detail": "バルコスＴＶショッピング\n◇番組内容\nバルコスＧＬウオレット　　　　　　　　　０１２０－１１１－９５２",
+  "start": 1562131800000,
+  "end": 1562133600000,
+  "seconds": 1800,
+  "description": "バルコスＴＶショッピング",
+  "extra": {
+    "番組内容": "バルコスＧＬウオレット　　　　　　　　　０１２０－１１１－９５２"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

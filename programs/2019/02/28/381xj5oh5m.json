@@ -1,1 +1,25 @@
-{"id":"381xj5oh5m","category":"drama","title":"スキャンダル専門弁護士　ＱＵＥＥＮ＜Ｗナイト＞","fullTitle":"スキャンダル専門弁護士　ＱＵＥＥＮ＜Ｗナイト＞　＃０７[再]","detail":"","start":1551290400000,"end":1551293700000,"seconds":3300,"channel":{"type":"GR","channel":"21","name":"フジテレビ","id":"1i597ds","sid":1056,"nid":32740,"hasLogoData":true,"n":28},"subTitle":"","episode":7,"flags":["再"]}
+{
+  "id": "381xj5oh5m",
+  "category": "drama",
+  "title": "スキャンダル専門弁護士　ＱＵＥＥＮ＜Ｗナイト＞",
+  "fullTitle": "スキャンダル専門弁護士　ＱＵＥＥＮ＜Ｗナイト＞　＃０７[再]",
+  "detail": "",
+  "start": 1551290400000,
+  "end": 1551293700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": [
+    "再"
+  ]
+}

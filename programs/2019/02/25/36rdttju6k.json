@@ -1,1 +1,23 @@
-{"id":"36rdttju6k","category":"information","title":"私の正直品質。","fullTitle":"私の正直品質。","detail":"　","start":1551097680000,"end":1551097800000,"seconds":120,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttju6k",
+  "category": "information",
+  "title": "私の正直品質。",
+  "fullTitle": "私の正直品質。",
+  "detail": "　",
+  "start": 1551097680000,
+  "end": 1551097800000,
+  "seconds": 120,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

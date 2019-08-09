@@ -1,1 +1,28 @@
-{"id":"36h6jr1szr","category":"music","title":"藤原浩と鈴木和華の朝ナビ歌謡曲","fullTitle":"藤原浩と鈴木和華の朝ナビ歌謡曲[Ｓ]","detail":"知里\n◇番組内容\n知里\n◇出演者\n知里","start":1564863300000,"end":1564864200000,"seconds":900,"description":"知里","extra":{"番組内容":"知里","出演者":"知里"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1szr",
+  "category": "music",
+  "title": "藤原浩と鈴木和華の朝ナビ歌謡曲",
+  "fullTitle": "藤原浩と鈴木和華の朝ナビ歌謡曲[Ｓ]",
+  "detail": "知里\n◇番組内容\n知里\n◇出演者\n知里",
+  "start": 1564863300000,
+  "end": 1564864200000,
+  "seconds": 900,
+  "description": "知里",
+  "extra": {
+    "番組内容": "知里",
+    "出演者": "知里"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

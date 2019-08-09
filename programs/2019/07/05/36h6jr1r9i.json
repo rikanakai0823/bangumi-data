@@ -1,1 +1,27 @@
-{"id":"36h6jr1r9i","category":"drama","title":"長七郎江戸日記","fullTitle":"長七郎江戸日記","detail":"風流みだれ囃子\n◇出演者\n里見浩太朗　下川辰平　野川由美子　加藤純平　火野正平　三田明　伏見尚子　高品格　ほか","start":1562297700000,"end":1562301000000,"seconds":3300,"description":"風流みだれ囃子","extra":{"出演者":"里見浩太朗　下川辰平　野川由美子　加藤純平　火野正平　三田明　伏見尚子　高品格　ほか"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1r9i",
+  "category": "drama",
+  "title": "長七郎江戸日記",
+  "fullTitle": "長七郎江戸日記",
+  "detail": "風流みだれ囃子\n◇出演者\n里見浩太朗　下川辰平　野川由美子　加藤純平　火野正平　三田明　伏見尚子　高品格　ほか",
+  "start": 1562297700000,
+  "end": 1562301000000,
+  "seconds": 3300,
+  "description": "風流みだれ囃子",
+  "extra": {
+    "出演者": "里見浩太朗　下川辰平　野川由美子　加藤純平　火野正平　三田明　伏見尚子　高品格　ほか"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkv8sh","category":"music","title":"ＨＯＴ　ＷＡＶＥ▽ばってん少女隊","fullTitle":"ＨＯＴ　ＷＡＶＥ▽ばってん少女隊","detail":"ばってん少女隊（希山愛、上田理子、春乃きいな、西垣有彩、星野蒼良）","start":1561478400000,"end":1561480200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv8sh",
+  "category": "music",
+  "title": "ＨＯＴ　ＷＡＶＥ▽ばってん少女隊",
+  "fullTitle": "ＨＯＴ　ＷＡＶＥ▽ばってん少女隊",
+  "detail": "ばってん少女隊（希山愛、上田理子、春乃きいな、西垣有彩、星野蒼良）",
+  "start": 1561478400000,
+  "end": 1561480200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

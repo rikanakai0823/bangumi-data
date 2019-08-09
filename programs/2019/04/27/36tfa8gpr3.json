@@ -1,1 +1,23 @@
-{"id":"36tfa8gpr3","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"素肌つるつるセット【化粧品】","start":1556312400000,"end":1556314200000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"化粧品","episode":null,"flags":[]}
+{
+  "id": "36tfa8gpr3",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "素肌つるつるセット【化粧品】",
+  "start": 1556312400000,
+  "end": 1556314200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "化粧品",
+  "episode": null,
+  "flags": []
+}

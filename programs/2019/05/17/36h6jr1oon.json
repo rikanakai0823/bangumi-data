@@ -1,1 +1,28 @@
-{"id":"36h6jr1oon","category":"music","title":"歌謡アプリ","fullTitle":"歌謡アプリ[Ｓ]","detail":"竹島宏\n◇番組内容\n竹島宏\n◇出演者\n竹島宏","start":1558072800000,"end":1558073100000,"seconds":300,"description":"竹島宏","extra":{"番組内容":"竹島宏","出演者":"竹島宏"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1oon",
+  "category": "music",
+  "title": "歌謡アプリ",
+  "fullTitle": "歌謡アプリ[Ｓ]",
+  "detail": "竹島宏\n◇番組内容\n竹島宏\n◇出演者\n竹島宏",
+  "start": 1558072800000,
+  "end": 1558073100000,
+  "seconds": 300,
+  "description": "竹島宏",
+  "extra": {
+    "番組内容": "竹島宏",
+    "出演者": "竹島宏"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

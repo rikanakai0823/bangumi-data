@@ -1,1 +1,25 @@
-{"id":"36h6jr1kxv","category":"anime","title":"宇宙戦隊キュウレンジャー","fullTitle":"宇宙戦隊キュウレンジャー[Ｓ][新]","detail":"宇宙一のスーパースター","start":1552104000000,"end":1552105800000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":1,"flags":["新"]}
+{
+  "id": "36h6jr1kxv",
+  "category": "anime",
+  "title": "宇宙戦隊キュウレンジャー",
+  "fullTitle": "宇宙戦隊キュウレンジャー[Ｓ][新]",
+  "detail": "宇宙一のスーパースター",
+  "start": 1552104000000,
+  "end": 1552105800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

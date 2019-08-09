@@ -1,1 +1,27 @@
-{"id":"38224jvjfl","category":"information","title":"よふかしゴーちゃん。","fullTitle":"よふかしゴーちゃん。","detail":"６／３０（日）よる９時からは『映画　君の名は。』\r\n「天気の子」公開記念！日本映画史を変えた大ヒット作を放送。公開記念だから実現した、テレビ初となる仕掛けが満載！\n◇◇おしらせ\n☆『映画　君の名は。』番組ＨＰ\r\n　https://www.tv-asahi.co.jp/kiminona/","start":1561572540000,"end":1561572900000,"seconds":360,"description":"６／３０（日）よる９時からは『映画　君の名は。』\r\n「天気の子」公開記念！日本映画史を変えた大ヒット作を放送。公開記念だから実現した、テレビ初となる仕掛けが満載！","extra":{"◇おしらせ":"☆『映画　君の名は。』番組ＨＰ\r\n　https://www.tv-asahi.co.jp/kiminona/"},"channel":{"type":"GR","channel":"24","name":"テレビ朝日","id":"1i5bcjs","sid":1064,"nid":32741,"hasLogoData":true,"n":18},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "38224jvjfl",
+  "category": "information",
+  "title": "よふかしゴーちゃん。",
+  "fullTitle": "よふかしゴーちゃん。",
+  "detail": "６／３０（日）よる９時からは『映画　君の名は。』\r\n「天気の子」公開記念！日本映画史を変えた大ヒット作を放送。公開記念だから実現した、テレビ初となる仕掛けが満載！\n◇◇おしらせ\n☆『映画　君の名は。』番組ＨＰ\r\n　https://www.tv-asahi.co.jp/kiminona/",
+  "start": 1561572540000,
+  "end": 1561572900000,
+  "seconds": 360,
+  "description": "６／３０（日）よる９時からは『映画　君の名は。』\r\n「天気の子」公開記念！日本映画史を変えた大ヒット作を放送。公開記念だから実現した、テレビ初となる仕掛けが満載！",
+  "extra": {
+    "◇おしらせ": "☆『映画　君の名は。』番組ＨＰ\r\n　https://www.tv-asahi.co.jp/kiminona/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

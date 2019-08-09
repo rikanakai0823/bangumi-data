@@ -1,1 +1,23 @@
-{"id":"3826py459n","category":"news","title":"ガイド","fullTitle":"ガイド","detail":"","start":1553933700000,"end":1553934000000,"seconds":300,"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "3826py459n",
+  "category": "news",
+  "title": "ガイド",
+  "fullTitle": "ガイド",
+  "detail": "",
+  "start": 1553933700000,
+  "end": 1553934000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

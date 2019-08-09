@@ -1,1 +1,28 @@
-{"id":"36h6jr1mf2","category":"sports","title":"ＢＡＣＨプラザ","fullTitle":"ＢＡＣＨプラザ[Ｓ]","detail":"「ボートレース戸田」\n◇番組内容\n▽ボートレース戸田：第３７回関東日刊紙競艇記者クラブ杯・1 日目\n◇出演者\n堂前英男","start":1554557400000,"end":1554559200000,"seconds":1800,"description":"「ボートレース戸田」","extra":{"番組内容":"▽ボートレース戸田：第３７回関東日刊紙競艇記者クラブ杯・1 日目","出演者":"堂前英男"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"ボートレース戸田","episode":null,"flags":[]}
+{
+  "id": "36h6jr1mf2",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
+  "detail": "「ボートレース戸田」\n◇番組内容\n▽ボートレース戸田：第３７回関東日刊紙競艇記者クラブ杯・1 日目\n◇出演者\n堂前英男",
+  "start": 1554557400000,
+  "end": 1554559200000,
+  "seconds": 1800,
+  "description": "「ボートレース戸田」",
+  "extra": {
+    "番組内容": "▽ボートレース戸田：第３７回関東日刊紙競艇記者クラブ杯・1 日目",
+    "出演者": "堂前英男"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "ボートレース戸田",
+  "episode": null,
+  "flags": []
+}

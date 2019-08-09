@@ -1,1 +1,28 @@
-{"id":"36h6jr1otn","category":"music","title":"西川ひとみの歌日和","fullTitle":"西川ひとみの歌日和[Ｓ]","detail":"三丘翔太\n◇番組内容\n三丘翔太\n◇出演者\nＭＣ：西川ひとみ","start":1558224000000,"end":1558224900000,"seconds":900,"description":"三丘翔太","extra":{"番組内容":"三丘翔太","出演者":"ＭＣ：西川ひとみ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1otn",
+  "category": "music",
+  "title": "西川ひとみの歌日和",
+  "fullTitle": "西川ひとみの歌日和[Ｓ]",
+  "detail": "三丘翔太\n◇番組内容\n三丘翔太\n◇出演者\nＭＣ：西川ひとみ",
+  "start": 1558224000000,
+  "end": 1558224900000,
+  "seconds": 900,
+  "description": "三丘翔太",
+  "extra": {
+    "番組内容": "三丘翔太",
+    "出演者": "ＭＣ：西川ひとみ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

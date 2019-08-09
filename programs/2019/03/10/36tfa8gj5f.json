@@ -1,1 +1,27 @@
-{"id":"36tfa8gj5f","category":"anime","title":"ソードアート・オンライン　アリシゼーション","fullTitle":"ソードアート・オンライン　アリシゼーション　＃２１","detail":"◇出演者\n【キリト(桐ヶ谷和人)】松岡禎丞\r\n【アスナ(結城明日奈)】戸松遥\r\n【アリス】茅野愛衣\r\n【ユージオ】島崎信長","start":1552143600000,"end":1552145400000,"seconds":1800,"description":" ","extra":{"出演者":"【キリト(桐ヶ谷和人)】松岡禎丞\r\n【アスナ(結城明日奈)】戸松遥\r\n【アリス】茅野愛衣\r\n【ユージオ】島崎信長"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":21,"flags":[]}
+{
+  "id": "36tfa8gj5f",
+  "category": "anime",
+  "title": "ソードアート・オンライン　アリシゼーション",
+  "fullTitle": "ソードアート・オンライン　アリシゼーション　＃２１",
+  "detail": "◇出演者\n【キリト(桐ヶ谷和人)】松岡禎丞\r\n【アスナ(結城明日奈)】戸松遥\r\n【アリス】茅野愛衣\r\n【ユージオ】島崎信長",
+  "start": 1552143600000,
+  "end": 1552145400000,
+  "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "出演者": "【キリト(桐ヶ谷和人)】松岡禎丞\r\n【アスナ(結城明日奈)】戸松遥\r\n【アリス】茅野愛衣\r\n【ユージオ】島崎信長"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": 21,
+  "flags": []
+}

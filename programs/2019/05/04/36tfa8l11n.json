@@ -1,1 +1,27 @@
-{"id":"36tfa8l11n","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"ここひえ【小型サーキュレーター】\n◇お知らせ\n0120-371-127","start":1556938800000,"end":1556940600000,"seconds":1800,"description":"ここひえ【小型サーキュレーター】","extra":{"お知らせ":"0120-371-127"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"小型サーキュレーター","episode":null,"flags":[]}
+{
+  "id": "36tfa8l11n",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "ここひえ【小型サーキュレーター】\n◇お知らせ\n0120-371-127",
+  "start": 1556938800000,
+  "end": 1556940600000,
+  "seconds": 1800,
+  "description": "ここひえ【小型サーキュレーター】",
+  "extra": {
+    "お知らせ": "0120-371-127"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "小型サーキュレーター",
+  "episode": null,
+  "flags": []
+}

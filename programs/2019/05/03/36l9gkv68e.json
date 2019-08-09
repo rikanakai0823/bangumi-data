@@ -1,1 +1,23 @@
-{"id":"36l9gkv68e","category":"music","title":"西川ひとみの歌日和竹村こずえ","fullTitle":"西川ひとみの歌日和【ゲスト】竹村こずえ","detail":"【ゲスト】竹村こずえ♪涙の鏡♪　【推薦曲】西川ひとみ♪海峡冬つばめ♪","start":1556839800000,"end":1556840700000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36l9gkv68e",
+  "category": "music",
+  "title": "西川ひとみの歌日和竹村こずえ",
+  "fullTitle": "西川ひとみの歌日和【ゲスト】竹村こずえ",
+  "detail": "【ゲスト】竹村こずえ♪涙の鏡♪　【推薦曲】西川ひとみ♪海峡冬つばめ♪",
+  "start": 1556839800000,
+  "end": 1556840700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

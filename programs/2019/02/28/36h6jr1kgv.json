@@ -1,1 +1,28 @@
-{"id":"36h6jr1kgv","category":"music","title":"若山かずさと中村仁美の歌謡音楽館","fullTitle":"若山かずさと中村仁美の歌謡音楽館[Ｓ]","detail":"松前ひろ子\n◇番組内容\n松前ひろ子\n◇出演者\n松前ひろ子","start":1551299400000,"end":1551301200000,"seconds":1800,"description":"松前ひろ子","extra":{"番組内容":"松前ひろ子","出演者":"松前ひろ子"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kgv",
+  "category": "music",
+  "title": "若山かずさと中村仁美の歌謡音楽館",
+  "fullTitle": "若山かずさと中村仁美の歌謡音楽館[Ｓ]",
+  "detail": "松前ひろ子\n◇番組内容\n松前ひろ子\n◇出演者\n松前ひろ子",
+  "start": 1551299400000,
+  "end": 1551301200000,
+  "seconds": 1800,
+  "description": "松前ひろ子",
+  "extra": {
+    "番組内容": "松前ひろ子",
+    "出演者": "松前ひろ子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

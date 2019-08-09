@@ -1,1 +1,23 @@
-{"id":"36tfa8ghlb","category":"variety","title":"京都　恋　検定","fullTitle":"京都　恋　検定","detail":" ","start":1551193200000,"end":1551195000000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8ghlb",
+  "category": "variety",
+  "title": "京都　恋　検定",
+  "fullTitle": "京都　恋　検定",
+  "detail": " ",
+  "start": 1551193200000,
+  "end": 1551195000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

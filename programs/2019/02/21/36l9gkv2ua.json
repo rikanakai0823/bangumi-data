@@ -1,1 +1,23 @@
-{"id":"36l9gkv2ua","category":"news","title":"ＮＥＷＳチバ６００大角茉里","fullTitle":"ＮＥＷＳチバ６００【出演】大角茉里","detail":"【内容】県内ニュース　【出演】大角茉里","start":1550739600000,"end":1550740500000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"出演","episode":null,"flags":[]}
+{
+  "id": "36l9gkv2ua",
+  "category": "news",
+  "title": "ＮＥＷＳチバ６００大角茉里",
+  "fullTitle": "ＮＥＷＳチバ６００【出演】大角茉里",
+  "detail": "【内容】県内ニュース　【出演】大角茉里",
+  "start": 1550739600000,
+  "end": 1550740500000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": []
+}

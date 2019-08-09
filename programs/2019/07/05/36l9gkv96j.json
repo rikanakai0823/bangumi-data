@@ -1,1 +1,23 @@
-{"id":"36l9gkv96j","category":"music","title":"西川ひとみの歌日和なでしこ姉妹","fullTitle":"西川ひとみの歌日和【ゲスト】なでしこ姉妹","detail":"【ゲスト】なでしこ姉妹♪ハイヤが聞こえる港町♪　【推薦曲】加宮ゆうき♪Ｔｏｋｙｏカーニバル♪","start":1562283000000,"end":1562283900000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36l9gkv96j",
+  "category": "music",
+  "title": "西川ひとみの歌日和なでしこ姉妹",
+  "fullTitle": "西川ひとみの歌日和【ゲスト】なでしこ姉妹",
+  "detail": "【ゲスト】なでしこ姉妹♪ハイヤが聞こえる港町♪　【推薦曲】加宮ゆうき♪Ｔｏｋｙｏカーニバル♪",
+  "start": 1562283000000,
+  "end": 1562283900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

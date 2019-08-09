@@ -1,1 +1,27 @@
-{"id":"381jqz0jlj","category":"news","title":"ＮＨＫ手話ニュース","fullTitle":"ＮＨＫ手話ニュース[手]","detail":"【キャスター】中野佐世子\n◇出演者\n【キャスター】中野佐世子","start":1556967300000,"end":1556967600000,"seconds":300,"description":"【キャスター】中野佐世子","extra":{"出演者":"【キャスター】中野佐世子"},"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"キャスター","episode":null,"flags":[]}
+{
+  "id": "381jqz0jlj",
+  "category": "news",
+  "title": "ＮＨＫ手話ニュース",
+  "fullTitle": "ＮＨＫ手話ニュース[手]",
+  "detail": "【キャスター】中野佐世子\n◇出演者\n【キャスター】中野佐世子",
+  "start": 1556967300000,
+  "end": 1556967600000,
+  "seconds": 300,
+  "description": "【キャスター】中野佐世子",
+  "extra": {
+    "出演者": "【キャスター】中野佐世子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "キャスター",
+  "episode": null,
+  "flags": []
+}

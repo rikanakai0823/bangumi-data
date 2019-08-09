@@ -1,1 +1,27 @@
-{"id":"36h6jr1kge","category":"information","title":"ＴＶショッピング・イイものショッピングゥ～！","fullTitle":"ＴＶショッピング・イイものショッピングゥ～！[Ｓ]","detail":"◇番組内容\nうるおい宣言セラミドプラス　　　　　　　０１２０－３３３－０００","start":1550024700000,"end":1550026500000,"seconds":1800,"description":"","extra":{"番組内容":"うるおい宣言セラミドプラス　　　　　　　０１２０－３３３－０００"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kge",
+  "category": "information",
+  "title": "ＴＶショッピング・イイものショッピングゥ～！",
+  "fullTitle": "ＴＶショッピング・イイものショッピングゥ～！[Ｓ]",
+  "detail": "◇番組内容\nうるおい宣言セラミドプラス　　　　　　　０１２０－３３３－０００",
+  "start": 1550024700000,
+  "end": 1550026500000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "うるおい宣言セラミドプラス　　　　　　　０１２０－３３３－０００"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

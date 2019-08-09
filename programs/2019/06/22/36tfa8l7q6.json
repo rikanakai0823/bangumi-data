@@ -1,1 +1,23 @@
-{"id":"36tfa8l7q6","category":"anime","title":"鎧勇騎　月兎","fullTitle":"鎧勇騎　月兎","detail":"＃１２「封印を解かれた血とり」","start":1561156200000,"end":1561157100000,"seconds":900,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"封印を解かれた血とり","episode":12,"flags":[]}
+{
+  "id": "36tfa8l7q6",
+  "category": "anime",
+  "title": "鎧勇騎　月兎",
+  "fullTitle": "鎧勇騎　月兎",
+  "detail": "＃１２「封印を解かれた血とり」",
+  "start": 1561156200000,
+  "end": 1561157100000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "封印を解かれた血とり",
+  "episode": 12,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkv83e","category":"music","title":"ＨＯＴ　ＷＡＶＥ▽Ｊｕｉｃｅ＝Ｊｕｉｃｅ（金澤朋子、宮本佳林、段原瑠々）","fullTitle":"ＨＯＴ　ＷＡＶＥ▽Ｊｕｉｃｅ＝Ｊｕｉｃｅ（金澤朋子、宮本佳林、段原瑠々）","detail":"Ｊｕｉｃｅ＝Ｊｕｉｃｅ（金澤朋子、宮本佳林、段原瑠々）","start":1560268800000,"end":1560270600000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv83e",
+  "category": "music",
+  "title": "ＨＯＴ　ＷＡＶＥ▽Ｊｕｉｃｅ＝Ｊｕｉｃｅ（金澤朋子、宮本佳林、段原瑠々）",
+  "fullTitle": "ＨＯＴ　ＷＡＶＥ▽Ｊｕｉｃｅ＝Ｊｕｉｃｅ（金澤朋子、宮本佳林、段原瑠々）",
+  "detail": "Ｊｕｉｃｅ＝Ｊｕｉｃｅ（金澤朋子、宮本佳林、段原瑠々）",
+  "start": 1560268800000,
+  "end": 1560270600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkv2dg","category":"music","title":"ほっと！ヒット！歌謡曲","fullTitle":"ほっと！ヒット！歌謡曲","detail":"みちのく娘！♪春ッコわらし　中西りえ♪海峡迷子　永井裕子♪ねんごろ酒　岩出和也♪哀愁のリラ","start":1549841400000,"end":1549842300000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv2dg",
+  "category": "music",
+  "title": "ほっと！ヒット！歌謡曲",
+  "fullTitle": "ほっと！ヒット！歌謡曲",
+  "detail": "みちのく娘！♪春ッコわらし　中西りえ♪海峡迷子　永井裕子♪ねんごろ酒　岩出和也♪哀愁のリラ",
+  "start": 1549841400000,
+  "end": 1549842300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

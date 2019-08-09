@@ -1,1 +1,25 @@
-{"id":"36l9gkv60d","category":"anime","title":"トムとジェリーテイルズ▽ある海の恋ものがたり　ほか","fullTitle":"トムとジェリーテイルズ▽[二]ある海の恋ものがたり　ほか　＃７","detail":"第７話（全２６話）　①ある海の恋ものがたり　②最後に勝つのは誰だ？　③海にねむる財宝をさがせ！","start":1556526600000,"end":1556528400000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":7,"flags":["二"]}
+{
+  "id": "36l9gkv60d",
+  "category": "anime",
+  "title": "トムとジェリーテイルズ▽ある海の恋ものがたり　ほか",
+  "fullTitle": "トムとジェリーテイルズ▽[二]ある海の恋ものがたり　ほか　＃７",
+  "detail": "第７話（全２６話）　①ある海の恋ものがたり　②最後に勝つのは誰だ？　③海にねむる財宝をさがせ！",
+  "start": 1556526600000,
+  "end": 1556528400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}

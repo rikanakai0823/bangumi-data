@@ -1,1 +1,23 @@
-{"id":"36h6jr1o1b","category":"sports","title":"ボウリング革命Ｐ★Ｌｅａｇｕｅ","fullTitle":"ボウリング革命Ｐ★Ｌｅａｇｕｅ[Ｓ]","detail":"1 回戦Ｄグループ（小池沙紀ｖｓ小泉奈津美ｖｓ小林よしみ）1 回戦Ｅグループ（小林あゆみｖｓ酒井美佳ｖｓ松永裕美）","start":1557070200000,"end":1557072000000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1o1b",
+  "category": "sports",
+  "title": "ボウリング革命Ｐ★Ｌｅａｇｕｅ",
+  "fullTitle": "ボウリング革命Ｐ★Ｌｅａｇｕｅ[Ｓ]",
+  "detail": "1 回戦Ｄグループ（小池沙紀ｖｓ小泉奈津美ｖｓ小林よしみ）1 回戦Ｅグループ（小林あゆみｖｓ酒井美佳ｖｓ松永裕美）",
+  "start": 1557070200000,
+  "end": 1557072000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

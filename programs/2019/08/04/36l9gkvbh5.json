@@ -1,1 +1,25 @@
-{"id":"36l9gkvbh5","category":"drama","title":"ネコナデ","fullTitle":"ネコナデ[再]","detail":"【サブタイトル】人生の辻褄はずっと後から合ってくる　【出演】小木茂光　ちすん　清水美那　峰岸徹　ほか","start":1564848000000,"end":1564849800000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkvbh5",
+  "category": "drama",
+  "title": "ネコナデ",
+  "fullTitle": "ネコナデ[再]",
+  "detail": "【サブタイトル】人生の辻褄はずっと後から合ってくる　【出演】小木茂光　ちすん　清水美那　峰岸徹　ほか",
+  "start": 1564848000000,
+  "end": 1564849800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

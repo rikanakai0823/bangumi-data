@@ -1,1 +1,23 @@
-{"id":"381sxrfveg","category":"news","title":"ＪＮＮニュース","fullTitle":"ＪＮＮニュース[手]","detail":"最新のニュースをお送りします。","start":1559942100000,"end":1559943000000,"seconds":900,"channel":{"type":"GR","channel":"22","name":"ＴＢＳ１","id":"1i5727s","sid":1048,"nid":32739,"hasLogoData":true,"n":22},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381sxrfveg",
+  "category": "news",
+  "title": "ＪＮＮニュース",
+  "fullTitle": "ＪＮＮニュース[手]",
+  "detail": "最新のニュースをお送りします。",
+  "start": 1559942100000,
+  "end": 1559943000000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

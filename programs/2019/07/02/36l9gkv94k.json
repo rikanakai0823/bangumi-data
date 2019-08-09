@@ -1,1 +1,23 @@
-{"id":"36l9gkv94k","category":"information","title":"生活情報３０分","fullTitle":"生活情報３０分","detail":"【内容①】１０ｍｉｎミネラルパウダーファンデ（０１２０－２４０－９９９）　　【内容②】苓桂朮甘湯（０１２０－４８４８－７４）","start":1562034300000,"end":1562036100000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv94k",
+  "category": "information",
+  "title": "生活情報３０分",
+  "fullTitle": "生活情報３０分",
+  "detail": "【内容①】１０ｍｉｎミネラルパウダーファンデ（０１２０－２４０－９９９）　　【内容②】苓桂朮甘湯（０１２０－４８４８－７４）",
+  "start": 1562034300000,
+  "end": 1562036100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

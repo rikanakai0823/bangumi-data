@@ -1,1 +1,23 @@
-{"id":"36h6jr1q6j","category":"documentary","title":"ガリレオＸ","fullTitle":"ガリレオＸ[Ｓ]","detail":"黄金比はウツクシイか？Φをめぐる真実","start":1560524400000,"end":1560526200000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1q6j",
+  "category": "documentary",
+  "title": "ガリレオＸ",
+  "fullTitle": "ガリレオＸ[Ｓ]",
+  "detail": "黄金比はウツクシイか？Φをめぐる真実",
+  "start": 1560524400000,
+  "end": 1560526200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

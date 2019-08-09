@@ -1,1 +1,27 @@
-{"id":"36h6jr1rhv","category":"sports","title":"全国高校野球選手権大会埼玉大会","fullTitle":"第１０１回全国高校野球選手権大会埼玉大会[Ｓ]","detail":"浦和商業ＶＳ志木\n◇出演者\n実況：上野晃　解説：高橋弘明、鈴木和彦","start":1562732400000,"end":1562743800000,"seconds":11400,"description":"浦和商業ＶＳ志木","extra":{"出演者":"実況：上野晃　解説：高橋弘明、鈴木和彦"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":101,"flags":[]}
+{
+  "id": "36h6jr1rhv",
+  "category": "sports",
+  "title": "全国高校野球選手権大会埼玉大会",
+  "fullTitle": "第１０１回全国高校野球選手権大会埼玉大会[Ｓ]",
+  "detail": "浦和商業ＶＳ志木\n◇出演者\n実況：上野晃　解説：高橋弘明、鈴木和彦",
+  "start": 1562732400000,
+  "end": 1562743800000,
+  "seconds": 11400,
+  "description": "浦和商業ＶＳ志木",
+  "extra": {
+    "出演者": "実況：上野晃　解説：高橋弘明、鈴木和彦"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 101,
+  "flags": []
+}

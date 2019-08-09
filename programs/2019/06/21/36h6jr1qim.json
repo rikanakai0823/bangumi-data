@@ -1,1 +1,28 @@
-{"id":"36h6jr1qim","category":"music","title":"入山アキ子とマイク河原のここ一番の歌謡曲","fullTitle":"入山アキ子とマイク河原のここ一番の歌謡曲[Ｓ]","detail":"冠二郎\n◇番組内容\n冠二郎\n◇出演者\n冠二郎","start":1561062600000,"end":1561063500000,"seconds":900,"description":"冠二郎","extra":{"番組内容":"冠二郎","出演者":"冠二郎"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1qim",
+  "category": "music",
+  "title": "入山アキ子とマイク河原のここ一番の歌謡曲",
+  "fullTitle": "入山アキ子とマイク河原のここ一番の歌謡曲[Ｓ]",
+  "detail": "冠二郎\n◇番組内容\n冠二郎\n◇出演者\n冠二郎",
+  "start": 1561062600000,
+  "end": 1561063500000,
+  "seconds": 900,
+  "description": "冠二郎",
+  "extra": {
+    "番組内容": "冠二郎",
+    "出演者": "冠二郎"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

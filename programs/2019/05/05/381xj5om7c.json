@@ -1,1 +1,25 @@
-{"id":"381xj5om7c","category":"variety","title":"明日よる７時はスカッとジャパンＳＰ","fullTitle":"明日よる７時はスカッとジャパンＳＰ[字]","detail":"新企画続々！小池徹平がドラマ初登場▽神先生ＩＳＳＡ…かっこいいのにナゼか笑っちゃう？▽ボスママＭＥＧＵＭＩ久々登場でアクセル全開▽一茂＆笹野ばあちゃん","start":1557039600000,"end":1557044700000,"seconds":5100,"channel":{"type":"GR","channel":"21","name":"フジテレビ","id":"1i597ds","sid":1056,"nid":32740,"hasLogoData":true,"n":28},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "381xj5om7c",
+  "category": "variety",
+  "title": "明日よる７時はスカッとジャパンＳＰ",
+  "fullTitle": "明日よる７時はスカッとジャパンＳＰ[字]",
+  "detail": "新企画続々！小池徹平がドラマ初登場▽神先生ＩＳＳＡ…かっこいいのにナゼか笑っちゃう？▽ボスママＭＥＧＵＭＩ久々登場でアクセル全開▽一茂＆笹野ばあちゃん",
+  "start": 1557039600000,
+  "end": 1557044700000,
+  "seconds": 5100,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

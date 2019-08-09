@@ -1,1 +1,23 @@
-{"id":"36l9gkv7ax","category":"information","title":"生活情報５５分▽佐世保発生放送テレショップ","fullTitle":"生活情報５５分▽佐世保発生放送テレショップ","detail":"佐世保の自社スタジオから生放送でお届けするテレビショッピング！","start":1558850400000,"end":1558853700000,"seconds":3300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv7ax",
+  "category": "information",
+  "title": "生活情報５５分▽佐世保発生放送テレショップ",
+  "fullTitle": "生活情報５５分▽佐世保発生放送テレショップ",
+  "detail": "佐世保の自社スタジオから生放送でお届けするテレビショッピング！",
+  "start": 1558850400000,
+  "end": 1558853700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

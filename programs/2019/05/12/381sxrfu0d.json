@@ -1,1 +1,30 @@
-{"id":"381sxrfu0d","category":"sports","title":"世界リレー２０１９横浜","fullTitle":"世界リレー２０１９横浜[字][デ]","detail":"番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/athletics/worldrelay/","start":1557653400000,"end":1557662400000,"seconds":9000,"description":"番組情報決定までしばらくお待ちください。","extra":{"公式ページ":"◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/athletics/worldrelay/\r\n"},"channel":{"type":"GR","channel":"22","name":"ＴＢＳ１","id":"1i5727s","sid":1048,"nid":32739,"hasLogoData":true,"n":22},"subTitle":"","episode":null,"flags":["字","デ"]}
+{
+  "id": "381sxrfu0d",
+  "category": "sports",
+  "title": "世界リレー２０１９横浜",
+  "fullTitle": "世界リレー２０１９横浜[字][デ]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/athletics/worldrelay/",
+  "start": 1557653400000,
+  "end": 1557662400000,
+  "seconds": 9000,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/athletics/worldrelay/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

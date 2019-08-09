@@ -1,1 +1,23 @@
-{"id":"36l9gkvber","category":"documentary","title":"成田祇園祭","fullTitle":"成田祇園祭","detail":"７月５日～７月７日に行われた成田祇園祭。夏の訪れを告げる一大イベントです。１０台の山車や屋台が３日間かけて市内を巡行する模様を余すことなくお届けします。","start":1564722000000,"end":1564725300000,"seconds":3300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkvber",
+  "category": "documentary",
+  "title": "成田祇園祭",
+  "fullTitle": "成田祇園祭",
+  "detail": "７月５日～７月７日に行われた成田祇園祭。夏の訪れを告げる一大イベントです。１０台の山車や屋台が３日間かけて市内を巡行する模様を余すことなくお届けします。",
+  "start": 1564722000000,
+  "end": 1564725300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

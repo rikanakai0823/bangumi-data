@@ -1,1 +1,27 @@
-{"id":"36h6jr1sj9","category":"etc","title":"わくわくショッピング・日清ファルマＴＶショッピング","fullTitle":"わくわくショッピング・日清ファルマＴＶショッピング[Ｓ]","detail":"◇番組内容\nビフィコロンＳ（機能性表示食品）　　　　０１２０－２４０－２６４","start":1562304600000,"end":1562306400000,"seconds":1800,"description":"","extra":{"番組内容":"ビフィコロンＳ（機能性表示食品）　　　　０１２０－２４０－２６４"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1sj9",
+  "category": "etc",
+  "title": "わくわくショッピング・日清ファルマＴＶショッピング",
+  "fullTitle": "わくわくショッピング・日清ファルマＴＶショッピング[Ｓ]",
+  "detail": "◇番組内容\nビフィコロンＳ（機能性表示食品）　　　　０１２０－２４０－２６４",
+  "start": 1562304600000,
+  "end": 1562306400000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ビフィコロンＳ（機能性表示食品）　　　　０１２０－２４０－２６４"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

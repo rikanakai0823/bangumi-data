@@ -1,1 +1,23 @@
-{"id":"36tfa8kv2q","category":"news","title":"ヒーリングタイム＆ヘッドラインニュース","fullTitle":"ヒーリングタイム＆ヘッドラインニュース","detail":"東京点描　城西１","start":1553148720000,"end":1553149200000,"seconds":480,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8kv2q",
+  "category": "news",
+  "title": "ヒーリングタイム＆ヘッドラインニュース",
+  "fullTitle": "ヒーリングタイム＆ヘッドラインニュース",
+  "detail": "東京点描　城西１",
+  "start": 1553148720000,
+  "end": 1553149200000,
+  "seconds": 480,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

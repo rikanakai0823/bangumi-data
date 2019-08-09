@@ -1,1 +1,25 @@
-{"id":"36tfa8gloe","category":"anime","title":"バーチャルさんはみている","fullTitle":"バーチャルさんはみている　＃１２[終]","detail":"主演・VTuber！バーチャルさんたちが繰り広げるドタバタアニメが登場！","start":1553698800000,"end":1553700600000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":12,"flags":["終"]}
+{
+  "id": "36tfa8gloe",
+  "category": "anime",
+  "title": "バーチャルさんはみている",
+  "fullTitle": "バーチャルさんはみている　＃１２[終]",
+  "detail": "主演・VTuber！バーチャルさんたちが繰り広げるドタバタアニメが登場！",
+  "start": 1553698800000,
+  "end": 1553700600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": [
+    "終"
+  ]
+}

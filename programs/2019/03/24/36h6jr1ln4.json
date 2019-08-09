@@ -1,1 +1,23 @@
-{"id":"36h6jr1ln4","category":"variety","title":"田中・ねむの『ひらめけ！デンキッキ』","fullTitle":"田中・ねむの『ひらめけ！デンキッキ』[Ｓ]","detail":"","start":1553355000000,"end":1553356800000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ln4",
+  "category": "variety",
+  "title": "田中・ねむの『ひらめけ！デンキッキ』",
+  "fullTitle": "田中・ねむの『ひらめけ！デンキッキ』[Ｓ]",
+  "detail": "",
+  "start": 1553355000000,
+  "end": 1553356800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

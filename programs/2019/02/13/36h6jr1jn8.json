@@ -1,1 +1,28 @@
-{"id":"36h6jr1jn8","category":"music","title":"ＳＳＣ５","fullTitle":"ＳＳＣ５[Ｓ]","detail":"ｔｅｔｏ「夢見心地で」\n◇番組内容\nｔｅｔｏ「夢見心地で」\n◇出演者\nｔｅｔｏ「夢見心地で」","start":1549992900000,"end":1549993200000,"seconds":300,"description":"ｔｅｔｏ「夢見心地で」","extra":{"番組内容":"ｔｅｔｏ「夢見心地で」","出演者":"ｔｅｔｏ「夢見心地で」"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"夢見心地で","episode":null,"flags":[]}
+{
+  "id": "36h6jr1jn8",
+  "category": "music",
+  "title": "ＳＳＣ５",
+  "fullTitle": "ＳＳＣ５[Ｓ]",
+  "detail": "ｔｅｔｏ「夢見心地で」\n◇番組内容\nｔｅｔｏ「夢見心地で」\n◇出演者\nｔｅｔｏ「夢見心地で」",
+  "start": 1549992900000,
+  "end": 1549993200000,
+  "seconds": 300,
+  "description": "ｔｅｔｏ「夢見心地で」",
+  "extra": {
+    "番組内容": "ｔｅｔｏ「夢見心地で」",
+    "出演者": "ｔｅｔｏ「夢見心地で」"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "夢見心地で",
+  "episode": null,
+  "flags": []
+}

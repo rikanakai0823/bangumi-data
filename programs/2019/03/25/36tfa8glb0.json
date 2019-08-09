@@ -1,1 +1,23 @@
-{"id":"36tfa8glb0","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"家庭用電気【サービス】","start":1553497200000,"end":1553498940000,"seconds":1740,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"サービス","episode":null,"flags":[]}
+{
+  "id": "36tfa8glb0",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "家庭用電気【サービス】",
+  "start": 1553497200000,
+  "end": 1553498940000,
+  "seconds": 1740,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "サービス",
+  "episode": null,
+  "flags": []
+}

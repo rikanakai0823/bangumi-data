@@ -1,1 +1,28 @@
-{"id":"36h6jr1pzm","category":"music","title":"千葉一夫と藍ようこの歌謡音楽館","fullTitle":"千葉一夫と藍ようこの歌謡音楽館[Ｓ]","detail":"一条聖矢\n◇番組内容\n一条聖矢\n◇出演者\n一条聖矢","start":1560198600000,"end":1560200400000,"seconds":1800,"description":"一条聖矢","extra":{"番組内容":"一条聖矢","出演者":"一条聖矢"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1pzm",
+  "category": "music",
+  "title": "千葉一夫と藍ようこの歌謡音楽館",
+  "fullTitle": "千葉一夫と藍ようこの歌謡音楽館[Ｓ]",
+  "detail": "一条聖矢\n◇番組内容\n一条聖矢\n◇出演者\n一条聖矢",
+  "start": 1560198600000,
+  "end": 1560200400000,
+  "seconds": 1800,
+  "description": "一条聖矢",
+  "extra": {
+    "番組内容": "一条聖矢",
+    "出演者": "一条聖矢"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

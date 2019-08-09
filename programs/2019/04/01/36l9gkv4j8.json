@@ -1,1 +1,23 @@
-{"id":"36l9gkv4j8","category":"documentary","title":"ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽星組　紫藤りゅう＆星蘭ひとみ","fullTitle":"ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽星組　紫藤りゅう＆星蘭ひとみ","detail":"【ゲスト】星組　紫藤りゅう＆星蘭ひとみ","start":1554083700000,"end":1554085500000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36l9gkv4j8",
+  "category": "documentary",
+  "title": "ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽星組　紫藤りゅう＆星蘭ひとみ",
+  "fullTitle": "ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽星組　紫藤りゅう＆星蘭ひとみ",
+  "detail": "【ゲスト】星組　紫藤りゅう＆星蘭ひとみ",
+  "start": 1554083700000,
+  "end": 1554085500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36h6jr1l4q","category":"variety","title":"キンシオ","fullTitle":"キンシオ[Ｓ]","detail":"キン・シオタニが行きたいところに行き、知りたいことを知る３０分。\n◇出演者\nキン・シオタニ","start":1552478400000,"end":1552480200000,"seconds":1800,"description":"キン・シオタニが行きたいところに行き、知りたいことを知る３０分。","extra":{"出演者":"キン・シオタニ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1l4q",
+  "category": "variety",
+  "title": "キンシオ",
+  "fullTitle": "キンシオ[Ｓ]",
+  "detail": "キン・シオタニが行きたいところに行き、知りたいことを知る３０分。\n◇出演者\nキン・シオタニ",
+  "start": 1552478400000,
+  "end": 1552480200000,
+  "seconds": 1800,
+  "description": "キン・シオタニが行きたいところに行き、知りたいことを知る３０分。",
+  "extra": {
+    "出演者": "キン・シオタニ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

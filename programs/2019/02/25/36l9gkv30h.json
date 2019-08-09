@@ -1,1 +1,23 @@
-{"id":"36l9gkv30h","category":"documentary","title":"ちば美彩","fullTitle":"ちば美彩","detail":"１月－１２月　【内容】千葉の美しい風景を素敵なミュージックと共にお届けします。","start":1551064200000,"end":1551065400000,"seconds":1200,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"内容","episode":null,"flags":[]}
+{
+  "id": "36l9gkv30h",
+  "category": "documentary",
+  "title": "ちば美彩",
+  "fullTitle": "ちば美彩",
+  "detail": "１月－１２月　【内容】千葉の美しい風景を素敵なミュージックと共にお届けします。",
+  "start": 1551064200000,
+  "end": 1551065400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": []
+}

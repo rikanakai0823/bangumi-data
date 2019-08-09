@@ -1,1 +1,27 @@
-{"id":"36rdttjv7s","category":"music","title":"ミュートマ２","fullTitle":"ミュートマ２","detail":"話題のサウンドをノンジャンルで紹介する音楽情報バラエティ番組！！それが『ミュートマ２』\n◇番組内容\n…","start":1552316400000,"end":1552318200000,"seconds":1800,"description":"話題のサウンドをノンジャンルで紹介する音楽情報バラエティ番組！！それが『ミュートマ２』","extra":{"番組内容":"…"},"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttjv7s",
+  "category": "music",
+  "title": "ミュートマ２",
+  "fullTitle": "ミュートマ２",
+  "detail": "話題のサウンドをノンジャンルで紹介する音楽情報バラエティ番組！！それが『ミュートマ２』\n◇番組内容\n…",
+  "start": 1552316400000,
+  "end": 1552318200000,
+  "seconds": 1800,
+  "description": "話題のサウンドをノンジャンルで紹介する音楽情報バラエティ番組！！それが『ミュートマ２』",
+  "extra": {
+    "番組内容": "…"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

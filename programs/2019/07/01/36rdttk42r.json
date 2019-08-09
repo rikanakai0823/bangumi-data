@@ -1,1 +1,23 @@
-{"id":"36rdttk42r","category":"anime","title":"ドロンコロン","fullTitle":"ドロンコロン","detail":"あすの地球と子どもたちのために・・神奈川発・地球環境アニメーション","start":1561924500000,"end":1561924800000,"seconds":300,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttk42r",
+  "category": "anime",
+  "title": "ドロンコロン",
+  "fullTitle": "ドロンコロン",
+  "detail": "あすの地球と子どもたちのために・・神奈川発・地球環境アニメーション",
+  "start": 1561924500000,
+  "end": 1561924800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

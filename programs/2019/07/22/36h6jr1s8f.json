@@ -1,1 +1,28 @@
-{"id":"36h6jr1s8f","category":"music","title":"津吹みゆと一条貫太のこちら最新歌謡曲","fullTitle":"津吹みゆと一条貫太のこちら最新歌謡曲[Ｓ]","detail":"安藤栄子\n◇番組内容\n安藤栄子\n◇出演者\n安藤栄子","start":1563751800000,"end":1563753600000,"seconds":1800,"description":"安藤栄子","extra":{"番組内容":"安藤栄子","出演者":"安藤栄子"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1s8f",
+  "category": "music",
+  "title": "津吹みゆと一条貫太のこちら最新歌謡曲",
+  "fullTitle": "津吹みゆと一条貫太のこちら最新歌謡曲[Ｓ]",
+  "detail": "安藤栄子\n◇番組内容\n安藤栄子\n◇出演者\n安藤栄子",
+  "start": 1563751800000,
+  "end": 1563753600000,
+  "seconds": 1800,
+  "description": "安藤栄子",
+  "extra": {
+    "番組内容": "安藤栄子",
+    "出演者": "安藤栄子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

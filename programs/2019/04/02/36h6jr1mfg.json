@@ -1,1 +1,25 @@
-{"id":"36h6jr1mfg","category":"variety","title":"きらめき☆旅","fullTitle":"きらめき☆旅[Ｓ][新]","detail":"マケドニアの首都　スコピエ散歩","start":1554209100000,"end":1554209700000,"seconds":600,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":1,"flags":["新"]}
+{
+  "id": "36h6jr1mfg",
+  "category": "variety",
+  "title": "きらめき☆旅",
+  "fullTitle": "きらめき☆旅[Ｓ][新]",
+  "detail": "マケドニアの首都　スコピエ散歩",
+  "start": 1554209100000,
+  "end": 1554209700000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

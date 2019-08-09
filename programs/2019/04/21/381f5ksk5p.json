@@ -1,1 +1,25 @@
-{"id":"381f5ksk5p","category":"news","title":"統一地方選　首都圏開票速報","fullTitle":"統一地方選　首都圏開票速報[字]","detail":"▽関東地方の市区長選の結果を詳報","start":1555857300000,"end":1555859820000,"seconds":2520,"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "381f5ksk5p",
+  "category": "news",
+  "title": "統一地方選　首都圏開票速報",
+  "fullTitle": "統一地方選　首都圏開票速報[字]",
+  "detail": "▽関東地方の市区長選の結果を詳報",
+  "start": 1555857300000,
+  "end": 1555859820000,
+  "seconds": 2520,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

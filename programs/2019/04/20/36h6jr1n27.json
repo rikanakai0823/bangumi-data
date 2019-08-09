@@ -1,1 +1,23 @@
-{"id":"36h6jr1n27","category":"documentary","title":"ガリレオＸ","fullTitle":"ガリレオＸ[Ｓ]","detail":"スゴイ！和紙の底力　１３００年の伝統技術とその可能性","start":1555686000000,"end":1555687800000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1n27",
+  "category": "documentary",
+  "title": "ガリレオＸ",
+  "fullTitle": "ガリレオＸ[Ｓ]",
+  "detail": "スゴイ！和紙の底力　１３００年の伝統技術とその可能性",
+  "start": 1555686000000,
+  "end": 1555687800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

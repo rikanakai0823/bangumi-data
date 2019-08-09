@@ -1,1 +1,27 @@
-{"id":"36tfa8gi7e","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"プロテオグリカン原液【化粧品】\n◇お知らせ\n0120-585-980","start":1551632700000,"end":1551634500000,"seconds":1800,"description":"プロテオグリカン原液【化粧品】","extra":{"お知らせ":"0120-585-980"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"化粧品","episode":null,"flags":[]}
+{
+  "id": "36tfa8gi7e",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "プロテオグリカン原液【化粧品】\n◇お知らせ\n0120-585-980",
+  "start": 1551632700000,
+  "end": 1551634500000,
+  "seconds": 1800,
+  "description": "プロテオグリカン原液【化粧品】",
+  "extra": {
+    "お知らせ": "0120-585-980"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "化粧品",
+  "episode": null,
+  "flags": []
+}

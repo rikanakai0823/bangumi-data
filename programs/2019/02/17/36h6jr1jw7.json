@@ -1,1 +1,23 @@
-{"id":"36h6jr1jw7","category":"music","title":"カラなび歌謡曲","fullTitle":"カラなび歌謡曲[Ｓ]","detail":"岩本公水「片時雨」  小金沢昇司「青春の忘れもの」  野上こうじ「白いストリチア」  　叶やよい「涙色のタンゴ」","start":1550347200000,"end":1550348100000,"seconds":900,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1jw7",
+  "category": "music",
+  "title": "カラなび歌謡曲",
+  "fullTitle": "カラなび歌謡曲[Ｓ]",
+  "detail": "岩本公水「片時雨」  小金沢昇司「青春の忘れもの」  野上こうじ「白いストリチア」  　叶やよい「涙色のタンゴ」",
+  "start": 1550347200000,
+  "end": 1550348100000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

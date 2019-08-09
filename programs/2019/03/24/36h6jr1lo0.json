@@ -1,1 +1,29 @@
-{"id":"36h6jr1lo0","category":"sports","title":"ビッグスギのＳＴＥＰ　ＵＰゴルフ","fullTitle":"ビッグスギのＳＴＥＰ　ＵＰゴルフ[Ｓ][再]","detail":"パノラマリゾート編ＰａｒｔⅡ－１２\n◇出演者\nＭＣ: 森田雪　ゲスト：長谷容子・長谷寛樹・夏目敏也","start":1553374800000,"end":1553376600000,"seconds":1800,"description":"パノラマリゾート編ＰａｒｔⅡ－１２","extra":{"出演者":"ＭＣ: 森田雪　ゲスト：長谷容子・長谷寛樹・夏目敏也"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36h6jr1lo0",
+  "category": "sports",
+  "title": "ビッグスギのＳＴＥＰ　ＵＰゴルフ",
+  "fullTitle": "ビッグスギのＳＴＥＰ　ＵＰゴルフ[Ｓ][再]",
+  "detail": "パノラマリゾート編ＰａｒｔⅡ－１２\n◇出演者\nＭＣ: 森田雪　ゲスト：長谷容子・長谷寛樹・夏目敏也",
+  "start": 1553374800000,
+  "end": 1553376600000,
+  "seconds": 1800,
+  "description": "パノラマリゾート編ＰａｒｔⅡ－１２",
+  "extra": {
+    "出演者": "ＭＣ: 森田雪　ゲスト：長谷容子・長谷寛樹・夏目敏也"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkx9v1","category":"sports","title":"マリーンズナイター▽埼玉西武×千葉ロッテ","fullTitle":"マリーンズナイター▽埼玉西武×千葉ロッテ","detail":"【実況】上野　晃　【解説】豊田　清　【レポーター】堀口　文宏　【球場】メットライフドーム","start":1554282900000,"end":1554285600000,"seconds":2700,"channel":{"type":"GR","channel":"30","name":"チバテレ２","id":"1hgoknt","sid":27705,"nid":32327,"hasLogoData":true,"n":10},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkx9v1",
+  "category": "sports",
+  "title": "マリーンズナイター▽埼玉西武×千葉ロッテ",
+  "fullTitle": "マリーンズナイター▽埼玉西武×千葉ロッテ",
+  "detail": "【実況】上野　晃　【解説】豊田　清　【レポーター】堀口　文宏　【球場】メットライフドーム",
+  "start": 1554282900000,
+  "end": 1554285600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

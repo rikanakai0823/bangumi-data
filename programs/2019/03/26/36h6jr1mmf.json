@@ -1,1 +1,27 @@
-{"id":"36h6jr1mmf","category":"information","title":"買物情報・スマイルショッピング","fullTitle":"買物情報・スマイルショッピング[Ｓ]","detail":"スマイルショッピング\n◇番組内容\nごまセサミン　胡麻黒丸・胡麻白丸詰め合わせ　　　　　　　　　　　　　　　　　　　０１２０－５０－５５８４","start":1553551200000,"end":1553553000000,"seconds":1800,"description":"スマイルショッピング","extra":{"番組内容":"ごまセサミン　胡麻黒丸・胡麻白丸詰め合わせ　　　　　　　　　　　　　　　　　　　０１２０－５０－５５８４"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1mmf",
+  "category": "information",
+  "title": "買物情報・スマイルショッピング",
+  "fullTitle": "買物情報・スマイルショッピング[Ｓ]",
+  "detail": "スマイルショッピング\n◇番組内容\nごまセサミン　胡麻黒丸・胡麻白丸詰め合わせ　　　　　　　　　　　　　　　　　　　０１２０－５０－５５８４",
+  "start": 1553551200000,
+  "end": 1553553000000,
+  "seconds": 1800,
+  "description": "スマイルショッピング",
+  "extra": {
+    "番組内容": "ごまセサミン　胡麻黒丸・胡麻白丸詰め合わせ　　　　　　　　　　　　　　　　　　　０１２０－５０－５５８４"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

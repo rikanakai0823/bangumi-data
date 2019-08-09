@@ -1,1 +1,23 @@
-{"id":"36rdttk61j","category":"etc","title":"朝の周波数カード","fullTitle":"朝の周波数カード","detail":"アルバム「フリー・スピリット」\r\nカリード","start":1563909900000,"end":1563911700000,"seconds":1800,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"フリー・スピリット","episode":null,"flags":[]}
+{
+  "id": "36rdttk61j",
+  "category": "etc",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「フリー・スピリット」\r\nカリード",
+  "start": 1563909900000,
+  "end": 1563911700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "フリー・スピリット",
+  "episode": null,
+  "flags": []
+}

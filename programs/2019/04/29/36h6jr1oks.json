@@ -1,1 +1,27 @@
-{"id":"36h6jr1oks","category":"information","title":"Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・ダイレクトテレショップ","fullTitle":"Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・ダイレクトテレショップ[Ｓ]","detail":"◇番組内容\nすっぽん皇帝　　　　　　　　　　　　　　０１２０－４６２－４６９","start":1556504700000,"end":1556506500000,"seconds":1800,"description":"","extra":{"番組内容":"すっぽん皇帝　　　　　　　　　　　　　　０１２０－４６２－４６９"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1oks",
+  "category": "information",
+  "title": "Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・ダイレクトテレショップ",
+  "fullTitle": "Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・ダイレクトテレショップ[Ｓ]",
+  "detail": "◇番組内容\nすっぽん皇帝　　　　　　　　　　　　　　０１２０－４６２－４６９",
+  "start": 1556504700000,
+  "end": 1556506500000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "すっぽん皇帝　　　　　　　　　　　　　　０１２０－４６２－４６９"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

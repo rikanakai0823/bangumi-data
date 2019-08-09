@@ -1,1 +1,29 @@
-{"id":"3826py49ra","category":"music","title":"月～金お昼のソングショー　ひるソン！","fullTitle":"月～金お昼のソングショー　ひるソン！【ベッド・イン】[字]","detail":"月曜～金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！\n◇関連情報\n【番組公式ホームページ】\r\nwww.tv-tokyo.co.jp/hiruson/","start":1563762900000,"end":1563763200000,"seconds":300,"description":"月曜～金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！","extra":{"関連情報":"【番組公式ホームページ】\r\nwww.tv-tokyo.co.jp/hiruson/"},"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"ベッド・イン","episode":null,"flags":["字"]}
+{
+  "id": "3826py49ra",
+  "category": "music",
+  "title": "月～金お昼のソングショー　ひるソン！",
+  "fullTitle": "月～金お昼のソングショー　ひるソン！【ベッド・イン】[字]",
+  "detail": "月曜～金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！\n◇関連情報\n【番組公式ホームページ】\r\nwww.tv-tokyo.co.jp/hiruson/",
+  "start": 1563762900000,
+  "end": 1563763200000,
+  "seconds": 300,
+  "description": "月曜～金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！",
+  "extra": {
+    "関連情報": "【番組公式ホームページ】\r\nwww.tv-tokyo.co.jp/hiruson/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "ベッド・イン",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,1 +1,23 @@
-{"id":"36h6jr3wq5","category":"sports","title":"全国高校野球選手権大会埼玉大会","fullTitle":"第１０１回全国高校野球選手権大会埼玉大会[Ｓ]","detail":"","start":1562830200000,"end":1562834700000,"seconds":4500,"channel":{"type":"GR","channel":"32","name":"テレ玉２","id":"1hes13t","sid":29753,"nid":32295,"hasLogoData":true,"n":12},"subTitle":"","episode":101,"flags":[]}
+{
+  "id": "36h6jr3wq5",
+  "category": "sports",
+  "title": "全国高校野球選手権大会埼玉大会",
+  "fullTitle": "第１０１回全国高校野球選手権大会埼玉大会[Ｓ]",
+  "detail": "",
+  "start": 1562830200000,
+  "end": 1562834700000,
+  "seconds": 4500,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 101,
+  "flags": []
+}

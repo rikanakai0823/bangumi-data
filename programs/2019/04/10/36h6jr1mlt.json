@@ -1,1 +1,23 @@
-{"id":"36h6jr1mlt","category":"variety","title":"ブギウギ専務","fullTitle":"ブギウギ専務[Ｓ]","detail":"奥の細道　第二幕７４　足寄～中足寄篇","start":1554904800000,"end":1554906600000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1mlt",
+  "category": "variety",
+  "title": "ブギウギ専務",
+  "fullTitle": "ブギウギ専務[Ｓ]",
+  "detail": "奥の細道　第二幕７４　足寄～中足寄篇",
+  "start": 1554904800000,
+  "end": 1554906600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

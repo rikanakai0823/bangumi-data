@@ -1,1 +1,28 @@
-{"id":"36h6jr1n4j","category":"music","title":"安藤みゆきと小桜舞子の歌の彩は","fullTitle":"安藤みゆきと小桜舞子の歌の彩は[Ｓ]","detail":"松前ひろ子\n◇番組内容\n松前ひろ子\n◇出演者\n松前ひろ子","start":1555802100000,"end":1555803000000,"seconds":900,"description":"松前ひろ子","extra":{"番組内容":"松前ひろ子","出演者":"松前ひろ子"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1n4j",
+  "category": "music",
+  "title": "安藤みゆきと小桜舞子の歌の彩は",
+  "fullTitle": "安藤みゆきと小桜舞子の歌の彩は[Ｓ]",
+  "detail": "松前ひろ子\n◇番組内容\n松前ひろ子\n◇出演者\n松前ひろ子",
+  "start": 1555802100000,
+  "end": 1555803000000,
+  "seconds": 900,
+  "description": "松前ひろ子",
+  "extra": {
+    "番組内容": "松前ひろ子",
+    "出演者": "松前ひろ子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

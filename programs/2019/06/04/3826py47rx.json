@@ -1,1 +1,27 @@
-{"id":"3826py47rx","category":"documentary","title":"ＮＩＫＫＥＩ　ＳＴＹＬＥ　ｏｎ　ＴＶ","fullTitle":"ＮＩＫＫＥＩ　ＳＴＹＬＥ　ｏｎ　ＴＶ","detail":"日経電子版の人気サイト「NIKKEI　STYLE」とのコラボ企画。ビジネスパーソンにとって有益な情報を映像化。\n◇お知らせ\n※「全仏オープンテニス２０１９」により、放送時間が変更、または休止の場合があります。","start":1559580120000,"end":1559580420000,"seconds":300,"description":"日経電子版の人気サイト「NIKKEI　STYLE」とのコラボ企画。ビジネスパーソンにとって有益な情報を映像化。","extra":{"お知らせ":"※「全仏オープンテニス２０１９」により、放送時間が変更、または休止の場合があります。"},"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"NIKKEI　STYLE","episode":null,"flags":[]}
+{
+  "id": "3826py47rx",
+  "category": "documentary",
+  "title": "ＮＩＫＫＥＩ　ＳＴＹＬＥ　ｏｎ　ＴＶ",
+  "fullTitle": "ＮＩＫＫＥＩ　ＳＴＹＬＥ　ｏｎ　ＴＶ",
+  "detail": "日経電子版の人気サイト「NIKKEI　STYLE」とのコラボ企画。ビジネスパーソンにとって有益な情報を映像化。\n◇お知らせ\n※「全仏オープンテニス２０１９」により、放送時間が変更、または休止の場合があります。",
+  "start": 1559580120000,
+  "end": 1559580420000,
+  "seconds": 300,
+  "description": "日経電子版の人気サイト「NIKKEI　STYLE」とのコラボ企画。ビジネスパーソンにとって有益な情報を映像化。",
+  "extra": {
+    "お知らせ": "※「全仏オープンテニス２０１９」により、放送時間が変更、または休止の場合があります。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "NIKKEI　STYLE",
+  "episode": null,
+  "flags": []
+}

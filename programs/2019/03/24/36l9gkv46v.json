@@ -1,1 +1,25 @@
-{"id":"36l9gkv46v","category":"documentary","title":"ちば見聞録","fullTitle":"ちば見聞録[再]","detail":"茂原を歩く　▽藻原寺の創建や、橘樹神社と日本武尊伝説など茂原にまつわる歴史やなどを紹介。","start":1553421600000,"end":1553423100000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv46v",
+  "category": "documentary",
+  "title": "ちば見聞録",
+  "fullTitle": "ちば見聞録[再]",
+  "detail": "茂原を歩く　▽藻原寺の創建や、橘樹神社と日本武尊伝説など茂原にまつわる歴史やなどを紹介。",
+  "start": 1553421600000,
+  "end": 1553423100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

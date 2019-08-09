@@ -1,1 +1,27 @@
-{"id":"36h6jr1o1p","category":"information","title":"ＴＶショッピング・痛快！買い物ランド","fullTitle":"ＴＶショッピング・痛快！買い物ランド[Ｓ]","detail":"◇番組内容\n①ユーグレナ　ｏｎｅオールインワン  パワーリフティングクリーム　②エポホワイティア　　　　　　　　　　　　　　　　　　　０１２０－８８－３９５５","start":1555198200000,"end":1555200000000,"seconds":1800,"description":"","extra":{"番組内容":"①ユーグレナ　ｏｎｅオールインワン  パワーリフティングクリーム　②エポホワイティア　　　　　　　　　　　　　　　　　　　０１２０－８８－３９５５"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1o1p",
+  "category": "information",
+  "title": "ＴＶショッピング・痛快！買い物ランド",
+  "fullTitle": "ＴＶショッピング・痛快！買い物ランド[Ｓ]",
+  "detail": "◇番組内容\n①ユーグレナ　ｏｎｅオールインワン  パワーリフティングクリーム　②エポホワイティア　　　　　　　　　　　　　　　　　　　０１２０－８８－３９５５",
+  "start": 1555198200000,
+  "end": 1555200000000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "①ユーグレナ　ｏｎｅオールインワン  パワーリフティングクリーム　②エポホワイティア　　　　　　　　　　　　　　　　　　　０１２０－８８－３９５５"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

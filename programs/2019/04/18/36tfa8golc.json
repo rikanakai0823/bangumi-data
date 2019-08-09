@@ -1,1 +1,23 @@
-{"id":"36tfa8golc","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"大丸松坂屋１ｃｔダイヤ／西川ガーゼ肌掛け布団／大丸松坂屋０．４ｃｔダイヤ／イワタニサイレントミルサー","start":1555579800000,"end":1555581600000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8golc",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "大丸松坂屋１ｃｔダイヤ／西川ガーゼ肌掛け布団／大丸松坂屋０．４ｃｔダイヤ／イワタニサイレントミルサー",
+  "start": 1555579800000,
+  "end": 1555581600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

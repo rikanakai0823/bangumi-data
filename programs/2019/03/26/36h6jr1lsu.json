@@ -1,1 +1,28 @@
-{"id":"36h6jr1lsu","category":"sports","title":"ＢＡＣＨプラザ","fullTitle":"ＢＡＣＨプラザ[Ｓ]","detail":"「川口オート」「浦和競馬」\n◇番組内容\n▽川口オート：川口市営１４回第２節・１日目▽浦和競馬・２日目\n◇出演者\n井上英里香","start":1553607000000,"end":1553608800000,"seconds":1800,"description":"「川口オート」「浦和競馬」","extra":{"番組内容":"▽川口オート：川口市営１４回第２節・１日目▽浦和競馬・２日目","出演者":"井上英里香"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1lsu",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
+  "detail": "「川口オート」「浦和競馬」\n◇番組内容\n▽川口オート：川口市営１４回第２節・１日目▽浦和競馬・２日目\n◇出演者\n井上英里香",
+  "start": 1553607000000,
+  "end": 1553608800000,
+  "seconds": 1800,
+  "description": "「川口オート」「浦和競馬」",
+  "extra": {
+    "番組内容": "▽川口オート：川口市営１４回第２節・１日目▽浦和競馬・２日目",
+    "出演者": "井上英里香"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

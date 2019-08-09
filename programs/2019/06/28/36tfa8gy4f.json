@@ -1,1 +1,29 @@
-{"id":"36tfa8gy4f","category":"anime","title":"アニラン！～週末アニメランキング～","fullTitle":"アニラン！～週末アニメランキング～　＃２５[終]","detail":"◇出演者\n【出演】\r\n小野坂昌也","start":1561726440000,"end":1561726800000,"seconds":360,"description":" ","extra":{"出演者":"【出演】\r\n小野坂昌也"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":25,"flags":["終"]}
+{
+  "id": "36tfa8gy4f",
+  "category": "anime",
+  "title": "アニラン！～週末アニメランキング～",
+  "fullTitle": "アニラン！～週末アニメランキング～　＃２５[終]",
+  "detail": "◇出演者\n【出演】\r\n小野坂昌也",
+  "start": 1561726440000,
+  "end": 1561726800000,
+  "seconds": 360,
+  "description": " ",
+  "extra": {
+    "出演者": "【出演】\r\n小野坂昌也"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": 25,
+  "flags": [
+    "終"
+  ]
+}

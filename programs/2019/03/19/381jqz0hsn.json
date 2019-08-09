@@ -1,1 +1,29 @@
-{"id":"381jqz0hsn","category":"news","title":"視点・論点","fullTitle":"視点・論点「女性と共に歩んだ　私の中のテレビ」[字]","detail":"ＮＨＫ元アナウンサー…鈴木健二\n◇出演者\n【出演】ＮＨＫ元アナウンサー…鈴木健二","start":1552971000000,"end":1552971600000,"seconds":600,"description":"ＮＨＫ元アナウンサー…鈴木健二","extra":{"出演者":"【出演】ＮＨＫ元アナウンサー…鈴木健二"},"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"女性と共に歩んだ　私の中のテレビ","episode":null,"flags":["字"]}
+{
+  "id": "381jqz0hsn",
+  "category": "news",
+  "title": "視点・論点",
+  "fullTitle": "視点・論点「女性と共に歩んだ　私の中のテレビ」[字]",
+  "detail": "ＮＨＫ元アナウンサー…鈴木健二\n◇出演者\n【出演】ＮＨＫ元アナウンサー…鈴木健二",
+  "start": 1552971000000,
+  "end": 1552971600000,
+  "seconds": 600,
+  "description": "ＮＨＫ元アナウンサー…鈴木健二",
+  "extra": {
+    "出演者": "【出演】ＮＨＫ元アナウンサー…鈴木健二"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "女性と共に歩んだ　私の中のテレビ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

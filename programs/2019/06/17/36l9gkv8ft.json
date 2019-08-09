@@ -1,1 +1,23 @@
-{"id":"36l9gkv8ft","category":"news","title":"ＮＥＷＳチバ９３０大角茉里","fullTitle":"ＮＥＷＳチバ９３０【出演】大角茉里","detail":"▽マリンに響く美爆音　習高吹奏楽部がロッテを全力応援　▽天気予報　▽出演／大角茉里アナウンサー","start":1560774600000,"end":1560776100000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"出演","episode":null,"flags":[]}
+{
+  "id": "36l9gkv8ft",
+  "category": "news",
+  "title": "ＮＥＷＳチバ９３０大角茉里",
+  "fullTitle": "ＮＥＷＳチバ９３０【出演】大角茉里",
+  "detail": "▽マリンに響く美爆音　習高吹奏楽部がロッテを全力応援　▽天気予報　▽出演／大角茉里アナウンサー",
+  "start": 1560774600000,
+  "end": 1560776100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkv2y0","category":"sports","title":"競馬展望プラス▽〈中央〉中山・中山記念（ＧⅡ）他","fullTitle":"競馬展望プラス▽〈中央〉中山・中山記念（ＧⅡ）他","detail":"〈解説〉日刊競馬解説者・柏木集保　〈中央〉中山・中山記念（ＧⅡ）　〈地方〉川崎・エンプレス杯（ＪｐｎⅡ）","start":1550925000000,"end":1550926800000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv2y0",
+  "category": "sports",
+  "title": "競馬展望プラス▽〈中央〉中山・中山記念（ＧⅡ）他",
+  "fullTitle": "競馬展望プラス▽〈中央〉中山・中山記念（ＧⅡ）他",
+  "detail": "〈解説〉日刊競馬解説者・柏木集保　〈中央〉中山・中山記念（ＧⅡ）　〈地方〉川崎・エンプレス杯（ＪｐｎⅡ）",
+  "start": 1550925000000,
+  "end": 1550926800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

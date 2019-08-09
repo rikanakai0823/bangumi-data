@@ -1,1 +1,28 @@
-{"id":"36h6jr1omf","category":"music","title":"ＳＳＣ５","fullTitle":"ＳＳＣ５[Ｓ]","detail":"雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」\n◇番組内容\n雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」\n◇出演者\n雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」","start":1558026300000,"end":1558026600000,"seconds":300,"description":"雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」","extra":{"番組内容":"雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」","出演者":"雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"Ａｈｅａｄ  Ａｈｅａｄ","episode":null,"flags":[]}
+{
+  "id": "36h6jr1omf",
+  "category": "music",
+  "title": "ＳＳＣ５",
+  "fullTitle": "ＳＳＣ５[Ｓ]",
+  "detail": "雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」\n◇番組内容\n雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」\n◇出演者\n雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」",
+  "start": 1558026300000,
+  "end": 1558026600000,
+  "seconds": 300,
+  "description": "雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」",
+  "extra": {
+    "番組内容": "雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」",
+    "出演者": "雨のパレード「Ａｈｅａｄ  Ａｈｅａｄ」"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "Ａｈｅａｄ  Ａｈｅａｄ",
+  "episode": null,
+  "flags": []
+}

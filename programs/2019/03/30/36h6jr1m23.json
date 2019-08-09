@@ -1,1 +1,27 @@
-{"id":"36h6jr1m23","category":"information","title":"ＴＶショッピング・ウェルヴィーナステレビショッピング","fullTitle":"ＴＶショッピング・ウェルヴィーナステレビショッピング[Ｓ]","detail":"◇番組内容\n北国の恵み　　　　　　　　　　　　　　　０１２０－６８－６６８８","start":1553929200000,"end":1553931000000,"seconds":1800,"description":"","extra":{"番組内容":"北国の恵み　　　　　　　　　　　　　　　０１２０－６８－６６８８"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1m23",
+  "category": "information",
+  "title": "ＴＶショッピング・ウェルヴィーナステレビショッピング",
+  "fullTitle": "ＴＶショッピング・ウェルヴィーナステレビショッピング[Ｓ]",
+  "detail": "◇番組内容\n北国の恵み　　　　　　　　　　　　　　　０１２０－６８－６６８８",
+  "start": 1553929200000,
+  "end": 1553931000000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "北国の恵み　　　　　　　　　　　　　　　０１２０－６８－６６８８"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

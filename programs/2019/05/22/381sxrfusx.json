@@ -1,1 +1,23 @@
-{"id":"381sxrfusx","category":"sports","title":"バレーボールネーションズリーグ女子","fullTitle":"バレーボールネーションズリーグ女子「日本×ブルガリア」","detail":"番組情報決定までしばらくお待ちください。","start":1558458300000,"end":1558465200000,"seconds":6900,"channel":{"type":"GR","channel":"22","name":"ＴＢＳ１","id":"1i5727s","sid":1048,"nid":32739,"hasLogoData":true,"n":22},"subTitle":"日本×ブルガリア","episode":null,"flags":[]}
+{
+  "id": "381sxrfusx",
+  "category": "sports",
+  "title": "バレーボールネーションズリーグ女子",
+  "fullTitle": "バレーボールネーションズリーグ女子「日本×ブルガリア」",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1558458300000,
+  "end": 1558465200000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "日本×ブルガリア",
+  "episode": null,
+  "flags": []
+}

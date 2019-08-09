@@ -1,1 +1,23 @@
-{"id":"36h6jr1jwm","category":"music","title":"みんなの音楽会ＴＶ","fullTitle":"みんなの音楽会ＴＶ","detail":"","start":1550366100000,"end":1550367000000,"seconds":900,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1jwm",
+  "category": "music",
+  "title": "みんなの音楽会ＴＶ",
+  "fullTitle": "みんなの音楽会ＴＶ",
+  "detail": "",
+  "start": 1550366100000,
+  "end": 1550367000000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

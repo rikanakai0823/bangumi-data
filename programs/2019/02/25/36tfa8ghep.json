@@ -1,1 +1,27 @@
-{"id":"36tfa8ghep","category":"news","title":"都議会の焦点","fullTitle":"都議会の焦点","detail":"「平成３１年第１回定例会」\n◇出演者\n【解説】内山融（東京大学教授）\r\n【司会】針谷衣織里","start":1551090600000,"end":1551092400000,"seconds":1800,"description":"「平成３１年第１回定例会」","extra":{"出演者":"【解説】内山融（東京大学教授）\r\n【司会】針谷衣織里"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"平成３１年第１回定例会","episode":1,"flags":[]}
+{
+  "id": "36tfa8ghep",
+  "category": "news",
+  "title": "都議会の焦点",
+  "fullTitle": "都議会の焦点",
+  "detail": "「平成３１年第１回定例会」\n◇出演者\n【解説】内山融（東京大学教授）\r\n【司会】針谷衣織里",
+  "start": 1551090600000,
+  "end": 1551092400000,
+  "seconds": 1800,
+  "description": "「平成３１年第１回定例会」",
+  "extra": {
+    "出演者": "【解説】内山融（東京大学教授）\r\n【司会】針谷衣織里"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "平成３１年第１回定例会",
+  "episode": 1,
+  "flags": []
+}

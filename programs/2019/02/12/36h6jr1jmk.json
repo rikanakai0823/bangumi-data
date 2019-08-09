@@ -1,1 +1,27 @@
-{"id":"36h6jr1jmk","category":"drama","title":"大江戸捜査網","fullTitle":"大江戸捜査網","detail":"密室を暴く恐怖の魔術師\n◇出演者\n松方弘樹","start":1549951500000,"end":1549954800000,"seconds":3300,"description":"密室を暴く恐怖の魔術師","extra":{"出演者":"松方弘樹"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1jmk",
+  "category": "drama",
+  "title": "大江戸捜査網",
+  "fullTitle": "大江戸捜査網",
+  "detail": "密室を暴く恐怖の魔術師\n◇出演者\n松方弘樹",
+  "start": 1549951500000,
+  "end": 1549954800000,
+  "seconds": 3300,
+  "description": "密室を暴く恐怖の魔術師",
+  "extra": {
+    "出演者": "松方弘樹"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

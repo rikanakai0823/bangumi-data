@@ -1,1 +1,29 @@
-{"id":"381jqz0irz","category":"news","title":"視点・論点","fullTitle":"視点・論点「原爆朗読劇　最後の夏に」[字]","detail":"女優…渡辺美佐子\n◇出演者\n【出演】女優…渡辺美佐子","start":1564548600000,"end":1564549200000,"seconds":600,"description":"女優…渡辺美佐子","extra":{"出演者":"【出演】女優…渡辺美佐子"},"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"原爆朗読劇　最後の夏に","episode":null,"flags":["字"]}
+{
+  "id": "381jqz0irz",
+  "category": "news",
+  "title": "視点・論点",
+  "fullTitle": "視点・論点「原爆朗読劇　最後の夏に」[字]",
+  "detail": "女優…渡辺美佐子\n◇出演者\n【出演】女優…渡辺美佐子",
+  "start": 1564548600000,
+  "end": 1564549200000,
+  "seconds": 600,
+  "description": "女優…渡辺美佐子",
+  "extra": {
+    "出演者": "【出演】女優…渡辺美佐子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "原爆朗読劇　最後の夏に",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

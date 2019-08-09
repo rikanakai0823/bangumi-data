@@ -1,1 +1,27 @@
-{"id":"36h6jr1kx0","category":"information","title":"ショッピングタイム・ダイレクトテレショップ","fullTitle":"ショッピングタイム・ダイレクトテレショップ[Ｓ]","detail":"◇番組内容\nＳｆｉｔプレミアム　　　　　　　　　　　０１２０－８８８－０６０","start":1550637000000,"end":1550638800000,"seconds":1800,"description":"","extra":{"番組内容":"Ｓｆｉｔプレミアム　　　　　　　　　　　０１２０－８８８－０６０"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kx0",
+  "category": "information",
+  "title": "ショッピングタイム・ダイレクトテレショップ",
+  "fullTitle": "ショッピングタイム・ダイレクトテレショップ[Ｓ]",
+  "detail": "◇番組内容\nＳｆｉｔプレミアム　　　　　　　　　　　０１２０－８８８－０６０",
+  "start": 1550637000000,
+  "end": 1550638800000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "Ｓｆｉｔプレミアム　　　　　　　　　　　０１２０－８８８－０６０"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

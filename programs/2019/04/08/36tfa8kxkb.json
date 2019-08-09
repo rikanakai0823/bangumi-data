@@ -1,1 +1,27 @@
-{"id":"36tfa8kxkb","category":"sports","title":"東京シティ競馬中継","fullTitle":"東京シティ競馬中継","detail":"「ＴＣＫバーベキューガーデン賞」「トゥインクルオープニング賞」\n◇出演者\n【ＭＣ】\r\n前半：瀬戸山知花\r\n後半：椎名真帆\r\n【解説】\r\n市川俊吾（日刊競馬）","start":1554704400000,"end":1554724800000,"seconds":20400,"description":"「ＴＣＫバーベキューガーデン賞」「トゥインクルオープニング賞」","extra":{"出演者":"【ＭＣ】\r\n前半：瀬戸山知花\r\n後半：椎名真帆\r\n【解説】\r\n市川俊吾（日刊競馬）"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8kxkb",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ＴＣＫバーベキューガーデン賞」「トゥインクルオープニング賞」\n◇出演者\n【ＭＣ】\r\n前半：瀬戸山知花\r\n後半：椎名真帆\r\n【解説】\r\n市川俊吾（日刊競馬）",
+  "start": 1554704400000,
+  "end": 1554724800000,
+  "seconds": 20400,
+  "description": "「ＴＣＫバーベキューガーデン賞」「トゥインクルオープニング賞」",
+  "extra": {
+    "出演者": "【ＭＣ】\r\n前半：瀬戸山知花\r\n後半：椎名真帆\r\n【解説】\r\n市川俊吾（日刊競馬）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

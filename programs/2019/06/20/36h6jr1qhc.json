@@ -1,1 +1,27 @@
-{"id":"36h6jr1qhc","category":"drama","title":"大江戸捜査網","fullTitle":"大江戸捜査網","detail":"暴走娘五千両の涙\n◇出演者\n並木史朗","start":1561010700000,"end":1561014000000,"seconds":3300,"description":"暴走娘五千両の涙","extra":{"出演者":"並木史朗"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1qhc",
+  "category": "drama",
+  "title": "大江戸捜査網",
+  "fullTitle": "大江戸捜査網",
+  "detail": "暴走娘五千両の涙\n◇出演者\n並木史朗",
+  "start": 1561010700000,
+  "end": 1561014000000,
+  "seconds": 3300,
+  "description": "暴走娘五千両の涙",
+  "extra": {
+    "出演者": "並木史朗"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

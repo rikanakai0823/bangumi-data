@@ -1,1 +1,23 @@
-{"id":"36l9gkx9j7","category":"sports","title":"マリーンズナイター▽千葉ロッテ×東北楽天","fullTitle":"マリーンズナイター▽千葉ロッテ×東北楽天","detail":"【実況】黒沢幸司　【解説】里崎智也／小林雅英　【球場】ＺＯＺＯマリン","start":1553860800000,"end":1553866200000,"seconds":5400,"channel":{"type":"GR","channel":"30","name":"チバテレ２","id":"1hgoknt","sid":27705,"nid":32327,"hasLogoData":true,"n":10},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkx9j7",
+  "category": "sports",
+  "title": "マリーンズナイター▽千葉ロッテ×東北楽天",
+  "fullTitle": "マリーンズナイター▽千葉ロッテ×東北楽天",
+  "detail": "【実況】黒沢幸司　【解説】里崎智也／小林雅英　【球場】ＺＯＺＯマリン",
+  "start": 1553860800000,
+  "end": 1553866200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

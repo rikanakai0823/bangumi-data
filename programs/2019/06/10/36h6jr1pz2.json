@@ -1,1 +1,23 @@
-{"id":"36h6jr1pz2","category":"variety","title":"クイーンズランド歩き","fullTitle":"クイーンズランド歩き[Ｓ]","detail":"「海岸線を追って高級リゾートへ」ポートダグラス","start":1560170700000,"end":1560171300000,"seconds":600,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"海岸線を追って高級リゾートへ","episode":null,"flags":[]}
+{
+  "id": "36h6jr1pz2",
+  "category": "variety",
+  "title": "クイーンズランド歩き",
+  "fullTitle": "クイーンズランド歩き[Ｓ]",
+  "detail": "「海岸線を追って高級リゾートへ」ポートダグラス",
+  "start": 1560170700000,
+  "end": 1560171300000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "海岸線を追って高級リゾートへ",
+  "episode": null,
+  "flags": []
+}

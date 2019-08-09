@@ -1,1 +1,27 @@
-{"id":"36tfa8kzwj","category":"sports","title":"東京シティ競馬中継","fullTitle":"東京シティ競馬中継","detail":"「緑風賞」「プロキオン賞」「春宵賞」「あおば賞」\n◇出演者\n【ＭＣ】\r\n前半：山田桃子\r\n後半：佐々木麻衣\r\n【解説】\r\n大木尚文（競馬ブック）\r\n【場内イベント】\r\n芦崎　愛","start":1556259600000,"end":1556280000000,"seconds":20400,"description":"「緑風賞」「プロキオン賞」「春宵賞」「あおば賞」","extra":{"出演者":"【ＭＣ】\r\n前半：山田桃子\r\n後半：佐々木麻衣\r\n【解説】\r\n大木尚文（競馬ブック）\r\n【場内イベント】\r\n芦崎　愛"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8kzwj",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「緑風賞」「プロキオン賞」「春宵賞」「あおば賞」\n◇出演者\n【ＭＣ】\r\n前半：山田桃子\r\n後半：佐々木麻衣\r\n【解説】\r\n大木尚文（競馬ブック）\r\n【場内イベント】\r\n芦崎　愛",
+  "start": 1556259600000,
+  "end": 1556280000000,
+  "seconds": 20400,
+  "description": "「緑風賞」「プロキオン賞」「春宵賞」「あおば賞」",
+  "extra": {
+    "出演者": "【ＭＣ】\r\n前半：山田桃子\r\n後半：佐々木麻衣\r\n【解説】\r\n大木尚文（競馬ブック）\r\n【場内イベント】\r\n芦崎　愛"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"3826py46d5","category":"information","title":"買物の時間","fullTitle":"買物の時間","detail":"生活に役立つ商品を紹介する通販番組。\n◇お知らせ\n※特別編成により、放送時間が変更、または休止の場合があります。","start":1556386500000,"end":1556388300000,"seconds":1800,"description":"生活に役立つ商品を紹介する通販番組。","extra":{"お知らせ":"※特別編成により、放送時間が変更、または休止の場合があります。"},"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "3826py46d5",
+  "category": "information",
+  "title": "買物の時間",
+  "fullTitle": "買物の時間",
+  "detail": "生活に役立つ商品を紹介する通販番組。\n◇お知らせ\n※特別編成により、放送時間が変更、または休止の場合があります。",
+  "start": 1556386500000,
+  "end": 1556388300000,
+  "seconds": 1800,
+  "description": "生活に役立つ商品を紹介する通販番組。",
+  "extra": {
+    "お知らせ": "※特別編成により、放送時間が変更、または休止の場合があります。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

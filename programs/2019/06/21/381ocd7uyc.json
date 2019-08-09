@@ -1,1 +1,25 @@
-{"id":"381ocd7uyc","category":"information","title":"日テレナビ","fullTitle":"日テレナビ[字]","detail":"２１日（金）放送「金曜ロードＳＨＯＷ！『メン・イン・ブラック３』」と、週末放送のドラマ「俺のスカート、どこ行った？」＆「あなたの番です」の見どころをナビゲート。","start":1561083900000,"end":1561084200000,"seconds":300,"channel":{"type":"GR","channel":"25","name":"日テレ１","id":"1i54x1s","sid":1040,"nid":32738,"hasLogoData":true,"n":15},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "381ocd7uyc",
+  "category": "information",
+  "title": "日テレナビ",
+  "fullTitle": "日テレナビ[字]",
+  "detail": "２１日（金）放送「金曜ロードＳＨＯＷ！『メン・イン・ブラック３』」と、週末放送のドラマ「俺のスカート、どこ行った？」＆「あなたの番です」の見どころをナビゲート。",
+  "start": 1561083900000,
+  "end": 1561084200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,1 +1,27 @@
-{"id":"36h6jr1mgu","category":"anime","title":"仮面ライダーエグゼイド","fullTitle":"仮面ライダーエグゼイド[Ｓ]","detail":"Ｒｅｓｅｔされたゲーム！\n◇出演者\n飯島寛騎　瀬戸利樹　松本享恭　松田るか　岩永徹也　小野塚勇人　甲斐翔真　博多華丸　ほか","start":1554607800000,"end":1554609600000,"seconds":1800,"description":"Ｒｅｓｅｔされたゲーム！","extra":{"出演者":"飯島寛騎　瀬戸利樹　松本享恭　松田るか　岩永徹也　小野塚勇人　甲斐翔真　博多華丸　ほか"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1mgu",
+  "category": "anime",
+  "title": "仮面ライダーエグゼイド",
+  "fullTitle": "仮面ライダーエグゼイド[Ｓ]",
+  "detail": "Ｒｅｓｅｔされたゲーム！\n◇出演者\n飯島寛騎　瀬戸利樹　松本享恭　松田るか　岩永徹也　小野塚勇人　甲斐翔真　博多華丸　ほか",
+  "start": 1554607800000,
+  "end": 1554609600000,
+  "seconds": 1800,
+  "description": "Ｒｅｓｅｔされたゲーム！",
+  "extra": {
+    "出演者": "飯島寛騎　瀬戸利樹　松本享恭　松田るか　岩永徹也　小野塚勇人　甲斐翔真　博多華丸　ほか"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

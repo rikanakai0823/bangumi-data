@@ -1,1 +1,27 @@
-{"id":"36tfa8gksw","category":"information","title":"お買い物情報","fullTitle":"お買い物情報","detail":"マナラホットクレンジングゲル【化粧品】\n◇お知らせ\n0120-925375","start":1553218200000,"end":1553220000000,"seconds":1800,"description":"マナラホットクレンジングゲル【化粧品】","extra":{"お知らせ":"0120-925375"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"化粧品","episode":null,"flags":[]}
+{
+  "id": "36tfa8gksw",
+  "category": "information",
+  "title": "お買い物情報",
+  "fullTitle": "お買い物情報",
+  "detail": "マナラホットクレンジングゲル【化粧品】\n◇お知らせ\n0120-925375",
+  "start": 1553218200000,
+  "end": 1553220000000,
+  "seconds": 1800,
+  "description": "マナラホットクレンジングゲル【化粧品】",
+  "extra": {
+    "お知らせ": "0120-925375"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "化粧品",
+  "episode": null,
+  "flags": []
+}

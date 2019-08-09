@@ -1,1 +1,23 @@
-{"id":"36h6jr1r50","category":"music","title":"夢劇場音楽堂","fullTitle":"夢劇場音楽堂[Ｓ]","detail":"","start":1562099400000,"end":1562101200000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1r50",
+  "category": "music",
+  "title": "夢劇場音楽堂",
+  "fullTitle": "夢劇場音楽堂[Ｓ]",
+  "detail": "",
+  "start": 1562099400000,
+  "end": 1562101200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36tfa8h2qs","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"楽ちんヒアリング【集音器】\n◇お知らせ\n0120-115524","start":1564551000000,"end":1564552740000,"seconds":1740,"description":"楽ちんヒアリング【集音器】","extra":{"お知らせ":"0120-115524"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"集音器","episode":null,"flags":[]}
+{
+  "id": "36tfa8h2qs",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "楽ちんヒアリング【集音器】\n◇お知らせ\n0120-115524",
+  "start": 1564551000000,
+  "end": 1564552740000,
+  "seconds": 1740,
+  "description": "楽ちんヒアリング【集音器】",
+  "extra": {
+    "お知らせ": "0120-115524"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "集音器",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkv8nq","category":"sports","title":"Ｊリーグ中継▽柏レイソルＶＳジェフユナイテッド市原・千葉","fullTitle":"Ｊリーグ中継▽柏レイソルＶＳジェフユナイテッド市原・千葉","detail":"Ｊリーグ中継２０１９「柏レイソルＶＳジェフユナイテッド市原・千葉」","start":1561197600000,"end":1561204800000,"seconds":7200,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"柏レイソルＶＳジェフユナイテッド市原・千葉","episode":null,"flags":[]}
+{
+  "id": "36l9gkv8nq",
+  "category": "sports",
+  "title": "Ｊリーグ中継▽柏レイソルＶＳジェフユナイテッド市原・千葉",
+  "fullTitle": "Ｊリーグ中継▽柏レイソルＶＳジェフユナイテッド市原・千葉",
+  "detail": "Ｊリーグ中継２０１９「柏レイソルＶＳジェフユナイテッド市原・千葉」",
+  "start": 1561197600000,
+  "end": 1561204800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "柏レイソルＶＳジェフユナイテッド市原・千葉",
+  "episode": null,
+  "flags": []
+}

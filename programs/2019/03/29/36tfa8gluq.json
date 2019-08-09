@@ -1,1 +1,27 @@
-{"id":"36tfa8gluq","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"プライベートジム\n◇お知らせ\n0120-717-172","start":1553833800000,"end":1553835540000,"seconds":1740,"description":"プライベートジム","extra":{"お知らせ":"0120-717-172"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8gluq",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "プライベートジム\n◇お知らせ\n0120-717-172",
+  "start": 1553833800000,
+  "end": 1553835540000,
+  "seconds": 1740,
+  "description": "プライベートジム",
+  "extra": {
+    "お知らせ": "0120-717-172"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

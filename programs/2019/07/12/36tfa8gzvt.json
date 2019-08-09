@@ -1,1 +1,27 @@
-{"id":"36tfa8gzvt","category":"information","title":"お買い物情報","fullTitle":"お買い物情報","detail":"ここひえ【小型サーキュレーター】\n◇お知らせ\n0120-366041","start":1562904000000,"end":1562905800000,"seconds":1800,"description":"ここひえ【小型サーキュレーター】","extra":{"お知らせ":"0120-366041"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"小型サーキュレーター","episode":null,"flags":[]}
+{
+  "id": "36tfa8gzvt",
+  "category": "information",
+  "title": "お買い物情報",
+  "fullTitle": "お買い物情報",
+  "detail": "ここひえ【小型サーキュレーター】\n◇お知らせ\n0120-366041",
+  "start": 1562904000000,
+  "end": 1562905800000,
+  "seconds": 1800,
+  "description": "ここひえ【小型サーキュレーター】",
+  "extra": {
+    "お知らせ": "0120-366041"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "小型サーキュレーター",
+  "episode": null,
+  "flags": []
+}

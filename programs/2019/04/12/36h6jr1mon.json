@@ -1,1 +1,28 @@
-{"id":"36h6jr1mon","category":"music","title":"入山アキ子とマイク河原のここ一番の歌謡曲","fullTitle":"入山アキ子とマイク河原のここ一番の歌謡曲[Ｓ]","detail":"上杉香緒里\n◇番組内容\n上杉香緒里\n◇出演者\n上杉香緒里","start":1555014600000,"end":1555015500000,"seconds":900,"description":"上杉香緒里","extra":{"番組内容":"上杉香緒里","出演者":"上杉香緒里"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1mon",
+  "category": "music",
+  "title": "入山アキ子とマイク河原のここ一番の歌謡曲",
+  "fullTitle": "入山アキ子とマイク河原のここ一番の歌謡曲[Ｓ]",
+  "detail": "上杉香緒里\n◇番組内容\n上杉香緒里\n◇出演者\n上杉香緒里",
+  "start": 1555014600000,
+  "end": 1555015500000,
+  "seconds": 900,
+  "description": "上杉香緒里",
+  "extra": {
+    "番組内容": "上杉香緒里",
+    "出演者": "上杉香緒里"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,28 @@
-{"id":"36h6jr1ofu","category":"music","title":"千葉一夫と水城なつみの歌謡散歩","fullTitle":"千葉一夫と水城なつみの歌謡散歩[Ｓ]","detail":"冠二郎\n◇番組内容\n冠二郎\n◇出演者\n冠二郎","start":1557693000000,"end":1557694800000,"seconds":1800,"description":"冠二郎","extra":{"番組内容":"冠二郎","出演者":"冠二郎"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ofu",
+  "category": "music",
+  "title": "千葉一夫と水城なつみの歌謡散歩",
+  "fullTitle": "千葉一夫と水城なつみの歌謡散歩[Ｓ]",
+  "detail": "冠二郎\n◇番組内容\n冠二郎\n◇出演者\n冠二郎",
+  "start": 1557693000000,
+  "end": 1557694800000,
+  "seconds": 1800,
+  "description": "冠二郎",
+  "extra": {
+    "番組内容": "冠二郎",
+    "出演者": "冠二郎"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

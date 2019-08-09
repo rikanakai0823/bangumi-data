@@ -1,1 +1,27 @@
-{"id":"36h6jr1p03","category":"information","title":"ショッピングタイム・ダイレクトテレショップ","fullTitle":"ショッピングタイム・ダイレクトテレショップ[Ｓ]","detail":"◇番組内容\nグラネスファースト　　　　　　　　　　　０１２０－４６９－４６２","start":1557212400000,"end":1557214200000,"seconds":1800,"description":"","extra":{"番組内容":"グラネスファースト　　　　　　　　　　　０１２０－４６９－４６２"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1p03",
+  "category": "information",
+  "title": "ショッピングタイム・ダイレクトテレショップ",
+  "fullTitle": "ショッピングタイム・ダイレクトテレショップ[Ｓ]",
+  "detail": "◇番組内容\nグラネスファースト　　　　　　　　　　　０１２０－４６９－４６２",
+  "start": 1557212400000,
+  "end": 1557214200000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "グラネスファースト　　　　　　　　　　　０１２０－４６９－４６２"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

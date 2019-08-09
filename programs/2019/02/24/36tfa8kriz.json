@@ -1,1 +1,27 @@
-{"id":"36tfa8kriz","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"フレーバーストーンダイヤモンドエディション【キッチングッズ】\n◇お知らせ\n0120-888-0660","start":1550973600000,"end":1550975400000,"seconds":1800,"description":"フレーバーストーンダイヤモンドエディション【キッチングッズ】","extra":{"お知らせ":"0120-888-0660"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"キッチングッズ","episode":null,"flags":[]}
+{
+  "id": "36tfa8kriz",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "フレーバーストーンダイヤモンドエディション【キッチングッズ】\n◇お知らせ\n0120-888-0660",
+  "start": 1550973600000,
+  "end": 1550975400000,
+  "seconds": 1800,
+  "description": "フレーバーストーンダイヤモンドエディション【キッチングッズ】",
+  "extra": {
+    "お知らせ": "0120-888-0660"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "キッチングッズ",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkv7n5","category":"music","title":"はじめまして！僕、新浜レオンです！！","fullTitle":"はじめまして！僕、新浜レオンです！！","detail":"成田山新勝寺でお手伝い！　今回はデビューイベントでお世話になった成田山新勝寺について　住職に教えていただきつつ、お手伝いします！","start":1559563200000,"end":1559565000000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv7n5",
+  "category": "music",
+  "title": "はじめまして！僕、新浜レオンです！！",
+  "fullTitle": "はじめまして！僕、新浜レオンです！！",
+  "detail": "成田山新勝寺でお手伝い！　今回はデビューイベントでお世話になった成田山新勝寺について　住職に教えていただきつつ、お手伝いします！",
+  "start": 1559563200000,
+  "end": 1559565000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

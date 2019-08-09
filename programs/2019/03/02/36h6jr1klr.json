@@ -1,1 +1,25 @@
-{"id":"36h6jr1klr","category":"anime","title":"動物戦隊ジュウオウジャー","fullTitle":"動物戦隊ジュウオウジャー[Ｓ][終]","detail":"地球は我が家さ（最終話）","start":1551499200000,"end":1551501000000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":["終"]}
+{
+  "id": "36h6jr1klr",
+  "category": "anime",
+  "title": "動物戦隊ジュウオウジャー",
+  "fullTitle": "動物戦隊ジュウオウジャー[Ｓ][終]",
+  "detail": "地球は我が家さ（最終話）",
+  "start": 1551499200000,
+  "end": 1551501000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

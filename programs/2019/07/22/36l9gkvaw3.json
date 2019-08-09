@@ -1,1 +1,23 @@
-{"id":"36l9gkvaw3","category":"documentary","title":"大原はだか祭り","fullTitle":"大原はだか祭り","detail":"","start":1563777000000,"end":1563780300000,"seconds":3300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkvaw3",
+  "category": "documentary",
+  "title": "大原はだか祭り",
+  "fullTitle": "大原はだか祭り",
+  "detail": "",
+  "start": 1563777000000,
+  "end": 1563780300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

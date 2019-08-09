@@ -1,1 +1,28 @@
-{"id":"36rdttjzlr","category":"music","title":"伊藤政則のＲＯＣＫ　ＣＩＴＹ","fullTitle":"伊藤政則のＲＯＣＫ　ＣＩＴＹ","detail":"▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容１\nMYRATH/Born To Survive\r\nGRETA VAN FLEET/ Jake Kiszka (G.)&Sam Kiszka (B.) インタビュー\r\nGRETA VAN FLEET/Safari Song\r\nLive at Rebel Nightclub in Toronto on July 6, 2018\n◇番組内容２\nGRETA VAN FLEET/Highway Tune\r\nLive at Rebel Nightclub in Toronto on July 6, 2018\r\nCANDLEMASS/Astorolus - The Great Octopus","start":1556978400000,"end":1556980200000,"seconds":1800,"description":"▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組","extra":{"番組内容１":"MYRATH/Born To Survive\r\nGRETA VAN FLEET/ Jake Kiszka (G.)&Sam Kiszka (B.) インタビュー\r\nGRETA VAN FLEET/Safari Song\r\nLive at Rebel Nightclub in Toronto on July 6, 2018","番組内容２":"GRETA VAN FLEET/Highway Tune\r\nLive at Rebel Nightclub in Toronto on July 6, 2018\r\nCANDLEMASS/Astorolus - The Great Octopus"},"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttjzlr",
+  "category": "music",
+  "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
+  "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容１\nMYRATH/Born To Survive\r\nGRETA VAN FLEET/ Jake Kiszka (G.)&Sam Kiszka (B.) インタビュー\r\nGRETA VAN FLEET/Safari Song\r\nLive at Rebel Nightclub in Toronto on July 6, 2018\n◇番組内容２\nGRETA VAN FLEET/Highway Tune\r\nLive at Rebel Nightclub in Toronto on July 6, 2018\r\nCANDLEMASS/Astorolus - The Great Octopus",
+  "start": 1556978400000,
+  "end": 1556980200000,
+  "seconds": 1800,
+  "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "extra": {
+    "番組内容１": "MYRATH/Born To Survive\r\nGRETA VAN FLEET/ Jake Kiszka (G.)&Sam Kiszka (B.) インタビュー\r\nGRETA VAN FLEET/Safari Song\r\nLive at Rebel Nightclub in Toronto on July 6, 2018",
+    "番組内容２": "GRETA VAN FLEET/Highway Tune\r\nLive at Rebel Nightclub in Toronto on July 6, 2018\r\nCANDLEMASS/Astorolus - The Great Octopus"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

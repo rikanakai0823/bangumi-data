@@ -1,1 +1,28 @@
-{"id":"36h6jr1muu","category":"music","title":"津吹みゆと一条貫太のこちら最新歌謡曲","fullTitle":"津吹みゆと一条貫太のこちら最新歌謡曲[Ｓ]","detail":"鏡五郎\n◇番組内容\n鏡五郎\n◇出演者\n鏡五郎","start":1555288200000,"end":1555290000000,"seconds":1800,"description":"鏡五郎","extra":{"番組内容":"鏡五郎","出演者":"鏡五郎"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1muu",
+  "category": "music",
+  "title": "津吹みゆと一条貫太のこちら最新歌謡曲",
+  "fullTitle": "津吹みゆと一条貫太のこちら最新歌謡曲[Ｓ]",
+  "detail": "鏡五郎\n◇番組内容\n鏡五郎\n◇出演者\n鏡五郎",
+  "start": 1555288200000,
+  "end": 1555290000000,
+  "seconds": 1800,
+  "description": "鏡五郎",
+  "extra": {
+    "番組内容": "鏡五郎",
+    "出演者": "鏡五郎"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

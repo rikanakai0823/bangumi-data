@@ -1,1 +1,28 @@
-{"id":"36h6jr1js9","category":"music","title":"山崎ていじのさわやか歌謡曲","fullTitle":"山崎ていじのさわやか歌謡曲[Ｓ]","detail":"ハン・ジナ\n◇番組内容\nハン・ジナ\n◇出演者\nハン・ジナ","start":1550177100000,"end":1550178000000,"seconds":900,"description":"ハン・ジナ","extra":{"番組内容":"ハン・ジナ","出演者":"ハン・ジナ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1js9",
+  "category": "music",
+  "title": "山崎ていじのさわやか歌謡曲",
+  "fullTitle": "山崎ていじのさわやか歌謡曲[Ｓ]",
+  "detail": "ハン・ジナ\n◇番組内容\nハン・ジナ\n◇出演者\nハン・ジナ",
+  "start": 1550177100000,
+  "end": 1550178000000,
+  "seconds": 900,
+  "description": "ハン・ジナ",
+  "extra": {
+    "番組内容": "ハン・ジナ",
+    "出演者": "ハン・ジナ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

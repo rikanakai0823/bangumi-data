@@ -1,1 +1,23 @@
-{"id":"36h6jr1ryl","category":"etc","title":"２０１９参議院議員選挙　政見放送","fullTitle":"２０１９参議院議員選挙　政見放送[Ｓ]","detail":"","start":1563357600000,"end":1563360900000,"seconds":3300,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ryl",
+  "category": "etc",
+  "title": "２０１９参議院議員選挙　政見放送",
+  "fullTitle": "２０１９参議院議員選挙　政見放送[Ｓ]",
+  "detail": "",
+  "start": 1563357600000,
+  "end": 1563360900000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

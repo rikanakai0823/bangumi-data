@@ -1,1 +1,23 @@
-{"id":"36l9gkvayk","category":"music","title":"西川ひとみの歌日和知里","fullTitle":"西川ひとみの歌日和【ゲスト】知里","detail":"【ゲスト】知里♪華ロック♪　【推薦曲】加宮ゆうき♪Ｔｏｋｙｏカーニバル♪","start":1564115400000,"end":1564116300000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36l9gkvayk",
+  "category": "music",
+  "title": "西川ひとみの歌日和知里",
+  "fullTitle": "西川ひとみの歌日和【ゲスト】知里",
+  "detail": "【ゲスト】知里♪華ロック♪　【推薦曲】加宮ゆうき♪Ｔｏｋｙｏカーニバル♪",
+  "start": 1564115400000,
+  "end": 1564116300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,25 @@
-{"id":"36h6jr1qq2","category":"variety","title":"ＬＩＰＳＳ～イノセントな囁き～","fullTitle":"ＬＩＰＳＳ～イノセントな囁き～[Ｓ][終]","detail":"","start":1561474800000,"end":1561476600000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":["終"]}
+{
+  "id": "36h6jr1qq2",
+  "category": "variety",
+  "title": "ＬＩＰＳＳ～イノセントな囁き～",
+  "fullTitle": "ＬＩＰＳＳ～イノセントな囁き～[Ｓ][終]",
+  "detail": "",
+  "start": 1561474800000,
+  "end": 1561476600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

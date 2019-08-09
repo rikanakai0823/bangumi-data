@@ -1,1 +1,25 @@
-{"id":"3826py4bjv","category":"information","title":"「ＴＨＥカラオケ★バトル」オススメ","fullTitle":"「ＴＨＥカラオケ★バトル」オススメ[字]","detail":"８／１８(日)放送「ＴＨＥカラオケ★バトル」の見どころを紹介します！","start":1565763900000,"end":1565764800000,"seconds":900,"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"ＴＨＥカラオケ★バトル","episode":null,"flags":["字"]}
+{
+  "id": "3826py4bjv",
+  "category": "information",
+  "title": "「ＴＨＥカラオケ★バトル」オススメ",
+  "fullTitle": "「ＴＨＥカラオケ★バトル」オススメ[字]",
+  "detail": "８／１８(日)放送「ＴＨＥカラオケ★バトル」の見どころを紹介します！",
+  "start": 1565763900000,
+  "end": 1565764800000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "ＴＨＥカラオケ★バトル",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

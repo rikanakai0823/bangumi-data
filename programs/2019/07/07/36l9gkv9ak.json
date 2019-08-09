@@ -1,1 +1,25 @@
-{"id":"36l9gkv9ak","category":"music","title":"カラオケ大賞みずき舞","fullTitle":"カラオケ大賞[再]【ゲスト】みずき舞","detail":"【ゲスト】みずき舞　【審査委員】伊戸のりお　【司会】風見しんご　【アシスタント】飯田有咲","start":1562486400000,"end":1562489700000,"seconds":3300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv9ak",
+  "category": "music",
+  "title": "カラオケ大賞みずき舞",
+  "fullTitle": "カラオケ大賞[再]【ゲスト】みずき舞",
+  "detail": "【ゲスト】みずき舞　【審査委員】伊戸のりお　【司会】風見しんご　【アシスタント】飯田有咲",
+  "start": 1562486400000,
+  "end": 1562489700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

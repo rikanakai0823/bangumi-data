@@ -1,1 +1,23 @@
-{"id":"3826py49t4","category":"information","title":"Ｇｏｏｄｓ　Ｂａｒ","fullTitle":"Ｇｏｏｄｓ　Ｂａｒ","detail":"世界のアッと驚くイチオシ商品をご紹介！","start":1563903300000,"end":1563905100000,"seconds":1800,"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "3826py49t4",
+  "category": "information",
+  "title": "Ｇｏｏｄｓ　Ｂａｒ",
+  "fullTitle": "Ｇｏｏｄｓ　Ｂａｒ",
+  "detail": "世界のアッと驚くイチオシ商品をご紹介！",
+  "start": 1563903300000,
+  "end": 1563905100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36tfa8gf98","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"毎日骨ケアＭＢＰ【特定保健用食品】\n◇お知らせ\n0120-750-080","start":1549774800000,"end":1549776600000,"seconds":1800,"description":"毎日骨ケアＭＢＰ【特定保健用食品】","extra":{"お知らせ":"0120-750-080"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"特定保健用食品","episode":null,"flags":[]}
+{
+  "id": "36tfa8gf98",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "毎日骨ケアＭＢＰ【特定保健用食品】\n◇お知らせ\n0120-750-080",
+  "start": 1549774800000,
+  "end": 1549776600000,
+  "seconds": 1800,
+  "description": "毎日骨ケアＭＢＰ【特定保健用食品】",
+  "extra": {
+    "お知らせ": "0120-750-080"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "特定保健用食品",
+  "episode": null,
+  "flags": []
+}

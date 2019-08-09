@@ -1,1 +1,28 @@
-{"id":"36h6jr1ngb","category":"music","title":"ＳＳＣ５","fullTitle":"ＳＳＣ５[Ｓ]","detail":"Ａｍｅｌｉｅ「ノンフィクション」\n◇番組内容\nＡｍｅｌ：ｅ「ノンフィクション」\n◇出演者\nＡｍｅｌ：ｅ「ノンフィクション」","start":1556298300000,"end":1556298600000,"seconds":300,"description":"Ａｍｅｌｉｅ「ノンフィクション」","extra":{"番組内容":"Ａｍｅｌ：ｅ「ノンフィクション」","出演者":"Ａｍｅｌ：ｅ「ノンフィクション」"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"ノンフィクション","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ngb",
+  "category": "music",
+  "title": "ＳＳＣ５",
+  "fullTitle": "ＳＳＣ５[Ｓ]",
+  "detail": "Ａｍｅｌｉｅ「ノンフィクション」\n◇番組内容\nＡｍｅｌ：ｅ「ノンフィクション」\n◇出演者\nＡｍｅｌ：ｅ「ノンフィクション」",
+  "start": 1556298300000,
+  "end": 1556298600000,
+  "seconds": 300,
+  "description": "Ａｍｅｌｉｅ「ノンフィクション」",
+  "extra": {
+    "番組内容": "Ａｍｅｌ：ｅ「ノンフィクション」",
+    "出演者": "Ａｍｅｌ：ｅ「ノンフィクション」"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "ノンフィクション",
+  "episode": null,
+  "flags": []
+}

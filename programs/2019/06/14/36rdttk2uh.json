@@ -1,1 +1,23 @@
-{"id":"36rdttk2uh","category":"news","title":"Ｉｎｎｏｖａｔｉｏｎ　Ｃｈａｎｎｅｌ　ＳＤＧｓ　横浜の挑戦","fullTitle":"Ｉｎｎｏｖａｔｉｏｎ　Ｃｈａｎｎｅｌ　ＳＤＧｓ　横浜の挑戦","detail":"　","start":1560517080000,"end":1560517200000,"seconds":120,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttk2uh",
+  "category": "news",
+  "title": "Ｉｎｎｏｖａｔｉｏｎ　Ｃｈａｎｎｅｌ　ＳＤＧｓ　横浜の挑戦",
+  "fullTitle": "Ｉｎｎｏｖａｔｉｏｎ　Ｃｈａｎｎｅｌ　ＳＤＧｓ　横浜の挑戦",
+  "detail": "　",
+  "start": 1560517080000,
+  "end": 1560517200000,
+  "seconds": 120,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

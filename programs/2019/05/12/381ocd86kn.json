@@ -1,1 +1,26 @@
-{"id":"381ocd86kn","category":"sports","title":"メジャー初戦　ワールドレディスチャンピオンシップサロンパス杯２０１９　最終日","fullTitle":"メジャー初戦　ワールドレディスチャンピオンシップサロンパス杯２０１９　最終日[字][デ]","detail":"","start":1557640800000,"end":1557645900000,"seconds":5100,"channel":{"type":"GR","channel":"25","name":"日テレ１","id":"1i54x1s","sid":1040,"nid":32738,"hasLogoData":true,"n":15},"subTitle":"","episode":null,"flags":["字","デ"]}
+{
+  "id": "381ocd86kn",
+  "category": "sports",
+  "title": "メジャー初戦　ワールドレディスチャンピオンシップサロンパス杯２０１９　最終日",
+  "fullTitle": "メジャー初戦　ワールドレディスチャンピオンシップサロンパス杯２０１９　最終日[字][デ]",
+  "detail": "",
+  "start": 1557640800000,
+  "end": 1557645900000,
+  "seconds": 5100,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

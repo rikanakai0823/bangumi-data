@@ -1,1 +1,25 @@
-{"id":"36h6jr1mrj","category":"variety","title":"Ｓｔｒｉｋｅ！！　～ MACHIBIJO another story  ～","fullTitle":"Ｓｔｒｉｋｅ！！　～ MACHIBIJO another story  ～[Ｓ][再]","detail":"","start":1555165800000,"end":1555166100000,"seconds":300,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36h6jr1mrj",
+  "category": "variety",
+  "title": "Ｓｔｒｉｋｅ！！　～ MACHIBIJO another story  ～",
+  "fullTitle": "Ｓｔｒｉｋｅ！！　～ MACHIBIJO another story  ～[Ｓ][再]",
+  "detail": "",
+  "start": 1555165800000,
+  "end": 1555166100000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

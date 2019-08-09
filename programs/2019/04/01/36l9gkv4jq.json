@@ -1,1 +1,25 @@
-{"id":"36l9gkv4jq","category":"anime","title":"トムとジェリーテイルズ▽トムのドラゴン退治　ほか","fullTitle":"トムとジェリーテイルズ▽[二]トムのドラゴン退治　ほか　＃３","detail":"第３話（全２６話）　①トムのドラゴン退治　②お城で魔法合戦　③ロックでムズムズ・ダンシング","start":1554107400000,"end":1554109200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":3,"flags":["二"]}
+{
+  "id": "36l9gkv4jq",
+  "category": "anime",
+  "title": "トムとジェリーテイルズ▽トムのドラゴン退治　ほか",
+  "fullTitle": "トムとジェリーテイルズ▽[二]トムのドラゴン退治　ほか　＃３",
+  "detail": "第３話（全２６話）　①トムのドラゴン退治　②お城で魔法合戦　③ロックでムズムズ・ダンシング",
+  "start": 1554107400000,
+  "end": 1554109200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

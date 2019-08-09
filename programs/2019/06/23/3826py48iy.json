@@ -1,1 +1,27 @@
-{"id":"3826py48iy","category":"information","title":"サンデーテレショップ","fullTitle":"サンデーテレショップ","detail":"日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。\n◇関連情報\n【番組公式HP】\r\ntv-tokyoshop.jp/","start":1561237200000,"end":1561240440000,"seconds":3240,"description":"日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。","extra":{"関連情報":"【番組公式HP】\r\ntv-tokyoshop.jp/"},"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "3826py48iy",
+  "category": "information",
+  "title": "サンデーテレショップ",
+  "fullTitle": "サンデーテレショップ",
+  "detail": "日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。\n◇関連情報\n【番組公式HP】\r\ntv-tokyoshop.jp/",
+  "start": 1561237200000,
+  "end": 1561240440000,
+  "seconds": 3240,
+  "description": "日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。",
+  "extra": {
+    "関連情報": "【番組公式HP】\r\ntv-tokyoshop.jp/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,25 @@
-{"id":"36l9gkvb6l","category":"anime","title":"トムとジェリーテイルズ▽トムはごちそう？　ほか","fullTitle":"トムとジェリーテイルズ▽[二]トムはごちそう？　ほか　＃１９","detail":"第１９話（全２６話）　①トムはごちそう？　②とんだ親子のぶっとび騒動　③さるトム合戦","start":1564389000000,"end":1564390800000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":19,"flags":["二"]}
+{
+  "id": "36l9gkvb6l",
+  "category": "anime",
+  "title": "トムとジェリーテイルズ▽トムはごちそう？　ほか",
+  "fullTitle": "トムとジェリーテイルズ▽[二]トムはごちそう？　ほか　＃１９",
+  "detail": "第１９話（全２６話）　①トムはごちそう？　②とんだ親子のぶっとび騒動　③さるトム合戦",
+  "start": 1564389000000,
+  "end": 1564390800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 19,
+  "flags": [
+    "二"
+  ]
+}

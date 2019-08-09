@@ -1,1 +1,27 @@
-{"id":"36h6jr1so4","category":"information","title":"ＴＶショッピング・ダイレクトテレショップ","fullTitle":"ＴＶショッピング・ダイレクトテレショップ[Ｓ]","detail":"◇番組内容\nコンフォートクリックベルト　　　　　　　０１２０－８８８－６５４","start":1562468400000,"end":1562470200000,"seconds":1800,"description":"","extra":{"番組内容":"コンフォートクリックベルト　　　　　　　０１２０－８８８－６５４"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1so4",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
+  "fullTitle": "ＴＶショッピング・ダイレクトテレショップ[Ｓ]",
+  "detail": "◇番組内容\nコンフォートクリックベルト　　　　　　　０１２０－８８８－６５４",
+  "start": 1562468400000,
+  "end": 1562470200000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "コンフォートクリックベルト　　　　　　　０１２０－８８８－６５４"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,25 @@
-{"id":"381f5ksodz","category":"variety","title":"ＬＩＦＥ！５ミニッツ","fullTitle":"ＬＩＦＥ！５ミニッツ「囲み取材」[字]","detail":"「ＬＩＦＥ！」３月１５日の放送を前に過去の傑作コントをお届けする５ミニッツ。田中直樹演じるゲスニックマガジンの西条記者がきりこむ「囲み取材」をお楽しみ下さい。","start":1552402200000,"end":1552402500000,"seconds":300,"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"囲み取材","episode":null,"flags":["字"]}
+{
+  "id": "381f5ksodz",
+  "category": "variety",
+  "title": "ＬＩＦＥ！５ミニッツ",
+  "fullTitle": "ＬＩＦＥ！５ミニッツ「囲み取材」[字]",
+  "detail": "「ＬＩＦＥ！」３月１５日の放送を前に過去の傑作コントをお届けする５ミニッツ。田中直樹演じるゲスニックマガジンの西条記者がきりこむ「囲み取材」をお楽しみ下さい。",
+  "start": 1552402200000,
+  "end": 1552402500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "囲み取材",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

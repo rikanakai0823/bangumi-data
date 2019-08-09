@@ -1,1 +1,27 @@
-{"id":"36tfa8gp7t","category":"variety","title":"鈴木のこのみ","fullTitle":"鈴木のこのみ","detail":"◇出演者      \n【出演】\r\n鈴木このみ","start":1555948800000,"end":1555949100000,"seconds":300,"description":" ","extra":{"出演者      ":"【出演】\r\n鈴木このみ"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8gp7t",
+  "category": "variety",
+  "title": "鈴木のこのみ",
+  "fullTitle": "鈴木のこのみ",
+  "detail": "◇出演者      \n【出演】\r\n鈴木このみ",
+  "start": 1555948800000,
+  "end": 1555949100000,
+  "seconds": 300,
+  "description": " ",
+  "extra": {
+    "出演者      ": "【出演】\r\n鈴木このみ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

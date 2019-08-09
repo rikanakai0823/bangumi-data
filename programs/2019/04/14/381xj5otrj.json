@@ -1,1 +1,23 @@
-{"id":"381xj5otrj","category":"etc","title":"ガイド","fullTitle":"ガイド","detail":"","start":1555225200000,"end":1555225500000,"seconds":300,"channel":{"type":"GR","channel":"21","name":"フジテレビ","id":"1i597ds","sid":1056,"nid":32740,"hasLogoData":true,"n":28},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381xj5otrj",
+  "category": "etc",
+  "title": "ガイド",
+  "fullTitle": "ガイド",
+  "detail": "",
+  "start": 1555225200000,
+  "end": 1555225500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

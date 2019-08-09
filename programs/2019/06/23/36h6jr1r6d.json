@@ -1,1 +1,27 @@
-{"id":"36h6jr1r6d","category":"information","title":"お買い物チャンネル・イチオシ☆つーはん","fullTitle":"お買い物チャンネル・イチオシ☆つーはん[Ｓ]","detail":"◇番組内容\nＬＩＦＥ　ＵＰ　ＰＲＯ　　　　　　　　　０１２０－４１４１－８１","start":1561239000000,"end":1561240800000,"seconds":1800,"description":"","extra":{"番組内容":"ＬＩＦＥ　ＵＰ　ＰＲＯ　　　　　　　　　０１２０－４１４１－８１"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1r6d",
+  "category": "information",
+  "title": "お買い物チャンネル・イチオシ☆つーはん",
+  "fullTitle": "お買い物チャンネル・イチオシ☆つーはん[Ｓ]",
+  "detail": "◇番組内容\nＬＩＦＥ　ＵＰ　ＰＲＯ　　　　　　　　　０１２０－４１４１－８１",
+  "start": 1561239000000,
+  "end": 1561240800000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ＬＩＦＥ　ＵＰ　ＰＲＯ　　　　　　　　　０１２０－４１４１－８１"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

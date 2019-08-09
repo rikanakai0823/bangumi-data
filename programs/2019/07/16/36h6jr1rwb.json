@@ -1,1 +1,28 @@
-{"id":"36h6jr1rwb","category":"music","title":"千葉一夫と藍ようこの歌謡音楽館","fullTitle":"千葉一夫と藍ようこの歌謡音楽館[Ｓ]","detail":"水城なつみ\n◇番組内容\n水城なつみ\n◇出演者\n水城なつみ","start":1563222600000,"end":1563224400000,"seconds":1800,"description":"水城なつみ","extra":{"番組内容":"水城なつみ","出演者":"水城なつみ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1rwb",
+  "category": "music",
+  "title": "千葉一夫と藍ようこの歌謡音楽館",
+  "fullTitle": "千葉一夫と藍ようこの歌謡音楽館[Ｓ]",
+  "detail": "水城なつみ\n◇番組内容\n水城なつみ\n◇出演者\n水城なつみ",
+  "start": 1563222600000,
+  "end": 1563224400000,
+  "seconds": 1800,
+  "description": "水城なつみ",
+  "extra": {
+    "番組内容": "水城なつみ",
+    "出演者": "水城なつみ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

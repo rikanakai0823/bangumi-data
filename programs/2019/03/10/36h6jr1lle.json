@@ -1,1 +1,23 @@
-{"id":"36h6jr1lle","category":"etc","title":"ショップチャンネル","fullTitle":"ショップチャンネル[Ｓ]","detail":"お得！納得！家電スペシャルデイズ　大活躍！この時期うれしい「ダイキン　エアコン」をご紹介。","start":1552212000000,"end":1552215600000,"seconds":3600,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"ダイキン　エアコン","episode":null,"flags":[]}
+{
+  "id": "36h6jr1lle",
+  "category": "etc",
+  "title": "ショップチャンネル",
+  "fullTitle": "ショップチャンネル[Ｓ]",
+  "detail": "お得！納得！家電スペシャルデイズ　大活躍！この時期うれしい「ダイキン　エアコン」をご紹介。",
+  "start": 1552212000000,
+  "end": 1552215600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "ダイキン　エアコン",
+  "episode": null,
+  "flags": []
+}

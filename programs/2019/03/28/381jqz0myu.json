@@ -1,1 +1,23 @@
-{"id":"381jqz0myu","category":"anime","title":"プチプチ・アニメ　こにぎりくん","fullTitle":"プチプチ・アニメ　こにぎりくん「ちょうちょ」","detail":"三角ボディにごま塩頭、元気なおにぎりの男の子、こにぎりくん。お友達のケロッケやペットのブロッコリーと、今日は何をして遊ぼうかな？","start":1553755200000,"end":1553755500000,"seconds":300,"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"ちょうちょ","episode":null,"flags":[]}
+{
+  "id": "381jqz0myu",
+  "category": "anime",
+  "title": "プチプチ・アニメ　こにぎりくん",
+  "fullTitle": "プチプチ・アニメ　こにぎりくん「ちょうちょ」",
+  "detail": "三角ボディにごま塩頭、元気なおにぎりの男の子、こにぎりくん。お友達のケロッケやペットのブロッコリーと、今日は何をして遊ぼうかな？",
+  "start": 1553755200000,
+  "end": 1553755500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "ちょうちょ",
+  "episode": null,
+  "flags": []
+}

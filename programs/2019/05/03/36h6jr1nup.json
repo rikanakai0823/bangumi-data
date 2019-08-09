@@ -1,1 +1,28 @@
-{"id":"36h6jr1nup","category":"music","title":"入山アキ子とマイク河原のここ一番の歌謡曲","fullTitle":"入山アキ子とマイク河原のここ一番の歌謡曲[Ｓ]","detail":"真咲よう子\n◇番組内容\n真咲よう子\n◇出演者\n真咲よう子","start":1556829000000,"end":1556829900000,"seconds":900,"description":"真咲よう子","extra":{"番組内容":"真咲よう子","出演者":"真咲よう子"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1nup",
+  "category": "music",
+  "title": "入山アキ子とマイク河原のここ一番の歌謡曲",
+  "fullTitle": "入山アキ子とマイク河原のここ一番の歌謡曲[Ｓ]",
+  "detail": "真咲よう子\n◇番組内容\n真咲よう子\n◇出演者\n真咲よう子",
+  "start": 1556829000000,
+  "end": 1556829900000,
+  "seconds": 900,
+  "description": "真咲よう子",
+  "extra": {
+    "番組内容": "真咲よう子",
+    "出演者": "真咲よう子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

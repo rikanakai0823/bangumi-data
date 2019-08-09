@@ -1,1 +1,23 @@
-{"id":"36l9gkv2dy","category":"information","title":"生活情報１１５分","fullTitle":"生活情報１１５分","detail":"生放送テレビショッピング！生放送ならではの旬な商品をお届け！　今欲しくなる皆様にぴったりの商品をご紹介！今だけの期間限定特価商品も！　ご期待下さい！！","start":1549864800000,"end":1549871700000,"seconds":6900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv2dy",
+  "category": "information",
+  "title": "生活情報１１５分",
+  "fullTitle": "生活情報１１５分",
+  "detail": "生放送テレビショッピング！生放送ならではの旬な商品をお届け！　今欲しくなる皆様にぴったりの商品をご紹介！今だけの期間限定特価商品も！　ご期待下さい！！",
+  "start": 1549864800000,
+  "end": 1549871700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

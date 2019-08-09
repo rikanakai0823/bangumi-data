@@ -1,1 +1,27 @@
-{"id":"36tfa8l8k7","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"リョウシンＪＶ錠【医薬品】\n◇お知らせ\n0120-010888","start":1561802400000,"end":1561804200000,"seconds":1800,"description":"リョウシンＪＶ錠【医薬品】","extra":{"お知らせ":"0120-010888"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"医薬品","episode":null,"flags":[]}
+{
+  "id": "36tfa8l8k7",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "リョウシンＪＶ錠【医薬品】\n◇お知らせ\n0120-010888",
+  "start": 1561802400000,
+  "end": 1561804200000,
+  "seconds": 1800,
+  "description": "リョウシンＪＶ錠【医薬品】",
+  "extra": {
+    "お知らせ": "0120-010888"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "医薬品",
+  "episode": null,
+  "flags": []
+}

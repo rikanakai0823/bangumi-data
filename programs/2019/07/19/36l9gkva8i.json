@@ -1,1 +1,25 @@
-{"id":"36l9gkva8i","category":"documentary","title":"ちば見聞録","fullTitle":"ちば見聞録[再]","detail":"房総の檀林（匝瑳）　【内容】格式が高かったと言われる匝瑳市の飯高檀林の当時の役割や教えなどを紹介。","start":1563510600000,"end":1563512100000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"内容","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkva8i",
+  "category": "documentary",
+  "title": "ちば見聞録",
+  "fullTitle": "ちば見聞録[再]",
+  "detail": "房総の檀林（匝瑳）　【内容】格式が高かったと言われる匝瑳市の飯高檀林の当時の役割や教えなどを紹介。",
+  "start": 1563510600000,
+  "end": 1563512100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

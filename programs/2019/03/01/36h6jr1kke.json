@@ -1,1 +1,27 @@
-{"id":"36h6jr1kke","category":"music","title":"カラオケ１ばん推薦曲","fullTitle":"カラオケ１ばん推薦曲[Ｓ]","detail":"カラオケ１ばん推薦の1 曲をお送りします\n◇番組内容\nカラオケ１ばん推薦の1 曲をお送りします","start":1551441300000,"end":1551441600000,"seconds":300,"description":"カラオケ１ばん推薦の1 曲をお送りします","extra":{"番組内容":"カラオケ１ばん推薦の1 曲をお送りします"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kke",
+  "category": "music",
+  "title": "カラオケ１ばん推薦曲",
+  "fullTitle": "カラオケ１ばん推薦曲[Ｓ]",
+  "detail": "カラオケ１ばん推薦の1 曲をお送りします\n◇番組内容\nカラオケ１ばん推薦の1 曲をお送りします",
+  "start": 1551441300000,
+  "end": 1551441600000,
+  "seconds": 300,
+  "description": "カラオケ１ばん推薦の1 曲をお送りします",
+  "extra": {
+    "番組内容": "カラオケ１ばん推薦の1 曲をお送りします"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

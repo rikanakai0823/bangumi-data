@@ -1,1 +1,27 @@
-{"id":"36h6jr1ktj","category":"information","title":"ＴＶショッピング・ガールズハッピースタイル","fullTitle":"ＴＶショッピング・ガールズハッピースタイル","detail":"◇出演者\nピカ子・あびる優・安西ひろこ・魔裟斗　　竹中三佳・久野知美・佐藤弥生","start":1550937600000,"end":1550939400000,"seconds":1800,"description":"","extra":{"出演者":"ピカ子・あびる優・安西ひろこ・魔裟斗　　竹中三佳・久野知美・佐藤弥生"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ktj",
+  "category": "information",
+  "title": "ＴＶショッピング・ガールズハッピースタイル",
+  "fullTitle": "ＴＶショッピング・ガールズハッピースタイル",
+  "detail": "◇出演者\nピカ子・あびる優・安西ひろこ・魔裟斗　　竹中三佳・久野知美・佐藤弥生",
+  "start": 1550937600000,
+  "end": 1550939400000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "ピカ子・あびる優・安西ひろこ・魔裟斗　　竹中三佳・久野知美・佐藤弥生"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

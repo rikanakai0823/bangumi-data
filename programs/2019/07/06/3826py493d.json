@@ -1,1 +1,23 @@
-{"id":"3826py493d","category":"anime","title":"フルーツバスケット","fullTitle":"フルーツバスケット「ヒミツだよ」","detail":"母親の一周忌にお墓参りに行く予定の透。由希も一緒に行きたいと申し出るが夾がなぜか黙りこんでしまう。さらに透は、バイト先で紅葉の過去について知ることになる…。","start":1562343780000,"end":1562345580000,"seconds":1800,"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"ヒミツだよ","episode":null,"flags":[]}
+{
+  "id": "3826py493d",
+  "category": "anime",
+  "title": "フルーツバスケット",
+  "fullTitle": "フルーツバスケット「ヒミツだよ」",
+  "detail": "母親の一周忌にお墓参りに行く予定の透。由希も一緒に行きたいと申し出るが夾がなぜか黙りこんでしまう。さらに透は、バイト先で紅葉の過去について知ることになる…。",
+  "start": 1562343780000,
+  "end": 1562345580000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "ヒミツだよ",
+  "episode": null,
+  "flags": []
+}

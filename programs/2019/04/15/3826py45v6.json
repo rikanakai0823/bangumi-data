@@ -1,1 +1,30 @@
-{"id":"3826py45v6","category":"anime","title":"闇芝居","fullTitle":"闇芝居[再]","detail":"「友無洞」\n◇制作\n【製作】「闇芝居」製作委員会\n◇関連情報\n【公式サイト】\r\nani.tv/yamishibai/","start":1555265100000,"end":1555265400000,"seconds":300,"description":"「友無洞」","extra":{"制作":"【製作】「闇芝居」製作委員会","関連情報":"【公式サイト】\r\nani.tv/yamishibai/"},"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"友無洞","episode":null,"flags":["再"]}
+{
+  "id": "3826py45v6",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "「友無洞」\n◇制作\n【製作】「闇芝居」製作委員会\n◇関連情報\n【公式サイト】\r\nani.tv/yamishibai/",
+  "start": 1555265100000,
+  "end": 1555265400000,
+  "seconds": 300,
+  "description": "「友無洞」",
+  "extra": {
+    "制作": "【製作】「闇芝居」製作委員会",
+    "関連情報": "【公式サイト】\r\nani.tv/yamishibai/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "友無洞",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,1 +1,30 @@
-{"id":"36h6jr1s8p","category":"music","title":"カラオケ１ばん","fullTitle":"カラオケ１ばん[Ｓ][再]","detail":"ゲスト　半田浩二　美里里美\n◇番組内容\nゲスト　半田浩二　美里里美\n◇出演者\n司会：岸田敏志　みずき舞","start":1563793200000,"end":1563796500000,"seconds":3300,"description":"ゲスト　半田浩二　美里里美","extra":{"番組内容":"ゲスト　半田浩二　美里里美","出演者":"司会：岸田敏志　みずき舞"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36h6jr1s8p",
+  "category": "music",
+  "title": "カラオケ１ばん",
+  "fullTitle": "カラオケ１ばん[Ｓ][再]",
+  "detail": "ゲスト　半田浩二　美里里美\n◇番組内容\nゲスト　半田浩二　美里里美\n◇出演者\n司会：岸田敏志　みずき舞",
+  "start": 1563793200000,
+  "end": 1563796500000,
+  "seconds": 3300,
+  "description": "ゲスト　半田浩二　美里里美",
+  "extra": {
+    "番組内容": "ゲスト　半田浩二　美里里美",
+    "出演者": "司会：岸田敏志　みずき舞"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

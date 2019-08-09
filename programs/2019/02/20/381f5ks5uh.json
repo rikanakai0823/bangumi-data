@@ -1,1 +1,30 @@
-{"id":"381f5ks5uh","category":"news","title":"視点・論点","fullTitle":"視点・論点「最期から考える幸せな人生」[字][再]","detail":"訪問診療医…小堀〓一郎\n◇出演者\n【出演】訪問診療医…小堀〓一郎","start":1550602200000,"end":1550602800000,"seconds":600,"description":"訪問診療医…小堀〓一郎","extra":{"出演者":"【出演】訪問診療医…小堀〓一郎"},"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"最期から考える幸せな人生","episode":null,"flags":["字","再"]}
+{
+  "id": "381f5ks5uh",
+  "category": "news",
+  "title": "視点・論点",
+  "fullTitle": "視点・論点「最期から考える幸せな人生」[字][再]",
+  "detail": "訪問診療医…小堀〓一郎\n◇出演者\n【出演】訪問診療医…小堀〓一郎",
+  "start": 1550602200000,
+  "end": 1550602800000,
+  "seconds": 600,
+  "description": "訪問診療医…小堀〓一郎",
+  "extra": {
+    "出演者": "【出演】訪問診療医…小堀〓一郎"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "最期から考える幸せな人生",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

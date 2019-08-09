@@ -1,1 +1,23 @@
-{"id":"36rdttk3jr","category":"music","title":"洋楽天国＋","fullTitle":"洋楽天国＋「ＱＵＥＥＮ特集」","detail":"映画「ボヘミアン・ラプソディ」の公開で改めて注目を集める「クイーン」を特集！\r\n誰もが聞いたことのある大ヒット曲や貴重なライブ映像を紹介！","start":1561305600000,"end":1561307400000,"seconds":1800,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"ＱＵＥＥＮ特集","episode":null,"flags":[]}
+{
+  "id": "36rdttk3jr",
+  "category": "music",
+  "title": "洋楽天国＋",
+  "fullTitle": "洋楽天国＋「ＱＵＥＥＮ特集」",
+  "detail": "映画「ボヘミアン・ラプソディ」の公開で改めて注目を集める「クイーン」を特集！\r\n誰もが聞いたことのある大ヒット曲や貴重なライブ映像を紹介！",
+  "start": 1561305600000,
+  "end": 1561307400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "ＱＵＥＥＮ特集",
+  "episode": null,
+  "flags": []
+}

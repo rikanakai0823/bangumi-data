@@ -1,1 +1,29 @@
-{"id":"381ocd7upm","category":"information","title":"番組ナビ","fullTitle":"番組ナビ[字]","detail":"６月１０日（月）よる７時放送の「有吉ゼミ」。その見どころをナビゲートします。\n◇出演者\n【ナレーター】後呂有紗（日テレアナウンサー）","start":1560060600000,"end":1560060900000,"seconds":300,"description":"６月１０日（月）よる７時放送の「有吉ゼミ」。その見どころをナビゲートします。","extra":{"出演者":"【ナレーター】後呂有紗（日テレアナウンサー）"},"channel":{"type":"GR","channel":"25","name":"日テレ１","id":"1i54x1s","sid":1040,"nid":32738,"hasLogoData":true,"n":15},"subTitle":"有吉ゼミ","episode":null,"flags":["字"]}
+{
+  "id": "381ocd7upm",
+  "category": "information",
+  "title": "番組ナビ",
+  "fullTitle": "番組ナビ[字]",
+  "detail": "６月１０日（月）よる７時放送の「有吉ゼミ」。その見どころをナビゲートします。\n◇出演者\n【ナレーター】後呂有紗（日テレアナウンサー）",
+  "start": 1560060600000,
+  "end": 1560060900000,
+  "seconds": 300,
+  "description": "６月１０日（月）よる７時放送の「有吉ゼミ」。その見どころをナビゲートします。",
+  "extra": {
+    "出演者": "【ナレーター】後呂有紗（日テレアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "有吉ゼミ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

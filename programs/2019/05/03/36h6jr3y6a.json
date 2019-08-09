@@ -1,1 +1,23 @@
-{"id":"36h6jr3y6a","category":"music","title":"彩の国百科","fullTitle":"彩の国百科[Ｓ]","detail":"江南の藤編","start":1556863380000,"end":1556865180000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉２","id":"1hes13t","sid":29753,"nid":32295,"hasLogoData":true,"n":12},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr3y6a",
+  "category": "music",
+  "title": "彩の国百科",
+  "fullTitle": "彩の国百科[Ｓ]",
+  "detail": "江南の藤編",
+  "start": 1556863380000,
+  "end": 1556865180000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

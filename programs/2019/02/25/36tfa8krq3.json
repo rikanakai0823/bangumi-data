@@ -1,1 +1,27 @@
-{"id":"36tfa8krq3","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"パーフェクトワンモイスチャージェル【化粧品】\n◇お知らせ\n0120-888158","start":1551088800000,"end":1551090600000,"seconds":1800,"description":"パーフェクトワンモイスチャージェル【化粧品】","extra":{"お知らせ":"0120-888158"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"化粧品","episode":null,"flags":[]}
+{
+  "id": "36tfa8krq3",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "パーフェクトワンモイスチャージェル【化粧品】\n◇お知らせ\n0120-888158",
+  "start": 1551088800000,
+  "end": 1551090600000,
+  "seconds": 1800,
+  "description": "パーフェクトワンモイスチャージェル【化粧品】",
+  "extra": {
+    "お知らせ": "0120-888158"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "化粧品",
+  "episode": null,
+  "flags": []
+}

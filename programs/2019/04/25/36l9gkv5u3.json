@@ -1,1 +1,23 @@
-{"id":"36l9gkv5u3","category":"information","title":"生活情報５分若草の雫","fullTitle":"生活情報５分【内容】若草の雫","detail":"あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！　【内容】若草の雫　　【電話】０１２０－１３－８８６９","start":1556158500000,"end":1556158800000,"seconds":300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"内容","episode":null,"flags":[]}
+{
+  "id": "36l9gkv5u3",
+  "category": "information",
+  "title": "生活情報５分若草の雫",
+  "fullTitle": "生活情報５分【内容】若草の雫",
+  "detail": "あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！　【内容】若草の雫　　【電話】０１２０－１３－８８６９",
+  "start": 1556158500000,
+  "end": 1556158800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": []
+}

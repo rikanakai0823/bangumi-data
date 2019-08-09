@@ -1,1 +1,27 @@
-{"id":"36tfa8lceb","category":"sports","title":"東京シティ競馬中継","fullTitle":"東京シティ競馬中継","detail":"「大井のＳＰＡＴ４プレミアムポイント賞」「サンタアニタウィーク賞」\n◇出演者\n【MC】\r\n前半：瞳　ゆゆ\r\n後半：芦崎　愛\r\n【解説】\r\n山形宗久（勝馬）\r\n【場内リポート】\r\n椎名真帆","start":1564294800000,"end":1564315200000,"seconds":20400,"description":"「大井のＳＰＡＴ４プレミアムポイント賞」「サンタアニタウィーク賞」","extra":{"出演者":"【MC】\r\n前半：瞳　ゆゆ\r\n後半：芦崎　愛\r\n【解説】\r\n山形宗久（勝馬）\r\n【場内リポート】\r\n椎名真帆"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8lceb",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「大井のＳＰＡＴ４プレミアムポイント賞」「サンタアニタウィーク賞」\n◇出演者\n【MC】\r\n前半：瞳　ゆゆ\r\n後半：芦崎　愛\r\n【解説】\r\n山形宗久（勝馬）\r\n【場内リポート】\r\n椎名真帆",
+  "start": 1564294800000,
+  "end": 1564315200000,
+  "seconds": 20400,
+  "description": "「大井のＳＰＡＴ４プレミアムポイント賞」「サンタアニタウィーク賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：瞳　ゆゆ\r\n後半：芦崎　愛\r\n【解説】\r\n山形宗久（勝馬）\r\n【場内リポート】\r\n椎名真帆"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

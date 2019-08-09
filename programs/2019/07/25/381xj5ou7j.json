@@ -1,1 +1,23 @@
-{"id":"381xj5ou7j","category":"variety","title":"ブームアップ！～明日の特番をご紹介～","fullTitle":"ブームアップ！～明日の特番をご紹介～【ＶＳ嵐３時間スペシャル】","detail":"明日７月２５日（木）に放送する『ＶＳ嵐３時間スペシャル』のみどころをご紹介します。","start":1563981900000,"end":1563982500000,"seconds":600,"channel":{"type":"GR","channel":"21","name":"フジテレビ","id":"1i597ds","sid":1056,"nid":32740,"hasLogoData":true,"n":28},"subTitle":"ＶＳ嵐３時間スペシャル","episode":null,"flags":[]}
+{
+  "id": "381xj5ou7j",
+  "category": "variety",
+  "title": "ブームアップ！～明日の特番をご紹介～",
+  "fullTitle": "ブームアップ！～明日の特番をご紹介～【ＶＳ嵐３時間スペシャル】",
+  "detail": "明日７月２５日（木）に放送する『ＶＳ嵐３時間スペシャル』のみどころをご紹介します。",
+  "start": 1563981900000,
+  "end": 1563982500000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "ＶＳ嵐３時間スペシャル",
+  "episode": null,
+  "flags": []
+}

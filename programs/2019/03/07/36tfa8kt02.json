@@ -1,1 +1,27 @@
-{"id":"36tfa8kt02","category":"sports","title":"東京シティ競馬中継","fullTitle":"東京シティ競馬中継","detail":"「黄梅賞」「クラシックトライアル」「スプリングタイム賞」\n◇出演者\n【ＭＣ】\r\n前半：田中　歩\r\n後半：沖津那奈\r\n【解説】\r\n水元　尚（競馬ブック）","start":1551939600000,"end":1551945600000,"seconds":6000,"description":"「黄梅賞」「クラシックトライアル」「スプリングタイム賞」","extra":{"出演者":"【ＭＣ】\r\n前半：田中　歩\r\n後半：沖津那奈\r\n【解説】\r\n水元　尚（競馬ブック）\r\n"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8kt02",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「黄梅賞」「クラシックトライアル」「スプリングタイム賞」\n◇出演者\n【ＭＣ】\r\n前半：田中　歩\r\n後半：沖津那奈\r\n【解説】\r\n水元　尚（競馬ブック）",
+  "start": 1551939600000,
+  "end": 1551945600000,
+  "seconds": 6000,
+  "description": "「黄梅賞」「クラシックトライアル」「スプリングタイム賞」",
+  "extra": {
+    "出演者": "【ＭＣ】\r\n前半：田中　歩\r\n後半：沖津那奈\r\n【解説】\r\n水元　尚（競馬ブック）\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

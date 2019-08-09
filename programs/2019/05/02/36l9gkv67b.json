@@ -1,1 +1,23 @@
-{"id":"36l9gkv67b","category":"hobby","title":"チュバチュバワンダーランド▽英語レッスン","fullTitle":"チュバチュバワンダーランド▽英語レッスン","detail":"英語レッスン","start":1556788500000,"end":1556789400000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv67b",
+  "category": "hobby",
+  "title": "チュバチュバワンダーランド▽英語レッスン",
+  "fullTitle": "チュバチュバワンダーランド▽英語レッスン",
+  "detail": "英語レッスン",
+  "start": 1556788500000,
+  "end": 1556789400000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

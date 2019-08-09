@@ -1,1 +1,23 @@
-{"id":"36rdttjy6j","category":"news","title":"ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ","fullTitle":"ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ","detail":"県内の天気予報","start":1555579200000,"end":1555579800000,"seconds":600,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttjy6j",
+  "category": "news",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ",
+  "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ",
+  "detail": "県内の天気予報",
+  "start": 1555579200000,
+  "end": 1555579800000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

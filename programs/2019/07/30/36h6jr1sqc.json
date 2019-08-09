@@ -1,1 +1,28 @@
-{"id":"36h6jr1sqc","category":"music","title":"千葉一夫と藍ようこの歌謡音楽館","fullTitle":"千葉一夫と藍ようこの歌謡音楽館[Ｓ]","detail":"高島レイラ\n◇番組内容\n高島レイラ\n◇出演者\n高島レイラ","start":1564432200000,"end":1564434000000,"seconds":1800,"description":"高島レイラ","extra":{"番組内容":"高島レイラ","出演者":"高島レイラ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1sqc",
+  "category": "music",
+  "title": "千葉一夫と藍ようこの歌謡音楽館",
+  "fullTitle": "千葉一夫と藍ようこの歌謡音楽館[Ｓ]",
+  "detail": "高島レイラ\n◇番組内容\n高島レイラ\n◇出演者\n高島レイラ",
+  "start": 1564432200000,
+  "end": 1564434000000,
+  "seconds": 1800,
+  "description": "高島レイラ",
+  "extra": {
+    "番組内容": "高島レイラ",
+    "出演者": "高島レイラ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

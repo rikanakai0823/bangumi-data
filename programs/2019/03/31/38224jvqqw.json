@@ -1,1 +1,27 @@
-{"id":"38224jvqqw","category":"information","title":"今夜のスペシャルドラマ","fullTitle":"今夜のスペシャルドラマ","detail":"明智小五郎が復活！『名探偵・明智小五郎　第２夜 ＶＡＭＰＩＲＥ～巨大病院サイバージャック!!』\r\n【出演】西島秀俊、伊藤淳史、岸井ゆきの、石田ゆり子、香川照之 ほか\n◇◇おしらせ\n☆『２夜連続スペシャルドラマ　名探偵・明智小五郎』\r\n【番組ＨＰ】https://www.tv-asahi.co.jp/akechi/\r\n【Ｔｗｉｔｔｅｒ】https://twitter.com/ex_akechi","start":1554033480000,"end":1554033600000,"seconds":120,"description":"明智小五郎が復活！『名探偵・明智小五郎　第２夜 ＶＡＭＰＩＲＥ～巨大病院サイバージャック!!』\r\n【出演】西島秀俊、伊藤淳史、岸井ゆきの、石田ゆり子、香川照之 ほか","extra":{"◇おしらせ":"☆『２夜連続スペシャルドラマ　名探偵・明智小五郎』\r\n【番組ＨＰ】https://www.tv-asahi.co.jp/akechi/\r\n【Ｔｗｉｔｔｅｒ】https://twitter.com/ex_akechi"},"channel":{"type":"GR","channel":"24","name":"テレビ朝日","id":"1i5bcjs","sid":1064,"nid":32741,"hasLogoData":true,"n":18},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "38224jvqqw",
+  "category": "information",
+  "title": "今夜のスペシャルドラマ",
+  "fullTitle": "今夜のスペシャルドラマ",
+  "detail": "明智小五郎が復活！『名探偵・明智小五郎　第２夜 ＶＡＭＰＩＲＥ～巨大病院サイバージャック!!』\r\n【出演】西島秀俊、伊藤淳史、岸井ゆきの、石田ゆり子、香川照之 ほか\n◇◇おしらせ\n☆『２夜連続スペシャルドラマ　名探偵・明智小五郎』\r\n【番組ＨＰ】https://www.tv-asahi.co.jp/akechi/\r\n【Ｔｗｉｔｔｅｒ】https://twitter.com/ex_akechi",
+  "start": 1554033480000,
+  "end": 1554033600000,
+  "seconds": 120,
+  "description": "明智小五郎が復活！『名探偵・明智小五郎　第２夜 ＶＡＭＰＩＲＥ～巨大病院サイバージャック!!』\r\n【出演】西島秀俊、伊藤淳史、岸井ゆきの、石田ゆり子、香川照之 ほか",
+  "extra": {
+    "◇おしらせ": "☆『２夜連続スペシャルドラマ　名探偵・明智小五郎』\r\n【番組ＨＰ】https://www.tv-asahi.co.jp/akechi/\r\n【Ｔｗｉｔｔｅｒ】https://twitter.com/ex_akechi"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

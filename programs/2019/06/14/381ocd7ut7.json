@@ -1,1 +1,25 @@
-{"id":"381ocd7ut7","category":"information","title":"日テレナビ","fullTitle":"日テレナビ[字]","detail":"６／１４（金）放送「沸騰ワード１０」、「超問クイズ」、「金曜ロードＳＨＯＷ！『アラジン』」の見どころをナビゲート。","start":1560479100000,"end":1560479400000,"seconds":300,"channel":{"type":"GR","channel":"25","name":"日テレ１","id":"1i54x1s","sid":1040,"nid":32738,"hasLogoData":true,"n":15},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "381ocd7ut7",
+  "category": "information",
+  "title": "日テレナビ",
+  "fullTitle": "日テレナビ[字]",
+  "detail": "６／１４（金）放送「沸騰ワード１０」、「超問クイズ」、「金曜ロードＳＨＯＷ！『アラジン』」の見どころをナビゲート。",
+  "start": 1560479100000,
+  "end": 1560479400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

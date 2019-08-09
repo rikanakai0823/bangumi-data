@@ -1,1 +1,27 @@
-{"id":"36tfa8ggqy","category":"news","title":"東京都議会中継","fullTitle":"東京都議会中継[手]","detail":"「平成３１年第１回定例会・本会議初日」\n◇出演者\n【司会】針谷衣織里","start":1550635200000,"end":1550646000000,"seconds":10800,"description":"「平成３１年第１回定例会・本会議初日」","extra":{"出演者":"【司会】針谷衣織里"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"平成３１年第１回定例会・本会議初日","episode":1,"flags":[]}
+{
+  "id": "36tfa8ggqy",
+  "category": "news",
+  "title": "東京都議会中継",
+  "fullTitle": "東京都議会中継[手]",
+  "detail": "「平成３１年第１回定例会・本会議初日」\n◇出演者\n【司会】針谷衣織里",
+  "start": 1550635200000,
+  "end": 1550646000000,
+  "seconds": 10800,
+  "description": "「平成３１年第１回定例会・本会議初日」",
+  "extra": {
+    "出演者": "【司会】針谷衣織里"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "平成３１年第１回定例会・本会議初日",
+  "episode": 1,
+  "flags": []
+}

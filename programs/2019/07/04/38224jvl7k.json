@@ -1,1 +1,23 @@
-{"id":"38224jvl7k","category":"information","title":"ザ・ショッピングタイム","fullTitle":"ザ・ショッピングタイム","detail":"お買い得情報満載！\r\nあなたの欲しい物がきっと見つかる！\r\n自宅にいながら楽しくくつろぎショッピング！","start":1562178600000,"end":1562180400000,"seconds":1800,"channel":{"type":"GR","channel":"24","name":"テレビ朝日","id":"1i5bcjs","sid":1064,"nid":32741,"hasLogoData":true,"n":18},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "38224jvl7k",
+  "category": "information",
+  "title": "ザ・ショッピングタイム",
+  "fullTitle": "ザ・ショッピングタイム",
+  "detail": "お買い得情報満載！\r\nあなたの欲しい物がきっと見つかる！\r\n自宅にいながら楽しくくつろぎショッピング！",
+  "start": 1562178600000,
+  "end": 1562180400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

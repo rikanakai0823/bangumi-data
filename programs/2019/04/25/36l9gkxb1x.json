@@ -1,1 +1,23 @@
-{"id":"36l9gkxb1x","category":"sports","title":"マリーンズナイター▽千葉ロッテ×埼玉西武","fullTitle":"マリーンズナイター▽千葉ロッテ×埼玉西武","detail":"【実況】笹川裕昭　【解説】倉持　明　【球場】ＺＯＺＯマリン","start":1556195400000,"end":1556199000000,"seconds":3600,"channel":{"type":"GR","channel":"30","name":"チバテレ２","id":"1hgoknt","sid":27705,"nid":32327,"hasLogoData":true,"n":10},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkxb1x",
+  "category": "sports",
+  "title": "マリーンズナイター▽千葉ロッテ×埼玉西武",
+  "fullTitle": "マリーンズナイター▽千葉ロッテ×埼玉西武",
+  "detail": "【実況】笹川裕昭　【解説】倉持　明　【球場】ＺＯＺＯマリン",
+  "start": 1556195400000,
+  "end": 1556199000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

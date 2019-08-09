@@ -1,1 +1,29 @@
-{"id":"3826py48h4","category":"variety","title":"１００年の音楽","fullTitle":"１００年の音楽【We　Will　Rock　You】[字]","detail":"川井郁子がお贈りする「１００年の音楽」。今宵は、クイーンの大ヒットナンバー『ウィ・ウィル・ロック・ユー』。和太鼓とのコラボでお楽しみください。\n◇出演者\nヴァイオリン：川井郁子","start":1561121280000,"end":1561121640000,"seconds":360,"description":"川井郁子がお贈りする「１００年の音楽」。今宵は、クイーンの大ヒットナンバー『ウィ・ウィル・ロック・ユー』。和太鼓とのコラボでお楽しみください。","extra":{"出演者":"ヴァイオリン：川井郁子"},"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"We　Will　Rock　You","episode":null,"flags":["字"]}
+{
+  "id": "3826py48h4",
+  "category": "variety",
+  "title": "１００年の音楽",
+  "fullTitle": "１００年の音楽【We　Will　Rock　You】[字]",
+  "detail": "川井郁子がお贈りする「１００年の音楽」。今宵は、クイーンの大ヒットナンバー『ウィ・ウィル・ロック・ユー』。和太鼓とのコラボでお楽しみください。\n◇出演者\nヴァイオリン：川井郁子",
+  "start": 1561121280000,
+  "end": 1561121640000,
+  "seconds": 360,
+  "description": "川井郁子がお贈りする「１００年の音楽」。今宵は、クイーンの大ヒットナンバー『ウィ・ウィル・ロック・ユー』。和太鼓とのコラボでお楽しみください。",
+  "extra": {
+    "出演者": "ヴァイオリン：川井郁子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "We　Will　Rock　You",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,1 +1,30 @@
-{"id":"36h6jr1mal","category":"music","title":"若山かずさと一条聖矢の歌謡音楽館","fullTitle":"若山かずさと一条聖矢の歌謡音楽館[Ｓ][新]","detail":"藤原浩\n◇番組内容\n藤原浩\n◇出演者\n藤原浩","start":1554323400000,"end":1554325200000,"seconds":1800,"description":"藤原浩","extra":{"番組内容":"藤原浩","出演者":"藤原浩"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":1,"flags":["新"]}
+{
+  "id": "36h6jr1mal",
+  "category": "music",
+  "title": "若山かずさと一条聖矢の歌謡音楽館",
+  "fullTitle": "若山かずさと一条聖矢の歌謡音楽館[Ｓ][新]",
+  "detail": "藤原浩\n◇番組内容\n藤原浩\n◇出演者\n藤原浩",
+  "start": 1554323400000,
+  "end": 1554325200000,
+  "seconds": 1800,
+  "description": "藤原浩",
+  "extra": {
+    "番組内容": "藤原浩",
+    "出演者": "藤原浩"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

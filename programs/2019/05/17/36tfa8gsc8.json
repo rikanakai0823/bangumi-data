@@ -1,1 +1,27 @@
-{"id":"36tfa8gsc8","category":"music","title":"うたなび！","fullTitle":"うたなび！","detail":"Ｄｅｖｉｌ　ＡＮＴＨＥＭ．\n◇番組内容    \n演歌からＪ－ＰＯＰまで話題のゲストを迎えるほか、最新の音楽情報を盛りだくさんでお届けします。","start":1558033200000,"end":1558035000000,"seconds":1800,"description":"Ｄｅｖｉｌ　ＡＮＴＨＥＭ．","extra":{"番組内容    ":"演歌からＪ－ＰＯＰまで話題のゲストを迎えるほか、最新の音楽情報を盛りだくさんでお届けします。"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8gsc8",
+  "category": "music",
+  "title": "うたなび！",
+  "fullTitle": "うたなび！",
+  "detail": "Ｄｅｖｉｌ　ＡＮＴＨＥＭ．\n◇番組内容    \n演歌からＪ－ＰＯＰまで話題のゲストを迎えるほか、最新の音楽情報を盛りだくさんでお届けします。",
+  "start": 1558033200000,
+  "end": 1558035000000,
+  "seconds": 1800,
+  "description": "Ｄｅｖｉｌ　ＡＮＴＨＥＭ．",
+  "extra": {
+    "番組内容    ": "演歌からＪ－ＰＯＰまで話題のゲストを迎えるほか、最新の音楽情報を盛りだくさんでお届けします。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

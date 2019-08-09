@@ -1,1 +1,23 @@
-{"id":"36l9gkv878","category":"anime","title":"ゲゲゲの鬼太郎▽歩く吸血樹！樹木子","fullTitle":"ゲゲゲの鬼太郎【第５期】▽歩く吸血樹！樹木子　＃６７","detail":"第６７話　歩く吸血樹！樹木子（全１００話）樹木子を封印するため、蒼坊主は鬼太郎とネコ娘の案内で、以前山の中で助けた少女の元を訪れる。","start":1560414600000,"end":1560416400000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"第５期","episode":67,"flags":[]}
+{
+  "id": "36l9gkv878",
+  "category": "anime",
+  "title": "ゲゲゲの鬼太郎▽歩く吸血樹！樹木子",
+  "fullTitle": "ゲゲゲの鬼太郎【第５期】▽歩く吸血樹！樹木子　＃６７",
+  "detail": "第６７話　歩く吸血樹！樹木子（全１００話）樹木子を封印するため、蒼坊主は鬼太郎とネコ娘の案内で、以前山の中で助けた少女の元を訪れる。",
+  "start": 1560414600000,
+  "end": 1560416400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "第５期",
+  "episode": 67,
+  "flags": []
+}

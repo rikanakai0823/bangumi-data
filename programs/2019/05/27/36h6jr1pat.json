@@ -1,1 +1,23 @@
-{"id":"36h6jr1pat","category":"variety","title":"クイーンズランド歩き","fullTitle":"クイーンズランド歩き[Ｓ]","detail":"「ウイットサンデーの海と太陽」ハミルトン島","start":1558961100000,"end":1558961700000,"seconds":600,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"ウイットサンデーの海と太陽","episode":null,"flags":[]}
+{
+  "id": "36h6jr1pat",
+  "category": "variety",
+  "title": "クイーンズランド歩き",
+  "fullTitle": "クイーンズランド歩き[Ｓ]",
+  "detail": "「ウイットサンデーの海と太陽」ハミルトン島",
+  "start": 1558961100000,
+  "end": 1558961700000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "ウイットサンデーの海と太陽",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"38224jvndn","category":"information","title":"今夜の日曜プライム","fullTitle":"今夜の日曜プライム","detail":"主演・内藤剛志！『警視庁・捜査一課長　新作スペシャルⅡ』\n◇◇おしらせ\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/ichikacho_sp5/\r\n☆Ｔｗｉｔｔｅｒ\r\n　https://twitter.com/sosaichikacho","start":1563105480000,"end":1563105600000,"seconds":120,"description":"主演・内藤剛志！『警視庁・捜査一課長　新作スペシャルⅡ』","extra":{"◇おしらせ":"☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/ichikacho_sp5/\r\n☆Ｔｗｉｔｔｅｒ\r\n　https://twitter.com/sosaichikacho"},"channel":{"type":"GR","channel":"24","name":"テレビ朝日","id":"1i5bcjs","sid":1064,"nid":32741,"hasLogoData":true,"n":18},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "38224jvndn",
+  "category": "information",
+  "title": "今夜の日曜プライム",
+  "fullTitle": "今夜の日曜プライム",
+  "detail": "主演・内藤剛志！『警視庁・捜査一課長　新作スペシャルⅡ』\n◇◇おしらせ\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/ichikacho_sp5/\r\n☆Ｔｗｉｔｔｅｒ\r\n　https://twitter.com/sosaichikacho",
+  "start": 1563105480000,
+  "end": 1563105600000,
+  "seconds": 120,
+  "description": "主演・内藤剛志！『警視庁・捜査一課長　新作スペシャルⅡ』",
+  "extra": {
+    "◇おしらせ": "☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/ichikacho_sp5/\r\n☆Ｔｗｉｔｔｅｒ\r\n　https://twitter.com/sosaichikacho"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,28 @@
-{"id":"36h6jr1q49","category":"music","title":"歌謡アプリ","fullTitle":"歌謡アプリ[Ｓ]","detail":"高宮城せいじ\n◇番組内容\n高宮城せいじ\n◇出演者\n高宮城せいじ","start":1560405600000,"end":1560405900000,"seconds":300,"description":"高宮城せいじ","extra":{"番組内容":"高宮城せいじ","出演者":"高宮城せいじ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1q49",
+  "category": "music",
+  "title": "歌謡アプリ",
+  "fullTitle": "歌謡アプリ[Ｓ]",
+  "detail": "高宮城せいじ\n◇番組内容\n高宮城せいじ\n◇出演者\n高宮城せいじ",
+  "start": 1560405600000,
+  "end": 1560405900000,
+  "seconds": 300,
+  "description": "高宮城せいじ",
+  "extra": {
+    "番組内容": "高宮城せいじ",
+    "出演者": "高宮城せいじ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

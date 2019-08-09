@@ -1,1 +1,25 @@
-{"id":"36tfa8l1wt","category":"sports","title":"プロ野球　パ・リーグ応援宣言！ホークス中継２０１９","fullTitle":"プロ野球　パ・リーグ応援宣言！ホークス中継２０１９[デ]","detail":"「福岡ソフトバンクホークス×千葉ロッテマリーンズ」～ヤフオクドーム","start":1557478800000,"end":1557493200000,"seconds":14400,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"福岡ソフトバンクホークス×千葉ロッテマリーンズ","episode":null,"flags":["デ"]}
+{
+  "id": "36tfa8l1wt",
+  "category": "sports",
+  "title": "プロ野球　パ・リーグ応援宣言！ホークス中継２０１９",
+  "fullTitle": "プロ野球　パ・リーグ応援宣言！ホークス中継２０１９[デ]",
+  "detail": "「福岡ソフトバンクホークス×千葉ロッテマリーンズ」～ヤフオクドーム",
+  "start": 1557478800000,
+  "end": 1557493200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "福岡ソフトバンクホークス×千葉ロッテマリーンズ",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}

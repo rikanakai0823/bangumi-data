@@ -1,1 +1,23 @@
-{"id":"36l9gkv7li","category":"news","title":"ＮＥＷＳチバ６００▽鈴木麻夏","fullTitle":"ＮＥＷＳチバ６００▽【出演】鈴木麻夏","detail":"▽県内ニュース　▽出演／鈴木麻夏アナウンサー","start":1559466000000,"end":1559466300000,"seconds":300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"出演","episode":null,"flags":[]}
+{
+  "id": "36l9gkv7li",
+  "category": "news",
+  "title": "ＮＥＷＳチバ６００▽鈴木麻夏",
+  "fullTitle": "ＮＥＷＳチバ６００▽【出演】鈴木麻夏",
+  "detail": "▽県内ニュース　▽出演／鈴木麻夏アナウンサー",
+  "start": 1559466000000,
+  "end": 1559466300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": []
+}

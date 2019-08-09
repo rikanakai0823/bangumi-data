@@ -1,1 +1,25 @@
-{"id":"36l9gkv3fo","category":"documentary","title":"房総プロムナード","fullTitle":"房総プロムナード[再]","detail":"古建築を訪ねて～神社～","start":1551924000000,"end":1551925200000,"seconds":1200,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv3fo",
+  "category": "documentary",
+  "title": "房総プロムナード",
+  "fullTitle": "房総プロムナード[再]",
+  "detail": "古建築を訪ねて～神社～",
+  "start": 1551924000000,
+  "end": 1551925200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

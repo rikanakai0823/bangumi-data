@@ -1,1 +1,23 @@
-{"id":"36l9gkvbwo","category":"documentary","title":"柏まつり","fullTitle":"柏まつり","detail":"７月２７日（土）、２８日（日）に行われた「柏まつり２０１９」の模様をダイジェストでお送りします。","start":1565517600000,"end":1565520900000,"seconds":3300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"柏まつり２０１９","episode":null,"flags":[]}
+{
+  "id": "36l9gkvbwo",
+  "category": "documentary",
+  "title": "柏まつり",
+  "fullTitle": "柏まつり",
+  "detail": "７月２７日（土）、２８日（日）に行われた「柏まつり２０１９」の模様をダイジェストでお送りします。",
+  "start": 1565517600000,
+  "end": 1565520900000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "柏まつり２０１９",
+  "episode": null,
+  "flags": []
+}

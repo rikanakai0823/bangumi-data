@@ -1,1 +1,23 @@
-{"id":"381ocd85to","category":"information","title":"日テレナビ","fullTitle":"日テレナビ","detail":"日本テレビのオススメ番組のみどころをナビゲートします。","start":1554393240000,"end":1554393540000,"seconds":300,"channel":{"type":"GR","channel":"25","name":"日テレ１","id":"1i54x1s","sid":1040,"nid":32738,"hasLogoData":true,"n":15},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381ocd85to",
+  "category": "information",
+  "title": "日テレナビ",
+  "fullTitle": "日テレナビ",
+  "detail": "日本テレビのオススメ番組のみどころをナビゲートします。",
+  "start": 1554393240000,
+  "end": 1554393540000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,25 @@
-{"id":"36tfa8l101","category":"documentary","title":"ＢＢＣ　歴史の目撃者たち","fullTitle":"ＢＢＣ　歴史の目撃者たち[二]","detail":" ","start":1556838000000,"end":1556839800000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":["二"]}
+{
+  "id": "36tfa8l101",
+  "category": "documentary",
+  "title": "ＢＢＣ　歴史の目撃者たち",
+  "fullTitle": "ＢＢＣ　歴史の目撃者たち[二]",
+  "detail": " ",
+  "start": 1556838000000,
+  "end": 1556839800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkv8s9","category":"news","title":"ＮＥＷＳチバ９３０▽大角茉里","fullTitle":"ＮＥＷＳチバ９３０▽【出演】大角茉里","detail":"▽野田市女児虐待死事件　母親・なぎさ被告あす判決　▽天気予報　▽出演／大角茉里アナウンサー","start":1561465800000,"end":1561467300000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"出演","episode":null,"flags":[]}
+{
+  "id": "36l9gkv8s9",
+  "category": "news",
+  "title": "ＮＥＷＳチバ９３０▽大角茉里",
+  "fullTitle": "ＮＥＷＳチバ９３０▽【出演】大角茉里",
+  "detail": "▽野田市女児虐待死事件　母親・なぎさ被告あす判決　▽天気予報　▽出演／大角茉里アナウンサー",
+  "start": 1561465800000,
+  "end": 1561467300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": []
+}

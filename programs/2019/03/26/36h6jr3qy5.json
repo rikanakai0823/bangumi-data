@@ -1,1 +1,23 @@
-{"id":"36h6jr3qy5","category":"music","title":"彩の国百科","fullTitle":"彩の国百科[Ｓ]","detail":"ＳＬ編","start":1553582100000,"end":1553582400000,"seconds":300,"channel":{"type":"GR","channel":"32","name":"テレ玉２","id":"1hes13t","sid":29753,"nid":32295,"hasLogoData":true,"n":12},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr3qy5",
+  "category": "music",
+  "title": "彩の国百科",
+  "fullTitle": "彩の国百科[Ｓ]",
+  "detail": "ＳＬ編",
+  "start": 1553582100000,
+  "end": 1553582400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

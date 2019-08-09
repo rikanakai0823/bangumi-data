@@ -1,1 +1,25 @@
-{"id":"36h6jr1m2d","category":"sports","title":"競馬展望プラス","fullTitle":"競馬展望プラス[Ｓ][終]","detail":"","start":1553949000000,"end":1553950800000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":["終"]}
+{
+  "id": "36h6jr1m2d",
+  "category": "sports",
+  "title": "競馬展望プラス",
+  "fullTitle": "競馬展望プラス[Ｓ][終]",
+  "detail": "",
+  "start": 1553949000000,
+  "end": 1553950800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

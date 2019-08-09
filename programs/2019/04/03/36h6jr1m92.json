@@ -1,1 +1,28 @@
-{"id":"36h6jr1m92","category":"music","title":"歌謡アプリ","fullTitle":"歌謡アプリ[Ｓ]","detail":"山口瑠美\n◇番組内容\n山口瑠美\n◇出演者\n山口瑠美","start":1554271200000,"end":1554271500000,"seconds":300,"description":"山口瑠美","extra":{"番組内容":"山口瑠美","出演者":"山口瑠美"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1m92",
+  "category": "music",
+  "title": "歌謡アプリ",
+  "fullTitle": "歌謡アプリ[Ｓ]",
+  "detail": "山口瑠美\n◇番組内容\n山口瑠美\n◇出演者\n山口瑠美",
+  "start": 1554271200000,
+  "end": 1554271500000,
+  "seconds": 300,
+  "description": "山口瑠美",
+  "extra": {
+    "番組内容": "山口瑠美",
+    "出演者": "山口瑠美"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

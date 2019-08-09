@@ -1,1 +1,28 @@
-{"id":"36h6jr1p25","category":"music","title":"ＳＳＣ５","fullTitle":"ＳＳＣ５[Ｓ]","detail":"ｔｅｔｏ「夜想曲」\n◇番組内容\nｔｅｔｏ「夜想曲」\n◇出演者\nｔｅｔｏ「夜想曲」","start":1558631100000,"end":1558631400000,"seconds":300,"description":"ｔｅｔｏ「夜想曲」","extra":{"番組内容":"ｔｅｔｏ「夜想曲」","出演者":"ｔｅｔｏ「夜想曲」"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"夜想曲","episode":null,"flags":[]}
+{
+  "id": "36h6jr1p25",
+  "category": "music",
+  "title": "ＳＳＣ５",
+  "fullTitle": "ＳＳＣ５[Ｓ]",
+  "detail": "ｔｅｔｏ「夜想曲」\n◇番組内容\nｔｅｔｏ「夜想曲」\n◇出演者\nｔｅｔｏ「夜想曲」",
+  "start": 1558631100000,
+  "end": 1558631400000,
+  "seconds": 300,
+  "description": "ｔｅｔｏ「夜想曲」",
+  "extra": {
+    "番組内容": "ｔｅｔｏ「夜想曲」",
+    "出演者": "ｔｅｔｏ「夜想曲」"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "夜想曲",
+  "episode": null,
+  "flags": []
+}

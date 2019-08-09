@@ -1,1 +1,27 @@
-{"id":"36h6jr1ru6","category":"information","title":"ＴＶショッピング・ダイレクトテレショップ","fullTitle":"ＴＶショッピング・ダイレクトテレショップ[Ｓ]","detail":"◇番組内容\nマジックトリマー  豪華デラックススペシャル８点セット　　　　　　　　　　　　　　０１２０－９１９－２３９","start":1561696200000,"end":1561698000000,"seconds":1800,"description":"","extra":{"番組内容":"マジックトリマー  豪華デラックススペシャル８点セット　　　　　　　　　　　　　　０１２０－９１９－２３９"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ru6",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
+  "fullTitle": "ＴＶショッピング・ダイレクトテレショップ[Ｓ]",
+  "detail": "◇番組内容\nマジックトリマー  豪華デラックススペシャル８点セット　　　　　　　　　　　　　　０１２０－９１９－２３９",
+  "start": 1561696200000,
+  "end": 1561698000000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "マジックトリマー  豪華デラックススペシャル８点セット　　　　　　　　　　　　　　０１２０－９１９－２３９"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

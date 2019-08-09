@@ -1,1 +1,28 @@
-{"id":"36h6jr1nnx","category":"sports","title":"ＢＡＣＨプラザ","fullTitle":"ＢＡＣＨプラザ[Ｓ]","detail":"「ボートレース戸田」「浦和競馬」\n◇番組内容\n▽ボートレース戸田：第３０回ウインビーカップ・前検日▽浦和競馬・初日\n◇出演者\n井上英里香","start":1556631000000,"end":1556632800000,"seconds":1800,"description":"「ボートレース戸田」「浦和競馬」","extra":{"番組内容":"▽ボートレース戸田：第３０回ウインビーカップ・前検日▽浦和競馬・初日","出演者":"井上英里香"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1nnx",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
+  "detail": "「ボートレース戸田」「浦和競馬」\n◇番組内容\n▽ボートレース戸田：第３０回ウインビーカップ・前検日▽浦和競馬・初日\n◇出演者\n井上英里香",
+  "start": 1556631000000,
+  "end": 1556632800000,
+  "seconds": 1800,
+  "description": "「ボートレース戸田」「浦和競馬」",
+  "extra": {
+    "番組内容": "▽ボートレース戸田：第３０回ウインビーカップ・前検日▽浦和競馬・初日",
+    "出演者": "井上英里香"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

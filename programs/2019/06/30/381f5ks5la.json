@@ -1,1 +1,23 @@
-{"id":"381f5ks5la","category":"documentary","title":"平清盛　ゆかりの地を行く","fullTitle":"平清盛　ゆかりの地を行く","detail":"大河ドラマ「平清盛」でおなじみとなった清盛ゆかりの地を映像でつづる。清盛が造営した海上社殿・厳島神社のほか、広島、京都、三重、兵庫、岡山、山口の各地を紹介する。","start":1561828800000,"end":1561832400000,"seconds":3600,"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"平清盛","episode":null,"flags":[]}
+{
+  "id": "381f5ks5la",
+  "category": "documentary",
+  "title": "平清盛　ゆかりの地を行く",
+  "fullTitle": "平清盛　ゆかりの地を行く",
+  "detail": "大河ドラマ「平清盛」でおなじみとなった清盛ゆかりの地を映像でつづる。清盛が造営した海上社殿・厳島神社のほか、広島、京都、三重、兵庫、岡山、山口の各地を紹介する。",
+  "start": 1561828800000,
+  "end": 1561832400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "平清盛",
+  "episode": null,
+  "flags": []
+}

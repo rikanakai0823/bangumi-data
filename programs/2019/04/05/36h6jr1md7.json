@@ -1,1 +1,27 @@
-{"id":"36h6jr1md7","category":"information","title":"情報番組　マチコミ","fullTitle":"情報番組　マチコミ[Ｓ]","detail":"▽クックハンド▽ＧＯ！ＧＯ！１７号▽中継（毛呂山町）▽天気　ほか\n◇出演者\n山崎彩紗（テレ玉アナウンサー）　松井咲子","start":1554451200000,"end":1554453900000,"seconds":2700,"description":"▽クックハンド▽ＧＯ！ＧＯ！１７号▽中継（毛呂山町）▽天気　ほか","extra":{"出演者":"山崎彩紗（テレ玉アナウンサー）　松井咲子"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1md7",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ[Ｓ]",
+  "detail": "▽クックハンド▽ＧＯ！ＧＯ！１７号▽中継（毛呂山町）▽天気　ほか\n◇出演者\n山崎彩紗（テレ玉アナウンサー）　松井咲子",
+  "start": 1554451200000,
+  "end": 1554453900000,
+  "seconds": 2700,
+  "description": "▽クックハンド▽ＧＯ！ＧＯ！１７号▽中継（毛呂山町）▽天気　ほか",
+  "extra": {
+    "出演者": "山崎彩紗（テレ玉アナウンサー）　松井咲子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36tfa8kzfd","category":"sports","title":"東京シティ競馬中継","fullTitle":"東京シティ競馬中継","detail":"「カーネーション特別」「ケンタウルス賞」「晩春賞」\n◇出演者\n【ＭＣ】\r\n前半：鈴木　梢\r\n後半：瞳　ゆゆ\r\n【解説】\r\n水元　尚（競馬ブック）","start":1555914000000,"end":1555934400000,"seconds":20400,"description":"「カーネーション特別」「ケンタウルス賞」「晩春賞」","extra":{"出演者":"【ＭＣ】\r\n前半：鈴木　梢\r\n後半：瞳　ゆゆ\r\n【解説】\r\n水元　尚（競馬ブック）\r\n"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8kzfd",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「カーネーション特別」「ケンタウルス賞」「晩春賞」\n◇出演者\n【ＭＣ】\r\n前半：鈴木　梢\r\n後半：瞳　ゆゆ\r\n【解説】\r\n水元　尚（競馬ブック）",
+  "start": 1555914000000,
+  "end": 1555934400000,
+  "seconds": 20400,
+  "description": "「カーネーション特別」「ケンタウルス賞」「晩春賞」",
+  "extra": {
+    "出演者": "【ＭＣ】\r\n前半：鈴木　梢\r\n後半：瞳　ゆゆ\r\n【解説】\r\n水元　尚（競馬ブック）\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkva8x","category":"anime","title":"キャプテン▽宿敵青葉学院","fullTitle":"キャプテン▽宿敵青葉学院","detail":"第１８話「宿敵青葉学院」（全２６話）","start":1563523200000,"end":1563525000000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"宿敵青葉学院","episode":18,"flags":[]}
+{
+  "id": "36l9gkva8x",
+  "category": "anime",
+  "title": "キャプテン▽宿敵青葉学院",
+  "fullTitle": "キャプテン▽宿敵青葉学院",
+  "detail": "第１８話「宿敵青葉学院」（全２６話）",
+  "start": 1563523200000,
+  "end": 1563525000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "宿敵青葉学院",
+  "episode": 18,
+  "flags": []
+}

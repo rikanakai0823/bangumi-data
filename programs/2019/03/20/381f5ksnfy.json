@@ -1,1 +1,30 @@
-{"id":"381f5ksnfy","category":"news","title":"ニュース","fullTitle":"ニュース[二][字]","detail":"【キャスター】芳川隆一\n◇出演者\n【キャスター】芳川隆一","start":1553072400000,"end":1553073000000,"seconds":600,"description":"【キャスター】芳川隆一","extra":{"出演者":"【キャスター】芳川隆一"},"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"キャスター","episode":null,"flags":["二","字"]}
+{
+  "id": "381f5ksnfy",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース[二][字]",
+  "detail": "【キャスター】芳川隆一\n◇出演者\n【キャスター】芳川隆一",
+  "start": 1553072400000,
+  "end": 1553073000000,
+  "seconds": 600,
+  "description": "【キャスター】芳川隆一",
+  "extra": {
+    "出演者": "【キャスター】芳川隆一"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "キャスター",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

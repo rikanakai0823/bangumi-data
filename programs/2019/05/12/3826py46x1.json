@@ -1,1 +1,29 @@
-{"id":"3826py46x1","category":"cinema","title":"サタ☆シネ","fullTitle":"サタ☆シネ[二]","detail":"「レジェンド　狂気の美学」\n◇関連情報\n【番組公式HP】\r\nwww.tv-tokyo.co.jp/telecine/oa_satcine/","start":1557598500000,"end":1557604800000,"seconds":6300,"description":"「レジェンド　狂気の美学」","extra":{"関連情報":"【番組公式HP】\r\nwww.tv-tokyo.co.jp/telecine/oa_satcine/"},"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"レジェンド　狂気の美学","episode":null,"flags":["二"]}
+{
+  "id": "3826py46x1",
+  "category": "cinema",
+  "title": "サタ☆シネ",
+  "fullTitle": "サタ☆シネ[二]",
+  "detail": "「レジェンド　狂気の美学」\n◇関連情報\n【番組公式HP】\r\nwww.tv-tokyo.co.jp/telecine/oa_satcine/",
+  "start": 1557598500000,
+  "end": 1557604800000,
+  "seconds": 6300,
+  "description": "「レジェンド　狂気の美学」",
+  "extra": {
+    "関連情報": "【番組公式HP】\r\nwww.tv-tokyo.co.jp/telecine/oa_satcine/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "レジェンド　狂気の美学",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

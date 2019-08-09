@@ -1,1 +1,27 @@
-{"id":"36tfa8l530","category":"sports","title":"東京シティ競馬中継","fullTitle":"東京シティ競馬中継","detail":"「アレキサンドライト賞」「ゲンマ賞」\n◇出演者\n【MC】\r\n前半：椎名真帆\r\n後半：鈴木　梢\r\n【解説】\r\n高橋孝太郎（ケイシュウNEWS）","start":1559542800000,"end":1559563200000,"seconds":20400,"description":"「アレキサンドライト賞」「ゲンマ賞」","extra":{"出演者":"【MC】\r\n前半：椎名真帆\r\n後半：鈴木　梢\r\n【解説】\r\n高橋孝太郎（ケイシュウNEWS）"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8l530",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「アレキサンドライト賞」「ゲンマ賞」\n◇出演者\n【MC】\r\n前半：椎名真帆\r\n後半：鈴木　梢\r\n【解説】\r\n高橋孝太郎（ケイシュウNEWS）",
+  "start": 1559542800000,
+  "end": 1559563200000,
+  "seconds": 20400,
+  "description": "「アレキサンドライト賞」「ゲンマ賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：椎名真帆\r\n後半：鈴木　梢\r\n【解説】\r\n高橋孝太郎（ケイシュウNEWS）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

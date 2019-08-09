@@ -1,1 +1,25 @@
-{"id":"36l9gkv4gs","category":"documentary","title":"ちば見聞録","fullTitle":"ちば見聞録[再]","detail":"千葉の川　～香取市・黒部川残照～　▽かつての城下町面影、水運で栄えた黒部川など、旧小見川町の魅力を紹介。","start":1553940000000,"end":1553941500000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv4gs",
+  "category": "documentary",
+  "title": "ちば見聞録",
+  "fullTitle": "ちば見聞録[再]",
+  "detail": "千葉の川　～香取市・黒部川残照～　▽かつての城下町面影、水運で栄えた黒部川など、旧小見川町の魅力を紹介。",
+  "start": 1553940000000,
+  "end": 1553941500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

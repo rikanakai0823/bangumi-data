@@ -1,1 +1,27 @@
-{"id":"36h6jr1t1z","category":"drama","title":"大江戸捜査網","fullTitle":"大江戸捜査網","detail":"裏切者の子守唄\n◇出演者\n杉良太郎","start":1564985100000,"end":1564988400000,"seconds":3300,"description":"裏切者の子守唄","extra":{"出演者":"杉良太郎"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1t1z",
+  "category": "drama",
+  "title": "大江戸捜査網",
+  "fullTitle": "大江戸捜査網",
+  "detail": "裏切者の子守唄\n◇出演者\n杉良太郎",
+  "start": 1564985100000,
+  "end": 1564988400000,
+  "seconds": 3300,
+  "description": "裏切者の子守唄",
+  "extra": {
+    "出演者": "杉良太郎"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

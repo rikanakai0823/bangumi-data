@@ -1,1 +1,27 @@
-{"id":"36tfa8gq9f","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"エクスパッツ【スパッツ】／ワイドステップウォーカー【靴】\n◇お知らせ\n0800-999-0222","start":1556654400000,"end":1556656200000,"seconds":1800,"description":"エクスパッツ【スパッツ】／ワイドステップウォーカー【靴】","extra":{"お知らせ":"0800-999-0222"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8gq9f",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "エクスパッツ【スパッツ】／ワイドステップウォーカー【靴】\n◇お知らせ\n0800-999-0222",
+  "start": 1556654400000,
+  "end": 1556656200000,
+  "seconds": 1800,
+  "description": "エクスパッツ【スパッツ】／ワイドステップウォーカー【靴】",
+  "extra": {
+    "お知らせ": "0800-999-0222"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

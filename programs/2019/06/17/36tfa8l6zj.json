@@ -1,1 +1,23 @@
-{"id":"36tfa8l6zj","category":"news","title":"ヒーリングタイム＆ヘッドラインニュース","fullTitle":"ヒーリングタイム＆ヘッドラインニュース","detail":"ねこの足跡＆看板猫","start":1560718800000,"end":1560722400000,"seconds":3600,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8l6zj",
+  "category": "news",
+  "title": "ヒーリングタイム＆ヘッドラインニュース",
+  "fullTitle": "ヒーリングタイム＆ヘッドラインニュース",
+  "detail": "ねこの足跡＆看板猫",
+  "start": 1560718800000,
+  "end": 1560722400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

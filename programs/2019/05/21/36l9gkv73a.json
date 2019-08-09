@@ -1,1 +1,23 @@
-{"id":"36l9gkv73a","category":"music","title":"ほっと！ヒット！歌謡曲","fullTitle":"ほっと！ヒット！歌謡曲","detail":"成世昌平♪音戸の恋唄　モングン♪北海じゃんじゃん節　北川大介♪噂の湘南漁師町　鳥羽一郎♪十国峠","start":1558409400000,"end":1558410300000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv73a",
+  "category": "music",
+  "title": "ほっと！ヒット！歌謡曲",
+  "fullTitle": "ほっと！ヒット！歌謡曲",
+  "detail": "成世昌平♪音戸の恋唄　モングン♪北海じゃんじゃん節　北川大介♪噂の湘南漁師町　鳥羽一郎♪十国峠",
+  "start": 1558409400000,
+  "end": 1558410300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

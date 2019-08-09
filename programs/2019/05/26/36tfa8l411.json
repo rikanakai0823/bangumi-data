@@ -1,1 +1,27 @@
-{"id":"36tfa8l411","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"プレミアムあらごし【ジュース】\n◇お知らせ\n0120-601-430","start":1558857600000,"end":1558859400000,"seconds":1800,"description":"プレミアムあらごし【ジュース】","extra":{"お知らせ":"0120-601-430"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"ジュース","episode":null,"flags":[]}
+{
+  "id": "36tfa8l411",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "プレミアムあらごし【ジュース】\n◇お知らせ\n0120-601-430",
+  "start": 1558857600000,
+  "end": 1558859400000,
+  "seconds": 1800,
+  "description": "プレミアムあらごし【ジュース】",
+  "extra": {
+    "お知らせ": "0120-601-430"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "ジュース",
+  "episode": null,
+  "flags": []
+}

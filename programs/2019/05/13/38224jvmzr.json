@@ -1,1 +1,23 @@
-{"id":"38224jvmzr","category":"variety","title":"その通い道ご一緒します","fullTitle":"その通い道ご一緒します","detail":"天空集落からの通学…海沿いの絶景の通学…我々の想像をはるかに超えるとんでもない通勤通学路が存在する。\r\nそんな模様に密着し、その土地の良さを再発見する番組。","start":1557677400000,"end":1557679200000,"seconds":1800,"channel":{"type":"GR","channel":"24","name":"テレビ朝日","id":"1i5bcjs","sid":1064,"nid":32741,"hasLogoData":true,"n":18},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "38224jvmzr",
+  "category": "variety",
+  "title": "その通い道ご一緒します",
+  "fullTitle": "その通い道ご一緒します",
+  "detail": "天空集落からの通学…海沿いの絶景の通学…我々の想像をはるかに超えるとんでもない通勤通学路が存在する。\r\nそんな模様に密着し、その土地の良さを再発見する番組。",
+  "start": 1557677400000,
+  "end": 1557679200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

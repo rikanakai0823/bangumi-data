@@ -1,1 +1,23 @@
-{"id":"36h6jr1mkc","category":"variety","title":"きらめき☆旅","fullTitle":"きらめき☆旅[Ｓ]","detail":"マケドニア世界遺産「オフリド湖」","start":1554813900000,"end":1554814500000,"seconds":600,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"オフリド湖","episode":null,"flags":[]}
+{
+  "id": "36h6jr1mkc",
+  "category": "variety",
+  "title": "きらめき☆旅",
+  "fullTitle": "きらめき☆旅[Ｓ]",
+  "detail": "マケドニア世界遺産「オフリド湖」",
+  "start": 1554813900000,
+  "end": 1554814500000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "オフリド湖",
+  "episode": null,
+  "flags": []
+}

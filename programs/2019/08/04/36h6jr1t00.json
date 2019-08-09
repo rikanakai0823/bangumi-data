@@ -1,1 +1,28 @@
-{"id":"36h6jr1t00","category":"music","title":"西川ひとみの歌日和","fullTitle":"西川ひとみの歌日和[Ｓ]","detail":"北川大介\n◇番組内容\n北川大介\n◇出演者\nＭＣ：西川ひとみ","start":1564876800000,"end":1564877700000,"seconds":900,"description":"北川大介","extra":{"番組内容":"北川大介","出演者":"ＭＣ：西川ひとみ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1t00",
+  "category": "music",
+  "title": "西川ひとみの歌日和",
+  "fullTitle": "西川ひとみの歌日和[Ｓ]",
+  "detail": "北川大介\n◇番組内容\n北川大介\n◇出演者\nＭＣ：西川ひとみ",
+  "start": 1564876800000,
+  "end": 1564877700000,
+  "seconds": 900,
+  "description": "北川大介",
+  "extra": {
+    "番組内容": "北川大介",
+    "出演者": "ＭＣ：西川ひとみ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

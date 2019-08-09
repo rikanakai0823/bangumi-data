@@ -1,1 +1,23 @@
-{"id":"36tfa8gx8g","category":"anime","title":"イチナナゴーキュー","fullTitle":"イチナナゴーキュー","detail":"平日毎日夕方17時59分という昼でも夜でもない不思議なモーメントを捉えた都民による都民のためのノスい歌(ノスタルジックな歌)をお送りします。","start":1561107540000,"end":1561107600000,"seconds":60,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8gx8g",
+  "category": "anime",
+  "title": "イチナナゴーキュー",
+  "fullTitle": "イチナナゴーキュー",
+  "detail": "平日毎日夕方17時59分という昼でも夜でもない不思議なモーメントを捉えた都民による都民のためのノスい歌(ノスタルジックな歌)をお送りします。",
+  "start": 1561107540000,
+  "end": 1561107600000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

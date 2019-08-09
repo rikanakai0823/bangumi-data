@@ -1,1 +1,23 @@
-{"id":"36l9gkv7zz","category":"music","title":"歌う！セールスマン▽二見颯一","fullTitle":"歌う！セールスマン▽【ゲスト】二見颯一","detail":"歌の営業会議・楽曲のプレゼン・加門亮のＭｏｏｄｙ　Ｗｏｒｌｄ・ゲストコーナー・今週のイチオシ【出演者】山崎ていじ・大下香奈【ゲスト】二見颯一","start":1560121200000,"end":1560123000000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36l9gkv7zz",
+  "category": "music",
+  "title": "歌う！セールスマン▽二見颯一",
+  "fullTitle": "歌う！セールスマン▽【ゲスト】二見颯一",
+  "detail": "歌の営業会議・楽曲のプレゼン・加門亮のＭｏｏｄｙ　Ｗｏｒｌｄ・ゲストコーナー・今週のイチオシ【出演者】山崎ていじ・大下香奈【ゲスト】二見颯一",
+  "start": 1560121200000,
+  "end": 1560123000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

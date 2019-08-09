@@ -1,1 +1,25 @@
-{"id":"36h6jr1mbk","category":"sports","title":"塩谷育代のベストショット","fullTitle":"塩谷育代のベストショット[Ｓ][新]","detail":"","start":1554382800000,"end":1554384540000,"seconds":1740,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":1,"flags":["新"]}
+{
+  "id": "36h6jr1mbk",
+  "category": "sports",
+  "title": "塩谷育代のベストショット",
+  "fullTitle": "塩谷育代のベストショット[Ｓ][新]",
+  "detail": "",
+  "start": 1554382800000,
+  "end": 1554384540000,
+  "seconds": 1740,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

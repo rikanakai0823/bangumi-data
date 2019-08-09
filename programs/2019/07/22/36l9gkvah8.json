@@ -1,1 +1,23 @@
-{"id":"36l9gkvah8","category":"music","title":"歌う！セールスマン小田純平","fullTitle":"歌う！セールスマン【ゲスト】小田純平","detail":"歌の営業会議・楽曲のプレゼン・加門亮のＭｏｏｄｙ　Ｗｏｒｌｄ・ゲストコーナー・今週のイチオシ【出演者】山崎ていじ・大下香奈【ゲスト】小田純平","start":1563750000000,"end":1563751800000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36l9gkvah8",
+  "category": "music",
+  "title": "歌う！セールスマン小田純平",
+  "fullTitle": "歌う！セールスマン【ゲスト】小田純平",
+  "detail": "歌の営業会議・楽曲のプレゼン・加門亮のＭｏｏｄｙ　Ｗｏｒｌｄ・ゲストコーナー・今週のイチオシ【出演者】山崎ていじ・大下香奈【ゲスト】小田純平",
+  "start": 1563750000000,
+  "end": 1563751800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

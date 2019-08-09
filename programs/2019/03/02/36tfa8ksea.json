@@ -1,1 +1,23 @@
-{"id":"36tfa8ksea","category":"hobby","title":"Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ","fullTitle":"Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ","detail":"２両の電車が行く西新井大師","start":1551537000000,"end":1551538800000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8ksea",
+  "category": "hobby",
+  "title": "Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ",
+  "fullTitle": "Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ",
+  "detail": "２両の電車が行く西新井大師",
+  "start": 1551537000000,
+  "end": 1551538800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

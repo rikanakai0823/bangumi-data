@@ -1,1 +1,23 @@
-{"id":"36l9gkv9pz","category":"documentary","title":"ウィークリー千葉県～ちばの旬な話題をお届け～","fullTitle":"ウィークリー千葉県～ちばの旬な話題をお届け～","detail":"文人墨客に愛され、豊かな文化をはぐくんできた市川。ゆかりのある文豪、北原白秋と永井荷風の見た市川をメインに紹介します。","start":1563022800000,"end":1563023700000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv9pz",
+  "category": "documentary",
+  "title": "ウィークリー千葉県～ちばの旬な話題をお届け～",
+  "fullTitle": "ウィークリー千葉県～ちばの旬な話題をお届け～",
+  "detail": "文人墨客に愛され、豊かな文化をはぐくんできた市川。ゆかりのある文豪、北原白秋と永井荷風の見た市川をメインに紹介します。",
+  "start": 1563022800000,
+  "end": 1563023700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

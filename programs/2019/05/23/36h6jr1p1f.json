@@ -1,1 +1,28 @@
-{"id":"36h6jr1p1f","category":"music","title":"歌謡アプリ","fullTitle":"歌謡アプリ[Ｓ]","detail":"新浜レオン\n◇番組内容\n新浜レオン\n◇出演者\n新浜レオン","start":1558591200000,"end":1558591500000,"seconds":300,"description":"新浜レオン","extra":{"番組内容":"新浜レオン","出演者":"新浜レオン"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1p1f",
+  "category": "music",
+  "title": "歌謡アプリ",
+  "fullTitle": "歌謡アプリ[Ｓ]",
+  "detail": "新浜レオン\n◇番組内容\n新浜レオン\n◇出演者\n新浜レオン",
+  "start": 1558591200000,
+  "end": 1558591500000,
+  "seconds": 300,
+  "description": "新浜レオン",
+  "extra": {
+    "番組内容": "新浜レオン",
+    "出演者": "新浜レオン"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkv2op","category":"music","title":"歌う！セールスマンＫＡＮＡ","fullTitle":"歌う！セールスマン【ゲスト】ＫＡＮＡ","detail":"歌の営業会議・楽曲のプレゼン・加門亮のＭｏｏｄｙ　Ｗｏｒｌｄ・ゲストコーナー・今週のイチオシ【出演者】成世昌平・大下香奈・原大輔【ゲスト】ＫＡＮＡ","start":1550444400000,"end":1550446200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36l9gkv2op",
+  "category": "music",
+  "title": "歌う！セールスマンＫＡＮＡ",
+  "fullTitle": "歌う！セールスマン【ゲスト】ＫＡＮＡ",
+  "detail": "歌の営業会議・楽曲のプレゼン・加門亮のＭｏｏｄｙ　Ｗｏｒｌｄ・ゲストコーナー・今週のイチオシ【出演者】成世昌平・大下香奈・原大輔【ゲスト】ＫＡＮＡ",
+  "start": 1550444400000,
+  "end": 1550446200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

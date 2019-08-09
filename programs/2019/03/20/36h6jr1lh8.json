@@ -1,1 +1,23 @@
-{"id":"36h6jr1lh8","category":"news","title":"水曜お天気予報","fullTitle":"水曜お天気予報[Ｓ]","detail":"","start":1553086500000,"end":1553086800000,"seconds":300,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1lh8",
+  "category": "news",
+  "title": "水曜お天気予報",
+  "fullTitle": "水曜お天気予報[Ｓ]",
+  "detail": "",
+  "start": 1553086500000,
+  "end": 1553086800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,25 @@
-{"id":"36l9gkv463","category":"music","title":"知里のミュージックエッセンスＰａｒｔⅡ小田純平／時にはあなたを","fullTitle":"知里のミュージックエッセンスＰａｒｔⅡ[再]【ゲスト】小田純平／時にはあなたを","detail":"【ゲスト】小田純平／時にはあなたを","start":1553378400000,"end":1553380200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv463",
+  "category": "music",
+  "title": "知里のミュージックエッセンスＰａｒｔⅡ小田純平／時にはあなたを",
+  "fullTitle": "知里のミュージックエッセンスＰａｒｔⅡ[再]【ゲスト】小田純平／時にはあなたを",
+  "detail": "【ゲスト】小田純平／時にはあなたを",
+  "start": 1553378400000,
+  "end": 1553380200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

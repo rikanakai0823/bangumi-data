@@ -1,1 +1,29 @@
-{"id":"36tfa8gzhy","category":"anime","title":"ありふれた職業で世界最強","fullTitle":"[新]ありふれた職業で世界最強　＃１","detail":"◇出演者\n【南雲ハジメ】深町寿成\r\n【ユエ】桑原由気\r\n【シア】高橋未奈美\r\n【白崎香織】大西沙織　ほか","start":1562599800000,"end":1562601600000,"seconds":1800,"description":" ","extra":{"出演者":"【南雲ハジメ】深町寿成\r\n【ユエ】桑原由気\r\n【シア】高橋未奈美\r\n【白崎香織】大西沙織　ほか"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":1,"flags":["新"]}
+{
+  "id": "36tfa8gzhy",
+  "category": "anime",
+  "title": "ありふれた職業で世界最強",
+  "fullTitle": "[新]ありふれた職業で世界最強　＃１",
+  "detail": "◇出演者\n【南雲ハジメ】深町寿成\r\n【ユエ】桑原由気\r\n【シア】高橋未奈美\r\n【白崎香織】大西沙織　ほか",
+  "start": 1562599800000,
+  "end": 1562601600000,
+  "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "出演者": "【南雲ハジメ】深町寿成\r\n【ユエ】桑原由気\r\n【シア】高橋未奈美\r\n【白崎香織】大西沙織　ほか"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

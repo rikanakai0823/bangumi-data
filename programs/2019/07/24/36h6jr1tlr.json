@@ -1,1 +1,27 @@
-{"id":"36h6jr1tlr","category":"information","title":"ＴＶショッピング・ショップジャパン","fullTitle":"ＴＶショッピング・ショップジャパン[Ｓ]","detail":"◇番組内容\nターボスクラブ　　　　　　　　　　　　　０１２０－３６－２００８","start":1563950700000,"end":1563952500000,"seconds":1800,"description":"","extra":{"番組内容":"ターボスクラブ　　　　　　　　　　　　　０１２０－３６－２００８"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1tlr",
+  "category": "information",
+  "title": "ＴＶショッピング・ショップジャパン",
+  "fullTitle": "ＴＶショッピング・ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nターボスクラブ　　　　　　　　　　　　　０１２０－３６－２００８",
+  "start": 1563950700000,
+  "end": 1563952500000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ターボスクラブ　　　　　　　　　　　　　０１２０－３６－２００８"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

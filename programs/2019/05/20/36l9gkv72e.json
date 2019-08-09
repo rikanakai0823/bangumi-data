@@ -1,1 +1,23 @@
-{"id":"36l9gkv72e","category":"news","title":"ＳＨＩＪＩＭＡ　ＣＯＮＣＥＰＴ　ＴＶ","fullTitle":"ＳＨＩＪＩＭＡ　ＣＯＮＣＥＰＴ　ＴＶ","detail":"体験！頭のよい子が育つ家　埼玉越谷篇","start":1558353300000,"end":1558353600000,"seconds":300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv72e",
+  "category": "news",
+  "title": "ＳＨＩＪＩＭＡ　ＣＯＮＣＥＰＴ　ＴＶ",
+  "fullTitle": "ＳＨＩＪＩＭＡ　ＣＯＮＣＥＰＴ　ＴＶ",
+  "detail": "体験！頭のよい子が育つ家　埼玉越谷篇",
+  "start": 1558353300000,
+  "end": 1558353600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

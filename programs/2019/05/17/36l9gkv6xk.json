@@ -1,1 +1,23 @@
-{"id":"36l9gkv6xk","category":"music","title":"ほっと！ヒット！歌謡曲","fullTitle":"ほっと！ヒット！歌謡曲","detail":"水沢明美♪京の夜嵐　ＭＩＫＩＹＯ♪東京夢舞台　野村美菜♪夢路の宿　山内惠介♪唇スカーレット　和田青児♪おもかげ　長保有紀♪つよがり","start":1558058100000,"end":1558059600000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv6xk",
+  "category": "music",
+  "title": "ほっと！ヒット！歌謡曲",
+  "fullTitle": "ほっと！ヒット！歌謡曲",
+  "detail": "水沢明美♪京の夜嵐　ＭＩＫＩＹＯ♪東京夢舞台　野村美菜♪夢路の宿　山内惠介♪唇スカーレット　和田青児♪おもかげ　長保有紀♪つよがり",
+  "start": 1558058100000,
+  "end": 1558059600000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

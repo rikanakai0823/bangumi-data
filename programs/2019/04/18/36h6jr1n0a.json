@@ -1,1 +1,23 @@
-{"id":"36h6jr1n0a","category":"hobby","title":"フィッシング倶楽部","fullTitle":"フィッシング倶楽部[Ｓ]","detail":"久保野　直伝！西伊豆フカセ釣り","start":1555588800000,"end":1555590600000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1n0a",
+  "category": "hobby",
+  "title": "フィッシング倶楽部",
+  "fullTitle": "フィッシング倶楽部[Ｓ]",
+  "detail": "久保野　直伝！西伊豆フカセ釣り",
+  "start": 1555588800000,
+  "end": 1555590600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

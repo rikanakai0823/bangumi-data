@@ -1,1 +1,23 @@
-{"id":"381sxrfxri","category":"sports","title":"ＴＯＫＹＯ２０２０","fullTitle":"ＴＯＫＹＯ２０２０","detail":"番組情報決定までしばらくお待ち下さい。","start":1563815100000,"end":1563815400000,"seconds":300,"channel":{"type":"GR","channel":"22","name":"ＴＢＳ１","id":"1i5727s","sid":1048,"nid":32739,"hasLogoData":true,"n":22},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381sxrfxri",
+  "category": "sports",
+  "title": "ＴＯＫＹＯ２０２０",
+  "fullTitle": "ＴＯＫＹＯ２０２０",
+  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "start": 1563815100000,
+  "end": 1563815400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

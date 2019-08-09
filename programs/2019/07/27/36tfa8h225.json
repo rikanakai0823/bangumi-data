@@ -1,1 +1,23 @@
-{"id":"36tfa8h225","category":"sports","title":"全国高等学校野球選手権大会　東・西　東京大会","fullTitle":"第１０１回全国高等学校野球選手権大会　東・西　東京大会","detail":"東東京・決勝「小山台×関東一」～神宮球場","start":1564185600000,"end":1564201800000,"seconds":16200,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"小山台×関東一","episode":101,"flags":[]}
+{
+  "id": "36tfa8h225",
+  "category": "sports",
+  "title": "全国高等学校野球選手権大会　東・西　東京大会",
+  "fullTitle": "第１０１回全国高等学校野球選手権大会　東・西　東京大会",
+  "detail": "東東京・決勝「小山台×関東一」～神宮球場",
+  "start": 1564185600000,
+  "end": 1564201800000,
+  "seconds": 16200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "小山台×関東一",
+  "episode": 101,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"381jqz3f2y","category":"etc","title":"放送番組未定","fullTitle":"放送番組未定","detail":"この時間、放送する番組は未定です","start":1556350500000,"end":1556350800000,"seconds":300,"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ２東京","id":"1i52rvt","sid":1033,"nid":32737,"hasLogoData":true,"n":3},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381jqz3f2y",
+  "category": "etc",
+  "title": "放送番組未定",
+  "fullTitle": "放送番組未定",
+  "detail": "この時間、放送する番組は未定です",
+  "start": 1556350500000,
+  "end": 1556350800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

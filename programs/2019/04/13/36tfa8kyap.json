@@ -1,1 +1,23 @@
-{"id":"36tfa8kyap","category":"anime","title":"鎧勇騎　月兎","fullTitle":"鎧勇騎　月兎　＃２","detail":"＃２「優輝の鎧武装！月兎！」","start":1555108200000,"end":1555109100000,"seconds":900,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"優輝の鎧武装！月兎！","episode":2,"flags":[]}
+{
+  "id": "36tfa8kyap",
+  "category": "anime",
+  "title": "鎧勇騎　月兎",
+  "fullTitle": "鎧勇騎　月兎　＃２",
+  "detail": "＃２「優輝の鎧武装！月兎！」",
+  "start": 1555108200000,
+  "end": 1555109100000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "優輝の鎧武装！月兎！",
+  "episode": 2,
+  "flags": []
+}

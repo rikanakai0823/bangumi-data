@@ -1,1 +1,23 @@
-{"id":"36l9gkv8wb","category":"anime","title":"キャプテン▽強敵！金成中","fullTitle":"キャプテン▽強敵！金成中","detail":"第３話「強敵！金成中」（全２６話）","start":1561708800000,"end":1561710600000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"強敵！金成中","episode":3,"flags":[]}
+{
+  "id": "36l9gkv8wb",
+  "category": "anime",
+  "title": "キャプテン▽強敵！金成中",
+  "fullTitle": "キャプテン▽強敵！金成中",
+  "detail": "第３話「強敵！金成中」（全２６話）",
+  "start": 1561708800000,
+  "end": 1561710600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "強敵！金成中",
+  "episode": 3,
+  "flags": []
+}

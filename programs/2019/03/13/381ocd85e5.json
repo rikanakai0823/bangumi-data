@@ -1,1 +1,28 @@
-{"id":"381ocd85e5","category":"drama","title":"家売るオンナの逆襲","fullTitle":"家売るオンナの逆襲#10[終][解][字][デ]","detail":"","start":1552482000000,"end":1552485600000,"seconds":3600,"channel":{"type":"GR","channel":"25","name":"日テレ１","id":"1i54x1s","sid":1040,"nid":32738,"hasLogoData":true,"n":15},"subTitle":"","episode":10,"flags":["終","解","字","デ"]}
+{
+  "id": "381ocd85e5",
+  "category": "drama",
+  "title": "家売るオンナの逆襲",
+  "fullTitle": "家売るオンナの逆襲#10[終][解][字][デ]",
+  "detail": "",
+  "start": 1552482000000,
+  "end": 1552485600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": [
+    "終",
+    "解",
+    "字",
+    "デ"
+  ]
+}

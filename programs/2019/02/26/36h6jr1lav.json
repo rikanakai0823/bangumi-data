@@ -1,1 +1,27 @@
-{"id":"36h6jr1lav","category":"information","title":"ＴＶショッピング・サントリーテレビショッピング","fullTitle":"ＴＶショッピング・サントリーテレビショッピング[Ｓ]","detail":"サントリーテレビショッピング\n◇番組内容\nグッドムービング　ひざサポーター　ロコモア　　　　　　　　　　　　　　　　　　　０１２０－２１５－２１５","start":1551137400000,"end":1551139200000,"seconds":1800,"description":"サントリーテレビショッピング","extra":{"番組内容":"グッドムービング　ひざサポーター　ロコモア　　　　　　　　　　　　　　　　　　　０１２０－２１５－２１５"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1lav",
+  "category": "information",
+  "title": "ＴＶショッピング・サントリーテレビショッピング",
+  "fullTitle": "ＴＶショッピング・サントリーテレビショッピング[Ｓ]",
+  "detail": "サントリーテレビショッピング\n◇番組内容\nグッドムービング　ひざサポーター　ロコモア　　　　　　　　　　　　　　　　　　　０１２０－２１５－２１５",
+  "start": 1551137400000,
+  "end": 1551139200000,
+  "seconds": 1800,
+  "description": "サントリーテレビショッピング",
+  "extra": {
+    "番組内容": "グッドムービング　ひざサポーター　ロコモア　　　　　　　　　　　　　　　　　　　０１２０－２１５－２１５"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

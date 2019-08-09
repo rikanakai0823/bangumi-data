@@ -1,1 +1,23 @@
-{"id":"36l9gkv7w9","category":"sports","title":"金曜競馬ＣＬＵＢ▽日曜東京１１Ｒ　エプソムＣ（ＧⅢ）　他","fullTitle":"金曜競馬ＣＬＵＢ▽日曜東京１１Ｒ　エプソムＣ（ＧⅢ）　他","detail":"日曜東京１１Ｒ　エプソムＣ（ＧⅢ）　土曜阪神１１Ｒ　天保山Ｓ　日曜阪神１１Ｒ　マーメイドＳ（ＧⅢ）","start":1559908800000,"end":1559910600000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv7w9",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜東京１１Ｒ　エプソムＣ（ＧⅢ）　他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜東京１１Ｒ　エプソムＣ（ＧⅢ）　他",
+  "detail": "日曜東京１１Ｒ　エプソムＣ（ＧⅢ）　土曜阪神１１Ｒ　天保山Ｓ　日曜阪神１１Ｒ　マーメイドＳ（ＧⅢ）",
+  "start": 1559908800000,
+  "end": 1559910600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

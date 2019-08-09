@@ -1,1 +1,23 @@
-{"id":"36rdttjzsf","category":"etc","title":"朝の周波数カード","fullTitle":"朝の周波数カード","detail":"アルバム「ストレンジャーズ」\r\nザ・ラモナ・フラワーズ","start":1557170700000,"end":1557172500000,"seconds":1800,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"ストレンジャーズ","episode":null,"flags":[]}
+{
+  "id": "36rdttjzsf",
+  "category": "etc",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「ストレンジャーズ」\r\nザ・ラモナ・フラワーズ",
+  "start": 1557170700000,
+  "end": 1557172500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "ストレンジャーズ",
+  "episode": null,
+  "flags": []
+}

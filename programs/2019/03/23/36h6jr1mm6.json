@@ -1,1 +1,27 @@
-{"id":"36h6jr1mm6","category":"information","title":"さわやかショッピング・ダイレクトテレショップ","fullTitle":"さわやかショッピング・ダイレクトテレショップ[Ｓ]","detail":"◇番組内容\nニーラックス　　　　　　　　　　　　　　０１２０－８８８－６５４","start":1553301900000,"end":1553302800000,"seconds":900,"description":"","extra":{"番組内容":"ニーラックス　　　　　　　　　　　　　　０１２０－８８８－６５４"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1mm6",
+  "category": "information",
+  "title": "さわやかショッピング・ダイレクトテレショップ",
+  "fullTitle": "さわやかショッピング・ダイレクトテレショップ[Ｓ]",
+  "detail": "◇番組内容\nニーラックス　　　　　　　　　　　　　　０１２０－８８８－６５４",
+  "start": 1553301900000,
+  "end": 1553302800000,
+  "seconds": 900,
+  "description": "",
+  "extra": {
+    "番組内容": "ニーラックス　　　　　　　　　　　　　　０１２０－８８８－６５４"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

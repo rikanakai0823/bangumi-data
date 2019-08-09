@@ -1,1 +1,23 @@
-{"id":"36h6jr1o32","category":"variety","title":"クイーンズランド歩き","fullTitle":"クイーンズランド歩き[Ｓ]","detail":"「ゴールドコースト満喫の旅」ゴールドコースト","start":1557146700000,"end":1557147300000,"seconds":600,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"ゴールドコースト満喫の旅","episode":null,"flags":[]}
+{
+  "id": "36h6jr1o32",
+  "category": "variety",
+  "title": "クイーンズランド歩き",
+  "fullTitle": "クイーンズランド歩き[Ｓ]",
+  "detail": "「ゴールドコースト満喫の旅」ゴールドコースト",
+  "start": 1557146700000,
+  "end": 1557147300000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "ゴールドコースト満喫の旅",
+  "episode": null,
+  "flags": []
+}

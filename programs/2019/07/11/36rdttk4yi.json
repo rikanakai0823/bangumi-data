@@ -1,1 +1,23 @@
-{"id":"36rdttk4yi","category":"etc","title":"朝の周波数カード","fullTitle":"朝の周波数カード","detail":"アルバム「トーラー」\r\nジェイミー・カラム","start":1562786700000,"end":1562788500000,"seconds":1800,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"トーラー","episode":null,"flags":[]}
+{
+  "id": "36rdttk4yi",
+  "category": "etc",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「トーラー」\r\nジェイミー・カラム",
+  "start": 1562786700000,
+  "end": 1562788500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "トーラー",
+  "episode": null,
+  "flags": []
+}

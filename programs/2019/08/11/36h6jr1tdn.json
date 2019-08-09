@@ -1,1 +1,25 @@
-{"id":"36h6jr1tdn","category":"news","title":"ふれあい戸田","fullTitle":"ふれあい戸田[字][Ｓ]","detail":"『楽しく歩こう！  とだのまち』～埼玉県コバトン健康マイレージ～","start":1565482500000,"end":1565483100000,"seconds":600,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "36h6jr1tdn",
+  "category": "news",
+  "title": "ふれあい戸田",
+  "fullTitle": "ふれあい戸田[字][Ｓ]",
+  "detail": "『楽しく歩こう！  とだのまち』～埼玉県コバトン健康マイレージ～",
+  "start": 1565482500000,
+  "end": 1565483100000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,1 +1,23 @@
-{"id":"36h6jr1r0d","category":"etc","title":"ショップチャンネル","fullTitle":"ショップチャンネル[Ｓ]","detail":"","start":1561863600000,"end":1561867200000,"seconds":3600,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1r0d",
+  "category": "etc",
+  "title": "ショップチャンネル",
+  "fullTitle": "ショップチャンネル[Ｓ]",
+  "detail": "",
+  "start": 1561863600000,
+  "end": 1561867200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

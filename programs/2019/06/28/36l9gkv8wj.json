@@ -1,1 +1,23 @@
-{"id":"36l9gkv8wj","category":"sports","title":"金曜競馬ＣＬＵＢ▽日曜福島１１Ｒ　ラジオＮＩＫＫＥＩ賞（ＧⅢ）　他","fullTitle":"金曜競馬ＣＬＵＢ▽日曜福島１１Ｒ　ラジオＮＩＫＫＥＩ賞（ＧⅢ）　他","detail":"日曜福島１１Ｒ　ラジオＮＩＫＫＥＩ賞（ＧⅢ）　土曜福島１１Ｒ　テレビユー福島賞　土曜中京１１Ｒ　白川郷Ｓ　日曜中京１１Ｒ　ＣＢＣ賞（ＧⅢ）","start":1561723200000,"end":1561725000000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv8wj",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜福島１１Ｒ　ラジオＮＩＫＫＥＩ賞（ＧⅢ）　他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜福島１１Ｒ　ラジオＮＩＫＫＥＩ賞（ＧⅢ）　他",
+  "detail": "日曜福島１１Ｒ　ラジオＮＩＫＫＥＩ賞（ＧⅢ）　土曜福島１１Ｒ　テレビユー福島賞　土曜中京１１Ｒ　白川郷Ｓ　日曜中京１１Ｒ　ＣＢＣ賞（ＧⅢ）",
+  "start": 1561723200000,
+  "end": 1561725000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

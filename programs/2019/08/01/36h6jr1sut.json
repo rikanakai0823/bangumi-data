@@ -1,1 +1,27 @@
-{"id":"36h6jr1sut","category":"information","title":"情報番組　マチコミ（ネット）","fullTitle":"情報番組　マチコミ（ネット）[Ｓ]","detail":"▽マチコミボード（川越）▽福島県の桃を紹介▽お天気▽メッセージ採用者にプレゼント　ほか\n◇出演者\n竹本孝之　山崎彩紗（テレ玉アナウンサー）","start":1564644600000,"end":1564646400000,"seconds":1800,"description":"▽マチコミボード（川越）▽福島県の桃を紹介▽お天気▽メッセージ採用者にプレゼント　ほか","extra":{"出演者":"竹本孝之　山崎彩紗（テレ玉アナウンサー）"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1sut",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）[Ｓ]",
+  "detail": "▽マチコミボード（川越）▽福島県の桃を紹介▽お天気▽メッセージ採用者にプレゼント　ほか\n◇出演者\n竹本孝之　山崎彩紗（テレ玉アナウンサー）",
+  "start": 1564644600000,
+  "end": 1564646400000,
+  "seconds": 1800,
+  "description": "▽マチコミボード（川越）▽福島県の桃を紹介▽お天気▽メッセージ採用者にプレゼント　ほか",
+  "extra": {
+    "出演者": "竹本孝之　山崎彩紗（テレ玉アナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

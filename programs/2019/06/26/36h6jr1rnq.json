@@ -1,1 +1,27 @@
-{"id":"36h6jr1rnq","category":"information","title":"ＴＶショッピング・サントリーテレビショッピング","fullTitle":"ＴＶショッピング・サントリーテレビショッピング[Ｓ]","detail":"サントリーテレビショッピング\n◇番組内容\nＤＨＡ＆ＥＰＡ＋セサミンＥＸ　オメガエイド　　　　　　　　　　　　　　　　　　　０１２０－００５－００５","start":1561507200000,"end":1561509000000,"seconds":1800,"description":"サントリーテレビショッピング","extra":{"番組内容":"ＤＨＡ＆ＥＰＡ＋セサミンＥＸ　オメガエイド　　　　　　　　　　　　　　　　　　　０１２０－００５－００５"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1rnq",
+  "category": "information",
+  "title": "ＴＶショッピング・サントリーテレビショッピング",
+  "fullTitle": "ＴＶショッピング・サントリーテレビショッピング[Ｓ]",
+  "detail": "サントリーテレビショッピング\n◇番組内容\nＤＨＡ＆ＥＰＡ＋セサミンＥＸ　オメガエイド　　　　　　　　　　　　　　　　　　　０１２０－００５－００５",
+  "start": 1561507200000,
+  "end": 1561509000000,
+  "seconds": 1800,
+  "description": "サントリーテレビショッピング",
+  "extra": {
+    "番組内容": "ＤＨＡ＆ＥＰＡ＋セサミンＥＸ　オメガエイド　　　　　　　　　　　　　　　　　　　０１２０－００５－００５"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,25 @@
-{"id":"36l9gkv4g4","category":"documentary","title":"ちば見聞録","fullTitle":"ちば見聞録[再]","detail":"柏を歩く　▽関東３弁天として名高い布施弁天や、日本初のロケット戦闘機など柏の魅力を紹介。","start":1553905800000,"end":1553907300000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv4g4",
+  "category": "documentary",
+  "title": "ちば見聞録",
+  "fullTitle": "ちば見聞録[再]",
+  "detail": "柏を歩く　▽関東３弁天として名高い布施弁天や、日本初のロケット戦闘機など柏の魅力を紹介。",
+  "start": 1553905800000,
+  "end": 1553907300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

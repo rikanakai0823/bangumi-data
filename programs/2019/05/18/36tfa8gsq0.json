@@ -1,1 +1,25 @@
-{"id":"36tfa8gsq0","category":"variety","title":"中小企業の底ヂカラ","fullTitle":"中小企業の底ヂカラ[再]","detail":" ","start":1558135800000,"end":1558136700000,"seconds":900,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36tfa8gsq0",
+  "category": "variety",
+  "title": "中小企業の底ヂカラ",
+  "fullTitle": "中小企業の底ヂカラ[再]",
+  "detail": " ",
+  "start": 1558135800000,
+  "end": 1558136700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

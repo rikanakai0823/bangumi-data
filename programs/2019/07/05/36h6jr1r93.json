@@ -1,1 +1,28 @@
-{"id":"36h6jr1r93","category":"music","title":"入山アキ子とマイク河原のここ一番の歌謡曲","fullTitle":"入山アキ子とマイク河原のここ一番の歌謡曲[Ｓ]","detail":"西山ひとみ\n◇番組内容\n西山ひとみ\n◇出演者\n西山ひとみ","start":1562272200000,"end":1562273100000,"seconds":900,"description":"西山ひとみ","extra":{"番組内容":"西山ひとみ","出演者":"西山ひとみ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1r93",
+  "category": "music",
+  "title": "入山アキ子とマイク河原のここ一番の歌謡曲",
+  "fullTitle": "入山アキ子とマイク河原のここ一番の歌謡曲[Ｓ]",
+  "detail": "西山ひとみ\n◇番組内容\n西山ひとみ\n◇出演者\n西山ひとみ",
+  "start": 1562272200000,
+  "end": 1562273100000,
+  "seconds": 900,
+  "description": "西山ひとみ",
+  "extra": {
+    "番組内容": "西山ひとみ",
+    "出演者": "西山ひとみ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

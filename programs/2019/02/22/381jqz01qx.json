@@ -1,1 +1,23 @@
-{"id":"381jqz01qx","category":"anime","title":"プチプチ・アニメ　おいどんと","fullTitle":"プチプチ・アニメ　おいどんと「おいどんとぼくじゅう」","detail":"新米力士のおいどん。日本一の関取を目指して、土俵の上だけでなく、自然や動物、おいどんを取り巻くすべてのものを相手に、今日もけいこにはげんでいます。","start":1550792700000,"end":1550793000000,"seconds":300,"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"おいどんとぼくじゅう","episode":null,"flags":[]}
+{
+  "id": "381jqz01qx",
+  "category": "anime",
+  "title": "プチプチ・アニメ　おいどんと",
+  "fullTitle": "プチプチ・アニメ　おいどんと「おいどんとぼくじゅう」",
+  "detail": "新米力士のおいどん。日本一の関取を目指して、土俵の上だけでなく、自然や動物、おいどんを取り巻くすべてのものを相手に、今日もけいこにはげんでいます。",
+  "start": 1550792700000,
+  "end": 1550793000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "おいどんとぼくじゅう",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,29 @@
-{"id":"381jqz0557","category":"news","title":"視点・論点","fullTitle":"視点・論点「次世代工業材料開発にかける」[字]","detail":"東京工科大学学長…軽部征夫\n◇出演者\n【出演】東京工科大学学長…軽部征夫","start":1562561400000,"end":1562562000000,"seconds":600,"description":"東京工科大学学長…軽部征夫","extra":{"出演者":"【出演】東京工科大学学長…軽部征夫"},"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"次世代工業材料開発にかける","episode":null,"flags":["字"]}
+{
+  "id": "381jqz0557",
+  "category": "news",
+  "title": "視点・論点",
+  "fullTitle": "視点・論点「次世代工業材料開発にかける」[字]",
+  "detail": "東京工科大学学長…軽部征夫\n◇出演者\n【出演】東京工科大学学長…軽部征夫",
+  "start": 1562561400000,
+  "end": 1562562000000,
+  "seconds": 600,
+  "description": "東京工科大学学長…軽部征夫",
+  "extra": {
+    "出演者": "【出演】東京工科大学学長…軽部征夫"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "次世代工業材料開発にかける",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

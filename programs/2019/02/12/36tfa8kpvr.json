@@ -1,1 +1,27 @@
-{"id":"36tfa8kpvr","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"ヒアロモイスチャー２４０【機能性表示食品】\n◇お知らせ\n0120-240244","start":1549972800000,"end":1549974600000,"seconds":1800,"description":"ヒアロモイスチャー２４０【機能性表示食品】","extra":{"お知らせ":"0120-240244"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"機能性表示食品","episode":null,"flags":[]}
+{
+  "id": "36tfa8kpvr",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "ヒアロモイスチャー２４０【機能性表示食品】\n◇お知らせ\n0120-240244",
+  "start": 1549972800000,
+  "end": 1549974600000,
+  "seconds": 1800,
+  "description": "ヒアロモイスチャー２４０【機能性表示食品】",
+  "extra": {
+    "お知らせ": "0120-240244"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "機能性表示食品",
+  "episode": null,
+  "flags": []
+}

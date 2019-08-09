@@ -1,1 +1,23 @@
-{"id":"36rdttk1lh","category":"music","title":"洋楽天国ＥＸＸＴＲＡ","fullTitle":"洋楽天国ＥＸＸＴＲＡ","detail":"新旧洋楽をノーカットで！洋楽情報満載の１５分","start":1558989000000,"end":1558989900000,"seconds":900,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttk1lh",
+  "category": "music",
+  "title": "洋楽天国ＥＸＸＴＲＡ",
+  "fullTitle": "洋楽天国ＥＸＸＴＲＡ",
+  "detail": "新旧洋楽をノーカットで！洋楽情報満載の１５分",
+  "start": 1558989000000,
+  "end": 1558989900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"381f5kssj5","category":"information","title":"プレマップ","fullTitle":"プレマップ","detail":"","start":1564362600000,"end":1564362900000,"seconds":300,"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381f5kssj5",
+  "category": "information",
+  "title": "プレマップ",
+  "fullTitle": "プレマップ",
+  "detail": "",
+  "start": 1564362600000,
+  "end": 1564362900000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

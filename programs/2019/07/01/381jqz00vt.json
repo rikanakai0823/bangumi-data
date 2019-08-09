@@ -1,1 +1,29 @@
-{"id":"381jqz00vt","category":"news","title":"視点・論点","fullTitle":"視点・論点「欧州議会選挙とＥＵの今後」[字]","detail":"北海道大学教授…吉田徹\n◇出演者\n【出演】北海道大学教授…吉田徹","start":1561956600000,"end":1561957200000,"seconds":600,"description":"北海道大学教授…吉田徹","extra":{"出演者":"【出演】北海道大学教授…吉田徹"},"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"欧州議会選挙とＥＵの今後","episode":null,"flags":["字"]}
+{
+  "id": "381jqz00vt",
+  "category": "news",
+  "title": "視点・論点",
+  "fullTitle": "視点・論点「欧州議会選挙とＥＵの今後」[字]",
+  "detail": "北海道大学教授…吉田徹\n◇出演者\n【出演】北海道大学教授…吉田徹",
+  "start": 1561956600000,
+  "end": 1561957200000,
+  "seconds": 600,
+  "description": "北海道大学教授…吉田徹",
+  "extra": {
+    "出演者": "【出演】北海道大学教授…吉田徹"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "欧州議会選挙とＥＵの今後",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

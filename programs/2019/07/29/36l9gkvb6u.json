@@ -1,1 +1,23 @@
-{"id":"36l9gkvb6u","category":"news","title":"ＮＥＷＳチバ９３０▽大角茉里","fullTitle":"ＮＥＷＳチバ９３０▽【出演】大角茉里","detail":"▽１台のカメラが紡ぐ日本と台湾の絆　▽天気予報　▽出演／大角茉里アナウンサー","start":1564403400000,"end":1564404900000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"出演","episode":null,"flags":[]}
+{
+  "id": "36l9gkvb6u",
+  "category": "news",
+  "title": "ＮＥＷＳチバ９３０▽大角茉里",
+  "fullTitle": "ＮＥＷＳチバ９３０▽【出演】大角茉里",
+  "detail": "▽１台のカメラが紡ぐ日本と台湾の絆　▽天気予報　▽出演／大角茉里アナウンサー",
+  "start": 1564403400000,
+  "end": 1564404900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": []
+}

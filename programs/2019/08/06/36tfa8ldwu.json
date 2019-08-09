@@ -1,1 +1,27 @@
-{"id":"36tfa8ldwu","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"ゆらこ【エクササイズグッズ】\n◇お知らせ\n0120-334114","start":1565091000000,"end":1565092800000,"seconds":1800,"description":"ゆらこ【エクササイズグッズ】","extra":{"お知らせ":"0120-334114"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"エクササイズグッズ","episode":null,"flags":[]}
+{
+  "id": "36tfa8ldwu",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "ゆらこ【エクササイズグッズ】\n◇お知らせ\n0120-334114",
+  "start": 1565091000000,
+  "end": 1565092800000,
+  "seconds": 1800,
+  "description": "ゆらこ【エクササイズグッズ】",
+  "extra": {
+    "お知らせ": "0120-334114"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "エクササイズグッズ",
+  "episode": null,
+  "flags": []
+}

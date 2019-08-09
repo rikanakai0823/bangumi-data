@@ -1,1 +1,25 @@
-{"id":"36l9gkvb4x","category":"music","title":"カラオケ大賞半田浩二","fullTitle":"カラオケ大賞[再]【ゲスト】半田浩二","detail":"【ゲスト】半田浩二　【審査員長】伊戸のりお　【司会】風見しんご　【アシスタント】飯田有咲","start":1564300800000,"end":1564304100000,"seconds":3300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkvb4x",
+  "category": "music",
+  "title": "カラオケ大賞半田浩二",
+  "fullTitle": "カラオケ大賞[再]【ゲスト】半田浩二",
+  "detail": "【ゲスト】半田浩二　【審査員長】伊戸のりお　【司会】風見しんご　【アシスタント】飯田有咲",
+  "start": 1564300800000,
+  "end": 1564304100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

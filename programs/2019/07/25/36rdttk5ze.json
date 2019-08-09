@@ -1,1 +1,28 @@
-{"id":"36rdttk5ze","category":"music","title":"洋楽天国＋","fullTitle":"洋楽天国＋","detail":"最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Senorita\"SHAWN MENDES & CAMILA CABELLO\r\n\"In My Bed\"SABRINA CARPENTER\r\n\"Rocket Man\"TARON EGERTON\r\n\"Celebrate\"DJ KHALED feat.TRAVIS SCOTT & POST MALONE\r\n\"Western Stars\"BRUCE SPRINGSTEEN\n◇番組内容２\n\"You Need To Calm Down\"TAYLOR SWIFT","start":1563991200000,"end":1563993000000,"seconds":1800,"description":"最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！","extra":{"番組内容１":"\"Senorita\"SHAWN MENDES & CAMILA CABELLO\r\n\"In My Bed\"SABRINA CARPENTER\r\n\"Rocket Man\"TARON EGERTON\r\n\"Celebrate\"DJ KHALED feat.TRAVIS SCOTT & POST MALONE\r\n\"Western Stars\"BRUCE SPRINGSTEEN","番組内容２":"\"You Need To Calm Down\"TAYLOR SWIFT"},"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttk5ze",
+  "category": "music",
+  "title": "洋楽天国＋",
+  "fullTitle": "洋楽天国＋",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Senorita\"SHAWN MENDES & CAMILA CABELLO\r\n\"In My Bed\"SABRINA CARPENTER\r\n\"Rocket Man\"TARON EGERTON\r\n\"Celebrate\"DJ KHALED feat.TRAVIS SCOTT & POST MALONE\r\n\"Western Stars\"BRUCE SPRINGSTEEN\n◇番組内容２\n\"You Need To Calm Down\"TAYLOR SWIFT",
+  "start": 1563991200000,
+  "end": 1563993000000,
+  "seconds": 1800,
+  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "extra": {
+    "番組内容１": "\"Senorita\"SHAWN MENDES & CAMILA CABELLO\r\n\"In My Bed\"SABRINA CARPENTER\r\n\"Rocket Man\"TARON EGERTON\r\n\"Celebrate\"DJ KHALED feat.TRAVIS SCOTT & POST MALONE\r\n\"Western Stars\"BRUCE SPRINGSTEEN",
+    "番組内容２": "\"You Need To Calm Down\"TAYLOR SWIFT"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36tfa8kuq8","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"楽ちんヒアリング\n◇お知らせ\n0120-115524","start":1552986000000,"end":1552987800000,"seconds":1800,"description":"楽ちんヒアリング","extra":{"お知らせ":"0120-115524"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8kuq8",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "楽ちんヒアリング\n◇お知らせ\n0120-115524",
+  "start": 1552986000000,
+  "end": 1552987800000,
+  "seconds": 1800,
+  "description": "楽ちんヒアリング",
+  "extra": {
+    "お知らせ": "0120-115524"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

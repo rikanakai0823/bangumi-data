@@ -1,1 +1,23 @@
-{"id":"36l9gkv389","category":"information","title":"生活情報５５分","fullTitle":"生活情報５５分","detail":"あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！　【内容】フィットライフコーヒー　【電話】０１２０－３７－３６－３６","start":1551506400000,"end":1551509700000,"seconds":3300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv389",
+  "category": "information",
+  "title": "生活情報５５分",
+  "fullTitle": "生活情報５５分",
+  "detail": "あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！　【内容】フィットライフコーヒー　【電話】０１２０－３７－３６－３６",
+  "start": 1551506400000,
+  "end": 1551509700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

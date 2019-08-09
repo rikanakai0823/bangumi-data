@@ -1,1 +1,23 @@
-{"id":"36tfa8kz3e","category":"news","title":"ヒーリングタイム＆ヘッドラインニュース","fullTitle":"ヒーリングタイム＆ヘッドラインニュース","detail":"ミュージアムクルーズ","start":1555621200000,"end":1555624800000,"seconds":3600,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8kz3e",
+  "category": "news",
+  "title": "ヒーリングタイム＆ヘッドラインニュース",
+  "fullTitle": "ヒーリングタイム＆ヘッドラインニュース",
+  "detail": "ミュージアムクルーズ",
+  "start": 1555621200000,
+  "end": 1555624800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

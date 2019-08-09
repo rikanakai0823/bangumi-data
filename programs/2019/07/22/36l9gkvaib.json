@@ -1,1 +1,23 @@
-{"id":"36l9gkvaib","category":"anime","title":"キャプテン▽死闘！１８回","fullTitle":"キャプテン▽死闘！１８回","detail":"第１９話「死闘！１８回」（全２６話）","start":1563782400000,"end":1563784200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"死闘！１８回","episode":19,"flags":[]}
+{
+  "id": "36l9gkvaib",
+  "category": "anime",
+  "title": "キャプテン▽死闘！１８回",
+  "fullTitle": "キャプテン▽死闘！１８回",
+  "detail": "第１９話「死闘！１８回」（全２６話）",
+  "start": 1563782400000,
+  "end": 1563784200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "死闘！１８回",
+  "episode": 19,
+  "flags": []
+}

@@ -1,1 +1,25 @@
-{"id":"36l9gkva7z","category":"documentary","title":"ちば見聞録","fullTitle":"ちば見聞録[再]","detail":"房総の偉人～大原幽学～　【内容】江戸時代後期の農政学者として知られる郷土の偉人・大原幽学の生涯を紹介。","start":1563496200000,"end":1563497700000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"内容","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkva7z",
+  "category": "documentary",
+  "title": "ちば見聞録",
+  "fullTitle": "ちば見聞録[再]",
+  "detail": "房総の偉人～大原幽学～　【内容】江戸時代後期の農政学者として知られる郷土の偉人・大原幽学の生涯を紹介。",
+  "start": 1563496200000,
+  "end": 1563497700000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

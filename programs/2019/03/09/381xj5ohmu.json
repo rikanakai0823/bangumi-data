@@ -1,1 +1,25 @@
-{"id":"381xj5ohmu","category":"variety","title":"今夜７時は！ドッキリＧＰ　ＤＡＰＵＭＰも小池もジャニーズも大絶叫ＳＰ","fullTitle":"今夜７時は！ドッキリＧＰ　ＤＡＰＵＭＰも小池もジャニーズも大絶叫ＳＰ[字]","detail":"","start":1552113000000,"end":1552116600000,"seconds":3600,"channel":{"type":"GR","channel":"21","name":"フジテレビ","id":"1i597ds","sid":1056,"nid":32740,"hasLogoData":true,"n":28},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "381xj5ohmu",
+  "category": "variety",
+  "title": "今夜７時は！ドッキリＧＰ　ＤＡＰＵＭＰも小池もジャニーズも大絶叫ＳＰ",
+  "fullTitle": "今夜７時は！ドッキリＧＰ　ＤＡＰＵＭＰも小池もジャニーズも大絶叫ＳＰ[字]",
+  "detail": "",
+  "start": 1552113000000,
+  "end": 1552116600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

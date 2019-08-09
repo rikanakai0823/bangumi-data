@@ -1,1 +1,27 @@
-{"id":"36h6jr1szc","category":"information","title":"ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン","fullTitle":"ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン[Ｓ]","detail":"◇番組内容\nスレンダートーン  フィットプラス　　　　０１２０－５５－７８２７","start":1562949000000,"end":1562950800000,"seconds":1800,"description":"","extra":{"番組内容":"スレンダートーン  フィットプラス　　　　０１２０－５５－７８２７"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1szc",
+  "category": "information",
+  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン",
+  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nスレンダートーン  フィットプラス　　　　０１２０－５５－７８２７",
+  "start": 1562949000000,
+  "end": 1562950800000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "スレンダートーン  フィットプラス　　　　０１２０－５５－７８２７"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

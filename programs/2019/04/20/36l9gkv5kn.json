@@ -1,1 +1,23 @@
-{"id":"36l9gkv5kn","category":"information","title":"ショップジャパンターボスクラブ","fullTitle":"ショップジャパン【内容】ターボスクラブ","detail":"あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！　【内容】ターボスクラブ　【電話】０１２０－３６２－０６０","start":1555725600000,"end":1555727400000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"内容","episode":null,"flags":[]}
+{
+  "id": "36l9gkv5kn",
+  "category": "information",
+  "title": "ショップジャパンターボスクラブ",
+  "fullTitle": "ショップジャパン【内容】ターボスクラブ",
+  "detail": "あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！　【内容】ターボスクラブ　【電話】０１２０－３６２－０６０",
+  "start": 1555725600000,
+  "end": 1555727400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": []
+}

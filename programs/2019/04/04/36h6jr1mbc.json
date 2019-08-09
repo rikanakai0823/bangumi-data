@@ -1,1 +1,27 @@
-{"id":"36h6jr1mbc","category":"music","title":"カラオケ１ばん","fullTitle":"カラオケ１ばん[Ｓ]","detail":"ゲスト石橋美彩\n◇出演者\n司会：岸田敏志　みずき舞","start":1554372000000,"end":1554375300000,"seconds":3300,"description":"ゲスト石橋美彩","extra":{"出演者":"司会：岸田敏志　みずき舞"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1mbc",
+  "category": "music",
+  "title": "カラオケ１ばん",
+  "fullTitle": "カラオケ１ばん[Ｓ]",
+  "detail": "ゲスト石橋美彩\n◇出演者\n司会：岸田敏志　みずき舞",
+  "start": 1554372000000,
+  "end": 1554375300000,
+  "seconds": 3300,
+  "description": "ゲスト石橋美彩",
+  "extra": {
+    "出演者": "司会：岸田敏志　みずき舞"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

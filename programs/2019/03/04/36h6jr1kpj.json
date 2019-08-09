@@ -1,1 +1,27 @@
-{"id":"36h6jr1kpj","category":"drama","title":"大江戸捜査網","fullTitle":"大江戸捜査網","detail":"炎の誘惑・爆発魔を斬れ！\n◇出演者\n松方弘樹","start":1551679500000,"end":1551682800000,"seconds":3300,"description":"炎の誘惑・爆発魔を斬れ！","extra":{"出演者":"松方弘樹"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kpj",
+  "category": "drama",
+  "title": "大江戸捜査網",
+  "fullTitle": "大江戸捜査網",
+  "detail": "炎の誘惑・爆発魔を斬れ！\n◇出演者\n松方弘樹",
+  "start": 1551679500000,
+  "end": 1551682800000,
+  "seconds": 3300,
+  "description": "炎の誘惑・爆発魔を斬れ！",
+  "extra": {
+    "出演者": "松方弘樹"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,25 @@
-{"id":"36tfa8l19r","category":"documentary","title":"ＢＢＣ　トラベルショー：ハイライト２０１８","fullTitle":"ＢＢＣ　トラベルショー：ハイライト２０１８[二]","detail":" ","start":1557012600000,"end":1557014400000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":["二"]}
+{
+  "id": "36tfa8l19r",
+  "category": "documentary",
+  "title": "ＢＢＣ　トラベルショー：ハイライト２０１８",
+  "fullTitle": "ＢＢＣ　トラベルショー：ハイライト２０１８[二]",
+  "detail": " ",
+  "start": 1557012600000,
+  "end": 1557014400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,1 +1,25 @@
-{"id":"3826py452q","category":"information","title":"「日曜ゴールデンの池上ワールド」オススメ","fullTitle":"「日曜ゴールデンの池上ワールド」オススメ[字]","detail":"「日曜ゴールデンの池上ワールド」\r\n▼番組の見どころを紹介します。","start":1553437440000,"end":1553437800000,"seconds":360,"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"日曜ゴールデンの池上ワールド","episode":null,"flags":["字"]}
+{
+  "id": "3826py452q",
+  "category": "information",
+  "title": "「日曜ゴールデンの池上ワールド」オススメ",
+  "fullTitle": "「日曜ゴールデンの池上ワールド」オススメ[字]",
+  "detail": "「日曜ゴールデンの池上ワールド」\r\n▼番組の見どころを紹介します。",
+  "start": 1553437440000,
+  "end": 1553437800000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "日曜ゴールデンの池上ワールド",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

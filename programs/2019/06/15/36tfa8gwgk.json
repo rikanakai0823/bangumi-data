@@ -1,1 +1,29 @@
-{"id":"36tfa8gwgk","category":"news","title":"東京都議会中継ダイジェスト","fullTitle":"東京都議会中継ダイジェスト[デ]","detail":"「令和元年第２回定例会　代表質問ダイジェスト」\n◇出演者      \n【解説】\r\n内山 融（東京大学教授）\r\n【司会】\r\n針谷 衣織里","start":1560571200000,"end":1560582000000,"seconds":10800,"description":"「令和元年第２回定例会　代表質問ダイジェスト」","extra":{"出演者      ":"【解説】\r\n内山 融（東京大学教授）\r\n【司会】\r\n針谷 衣織里"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"令和元年第２回定例会　代表質問ダイジェスト","episode":2,"flags":["デ"]}
+{
+  "id": "36tfa8gwgk",
+  "category": "news",
+  "title": "東京都議会中継ダイジェスト",
+  "fullTitle": "東京都議会中継ダイジェスト[デ]",
+  "detail": "「令和元年第２回定例会　代表質問ダイジェスト」\n◇出演者      \n【解説】\r\n内山 融（東京大学教授）\r\n【司会】\r\n針谷 衣織里",
+  "start": 1560571200000,
+  "end": 1560582000000,
+  "seconds": 10800,
+  "description": "「令和元年第２回定例会　代表質問ダイジェスト」",
+  "extra": {
+    "出演者      ": "【解説】\r\n内山 融（東京大学教授）\r\n【司会】\r\n針谷 衣織里"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "令和元年第２回定例会　代表質問ダイジェスト",
+  "episode": 2,
+  "flags": [
+    "デ"
+  ]
+}

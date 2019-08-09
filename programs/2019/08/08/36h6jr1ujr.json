@@ -1,1 +1,27 @@
-{"id":"36h6jr1ujr","category":"etc","title":"わくわくショッピング・イチおし！Ｓｅｌｅｃｔｉｏｎ","fullTitle":"わくわくショッピング・イチおし！Ｓｅｌｅｃｔｉｏｎ[Ｓ]","detail":"イチおし！デラックス\n◇番組内容\nひざ衛門　　　　　　　　　　　　　　　　０１２０－０５５－０９９","start":1565231100000,"end":1565232900000,"seconds":1800,"description":"イチおし！デラックス","extra":{"番組内容":"ひざ衛門　　　　　　　　　　　　　　　　０１２０－０５５－０９９"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ujr",
+  "category": "etc",
+  "title": "わくわくショッピング・イチおし！Ｓｅｌｅｃｔｉｏｎ",
+  "fullTitle": "わくわくショッピング・イチおし！Ｓｅｌｅｃｔｉｏｎ[Ｓ]",
+  "detail": "イチおし！デラックス\n◇番組内容\nひざ衛門　　　　　　　　　　　　　　　　０１２０－０５５－０９９",
+  "start": 1565231100000,
+  "end": 1565232900000,
+  "seconds": 1800,
+  "description": "イチおし！デラックス",
+  "extra": {
+    "番組内容": "ひざ衛門　　　　　　　　　　　　　　　　０１２０－０５５－０９９"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

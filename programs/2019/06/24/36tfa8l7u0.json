@@ -1,1 +1,23 @@
-{"id":"36tfa8l7u0","category":"variety","title":"ミテヨミテ！","fullTitle":"ミテヨミテ！","detail":" ","start":1561307700000,"end":1561309500000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8l7u0",
+  "category": "variety",
+  "title": "ミテヨミテ！",
+  "fullTitle": "ミテヨミテ！",
+  "detail": " ",
+  "start": 1561307700000,
+  "end": 1561309500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

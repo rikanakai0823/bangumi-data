@@ -1,1 +1,23 @@
-{"id":"36l9gkv3d0","category":"information","title":"ショップ　チャンネル３０分","fullTitle":"ショップ　チャンネル３０分","detail":"【内容】ギザ刃三徳包丁アシストグリップ　【電話】０１２０－４４５－５５２","start":1551768900000,"end":1551770700000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv3d0",
+  "category": "information",
+  "title": "ショップ　チャンネル３０分",
+  "fullTitle": "ショップ　チャンネル３０分",
+  "detail": "【内容】ギザ刃三徳包丁アシストグリップ　【電話】０１２０－４４５－５５２",
+  "start": 1551768900000,
+  "end": 1551770700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

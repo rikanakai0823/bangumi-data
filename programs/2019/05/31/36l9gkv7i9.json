@@ -1,1 +1,23 @@
-{"id":"36l9gkv7i9","category":"news","title":"ＮＥＷＳチバＦＵＳＩＯＮ▽大角茉里","fullTitle":"ＮＥＷＳチバＦＵＳＩＯＮ▽【出演】大角茉里","detail":"▽ニュースランキングで１週間を振り返る　▽千葉で「ういろう」　製造現場に潜入！　▽週末どうなる？気になるお天気　▽出演／大角茉里アナウンサー","start":1559293200000,"end":1559295000000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"出演","episode":null,"flags":[]}
+{
+  "id": "36l9gkv7i9",
+  "category": "news",
+  "title": "ＮＥＷＳチバＦＵＳＩＯＮ▽大角茉里",
+  "fullTitle": "ＮＥＷＳチバＦＵＳＩＯＮ▽【出演】大角茉里",
+  "detail": "▽ニュースランキングで１週間を振り返る　▽千葉で「ういろう」　製造現場に潜入！　▽週末どうなる？気になるお天気　▽出演／大角茉里アナウンサー",
+  "start": 1559293200000,
+  "end": 1559295000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": []
+}

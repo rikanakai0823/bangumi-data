@@ -1,1 +1,27 @@
-{"id":"36l9gkv70t","category":"information","title":"生活情報５分美爽煌茶","fullTitle":"生活情報５分【内容】美爽煌茶","detail":"【内容】美爽煌茶　【電話】０１２０－３２８－３２８\n◇番組内容\nあなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！","start":1558252500000,"end":1558252800000,"seconds":300,"description":"【内容】美爽煌茶　【電話】０１２０－３２８－３２８","extra":{"番組内容":"あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！\r\n"},"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"内容","episode":null,"flags":[]}
+{
+  "id": "36l9gkv70t",
+  "category": "information",
+  "title": "生活情報５分美爽煌茶",
+  "fullTitle": "生活情報５分【内容】美爽煌茶",
+  "detail": "【内容】美爽煌茶　【電話】０１２０－３２８－３２８\n◇番組内容\nあなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！",
+  "start": 1558252500000,
+  "end": 1558252800000,
+  "seconds": 300,
+  "description": "【内容】美爽煌茶　【電話】０１２０－３２８－３２８",
+  "extra": {
+    "番組内容": "あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"381jqz0387","category":"news","title":"ＮＨＫ手話ニュース８４５","fullTitle":"ＮＨＫ手話ニュース８４５[手]","detail":"【キャスター】板鼻英二，赤堀仁美\n◇出演者\n【キャスター】板鼻英二，赤堀仁美","start":1558611900000,"end":1558612800000,"seconds":900,"description":"【キャスター】板鼻英二，赤堀仁美","extra":{"出演者":"【キャスター】板鼻英二，赤堀仁美"},"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"キャスター","episode":null,"flags":[]}
+{
+  "id": "381jqz0387",
+  "category": "news",
+  "title": "ＮＨＫ手話ニュース８４５",
+  "fullTitle": "ＮＨＫ手話ニュース８４５[手]",
+  "detail": "【キャスター】板鼻英二，赤堀仁美\n◇出演者\n【キャスター】板鼻英二，赤堀仁美",
+  "start": 1558611900000,
+  "end": 1558612800000,
+  "seconds": 900,
+  "description": "【キャスター】板鼻英二，赤堀仁美",
+  "extra": {
+    "出演者": "【キャスター】板鼻英二，赤堀仁美"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "キャスター",
+  "episode": null,
+  "flags": []
+}

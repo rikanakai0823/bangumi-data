@@ -1,1 +1,23 @@
-{"id":"381jqz0a6t","category":"welfare","title":"パラマニア　ミニ","fullTitle":"パラマニア　ミニ","detail":"","start":1554733020000,"end":1554733080000,"seconds":60,"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381jqz0a6t",
+  "category": "welfare",
+  "title": "パラマニア　ミニ",
+  "fullTitle": "パラマニア　ミニ",
+  "detail": "",
+  "start": 1554733020000,
+  "end": 1554733080000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

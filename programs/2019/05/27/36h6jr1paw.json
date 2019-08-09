@@ -1,1 +1,28 @@
-{"id":"36h6jr1paw","category":"sports","title":"ＢＡＣＨプラザ","fullTitle":"ＢＡＣＨプラザ[Ｓ]","detail":"「浦和競馬」「大宮競輪」\n◇番組内容\n▽浦和競馬：１日目▽大宮競輪：デイリースポーツ賞争奪戦・２日目\n◇出演者\n井上英里香","start":1558963800000,"end":1558965600000,"seconds":1800,"description":"「浦和競馬」「大宮競輪」","extra":{"番組内容":"▽浦和競馬：１日目▽大宮競輪：デイリースポーツ賞争奪戦・２日目","出演者":"井上英里香"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1paw",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
+  "detail": "「浦和競馬」「大宮競輪」\n◇番組内容\n▽浦和競馬：１日目▽大宮競輪：デイリースポーツ賞争奪戦・２日目\n◇出演者\n井上英里香",
+  "start": 1558963800000,
+  "end": 1558965600000,
+  "seconds": 1800,
+  "description": "「浦和競馬」「大宮競輪」",
+  "extra": {
+    "番組内容": "▽浦和競馬：１日目▽大宮競輪：デイリースポーツ賞争奪戦・２日目",
+    "出演者": "井上英里香"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36tfa8kqgq","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"ウェスタ【加湿空気清浄機】\n◇お知らせ\n0120-4141-81","start":1550295000000,"end":1550296800000,"seconds":1800,"description":"ウェスタ【加湿空気清浄機】","extra":{"お知らせ":"0120-4141-81"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"加湿空気清浄機","episode":null,"flags":[]}
+{
+  "id": "36tfa8kqgq",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "ウェスタ【加湿空気清浄機】\n◇お知らせ\n0120-4141-81",
+  "start": 1550295000000,
+  "end": 1550296800000,
+  "seconds": 1800,
+  "description": "ウェスタ【加湿空気清浄機】",
+  "extra": {
+    "お知らせ": "0120-4141-81"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "加湿空気清浄機",
+  "episode": null,
+  "flags": []
+}

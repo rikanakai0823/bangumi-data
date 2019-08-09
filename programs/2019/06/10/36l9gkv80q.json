@@ -1,1 +1,23 @@
-{"id":"36l9gkv80q","category":"music","title":"カラオケ大賞山口ひろみ","fullTitle":"カラオケ大賞【ゲスト】山口ひろみ","detail":"【ゲスト】山口ひろみ　【審査委員】伊戸のりお　【司会】風見しんご　【アシスタント】飯田有咲","start":1560164400000,"end":1560167700000,"seconds":3300,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36l9gkv80q",
+  "category": "music",
+  "title": "カラオケ大賞山口ひろみ",
+  "fullTitle": "カラオケ大賞【ゲスト】山口ひろみ",
+  "detail": "【ゲスト】山口ひろみ　【審査委員】伊戸のりお　【司会】風見しんご　【アシスタント】飯田有咲",
+  "start": 1560164400000,
+  "end": 1560167700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

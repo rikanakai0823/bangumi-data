@@ -1,1 +1,23 @@
-{"id":"36h6jr1tcd","category":"documentary","title":"彩の国紀行（春・夏編）","fullTitle":"彩の国紀行（春・夏編）[Ｓ]","detail":"","start":1565447700000,"end":1565448300000,"seconds":600,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1tcd",
+  "category": "documentary",
+  "title": "彩の国紀行（春・夏編）",
+  "fullTitle": "彩の国紀行（春・夏編）[Ｓ]",
+  "detail": "",
+  "start": 1565447700000,
+  "end": 1565448300000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

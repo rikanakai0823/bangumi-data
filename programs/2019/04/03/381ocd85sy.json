@@ -1,1 +1,29 @@
-{"id":"381ocd85sy","category":"variety","title":"有吉小反省会　嘘つきアイドルVS大吉バカリ指原","fullTitle":"有吉小反省会[字]　嘘つきアイドルVS大吉バカリ指原","detail":"超人気アイドルから無名アイドルまで、衝撃カミングアウト！\n◇出演者\n【MC】有吉弘行","start":1554292440000,"end":1554292800000,"seconds":360,"description":"超人気アイドルから無名アイドルまで、衝撃カミングアウト！","extra":{"出演者":"【MC】有吉弘行"},"channel":{"type":"GR","channel":"25","name":"日テレ１","id":"1i54x1s","sid":1040,"nid":32738,"hasLogoData":true,"n":15},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "381ocd85sy",
+  "category": "variety",
+  "title": "有吉小反省会　嘘つきアイドルVS大吉バカリ指原",
+  "fullTitle": "有吉小反省会[字]　嘘つきアイドルVS大吉バカリ指原",
+  "detail": "超人気アイドルから無名アイドルまで、衝撃カミングアウト！\n◇出演者\n【MC】有吉弘行",
+  "start": 1554292440000,
+  "end": 1554292800000,
+  "seconds": 360,
+  "description": "超人気アイドルから無名アイドルまで、衝撃カミングアウト！",
+  "extra": {
+    "出演者": "【MC】有吉弘行"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

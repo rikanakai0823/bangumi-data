@@ -1,1 +1,23 @@
-{"id":"36tfa8h0so","category":"hobby","title":"ふるさと食堂","fullTitle":"ふるさと食堂","detail":"北海道の味・沖縄の味","start":1563404400000,"end":1563406200000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8h0so",
+  "category": "hobby",
+  "title": "ふるさと食堂",
+  "fullTitle": "ふるさと食堂",
+  "detail": "北海道の味・沖縄の味",
+  "start": 1563404400000,
+  "end": 1563406200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

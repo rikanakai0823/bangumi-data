@@ -1,1 +1,28 @@
-{"id":"36h6jr1ksf","category":"music","title":"歌謡アプリ","fullTitle":"歌謡アプリ[Ｓ]","detail":"ＫＡＮＡ\n◇番組内容\nＫＡＮＡ\n◇出演者\nＫＡＮＡ","start":1551852000000,"end":1551852300000,"seconds":300,"description":"ＫＡＮＡ","extra":{"番組内容":"ＫＡＮＡ","出演者":"ＫＡＮＡ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ksf",
+  "category": "music",
+  "title": "歌謡アプリ",
+  "fullTitle": "歌謡アプリ[Ｓ]",
+  "detail": "ＫＡＮＡ\n◇番組内容\nＫＡＮＡ\n◇出演者\nＫＡＮＡ",
+  "start": 1551852000000,
+  "end": 1551852300000,
+  "seconds": 300,
+  "description": "ＫＡＮＡ",
+  "extra": {
+    "番組内容": "ＫＡＮＡ",
+    "出演者": "ＫＡＮＡ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

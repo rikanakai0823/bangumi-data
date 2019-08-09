@@ -1,1 +1,23 @@
-{"id":"36l9gkv8ux","category":"news","title":"ＮＥＷＳチバ６００▽竹内里奈","fullTitle":"ＮＥＷＳチバ６００▽【出演】竹内里奈","detail":"▽天気予報　▽出演／竹内里奈アナウンサー","start":1561626000000,"end":1561626900000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"出演","episode":null,"flags":[]}
+{
+  "id": "36l9gkv8ux",
+  "category": "news",
+  "title": "ＮＥＷＳチバ６００▽竹内里奈",
+  "fullTitle": "ＮＥＷＳチバ６００▽【出演】竹内里奈",
+  "detail": "▽天気予報　▽出演／竹内里奈アナウンサー",
+  "start": 1561626000000,
+  "end": 1561626900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": []
+}

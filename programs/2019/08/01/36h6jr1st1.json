@@ -1,1 +1,28 @@
-{"id":"36h6jr1st1","category":"music","title":"ＳＳＣ５","fullTitle":"ＳＳＣ５[Ｓ]","detail":"Ｎａｚ「ＣｌｅａｒＳｋｉｅｓ」\n◇番組内容\nＮａｚ「ＣｌｅａｒＳｋｉｅｓ」\n◇出演者\nＮａｚ「ＣｌｅａｒＳｋｉｅｓ」","start":1564594500000,"end":1564594800000,"seconds":300,"description":"Ｎａｚ「ＣｌｅａｒＳｋｉｅｓ」","extra":{"番組内容":"Ｎａｚ「ＣｌｅａｒＳｋｉｅｓ」","出演者":"Ｎａｚ「ＣｌｅａｒＳｋｉｅｓ」"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"ＣｌｅａｒＳｋｉｅｓ","episode":null,"flags":[]}
+{
+  "id": "36h6jr1st1",
+  "category": "music",
+  "title": "ＳＳＣ５",
+  "fullTitle": "ＳＳＣ５[Ｓ]",
+  "detail": "Ｎａｚ「ＣｌｅａｒＳｋｉｅｓ」\n◇番組内容\nＮａｚ「ＣｌｅａｒＳｋｉｅｓ」\n◇出演者\nＮａｚ「ＣｌｅａｒＳｋｉｅｓ」",
+  "start": 1564594500000,
+  "end": 1564594800000,
+  "seconds": 300,
+  "description": "Ｎａｚ「ＣｌｅａｒＳｋｉｅｓ」",
+  "extra": {
+    "番組内容": "Ｎａｚ「ＣｌｅａｒＳｋｉｅｓ」",
+    "出演者": "Ｎａｚ「ＣｌｅａｒＳｋｉｅｓ」"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "ＣｌｅａｒＳｋｉｅｓ",
+  "episode": null,
+  "flags": []
+}

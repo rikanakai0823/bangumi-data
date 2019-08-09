@@ -1,1 +1,23 @@
-{"id":"36l9gkv783","category":"news","title":"ＮＥＷＳチバＦＵＳＩＯＮ▽小倉星羅","fullTitle":"ＮＥＷＳチバＦＵＳＩＯＮ▽【出演】小倉星羅","detail":"▽ニュースランキングで１週間を振り返る　▽砂上の戦い　ビーチテニストップ選手に聞く　▽週末どうなる？気になるお天気　▽出演／小倉星羅アナウンサー","start":1558688400000,"end":1558690200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"出演","episode":null,"flags":[]}
+{
+  "id": "36l9gkv783",
+  "category": "news",
+  "title": "ＮＥＷＳチバＦＵＳＩＯＮ▽小倉星羅",
+  "fullTitle": "ＮＥＷＳチバＦＵＳＩＯＮ▽【出演】小倉星羅",
+  "detail": "▽ニュースランキングで１週間を振り返る　▽砂上の戦い　ビーチテニストップ選手に聞く　▽週末どうなる？気になるお天気　▽出演／小倉星羅アナウンサー",
+  "start": 1558688400000,
+  "end": 1558690200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": []
+}

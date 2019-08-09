@@ -1,1 +1,28 @@
-{"id":"36h6jr1kk3","category":"music","title":"歌謡アプリ","fullTitle":"歌謡アプリ[Ｓ]","detail":"野上こうじ\n◇番組内容\n野上こうじ\n◇出演者\n野上こうじ","start":1551420000000,"end":1551420300000,"seconds":300,"description":"野上こうじ","extra":{"番組内容":"野上こうじ","出演者":"野上こうじ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kk3",
+  "category": "music",
+  "title": "歌謡アプリ",
+  "fullTitle": "歌謡アプリ[Ｓ]",
+  "detail": "野上こうじ\n◇番組内容\n野上こうじ\n◇出演者\n野上こうじ",
+  "start": 1551420000000,
+  "end": 1551420300000,
+  "seconds": 300,
+  "description": "野上こうじ",
+  "extra": {
+    "番組内容": "野上こうじ",
+    "出演者": "野上こうじ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

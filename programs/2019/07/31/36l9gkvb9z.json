@@ -1,1 +1,23 @@
-{"id":"36l9gkvb9z","category":"sports","title":"マリーンズナイター▽千葉ロッテ×オリックス","fullTitle":"マリーンズナイター▽千葉ロッテ×オリックス","detail":"【実況】小笠原聖　　　　　　　　　【解説】倉持　明　【球場】　ＺＯＺＯマリン","start":1564567200000,"end":1564576200000,"seconds":9000,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkvb9z",
+  "category": "sports",
+  "title": "マリーンズナイター▽千葉ロッテ×オリックス",
+  "fullTitle": "マリーンズナイター▽千葉ロッテ×オリックス",
+  "detail": "【実況】小笠原聖　　　　　　　　　【解説】倉持　明　【球場】　ＺＯＺＯマリン",
+  "start": 1564567200000,
+  "end": 1564576200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

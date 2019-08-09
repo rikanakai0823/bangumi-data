@@ -1,1 +1,30 @@
-{"id":"381f5ks5fd","category":"news","title":"視点・論点","fullTitle":"視点・論点「こどもに伝えたい詩歌の世界」[字][再]","detail":"俳人…長谷川櫂\n◇出演者\n【出演】俳人…長谷川櫂","start":1550515800000,"end":1550516400000,"seconds":600,"description":"俳人…長谷川櫂","extra":{"出演者":"【出演】俳人…長谷川櫂"},"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"こどもに伝えたい詩歌の世界","episode":null,"flags":["字","再"]}
+{
+  "id": "381f5ks5fd",
+  "category": "news",
+  "title": "視点・論点",
+  "fullTitle": "視点・論点「こどもに伝えたい詩歌の世界」[字][再]",
+  "detail": "俳人…長谷川櫂\n◇出演者\n【出演】俳人…長谷川櫂",
+  "start": 1550515800000,
+  "end": 1550516400000,
+  "seconds": 600,
+  "description": "俳人…長谷川櫂",
+  "extra": {
+    "出演者": "【出演】俳人…長谷川櫂"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "こどもに伝えたい詩歌の世界",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

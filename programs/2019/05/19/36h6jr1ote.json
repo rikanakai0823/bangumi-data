@@ -1,1 +1,28 @@
-{"id":"36h6jr1ote","category":"music","title":"藤原浩と鈴木和華の朝ナビ歌謡曲","fullTitle":"藤原浩と鈴木和華の朝ナビ歌謡曲[Ｓ]","detail":"水城なつみ\n◇番組内容\n水城なつみ\n◇出演者\n水城なつみ","start":1558210500000,"end":1558211400000,"seconds":900,"description":"水城なつみ","extra":{"番組内容":"水城なつみ","出演者":"水城なつみ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1ote",
+  "category": "music",
+  "title": "藤原浩と鈴木和華の朝ナビ歌謡曲",
+  "fullTitle": "藤原浩と鈴木和華の朝ナビ歌謡曲[Ｓ]",
+  "detail": "水城なつみ\n◇番組内容\n水城なつみ\n◇出演者\n水城なつみ",
+  "start": 1558210500000,
+  "end": 1558211400000,
+  "seconds": 900,
+  "description": "水城なつみ",
+  "extra": {
+    "番組内容": "水城なつみ",
+    "出演者": "水城なつみ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

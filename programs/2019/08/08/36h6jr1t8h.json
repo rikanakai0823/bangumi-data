@@ -1,1 +1,28 @@
-{"id":"36h6jr1t8h","category":"music","title":"熱波","fullTitle":"熱波[Ｓ]","detail":"【ゲスト】Migimimi sleep tight\n◇番組内容\n【８月度オープニング曲】sora tob sakana 「ささやかな祝祭」　【８月度エンディング曲】ＭｅｓｅＭｏａ．「平成パラダイムチェンジ」\n◇出演者\n【ＭＣ】岩井勇気（ハライチ）　【レギュラーアシスタント】sora tob sakana","start":1565274600000,"end":1565276400000,"seconds":1800,"description":"【ゲスト】Migimimi sleep tight","extra":{"番組内容":"【８月度オープニング曲】sora tob sakana 「ささやかな祝祭」　【８月度エンディング曲】ＭｅｓｅＭｏａ．「平成パラダイムチェンジ」","出演者":"【ＭＣ】岩井勇気（ハライチ）　【レギュラーアシスタント】sora tob sakana"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36h6jr1t8h",
+  "category": "music",
+  "title": "熱波",
+  "fullTitle": "熱波[Ｓ]",
+  "detail": "【ゲスト】Migimimi sleep tight\n◇番組内容\n【８月度オープニング曲】sora tob sakana 「ささやかな祝祭」　【８月度エンディング曲】ＭｅｓｅＭｏａ．「平成パラダイムチェンジ」\n◇出演者\n【ＭＣ】岩井勇気（ハライチ）　【レギュラーアシスタント】sora tob sakana",
+  "start": 1565274600000,
+  "end": 1565276400000,
+  "seconds": 1800,
+  "description": "【ゲスト】Migimimi sleep tight",
+  "extra": {
+    "番組内容": "【８月度オープニング曲】sora tob sakana 「ささやかな祝祭」　【８月度エンディング曲】ＭｅｓｅＭｏａ．「平成パラダイムチェンジ」",
+    "出演者": "【ＭＣ】岩井勇気（ハライチ）　【レギュラーアシスタント】sora tob sakana"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

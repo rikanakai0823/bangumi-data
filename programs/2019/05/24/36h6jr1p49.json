@@ -1,1 +1,23 @@
-{"id":"36h6jr1p49","category":"sports","title":"ライオンズアワー・埼玉西武×北海道日本ハム","fullTitle":"ライオンズアワー・埼玉西武×北海道日本ハム[Ｓ]","detail":"","start":1558692000000,"end":1558701000000,"seconds":9000,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1p49",
+  "category": "sports",
+  "title": "ライオンズアワー・埼玉西武×北海道日本ハム",
+  "fullTitle": "ライオンズアワー・埼玉西武×北海道日本ハム[Ｓ]",
+  "detail": "",
+  "start": 1558692000000,
+  "end": 1558701000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

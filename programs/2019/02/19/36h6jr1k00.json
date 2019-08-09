@@ -1,1 +1,28 @@
-{"id":"36h6jr1k00","category":"music","title":"清水節子と安藤栄子の歌日記","fullTitle":"清水節子と安藤栄子の歌日記[Ｓ]","detail":"北原ミレイ\n◇番組内容\n北原ミレイ\n◇出演者\n北原ミレイ","start":1550530800000,"end":1550532600000,"seconds":1800,"description":"北原ミレイ","extra":{"番組内容":"北原ミレイ","出演者":"北原ミレイ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1k00",
+  "category": "music",
+  "title": "清水節子と安藤栄子の歌日記",
+  "fullTitle": "清水節子と安藤栄子の歌日記[Ｓ]",
+  "detail": "北原ミレイ\n◇番組内容\n北原ミレイ\n◇出演者\n北原ミレイ",
+  "start": 1550530800000,
+  "end": 1550532600000,
+  "seconds": 1800,
+  "description": "北原ミレイ",
+  "extra": {
+    "番組内容": "北原ミレイ",
+    "出演者": "北原ミレイ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

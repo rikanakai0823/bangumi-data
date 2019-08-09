@@ -1,1 +1,25 @@
-{"id":"36tfa8gi62","category":"news","title":"東京都議会中継ダイジェスト","fullTitle":"東京都議会中継ダイジェスト[デ]","detail":"「平成３１年第１回定例会・代表質問ダイジェスト」","start":1551499200000,"end":1551510000000,"seconds":10800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"平成３１年第１回定例会・代表質問ダイジェスト","episode":1,"flags":["デ"]}
+{
+  "id": "36tfa8gi62",
+  "category": "news",
+  "title": "東京都議会中継ダイジェスト",
+  "fullTitle": "東京都議会中継ダイジェスト[デ]",
+  "detail": "「平成３１年第１回定例会・代表質問ダイジェスト」",
+  "start": 1551499200000,
+  "end": 1551510000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "平成３１年第１回定例会・代表質問ダイジェスト",
+  "episode": 1,
+  "flags": [
+    "デ"
+  ]
+}

@@ -1,1 +1,23 @@
-{"id":"36h6jr1q7g","category":"music","title":"彩の国百科","fullTitle":"彩の国百科[Ｓ]","detail":"浮野の里編　県内の四季の様子を音楽に合わせて紹介します。","start":1558168200000,"end":1558169100000,"seconds":900,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1q7g",
+  "category": "music",
+  "title": "彩の国百科",
+  "fullTitle": "彩の国百科[Ｓ]",
+  "detail": "浮野の里編　県内の四季の様子を音楽に合わせて紹介します。",
+  "start": 1558168200000,
+  "end": 1558169100000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36h6jr1t5c","category":"hobby","title":"いい伊豆みつけた","fullTitle":"いい伊豆みつけた[Ｓ]","detail":"熱海を食べつくそう！欲張りグルメ旅！（熱海市）","start":1565154000000,"end":1565155800000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1t5c",
+  "category": "hobby",
+  "title": "いい伊豆みつけた",
+  "fullTitle": "いい伊豆みつけた[Ｓ]",
+  "detail": "熱海を食べつくそう！欲張りグルメ旅！（熱海市）",
+  "start": 1565154000000,
+  "end": 1565155800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

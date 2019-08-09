@@ -1,1 +1,23 @@
-{"id":"36l9gkv7hs","category":"information","title":"生活情報３０分美・皇潤クッションコンパクト","fullTitle":"生活情報３０分【内容】美・皇潤クッションコンパクト","detail":"エバーライフＴＶショッピング　【内容】美・皇潤クッションコンパクト　【電話】０１２０－２８－２８－２２","start":1559265900000,"end":1559267700000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"内容","episode":null,"flags":[]}
+{
+  "id": "36l9gkv7hs",
+  "category": "information",
+  "title": "生活情報３０分美・皇潤クッションコンパクト",
+  "fullTitle": "生活情報３０分【内容】美・皇潤クッションコンパクト",
+  "detail": "エバーライフＴＶショッピング　【内容】美・皇潤クッションコンパクト　【電話】０１２０－２８－２８－２２",
+  "start": 1559265900000,
+  "end": 1559267700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": []
+}

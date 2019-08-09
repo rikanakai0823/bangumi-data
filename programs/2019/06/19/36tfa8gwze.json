@@ -1,1 +1,27 @@
-{"id":"36tfa8gwze","category":"news","title":"東京都議会中継","fullTitle":"東京都議会中継[手]","detail":"「令和元年第２回定例会・本会議最終日」【生中継】\n◇出演者\n【司会】\r\n針谷 衣織里","start":1560916800000,"end":1560927600000,"seconds":10800,"description":"「令和元年第２回定例会・本会議最終日」【生中継】","extra":{"出演者":"【司会】\r\n針谷 衣織里"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"","episode":2,"flags":[]}
+{
+  "id": "36tfa8gwze",
+  "category": "news",
+  "title": "東京都議会中継",
+  "fullTitle": "東京都議会中継[手]",
+  "detail": "「令和元年第２回定例会・本会議最終日」【生中継】\n◇出演者\n【司会】\r\n針谷 衣織里",
+  "start": 1560916800000,
+  "end": 1560927600000,
+  "seconds": 10800,
+  "description": "「令和元年第２回定例会・本会議最終日」【生中継】",
+  "extra": {
+    "出演者": "【司会】\r\n針谷 衣織里"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}

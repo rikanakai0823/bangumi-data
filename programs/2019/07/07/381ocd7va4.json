@@ -1,1 +1,25 @@
-{"id":"381ocd7va4","category":"information","title":"番組ナビ","fullTitle":"番組ナビ[字]","detail":"９月２０日（金）開幕「ラグビーワールドカップ２０１９日本大会」の見どころをナビゲートします。","start":1562486100000,"end":1562486400000,"seconds":300,"channel":{"type":"GR","channel":"25","name":"日テレ１","id":"1i54x1s","sid":1040,"nid":32738,"hasLogoData":true,"n":15},"subTitle":"ラグビーワールドカップ２０１９日本大会","episode":null,"flags":["字"]}
+{
+  "id": "381ocd7va4",
+  "category": "information",
+  "title": "番組ナビ",
+  "fullTitle": "番組ナビ[字]",
+  "detail": "９月２０日（金）開幕「ラグビーワールドカップ２０１９日本大会」の見どころをナビゲートします。",
+  "start": 1562486100000,
+  "end": 1562486400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "ラグビーワールドカップ２０１９日本大会",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

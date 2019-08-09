@@ -1,1 +1,23 @@
-{"id":"381xj5omgj","category":"etc","title":"調整中＜フジバラナイト　ＦＲＩ＞","fullTitle":"調整中＜フジバラナイト　ＦＲＩ＞","detail":"","start":1557505500000,"end":1557509100000,"seconds":3600,"channel":{"type":"GR","channel":"21","name":"フジテレビ","id":"1i597ds","sid":1056,"nid":32740,"hasLogoData":true,"n":28},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381xj5omgj",
+  "category": "etc",
+  "title": "調整中＜フジバラナイト　ＦＲＩ＞",
+  "fullTitle": "調整中＜フジバラナイト　ＦＲＩ＞",
+  "detail": "",
+  "start": 1557505500000,
+  "end": 1557509100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

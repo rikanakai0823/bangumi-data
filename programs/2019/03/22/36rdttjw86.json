@@ -1,1 +1,23 @@
-{"id":"36rdttjw86","category":"news","title":"ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ","fullTitle":"ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「秦野」","detail":"県内の天気予報","start":1553237700000,"end":1553237940000,"seconds":240,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"秦野","episode":null,"flags":[]}
+{
+  "id": "36rdttjw86",
+  "category": "news",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ",
+  "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「秦野」",
+  "detail": "県内の天気予報",
+  "start": 1553237700000,
+  "end": 1553237940000,
+  "seconds": 240,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "秦野",
+  "episode": null,
+  "flags": []
+}

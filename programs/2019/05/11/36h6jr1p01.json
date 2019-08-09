@@ -1,1 +1,27 @@
-{"id":"36h6jr1p01","category":"information","title":"テレビショッピング・ダイレクトテレショップ","fullTitle":"テレビショッピング・ダイレクトテレショップ[Ｓ]","detail":"◇番組内容\nフレーバーストーンダイヤモンドエディション　　　　　　　　　　　　　　　　　　　０１２０－８８８－０６０","start":1557554400000,"end":1557557700000,"seconds":3300,"description":"","extra":{"番組内容":"フレーバーストーンダイヤモンドエディション　　　　　　　　　　　　　　　　　　　０１２０－８８８－０６０"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1p01",
+  "category": "information",
+  "title": "テレビショッピング・ダイレクトテレショップ",
+  "fullTitle": "テレビショッピング・ダイレクトテレショップ[Ｓ]",
+  "detail": "◇番組内容\nフレーバーストーンダイヤモンドエディション　　　　　　　　　　　　　　　　　　　０１２０－８８８－０６０",
+  "start": 1557554400000,
+  "end": 1557557700000,
+  "seconds": 3300,
+  "description": "",
+  "extra": {
+    "番組内容": "フレーバーストーンダイヤモンドエディション　　　　　　　　　　　　　　　　　　　０１２０－８８８－０６０"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

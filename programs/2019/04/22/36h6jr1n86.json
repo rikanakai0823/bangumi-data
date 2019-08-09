@@ -1,1 +1,28 @@
-{"id":"36h6jr1n86","category":"music","title":"歌謡アプリ","fullTitle":"歌謡アプリ[Ｓ]","detail":"石川さゆり\n◇番組内容\n石川さゆり\n◇出演者\n石川さゆり","start":1555912800000,"end":1555913100000,"seconds":300,"description":"石川さゆり","extra":{"番組内容":"石川さゆり","出演者":"石川さゆり"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1n86",
+  "category": "music",
+  "title": "歌謡アプリ",
+  "fullTitle": "歌謡アプリ[Ｓ]",
+  "detail": "石川さゆり\n◇番組内容\n石川さゆり\n◇出演者\n石川さゆり",
+  "start": 1555912800000,
+  "end": 1555913100000,
+  "seconds": 300,
+  "description": "石川さゆり",
+  "extra": {
+    "番組内容": "石川さゆり",
+    "出演者": "石川さゆり"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

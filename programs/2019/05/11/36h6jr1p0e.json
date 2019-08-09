@@ -1,1 +1,27 @@
-{"id":"36h6jr1p0e","category":"information","title":"Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・ＲＩＺＡＰテレビショピング","fullTitle":"Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・ＲＩＺＡＰテレビショピング[Ｓ]","detail":"ＲＩＺＡＰ一般モニター\n◇番組内容\nＲＩＺＡＰ　　　　　　　　　　　　　　　０１２０－１２１－８０８","start":1557547200000,"end":1557549000000,"seconds":1800,"description":"ＲＩＺＡＰ一般モニター","extra":{"番組内容":"ＲＩＺＡＰ　　　　　　　　　　　　　　　０１２０－１２１－８０８"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1p0e",
+  "category": "information",
+  "title": "Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・ＲＩＺＡＰテレビショピング",
+  "fullTitle": "Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・ＲＩＺＡＰテレビショピング[Ｓ]",
+  "detail": "ＲＩＺＡＰ一般モニター\n◇番組内容\nＲＩＺＡＰ　　　　　　　　　　　　　　　０１２０－１２１－８０８",
+  "start": 1557547200000,
+  "end": 1557549000000,
+  "seconds": 1800,
+  "description": "ＲＩＺＡＰ一般モニター",
+  "extra": {
+    "番組内容": "ＲＩＺＡＰ　　　　　　　　　　　　　　　０１２０－１２１－８０８"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

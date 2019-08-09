@@ -1,1 +1,28 @@
-{"id":"36h6jr1shm","category":"music","title":"山崎ていじのさわやか歌謡曲","fullTitle":"山崎ていじのさわやか歌謡曲[Ｓ]","detail":"城之内早苗\n◇番組内容\n城之内早苗\n◇出演者\n城之内早苗","start":1564087500000,"end":1564088400000,"seconds":900,"description":"城之内早苗","extra":{"番組内容":"城之内早苗","出演者":"城之内早苗"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1shm",
+  "category": "music",
+  "title": "山崎ていじのさわやか歌謡曲",
+  "fullTitle": "山崎ていじのさわやか歌謡曲[Ｓ]",
+  "detail": "城之内早苗\n◇番組内容\n城之内早苗\n◇出演者\n城之内早苗",
+  "start": 1564087500000,
+  "end": 1564088400000,
+  "seconds": 900,
+  "description": "城之内早苗",
+  "extra": {
+    "番組内容": "城之内早苗",
+    "出演者": "城之内早苗"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

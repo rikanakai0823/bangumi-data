@@ -1,1 +1,28 @@
-{"id":"36h6jr1kq6","category":"music","title":"ＳＳＣ５","fullTitle":"ＳＳＣ５[Ｓ]","detail":"ＭＩＭＩＺＵＱ「ずっと好きでした」\n◇番組内容\nＭＩＭＩＺＵＱ「ずっと好きでした」\n◇出演者\nＭＩＭＩＺＵＱ「ずっと好きでした」","start":1551719100000,"end":1551719400000,"seconds":300,"description":"ＭＩＭＩＺＵＱ「ずっと好きでした」","extra":{"番組内容":"ＭＩＭＩＺＵＱ「ずっと好きでした」","出演者":"ＭＩＭＩＺＵＱ「ずっと好きでした」"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"ずっと好きでした","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kq6",
+  "category": "music",
+  "title": "ＳＳＣ５",
+  "fullTitle": "ＳＳＣ５[Ｓ]",
+  "detail": "ＭＩＭＩＺＵＱ「ずっと好きでした」\n◇番組内容\nＭＩＭＩＺＵＱ「ずっと好きでした」\n◇出演者\nＭＩＭＩＺＵＱ「ずっと好きでした」",
+  "start": 1551719100000,
+  "end": 1551719400000,
+  "seconds": 300,
+  "description": "ＭＩＭＩＺＵＱ「ずっと好きでした」",
+  "extra": {
+    "番組内容": "ＭＩＭＩＺＵＱ「ずっと好きでした」",
+    "出演者": "ＭＩＭＩＺＵＱ「ずっと好きでした」"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "ずっと好きでした",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"381jqz02n0","category":"etc","title":"放送休止","fullTitle":"放送休止","detail":"","start":1562258400000,"end":1562272200000,"seconds":13800,"channel":{"type":"GR","channel":"26","name":"ＮＨＫＥテレ１東京","id":"1i52rvs","sid":1032,"nid":32737,"hasLogoData":true,"n":2},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381jqz02n0",
+  "category": "etc",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "",
+  "start": 1562258400000,
+  "end": 1562272200000,
+  "seconds": 13800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36h6jr1jo5","category":"news","title":"ニュース５４５","fullTitle":"ニュース５４５[Ｓ]","detail":"◇出演者\n塩原桜　落合由佳","start":1550047500000,"end":1550049300000,"seconds":1800,"description":"","extra":{"出演者":"塩原桜　落合由佳"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1jo5",
+  "category": "news",
+  "title": "ニュース５４５",
+  "fullTitle": "ニュース５４５[Ｓ]",
+  "detail": "◇出演者\n塩原桜　落合由佳",
+  "start": 1550047500000,
+  "end": 1550049300000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "塩原桜　落合由佳"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkv2w6","category":"sports","title":"金曜競馬ＣＬＵＢ▽日曜中山１１Ｒ　中山記念（ＧⅡ）他","fullTitle":"金曜競馬ＣＬＵＢ▽日曜中山１１Ｒ　中山記念（ＧⅡ）他","detail":"日曜中山１１Ｒ　中山記念（ＧⅡ）　土曜中山１１Ｒ　アクアマリンＳ　土曜阪神１１Ｒ　仁川Ｓ（Ｌ）　日曜阪神１１Ｒ　阪急杯（ＧⅢ）","start":1550836800000,"end":1550838600000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv2w6",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜中山１１Ｒ　中山記念（ＧⅡ）他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜中山１１Ｒ　中山記念（ＧⅡ）他",
+  "detail": "日曜中山１１Ｒ　中山記念（ＧⅡ）　土曜中山１１Ｒ　アクアマリンＳ　土曜阪神１１Ｒ　仁川Ｓ（Ｌ）　日曜阪神１１Ｒ　阪急杯（ＧⅢ）",
+  "start": 1550836800000,
+  "end": 1550838600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

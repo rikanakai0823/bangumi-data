@@ -1,1 +1,23 @@
-{"id":"36l9gkv3ny","category":"information","title":"生活情報３０分","fullTitle":"生活情報３０分","detail":"あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！　【内容】脳内核酸　【電話】０１２０－０４－９８９８","start":1552373700000,"end":1552375500000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv3ny",
+  "category": "information",
+  "title": "生活情報３０分",
+  "fullTitle": "生活情報３０分",
+  "detail": "あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！　【内容】脳内核酸　【電話】０１２０－０４－９８９８",
+  "start": 1552373700000,
+  "end": 1552375500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"38224jvhna","category":"information","title":"今夜の日曜プライム","fullTitle":"今夜の日曜プライム","detail":"今夜の日曜プライムは、東山紀之主演！『棟居（むねすえ）刑事』シリーズ最新作!!『棟居刑事の黒い絆』\n◇◇おしらせ\n☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/prime-sun/","start":1550404680000,"end":1550404800000,"seconds":120,"description":"今夜の日曜プライムは、東山紀之主演！『棟居（むねすえ）刑事』シリーズ最新作!!『棟居刑事の黒い絆』","extra":{"◇おしらせ":"☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/prime-sun/"},"channel":{"type":"GR","channel":"24","name":"テレビ朝日","id":"1i5bcjs","sid":1064,"nid":32741,"hasLogoData":true,"n":18},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "38224jvhna",
+  "category": "information",
+  "title": "今夜の日曜プライム",
+  "fullTitle": "今夜の日曜プライム",
+  "detail": "今夜の日曜プライムは、東山紀之主演！『棟居（むねすえ）刑事』シリーズ最新作!!『棟居刑事の黒い絆』\n◇◇おしらせ\n☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/prime-sun/",
+  "start": 1550404680000,
+  "end": 1550404800000,
+  "seconds": 120,
+  "description": "今夜の日曜プライムは、東山紀之主演！『棟居（むねすえ）刑事』シリーズ最新作!!『棟居刑事の黒い絆』",
+  "extra": {
+    "◇おしらせ": "☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/prime-sun/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

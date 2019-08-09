@@ -1,1 +1,28 @@
-{"id":"36h6jr1n17","category":"music","title":"入山アキ子とマイク河原のここ一番の歌謡曲","fullTitle":"入山アキ子とマイク河原のここ一番の歌謡曲[Ｓ]","detail":"藤川としお\n◇番組内容\n藤川としお\n◇出演者\n藤川としお","start":1555619400000,"end":1555620300000,"seconds":900,"description":"藤川としお","extra":{"番組内容":"藤川としお","出演者":"藤川としお"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1n17",
+  "category": "music",
+  "title": "入山アキ子とマイク河原のここ一番の歌謡曲",
+  "fullTitle": "入山アキ子とマイク河原のここ一番の歌謡曲[Ｓ]",
+  "detail": "藤川としお\n◇番組内容\n藤川としお\n◇出演者\n藤川としお",
+  "start": 1555619400000,
+  "end": 1555620300000,
+  "seconds": 900,
+  "description": "藤川としお",
+  "extra": {
+    "番組内容": "藤川としお",
+    "出演者": "藤川としお"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

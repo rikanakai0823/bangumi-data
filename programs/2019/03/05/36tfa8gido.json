@@ -1,1 +1,29 @@
-{"id":"36tfa8gido","category":"anime","title":"ヤマノススメ１期","fullTitle":"ヤマノススメ１期　＃９「森の中で森ガール！」[再]","detail":"◇出演者\n【あおい】\r\n井口裕香\r\n【ひなた】\r\n阿澄佳奈\r\n【ここな】\r\n小倉唯\r\n【かえで】\r\n日笠陽子","start":1551717000000,"end":1551717300000,"seconds":300,"description":" ","extra":{"出演者":"【あおい】\r\n井口裕香\r\n【ひなた】\r\n阿澄佳奈\r\n【ここな】\r\n小倉唯\r\n【かえで】\r\n日笠陽子"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"森の中で森ガール！","episode":9,"flags":["再"]}
+{
+  "id": "36tfa8gido",
+  "category": "anime",
+  "title": "ヤマノススメ１期",
+  "fullTitle": "ヤマノススメ１期　＃９「森の中で森ガール！」[再]",
+  "detail": "◇出演者\n【あおい】\r\n井口裕香\r\n【ひなた】\r\n阿澄佳奈\r\n【ここな】\r\n小倉唯\r\n【かえで】\r\n日笠陽子",
+  "start": 1551717000000,
+  "end": 1551717300000,
+  "seconds": 300,
+  "description": " ",
+  "extra": {
+    "出演者": "【あおい】\r\n井口裕香\r\n【ひなた】\r\n阿澄佳奈\r\n【ここな】\r\n小倉唯\r\n【かえで】\r\n日笠陽子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "森の中で森ガール！",
+  "episode": 9,
+  "flags": [
+    "再"
+  ]
+}

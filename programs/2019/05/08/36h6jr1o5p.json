@@ -1,1 +1,28 @@
-{"id":"36h6jr1o5p","category":"music","title":"歌謡アプリ","fullTitle":"歌謡アプリ[Ｓ]","detail":"橘あきら\n◇番組内容\n橘あきら\n◇出演者\n橘あきら","start":1557295200000,"end":1557295500000,"seconds":300,"description":"橘あきら","extra":{"番組内容":"橘あきら","出演者":"橘あきら"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1o5p",
+  "category": "music",
+  "title": "歌謡アプリ",
+  "fullTitle": "歌謡アプリ[Ｓ]",
+  "detail": "橘あきら\n◇番組内容\n橘あきら\n◇出演者\n橘あきら",
+  "start": 1557295200000,
+  "end": 1557295500000,
+  "seconds": 300,
+  "description": "橘あきら",
+  "extra": {
+    "番組内容": "橘あきら",
+    "出演者": "橘あきら"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

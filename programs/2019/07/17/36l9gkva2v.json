@@ -1,1 +1,23 @@
-{"id":"36l9gkva2v","category":"anime","title":"キャプテン▽連続３６試合！","fullTitle":"キャプテン▽連続３６試合！","detail":"第１６話「連続３６試合！」（全２６話）","start":1563350400000,"end":1563352200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"連続３６試合！","episode":16,"flags":[]}
+{
+  "id": "36l9gkva2v",
+  "category": "anime",
+  "title": "キャプテン▽連続３６試合！",
+  "fullTitle": "キャプテン▽連続３６試合！",
+  "detail": "第１６話「連続３６試合！」（全２６話）",
+  "start": 1563350400000,
+  "end": 1563352200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "連続３６試合！",
+  "episode": 16,
+  "flags": []
+}

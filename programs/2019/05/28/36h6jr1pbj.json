@@ -1,1 +1,30 @@
-{"id":"36h6jr1pbj","category":"music","title":"水沢明美と藍ようこの歌謡音楽館","fullTitle":"水沢明美と藍ようこの歌謡音楽館[Ｓ][終]","detail":"千葉一夫\n◇番組内容\n千葉一夫\n◇出演者\n千葉一夫","start":1558989000000,"end":1558990800000,"seconds":1800,"description":"千葉一夫","extra":{"番組内容":"千葉一夫","出演者":"千葉一夫"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":["終"]}
+{
+  "id": "36h6jr1pbj",
+  "category": "music",
+  "title": "水沢明美と藍ようこの歌謡音楽館",
+  "fullTitle": "水沢明美と藍ようこの歌謡音楽館[Ｓ][終]",
+  "detail": "千葉一夫\n◇番組内容\n千葉一夫\n◇出演者\n千葉一夫",
+  "start": 1558989000000,
+  "end": 1558990800000,
+  "seconds": 1800,
+  "description": "千葉一夫",
+  "extra": {
+    "番組内容": "千葉一夫",
+    "出演者": "千葉一夫"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

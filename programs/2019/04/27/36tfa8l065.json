@@ -1,1 +1,23 @@
-{"id":"36tfa8l065","category":"anime","title":"鎧勇騎　月兎","fullTitle":"鎧勇騎　月兎","detail":"＃４「ビックリ！オッサンがヤナ姫!?」","start":1556317800000,"end":1556318700000,"seconds":900,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"ビックリ！オッサンがヤナ姫!?","episode":4,"flags":[]}
+{
+  "id": "36tfa8l065",
+  "category": "anime",
+  "title": "鎧勇騎　月兎",
+  "fullTitle": "鎧勇騎　月兎",
+  "detail": "＃４「ビックリ！オッサンがヤナ姫!?」",
+  "start": 1556317800000,
+  "end": 1556318700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "ビックリ！オッサンがヤナ姫!?",
+  "episode": 4,
+  "flags": []
+}

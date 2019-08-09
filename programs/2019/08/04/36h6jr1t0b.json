@@ -1,1 +1,27 @@
-{"id":"36h6jr1t0b","category":"anime","title":"仮面ライダービルド","fullTitle":"仮面ライダービルド[Ｓ]","detail":"＃１０「滅亡のテクノロジー」\n◇出演者\n犬飼貴丈　赤楚衛二　高田夏帆　越智友己　瀧裕可里　水上剣星　前川泰之","start":1564889400000,"end":1564891200000,"seconds":1800,"description":"＃１０「滅亡のテクノロジー」","extra":{"出演者":"犬飼貴丈　赤楚衛二　高田夏帆　越智友己　瀧裕可里　水上剣星　前川泰之"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"滅亡のテクノロジー","episode":10,"flags":[]}
+{
+  "id": "36h6jr1t0b",
+  "category": "anime",
+  "title": "仮面ライダービルド",
+  "fullTitle": "仮面ライダービルド[Ｓ]",
+  "detail": "＃１０「滅亡のテクノロジー」\n◇出演者\n犬飼貴丈　赤楚衛二　高田夏帆　越智友己　瀧裕可里　水上剣星　前川泰之",
+  "start": 1564889400000,
+  "end": 1564891200000,
+  "seconds": 1800,
+  "description": "＃１０「滅亡のテクノロジー」",
+  "extra": {
+    "出演者": "犬飼貴丈　赤楚衛二　高田夏帆　越智友己　瀧裕可里　水上剣星　前川泰之"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "滅亡のテクノロジー",
+  "episode": 10,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36h6jr1k1v","category":"drama","title":"大江戸捜査網","fullTitle":"大江戸捜査網","detail":"女郎花恋歌・逃亡の昼と夜\n◇出演者\n松方弘樹","start":1550642700000,"end":1550646000000,"seconds":3300,"description":"女郎花恋歌・逃亡の昼と夜","extra":{"出演者":"松方弘樹"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1k1v",
+  "category": "drama",
+  "title": "大江戸捜査網",
+  "fullTitle": "大江戸捜査網",
+  "detail": "女郎花恋歌・逃亡の昼と夜\n◇出演者\n松方弘樹",
+  "start": 1550642700000,
+  "end": 1550646000000,
+  "seconds": 3300,
+  "description": "女郎花恋歌・逃亡の昼と夜",
+  "extra": {
+    "出演者": "松方弘樹"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

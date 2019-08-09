@@ -1,1 +1,23 @@
-{"id":"36h6jr1jvb","category":"music","title":"ハッピーニューイヤーディナーショー　ロイ白川と共に","fullTitle":"ハッピーニューイヤーディナーショー　ロイ白川と共に[Ｓ]","detail":"新春特番ロイ白川の心の演歌。特別ゲストを多く迎えてお送りします。","start":1550311200000,"end":1550314500000,"seconds":3300,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1jvb",
+  "category": "music",
+  "title": "ハッピーニューイヤーディナーショー　ロイ白川と共に",
+  "fullTitle": "ハッピーニューイヤーディナーショー　ロイ白川と共に[Ｓ]",
+  "detail": "新春特番ロイ白川の心の演歌。特別ゲストを多く迎えてお送りします。",
+  "start": 1550311200000,
+  "end": 1550314500000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

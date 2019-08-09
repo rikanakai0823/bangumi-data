@@ -1,1 +1,23 @@
-{"id":"36tfa8krm1","category":"music","title":"＃音バカ","fullTitle":"＃音バカ","detail":"最新音楽情報をＳＮＳのトレンドハッシュタグからチェック！今人気のアーティストをゲストに招待し、ゲストライブやトークで紹介していきます！","start":1551027900000,"end":1551029700000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8krm1",
+  "category": "music",
+  "title": "＃音バカ",
+  "fullTitle": "＃音バカ",
+  "detail": "最新音楽情報をＳＮＳのトレンドハッシュタグからチェック！今人気のアーティストをゲストに招待し、ゲストライブやトークで紹介していきます！",
+  "start": 1551027900000,
+  "end": 1551029700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

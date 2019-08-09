@@ -1,1 +1,29 @@
-{"id":"36tfa8gmid","category":"anime","title":"『ＰＳＯ２』バーチャルライブ","fullTitle":"『ＰＳＯ２』バーチャルライブ「ファンタジック３Ｄライブ２０１８」[再]","detail":"◇出演者\n【出演】\r\n佐藤聡美（『ＰＳＯ２』マトイ役）","start":1554219000000,"end":1554220800000,"seconds":1800,"description":" ","extra":{"出演者":"【出演】\r\n佐藤聡美（『ＰＳＯ２』マトイ役）"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"ファンタジック３Ｄライブ２０１８","episode":null,"flags":["再"]}
+{
+  "id": "36tfa8gmid",
+  "category": "anime",
+  "title": "『ＰＳＯ２』バーチャルライブ",
+  "fullTitle": "『ＰＳＯ２』バーチャルライブ「ファンタジック３Ｄライブ２０１８」[再]",
+  "detail": "◇出演者\n【出演】\r\n佐藤聡美（『ＰＳＯ２』マトイ役）",
+  "start": 1554219000000,
+  "end": 1554220800000,
+  "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "出演者": "【出演】\r\n佐藤聡美（『ＰＳＯ２』マトイ役）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "ファンタジック３Ｄライブ２０１８",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

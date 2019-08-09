@@ -1,1 +1,30 @@
-{"id":"3826py451x","category":"anime","title":"闇芝居","fullTitle":"闇芝居[再]","detail":"「最終バス」\n◇制作\n【製作】「闇芝居」製作委員会\n◇関連情報\n【公式サイト】\r\nani.tv/yamishibai/","start":1553452860000,"end":1553453160000,"seconds":300,"description":"「最終バス」","extra":{"制作":"【製作】「闇芝居」製作委員会","関連情報":"【公式サイト】\r\nani.tv/yamishibai/"},"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"最終バス","episode":null,"flags":["再"]}
+{
+  "id": "3826py451x",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "「最終バス」\n◇制作\n【製作】「闇芝居」製作委員会\n◇関連情報\n【公式サイト】\r\nani.tv/yamishibai/",
+  "start": 1553452860000,
+  "end": 1553453160000,
+  "seconds": 300,
+  "description": "「最終バス」",
+  "extra": {
+    "制作": "【製作】「闇芝居」製作委員会",
+    "関連情報": "【公式サイト】\r\nani.tv/yamishibai/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "最終バス",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,1 +1,23 @@
-{"id":"36l9gkv7co","category":"music","title":"はじめまして！僕、新浜レオンです！！","fullTitle":"はじめまして！僕、新浜レオンです！！","detail":"勝浦ホテル三日月でお手伝い！　縁の下の力持ち、ホテルスタッフの仕事をガッツリ体験！　新浜レオンをよろしくお願いします！","start":1558958400000,"end":1558960200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv7co",
+  "category": "music",
+  "title": "はじめまして！僕、新浜レオンです！！",
+  "fullTitle": "はじめまして！僕、新浜レオンです！！",
+  "detail": "勝浦ホテル三日月でお手伝い！　縁の下の力持ち、ホテルスタッフの仕事をガッツリ体験！　新浜レオンをよろしくお願いします！",
+  "start": 1558958400000,
+  "end": 1558960200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

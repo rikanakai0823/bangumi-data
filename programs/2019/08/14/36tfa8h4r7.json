@@ -1,1 +1,25 @@
-{"id":"36tfa8h4r7","category":"anime","title":"ＢａｎＧ　Ｄｒｅａｍ！ＯＶＡ","fullTitle":"ＢａｎＧ　Ｄｒｅａｍ！ＯＶＡ「遊んじゃった！」[再]","detail":" ","start":1565776800000,"end":1565778600000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"遊んじゃった！","episode":null,"flags":["再"]}
+{
+  "id": "36tfa8h4r7",
+  "category": "anime",
+  "title": "ＢａｎＧ　Ｄｒｅａｍ！ＯＶＡ",
+  "fullTitle": "ＢａｎＧ　Ｄｒｅａｍ！ＯＶＡ「遊んじゃった！」[再]",
+  "detail": " ",
+  "start": 1565776800000,
+  "end": 1565778600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "遊んじゃった！",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

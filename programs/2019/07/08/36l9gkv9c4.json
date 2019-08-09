@@ -1,1 +1,25 @@
-{"id":"36l9gkv9c4","category":"anime","title":"トムとジェリーテイルズ▽無敵！スケートボーダージェリー　ほか","fullTitle":"トムとジェリーテイルズ▽[二]無敵！スケートボーダージェリー　ほか　＃１７","detail":"第１７話（全２６話）　①無敵！スケートボーダージェリー　②ドルーピーと水泳対決！　③ジェリーとビックフィット","start":1562574600000,"end":1562576400000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":17,"flags":["二"]}
+{
+  "id": "36l9gkv9c4",
+  "category": "anime",
+  "title": "トムとジェリーテイルズ▽無敵！スケートボーダージェリー　ほか",
+  "fullTitle": "トムとジェリーテイルズ▽[二]無敵！スケートボーダージェリー　ほか　＃１７",
+  "detail": "第１７話（全２６話）　①無敵！スケートボーダージェリー　②ドルーピーと水泳対決！　③ジェリーとビックフィット",
+  "start": 1562574600000,
+  "end": 1562576400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 17,
+  "flags": [
+    "二"
+  ]
+}

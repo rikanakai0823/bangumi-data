@@ -1,1 +1,23 @@
-{"id":"36h6jr1n3c","category":"music","title":"テレ玉くんのうた　甲冑隊","fullTitle":"テレ玉くんのうた　甲冑隊[Ｓ]","detail":"","start":1555729200000,"end":1555729500000,"seconds":300,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1n3c",
+  "category": "music",
+  "title": "テレ玉くんのうた　甲冑隊",
+  "fullTitle": "テレ玉くんのうた　甲冑隊[Ｓ]",
+  "detail": "",
+  "start": 1555729200000,
+  "end": 1555729500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

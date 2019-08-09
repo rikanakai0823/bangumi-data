@@ -1,1 +1,25 @@
-{"id":"381ocd869a","category":"information","title":"日テレナビ","fullTitle":"日テレナビ[字]","detail":"２６日（金）放送の「超問クイズ！」、２７日（土）放送の「俺のスカート、どこ行った？」第２話、２８日（日）放送の「転職ＤＥ天職」の見どころをナビゲートします。","start":1556245500000,"end":1556245800000,"seconds":300,"channel":{"type":"GR","channel":"25","name":"日テレ１","id":"1i54x1s","sid":1040,"nid":32738,"hasLogoData":true,"n":15},"subTitle":"","episode":2,"flags":["字"]}
+{
+  "id": "381ocd869a",
+  "category": "information",
+  "title": "日テレナビ",
+  "fullTitle": "日テレナビ[字]",
+  "detail": "２６日（金）放送の「超問クイズ！」、２７日（土）放送の「俺のスカート、どこ行った？」第２話、２８日（日）放送の「転職ＤＥ天職」の見どころをナビゲートします。",
+  "start": 1556245500000,
+  "end": 1556245800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

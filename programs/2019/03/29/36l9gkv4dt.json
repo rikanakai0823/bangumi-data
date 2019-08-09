@@ -1,1 +1,23 @@
-{"id":"36l9gkv4dt","category":"music","title":"西川ひとみの歌日和▽西川ひとみディナーショー２０１８","fullTitle":"西川ひとみの歌日和▽西川ひとみディナーショー２０１８","detail":"西川ひとみディナーショー２０１８　・父娘うた　・望郷おんな花　・恋した人だから　・夫婦竜","start":1553815800000,"end":1553816700000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv4dt",
+  "category": "music",
+  "title": "西川ひとみの歌日和▽西川ひとみディナーショー２０１８",
+  "fullTitle": "西川ひとみの歌日和▽西川ひとみディナーショー２０１８",
+  "detail": "西川ひとみディナーショー２０１８　・父娘うた　・望郷おんな花　・恋した人だから　・夫婦竜",
+  "start": 1553815800000,
+  "end": 1553816700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

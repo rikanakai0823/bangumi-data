@@ -1,1 +1,23 @@
-{"id":"36l9gkv565","category":"sports","title":"金曜競馬ＣＬＵＢ▽日曜中山　１１Ｒ皐月賞（ＧⅠ）他","fullTitle":"金曜競馬ＣＬＵＢ▽日曜中山　１１Ｒ皐月賞（ＧⅠ）他","detail":"日曜中山１１Ｒ皐月賞（ＧⅠ）　土曜阪神１１ＲアーリントンＣ（ＧⅢ）　日曜阪神１１ＲアンタレスＳ（ＧⅢ）　土曜中山１１Ｒ中山グランドジャンプ（Ｊ・ＧⅠ）","start":1555070400000,"end":1555072200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv565",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜中山　１１Ｒ皐月賞（ＧⅠ）他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜中山　１１Ｒ皐月賞（ＧⅠ）他",
+  "detail": "日曜中山１１Ｒ皐月賞（ＧⅠ）　土曜阪神１１ＲアーリントンＣ（ＧⅢ）　日曜阪神１１ＲアンタレスＳ（ＧⅢ）　土曜中山１１Ｒ中山グランドジャンプ（Ｊ・ＧⅠ）",
+  "start": 1555070400000,
+  "end": 1555072200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,28 @@
-{"id":"36h6jr1r8d","category":"music","title":"熱波","fullTitle":"熱波[Ｓ]","detail":"【ゲスト】＊ＣｈｏｃｏＬａｔｅ  Ｂｏｍｂ！！\n◇番組概要\nハライチ岩井勇気とsora tob sakana の音楽番組・≪熱波≫！低予算だが志は高く！紙とホワイトボードを駆使して、音楽シーンの今を埼玉からお伝えする番組です。\n◇出演者\n【ＭＣ】岩井勇気（ハライチ）　【レギュラーアシスタント】sora tob sakana","start":1562250600000,"end":1562252400000,"seconds":1800,"description":"【ゲスト】＊ＣｈｏｃｏＬａｔｅ  Ｂｏｍｂ！！","extra":{"番組概要":"ハライチ岩井勇気とsora tob sakana の音楽番組・≪熱波≫！低予算だが志は高く！紙とホワイトボードを駆使して、音楽シーンの今を埼玉からお伝えする番組です。","出演者":"【ＭＣ】岩井勇気（ハライチ）　【レギュラーアシスタント】sora tob sakana"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36h6jr1r8d",
+  "category": "music",
+  "title": "熱波",
+  "fullTitle": "熱波[Ｓ]",
+  "detail": "【ゲスト】＊ＣｈｏｃｏＬａｔｅ  Ｂｏｍｂ！！\n◇番組概要\nハライチ岩井勇気とsora tob sakana の音楽番組・≪熱波≫！低予算だが志は高く！紙とホワイトボードを駆使して、音楽シーンの今を埼玉からお伝えする番組です。\n◇出演者\n【ＭＣ】岩井勇気（ハライチ）　【レギュラーアシスタント】sora tob sakana",
+  "start": 1562250600000,
+  "end": 1562252400000,
+  "seconds": 1800,
+  "description": "【ゲスト】＊ＣｈｏｃｏＬａｔｅ  Ｂｏｍｂ！！",
+  "extra": {
+    "番組概要": "ハライチ岩井勇気とsora tob sakana の音楽番組・≪熱波≫！低予算だが志は高く！紙とホワイトボードを駆使して、音楽シーンの今を埼玉からお伝えする番組です。",
+    "出演者": "【ＭＣ】岩井勇気（ハライチ）　【レギュラーアシスタント】sora tob sakana"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

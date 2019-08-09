@@ -1,1 +1,27 @@
-{"id":"36h6jr1rqf","category":"news","title":"こんにちは県議会です","fullTitle":"こんにちは県議会です[手][Ｓ]","detail":"６月定例会ダイジェスト　埼玉県議会６月定例会の模様をダイジェストで放送\n◇出演者\n進行：荒木優里（テレ玉）","start":1563102000000,"end":1563102900000,"seconds":900,"description":"６月定例会ダイジェスト　埼玉県議会６月定例会の模様をダイジェストで放送","extra":{"出演者":"進行：荒木優里（テレ玉）"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1rqf",
+  "category": "news",
+  "title": "こんにちは県議会です",
+  "fullTitle": "こんにちは県議会です[手][Ｓ]",
+  "detail": "６月定例会ダイジェスト　埼玉県議会６月定例会の模様をダイジェストで放送\n◇出演者\n進行：荒木優里（テレ玉）",
+  "start": 1563102000000,
+  "end": 1563102900000,
+  "seconds": 900,
+  "description": "６月定例会ダイジェスト　埼玉県議会６月定例会の模様をダイジェストで放送",
+  "extra": {
+    "出演者": "進行：荒木優里（テレ玉）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

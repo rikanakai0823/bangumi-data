@@ -1,1 +1,23 @@
-{"id":"36rdttk043","category":"information","title":"お買物情報","fullTitle":"お買物情報","detail":"暮らしに役立つ、選りすぐりの商品をご紹介します。\r\n▽健康食品","start":1557628200000,"end":1557630000000,"seconds":1800,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttk043",
+  "category": "information",
+  "title": "お買物情報",
+  "fullTitle": "お買物情報",
+  "detail": "暮らしに役立つ、選りすぐりの商品をご紹介します。\r\n▽健康食品",
+  "start": 1557628200000,
+  "end": 1557630000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

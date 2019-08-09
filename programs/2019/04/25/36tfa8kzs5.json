@@ -1,1 +1,27 @@
-{"id":"36tfa8kzs5","category":"sports","title":"東京シティ競馬中継","fullTitle":"東京シティ競馬中継","detail":"「ベンジャミン賞」「東京ダービートライアル」「デネボラ賞」\n◇出演者\n【ＭＣ】\r\n前半：鈴木　梢\r\n後半：芦崎　愛\r\n【解説】\r\n市川俊吾（日刊競馬）","start":1556173200000,"end":1556193600000,"seconds":20400,"description":"「ベンジャミン賞」「東京ダービートライアル」「デネボラ賞」","extra":{"出演者":"【ＭＣ】\r\n前半：鈴木　梢\r\n後半：芦崎　愛\r\n【解説】\r\n市川俊吾（日刊競馬）"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8kzs5",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ベンジャミン賞」「東京ダービートライアル」「デネボラ賞」\n◇出演者\n【ＭＣ】\r\n前半：鈴木　梢\r\n後半：芦崎　愛\r\n【解説】\r\n市川俊吾（日刊競馬）",
+  "start": 1556173200000,
+  "end": 1556193600000,
+  "seconds": 20400,
+  "description": "「ベンジャミン賞」「東京ダービートライアル」「デネボラ賞」",
+  "extra": {
+    "出演者": "【ＭＣ】\r\n前半：鈴木　梢\r\n後半：芦崎　愛\r\n【解説】\r\n市川俊吾（日刊競馬）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

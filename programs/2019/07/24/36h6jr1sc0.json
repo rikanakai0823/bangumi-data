@@ -1,1 +1,27 @@
-{"id":"36h6jr1sc0","category":"documentary","title":"ＴＡＫＡＲＡＺＵＫＡ　Ｃａｆｅｂｒｅａｋ","fullTitle":"ＴＡＫＡＲＡＺＵＫＡ　Ｃａｆｅｂｒｅａｋ[Ｓ]","detail":"◇出演者\nＭＣ：中井美穂　ゲスト：和希そら（かずきそら）　宙組","start":1563924600000,"end":1563926400000,"seconds":1800,"description":"","extra":{"出演者":"ＭＣ：中井美穂　ゲスト：和希そら（かずきそら）　宙組"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1sc0",
+  "category": "documentary",
+  "title": "ＴＡＫＡＲＡＺＵＫＡ　Ｃａｆｅｂｒｅａｋ",
+  "fullTitle": "ＴＡＫＡＲＡＺＵＫＡ　Ｃａｆｅｂｒｅａｋ[Ｓ]",
+  "detail": "◇出演者\nＭＣ：中井美穂　ゲスト：和希そら（かずきそら）　宙組",
+  "start": 1563924600000,
+  "end": 1563926400000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "ＭＣ：中井美穂　ゲスト：和希そら（かずきそら）　宙組"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,28 @@
-{"id":"36h6jr1rq2","category":"music","title":"安藤みゆきと小桜舞子の歌の彩は","fullTitle":"安藤みゆきと小桜舞子の歌の彩は[Ｓ]","detail":"千葉一夫\n◇番組内容\n千葉一夫\n◇出演者\n千葉一夫","start":1563059700000,"end":1563060600000,"seconds":900,"description":"千葉一夫","extra":{"番組内容":"千葉一夫","出演者":"千葉一夫"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1rq2",
+  "category": "music",
+  "title": "安藤みゆきと小桜舞子の歌の彩は",
+  "fullTitle": "安藤みゆきと小桜舞子の歌の彩は[Ｓ]",
+  "detail": "千葉一夫\n◇番組内容\n千葉一夫\n◇出演者\n千葉一夫",
+  "start": 1563059700000,
+  "end": 1563060600000,
+  "seconds": 900,
+  "description": "千葉一夫",
+  "extra": {
+    "番組内容": "千葉一夫",
+    "出演者": "千葉一夫"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

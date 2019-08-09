@@ -1,1 +1,23 @@
-{"id":"36l9gkxbmi","category":"sports","title":"マリーンズナイター▽埼玉西武×千葉ロッテ","fullTitle":"マリーンズナイター▽埼玉西武×千葉ロッテ","detail":"【実況】　【解説】　【球場】群馬敷島公園野球場","start":1557318600000,"end":1557322200000,"seconds":3600,"channel":{"type":"GR","channel":"30","name":"チバテレ２","id":"1hgoknt","sid":27705,"nid":32327,"hasLogoData":true,"n":10},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkxbmi",
+  "category": "sports",
+  "title": "マリーンズナイター▽埼玉西武×千葉ロッテ",
+  "fullTitle": "マリーンズナイター▽埼玉西武×千葉ロッテ",
+  "detail": "【実況】　【解説】　【球場】群馬敷島公園野球場",
+  "start": 1557318600000,
+  "end": 1557322200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

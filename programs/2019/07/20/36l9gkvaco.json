@@ -1,1 +1,23 @@
-{"id":"36l9gkvaco","category":"documentary","title":"ウィークリー千葉県～ちばの旬な話題をお届け～","fullTitle":"ウィークリー千葉県～ちばの旬な話題をお届け～","detail":"君津で、体を動かして楽しめる遊びを紹介します。君津の、心地よい涼しさを感じられる森林浴や川遊び、活気溢れるお祭りなど。","start":1563627600000,"end":1563628500000,"seconds":900,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkvaco",
+  "category": "documentary",
+  "title": "ウィークリー千葉県～ちばの旬な話題をお届け～",
+  "fullTitle": "ウィークリー千葉県～ちばの旬な話題をお届け～",
+  "detail": "君津で、体を動かして楽しめる遊びを紹介します。君津の、心地よい涼しさを感じられる森林浴や川遊び、活気溢れるお祭りなど。",
+  "start": 1563627600000,
+  "end": 1563628500000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

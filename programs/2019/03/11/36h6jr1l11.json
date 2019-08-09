@@ -1,1 +1,28 @@
-{"id":"36h6jr1l11","category":"music","title":"千葉一夫と松本マサ子の歌謡散歩","fullTitle":"千葉一夫と松本マサ子の歌謡散歩[Ｓ]","detail":"夏木綾子\n◇番組内容\n夏木綾子\n◇出演者\n夏木綾子","start":1552249800000,"end":1552251600000,"seconds":1800,"description":"夏木綾子","extra":{"番組内容":"夏木綾子","出演者":"夏木綾子"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1l11",
+  "category": "music",
+  "title": "千葉一夫と松本マサ子の歌謡散歩",
+  "fullTitle": "千葉一夫と松本マサ子の歌謡散歩[Ｓ]",
+  "detail": "夏木綾子\n◇番組内容\n夏木綾子\n◇出演者\n夏木綾子",
+  "start": 1552249800000,
+  "end": 1552251600000,
+  "seconds": 1800,
+  "description": "夏木綾子",
+  "extra": {
+    "番組内容": "夏木綾子",
+    "出演者": "夏木綾子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36h6jr1r5a","category":"documentary","title":"ＴＡＫＡＲＡＺＵＫＡ　Ｃａｆｅｂｒｅａｋ","fullTitle":"ＴＡＫＡＲＡＺＵＫＡ　Ｃａｆｅｂｒｅａｋ[Ｓ]","detail":"特別編\n◇出演者\nＭＣ：中井美穂","start":1562113800000,"end":1562115600000,"seconds":1800,"description":"特別編","extra":{"出演者":"ＭＣ：中井美穂"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1r5a",
+  "category": "documentary",
+  "title": "ＴＡＫＡＲＡＺＵＫＡ　Ｃａｆｅｂｒｅａｋ",
+  "fullTitle": "ＴＡＫＡＲＡＺＵＫＡ　Ｃａｆｅｂｒｅａｋ[Ｓ]",
+  "detail": "特別編\n◇出演者\nＭＣ：中井美穂",
+  "start": 1562113800000,
+  "end": 1562115600000,
+  "seconds": 1800,
+  "description": "特別編",
+  "extra": {
+    "出演者": "ＭＣ：中井美穂"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,25 @@
-{"id":"36l9gkv7cg","category":"anime","title":"トムとジェリーテイルズ▽恐竜のタマゴで大騒ぎ　ほか","fullTitle":"トムとジェリーテイルズ▽[二]恐竜のタマゴで大騒ぎ　ほか　＃１１","detail":"第１１話（全２６話）　①恐竜のタマゴで大騒ぎ　②チキの呪いとチキ・ダンス　③トムとジェリーで学ぶ原始時代","start":1558945800000,"end":1558947600000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":11,"flags":["二"]}
+{
+  "id": "36l9gkv7cg",
+  "category": "anime",
+  "title": "トムとジェリーテイルズ▽恐竜のタマゴで大騒ぎ　ほか",
+  "fullTitle": "トムとジェリーテイルズ▽[二]恐竜のタマゴで大騒ぎ　ほか　＃１１",
+  "detail": "第１１話（全２６話）　①恐竜のタマゴで大騒ぎ　②チキの呪いとチキ・ダンス　③トムとジェリーで学ぶ原始時代",
+  "start": 1558945800000,
+  "end": 1558947600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 11,
+  "flags": [
+    "二"
+  ]
+}

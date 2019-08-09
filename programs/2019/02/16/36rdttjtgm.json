@@ -1,1 +1,23 @@
-{"id":"36rdttjtgm","category":"anime","title":"真・雷様剣士ダイジ","fullTitle":"真・雷様剣士ダイジ「新たなヒーロー？」","detail":"キドラによって敗北を喫したダイジは新たな修行のため下野市へ。そんな中でもミユ・アユには新たな危機が待ち受ける。そのピンチを救うのは？","start":1550268000000,"end":1550268900000,"seconds":900,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"新たなヒーロー？","episode":null,"flags":[]}
+{
+  "id": "36rdttjtgm",
+  "category": "anime",
+  "title": "真・雷様剣士ダイジ",
+  "fullTitle": "真・雷様剣士ダイジ「新たなヒーロー？」",
+  "detail": "キドラによって敗北を喫したダイジは新たな修行のため下野市へ。そんな中でもミユ・アユには新たな危機が待ち受ける。そのピンチを救うのは？",
+  "start": 1550268000000,
+  "end": 1550268900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "新たなヒーロー？",
+  "episode": null,
+  "flags": []
+}

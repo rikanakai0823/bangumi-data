@@ -1,1 +1,25 @@
-{"id":"36l9gkv6o8","category":"music","title":"知里のミュージックエッセンスＰａｒｔⅡ鳥羽一郎／十国峠","fullTitle":"知里のミュージックエッセンスＰａｒｔⅡ[再]【ゲスト】鳥羽一郎／十国峠","detail":"【ゲスト】鳥羽一郎／十国峠","start":1557612000000,"end":1557613800000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv6o8",
+  "category": "music",
+  "title": "知里のミュージックエッセンスＰａｒｔⅡ鳥羽一郎／十国峠",
+  "fullTitle": "知里のミュージックエッセンスＰａｒｔⅡ[再]【ゲスト】鳥羽一郎／十国峠",
+  "detail": "【ゲスト】鳥羽一郎／十国峠",
+  "start": 1557612000000,
+  "end": 1557613800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

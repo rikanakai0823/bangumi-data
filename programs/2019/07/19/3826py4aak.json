@@ -1,1 +1,23 @@
-{"id":"3826py4aak","category":"information","title":"来週水曜夜！最恐映像ノンストップ","fullTitle":"来週水曜夜！最恐映像ノンストップ","detail":"７／２４(水)放送！\r\n恒例！最恐映像ノンストップの見どころを紹介！","start":1563469200000,"end":1563469500000,"seconds":300,"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "3826py4aak",
+  "category": "information",
+  "title": "来週水曜夜！最恐映像ノンストップ",
+  "fullTitle": "来週水曜夜！最恐映像ノンストップ",
+  "detail": "７／２４(水)放送！\r\n恒例！最恐映像ノンストップの見どころを紹介！",
+  "start": 1563469200000,
+  "end": 1563469500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

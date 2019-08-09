@@ -1,1 +1,23 @@
-{"id":"36l9gkv8uv","category":"anime","title":"キャプテン▽いよいよ初試合","fullTitle":"キャプテン▽いよいよ初試合","detail":"第２話「いよいよ初試合」（全２６話）","start":1561622400000,"end":1561624200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"いよいよ初試合","episode":2,"flags":[]}
+{
+  "id": "36l9gkv8uv",
+  "category": "anime",
+  "title": "キャプテン▽いよいよ初試合",
+  "fullTitle": "キャプテン▽いよいよ初試合",
+  "detail": "第２話「いよいよ初試合」（全２６話）",
+  "start": 1561622400000,
+  "end": 1561624200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "いよいよ初試合",
+  "episode": 2,
+  "flags": []
+}

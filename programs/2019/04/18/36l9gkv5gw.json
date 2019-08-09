@@ -1,1 +1,23 @@
-{"id":"36l9gkv5gw","category":"music","title":"知里のミュージックエッセンスＰａｒｔⅡ北原ミレイ／愛は一期一会","fullTitle":"知里のミュージックエッセンスＰａｒｔⅡ【ゲスト】北原ミレイ／愛は一期一会","detail":"【ゲスト】北原ミレイ／愛は一期一会","start":1555543800000,"end":1555545600000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36l9gkv5gw",
+  "category": "music",
+  "title": "知里のミュージックエッセンスＰａｒｔⅡ北原ミレイ／愛は一期一会",
+  "fullTitle": "知里のミュージックエッセンスＰａｒｔⅡ【ゲスト】北原ミレイ／愛は一期一会",
+  "detail": "【ゲスト】北原ミレイ／愛は一期一会",
+  "start": 1555543800000,
+  "end": 1555545600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,27 @@
-{"id":"36tfa8gmzj","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"グラマールック【補正下着】\n◇番組内容\n0120-888-060","start":1554526800000,"end":1554528600000,"seconds":1800,"description":"グラマールック【補正下着】","extra":{"番組内容":"0120-888-060"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"補正下着","episode":null,"flags":[]}
+{
+  "id": "36tfa8gmzj",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "グラマールック【補正下着】\n◇番組内容\n0120-888-060",
+  "start": 1554526800000,
+  "end": 1554528600000,
+  "seconds": 1800,
+  "description": "グラマールック【補正下着】",
+  "extra": {
+    "番組内容": "0120-888-060"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "補正下着",
+  "episode": null,
+  "flags": []
+}

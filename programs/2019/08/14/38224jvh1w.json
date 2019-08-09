@@ -1,1 +1,29 @@
-{"id":"38224jvh1w","category":"hobby","title":"白の美術館","fullTitle":"白の美術館[字]","detail":"世界で活躍する“表現者”たち。彼らは何を考え、どんな未来を見ているのか…真っ白な部屋で今伝えたい「何か」を自由に表現してもらう。果たしてその先に見えるものとは…\n◇◇おしらせ\n※この番組は放送時間が変更になる場合があります\r\n\r\n☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/shirobi/","start":1565793900000,"end":1565794200000,"seconds":300,"description":"世界で活躍する“表現者”たち。彼らは何を考え、どんな未来を見ているのか…真っ白な部屋で今伝えたい「何か」を自由に表現してもらう。果たしてその先に見えるものとは…","extra":{"◇おしらせ":"※この番組は放送時間が変更になる場合があります\r\n\r\n☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/shirobi/"},"channel":{"type":"GR","channel":"24","name":"テレビ朝日","id":"1i5bcjs","sid":1064,"nid":32741,"hasLogoData":true,"n":18},"subTitle":"何か","episode":null,"flags":["字"]}
+{
+  "id": "38224jvh1w",
+  "category": "hobby",
+  "title": "白の美術館",
+  "fullTitle": "白の美術館[字]",
+  "detail": "世界で活躍する“表現者”たち。彼らは何を考え、どんな未来を見ているのか…真っ白な部屋で今伝えたい「何か」を自由に表現してもらう。果たしてその先に見えるものとは…\n◇◇おしらせ\n※この番組は放送時間が変更になる場合があります\r\n\r\n☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/shirobi/",
+  "start": 1565793900000,
+  "end": 1565794200000,
+  "seconds": 300,
+  "description": "世界で活躍する“表現者”たち。彼らは何を考え、どんな未来を見ているのか…真っ白な部屋で今伝えたい「何か」を自由に表現してもらう。果たしてその先に見えるものとは…",
+  "extra": {
+    "◇おしらせ": "※この番組は放送時間が変更になる場合があります\r\n\r\n☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/shirobi/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "何か",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

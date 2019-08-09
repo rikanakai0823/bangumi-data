@@ -1,1 +1,27 @@
-{"id":"36h6jr1mad","category":"information","title":"お買い物チャンネル・イチオシ☆つーはん","fullTitle":"お買い物チャンネル・イチオシ☆つーはん[Ｓ]","detail":"◇番組内容\nグラマールック　　　　　　　　　　　　　０１２０－８８８－０６０","start":1552167000000,"end":1552168800000,"seconds":1800,"description":"","extra":{"番組内容":"グラマールック　　　　　　　　　　　　　０１２０－８８８－０６０"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1mad",
+  "category": "information",
+  "title": "お買い物チャンネル・イチオシ☆つーはん",
+  "fullTitle": "お買い物チャンネル・イチオシ☆つーはん[Ｓ]",
+  "detail": "◇番組内容\nグラマールック　　　　　　　　　　　　　０１２０－８８８－０６０",
+  "start": 1552167000000,
+  "end": 1552168800000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "グラマールック　　　　　　　　　　　　　０１２０－８８８－０６０"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36rdttk21p","category":"music","title":"ＰＰＶ","fullTitle":"ＰＰＶ","detail":"最新のミュージックビデオを紹介","start":1559207700000,"end":1559208000000,"seconds":300,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttk21p",
+  "category": "music",
+  "title": "ＰＰＶ",
+  "fullTitle": "ＰＰＶ",
+  "detail": "最新のミュージックビデオを紹介",
+  "start": 1559207700000,
+  "end": 1559208000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

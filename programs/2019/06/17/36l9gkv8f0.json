@@ -1,1 +1,23 @@
-{"id":"36l9gkv8f0","category":"documentary","title":"ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽月組　美園さくら","fullTitle":"ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽月組　美園さくら","detail":"【ゲスト】月組　美園さくら","start":1560736500000,"end":1560738300000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":[]}
+{
+  "id": "36l9gkv8f0",
+  "category": "documentary",
+  "title": "ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽月組　美園さくら",
+  "fullTitle": "ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽月組　美園さくら",
+  "detail": "【ゲスト】月組　美園さくら",
+  "start": 1560736500000,
+  "end": 1560738300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": []
+}

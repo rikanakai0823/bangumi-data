@@ -1,1 +1,27 @@
-{"id":"36h6jr1tny","category":"etc","title":"ＴＶショッピング・イチおし！Ｓｅｌｅｃｔｉｏｎ","fullTitle":"ＴＶショッピング・イチおし！Ｓｅｌｅｃｔｉｏｎ[Ｓ]","detail":"日本通販グループ\n◇番組内容\n忘れるもんか（機能性表示食品）　　　　　０１２０－５００－５３３","start":1563987600000,"end":1563989400000,"seconds":1800,"description":"日本通販グループ","extra":{"番組内容":"忘れるもんか（機能性表示食品）　　　　　０１２０－５００－５３３"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1tny",
+  "category": "etc",
+  "title": "ＴＶショッピング・イチおし！Ｓｅｌｅｃｔｉｏｎ",
+  "fullTitle": "ＴＶショッピング・イチおし！Ｓｅｌｅｃｔｉｏｎ[Ｓ]",
+  "detail": "日本通販グループ\n◇番組内容\n忘れるもんか（機能性表示食品）　　　　　０１２０－５００－５３３",
+  "start": 1563987600000,
+  "end": 1563989400000,
+  "seconds": 1800,
+  "description": "日本通販グループ",
+  "extra": {
+    "番組内容": "忘れるもんか（機能性表示食品）　　　　　０１２０－５００－５３３"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

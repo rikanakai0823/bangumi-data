@@ -1,1 +1,23 @@
-{"id":"36h6jr1sck","category":"hobby","title":"パチンコ　パチスロ　エンタメ情報パチＦＵＮ！","fullTitle":"パチンコ　パチスロ　エンタメ情報パチＦＵＮ！[Ｓ]","detail":"","start":1563982200000,"end":1563984000000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1sck",
+  "category": "hobby",
+  "title": "パチンコ　パチスロ　エンタメ情報パチＦＵＮ！",
+  "fullTitle": "パチンコ　パチスロ　エンタメ情報パチＦＵＮ！[Ｓ]",
+  "detail": "",
+  "start": 1563982200000,
+  "end": 1563984000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

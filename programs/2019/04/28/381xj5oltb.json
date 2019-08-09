@@ -1,1 +1,23 @@
-{"id":"381xj5oltb","category":"information","title":"ミミヨリ！","fullTitle":"ミミヨリ！","detail":"耳より情報をお届けします！","start":1556393400000,"end":1556395200000,"seconds":1800,"channel":{"type":"GR","channel":"21","name":"フジテレビ","id":"1i597ds","sid":1056,"nid":32740,"hasLogoData":true,"n":28},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381xj5oltb",
+  "category": "information",
+  "title": "ミミヨリ！",
+  "fullTitle": "ミミヨリ！",
+  "detail": "耳より情報をお届けします！",
+  "start": 1556393400000,
+  "end": 1556395200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

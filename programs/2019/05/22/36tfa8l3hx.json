@@ -1,1 +1,23 @@
-{"id":"36tfa8l3hx","category":"news","title":"ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ","fullTitle":"ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ","detail":"東京の、各地のニュース・天気情報など詳しくお伝えします。","start":1558492800000,"end":1558493100000,"seconds":300,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8l3hx",
+  "category": "news",
+  "title": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ",
+  "fullTitle": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ",
+  "detail": "東京の、各地のニュース・天気情報など詳しくお伝えします。",
+  "start": 1558492800000,
+  "end": 1558493100000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

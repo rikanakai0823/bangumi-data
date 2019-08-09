@@ -1,1 +1,23 @@
-{"id":"36h6jr1kyd","category":"sports","title":"ゴル魂！","fullTitle":"ゴル魂！[Ｓ]","detail":"プロとアマチュアがチームを組み、力を合わせて勝利を目指す埼玉発の先進的ゴルフプログラム！グアムにて開催する決勝大会の出場権を掴むのはどちらのチームか！？","start":1552140000000,"end":1552141800000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kyd",
+  "category": "sports",
+  "title": "ゴル魂！",
+  "fullTitle": "ゴル魂！[Ｓ]",
+  "detail": "プロとアマチュアがチームを組み、力を合わせて勝利を目指す埼玉発の先進的ゴルフプログラム！グアムにて開催する決勝大会の出場権を掴むのはどちらのチームか！？",
+  "start": 1552140000000,
+  "end": 1552141800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

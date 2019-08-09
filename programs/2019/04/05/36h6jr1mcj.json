@@ -1,1 +1,28 @@
-{"id":"36h6jr1mcj","category":"music","title":"山崎ていじのさわやか歌謡曲","fullTitle":"山崎ていじのさわやか歌謡曲[Ｓ]","detail":"Ｋｅｎｊｉｒｏ\n◇番組内容\nＫｅｎｊｉｒｏ\n◇出演者\nＫｅｎｊｉｒｏ","start":1554410700000,"end":1554411600000,"seconds":900,"description":"Ｋｅｎｊｉｒｏ","extra":{"番組内容":"Ｋｅｎｊｉｒｏ","出演者":"Ｋｅｎｊｉｒｏ"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1mcj",
+  "category": "music",
+  "title": "山崎ていじのさわやか歌謡曲",
+  "fullTitle": "山崎ていじのさわやか歌謡曲[Ｓ]",
+  "detail": "Ｋｅｎｊｉｒｏ\n◇番組内容\nＫｅｎｊｉｒｏ\n◇出演者\nＫｅｎｊｉｒｏ",
+  "start": 1554410700000,
+  "end": 1554411600000,
+  "seconds": 900,
+  "description": "Ｋｅｎｊｉｒｏ",
+  "extra": {
+    "番組内容": "Ｋｅｎｊｉｒｏ",
+    "出演者": "Ｋｅｎｊｉｒｏ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

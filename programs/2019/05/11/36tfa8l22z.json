@@ -1,1 +1,23 @@
-{"id":"36tfa8l22z","category":"anime","title":"鎧勇騎　月兎","fullTitle":"鎧勇騎　月兎","detail":"＃６","start":1557527400000,"end":1557528300000,"seconds":900,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":6,"flags":[]}
+{
+  "id": "36tfa8l22z",
+  "category": "anime",
+  "title": "鎧勇騎　月兎",
+  "fullTitle": "鎧勇騎　月兎",
+  "detail": "＃６",
+  "start": 1557527400000,
+  "end": 1557528300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 6,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36tfa8lc6l","category":"news","title":"小池知事定例会見","fullTitle":"小池知事定例会見[手]","detail":" ","start":1564158900000,"end":1564162500000,"seconds":3600,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8lc6l",
+  "category": "news",
+  "title": "小池知事定例会見",
+  "fullTitle": "小池知事定例会見[手]",
+  "detail": " ",
+  "start": 1564158900000,
+  "end": 1564162500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

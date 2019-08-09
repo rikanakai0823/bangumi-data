@@ -1,1 +1,23 @@
-{"id":"36rdttjts8","category":"music","title":"洋楽天国ＥＸＸＴＲＡ　２０１８","fullTitle":"洋楽天国ＥＸＸＴＲＡ　２０１８","detail":"ヒット曲満載！洋楽ミュージック・ビデオを！","start":1550660400000,"end":1550663700000,"seconds":3300,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttjts8",
+  "category": "music",
+  "title": "洋楽天国ＥＸＸＴＲＡ　２０１８",
+  "fullTitle": "洋楽天国ＥＸＸＴＲＡ　２０１８",
+  "detail": "ヒット曲満載！洋楽ミュージック・ビデオを！",
+  "start": 1550660400000,
+  "end": 1550663700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

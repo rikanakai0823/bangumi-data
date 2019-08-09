@@ -1,1 +1,23 @@
-{"id":"36rdttk5cy","category":"news","title":"神奈川県議会予算委員会中継","fullTitle":"神奈川県議会予算委員会中継","detail":"令和元年第２回神奈川県議会定例会の中から、今月２日に開催された予算委員会の模様を録画で放送します。\r\n【質疑】立憲民主党・民権クラブ、公明党","start":1563442200000,"end":1563448800000,"seconds":6600,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":2,"flags":[]}
+{
+  "id": "36rdttk5cy",
+  "category": "news",
+  "title": "神奈川県議会予算委員会中継",
+  "fullTitle": "神奈川県議会予算委員会中継",
+  "detail": "令和元年第２回神奈川県議会定例会の中から、今月２日に開催された予算委員会の模様を録画で放送します。\r\n【質疑】立憲民主党・民権クラブ、公明党",
+  "start": 1563442200000,
+  "end": 1563448800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}

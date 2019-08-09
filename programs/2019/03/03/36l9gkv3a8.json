@@ -1,1 +1,25 @@
-{"id":"36l9gkv3a8","category":"documentary","title":"ちば見聞録","fullTitle":"ちば見聞録[再]","detail":"武神　香取神宮　▽古くから厚い信仰を集め、武神として知られる香取神宮を紹介。","start":1551608700000,"end":1551610200000,"seconds":1500,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv3a8",
+  "category": "documentary",
+  "title": "ちば見聞録",
+  "fullTitle": "ちば見聞録[再]",
+  "detail": "武神　香取神宮　▽古くから厚い信仰を集め、武神として知られる香取神宮を紹介。",
+  "start": 1551608700000,
+  "end": 1551610200000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

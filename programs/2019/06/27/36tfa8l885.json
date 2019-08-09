@@ -1,1 +1,27 @@
-{"id":"36tfa8l885","category":"sports","title":"東京シティ競馬中継","fullTitle":"東京シティ競馬中継","detail":"「ロマンティックナイト賞」「武蔵野オープン」\n◇出演者\n【MC】\r\n前半：佐々木麻衣\r\n後半：芦崎　愛\r\n【解説】\r\n高橋孝太郎（ケイシュウNEWS）\r\n【場内リポート】\r\n山田桃子","start":1561616400000,"end":1561636800000,"seconds":20400,"description":"「ロマンティックナイト賞」「武蔵野オープン」","extra":{"出演者":"【MC】\r\n前半：佐々木麻衣\r\n後半：芦崎　愛\r\n【解説】\r\n高橋孝太郎（ケイシュウNEWS）\r\n【場内リポート】\r\n山田桃子"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36tfa8l885",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ロマンティックナイト賞」「武蔵野オープン」\n◇出演者\n【MC】\r\n前半：佐々木麻衣\r\n後半：芦崎　愛\r\n【解説】\r\n高橋孝太郎（ケイシュウNEWS）\r\n【場内リポート】\r\n山田桃子",
+  "start": 1561616400000,
+  "end": 1561636800000,
+  "seconds": 20400,
+  "description": "「ロマンティックナイト賞」「武蔵野オープン」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：佐々木麻衣\r\n後半：芦崎　愛\r\n【解説】\r\n高橋孝太郎（ケイシュウNEWS）\r\n【場内リポート】\r\n山田桃子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

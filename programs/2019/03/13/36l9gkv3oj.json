@@ -1,1 +1,23 @@
-{"id":"36l9gkv3oj","category":"music","title":"ＨＯＴ　ＷＡＶＥ▽さくら学院","fullTitle":"ＨＯＴ　ＷＡＶＥ▽さくら学院","detail":"さくら学院（麻生真彩、日　・裘m襦⊃恵・罎鼎漾・Ｊ寝敘機・氾珍嵳婢瓸","start":1552406400000,"end":1552408200000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv3oj",
+  "category": "music",
+  "title": "ＨＯＴ　ＷＡＶＥ▽さくら学院",
+  "fullTitle": "ＨＯＴ　ＷＡＶＥ▽さくら学院",
+  "detail": "さくら学院（麻生真彩、日　・裘m襦⊃恵・罎鼎漾・Ｊ寝敘機・氾珍嵳婢瓸",
+  "start": 1552406400000,
+  "end": 1552408200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

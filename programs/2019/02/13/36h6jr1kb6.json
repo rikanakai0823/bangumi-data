@@ -1,1 +1,27 @@
-{"id":"36h6jr1kb6","category":"information","title":"買物情報・プライムダイレクトＴＶショッピング","fullTitle":"買物情報・プライムダイレクトＴＶショッピング[Ｓ]","detail":"プライムダイレクトテレビショッピング\n◇番組内容\nスピードヒート（１着）（２着）　　　　　０８００－９９９－４－８８８","start":1550005200000,"end":1550007000000,"seconds":1800,"description":"プライムダイレクトテレビショッピング","extra":{"番組内容":"スピードヒート（１着）（２着）　　　　　０８００－９９９－４－８８８"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kb6",
+  "category": "information",
+  "title": "買物情報・プライムダイレクトＴＶショッピング",
+  "fullTitle": "買物情報・プライムダイレクトＴＶショッピング[Ｓ]",
+  "detail": "プライムダイレクトテレビショッピング\n◇番組内容\nスピードヒート（１着）（２着）　　　　　０８００－９９９－４－８８８",
+  "start": 1550005200000,
+  "end": 1550007000000,
+  "seconds": 1800,
+  "description": "プライムダイレクトテレビショッピング",
+  "extra": {
+    "番組内容": "スピードヒート（１着）（２着）　　　　　０８００－９９９－４－８８８"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

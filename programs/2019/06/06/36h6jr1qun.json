@@ -1,1 +1,27 @@
-{"id":"36h6jr1qun","category":"information","title":"ＴＶショッピング・スマイルショッピング","fullTitle":"ＴＶショッピング・スマイルショッピング[Ｓ]","detail":"スマイルショッピング\n◇番組内容\nスマートコミュニティ稲毛資料請求　　　　（シニア向け分譲マンション）　　　　　　０１２０－９８９－７３３","start":1559779200000,"end":1559781000000,"seconds":1800,"description":"スマイルショッピング","extra":{"番組内容":"スマートコミュニティ稲毛資料請求　　　　（シニア向け分譲マンション）　　　　　　０１２０－９８９－７３３"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1qun",
+  "category": "information",
+  "title": "ＴＶショッピング・スマイルショッピング",
+  "fullTitle": "ＴＶショッピング・スマイルショッピング[Ｓ]",
+  "detail": "スマイルショッピング\n◇番組内容\nスマートコミュニティ稲毛資料請求　　　　（シニア向け分譲マンション）　　　　　　０１２０－９８９－７３３",
+  "start": 1559779200000,
+  "end": 1559781000000,
+  "seconds": 1800,
+  "description": "スマイルショッピング",
+  "extra": {
+    "番組内容": "スマートコミュニティ稲毛資料請求　　　　（シニア向け分譲マンション）　　　　　　０１２０－９８９－７３３"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

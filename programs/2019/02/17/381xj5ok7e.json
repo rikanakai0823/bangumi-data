@@ -1,1 +1,25 @@
-{"id":"381xj5ok7e","category":"variety","title":"潜入！ウワサの大家族ＳＰ","fullTitle":"潜入！ウワサの大家族ＳＰ[字]","detail":"","start":1550387100000,"end":1550391600000,"seconds":4500,"channel":{"type":"GR","channel":"21","name":"フジテレビ","id":"1i597ds","sid":1056,"nid":32740,"hasLogoData":true,"n":28},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "381xj5ok7e",
+  "category": "variety",
+  "title": "潜入！ウワサの大家族ＳＰ",
+  "fullTitle": "潜入！ウワサの大家族ＳＰ[字]",
+  "detail": "",
+  "start": 1550387100000,
+  "end": 1550391600000,
+  "seconds": 4500,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

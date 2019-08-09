@@ -1,1 +1,23 @@
-{"id":"36l9gkv32t","category":"music","title":"ＨＯＴ　ＷＡＶＥ▽ＳＰｉＣＹＳＯＬ","fullTitle":"ＨＯＴ　ＷＡＶＥ▽ＳＰｉＣＹＳＯＬ","detail":"ＳＰｉＣＹＳＯＬ【ＫＥＮＮＹ〔Ｖｏ／Ｇｔ〕、ＡＫＵＮ〔Ｇｔ／Ｃｈｏ〕】","start":1551196800000,"end":1551198600000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ＫＥＮＮＹ〔Ｖｏ／Ｇｔ〕、ＡＫＵＮ〔Ｇｔ／Ｃｈｏ〕","episode":null,"flags":[]}
+{
+  "id": "36l9gkv32t",
+  "category": "music",
+  "title": "ＨＯＴ　ＷＡＶＥ▽ＳＰｉＣＹＳＯＬ",
+  "fullTitle": "ＨＯＴ　ＷＡＶＥ▽ＳＰｉＣＹＳＯＬ",
+  "detail": "ＳＰｉＣＹＳＯＬ【ＫＥＮＮＹ〔Ｖｏ／Ｇｔ〕、ＡＫＵＮ〔Ｇｔ／Ｃｈｏ〕】",
+  "start": 1551196800000,
+  "end": 1551198600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ＫＥＮＮＹ〔Ｖｏ／Ｇｔ〕、ＡＫＵＮ〔Ｇｔ／Ｃｈｏ〕",
+  "episode": null,
+  "flags": []
+}

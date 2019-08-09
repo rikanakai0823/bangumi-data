@@ -1,1 +1,23 @@
-{"id":"36h6jr1jxe","category":"sports","title":"ボウリング革命Ｐ★Ｌｅａｇｕｅ","fullTitle":"ボウリング革命Ｐ★Ｌｅａｇｕｅ[Ｓ]","detail":"１回戦Ｃグループ（川崎由意ｖｓ小林よしみｖｓ大仲純怜）","start":1550417400000,"end":1550419200000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1jxe",
+  "category": "sports",
+  "title": "ボウリング革命Ｐ★Ｌｅａｇｕｅ",
+  "fullTitle": "ボウリング革命Ｐ★Ｌｅａｇｕｅ[Ｓ]",
+  "detail": "１回戦Ｃグループ（川崎由意ｖｓ小林よしみｖｓ大仲純怜）",
+  "start": 1550417400000,
+  "end": 1550419200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36h6jr1kaf","category":"sports","title":"ボウリング革命Ｐ★Ｌｅａｇｕｅ","fullTitle":"ボウリング革命Ｐ★Ｌｅａｇｕｅ[Ｓ]","detail":"１回戦Ｄグループ（森彩奈江ｖｓ坂本詩緒里ｖｓ松永裕美）","start":1551022200000,"end":1551024000000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kaf",
+  "category": "sports",
+  "title": "ボウリング革命Ｐ★Ｌｅａｇｕｅ",
+  "fullTitle": "ボウリング革命Ｐ★Ｌｅａｇｕｅ[Ｓ]",
+  "detail": "１回戦Ｄグループ（森彩奈江ｖｓ坂本詩緒里ｖｓ松永裕美）",
+  "start": 1551022200000,
+  "end": 1551024000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,30 @@
-{"id":"381f5ksvgt","category":"news","title":"視点・論点","fullTitle":"視点・論点「アポロから５０年　月・惑星探査の未来」[字][再]","detail":"会津大学准教授…寺薗淳也\n◇出演者\n【出演】会津大学准教授…寺薗淳也","start":1554144600000,"end":1554145200000,"seconds":600,"description":"会津大学准教授…寺薗淳也","extra":{"出演者":"【出演】会津大学准教授…寺薗淳也"},"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"アポロから５０年　月・惑星探査の未来","episode":null,"flags":["字","再"]}
+{
+  "id": "381f5ksvgt",
+  "category": "news",
+  "title": "視点・論点",
+  "fullTitle": "視点・論点「アポロから５０年　月・惑星探査の未来」[字][再]",
+  "detail": "会津大学准教授…寺薗淳也\n◇出演者\n【出演】会津大学准教授…寺薗淳也",
+  "start": 1554144600000,
+  "end": 1554145200000,
+  "seconds": 600,
+  "description": "会津大学准教授…寺薗淳也",
+  "extra": {
+    "出演者": "【出演】会津大学准教授…寺薗淳也"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "アポロから５０年　月・惑星探査の未来",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

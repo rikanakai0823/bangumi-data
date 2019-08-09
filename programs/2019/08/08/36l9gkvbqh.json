@@ -1,1 +1,23 @@
-{"id":"36l9gkvbqh","category":"anime","title":"ゲゲゲの鬼太郎▽妖怪四十七士の謎","fullTitle":"ゲゲゲの鬼太郎【第５期】▽妖怪四十七士の謎　＃７３","detail":"第７３話　妖怪四十七士の謎（全１００話）飛騨山中で黒鴉から天狗武術を習うネコ娘。一方、ねずみ男はひでり神を利用した罪で投獄されてしまい…！？","start":1565253000000,"end":1565254800000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"第５期","episode":73,"flags":[]}
+{
+  "id": "36l9gkvbqh",
+  "category": "anime",
+  "title": "ゲゲゲの鬼太郎▽妖怪四十七士の謎",
+  "fullTitle": "ゲゲゲの鬼太郎【第５期】▽妖怪四十七士の謎　＃７３",
+  "detail": "第７３話　妖怪四十七士の謎（全１００話）飛騨山中で黒鴉から天狗武術を習うネコ娘。一方、ねずみ男はひでり神を利用した罪で投獄されてしまい…！？",
+  "start": 1565253000000,
+  "end": 1565254800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "第５期",
+  "episode": 73,
+  "flags": []
+}

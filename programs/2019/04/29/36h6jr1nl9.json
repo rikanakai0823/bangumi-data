@@ -1,1 +1,28 @@
-{"id":"36h6jr1nl9","category":"music","title":"千葉一夫と水城なつみの歌謡散歩","fullTitle":"千葉一夫と水城なつみの歌謡散歩[Ｓ]","detail":"門松みゆき\n◇番組内容\n門松みゆき\n◇出演者\n門松みゆき","start":1556483400000,"end":1556485200000,"seconds":1800,"description":"門松みゆき","extra":{"番組内容":"門松みゆき","出演者":"門松みゆき"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1nl9",
+  "category": "music",
+  "title": "千葉一夫と水城なつみの歌謡散歩",
+  "fullTitle": "千葉一夫と水城なつみの歌謡散歩[Ｓ]",
+  "detail": "門松みゆき\n◇番組内容\n門松みゆき\n◇出演者\n門松みゆき",
+  "start": 1556483400000,
+  "end": 1556485200000,
+  "seconds": 1800,
+  "description": "門松みゆき",
+  "extra": {
+    "番組内容": "門松みゆき",
+    "出演者": "門松みゆき"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

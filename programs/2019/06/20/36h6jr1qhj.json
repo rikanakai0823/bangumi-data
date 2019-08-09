@@ -1,1 +1,28 @@
-{"id":"36h6jr1qhj","category":"music","title":"カラオケ１ばん","fullTitle":"カラオケ１ばん[Ｓ]","detail":"ゲスト田川寿美　男石宜隆\n◇番組内容\nゲスト田川寿美　男石宜隆\n◇出演者\n司会：岸田敏志　みずき舞","start":1561024800000,"end":1561028100000,"seconds":3300,"description":"ゲスト田川寿美　男石宜隆","extra":{"番組内容":"ゲスト田川寿美　男石宜隆","出演者":"司会：岸田敏志　みずき舞"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1qhj",
+  "category": "music",
+  "title": "カラオケ１ばん",
+  "fullTitle": "カラオケ１ばん[Ｓ]",
+  "detail": "ゲスト田川寿美　男石宜隆\n◇番組内容\nゲスト田川寿美　男石宜隆\n◇出演者\n司会：岸田敏志　みずき舞",
+  "start": 1561024800000,
+  "end": 1561028100000,
+  "seconds": 3300,
+  "description": "ゲスト田川寿美　男石宜隆",
+  "extra": {
+    "番組内容": "ゲスト田川寿美　男石宜隆",
+    "出演者": "司会：岸田敏志　みずき舞"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

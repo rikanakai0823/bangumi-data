@@ -1,1 +1,23 @@
-{"id":"36l9gkv93c","category":"documentary","title":"ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽特別編","fullTitle":"ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽特別編","detail":"特別編","start":1562110200000,"end":1562112000000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36l9gkv93c",
+  "category": "documentary",
+  "title": "ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽特別編",
+  "fullTitle": "ＴＡＫＡＲＡＺＵＫＡ　ＣＡＦＥ　ＢＲＥＡＫ▽特別編",
+  "detail": "特別編",
+  "start": 1562110200000,
+  "end": 1562112000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

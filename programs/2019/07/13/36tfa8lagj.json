@@ -1,1 +1,23 @@
-{"id":"36tfa8lagj","category":"anime","title":"鎧勇騎　月兎","fullTitle":"鎧勇騎　月兎","detail":"＃１５「月兎ｖｓジャック＆ふ菓子さん!?」","start":1562970600000,"end":1562971500000,"seconds":900,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ２","id":"1hkhnru","sid":23610,"nid":32391,"hasLogoData":true,"n":34},"subTitle":"月兎ｖｓジャック＆ふ菓子さん!?","episode":15,"flags":[]}
+{
+  "id": "36tfa8lagj",
+  "category": "anime",
+  "title": "鎧勇騎　月兎",
+  "fullTitle": "鎧勇騎　月兎",
+  "detail": "＃１５「月兎ｖｓジャック＆ふ菓子さん!?」",
+  "start": 1562970600000,
+  "end": 1562971500000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "月兎ｖｓジャック＆ふ菓子さん!?",
+  "episode": 15,
+  "flags": []
+}

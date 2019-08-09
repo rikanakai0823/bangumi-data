@@ -1,1 +1,23 @@
-{"id":"36rdttjyxt","category":"information","title":"お買物情報","fullTitle":"お買物情報","detail":"暮らしに役立つ、選りすぐりの商品をご紹介します。\r\n▽ハンディースチームクリーナー","start":1556244000000,"end":1556245740000,"seconds":1740,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36rdttjyxt",
+  "category": "information",
+  "title": "お買物情報",
+  "fullTitle": "お買物情報",
+  "detail": "暮らしに役立つ、選りすぐりの商品をご紹介します。\r\n▽ハンディースチームクリーナー",
+  "start": 1556244000000,
+  "end": 1556245740000,
+  "seconds": 1740,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

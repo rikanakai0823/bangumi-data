@@ -1,1 +1,23 @@
-{"id":"36rdttjxrn","category":"etc","title":"朝の周波数カード","fullTitle":"朝の周波数カード","detail":"アルバム「シャイン・ア・ライト」\r\nブライアン・アダムス","start":1554924300000,"end":1554926100000,"seconds":1800,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"シャイン・ア・ライト","episode":null,"flags":[]}
+{
+  "id": "36rdttjxrn",
+  "category": "etc",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「シャイン・ア・ライト」\r\nブライアン・アダムス",
+  "start": 1554924300000,
+  "end": 1554926100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "シャイン・ア・ライト",
+  "episode": null,
+  "flags": []
+}

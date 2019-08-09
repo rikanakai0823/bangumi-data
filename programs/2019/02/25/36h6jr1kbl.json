@@ -1,1 +1,28 @@
-{"id":"36h6jr1kbl","category":"music","title":"千葉一夫と松本マサ子の歌謡散歩","fullTitle":"千葉一夫と松本マサ子の歌謡散歩[Ｓ]","detail":"長保有紀\n◇番組内容\n長保有紀\n◇出演者\n長保有紀","start":1551040200000,"end":1551042000000,"seconds":1800,"description":"長保有紀","extra":{"番組内容":"長保有紀","出演者":"長保有紀"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1kbl",
+  "category": "music",
+  "title": "千葉一夫と松本マサ子の歌謡散歩",
+  "fullTitle": "千葉一夫と松本マサ子の歌謡散歩[Ｓ]",
+  "detail": "長保有紀\n◇番組内容\n長保有紀\n◇出演者\n長保有紀",
+  "start": 1551040200000,
+  "end": 1551042000000,
+  "seconds": 1800,
+  "description": "長保有紀",
+  "extra": {
+    "番組内容": "長保有紀",
+    "出演者": "長保有紀"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

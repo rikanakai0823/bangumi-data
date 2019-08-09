@@ -1,1 +1,25 @@
-{"id":"36l9gkv4bg","category":"sports","title":"牧野裕のＥｎｊｏｙ　Ｇｏｌｆ▽放送１０００回記念③","fullTitle":"牧野裕のＥｎｊｏｙ　Ｇｏｌｆ[再]▽放送１０００回記念③","detail":"【ゲストのスイング解説】　放送１０００回を記念して行われたコンペの模様、今週は、その３回目を紹介する。　出演者：牧野裕、小倉星羅","start":1553688000000,"end":1553689800000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲストのスイング解説","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv4bg",
+  "category": "sports",
+  "title": "牧野裕のＥｎｊｏｙ　Ｇｏｌｆ▽放送１０００回記念③",
+  "fullTitle": "牧野裕のＥｎｊｏｙ　Ｇｏｌｆ[再]▽放送１０００回記念③",
+  "detail": "【ゲストのスイング解説】　放送１０００回を記念して行われたコンペの模様、今週は、その３回目を紹介する。　出演者：牧野裕、小倉星羅",
+  "start": 1553688000000,
+  "end": 1553689800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲストのスイング解説",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

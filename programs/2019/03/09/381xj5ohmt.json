@@ -1,1 +1,25 @@
-{"id":"381xj5ohmt","category":"sports","title":"世界フィギュア２０１９～ＴＨＥ　ＢＥＡＵＴＹ～","fullTitle":"世界フィギュア２０１９～ＴＨＥ　ＢＥＡＵＴＹ～[字]","detail":"","start":1552112700000,"end":1552113000000,"seconds":300,"channel":{"type":"GR","channel":"21","name":"フジテレビ","id":"1i597ds","sid":1056,"nid":32740,"hasLogoData":true,"n":28},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "381xj5ohmt",
+  "category": "sports",
+  "title": "世界フィギュア２０１９～ＴＨＥ　ＢＥＡＵＴＹ～",
+  "fullTitle": "世界フィギュア２０１９～ＴＨＥ　ＢＥＡＵＴＹ～[字]",
+  "detail": "",
+  "start": 1552112700000,
+  "end": 1552113000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

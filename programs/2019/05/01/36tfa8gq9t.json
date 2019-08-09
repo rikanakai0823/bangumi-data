@@ -1,1 +1,23 @@
-{"id":"36tfa8gq9t","category":"information","title":"健やか元気人","fullTitle":"健やか元気人","detail":"緑効青汁【健康食品】","start":1556672100000,"end":1556673900000,"seconds":1800,"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"健康食品","episode":null,"flags":[]}
+{
+  "id": "36tfa8gq9t",
+  "category": "information",
+  "title": "健やか元気人",
+  "fullTitle": "健やか元気人",
+  "detail": "緑効青汁【健康食品】",
+  "start": 1556672100000,
+  "end": 1556673900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "健康食品",
+  "episode": null,
+  "flags": []
+}

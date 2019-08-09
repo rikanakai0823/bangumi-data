@@ -1,1 +1,27 @@
-{"id":"36h6jr1k07","category":"information","title":"猫のひたいほどワイド","fullTitle":"猫のひたいほどワイド[Ｓ]","detail":"◇出演者\n【ＭＣ】藤田玲、岡村帆奈美（ｔｖｋアナウンサー）【猫の手も借り隊】大矢剛康、石渡真修、赤澤遼太郎、長田翔恩","start":1550545200000,"end":1550547000000,"seconds":1800,"description":"","extra":{"出演者":"【ＭＣ】藤田玲、岡村帆奈美（ｔｖｋアナウンサー）【猫の手も借り隊】大矢剛康、石渡真修、赤澤遼太郎、長田翔恩"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1k07",
+  "category": "information",
+  "title": "猫のひたいほどワイド",
+  "fullTitle": "猫のひたいほどワイド[Ｓ]",
+  "detail": "◇出演者\n【ＭＣ】藤田玲、岡村帆奈美（ｔｖｋアナウンサー）【猫の手も借り隊】大矢剛康、石渡真修、赤澤遼太郎、長田翔恩",
+  "start": 1550545200000,
+  "end": 1550547000000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "【ＭＣ】藤田玲、岡村帆奈美（ｔｖｋアナウンサー）【猫の手も借り隊】大矢剛康、石渡真修、赤澤遼太郎、長田翔恩"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

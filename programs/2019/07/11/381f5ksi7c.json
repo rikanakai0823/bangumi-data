@@ -1,1 +1,25 @@
-{"id":"381f5ksi7c","category":"news","title":"参議院比例代表選出議員選挙　政見放送","fullTitle":"参議院比例代表選出議員選挙　政見放送[字][手]","detail":"","start":1562803500000,"end":1562806680000,"seconds":3180,"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "381f5ksi7c",
+  "category": "news",
+  "title": "参議院比例代表選出議員選挙　政見放送",
+  "fullTitle": "参議院比例代表選出議員選挙　政見放送[字][手]",
+  "detail": "",
+  "start": 1562803500000,
+  "end": 1562806680000,
+  "seconds": 3180,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

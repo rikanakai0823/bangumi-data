@@ -1,1 +1,23 @@
-{"id":"36rdttjvdx","category":"etc","title":"朝の周波数カード","fullTitle":"朝の周波数カード","detail":"アルバム「バイ・ザ・ウェイ・アイ・フォーギヴ・ユー」\r\nブランディ・カーライル","start":1552245900000,"end":1552247700000,"seconds":1800,"channel":{"type":"GR","channel":"31","name":"ｔｖｋ１","id":"1hjjdzs","sid":24632,"nid":32375,"hasLogoData":true,"n":5},"subTitle":"バイ・ザ・ウェイ・アイ・フォーギヴ・ユー","episode":null,"flags":[]}
+{
+  "id": "36rdttjvdx",
+  "category": "etc",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「バイ・ザ・ウェイ・アイ・フォーギヴ・ユー」\r\nブランディ・カーライル",
+  "start": 1552245900000,
+  "end": 1552247700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "バイ・ザ・ウェイ・アイ・フォーギヴ・ユー",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"381xj5ogt5","category":"variety","title":"ＴＯＫＹＯストーリーズ＜Ｗナイト＞","fullTitle":"ＴＯＫＹＯストーリーズ＜Ｗナイト＞","detail":"","start":1550682300000,"end":1550685600000,"seconds":3300,"channel":{"type":"GR","channel":"21","name":"フジテレビ","id":"1i597ds","sid":1056,"nid":32740,"hasLogoData":true,"n":28},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "381xj5ogt5",
+  "category": "variety",
+  "title": "ＴＯＫＹＯストーリーズ＜Ｗナイト＞",
+  "fullTitle": "ＴＯＫＹＯストーリーズ＜Ｗナイト＞",
+  "detail": "",
+  "start": 1550682300000,
+  "end": 1550685600000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

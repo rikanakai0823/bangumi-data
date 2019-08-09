@@ -1,1 +1,30 @@
-{"id":"3826py44bb","category":"variety","title":"自然スコープ～鳥ビアの森～","fullTitle":"自然スコープ～鳥ビアの森～[字]","detail":"鳥取県・奥大山の自然から森、鳥、水の共生の大切さを見つめる。\n◇出演者\n　コカドケンタロウ(ロッチ)\r\n　おのののか\r\n　♪鳥くん\n◇関連情報\n【番組公式ＨＰ】\r\nwww.tv-tokyo.co.jp/shizen_scope/","start":1550994300000,"end":1550996100000,"seconds":1800,"description":"鳥取県・奥大山の自然から森、鳥、水の共生の大切さを見つめる。","extra":{"出演者":"　コカドケンタロウ(ロッチ)\r\n　おのののか\r\n　♪鳥くん","関連情報":"【番組公式ＨＰ】\r\nwww.tv-tokyo.co.jp/shizen_scope/"},"channel":{"type":"GR","channel":"23","name":"テレビ東京１","id":"1i5dhps","sid":1072,"nid":32742,"hasLogoData":true,"n":25},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "3826py44bb",
+  "category": "variety",
+  "title": "自然スコープ～鳥ビアの森～",
+  "fullTitle": "自然スコープ～鳥ビアの森～[字]",
+  "detail": "鳥取県・奥大山の自然から森、鳥、水の共生の大切さを見つめる。\n◇出演者\n　コカドケンタロウ(ロッチ)\r\n　おのののか\r\n　♪鳥くん\n◇関連情報\n【番組公式ＨＰ】\r\nwww.tv-tokyo.co.jp/shizen_scope/",
+  "start": 1550994300000,
+  "end": 1550996100000,
+  "seconds": 1800,
+  "description": "鳥取県・奥大山の自然から森、鳥、水の共生の大切さを見つめる。",
+  "extra": {
+    "出演者": "　コカドケンタロウ(ロッチ)\r\n　おのののか\r\n　♪鳥くん",
+    "関連情報": "【番組公式ＨＰ】\r\nwww.tv-tokyo.co.jp/shizen_scope/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

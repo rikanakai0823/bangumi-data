@@ -1,1 +1,27 @@
-{"id":"36h6jr1m9u","category":"information","title":"ショッピングタイム・プライムダイレクトＴＶショッピング","fullTitle":"ショッピングタイム・プライムダイレクトＴＶショッピング[Ｓ]","detail":"プライムダイレクトテレビショッピング\n◇番組内容\n足つらナイト（医療機器）　　　　　　　　０８００－９９９－０－９９９","start":1552962300000,"end":1552964100000,"seconds":1800,"description":"プライムダイレクトテレビショッピング","extra":{"番組内容":"足つらナイト（医療機器）　　　　　　　　０８００－９９９－０－９９９"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1m9u",
+  "category": "information",
+  "title": "ショッピングタイム・プライムダイレクトＴＶショッピング",
+  "fullTitle": "ショッピングタイム・プライムダイレクトＴＶショッピング[Ｓ]",
+  "detail": "プライムダイレクトテレビショッピング\n◇番組内容\n足つらナイト（医療機器）　　　　　　　　０８００－９９９－０－９９９",
+  "start": 1552962300000,
+  "end": 1552964100000,
+  "seconds": 1800,
+  "description": "プライムダイレクトテレビショッピング",
+  "extra": {
+    "番組内容": "足つらナイト（医療機器）　　　　　　　　０８００－９９９－０－９９９"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

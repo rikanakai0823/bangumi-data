@@ -1,1 +1,28 @@
-{"id":"36h6jr1jkn","category":"music","title":"津吹みゆと一条貫太のこちら最新歌謡曲","fullTitle":"津吹みゆと一条貫太のこちら最新歌謡曲[Ｓ]","detail":"秋山涼子\n◇番組内容\n秋山涼子\n◇出演者\n秋山涼子","start":1549839600000,"end":1549841400000,"seconds":1800,"description":"秋山涼子","extra":{"番組内容":"秋山涼子","出演者":"秋山涼子"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1jkn",
+  "category": "music",
+  "title": "津吹みゆと一条貫太のこちら最新歌謡曲",
+  "fullTitle": "津吹みゆと一条貫太のこちら最新歌謡曲[Ｓ]",
+  "detail": "秋山涼子\n◇番組内容\n秋山涼子\n◇出演者\n秋山涼子",
+  "start": 1549839600000,
+  "end": 1549841400000,
+  "seconds": 1800,
+  "description": "秋山涼子",
+  "extra": {
+    "番組内容": "秋山涼子",
+    "出演者": "秋山涼子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,23 @@
-{"id":"36h6jr1tao","category":"documentary","title":"ガリレオＸ","fullTitle":"ガリレオＸ[Ｓ]","detail":"食中植物の不思議な世界","start":1565362800000,"end":1565364600000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1tao",
+  "category": "documentary",
+  "title": "ガリレオＸ",
+  "fullTitle": "ガリレオＸ[Ｓ]",
+  "detail": "食中植物の不思議な世界",
+  "start": 1565362800000,
+  "end": 1565364600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

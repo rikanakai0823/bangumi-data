@@ -1,1 +1,28 @@
-{"id":"36h6jr1qu0","category":"music","title":"カラオケ１ばん","fullTitle":"カラオケ１ばん[Ｓ]","detail":"ゲスト大川栄策　中村仁美\n◇番組内容\nゲスト大川栄策　中村仁美\n◇出演者\n司会：岸田敏志　みずき舞","start":1561629600000,"end":1561632900000,"seconds":3300,"description":"ゲスト大川栄策　中村仁美","extra":{"番組内容":"ゲスト大川栄策　中村仁美","出演者":"司会：岸田敏志　みずき舞"},"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1qu0",
+  "category": "music",
+  "title": "カラオケ１ばん",
+  "fullTitle": "カラオケ１ばん[Ｓ]",
+  "detail": "ゲスト大川栄策　中村仁美\n◇番組内容\nゲスト大川栄策　中村仁美\n◇出演者\n司会：岸田敏志　みずき舞",
+  "start": 1561629600000,
+  "end": 1561632900000,
+  "seconds": 3300,
+  "description": "ゲスト大川栄策　中村仁美",
+  "extra": {
+    "番組内容": "ゲスト大川栄策　中村仁美",
+    "出演者": "司会：岸田敏志　みずき舞"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

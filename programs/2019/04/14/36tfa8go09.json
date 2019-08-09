@@ -1,1 +1,27 @@
-{"id":"36tfa8go09","category":"information","title":"ＭＸショッピング","fullTitle":"ＭＸショッピング","detail":"Ｈ２ＯスチームＵＮＩＯＮ【スチームクリーナー】\n◇お知らせ\n0120-1313-00","start":1555221600000,"end":1555225140000,"seconds":3540,"description":"Ｈ２ＯスチームＵＮＩＯＮ【スチームクリーナー】","extra":{"お知らせ":"0120-1313-00"},"channel":{"type":"GR","channel":"16","name":"ＴＯＫＹＯ　ＭＸ１","id":"1hkhnrs","sid":23608,"nid":32391,"hasLogoData":true,"n":32},"subTitle":"スチームクリーナー","episode":null,"flags":[]}
+{
+  "id": "36tfa8go09",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "Ｈ２ＯスチームＵＮＩＯＮ【スチームクリーナー】\n◇お知らせ\n0120-1313-00",
+  "start": 1555221600000,
+  "end": 1555225140000,
+  "seconds": 3540,
+  "description": "Ｈ２ＯスチームＵＮＩＯＮ【スチームクリーナー】",
+  "extra": {
+    "お知らせ": "0120-1313-00"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "スチームクリーナー",
+  "episode": null,
+  "flags": []
+}

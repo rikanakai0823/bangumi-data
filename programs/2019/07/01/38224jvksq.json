@@ -1,1 +1,30 @@
-{"id":"38224jvksq","category":"variety","title":"徹子の部屋　追悼・高島忠夫さん","fullTitle":"徹子の部屋　追悼・高島忠夫さん[字]","detail":"高島忠夫さん追悼特集\n◇◇番組内容\n過去の貴重な映像で、俳優・高島忠夫さんを偲びます。\n◇◇おしらせ\n☆『徹子の部屋』番組ＨＰ\r\n　http://www.tv-asahi.co.jp/tetsuko/","start":1561950000000,"end":1561951800000,"seconds":1800,"description":"高島忠夫さん追悼特集","extra":{"◇番組内容":"過去の貴重な映像で、俳優・高島忠夫さんを偲びます。","◇おしらせ":"☆『徹子の部屋』番組ＨＰ\r\n　http://www.tv-asahi.co.jp/tetsuko/"},"channel":{"type":"GR","channel":"24","name":"テレビ朝日","id":"1i5bcjs","sid":1064,"nid":32741,"hasLogoData":true,"n":18},"subTitle":"","episode":null,"flags":["字"]}
+{
+  "id": "38224jvksq",
+  "category": "variety",
+  "title": "徹子の部屋　追悼・高島忠夫さん",
+  "fullTitle": "徹子の部屋　追悼・高島忠夫さん[字]",
+  "detail": "高島忠夫さん追悼特集\n◇◇番組内容\n過去の貴重な映像で、俳優・高島忠夫さんを偲びます。\n◇◇おしらせ\n☆『徹子の部屋』番組ＨＰ\r\n　http://www.tv-asahi.co.jp/tetsuko/",
+  "start": 1561950000000,
+  "end": 1561951800000,
+  "seconds": 1800,
+  "description": "高島忠夫さん追悼特集",
+  "extra": {
+    "◇番組内容": "過去の貴重な映像で、俳優・高島忠夫さんを偲びます。",
+    "◇おしらせ": "☆『徹子の部屋』番組ＨＰ\r\n　http://www.tv-asahi.co.jp/tetsuko/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

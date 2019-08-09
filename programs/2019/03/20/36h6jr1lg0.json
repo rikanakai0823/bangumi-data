@@ -1,1 +1,23 @@
-{"id":"36h6jr1lg0","category":"variety","title":"ゴリパラ見聞録","fullTitle":"ゴリパラ見聞録[Ｓ]","detail":"","start":1553014800000,"end":1553016600000,"seconds":1800,"channel":{"type":"GR","channel":"32","name":"テレ玉１","id":"1hes13s","sid":29752,"nid":32295,"hasLogoData":true,"n":11},"subTitle":"","episode":null,"flags":[]}
+{
+  "id": "36h6jr1lg0",
+  "category": "variety",
+  "title": "ゴリパラ見聞録",
+  "fullTitle": "ゴリパラ見聞録[Ｓ]",
+  "detail": "",
+  "start": 1553014800000,
+  "end": 1553016600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,1 +1,30 @@
-{"id":"381f5kslky","category":"news","title":"視点・論点","fullTitle":"視点・論点「米・イラン　対話はなるか」[字][再]","detail":"慶應義塾大学教授…田中浩一郎\n◇出演者\n【出演】慶應義塾大学教授…田中浩一郎","start":1560365400000,"end":1560366000000,"seconds":600,"description":"慶應義塾大学教授…田中浩一郎","extra":{"出演者":"【出演】慶應義塾大学教授…田中浩一郎"},"channel":{"type":"GR","channel":"27","name":"ＮＨＫ総合１・東京","id":"1i50mps","sid":1024,"nid":32736,"hasLogoData":true,"n":0},"subTitle":"米・イラン　対話はなるか","episode":null,"flags":["字","再"]}
+{
+  "id": "381f5kslky",
+  "category": "news",
+  "title": "視点・論点",
+  "fullTitle": "視点・論点「米・イラン　対話はなるか」[字][再]",
+  "detail": "慶應義塾大学教授…田中浩一郎\n◇出演者\n【出演】慶應義塾大学教授…田中浩一郎",
+  "start": 1560365400000,
+  "end": 1560366000000,
+  "seconds": 600,
+  "description": "慶應義塾大学教授…田中浩一郎",
+  "extra": {
+    "出演者": "【出演】慶應義塾大学教授…田中浩一郎"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "米・イラン　対話はなるか",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

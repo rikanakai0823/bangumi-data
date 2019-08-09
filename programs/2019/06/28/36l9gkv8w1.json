@@ -1,1 +1,25 @@
-{"id":"36l9gkv8w1","category":"music","title":"歌う！セールスマン▽安倍里葎子","fullTitle":"歌う！セールスマン[再]▽【ゲスト】安倍里葎子","detail":"歌の営業会議・楽曲のプレゼン・加門亮のＭｏｏｄｙ　Ｗｏｒｌｄ・ゲストコーナー・今週のイチオシ【出演者】山崎ていじ・大下香奈【ゲスト】安倍里葎子","start":1561690800000,"end":1561692600000,"seconds":1800,"channel":{"type":"GR","channel":"30","name":"チバテレ１","id":"1hgokns","sid":27704,"nid":32327,"hasLogoData":true,"n":9},"subTitle":"ゲスト","episode":null,"flags":["再"]}
+{
+  "id": "36l9gkv8w1",
+  "category": "music",
+  "title": "歌う！セールスマン▽安倍里葎子",
+  "fullTitle": "歌う！セールスマン[再]▽【ゲスト】安倍里葎子",
+  "detail": "歌の営業会議・楽曲のプレゼン・加門亮のＭｏｏｄｙ　Ｗｏｒｌｄ・ゲストコーナー・今週のイチオシ【出演者】山崎ていじ・大下香奈【ゲスト】安倍里葎子",
+  "start": 1561690800000,
+  "end": 1561692600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
