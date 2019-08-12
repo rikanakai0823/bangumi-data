@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkxhhv",
+  "category": "sports",
+  "title": "マリーンズナイター",
+  "fullTitle": "マリーンズナイター",
+  "detail": "【実況】喜谷知純　【解説】倉持　明　【球場】ＺＯＺＯマリン",
+  "start": 1566292500000,
+  "end": 1566295200000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
