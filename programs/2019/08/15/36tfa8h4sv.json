@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "プレミアムあらごし【飲料】\n◇お知らせ\n0120-601-430",
   "start": 1565814600000,
   "end": 1565816400000,
   "seconds": 1800,
+  "description": "プレミアムあらごし【飲料】",
+  "extra": {
+    "お知らせ": "0120-601-430"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "飲料",
   "episode": null,
   "flags": []
 }

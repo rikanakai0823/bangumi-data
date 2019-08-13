@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkxhkf",
+  "category": "sports",
+  "title": "マリーンズナイター",
+  "fullTitle": "マリーンズナイター",
+  "detail": "【実況】黒沢幸司　【解説】里崎智也　【球場】ＺＯＺＯマリン",
+  "start": 1566378900000,
+  "end": 1566381600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
