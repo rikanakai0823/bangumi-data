@@ -1,12 +1,12 @@
 {
   "id": "381f5ks6gt",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「台風１０号」関連[字]",
   "detail": "【キャスター】赤松俊理\n◇出演者\n【キャスター】赤松俊理",
   "start": 1565838300000,
-  "end": 1565839500000,
-  "seconds": 1200,
+  "end": 1565840700000,
+  "seconds": 2400,
   "description": "【キャスター】赤松俊理",
   "extra": {
     "出演者": "【キャスター】赤松俊理"
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "キャスター",
+  "subTitle": "台風１０号",
   "episode": null,
   "flags": [
     "字"

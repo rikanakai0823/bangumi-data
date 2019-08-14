@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "最前線！密着警察２４時",
   "fullTitle": "最前線！密着警察２４時[字]",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/program/keisatsu24ji_20190821.html",
   "start": 1566385200000,
   "end": 1566392220000,
   "seconds": 7020,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/program/keisatsu24ji_20190821.html\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
