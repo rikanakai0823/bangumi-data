@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ステップエイト　豪華プレミアムセット【ハシゴ】\n◇お知らせ\n0800-999-0999",
   "start": 1566037800000,
   "end": 1566039600000,
   "seconds": 1800,
+  "description": "ステップエイト　豪華プレミアムセット【ハシゴ】",
+  "extra": {
+    "お知らせ": "0800-999-0999"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "ハシゴ",
   "episode": null,
   "flags": []
 }
