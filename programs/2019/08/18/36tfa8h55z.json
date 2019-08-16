@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "ジニエ　シークレットブラ【アンダーウェア】\n◇お知らせ\n0120-1313-00",
   "start": 1566072000000,
   "end": 1566073800000,
   "seconds": 1800,
+  "description": "ジニエ　シークレットブラ【アンダーウェア】",
+  "extra": {
+    "お知らせ": "0120-1313-00"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "アンダーウェア",
   "episode": null,
   "flags": []
 }
