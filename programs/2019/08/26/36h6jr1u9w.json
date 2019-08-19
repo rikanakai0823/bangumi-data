@@ -2,11 +2,15 @@
   "id": "36h6jr1u9w",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nスレンダートーンコア　　　　　　　　　　０１２０－５５－７８２７",
   "start": 1566797400000,
   "end": 1566799200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "スレンダートーンコア　　　　　　　　　　０１２０－５５－７８２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
