@@ -2,7 +2,7 @@
   "id": "36tfa8h68s",
   "category": "variety",
   "title": "のぶ旅ハワイ　ｗｉｔｈ　ＷＡＶＥ！！",
-  "fullTitle": "のぶ旅ハワイ　ｗｉｔｈ　ＷＡＶＥ！！",
+  "fullTitle": "のぶ旅ハワイ　ｗｉｔｈ　ＷＡＶＥ！！[終]",
   "detail": " ",
   "start": 1566749100000,
   "end": 1566750000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }
