@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「東京中日スポーツ賞」",
+  "detail": "「新涼賞」「東京中日スポーツ賞」「葉月賞」\n◇出演者\n【MC】\r\n前半：福井セリナ\r\n後半：田中　歩\r\n【解説】\r\n大木尚文（競馬ブック）",
   "start": 1566800400000,
   "end": 1566820800000,
   "seconds": 20400,
+  "description": "「新涼賞」「東京中日スポーツ賞」「葉月賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：福井セリナ\r\n後半：田中　歩\r\n【解説】\r\n大木尚文（競馬ブック）"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "東京中日スポーツ賞",
+  "subTitle": "",
   "episode": null,
   "flags": []
 }
