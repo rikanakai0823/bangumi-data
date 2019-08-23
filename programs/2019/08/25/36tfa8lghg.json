@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "セブンスピロー【枕】\n◇お知らせ\n0120-409601",
   "start": 1566684000000,
   "end": 1566685800000,
   "seconds": 1800,
+  "description": "セブンスピロー【枕】",
+  "extra": {
+    "お知らせ": "0120-409601"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "枕",
   "episode": null,
   "flags": []
 }

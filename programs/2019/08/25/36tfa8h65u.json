@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "ゆらこ【エクササイズグッズ】\n◇お知らせ\n0120-115524",
   "start": 1566716400000,
   "end": 1566718200000,
   "seconds": 1800,
+  "description": "ゆらこ【エクササイズグッズ】",
+  "extra": {
+    "お知らせ": "0120-115524"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "エクササイズグッズ",
   "episode": null,
   "flags": []
 }

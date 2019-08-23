@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "キューブ【マッサージ機】\n◇お知らせ\n0120-919-239",
   "start": 1566698400000,
   "end": 1566700200000,
   "seconds": 1800,
+  "description": "キューブ【マッサージ機】",
+  "extra": {
+    "お知らせ": "0120-919-239"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "マッサージ機",
   "episode": null,
   "flags": []
 }
