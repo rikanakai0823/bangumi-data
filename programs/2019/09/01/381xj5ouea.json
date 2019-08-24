@@ -1,0 +1,29 @@
+{
+  "id": "381xj5ouea",
+  "category": "information",
+  "title": "Ｍｒ．サンデーＳＰ（仮）",
+  "fullTitle": "Ｍｒ．サンデーＳＰ（仮）[字]",
+  "detail": "◇おしらせ\n「２０１９世界柔道選手権　男女混合団体」延長の際、放送時間繰り下げの場合あり。",
+  "start": 1567339200000,
+  "end": 1567346940000,
+  "seconds": 7740,
+  "description": "",
+  "extra": {
+    "おしらせ": "「２０１９世界柔道選手権　男女混合団体」延長の際、放送時間繰り下げの場合あり。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
