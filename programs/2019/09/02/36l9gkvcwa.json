@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkvcwa",
+  "category": "drama",
+  "title": "ねこばん",
+  "fullTitle": "ねこばん[再]",
+  "detail": "【サブタイトル】猫は、どんなに小さくても最高傑作である　【出演】伊武雅刀",
+  "start": 1567353600000,
+  "end": 1567355400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
