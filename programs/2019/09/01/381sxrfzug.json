@@ -1,14 +1,16 @@
 {
   "id": "381sxrfzug",
   "category": "information",
-  "title": "メトログ",
-  "fullTitle": "メトログ[字]",
-  "detail": "「メトログ」は、東京メトロ沿線のお出かけスポットを紹介する情報番組です。\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
+  "title": "メトログクレージーケンバンド横山剣が赤坂のしゃぶしゃぶを紹介！",
+  "fullTitle": "メトログ[字]クレージーケンバンド横山剣が赤坂のしゃぶしゃぶを紹介！ ",
+  "detail": "クレージーケンバンド横山剣が東京メトロ赤坂駅の再発見スポット＆おすすめ店を紹介▽フォアグラを使った絶品スイーツ\n◇番組内容\n赤坂駅\r\n\n◇出演者\n横山剣（クレージーケンバンド）\r\n\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
   "start": 1567305600000,
   "end": 1567305900000,
   "seconds": 300,
-  "description": "「メトログ」は、東京メトロ沿線のお出かけスポットを紹介する情報番組です。",
+  "description": "クレージーケンバンド横山剣が東京メトロ赤坂駅の再発見スポット＆おすすめ店を紹介▽フォアグラを使った絶品スイーツ",
   "extra": {
+    "番組内容": "赤坂駅\r\n",
+    "出演者": "横山剣（クレージーケンバンド）\r\n",
     "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n",
     "おことわり": "番組の内容と放送時間は、変更になる場合があります。\r\n"
   },
@@ -22,7 +24,7 @@
     "hasLogoData": true,
     "n": 22
   },
-  "subTitle": "メトログ",
+  "subTitle": "",
   "episode": null,
   "flags": [
     "字"

@@ -3,10 +3,15 @@
   "category": "music",
   "title": "津吹みゆと一条貫太のこちら最新歌謡曲",
   "fullTitle": "津吹みゆと一条貫太のこちら最新歌謡曲[Ｓ]",
-  "detail": "",
+  "detail": "チェウニ\n◇番組内容\nチェウニ\n◇出演者\nチェウニ",
   "start": 1567384200000,
   "end": 1567386000000,
   "seconds": 1800,
+  "description": "チェウニ",
+  "extra": {
+    "番組内容": "チェウニ",
+    "出演者": "チェウニ"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

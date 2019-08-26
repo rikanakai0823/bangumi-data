@@ -3,10 +3,15 @@
   "category": "music",
   "title": "西川ひとみの歌日和",
   "fullTitle": "西川ひとみの歌日和[Ｓ]",
-  "detail": "",
+  "detail": "高城ゆり\n◇番組内容\n高城ゆり\n◇出演者\n高城ゆり",
   "start": 1567296000000,
   "end": 1567296900000,
   "seconds": 900,
+  "description": "高城ゆり",
+  "extra": {
+    "番組内容": "高城ゆり",
+    "出演者": "高城ゆり"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
