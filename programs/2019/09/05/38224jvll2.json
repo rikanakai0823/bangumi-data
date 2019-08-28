@@ -1,0 +1,31 @@
+{
+  "id": "38224jvll2",
+  "category": "variety",
+  "title": "徹子の部屋　佐良直美",
+  "fullTitle": "徹子の部屋　佐良直美[解][字]",
+  "detail": "～１３０匹の保護犬猫と暮らし～佐良直美さんが今日のゲストです。\n◇◇ゲスト\n佐良直美さんがゲスト。\n◇◇おしらせ\n☆『徹子の部屋』番組ＨＰ\r\n　http://www.tv-asahi.co.jp/tetsuko/",
+  "start": 1567652400000,
+  "end": 1567654200000,
+  "seconds": 1800,
+  "description": "～１３０匹の保護犬猫と暮らし～佐良直美さんが今日のゲストです。",
+  "extra": {
+    "◇ゲスト": "佐良直美さんがゲスト。",
+    "◇おしらせ": "☆『徹子の部屋』番組ＨＰ\r\n　http://www.tv-asahi.co.jp/tetsuko/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
