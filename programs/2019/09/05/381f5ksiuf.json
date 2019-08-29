@@ -1,12 +1,12 @@
 {
   "id": "381f5ksiuf",
   "category": "etc",
-  "title": "ミッドナイトチャンネル",
-  "fullTitle": "ミッドナイトチャンネル",
+  "title": "みちのくモノがたり",
+  "fullTitle": "みちのくモノがたり",
   "detail": "",
   "start": 1567620780000,
-  "end": 1567622580000,
-  "seconds": 1800,
+  "end": 1567620900000,
+  "seconds": 120,
   "channel": {
     "type": "GR",
     "channel": "27",

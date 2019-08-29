@@ -3,10 +3,15 @@
   "category": "sports",
   "title": "ＢＡＣＨプラザ",
   "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
-  "detail": "",
+  "detail": "「大宮競輪」\n◇番組内容\n▽大宮競輪：スポーツニッポン新聞社杯争奪戦・初日\n◇出演者\n井上英里香",
   "start": 1567431000000,
   "end": 1567432800000,
   "seconds": 1800,
+  "description": "「大宮競輪」",
+  "extra": {
+    "番組内容": "▽大宮競輪：スポーツニッポン新聞社杯争奪戦・初日",
+    "出演者": "井上英里香"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
+  "subTitle": "大宮競輪",
   "episode": null,
   "flags": []
 }

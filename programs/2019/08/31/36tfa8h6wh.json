@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "フラバンジェノール　７日間集中ケアセット【化粧品】\n◇お知らせ\n0120-409-409",
   "start": 1567206000000,
   "end": 1567207800000,
   "seconds": 1800,
+  "description": "フラバンジェノール　７日間集中ケアセット【化粧品】",
+  "extra": {
+    "お知らせ": "0120-409-409"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }

@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "おもいでばこ【デジタルフォトアルバム】\n◇お知らせ\n0120-012-249",
   "start": 1567125000000,
   "end": 1567126800000,
   "seconds": 1800,
+  "description": "おもいでばこ【デジタルフォトアルバム】",
+  "extra": {
+    "お知らせ": "0120-012-249"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "デジタルフォトアルバム",
   "episode": null,
   "flags": []
 }
