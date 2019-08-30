@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "コンフォートクリックベルト【ベルト】\n◇お知らせ\n0120-888-654",
   "start": 1567281600000,
   "end": 1567283400000,
   "seconds": 1800,
+  "description": "コンフォートクリックベルト【ベルト】",
+  "extra": {
+    "お知らせ": "0120-888-654"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "ベルト",
   "episode": null,
   "flags": []
 }

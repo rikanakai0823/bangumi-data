@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ゆらこ【エクササイズグッズ】\n◇お知らせ\n0120-334114",
   "start": 1567423800000,
   "end": 1567425600000,
   "seconds": 1800,
+  "description": "ゆらこ【エクササイズグッズ】",
+  "extra": {
+    "お知らせ": "0120-334114"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "エクササイズグッズ",
   "episode": null,
   "flags": []
 }
