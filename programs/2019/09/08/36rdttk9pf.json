@@ -1,0 +1,23 @@
+{
+  "id": "36rdttk9pf",
+  "category": "news",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ",
+  "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「ディズニーオンアイス２０１９」",
+  "detail": "県内の天気予報",
+  "start": 1567936500000,
+  "end": 1567936800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "ディズニーオンアイス２０１９",
+  "episode": null,
+  "flags": []
+}
