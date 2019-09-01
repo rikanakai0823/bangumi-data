@@ -1,0 +1,30 @@
+{
+  "id": "36h6jr1v2o",
+  "category": "music",
+  "title": "カラオケ１ばん",
+  "fullTitle": "カラオケ１ばん[Ｓ][再]",
+  "detail": "ゲスト　北川大介　津吹みゆ\n◇番組内容\nゲスト　北川大介　津吹みゆ\n◇出演者\n司会：岸田敏志　永井みゆき",
+  "start": 1568000100000,
+  "end": 1568003400000,
+  "seconds": 3300,
+  "description": "ゲスト　北川大介　津吹みゆ",
+  "extra": {
+    "番組内容": "ゲスト　北川大介　津吹みゆ",
+    "出演者": "司会：岸田敏志　永井みゆき"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
