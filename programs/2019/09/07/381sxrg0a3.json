@@ -3,10 +3,14 @@
   "category": "information",
   "title": "芸能人が人気商品を○○してみた！～今買わなくて、いつ買うの！？ＳＰ～",
   "fullTitle": "芸能人が人気商品を○○してみた！～今買わなくて、いつ買うの！？ＳＰ～[解][字]",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://ishop.tbs.co.jp/tbs/tvradio/marumaru/",
   "start": 1567839600000,
   "end": 1567843200000,
   "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://ishop.tbs.co.jp/tbs/tvradio/marumaru/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",

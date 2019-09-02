@@ -1,0 +1,28 @@
+{
+  "id": "38224jvme3",
+  "category": "variety",
+  "title": "テレビ千鳥",
+  "fullTitle": "テレビ千鳥",
+  "detail": "千鳥の面白さを存分に楽しめるロケバラエティ。\n◇◇出演者\n千鳥\n◇◇おしらせ\n☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/tvchidori/",
+  "start": 1568048340000,
+  "end": 1568049840000,
+  "seconds": 1500,
+  "description": "千鳥の面白さを存分に楽しめるロケバラエティ。",
+  "extra": {
+    "◇出演者": "千鳥",
+    "◇おしらせ": "☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/tvchidori/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

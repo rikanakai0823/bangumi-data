@@ -2,11 +2,15 @@
   "id": "36h6jr1uwk",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nミラクルカット　　　　　　　　　　　　　０１２０－４４－００２７",
   "start": 1567764000000,
   "end": 1567765800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ミラクルカット　　　　　　　　　　　　　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
