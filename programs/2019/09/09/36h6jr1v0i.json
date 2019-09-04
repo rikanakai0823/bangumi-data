@@ -3,10 +3,15 @@
   "category": "music",
   "title": "ＳＳＣ５",
   "fullTitle": "ＳＳＣ５[Ｓ]",
-  "detail": "",
+  "detail": "緑黄色社会「想い人」\n◇番組内容\n緑黄色社会「想い人」\n◇出演者\n緑黄色社会「想い人」",
   "start": 1567958700000,
   "end": 1567959000000,
   "seconds": 300,
+  "description": "緑黄色社会「想い人」",
+  "extra": {
+    "番組内容": "緑黄色社会「想い人」",
+    "出演者": "緑黄色社会「想い人」"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
+  "subTitle": "想い人",
   "episode": null,
   "flags": []
 }

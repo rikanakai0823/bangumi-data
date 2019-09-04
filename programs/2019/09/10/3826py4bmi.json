@@ -3,13 +3,13 @@
   "category": "music",
   "title": "プレミアＭｅｌｏｄｉＸ！",
   "fullTitle": "プレミアＭｅｌｏｄｉＸ！",
-  "detail": "【ゲスト】OAU【ナビゲーター】南海キャンディーズ\n◇番組内容\n【ナビゲーター】南海キャンディーズ\n◇関連情報\n【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪",
+  "detail": "【ゲスト】OAU、福原遥、FANTASTICS　from　EXILE　TRIBE、LACCO　TOWER\r\n【ナビゲーター】南海キャンディーズ\n◇番組内容\n【ゲスト】\r\nOAU♪帰り道\r\n福原遥♪未完成な光たち\r\nFANTASTICS　from　EXILE　TRIBE♪Dear　Destiny\r\nLACCO　TOWER♪若者\r\n\r\n【ナビゲーター】南海キャンディーズ\n◇関連情報\n【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪",
   "start": 1568049600000,
   "end": 1568051400000,
   "seconds": 1800,
-  "description": "【ゲスト】OAU【ナビゲーター】南海キャンディーズ",
+  "description": "【ゲスト】OAU、福原遥、FANTASTICS　from　EXILE　TRIBE、LACCO　TOWER\r\n【ナビゲーター】南海キャンディーズ",
   "extra": {
-    "番組内容": "【ナビゲーター】南海キャンディーズ",
+    "番組内容": "【ゲスト】\r\nOAU♪帰り道\r\n福原遥♪未完成な光たち\r\nFANTASTICS　from　EXILE　TRIBE♪Dear　Destiny\r\nLACCO　TOWER♪若者\r\n\r\n【ナビゲーター】南海キャンディーズ",
     "関連情報": "【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪"
   },
   "channel": {
@@ -22,7 +22,7 @@
     "hasLogoData": true,
     "n": 25
   },
-  "subTitle": "",
+  "subTitle": "ゲスト",
   "episode": null,
   "flags": []
 }
