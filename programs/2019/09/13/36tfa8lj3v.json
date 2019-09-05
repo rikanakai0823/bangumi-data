@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8lj3v",
+  "category": "anime",
+  "title": "スポンジ・ボブ",
+  "fullTitle": "スポンジ・ボブ[再][二]",
+  "detail": "＃５９「失われたエピソード」「飛べ、トリおとこ！」",
+  "start": 1568361600000,
+  "end": 1568363400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "失われたエピソード",
+  "episode": 59,
+  "flags": [
+    "再",
+    "二"
+  ]
+}

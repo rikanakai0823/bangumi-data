@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7wmd",
+  "category": "information",
+  "title": "情報ライブ　ミヤネ屋",
+  "fullTitle": "情報ライブ　ミヤネ屋[字]",
+  "detail": "ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！",
+  "start": 1568350500000,
+  "end": 1568357400000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -2,11 +2,15 @@
   "id": "36h6jr1v7b",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nフォーサ　　　　　　　　　　　　　　　　０１２０－４４－００２７",
   "start": 1568286000000,
   "end": 1568287800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "フォーサ　　　　　　　　　　　　　　　　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

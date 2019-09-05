@@ -3,10 +3,15 @@
   "category": "sports",
   "title": "ＢＡＣＨプラザ",
   "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
-  "detail": "",
+  "detail": "「川口オート」\n◇番組内容\n▽川口オート：川口市営第８回１節・初日\n◇出演者\n堂前英男",
   "start": 1567863000000,
   "end": 1567864800000,
   "seconds": 1800,
+  "description": "「川口オート」",
+  "extra": {
+    "番組内容": "▽川口オート：川口市営第８回１節・初日",
+    "出演者": "堂前英男"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
+  "subTitle": "川口オート",
   "episode": null,
   "flags": []
 }

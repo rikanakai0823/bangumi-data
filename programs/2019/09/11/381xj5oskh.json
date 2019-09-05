@@ -1,8 +1,8 @@
 {
   "id": "381xj5oskh",
   "category": "drama",
-  "title": "ルパンの娘＜Ｔナイト＞",
-  "fullTitle": "ルパンの娘＜Ｔナイト＞",
+  "title": "ルパンの娘＜Ｔナイト＞，７",
+  "fullTitle": "ルパンの娘＜Ｔナイト＞＃６，７[再]",
   "detail": "",
   "start": 1568135700000,
   "end": 1568141700000,
@@ -18,6 +18,8 @@
     "n": 28
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 6,
+  "flags": [
+    "再"
+  ]
 }
