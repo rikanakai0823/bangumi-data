@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8lje1",
+  "category": "documentary",
+  "title": "日本のチカラ",
+  "fullTitle": "日本のチカラ[字]",
+  "detail": "Ｔｅｌｌ　ｍｅ　Ａｏｍｏｒｉ－青森と世界をつなぐ翻訳アプリ－",
+  "start": 1568523600000,
+  "end": 1568525400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
