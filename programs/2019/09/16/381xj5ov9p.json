@@ -1,0 +1,25 @@
+{
+  "id": "381xj5ov9p",
+  "category": "sports",
+  "title": "空手プレミアリーグ　東京大会（仮）",
+  "fullTitle": "空手プレミアリーグ　東京大会（仮）[字]",
+  "detail": "",
+  "start": 1568616600000,
+  "end": 1568620200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

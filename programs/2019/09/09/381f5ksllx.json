@@ -1,12 +1,12 @@
 {
   "id": "381f5ksllx",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報",
-  "detail": "",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「台風１５号」関連[字]",
+  "detail": "▽最新情報　▽台風進路図",
   "start": 1567954800000,
-  "end": 1567955100000,
-  "seconds": 300,
+  "end": 1567971000000,
+  "seconds": 16200,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "台風１５号",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
