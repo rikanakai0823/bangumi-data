@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "スレンダートーン　フィットプラス【エクササイズグッズ】\n◇お知らせ\n0120-722096",
   "start": 1568089800000,
   "end": 1568091600000,
   "seconds": 1800,
+  "description": "スレンダートーン　フィットプラス【エクササイズグッズ】",
+  "extra": {
+    "お知らせ": "0120-722096"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "エクササイズグッズ",
   "episode": null,
   "flags": []
 }
