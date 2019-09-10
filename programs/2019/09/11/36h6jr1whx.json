@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ＴＶショッピング・ドクターリセラ　テレビショッピング",
   "fullTitle": "ＴＶショッピング・ドクターリセラ　テレビショッピング[Ｓ]",
-  "detail": "",
+  "detail": "「透輝の滴」人生が変わるスキンケア篇\n◇番組内容\n透輝の滴　　　　　　　　　　　　　　　　０１２０－１８７－１８７",
   "start": 1568168700000,
   "end": 1568170500000,
   "seconds": 1800,
+  "description": "「透輝の滴」人生が変わるスキンケア篇",
+  "extra": {
+    "番組内容": "透輝の滴　　　　　　　　　　　　　　　　０１２０－１８７－１８７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
+  "subTitle": "透輝の滴",
   "episode": null,
   "flags": []
 }
