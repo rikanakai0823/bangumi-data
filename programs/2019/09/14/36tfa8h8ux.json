@@ -2,7 +2,7 @@
   "id": "36tfa8h8ux",
   "category": "documentary",
   "title": "日本の祭り傑作選",
-  "fullTitle": "日本の祭り傑作選",
+  "fullTitle": "日本の祭り傑作選[字]",
   "detail": "高知県・いなきさんのスピリット～八代青年奉納歌舞伎～",
   "start": 1568430000000,
   "end": 1568433300000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

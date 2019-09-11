@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "エアヨーン【ベッド】\n◇お知らせ\n0800-999-0999",
   "start": 1568316600000,
   "end": 1568318400000,
   "seconds": 1800,
+  "description": "エアヨーン【ベッド】",
+  "extra": {
+    "お知らせ": "0800-999-0999"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "ベッド",
   "episode": null,
   "flags": []
 }
