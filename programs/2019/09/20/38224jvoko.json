@@ -1,0 +1,25 @@
+{
+  "id": "38224jvoko",
+  "category": "variety",
+  "title": "ポロリ記念館",
+  "fullTitle": "ポロリ記念館[字]",
+  "detail": "思わずポロリとくるいい話をお届けします！",
+  "start": 1568988900000,
+  "end": 1568992500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

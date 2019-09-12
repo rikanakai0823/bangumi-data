@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7wr3",
+  "category": "variety",
+  "title": "地獄絵図グランプリ",
+  "fullTitle": "地獄絵図グランプリ[字]",
+  "detail": "地獄絵図グランプリ",
+  "start": 1568905740000,
+  "end": 1568909040000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

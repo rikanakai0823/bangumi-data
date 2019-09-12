@@ -3,10 +3,14 @@
   "category": "information",
   "title": "番組ナビ",
   "fullTitle": "番組ナビ[字]",
-  "detail": "",
+  "detail": "９月１４日（土）よる１０時放送の土曜ドラマ「ボイス」第９話の見どころをナビゲートします。\n◇出演者\n【ナレーター】延友陽子（日テレアナウンサー）",
   "start": 1568447700000,
   "end": 1568448000000,
   "seconds": 300,
+  "description": "９月１４日（土）よる１０時放送の土曜ドラマ「ボイス」第９話の見どころをナビゲートします。",
+  "extra": {
+    "出演者": "【ナレーター】延友陽子（日テレアナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,8 +21,8 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "ボイス",
+  "episode": 9,
   "flags": [
     "字"
   ]
