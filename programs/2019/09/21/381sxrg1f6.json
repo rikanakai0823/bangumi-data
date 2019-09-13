@@ -1,0 +1,25 @@
+{
+  "id": "381sxrg1f6",
+  "category": "information",
+  "title": "「ウチの子、ニッポンで元気ですか？」ナビ",
+  "fullTitle": "「ウチの子、ニッポンで元気ですか？」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1569045600000,
+  "end": 1569049200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

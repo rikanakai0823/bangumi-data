@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7wsf",
+  "category": "sports",
+  "title": "ラグビーワールドカップ２０１９",
+  "fullTitle": "ラグビーワールドカップ２０１９「フランス×アルゼンチン　NZ×南アフリカ」[字][デ]",
+  "detail": "※最大延長15分",
+  "start": 1569049200000,
+  "end": 1569066840000,
+  "seconds": 17640,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "フランス×アルゼンチン　NZ×南アフリカ",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

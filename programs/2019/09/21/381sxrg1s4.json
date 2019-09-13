@@ -1,0 +1,29 @@
+{
+  "id": "381sxrg1s4",
+  "category": "sports",
+  "title": "いよいよ６日後開幕！世界陸上生放送ＳＰ",
+  "fullTitle": "いよいよ６日後開幕！世界陸上生放送ＳＰ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/seriku/",
+  "start": 1569049200000,
+  "end": 1569052800000,
+  "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/seriku/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
