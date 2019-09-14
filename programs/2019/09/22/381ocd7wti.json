@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7wti",
+  "category": "sports",
+  "title": "ラグビーワールドカップ２０１９日本大会",
+  "fullTitle": "ラグビーワールドカップ２０１９日本大会「アイルランド×スコットランド」[字][デ]",
+  "detail": "",
+  "start": 1569137400000,
+  "end": 1569146100000,
+  "seconds": 8700,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "アイルランド×スコットランド",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
