@@ -1,0 +1,23 @@
+{
+  "id": "381jqz0ofp",
+  "category": "etc",
+  "title": "エイゴビート２",
+  "fullTitle": "エイゴビート２",
+  "detail": "",
+  "start": 1569200400000,
+  "end": 1569201000000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

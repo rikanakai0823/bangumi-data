@@ -1,0 +1,29 @@
+{
+  "id": "36h6jr1vwa",
+  "category": "music",
+  "title": "カラオケ１ばん",
+  "fullTitle": "カラオケ１ばん[Ｓ][再]",
+  "detail": "ゲスト：羽山みずき\n◇出演者\n司会：岸田敏志　みずき舞",
+  "start": 1569209700000,
+  "end": 1569213000000,
+  "seconds": 3300,
+  "description": "ゲスト：羽山みずき",
+  "extra": {
+    "出演者": "司会：岸田敏志　みずき舞"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
