@@ -1,0 +1,25 @@
+{
+  "id": "3826py4c5i",
+  "category": "information",
+  "title": "買物の時間ｍｉｎｉ",
+  "fullTitle": "買物の時間ｍｉｎｉ[字]",
+  "detail": "生活に役立つ商品を紹介する通販番組",
+  "start": 1569313200000,
+  "end": 1569313800000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
