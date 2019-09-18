@@ -1,0 +1,28 @@
+{
+  "id": "36h6jr1vxu",
+  "category": "music",
+  "title": "歌謡アプリ",
+  "fullTitle": "歌謡アプリ[Ｓ]",
+  "detail": "氷川きよし\n◇番組内容\n氷川きよし\n◇出演者\n氷川きよし",
+  "start": 1569304800000,
+  "end": 1569305100000,
+  "seconds": 300,
+  "description": "氷川きよし",
+  "extra": {
+    "番組内容": "氷川きよし",
+    "出演者": "氷川きよし"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

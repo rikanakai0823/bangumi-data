@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7wvs",
+  "category": "sports",
+  "title": "ラグビーＷ杯②",
+  "fullTitle": "ラグビーＷ杯②[再]",
+  "detail": "",
+  "start": 1569436740000,
+  "end": 1569437040000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

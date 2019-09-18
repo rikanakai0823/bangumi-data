@@ -1,14 +1,16 @@
 {
   "id": "381sxrg0z9",
   "category": "information",
-  "title": "メトログ",
-  "fullTitle": "メトログ[字]",
-  "detail": "「メトログ」は、東京メトロ沿線のお出かけスポットを紹介する情報番組です。\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
+  "title": "メトログ▽岡田義徳が表参道の本格麻婆豆腐を紹介！",
+  "fullTitle": "メトログ[字]▽岡田義徳が表参道の本格麻婆豆腐を紹介！",
+  "detail": "岡田義徳が東京メトロ表参道駅の再発見スポット＆おすすめ店を紹介▼オリジナル豆板醤が決め手！土鍋で食べる本格麻婆豆腐\n◇番組内容\n表参道\r\n\n◇出演者\n岡田義徳\r\n\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
   "start": 1569120000000,
   "end": 1569120300000,
   "seconds": 300,
-  "description": "「メトログ」は、東京メトロ沿線のお出かけスポットを紹介する情報番組です。",
+  "description": "岡田義徳が東京メトロ表参道駅の再発見スポット＆おすすめ店を紹介▼オリジナル豆板醤が決め手！土鍋で食べる本格麻婆豆腐",
   "extra": {
+    "番組内容": "表参道\r\n",
+    "出演者": "岡田義徳\r\n",
     "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n",
     "おことわり": "番組の内容と放送時間は、変更になる場合があります。\r\n"
   },
@@ -22,7 +24,7 @@
     "hasLogoData": true,
     "n": 22
   },
-  "subTitle": "メトログ",
+  "subTitle": "",
   "episode": null,
   "flags": [
     "字"

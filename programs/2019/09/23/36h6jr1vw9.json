@@ -3,10 +3,15 @@
   "category": "music",
   "title": "歌謡アプリ",
   "fullTitle": "歌謡アプリ[Ｓ]",
-  "detail": "",
+  "detail": "氷川きよし\n◇番組内容\n氷川きよし\n◇出演者\n氷川きよし",
   "start": 1569209400000,
   "end": 1569209700000,
   "seconds": 300,
+  "description": "氷川きよし",
+  "extra": {
+    "番組内容": "氷川きよし",
+    "出演者": "氷川きよし"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

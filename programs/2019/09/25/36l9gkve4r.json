@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkve4r",
+  "category": "music",
+  "title": "ザ・カラオケトライアル大川栄策",
+  "fullTitle": "ザ・カラオケトライアル[再]【ゲスト】大川栄策",
+  "detail": "【ゲスト】大川栄策　【審査委員長】徳久広司　　【司会】栗田貫一、藤澤希未",
+  "start": 1569409200000,
+  "end": 1569412800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
