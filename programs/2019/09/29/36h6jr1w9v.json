@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1w9v",
+  "category": "news",
+  "title": "ふれあい戸田",
+  "fullTitle": "ふれあい戸田[字][Ｓ]",
+  "detail": "『第４５回  戸田ふるさと祭り』～戸田の伝統・文化を次世代へ～",
+  "start": 1569716100000,
+  "end": 1569716700000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "戸田ふるさと祭り』～戸田の伝統・文化を次世代へ～",
+  "episode": 45,
+  "flags": [
+    "字"
+  ]
+}

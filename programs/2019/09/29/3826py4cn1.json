@@ -1,0 +1,29 @@
+{
+  "id": "3826py4cn1",
+  "category": "variety",
+  "title": "スピーチ特番",
+  "fullTitle": "スピーチ特番[字]",
+  "detail": "スピーチの技術を競う特別番組\n◇出演者\nＭＣ：須黒清華（テレビ東京アナウンサー）\r\n　　　ほか",
+  "start": 1569740400000,
+  "end": 1569744900000,
+  "seconds": 4500,
+  "description": "スピーチの技術を競う特別番組",
+  "extra": {
+    "出演者": "ＭＣ：須黒清華（テレビ東京アナウンサー）\r\n　　　ほか"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

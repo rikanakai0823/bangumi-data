@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": "プライベートジム【サービス】",
+  "detail": "プライベートジム【サービス】\n◇お知らせ\n0120-717-172",
   "start": 1569196800000,
   "end": 1569198600000,
   "seconds": 1800,
+  "description": "プライベートジム【サービス】",
+  "extra": {
+    "お知らせ": "0120-717-172"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

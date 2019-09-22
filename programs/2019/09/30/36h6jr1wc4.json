@@ -1,0 +1,29 @@
+{
+  "id": "36h6jr1wc4",
+  "category": "music",
+  "title": "カラオケ１ばん",
+  "fullTitle": "カラオケ１ばん[Ｓ][再]",
+  "detail": "ゲスト：チェウニ\n◇出演者\n司会：岸田敏志　みずき舞",
+  "start": 1569814500000,
+  "end": 1569817800000,
+  "seconds": 3300,
+  "description": "ゲスト：チェウニ",
+  "extra": {
+    "出演者": "司会：岸田敏志　みずき舞"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

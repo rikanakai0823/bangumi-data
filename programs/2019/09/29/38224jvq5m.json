@@ -1,0 +1,23 @@
+{
+  "id": "38224jvq5m",
+  "category": "sports",
+  "title": "オリンピックチャンネル",
+  "fullTitle": "オリンピックチャンネル",
+  "detail": "オリンピック過去大会の競技名シーンを放送！",
+  "start": 1569696900000,
+  "end": 1569697200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
