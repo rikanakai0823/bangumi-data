@@ -2,7 +2,7 @@
   "id": "36tfa8hadj",
   "category": "variety",
   "title": "とれたてミスジェニック",
-  "fullTitle": "とれたてミスジェニック",
+  "fullTitle": "とれたてミスジェニック[終]",
   "detail": " ",
   "start": 1569342900000,
   "end": 1569343200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }
