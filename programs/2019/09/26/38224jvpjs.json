@@ -14,12 +14,12 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "24",
+    "channel": "11",
     "name": "テレビ朝日",
     "id": "1i5bcjs",
     "sid": 1064,
     "nid": 32741,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 18
   },
   "subTitle": "",

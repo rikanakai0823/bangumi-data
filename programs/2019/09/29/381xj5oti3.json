@@ -15,12 +15,12 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "21",
+    "channel": "8",
     "name": "フジテレビ",
     "id": "1i597ds",
     "sid": 1056,
     "nid": 32740,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 28
   },
   "subTitle": "今何が！",

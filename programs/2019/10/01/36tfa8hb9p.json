@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8hb9p",
+  "category": "information",
+  "title": "お買い物情報",
+  "fullTitle": "お買い物情報",
+  "detail": " ",
+  "start": 1569884400000,
+  "end": 1569886200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": false,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

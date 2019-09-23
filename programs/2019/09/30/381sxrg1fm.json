@@ -1,0 +1,30 @@
+{
+  "id": "381sxrg1fm",
+  "category": "sports",
+  "title": "世界陸上ドーハ",
+  "fullTitle": "世界陸上ドーハ[字][デ]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/seriku/",
+  "start": 1569787200000,
+  "end": 1569790500000,
+  "seconds": 3300,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/seriku/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": false,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

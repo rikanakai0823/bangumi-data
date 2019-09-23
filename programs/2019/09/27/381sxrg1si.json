@@ -18,12 +18,12 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "22",
+    "channel": "9",
     "name": "ＴＢＳ１",
     "id": "1i5727s",
     "sid": 1048,
     "nid": 32739,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 22
   },
   "subTitle": "東京ＶＩＣＴＯＲＹ",

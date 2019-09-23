@@ -14,12 +14,12 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "16",
+    "channel": "3",
     "name": "ＴＯＫＹＯ　ＭＸ１",
     "id": "1hkhnrs",
     "sid": 23608,
     "nid": 32391,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 32
   },
   "subTitle": "ニュースの裏側",

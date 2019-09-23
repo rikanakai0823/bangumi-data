@@ -9,12 +9,12 @@
   "seconds": 6840,
   "channel": {
     "type": "GR",
-    "channel": "23",
+    "channel": "10",
     "name": "テレビ東京１",
     "id": "1i5dhps",
     "sid": 1072,
     "nid": 32742,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 25
   },
   "subTitle": "仰天！ワニ男の村＆崖の中に人が住む村に潜入",

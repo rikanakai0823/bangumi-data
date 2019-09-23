@@ -9,12 +9,12 @@
   "seconds": 2700,
   "channel": {
     "type": "GR",
-    "channel": "30",
+    "channel": "17",
     "name": "チバテレ２",
     "id": "1hgoknt",
     "sid": 27705,
     "nid": 32327,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 10
   },
   "subTitle": "",

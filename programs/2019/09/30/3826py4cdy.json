@@ -15,12 +15,12 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "23",
+    "channel": "10",
     "name": "テレビ東京１",
     "id": "1i5dhps",
     "sid": 1072,
     "nid": 32742,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 25
   },
   "subTitle": "かつての巨大ターミナル駅の今　万世橋駅",

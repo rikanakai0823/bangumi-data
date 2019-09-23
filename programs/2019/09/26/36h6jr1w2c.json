@@ -13,12 +13,12 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "32",
+    "channel": "19",
     "name": "テレ玉１",
     "id": "1hes13s",
     "sid": 29752,
     "nid": 32295,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 11
   },
   "subTitle": "ゲームの館殺人事件　ファイル１",
