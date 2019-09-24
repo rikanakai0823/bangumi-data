@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "プライベートジム【サービス】\n◇お知らせ\n0120-717-172",
   "start": 1569380400000,
   "end": 1569382140000,
   "seconds": 1740,
+  "description": "プライベートジム【サービス】",
+  "extra": {
+    "お知らせ": "0120-717-172"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -14,10 +18,10 @@
     "id": "1hkhnrs",
     "sid": 23608,
     "nid": 32391,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "サービス",
   "episode": null,
   "flags": []
 }

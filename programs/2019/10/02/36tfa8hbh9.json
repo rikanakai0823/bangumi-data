@@ -1,0 +1,29 @@
+{
+  "id": "36tfa8hbh9",
+  "category": "variety",
+  "title": "たびメイト　Ｓｅａｓｏｎ２",
+  "fullTitle": "[新]たびメイト　Ｓｅａｓｏｎ２",
+  "detail": "◇お知らせ\n【番組ホームページ】\r\nhttps://www.tabimate.com/\r\n【Twitter】\r\n@tabimate",
+  "start": 1570023000000,
+  "end": 1570024800000,
+  "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "お知らせ": "【番組ホームページ】\r\nhttps://www.tabimate.com/\r\n【Twitter】\r\n@tabimate"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

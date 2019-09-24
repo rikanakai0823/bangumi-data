@@ -2,11 +2,15 @@
   "id": "381f5ksuxm",
   "category": "news",
   "title": "視点・論点",
-  "fullTitle": "視点・論点[字][再]",
-  "detail": "▽政治や経済、国際関係から文化まで、さまざまなテーマを専門家や有識者がみずからの言葉で語る　▽各界の第一人者はもちろん、新進気鋭の論客も登場。",
+  "fullTitle": "視点・論点「ＤＶ虐待　加害者更生のために」[字][再]",
+  "detail": "立命館大学教授…中村正\n◇出演者\n【出演】立命館大学教授…中村正",
   "start": 1569437400000,
   "end": 1569438000000,
   "seconds": 600,
+  "description": "立命館大学教授…中村正",
+  "extra": {
+    "出演者": "【出演】立命館大学教授…中村正"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -14,10 +18,10 @@
     "id": "1i50mps",
     "sid": 1024,
     "nid": 32736,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "ＤＶ虐待　加害者更生のために",
   "episode": null,
   "flags": [
     "字",

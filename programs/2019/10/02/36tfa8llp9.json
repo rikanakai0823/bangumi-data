@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8llp9",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「東京盃（ＪｐｎⅡ）」「ニュートラック松山開設４周年記念」",
+  "start": 1569997200000,
+  "end": 1570017600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
