@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋▽ｓｐｅｃｉａｌ　ｅｄｉｔｉｏｎ",
   "fullTitle": "洋楽天国＋▽ｓｐｅｃｉａｌ　ｅｄｉｔｉｏｎ　＃１",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Don't Call Me Up\"MABEL\r\n\"Beautiful People\"ED SHEERAN feat.KHALID\r\n\"Harder\"JAX JONES & BEBE REXHA\r\n\"Worryin' Bout Me\"BJ THE CHICAGO KID feat.OFFSET\n◇番組内容２\n\"Blank Marquee\"YUNA feat.G-EAZY\r\n\"Small Talk\"KATY PERRY\r\n\"Lover\"TAYLOR SWIFT",
   "start": 1569722400000,
   "end": 1569724200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Don't Call Me Up\"MABEL\r\n\"Beautiful People\"ED SHEERAN feat.KHALID\r\n\"Harder\"JAX JONES & BEBE REXHA\r\n\"Worryin' Bout Me\"BJ THE CHICAGO KID feat.OFFSET",
+    "番組内容２": "\"Blank Marquee\"YUNA feat.G-EAZY\r\n\"Small Talk\"KATY PERRY\r\n\"Lover\"TAYLOR SWIFT"
   },
   "channel": {
     "type": "GR",

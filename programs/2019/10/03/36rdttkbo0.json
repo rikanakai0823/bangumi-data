@@ -1,0 +1,25 @@
+{
+  "id": "36rdttkbo0",
+  "category": "sports",
+  "title": "Ｂリーグ中継",
+  "fullTitle": "Ｂリーグ中継「川崎ブレイブサンダース　ＶＳ　宇都宮ブレックス」[多]",
+  "detail": "Ｂリーグ２０１９－２０シーズン開幕戦！生中継でお届け！▽横浜アリーナ",
+  "start": 1570096800000,
+  "end": 1570105800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": false,
+    "n": 5
+  },
+  "subTitle": "川崎ブレイブサンダース　ＶＳ　宇都宮ブレックス",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

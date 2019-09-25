@@ -1,0 +1,23 @@
+{
+  "id": "381f5ks92s",
+  "category": "information",
+  "title": "プレマップ",
+  "fullTitle": "プレマップ",
+  "detail": "",
+  "start": 1570040640000,
+  "end": 1570040880000,
+  "seconds": 240,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
