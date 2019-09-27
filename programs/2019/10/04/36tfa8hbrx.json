@@ -1,8 +1,8 @@
 {
   "id": "36tfa8hbrx",
   "category": "variety",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
+  "title": "格ゲー喫茶ハメじゅん",
+  "fullTitle": "[新]格ゲー喫茶ハメじゅん",
   "detail": " ",
   "start": 1570199400000,
   "end": 1570201200000,
@@ -18,6 +18,8 @@
     "n": 32
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": "381sxrg2kn",
+  "category": "sports",
+  "title": "クライマックスシリーズ　ファーストステージ",
+  "fullTitle": "クライマックスシリーズ　ファーストステージ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1570251600000,
+  "end": 1570258440000,
+  "seconds": 6840,
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": false,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

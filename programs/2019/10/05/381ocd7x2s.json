@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7x2s",
+  "category": "sports",
+  "title": "ラグビーワールドカップ２０１９",
+  "fullTitle": "ラグビーワールドカップ２０１９「イングランド×アルゼンチン　日本×サモア」[字][デ]",
+  "detail": "※最大延長30分",
+  "start": 1570261500000,
+  "end": 1570278240000,
+  "seconds": 16740,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "イングランド×アルゼンチン　日本×サモア",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

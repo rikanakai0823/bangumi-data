@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8lm19",
+  "category": "news",
+  "title": "小池知事定例会見",
+  "fullTitle": "小池知事定例会見[手][再]",
+  "detail": " ",
+  "start": 1570206900000,
+  "end": 1570210500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
