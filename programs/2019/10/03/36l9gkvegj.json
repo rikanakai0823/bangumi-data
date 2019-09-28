@@ -2,7 +2,7 @@
   "id": "36l9gkvegj",
   "category": "news",
   "title": "ＢＢＣワールドニュース",
-  "fullTitle": "ＢＢＣワールドニュース",
+  "fullTitle": "ＢＢＣワールドニュース[二]",
   "detail": "",
   "start": 1570048200000,
   "end": 1570050000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "二"
+  ]
 }

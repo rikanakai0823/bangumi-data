@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7x3e",
+  "category": "information",
+  "title": "ｂｉｚ　ｓｅａｒｃｈ",
+  "fullTitle": "ｂｉｚ　ｓｅａｒｃｈ[字]",
+  "detail": "話題の企業の今を日本テレビアナウンサーがサーチ！",
+  "start": 1570328700000,
+  "end": 1570329000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

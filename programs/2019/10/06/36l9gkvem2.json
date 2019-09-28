@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkvem2",
+  "category": "music",
+  "title": "ザ・カラオケトライアル浜博也",
+  "fullTitle": "ザ・カラオケトライアル[再]【ゲスト】浜博也",
+  "detail": "【ゲスト】浜博也　　【審査委員長】徳久広司　　【司会】栗田貫一、藤澤希未",
+  "start": 1570345200000,
+  "end": 1570348800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": false,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
