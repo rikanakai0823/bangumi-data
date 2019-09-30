@@ -2,14 +2,16 @@
   "id": "381sxrg1qh",
   "category": "sports",
   "title": "女子サッカー国際強化マッチ",
-  "fullTitle": "女子サッカー国際強化マッチ「なでしこジャパンＶＳカナダ」[字]",
-  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/sports/soccer/nadeshiko/",
+  "fullTitle": "女子サッカー国際強化マッチ「なでしこジャパンＶＳカナダ代表」[字]",
+  "detail": "高倉監督率いる「なでしこジャパン」が強豪カナダに挑む！来年の東京オリンピックに向けて、リスタートとなる大事な一戦を見逃すな！！\n◇実況解説\n解説：大竹七未、川上直子\r\n実況：杉山真也(TBSアナウンサー)\r\nリポーター：山形純菜(TBSアナウンサー)\r\n\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/sports/soccer/nadeshiko/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1570338000000,
   "end": 1570347000000,
   "seconds": 9000,
-  "description": "番組情報決定までしばらくお待ち下さい。",
+  "description": "高倉監督率いる「なでしこジャパン」が強豪カナダに挑む！来年の東京オリンピックに向けて、リスタートとなる大事な一戦を見逃すな！！",
   "extra": {
-    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/sports/soccer/nadeshiko/\r\n"
+    "実況解説": "解説：大竹七未、川上直子\r\n実況：杉山真也(TBSアナウンサー)\r\nリポーター：山形純菜(TBSアナウンサー)\r\n",
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/sports/soccer/nadeshiko/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +23,7 @@
     "hasLogoData": false,
     "n": 22
   },
-  "subTitle": "なでしこジャパンＶＳカナダ",
+  "subTitle": "なでしこジャパンＶＳカナダ代表",
   "episode": null,
   "flags": [
     "字"

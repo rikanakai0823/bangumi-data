@@ -1,0 +1,25 @@
+{
+  "id": "381sxrg1v6",
+  "category": "variety",
+  "title": "上田晋也の幻ニュース",
+  "fullTitle": "上田晋也の幻ニュース[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "start": 1570535820000,
+  "end": 1570543020000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": false,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

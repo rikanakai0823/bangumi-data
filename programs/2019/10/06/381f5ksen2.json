@@ -2,7 +2,7 @@
   "id": "381f5ksen2",
   "category": "variety",
   "title": "宝メシグランプリ２０１８年　総集編",
-  "fullTitle": "宝メシグランプリ２０１８年　総集編",
+  "fullTitle": "宝メシグランプリ２０１８年　総集編[字]",
   "detail": "",
   "start": 1570348200000,
   "end": 1570349940000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
