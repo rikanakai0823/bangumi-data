@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7x5d",
+  "category": "sports",
+  "title": "ラグビーワールドカップ２０１９日本大会",
+  "fullTitle": "ラグビーワールドカップ２０１９日本大会「スコットランド×ロシア」[字][デ]",
+  "detail": "",
+  "start": 1570604400000,
+  "end": 1570612200000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "スコットランド×ロシア",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

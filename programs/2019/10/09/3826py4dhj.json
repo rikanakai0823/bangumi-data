@@ -1,0 +1,25 @@
+{
+  "id": "3826py4dhj",
+  "category": "variety",
+  "title": "道玄坂コネクション",
+  "fullTitle": "[新]道玄坂コネクション",
+  "detail": "地上波で見た事ないSHOWROOMのパフォーマーを紹介！磨けば光る原石が見つかるかも！",
+  "start": 1570552500000,
+  "end": 1570554300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
