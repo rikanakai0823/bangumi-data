@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "パパジャニＷＥＳＴ",
   "fullTitle": "パパジャニＷＥＳＴ[字]",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/papajaniwest/",
   "start": 1570546560000,
   "end": 1570550100000,
   "seconds": 3540,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/papajaniwest/"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",

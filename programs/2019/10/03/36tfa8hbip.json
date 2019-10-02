@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "パーフェクトワン薬用ホワイトニングジェル【化粧品】\n◇お知らせ\n0120-845845",
   "start": 1570064400000,
   "end": 1570066200000,
   "seconds": 1800,
+  "description": "パーフェクトワン薬用ホワイトニングジェル【化粧品】",
+  "extra": {
+    "お知らせ": "0120-845845"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }
