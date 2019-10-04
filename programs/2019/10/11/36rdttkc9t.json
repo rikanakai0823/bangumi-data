@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Liar\"CAMILA CABELLO\r\n\"Will We Talk?\"SAM FENDER\r\n【特集】WOUTER HAMEL\r\n\"Don't Call Me Up\"  (Live recording)　WOUTER HAMEL\n◇番組内容２\n\"Lose You Again\"WALK THE MOON feat.BRAVES\r\n\"Show Me Love\"ALICIA KEYS feat.MIGUEL",
   "start": 1570723200000,
   "end": 1570725000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Liar\"CAMILA CABELLO\r\n\"Will We Talk?\"SAM FENDER\r\n【特集】WOUTER HAMEL\r\n\"Don't Call Me Up\"  (Live recording)　WOUTER HAMEL",
+    "番組内容２": "\"Lose You Again\"WALK THE MOON feat.BRAVES\r\n\"Show Me Love\"ALICIA KEYS feat.MIGUEL"
   },
   "channel": {
     "type": "GR",

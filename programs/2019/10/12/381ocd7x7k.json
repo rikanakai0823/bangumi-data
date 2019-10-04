@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7x7k",
+  "category": "sports",
+  "title": "ブリヂストンオープン２０１９　３日目",
+  "fullTitle": "ブリヂストンオープン２０１９　３日目[字][デ]",
+  "detail": "",
+  "start": 1570864200000,
+  "end": 1570867200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "381sxrg21x",
+  "category": "information",
+  "title": "「Ｇ線上のあなたと私」ナビ",
+  "fullTitle": "「Ｇ線上のあなたと私」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/gsenjou/",
+  "start": 1570863600000,
+  "end": 1570865400000,
+  "seconds": 1800,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/gsenjou/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": false,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

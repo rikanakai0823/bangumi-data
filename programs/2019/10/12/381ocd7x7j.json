@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7x7j",
+  "category": "sports",
+  "title": "ラグビーワールドカップ２０１９日本大会",
+  "fullTitle": "ラグビーワールドカップ２０１９日本大会「ニュージーランド×イタリア」[字][デ]",
+  "detail": "",
+  "start": 1570854600000,
+  "end": 1570864200000,
+  "seconds": 9600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "ニュージーランド×イタリア",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
