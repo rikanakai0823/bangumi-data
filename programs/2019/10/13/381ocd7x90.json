@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7x90",
+  "category": "sports",
+  "title": "ラグビーワールドカップ２０１９日本大会",
+  "fullTitle": "ラグビーワールドカップ２０１９日本大会「日本×スコットランド」[字][デ]",
+  "detail": "※最大延長15分",
+  "start": 1570962600000,
+  "end": 1570971240000,
+  "seconds": 8640,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "日本×スコットランド",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

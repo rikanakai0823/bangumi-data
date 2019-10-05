@@ -1,0 +1,29 @@
+{
+  "id": "381sxrg24f",
+  "category": "music",
+  "title": "ＵＴＡＧＥ！",
+  "fullTitle": "ＵＴＡＧＥ！[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/UTAGE-SAITEN/",
+  "start": 1570964400000,
+  "end": 1570974480000,
+  "seconds": 10080,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/UTAGE-SAITEN/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": false,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

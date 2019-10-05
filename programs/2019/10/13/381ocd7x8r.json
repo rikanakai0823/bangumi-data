@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7x8r",
+  "category": "sports",
+  "title": "ラグビーワールドカップ２０１９日本大会　今夜日本×スコットランド",
+  "fullTitle": "ラグビーワールドカップ２０１９日本大会　今夜日本×スコットランド[字][デ]",
+  "detail": "",
+  "start": 1570943400000,
+  "end": 1570946400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

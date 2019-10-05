@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7x8q",
+  "category": "sports",
+  "title": "ラグビーワールドカップ２０１９日本大会",
+  "fullTitle": "ラグビーワールドカップ２０１９日本大会「ナミビア×カナダ」[字][デ]",
+  "detail": "※最大延長30分",
+  "start": 1570935600000,
+  "end": 1570943400000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "ナミビア×カナダ",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
