@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7x9l",
+  "category": "information",
+  "title": "情報ライブ　ミヤネ屋",
+  "fullTitle": "情報ライブ　ミヤネ屋[字]",
+  "detail": "",
+  "start": 1571028900000,
+  "end": 1571032500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
