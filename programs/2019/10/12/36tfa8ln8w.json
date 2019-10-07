@@ -2,7 +2,7 @@
   "id": "36tfa8ln8w",
   "category": "documentary",
   "title": "Ｆｉｒｓｔ　Ｐｅｎｇｕｉｎ",
-  "fullTitle": "Ｆｉｒｓｔ　Ｐｅｎｇｕｉｎ",
+  "fullTitle": "[新]Ｆｉｒｓｔ　Ｐｅｎｇｕｉｎ",
   "detail": " ",
   "start": 1570886100000,
   "end": 1570886400000,
@@ -18,6 +18,8 @@
     "n": 34
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }
