@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ホオンテック【ふとん】\n◇お知らせ\n0120-115524",
   "start": 1570743000000,
   "end": 1570744800000,
   "seconds": 1800,
+  "description": "ホオンテック【ふとん】",
+  "extra": {
+    "お知らせ": "0120-115524"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "ふとん",
   "episode": null,
   "flags": []
 }
