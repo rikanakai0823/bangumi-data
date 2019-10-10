@@ -3,10 +3,14 @@
   "category": "information",
   "title": "番組ナビ",
   "fullTitle": "番組ナビ[字]",
-  "detail": "",
+  "detail": "１０月１６日（水）よる１０時放送の「同期のサクラ」第２話の見どころをナビゲートします。\n◇出演者\n【ナレーター】徳島えりか（日テレアナウンサー）",
   "start": 1570935300000,
   "end": 1570935600000,
   "seconds": 300,
+  "description": "１０月１６日（水）よる１０時放送の「同期のサクラ」第２話の見どころをナビゲートします。",
+  "extra": {
+    "出演者": "【ナレーター】徳島えりか（日テレアナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
@@ -17,8 +21,8 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "同期のサクラ",
+  "episode": 2,
   "flags": [
     "字"
   ]

@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkcuv",
+  "category": "sports",
+  "title": "フォルツァ！ノジマステラ",
+  "fullTitle": "フォルツァ！ノジマステラ",
+  "detail": "ノジマステラ神奈川相模原の試合情報や選手の素顔をお届け！",
+  "start": 1571399700000,
+  "end": 1571400000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

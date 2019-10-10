@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Kill My Mind\"LOUIS TOMLINSON\r\n\"Time Today\"BJ THE CHICAGO KID\r\n【特集】BJ THE CHICAGO KID\r\n\"Worryin' Bout Me\"BJ THE CHICAGO KID feat.OFFSET\n◇番組内容２\n\"Higher Love\"KYGO & WHITNEY HOUSTON\r\n\"Lover\"TAYLOR SWIFT",
   "start": 1571065200000,
   "end": 1571066940000,
   "seconds": 1740,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Kill My Mind\"LOUIS TOMLINSON\r\n\"Time Today\"BJ THE CHICAGO KID\r\n【特集】BJ THE CHICAGO KID\r\n\"Worryin' Bout Me\"BJ THE CHICAGO KID feat.OFFSET",
+    "番組内容２": "\"Higher Love\"KYGO & WHITNEY HOUSTON\r\n\"Lover\"TAYLOR SWIFT"
   },
   "channel": {
     "type": "GR",
