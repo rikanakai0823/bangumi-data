@@ -1,0 +1,26 @@
+{
+  "id": "381f5ksnel",
+  "category": "news",
+  "title": "首都圏情報　ネタドリ！",
+  "fullTitle": "首都圏情報　ネタドリ！[字][再]",
+  "detail": "",
+  "start": 1570845300000,
+  "end": 1570846920000,
+  "seconds": 1620,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

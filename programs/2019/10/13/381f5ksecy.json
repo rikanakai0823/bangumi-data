@@ -1,12 +1,12 @@
 {
   "id": "381f5ksecy",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「台風１９号」関連[字]",
   "detail": "",
   "start": 1570892400000,
-  "end": 1570892700000,
-  "seconds": 300,
+  "end": 1570913400000,
+  "seconds": 21000,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "台風１９号",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

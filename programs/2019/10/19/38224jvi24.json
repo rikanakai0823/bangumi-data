@@ -1,0 +1,25 @@
+{
+  "id": "38224jvi24",
+  "category": "variety",
+  "title": "ストリート開拓",
+  "fullTitle": "ストリート開拓[字]",
+  "detail": "ストリート開拓",
+  "start": 1571494500000,
+  "end": 1571497500000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

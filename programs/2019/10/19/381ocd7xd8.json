@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7xd8",
+  "category": "sports",
+  "title": "ラグビーワールドカップ２０１９日本大会",
+  "fullTitle": "ラグビーワールドカップ２０１９日本大会「準々決勝②」[字][デ]",
+  "detail": "※最大延長75分",
+  "start": 1571479200000,
+  "end": 1571486940000,
+  "seconds": 7740,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "準々決勝②",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
