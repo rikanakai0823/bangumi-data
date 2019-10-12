@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmfum",
+  "category": "etc",
+  "title": "（この時間はｔｖｋ０３１チャンネルをご覧ください）",
+  "fullTitle": "（この時間はｔｖｋ０３１チャンネルをご覧ください）",
+  "detail": "　",
+  "start": 1571572800000,
+  "end": 1571575800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

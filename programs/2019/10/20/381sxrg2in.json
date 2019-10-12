@@ -1,0 +1,31 @@
+{
+  "id": "381sxrg2in",
+  "category": "drama",
+  "title": "日曜劇場",
+  "fullTitle": "[新]日曜劇場「グランメゾン東京」　第１話[字][デ]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/grandmaisontokyo/\r\n◇twitter\r\n@gurame_tbs\r\nhttps://twitter.com/gurame_tbs",
+  "start": 1571572800000,
+  "end": 1571577540000,
+  "seconds": 4740,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/grandmaisontokyo/\r\n◇twitter\r\n@gurame_tbs\r\nhttps://twitter.com/gurame_tbs\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "グランメゾン東京",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字",
+    "デ"
+  ]
+}
