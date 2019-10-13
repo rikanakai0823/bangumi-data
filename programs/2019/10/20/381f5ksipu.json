@@ -5,8 +5,8 @@
   "fullTitle": "気象情報",
   "detail": "",
   "start": 1571565180000,
-  "end": 1571565600000,
-  "seconds": 420,
+  "end": 1571565540000,
+  "seconds": 360,
   "channel": {
     "type": "GR",
     "channel": "14",

@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksog4",
+  "category": "news",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「台風１９号　豪雨　被害」関連[字]",
+  "detail": "",
+  "start": 1571008500000,
+  "end": 1571010480000,
+  "seconds": 1980,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "台風１９号　豪雨　被害",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

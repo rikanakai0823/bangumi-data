@@ -1,0 +1,23 @@
+{
+  "id": "381f5ktf8v",
+  "category": "etc",
+  "title": "放送番組未定",
+  "fullTitle": "放送番組未定",
+  "detail": "この時間、放送する番組は未定です",
+  "start": 1571250360000,
+  "end": 1571250900000,
+  "seconds": 540,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

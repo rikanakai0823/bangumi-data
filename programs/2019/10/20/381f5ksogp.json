@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksogp",
+  "category": "sports",
+  "title": "ラグビーワールドカップ２０１９",
+  "fullTitle": "ラグビーワールドカップ２０１９「まもなく日本戦」[字]",
+  "detail": "",
+  "start": 1571562600000,
+  "end": 1571564640000,
+  "seconds": 2040,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "まもなく日本戦",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

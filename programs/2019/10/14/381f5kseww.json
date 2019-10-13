@@ -1,12 +1,12 @@
 {
   "id": "381f5kseww",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「台風１９号　豪雨　被害」関連[字]",
   "detail": "",
-  "start": 1571032500000,
+  "start": 1571031000000,
   "end": 1571032800000,
-  "seconds": 300,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "台風１９号　豪雨　被害",
   "episode": null,
   "flags": [
     "字"
