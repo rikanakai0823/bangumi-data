@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7xff",
+  "category": "news",
+  "title": "ＮＮＮ　ｎｅｗｓ　ｅｖｅｒｙ．特別版　　完全生中継",
+  "fullTitle": "ＮＮＮ　ｎｅｗｓ　ｅｖｅｒｙ．特別版　「即位礼正殿の儀」　完全生中継[字]",
+  "detail": "",
+  "start": 1571712900000,
+  "end": 1571720100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "即位礼正殿の儀",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
