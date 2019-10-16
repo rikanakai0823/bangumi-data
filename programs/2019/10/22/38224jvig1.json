@@ -3,10 +3,14 @@
   "category": "information",
   "title": "２２日（火）よる７時　林修の今でしょ！講座３時間スペシャル",
   "fullTitle": "２２日（火）よる７時　林修の今でしょ！講座３時間スペシャル",
-  "detail": "秋のテレビ朝日のおすすめ番組を紹介！",
+  "detail": "秋のテレビ朝日のおすすめ番組を紹介！\n◇◇おしらせ\n☆『林修の今でしょ！講座』番組ＨＰ\r\n　https://www.tv-asahi.co.jp/imadesho/",
   "start": 1571674800000,
   "end": 1571675040000,
   "seconds": 240,
+  "description": "秋のテレビ朝日のおすすめ番組を紹介！",
+  "extra": {
+    "◇おしらせ": "☆『林修の今でしょ！講座』番組ＨＰ\r\n　https://www.tv-asahi.co.jp/imadesho/"
+  },
   "channel": {
     "type": "GR",
     "channel": "11",
