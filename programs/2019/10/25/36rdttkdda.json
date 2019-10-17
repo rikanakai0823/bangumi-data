@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkdda",
+  "category": "etc",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「ボーイズタウン」\r\nウーター・ヘメル",
+  "start": 1571945100000,
+  "end": 1571946900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "ボーイズタウン",
+  "episode": null,
+  "flags": []
+}

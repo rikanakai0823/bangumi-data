@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "おそうじベーシック【掃除グッズ】\n◇お知らせ\n0120-100100",
   "start": 1571463000000,
   "end": 1571464800000,
   "seconds": 1800,
+  "description": "おそうじベーシック【掃除グッズ】",
+  "extra": {
+    "お知らせ": "0120-100100"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "掃除グッズ",
   "episode": null,
   "flags": []
 }
