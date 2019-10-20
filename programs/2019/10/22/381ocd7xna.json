@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7xna",
+  "category": "news",
+  "title": "ＮＮＮ　ｎｅｗｓ　ｅｖｅｒｙ．特別版スペシャル",
+  "fullTitle": "ＮＮＮ　ｎｅｗｓ　ｅｖｅｒｙ．特別版「即位礼正殿の儀」スペシャル[字]",
+  "detail": "",
+  "start": 1571727000000,
+  "end": 1571730600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "即位礼正殿の儀",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

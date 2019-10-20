@@ -1,9 +1,9 @@
 {
   "id": "36l9gkvfa4",
   "category": "news",
-  "title": "ＮＥＷＳチバ９３０",
-  "fullTitle": "ＮＥＷＳチバ９３０",
-  "detail": "",
+  "title": "ＮＥＷＳチバ９３０▽竹内里奈",
+  "fullTitle": "ＮＥＷＳチバ９３０▽【出演】竹内里奈",
+  "detail": "▽市原でボランティアに参加　▽天気予報　▽出演／竹内里奈アナウンサー",
   "start": 1571661000000,
   "end": 1571662500000,
   "seconds": 1500,
@@ -14,10 +14,10 @@
     "id": "1hgokns",
     "sid": 27704,
     "nid": 32327,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "出演",
   "episode": null,
   "flags": []
 }

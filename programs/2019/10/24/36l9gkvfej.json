@@ -1,12 +1,16 @@
 {
   "id": "36l9gkvfej",
   "category": "information",
-  "title": "情報番組　マチコミ",
-  "fullTitle": "情報番組　マチコミ",
-  "detail": "",
+  "title": "情報番組　マチコミ▽イオン板橋から生中継▽メッセージ採用者にプレゼント　ほか",
+  "fullTitle": "情報番組　マチコミ▽イオン板橋から生中継▽メッセージ採用者にプレゼント　ほか",
+  "detail": "▽イオン板橋から生中継　▽メッセージ採用者にプレゼント　ほか\n◇出演者\n竹本孝之　\r\n山崎彩紗（テレ玉アナウンサー）",
   "start": 1571902200000,
   "end": 1571904000000,
   "seconds": 1800,
+  "description": "▽イオン板橋から生中継　▽メッセージ採用者にプレゼント　ほか",
+  "extra": {
+    "出演者": "竹本孝之　\r\n山崎彩紗（テレ玉アナウンサー）\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "17",
@@ -14,7 +18,7 @@
     "id": "1hgokns",
     "sid": 27704,
     "nid": 32327,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 9
   },
   "subTitle": "",

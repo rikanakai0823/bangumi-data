@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7xj4",
+  "category": "variety",
+  "title": "サタデーネクスト",
+  "fullTitle": "サタデーネクスト「テクってあそぼ！」[字]",
+  "detail": "",
+  "start": 1572064200000,
+  "end": 1572066000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "テクってあそぼ！",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

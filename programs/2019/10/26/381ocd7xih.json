@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7xih",
+  "category": "sports",
+  "title": "オードリーのＮＦＬ倶楽部",
+  "fullTitle": "オードリーのＮＦＬ倶楽部",
+  "detail": "",
+  "start": 1572025440000,
+  "end": 1572027240000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

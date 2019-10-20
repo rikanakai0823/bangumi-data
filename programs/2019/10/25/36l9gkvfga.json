@@ -1,9 +1,9 @@
 {
   "id": "36l9gkvfga",
   "category": "news",
-  "title": "ＮＥＷＳチバ９３０",
-  "fullTitle": "ＮＥＷＳチバ９３０",
-  "detail": "",
+  "title": "ＮＥＷＳチバ９３０▽泉水はる佳",
+  "fullTitle": "ＮＥＷＳチバ９３０▽【出演】泉水はる佳",
+  "detail": "▽ニュースランキングで１週間を振り返る　▽週末どうなる？気になるお天気　▽出演／泉水はる佳アナウンサー、飯倉　章（城西国際大学　国際人文学部　学部長）",
   "start": 1572006600000,
   "end": 1572008100000,
   "seconds": 1500,
@@ -14,10 +14,10 @@
     "id": "1hgokns",
     "sid": 27704,
     "nid": 32327,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "出演",
   "episode": null,
   "flags": []
 }

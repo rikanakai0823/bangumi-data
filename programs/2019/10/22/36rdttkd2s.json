@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"God Is A Dancer\"TIESTO, MABEL\r\n\"Forevermore\"YUNA\r\n【特集】YUNA\r\n\"Blank Marquee\"YUNA feat.G-EAZY\n◇番組内容２\n\"Motivation\"NORMANI\r\n\"Don’t Call Me Angel (Charlie’s Angels)\"ARIANA GRANDE, MILEY CYRUS & LANA DEL REY",
   "start": 1571713200000,
   "end": 1571715000000,
   "seconds": 1800,
+  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "extra": {
+    "番組内容１": "\"God Is A Dancer\"TIESTO, MABEL\r\n\"Forevermore\"YUNA\r\n【特集】YUNA\r\n\"Blank Marquee\"YUNA feat.G-EAZY",
+    "番組内容２": "\"Motivation\"NORMANI\r\n\"Don’t Call Me Angel (Charlie’s Angels)\"ARIANA GRANDE, MILEY CYRUS & LANA DEL REY"
+  },
   "channel": {
     "type": "GR",
     "channel": "18",
