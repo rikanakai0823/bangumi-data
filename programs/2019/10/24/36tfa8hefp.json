@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ホオンテック【ふとん】\n◇お知らせ\n0120-409601",
   "start": 1571909400000,
   "end": 1571911140000,
   "seconds": 1740,
+  "description": "ホオンテック【ふとん】",
+  "extra": {
+    "お知らせ": "0120-409601"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "ふとん",
   "episode": null,
   "flags": []
 }

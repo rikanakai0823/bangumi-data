@@ -1,0 +1,29 @@
+{
+  "id": "381sxrg32d",
+  "category": "drama",
+  "title": "グラグラメゾン東京",
+  "fullTitle": "グラグラメゾン東京[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/grandmaisontokyo/",
+  "start": 1572453000000,
+  "end": 1572453300000,
+  "seconds": 300,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/grandmaisontokyo/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

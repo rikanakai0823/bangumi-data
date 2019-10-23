@@ -3,10 +3,15 @@
   "category": "drama",
   "title": "グラグラメゾン東京",
   "fullTitle": "[新]グラグラメゾン東京[字]",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "日曜劇場「グランメゾン東京」毎週日曜よる9時より放送！\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/grandmaisontokyo/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/gurame_tbs/\r\n\r\n◇twitter\r\n@gurame_tbs\r\nhttps://twitter.com/gurame_tbs\r\n\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1571848080000,
   "end": 1571848380000,
   "seconds": 300,
+  "description": "日曜劇場「グランメゾン東京」毎週日曜よる9時より放送！",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/grandmaisontokyo/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/gurame_tbs/\r\n\r\n◇twitter\r\n@gurame_tbs\r\nhttps://twitter.com/gurame_tbs\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 22
   },
-  "subTitle": "",
+  "subTitle": "グランメゾン東京",
   "episode": 1,
   "flags": [
     "新",
