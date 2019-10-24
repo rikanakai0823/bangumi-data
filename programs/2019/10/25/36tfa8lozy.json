@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ポラライトＨＤサングラス【サングラス】\n◇お知らせ\n0120-176917",
   "start": 1571999400000,
   "end": 1572001200000,
   "seconds": 1800,
+  "description": "ポラライトＨＤサングラス【サングラス】",
+  "extra": {
+    "お知らせ": "0120-176917"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "サングラス",
   "episode": null,
   "flags": []
 }
