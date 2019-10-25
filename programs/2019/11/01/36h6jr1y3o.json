@@ -3,10 +3,15 @@
   "category": "music",
   "title": "山崎ていじのさわやか歌謡曲",
   "fullTitle": "山崎ていじのさわやか歌謡曲[Ｓ]",
-  "detail": "",
+  "detail": "ハン・ジナ\n◇番組内容\nハン・ジナ\n◇出演者\nハン・ジナ",
   "start": 1572553800000,
   "end": 1572555600000,
   "seconds": 1800,
+  "description": "ハン・ジナ",
+  "extra": {
+    "番組内容": "ハン・ジナ",
+    "出演者": "ハン・ジナ"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",

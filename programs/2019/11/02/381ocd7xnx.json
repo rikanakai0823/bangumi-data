@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7xnx",
+  "category": "information",
+  "title": "日テレポシュレ　秋のおトク商品１２０分ＳＰ",
+  "fullTitle": "日テレポシュレ　秋のおトク商品１２０分ＳＰ",
+  "detail": "",
+  "start": 1572632640000,
+  "end": 1572639840000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
