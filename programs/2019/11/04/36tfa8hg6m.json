@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8hg6m",
+  "category": "information",
+  "title": "番組ガイド",
+  "fullTitle": "番組ガイド",
+  "detail": " ",
+  "start": 1572845220000,
+  "end": 1572845400000,
+  "seconds": 180,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
