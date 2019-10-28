@@ -2,11 +2,15 @@
   "id": "36h6jr1y4g",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\n洗浄魂　　０１２０－４４－００２７",
   "start": 1572602400000,
   "end": 1572604200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "洗浄魂　　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
