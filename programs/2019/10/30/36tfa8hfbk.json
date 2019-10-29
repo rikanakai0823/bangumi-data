@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ラークセブン【医薬品】\n◇お知らせ\n0120-894-230",
   "start": 1572415200000,
   "end": 1572417000000,
   "seconds": 1800,
+  "description": "ラークセブン【医薬品】",
+  "extra": {
+    "お知らせ": "0120-894-230"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "医薬品",
   "episode": null,
   "flags": []
 }

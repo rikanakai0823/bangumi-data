@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "おいしいコラーゲンドリンク【健康食品】\n◇お知らせ\n0120-088513",
   "start": 1572426000000,
   "end": 1572427800000,
   "seconds": 1800,
+  "description": "おいしいコラーゲンドリンク【健康食品】",
+  "extra": {
+    "お知らせ": "0120-088513"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "健康食品",
   "episode": null,
   "flags": []
 }
