@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7xrm",
+  "category": "information",
+  "title": "ママへの伝言　Ｓｍｉｌｅ　Ｃａｆｅ",
+  "fullTitle": "ママへの伝言　Ｓｍｉｌｅ　Ｃａｆｅ[字]",
+  "detail": "",
+  "start": 1573214040000,
+  "end": 1573214400000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
