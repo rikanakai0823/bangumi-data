@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "トゥルースリーパープレミアケア【低反発マットレス】\n◇お知らせ\n0120-409601",
   "start": 1572822000000,
   "end": 1572823800000,
   "seconds": 1800,
+  "description": "トゥルースリーパープレミアケア【低反発マットレス】",
+  "extra": {
+    "お知らせ": "0120-409601"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "低反発マットレス",
   "episode": null,
   "flags": []
 }

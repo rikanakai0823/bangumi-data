@@ -1,14 +1,16 @@
 {
   "id": "381sxrg39g",
   "category": "information",
-  "title": "メトログ",
-  "fullTitle": "メトログ[字]",
-  "detail": "「メトログ」は、東京メトロ沿線のお出かけスポットを紹介する情報番組です。\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
+  "title": "メトログ▽三遊亭小遊三が新宿三丁目の老舗喫茶店を紹介！",
+  "fullTitle": "メトログ[字]▽三遊亭小遊三が新宿三丁目の老舗喫茶店を紹介！",
+  "detail": "三遊亭小遊三が東京メトロ新宿三丁目駅の再発見スポット＆おすすめ店を紹介▽約１００種類の日本酒飲み比べし放題の居酒屋！\n◇番組内容\n新宿三丁目駅\r\n\n◇出演者\n三遊亭小遊三\r\n\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
   "start": 1572748800000,
   "end": 1572749100000,
   "seconds": 300,
-  "description": "「メトログ」は、東京メトロ沿線のお出かけスポットを紹介する情報番組です。",
+  "description": "三遊亭小遊三が東京メトロ新宿三丁目駅の再発見スポット＆おすすめ店を紹介▽約１００種類の日本酒飲み比べし放題の居酒屋！",
   "extra": {
+    "番組内容": "新宿三丁目駅\r\n",
+    "出演者": "三遊亭小遊三\r\n",
     "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n",
     "おことわり": "番組の内容と放送時間は、変更になる場合があります。\r\n"
   },
@@ -22,7 +24,7 @@
     "hasLogoData": true,
     "n": 22
   },
-  "subTitle": "メトログ",
+  "subTitle": "",
   "episode": null,
   "flags": [
     "字"
