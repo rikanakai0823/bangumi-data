@@ -1,0 +1,30 @@
+{
+  "id": "36rdttken6",
+  "category": "sports",
+  "title": "ラグビー中継",
+  "fullTitle": "ラグビー中継「慶応義塾大学　ＶＳ　明治大学」[多][デ]",
+  "detail": "◇出演者\n【解説】\r\n【実況】吉井祥博（ｔｖｋアナウンサー）\r\n【リポーター】河内 優美子",
+  "start": 1573378200000,
+  "end": 1573384200000,
+  "seconds": 6000,
+  "description": "　",
+  "extra": {
+    "出演者": "【解説】\r\n【実況】吉井祥博（ｔｖｋアナウンサー）\r\n【リポーター】河内 優美子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "慶応義塾大学　ＶＳ　明治大学",
+  "episode": null,
+  "flags": [
+    "多",
+    "デ"
+  ]
+}
