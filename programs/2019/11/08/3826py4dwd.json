@@ -2,7 +2,7 @@
   "id": "3826py4dwd",
   "category": "information",
   "title": "買物の時間ｍｉｎｉ　プラス",
-  "fullTitle": "買物の時間ｍｉｎｉ　プラス",
+  "fullTitle": "買物の時間ｍｉｎｉ　プラス[字]",
   "detail": "生活に役立つ商品を紹介する通販番組",
   "start": 1573201200000,
   "end": 1573201800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

@@ -2,11 +2,15 @@
   "id": "381jqz0n61",
   "category": "news",
   "title": "視点・論点",
-  "fullTitle": "視点・論点[字]",
-  "detail": "",
+  "fullTitle": "視点・論点「東京２０２０大会のバリアフリーと共生社会」[字]",
+  "detail": "東洋大学名誉教授…髙橋儀平\n◇出演者\n【出演】東洋大学名誉教授…髙橋儀平",
   "start": 1573015800000,
   "end": 1573016400000,
   "seconds": 600,
+  "description": "東洋大学名誉教授…髙橋儀平",
+  "extra": {
+    "出演者": "【出演】東洋大学名誉教授…髙橋儀平"
+  },
   "channel": {
     "type": "GR",
     "channel": "13",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "東京２０２０大会のバリアフリーと共生社会",
   "episode": null,
   "flags": [
     "字"

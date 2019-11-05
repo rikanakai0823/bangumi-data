@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "すっぽんの恵み【健康食品】\n◇お知らせ\n0120-803414",
   "start": 1573018200000,
   "end": 1573019940000,
   "seconds": 1740,
+  "description": "すっぽんの恵み【健康食品】",
+  "extra": {
+    "お知らせ": "0120-803414"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "健康食品",
   "episode": null,
   "flags": []
 }

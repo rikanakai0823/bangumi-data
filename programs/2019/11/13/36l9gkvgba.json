@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkvgba",
+  "category": "music",
+  "title": "ザ・カラオケトライアル多岐川舞子",
+  "fullTitle": "ザ・カラオケトライアル[再]【ゲスト】多岐川舞子",
+  "detail": "【ゲスト】多岐川舞子　【審査委員長】徳久広司　　【司会】栗田貫一、藤澤希未",
+  "start": 1573642800000,
+  "end": 1573646400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lrla",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「いたばし二輪草賞」「ハイセイコー記念（ＳⅡ）」「黄葉賞」",
+  "start": 1573626000000,
+  "end": 1573646400000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
