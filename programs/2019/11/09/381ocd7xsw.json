@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "サッカー★アース",
   "fullTitle": "サッカー★アース[デ]",
-  "detail": "",
+  "detail": "◇出演者\n【MC】手越祐也\r\n【解説】北澤豪\r\n【進行】日テレアナウンサー",
   "start": 1573233840000,
   "end": 1573237440000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】手越祐也\r\n【解説】北澤豪\r\n【進行】日テレアナウンサー"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
