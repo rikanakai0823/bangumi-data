@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "プロテオグリカン原液【化粧品】\n◇お知らせ\n0120-585980",
   "start": 1573320600000,
   "end": 1573322400000,
   "seconds": 1800,
+  "description": "プロテオグリカン原液【化粧品】",
+  "extra": {
+    "お知らせ": "0120-585980"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }

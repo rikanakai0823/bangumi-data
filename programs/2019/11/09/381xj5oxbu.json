@@ -1,8 +1,8 @@
 {
   "id": "381xj5oxbu",
-  "category": "etc",
-  "title": "土曜スペシャル",
-  "fullTitle": "土曜スペシャル",
+  "category": "variety",
+  "title": "土曜スペシャル・ＶＳ嵐",
+  "fullTitle": "土曜スペシャル・ＶＳ嵐[再][字][デ]",
   "detail": "",
   "start": 1573281000000,
   "end": 1573284600000,
@@ -19,5 +19,9 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再",
+    "字",
+    "デ"
+  ]
 }
