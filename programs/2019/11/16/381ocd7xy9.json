@@ -1,0 +1,29 @@
+{
+  "id": "381ocd7xy9",
+  "category": "sports",
+  "title": "全国高校サッカー選手権大会　東京Ａ決勝",
+  "fullTitle": "第９８回全国高校サッカー選手権大会　東京Ａ決勝[字]",
+  "detail": "◇出演者\n【解説】\r\n【実況】川畑一志",
+  "start": 1573884600000,
+  "end": 1573891200000,
+  "seconds": 6600,
+  "description": "",
+  "extra": {
+    "出演者": "【解説】\r\n【実況】川畑一志"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 98,
+  "flags": [
+    "字"
+  ]
+}

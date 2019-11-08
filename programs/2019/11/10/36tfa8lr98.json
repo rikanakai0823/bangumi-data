@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "イオネスプラス【電位治療器】\n◇お知らせ\n0120-888-654",
   "start": 1573387200000,
   "end": 1573389000000,
   "seconds": 1800,
+  "description": "イオネスプラス【電位治療器】",
+  "extra": {
+    "お知らせ": "0120-888-654"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "電位治療器",
   "episode": null,
   "flags": []
 }
