@@ -1,0 +1,29 @@
+{
+  "id": "381ocd7y0e",
+  "category": "variety",
+  "title": "日テレ＋　今夜はパニックSP",
+  "fullTitle": "日テレ＋「まもなく仰天ニュース」　今夜はパニックSP[字]",
+  "detail": "◇出演者\n笑福亭鶴瓶、中居正広",
+  "start": 1574164440000,
+  "end": 1574164800000,
+  "seconds": 360,
+  "description": "",
+  "extra": {
+    "出演者": "笑福亭鶴瓶、中居正広"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "まもなく仰天ニュース",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
