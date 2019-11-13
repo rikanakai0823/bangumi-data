@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "メディカルウォーク【靴】\n◇お知らせ\n0120-151192",
   "start": 1573693200000,
   "end": 1573695000000,
   "seconds": 1800,
+  "description": "メディカルウォーク【靴】",
+  "extra": {
+    "お知らせ": "0120-151192"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "靴",
   "episode": null,
   "flags": []
 }
