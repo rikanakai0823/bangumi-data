@@ -1,0 +1,29 @@
+{
+  "id": "381sxrg43o",
+  "category": "sports",
+  "title": "横浜マラソン２０１９",
+  "fullTitle": "横浜マラソン２０１９[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/yokohamamarathon/",
+  "start": 1574492400000,
+  "end": 1574496000000,
+  "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/yokohamamarathon/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
