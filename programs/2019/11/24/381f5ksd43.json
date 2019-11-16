@@ -1,0 +1,26 @@
+{
+  "id": "381f5ksd43",
+  "category": "sports",
+  "title": "ＮＨＫ杯フィギュア　＜副音声は場内音声のみ＞",
+  "fullTitle": "ＮＨＫ杯フィギュア「エキシビション」[多][字]　＜副音声は場内音声のみ＞",
+  "detail": "～札幌市・真駒内セキスイハイムアイスアリーナから中継～",
+  "start": 1574568300000,
+  "end": 1574575200000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "エキシビション",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

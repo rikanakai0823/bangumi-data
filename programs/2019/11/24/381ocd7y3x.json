@@ -1,0 +1,27 @@
+{
+  "id": "381ocd7y3x",
+  "category": "sports",
+  "title": "サッカー★アース",
+  "fullTitle": "サッカー★アース",
+  "detail": "◇出演者\n【MC】手越祐也\r\n【解説】城彰二\r\n【進行】日テレアナウンサー",
+  "start": 1574525100000,
+  "end": 1574528700000,
+  "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】手越祐也\r\n【解説】城彰二\r\n【進行】日テレアナウンサー"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
