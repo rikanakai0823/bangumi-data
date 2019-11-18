@@ -2,11 +2,15 @@
   "id": "381f5ksaek",
   "category": "news",
   "title": "視点・論点",
-  "fullTitle": "視点・論点[字][再]",
-  "detail": "",
+  "fullTitle": "視点・論点「“温暖化台風”が招く危機」[字][再]",
+  "detail": "慶應義塾大学環境情報学部専任講師…宮本佳明\n◇出演者\n【出演】慶應義塾大学環境情報学部専任講師…宮本佳明",
   "start": 1574189400000,
   "end": 1574190000000,
   "seconds": 600,
+  "description": "慶應義塾大学環境情報学部専任講師…宮本佳明",
+  "extra": {
+    "出演者": "【出演】慶應義塾大学環境情報学部専任講師…宮本佳明"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "“温暖化台風”が招く危機",
   "episode": null,
   "flags": [
     "字",

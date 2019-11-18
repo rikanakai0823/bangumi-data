@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "ホオンテック【ふとん】\n◇お知らせ\n0120-409601",
   "start": 1574118000000,
   "end": 1574119800000,
   "seconds": 1800,
+  "description": "ホオンテック【ふとん】",
+  "extra": {
+    "お知らせ": "0120-409601"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "ふとん",
   "episode": null,
   "flags": []
 }
