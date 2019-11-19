@@ -2,7 +2,7 @@
   "id": "36tfa8hj1a",
   "category": "variety",
   "title": "ピカイチくん！",
-  "fullTitle": "ピカイチくん！",
+  "fullTitle": "[新]ピカイチくん！",
   "detail": " ",
   "start": 1574638200000,
   "end": 1574638500000,
@@ -18,6 +18,8 @@
     "n": 32
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }
