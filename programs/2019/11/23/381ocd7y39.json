@@ -3,10 +3,14 @@
   "category": "information",
   "title": "番組ナビ",
   "fullTitle": "番組ナビ[字]",
-  "detail": "",
+  "detail": "１１月２３日（土）よる１０時放送のドラマ「俺の話は長い」。第７話の見どころをナビゲートします。\n◇出演者\n【ナレーター】杉原凛（日テレアナウンサー）",
   "start": 1574475600000,
   "end": 1574475900000,
   "seconds": 300,
+  "description": "１１月２３日（土）よる１０時放送のドラマ「俺の話は長い」。第７話の見どころをナビゲートします。",
+  "extra": {
+    "出演者": "【ナレーター】杉原凛（日テレアナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
@@ -17,8 +21,8 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "俺の話は長い",
+  "episode": 7,
   "flags": [
     "字"
   ]
