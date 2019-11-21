@@ -3,10 +3,14 @@
   "category": "news",
   "title": "クローズアップ現代＋",
   "fullTitle": "クローズアップ現代＋[字]",
-  "detail": "",
+  "detail": "【キャスター】武田真一\n◇出演者\n【キャスター】武田真一",
   "start": 1574946000000,
   "end": 1574947800000,
   "seconds": 1800,
+  "description": "【キャスター】武田真一",
+  "extra": {
+    "出演者": "【キャスター】武田真一"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": null,
   "flags": [
     "字"
