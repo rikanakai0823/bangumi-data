@@ -1,12 +1,12 @@
 {
   "id": "381f5ksd3o",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース",
+  "fullTitle": "ニュース「ローマ教皇　長崎訪問」[字]",
   "detail": "",
   "start": 1574557200000,
-  "end": 1574557500000,
-  "seconds": 300,
+  "end": 1574559300000,
+  "seconds": 2100,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "ローマ教皇　長崎訪問",
   "episode": null,
   "flags": [
     "字"
