@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksh2r",
+  "category": "sports",
+  "title": "全日本相撲選手権　～国技館から中継～",
+  "fullTitle": "第６８回全日本相撲選手権　～国技館から中継～[字]",
+  "detail": "",
+  "start": 1575187200000,
+  "end": 1575190800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 68,
+  "flags": [
+    "字"
+  ]
+}

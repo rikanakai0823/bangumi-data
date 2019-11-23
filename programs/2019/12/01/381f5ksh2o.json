@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksh2o",
+  "category": "sports",
+  "title": "関東大学ラグビー対抗戦「明治」対",
+  "fullTitle": "関東大学ラグビー対抗戦「明治」対「早稲田」[字]",
+  "detail": "～秩父宮ラグビー場から中継～　＜中断＞（２：４０）－（２：４３）　[字]ニュース",
+  "start": 1575175800000,
+  "end": 1575183000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "早稲田",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
