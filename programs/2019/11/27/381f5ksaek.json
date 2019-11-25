@@ -2,11 +2,15 @@
   "id": "381f5ksaek",
   "category": "news",
   "title": "視点・論点",
-  "fullTitle": "視点・論点[字][再]",
-  "detail": "",
+  "fullTitle": "視点・論点「アマゾン発、グレートジャーニー経由　“地球永住計画”へ」[字][再]",
+  "detail": "探検家・医師…関野吉晴\n◇出演者\n【出演】探検家・医師…関野吉晴",
   "start": 1574794200000,
   "end": 1574794800000,
   "seconds": 600,
+  "description": "探検家・医師…関野吉晴",
+  "extra": {
+    "出演者": "【出演】探検家・医師…関野吉晴"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アマゾン発、グレートジャーニー経由　“地球永住計画”へ",
   "episode": null,
   "flags": [
     "字",
