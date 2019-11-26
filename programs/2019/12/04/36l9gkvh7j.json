@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkvh7j",
+  "category": "information",
+  "title": "生活情報３０分",
+  "fullTitle": "生活情報３０分",
+  "detail": "",
+  "start": 1575414000000,
+  "end": 1575415800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
