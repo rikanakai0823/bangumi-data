@@ -1,8 +1,8 @@
 {
   "id": "36tfa8lu62",
   "category": "drama",
-  "title": "ブスが恋しちゃダメなのかよ！",
-  "fullTitle": "ブスが恋しちゃダメなのかよ！",
+  "title": "ブスが恋しちゃダメなのかよ！？",
+  "fullTitle": "[新]ブスが恋しちゃダメなのかよ！？",
   "detail": " ",
   "start": 1575219900000,
   "end": 1575221700000,
@@ -18,6 +18,8 @@
     "n": 34
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }
