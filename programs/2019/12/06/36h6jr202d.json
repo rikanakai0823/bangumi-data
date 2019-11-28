@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr202d",
+  "category": "music",
+  "title": "カラオケ１ばん",
+  "fullTitle": "カラオケ１ばん",
+  "detail": "中澤卓也・三代沙也可\n◇出演者\n司会：岸田敏志　津吹みゆ",
+  "start": 1575630000000,
+  "end": 1575633300000,
+  "seconds": 3300,
+  "description": "中澤卓也・三代沙也可",
+  "extra": {
+    "出演者": "司会：岸田敏志　津吹みゆ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
