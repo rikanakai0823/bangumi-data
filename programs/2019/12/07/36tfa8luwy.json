@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8luwy",
+  "category": "news",
+  "title": "ヒーリングタイム＆ヘッドラインニュース",
+  "fullTitle": "ヒーリングタイム＆ヘッドラインニュース",
+  "detail": "ジオラマ",
+  "start": 1575725100000,
+  "end": 1575725400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

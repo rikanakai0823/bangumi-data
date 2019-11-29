@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ＮＨＫ手話ニュース",
   "fullTitle": "ＮＨＫ手話ニュース[手]",
-  "detail": "",
+  "detail": "【キャスター】河合祐三子\n◇出演者\n【キャスター】河合祐三子",
   "start": 1575604800000,
   "end": 1575605100000,
   "seconds": 300,
+  "description": "【キャスター】河合祐三子",
+  "extra": {
+    "出演者": "【キャスター】河合祐三子"
+  },
   "channel": {
     "type": "GR",
     "channel": "13",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": null,
   "flags": []
 }

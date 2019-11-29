@@ -1,0 +1,26 @@
+{
+  "id": "36rdttkgr0",
+  "category": "sports",
+  "title": "Ｊリーグ中継",
+  "fullTitle": "Ｊリーグ中継「横浜Ｆ・マリノス　ｖｓ　ＦＣ東京」[多][デ]",
+  "detail": "　",
+  "start": 1575712800000,
+  "end": 1575719700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "横浜Ｆ・マリノス　ｖｓ　ＦＣ東京",
+  "episode": null,
+  "flags": [
+    "多",
+    "デ"
+  ]
+}
