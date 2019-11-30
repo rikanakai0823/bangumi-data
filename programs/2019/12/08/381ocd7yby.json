@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7yby",
+  "category": "sports",
+  "title": "りそなグループスポーツスペシャル　さいたま国際マラソン",
+  "fullTitle": "りそなグループスポーツスペシャル　第５回さいたま国際マラソン[字][デ]",
+  "detail": "",
+  "start": 1575763200000,
+  "end": 1575773400000,
+  "seconds": 10200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

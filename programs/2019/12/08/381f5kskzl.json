@@ -1,0 +1,25 @@
+{
+  "id": "381f5kskzl",
+  "category": "documentary",
+  "title": "ＮＨＫスペシャル　シリーズ　体感・首都直下地震",
+  "fullTitle": "ＮＨＫスペシャル　シリーズ　体感・首都直下地震[字]",
+  "detail": "",
+  "start": 1575806400000,
+  "end": 1575809400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

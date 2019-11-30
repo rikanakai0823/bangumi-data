@@ -1,0 +1,23 @@
+{
+  "id": "381f5kspc2",
+  "category": "news",
+  "title": "国会中継　～参議院本会議場から中継～",
+  "fullTitle": "国会中継「平成３０年度決算質疑」　～参議院本会議場から中継～",
+  "detail": "",
+  "start": 1575259200000,
+  "end": 1575266100000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "平成３０年度決算質疑",
+  "episode": null,
+  "flags": []
+}
