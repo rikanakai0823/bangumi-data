@@ -1,0 +1,25 @@
+{
+  "id": "381f5kslh6",
+  "category": "news",
+  "title": "ニュース・気象情報",
+  "fullTitle": "ニュース・気象情報[字]",
+  "detail": "",
+  "start": 1575853200000,
+  "end": 1575853500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
