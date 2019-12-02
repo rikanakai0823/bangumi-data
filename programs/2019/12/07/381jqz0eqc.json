@@ -1,12 +1,16 @@
 {
   "id": "381jqz0eqc",
-  "category": "etc",
-  "title": "かいじゅうステップワンダバダ　ＰＲ",
-  "fullTitle": "かいじゅうステップワンダバダ　ＰＲ",
-  "detail": "",
+  "category": "anime",
+  "title": "かいじゅうステップ　ワンダバダ　スペシャル",
+  "fullTitle": "かいじゅうステップ　ワンダバダ　スペシャル「ぼくたちが生まれた秘密」",
+  "detail": "【声】中尾明慶，久野美咲\n◇出演者\n【声】中尾明慶，久野美咲",
   "start": 1575705000000,
   "end": 1575705600000,
   "seconds": 600,
+  "description": "【声】中尾明慶，久野美咲",
+  "extra": {
+    "出演者": "【声】中尾明慶，久野美咲"
+  },
   "channel": {
     "type": "GR",
     "channel": "13",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "ぼくたちが生まれた秘密",
   "episode": null,
   "flags": []
 }
