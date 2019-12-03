@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7yfv",
+  "category": "information",
+  "title": "モンスターサミット",
+  "fullTitle": "モンスターサミット[字]",
+  "detail": "",
+  "start": 1575990540000,
+  "end": 1575993840000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

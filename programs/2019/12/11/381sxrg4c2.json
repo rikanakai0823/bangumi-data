@@ -1,0 +1,29 @@
+{
+  "id": "381sxrg4c2",
+  "category": "music",
+  "title": "ＰＲＯＤＵＣＥ　１０１　ＪＡＰＡＮ",
+  "fullTitle": "ＰＲＯＤＵＣＥ　１０１　ＪＡＰＡＮ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/produce101/",
+  "start": 1576058400000,
+  "end": 1576065600000,
+  "seconds": 7200,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/produce101/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
