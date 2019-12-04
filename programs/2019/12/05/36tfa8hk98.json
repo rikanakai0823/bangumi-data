@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "ナチュラル朝日【米】\n◇お知らせ\n0120-888181",
   "start": 1575507600000,
   "end": 1575509400000,
   "seconds": 1800,
+  "description": "ナチュラル朝日【米】",
+  "extra": {
+    "お知らせ": "0120-888181"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "米",
   "episode": null,
   "flags": []
 }
