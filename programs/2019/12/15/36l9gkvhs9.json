@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkvhs9",
+  "category": "information",
+  "title": "ショップ　チャンネル６０分",
+  "fullTitle": "ショップ　チャンネル６０分",
+  "detail": "",
+  "start": 1576407600000,
+  "end": 1576411200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

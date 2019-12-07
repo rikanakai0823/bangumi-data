@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksp1s",
+  "category": "documentary",
+  "title": "ＮＨＫスペシャル　シリーズ　食の起源",
+  "fullTitle": "ＮＨＫスペシャル　シリーズ　食の起源[字]",
+  "detail": "",
+  "start": 1576411800000,
+  "end": 1576414800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
