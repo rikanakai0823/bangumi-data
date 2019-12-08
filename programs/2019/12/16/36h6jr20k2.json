@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr20k2",
+  "category": "news",
+  "title": "埼玉県議会中継",
+  "fullTitle": "埼玉県議会中継[手][Ｓ]",
+  "detail": "",
+  "start": 1576494000000,
+  "end": 1576497600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
