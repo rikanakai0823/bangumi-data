@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "洗浄魂【洗剤】\n◇お知らせ\n0120-115524",
   "start": 1576047600000,
   "end": 1576049340000,
   "seconds": 1740,
+  "description": "洗浄魂【洗剤】",
+  "extra": {
+    "お知らせ": "0120-115524"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "洗剤",
   "episode": null,
   "flags": []
 }
