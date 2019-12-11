@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Me Necesita\"PRETTYMUCH x CNCO\r\n\"Love Me Less\"MAX feat.QUINN XCII\r\n【特集】MAX\r\n\"Lights Down Low\"MAX feat. gnash\n◇番組内容２\n\"Own It\"STORMZY feat. ED SHEERAN & BURNA BOY\r\n\"Ocean\"LADY ANTEBELLUM\r\n\"Into The Unknown (From \"Frozen 2\")\"PANIC! AT THE DISCO",
   "start": 1576508400000,
   "end": 1576510200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Me Necesita\"PRETTYMUCH x CNCO\r\n\"Love Me Less\"MAX feat.QUINN XCII\r\n【特集】MAX\r\n\"Lights Down Low\"MAX feat. gnash",
+    "番組内容２": "\"Own It\"STORMZY feat. ED SHEERAN & BURNA BOY\r\n\"Ocean\"LADY ANTEBELLUM\r\n\"Into The Unknown (From \"Frozen 2\")\"PANIC! AT THE DISCO"
   },
   "channel": {
     "type": "GR",

@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ブルーベリー＆ルテインα【機能性表示食品】\n◇お知らせ\n0120-22-0145",
   "start": 1576096200000,
   "end": 1576098000000,
   "seconds": 1800,
+  "description": "ブルーベリー＆ルテインα【機能性表示食品】",
+  "extra": {
+    "お知らせ": "0120-22-0145"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "機能性表示食品",
   "episode": null,
   "flags": []
 }

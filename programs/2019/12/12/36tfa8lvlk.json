@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "スピードヒート【ベスト】\n◇お知らせ\n0800-0006777",
   "start": 1576152000000,
   "end": 1576153800000,
   "seconds": 1800,
+  "description": "スピードヒート【ベスト】",
+  "extra": {
+    "お知らせ": "0800-0006777"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "ベスト",
   "episode": null,
   "flags": []
 }
