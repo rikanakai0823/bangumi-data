@@ -1,12 +1,12 @@
 {
   "id": "381f5ksnck",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「イギリス総選挙」関連[字]",
   "detail": "",
   "start": 1576216800000,
-  "end": 1576217280000,
-  "seconds": 480,
+  "end": 1576217580000,
+  "seconds": 780,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "イギリス総選挙",
   "episode": null,
   "flags": [
     "字"
