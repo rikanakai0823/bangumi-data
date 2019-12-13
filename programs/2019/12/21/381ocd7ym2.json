@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7ym2",
+  "category": "cinema",
+  "title": "５分で分かる映画ヒロアカ①",
+  "fullTitle": "５分で分かる映画ヒロアカ①",
+  "detail": "",
+  "start": 1576873440000,
+  "end": 1576873740000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
