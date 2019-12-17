@@ -3,10 +3,14 @@
   "category": "information",
   "title": "健やか元気人",
   "fullTitle": "健やか元気人",
-  "detail": "緑効青汁【健康食品】",
+  "detail": "緑効青汁【健康食品】\n◇お知らせ\n0120-003-003",
   "start": 1576630800000,
   "end": 1576632600000,
   "seconds": 1800,
+  "description": "緑効青汁【健康食品】",
+  "extra": {
+    "お知らせ": "0120-003-003"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",

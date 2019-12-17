@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "スマートフォン\n◇お知らせ\n0120-112882",
   "start": 1576873800000,
   "end": 1576875600000,
   "seconds": 1800,
+  "description": "スマートフォン",
+  "extra": {
+    "お知らせ": "0120-112882"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
