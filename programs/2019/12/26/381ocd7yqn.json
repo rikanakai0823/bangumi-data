@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7yqn",
+  "category": "music",
+  "title": "読響・第九コンサート２０１９",
+  "fullTitle": "読響・第九コンサート２０１９[SS]",
+  "detail": "",
+  "start": 1577295240000,
+  "end": 1577300340000,
+  "seconds": 5100,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}
