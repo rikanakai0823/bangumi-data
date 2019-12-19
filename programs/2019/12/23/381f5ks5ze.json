@@ -2,11 +2,15 @@
   "id": "381f5ks5ze",
   "category": "music",
   "title": "三津谷寛治の令和の紅白みどころＳＰ",
-  "fullTitle": "三津谷寛治の令和の紅白みどころＳＰ",
-  "detail": "",
+  "fullTitle": "三津谷寛治の令和の紅白みどころＳＰ　＃１「紅白の最新情報をお届け！」",
+  "detail": "【出演】内村光良，【語り】江川央生\n◇出演者\n【出演】内村光良，【語り】江川央生",
   "start": 1577101440000,
   "end": 1577101500000,
   "seconds": 60,
+  "description": "【出演】内村光良，【語り】江川央生",
+  "extra": {
+    "出演者": "【出演】内村光良，【語り】江川央生"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "紅白の最新情報をお届け！",
+  "episode": 1,
   "flags": []
 }
