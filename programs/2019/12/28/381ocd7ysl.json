@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7ysl",
+  "category": "sports",
+  "title": "まもなく！キリンチャレンジカップ２０１９",
+  "fullTitle": "まもなく！キリンチャレンジカップ２０１９[字][デ]",
+  "detail": "",
+  "start": 1577527200000,
+  "end": 1577528400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
