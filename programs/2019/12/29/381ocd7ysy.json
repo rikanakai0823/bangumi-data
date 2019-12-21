@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7ysy",
+  "category": "news",
+  "title": "ＮＮＮニュース・サンデー",
+  "fullTitle": "ＮＮＮニュース・サンデー[手]",
+  "detail": "最新のニュース、気になる気象情報をお伝えします。",
+  "start": 1577567700000,
+  "end": 1577568600000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
