@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7yth",
+  "category": "news",
+  "title": "ＮＮＮスポーツ＆ニュース",
+  "fullTitle": "ＮＮＮスポーツ＆ニュース[字]",
+  "detail": "",
+  "start": 1577633100000,
+  "end": 1577634900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

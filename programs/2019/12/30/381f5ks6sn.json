@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks6sn",
+  "category": "news",
+  "title": "ニュース６５０",
+  "fullTitle": "ニュース６５０[字]",
+  "detail": "",
+  "start": 1577699400000,
+  "end": 1577699700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
