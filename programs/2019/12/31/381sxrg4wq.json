@@ -1,0 +1,30 @@
+{
+  "id": "381sxrg4wq",
+  "category": "sports",
+  "title": "ＳＡＳＵＫＥ２０１９大晦日",
+  "fullTitle": "ＳＡＳＵＫＥ２０１９大晦日[字][デ]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sasuke_rising/",
+  "start": 1577786400000,
+  "end": 1577804100000,
+  "seconds": 17700,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sasuke_rising/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

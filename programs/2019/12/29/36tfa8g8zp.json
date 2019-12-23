@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "永遠のムード・コーラス【音楽ＣＤ】\n◇お知らせ\n0120-469-462",
   "start": 1577562900000,
   "end": 1577564700000,
   "seconds": 1800,
+  "description": "永遠のムード・コーラス【音楽ＣＤ】",
+  "extra": {
+    "お知らせ": "0120-469-462"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "音楽ＣＤ",
   "episode": null,
   "flags": []
 }

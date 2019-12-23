@@ -1,0 +1,27 @@
+{
+  "id": "381f5ks745",
+  "category": "music",
+  "title": "ＮＨＫ紅白歌合戦",
+  "fullTitle": "第７０回ＮＨＫ紅白歌合戦[多][字][双]",
+  "detail": "",
+  "start": 1577787300000,
+  "end": 1577803500000,
+  "seconds": 16200,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 70,
+  "flags": [
+    "多",
+    "字",
+    "双"
+  ]
+}

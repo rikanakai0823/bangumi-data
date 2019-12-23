@@ -1,0 +1,27 @@
+{
+  "id": "381xj5o4ys",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n杉原千尋（フジテレビアナウンサー）",
+  "start": 1577739000000,
+  "end": 1577739300000,
+  "seconds": 300,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "杉原千尋（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

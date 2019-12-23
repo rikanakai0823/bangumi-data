@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "Ｃｏｙｏｒｉ美容液オイル【化粧品】\n◇お知らせ\n0120-198-891",
   "start": 1577572200000,
   "end": 1577574000000,
   "seconds": 1800,
+  "description": "Ｃｏｙｏｒｉ美容液オイル【化粧品】",
+  "extra": {
+    "お知らせ": "0120-198-891"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }

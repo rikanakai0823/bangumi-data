@@ -2,11 +2,15 @@
   "id": "381jqz00vt",
   "category": "theater",
   "title": "古典芸能への招待",
-  "fullTitle": "古典芸能への招待[多][字]",
-  "detail": "",
+  "fullTitle": "古典芸能への招待「京の冬・顔見世への誘い」[多][字]",
+  "detail": "【司会】秋鹿真人　～京都四條南座で収録～\n◇出演者\n【司会】秋鹿真人",
   "start": 1577620800000,
   "end": 1577628000000,
   "seconds": 7200,
+  "description": "【司会】秋鹿真人　～京都四條南座で収録～",
+  "extra": {
+    "出演者": "【司会】秋鹿真人"
+  },
   "channel": {
     "type": "GR",
     "channel": "13",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "京の冬・顔見世への誘い",
   "episode": null,
   "flags": [
     "多",

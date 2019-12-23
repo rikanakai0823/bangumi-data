@@ -1,0 +1,23 @@
+{
+  "id": "3826py4fz9",
+  "category": "news",
+  "title": "ＴＸＮニュース",
+  "fullTitle": "ＴＸＮニュース",
+  "detail": "日本や世界の最新ニュースをコンパクトにお伝えする。",
+  "start": 1577724300000,
+  "end": 1577724600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
