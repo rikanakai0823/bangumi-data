@@ -1,0 +1,29 @@
+{
+  "id": "381xj5o56s",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース[字]",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n上中勇樹（フジテレビアナウンサー）",
+  "start": 1577829300000,
+  "end": 1577829600000,
+  "seconds": 300,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "上中勇樹（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

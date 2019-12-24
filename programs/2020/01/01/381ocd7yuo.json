@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7yuo",
+  "category": "information",
+  "title": "新春シューイチ　～ネンイチ～",
+  "fullTitle": "新春シューイチ　～ネンイチ～[字][デ]",
+  "detail": "",
+  "start": 1577825400000,
+  "end": 1577838600000,
+  "seconds": 13200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
