@@ -1,0 +1,27 @@
+{
+  "id": "381ocd7yuw",
+  "category": "news",
+  "title": "ＮＮＮニュース＆スポーツ",
+  "fullTitle": "ＮＮＮニュース＆スポーツ",
+  "detail": "最新のスポーツ、ニュース、気になる気象情報をお伝えします。\n◇出演者\n藤井恒久アナウンサー\r\n尾崎里紗アナウンサー",
+  "start": 1577893140000,
+  "end": 1577894340000,
+  "seconds": 1200,
+  "description": "最新のスポーツ、ニュース、気になる気象情報をお伝えします。",
+  "extra": {
+    "出演者": "藤井恒久アナウンサー\r\n尾崎里紗アナウンサー"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

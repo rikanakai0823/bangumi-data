@@ -1,0 +1,29 @@
+{
+  "id": "381xj5o536",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース[字]",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n鈴木唯（フジテレビアナウンサー）",
+  "start": 1577975400000,
+  "end": 1577976000000,
+  "seconds": 600,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "鈴木唯（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

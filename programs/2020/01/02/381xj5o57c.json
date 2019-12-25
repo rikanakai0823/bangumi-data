@@ -1,0 +1,29 @@
+{
+  "id": "381xj5o57c",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース[字]",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n小穴浩司（フジテレビアナウンサー）",
+  "start": 1577946600000,
+  "end": 1577947500000,
+  "seconds": 900,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "小穴浩司（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

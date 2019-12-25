@@ -1,0 +1,29 @@
+{
+  "id": "381ocd7yva",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第９８回　全国高校サッカー選手権　２回戦[字]",
+  "detail": "※最大延長5分\n◇出演者\n【応援リーダー】長友佑都\r\n【応援マネージャー】森七菜\r\n【応援歌】三阪咲",
+  "start": 1577941500000,
+  "end": 1577948100000,
+  "seconds": 6600,
+  "description": "※最大延長5分",
+  "extra": {
+    "出演者": "【応援リーダー】長友佑都\r\n【応援マネージャー】森七菜\r\n【応援歌】三阪咲"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "全国高校サッカー選手権　２回戦",
+  "episode": 98,
+  "flags": [
+    "字"
+  ]
+}
