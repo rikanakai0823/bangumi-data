@@ -1,0 +1,27 @@
+{
+  "id": "381xj5o58z",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n内野泰輔（フジテレビアナウンサー）",
+  "start": 1578066300000,
+  "end": 1578066900000,
+  "seconds": 600,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "内野泰輔（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "381ocd7yw4",
+  "category": "news",
+  "title": "ＮＮＮニュース＆スポーツ",
+  "fullTitle": "ＮＮＮニュース＆スポーツ",
+  "detail": "最新のニュース、気になる気象情報をお伝えします。\n◇出演者\n藤井恒久アナウンサー\r\n岩本乃蒼アナウンサー",
+  "start": 1578065100000,
+  "end": 1578066300000,
+  "seconds": 1200,
+  "description": "最新のニュース、気になる気象情報をお伝えします。",
+  "extra": {
+    "出演者": "藤井恒久アナウンサー\r\n岩本乃蒼アナウンサー"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

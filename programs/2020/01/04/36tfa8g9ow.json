@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8g9ow",
+  "category": "information",
+  "title": "お買い物情報",
+  "fullTitle": "お買い物情報",
+  "detail": "もぎたて生スムージー【健康食品】\n◇お知らせ\n0120-558400",
+  "start": 1578083400000,
+  "end": 1578085200000,
+  "seconds": 1800,
+  "description": "もぎたて生スムージー【健康食品】",
+  "extra": {
+    "お知らせ": "0120-558400"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "健康食品",
+  "episode": null,
+  "flags": []
+}
