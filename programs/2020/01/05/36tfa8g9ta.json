@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8g9ta",
+  "category": "information",
+  "title": "お買い物情報",
+  "fullTitle": "お買い物情報",
+  "detail": "イオネスプラス【電位治療器】\n◇お知らせ\n0120-888-654",
+  "start": 1578168000000,
+  "end": 1578169800000,
+  "seconds": 1800,
+  "description": "イオネスプラス【電位治療器】",
+  "extra": {
+    "お知らせ": "0120-888-654"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "電位治療器",
+  "episode": null,
+  "flags": []
+}
