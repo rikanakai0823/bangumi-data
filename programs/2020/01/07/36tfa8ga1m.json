@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8ga1m",
+  "category": "anime",
+  "title": "なつなぐ！",
+  "fullTitle": "[新]なつなぐ！　＃１",
+  "detail": " ",
+  "start": 1578328500000,
+  "end": 1578328800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
