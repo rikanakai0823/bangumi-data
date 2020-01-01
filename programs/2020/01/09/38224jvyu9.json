@@ -1,0 +1,23 @@
+{
+  "id": "38224jvyu9",
+  "category": "variety",
+  "title": "有吉クイズ（仮）",
+  "fullTitle": "有吉クイズ（仮）",
+  "detail": "水曜の深夜に様々なバラエティ番組をお届けします！新しい企画をお楽しみください！！",
+  "start": 1578504900000,
+  "end": 1578506700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
