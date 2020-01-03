@@ -1,0 +1,26 @@
+{
+  "id": "36l9gkvj2y",
+  "category": "sports",
+  "title": "全国高校サッカー準決勝戦",
+  "fullTitle": "全国高校サッカー準決勝戦[字][SS]",
+  "detail": "【会場】埼玉スタジアム２００２",
+  "start": 1578711600000,
+  "end": 1578728400000,
+  "seconds": 16800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "会場",
+  "episode": null,
+  "flags": [
+    "字",
+    "SS"
+  ]
+}

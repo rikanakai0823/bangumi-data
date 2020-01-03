@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr21ww",
+  "category": "sports",
+  "title": "全国高校サッカー選手権大会",
+  "fullTitle": "第９８回全国高校サッカー選手権大会[SS]",
+  "detail": "準決勝第一試合　準決勝第二試合",
+  "start": 1578711600000,
+  "end": 1578728400000,
+  "seconds": 16800,
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 98,
+  "flags": [
+    "SS"
+  ]
+}
