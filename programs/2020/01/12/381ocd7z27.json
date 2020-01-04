@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7z27",
+  "category": "sports",
+  "title": "もうひとつの箱根駅伝２０２０",
+  "fullTitle": "もうひとつの箱根駅伝２０２０[字]",
+  "detail": "",
+  "start": 1578802500000,
+  "end": 1578807000000,
+  "seconds": 4500,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

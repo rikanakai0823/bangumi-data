@@ -1,0 +1,30 @@
+{
+  "id": "381sxrg58l",
+  "category": "information",
+  "title": "日曜劇場ナビ",
+  "fullTitle": "日曜劇場「テセウスの船」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/theseusnofune/\r\n\n◇おことわり\n第２８回全日本高校女子サッカー選手権　決勝の試合状況により、番組の放送時間の変更、または番組が休止になる可能性があります。",
+  "start": 1578813000000,
+  "end": 1578815700000,
+  "seconds": 2700,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/theseusnofune/\r\n",
+    "おことわり": "第２８回全日本高校女子サッカー選手権　決勝の試合状況により、番組の放送時間の変更、または番組が休止になる可能性があります。\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "テセウスの船",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
