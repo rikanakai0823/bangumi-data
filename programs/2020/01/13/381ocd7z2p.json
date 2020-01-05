@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7z2p",
+  "category": "variety",
+  "title": "暇人ラヂオ",
+  "fullTitle": "暇人ラヂオ",
+  "detail": "",
+  "start": 1578846600000,
+  "end": 1578847500000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
