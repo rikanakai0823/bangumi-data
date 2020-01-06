@@ -3,13 +3,16 @@
   "category": "sports",
   "title": "全日本高校女子サッカー選手権　決勝",
   "fullTitle": "第２８回全日本高校女子サッカー選手権　決勝[字]",
-  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/joshisoccer/",
+  "detail": "高校最後の青春ドラマ\n◇解説・実況\n解説：大竹七未・川上直子\r\n実況：佐藤文康\r\nリポーター：熊崎風斗、上村彩子・喜入友浩\r\n\n◇制作\nプロデューサー：御法川隼斗\r\nディレクター：文字哲也\r\n\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/joshisoccer/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1578805200000,
   "end": 1578813000000,
   "seconds": 7800,
-  "description": "番組情報決定までしばらくお待ち下さい。",
+  "description": "高校最後の青春ドラマ",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/joshisoccer/\r\n"
+    "解説・実況": "解説：大竹七未・川上直子\r\n実況：佐藤文康\r\nリポーター：熊崎風斗、上村彩子・喜入友浩\r\n",
+    "制作": "プロデューサー：御法川隼斗\r\nディレクター：文字哲也\r\n",
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/joshisoccer/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。\r\n"
   },
   "channel": {
     "type": "GR",

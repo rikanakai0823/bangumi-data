@@ -2,7 +2,7 @@
   "id": "381f5kse86",
   "category": "drama",
   "title": "５分でわかる！",
-  "fullTitle": "５分でわかる！「心の傷を癒すということ」",
+  "fullTitle": "５分でわかる！「心の傷を癒すということ」[字]",
   "detail": "",
   "start": 1578858900000,
   "end": 1578859200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "心の傷を癒すということ",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
