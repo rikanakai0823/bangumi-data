@@ -1,12 +1,12 @@
 {
   "id": "381f5ksb4f",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「相模原殺傷事件初公判」関連[字]",
   "detail": "",
-  "start": 1578448800000,
-  "end": 1578449100000,
-  "seconds": 300,
+  "start": 1578448200000,
+  "end": 1578451200000,
+  "seconds": 3000,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "相模原殺傷事件初公判",
   "episode": null,
   "flags": [
     "字"
