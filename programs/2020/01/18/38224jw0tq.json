@@ -1,0 +1,25 @@
+{
+  "id": "38224jw0tq",
+  "category": "variety",
+  "title": "誰も知らない超メジャー",
+  "fullTitle": "誰も知らない超メジャー[字]",
+  "detail": "誰も知らない超メジャー",
+  "start": 1579356900000,
+  "end": 1579359900000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

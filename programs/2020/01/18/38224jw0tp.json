@@ -1,0 +1,25 @@
+{
+  "id": "38224jw0tp",
+  "category": "variety",
+  "title": "調整中",
+  "fullTitle": "調整中[字]",
+  "detail": "※決まり次第、お知らせいたします。",
+  "start": 1579341360000,
+  "end": 1579348440000,
+  "seconds": 7080,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

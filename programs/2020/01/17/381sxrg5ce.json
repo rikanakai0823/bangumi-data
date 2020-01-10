@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ピン子、通販やるってよ～本日開店！ピン子デパート～",
   "fullTitle": "ピン子、通販やるってよ～本日開店！ピン子デパート～[解][字]",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://ishop.tbs.co.jp/tbs/tvradio/pinko/",
   "start": 1579222500000,
   "end": 1579224300000,
   "seconds": 1800,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://ishop.tbs.co.jp/tbs/tvradio/pinko/"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",

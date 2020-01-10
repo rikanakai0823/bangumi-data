@@ -1,12 +1,12 @@
 {
   "id": "381f5ksjmg",
   "category": "drama",
-  "title": "（大河ドラマ　予告）",
-  "fullTitle": "（大河ドラマ「麒麟（きりん）がくる」　予告）",
+  "title": "プレマップ",
+  "fullTitle": "プレマップ",
   "detail": "",
   "start": 1579101420000,
-  "end": 1579101480000,
-  "seconds": 60,
+  "end": 1579101600000,
+  "seconds": 180,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "麒麟（きりん）がくる",
+  "subTitle": "",
   "episode": null,
   "flags": []
 }
