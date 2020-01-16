@@ -2,11 +2,15 @@
   "id": "36h6jr22l9",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nツインシェフ　　　　　　　　　　　　　　０１２０－４４－００２７",
   "start": 1579730400000,
   "end": 1579732200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ツインシェフ　　　　　　　　　　　　　　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",

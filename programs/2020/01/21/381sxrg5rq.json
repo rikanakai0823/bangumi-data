@@ -1,12 +1,16 @@
 {
   "id": "381sxrg5rq",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "sports",
+  "title": "ガッツファイティング　ＷＢＯ女子Ｓ．フライ級タイトルマッチ吉田実代×Ｓ．リーピン",
+  "fullTitle": "ガッツファイティング　ＷＢＯ女子Ｓ．フライ級タイトルマッチ吉田実代×Ｓ．リーピン",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/sports/boxing/",
   "start": 1579539900000,
   "end": 1579543500000,
   "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/sports/boxing/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",
