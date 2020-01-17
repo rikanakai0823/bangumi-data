@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksnxm",
+  "category": "news",
+  "title": "国会中継　～衆議院本会議場から中継～",
+  "fullTitle": "国会中継「政府演説」　～衆議院本会議場から中継～[字]",
+  "detail": "",
+  "start": 1579496400000,
+  "end": 1579501800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "政府演説",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
