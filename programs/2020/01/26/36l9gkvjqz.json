@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkvjqz",
+  "category": "music",
+  "title": "ザ・カラオケトライアル山川豊",
+  "fullTitle": "ザ・カラオケトライアル[再]【ゲスト】山川豊",
+  "detail": "【ゲスト】山川豊　【審査員長】徳久広司　　【司会】栗田貫一、藤澤希未",
+  "start": 1580022000000,
+  "end": 1580025600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
