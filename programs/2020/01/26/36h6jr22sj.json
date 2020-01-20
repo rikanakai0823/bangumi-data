@@ -2,7 +2,7 @@
   "id": "36h6jr22sj",
   "category": "variety",
   "title": "街美女アルバムセレクション",
-  "fullTitle": "街美女アルバムセレクション[Ｓ]",
+  "fullTitle": "街美女アルバムセレクション[字][Ｓ]",
   "detail": "２０１８秋",
   "start": 1580027400000,
   "end": 1580028300000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
