@@ -3,13 +3,13 @@
   "category": "music",
   "title": "プレミアＭｅｌｏｄｉＸ！",
   "fullTitle": "プレミアＭｅｌｏｄｉＸ！",
-  "detail": "【ナビゲーター】南海キャンディーズ\n◇番組内容\n【ナビゲーター】南海キャンディーズ\n◇関連情報\n【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪",
+  "detail": "【ゲスト】モーニング娘。’20、TOMORROW　　X　TOGETHER、雨のパレード、Girls・\r\n【ナビゲーター】南海キャンディーズ\n◇番組内容\n【ゲスト】\r\n・モーニング娘。’20　♪LOVEペディア\r\n・TOMORROW　X　TOGETHER　♪9と4分の3番線で君を待つ　(Run　Away)　［Japanese　Ver.］\r\n・雨のパレード　♪BORDERLESS\r\n・Girls・　♪チュワパネ！\r\n【ナビゲーター】南海キャンディーズ\n◇関連情報\n【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪",
   "start": 1580147400000,
   "end": 1580149200000,
   "seconds": 1800,
-  "description": "【ナビゲーター】南海キャンディーズ",
+  "description": "【ゲスト】モーニング娘。’20、TOMORROW　　X　TOGETHER、雨のパレード、Girls・\r\n【ナビゲーター】南海キャンディーズ",
   "extra": {
-    "番組内容": "【ナビゲーター】南海キャンディーズ",
+    "番組内容": "【ゲスト】\r\n・モーニング娘。’20　♪LOVEペディア\r\n・TOMORROW　X　TOGETHER　♪9と4分の3番線で君を待つ　(Run　Away)　［Japanese　Ver.］\r\n・雨のパレード　♪BORDERLESS\r\n・Girls・　♪チュワパネ！\r\n【ナビゲーター】南海キャンディーズ",
     "関連情報": "【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪"
   },
   "channel": {
@@ -22,7 +22,7 @@
     "hasLogoData": true,
     "n": 25
   },
-  "subTitle": "ナビゲーター",
+  "subTitle": "ゲスト",
   "episode": null,
   "flags": []
 }
