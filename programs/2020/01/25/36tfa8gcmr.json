@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "かんたんスマホ【スマートフォン】\n◇お知らせ\n0120-010956",
   "start": 1579937400000,
   "end": 1579939200000,
   "seconds": 1800,
+  "description": "かんたんスマホ【スマートフォン】",
+  "extra": {
+    "お知らせ": "0120-010956"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "スマートフォン",
   "episode": null,
   "flags": []
 }
