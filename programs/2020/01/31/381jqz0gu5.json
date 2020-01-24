@@ -2,11 +2,15 @@
   "id": "381jqz0gu5",
   "category": "hobby",
   "title": "アクティブ１０　理科",
-  "fullTitle": "アクティブ１０　理科[字]",
-  "detail": "",
+  "fullTitle": "アクティブ１０　理科「力学的エネルギー」[字]",
+  "detail": "【語り】早見沙織，梅原裕一郎，隈研吾\n◇出演者\n【語り】早見沙織，梅原裕一郎，隈研吾",
   "start": 1580400600000,
   "end": 1580401200000,
   "seconds": 600,
+  "description": "【語り】早見沙織，梅原裕一郎，隈研吾",
+  "extra": {
+    "出演者": "【語り】早見沙織，梅原裕一郎，隈研吾"
+  },
   "channel": {
     "type": "GR",
     "channel": "13",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "力学的エネルギー",
   "episode": null,
   "flags": [
     "字"

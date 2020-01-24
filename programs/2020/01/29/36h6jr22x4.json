@@ -2,7 +2,7 @@
   "id": "36h6jr22x4",
   "category": "music",
   "title": "彩の国百科",
-  "fullTitle": "彩の国百科[Ｓ]",
+  "fullTitle": "彩の国百科[字][Ｓ]",
   "detail": "埼玉の巨木編",
   "start": 1580295300000,
   "end": 1580295600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
