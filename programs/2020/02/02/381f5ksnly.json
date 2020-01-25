@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksnly",
+  "category": "sports",
+  "title": "全豪オープンテニス２０２０",
+  "fullTitle": "全豪オープンテニス２０２０[字]",
+  "detail": "テニス最高峰の４大大会・グランドスラムのひとつ「全豪オープン」。注目の選手や、世界のトップ選手の試合を中心に熱戦を連日お伝えする。",
+  "start": 1580569500000,
+  "end": 1580577300000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "全豪オープン",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

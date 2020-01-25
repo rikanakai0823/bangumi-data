@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8gdq1",
+  "category": "drama",
+  "title": "今宵、アフレコブースで。",
+  "fullTitle": "[新]今宵、アフレコブースで。",
+  "detail": " ",
+  "start": 1580572800000,
+  "end": 1580574600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

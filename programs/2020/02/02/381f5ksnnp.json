@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksnnp",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース[字]",
+  "detail": "",
+  "start": 1580616000000,
+  "end": 1580616300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
