@@ -1,0 +1,26 @@
+{
+  "id": "38224jveoy",
+  "category": "drama",
+  "title": "番組未定",
+  "fullTitle": "番組未定[字][再]",
+  "detail": "※番組が決まり次第、お知らせいたします。",
+  "start": 1580661000000,
+  "end": 1580664000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
