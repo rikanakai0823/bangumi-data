@@ -2,11 +2,15 @@
   "id": "36h6jr234a",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nスレンダートーンフィットプラス　　　　　０１２０－５５－７８２７",
   "start": 1580707800000,
   "end": 1580709600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "スレンダートーンフィットプラス　　　　　０１２０－５５－７８２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",

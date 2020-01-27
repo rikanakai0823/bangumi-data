@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7zit",
+  "category": "information",
+  "title": "みのがしティーバー",
+  "fullTitle": "みのがしティーバー",
+  "detail": "見逃してしまったあなたに。毎週200番組以上が無料で見られる民放公式ポータル「TVer」。\r\nそんなTVerで配信中の番組から、今話題のものを取り上げます。",
+  "start": 1580745240000,
+  "end": 1580745540000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "TVer",
+  "episode": null,
+  "flags": []
+}

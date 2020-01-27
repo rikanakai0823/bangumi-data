@@ -1,0 +1,23 @@
+{
+  "id": "381f5kstcz",
+  "category": "news",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「大雪」関連",
+  "detail": "",
+  "start": 1580151600000,
+  "end": 1580152200000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "大雪",
+  "episode": null,
+  "flags": []
+}
