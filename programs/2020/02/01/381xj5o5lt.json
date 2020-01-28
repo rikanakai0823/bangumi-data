@@ -1,0 +1,25 @@
+{
+  "id": "381xj5o5lt",
+  "category": "information",
+  "title": "明日よる８時からは池上彰ＳＰ",
+  "fullTitle": "明日よる８時からは池上彰ＳＰ[字]",
+  "detail": "",
+  "start": 1580531400000,
+  "end": 1580538300000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

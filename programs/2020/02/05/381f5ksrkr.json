@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksrkr",
+  "category": "drama",
+  "title": "よるドラ１０分ＰＲ",
+  "fullTitle": "よるドラ「伝説のお母さん」１０分ＰＲ[字]",
+  "detail": "",
+  "start": 1580836500000,
+  "end": 1580837100000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "伝説のお母さん",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
