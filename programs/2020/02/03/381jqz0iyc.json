@@ -2,11 +2,15 @@
   "id": "381jqz0iyc",
   "category": "hobby",
   "title": "おはなしのくに",
-  "fullTitle": "おはなしのくに[解][字]",
-  "detail": "",
+  "fullTitle": "おはなしのくに「はだかの王さま」[解][字]",
+  "detail": "【出演】秋山竜次\n◇出演者\n【出演】秋山竜次",
   "start": 1580688000000,
   "end": 1580688600000,
   "seconds": 600,
+  "description": "【出演】秋山竜次",
+  "extra": {
+    "出演者": "【出演】秋山竜次"
+  },
   "channel": {
     "type": "GR",
     "channel": "13",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "はだかの王さま",
   "episode": null,
   "flags": [
     "解",
