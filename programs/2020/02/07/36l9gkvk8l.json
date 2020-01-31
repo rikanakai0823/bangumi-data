@@ -1,9 +1,9 @@
 {
   "id": "36l9gkvk8l",
   "category": "information",
-  "title": "生活情報３０分",
-  "fullTitle": "生活情報３０分",
-  "detail": "",
+  "title": "生活情報３０分スワロ",
+  "fullTitle": "生活情報３０分【内容】スワロ",
+  "detail": "あなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！　　　【内容】スワロ",
   "start": 1581054900000,
   "end": 1581056700000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "内容",
   "episode": null,
   "flags": []
 }

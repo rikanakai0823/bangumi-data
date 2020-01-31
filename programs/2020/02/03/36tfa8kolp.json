@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "フレーバーストーンダイヤモンドエディション【キッチングッズ】\n◇お知らせ\n0120-4141-81",
   "start": 1580731200000,
   "end": 1580733000000,
   "seconds": 1800,
+  "description": "フレーバーストーンダイヤモンドエディション【キッチングッズ】",
+  "extra": {
+    "お知らせ": "0120-4141-81"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "キッチングッズ",
   "episode": null,
   "flags": []
 }

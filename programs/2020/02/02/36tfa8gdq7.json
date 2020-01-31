@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "フレーバーストーンダイヤモンドエディション【キッチングッズ】\n◇お知らせ\n0120-4141-81",
   "start": 1580587200000,
   "end": 1580589000000,
   "seconds": 1800,
+  "description": "フレーバーストーンダイヤモンドエディション【キッチングッズ】",
+  "extra": {
+    "お知らせ": "0120-4141-81"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "キッチングッズ",
   "episode": null,
   "flags": []
 }
