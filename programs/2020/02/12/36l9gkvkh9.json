@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkvkh9",
+  "category": "news",
+  "title": "ＮＥＷＳチバ６００",
+  "fullTitle": "ＮＥＷＳチバ６００",
+  "detail": "",
+  "start": 1581498000000,
+  "end": 1581498900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

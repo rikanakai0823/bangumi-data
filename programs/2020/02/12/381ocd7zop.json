@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7zop",
+  "category": "variety",
+  "title": "日テレプッシュ",
+  "fullTitle": "日テレプッシュ「今夜くらべてみました傑作選」",
+  "detail": "",
+  "start": 1581436740000,
+  "end": 1581438540000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "今夜くらべてみました傑作選",
+  "episode": null,
+  "flags": []
+}
