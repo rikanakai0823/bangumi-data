@@ -1,12 +1,22 @@
 {
   "id": "381sxrg64d",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "drama",
+  "title": "「病室で念仏を唱えないでください」ダイジェスト",
+  "fullTitle": "「病室で念仏を唱えないでください」ダイジェスト[字]",
+  "detail": "主人公はお坊さんでありながら救命救急医！伊藤英明、中谷美紀、ムロツヨシらが“命と心”を救うため、全力で患者や家族と向き合う！本格医療ヒューマンドラマがここに！\n◇出演者\n伊藤英明、ムロツヨシ、松本穂香、片寄涼太、谷恭輔、うらじぬの、土路生優里、横田真悠、吉田日向／土村芳、安井順平、堀内健、宮崎美子、余貴美子／泉谷しげる、萩原聖人、中谷美紀\r\n\n◇＜原作＞\n『病室で念仏を唱えないでください』　こやす珠世\r\n（小学館「ビッグコミック」連載）\r\n\n◇＜脚本＞\n〓澤智子（「初めて恋をした日に読む話」「あなたのことはそれほど」「Dr.DMAT」）\r\n\n◇音楽\n「I'm Here」　三浦大知\r\n（SONIC GROOVE)\r\n\n◇スタッフ\n演出：平野俊一、岡本伸吾、泉正英　\r\nプロデューサー：峠田浩\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/nembutsu_tbs/\r\n◇twitter\r\n@nembutsu_tbs\r\nhttps://twitter.com/nembutsu_tbs/\r\n◇instagram\r\nhttps://www.instagram.com/nembutsu_tbs/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1581145200000,
   "end": 1581148800000,
   "seconds": 3600,
+  "description": "主人公はお坊さんでありながら救命救急医！伊藤英明、中谷美紀、ムロツヨシらが“命と心”を救うため、全力で患者や家族と向き合う！本格医療ヒューマンドラマがここに！",
+  "extra": {
+    "出演者": "伊藤英明、ムロツヨシ、松本穂香、片寄涼太、谷恭輔、うらじぬの、土路生優里、横田真悠、吉田日向／土村芳、安井順平、堀内健、宮崎美子、余貴美子／泉谷しげる、萩原聖人、中谷美紀\r\n",
+    "＜原作＞": "『病室で念仏を唱えないでください』　こやす珠世\r\n（小学館「ビッグコミック」連載）\r\n",
+    "＜脚本＞": "〓澤智子（「初めて恋をした日に読む話」「あなたのことはそれほど」「Dr.DMAT」）\r\n",
+    "音楽": "「I'm Here」　三浦大知\r\n（SONIC GROOVE)\r\n",
+    "スタッフ": "演出：平野俊一、岡本伸吾、泉正英　\r\nプロデューサー：峠田浩",
+    "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/nembutsu_tbs/\r\n◇twitter\r\n@nembutsu_tbs\r\nhttps://twitter.com/nembutsu_tbs/\r\n◇instagram\r\nhttps://www.instagram.com/nembutsu_tbs/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",
@@ -19,5 +29,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
