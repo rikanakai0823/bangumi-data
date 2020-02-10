@@ -3,13 +3,17 @@
   "category": "music",
   "title": "ＵＴＡＧＥ！",
   "fullTitle": "ＵＴＡＧＥ！[字]",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/UTAGE-SAITEN/",
+  "detail": "2月16日UTAGE!バレンタイン2日後SP!紅白愛の歌合戦！日曜6時に「愛」の贈り物が届きます。\n◇番組内容\n今回のUTAGE!は「バレンタイン2日後SP」と題し、「愛」をテーマに様々なラブソングを披露！歌やダンスや楽器演奏で視聴者の皆さんに愛をお届けします！\r\n\n◇出演者\n【MC】中居正広\r\n【アシスタント】宮田俊哉\r\n【UTAGE! DJ】IVAN\r\n\n◇出演者２\n岡田奈々（AKB48/STU48）/ 柏木由紀（AKB48）/ KABA.ちゃん / 川畑　要（CHEMISTRY）/ 佐々木 萌（エドガー・サリヴァン）/ 島津亜矢 / 島袋寛子 / 高橋　愛 / 貴水博之 / 竹中雄大（Novelbright）/ DA PUMP / TiA / TEE / Toshl / 舞祭組 / BENI / MAX / 三浦祐太朗 / 峯岸みなみ（AKB48）※50音順\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/UTAGE-SAITEN/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1581843600000,
   "end": 1581854040000,
   "seconds": 10440,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "2月16日UTAGE!バレンタイン2日後SP!紅白愛の歌合戦！日曜6時に「愛」の贈り物が届きます。",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/UTAGE-SAITEN/\r\n"
+    "番組内容": "今回のUTAGE!は「バレンタイン2日後SP」と題し、「愛」をテーマに様々なラブソングを披露！歌やダンスや楽器演奏で視聴者の皆さんに愛をお届けします！\r\n",
+    "出演者": "【MC】中居正広\r\n【アシスタント】宮田俊哉\r\n【UTAGE! DJ】IVAN\r\n",
+    "出演者２": "岡田奈々（AKB48/STU48）/ 柏木由紀（AKB48）/ KABA.ちゃん / 川畑　要（CHEMISTRY）/ 佐々木 萌（エドガー・サリヴァン）/ 島津亜矢 / 島袋寛子 / 高橋　愛 / 貴水博之 / 竹中雄大（Novelbright）/ DA PUMP / TiA / TEE / Toshl / 舞祭組 / BENI / MAX / 三浦祐太朗 / 峯岸みなみ（AKB48）※50音順",
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/UTAGE-SAITEN/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +25,7 @@
     "hasLogoData": true,
     "n": 22
   },
-  "subTitle": "",
+  "subTitle": "愛",
   "episode": null,
   "flags": [
     "字"
