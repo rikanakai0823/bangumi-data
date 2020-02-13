@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "ナノインパクトＣｏ１７【発毛促進剤】\n◇お知らせ\n0120-719696",
   "start": 1581712200000,
   "end": 1581714000000,
   "seconds": 1800,
+  "description": "ナノインパクトＣｏ１７【発毛促進剤】",
+  "extra": {
+    "お知らせ": "0120-719696"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "発毛促進剤",
   "episode": null,
   "flags": []
 }
