@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ggk1",
+  "category": "news",
+  "title": "フラッシュ天気（映画ｖｅｒ．）",
+  "fullTitle": "フラッシュ天気（映画「踊ってミタ」ｖｅｒ．）",
+  "detail": " ",
+  "start": 1582306740000,
+  "end": 1582306800000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "踊ってミタ",
+  "episode": null,
+  "flags": []
+}
