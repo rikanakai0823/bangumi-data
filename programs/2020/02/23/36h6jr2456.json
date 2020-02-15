@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr2456",
+  "category": "news",
+  "title": "ふれあい戸田",
+  "fullTitle": "ふれあい戸田[字][Ｓ]",
+  "detail": "『教育の最前線を走る戸田！』～ＰＢＬ～プロジェクト型学習～",
+  "start": 1582416900000,
+  "end": 1582417500000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

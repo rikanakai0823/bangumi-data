@@ -1,0 +1,29 @@
+{
+  "id": "381ocd7zx5",
+  "category": "news",
+  "title": "ＮＮＮ　ストレイトニュース",
+  "fullTitle": "ＮＮＮ　ストレイトニュース[字]",
+  "detail": "最新のニュース、気になる気象情報をお伝えします。\n◇出演者\n豊田順子キャスター",
+  "start": 1582425000000,
+  "end": 1582425900000,
+  "seconds": 900,
+  "description": "最新のニュース、気になる気象情報をお伝えします。",
+  "extra": {
+    "出演者": "豊田順子キャスター"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
