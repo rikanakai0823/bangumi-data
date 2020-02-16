@@ -1,0 +1,25 @@
+{
+  "id": "381jqz043a",
+  "category": "variety",
+  "title": "天才てれびくんＹＯＵ",
+  "fullTitle": "天才てれびくんＹＯＵ[双]",
+  "detail": "",
+  "start": 1582536000000,
+  "end": 1582537500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "双"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kr2f",
+  "category": "news",
+  "title": "フラッシュ天気",
+  "fullTitle": "フラッシュ天気",
+  "detail": " ",
+  "start": 1582473600000,
+  "end": 1582473900000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
