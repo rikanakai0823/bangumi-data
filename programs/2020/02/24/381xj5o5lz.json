@@ -1,8 +1,8 @@
 {
   "id": "381xj5o5lz",
-  "category": "etc",
-  "title": "調整中",
-  "fullTitle": "調整中",
+  "category": "variety",
+  "title": "スカッとジャパン特別版！　内村のアナタこんな人だったのね大賞",
+  "fullTitle": "スカッとジャパン特別版！　内村のアナタこんな人だったのね大賞[字][デ]",
   "detail": "",
   "start": 1582538400000,
   "end": 1582545600000,
@@ -19,5 +19,8 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字",
+    "デ"
+  ]
 }

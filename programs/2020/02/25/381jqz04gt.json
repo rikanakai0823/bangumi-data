@@ -1,0 +1,25 @@
+{
+  "id": "381jqz04gt",
+  "category": "information",
+  "title": "きょうの料理　おさらい和食塾",
+  "fullTitle": "きょうの料理　おさらい和食塾[字]",
+  "detail": "",
+  "start": 1582596000000,
+  "end": 1582597500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
