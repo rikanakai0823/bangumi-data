@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7zyx",
+  "category": "variety",
+  "title": "日テレプッシュ",
+  "fullTitle": "日テレプッシュ「秘密のケンミンＳＨＯＷ傑作選」",
+  "detail": "",
+  "start": 1582646340000,
+  "end": 1582648140000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "秘密のケンミンＳＨＯＷ傑作選",
+  "episode": null,
+  "flags": []
+}

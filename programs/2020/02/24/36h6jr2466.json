@@ -3,10 +3,15 @@
   "category": "music",
   "title": "ＳＳＣ５",
   "fullTitle": "ＳＳＣ５[Ｓ]",
-  "detail": "",
+  "detail": "ＰＩＮＫ  ＣＲＥＳ．「ルーレット」\n◇番組内容\nＰＩＮＫ  ＣＲＥＳ．「ルーレット」\n◇出演者\nＰＩＮＫ  ＣＲＥＳ．「ルーレット」",
   "start": 1582475700000,
   "end": 1582476000000,
   "seconds": 300,
+  "description": "ＰＩＮＫ  ＣＲＥＳ．「ルーレット」",
+  "extra": {
+    "番組内容": "ＰＩＮＫ  ＣＲＥＳ．「ルーレット」",
+    "出演者": "ＰＩＮＫ  ＣＲＥＳ．「ルーレット」"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
+  "subTitle": "ルーレット",
   "episode": null,
   "flags": []
 }

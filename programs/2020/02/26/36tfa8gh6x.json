@@ -1,0 +1,29 @@
+{
+  "id": "36tfa8gh6x",
+  "category": "news",
+  "title": "都議会の焦点",
+  "fullTitle": "都議会の焦点[再]",
+  "detail": "「令和２年第１回定例会」\n◇出演者\n【解説】\r\n内山 融（東京大学 教授）\r\n【司会】\r\n針谷 衣織里",
+  "start": 1582673400000,
+  "end": 1582675200000,
+  "seconds": 1800,
+  "description": "「令和２年第１回定例会」",
+  "extra": {
+    "出演者": "【解説】\r\n内山 融（東京大学 教授）\r\n【司会】\r\n針谷 衣織里"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "令和２年第１回定例会",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

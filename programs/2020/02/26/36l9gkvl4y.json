@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkvl4y",
+  "category": "music",
+  "title": "ザ・カラオケトライアル奈良崎正明",
+  "fullTitle": "ザ・カラオケトライアル[再]【ゲスト】奈良崎正明",
+  "detail": "【ゲスト】奈良崎正明　【審査員長】徳久広司　　【司会】栗田貫一、藤澤希未",
+  "start": 1582714800000,
+  "end": 1582718400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
