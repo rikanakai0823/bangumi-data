@@ -2,11 +2,15 @@
   "id": "381f5ks9ra",
   "category": "news",
   "title": "クローズアップ現代＋",
-  "fullTitle": "クローズアップ現代＋「外国人の孤独死」[字]",
-  "detail": "",
+  "fullTitle": "クローズアップ現代＋[字]",
+  "detail": "【キャスター】武田真一\n◇出演者\n【キャスター】武田真一",
   "start": 1582635600000,
   "end": 1582637400000,
   "seconds": 1800,
+  "description": "【キャスター】武田真一",
+  "extra": {
+    "出演者": "【キャスター】武田真一"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "外国人の孤独死",
+  "subTitle": "キャスター",
   "episode": null,
   "flags": [
     "字"

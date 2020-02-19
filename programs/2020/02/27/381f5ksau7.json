@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksau7",
+  "category": "news",
+  "title": "クローズアップ現代＋",
+  "fullTitle": "クローズアップ現代＋「外国人の孤独死」[字]",
+  "detail": "",
+  "start": 1582808400000,
+  "end": 1582810200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "外国人の孤独死",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
