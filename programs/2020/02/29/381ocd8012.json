@@ -1,0 +1,27 @@
+{
+  "id": "381ocd8012",
+  "category": "sports",
+  "title": "サッカー★アース",
+  "fullTitle": "サッカー★アース",
+  "detail": "◇出演者\n【MC】手越祐也\r\n【解説】北澤豪\r\n【進行】佐藤梨那",
+  "start": 1582909140000,
+  "end": 1582912740000,
+  "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】手越祐也\r\n【解説】北澤豪\r\n【進行】佐藤梨那"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
