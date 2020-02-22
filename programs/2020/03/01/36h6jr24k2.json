@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr24k2",
+  "category": "music",
+  "title": "彩の国百科",
+  "fullTitle": "彩の国百科[字][Ｓ]",
+  "detail": "北條まつり編　県内の四季の様子を音楽に合わせて紹介します。",
+  "start": 1583024400000,
+  "end": 1583025300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
