@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr24pw",
+  "category": "music",
+  "title": "彩の国百科",
+  "fullTitle": "彩の国百科[字][Ｓ]",
+  "detail": "埼玉の巨木編",
+  "start": 1583319300000,
+  "end": 1583319600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
