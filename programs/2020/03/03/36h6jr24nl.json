@@ -3,10 +3,15 @@
   "category": "music",
   "title": "千葉一夫と藍ようこの歌謡音楽館",
   "fullTitle": "千葉一夫と藍ようこの歌謡音楽館[Ｓ]",
-  "detail": "",
+  "detail": "島あきの\n◇番組内容\n島あきの\n◇出演者\n島あきの",
   "start": 1583181000000,
   "end": 1583182800000,
   "seconds": 1800,
+  "description": "島あきの",
+  "extra": {
+    "番組内容": "島あきの",
+    "出演者": "島あきの"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",

@@ -1,0 +1,23 @@
+{
+  "id": "381xj5o5t5",
+  "category": "music",
+  "title": "ＳＯＵＮＤ　ＷＥＡＴＨＥＲ",
+  "fullTitle": "ＳＯＵＮＤ　ＷＥＡＴＨＥＲ",
+  "detail": "",
+  "start": 1583261700000,
+  "end": 1583262000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
