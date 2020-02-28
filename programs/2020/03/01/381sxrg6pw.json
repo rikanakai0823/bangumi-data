@@ -1,14 +1,16 @@
 {
   "id": "381sxrg6pw",
   "category": "information",
-  "title": "メトログ",
-  "fullTitle": "メトログ[字]",
-  "detail": "「メトログ」は、東京メトロ沿線のお出かけスポットを紹介する情報番組です。\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
+  "title": "メトログ▽遊井亮子が麻布十番の具沢山のブリトーを紹介！",
+  "fullTitle": "メトログ[字]▽遊井亮子が麻布十番の具沢山のブリトーを紹介！",
+  "detail": "遊井亮子が東京メトロ麻布十番駅の再発見スポット＆おすすめ店を紹介▽お湯をかけるだけで本格的なお茶漬けが楽しめる椀もなか\n◇番組内容\n麻布十番駅\r\n\n◇出演者\n遊井亮子\r\n\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
   "start": 1583030400000,
   "end": 1583030700000,
   "seconds": 300,
-  "description": "「メトログ」は、東京メトロ沿線のお出かけスポットを紹介する情報番組です。",
+  "description": "遊井亮子が東京メトロ麻布十番駅の再発見スポット＆おすすめ店を紹介▽お湯をかけるだけで本格的なお茶漬けが楽しめる椀もなか",
   "extra": {
+    "番組内容": "麻布十番駅\r\n",
+    "出演者": "遊井亮子\r\n",
     "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/met-log/\r\n◇フェイスブック\r\nhttps://www.facebook.com/metlog.tokyometro\r\n",
     "おことわり": "番組の内容と放送時間は、変更になる場合があります。\r\n"
   },
@@ -22,7 +24,7 @@
     "hasLogoData": true,
     "n": 22
   },
-  "subTitle": "メトログ",
+  "subTitle": "",
   "episode": null,
   "flags": [
     "字"

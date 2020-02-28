@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr2611",
+  "category": "hobby",
+  "title": "日本ふるさと百景",
+  "fullTitle": "日本ふるさと百景[字][Ｓ]",
+  "detail": "三重編＃３",
+  "start": 1583514300000,
+  "end": 1583515800000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

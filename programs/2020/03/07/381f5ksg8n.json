@@ -1,0 +1,29 @@
+{
+  "id": "381f5ksg8n",
+  "category": "information",
+  "title": "デジなび",
+  "fullTitle": "デジなび[字]",
+  "detail": "【声】青木瑠璃子\n◇出演者\n【声】青木瑠璃子",
+  "start": 1583552400000,
+  "end": 1583552520000,
+  "seconds": 120,
+  "description": "【声】青木瑠璃子",
+  "extra": {
+    "出演者": "【声】青木瑠璃子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "声",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
