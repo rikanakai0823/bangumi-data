@@ -1,0 +1,30 @@
+{
+  "id": "381sxrg6wi",
+  "category": "sports",
+  "title": "ダイキンオーキッドレディスゴルフトーナメント　特別編",
+  "fullTitle": "第３３回ダイキンオーキッドレディスゴルフトーナメント　特別編[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/daikingolf/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
+  "start": 1583649000000,
+  "end": 1583654400000,
+  "seconds": 5400,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/daikingolf/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 33,
+  "flags": [
+    "字"
+  ]
+}

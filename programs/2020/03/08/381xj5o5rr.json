@@ -1,0 +1,29 @@
+{
+  "id": "381xj5o5rr",
+  "category": "sports",
+  "title": "名古屋ウィメンズマラソン２０２０",
+  "fullTitle": "名古屋ウィメンズマラソン２０２０[デ]",
+  "detail": "◇おしらせ\n中止の場合は、映画「ベスト・キッド」をお送りします。",
+  "start": 1583625600000,
+  "end": 1583635800000,
+  "seconds": 10200,
+  "description": "",
+  "extra": {
+    "おしらせ": "中止の場合は、映画「ベスト・キッド」をお送りします。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}
