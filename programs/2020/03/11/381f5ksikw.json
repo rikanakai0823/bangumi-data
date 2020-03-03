@@ -1,0 +1,29 @@
+{
+  "id": "381f5ksikw",
+  "category": "information",
+  "title": "ごごナマ",
+  "fullTitle": "ごごナマ[字]",
+  "detail": "【ＭＣ】船越英一郎，美保純，阿部渉\n◇出演者\n【ＭＣ】船越英一郎，美保純，阿部渉",
+  "start": 1583903100000,
+  "end": 1583906400000,
+  "seconds": 3300,
+  "description": "【ＭＣ】船越英一郎，美保純，阿部渉",
+  "extra": {
+    "出演者": "【ＭＣ】船越英一郎，美保純，阿部渉"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "ＭＣ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
