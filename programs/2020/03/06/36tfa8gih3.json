@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "エイジングローズ【化粧品】\n◇おしらせ\n0120-975-823",
   "start": 1583472600000,
   "end": 1583474340000,
   "seconds": 1740,
+  "description": "エイジングローズ【化粧品】",
+  "extra": {
+    "おしらせ": "0120-975-823\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }

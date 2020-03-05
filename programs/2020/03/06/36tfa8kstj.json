@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "電気治療器【医療機器】\n◇おしらせ\n0120-058171",
   "start": 1583490600000,
   "end": 1583492400000,
   "seconds": 1800,
+  "description": "電気治療器【医療機器】",
+  "extra": {
+    "おしらせ": "0120-058171\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "医療機器",
   "episode": null,
   "flags": []
 }
