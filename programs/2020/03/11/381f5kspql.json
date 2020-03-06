@@ -1,0 +1,29 @@
+{
+  "id": "381f5kspql",
+  "category": "documentary",
+  "title": "シリーズ　メルトダウン",
+  "fullTitle": "シリーズ　メルトダウン[字]",
+  "detail": "【語り】糸井羊司\n◇出演者\n【語り】糸井羊司",
+  "start": 1583865180000,
+  "end": 1583865780000,
+  "seconds": 600,
+  "description": "【語り】糸井羊司",
+  "extra": {
+    "出演者": "【語り】糸井羊司"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "語り",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

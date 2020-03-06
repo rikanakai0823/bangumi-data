@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80bx",
+  "category": "information",
+  "title": "番組ナビ",
+  "fullTitle": "番組ナビ[字]",
+  "detail": "",
+  "start": 1584172500000,
+  "end": 1584172800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

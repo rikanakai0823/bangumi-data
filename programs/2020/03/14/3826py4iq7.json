@@ -1,0 +1,23 @@
+{
+  "id": "3826py4iq7",
+  "category": "music",
+  "title": "ミュージックブレイク",
+  "fullTitle": "ミュージックブレイク",
+  "detail": "今話題のアーティストのライブを臨場感いっぱいにお届けします！\r\nこれを見れば音楽通になれる！！",
+  "start": 1584125100000,
+  "end": 1584125400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
