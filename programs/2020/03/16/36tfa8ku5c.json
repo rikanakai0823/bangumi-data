@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ku5c",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「陽春賞」「花月賞」「春水賞」",
+  "start": 1584339600000,
+  "end": 1584345600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
