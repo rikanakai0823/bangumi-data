@@ -1,15 +1,15 @@
 {
   "id": "36rdttkoci",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "title": "洋楽天国＋▽ｓｐｅｃｉａｌ　ｅｄｉｔｉｏｎ",
+  "fullTitle": "洋楽天国＋▽ｓｐｅｃｉａｌ　ｅｄｉｔｉｏｎ　＃３",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n\"Liar\"CAMILA CABELLO\r\n\"Panini\"LIL NAS X\r\n\"Now That I Found You\"CARLY RAE JEPSEN\r\n\"Doin' Time\"LANA DEL REY\r\n\"Single Again\"BIG SEAN\r\n\"Bang\"G-EAZY & TYGA",
   "start": 1584334800000,
   "end": 1584336600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "\"Liar\"CAMILA CABELLO\r\n\"Panini\"LIL NAS X\r\n\"Now That I Found You\"CARLY RAE JEPSEN\r\n\"Doin' Time\"LANA DEL REY\r\n\"Single Again\"BIG SEAN\r\n\"Bang\"G-EAZY & TYGA"
   },
   "channel": {
     "type": "GR",
@@ -22,6 +22,6 @@
     "n": 5
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 3,
   "flags": []
 }
