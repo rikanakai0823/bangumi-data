@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkoqb",
+  "category": "news",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ",
+  "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「岩崎学園」",
+  "detail": "県内の天気予報",
+  "start": 1584618900000,
+  "end": 1584619200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "岩崎学園",
+  "episode": null,
+  "flags": []
+}
