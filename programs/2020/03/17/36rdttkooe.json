@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Boyfriend\"MABEL\r\n\"Middle Child\"TAYLOR HAWKINS & THE COATTAIL RIDERS\r\n【特集】MATTHEW MORRISON\r\n\"Go The Distance\"MATTHEW MORRISON\r\n\"Let Me Down Slow (Acoustic)\"NEW HOPE CLUB\n◇番組内容２\n\"Sickness\"GREY DAZE\r\n\"The Birthday Party\"THE 1975",
   "start": 1584370800000,
   "end": 1584372600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Boyfriend\"MABEL\r\n\"Middle Child\"TAYLOR HAWKINS & THE COATTAIL RIDERS\r\n【特集】MATTHEW MORRISON\r\n\"Go The Distance\"MATTHEW MORRISON\r\n\"Let Me Down Slow (Acoustic)\"NEW HOPE CLUB",
+    "番組内容２": "\"Sickness\"GREY DAZE\r\n\"The Birthday Party\"THE 1975"
   },
   "channel": {
     "type": "GR",

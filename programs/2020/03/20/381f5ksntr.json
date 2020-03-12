@@ -1,0 +1,30 @@
+{
+  "id": "381f5ksntr",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース[二][字]",
+  "detail": "【キャスター】赤松俊理\n◇出演者\n【キャスター】赤松俊理",
+  "start": 1584694800000,
+  "end": 1584695100000,
+  "seconds": 300,
+  "description": "【キャスター】赤松俊理",
+  "extra": {
+    "出演者": "【キャスター】赤松俊理"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "キャスター",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}
