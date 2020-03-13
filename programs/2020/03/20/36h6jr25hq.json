@@ -2,11 +2,15 @@
   "id": "36h6jr25hq",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nクレバーケーン　　　　　　　　　　　　　０１２０－４４－００２７",
   "start": 1584655200000,
   "end": 1584657000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "クレバーケーン　　　　　　　　　　　　　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",

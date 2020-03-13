@@ -2,11 +2,11 @@
   "id": "381f5ksk9v",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース[二][字]",
+  "fullTitle": "ニュース「安倍首相記者会見」[二][字]",
   "detail": "",
   "start": 1584176400000,
-  "end": 1584176700000,
-  "seconds": 300,
+  "end": 1584178200000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "安倍首相記者会見",
   "episode": null,
   "flags": [
     "二",

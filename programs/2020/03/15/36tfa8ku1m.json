@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「ブリリアントカップトライアル」",
+  "detail": "「ブリリアントカップトライアル」\n◇出演者\n【MC】\r\n前半：芦崎愛\r\n後半：山田桃子\r\n【解説】\r\n高橋孝太郎（ケイシュウNEWS）",
   "start": 1584253200000,
   "end": 1584259200000,
   "seconds": 6000,
+  "description": "「ブリリアントカップトライアル」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：芦崎愛\r\n後半：山田桃子\r\n【解説】\r\n高橋孝太郎（ケイシュウNEWS）"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
