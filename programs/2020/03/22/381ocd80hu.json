@@ -1,0 +1,29 @@
+{
+  "id": "381ocd80hu",
+  "category": "variety",
+  "title": "サンバリュ",
+  "fullTitle": "サンバリュ「上書きゴシップ～それちょっと違うんです～」[字]",
+  "detail": "◇出演者\n【MC】秋山竜次（ロバート）、ノブ（千鳥）\r\n【進行】田中みな実",
+  "start": 1584850500000,
+  "end": 1584854100000,
+  "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】秋山竜次（ロバート）、ノブ（千鳥）\r\n【進行】田中みな実"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "上書きゴシップ～それちょっと違うんです～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

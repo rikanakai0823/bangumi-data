@@ -1,0 +1,29 @@
+{
+  "id": "38224jvoys",
+  "category": "sports",
+  "title": "番組未定",
+  "fullTitle": "番組未定[字]",
+  "detail": "※番組が決まり次第、お知らせいたします。\n◇◇番組内容\n.",
+  "start": 1584852900000,
+  "end": 1584858000000,
+  "seconds": 5100,
+  "description": "※番組が決まり次第、お知らせいたします。",
+  "extra": {
+    "◇番組内容": "."
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

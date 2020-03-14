@@ -1,0 +1,23 @@
+{
+  "id": "381ocd80kc",
+  "category": "news",
+  "title": "日テレＮＥＷＳ２４",
+  "fullTitle": "日テレＮＥＷＳ２４",
+  "detail": "",
+  "start": 1584821100000,
+  "end": 1584821400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
