@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkoy2",
+  "category": "news",
+  "title": "神奈川県議会中継",
+  "fullTitle": "神奈川県議会中継「予算委員会」",
+  "detail": "令和２年第１回神奈川県議会定例会の中から、今月１２日に開催された予算委員会の模様を録画で放送します。\r\n【質疑】自民党",
+  "start": 1585128600000,
+  "end": 1585136100000,
+  "seconds": 7500,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "予算委員会",
+  "episode": 1,
+  "flags": []
+}

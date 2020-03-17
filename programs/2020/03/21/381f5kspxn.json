@@ -2,11 +2,15 @@
   "id": "381f5kspxn",
   "category": "documentary",
   "title": "もういちど、日本",
-  "fullTitle": "もういちど、日本[字]",
-  "detail": "",
+  "fullTitle": "もういちど、日本「なにわのなかのおきなわ」[字]",
+  "detail": "【語り】松たか子\n◇出演者\n【語り】松たか子",
   "start": 1584797700000,
   "end": 1584798000000,
   "seconds": 300,
+  "description": "【語り】松たか子",
+  "extra": {
+    "出演者": "【語り】松たか子"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "なにわのなかのおきなわ",
   "episode": null,
   "flags": [
     "字"
