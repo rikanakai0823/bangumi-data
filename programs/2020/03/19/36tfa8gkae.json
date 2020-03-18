@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "杜のすっぽん黒酢【健康食品】\n◇お知らせ\n0120-933-555",
   "start": 1584563400000,
   "end": 1584565200000,
   "seconds": 1800,
+  "description": "杜のすっぽん黒酢【健康食品】",
+  "extra": {
+    "お知らせ": "0120-933-555"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "健康食品",
   "episode": null,
   "flags": []
 }

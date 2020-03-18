@@ -1,0 +1,23 @@
+{
+  "id": "381ocd80k5",
+  "category": "sports",
+  "title": "ラグビー応援ＴＶ　ＯＮＥラグビー",
+  "fullTitle": "ラグビー応援ＴＶ　ＯＮＥラグビー",
+  "detail": "",
+  "start": 1585151940000,
+  "end": 1585153740000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

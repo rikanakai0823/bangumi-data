@@ -1,0 +1,26 @@
+{
+  "id": "381f5ksrel",
+  "category": "news",
+  "title": "視点・論点",
+  "fullTitle": "視点・論点[字][再]",
+  "detail": "",
+  "start": 1585162200000,
+  "end": 1585162800000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
