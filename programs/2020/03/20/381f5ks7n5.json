@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks7n5",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース「五輪聖火　日本に到着」[字]",
+  "detail": "東京五輪の聖火到着　宮城での式典を生中継▽野口みずき・北島康介メダリストと共に",
+  "start": 1584669600000,
+  "end": 1584672840000,
+  "seconds": 3240,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "五輪聖火　日本に到着",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

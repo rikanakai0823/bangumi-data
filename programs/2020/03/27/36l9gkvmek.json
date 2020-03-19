@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkvmek",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ",
+  "fullTitle": "金曜競馬ＣＬＵＢ",
+  "detail": "",
+  "start": 1585310400000,
+  "end": 1585312200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

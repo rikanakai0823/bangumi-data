@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "プロヘマチン原液【ヘアケア用品】\n◇お知らせ\n0120-66-99-88",
   "start": 1584858600000,
   "end": 1584860340000,
   "seconds": 1740,
+  "description": "プロヘマチン原液【ヘアケア用品】",
+  "extra": {
+    "お知らせ": "0120-66-99-88"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "ヘアケア用品",
   "episode": null,
   "flags": []
 }
