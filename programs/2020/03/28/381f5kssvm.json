@@ -1,0 +1,25 @@
+{
+  "id": "381f5kssvm",
+  "category": "information",
+  "title": "土曜スタジオパーク",
+  "fullTitle": "土曜スタジオパーク[字]",
+  "detail": "",
+  "start": 1585371000000,
+  "end": 1585374600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80mk",
+  "category": "variety",
+  "title": "ニノさん",
+  "fullTitle": "ニノさん「〇〇を知らない人」[字]",
+  "detail": "",
+  "start": 1585400400000,
+  "end": 1585404840000,
+  "seconds": 4440,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "〇〇を知らない人",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

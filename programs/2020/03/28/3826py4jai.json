@@ -1,0 +1,30 @@
+{
+  "id": "3826py4jai",
+  "category": "sports",
+  "title": "ＴＨＥフィッシング",
+  "fullTitle": "ＴＨＥフィッシング[字]",
+  "detail": "【ナレーター】窪田等\n◇告知\n＊番組の最後に素敵なプレゼントのお知らせがあります。\n◇関連情報\n【番組公式HP】www.tv-osaka.co.jp",
+  "start": 1585384200000,
+  "end": 1585386000000,
+  "seconds": 1800,
+  "description": "【ナレーター】窪田等",
+  "extra": {
+    "告知": "＊番組の最後に素敵なプレゼントのお知らせがあります。",
+    "関連情報": "【番組公式HP】www.tv-osaka.co.jp"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "ナレーター",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
