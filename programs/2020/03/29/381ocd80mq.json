@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80mq",
+  "category": "information",
+  "title": "日テレポシュレ　３月の１２０分お得情報満載ＳＰ",
+  "fullTitle": "日テレポシュレ　３月の１２０分お得情報満載ＳＰ[再]",
+  "detail": "",
+  "start": 1585417860000,
+  "end": 1585425060000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
