@@ -1,0 +1,26 @@
+{
+  "id": "381jqz0pdq",
+  "category": "variety",
+  "title": "グレーテルのかまど",
+  "fullTitle": "グレーテルのかまど[解][字]",
+  "detail": "",
+  "start": 1585573200000,
+  "end": 1585574700000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
