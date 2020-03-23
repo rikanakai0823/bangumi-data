@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksuzq",
+  "category": "news",
+  "title": "ニュース（関東）",
+  "fullTitle": "ニュース（関東）[字]",
+  "detail": "",
+  "start": 1585624500000,
+  "end": 1585624800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
