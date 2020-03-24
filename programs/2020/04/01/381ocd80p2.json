@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80p2",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「エンタの神様」[字]",
+  "detail": "",
+  "start": 1585742040000,
+  "end": 1585742400000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "エンタの神様",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

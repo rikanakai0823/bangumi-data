@@ -1,15 +1,20 @@
 {
   "id": "381sxrg7hj",
   "category": "music",
-  "title": "ＣＤＴＶライブ！ライブ！",
-  "fullTitle": "[新]ＣＤＴＶライブ！ライブ！[字]",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/cdtv_livelive/",
+  "title": "ＣＤＴＶライブ！ライブ！初回４時間スペシャル",
+  "fullTitle": "[新]ＣＤＴＶライブ！ライブ！初回４時間スペシャル[字][デ]",
+  "detail": "嵐・髭男・三代目・King & Prince・SixTONES・Snow Man・乃木坂・DA PUMP・三浦大知などアーティスト自身が作り上げるＳＰステージ\n◇番組内容\n◇Uruがテレビ初出演＆初歌唱…大ヒットドラマ『テセウスの船』主題歌「あなたがいることで」＆ドラマ『中学聖日記』主題歌「プロローグ」を披露\n◇出演者\n嵐・iri・Uru・AKB48・Official髭男dism・\r\nKis-My-Ft2・King & Prince・三代目J SOUL BROTHERS from EXILE TRIBE・\n◇出演者２\nGENERATIONS from EXILE TRIBE・SixTONES・\r\nSnow Man・DA PUMP・乃木坂46・FLOWER FLOWER\r\n・三浦大知・森山直太朗・\n◇出演者３\nLittle Glee Monster…追加キャスティングは乞うご期待！！\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/cdtv_livelive/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1585562400000,
   "end": 1585576620000,
   "seconds": 14220,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "嵐・髭男・三代目・King & Prince・SixTONES・Snow Man・乃木坂・DA PUMP・三浦大知などアーティスト自身が作り上げるＳＰステージ",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/cdtv_livelive/\r\n"
+    "番組内容": "◇Uruがテレビ初出演＆初歌唱…大ヒットドラマ『テセウスの船』主題歌「あなたがいることで」＆ドラマ『中学聖日記』主題歌「プロローグ」を披露",
+    "出演者": "嵐・iri・Uru・AKB48・Official髭男dism・\r\nKis-My-Ft2・King & Prince・三代目J SOUL BROTHERS from EXILE TRIBE・",
+    "出演者２": "GENERATIONS from EXILE TRIBE・SixTONES・\r\nSnow Man・DA PUMP・乃木坂46・FLOWER FLOWER\r\n・三浦大知・森山直太朗・",
+    "出演者３": "Little Glee Monster…追加キャスティングは乞うご期待！！",
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/cdtv_livelive/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
   },
   "channel": {
     "type": "GR",
@@ -25,6 +30,7 @@
   "episode": 1,
   "flags": [
     "新",
-    "字"
+    "字",
+    "デ"
   ]
 }
