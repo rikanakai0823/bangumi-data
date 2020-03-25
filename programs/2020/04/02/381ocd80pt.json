@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80pt",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まもなくＤＸＤＸ」[字]",
+  "detail": "",
+  "start": 1585828440000,
+  "end": 1585828800000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "まもなくＤＸＤＸ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

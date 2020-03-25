@@ -1,15 +1,17 @@
 {
   "id": "36rdttkp5a",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "title": "洋楽天国＋▽グラミー賞特集",
+  "fullTitle": "洋楽天国＋▽第６２回グラミー賞特集",
+  "detail": "世界で最も権威のある音楽賞のひとつ、グラミー賞。今年２月に発表された受賞曲のミュージックビデオを紹介！\n◇番組内容\n今年２月に開催された第６２回グラミー賞。\r\n主要４部門を含む５部門受賞のビリー・アイリッシュ、パフォーマンスも披露したリゾ、リル・ナズXなど、受賞作品のミュージックビデオを紹介！！\n◇選曲１\n\"Truth Hurts\"LIZZO\r\n\"Got To Keep On\"THE CHEMICAL BROTHERS\r\n\"Bring My Flowers Now\"TANYA TUCKER\r\n\"Night Running\"CAGE THE ELEPHANT with BECK\r\n\"Harmony Hall\"VAMPIRE WEEKEND\n◇選曲２\n\"A Lot\"21 SAVAGE feat. J.COLE\r\n\"Earfquake\"TYLER THE CREATOR\r\n\"Higher\"DJ KHALED feat. NIPSEY HUSSLE & JOHN LEGEND\r\n\"Old Town Road (Remix)\"LIL NAS X feat. BILLY RAY CYRUS\r\n\"bad guy\"BILLIE EILISH",
   "start": 1585447200000,
   "end": 1585449000000,
   "seconds": 1800,
-  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "description": "世界で最も権威のある音楽賞のひとつ、グラミー賞。今年２月に発表された受賞曲のミュージックビデオを紹介！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "今年２月に開催された第６２回グラミー賞。\r\n主要４部門を含む５部門受賞のビリー・アイリッシュ、パフォーマンスも披露したリゾ、リル・ナズXなど、受賞作品のミュージックビデオを紹介！！",
+    "選曲１": "\"Truth Hurts\"LIZZO\r\n\"Got To Keep On\"THE CHEMICAL BROTHERS\r\n\"Bring My Flowers Now\"TANYA TUCKER\r\n\"Night Running\"CAGE THE ELEPHANT with BECK\r\n\"Harmony Hall\"VAMPIRE WEEKEND",
+    "選曲２": "\"A Lot\"21 SAVAGE feat. J.COLE\r\n\"Earfquake\"TYLER THE CREATOR\r\n\"Higher\"DJ KHALED feat. NIPSEY HUSSLE & JOHN LEGEND\r\n\"Old Town Road (Remix)\"LIL NAS X feat. BILLY RAY CYRUS\r\n\"bad guy\"BILLIE EILISH"
   },
   "channel": {
     "type": "GR",
@@ -22,6 +24,6 @@
     "n": 5
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 62,
   "flags": []
 }

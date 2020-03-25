@@ -1,0 +1,25 @@
+{
+  "id": "381f5kua7c",
+  "category": "sports",
+  "title": "競泳日本選手権～東京オリンピック代表決定戦～",
+  "fullTitle": "第９６回競泳日本選手権～東京オリンピック代表決定戦～[字]",
+  "detail": "～東京アクアティクスセンターから中継～　［延伸のとき以降の番組に変更あり］",
+  "start": 1585817940000,
+  "end": 1585821600000,
+  "seconds": 3660,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 96,
+  "flags": [
+    "字"
+  ]
+}
