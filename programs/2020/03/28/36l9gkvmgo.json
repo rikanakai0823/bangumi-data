@@ -2,7 +2,7 @@
   "id": "36l9gkvmgo",
   "category": "hobby",
   "title": "ガチ釣り",
-  "fullTitle": "ガチ釣り",
+  "fullTitle": "ガチ釣り[終]",
   "detail": "",
   "start": 1585342800000,
   "end": 1585344540000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }
