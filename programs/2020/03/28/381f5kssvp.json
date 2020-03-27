@@ -2,11 +2,11 @@
   "id": "381f5kssvp",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "fullTitle": "ニュース「新型コロナ最新情報」[字]",
   "detail": "",
   "start": 1585375200000,
-  "end": 1585375500000,
-  "seconds": 300,
+  "end": 1585375800000,
+  "seconds": 600,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "新型コロナ最新情報",
   "episode": null,
   "flags": [
     "字"

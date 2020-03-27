@@ -1,0 +1,25 @@
+{
+  "id": "36rdttkpq1",
+  "category": "music",
+  "title": "関内デビルの泉",
+  "fullTitle": "[新]関内デビルの泉",
+  "detail": "　",
+  "start": 1585926000000,
+  "end": 1585926900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

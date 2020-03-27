@@ -1,12 +1,12 @@
 {
   "id": "381f5kstop",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース",
+  "fullTitle": "ニュース「新型コロナ最新情報」[字]",
   "detail": "",
-  "start": 1585443600000,
-  "end": 1585443900000,
-  "seconds": 300,
+  "start": 1585445400000,
+  "end": 1585446000000,
+  "seconds": 600,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "新型コロナ最新情報",
   "episode": null,
   "flags": [
     "字"

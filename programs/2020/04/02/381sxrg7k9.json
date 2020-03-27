@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "その旅、便乗してもいいですか？",
   "fullTitle": "その旅、便乗してもいいですか？[字]",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/program/binjo-tabi_20200402/",
   "start": 1585839360000,
   "end": 1585842900000,
   "seconds": 3540,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/program/binjo-tabi_20200402/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",

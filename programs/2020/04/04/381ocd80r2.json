@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80r2",
+  "category": "variety",
+  "title": "嵐にしやがれ　特別版",
+  "fullTitle": "嵐にしやがれ　特別版[字]",
+  "detail": "",
+  "start": 1585974600000,
+  "end": 1585980000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "381sxrg7vq",
+  "category": "information",
+  "title": "「ＭＩＵ４０４」ナビ",
+  "fullTitle": "「ＭＩＵ４０４」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/MIU404_TBS/",
+  "start": 1585983600000,
+  "end": 1585985400000,
+  "seconds": 1800,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/MIU404_TBS/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
