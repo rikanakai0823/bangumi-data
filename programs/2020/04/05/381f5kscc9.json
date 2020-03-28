@@ -1,0 +1,25 @@
+{
+  "id": "381f5kscc9",
+  "category": "variety",
+  "title": "ジンセイＱＵＥＳＴ生放送　日村の大冒険",
+  "fullTitle": "ジンセイＱＵＥＳＴ生放送　日村の大冒険[字]",
+  "detail": "",
+  "start": 1586070000000,
+  "end": 1586073600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

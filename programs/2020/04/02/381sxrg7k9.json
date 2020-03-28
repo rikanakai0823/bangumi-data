@@ -2,14 +2,16 @@
   "id": "381sxrg7k9",
   "category": "variety",
   "title": "その旅、便乗してもいいですか？",
-  "fullTitle": "その旅、便乗してもいいですか？[字]",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/program/binjo-tabi_20200402/",
+  "fullTitle": "その旅、便乗してもいいですか？【大輔・SixTONESジェシー＆樹・麻耶・津田】",
+  "detail": "[字]街ゆく旅人に便乗する完全アポなし旅！スタート地点熱海から一体どこへ連れて行かれるのか!?予想外のハプニング＆奇跡の連続！ドッキリサプライズに宮川大輔、田中樹…涙\n◇出演者\n宮川大輔\r\n小林麻耶\r\nジェシー（SixTONES）\r\n田中樹（SixTONES）\r\n津田篤宏（ダイアン）\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/program/binjo-tabi_20200402/\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
   "start": 1585839360000,
   "end": 1585842900000,
   "seconds": 3540,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "[字]街ゆく旅人に便乗する完全アポなし旅！スタート地点熱海から一体どこへ連れて行かれるのか!?予想外のハプニング＆奇跡の連続！ドッキリサプライズに宮川大輔、田中樹…涙",
   "extra": {
-    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/program/binjo-tabi_20200402/\r\n"
+    "出演者": "宮川大輔\r\n小林麻耶\r\nジェシー（SixTONES）\r\n田中樹（SixTONES）\r\n津田篤宏（ダイアン）",
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/program/binjo-tabi_20200402/",
+    "おことわり": "番組の内容と放送時間は、変更になる場合があります。"
   },
   "channel": {
     "type": "GR",
@@ -21,9 +23,7 @@
     "hasLogoData": true,
     "n": 22
   },
-  "subTitle": "",
+  "subTitle": "大輔・SixTONESジェシー＆樹・麻耶・津田",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }

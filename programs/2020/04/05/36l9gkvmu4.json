@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkvmu4",
+  "category": "information",
+  "title": "生活情報１１５分",
+  "fullTitle": "生活情報１１５分",
+  "detail": "",
+  "start": 1586080800000,
+  "end": 1586087700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
