@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80s9",
+  "category": "variety",
+  "title": "友近ゆりやんの時間",
+  "fullTitle": "[新]友近ゆりやんの時間",
+  "detail": "",
+  "start": 1586105400000,
+  "end": 1586106300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

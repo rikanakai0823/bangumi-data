@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80s8",
+  "category": "information",
+  "title": "イントロ",
+  "fullTitle": "[新]イントロ",
+  "detail": "",
+  "start": 1586104500000,
+  "end": 1586105400000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
