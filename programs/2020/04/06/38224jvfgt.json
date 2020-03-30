@@ -1,12 +1,12 @@
 {
   "id": "38224jvfgt",
   "category": "drama",
-  "title": "ゴゴワイド",
-  "fullTitle": "ゴゴワイド[字][再]",
-  "detail": "テレビ朝日がかつて放送したドラマの中から、選りすぐりの番組をお届けします。午後のひと時、人気ドラマをたっぷりとお楽しみ下さい！",
+  "title": "トリック",
+  "fullTitle": "トリック　　＃７[字][再]",
+  "detail": "",
   "start": 1586148540000,
-  "end": 1586155380000,
-  "seconds": 6840,
+  "end": 1586152620000,
+  "seconds": 4080,
   "channel": {
     "type": "GR",
     "channel": "11",
@@ -18,7 +18,7 @@
     "n": 18
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 7,
   "flags": [
     "字",
     "再"

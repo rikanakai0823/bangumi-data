@@ -3,13 +3,14 @@
   "category": "sports",
   "title": "ＢＡＣＨプラザ",
   "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
-  "detail": "「特集」\n◇出演者\n井上英里香",
+  "detail": "「ボートレース戸田」\n◇番組内容\n▽ボートレース戸田：第51回報知新聞社杯・最終日\n◇出演者\n堂前英男",
   "start": 1585661400000,
   "end": 1585663200000,
   "seconds": 1800,
-  "description": "「特集」",
+  "description": "「ボートレース戸田」",
   "extra": {
-    "出演者": "井上英里香"
+    "番組内容": "▽ボートレース戸田：第51回報知新聞社杯・最終日",
+    "出演者": "堂前英男"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +22,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "特集",
+  "subTitle": "ボートレース戸田",
   "episode": null,
   "flags": []
 }

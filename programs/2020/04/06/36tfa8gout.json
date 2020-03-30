@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8gout",
+  "category": "drama",
+  "title": "ドラマ",
+  "fullTitle": "ドラマ「田園ボーイズ」[終]",
+  "detail": " ",
+  "start": 1586172600000,
+  "end": 1586174160000,
+  "seconds": 1560,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "田園ボーイズ",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}
