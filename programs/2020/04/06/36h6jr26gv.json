@@ -3,10 +3,15 @@
   "category": "music",
   "title": "ＳＳＣ５",
   "fullTitle": "ＳＳＣ５[Ｓ]",
-  "detail": "",
+  "detail": "間々田優「赤い月・ウサギ」\n◇番組内容\n間々田優「赤い月・ウサギ」\n◇出演者\n間々田優「赤い月・ウサギ」",
   "start": 1586104500000,
   "end": 1586104800000,
   "seconds": 300,
+  "description": "間々田優「赤い月・ウサギ」",
+  "extra": {
+    "番組内容": "間々田優「赤い月・ウサギ」",
+    "出演者": "間々田優「赤い月・ウサギ」"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
+  "subTitle": "赤い月・ウサギ",
   "episode": null,
   "flags": []
 }
