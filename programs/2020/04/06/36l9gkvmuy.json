@@ -1,12 +1,16 @@
 {
   "id": "36l9gkvmuy",
   "category": "information",
-  "title": "生活情報３０分",
-  "fullTitle": "生活情報３０分",
-  "detail": "",
+  "title": "生活情報３０分すっぽん黒にんにく卵黄油",
+  "fullTitle": "生活情報３０分【内容】すっぽん黒にんにく卵黄油",
+  "detail": "すっぽん黒にんにく徳之島編　【内容】すっぽん黒にんにく卵黄油　【電話】０１２０－３６５－４４４\n◇番組内容",
   "start": 1586131200000,
   "end": 1586133000000,
   "seconds": 1800,
+  "description": "すっぽん黒にんにく徳之島編　【内容】すっぽん黒にんにく卵黄油　【電話】０１２０－３６５－４４４",
+  "extra": {
+    "番組内容": ""
+  },
   "channel": {
     "type": "GR",
     "channel": "17",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "内容",
   "episode": null,
   "flags": []
 }

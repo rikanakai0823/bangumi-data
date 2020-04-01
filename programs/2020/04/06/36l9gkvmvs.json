@@ -1,9 +1,9 @@
 {
   "id": "36l9gkvmvs",
   "category": "music",
-  "title": "のぶえの歌謡学園",
-  "fullTitle": "のぶえの歌謡学園[再]",
-  "detail": "",
+  "title": "のぶえの歌謡学園斬波",
+  "fullTitle": "のぶえの歌謡学園[再]【ゲスト】斬波",
+  "detail": "【出演】松原のぶえ、川神あい、ＨＡＮＺＯ、沢田正人　　【ゲスト】斬波",
   "start": 1586178000000,
   "end": 1586179800000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "ゲスト",
   "episode": null,
   "flags": [
     "再"

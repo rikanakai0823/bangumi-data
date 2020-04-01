@@ -1,0 +1,26 @@
+{
+  "id": "381jqz04dy",
+  "category": "welfare",
+  "title": "バリバラ",
+  "fullTitle": "バリバラ[解][字]",
+  "detail": "",
+  "start": 1586430000000,
+  "end": 1586431800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
