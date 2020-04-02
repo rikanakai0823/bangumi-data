@@ -1,0 +1,29 @@
+{
+  "id": "381f5ksgrm",
+  "category": "information",
+  "title": "ガッテン！２分ミニ",
+  "fullTitle": "ガッテン！２分ミニ「ビタミンＤ」[字]",
+  "detail": "【司会】小野文惠\n◇出演者\n【司会】小野文惠",
+  "start": 1586135520000,
+  "end": 1586135640000,
+  "seconds": 120,
+  "description": "【司会】小野文惠",
+  "extra": {
+    "出演者": "【司会】小野文惠"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "ビタミンＤ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

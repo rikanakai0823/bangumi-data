@@ -2,7 +2,7 @@
   "id": "381f5kseev",
   "category": "news",
   "title": "国際報道２０２０　スペシャル",
-  "fullTitle": "国際報道２０２０　スペシャル",
+  "fullTitle": "国際報道２０２０　スペシャル[字]",
   "detail": "",
   "start": 1586077500000,
   "end": 1586079720000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

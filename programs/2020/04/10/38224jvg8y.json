@@ -1,0 +1,25 @@
+{
+  "id": "38224jvg8y",
+  "category": "variety",
+  "title": "天命ナインティナイン",
+  "fullTitle": "天命ナインティナイン[字]",
+  "detail": "天命ナインティナイン",
+  "start": 1586528100000,
+  "end": 1586531700000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
