@@ -1,0 +1,27 @@
+{
+  "id": "381ocd80w3",
+  "category": "anime",
+  "title": "ハクション大魔王２０２０",
+  "fullTitle": "[新]ハクション大魔王２０２０[字][デ]",
+  "detail": "ハクション大魔王２０２０",
+  "start": 1586593800000,
+  "end": 1586595600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字",
+    "デ"
+  ]
+}
