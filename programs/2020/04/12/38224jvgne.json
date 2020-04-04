@@ -1,0 +1,25 @@
+{
+  "id": "38224jvgne",
+  "category": "variety",
+  "title": "バナナドライ部",
+  "fullTitle": "バナナドライ部[字]",
+  "detail": "次世代を担うバラエティを中心に、旅・グルメ・情報などのスペシャル番組を放送！日曜の午前中にふさわしい作品をお届けします。",
+  "start": 1586653200000,
+  "end": 1586659800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

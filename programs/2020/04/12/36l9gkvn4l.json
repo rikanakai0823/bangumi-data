@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkvn4l",
+  "category": "music",
+  "title": "ザ・カラオケトライアル喜納昌吉",
+  "fullTitle": "ザ・カラオケトライアル[再]【ゲスト】喜納昌吉",
+  "detail": "【ゲスト】喜納昌吉　【審査員長】徳久広司　　【司会】栗田貫一、藤澤希未",
+  "start": 1586674800000,
+  "end": 1586678400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

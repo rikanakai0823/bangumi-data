@@ -1,0 +1,23 @@
+{
+  "id": "381f5ksezb",
+  "category": "etc",
+  "title": "セレクション",
+  "fullTitle": "セレクション",
+  "detail": "",
+  "start": 1586666700000,
+  "end": 1586667000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
