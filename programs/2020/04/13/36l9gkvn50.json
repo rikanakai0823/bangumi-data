@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkvn50",
+  "category": "variety",
+  "title": "ミクチャＴＶ",
+  "fullTitle": "ミクチャＴＶ",
+  "detail": "",
+  "start": 1586703600000,
+  "end": 1586705400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

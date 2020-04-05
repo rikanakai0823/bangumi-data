@@ -1,0 +1,30 @@
+{
+  "id": "3826py4jzo",
+  "category": "information",
+  "title": "東京ＧＯＯＤ！",
+  "fullTitle": "東京ＧＯＯＤ！[字]",
+  "detail": "東京の隠れた魅力を紹介する番組。歴史ある場所、施設、イベントや人など、様々な「GOOD!」と出会います。出会った「GOOD!」は番組公式インスタグラムにも投稿されます。\n◇出演者\n副島淳\n◇関連情報\n【番組公式ＨＰ】\r\nwww.tv-tokyo.co.jp/tokyo-good/",
+  "start": 1586785680000,
+  "end": 1586786040000,
+  "seconds": 360,
+  "description": "東京の隠れた魅力を紹介する番組。歴史ある場所、施設、イベントや人など、様々な「GOOD!」と出会います。出会った「GOOD!」は番組公式インスタグラムにも投稿されます。",
+  "extra": {
+    "出演者": "副島淳",
+    "関連情報": "【番組公式ＨＰ】\r\nwww.tv-tokyo.co.jp/tokyo-good/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

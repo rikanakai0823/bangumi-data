@@ -1,0 +1,30 @@
+{
+  "id": "381sxrg7wj",
+  "category": "variety",
+  "title": "クイズ！ＴＨＥ違和感",
+  "fullTitle": "[新]クイズ！ＴＨＥ違和感[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/quiziwakan_2020/",
+  "start": 1586772000000,
+  "end": 1586782800000,
+  "seconds": 10800,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/quiziwakan_2020/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}
