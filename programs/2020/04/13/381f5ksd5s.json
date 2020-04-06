@@ -3,10 +3,14 @@
   "category": "drama",
   "title": "５分でわかる",
   "fullTitle": "５分でわかる「麒麟（きりん）がくる」[字]",
-  "detail": "",
+  "detail": "◇番組内容\n道三は頼芸と一戦まじえるという。",
   "start": 1586704200000,
   "end": 1586704500000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "番組内容": "道三は頼芸と一戦まじえるという。"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",

@@ -3,10 +3,15 @@
   "category": "sports",
   "title": "ＢＡＣＨプラザ",
   "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
-  "detail": "",
+  "detail": "「大宮競輪」\n◇番組内容\n▽大宮競輪：第19回日本トーター杯・２日目\n◇出演者\n堂前英男",
   "start": 1586525400000,
   "end": 1586527200000,
   "seconds": 1800,
+  "description": "「大宮競輪」",
+  "extra": {
+    "番組内容": "▽大宮競輪：第19回日本トーター杯・２日目",
+    "出演者": "堂前英男"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
+  "subTitle": "大宮競輪",
   "episode": null,
   "flags": []
 }
