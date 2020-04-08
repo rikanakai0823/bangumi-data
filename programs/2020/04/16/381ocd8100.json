@@ -1,0 +1,26 @@
+{
+  "id": "381ocd8100",
+  "category": "variety",
+  "title": "秘密のケンミンＳＨＯＷ極",
+  "fullTitle": "秘密のケンミンＳＨＯＷ極[字][デ]",
+  "detail": "秘密のケンミンＳＨＯＷ極",
+  "start": 1587038400000,
+  "end": 1587041640000,
+  "seconds": 3240,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

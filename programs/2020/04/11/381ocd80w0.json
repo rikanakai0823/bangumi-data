@@ -3,10 +3,14 @@
   "category": "information",
   "title": "番組ナビ",
   "fullTitle": "番組ナビ[字]",
-  "detail": "",
+  "detail": "近日スタートの新水曜ドラマ「ハケンの品格」の見どころをナビゲートします。\n◇出演者\n【ナレーター】杉原凛（日テレアナウンサー）",
   "start": 1586584200000,
   "end": 1586584500000,
   "seconds": 300,
+  "description": "近日スタートの新水曜ドラマ「ハケンの品格」の見どころをナビゲートします。",
+  "extra": {
+    "出演者": "【ナレーター】杉原凛（日テレアナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "",
+  "subTitle": "ハケンの品格",
   "episode": null,
   "flags": [
     "字"

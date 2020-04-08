@@ -1,0 +1,25 @@
+{
+  "id": "381ocd811v",
+  "category": "drama",
+  "title": "未定（仮）",
+  "fullTitle": "未定（仮）[字]",
+  "detail": "",
+  "start": 1586610000000,
+  "end": 1586613240000,
+  "seconds": 3240,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
