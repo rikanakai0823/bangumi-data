@@ -2,11 +2,11 @@
   "id": "381f5ksab1",
   "category": "news",
   "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "fullTitle": "ニュース・気象情報「小池都知事会見」[字]",
   "detail": "",
   "start": 1586494800000,
-  "end": 1586495100000,
-  "seconds": 300,
+  "end": 1586496000000,
+  "seconds": 1200,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "小池都知事会見",
   "episode": null,
   "flags": [
     "字"

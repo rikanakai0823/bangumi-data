@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "プレミアムあらごし【ジュース】\n◇おしらせ\n0120-601-430",
   "start": 1586554200000,
   "end": 1586556000000,
   "seconds": 1800,
+  "description": "プレミアムあらごし【ジュース】",
+  "extra": {
+    "おしらせ": "0120-601-430\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "ジュース",
   "episode": null,
   "flags": []
 }

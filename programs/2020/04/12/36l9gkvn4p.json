@@ -1,9 +1,9 @@
 {
   "id": "36l9gkvn4p",
   "category": "news",
-  "title": "ＮＥＷＳチバ６００▽鈴木麻夏",
-  "fullTitle": "ＮＥＷＳチバ６００▽【出演】鈴木麻夏",
-  "detail": "▽県内ニュース　▽出演／鈴木麻夏アナウンサー",
+  "title": "ＮＥＷＳチバ６００▽県内ニュース",
+  "fullTitle": "ＮＥＷＳチバ６００▽県内ニュース",
+  "detail": "▽県内ニュース",
   "start": 1586682000000,
   "end": 1586682300000,
   "seconds": 300,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "出演",
+  "subTitle": "",
   "episode": null,
   "flags": []
 }

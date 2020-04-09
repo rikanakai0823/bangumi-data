@@ -1,0 +1,23 @@
+{
+  "id": "381f5ksl8u",
+  "category": "sports",
+  "title": "テレビ体操・みんなの体操のお知らせ",
+  "fullTitle": "テレビ体操・みんなの体操のお知らせ",
+  "detail": "",
+  "start": 1586825640000,
+  "end": 1586825700000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
