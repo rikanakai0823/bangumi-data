@@ -2,7 +2,7 @@
   "id": "381f5ksjau",
   "category": "information",
   "title": "新型コロナウイルス　医師が伝えたいこと",
-  "fullTitle": "新型コロナウイルス　医師が伝えたいこと",
+  "fullTitle": "新型コロナウイルス　医師が伝えたいこと[字]",
   "detail": "",
   "start": 1587096300000,
   "end": 1587096600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
