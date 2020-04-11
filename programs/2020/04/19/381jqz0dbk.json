@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0dbk",
+  "category": "music",
+  "title": "クラシック音楽館",
+  "fullTitle": "クラシック音楽館[SS]",
+  "detail": "",
+  "start": 1587297600000,
+  "end": 1587304800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}
