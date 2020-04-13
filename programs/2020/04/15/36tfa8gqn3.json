@@ -2,7 +2,7 @@
   "id": "36tfa8gqn3",
   "category": "hobby",
   "title": "ＴＯＫＹＯおはようスクール",
-  "fullTitle": "ＴＯＫＹＯおはようスクール",
+  "fullTitle": "[新]ＴＯＫＹＯおはようスクール",
   "detail": " ",
   "start": 1586907000000,
   "end": 1586908800000,
@@ -18,6 +18,8 @@
     "n": 32
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }
