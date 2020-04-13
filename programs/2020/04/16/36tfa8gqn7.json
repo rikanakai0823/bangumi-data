@@ -3,10 +3,14 @@
   "category": "hobby",
   "title": "ＴＯＫＹＯおはようスクール",
   "fullTitle": "ＴＯＫＹＯおはようスクール",
-  "detail": " ",
+  "detail": "◇出演者\n【ＭＣ】\r\n小林よしひさ ほか",
   "start": 1586993400000,
   "end": 1586995200000,
   "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "出演者": "【ＭＣ】\r\n小林よしひさ ほか"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
