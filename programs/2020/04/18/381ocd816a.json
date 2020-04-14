@@ -1,0 +1,25 @@
+{
+  "id": "381ocd816a",
+  "category": "drama",
+  "title": "日曜ドラマ　　再放送",
+  "fullTitle": "日曜ドラマ　「美食探偵　明智五郎」　第１話再放送[字]",
+  "detail": "",
+  "start": 1587193200000,
+  "end": 1587196800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "美食探偵　明智五郎",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
