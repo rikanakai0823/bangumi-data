@@ -1,0 +1,27 @@
+{
+  "id": "381ocd816b",
+  "category": "drama",
+  "title": "木曜ドラマＦスペシャル企画",
+  "fullTitle": "木曜ドラマＦ「ギルティ～この恋は罪ですか？～」スペシャル企画[多][字][デ]",
+  "detail": "",
+  "start": 1587653940000,
+  "end": 1587657240000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "ギルティ～この恋は罪ですか？～",
+  "episode": null,
+  "flags": [
+    "多",
+    "字",
+    "デ"
+  ]
+}
