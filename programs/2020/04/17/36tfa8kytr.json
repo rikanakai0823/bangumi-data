@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": "ビフィコロンＳ【機能性表示食品】",
+  "detail": "ビフィコロンＳ【機能性表示食品】\n◇おしらせ\n0120-240264",
   "start": 1587119400000,
   "end": 1587121200000,
   "seconds": 1800,
+  "description": "ビフィコロンＳ【機能性表示食品】",
+  "extra": {
+    "おしらせ": "0120-240264\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
