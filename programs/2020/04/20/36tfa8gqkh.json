@@ -2,7 +2,7 @@
   "id": "36tfa8gqkh",
   "category": "news",
   "title": "東京インフォメーションイブニング",
-  "fullTitle": "東京インフォメーションイブニング",
+  "fullTitle": "[新]東京インフォメーションイブニング",
   "detail": " ",
   "start": 1587374700000,
   "end": 1587375000000,
@@ -18,6 +18,8 @@
     "n": 32
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }
