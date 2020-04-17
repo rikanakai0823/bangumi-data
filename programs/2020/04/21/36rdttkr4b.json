@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Season Ticket Holder\"\r\nRICK ROSS feat.D.WADE, RAPHAEL SAADIQ & UD\r\n\"What Kinda Music\"TOM MISCH & YUSSEF DAYES\r\n\"Didn't I\"ONEREPUBLIC\n◇番組内容２\n\"GUESS WHAT\"RUSS feat.RICK ROSS\r\n\"Keep It Gold\"SURFACES\r\n\"Don’t Waste My Time\"USHER feat.ELLA MAI",
   "start": 1587394800000,
   "end": 1587396600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Season Ticket Holder\"\r\nRICK ROSS feat.D.WADE, RAPHAEL SAADIQ & UD\r\n\"What Kinda Music\"TOM MISCH & YUSSEF DAYES\r\n\"Didn't I\"ONEREPUBLIC",
+    "番組内容２": "\"GUESS WHAT\"RUSS feat.RICK ROSS\r\n\"Keep It Gold\"SURFACES\r\n\"Don’t Waste My Time\"USHER feat.ELLA MAI"
   },
   "channel": {
     "type": "GR",
