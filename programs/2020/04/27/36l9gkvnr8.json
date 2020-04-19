@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkvnr8",
+  "category": "news",
+  "title": "アクアワールド・大洗　天気予報",
+  "fullTitle": "アクアワールド・大洗　天気予報",
+  "detail": "",
+  "start": 1587988500000,
+  "end": 1587988800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
