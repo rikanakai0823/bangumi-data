@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkvnrv",
+  "category": "music",
+  "title": "のぶえの歌謡学園",
+  "fullTitle": "のぶえの歌謡学園[終]",
+  "detail": "",
+  "start": 1588030200000,
+  "end": 1588032000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

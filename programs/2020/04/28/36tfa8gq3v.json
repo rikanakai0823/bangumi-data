@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8gq3v",
+  "category": "news",
+  "title": "東京インフォメーションイブニング",
+  "fullTitle": "東京インフォメーションイブニング",
+  "detail": " ",
+  "start": 1588065900000,
+  "end": 1588066200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
