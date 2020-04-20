@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "知事定例記者会見",
   "fullTitle": "知事定例記者会見",
-  "detail": "",
+  "detail": "▽「知事発表」○新型コロナウイルス感染症に係る対応について\n◇番組内容\n▽「知事発表」○新型コロナウイルス感染症に係る対応について",
   "start": 1587445140000,
   "end": 1587447000000,
   "seconds": 1860,
+  "description": "▽「知事発表」○新型コロナウイルス感染症に係る対応について",
+  "extra": {
+    "番組内容": "▽「知事発表」○新型コロナウイルス感染症に係る対応について"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
+  "subTitle": "知事発表",
   "episode": null,
   "flags": []
 }

@@ -2,7 +2,7 @@
   "id": "381f5ksjk0",
   "category": "information",
   "title": "先どり　きょうの健康",
-  "fullTitle": "先どり　きょうの健康[字]",
+  "fullTitle": "先どり　きょうの健康[解][字]",
   "detail": "",
   "start": 1587692400000,
   "end": 1587693300000,
@@ -20,6 +20,7 @@
   "subTitle": "",
   "episode": null,
   "flags": [
+    "解",
     "字"
   ]
 }
