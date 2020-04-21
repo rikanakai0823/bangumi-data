@@ -3,10 +3,14 @@
   "category": "news",
   "title": "東京インフォメーションイブニング",
   "fullTitle": "東京インフォメーションイブニング",
-  "detail": " ",
+  "detail": "◇出演者\n【出演】\r\n久保井朝美",
   "start": 1587720300000,
   "end": 1587720600000,
   "seconds": 300,
+  "description": " ",
+  "extra": {
+    "出演者": "【出演】\r\n久保井朝美"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
