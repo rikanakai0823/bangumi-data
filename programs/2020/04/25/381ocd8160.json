@@ -3,10 +3,14 @@
   "category": "music",
   "title": "バズリズム０２",
   "fullTitle": "バズリズム０２",
-  "detail": "",
+  "detail": "◇出演者\n【MC】バカリズム【進行】滝菜月（日本テレビアナウンサー）【ルーレッ撮るLIVE】osage【クイズ！ミュージックビデオ王】安斉かれん",
   "start": 1587743940000,
   "end": 1587747540000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】バカリズム【進行】滝菜月（日本テレビアナウンサー）【ルーレッ撮るLIVE】osage【クイズ！ミュージックビデオ王】安斉かれん"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
