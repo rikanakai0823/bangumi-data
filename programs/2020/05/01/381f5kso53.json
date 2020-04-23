@@ -1,0 +1,29 @@
+{
+  "id": "381f5kso53",
+  "category": "information",
+  "title": "ごごナマ　おいしい金曜日",
+  "fullTitle": "ごごナマ　おいしい金曜日[字]",
+  "detail": "【司会】西川きよし，三戸なつめ，岩槻里子\n◇出演者\n【司会】西川きよし，三戸なつめ，岩槻里子",
+  "start": 1588305600000,
+  "end": 1588309200000,
+  "seconds": 3600,
+  "description": "【司会】西川きよし，三戸なつめ，岩槻里子",
+  "extra": {
+    "出演者": "【司会】西川きよし，三戸なつめ，岩槻里子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "司会",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
