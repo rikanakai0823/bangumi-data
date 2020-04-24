@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksugt",
+  "category": "news",
+  "title": "新型コロナ生活情報",
+  "fullTitle": "新型コロナ生活情報[字]",
+  "detail": "",
+  "start": 1588054080000,
+  "end": 1588055280000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
