@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ゆらこ【エクササイズグッズ】\n◇おしらせ\n0120-115524",
   "start": 1587815400000,
   "end": 1587815700000,
   "seconds": 300,
+  "description": "ゆらこ【エクササイズグッズ】",
+  "extra": {
+    "おしらせ": "0120-115524\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "エクササイズグッズ",
   "episode": null,
   "flags": []
 }

@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": " ",
+  "detail": "「楽天競馬でポイントザクザク賞」「キャニオンロマン賞」「第６５回羽田盃（ＳⅠ）」\n◇出演者\n【MC】\r\n前半：山田桃子\r\n後半：芦崎愛",
   "start": 1588141200000,
   "end": 1588161600000,
   "seconds": 20400,
+  "description": "「楽天競馬でポイントザクザク賞」「キャニオンロマン賞」「第６５回羽田盃（ＳⅠ）」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：山田桃子\r\n後半：芦崎愛\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -18,6 +22,6 @@
     "n": 34
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 65,
   "flags": []
 }
