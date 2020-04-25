@@ -1,0 +1,23 @@
+{
+  "id": "3826py3aa2",
+  "category": "information",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": "番組未定",
+  "start": 1588503240000,
+  "end": 1588510440000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
