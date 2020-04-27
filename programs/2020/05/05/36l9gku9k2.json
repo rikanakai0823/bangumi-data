@@ -1,0 +1,25 @@
+{
+  "id": "36l9gku9k2",
+  "category": "hobby",
+  "title": "レガーメ～マヂカデ・チバ～",
+  "fullTitle": "レガーメ～マヂカデ・チバ～[再]",
+  "detail": "",
+  "start": 1588649400000,
+  "end": 1588650300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
