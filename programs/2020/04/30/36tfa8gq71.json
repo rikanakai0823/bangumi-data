@@ -2,7 +2,7 @@
   "id": "36tfa8gq71",
   "category": "variety",
   "title": "らいコレＴＶ",
-  "fullTitle": "らいコレＴＶ",
+  "fullTitle": "らいコレＴＶ[再]",
   "detail": " ",
   "start": 1588183200000,
   "end": 1588185000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }
