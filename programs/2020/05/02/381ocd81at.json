@@ -3,10 +3,14 @@
   "category": "music",
   "title": "バズリズム０２",
   "fullTitle": "バズリズム０２",
-  "detail": "",
+  "detail": "◇出演者\n【MC】バカリズム【進行】滝菜月（日本テレビアナウンサー）【トークゲスト】THE ORAL CIGARETTES【クイズ！ミュージックビデオ王】伊藤美来",
   "start": 1588349340000,
   "end": 1588352940000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】バカリズム【進行】滝菜月（日本テレビアナウンサー）【トークゲスト】THE ORAL CIGARETTES【クイズ！ミュージックビデオ王】伊藤美来"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
