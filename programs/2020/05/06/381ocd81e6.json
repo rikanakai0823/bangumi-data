@@ -1,0 +1,25 @@
+{
+  "id": "381ocd81e6",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まもなく今くら」[字]",
+  "detail": "",
+  "start": 1588766040000,
+  "end": 1588766400000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "まもなく今くら",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
