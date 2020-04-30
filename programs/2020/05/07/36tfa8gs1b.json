@@ -2,11 +2,15 @@
   "id": "36tfa8gs1b",
   "category": "variety",
   "title": "Ｌｅａｄバラエティ（仮）",
-  "fullTitle": "Ｌｅａｄバラエティ（仮）",
-  "detail": " ",
+  "fullTitle": "Ｌｅａｄバラエティ（仮）「３人の魅力を届ける新番組！番組名は視聴者募集で決定！」",
+  "detail": "◇出演者\n【出演】\r\nLead（谷内伸也、鍵本輝、古屋敬多）\r\n【MC】\r\nゆっきー（キャン×キャン）",
   "start": 1588849080000,
   "end": 1588850820000,
   "seconds": 1740,
+  "description": " ",
+  "extra": {
+    "出演者": "【出演】\r\nLead（谷内伸也、鍵本輝、古屋敬多）\r\n【MC】\r\nゆっきー（キャン×キャン）"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "３人の魅力を届ける新番組！番組名は視聴者募集で決定！",
   "episode": null,
   "flags": []
 }
