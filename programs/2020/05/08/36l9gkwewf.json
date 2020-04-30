@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwewf",
+  "category": "sports",
+  "title": "船橋競馬中継",
+  "fullTitle": "船橋競馬中継",
+  "detail": "",
+  "start": 1588928400000,
+  "end": 1588939200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
