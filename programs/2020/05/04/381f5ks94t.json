@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksqmd",
+  "id": "381f5ks94t",
   "category": "news",
-  "title": "ニュース（関東・山梨・長野）",
-  "fullTitle": "ニュース（関東・山梨・長野）[字]",
+  "title": "ニュース・気象情報",
+  "fullTitle": "ニュース・気象情報「新型コロナ最新情報」[字]",
   "detail": "",
-  "start": 1588562100000,
-  "end": 1588562400000,
-  "seconds": 300,
+  "start": 1588557600000,
+  "end": 1588558200000,
+  "seconds": 600,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "新型コロナ最新情報",
   "episode": null,
   "flags": [
     "字"

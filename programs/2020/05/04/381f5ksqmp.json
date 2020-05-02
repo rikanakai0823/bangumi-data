@@ -2,11 +2,11 @@
   "id": "381f5ksqmp",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース[二][字]",
+  "fullTitle": "ニュース「新型コロナ最新情報」[二][字]",
   "detail": "",
   "start": 1588582800000,
-  "end": 1588583100000,
-  "seconds": 300,
+  "end": 1588584600000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "新型コロナ最新情報",
   "episode": null,
   "flags": [
     "二",
