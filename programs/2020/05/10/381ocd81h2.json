@@ -1,0 +1,25 @@
+{
+  "id": "381ocd81h2",
+  "category": "sports",
+  "title": "ワールドレディスチャンピオンシップサロンパスカップ　特別編",
+  "fullTitle": "ワールドレディスチャンピオンシップサロンパスカップ　特別編[字]",
+  "detail": "",
+  "start": 1589090400000,
+  "end": 1589095500000,
+  "seconds": 5100,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
