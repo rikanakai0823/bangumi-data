@@ -1,12 +1,12 @@
 {
   "id": "36tfa8grlh",
   "category": "news",
-  "title": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ",
-  "fullTitle": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ",
-  "detail": "東京の、各地のニュース・天気情報など詳しくお伝えします。",
+  "title": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ　特別番組",
+  "fullTitle": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ　特別番組",
+  "detail": "",
   "start": 1588582740000,
-  "end": 1588583700000,
-  "seconds": 960,
+  "end": 1588586400000,
+  "seconds": 3660,
   "channel": {
     "type": "GR",
     "channel": "3",
