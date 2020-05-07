@@ -1,11 +1,11 @@
 {
-  "id": "381f5ksvif",
-  "category": "information",
-  "title": "プレマップ",
-  "fullTitle": "プレマップ",
+  "id": "381f5ksbum",
+  "category": "documentary",
+  "title": "ガッテン！２分ミニ",
+  "fullTitle": "ガッテン！２分ミニ[字]",
   "detail": "",
-  "start": 1589294460000,
-  "end": 1589294580000,
+  "start": 1589248020000,
+  "end": 1589248140000,
   "seconds": 120,
   "channel": {
     "type": "GR",
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
