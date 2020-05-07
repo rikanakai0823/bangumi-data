@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksbse",
+  "category": "news",
+  "title": "にっぽん　ぐるり",
+  "fullTitle": "にっぽん　ぐるり[字]",
+  "detail": "",
+  "start": 1589524380000,
+  "end": 1589526000000,
+  "seconds": 1620,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
