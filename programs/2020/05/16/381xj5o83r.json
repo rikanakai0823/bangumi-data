@@ -1,0 +1,23 @@
+{
+  "id": "381xj5o83r",
+  "category": "etc",
+  "title": "土曜スペシャル",
+  "fullTitle": "土曜スペシャル",
+  "detail": "",
+  "start": 1589610600000,
+  "end": 1589617800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
