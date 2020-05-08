@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwf8m",
+  "category": "variety",
+  "title": "おうちで受けよう",
+  "fullTitle": "おうちで受けよう「学校の授業」",
+  "detail": "",
+  "start": 1589436000000,
+  "end": 1589443200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "学校の授業",
+  "episode": null,
+  "flags": []
+}
