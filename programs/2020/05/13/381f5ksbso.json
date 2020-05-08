@@ -2,11 +2,15 @@
   "id": "381f5ksbso",
   "category": "news",
   "title": "＠ｏｋａｙａｍａ",
-  "fullTitle": "＠ｏｋａｙａｍａ",
-  "detail": "",
+  "fullTitle": "＠ｏｋａｙａｍａ「新型コロナウイルス　岡山県の今後は」",
+  "detail": "【キャスター】望月啓太\n◇出演者\n【キャスター】望月啓太",
   "start": 1589304720000,
   "end": 1589306220000,
   "seconds": 1500,
+  "description": "【キャスター】望月啓太",
+  "extra": {
+    "出演者": "【キャスター】望月啓太"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "新型コロナウイルス　岡山県の今後は",
   "episode": null,
   "flags": []
 }
