@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr28z2",
+  "category": "sports",
+  "title": "アッピ―元気体操",
+  "fullTitle": "アッピ―元気体操[Ｓ][新]",
+  "detail": "",
+  "start": 1589752200000,
+  "end": 1589752500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
