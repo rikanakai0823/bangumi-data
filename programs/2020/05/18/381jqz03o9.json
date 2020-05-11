@@ -2,11 +2,15 @@
   "id": "381jqz03o9",
   "category": "welfare",
   "title": "ハートネットＴＶ",
-  "fullTitle": "ハートネットＴＶ[解][字]",
-  "detail": "",
+  "fullTitle": "ハートネットＴＶ「たけし、自立生活はじめました。」[字]",
+  "detail": "【出演】久保田壮，久保田翠\n◇出演者\n【出演】久保田壮，久保田翠",
   "start": 1589799600000,
   "end": 1589801400000,
   "seconds": 1800,
+  "description": "【出演】久保田壮，久保田翠",
+  "extra": {
+    "出演者": "【出演】久保田壮，久保田翠"
+  },
   "channel": {
     "type": "GR",
     "channel": "13",
@@ -17,10 +21,9 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "たけし、自立生活はじめました。",
   "episode": null,
   "flags": [
-    "解",
     "字"
   ]
 }

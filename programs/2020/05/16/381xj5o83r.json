@@ -1,8 +1,8 @@
 {
   "id": "381xj5o83r",
-  "category": "etc",
-  "title": "土曜スペシャル",
-  "fullTitle": "土曜スペシャル",
+  "category": "drama",
+  "title": "土曜スペシャル・古畑任三郎",
+  "fullTitle": "土曜スペシャル・古畑任三郎[再][字]",
   "detail": "",
   "start": 1589610600000,
   "end": 1589617800000,
@@ -19,5 +19,8 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再",
+    "字"
+  ]
 }
