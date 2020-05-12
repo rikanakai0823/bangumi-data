@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ステップエイト【ハシゴ】\n◇おしらせ\n0800-9993555",
   "start": 1589358600000,
   "end": 1589360400000,
   "seconds": 1800,
+  "description": "ステップエイト【ハシゴ】",
+  "extra": {
+    "おしらせ": "0800-9993555\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "ハシゴ",
   "episode": null,
   "flags": []
 }
