@@ -1,0 +1,29 @@
+{
+  "id": "381sxrg8wq",
+  "category": "news",
+  "title": "フラッシュニュース",
+  "fullTitle": "フラッシュニュース[字]",
+  "detail": "最新のニュースをお伝えします。\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
+  "start": 1590065820000,
+  "end": 1590066000000,
+  "seconds": 180,
+  "description": "最新のニュースをお伝えします。\r\n",
+  "extra": {
+    "おことわり": "番組の内容と放送時間は、変更になる場合があります。\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
