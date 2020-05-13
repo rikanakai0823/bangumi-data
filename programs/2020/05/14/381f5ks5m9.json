@@ -1,12 +1,12 @@
 {
   "id": "381f5ks5m9",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
-  "detail": "",
+  "title": "ニュース・気象情報関連",
+  "fullTitle": "ニュース・気象情報「新型コロナウイルス　緊急事態宣言」関連[字]",
+  "detail": "▽「緊急事態宣言」の解除方針を国会報告へ",
   "start": 1589436000000,
-  "end": 1589436300000,
-  "seconds": 300,
+  "end": 1589437800000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "新型コロナウイルス　緊急事態宣言",
   "episode": null,
   "flags": [
     "字"

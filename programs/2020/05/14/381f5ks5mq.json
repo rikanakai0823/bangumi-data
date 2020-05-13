@@ -1,12 +1,12 @@
 {
   "id": "381f5ks5mq",
   "category": "news",
-  "title": "ニュース　シブ５時",
-  "fullTitle": "ニュース　シブ５時[二][字]",
-  "detail": "▽最新のニュースをお伝えします。",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「新型コロナウイルス　緊急事態宣言」関連[二][字]",
+  "detail": "▽中継・安倍首相会見　緊急事態宣言を３９県で解除へ…今後の対応は",
   "start": 1589446800000,
-  "end": 1589447400000,
-  "seconds": 600,
+  "end": 1589449500000,
+  "seconds": 2700,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "新型コロナウイルス　緊急事態宣言",
   "episode": null,
   "flags": [
     "二",
