@@ -1,0 +1,29 @@
+{
+  "id": "381sxrg972",
+  "category": "variety",
+  "title": "「アイ・アム・冒険少年」ナビ",
+  "fullTitle": "「アイ・アム・冒険少年」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/iamboukensyounen/",
+  "start": 1590296400000,
+  "end": 1590307200000,
+  "seconds": 10800,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/iamboukensyounen/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
