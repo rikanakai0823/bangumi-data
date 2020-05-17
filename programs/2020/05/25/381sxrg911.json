@@ -1,0 +1,31 @@
+{
+  "id": "381sxrg911",
+  "category": "variety",
+  "title": "アイ・アム・冒険少年",
+  "fullTitle": "[新]アイ・アム・冒険少年[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/iamboukensyounen/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
+  "start": 1590400800000,
+  "end": 1590411600000,
+  "seconds": 10800,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/iamboukensyounen/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}
