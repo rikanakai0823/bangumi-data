@@ -1,0 +1,23 @@
+{
+  "id": "381f5kse2i",
+  "category": "information",
+  "title": "オシばん",
+  "fullTitle": "オシばん",
+  "detail": "",
+  "start": 1590666120000,
+  "end": 1590666300000,
+  "seconds": 180,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
