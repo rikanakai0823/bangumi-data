@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\nAUSTIN MAHONEコメント\r\n\"Dirty Work\"AUSTIN MAHONE\r\n\"Midnight\"ALESSO feat.LIAM PAYNE\r\n\"Me & You Together Song\"THE 1975\n◇番組内容２\n\"Verde\"J BALVIN\r\n\"Times Like These(BBC Radio 1 Stay Home Live Lounge)\"LIVE LOUNGE ALLSTARS",
   "start": 1590418800000,
   "end": 1590420600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "AUSTIN MAHONEコメント\r\n\"Dirty Work\"AUSTIN MAHONE\r\n\"Midnight\"ALESSO feat.LIAM PAYNE\r\n\"Me & You Together Song\"THE 1975",
+    "番組内容２": "\"Verde\"J BALVIN\r\n\"Times Like These(BBC Radio 1 Stay Home Live Lounge)\"LIVE LOUNGE ALLSTARS"
   },
   "channel": {
     "type": "GR",
