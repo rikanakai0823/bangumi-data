@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "７得パンツ＆チュニックパンツ【衣料品】\n◇おしらせ\n0120-82-82-91",
   "start": 1590006600000,
   "end": 1590008400000,
   "seconds": 1800,
+  "description": "７得パンツ＆チュニックパンツ【衣料品】",
+  "extra": {
+    "おしらせ": "0120-82-82-91\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "衣料品",
   "episode": null,
   "flags": []
 }
