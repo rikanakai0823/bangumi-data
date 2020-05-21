@@ -2,11 +2,15 @@
   "id": "381f5ksjfj",
   "category": "documentary",
   "title": "ガッテン！２分ミニ",
-  "fullTitle": "ガッテン！２分ミニ[字]",
-  "detail": "",
+  "fullTitle": "ガッテン！２分ミニ「ゼラチンで魔法の泡料理！」[字]",
+  "detail": "【語り】小野文惠\n◇出演者\n【語り】小野文惠",
   "start": 1590299820000,
   "end": 1590299940000,
   "seconds": 120,
+  "description": "【語り】小野文惠",
+  "extra": {
+    "出演者": "【語り】小野文惠"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "ゼラチンで魔法の泡料理！",
   "episode": null,
   "flags": [
     "字"
