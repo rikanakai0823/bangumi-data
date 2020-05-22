@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "駿楽【機能性表示食品】\n◇おしらせ\n0120-13-8869",
   "start": 1590292800000,
   "end": 1590294600000,
   "seconds": 1800,
+  "description": "駿楽【機能性表示食品】",
+  "extra": {
+    "おしらせ": "0120-13-8869\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "機能性表示食品",
   "episode": null,
   "flags": []
 }
