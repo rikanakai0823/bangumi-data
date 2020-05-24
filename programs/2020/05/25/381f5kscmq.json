@@ -1,12 +1,12 @@
 {
   "id": "381f5kscmq",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「新型コロナウイルス　緊急事態宣言」関連[字]",
   "detail": "",
   "start": 1590390000000,
-  "end": 1590390300000,
-  "seconds": 300,
+  "end": 1590392400000,
+  "seconds": 2400,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "新型コロナウイルス　緊急事態宣言",
   "episode": null,
   "flags": [
     "字"

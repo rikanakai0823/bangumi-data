@@ -1,12 +1,12 @@
 {
   "id": "381f5kscmy",
   "category": "news",
-  "title": "ニュース　シブ５時",
-  "fullTitle": "ニュース　シブ５時[二][字]",
+  "title": "ニュース",
+  "fullTitle": "ニュース[二][字]",
   "detail": "▽最新のニュースをお伝えします。",
   "start": 1590397200000,
-  "end": 1590397800000,
-  "seconds": 600,
+  "end": 1590399900000,
+  "seconds": 2700,
   "channel": {
     "type": "GR",
     "channel": "14",
