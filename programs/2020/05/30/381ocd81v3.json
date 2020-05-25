@@ -1,12 +1,16 @@
 {
   "id": "381ocd81v3",
   "category": "music",
-  "title": "Ｐｒｅｍｉｕｍ　Ｍｕｓｉｃ　特別編",
-  "fullTitle": "Ｐｒｅｍｉｕｍ　Ｍｕｓｉｃ　特別編[字][デ]",
-  "detail": "",
+  "title": "名曲の祭典ジャニーズ名歌詞メドレーも",
+  "fullTitle": "名曲の祭典【Premium Music 特別編】ジャニーズ名歌詞メドレーも[字][デ]",
+  "detail": "国民が選んだ名曲を超貴重映像でお届けする音楽祭！\n◇出演者\n【ＭＣ】中島健人（Sexy Zone）、平野紫耀（King & Prince）\r\n【進行】徳島えりか（日本テレビアナウンサー）、滝菜月（日本テレビアナウンサー）",
   "start": 1590832800000,
   "end": 1590846840000,
   "seconds": 14040,
+  "description": "国民が選んだ名曲を超貴重映像でお届けする音楽祭！",
+  "extra": {
+    "出演者": "【ＭＣ】中島健人（Sexy Zone）、平野紫耀（King & Prince）\r\n【進行】徳島えりか（日本テレビアナウンサー）、滝菜月（日本テレビアナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "",
+  "subTitle": "Premium Music 特別編",
   "episode": null,
   "flags": [
     "字",
