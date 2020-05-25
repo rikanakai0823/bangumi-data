@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l66x",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「フォーチュネイト白百合特別」「’２０メトロポリタンジューンカップ」「夏木立賞」",
+  "start": 1591078800000,
+  "end": 1591099200000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
