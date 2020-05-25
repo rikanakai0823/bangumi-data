@@ -1,8 +1,8 @@
 {
   "id": "381xj5o8ns",
-  "category": "etc",
-  "title": "調整中＜Ｗナイト＞",
-  "fullTitle": "調整中＜Ｗナイト＞",
+  "category": "drama",
+  "title": "＜オトナの土ドラ＞隕石家族＜Ｗナイト＞",
+  "fullTitle": "＜オトナの土ドラ＞隕石家族＜Ｗナイト＞　＃０７[再]",
   "detail": "",
   "start": 1590602400000,
   "end": 1590605700000,
@@ -18,6 +18,8 @@
     "n": 28
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 7,
+  "flags": [
+    "再"
+  ]
 }
