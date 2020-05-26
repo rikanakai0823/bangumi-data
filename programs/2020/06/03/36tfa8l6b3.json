@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l6b3",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ジュピター賞」「アレキサンドライト賞」「第６６回東京ダービー（ＳⅠ）（ニューイヤーズデイ賞）」「ゲンマ賞」",
+  "start": 1591165200000,
+  "end": 1591185600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 66,
+  "flags": []
+}
