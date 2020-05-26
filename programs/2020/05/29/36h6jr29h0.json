@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ニュース９３０ plus",
   "fullTitle": "ニュース９３０ plus[Ｓ]",
-  "detail": "県内ニュース▽特集▽週末の天気",
+  "detail": "県内ニュース▽特集▽週末の天気\n◇出演者\n荒木優里（テレ玉アナウンサー）",
   "start": 1590755400000,
   "end": 1590757200000,
   "seconds": 1800,
+  "description": "県内ニュース▽特集▽週末の天気",
+  "extra": {
+    "出演者": "荒木優里（テレ玉アナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",

@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ニュース１１５５",
   "fullTitle": "ニュース１１５５[Ｓ]",
-  "detail": "",
+  "detail": "◇出演者\n塩原桜（テレ玉アナウンサー）",
   "start": 1590548100000,
   "end": 1590548400000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "出演者": "塩原桜（テレ玉アナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
