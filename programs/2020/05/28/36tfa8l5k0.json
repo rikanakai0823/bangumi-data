@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ケーンセーフプラス【杖】\n◇お知らせ\n0120-179617",
   "start": 1590667200000,
   "end": 1590669000000,
   "seconds": 1800,
+  "description": "ケーンセーフプラス【杖】",
+  "extra": {
+    "お知らせ": "0120-179617"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "杖",
   "episode": null,
   "flags": []
 }
