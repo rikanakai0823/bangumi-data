@@ -1,0 +1,26 @@
+{
+  "id": "381ocd820b",
+  "category": "drama",
+  "title": "ごくせん２００２特別編",
+  "fullTitle": "ごくせん２００２特別編[解][字]",
+  "detail": "",
+  "start": 1591189200000,
+  "end": 1591192800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
