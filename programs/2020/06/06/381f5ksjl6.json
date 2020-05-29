@@ -1,0 +1,29 @@
+{
+  "id": "381f5ksjl6",
+  "category": "information",
+  "title": "８Ｋなび",
+  "fullTitle": "８Ｋなび[字]",
+  "detail": "ＢＳ８Ｋのオススメ番組をご紹介します。\n◇番組内容\nＢＳ８Ｋのオススメ番組をご紹介します。",
+  "start": 1591414800000,
+  "end": 1591414920000,
+  "seconds": 120,
+  "description": "ＢＳ８Ｋのオススメ番組をご紹介します。",
+  "extra": {
+    "番組内容": "ＢＳ８Ｋのオススメ番組をご紹介します。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
