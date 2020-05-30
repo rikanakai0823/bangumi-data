@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksp7e",
+  "category": "music",
+  "title": "ＮＨＫのど自慢　スペシャル",
+  "fullTitle": "ＮＨＫのど自慢　スペシャル[字]",
+  "detail": "",
+  "start": 1591499700000,
+  "end": 1591502400000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
