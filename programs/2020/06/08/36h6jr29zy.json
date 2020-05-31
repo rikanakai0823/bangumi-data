@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr29zy",
+  "category": "sports",
+  "title": "スター☆ゴルフマッチⅡ",
+  "fullTitle": "スター☆ゴルフマッチⅡ[Ｓ][再]",
+  "detail": "ＭＣの三波豊和が、ゴルフ好きな著名人や人気のプロゴルファーをお招きして、真剣勝負を繰り広げます。",
+  "start": 1591588800000,
+  "end": 1591590600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

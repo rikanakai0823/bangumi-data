@@ -1,0 +1,23 @@
+{
+  "id": "381jqz4ss0",
+  "category": "information",
+  "title": "プレマップ",
+  "fullTitle": "プレマップ",
+  "detail": "",
+  "start": 1591585080000,
+  "end": 1591585200000,
+  "seconds": 120,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
