@@ -1,0 +1,25 @@
+{
+  "id": "381ocd824k",
+  "category": "cinema",
+  "title": "映画『水曜日が消えた』③",
+  "fullTitle": "映画『水曜日が消えた』③[再]",
+  "detail": "",
+  "start": 1591815240000,
+  "end": 1591815540000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
