@@ -3,10 +3,14 @@
   "category": "information",
   "title": "オシばん",
   "fullTitle": "オシばん",
-  "detail": "",
+  "detail": "【出演】林田理沙\n◇出演者\n【出演】林田理沙",
   "start": 1591357320000,
   "end": 1591357500000,
   "seconds": 180,
+  "description": "【出演】林田理沙",
+  "extra": {
+    "出演者": "【出演】林田理沙"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "出演",
   "episode": null,
   "flags": []
 }
