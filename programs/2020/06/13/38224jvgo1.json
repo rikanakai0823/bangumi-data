@@ -1,0 +1,23 @@
+{
+  "id": "38224jvgo1",
+  "category": "information",
+  "title": "おはようゴーちゃん。",
+  "fullTitle": "おはようゴーちゃん。",
+  "detail": "テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今朝の注目はなにかな？",
+  "start": 1591989900000,
+  "end": 1591990200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
