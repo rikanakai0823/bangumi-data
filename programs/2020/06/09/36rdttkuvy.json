@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Break Up Song\"LITTLE MIX\r\n\"Moana\"G-EAZY x JACK HARLOW\r\n\"Superblood Wolfmoon(Tiny Concert Animated Video)\"PEARL JAM\n◇番組内容２\n\"Retrograde\"PEARL JAM\r\n\"Dance Of The Clairvoyants\"PEARL JAM\r\n\"Eleven\"KHALID feat.SUMMER WALKER",
   "start": 1591628400000,
   "end": 1591630200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Break Up Song\"LITTLE MIX\r\n\"Moana\"G-EAZY x JACK HARLOW\r\n\"Superblood Wolfmoon(Tiny Concert Animated Video)\"PEARL JAM",
+    "番組内容２": "\"Retrograde\"PEARL JAM\r\n\"Dance Of The Clairvoyants\"PEARL JAM\r\n\"Eleven\"KHALID feat.SUMMER WALKER"
   },
   "channel": {
     "type": "GR",
