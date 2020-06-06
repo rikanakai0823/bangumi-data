@@ -1,0 +1,26 @@
+{
+  "id": "381ocd825m",
+  "category": "information",
+  "title": "カウントダウンＨｕｌｕ",
+  "fullTitle": "カウントダウンＨｕｌｕ[再][字]",
+  "detail": "",
+  "start": 1592101500000,
+  "end": 1592101800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再",
+    "字"
+  ]
+}
