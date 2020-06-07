@@ -1,0 +1,33 @@
+{
+  "id": "381sxrg9kv",
+  "category": "music",
+  "title": "ＣＤＴＶライブ！ライブ！",
+  "fullTitle": "ＣＤＴＶライブ！ライブ！[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇見どころ１\n　\n◇見どころ２\n　\n◇見どころ３\n　\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/cdtv_livelive/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
+  "start": 1592226000000,
+  "end": 1592229420000,
+  "seconds": 3420,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "見どころ１": "　",
+    "見どころ２": "　",
+    "見どころ３": "　",
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/cdtv_livelive/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
