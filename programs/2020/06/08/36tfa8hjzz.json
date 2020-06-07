@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8hjzz",
+  "category": "etc",
+  "title": "連動テストＣＭ→提⑥",
+  "fullTitle": "連動テストＣＭ→提⑥",
+  "detail": "",
+  "start": 1591553160000,
+  "end": 1591553220000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
