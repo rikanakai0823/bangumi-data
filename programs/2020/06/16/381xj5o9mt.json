@@ -1,0 +1,27 @@
+{
+  "id": "381xj5o9mt",
+  "category": "etc",
+  "title": "メディアミックスα",
+  "fullTitle": "メディアミックスα",
+  "detail": "◇番組内容",
+  "start": 1592290200000,
+  "end": 1592293800000,
+  "seconds": 3600,
+  "description": "　",
+  "extra": {
+    "番組内容": "　"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
