@@ -1,12 +1,12 @@
 {
   "id": "381f5kslkd",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース",
+  "fullTitle": "ニュース「横田早紀江さん会見」[字]",
   "detail": "",
   "start": 1591686000000,
-  "end": 1591686300000,
-  "seconds": 300,
+  "end": 1591688100000,
+  "seconds": 2100,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "横田早紀江さん会見",
   "episode": null,
   "flags": [
     "字"
