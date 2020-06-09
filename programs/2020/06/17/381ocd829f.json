@@ -1,0 +1,28 @@
+{
+  "id": "381ocd829f",
+  "category": "drama",
+  "title": "ハケンの品格",
+  "fullTitle": "[新]ハケンの品格#01[解][字][デ]",
+  "detail": "",
+  "start": 1592398800000,
+  "end": 1592402400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "解",
+    "字",
+    "デ"
+  ]
+}
