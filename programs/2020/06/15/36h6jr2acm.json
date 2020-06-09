@@ -2,11 +2,16 @@
   "id": "36h6jr2acm",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "※素材は編成部管理\n◇番組内容\n０１２０－１６－００７９\n◇出演者\n※素材は編成部管理",
   "start": 1592199000000,
   "end": 1592200800000,
   "seconds": 1800,
+  "description": "※素材は編成部管理",
+  "extra": {
+    "番組内容": "０１２０－１６－００７９",
+    "出演者": "※素材は編成部管理"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
