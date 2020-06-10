@@ -1,0 +1,23 @@
+{
+  "id": "3826py3bwg",
+  "category": "etc",
+  "title": "「テレ東音楽祭２０２０夏」オス",
+  "fullTitle": "「テレ東音楽祭２０２０夏」オス",
+  "detail": "",
+  "start": 1591894800000,
+  "end": 1591895100000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
