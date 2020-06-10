@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Tryin‘ To Keep It Together\"NORAH JONES\r\n\"X\"JONAS BROTHERS feat. KAROL G\r\n\"The One That Hurts\"CLUB BEIRUT\r\nCLUB BEIRUT インタビュー\r\n\"Something New\"CLUB BEIRUT\n◇番組内容２\n\"Ooh LA LA\"RUN THE JEWELS feat.GREG NICE & DJ PREMIER\r\n\"Toosie Slide\"DRAKE",
   "start": 1592233200000,
   "end": 1592235000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Tryin‘ To Keep It Together\"NORAH JONES\r\n\"X\"JONAS BROTHERS feat. KAROL G\r\n\"The One That Hurts\"CLUB BEIRUT\r\nCLUB BEIRUT インタビュー\r\n\"Something New\"CLUB BEIRUT",
+    "番組内容２": "\"Ooh LA LA\"RUN THE JEWELS feat.GREG NICE & DJ PREMIER\r\n\"Toosie Slide\"DRAKE"
   },
   "channel": {
     "type": "GR",

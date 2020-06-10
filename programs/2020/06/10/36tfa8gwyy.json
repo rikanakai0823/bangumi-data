@@ -1,15 +1,15 @@
 {
-  "id": "36tfa8gx26",
+  "id": "36tfa8gwyy",
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": "プレミアムあらごし【ジュース】\n◇お知らせ\n0120-601-430",
-  "start": 1591821000000,
-  "end": 1591822800000,
+  "detail": "楽ちんヒアリング【集音器】\n◇おしらせ\n0120-334114",
+  "start": 1591770600000,
+  "end": 1591772400000,
   "seconds": 1800,
-  "description": "プレミアムあらごし【ジュース】",
+  "description": "楽ちんヒアリング【集音器】",
   "extra": {
-    "お知らせ": "0120-601-430"
+    "おしらせ": "0120-334114\r\n"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "ジュース",
+  "subTitle": "集音器",
   "episode": null,
   "flags": []
 }
