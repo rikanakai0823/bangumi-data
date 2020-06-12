@@ -1,0 +1,23 @@
+{
+  "id": "381f5ks6sp",
+  "category": "news",
+  "title": "国会中継　～参議院第１委員会室から中継～",
+  "fullTitle": "国会中継「参議院決算委員会質疑」　～参議院第１委員会室から中継～",
+  "detail": "",
+  "start": 1592193600000,
+  "end": 1592204100000,
+  "seconds": 10500,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "参議院決算委員会質疑",
+  "episode": null,
+  "flags": []
+}
