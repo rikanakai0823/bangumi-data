@@ -1,0 +1,26 @@
+{
+  "id": "381jqz0myk",
+  "category": "anime",
+  "title": "アニメ　メジャーセカンド２",
+  "fullTitle": "アニメ　メジャーセカンド２[字][デ]",
+  "detail": "",
+  "start": 1592642100000,
+  "end": 1592643600000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
