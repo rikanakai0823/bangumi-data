@@ -2,11 +2,15 @@
   "id": "36h6jr2aip",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nカラットエアー　　０１２０－４４－００２７",
   "start": 1592517600000,
   "end": 1592519400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "カラットエアー　　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
