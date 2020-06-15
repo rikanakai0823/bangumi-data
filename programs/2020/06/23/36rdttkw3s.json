@@ -1,0 +1,26 @@
+{
+  "id": "36rdttkw3s",
+  "category": "sports",
+  "title": "ｔｖｋプロ野球中継横浜ＤｅＮＡベイスターズ熱烈ＬＩＶＥ",
+  "fullTitle": "ｔｖｋプロ野球中継横浜ＤｅＮＡベイスターズ熱烈ＬＩＶＥ[デ][多]",
+  "detail": "「中日ドラゴンズ」",
+  "start": 1592906400000,
+  "end": 1592915400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "中日ドラゴンズ",
+  "episode": null,
+  "flags": [
+    "デ",
+    "多"
+  ]
+}

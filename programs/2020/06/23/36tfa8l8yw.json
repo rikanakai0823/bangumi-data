@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l8yw",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ミヤサンキューティ賞」「第１０回優駿スプリント（ＳⅡ）」「南風賞」",
+  "start": 1592893200000,
+  "end": 1592913600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": []
+}
