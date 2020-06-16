@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l932",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ボンネビルレコード賞」「コンサートボーイ賞」「第４３回帝王賞（ＪｐｎⅠ）」「チャンピオンスター賞」",
+  "start": 1592979600000,
+  "end": 1593000000000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 43,
+  "flags": []
+}
