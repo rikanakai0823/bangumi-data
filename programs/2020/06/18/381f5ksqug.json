@@ -1,12 +1,12 @@
 {
   "id": "381f5ksqug",
   "category": "news",
-  "title": "ニュース　シブ５時",
-  "fullTitle": "ニュース　シブ５時[二][字]",
-  "detail": "▽最新のニュースをお伝えします。",
+  "title": "ニュース",
+  "fullTitle": "ニュース「安倍首相記者会見」[二][字]",
+  "detail": "▽中継・安倍首相会見　▽新型コロナウイルス　今後の政府の対策は…",
   "start": 1592470800000,
-  "end": 1592471400000,
-  "seconds": 600,
+  "end": 1592472600000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "安倍首相記者会見",
   "episode": null,
   "flags": [
     "二",
