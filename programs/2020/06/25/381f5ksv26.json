@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksv26",
+  "category": "news",
+  "title": "首都圏ニュース８４５",
+  "fullTitle": "首都圏ニュース８４５[字]",
+  "detail": "これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。",
+  "start": 1593085500000,
+  "end": 1593086400000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

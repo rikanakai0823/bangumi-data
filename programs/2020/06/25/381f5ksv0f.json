@@ -1,0 +1,26 @@
+{
+  "id": "381f5ksv0f",
+  "category": "sports",
+  "title": "みんなの体操",
+  "fullTitle": "みんなの体操[解][字]",
+  "detail": "【出演】岡本美佳，原川愛，今井菜津美",
+  "start": 1593046500000,
+  "end": 1593046800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
