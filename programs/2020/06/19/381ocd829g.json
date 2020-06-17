@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ２０２０",
   "fullTitle": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ２０２０「巨人×阪神　開幕戦」[多][字][デ]",
-  "detail": "",
+  "detail": "※最大延長６０分\n◇出演者\n【解説】高橋由伸\r\n【実況】田辺研一郎\r\n【副音声】亀梨和也(DRAMATIC　BASEBALLサポーター)・井森美幸・井上裕介(NON　STYLE)・赤星憲広(解説)",
   "start": 1592556600000,
   "end": 1592567640000,
   "seconds": 11040,
+  "description": "※最大延長６０分",
+  "extra": {
+    "出演者": "【解説】高橋由伸\r\n【実況】田辺研一郎\r\n【副音声】亀梨和也(DRAMATIC　BASEBALLサポーター)・井森美幸・井上裕介(NON　STYLE)・赤星憲広(解説)"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
