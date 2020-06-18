@@ -1,0 +1,26 @@
+{
+  "id": "381f5ksadw",
+  "category": "documentary",
+  "title": "ＮＨＫスペシャル",
+  "fullTitle": "ＮＨＫスペシャル[字][再]",
+  "detail": "",
+  "start": 1593013800000,
+  "end": 1593016800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
