@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8gz6h",
+  "category": "news",
+  "title": "フラッシュ天気（初音ミクｖｅｒ．）",
+  "fullTitle": "フラッシュ天気（初音ミク「手洗い」ｖｅｒ．）",
+  "detail": " ",
+  "start": 1593151140000,
+  "end": 1593151200000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "手洗い",
+  "episode": null,
+  "flags": []
+}
