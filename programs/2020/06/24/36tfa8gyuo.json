@@ -1,12 +1,16 @@
 {
   "id": "36tfa8gyuo",
   "category": "sports",
-  "title": "東京シティ競馬中継",
-  "fullTitle": "東京シティ競馬中継",
-  "detail": "「第４３回帝王賞（ＪｐｎⅠ）」",
+  "title": "東京シティ競馬中継　帝王賞",
+  "fullTitle": "東京シティ競馬中継　帝王賞",
+  "detail": "「第４３回帝王賞（ＪｐｎⅠ）」\n◇出演者\n【MC】\r\n芦崎愛\r\n【解説】\r\n藤田裕之（ケイシュウNEWS）",
   "start": 1592994600000,
   "end": 1592998020000,
   "seconds": 3420,
+  "description": "「第４３回帝王賞（ＪｐｎⅠ）」",
+  "extra": {
+    "出演者": "【MC】\r\n芦崎愛\r\n【解説】\r\n藤田裕之（ケイシュウNEWS）"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",

@@ -1,12 +1,16 @@
 {
   "id": "36tfa8gz2b",
   "category": "anime",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
-  "detail": " ",
+  "title": "新シリーズ目前！総集編",
+  "fullTitle": "新シリーズ目前！「耐え子の日常」総集編",
+  "detail": "◇出演者\n【耐え子】田中さん\r\n【朝美】愛美\r\n【男性キャラほぼ全て】森嶋秀太\r\n【姉崎ちゃん他】遠野ひかる\r\n【亀山ちゃん他】紡木吏佐",
   "start": 1593091800000,
   "end": 1593093600000,
   "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "出演者": "【耐え子】田中さん\r\n【朝美】愛美\r\n【男性キャラほぼ全て】森嶋秀太\r\n【姉崎ちゃん他】遠野ひかる\r\n【亀山ちゃん他】紡木吏佐"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "耐え子の日常",
   "episode": null,
   "flags": []
 }

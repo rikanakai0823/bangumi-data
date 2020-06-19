@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": "ＡｉｒｄｏｇＸ５ｓ【空気清浄機】",
+  "detail": "ＡｉｒｄｏｇＸ５ｓ【空気清浄機】\n◇お知らせ\n0120-022-349",
   "start": 1592695800000,
   "end": 1592697600000,
   "seconds": 1800,
+  "description": "ＡｉｒｄｏｇＸ５ｓ【空気清浄機】",
+  "extra": {
+    "お知らせ": "0120-022-349"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
