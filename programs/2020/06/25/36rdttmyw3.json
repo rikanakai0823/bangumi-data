@@ -2,7 +2,7 @@
   "id": "36rdttmyw3",
   "category": "sports",
   "title": "ｔｖｋプロ野球中継横浜ＤｅＮＡベイスターズ熱烈ＬＩＶＥ",
-  "fullTitle": "ｔｖｋプロ野球中継横浜ＤｅＮＡベイスターズ熱烈ＬＩＶＥ",
+  "fullTitle": "ｔｖｋプロ野球中継横浜ＤｅＮＡベイスターズ熱烈ＬＩＶＥ「横浜×中日」[デ][多]",
   "detail": "　",
   "start": 1593075600000,
   "end": 1593082800000,
@@ -17,7 +17,10 @@
     "hasLogoData": true,
     "n": 6
   },
-  "subTitle": "",
+  "subTitle": "横浜×中日",
   "episode": null,
-  "flags": []
+  "flags": [
+    "デ",
+    "多"
+  ]
 }
