@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "プレミアムスリー【化粧品】\n◇お知らせ\n0120-409-800",
   "start": 1592686800000,
   "end": 1592688600000,
   "seconds": 1800,
+  "description": "プレミアムスリー【化粧品】",
+  "extra": {
+    "お知らせ": "0120-409-800"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }
