@@ -1,0 +1,26 @@
+{
+  "id": "381f5ksaer",
+  "category": "documentary",
+  "title": "ホットスポット最後の楽園",
+  "fullTitle": "ホットスポット最後の楽園[SS][字]",
+  "detail": "",
+  "start": 1592920800000,
+  "end": 1592921400000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}
