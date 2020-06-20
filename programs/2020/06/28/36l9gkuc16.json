@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkuc16",
+  "category": "drama",
+  "title": "犬飼さんちの犬",
+  "fullTitle": "犬飼さんちの犬[再]",
+  "detail": "",
+  "start": 1593273600000,
+  "end": 1593275400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocd82fv",
+  "category": "sports",
+  "title": "クイズ！その時スーパースターは？特別版",
+  "fullTitle": "クイズ！その時スーパースターは？特別版[字]",
+  "detail": "",
+  "start": 1593315900000,
+  "end": 1593317700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

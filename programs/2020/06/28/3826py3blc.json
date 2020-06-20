@@ -1,0 +1,29 @@
+{
+  "id": "3826py3blc",
+  "category": "variety",
+  "title": "ｅスポーツハイ！",
+  "fullTitle": "ｅスポーツハイ！[字]",
+  "detail": "ゲーム実況を軸に毎回、番組ＭＣが様々なバトル企画に挑戦する。\n◇出演者\nメルトン、西村歩乃果",
+  "start": 1593352080000,
+  "end": 1593352440000,
+  "seconds": 360,
+  "description": "ゲーム実況を軸に毎回、番組ＭＣが様々なバトル企画に挑戦する。",
+  "extra": {
+    "出演者": "メルトン、西村歩乃果"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
