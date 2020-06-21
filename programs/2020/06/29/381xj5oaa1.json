@@ -1,0 +1,25 @@
+{
+  "id": "381xj5oaa1",
+  "category": "sports",
+  "title": "うまハピ",
+  "fullTitle": "うまハピ[字]",
+  "detail": "競馬をはじめ、馬との出会いで「大切な人々と出会えた」「素晴らしい仕事についた」「考え方が豊かになった」など馬が運んでくれた幸せを感じている人々を紹介",
+  "start": 1593438840000,
+  "end": 1593439200000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

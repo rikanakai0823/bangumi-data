@@ -1,0 +1,30 @@
+{
+  "id": "381sxrg9y0",
+  "category": "variety",
+  "title": "霜降りミキＸＩＴ",
+  "fullTitle": "[新]霜降りミキＸＩＴ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/shimomikixit/",
+  "start": 1593442560000,
+  "end": 1593446100000,
+  "seconds": 3540,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/shimomikixit/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}
