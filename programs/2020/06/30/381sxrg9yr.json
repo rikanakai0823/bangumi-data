@@ -1,0 +1,30 @@
+{
+  "id": "381sxrg9yr",
+  "category": "variety",
+  "title": "パパジャニＷＥＳＴ",
+  "fullTitle": "[新]パパジャニＷＥＳＴ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/papajohnnyswest/",
+  "start": 1593528960000,
+  "end": 1593532500000,
+  "seconds": 3540,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/papajohnnyswest/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}
