@@ -1,0 +1,30 @@
+{
+  "id": "381sxrga3w",
+  "category": "variety",
+  "title": "有田プレビュールームＳＰ",
+  "fullTitle": "[新]有田プレビュールームＳＰ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/arita_previewroom/",
+  "start": 1594029600000,
+  "end": 1594036800000,
+  "seconds": 7200,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/arita_previewroom/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

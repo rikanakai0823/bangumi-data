@@ -1,0 +1,25 @@
+{
+  "id": "381ocd82ln",
+  "category": "variety",
+  "title": "世界まる見え！テレビ特捜部　２時間ＳＰ",
+  "fullTitle": "世界まる見え！テレビ特捜部　２時間ＳＰ[字]",
+  "detail": "",
+  "start": 1594029600000,
+  "end": 1594036800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
