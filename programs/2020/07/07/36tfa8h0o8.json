@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8h0o8",
+  "category": "drama",
+  "title": "スポットライト",
+  "fullTitle": "[新]スポットライト",
+  "detail": " ",
+  "start": 1594132200000,
+  "end": 1594134000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
