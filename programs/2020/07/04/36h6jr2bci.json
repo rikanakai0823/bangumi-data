@@ -2,11 +2,15 @@
   "id": "36h6jr2bci",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nゆらころん　　　　　　　　　　　0120-362-008",
   "start": 1593853200000,
   "end": 1593855000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ゆらころん　　　　　　　　　　　0120-362-008"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
