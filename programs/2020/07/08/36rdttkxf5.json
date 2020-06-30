@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkxf5",
+  "category": "sports",
+  "title": "Ｊリーグ中継（制作）",
+  "fullTitle": "Ｊリーグ中継（制作）",
+  "detail": "　",
+  "start": 1594202340000,
+  "end": 1594211400000,
+  "seconds": 9060,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

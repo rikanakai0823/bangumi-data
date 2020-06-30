@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lb0m",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「アーバンステージ文月賞」「彦星賞」「第２２回ジャパンダートダービー（ＪｐｎⅠ）」「ベガ賞」",
+  "start": 1594189200000,
+  "end": 1594209600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 22,
+  "flags": []
+}
