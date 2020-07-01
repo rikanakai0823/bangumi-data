@@ -3,10 +3,14 @@
   "category": "news",
   "title": "東京都知事選開票速報",
   "fullTitle": "東京都知事選開票速報",
-  "detail": "",
+  "detail": "【キャスター】瀧川剛史，上原光紀，三條雅幸\n◇出演者\n【キャスター】瀧川剛史，上原光紀，三條雅幸",
   "start": 1593961500000,
   "end": 1593963300000,
   "seconds": 1800,
+  "description": "【キャスター】瀧川剛史，上原光紀，三條雅幸",
+  "extra": {
+    "出演者": "【キャスター】瀧川剛史，上原光紀，三條雅幸"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": null,
   "flags": []
 }
