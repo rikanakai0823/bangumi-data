@@ -2,11 +2,15 @@
   "id": "36h6jr2bl4",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nズーミイ　　　　　　　　　　　　0120-362-008",
   "start": 1594191600000,
   "end": 1594193400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ズーミイ　　　　　　　　　　　　0120-362-008"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
