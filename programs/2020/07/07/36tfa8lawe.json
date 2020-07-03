@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「七夕賞」「ミルキーウェイ賞」",
+  "detail": "「ミルキーウェイ賞」「ベガ賞」\n◇出演者      \n【MC】\r\n前半：福井セリナ\r\n後半：山田桃子\r\n【解説】\r\n藤田裕之（ケイシュウNEWS）",
   "start": 1594102800000,
   "end": 1594123200000,
   "seconds": 20400,
+  "description": "「ミルキーウェイ賞」「ベガ賞」",
+  "extra": {
+    "出演者      ": "【MC】\r\n前半：福井セリナ\r\n後半：山田桃子\r\n【解説】\r\n藤田裕之（ケイシュウNEWS）"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
