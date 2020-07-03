@@ -1,0 +1,25 @@
+{
+  "id": "38224jvms6",
+  "category": "documentary",
+  "title": "アニマルふしぎＺＯＯ鑑",
+  "fullTitle": "アニマルふしぎＺＯＯ鑑[字]",
+  "detail": "バラエティ、ドラマ、スポーツなどのスペシャル番組や人気番組のアンコールを放送！",
+  "start": 1594445400000,
+  "end": 1594450800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
