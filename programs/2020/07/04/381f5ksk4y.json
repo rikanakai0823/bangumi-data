@@ -1,12 +1,12 @@
 {
-  "id": "381f5ks9og",
+  "id": "381f5ksk4y",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ＮＨＫニュース　おはよう日本",
+  "fullTitle": "ＮＨＫニュース　おはよう日本[字]",
   "detail": "",
-  "start": 1593824400000,
-  "end": 1593831240000,
-  "seconds": 6840,
+  "start": 1593815400000,
+  "end": 1593816900000,
+  "seconds": 1500,
   "channel": {
     "type": "GR",
     "channel": "14",
