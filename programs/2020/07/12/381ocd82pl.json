@@ -1,0 +1,25 @@
+{
+  "id": "381ocd82pl",
+  "category": "drama",
+  "title": "今日から俺は!!特別編一挙放送",
+  "fullTitle": "今日から俺は!!特別編一挙放送[字]",
+  "detail": "",
+  "start": 1594527300000,
+  "end": 1594534200000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

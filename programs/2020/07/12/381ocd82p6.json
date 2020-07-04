@@ -1,0 +1,25 @@
+{
+  "id": "381ocd82p6",
+  "category": "information",
+  "title": "Ｈｕｌｕ傑作シアター",
+  "fullTitle": "Ｈｕｌｕ傑作シアター[デ]",
+  "detail": "",
+  "start": 1594482900000,
+  "end": 1594486500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}
