@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksl1j",
+  "category": "news",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「大雨」関連[字]",
+  "detail": "",
+  "start": 1594051200000,
+  "end": 1594063800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "大雨",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
