@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0ap0",
+  "category": "hobby",
+  "title": "芸人先生　アインシュタイン",
+  "fullTitle": "芸人先生　アインシュタイン[字]",
+  "detail": "",
+  "start": 1594734600000,
+  "end": 1594736400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
