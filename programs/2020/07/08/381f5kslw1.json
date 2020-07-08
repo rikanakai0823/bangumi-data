@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksby1",
+  "id": "381f5kslw1",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース",
+  "fullTitle": "ニュース[字]",
   "detail": "",
-  "start": 1594184400000,
-  "end": 1594186800000,
-  "seconds": 2400,
+  "start": 1594180800000,
+  "end": 1594181700000,
+  "seconds": 900,
   "channel": {
     "type": "GR",
     "channel": "14",
