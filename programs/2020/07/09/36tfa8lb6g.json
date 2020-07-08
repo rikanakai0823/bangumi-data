@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ラークセブン【医薬品】\n◇お知らせ\n0120-894701",
   "start": 1594296000000,
   "end": 1594297800000,
   "seconds": 1800,
+  "description": "ラークセブン【医薬品】",
+  "extra": {
+    "お知らせ": "0120-894701"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "医薬品",
   "episode": null,
   "flags": []
 }

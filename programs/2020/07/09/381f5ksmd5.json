@@ -1,12 +1,12 @@
 {
-  "id": "381f5kscfw",
+  "id": "381f5ksmd5",
   "category": "news",
-  "title": "ニュース（関東）",
-  "fullTitle": "ニュース（関東）[字]",
+  "title": "ニュース関連　▽最新情報",
+  "fullTitle": "ニュース「大雨」関連　▽最新情報[字]",
   "detail": "",
-  "start": 1594266000000,
-  "end": 1594266300000,
-  "seconds": 300,
+  "start": 1594220400000,
+  "end": 1594236600000,
+  "seconds": 16200,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "大雨",
   "episode": null,
   "flags": [
     "字"
