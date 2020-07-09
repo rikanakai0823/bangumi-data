@@ -2,7 +2,7 @@
   "id": "381jqz0gum",
   "category": "information",
   "title": "人と暮らしと、台所ミニ",
-  "fullTitle": "人と暮らしと、台所ミニ",
+  "fullTitle": "人と暮らしと、台所ミニ[字]",
   "detail": "",
   "start": 1594485600000,
   "end": 1594486200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

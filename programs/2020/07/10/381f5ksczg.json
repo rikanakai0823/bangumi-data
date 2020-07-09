@@ -1,12 +1,12 @@
 {
   "id": "381f5ksczg",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース・気象情報関連",
+  "fullTitle": "ニュース・気象情報「大雨」関連[字]",
   "detail": "",
   "start": 1594346400000,
-  "end": 1594346700000,
-  "seconds": 300,
+  "end": 1594347000000,
+  "seconds": 600,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "大雨",
   "episode": null,
   "flags": [
     "字"

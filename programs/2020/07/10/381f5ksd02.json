@@ -1,12 +1,12 @@
 {
   "id": "381f5ksd02",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
-  "detail": "",
+  "title": "ニュース・気象情報関連",
+  "fullTitle": "ニュース・気象情報「大雨」関連[字]",
+  "detail": "▽豪雨による生活影響　▽引き続き厳重な警戒を",
   "start": 1594357200000,
-  "end": 1594357500000,
-  "seconds": 300,
+  "end": 1594359600000,
+  "seconds": 2400,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "大雨",
   "episode": null,
   "flags": [
     "字"
