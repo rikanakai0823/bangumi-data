@@ -1,12 +1,12 @@
 {
-  "id": "381f5kscg8",
+  "id": "381f5ksmsg",
   "category": "news",
-  "title": "ニュース（関東甲信越）",
-  "fullTitle": "ニュース（関東甲信越）[字]",
+  "title": "ニュース",
+  "fullTitle": "ニュース[字]",
   "detail": "",
-  "start": 1594275000000,
-  "end": 1594275180000,
-  "seconds": 180,
+  "start": 1594267200000,
+  "end": 1594267800000,
+  "seconds": 600,
   "channel": {
     "type": "GR",
     "channel": "14",
