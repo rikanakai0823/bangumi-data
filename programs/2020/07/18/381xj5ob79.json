@@ -1,0 +1,25 @@
+{
+  "id": "381xj5ob79",
+  "category": "drama",
+  "title": "土曜スペシャル・調整中",
+  "fullTitle": "土曜スペシャル・調整中[字]",
+  "detail": "",
+  "start": 1595053800000,
+  "end": 1595057400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
