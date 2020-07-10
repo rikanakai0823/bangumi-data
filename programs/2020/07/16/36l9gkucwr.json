@@ -1,12 +1,16 @@
 {
   "id": "36l9gkucwr",
   "category": "information",
-  "title": "生活情報３０分",
-  "fullTitle": "生活情報３０分",
-  "detail": "",
+  "title": "生活情報３０分マカンの柳田酵母",
+  "fullTitle": "生活情報３０分【内容】マカンの柳田酵母",
+  "detail": "【内容】マカンの柳田酵母　【電話】０１２０－２２６－８２４\n◇番組内容\nあなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！",
   "start": 1594882500000,
   "end": 1594884300000,
   "seconds": 1800,
+  "description": "【内容】マカンの柳田酵母　【電話】０１２０－２２６－８２４",
+  "extra": {
+    "番組内容": "あなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "17",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "内容",
   "episode": null,
   "flags": []
 }
