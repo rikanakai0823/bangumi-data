@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksetf",
+  "id": "381f5ksodc",
   "category": "news",
   "title": "ニュース関連",
-  "fullTitle": "ニュース「大雨」関連",
+  "fullTitle": "ニュース「大雨」関連[字]",
   "detail": "",
-  "start": 1594501200000,
-  "end": 1594502100000,
-  "seconds": 900,
+  "start": 1594475880000,
+  "end": 1594476000000,
+  "seconds": 120,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -19,5 +19,7 @@
   },
   "subTitle": "大雨",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
