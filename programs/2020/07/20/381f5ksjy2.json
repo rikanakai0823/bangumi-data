@@ -1,0 +1,23 @@
+{
+  "id": "381f5ksjy2",
+  "category": "etc",
+  "title": "公共メディアキャンペーン",
+  "fullTitle": "公共メディアキャンペーン",
+  "detail": "",
+  "start": 1595256000000,
+  "end": 1595256300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
