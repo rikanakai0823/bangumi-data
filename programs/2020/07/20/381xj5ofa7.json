@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "ＢＡＫＡ－ＭＯＮ（仮）",
   "fullTitle": "ＢＡＫＡ－ＭＯＮ（仮）[字]",
-  "detail": "",
+  "detail": "◇おしらせ",
   "start": 1595255400000,
   "end": 1595257800000,
   "seconds": 2400,
+  "description": "　",
+  "extra": {
+    "おしらせ": "　"
+  },
   "channel": {
     "type": "GR",
     "channel": "8",
