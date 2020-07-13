@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksiyw",
-  "category": "information",
-  "title": "プレマップ",
-  "fullTitle": "プレマップ",
+  "id": "381f5ksmak",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース[二][字]",
   "detail": "",
-  "start": 1594996920000,
-  "end": 1594996980000,
-  "seconds": 60,
+  "start": 1595235600000,
+  "end": 1595236200000,
+  "seconds": 600,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -19,5 +19,8 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "二",
+    "字"
+  ]
 }

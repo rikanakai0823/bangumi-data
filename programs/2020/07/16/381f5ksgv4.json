@@ -2,11 +2,11 @@
   "id": "381f5ksgv4",
   "category": "news",
   "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
-  "detail": "",
+  "fullTitle": "ニュース・気象情報「大雨最新情報」[字]",
+  "detail": "▽土砂災害や川の増水に警戒",
   "start": 1594875600000,
-  "end": 1594875900000,
-  "seconds": 300,
+  "end": 1594878000000,
+  "seconds": 2400,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "大雨最新情報",
   "episode": null,
   "flags": [
     "字"
