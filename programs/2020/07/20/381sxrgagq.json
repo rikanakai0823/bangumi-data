@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "裏顔女子の夜",
   "fullTitle": "裏顔女子の夜[字]",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/uragaojoshi_20200720/",
   "start": 1595246400000,
   "end": 1595253420000,
   "seconds": 7020,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/uragaojoshi_20200720/"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",

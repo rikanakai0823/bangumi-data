@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ショップ島・ＲＩＺＡＰテレビショピング",
   "fullTitle": "ショップ島・ＲＩＺＡＰテレビショピング[Ｓ]",
-  "detail": "",
+  "detail": "◇番組内容\nライザップの全て編　　　　　　　　　　　０１２０－９６４－０１３",
   "start": 1594947600000,
   "end": 1594949400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ライザップの全て編　　　　　　　　　　　０１２０－９６４－０１３"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
