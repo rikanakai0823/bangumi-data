@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": "おいしいコラーゲンドリンク【健康食品】",
+  "detail": "おいしいコラーゲンドリンク【健康食品】\n◇おしらせ\n0120-102682",
   "start": 1594859400000,
   "end": 1594861200000,
   "seconds": 1800,
+  "description": "おいしいコラーゲンドリンク【健康食品】",
+  "extra": {
+    "おしらせ": "0120-102682\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
