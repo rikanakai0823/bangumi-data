@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkud8u",
+  "category": "news",
+  "title": "おやすみＪＡＧＵＡＲ　天気予報",
+  "fullTitle": "おやすみＪＡＧＵＡＲ　天気予報",
+  "detail": "エターナルセイバー篇",
+  "start": 1595437200000,
+  "end": 1595437440000,
+  "seconds": 240,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

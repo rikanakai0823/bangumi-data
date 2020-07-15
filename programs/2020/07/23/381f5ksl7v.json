@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksl7v",
+  "category": "music",
+  "title": "シブヤノオト　ＳＰＥＣＩＡＬ",
+  "fullTitle": "シブヤノオト　ＳＰＥＣＩＡＬ[字]",
+  "detail": "",
+  "start": 1595509200000,
+  "end": 1595513700000,
+  "seconds": 4500,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
