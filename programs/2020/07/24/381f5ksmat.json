@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksmat",
+  "category": "sports",
+  "title": "大相撲（２０２０年）　７月場所　六日目",
+  "fullTitle": "大相撲（２０２０年）　７月場所　六日目[字]",
+  "detail": "～国技館から中継～",
+  "start": 1595570700000,
+  "end": 1595574000000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
