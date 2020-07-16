@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "スワロ【マッサージ機】\n◇おしらせ\n0120-462-469",
   "start": 1595014200000,
   "end": 1595016000000,
   "seconds": 1800,
+  "description": "スワロ【マッサージ機】",
+  "extra": {
+    "おしらせ": "0120-462-469\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "マッサージ機",
   "episode": null,
   "flags": []
 }
