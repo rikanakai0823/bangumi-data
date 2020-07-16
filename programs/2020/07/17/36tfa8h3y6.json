@@ -2,7 +2,7 @@
   "id": "36tfa8h3y6",
   "category": "news",
   "title": "都知事定例会見",
-  "fullTitle": "都知事定例会見[手]",
+  "fullTitle": "[生]都知事定例会見",
   "detail": " ",
   "start": 1594967400000,
   "end": 1594969200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }

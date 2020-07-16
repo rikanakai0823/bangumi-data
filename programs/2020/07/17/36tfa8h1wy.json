@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ヒアロモイスチャー２４０【機能性表示食品】\n◇おしらせ\n0120-240244",
   "start": 1594965600000,
   "end": 1594967400000,
   "seconds": 1800,
+  "description": "ヒアロモイスチャー２４０【機能性表示食品】",
+  "extra": {
+    "おしらせ": "0120-240244\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "機能性表示食品",
   "episode": null,
   "flags": []
 }
