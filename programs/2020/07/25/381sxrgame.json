@@ -1,0 +1,25 @@
+{
+  "id": "381sxrgame",
+  "category": "variety",
+  "title": "別冊王様のブランチ",
+  "fullTitle": "別冊王様のブランチ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1595656800000,
+  "end": 1595660400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

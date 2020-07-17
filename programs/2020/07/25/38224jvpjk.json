@@ -1,0 +1,25 @@
+{
+  "id": "38224jvpjk",
+  "category": "variety",
+  "title": "脱出迷宮　キズナデビル",
+  "fullTitle": "脱出迷宮　キズナデビル[字]",
+  "detail": "バラエティ、ドラマ、スポーツなどのスペシャル番組や人気番組のアンコールを放送！",
+  "start": 1595655000000,
+  "end": 1595660400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
