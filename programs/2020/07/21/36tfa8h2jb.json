@@ -3,10 +3,14 @@
   "category": "news",
   "title": "高校野球ハイライト",
   "fullTitle": "高校野球ハイライト",
-  "detail": "開催中の「２０２０年夏季東西東京都高校野球大会」今日の試合から注目の試合をハイライトで!!\r\n明日の注目試合は!?",
+  "detail": "開催中の「２０２０年夏季東西東京都高校野球大会」今日の試合から注目の試合をハイライトで!!\r\n明日の注目試合は!?\n◇お知らせ\n２０２０年夏季東西東京都高校野球大会のＴＯＫＹＯ　ＭＸでの放送に関する情報は公式ＨＰ・Ｔｗｉｔｔｅｒで!!\r\n\r\n【ホームページ】\r\nhttps://s.mxtv.jp/sports/koukou/\r\n【Twitter】\r\nhttps://twitter.com/mxkoukouyakyu",
   "start": 1595332560000,
   "end": 1595332800000,
   "seconds": 240,
+  "description": "開催中の「２０２０年夏季東西東京都高校野球大会」今日の試合から注目の試合をハイライトで!!\r\n明日の注目試合は!?",
+  "extra": {
+    "お知らせ": "２０２０年夏季東西東京都高校野球大会のＴＯＫＹＯ　ＭＸでの放送に関する情報は公式ＨＰ・Ｔｗｉｔｔｅｒで!!\r\n\r\n【ホームページ】\r\nhttps://s.mxtv.jp/sports/koukou/\r\n【Twitter】\r\nhttps://twitter.com/mxkoukouyakyu"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
