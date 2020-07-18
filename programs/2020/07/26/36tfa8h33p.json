@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8h33p",
+  "category": "information",
+  "title": "ＴＯＫＹＯ　ＭＸからのお知らせ",
+  "fullTitle": "ＴＯＫＹＯ　ＭＸからのお知らせ",
+  "detail": " ",
+  "start": 1595710500000,
+  "end": 1595710800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

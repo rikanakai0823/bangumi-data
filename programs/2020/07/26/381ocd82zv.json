@@ -1,0 +1,25 @@
+{
+  "id": "381ocd82zv",
+  "category": "variety",
+  "title": "ザ！世界仰天ニュース２時間ＳＰ直前・特別版",
+  "fullTitle": "ザ！世界仰天ニュース２時間ＳＰ直前・特別版[字]",
+  "detail": "",
+  "start": 1595744100000,
+  "end": 1595746800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
