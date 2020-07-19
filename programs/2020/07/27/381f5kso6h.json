@@ -1,0 +1,25 @@
+{
+  "id": "381f5kso6h",
+  "category": "documentary",
+  "title": "【ストーリーズ】ストーリーズ",
+  "fullTitle": "【ストーリーズ】ストーリーズ[字]",
+  "detail": "",
+  "start": 1595857500000,
+  "end": 1595859300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
