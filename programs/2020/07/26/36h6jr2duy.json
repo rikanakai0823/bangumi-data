@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr2duy",
+  "category": "information",
+  "title": "テレビショッピング・ショップジャパン",
+  "fullTitle": "テレビショッピング・ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nフォーサー＋ターボプロ　　　　　　　　　０１２０－４４－００２７＋　　　　　　　０１２０－３６－２００８",
+  "start": 1595743200000,
+  "end": 1595746500000,
+  "seconds": 3300,
+  "description": "",
+  "extra": {
+    "番組内容": "フォーサー＋ターボプロ　　　　　　　　　０１２０－４４－００２７＋　　　　　　　０１２０－３６－２００８"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
