@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkz3g",
+  "category": "sports",
+  "title": "ｔｖｋスポーツスペシャル　なでしこリーグ中継",
+  "fullTitle": "ｔｖｋスポーツスペシャル　なでしこリーグ中継",
+  "detail": "　",
+  "start": 1595930400000,
+  "end": 1595937600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
