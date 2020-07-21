@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksloi",
+  "id": "381f5ksloj",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "title": "ニュース・気象情報（関東甲信越）",
+  "fullTitle": "ニュース・気象情報（関東甲信越）[字]",
   "detail": "",
-  "start": 1595591100000,
-  "end": 1595591700000,
-  "seconds": 600,
+  "start": 1595591700000,
+  "end": 1595592000000,
+  "seconds": 300,
   "channel": {
     "type": "GR",
     "channel": "14",

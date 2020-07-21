@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ＳＭＨヘアファンデーション【美容グッズ】\n◇お知らせ\n0120-111-444",
   "start": 1595583000000,
   "end": 1595584800000,
   "seconds": 1800,
+  "description": "ＳＭＨヘアファンデーション【美容グッズ】",
+  "extra": {
+    "お知らせ": "0120-111-444"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "美容グッズ",
   "episode": null,
   "flags": []
 }
