@@ -1,0 +1,25 @@
+{
+  "id": "381ocd831y",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「１周・今くら」[字]",
+  "detail": "",
+  "start": 1596023640000,
+  "end": 1596024000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "１周・今くら",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
