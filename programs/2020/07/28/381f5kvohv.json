@@ -1,0 +1,23 @@
+{
+  "id": "381f5kvohv",
+  "category": "etc",
+  "title": "放送番組未定",
+  "fullTitle": "放送番組未定",
+  "detail": "この時間放送する番組は未定です。",
+  "start": 1595947200000,
+  "end": 1595947500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
