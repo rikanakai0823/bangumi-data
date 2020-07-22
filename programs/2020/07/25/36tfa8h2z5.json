@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "すっぽん黒にんにく卵黄油【健康食品】\n◇おしらせ\n0120-365-444",
   "start": 1595656800000,
   "end": 1595658600000,
   "seconds": 1800,
+  "description": "すっぽん黒にんにく卵黄油【健康食品】",
+  "extra": {
+    "おしらせ": "0120-365-444\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "健康食品",
   "episode": null,
   "flags": []
 }

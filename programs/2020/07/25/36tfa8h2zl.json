@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": "クッキングプロ【キッチングッズ】",
+  "detail": "クッキングプロ【キッチングッズ】\n◇おしらせ\n0120-115524",
   "start": 1595626200000,
   "end": 1595628000000,
   "seconds": 1800,
+  "description": "クッキングプロ【キッチングッズ】",
+  "extra": {
+    "おしらせ": "0120-115524\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
