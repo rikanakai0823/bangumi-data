@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkudr5",
+  "category": "news",
+  "title": "おやすみＪＡＧＵＡＲ　天気予報",
+  "fullTitle": "おやすみＪＡＧＵＡＲ　天気予報",
+  "detail": "北海道のＪＡＧＵＡＲ篇",
+  "start": 1596216600000,
+  "end": 1596216840000,
+  "seconds": 240,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
