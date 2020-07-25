@@ -1,0 +1,23 @@
+{
+  "id": "381ocd834h",
+  "category": "cinema",
+  "title": "映画『青くて痛くて脆い』①",
+  "fullTitle": "映画『青くて痛くて脆い』①",
+  "detail": "",
+  "start": 1596312000000,
+  "end": 1596312300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
