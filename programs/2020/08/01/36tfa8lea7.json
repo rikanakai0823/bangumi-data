@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「清水坂賞」",
+  "detail": "「清水坂賞」「スターマイン賞」\n◇出演者\n【MC】\r\n前半：佐田志歩\r\n後半：田中歩\r\n【解説】\r\n藤田裕之（ケイシュウNEWS）",
   "start": 1596262800000,
   "end": 1596283200000,
   "seconds": 20400,
+  "description": "「清水坂賞」「スターマイン賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：佐田志歩\r\n後半：田中歩\r\n【解説】\r\n藤田裕之（ケイシュウNEWS）"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "清水坂賞",
+  "subTitle": "",
   "episode": null,
   "flags": []
 }
