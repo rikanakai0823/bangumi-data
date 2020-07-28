@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "日テレ＋",
   "fullTitle": "日テレ＋「まもなくウチのガヤ」[字]",
-  "detail": "",
+  "detail": "◇出演者\n【MC】ヒロミ、後藤輝基（フットボールアワー）",
   "start": 1596542040000,
   "end": 1596542400000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】ヒロミ、後藤輝基（フットボールアワー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",

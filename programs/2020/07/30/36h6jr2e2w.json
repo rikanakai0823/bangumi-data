@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＴＶショッピング・やずやテレビショッピング",
   "fullTitle": "ＴＶショッピング・やずやテレビショッピング[Ｓ]",
-  "detail": "",
+  "detail": "◇番組内容\nやずやの青魚の知恵　　　　　　　　　　　０１２０－３４５－０００",
   "start": 1596083400000,
   "end": 1596085200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "やずやの青魚の知恵　　　　　　　　　　　０１２０－３４５－０００"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
