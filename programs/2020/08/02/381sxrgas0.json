@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
   "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ソフトバンク×西武」[字][デ]",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/baseball/",
   "start": 1596344400000,
   "end": 1596351600000,
   "seconds": 7200,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/baseball/"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",
