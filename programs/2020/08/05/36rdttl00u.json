@@ -1,0 +1,23 @@
+{
+  "id": "36rdttl00u",
+  "category": "etc",
+  "title": "プロモート番組",
+  "fullTitle": "プロモート番組「高校野球ミニ番組」",
+  "detail": "「高校野球ミニ番組」",
+  "start": 1596583500000,
+  "end": 1596583800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "高校野球ミニ番組",
+  "episode": null,
+  "flags": []
+}
