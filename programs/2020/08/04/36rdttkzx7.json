@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Home\"PENTATONIX\r\n\"Happy Days\"blink-182\r\n\"South Of The Border\"ED SHEERAN feat.CAMILA CABELLO & CARDI B\n◇番組内容２\n\"Kings & Queens\"AVA MAX\r\n\"Learn To Fly\"SURFACES & ELTON JOHN\r\n\"How You Like That\"BLACKPINK",
   "start": 1596466800000,
   "end": 1596468600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Home\"PENTATONIX\r\n\"Happy Days\"blink-182\r\n\"South Of The Border\"ED SHEERAN feat.CAMILA CABELLO & CARDI B",
+    "番組内容２": "\"Kings & Queens\"AVA MAX\r\n\"Learn To Fly\"SURFACES & ELTON JOHN\r\n\"How You Like That\"BLACKPINK"
   },
   "channel": {
     "type": "GR",
