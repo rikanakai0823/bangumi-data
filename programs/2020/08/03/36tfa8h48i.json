@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": "ここひえ【小型サーキュレーター】",
+  "detail": "ここひえ【小型サーキュレーター】\n◇おしらせ\n0120-366041",
   "start": 1596409200000,
   "end": 1596411000000,
   "seconds": 1800,
+  "description": "ここひえ【小型サーキュレーター】",
+  "extra": {
+    "おしらせ": "0120-366041\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
