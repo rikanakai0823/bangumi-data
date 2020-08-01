@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkuek9",
+  "category": "music",
+  "title": "カラオケ大賞",
+  "fullTitle": "カラオケ大賞[再]",
+  "detail": "【審査員長】伊戸のりお　【司会】風見しんご　【アシスタント】飯田有咲",
+  "start": 1596963900000,
+  "end": 1596967200000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
