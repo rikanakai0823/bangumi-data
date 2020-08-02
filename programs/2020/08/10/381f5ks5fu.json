@@ -1,0 +1,23 @@
+{
+  "id": "381f5ks5fu",
+  "category": "news",
+  "title": "ニュース・気象情報（関東甲信越）",
+  "fullTitle": "ニュース・気象情報（関東甲信越）",
+  "detail": "",
+  "start": 1597010100000,
+  "end": 1597010400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
