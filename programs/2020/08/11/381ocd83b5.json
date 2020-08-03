@@ -1,0 +1,23 @@
+{
+  "id": "381ocd83b5",
+  "category": "welfare",
+  "title": "２４時間テレビ４３カウントダウン①",
+  "fullTitle": "２４時間テレビ４３「動く」カウントダウン①",
+  "detail": "",
+  "start": 1597074840000,
+  "end": 1597075140000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "動く",
+  "episode": null,
+  "flags": []
+}
