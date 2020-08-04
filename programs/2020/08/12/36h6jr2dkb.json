@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr2dkb",
+  "category": "sports",
+  "title": "高校野球ダイジェスト２０２０",
+  "fullTitle": "高校野球ダイジェスト２０２０[Ｓ][再]",
+  "detail": "",
+  "start": 1597185000000,
+  "end": 1597186800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
