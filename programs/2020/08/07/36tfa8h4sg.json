@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "ここひえ【小型サーキュレーター】\n◇お知らせ\n0120-371127",
   "start": 1596774600000,
   "end": 1596776340000,
   "seconds": 1740,
+  "description": "ここひえ【小型サーキュレーター】",
+  "extra": {
+    "お知らせ": "0120-371127"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "小型サーキュレーター",
   "episode": null,
   "flags": []
 }
