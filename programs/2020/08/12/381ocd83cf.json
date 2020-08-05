@@ -3,10 +3,14 @@
   "category": "drama",
   "title": "私たちはどうかしている",
   "fullTitle": "[新]私たちはどうかしている#01[解][字][デ]",
-  "detail": "",
+  "detail": "◇おしらせ\n\"【公式HP】\r\nhttps://www.ntv.co.jp/watadou/\r\n【公式Twitter】\r\nhttps://twitter.com/watadou_ntv\r\n【公式Instagram】\r\nhttps://www.instagram.com/watadou_ntv/\"",
   "start": 1597237200000,
   "end": 1597240800000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "おしらせ": "\"【公式HP】\r\nhttps://www.ntv.co.jp/watadou/\r\n【公式Twitter】\r\nhttps://twitter.com/watadou_ntv\r\n【公式Instagram】\r\nhttps://www.instagram.com/watadou_ntv/\""
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
