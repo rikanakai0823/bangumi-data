@@ -1,0 +1,26 @@
+{
+  "id": "381f5ks7q0",
+  "category": "documentary",
+  "title": "ドキュメント７２時間",
+  "fullTitle": "ドキュメント７２時間[解][字]",
+  "detail": "",
+  "start": 1597412700000,
+  "end": 1597414440000,
+  "seconds": 1740,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocd83ds",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まだまだ音が出たら負け」[字]",
+  "detail": "",
+  "start": 1597406040000,
+  "end": 1597406400000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "まだまだ音が出たら負け",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
