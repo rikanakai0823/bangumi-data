@@ -1,0 +1,25 @@
+{
+  "id": "381ocd83e3",
+  "category": "sports",
+  "title": "Ｗｉｔｈ　ジャイアンツ②",
+  "fullTitle": "Ｗｉｔｈ　ジャイアンツ②[再]",
+  "detail": "",
+  "start": 1597436640000,
+  "end": 1597436940000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

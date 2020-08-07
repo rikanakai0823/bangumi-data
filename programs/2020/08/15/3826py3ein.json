@@ -1,0 +1,25 @@
+{
+  "id": "3826py3ein",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第一闇「お届け物」",
+  "start": 1597425780000,
+  "end": 1597426200000,
+  "seconds": 420,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "お届け物",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
