@@ -1,0 +1,25 @@
+{
+  "id": "381f5kse5k",
+  "category": "sports",
+  "title": "２０２０高校野球　関東地区　千葉決勝",
+  "fullTitle": "２０２０高校野球　関東地区　千葉決勝[字]",
+  "detail": "　（試合開始　９：００）　～千葉県総合スポーツセンター野球場から中継～",
+  "start": 1597709100000,
+  "end": 1597717800000,
+  "seconds": 8700,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

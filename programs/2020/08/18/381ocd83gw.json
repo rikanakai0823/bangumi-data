@@ -1,0 +1,25 @@
+{
+  "id": "381ocd83gw",
+  "category": "welfare",
+  "title": "２４時間テレビ４３みどころ①",
+  "fullTitle": "２４時間テレビ４３「動く」みどころ①[字]",
+  "detail": "",
+  "start": 1597751640000,
+  "end": 1597752000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "動く",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
