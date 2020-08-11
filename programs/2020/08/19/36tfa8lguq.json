@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lguq",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「カツアール賞」「第５４回黒潮盃（ＳⅡ）」「オリオンビール賞」",
+  "start": 1597818000000,
+  "end": 1597838400000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 54,
+  "flags": []
+}
