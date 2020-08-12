@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ここひえ【小型サーキュレーター】\n◇おしらせ\n0120-371127",
   "start": 1597375800000,
   "end": 1597377600000,
   "seconds": 1800,
+  "description": "ここひえ【小型サーキュレーター】",
+  "extra": {
+    "おしらせ": "0120-371127\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "小型サーキュレーター",
   "episode": null,
   "flags": []
 }
