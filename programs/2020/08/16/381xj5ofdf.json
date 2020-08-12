@@ -1,8 +1,8 @@
 {
   "id": "381xj5ofdf",
-  "category": "etc",
-  "title": "調整中＜フジバラナイト　ＳＡＴ＞",
-  "fullTitle": "調整中＜フジバラナイト　ＳＡＴ＞",
+  "category": "drama",
+  "title": "竜の道＜フジバラナイト　ＳＡＴ＞",
+  "fullTitle": "竜の道＜フジバラナイト　ＳＡＴ＞　＃０３[再]",
   "detail": "",
   "start": 1597515300000,
   "end": 1597518600000,
@@ -18,6 +18,8 @@
     "n": 28
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 3,
+  "flags": [
+    "再"
+  ]
 }
