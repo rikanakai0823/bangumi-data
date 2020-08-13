@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksgoh",
+  "category": "sports",
+  "title": "ＭＬＢ２０２０「レイズ」対",
+  "fullTitle": "ＭＬＢ２０２０「レイズ」対「ヤンキース」[二]",
+  "detail": "～ヤンキースタジアムから中継～",
+  "start": 1597942800000,
+  "end": 1597951740000,
+  "seconds": 8940,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "ヤンキース",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

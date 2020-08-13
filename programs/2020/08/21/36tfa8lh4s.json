@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8lh4s",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「葉月賞」「飛鳥山賞」\n◇出演者\n【MC】\r\n前半：宮脇美咲\r\n後半：福井セリナ\r\n【解説】\r\n市川俊吾（日刊競馬）",
+  "start": 1597990800000,
+  "end": 1598011200000,
+  "seconds": 20400,
+  "description": "「葉月賞」「飛鳥山賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：宮脇美咲\r\n後半：福井セリナ\r\n【解説】\r\n市川俊吾（日刊競馬）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
