@@ -1,15 +1,18 @@
 {
   "id": "36rdttl0rw",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "title": "洋楽天国＋▽ケイティ・ペリー特集",
+  "fullTitle": "洋楽天国＋▽ケイティ・ペリー特集",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n「KATY PERY特集」\n◇選曲１\n\"Daisies\"KATY PERRY\r\n\"Daisies (Can't Cancel Pride)\"KATY PERRY\r\nKATY PERRY  インタビュー\r\n\"Smile (Performance Video)\"KATY PERRY\n◇番組内容２\n「COREY HART特集」\n◇選曲２\n\"Dreaming Time Again\"COREY HART\r\nCOREY HART コメント\r\n\"Never Surrender (Angels) 2020\"COREY HART",
   "start": 1597676400000,
   "end": 1597678200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "「KATY PERY特集」",
+    "選曲１": "\"Daisies\"KATY PERRY\r\n\"Daisies (Can't Cancel Pride)\"KATY PERRY\r\nKATY PERRY  インタビュー\r\n\"Smile (Performance Video)\"KATY PERRY",
+    "番組内容２": "「COREY HART特集」",
+    "選曲２": "\"Dreaming Time Again\"COREY HART\r\nCOREY HART コメント\r\n\"Never Surrender (Angels) 2020\"COREY HART"
   },
   "channel": {
     "type": "GR",
