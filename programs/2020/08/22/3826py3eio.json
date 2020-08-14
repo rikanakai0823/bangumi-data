@@ -1,0 +1,25 @@
+{
+  "id": "3826py3eio",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第二闇「眠れない子ども」",
+  "start": 1598030580000,
+  "end": 1598031000000,
+  "seconds": 420,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "眠れない子ども",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

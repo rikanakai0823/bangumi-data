@@ -1,0 +1,23 @@
+{
+  "id": "3826py3dpf",
+  "category": "music",
+  "title": "ミュージックブレイク",
+  "fullTitle": "ミュージックブレイク",
+  "detail": "ミュージックブレイク～NIPPON　CALLING　TV～では、イベント「NIPPON　CALLING2020」に出演するアーティストの紹介を中心に、イベントと連動した最新情報をお届けします！",
+  "start": 1598035500000,
+  "end": 1598035800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "NIPPON　CALLING2020",
+  "episode": null,
+  "flags": []
+}
