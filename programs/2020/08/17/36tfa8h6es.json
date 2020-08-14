@@ -3,10 +3,14 @@
   "category": "information",
   "title": "旅人発案　旅番組はじめました",
   "fullTitle": "旅人発案　旅番組はじめました",
-  "detail": " ",
+  "detail": "「東京でも旅気分が味わえる銭湯をめぐる」\n◇出演者\n【出演】\r\nエレキコミックやつい",
   "start": 1597663800000,
   "end": 1597665360000,
   "seconds": 1560,
+  "description": "「東京でも旅気分が味わえる銭湯をめぐる」",
+  "extra": {
+    "出演者": "【出演】\r\nエレキコミックやつい"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "東京でも旅気分が味わえる銭湯をめぐる",
   "episode": null,
   "flags": []
 }
