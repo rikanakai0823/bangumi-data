@@ -1,0 +1,26 @@
+{
+  "id": "381ocd83k0",
+  "category": "welfare",
+  "title": "２４時間テレビ４３　ＰＡＲＴ．７",
+  "fullTitle": "２４時間テレビ４３　ＰＡＲＴ．７「動く」[字][デ]",
+  "detail": "",
+  "start": 1598169540000,
+  "end": 1598183640000,
+  "seconds": 14100,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "動く",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

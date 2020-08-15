@@ -1,0 +1,29 @@
+{
+  "id": "381f5kse4a",
+  "category": "music",
+  "title": "シブヤノオト　Ｐｒｅｓｅｎｔｓ　ＷＡＮＩＭＡ　ＬＩＶＥ　ＳＰＥＣＩＡＬ",
+  "fullTitle": "シブヤノオト　Ｐｒｅｓｅｎｔｓ　ＷＡＮＩＭＡ　ＬＩＶＥ　ＳＰＥＣＩＡＬ[字]",
+  "detail": "【出演】ＷＡＮＩＭＡ\n◇出演者\n【出演】ＷＡＮＩＭＡ",
+  "start": 1598108700000,
+  "end": 1598110500000,
+  "seconds": 1800,
+  "description": "【出演】ＷＡＮＩＭＡ",
+  "extra": {
+    "出演者": "【出演】ＷＡＮＩＭＡ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
