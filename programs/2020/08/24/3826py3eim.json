@@ -1,0 +1,28 @@
+{
+  "id": "3826py3eim",
+  "category": "sports",
+  "title": "メジャーリーグ中継",
+  "fullTitle": "メジャーリーグ中継",
+  "detail": "生中継でお届けするメジャーリーグ公式戦！\n◇出演者\n【MC】レッド吉田（TIM）\n◇お知らせ\n放送カードは変更の可能性があります",
+  "start": 1598206200000,
+  "end": 1598213400000,
+  "seconds": 7200,
+  "description": "生中継でお届けするメジャーリーグ公式戦！",
+  "extra": {
+    "出演者": "【MC】レッド吉田（TIM）",
+    "お知らせ": "放送カードは変更の可能性があります"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
