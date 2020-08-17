@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "人生の切符",
   "fullTitle": "人生の切符",
-  "detail": " ",
+  "detail": "緑効青汁\n◇おしらせ\n0120-003-003",
   "start": 1597710600000,
   "end": 1597712400000,
   "seconds": 1800,
+  "description": "緑効青汁",
+  "extra": {
+    "おしらせ": "0120-003-003\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
