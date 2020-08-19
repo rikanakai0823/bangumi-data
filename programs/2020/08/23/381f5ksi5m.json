@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ニュース",
   "fullTitle": "ニュース[字]",
-  "detail": "",
+  "detail": "【キャスター】合原明子\n◇出演者\n【キャスター】合原明子",
   "start": 1598151600000,
   "end": 1598152200000,
   "seconds": 600,
+  "description": "【キャスター】合原明子",
+  "extra": {
+    "出演者": "【キャスター】合原明子"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": null,
   "flags": [
     "字"
