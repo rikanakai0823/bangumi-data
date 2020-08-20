@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ゆらころん【エクササイズグッズ】\n◇おしらせ\n0120-366041",
   "start": 1598061300000,
   "end": 1598061600000,
   "seconds": 300,
+  "description": "ゆらころん【エクササイズグッズ】",
+  "extra": {
+    "おしらせ": "0120-366041\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "エクササイズグッズ",
   "episode": null,
   "flags": []
 }
