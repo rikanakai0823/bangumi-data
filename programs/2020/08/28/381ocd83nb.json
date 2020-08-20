@@ -1,0 +1,25 @@
+{
+  "id": "381ocd83nb",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まだまだ沸騰ワード１０」[字]",
+  "detail": "",
+  "start": 1598615640000,
+  "end": 1598616000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "まだまだ沸騰ワード１０",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
