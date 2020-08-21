@@ -1,0 +1,29 @@
+{
+  "id": "381f5ksjyt",
+  "category": "music",
+  "title": "ＮＨＫ２０２０ソング　アニメバージョン",
+  "fullTitle": "ＮＨＫ２０２０ソング「カイト」　アニメバージョン[字]",
+  "detail": "【出演】嵐「カイト」（歌唱）嵐\n◇出演者\n【出演】嵐",
+  "start": 1598631900000,
+  "end": 1598632200000,
+  "seconds": 300,
+  "description": "【出演】嵐「カイト」（歌唱）嵐",
+  "extra": {
+    "出演者": "【出演】嵐"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "カイト",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

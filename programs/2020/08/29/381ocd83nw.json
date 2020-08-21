@@ -1,0 +1,25 @@
+{
+  "id": "381ocd83nw",
+  "category": "variety",
+  "title": "サタデーネクスト",
+  "fullTitle": "サタデーネクスト「勝手にコマーシャル」[字]",
+  "detail": "",
+  "start": 1598675400000,
+  "end": 1598677200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "勝手にコマーシャル",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

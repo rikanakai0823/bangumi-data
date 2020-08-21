@@ -1,0 +1,25 @@
+{
+  "id": "3826py3eip",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第三闇「応接間」",
+  "start": 1598635380000,
+  "end": 1598635800000,
+  "seconds": 420,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "応接間",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

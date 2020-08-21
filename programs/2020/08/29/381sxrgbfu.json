@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgbfu",
+  "category": "variety",
+  "title": "土曜☆ブレイク",
+  "fullTitle": "土曜☆ブレイク「進め！０円トラベラー」[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/program/0yentraveler_20200829/",
+  "start": 1598680800000,
+  "end": 1598684400000,
+  "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/program/0yentraveler_20200829/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "進め！０円トラベラー",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

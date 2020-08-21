@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgbfs",
+  "category": "variety",
+  "title": "土曜☆ブレイク",
+  "fullTitle": "土曜☆ブレイク「オトラクション」[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/oto_raction/",
+  "start": 1598677200000,
+  "end": 1598680440000,
+  "seconds": 3240,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/oto_raction/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "オトラクション",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
