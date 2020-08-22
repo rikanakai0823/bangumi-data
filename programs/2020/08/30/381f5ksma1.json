@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksma1",
+  "category": "documentary",
+  "title": "あの日　あのとき　あの番組",
+  "fullTitle": "あの日　あのとき　あの番組[字]",
+  "detail": "",
+  "start": 1598773200000,
+  "end": 1598778000000,
+  "seconds": 4800,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

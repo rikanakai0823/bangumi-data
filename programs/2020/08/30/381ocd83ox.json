@@ -1,0 +1,25 @@
+{
+  "id": "381ocd83ox",
+  "category": "variety",
+  "title": "サンバリュ",
+  "fullTitle": "サンバリュ「ＴＨＥトラップハウス」[字]",
+  "detail": "",
+  "start": 1598760900000,
+  "end": 1598764500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "ＴＨＥトラップハウス",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

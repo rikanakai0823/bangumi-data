@@ -1,0 +1,25 @@
+{
+  "id": "381ocd83oi",
+  "category": "cinema",
+  "title": "要チェック！今日から俺は！！劇場版③",
+  "fullTitle": "要チェック！今日から俺は！！劇場版③[再]",
+  "detail": "",
+  "start": 1598724000000,
+  "end": 1598724300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

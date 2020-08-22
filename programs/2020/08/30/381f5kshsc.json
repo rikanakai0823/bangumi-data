@@ -1,0 +1,29 @@
+{
+  "id": "381f5kshsc",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース[字]",
+  "detail": "【キャスター】塩田慎二\n◇出演者\n【キャスター】塩田慎二",
+  "start": 1598756400000,
+  "end": 1598757000000,
+  "seconds": 600,
+  "description": "【キャスター】塩田慎二",
+  "extra": {
+    "出演者": "【キャスター】塩田慎二"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "キャスター",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

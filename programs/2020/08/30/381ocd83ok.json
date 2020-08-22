@@ -1,0 +1,23 @@
+{
+  "id": "381ocd83ok",
+  "category": "information",
+  "title": "日テレみどころ",
+  "fullTitle": "日テレみどころ",
+  "detail": "",
+  "start": 1598731680000,
+  "end": 1598731800000,
+  "seconds": 120,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
