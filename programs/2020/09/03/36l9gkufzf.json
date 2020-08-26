@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkufzf",
+  "category": "information",
+  "title": "生活情報３０分",
+  "fullTitle": "生活情報３０分",
+  "detail": "醗酵黒豆ＴＶ　ショッピング　【内容】醗酵黒豆　【電話】０１２０－７８－８２０２",
+  "start": 1599112500000,
+  "end": 1599114300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
