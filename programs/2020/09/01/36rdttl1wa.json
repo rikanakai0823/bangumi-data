@@ -1,12 +1,17 @@
 {
   "id": "36rdttl1wa",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "　",
+  "title": "洋楽天国＋▽ａ－ｈａ特集",
+  "fullTitle": "洋楽天国＋▽ａ－ｈａ特集",
+  "detail": "日本デビュー３５周年！大ヒット曲「テイク・オン・ミー」で知られるアーハを大特集！！\n◇番組内容１\na-haのメンバーはもちろん、ナイル・ロジャース、エド・シーラン、ジェームス・ブラントなどが語るドキュメンタリー映像「ザ・メイキング・オブ・テイク・オン・ミー」のトレーラー映像も特別にOA！！\n◇番組内容２\n【a-ha特集】\r\n\"I've Been Losing You\"\r\n\"The Sun Always Shines On T.V.\"\r\n\"Stay On These Roads\"\r\n\"Summer Moved On\"\r\n\"Butterfly, Butterfly (The Last Hurrah)\"\r\n\"Take On Me\"",
   "start": 1598918400000,
   "end": 1598920200000,
   "seconds": 1800,
+  "description": "日本デビュー３５周年！大ヒット曲「テイク・オン・ミー」で知られるアーハを大特集！！",
+  "extra": {
+    "番組内容１": "a-haのメンバーはもちろん、ナイル・ロジャース、エド・シーラン、ジェームス・ブラントなどが語るドキュメンタリー映像「ザ・メイキング・オブ・テイク・オン・ミー」のトレーラー映像も特別にOA！！",
+    "番組内容２": "【a-ha特集】\r\n\"I've Been Losing You\"\r\n\"The Sun Always Shines On T.V.\"\r\n\"Stay On These Roads\"\r\n\"Summer Moved On\"\r\n\"Butterfly, Butterfly (The Last Hurrah)\"\r\n\"Take On Me\""
+  },
   "channel": {
     "type": "GR",
     "channel": "18",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 5
   },
-  "subTitle": "",
+  "subTitle": "テイク・オン・ミー",
   "episode": null,
   "flags": []
 }
