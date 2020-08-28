@@ -2,7 +2,7 @@
   "id": "381f5kso6q",
   "category": "news",
   "title": "＃そういえば　あの日　何をしていましたか",
-  "fullTitle": "＃そういえば　あの日　何をしていましたか",
+  "fullTitle": "＃そういえば　あの日　何をしていましたか[字]",
   "detail": "",
   "start": 1599073200000,
   "end": 1599073320000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
