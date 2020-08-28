@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksqke",
+  "category": "news",
+  "title": "＃そういえば　あの日　何をしていましたか",
+  "fullTitle": "＃そういえば　あの日　何をしていましたか[字]",
+  "detail": "",
+  "start": 1599249540000,
+  "end": 1599249600000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

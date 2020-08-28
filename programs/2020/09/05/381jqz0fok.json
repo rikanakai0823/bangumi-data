@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0fok",
+  "category": "information",
+  "title": "人と暮らしと、台所",
+  "fullTitle": "人と暮らしと、台所[字]",
+  "detail": "",
+  "start": 1599313800000,
+  "end": 1599314400000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
