@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "知事定例記者会見",
   "fullTitle": "知事定例記者会見",
-  "detail": "",
+  "detail": "▽「知事発表」○新型コロナウイルス感染症対策について○知事公約の取組状況\n◇番組内容\n▽「幹事社質問（埼玉新聞社）」○安倍首相の辞任について",
   "start": 1598936340000,
   "end": 1598938200000,
   "seconds": 1860,
+  "description": "▽「知事発表」○新型コロナウイルス感染症対策について○知事公約の取組状況",
+  "extra": {
+    "番組内容": "▽「幹事社質問（埼玉新聞社）」○安倍首相の辞任について"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
+  "subTitle": "知事発表",
   "episode": null,
   "flags": []
 }
