@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ljgj",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「中野区賞」「第２７回アフター５スター賞（ＳⅢ）」「サファイア賞」",
+  "start": 1599546000000,
+  "end": 1599566400000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 27,
+  "flags": []
+}

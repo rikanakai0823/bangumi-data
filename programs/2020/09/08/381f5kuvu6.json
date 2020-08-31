@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuvu6",
+  "category": "sports",
+  "title": "ＭＬＢ２０２０「タイガース」対",
+  "fullTitle": "ＭＬＢ２０２０「タイガース」対「ツインズ」[二]",
+  "detail": "～ターゲットフィールドから中継～",
+  "start": 1599506940000,
+  "end": 1599512400000,
+  "seconds": 5460,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "ツインズ",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
