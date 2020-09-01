@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksisj",
-  "category": "news",
-  "title": "ニュース（関東甲信越）",
-  "fullTitle": "ニュース（関東甲信越）[字]",
+  "id": "381f5ksses",
+  "category": "information",
+  "title": "プレマップ",
+  "fullTitle": "プレマップ",
   "detail": "",
-  "start": 1598940900000,
-  "end": 1598941080000,
-  "seconds": 180,
+  "start": 1598941080000,
+  "end": 1598941200000,
+  "seconds": 120,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
