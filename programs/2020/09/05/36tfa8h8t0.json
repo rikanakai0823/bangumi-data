@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "エアーヨーン【ベッド】\n◇おしらせ\n0800-333-7-111",
   "start": 1599298200000,
   "end": 1599300000000,
   "seconds": 1800,
+  "description": "エアーヨーン【ベッド】",
+  "extra": {
+    "おしらせ": "0800-333-7-111\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "ベッド",
   "episode": null,
   "flags": []
 }
