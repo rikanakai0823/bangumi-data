@@ -1,0 +1,25 @@
+{
+  "id": "3826py3ejc",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第五闇「終了のお知らせ」",
+  "start": 1599844980000,
+  "end": 1599845400000,
+  "seconds": 420,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "終了のお知らせ",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
