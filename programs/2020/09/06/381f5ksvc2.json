@@ -1,12 +1,12 @@
 {
-  "id": "381f5kslwe",
+  "id": "381f5ksvc2",
   "category": "news",
   "title": "ニュース関連",
-  "fullTitle": "ニュース「台風１０号」関連[字]",
-  "detail": "",
-  "start": 1599364800000,
-  "end": 1599365400000,
-  "seconds": 600,
+  "fullTitle": "ニュース「台風１０号」関連",
+  "detail": "▽最新情報　▽台風進路図",
+  "start": 1599318000000,
+  "end": 1599336000000,
+  "seconds": 18000,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -19,7 +19,5 @@
   },
   "subTitle": "台風１０号",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }

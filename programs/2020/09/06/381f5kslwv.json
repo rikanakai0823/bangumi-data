@@ -1,12 +1,12 @@
 {
   "id": "381f5kslwv",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[二][字]",
-  "detail": "",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「台風１０号」関連[二][字]",
+  "detail": "危険な台風１０号接近　経験ない記録的暴風・高潮・大雨のおそれも",
   "start": 1599382800000,
-  "end": 1599383100000,
-  "seconds": 300,
+  "end": 1599385320000,
+  "seconds": 2520,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "台風１０号",
   "episode": null,
   "flags": [
     "二",

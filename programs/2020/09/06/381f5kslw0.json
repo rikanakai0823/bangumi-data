@@ -1,12 +1,12 @@
 {
   "id": "381f5kslw0",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース・気象情報関連",
+  "fullTitle": "ニュース・気象情報「台風１０号」関連[字]",
   "detail": "",
   "start": 1599354000000,
-  "end": 1599354300000,
-  "seconds": 300,
+  "end": 1599354900000,
+  "seconds": 900,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "台風１０号",
   "episode": null,
   "flags": [
     "字"
