@@ -1,0 +1,25 @@
+{
+  "id": "381ocd83z8",
+  "category": "sports",
+  "title": "有吉×巨人２０２０",
+  "fullTitle": "有吉×巨人２０２０[字]",
+  "detail": "",
+  "start": 1599983700000,
+  "end": 1599985500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

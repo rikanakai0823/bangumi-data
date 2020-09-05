@@ -1,0 +1,23 @@
+{
+  "id": "381ocd83yq",
+  "category": "sports",
+  "title": "２０２０なでしこリーグ中継日テレ・東京ヴェルディベレーザ×ＩＮＡＣ神戸レオネッサ",
+  "fullTitle": "２０２０なでしこリーグ中継日テレ・東京ヴェルディベレーザ×ＩＮＡＣ神戸レオネッサ",
+  "detail": "",
+  "start": 1599931500000,
+  "end": 1599937500000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

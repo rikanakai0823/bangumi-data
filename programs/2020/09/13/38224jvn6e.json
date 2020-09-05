@@ -1,0 +1,27 @@
+{
+  "id": "38224jvn6e",
+  "category": "welfare",
+  "title": "日曜プライム",
+  "fullTitle": "日曜プライム[デ][解][字]",
+  "detail": "ドラマ・映画・バラエティと、日曜の夜にふさわしい、家族で楽しめる大型エンターテインメント企画をお届けする「日曜プライム」!!",
+  "start": 1599998400000,
+  "end": 1600005240000,
+  "seconds": 6840,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "日曜プライム",
+  "episode": null,
+  "flags": [
+    "デ",
+    "解",
+    "字"
+  ]
+}
