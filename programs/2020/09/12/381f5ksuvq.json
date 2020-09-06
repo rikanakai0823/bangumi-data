@@ -1,12 +1,12 @@
 {
-  "id": "381f5kslxe",
-  "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "id": "381f5ksuvq",
+  "category": "etc",
+  "title": "セレクション",
+  "fullTitle": "セレクション",
   "detail": "",
-  "start": 1599390000000,
-  "end": 1599393300000,
-  "seconds": 3300,
+  "start": 1599883500000,
+  "end": 1599886200000,
+  "seconds": 2700,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
