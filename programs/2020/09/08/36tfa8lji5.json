@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ＡｉｒｄｏｇＸ５ｓ【空気清浄機】\n◇お知らせ\n0120-023-678",
   "start": 1599566400000,
   "end": 1599568200000,
   "seconds": 1800,
+  "description": "ＡｉｒｄｏｇＸ５ｓ【空気清浄機】",
+  "extra": {
+    "お知らせ": "0120-023-678"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "空気清浄機",
   "episode": null,
   "flags": []
 }
