@@ -1,12 +1,12 @@
 {
   "id": "381f5ksmxe",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
-  "detail": "",
+  "title": "ニュース",
+  "fullTitle": "ニュース「自民党総裁選　共同記者会見」[字]",
+  "detail": "中継・自民党総裁選　共同記者会見～政策・憲法・人事・解散は？",
   "start": 1599544800000,
-  "end": 1599545100000,
-  "seconds": 300,
+  "end": 1599548400000,
+  "seconds": 3600,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "自民党総裁選　共同記者会見",
   "episode": null,
   "flags": [
     "字"

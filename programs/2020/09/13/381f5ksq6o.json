@@ -1,12 +1,16 @@
 {
   "id": "381f5ksq6o",
   "category": "music",
-  "title": "シブヤノオト　Ｐｒｅｓｅｎｔｓ",
-  "fullTitle": "シブヤノオト　Ｐｒｅｓｅｎｔｓ[字]",
-  "detail": "",
+  "title": "シブヤノオト　Ｐｒｅｓｅｎｔｓ　あいみょん　リクエストＬＩＶＥ",
+  "fullTitle": "シブヤノオト　Ｐｒｅｓｅｎｔｓ　あいみょん　リクエストＬＩＶＥ[字]",
+  "detail": "【出演】あいみょん\n◇出演者\n【出演】あいみょん",
   "start": 1599923100000,
   "end": 1599925680000,
   "seconds": 2580,
+  "description": "【出演】あいみょん",
+  "extra": {
+    "出演者": "【出演】あいみょん"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "出演",
   "episode": null,
   "flags": [
     "字"
