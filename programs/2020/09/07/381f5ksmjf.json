@@ -2,11 +2,15 @@
   "id": "381f5ksmjf",
   "category": "news",
   "title": "時論公論",
-  "fullTitle": "時論公論「台風１０号関連」[字]",
-  "detail": "",
+  "fullTitle": "時論公論「台風１０号　防災の成果と課題」[字]",
+  "detail": "【出演】ＮＨＫ解説委員…二宮徹\n◇出演者\n【出演】ＮＨＫ解説委員…二宮徹",
   "start": 1599489000000,
   "end": 1599489600000,
   "seconds": 600,
+  "description": "【出演】ＮＨＫ解説委員…二宮徹",
+  "extra": {
+    "出演者": "【出演】ＮＨＫ解説委員…二宮徹"
+  },
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "台風１０号関連",
+  "subTitle": "台風１０号　防災の成果と課題",
   "episode": null,
   "flags": [
     "字"
