@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksmic",
+  "id": "381f5ks53s",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース",
+  "fullTitle": "ニュース「合流新党代表選　候補者記者会見」[字]",
   "detail": "",
-  "start": 1599454800000,
-  "end": 1599457200000,
-  "seconds": 2400,
+  "start": 1599451200000,
+  "end": 1599454200000,
+  "seconds": 3000,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "合流新党代表選　候補者記者会見",
   "episode": null,
   "flags": [
     "字"
