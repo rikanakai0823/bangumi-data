@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8lkkb",
+  "category": "sports",
+  "title": "プロ野球　パ・リーグ応援宣言！ホークス中継２０２０",
+  "fullTitle": "[生]プロ野球　パ・リーグ応援宣言！ホークス中継２０２０",
+  "detail": "「北海道日本ハムファイターズ×福岡ソフトバンクホークス」～札幌ドーム",
+  "start": 1600246800000,
+  "end": 1600261200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "北海道日本ハムファイターズ×福岡ソフトバンクホークス",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
