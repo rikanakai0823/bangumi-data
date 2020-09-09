@@ -1,8 +1,8 @@
 {
   "id": "381xj5oe0k",
-  "category": "etc",
-  "title": "調整中＜サンデーＭＩＤＮＩＧＨＴ＞",
-  "fullTitle": "調整中＜サンデーＭＩＤＮＩＧＨＴ＞",
+  "category": "drama",
+  "title": "竜の道＜サンデーＭＩＤＮＩＧＨＴ＞",
+  "fullTitle": "竜の道＜サンデーＭＩＤＮＩＧＨＴ＞　＃０７[再]",
   "detail": "",
   "start": 1600016100000,
   "end": 1600019700000,
@@ -18,6 +18,8 @@
     "n": 28
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 7,
+  "flags": [
+    "再"
+  ]
 }
