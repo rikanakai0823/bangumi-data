@@ -3,10 +3,15 @@
   "category": "music",
   "title": "Ｖ－Ｃｌｉｐｓ",
   "fullTitle": "Ｖ－Ｃｌｉｐｓ[Ｓ]",
-  "detail": "",
+  "detail": "◇番組内容\nＮＭＢ４８「だってだってだって」ベリーグッドマン「Dreamer 」ザ・コインロッカーズ「夢がない僕が夢をみたんだ」the peggies 「花火」\n◇出演者\nＮＭＢ４８・ベリーグッドマン・ザ・コインロッカーズ・the peggies",
   "start": 1600119000000,
   "end": 1600120200000,
   "seconds": 1200,
+  "description": "",
+  "extra": {
+    "番組内容": "ＮＭＢ４８「だってだってだって」ベリーグッドマン「Dreamer 」ザ・コインロッカーズ「夢がない僕が夢をみたんだ」the peggies 「花火」",
+    "出演者": "ＮＭＢ４８・ベリーグッドマン・ザ・コインロッカーズ・the peggies"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
