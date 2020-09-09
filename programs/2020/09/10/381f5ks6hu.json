@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks6hu",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース「合流新党代表選　投開票」[字]",
+  "detail": "「合流新党」代表選投開票・選出を生中継▽国会議員１４９人投票▽新党の党名も決まる　列島各地のニュース",
+  "start": 1599710400000,
+  "end": 1599716400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "合流新党代表選　投開票",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
