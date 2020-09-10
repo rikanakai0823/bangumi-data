@@ -2,11 +2,11 @@
   "id": "381f5ksp6a",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "fullTitle": "ニュース「自民党総裁選　討論会」[字]",
   "detail": "",
   "start": 1599883200000,
-  "end": 1599883500000,
-  "seconds": 300,
+  "end": 1599890400000,
+  "seconds": 7200,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "自民党総裁選　討論会",
   "episode": null,
   "flags": [
     "字"
