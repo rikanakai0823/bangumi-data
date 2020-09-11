@@ -1,0 +1,26 @@
+{
+  "id": "381ocd843p",
+  "category": "variety",
+  "title": "嵐にしやがれ２時間スペシャル",
+  "fullTitle": "嵐にしやがれ２時間スペシャル[字][デ]",
+  "detail": "",
+  "start": 1600516800000,
+  "end": 1600523640000,
+  "seconds": 6840,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
