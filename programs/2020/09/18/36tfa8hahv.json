@@ -3,10 +3,14 @@
   "category": "news",
   "title": "東京都議会中継",
   "fullTitle": "東京都議会中継[手]",
-  "detail": " ",
+  "detail": "「令和２年第３回定例会・本会議初日」\n◇出演者\n【司会】\r\n針谷衣織里",
   "start": 1600401600000,
   "end": 1600412400000,
   "seconds": 10800,
+  "description": "「令和２年第３回定例会・本会議初日」",
+  "extra": {
+    "出演者": "【司会】\r\n針谷衣織里"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "令和２年第３回定例会・本会議初日",
+  "episode": 3,
   "flags": []
 }
