@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ジニエシークレットブラ【補正下着】\n◇お知らせ\n0120-524-524",
   "start": 1599987300000,
   "end": 1599987600000,
   "seconds": 300,
+  "description": "ジニエシークレットブラ【補正下着】",
+  "extra": {
+    "お知らせ": "0120-524-524"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "補正下着",
   "episode": null,
   "flags": []
 }
