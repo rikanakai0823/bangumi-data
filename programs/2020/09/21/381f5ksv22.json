@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksv22",
+  "category": "news",
+  "title": "ＮＨＫニュース　おはよう日本（関東甲信越）",
+  "fullTitle": "ＮＨＫニュース　おはよう日本（関東甲信越）[字]",
+  "detail": "",
+  "start": 1600640700000,
+  "end": 1600641000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

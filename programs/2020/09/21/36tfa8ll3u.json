@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ll3u",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「第１回ゴールドジュニア（ＳⅢ）」「紫苑賞」",
+  "start": 1600669200000,
+  "end": 1600689600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
