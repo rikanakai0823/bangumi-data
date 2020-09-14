@@ -2,14 +2,14 @@
   "id": "381f5ksquv",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース[二][字]",
-  "detail": "【キャスター】三條雅幸\n◇出演者\n【キャスター】三條雅幸",
+  "fullTitle": "ニュース「自民党新総裁　記者会見」[二][字]",
+  "detail": "【キャスター】合原明子\n◇出演者\n【キャスター】合原明子",
   "start": 1600074000000,
-  "end": 1600074600000,
-  "seconds": 600,
-  "description": "【キャスター】三條雅幸",
+  "end": 1600075800000,
+  "seconds": 1800,
+  "description": "【キャスター】合原明子",
   "extra": {
-    "出演者": "【キャスター】三條雅幸"
+    "出演者": "【キャスター】合原明子"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "キャスター",
+  "subTitle": "自民党新総裁　記者会見",
   "episode": null,
   "flags": [
     "二",
