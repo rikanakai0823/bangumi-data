@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgc2g",
+  "category": "variety",
+  "title": "シークレットチェンジ",
+  "fullTitle": "シークレットチェンジ[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/secretchange_20200922/",
+  "start": 1600786560000,
+  "end": 1600790100000,
+  "seconds": 3540,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/secretchange_20200922/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
