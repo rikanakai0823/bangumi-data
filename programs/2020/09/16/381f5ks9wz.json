@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks9wz",
+  "category": "news",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「首相指名選挙」関連[字]",
+  "detail": "中継・首相指名選挙　第９９代首相に菅義偉氏選出へ…瞬間を生中継▽新政権の今後を解説▽政党幹部に直接聞く",
+  "start": 1600228800000,
+  "end": 1600234800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "首相指名選挙",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

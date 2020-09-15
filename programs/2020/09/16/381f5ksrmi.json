@@ -1,12 +1,12 @@
 {
   "id": "381f5ksrmi",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「新内閣組閣」関連[字]",
   "detail": "",
   "start": 1600236000000,
-  "end": 1600236300000,
-  "seconds": 300,
+  "end": 1600238700000,
+  "seconds": 2700,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "新内閣組閣",
   "episode": null,
   "flags": [
     "字"
