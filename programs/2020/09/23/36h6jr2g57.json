@@ -3,10 +3,15 @@
   "category": "music",
   "title": "Ｖ－Ｃｌｉｐｓ",
   "fullTitle": "Ｖ－Ｃｌｉｐｓ[Ｓ]",
-  "detail": "",
+  "detail": "◇番組内容\n森口博子「君を見つめて-The time I'm seeing you-/ with 本田雅人」つばきファクトリー「イマナンジ？」chay「Together」COLOR CREATION「なんでなんで」\n◇出演者\n森口博子・つばきファクトリー・chay・COLOR CREATION",
   "start": 1600810200000,
   "end": 1600811400000,
   "seconds": 1200,
+  "description": "",
+  "extra": {
+    "番組内容": "森口博子「君を見つめて-The time I'm seeing you-/ with 本田雅人」つばきファクトリー「イマナンジ？」chay「Together」COLOR CREATION「なんでなんで」",
+    "出演者": "森口博子・つばきファクトリー・chay・COLOR CREATION"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
