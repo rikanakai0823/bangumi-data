@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": "ターボプロ【掃除グッズ】",
+  "detail": "ターボプロ【掃除グッズ】\n◇おしらせ\n0120-366041",
   "start": 1600286400000,
   "end": 1600288200000,
   "seconds": 1800,
+  "description": "ターボプロ【掃除グッズ】",
+  "extra": {
+    "おしらせ": "0120-366041\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",

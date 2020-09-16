@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": "トゥルースリーパー【低反発マットレス】",
+  "detail": "トゥルースリーパー【低反発マットレス】\n◇おしらせ\n0120-409601",
   "start": 1600318800000,
   "end": 1600320600000,
   "seconds": 1800,
+  "description": "トゥルースリーパー【低反発マットレス】",
+  "extra": {
+    "おしらせ": "0120-409601\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
