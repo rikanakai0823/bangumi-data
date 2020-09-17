@@ -1,11 +1,11 @@
 {
-  "id": "36tfa8lksz",
+  "id": "36tfa8lkor",
   "category": "news",
-  "title": "都知事定例会見",
-  "fullTitle": "都知事定例会見[再]",
-  "detail": " ",
-  "start": 1600446900000,
-  "end": 1600450500000,
+  "title": "ヒーリングタイム＆ヘッドラインニュース",
+  "fullTitle": "ヒーリングタイム＆ヘッドラインニュース",
+  "detail": "東京点描　城西２",
+  "start": 1600344000000,
+  "end": 1600347600000,
   "seconds": 3600,
   "channel": {
     "type": "GR",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }
