@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "いびきトルネル【睡眠グッズ】\n◇おしらせ\n0120-023-357",
   "start": 1600750800000,
   "end": 1600752600000,
   "seconds": 1800,
+  "description": "いびきトルネル【睡眠グッズ】",
+  "extra": {
+    "おしらせ": "0120-023-357\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "睡眠グッズ",
   "episode": null,
   "flags": []
 }

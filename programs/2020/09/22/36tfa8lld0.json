@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "パリパリキューブライトアルファ【生ごみ処理機】\n◇おしらせ\n0120-555162",
   "start": 1600727400000,
   "end": 1600729200000,
   "seconds": 1800,
+  "description": "パリパリキューブライトアルファ【生ごみ処理機】",
+  "extra": {
+    "おしらせ": "0120-555162\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "生ごみ処理機",
   "episode": null,
   "flags": []
 }

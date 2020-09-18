@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "毎日骨ケアＭＢＰ【特定保健用食品】\n◇おしらせ\n0120-41-5252",
   "start": 1600561800000,
   "end": 1600563600000,
   "seconds": 1800,
+  "description": "毎日骨ケアＭＢＰ【特定保健用食品】",
+  "extra": {
+    "おしらせ": "0120-41-5252"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "特定保健用食品",
   "episode": null,
   "flags": []
 }
