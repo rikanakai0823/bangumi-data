@@ -1,11 +1,11 @@
 {
-  "id": "381f5ksuiu",
-  "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "id": "381f5ksq74",
+  "category": "information",
+  "title": "プレマップ",
+  "fullTitle": "プレマップ",
   "detail": "",
-  "start": 1600564200000,
-  "end": 1600564500000,
+  "start": 1600576200000,
+  "end": 1600576500000,
   "seconds": 300,
   "channel": {
     "type": "GR",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
