@@ -1,0 +1,27 @@
+{
+  "id": "381ocd848q",
+  "category": "sports",
+  "title": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２０",
+  "fullTitle": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２０「巨人×中日」[多][字][デ]",
+  "detail": "",
+  "start": 1601100000000,
+  "end": 1601107200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "巨人×中日",
+  "episode": null,
+  "flags": [
+    "多",
+    "字",
+    "デ"
+  ]
+}

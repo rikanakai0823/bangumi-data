@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8llrk",
+  "category": "news",
+  "title": "都知事定例会見",
+  "fullTitle": "都知事定例会見[手][再]",
+  "detail": " ",
+  "start": 1601051700000,
+  "end": 1601055300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
