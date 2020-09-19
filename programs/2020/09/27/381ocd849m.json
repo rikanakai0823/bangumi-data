@@ -1,0 +1,26 @@
+{
+  "id": "381ocd849m",
+  "category": "variety",
+  "title": "やりすぎ未来計画",
+  "fullTitle": "やりすぎ未来計画[再][字]",
+  "detail": "",
+  "start": 1601180100000,
+  "end": 1601183700000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再",
+    "字"
+  ]
+}

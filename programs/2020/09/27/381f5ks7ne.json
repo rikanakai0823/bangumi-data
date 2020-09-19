@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks7ne",
+  "category": "information",
+  "title": "ＮＨＫ国際放送番組審議会",
+  "fullTitle": "ＮＨＫ国際放送番組審議会「９月の審議から」[字]",
+  "detail": "",
+  "start": 1601151000000,
+  "end": 1601151120000,
+  "seconds": 120,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "９月の審議から",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

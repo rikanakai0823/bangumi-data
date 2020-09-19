@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks9yc",
+  "category": "sports",
+  "title": "ＭＬＢ２０２０「マーリンズ」対",
+  "fullTitle": "ＭＬＢ２０２０「マーリンズ」対「ヤンキース」[二]",
+  "detail": "～ヤンキースタジアムから中継～　［４：０４－（５：００）　総合２で放送継続］",
+  "start": 1601139900000,
+  "end": 1601147040000,
+  "seconds": 7140,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "ヤンキース",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
