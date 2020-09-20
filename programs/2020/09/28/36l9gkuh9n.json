@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkuh9n",
+  "category": "information",
+  "title": "生活情報３０分",
+  "fullTitle": "生活情報３０分",
+  "detail": "あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！",
+  "start": 1601272500000,
+  "end": 1601274300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

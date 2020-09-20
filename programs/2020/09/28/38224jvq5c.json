@@ -1,0 +1,25 @@
+{
+  "id": "38224jvq5c",
+  "category": "variety",
+  "title": "お助け！コントット",
+  "fullTitle": "お助け！コントット[字]",
+  "detail": "アナタのお悩みをコントで解決！",
+  "start": 1601302500000,
+  "end": 1601306100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
