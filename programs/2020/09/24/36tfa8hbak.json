@@ -2,14 +2,16 @@
   "id": "36tfa8hbak",
   "category": "variety",
   "title": "Ｌｅａｄバラエティ",
-  "fullTitle": "Ｌｅａｄバラエティ",
-  "detail": "◇出演者      \n【出演】\r\nLead\r\n【MC】\r\nゆっきー（キャン×キャン）",
+  "fullTitle": "Ｌｅａｄバラエティ[終]",
+  "detail": "◇番組内容①\n今回の放送は「Leadパフォーマンススペシャル第３弾」をお届け！\r\n新曲タキシードの魅力「ロックンロール」について語る！\r\nそして、The Policeの名曲「Every Breath You Take」をオリジナルカバー！\r\n\r\nさらに番組ラストには番組からのお知らせが！\r\n\n◇番組内容②\nライブ映像：「Tuxedo～タキシード～」、「Every Breath You Take」、「監獄ロック」\r\n\r\n\n◇出演者\n【出演】\r\nLead（鍵本輝・谷内伸也・古屋敬多）\r\n【アシスタント】\r\n岩崎春果、平塚日菜（ふわふわ）",
   "start": 1600945080000,
   "end": 1600946820000,
   "seconds": 1740,
   "description": " ",
   "extra": {
-    "出演者      ": "【出演】\r\nLead\r\n【MC】\r\nゆっきー（キャン×キャン）\r\n"
+    "番組内容①": "今回の放送は「Leadパフォーマンススペシャル第３弾」をお届け！\r\n新曲タキシードの魅力「ロックンロール」について語る！\r\nそして、The Policeの名曲「Every Breath You Take」をオリジナルカバー！\r\n\r\nさらに番組ラストには番組からのお知らせが！\r\n",
+    "番組内容②": "ライブ映像：「Tuxedo～タキシード～」、「Every Breath You Take」、「監獄ロック」\r\n\r\n",
+    "出演者": "【出演】\r\nLead（鍵本輝・谷内伸也・古屋敬多）\r\n【アシスタント】\r\n岩崎春果、平塚日菜（ふわふわ）"
   },
   "channel": {
     "type": "GR",
@@ -23,5 +25,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }
