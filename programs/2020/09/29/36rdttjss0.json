@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\nJOHNNY ORLANDOコメント\r\n\"Everybody Wants You\"JOHNNY ORLANDO\r\n\"WE ARE CHAOS\"MARILYN MANSON\n◇番組内容２\n\"Never Really Over\"KATY PERRY\r\nKATY PERRYMaking Of “Smile” Music Video\r\n\"Smile\"KATY PERRY\r\n\"So Done\"ALICIA KEYS feat.KHALID\r\n\"Holiday\"LITTLE MIX",
   "start": 1601305200000,
   "end": 1601307000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "JOHNNY ORLANDOコメント\r\n\"Everybody Wants You\"JOHNNY ORLANDO\r\n\"WE ARE CHAOS\"MARILYN MANSON",
+    "番組内容２": "\"Never Really Over\"KATY PERRY\r\nKATY PERRYMaking Of “Smile” Music Video\r\n\"Smile\"KATY PERRY\r\n\"So Done\"ALICIA KEYS feat.KHALID\r\n\"Holiday\"LITTLE MIX"
   },
   "channel": {
     "type": "GR",

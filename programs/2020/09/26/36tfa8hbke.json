@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "エポホワイティア・白洗顔セット【化粧品】\n◇おしらせ\n0120-898-610／0102-557-888",
   "start": 1601073000000,
   "end": 1601074800000,
   "seconds": 1800,
+  "description": "エポホワイティア・白洗顔セット【化粧品】",
+  "extra": {
+    "おしらせ": "0120-898-610／0102-557-888"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }
