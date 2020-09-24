@@ -1,0 +1,23 @@
+{
+  "id": "381jqz04vo",
+  "category": "etc",
+  "title": "Ｅテレセレクション",
+  "fullTitle": "Ｅテレセレクション",
+  "detail": "",
+  "start": 1601607480000,
+  "end": 1601607600000,
+  "seconds": 120,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
