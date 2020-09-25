@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "モイスチャージェル　コラーゲンセット【化粧品】\n◇おしらせ\n0120-888-158",
   "start": 1601166600000,
   "end": 1601168400000,
   "seconds": 1800,
+  "description": "モイスチャージェル　コラーゲンセット【化粧品】",
+  "extra": {
+    "おしらせ": "0120-888-158"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }

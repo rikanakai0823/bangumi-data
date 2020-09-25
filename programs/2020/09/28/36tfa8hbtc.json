@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "プライベートジム【サービス】\n◇おしらせ\n0120-991-953",
   "start": 1601256600000,
   "end": 1601258400000,
   "seconds": 1800,
+  "description": "プライベートジム【サービス】",
+  "extra": {
+    "おしらせ": "0120-991-953\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "サービス",
   "episode": null,
   "flags": []
 }

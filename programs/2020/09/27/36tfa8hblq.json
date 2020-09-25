@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "ＤＨＡ＆ＥＰＡ＋セサミンＥＸ・オメガエイド【健康食品】\n◇おしらせ\n0120-005-005",
   "start": 1601150100000,
   "end": 1601151900000,
   "seconds": 1800,
+  "description": "ＤＨＡ＆ＥＰＡ＋セサミンＥＸ・オメガエイド【健康食品】",
+  "extra": {
+    "おしらせ": "0120-005-005"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "健康食品",
   "episode": null,
   "flags": []
 }
