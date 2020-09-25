@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksc6i",
+  "category": "sports",
+  "title": "日本陸上選手権　第３日",
+  "fullTitle": "第１０４回日本陸上選手権　第３日[字]",
+  "detail": "～デンカビッグスワンスタジアムから中継～",
+  "start": 1601708400000,
+  "end": 1601715600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 104,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksc6e",
+  "category": "sports",
+  "title": "日本女子オープンゴルフ選手権２０２０　第３日",
+  "fullTitle": "日本女子オープンゴルフ選手権２０２０　第３日[字]",
+  "detail": "～福岡県　ザ・クラシックゴルフ倶楽部から中継～",
+  "start": 1601700600000,
+  "end": 1601708400000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
