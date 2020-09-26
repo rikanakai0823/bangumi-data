@@ -1,0 +1,23 @@
+{
+  "id": "3826py3fbo",
+  "category": "information",
+  "title": "７コレ　Ｓｕｎｄａｙ",
+  "fullTitle": "７コレ　Ｓｕｎｄａｙ",
+  "detail": "テレ東の旬の話題をお届け。ここでしか見られないインタビューや番組をもっと楽しめる情報をお届けします!!",
+  "start": 1601756400000,
+  "end": 1601757000000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

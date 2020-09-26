@@ -1,0 +1,25 @@
+{
+  "id": "381ocd84ec",
+  "category": "information",
+  "title": "ｂｉｚ　ｓｅａｒｃｈ",
+  "fullTitle": "ｂｉｚ　ｓｅａｒｃｈ[字]",
+  "detail": "話題の企業の新商品、キャンペーン、イベントなどを日本テレビアナウンサーが徹底調査！",
+  "start": 1601778300000,
+  "end": 1601778600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

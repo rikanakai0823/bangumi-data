@@ -1,0 +1,23 @@
+{
+  "id": "381ocd84e3",
+  "category": "information",
+  "title": "日テレポシュレ",
+  "fullTitle": "日テレポシュレ",
+  "detail": "",
+  "start": 1601753100000,
+  "end": 1601756700000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocd84ef",
+  "category": "variety",
+  "title": "サンバリュ",
+  "fullTitle": "サンバリュ「画にする神サマ」[字]",
+  "detail": "",
+  "start": 1601783100000,
+  "end": 1601786700000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "画にする神サマ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

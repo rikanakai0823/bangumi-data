@@ -1,0 +1,26 @@
+{
+  "id": "381ocd84e6",
+  "category": "information",
+  "title": "日テレアップＤａｔｅ！",
+  "fullTitle": "日テレアップＤａｔｅ！[解][字]",
+  "detail": "",
+  "start": 1601758500000,
+  "end": 1601759700000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

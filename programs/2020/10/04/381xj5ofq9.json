@@ -1,0 +1,25 @@
+{
+  "id": "381xj5ofq9",
+  "category": "hobby",
+  "title": "キャラダチミュージアム～ＭｏＣＡ～",
+  "fullTitle": "[新]キャラダチミュージアム～ＭｏＣＡ～",
+  "detail": "",
+  "start": 1601755800000,
+  "end": 1601757600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
