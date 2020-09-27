@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkuhm1",
+  "category": "information",
+  "title": "生活情報３０分スイングビート",
+  "fullTitle": "生活情報３０分【内容】スイングビート",
+  "detail": "ヤーマンＴＶショッピング　【内容】スイングビート　【電話】０１２０－１０８－６００　【時間】２４時間受付",
+  "start": 1601845200000,
+  "end": 1601847000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "内容",
+  "episode": null,
+  "flags": []
+}
