@@ -1,0 +1,25 @@
+{
+  "id": "381f5kscr4",
+  "category": "news",
+  "title": "ニュース（関東甲信越）",
+  "fullTitle": "ニュース（関東甲信越）[字]",
+  "detail": "",
+  "start": 1601964300000,
+  "end": 1601964480000,
+  "seconds": 180,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
