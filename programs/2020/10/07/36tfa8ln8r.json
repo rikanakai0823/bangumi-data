@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ln8r",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ペガサス賞」「第５４回東京盃（ＪｐｎⅡ）」「イブニングスター賞」",
+  "start": 1602051600000,
+  "end": 1602072000000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 54,
+  "flags": []
+}

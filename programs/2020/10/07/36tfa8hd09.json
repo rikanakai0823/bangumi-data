@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8hd09",
+  "category": "sports",
+  "title": "東京シティ競馬中継　東京盃",
+  "fullTitle": "東京シティ競馬中継　東京盃",
+  "detail": "「第５４回東京盃（ＪｐｎⅡ）」",
+  "start": 1602066600000,
+  "end": 1602070020000,
+  "seconds": 3420,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "第５４回東京盃（ＪｐｎⅡ）",
+  "episode": 54,
+  "flags": []
+}

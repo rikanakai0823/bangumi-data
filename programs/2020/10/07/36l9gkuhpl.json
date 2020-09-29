@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkuhpl",
+  "category": "anime",
+  "title": "「戦翼のシグルドリーヴァ」▽",
+  "fullTitle": "「戦翼のシグルドリーヴァ」[新]▽「館山基地へようこそ！」",
+  "detail": "「館山基地へようこそ！」",
+  "start": 1602000000000,
+  "end": 1602003600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "館山基地へようこそ！",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
