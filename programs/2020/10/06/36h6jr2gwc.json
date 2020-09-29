@@ -3,10 +3,15 @@
   "category": "music",
   "title": "ＳＳＣ５",
   "fullTitle": "ＳＳＣ５[Ｓ]",
-  "detail": "",
+  "detail": "◇番組内容\n安斉かれん「ＧＡＬ－ＴＲＡＰ」\n◇出演者\n安斉かれん",
   "start": 1601915700000,
   "end": 1601916000000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "番組内容": "安斉かれん「ＧＡＬ－ＴＲＡＰ」",
+    "出演者": "安斉かれん"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",

@@ -3,10 +3,15 @@
   "category": "music",
   "title": "Ｖ－Ｃｌｉｐｓ",
   "fullTitle": "Ｖ－Ｃｌｉｐｓ[Ｓ]",
-  "detail": "",
+  "detail": "◇番組内容\nTREASURE「I LOVE YOU」藤川千愛「悔しさは種」 saji 「三角の恋」あいみょん「マシマロ」横浜銀蠅40th「昭和火の玉ボーイ」\n◇出演者\nTREASURE・藤川千愛・saji・あいみょん・横浜銀蠅40th",
   "start": 1601847000000,
   "end": 1601848200000,
   "seconds": 1200,
+  "description": "",
+  "extra": {
+    "番組内容": "TREASURE「I LOVE YOU」藤川千愛「悔しさは種」 saji 「三角の恋」あいみょん「マシマロ」横浜銀蠅40th「昭和火の玉ボーイ」",
+    "出演者": "TREASURE・藤川千愛・saji・あいみょん・横浜銀蠅40th"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
