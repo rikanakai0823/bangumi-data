@@ -1,16 +1,18 @@
 {
   "id": "36rdttjtbx",
   "category": "music",
-  "title": "洋楽天国＋▽ｓｐｅｃｉａｌ　ｅｄｉｔｉｏｎ",
-  "fullTitle": "洋楽天国＋▽ｓｐｅｃｉａｌ　ｅｄｉｔｉｏｎ　＃４",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\nHARRY STYLES　\"Watermelon Sugar\"\r\nKEHLANI　\"Everybody Business\"\r\nAURORA　\"Exist For Love\"\r\nBENEE feat.GUS DAPPERTON　\"Supalonely\"\n◇番組内容２\nNORAH JONES　\"Tryin' To Keep It Together\"\r\nHAILEE STEINFELD　\"I Love You's\"\r\nKATY PERRY　\"Daisies\"",
+  "title": "洋楽天国＋▽最高にかっこいい女性シンガー特集",
+  "fullTitle": "洋楽天国＋▽最高にかっこいい女性シンガー特集",
+  "detail": "魅力的で才能あふれる女性シンガーのミュージック・ビデオを特集！\n◇番組内容１\nシンガーとしてはもちろん様々な分野で活躍し、影響力を持つ女性シンガーが続々と新作をリリース！！力強く、美しいミュージック・ビデオを堪能できる３０分！\n◇番組内容２\nケイティ・ペリー、テイラー・スウィフト、ビヨンセ、アリシア・キーズ、ホールジー、レディー・ガガ、アリアナ・グランデ、ビリー・アイリッシュ\n◇選曲１\n\"Smile\"KATY PERRY\r\n\"my future\"BILLIE EILISH\r\n\"ALREADY\"BEYONCE, SHATTA WALE & MAJOR LAZER\n◇選曲２\n\"Rain On Me\"LADY GAGA & ARIANA GRANDE\r\n\"Perfect Way To Die\"ALICIA KEYS\r\n\"cardigan\"TAYLOR SWIFT",
   "start": 1601776800000,
   "end": 1601778600000,
   "seconds": 1800,
-  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "description": "魅力的で才能あふれる女性シンガーのミュージック・ビデオを特集！",
   "extra": {
-    "番組内容１": "HARRY STYLES　\"Watermelon Sugar\"\r\nKEHLANI　\"Everybody Business\"\r\nAURORA　\"Exist For Love\"\r\nBENEE feat.GUS DAPPERTON　\"Supalonely\"",
-    "番組内容２": "NORAH JONES　\"Tryin' To Keep It Together\"\r\nHAILEE STEINFELD　\"I Love You's\"\r\nKATY PERRY　\"Daisies\""
+    "番組内容１": "シンガーとしてはもちろん様々な分野で活躍し、影響力を持つ女性シンガーが続々と新作をリリース！！力強く、美しいミュージック・ビデオを堪能できる３０分！",
+    "番組内容２": "ケイティ・ペリー、テイラー・スウィフト、ビヨンセ、アリシア・キーズ、ホールジー、レディー・ガガ、アリアナ・グランデ、ビリー・アイリッシュ",
+    "選曲１": "\"Smile\"KATY PERRY\r\n\"my future\"BILLIE EILISH\r\n\"ALREADY\"BEYONCE, SHATTA WALE & MAJOR LAZER",
+    "選曲２": "\"Rain On Me\"LADY GAGA & ARIANA GRANDE\r\n\"Perfect Way To Die\"ALICIA KEYS\r\n\"cardigan\"TAYLOR SWIFT"
   },
   "channel": {
     "type": "GR",
@@ -23,6 +25,6 @@
     "n": 5
   },
   "subTitle": "",
-  "episode": 4,
+  "episode": null,
   "flags": []
 }
