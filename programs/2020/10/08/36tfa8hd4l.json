@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8hd4l",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「第１７回レディスプレリュード（ＪｐｎⅡ）」",
+  "start": 1602153000000,
+  "end": 1602156420000,
+  "seconds": 3420,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "第１７回レディスプレリュード（ＪｐｎⅡ）",
+  "episode": 17,
+  "flags": []
+}

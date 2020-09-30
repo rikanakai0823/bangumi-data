@@ -1,0 +1,25 @@
+{
+  "id": "36rdttjtjh",
+  "category": "drama",
+  "title": "ハンサムセンキョ",
+  "fullTitle": "[新]ハンサムセンキョ",
+  "detail": "　",
+  "start": 1602082800000,
+  "end": 1602083700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
