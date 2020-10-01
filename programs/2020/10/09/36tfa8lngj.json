@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lngj",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「オパール賞」「１１月３日ＪＢＣ２０２０大井×門別賞」",
+  "start": 1602224400000,
+  "end": 1602244800000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

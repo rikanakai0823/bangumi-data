@@ -1,0 +1,25 @@
+{
+  "id": "381ocd84hk",
+  "category": "information",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まもなくサッカー日本代表戦」[字]",
+  "detail": "",
+  "start": 1602244440000,
+  "end": 1602244800000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "まもなくサッカー日本代表戦",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

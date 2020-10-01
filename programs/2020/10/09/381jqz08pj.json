@@ -1,0 +1,25 @@
+{
+  "id": "381jqz08pj",
+  "category": "hobby",
+  "title": "アクティブ１０　マスと！",
+  "fullTitle": "アクティブ１０　マスと！[字]",
+  "detail": "",
+  "start": 1602172500000,
+  "end": 1602173100000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocd84h1",
+  "category": "drama",
+  "title": "マネキン・ナイト・フィーバー",
+  "fullTitle": "[新]マネキン・ナイト・フィーバー",
+  "detail": "",
+  "start": 1602172740000,
+  "end": 1602174540000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
