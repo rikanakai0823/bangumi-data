@@ -1,0 +1,30 @@
+{
+  "id": "36rdttjtqj",
+  "category": "sports",
+  "title": "Ｂリーグ中継",
+  "fullTitle": "Ｂリーグ中継「川崎ブレイブサンダース　ｖｓ　大阪エヴェッサ」[多]",
+  "detail": "◇番組内容\n...\n◇出演者\n【解説】\r\n【実況】",
+  "start": 1602322200000,
+  "end": 1602330600000,
+  "seconds": 8400,
+  "description": "　",
+  "extra": {
+    "番組内容": "...",
+    "出演者": "【解説】\r\n【実況】"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "川崎ブレイブサンダース　ｖｓ　大阪エヴェッサ",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

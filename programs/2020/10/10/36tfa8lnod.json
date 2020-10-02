@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8lnod",
+  "category": "documentary",
+  "title": "ごりやくさん",
+  "fullTitle": "ごりやくさん[再][字]",
+  "detail": "富士山本宮浅間大社",
+  "start": 1602329400000,
+  "end": 1602330720000,
+  "seconds": 1320,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再",
+    "字"
+  ]
+}
