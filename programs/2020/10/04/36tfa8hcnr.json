@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ドゥーアクティブ【シニアグラス】\n◇おしらせ\n0120-228-229",
   "start": 1601801700000,
   "end": 1601802000000,
   "seconds": 300,
+  "description": "ドゥーアクティブ【シニアグラス】",
+  "extra": {
+    "おしらせ": "0120-228-229"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "シニアグラス",
   "episode": null,
   "flags": []
 }

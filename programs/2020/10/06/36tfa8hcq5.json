@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "白洗顔セット【化粧品】\n◇おしらせ\n0120-557-888",
   "start": 1601924400000,
   "end": 1601926200000,
   "seconds": 1800,
+  "description": "白洗顔セット【化粧品】",
+  "extra": {
+    "おしらせ": "0120-557-888\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }
