@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8lnqn",
+  "category": "hobby",
+  "title": "フィッシング倶楽部",
+  "fullTitle": "フィッシング倶楽部[再]",
+  "detail": " ",
+  "start": 1602376200000,
+  "end": 1602378000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

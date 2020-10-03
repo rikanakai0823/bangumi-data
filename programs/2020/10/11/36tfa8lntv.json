@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8lntv",
+  "category": "sports",
+  "title": "プロ野球　パ・リーグ応援宣言！ホークス中継２０２０",
+  "fullTitle": "[生]プロ野球　パ・リーグ応援宣言！ホークス中継２０２０",
+  "detail": "「福岡ソフトバンクホークス×千葉ロッテマリーンズ」～福岡ＰａｙＰａｙドーム",
+  "start": 1602388800000,
+  "end": 1602403200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "福岡ソフトバンクホークス×千葉ロッテマリーンズ",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

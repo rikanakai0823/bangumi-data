@@ -1,0 +1,25 @@
+{
+  "id": "38224jvg9r",
+  "category": "variety",
+  "title": "アニマルエレジー",
+  "fullTitle": "[新]アニマルエレジー",
+  "detail": "※詳細が決まり次第、お知らせいたします。",
+  "start": 1602343800000,
+  "end": 1602345600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
