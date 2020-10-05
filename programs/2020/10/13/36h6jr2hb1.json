@@ -1,0 +1,29 @@
+{
+  "id": "36h6jr2hb1",
+  "category": "sports",
+  "title": "ＬＩＯＮＳ　ＣＨＡＮＮＥＬ",
+  "fullTitle": "ＬＩＯＮＳ　ＣＨＡＮＮＥＬ[Ｓ][再]",
+  "detail": "◇出演者\nＭＣ：堀口文宏、楠木杏",
+  "start": 1602567000000,
+  "end": 1602568800000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "ＭＣ：堀口文宏、楠木杏"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
