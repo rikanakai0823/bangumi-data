@@ -1,8 +1,8 @@
 {
   "id": "381xj5ofus",
-  "category": "etc",
-  "title": "調整中＜Ｔナイト＞",
-  "fullTitle": "調整中＜Ｔナイト＞",
+  "category": "drama",
+  "title": "恐怖新聞＜Ｔナイト＞",
+  "fullTitle": "恐怖新聞＜Ｔナイト＞　＃０６[再][字]",
   "detail": "",
   "start": 1602005700000,
   "end": 1602009000000,
@@ -18,6 +18,9 @@
     "n": 28
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 6,
+  "flags": [
+    "再",
+    "字"
+  ]
 }
