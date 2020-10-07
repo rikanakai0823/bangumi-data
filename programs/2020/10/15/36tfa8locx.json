@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8locx",
+  "category": "sports",
+  "title": "プロ野球　パ・リーグ応援宣言！ホークス中継２０２０",
+  "fullTitle": "[生]プロ野球　パ・リーグ応援宣言！ホークス中継２０２０",
+  "detail": "「オリックス・バファローズ×福岡ソフトバンクホークス」～京セラドーム大阪",
+  "start": 1602752400000,
+  "end": 1602766800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "オリックス・バファローズ×福岡ソフトバンクホークス",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
