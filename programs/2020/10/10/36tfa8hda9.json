@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ジニエブラエア【アンダーウェア】\n◇おしらせ\n0120-00-2828",
   "start": 1602302400000,
   "end": 1602304200000,
   "seconds": 1800,
+  "description": "ジニエブラエア【アンダーウェア】",
+  "extra": {
+    "おしらせ": "0120-00-2828\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "アンダーウェア",
   "episode": null,
   "flags": []
 }

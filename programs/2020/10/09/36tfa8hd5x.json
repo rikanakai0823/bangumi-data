@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "マナラホットクレンジングゲル【化粧品】\n◇おしらせ\n0120-130411",
   "start": 1602212400000,
   "end": 1602214200000,
   "seconds": 1800,
+  "description": "マナラホットクレンジングゲル【化粧品】",
+  "extra": {
+    "おしらせ": "0120-130411"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }
