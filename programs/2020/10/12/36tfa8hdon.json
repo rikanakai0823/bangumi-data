@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "結【おせち】\n◇おしらせ\n0120-133566",
   "start": 1602487800000,
   "end": 1602489600000,
   "seconds": 1800,
+  "description": "結【おせち】",
+  "extra": {
+    "おしらせ": "0120-133566"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "おせち",
   "episode": null,
   "flags": []
 }

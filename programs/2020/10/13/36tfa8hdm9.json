@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "スピードヒート【ベスト】\n◇おしらせ\n0800-999-7-555",
   "start": 1602526200000,
   "end": 1602528000000,
   "seconds": 1800,
+  "description": "スピードヒート【ベスト】",
+  "extra": {
+    "おしらせ": "0800-999-7-555"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "ベスト",
   "episode": null,
   "flags": []
 }
