@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "パーフェクトワン薬用ホワイトニングジェル【化粧品】\n◇おしらせ\n0120-845845",
   "start": 1602369000000,
   "end": 1602370800000,
   "seconds": 1800,
+  "description": "パーフェクトワン薬用ホワイトニングジェル【化粧品】",
+  "extra": {
+    "おしらせ": "0120-845845\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }
