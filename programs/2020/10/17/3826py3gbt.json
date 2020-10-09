@@ -1,0 +1,25 @@
+{
+  "id": "3826py3gbt",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第八闇「咳」",
+  "start": 1602867180000,
+  "end": 1602867600000,
+  "seconds": 420,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "咳",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

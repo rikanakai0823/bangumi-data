@@ -1,0 +1,25 @@
+{
+  "id": "3826py3gm5",
+  "category": "sports",
+  "title": "ｅスポーツ日本代表決定戦　JAPAN　eSPORTS　GRAND　PRIX",
+  "fullTitle": "ｅスポーツ日本代表決定戦　JAPAN　eSPORTS　GRAND　PRIX[字]",
+  "detail": "世界で活躍する日本代表選手を生み出すために新設された大会「ジャパンeスポーツグランプリ」日本一を目指して繰り広げられた４日間４タイトルの熱戦の模様を伝える。",
+  "start": 1602918000000,
+  "end": 1602921300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "ジャパンeスポーツグランプリ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
