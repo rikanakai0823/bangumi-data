@@ -1,0 +1,25 @@
+{
+  "id": "381ocd84o9",
+  "category": "variety",
+  "title": "サンバリュ",
+  "fullTitle": "サンバリュ「有頂天マイク」[字]",
+  "detail": "",
+  "start": 1602992700000,
+  "end": 1602996300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "有頂天マイク",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
