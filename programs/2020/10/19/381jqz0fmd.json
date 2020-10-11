@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0fmd",
+  "category": "hobby",
+  "title": "ＮＨＫ高校講座　ベーシック数学",
+  "fullTitle": "ＮＨＫ高校講座　ベーシック数学[字]",
+  "detail": "",
+  "start": 1603083600000,
+  "end": 1603084200000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
