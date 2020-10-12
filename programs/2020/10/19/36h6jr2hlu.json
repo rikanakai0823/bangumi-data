@@ -2,11 +2,15 @@
   "id": "36h6jr2hlu",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nゆらこ　0120-36-2008",
   "start": 1603058400000,
   "end": 1603060200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ゆらこ　0120-36-2008"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
