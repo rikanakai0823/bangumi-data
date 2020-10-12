@@ -1,12 +1,23 @@
 {
   "id": "381sxrgcws",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "drama",
+  "title": "危険なビーナス",
+  "fullTitle": "危険なビーナス[再][字]",
+  "detail": "東野圭吾原作、妻夫木聡×吉高由里子のラブサスペンス！\n◇番組内容\n　\n◇出演者\n妻夫木聡、吉高由里子、ディーン・フジオカ、染谷将太、中村アン、堀田真由、福田麻貴（3時のヒロイン）、R-指定(Creepy Nuts)、麻生祐未、坂井真紀、安蘭けい、田口浩正、池内万作、栗原英雄、斉藤由貴、戸田恵子、小日向文世\r\n\n◇原作\n東野圭吾『危険なビーナス』（講談社文庫）\r\n\n◇脚本\n黒岩勉\r\n\n◇音楽\n主題歌：back number 「エメラルド」（ユニバーサル シグマ）\r\n音楽：菅野祐悟\r\n\n◇スタッフ\n演出：佐藤祐市\r\nプロデューサー：橋本芙美、髙丸雅隆、久松大地\r\n\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/kikenna_venus/\r\n\r\n◇twitter\r\n@kikenna_venus\r\nhttps://twitter.com/kikenna_venus\r\n\r\n◇instagram\r\nhttps://www.instagram.com/kikenna_venus_tbs/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1603000800000,
   "end": 1603006200000,
   "seconds": 5400,
+  "description": "東野圭吾原作、妻夫木聡×吉高由里子のラブサスペンス！",
+  "extra": {
+    "番組内容": "　",
+    "出演者": "妻夫木聡、吉高由里子、ディーン・フジオカ、染谷将太、中村アン、堀田真由、福田麻貴（3時のヒロイン）、R-指定(Creepy Nuts)、麻生祐未、坂井真紀、安蘭けい、田口浩正、池内万作、栗原英雄、斉藤由貴、戸田恵子、小日向文世\r\n",
+    "原作": "東野圭吾『危険なビーナス』（講談社文庫）\r\n",
+    "脚本": "黒岩勉\r\n",
+    "音楽": "主題歌：back number 「エメラルド」（ユニバーサル シグマ）\r\n音楽：菅野祐悟\r\n",
+    "スタッフ": "演出：佐藤祐市\r\nプロデューサー：橋本芙美、髙丸雅隆、久松大地\r\n",
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/kikenna_venus/\r\n\r\n◇twitter\r\n@kikenna_venus\r\nhttps://twitter.com/kikenna_venus\r\n\r\n◇instagram\r\nhttps://www.instagram.com/kikenna_venus_tbs/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",
@@ -19,5 +30,8 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再",
+    "字"
+  ]
 }
