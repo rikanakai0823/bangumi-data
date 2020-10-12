@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "駿楽【機能性表示食品】\n◇おしらせ\n0120-13-8869",
   "start": 1602549000000,
   "end": 1602550800000,
   "seconds": 1800,
+  "description": "駿楽【機能性表示食品】",
+  "extra": {
+    "おしらせ": "0120-13-8869"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "機能性表示食品",
   "episode": null,
   "flags": []
 }
