@@ -1,0 +1,29 @@
+{
+  "id": "381f5ksm7f",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース[字]",
+  "detail": "【キャスター】三條雅幸\n◇出演者\n【キャスター】三條雅幸",
+  "start": 1603335600000,
+  "end": 1603336500000,
+  "seconds": 900,
+  "description": "【キャスター】三條雅幸",
+  "extra": {
+    "出演者": "【キャスター】三條雅幸"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "キャスター",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
