@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "クッキングプロ【キッチングッズ】\n◇おしらせ\n0120-334114",
   "start": 1602738000000,
   "end": 1602739800000,
   "seconds": 1800,
+  "description": "クッキングプロ【キッチングッズ】",
+  "extra": {
+    "おしらせ": "0120-334114"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "キッチングッズ",
   "episode": null,
   "flags": []
 }
