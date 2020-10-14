@@ -3,10 +3,15 @@
   "category": "information",
   "title": "Ｈｕｌｕ傑作シアター",
   "fullTitle": "Ｈｕｌｕ傑作シアター[デ]",
-  "detail": "",
+  "detail": "音楽コンテンツ「L!VE@HOME」今回はTHE YELLOW MONKEYとオフィスオーガスタ所属アーティスト特集！▼「ザ・スプリット　離婚弁護士」第１話\n◇出演者\n【ナビゲーター】谷口恵美\n◇番組内容\nHuluがお届けする音楽コンテンツ「L!VE@HOME」を特集！今回はTHE YELLOW MONKEY再集結の年に行われた本格ライブ番組「TOKYO BEAT FLICK」とオフィスオーガスタ所属アーティストが集結した「Augusta Camp」の２つを紹介！▼世界で最も離婚率が高いと言われるイギリスのロンドンを舞台にした大人の恋愛ドラマ「ザ・スプリット　離婚弁護士」シーズン1の第1話を放送",
   "start": 1602950100000,
   "end": 1602953700000,
   "seconds": 3600,
+  "description": "音楽コンテンツ「L!VE@HOME」今回はTHE YELLOW MONKEYとオフィスオーガスタ所属アーティスト特集！▼「ザ・スプリット　離婚弁護士」第１話",
+  "extra": {
+    "出演者": "【ナビゲーター】谷口恵美",
+    "番組内容": "Huluがお届けする音楽コンテンツ「L!VE@HOME」を特集！今回はTHE YELLOW MONKEY再集結の年に行われた本格ライブ番組「TOKYO BEAT FLICK」とオフィスオーガスタ所属アーティストが集結した「Augusta Camp」の２つを紹介！▼世界で最も離婚率が高いと言われるイギリスのロンドンを舞台にした大人の恋愛ドラマ「ザ・スプリット　離婚弁護士」シーズン1の第1話を放送"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
@@ -18,7 +23,7 @@
     "n": 15
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 1,
   "flags": [
     "デ"
   ]
