@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwnpx",
+  "category": "sports",
+  "title": "Ｂリーグ中継",
+  "fullTitle": "Ｂリーグ中継",
+  "detail": "千葉ジェッツ対宇都宮ブレックス",
+  "start": 1603004400000,
+  "end": 1603015200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
