@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "きょうの青汁【機能性表示食品】\n◇おしらせ\n0120-39-8018",
   "start": 1602924900000,
   "end": 1602925200000,
   "seconds": 300,
+  "description": "きょうの青汁【機能性表示食品】",
+  "extra": {
+    "おしらせ": "0120-39-8018\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "機能性表示食品",
   "episode": null,
   "flags": []
 }
