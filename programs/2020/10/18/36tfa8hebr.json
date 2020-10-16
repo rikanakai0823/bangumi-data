@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "イオネスプラス【電位治療器】\n◇おしらせ\n0120--888-654",
   "start": 1602964800000,
   "end": 1602966600000,
   "seconds": 1800,
+  "description": "イオネスプラス【電位治療器】",
+  "extra": {
+    "おしらせ": "0120--888-654"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "電位治療器",
   "episode": null,
   "flags": []
 }
