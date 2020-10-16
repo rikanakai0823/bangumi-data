@@ -1,0 +1,25 @@
+{
+  "id": "3826py3gbu",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第九闇「エレベーターの女」",
+  "start": 1603471980000,
+  "end": 1603472400000,
+  "seconds": 420,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "エレベーターの女",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
