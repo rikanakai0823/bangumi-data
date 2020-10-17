@@ -1,9 +1,9 @@
 {
   "id": "36l9gkuif8",
   "category": "information",
-  "title": "情報番組　マチコミ",
-  "fullTitle": "情報番組　マチコミ",
-  "detail": "",
+  "title": "情報番組　マチコミ▽マチコミ感謝祭ＷＥＥＫ",
+  "fullTitle": "情報番組　マチコミ▽第３回マチコミ感謝祭ＷＥＥＫ",
+  "detail": "▽第３回マチコミ感謝祭ＷＥＥＫ▽秋水社「ねことも」最新号の見どころは？▽新型コロナウイルス感染を予防するために▽お天気▽メッセージ採用者にプレゼント　ほか",
   "start": 1603265400000,
   "end": 1603267200000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "ねことも",
+  "episode": 3,
   "flags": []
 }
