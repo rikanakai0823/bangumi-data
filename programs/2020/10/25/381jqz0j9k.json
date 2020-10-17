@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0j9k",
+  "category": "hobby",
+  "title": "ワンワンわんだーらんど",
+  "fullTitle": "ワンワンわんだーらんど[字]",
+  "detail": "",
+  "start": 1603577400000,
+  "end": 1603579200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
