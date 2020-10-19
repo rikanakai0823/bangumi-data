@@ -1,0 +1,25 @@
+{
+  "id": "381ocd84uy",
+  "category": "variety",
+  "title": "ザ！世界仰天ニュース",
+  "fullTitle": "ザ！世界仰天ニュース[字]",
+  "detail": "",
+  "start": 1603800000000,
+  "end": 1603803240000,
+  "seconds": 3240,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

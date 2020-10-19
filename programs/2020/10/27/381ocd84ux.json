@@ -1,0 +1,25 @@
+{
+  "id": "381ocd84ux",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まもなく仰天ニュース」[字]",
+  "detail": "",
+  "start": 1603799640000,
+  "end": 1603800000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "まもなく仰天ニュース",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
