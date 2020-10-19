@@ -1,12 +1,12 @@
 {
   "id": "381f5ksmoe",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース",
+  "fullTitle": "ニュース「米大統領選２０２０　テレビ討論会」[字]",
   "detail": "",
   "start": 1603414800000,
-  "end": 1603415100000,
-  "seconds": 300,
+  "end": 1603420800000,
+  "seconds": 6000,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "米大統領選２０２０　テレビ討論会",
   "episode": null,
   "flags": [
     "字"

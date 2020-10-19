@@ -1,9 +1,9 @@
 {
   "id": "381ocd84r4",
   "category": "news",
-  "title": "まもなく　ｎｅｗｓ　ｚｅｒｏ",
-  "fullTitle": "まもなく　ｎｅｗｓ　ｚｅｒｏ[字]",
-  "detail": "",
+  "title": "まもなく　ｎｅｗｓ　ｚｅｒｏ　今夜をランキング形式で",
+  "fullTitle": "まもなく　ｎｅｗｓ　ｚｅｒｏ[字]　今夜「最新のニュース」をランキング形式で",
+  "detail": "ネットでアクセスが多かった最新ニュースをランキング形式で▽今夜の「news　zero」見どころは",
   "start": 1603374840000,
   "end": 1603375200000,
   "seconds": 360,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "",
+  "subTitle": "最新のニュース",
   "episode": null,
   "flags": [
     "字"
