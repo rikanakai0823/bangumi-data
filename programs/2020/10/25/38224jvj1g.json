@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "来週は全日本大学駅伝！",
   "fullTitle": "来週は全日本大学駅伝！",
-  "detail": "土曜の深夜に極上のエンターテインメントをお届け！バラエティ・ドラマ・スポーツなど、時代の先を行くこだわり番組!!",
+  "detail": "駅伝新戦国時代の幕開け！\n◇◇おしらせ\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/ekiden52/\r\n\r\n☆『テレビ朝日・陸上』公式Ｔｗｉｔｔｅｒ\r\n　https://twitter.com/exrikujo1",
   "start": 1603562400000,
   "end": 1603566000000,
   "seconds": 3600,
+  "description": "駅伝新戦国時代の幕開け！",
+  "extra": {
+    "◇おしらせ": "☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/ekiden52/\r\n\r\n☆『テレビ朝日・陸上』公式Ｔｗｉｔｔｅｒ\r\n　https://twitter.com/exrikujo1"
+  },
   "channel": {
     "type": "GR",
     "channel": "11",
