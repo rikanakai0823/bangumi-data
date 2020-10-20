@@ -3,10 +3,15 @@
   "category": "music",
   "title": "ＳＳＣ５",
   "fullTitle": "ＳＳＣ５[Ｓ]",
-  "detail": "",
+  "detail": "◇番組内容\n工藤晴香「ＫＥＥＰ　ＴＨＥ　ＦＡＩＴＨ」\n◇出演者\n工藤晴香",
   "start": 1603730100000,
   "end": 1603730400000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "番組内容": "工藤晴香「ＫＥＥＰ　ＴＨＥ　ＦＡＩＴＨ」",
+    "出演者": "工藤晴香"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",
