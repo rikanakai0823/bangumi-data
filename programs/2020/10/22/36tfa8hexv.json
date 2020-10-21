@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ドルメオ　エアースプリング【マットレス】\n◇おしらせ\n0120-028-282",
   "start": 1603357200000,
   "end": 1603359000000,
   "seconds": 1800,
+  "description": "ドルメオ　エアースプリング【マットレス】",
+  "extra": {
+    "おしらせ": "0120-028-282"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "マットレス",
   "episode": null,
   "flags": []
 }
