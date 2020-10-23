@@ -1,0 +1,25 @@
+{
+  "id": "3826py3glm",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第十闇「漫画喫茶」",
+  "start": 1604076780000,
+  "end": 1604077200000,
+  "seconds": 420,
+  "channel": {
+    "type": "GR",
+    "channel": "10",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "漫画喫茶",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

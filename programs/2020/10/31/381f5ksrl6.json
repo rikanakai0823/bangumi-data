@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksrl6",
+  "category": "news",
+  "title": "ニュース（関東・山梨・長野）",
+  "fullTitle": "ニュース（関東・山梨・長野）[字]",
+  "detail": "",
+  "start": 1604113800000,
+  "end": 1604114100000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
