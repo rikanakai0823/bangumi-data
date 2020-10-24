@@ -1,0 +1,25 @@
+{
+  "id": "381f5kssni",
+  "category": "sports",
+  "title": "競馬２０２０",
+  "fullTitle": "競馬２０２０「第１６２回天皇賞」[字]",
+  "detail": "～東京競馬場から中継～",
+  "start": 1604210400000,
+  "end": 1604214000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "第１６２回天皇賞",
+  "episode": 162,
+  "flags": [
+    "字"
+  ]
+}

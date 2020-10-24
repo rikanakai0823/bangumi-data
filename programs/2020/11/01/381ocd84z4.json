@@ -1,0 +1,27 @@
+{
+  "id": "381ocd84z4",
+  "category": "sports",
+  "title": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２０",
+  "fullTitle": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２０「巨人×ヤクルト」[多][字][デ]",
+  "detail": "",
+  "start": 1604211300000,
+  "end": 1604217300000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "巨人×ヤクルト",
+  "episode": null,
+  "flags": [
+    "多",
+    "字",
+    "デ"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocd84z0",
+  "category": "variety",
+  "title": "サンバリュ",
+  "fullTitle": "サンバリュ「天下一音楽祭」[字]",
+  "detail": "",
+  "start": 1604202300000,
+  "end": 1604205900000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "天下一音楽祭",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

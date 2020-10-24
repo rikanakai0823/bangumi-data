@@ -1,0 +1,27 @@
+{
+  "id": "381sxrgdab",
+  "category": "sports",
+  "title": "スポーツを止めるな",
+  "fullTitle": "[新]スポーツを止めるな[解][字]",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1604235240000,
+  "end": 1604235600000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "解",
+    "字"
+  ]
+}

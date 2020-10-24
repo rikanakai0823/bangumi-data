@@ -1,0 +1,25 @@
+{
+  "id": "381ocd84z5",
+  "category": "sports",
+  "title": "有吉×巨人",
+  "fullTitle": "有吉×巨人[字]",
+  "detail": "",
+  "start": 1604217300000,
+  "end": 1604218800000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
