@@ -1,12 +1,17 @@
 {
   "id": "381sxrgd1t",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "information",
+  "title": "「この恋あたためますか」＆ナビ",
+  "fullTitle": "「この恋あたためますか」＆「恋する母たち」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n火曜ドラマ「この恋あたためますか」\r\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/koiata_tbs/\r\n\r\n◇twitter\r\n@koiata_tbs\r\nhttps://twitter.com/koiata_tbs\r\n\r\n◇instagram\r\nhttps://www.instagram.com/koiata_tbs/\n◇公式ページ２\n金曜ドラマ「恋する母たち」\r\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/koihaha_tbs/\r\n\r\n◇twitter\r\n@koihaha_tbs\r\nhttps://twitter.com/koihaha_tbs/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/koihaha_tbs/",
   "start": 1604127600000,
   "end": 1604129400000,
   "seconds": 1800,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "火曜ドラマ「この恋あたためますか」\r\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/koiata_tbs/\r\n\r\n◇twitter\r\n@koiata_tbs\r\nhttps://twitter.com/koiata_tbs\r\n\r\n◇instagram\r\nhttps://www.instagram.com/koiata_tbs/",
+    "公式ページ２": "金曜ドラマ「恋する母たち」\r\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/koihaha_tbs/\r\n\r\n◇twitter\r\n@koihaha_tbs\r\nhttps://twitter.com/koihaha_tbs/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/koihaha_tbs/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",
@@ -17,7 +22,9 @@
     "hasLogoData": true,
     "n": 22
   },
-  "subTitle": "",
+  "subTitle": "恋する母たち",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
