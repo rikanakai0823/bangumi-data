@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgd4w",
+  "category": "variety",
+  "title": "Ｖ６の愛なんだ２０２０",
+  "fullTitle": "Ｖ６の愛なんだ２０２０[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/ainanda-tbs/",
+  "start": 1604397600000,
+  "end": 1604408400000,
+  "seconds": 10800,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/ainanda-tbs/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "9",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

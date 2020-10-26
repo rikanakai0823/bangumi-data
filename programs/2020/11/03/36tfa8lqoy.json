@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lqoy",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「第１０回ＪＢＣレディスクラシック（ＪｐｎⅠ）」「第２０回ＪＢＣスプリント（ＪｐｎⅠ）」「第２０回ＪＢＣクラシック（ＪｐｎⅠ）」",
+  "start": 1604372400000,
+  "end": 1604403000000,
+  "seconds": 30600,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": []
+}
