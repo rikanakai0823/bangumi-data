@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lqt6",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ありがとうＪＢＣ２０２０大井競馬賞」「ファンタスティックナイト賞」",
+  "start": 1604470800000,
+  "end": 1604491200000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

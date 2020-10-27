@@ -1,8 +1,8 @@
 {
   "id": "381f5ks7vr",
   "category": "news",
-  "title": "国会中継",
-  "fullTitle": "国会中継[字]",
+  "title": "国会中継　～衆議院本会議場から中継～",
+  "fullTitle": "国会中継「代表質問」　～衆議院本会議場から中継～[字]",
   "detail": "",
   "start": 1603947600000,
   "end": 1603954800000,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "代表質問",
   "episode": null,
   "flags": [
     "字"
