@@ -1,15 +1,17 @@
 {
   "id": "381sxrgd4w",
   "category": "variety",
-  "title": "Ｖ６の愛なんだ２０２０",
-  "fullTitle": "Ｖ６の愛なんだ２０２０[字]",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/ainanda-tbs/",
+  "title": "Ｖ６の愛なんだ２０２０★青春を止めるな！３時間ＳＰ",
+  "fullTitle": "Ｖ６の愛なんだ２０２０[字]★青春を止めるな！３時間ＳＰ",
+  "detail": "★今回のテーマは「青春を止めるな！」★学生たちの思い出づくりをＶ６が全力でサポート★未成年の主張ｅｔｃ\n◇出演者\nＶ６\r\n坂本昌行・長野博・井ノ原快彦・森田剛・三宅健・岡田准一\r\n\r\n【ゲスト（５０音順）】\r\n飯豊まりえ・小峠英二（バイきんぐ）・道枝駿佑（なにわ男子/関西ジャニーズJr.）\r\n\n◇公式ページ\n★番組ＨＰ\r\nhttps://www.tbs.co.jp/ainanda-tbs/\r\n\r\n★番組公式twitter\r\n@TBS_ainanda\r\nhttps://twitter.com/tbs_ainanda\r\n\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1604397600000,
   "end": 1604408400000,
   "seconds": 10800,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "★今回のテーマは「青春を止めるな！」★学生たちの思い出づくりをＶ６が全力でサポート★未成年の主張ｅｔｃ",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/ainanda-tbs/"
+    "出演者": "Ｖ６\r\n坂本昌行・長野博・井ノ原快彦・森田剛・三宅健・岡田准一\r\n\r\n【ゲスト（５０音順）】\r\n飯豊まりえ・小峠英二（バイきんぐ）・道枝駿佑（なにわ男子/関西ジャニーズJr.）\r\n",
+    "公式ページ": "★番組ＨＰ\r\nhttps://www.tbs.co.jp/ainanda-tbs/\r\n\r\n★番組公式twitter\r\n@TBS_ainanda\r\nhttps://twitter.com/tbs_ainanda\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +23,7 @@
     "hasLogoData": true,
     "n": 22
   },
-  "subTitle": "",
+  "subTitle": "青春を止めるな！",
   "episode": null,
   "flags": [
     "字"

@@ -3,13 +3,14 @@
   "category": "information",
   "title": "「Ｖ６の愛なんだ２０２０」ナビ",
   "fullTitle": "「Ｖ６の愛なんだ２０２０」ナビ[字]",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/ainanda-tbs/",
+  "detail": "「Ｖ６の愛なんだ２０２０」１１月３日（火）よる７時から３時間ＳＰ！！\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/ainanda-tbs/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1604206800000,
   "end": 1604210400000,
   "seconds": 3600,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "「Ｖ６の愛なんだ２０２０」１１月３日（火）よる７時から３時間ＳＰ！！",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/ainanda-tbs/"
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/ainanda-tbs/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。\r\n"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +22,7 @@
     "hasLogoData": true,
     "n": 22
   },
-  "subTitle": "",
+  "subTitle": "Ｖ６の愛なんだ２０２０",
   "episode": null,
   "flags": [
     "字"

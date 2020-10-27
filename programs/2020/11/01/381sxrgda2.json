@@ -3,10 +3,14 @@
   "category": "information",
   "title": "タカトシのイチ押しかっ！～衝撃プライス大連発ＳＰ～",
   "fullTitle": "タカトシのイチ押しかっ！～衝撃プライス大連発ＳＰ～[解][字]",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://ishop.tbs.co.jp/tbs/tvradio/takatoshi/",
   "start": 1604214000000,
   "end": 1604217600000,
   "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://ishop.tbs.co.jp/tbs/tvradio/takatoshi/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "9",
