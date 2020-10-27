@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksqt8",
+  "id": "381f5ks7vi",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "国会中継",
+  "fullTitle": "国会中継[字]",
   "detail": "",
-  "start": 1604019300000,
-  "end": 1604019600000,
-  "seconds": 300,
+  "start": 1603933200000,
+  "end": 1603940040000,
+  "seconds": 6840,
   "channel": {
     "type": "GR",
     "channel": "14",
