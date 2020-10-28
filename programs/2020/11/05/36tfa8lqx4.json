@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lqx4",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「２０２０ＹＪＳ　トライアルラウンド大井第１戦」「２０２０ＹＪＳ　トライアルラウンド大井第２戦」「競馬のない日はメガイルミ賞」",
+  "start": 1604557200000,
+  "end": 1604577600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

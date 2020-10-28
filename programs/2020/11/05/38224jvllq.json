@@ -1,0 +1,26 @@
+{
+  "id": "38224jvllq",
+  "category": "drama",
+  "title": "ゴゴワイド",
+  "fullTitle": "ゴゴワイド[字][再]",
+  "detail": "",
+  "start": 1604555340000,
+  "end": 1604558580000,
+  "seconds": 3240,
+  "channel": {
+    "type": "GR",
+    "channel": "11",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
