@@ -1,12 +1,12 @@
 {
-  "id": "381f5kssl2",
-  "category": "music",
-  "title": "シブヤノオト",
-  "fullTitle": "シブヤノオト[字]",
+  "id": "381f5ks8p3",
+  "category": "etc",
+  "title": "ミッドナイトチャンネル",
+  "fullTitle": "ミッドナイトチャンネル",
   "detail": "",
-  "start": 1604156700000,
-  "end": 1604159880000,
-  "seconds": 3180,
+  "start": 1604250900000,
+  "end": 1604259000000,
+  "seconds": 8100,
   "channel": {
     "type": "GR",
     "channel": "14",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
