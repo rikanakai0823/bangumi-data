@@ -1,12 +1,12 @@
 {
-  "id": "38224jvl6x",
+  "id": "38224jvl7m",
   "category": "drama",
-  "title": "新・京都迷宮案内４",
-  "fullTitle": "新・京都迷宮案内４　＃４[字][再]",
+  "title": "科捜研の女１９",
+  "fullTitle": "科捜研の女１９　＃２０[解][字][再]",
   "detail": "",
-  "start": 1604378940000,
-  "end": 1604382420000,
-  "seconds": 3480,
+  "start": 1604382420000,
+  "end": 1604385780000,
+  "seconds": 3360,
   "channel": {
     "type": "GR",
     "channel": "11",
@@ -18,8 +18,9 @@
     "n": 18
   },
   "subTitle": "",
-  "episode": 4,
+  "episode": 20,
   "flags": [
+    "解",
     "字",
     "再"
   ]
