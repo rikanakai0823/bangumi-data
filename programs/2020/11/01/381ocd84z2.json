@@ -3,10 +3,14 @@
   "category": "information",
   "title": "番組ナビ",
   "fullTitle": "番組ナビ[字]",
-  "detail": "",
+  "detail": "１１月１日（日）よる１０時３０分放送のドラマ「極主夫道」。第４話の見どころをナビゲートします。\n◇出演者\n【ナレーター】中島芽生（日テレアナウンサー）",
   "start": 1604211000000,
   "end": 1604211300000,
   "seconds": 300,
+  "description": "１１月１日（日）よる１０時３０分放送のドラマ「極主夫道」。第４話の見どころをナビゲートします。",
+  "extra": {
+    "出演者": "【ナレーター】中島芽生（日テレアナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
@@ -17,8 +21,8 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "極主夫道",
+  "episode": 4,
   "flags": [
     "字"
   ]

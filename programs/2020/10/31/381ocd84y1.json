@@ -3,10 +3,14 @@
   "category": "information",
   "title": "番組ナビ",
   "fullTitle": "番組ナビ[字]",
-  "detail": "",
+  "detail": "１０月３１日（土）よる１０時放送「３５歳の少女」第４話の見どころをナビゲートします。\n◇出演者\n【ナレーター】中島芽生（日テレアナウンサー）",
   "start": 1604130900000,
   "end": 1604131200000,
   "seconds": 300,
+  "description": "１０月３１日（土）よる１０時放送「３５歳の少女」第４話の見どころをナビゲートします。",
+  "extra": {
+    "出演者": "【ナレーター】中島芽生（日テレアナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
@@ -17,8 +21,8 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "３５歳の少女",
+  "episode": 4,
   "flags": [
     "字"
   ]
