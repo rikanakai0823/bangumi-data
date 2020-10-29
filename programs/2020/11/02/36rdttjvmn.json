@@ -1,15 +1,16 @@
 {
   "id": "36rdttjvmn",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "title": "洋楽天国＋▽ｓｐｅｃｉａｌ　ｅｄｉｔｉｏｎ",
+  "fullTitle": "洋楽天国＋▽ｓｐｅｃｉａｌ　ｅｄｉｔｉｏｎ　＃４",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\nHARRY STYLES　\"Watermelon Sugar\"\r\nKEHLANI　\"Everybody Business\"\r\nAURORA　\"Exist For Love\"\r\nBENEE feat.GUS DAPPERTON　\"Supalonely\"\n◇番組内容２\nNORAH JONES　\"Tryin' To Keep It Together\"\r\nHAILEE STEINFELD　\"I Love You's\"\r\nKATY PERRY　\"Daisies\"",
   "start": 1604248200000,
   "end": 1604250000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "HARRY STYLES　\"Watermelon Sugar\"\r\nKEHLANI　\"Everybody Business\"\r\nAURORA　\"Exist For Love\"\r\nBENEE feat.GUS DAPPERTON　\"Supalonely\"",
+    "番組内容２": "NORAH JONES　\"Tryin' To Keep It Together\"\r\nHAILEE STEINFELD　\"I Love You's\"\r\nKATY PERRY　\"Daisies\""
   },
   "channel": {
     "type": "GR",
@@ -22,6 +23,6 @@
     "n": 5
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 4,
   "flags": []
 }
