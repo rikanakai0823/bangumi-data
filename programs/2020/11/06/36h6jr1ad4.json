@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1ad4",
+  "category": "music",
+  "title": "ミュージックパーク",
+  "fullTitle": "ミュージックパーク「歌仲間全員集合」[Ｓ]",
+  "detail": "",
+  "start": 1604622600000,
+  "end": 1604624400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "19",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "歌仲間全員集合",
+  "episode": null,
+  "flags": []
+}
