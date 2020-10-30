@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "キズナデビルの挑戦状",
   "fullTitle": "キズナデビルの挑戦状[字]",
-  "detail": "※詳細が決まり次第、お知らせいたします。",
+  "detail": "人気芸能人たちが知力と体力を駆使して謎解きアトラクションに挑む！チームのキズナで謎を解き、勝利するのはどちらのチームなのか？\n◇◇おしらせ\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/kizunadevil/",
   "start": 1604483100000,
   "end": 1604490840000,
   "seconds": 7740,
+  "description": "人気芸能人たちが知力と体力を駆使して謎解きアトラクションに挑む！チームのキズナで謎を解き、勝利するのはどちらのチームなのか？",
+  "extra": {
+    "◇おしらせ": "☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/kizunadevil/"
+  },
   "channel": {
     "type": "GR",
     "channel": "11",
