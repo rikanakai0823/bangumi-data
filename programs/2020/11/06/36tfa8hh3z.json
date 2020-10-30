@@ -1,9 +1,9 @@
 {
   "id": "36tfa8hh3z",
   "category": "news",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
-  "detail": " ",
+  "title": "東京都議会中継",
+  "fullTitle": "東京都議会中継[手]",
+  "detail": "「令和２年第３回臨時会・本会議」",
   "start": 1604635200000,
   "end": 1604638800000,
   "seconds": 3600,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "令和２年第３回臨時会・本会議",
+  "episode": 3,
   "flags": []
 }
