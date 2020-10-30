@@ -1,0 +1,26 @@
+{
+  "id": "381ocd853s",
+  "category": "cinema",
+  "title": "映画　怪物くん",
+  "fullTitle": "映画　怪物くん[解][字]",
+  "detail": "",
+  "start": 1604728800000,
+  "end": 1604736000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
