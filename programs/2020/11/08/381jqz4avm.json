@@ -1,0 +1,23 @@
+{
+  "id": "381jqz4avm",
+  "category": "sports",
+  "title": "東京六大学野球２０２０「早稲田」対",
+  "fullTitle": "東京六大学野球２０２０「早稲田」対「慶応」",
+  "detail": "　（試合開始　：　）　～神宮球場から中継～",
+  "start": 1604808000000,
+  "end": 1604811600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "13",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "慶応",
+  "episode": null,
+  "flags": []
+}
