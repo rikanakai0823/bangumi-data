@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkujdb",
+  "category": "news",
+  "title": "ローモバアイドルチャレンジＴＶ",
+  "fullTitle": "ローモバアイドルチャレンジＴＶ[新]",
+  "detail": "",
+  "start": 1604922900000,
+  "end": 1604923200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
