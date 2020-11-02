@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "寧薬【医薬品】\n◇おしらせ\n0120-228113",
   "start": 1604453400000,
   "end": 1604454300000,
   "seconds": 900,
+  "description": "寧薬【医薬品】",
+  "extra": {
+    "おしらせ": "0120-228113"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "医薬品",
   "episode": null,
   "flags": []
 }

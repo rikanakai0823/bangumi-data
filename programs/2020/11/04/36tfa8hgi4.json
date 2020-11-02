@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ロックンフィット【エクササイズグッズ】\n◇おしらせ\n0120-224-824",
   "start": 1604466000000,
   "end": 1604467800000,
   "seconds": 1800,
+  "description": "ロックンフィット【エクササイズグッズ】",
+  "extra": {
+    "おしらせ": "0120-224-824\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "エクササイズグッズ",
   "episode": null,
   "flags": []
 }
