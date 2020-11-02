@@ -1,0 +1,26 @@
+{
+  "id": "381f5ks6qd",
+  "category": "sports",
+  "title": "大相撲（２０２０年）　１１月場所　三日目",
+  "fullTitle": "大相撲（２０２０年）　１１月場所　三日目[二][字]",
+  "detail": "（４：１０）「幕内取組」　～国技館から中継～",
+  "start": 1604991300000,
+  "end": 1604998800000,
+  "seconds": 7500,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "幕内取組",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}
