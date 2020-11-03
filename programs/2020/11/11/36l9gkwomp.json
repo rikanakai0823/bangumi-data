@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwomp",
+  "category": "sports",
+  "title": "Ｂリーグ中継",
+  "fullTitle": "Ｂリーグ中継",
+  "detail": "",
+  "start": 1605088800000,
+  "end": 1605099600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
