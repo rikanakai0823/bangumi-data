@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Strange Days\"THE STRUTS feat.ROBBIE WILLIAMS\r\n\"Better\"THE VAMPS\r\n\"Say Something\"KYLIE MINOGUE\r\n\"Magic\"KYLIE MINOGUE\n◇番組内容２\n\"Love Looks Better\"ALICIA KEYS\r\n\"Holy\"JUSTIN BIEBER feat.CHANCE THE RAPPER",
   "start": 1605115800000,
   "end": 1605117600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Strange Days\"THE STRUTS feat.ROBBIE WILLIAMS\r\n\"Better\"THE VAMPS\r\n\"Say Something\"KYLIE MINOGUE\r\n\"Magic\"KYLIE MINOGUE",
+    "番組内容２": "\"Love Looks Better\"ALICIA KEYS\r\n\"Holy\"JUSTIN BIEBER feat.CHANCE THE RAPPER"
   },
   "channel": {
     "type": "GR",
