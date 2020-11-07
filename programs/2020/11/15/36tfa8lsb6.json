@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8lsb6",
+  "category": "documentary",
+  "title": "ごりやくさん",
+  "fullTitle": "ごりやくさん[再][字]",
+  "detail": "寒川神社",
+  "start": 1605439800000,
+  "end": 1605441120000,
+  "seconds": 1320,
+  "channel": {
+    "type": "GR",
+    "channel": "3",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再",
+    "字"
+  ]
+}
