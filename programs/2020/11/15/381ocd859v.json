@@ -1,12 +1,16 @@
 {
   "id": "381ocd859v",
   "category": "variety",
-  "title": "サンバリュ",
-  "fullTitle": "サンバリュ「超無敵クラス」[字]",
-  "detail": "",
+  "title": "超無敵クラス▽指原＆かまいたち率いる総フォロワー数1000万超え最強10代",
+  "fullTitle": "超無敵クラス▽指原＆かまいたち率いる総フォロワー数1000万超え最強10代[字]",
+  "detail": "◇出演者\n【MC】かまいたち／指原莉乃＆最強10代24名\r\n【ゲスト】 風間俊介／中川翔子",
   "start": 1605411900000,
   "end": 1605415500000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】かまいたち／指原莉乃＆最強10代24名\r\n【ゲスト】 風間俊介／中川翔子"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "超無敵クラス",
+  "subTitle": "",
   "episode": null,
   "flags": [
     "字"
