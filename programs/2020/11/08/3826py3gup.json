@@ -3,14 +3,10 @@
   "category": "news",
   "title": "ＴＸＮニュース",
   "fullTitle": "ＴＸＮニュース[字]",
-  "detail": "日本や世界の最新ニュースをコンパクトにお伝えする。\n◇関連情報\n【番組公式HP】www.tv-tokyo.co.jp/txn/",
+  "detail": "日本や世界の最新ニュースをコンパクトにお伝えする。",
   "start": 1604823600000,
   "end": 1604824200000,
   "seconds": 600,
-  "description": "日本や世界の最新ニュースをコンパクトにお伝えする。",
-  "extra": {
-    "関連情報": "【番組公式HP】www.tv-tokyo.co.jp/txn/"
-  },
   "channel": {
     "type": "GR",
     "channel": "10",
