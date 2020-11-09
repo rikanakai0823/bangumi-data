@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "イオネスユネスタ【家庭用電位治療器】\n◇おしらせ\n0120-123-222",
   "start": 1604998800000,
   "end": 1605002400000,
   "seconds": 3600,
+  "description": "イオネスユネスタ【家庭用電位治療器】",
+  "extra": {
+    "おしらせ": "0120-123-222"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "家庭用電位治療器",
   "episode": null,
   "flags": []
 }
