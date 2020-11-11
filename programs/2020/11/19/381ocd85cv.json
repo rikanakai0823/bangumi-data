@@ -1,0 +1,25 @@
+{
+  "id": "381ocd85cv",
+  "category": "news",
+  "title": "まもなく　ｎｅｗｓ　ｚｅｒｏ",
+  "fullTitle": "まもなく　ｎｅｗｓ　ｚｅｒｏ[字]",
+  "detail": "",
+  "start": 1605794040000,
+  "end": 1605794400000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
