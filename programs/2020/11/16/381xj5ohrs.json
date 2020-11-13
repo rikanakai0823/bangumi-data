@@ -1,8 +1,8 @@
 {
   "id": "381xj5ohrs",
-  "category": "etc",
-  "title": "調整中＜サンデーＭＩＤＮＩＧＨＴ＞",
-  "fullTitle": "調整中＜サンデーＭＩＤＮＩＧＨＴ＞",
+  "category": "drama",
+  "title": "ルパンの娘＜サンデーＭＩＤＮＩＧＨＴ＞",
+  "fullTitle": "ルパンの娘＜サンデーＭＩＤＮＩＧＨＴ＞　＃０５[再]",
   "detail": "",
   "start": 1605459300000,
   "end": 1605462900000,
@@ -18,6 +18,8 @@
     "n": 28
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 5,
+  "flags": [
+    "再"
+  ]
 }
