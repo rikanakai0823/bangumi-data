@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "素肌つるつるセット【化粧品】\n◇おしらせ\n0120-399928",
   "start": 1605517200000,
   "end": 1605519000000,
   "seconds": 1800,
+  "description": "素肌つるつるセット【化粧品】",
+  "extra": {
+    "おしらせ": "0120-399928\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }
