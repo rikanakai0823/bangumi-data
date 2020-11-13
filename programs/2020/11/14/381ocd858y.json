@@ -3,10 +3,14 @@
   "category": "information",
   "title": "番組ナビ",
   "fullTitle": "番組ナビ[字]",
-  "detail": "",
+  "detail": "１１月１４日（土）よる１０時放送の「３５歳の少女」第６話の見どころをナビゲートします。\n◇出演者\n【ナレーター】杉原凜（日テレアナウンサー）",
   "start": 1605333900000,
   "end": 1605334200000,
   "seconds": 300,
+  "description": "１１月１４日（土）よる１０時放送の「３５歳の少女」第６話の見どころをナビゲートします。",
+  "extra": {
+    "出演者": "【ナレーター】杉原凜（日テレアナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
@@ -17,8 +21,8 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "３５歳の少女",
+  "episode": 6,
   "flags": [
     "字"
   ]
