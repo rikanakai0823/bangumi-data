@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkuk0e",
+  "category": "news",
+  "title": "天気予報",
+  "fullTitle": "天気予報",
+  "detail": "千葉県立美術館の名品を紹介します。浅井　忠「藁屋根」安井曽太郎「　熱海附近」岸田劉生「霽れたる冬之日」",
+  "start": 1606136400000,
+  "end": 1606136700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "17",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

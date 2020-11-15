@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksecg",
+  "category": "sports",
+  "title": "関東大学ラグビー対抗戦２０２０「慶応」対",
+  "fullTitle": "関東大学ラグビー対抗戦２０２０「慶応」対「早稲田」[字]",
+  "detail": "～秩父宮ラグビー場から中継～",
+  "start": 1606107600000,
+  "end": 1606114800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "早稲田",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
