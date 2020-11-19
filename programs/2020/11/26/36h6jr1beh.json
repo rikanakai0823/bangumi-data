@@ -2,11 +2,15 @@
   "id": "36h6jr1beh",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\n楽ちんヒアリング　0120-44-0027",
   "start": 1606341600000,
   "end": 1606343400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "楽ちんヒアリング　0120-44-0027"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",

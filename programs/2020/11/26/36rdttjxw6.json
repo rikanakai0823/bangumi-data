@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n【U2特集】\r\n\"Beautiful Day (Live From The FleetCenter, Boston, MA, USA / 2001)\"U2\r\n\"Elevation (Tomb Raider Mix) \"U2\n◇番組内容２\n\"Stuck In A Moment You Can't Get Out Of\"U2\r\n\"Walk On\"U2\r\n\"Beautiful Day\"U2",
   "start": 1606325400000,
   "end": 1606327200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "【U2特集】\r\n\"Beautiful Day (Live From The FleetCenter, Boston, MA, USA / 2001)\"U2\r\n\"Elevation (Tomb Raider Mix) \"U2",
+    "番組内容２": "\"Stuck In A Moment You Can't Get Out Of\"U2\r\n\"Walk On\"U2\r\n\"Beautiful Day\"U2"
   },
   "channel": {
     "type": "GR",
