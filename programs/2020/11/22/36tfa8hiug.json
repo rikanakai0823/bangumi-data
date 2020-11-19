@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "すっぽん皇帝【健康食品】\n◇おしらせ\n0120-11-4321",
   "start": 1606035300000,
   "end": 1606035600000,
   "seconds": 300,
+  "description": "すっぽん皇帝【健康食品】",
+  "extra": {
+    "おしらせ": "0120-11-4321\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "健康食品",
   "episode": null,
   "flags": []
 }

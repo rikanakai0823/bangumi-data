@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "エアースプリング【マットレス】\n◇おしらせ\n0120-028-282",
   "start": 1605936600000,
   "end": 1605938400000,
   "seconds": 1800,
+  "description": "エアースプリング【マットレス】",
+  "extra": {
+    "おしらせ": "0120-028-282"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "マットレス",
   "episode": null,
   "flags": []
 }
