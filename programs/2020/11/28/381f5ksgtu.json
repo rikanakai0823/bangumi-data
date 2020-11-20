@@ -1,0 +1,26 @@
+{
+  "id": "381f5ksgtu",
+  "category": "sports",
+  "title": "２０２０ＮＨＫ杯フィギュア",
+  "fullTitle": "２０２０ＮＨＫ杯フィギュア[多][字]",
+  "detail": "　※副音声は場内音声　～大阪・ラクタブドームで収録～",
+  "start": 1606490100000,
+  "end": 1606492800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
