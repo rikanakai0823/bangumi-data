@@ -1,12 +1,17 @@
 {
   "id": "381ocd85hs",
   "category": "variety",
-  "title": "ＢＥＳＴ　ＡＲＴＩＳＴ　２０２０",
-  "fullTitle": "ＢＥＳＴ　ＡＲＴＩＳＴ　２０２０[字][デ]",
-  "detail": "",
+  "title": "音楽の祭典！ベストアーティスト2020",
+  "fullTitle": "音楽の祭典！ベストアーティスト2020【嵐・NiziU…豪華41組が熱唱】[字][デ]",
+  "detail": "Mr.Children、福山雅治、King Gnu、LiSA、乃木坂46、いきものがかり、SEKAI NO OWARI…豪華アーティスト続々＆ジャニーズメドレー\n◇出演者\n【総合司会】櫻井翔\r\n【司会】羽鳥慎一、滝菜月（日本テレビアナウンサー）\r\n【NEXTゲート司会】バカリズム、市來玲奈（日本テレビアナウンサー）\n◇番組内容\n４時間生放送！NiziU新曲初披露！Mr.Children、福山雅治、King Gnu、LiSA、乃木坂46、いきもの、セカオワ、Perfume、AKB48、Foorin…豪華41組▽ジャニーズメドレーは嵐、NEWS、関ジャニ∞、KAT-TUN、Hey! Say! JUMP、Sexy Zone、ジャニーズWEST、King & Prince、SixTONES、Snow Man総勢56名！",
   "start": 1606298400000,
   "end": 1606312440000,
   "seconds": 14040,
+  "description": "Mr.Children、福山雅治、King Gnu、LiSA、乃木坂46、いきものがかり、SEKAI NO OWARI…豪華アーティスト続々＆ジャニーズメドレー",
+  "extra": {
+    "出演者": "【総合司会】櫻井翔\r\n【司会】羽鳥慎一、滝菜月（日本テレビアナウンサー）\r\n【NEXTゲート司会】バカリズム、市來玲奈（日本テレビアナウンサー）",
+    "番組内容": "４時間生放送！NiziU新曲初披露！Mr.Children、福山雅治、King Gnu、LiSA、乃木坂46、いきもの、セカオワ、Perfume、AKB48、Foorin…豪華41組▽ジャニーズメドレーは嵐、NEWS、関ジャニ∞、KAT-TUN、Hey! Say! JUMP、Sexy Zone、ジャニーズWEST、King & Prince、SixTONES、Snow Man総勢56名！"
+  },
   "channel": {
     "type": "GR",
     "channel": "12",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 15
   },
-  "subTitle": "",
+  "subTitle": "嵐・NiziU…豪華41組が熱唱",
   "episode": null,
   "flags": [
     "字",
