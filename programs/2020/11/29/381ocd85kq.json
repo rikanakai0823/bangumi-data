@@ -1,0 +1,26 @@
+{
+  "id": "381ocd85kq",
+  "category": "information",
+  "title": "日テレアップＤａｔｅ！",
+  "fullTitle": "日テレアップＤａｔｅ！[解][字]",
+  "detail": "日本テレビの「今」を様々に発信します。",
+  "start": 1606596900000,
+  "end": 1606598100000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "今",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
