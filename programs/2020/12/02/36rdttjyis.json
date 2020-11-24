@@ -1,0 +1,29 @@
+{
+  "id": "36rdttjyis",
+  "category": "variety",
+  "title": "水曜どうでしょう",
+  "fullTitle": "水曜どうでしょう",
+  "detail": "◇番組内容１\n...\n◇番組内容２\n...\n◇出演者\n鈴井貴之、大泉洋",
+  "start": 1606910400000,
+  "end": 1606912200000,
+  "seconds": 1800,
+  "description": "　",
+  "extra": {
+    "番組内容１": "...",
+    "番組内容２": "...",
+    "出演者": "鈴井貴之、大泉洋"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "18",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
