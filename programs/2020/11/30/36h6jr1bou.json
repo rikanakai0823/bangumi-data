@@ -3,10 +3,15 @@
   "category": "music",
   "title": "Ｖ－Ｃｌｉｐｓ",
   "fullTitle": "Ｖ－Ｃｌｉｐｓ[Ｓ]",
-  "detail": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！",
+  "detail": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！\n◇番組内容\n河口恭吾「マイ・アイデンティティー（feat.FLYING KIDS）」イ・ジェジン(fromFTISLAND)「Homies」大城美友「ヤンチャ風」the telephones「Here we Go」saji「瞬間ドラマティック」\n◇出演者\n河口恭吾・イ・ジェジン(fromFTISLAND)・大城美友・the telephones・saji",
   "start": 1606685400000,
   "end": 1606686600000,
   "seconds": 1200,
+  "description": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！",
+  "extra": {
+    "番組内容": "河口恭吾「マイ・アイデンティティー（feat.FLYING KIDS）」イ・ジェジン(fromFTISLAND)「Homies」大城美友「ヤンチャ風」the telephones「Here we Go」saji「瞬間ドラマティック」",
+    "出演者": "河口恭吾・イ・ジェジン(fromFTISLAND)・大城美友・the telephones・saji"
+  },
   "channel": {
     "type": "GR",
     "channel": "19",

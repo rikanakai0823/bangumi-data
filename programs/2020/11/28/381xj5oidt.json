@@ -1,0 +1,26 @@
+{
+  "id": "381xj5oidt",
+  "category": "variety",
+  "title": "土曜ワイド・ネプリーグ",
+  "fullTitle": "土曜ワイド・ネプリーグ[再][字]",
+  "detail": "",
+  "start": 1606541400000,
+  "end": 1606544700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "8",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再",
+    "字"
+  ]
+}
