@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "白酵リンクルＤＵＯ【化粧品】\n◇おしらせ\n0120-678-252",
   "start": 1606285800000,
   "end": 1606287600000,
   "seconds": 1800,
+  "description": "白酵リンクルＤＵＯ【化粧品】",
+  "extra": {
+    "おしらせ": "0120-678-252"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }
