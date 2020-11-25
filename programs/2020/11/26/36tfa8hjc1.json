@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "エポホワイティア【化粧品】\n◇おしらせ\n0120-898-610",
   "start": 1606364940000,
   "end": 1606366680000,
   "seconds": 1740,
+  "description": "エポホワイティア【化粧品】",
+  "extra": {
+    "おしらせ": "0120-898-610"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }
