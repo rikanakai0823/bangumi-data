@@ -2,7 +2,7 @@
   "id": "381f5ksg5r",
   "category": "news",
   "title": "気象情報（関東甲信越）",
-  "fullTitle": "気象情報（関東甲信越）[字]",
+  "fullTitle": "気象情報（関東甲信越）",
   "detail": "",
   "start": 1606467420000,
   "end": 1606467600000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
