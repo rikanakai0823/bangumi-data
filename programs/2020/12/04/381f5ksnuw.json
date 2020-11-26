@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksnuw",
+  "category": "sports",
+  "title": "競泳日本選手権",
+  "fullTitle": "第９６回競泳日本選手権「第２日」[字]",
+  "detail": "～東京アクアティクスセンターから中継～",
+  "start": 1607068500000,
+  "end": 1607072400000,
+  "seconds": 3900,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "第２日",
+  "episode": 96,
+  "flags": [
+    "字"
+  ]
+}
