@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksq94",
+  "category": "news",
+  "title": "コロナ特設サイト紹介",
+  "fullTitle": "コロナ特設サイト紹介「知っておきたい」[字]",
+  "detail": "",
+  "start": 1606794240000,
+  "end": 1606794300000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "知っておきたい",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

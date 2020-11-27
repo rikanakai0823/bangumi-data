@@ -2,7 +2,7 @@
   "id": "381f5ksp7d",
   "category": "information",
   "title": "みんなでエール",
-  "fullTitle": "みんなでエール「みんなのエールソング」",
+  "fullTitle": "みんなでエール「みんなのエールソング」[字]",
   "detail": "",
   "start": 1607046300000,
   "end": 1607046600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "みんなのエールソング",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
