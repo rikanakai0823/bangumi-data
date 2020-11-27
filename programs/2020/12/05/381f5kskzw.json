@@ -1,0 +1,25 @@
+{
+  "id": "381f5kskzw",
+  "category": "sports",
+  "title": "Ｊリーグ２０２０",
+  "fullTitle": "Ｊリーグ２０２０[字]",
+  "detail": "",
+  "start": 1607143800000,
+  "end": 1607151600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "14",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

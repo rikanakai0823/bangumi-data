@@ -1,0 +1,23 @@
+{
+  "id": "381ocd85pa",
+  "category": "sports",
+  "title": "関東インカレ陸上",
+  "fullTitle": "第９９回関東インカレ陸上",
+  "detail": "",
+  "start": 1607108400000,
+  "end": 1607113800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "12",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 99,
+  "flags": []
+}
