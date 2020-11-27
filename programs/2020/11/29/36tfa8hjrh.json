@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ホワイトボーテ【化粧品】\n◇おしらせ\n0120-461-555",
   "start": 1606597200000,
   "end": 1606599000000,
   "seconds": 1800,
+  "description": "ホワイトボーテ【化粧品】",
+  "extra": {
+    "おしらせ": "0120-461-555"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "化粧品",
   "episode": null,
   "flags": []
 }

@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "Ｈ２ＯスチームＵＮＩＯＮ【スチームクリーナー】\n◇おしらせ\n0120-1313-00",
   "start": 1606680000000,
   "end": 1606681800000,
   "seconds": 1800,
+  "description": "Ｈ２ＯスチームＵＮＩＯＮ【スチームクリーナー】",
+  "extra": {
+    "おしらせ": "0120-1313-00\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "",
+  "subTitle": "スチームクリーナー",
   "episode": null,
   "flags": []
 }
