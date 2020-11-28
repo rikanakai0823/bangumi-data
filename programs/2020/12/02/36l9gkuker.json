@@ -14,13 +14,13 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "17",
+    "channel": "30",
     "name": "チバテレ１",
     "id": "1hgokns",
     "sid": 27704,
     "nid": 32327,
-    "hasLogoData": true,
-    "n": 9
+    "hasLogoData": false,
+    "n": 6
   },
   "subTitle": "この試合のカギを握っているのは、桜木くんと三井くん。この二人です（安西）",
   "episode": 43,

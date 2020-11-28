@@ -16,13 +16,13 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "17",
+    "channel": "30",
     "name": "チバテレ１",
     "id": "1hgokns",
     "sid": 27704,
     "nid": 32327,
-    "hasLogoData": true,
-    "n": 9
+    "hasLogoData": false,
+    "n": 6
   },
   "subTitle": "はるちゃん",
   "episode": 32,

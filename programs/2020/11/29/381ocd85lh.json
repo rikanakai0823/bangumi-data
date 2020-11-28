@@ -20,13 +20,13 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "12",
+    "channel": "25",
     "name": "日テレ１",
     "id": "1i54x1s",
     "sid": 1040,
     "nid": 32738,
-    "hasLogoData": true,
-    "n": 15
+    "hasLogoData": false,
+    "n": 12
   },
   "subTitle": "絶体絶命！スイーツギャング襲来＆婦人会の最強ラスボス参戦",
   "episode": 8,

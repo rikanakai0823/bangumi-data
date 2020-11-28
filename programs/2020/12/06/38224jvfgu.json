@@ -1,0 +1,26 @@
+{
+  "id": "38224jvfgu",
+  "category": "drama",
+  "title": "スペシャルサンデー　第２部",
+  "fullTitle": "スペシャルサンデー　第２部[解][字]",
+  "detail": "次世代を担うバラエティを中心に、旅・グルメ・情報などのスペシャル番組を放送！日曜の午後にふさわしい作品をお届けします。",
+  "start": 1607232600000,
+  "end": 1607240400000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

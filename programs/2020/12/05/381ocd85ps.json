@@ -17,13 +17,13 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "12",
+    "channel": "25",
     "name": "日テレ１",
     "id": "1i54x1s",
     "sid": 1040,
     "nid": 32738,
-    "hasLogoData": true,
-    "n": 15
+    "hasLogoData": false,
+    "n": 12
   },
   "subTitle": "大改造！相葉がどうぶつ園号で保護犬シャンプー",
   "episode": null,

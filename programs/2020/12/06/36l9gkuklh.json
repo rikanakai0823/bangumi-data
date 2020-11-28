@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkuklh",
+  "category": "information",
+  "title": "生活情報５５分",
+  "fullTitle": "生活情報５５分",
+  "detail": "",
+  "start": 1607234400000,
+  "end": 1607237700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": false,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

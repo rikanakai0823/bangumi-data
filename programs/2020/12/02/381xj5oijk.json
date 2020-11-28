@@ -15,13 +15,13 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "8",
+    "channel": "21",
     "name": "フジテレビ",
     "id": "1i597ds",
     "sid": 1056,
     "nid": 32740,
-    "hasLogoData": true,
-    "n": 28
+    "hasLogoData": false,
+    "n": 25
   },
   "subTitle": "日本一の海苔産地、有明海で生まれ育った海苔漁師と語る。",
   "episode": null,

@@ -15,13 +15,13 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "19",
+    "channel": "32",
     "name": "テレ玉１",
     "id": "1hes13s",
     "sid": 29752,
     "nid": 32295,
-    "hasLogoData": true,
-    "n": 11
+    "hasLogoData": false,
+    "n": 8
   },
   "subTitle": "解ける謎、新たな敵へ",
   "episode": 7,

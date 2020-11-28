@@ -9,13 +9,13 @@
   "seconds": 3600,
   "channel": {
     "type": "GR",
-    "channel": "19",
+    "channel": "32",
     "name": "テレ玉２",
     "id": "1hes13t",
     "sid": 29753,
     "nid": 32295,
-    "hasLogoData": true,
-    "n": 12
+    "hasLogoData": false,
+    "n": 9
   },
   "subTitle": "",
   "episode": null,

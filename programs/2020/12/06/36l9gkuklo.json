@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkuklo",
+  "category": "music",
+  "title": "カラオケ大賞松尾雄史",
+  "fullTitle": "カラオケ大賞[再]【ゲスト】松尾雄史",
+  "detail": "【ゲスト】松尾雄史　【審査員長】伊戸のりお　【司会】風見しんご　【アシスタント】飯田有咲",
+  "start": 1607241600000,
+  "end": 1607244900000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": false,
+    "n": 6
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

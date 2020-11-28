@@ -4,18 +4,18 @@
   "title": "お天気マップ　４",
   "fullTitle": "お天気マップ　４[Ｓ]",
   "detail": "",
-  "start": 1606929000000,
-  "end": 1606929240000,
+  "start": 1606930800000,
+  "end": 1606931040000,
   "seconds": 240,
   "channel": {
     "type": "GR",
-    "channel": "19",
+    "channel": "32",
     "name": "テレ玉１",
     "id": "1hes13s",
     "sid": 29752,
     "nid": 32295,
-    "hasLogoData": true,
-    "n": 11
+    "hasLogoData": false,
+    "n": 8
   },
   "subTitle": "",
   "episode": null,

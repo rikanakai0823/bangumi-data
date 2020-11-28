@@ -1,0 +1,26 @@
+{
+  "id": "381ocd85qm",
+  "category": "sports",
+  "title": "ゴルフ日本シリーズＪＴカップ２０２０　最終日",
+  "fullTitle": "ゴルフ日本シリーズＪＴカップ２０２０　最終日[字][デ]",
+  "detail": "",
+  "start": 1607234400000,
+  "end": 1607241300000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": false,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

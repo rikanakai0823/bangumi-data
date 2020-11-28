@@ -14,13 +14,13 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "18",
+    "channel": "31",
     "name": "ｔｖｋ１",
     "id": "1hjjdzs",
     "sid": 24632,
     "nid": 32375,
-    "hasLogoData": true,
-    "n": 5
+    "hasLogoData": false,
+    "n": 2
   },
   "subTitle": "姿なき怪盗",
   "episode": null,

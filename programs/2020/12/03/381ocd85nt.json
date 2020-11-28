@@ -14,13 +14,13 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "12",
+    "channel": "25",
     "name": "日テレ１",
     "id": "1i54x1s",
     "sid": 1040,
     "nid": 32738,
-    "hasLogoData": true,
-    "n": 15
+    "hasLogoData": false,
+    "n": 12
   },
   "subTitle": "出川・指原おすすめ　大分の旅",
   "episode": 1,
