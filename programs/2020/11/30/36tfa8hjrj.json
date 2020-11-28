@@ -13,13 +13,13 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "3",
+    "channel": "16",
     "name": "ＴＯＫＹＯ　ＭＸ１",
     "id": "1hkhnrs",
     "sid": 23608,
     "nid": 32391,
-    "hasLogoData": true,
-    "n": 32
+    "hasLogoData": false,
+    "n": 19
   },
   "subTitle": "発毛促進剤",
   "episode": null,

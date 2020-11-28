@@ -1,0 +1,25 @@
+{
+  "id": "381xj5oirc",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース[字]",
+  "detail": "日曜日の朝は「ＦＮＮニュース」。コンパクトながら情報満載。全国のＦＮＮ系列の記者がしのぎを削って集めたニュースをしっかりお届けします。",
+  "start": 1607202000000,
+  "end": 1607202900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": false,
+    "n": 15
+  },
+  "subTitle": "ＦＮＮニュース",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -14,13 +14,13 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "3",
+    "channel": "16",
     "name": "ＴＯＫＹＯ　ＭＸ２",
     "id": "1hkhnru",
     "sid": 23610,
     "nid": 32391,
-    "hasLogoData": true,
-    "n": 34
+    "hasLogoData": false,
+    "n": 21
   },
   "subTitle": "",
   "episode": null,
