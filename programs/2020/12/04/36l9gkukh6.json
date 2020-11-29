@@ -1,12 +1,16 @@
 {
   "id": "36l9gkukh6",
   "category": "variety",
-  "title": "真夜中のおバカ騒ぎ原口あきまさ　ほか",
-  "fullTitle": "真夜中のおバカ騒ぎ【出】原口あきまさ　ほか",
-  "detail": "「女性のあるある話」をセキララに語るトークバラエティ番組　真夜中のおバカ騒ぎ【出演】原口あきまさ他",
+  "title": "真夜中のおバカ騒ぎ！",
+  "fullTitle": "真夜中のおバカ騒ぎ！",
+  "detail": "＃４０１\n◇出演者      \n原口あきまさ他",
   "start": 1607014800000,
   "end": 1607016600000,
   "seconds": 1800,
+  "description": "＃４０１",
+  "extra": {
+    "出演者      ": "原口あきまさ他"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 9
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 401,
   "flags": []
 }

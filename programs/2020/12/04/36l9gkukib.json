@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "",
+  "detail": "２０２０年１２月\n◇番組内容\n●仮面女子/先陣☆CUTTER\r\n●神宿/明日、また君に会える\r\n●愛乙女☆DOLL/真夏イリュージョン \r\n●アルテミスの翼/最終ゼンヤ",
   "start": 1607075100000,
   "end": 1607076000000,
   "seconds": 900,
+  "description": "２０２０年１２月",
+  "extra": {
+    "番組内容": "●仮面女子/先陣☆CUTTER\r\n●神宿/明日、また君に会える\r\n●愛乙女☆DOLL/真夏イリュージョン \r\n●アルテミスの翼/最終ゼンヤ"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",

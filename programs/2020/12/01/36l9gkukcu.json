@@ -1,12 +1,16 @@
 {
   "id": "36l9gkukcu",
   "category": "information",
-  "title": "生活情報３０分Ａｉｒｄｏｇ",
-  "fullTitle": "生活情報３０分【内容】Ａｉｒｄｏｇ",
-  "detail": "あなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！　【内容】Ａｉｒｄｏｇ　【電話】０１２０－０１２－２４９",
+  "title": "生活情報",
+  "fullTitle": "生活情報",
+  "detail": "◇番組内容\nあなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！\r\n【内容】Airdog\r\n【電話】0120-012-249",
   "start": 1606793400000,
   "end": 1606795200000,
   "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "番組内容": "あなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！\r\n【内容】Airdog\r\n【電話】0120-012-249"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": false,
     "n": 9
   },
-  "subTitle": "内容",
+  "subTitle": "",
   "episode": null,
   "flags": []
 }

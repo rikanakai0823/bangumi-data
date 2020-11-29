@@ -1,12 +1,16 @@
 {
   "id": "36l9gkukfd",
   "category": "variety",
-  "title": "ブギウギ専務▽ブギウギ爆釣倶楽部　アオゾイ編②",
-  "fullTitle": "ブギウギ専務▽ブギウギ爆釣倶楽部　アオゾイ編②",
-  "detail": "ブギウギ爆釣倶楽部　アオゾイ編②",
+  "title": "ブギウギ専務",
+  "fullTitle": "ブギウギ専務",
+  "detail": "♯２５８\n◇番組内容\nブギウギ爆釣倶楽部　アオゾイ編②",
   "start": 1606924800000,
   "end": 1606926600000,
   "seconds": 1800,
+  "description": "♯２５８",
+  "extra": {
+    "番組内容": "ブギウギ爆釣倶楽部　アオゾイ編②"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 9
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 258,
   "flags": []
 }

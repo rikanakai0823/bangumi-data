@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwxw7",
+  "category": "etc",
+  "title": "ＨＤ２試験放送",
+  "fullTitle": "ＨＤ２試験放送",
+  "detail": "",
+  "start": 1606667460000,
+  "end": 1606667640000,
+  "seconds": 180,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": false,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

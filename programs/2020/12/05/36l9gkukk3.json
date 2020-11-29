@@ -3,10 +3,14 @@
   "category": "drama",
   "title": "ねこばん",
   "fullTitle": "ねこばん[再]",
-  "detail": "【サブタイトル】猫は、どんなに小さくても最高傑作である　【出演】伊武雅刀",
+  "detail": "第４話　猫は、どんなに小さくても最高傑作である\n◇出演者      \n伊武雅刀／りりィ　ほか",
   "start": 1607162400000,
   "end": 1607164200000,
   "seconds": 1800,
+  "description": "第４話　猫は、どんなに小さくても最高傑作である",
+  "extra": {
+    "出演者      ": "伊武雅刀／りりィ　ほか"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,8 +21,8 @@
     "hasLogoData": false,
     "n": 9
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "猫は、どんなに小さくても最高傑作である",
+  "episode": 4,
   "flags": [
     "再"
   ]

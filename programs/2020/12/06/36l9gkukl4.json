@@ -1,12 +1,16 @@
 {
   "id": "36l9gkukl4",
-  "category": "information",
+  "category": "news",
   "title": "ザ・サンデー千葉市",
   "fullTitle": "ザ・サンデー千葉市",
-  "detail": "",
+  "detail": "ロマンチックに千葉市で冬を楽しもう\n◇番組概要\n千葉市内にあるカップルで訪れたいおしゃれスポットを紹介します。",
   "start": 1607212800000,
   "end": 1607213700000,
   "seconds": 900,
+  "description": "ロマンチックに千葉市で冬を楽しもう",
+  "extra": {
+    "番組概要": "千葉市内にあるカップルで訪れたいおしゃれスポットを紹介します。"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",

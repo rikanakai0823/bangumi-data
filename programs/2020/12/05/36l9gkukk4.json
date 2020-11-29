@@ -1,12 +1,16 @@
 {
   "id": "36l9gkukk4",
   "category": "information",
-  "title": "ショップ　チャンネル３０分",
-  "fullTitle": "ショップ　チャンネル３０分",
-  "detail": "【内容】ダイソンＶ８　【電話】０１２０－３４５６２４",
+  "title": "ショップチャンネル",
+  "fullTitle": "ショップチャンネル",
+  "detail": "◇番組内容\n【内容】ダイソンＶ８\r\n【電話】0120-345624",
   "start": 1607164200000,
   "end": 1607166000000,
   "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "番組内容": "【内容】ダイソンＶ８\r\n【電話】0120-345624"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
