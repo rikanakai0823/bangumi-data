@@ -14,12 +14,12 @@
   },
   "channel": {
     "type": "GR",
-    "channel": "13",
+    "channel": "26",
     "name": "ＮＨＫＥテレ３東京",
     "id": "1i52rvu",
     "sid": 1034,
     "nid": 32737,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 4
   },
   "subTitle": "ＤＮＡの複製と分配",
