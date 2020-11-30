@@ -3,7 +3,7 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "保険【サービス】",
   "start": 1606802400000,
   "end": 1606804200000,
   "seconds": 1800,
@@ -14,10 +14,10 @@
     "id": "1hkhnrs",
     "sid": 23608,
     "nid": 32391,
-    "hasLogoData": true,
-    "n": 32
+    "hasLogoData": false,
+    "n": 33
   },
-  "subTitle": "",
+  "subTitle": "サービス",
   "episode": null,
   "flags": []
 }

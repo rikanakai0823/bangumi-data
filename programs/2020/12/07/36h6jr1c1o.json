@@ -2,11 +2,15 @@
   "id": "36h6jr1c1o",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nクッキングプロ　　　　　　　　　　　　　０１２０－４４－００２７",
   "start": 1607307900000,
   "end": 1607309700000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "クッキングプロ　　　　　　　　　　　　　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -15,7 +19,7 @@
     "sid": 29752,
     "nid": 32295,
     "hasLogoData": false,
-    "n": 11
+    "n": 12
   },
   "subTitle": "",
   "episode": null,

@@ -3,7 +3,7 @@
   "category": "information",
   "title": "ｔｖｋお買物情報",
   "fullTitle": "ｔｖｋお買物情報",
-  "detail": "暮らしに役立つ、選りすぐりの商品をご紹介します。",
+  "detail": "暮らしに役立つ、選りすぐりの商品をご紹介します。\r\n▽調理器具",
   "start": 1607308200000,
   "end": 1607309940000,
   "seconds": 1740,
@@ -14,7 +14,7 @@
     "id": "1hjjdzs",
     "sid": 24632,
     "nid": 32375,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 5
   },
   "subTitle": "",
