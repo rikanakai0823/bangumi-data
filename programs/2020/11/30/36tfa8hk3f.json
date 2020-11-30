@@ -1,16 +1,12 @@
 {
-  "id": "36tfa8hk6w",
+  "id": "36tfa8hk3f",
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": "ターボプロ【掃除グッズ】\n◇おしらせ\n0120-366041",
-  "start": 1606851000000,
-  "end": 1606852800000,
+  "detail": "ローヤルゼリー粒ゴールド８００【健康食品】",
+  "start": 1606716000000,
+  "end": 1606717800000,
   "seconds": 1800,
-  "description": "ターボプロ【掃除グッズ】",
-  "extra": {
-    "おしらせ": "0120-366041"
-  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -21,7 +17,7 @@
     "hasLogoData": true,
     "n": 32
   },
-  "subTitle": "掃除グッズ",
+  "subTitle": "健康食品",
   "episode": null,
   "flags": []
 }

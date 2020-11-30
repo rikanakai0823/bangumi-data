@@ -1,15 +1,16 @@
 {
   "id": "36rdttjyhz",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "title": "洋楽天国＋▽夏フェス特集２０２０",
+  "fullTitle": "洋楽天国＋▽夏フェス特集２０２０",
+  "detail": "残念ながら開催されなかった今年の夏フェス、出演が予定されていたアーティストを紹介！～フジロック（中止）、スーパーソニック（開催延期）\n◇番組内容１\n\"Bad Decisions\"THE STROKES\r\n\"Lost In Yesterday\"TAME IMPALA\r\n\"Me & You Together Song\"THE 1975\r\n\"Once (MTV Unplugged)\"LIAM GALLAGHER\n◇番組内容２\n\"Lose Somebody\"KYGO with ONEREPUBLIC\r\n\"MAMACITA\"BLACK EYED PEAS, OZUNA & J. REY SOUL\r\n\"Circles\"POST MALONE",
   "start": 1607013000000,
   "end": 1607014800000,
   "seconds": 1800,
-  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "description": "残念ながら開催されなかった今年の夏フェス、出演が予定されていたアーティストを紹介！～フジロック（中止）、スーパーソニック（開催延期）",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Bad Decisions\"THE STROKES\r\n\"Lost In Yesterday\"TAME IMPALA\r\n\"Me & You Together Song\"THE 1975\r\n\"Once (MTV Unplugged)\"LIAM GALLAGHER",
+    "番組内容２": "\"Lose Somebody\"KYGO with ONEREPUBLIC\r\n\"MAMACITA\"BLACK EYED PEAS, OZUNA & J. REY SOUL\r\n\"Circles\"POST MALONE"
   },
   "channel": {
     "type": "GR",
