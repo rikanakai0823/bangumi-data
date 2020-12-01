@@ -1,12 +1,16 @@
 {
   "id": "36l9gkukhr",
   "category": "information",
-  "title": "生活情報",
-  "fullTitle": "生活情報",
-  "detail": " ",
+  "title": "生活情報寧薬",
+  "fullTitle": "生活情報【内容】寧薬",
+  "detail": "【内容】寧薬\r\n【電話】0120-228-113\n◇番組内容\n本音の通販パラダイス\r\n【内容】寧薬\r\n【電話】0120-228-113",
   "start": 1607042700000,
   "end": 1607043600000,
   "seconds": 900,
+  "description": "【内容】寧薬\r\n【電話】0120-228-113",
+  "extra": {
+    "番組内容": "本音の通販パラダイス\r\n【内容】寧薬\r\n【電話】0120-228-113"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": false,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "内容",
   "episode": null,
   "flags": []
 }
