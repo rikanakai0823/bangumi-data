@@ -1,0 +1,25 @@
+{
+  "id": "381ocd85uj",
+  "category": "variety",
+  "title": "チョコプラ修羅場劇場",
+  "fullTitle": "チョコプラ修羅場劇場[字]",
+  "detail": "チョコプラ修羅場劇場",
+  "start": 1607612340000,
+  "end": 1607615640000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
