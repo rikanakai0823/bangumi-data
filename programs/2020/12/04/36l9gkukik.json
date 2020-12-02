@@ -3,13 +3,13 @@
   "category": "variety",
   "title": "おじゃまします！市町村街かどクイズ",
   "fullTitle": "おじゃまします！市町村街かどクイズ",
-  "detail": "＃５９５　【柏市】道の駅しょうなん\n◇出演者      \n矢野明仁／小川麻希",
+  "detail": "【柏市】道の駅しょうなん\n◇出演者\n矢野明仁／小川麻希",
   "start": 1607086800000,
   "end": 1607087700000,
   "seconds": 900,
-  "description": "＃５９５　【柏市】道の駅しょうなん",
+  "description": "【柏市】道の駅しょうなん",
   "extra": {
-    "出演者      ": "矢野明仁／小川麻希"
+    "出演者": "矢野明仁／小川麻希"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +21,7 @@
     "hasLogoData": false,
     "n": 9
   },
-  "subTitle": "柏市】道の駅しょうなん",
-  "episode": 595,
+  "subTitle": "柏市",
+  "episode": null,
   "flags": []
 }
