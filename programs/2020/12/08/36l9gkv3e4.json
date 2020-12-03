@@ -1,12 +1,16 @@
 {
   "id": "36l9gkv3e4",
   "category": "information",
-  "title": "生活情報",
-  "fullTitle": "生活情報",
-  "detail": " ",
+  "title": "生活情報ナノインパクトＣｏ１７",
+  "fullTitle": "生活情報【内容】ナノインパクトＣｏ１７",
+  "detail": "【内容】ナノインパクトＣｏ１７【電話】０１２０－７１９－６９６\n◇番組内容\nＴＨＥ通販ＳＨＯＷ\r\n【内容】ナノインパクトＣｏ１７\r\n【電話】0120-719-696",
   "start": 1607374800000,
   "end": 1607376600000,
   "seconds": 1800,
+  "description": "【内容】ナノインパクトＣｏ１７【電話】０１２０－７１９－６９６",
+  "extra": {
+    "番組内容": "ＴＨＥ通販ＳＨＯＷ\r\n【内容】ナノインパクトＣｏ１７\r\n【電話】0120-719-696"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": false,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "内容",
   "episode": null,
   "flags": []
 }
