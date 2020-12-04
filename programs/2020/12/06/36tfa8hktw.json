@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": "Ｈ２ＯスチームＵＮＩＯＮ",
+  "detail": "Ｈ２ＯスチームＵＮＩＯＮ\n◇おしらせ\n0120-1313-00",
   "start": 1607214600000,
   "end": 1607218200000,
   "seconds": 3600,
+  "description": "Ｈ２ＯスチームＵＮＩＯＮ",
+  "extra": {
+    "おしらせ": "0120-1313-00\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

@@ -3,10 +3,14 @@
   "category": "information",
   "title": "番組ナビ",
   "fullTitle": "番組ナビ[字]",
-  "detail": "",
+  "detail": "１２月６日（日）よる１０時３０分放送のドラマ「極主夫道」。第９話の見どころをナビゲートします。\n◇出演者\n【ナレーター】杉野真実（日テレアナウンサー）",
   "start": 1607234100000,
   "end": 1607234400000,
   "seconds": 300,
+  "description": "１２月６日（日）よる１０時３０分放送のドラマ「極主夫道」。第９話の見どころをナビゲートします。",
+  "extra": {
+    "出演者": "【ナレーター】杉野真実（日テレアナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,8 +21,8 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "極主夫道",
+  "episode": 9,
   "flags": [
     "字"
   ]

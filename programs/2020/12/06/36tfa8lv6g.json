@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": "洗浄魂【洗剤】",
+  "detail": "洗浄魂【洗剤】\n◇おしらせ\n0120-115524",
   "start": 1607232600000,
   "end": 1607234400000,
   "seconds": 1800,
+  "description": "洗浄魂【洗剤】",
+  "extra": {
+    "おしらせ": "0120-115524\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": "もぎたて生スムージー【健康食品】",
+  "detail": "もぎたて生スムージー【健康食品】\n◇おしらせ\n0120-558400",
   "start": 1607256000000,
   "end": 1607257800000,
   "seconds": 1800,
+  "description": "もぎたて生スムージー【健康食品】",
+  "extra": {
+    "おしらせ": "0120-558400\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

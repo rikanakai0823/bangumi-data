@@ -1,12 +1,12 @@
 {
-  "id": "381f5kssxd",
+  "id": "381f5ksub6",
   "category": "information",
-  "title": "プレマップ",
-  "fullTitle": "プレマップ",
+  "title": "♯感染防止　私たちにできること",
+  "fullTitle": "♯感染防止　私たちにできること[字]",
   "detail": "",
-  "start": 1607478120000,
-  "end": 1607478240000,
-  "seconds": 120,
+  "start": 1607658240000,
+  "end": 1607658300000,
+  "seconds": 60,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

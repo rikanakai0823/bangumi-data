@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": "スットフィット【靴】",
+  "detail": "スットフィット【靴】\n◇おしらせ\n0120-234900",
   "start": 1607247000000,
   "end": 1607248800000,
   "seconds": 1800,
+  "description": "スットフィット【靴】",
+  "extra": {
+    "おしらせ": "0120-234900\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
