@@ -2,11 +2,11 @@
   "id": "381f5ksnuy",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース[二][字]",
-  "detail": "",
+  "fullTitle": "ニュース「菅首相記者会見」[二][字]",
+  "detail": "中継・菅首相会見　▽新型コロナの対応は",
   "start": 1607072400000,
-  "end": 1607073000000,
-  "seconds": 600,
+  "end": 1607074200000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "菅首相記者会見",
   "episode": null,
   "flags": [
     "二",
