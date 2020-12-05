@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkv3qo",
+  "category": "variety",
+  "title": "戦国鍋ＴＶ",
+  "fullTitle": "戦国鍋ＴＶ[再]",
+  "detail": "歴史がなんとなく、楽しく学べちゃう、歴史バラエティ番組 ",
+  "start": 1607790600000,
+  "end": 1607792400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": false,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
