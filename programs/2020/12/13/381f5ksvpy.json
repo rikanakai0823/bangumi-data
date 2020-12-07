@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksp13",
-  "category": "sports",
-  "title": "Ｊリーグ２０２０",
-  "fullTitle": "Ｊリーグ２０２０[多][字]",
+  "id": "381f5ksvpy",
+  "category": "information",
+  "title": "プレマップ",
+  "fullTitle": "プレマップ",
   "detail": "",
-  "start": 1607748600000,
-  "end": 1607756400000,
-  "seconds": 7800,
+  "start": 1607788080000,
+  "end": 1607788200000,
+  "seconds": 120,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -19,8 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "多",
-    "字"
-  ]
+  "flags": []
 }
