@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "おいしい青汁\n◇おしらせ\n0120-321313",
   "start": 1607630400000,
   "end": 1607632200000,
   "seconds": 1800,
+  "description": "おいしい青汁",
+  "extra": {
+    "おしらせ": "0120-321313\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
