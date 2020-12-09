@@ -1,0 +1,23 @@
+{
+  "id": "36rdttjz6k",
+  "category": "news",
+  "title": "神奈川県議会中継",
+  "fullTitle": "神奈川県議会中継[手]",
+  "detail": "　",
+  "start": 1608197400000,
+  "end": 1608202200000,
+  "seconds": 4800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
