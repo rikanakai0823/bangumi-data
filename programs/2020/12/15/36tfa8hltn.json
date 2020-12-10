@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "スピードヒート\n◇番組内容    \n0800-999-7-555",
   "start": 1607969400000,
   "end": 1607971200000,
   "seconds": 1800,
+  "description": "スピードヒート",
+  "extra": {
+    "番組内容    ": "0800-999-7-555\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

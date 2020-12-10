@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "野草酵素【健康食品】\n◇番組内容    \n0120-37-8353",
   "start": 1607925600000,
   "end": 1607927400000,
   "seconds": 1800,
+  "description": "野草酵素【健康食品】",
+  "extra": {
+    "番組内容    ": "0120-37-8353\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "健康食品",
   "episode": null,
   "flags": []
 }

@@ -3,10 +3,14 @@
   "category": "information",
   "title": "お買い物情報",
   "fullTitle": "お買い物情報",
-  "detail": " ",
+  "detail": "Ｈ２ＯスチームＵＮＩＯＮ\n◇おしらせ\n0120-1313-00",
   "start": 1607803200000,
   "end": 1607805000000,
   "seconds": 1800,
+  "description": "Ｈ２ＯスチームＵＮＩＯＮ",
+  "extra": {
+    "おしらせ": "0120-1313-00"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
