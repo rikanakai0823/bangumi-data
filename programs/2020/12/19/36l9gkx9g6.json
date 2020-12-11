@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkx9g6",
+  "category": "sports",
+  "title": "Ｂリーグ中継",
+  "fullTitle": "Ｂリーグ中継",
+  "detail": "【第１９節】千葉ジェッツ　VS　富山グラウジーズ\r\n【会場】船橋アリーナ",
+  "start": 1608357600000,
+  "end": 1608368400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "第１９節",
+  "episode": null,
+  "flags": []
+}
