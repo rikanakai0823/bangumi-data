@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "おいしい青汁【機能性表示食品】\n◇おしらせ\n0120-321313",
   "start": 1608075000000,
   "end": 1608076800000,
   "seconds": 1800,
+  "description": "おいしい青汁【機能性表示食品】",
+  "extra": {
+    "おしらせ": "0120-321313"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "機能性表示食品",
   "episode": null,
   "flags": []
 }

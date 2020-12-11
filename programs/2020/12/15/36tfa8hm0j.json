@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "すっぽん皇帝【健康食品】\n◇おしらせ\n0120-462-469",
   "start": 1608022800000,
   "end": 1608024600000,
   "seconds": 1800,
+  "description": "すっぽん皇帝【健康食品】",
+  "extra": {
+    "おしらせ": "0120-462-469\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "健康食品",
   "episode": null,
   "flags": []
 }
