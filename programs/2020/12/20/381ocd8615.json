@@ -1,0 +1,25 @@
+{
+  "id": "381ocd8615",
+  "category": "sports",
+  "title": "レスリング天皇杯２０２０",
+  "fullTitle": "レスリング天皇杯２０２０[字]",
+  "detail": "",
+  "start": 1608441000000,
+  "end": 1608444600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

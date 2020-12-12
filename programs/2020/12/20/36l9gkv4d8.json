@@ -1,0 +1,29 @@
+{
+  "id": "36l9gkv4d8",
+  "category": "music",
+  "title": "カラオケ大賞　グランドチャンピオン大会",
+  "fullTitle": "カラオケ大賞　グランドチャンピオン大会[再]",
+  "detail": "グランドチャンピオン大会　【第１部】\n◇出演者\n【ゲスト】角川博、秋元順子",
+  "start": 1608449400000,
+  "end": 1608454500000,
+  "seconds": 5100,
+  "description": "グランドチャンピオン大会　【第１部】",
+  "extra": {
+    "出演者": "【ゲスト】角川博、秋元順子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "第１部",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
