@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "スイングビート【エクササイズグッズ】\n◇おしらせ\n0120-108600",
   "start": 1608206400000,
   "end": 1608208200000,
   "seconds": 1800,
+  "description": "スイングビート【エクササイズグッズ】",
+  "extra": {
+    "おしらせ": "0120-108600"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 35
   },
-  "subTitle": "",
+  "subTitle": "エクササイズグッズ",
   "episode": null,
   "flags": []
 }

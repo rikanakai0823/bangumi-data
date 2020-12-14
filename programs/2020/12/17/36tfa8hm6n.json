@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ＭＡＲＵシャンプー＆トリートメント【ヘアケア商品】\n◇おしらせ\n0120-933-555",
   "start": 1608150600000,
   "end": 1608152400000,
   "seconds": 1800,
+  "description": "ＭＡＲＵシャンプー＆トリートメント【ヘアケア商品】",
+  "extra": {
+    "おしらせ": "0120-933-555"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "ヘアケア商品",
   "episode": null,
   "flags": []
 }
