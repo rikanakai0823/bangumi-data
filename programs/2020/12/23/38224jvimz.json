@@ -1,0 +1,27 @@
+{
+  "id": "38224jvimz",
+  "category": "information",
+  "title": "よふかしゴーちゃん。",
+  "fullTitle": "よふかしゴーちゃん。",
+  "detail": "１／３（日）よる９時からは『映画　天気の子』\n◇◇おしらせ\n☆『映画　天気の子』番組ＨＰ\r\n　https://www.tv-asahi.co.jp/tenkinoko/",
+  "start": 1608660000000,
+  "end": 1608660240000,
+  "seconds": 240,
+  "description": "１／３（日）よる９時からは『映画　天気の子』",
+  "extra": {
+    "◇おしらせ": "☆『映画　天気の子』番組ＨＰ\r\n　https://www.tv-asahi.co.jp/tenkinoko/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
