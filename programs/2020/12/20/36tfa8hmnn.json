@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "ドゥーアクティブ\n◇おしらせ\n0120-228-229",
   "start": 1608454500000,
   "end": 1608454800000,
   "seconds": 300,
+  "description": "ドゥーアクティブ",
+  "extra": {
+    "おしらせ": "0120-228-229 \r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

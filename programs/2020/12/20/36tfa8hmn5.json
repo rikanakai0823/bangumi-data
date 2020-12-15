@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "Ｈ２Ｏスチーム７\n◇おしらせ\n0120-888-060",
   "start": 1608417000000,
   "end": 1608418800000,
   "seconds": 1800,
+  "description": "Ｈ２Ｏスチーム７",
+  "extra": {
+    "おしらせ": "0120-888-060\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
