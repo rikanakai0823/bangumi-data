@@ -1,12 +1,16 @@
 {
   "id": "381ocd862q",
   "category": "variety",
-  "title": "ＨＡＰＰＹクリスマスおもちゃ屋ＭＩＳＩＡ",
-  "fullTitle": "ＨＡＰＰＹクリスマスおもちゃ屋ＭＩＳＩＡ[字]",
-  "detail": "",
+  "title": "HAPPYクリスマスおもちゃ屋MISIA",
+  "fullTitle": "HAPPYクリスマスおもちゃ屋MISIA【名曲熱唱＆EXITと初トーク！】[字]",
+  "detail": "歌姫MISIAが豪華ゲストとライブ＆トーク▽あの名曲を熱唱…土屋太鳳涙▽PUFFYとクリスマスメドレー▽EXIT、中条あやみ、古市憲寿が紐解くMISIA素顔\n◇出演者\nMISIA\r\n【トーク出演者】EXIT、中条あやみ、古市憲寿\r\n【ライブ出演者】MC…土屋太鳳、ゲスト…アオイツキ、オレクシーグザー＆太田吏圭子、紀平凱成、s**t kingz、T-CROWN KIDS、PUFFY、\r\n星屑スキャット、MISIA dancers",
   "start": 1608649140000,
   "end": 1608652440000,
   "seconds": 3300,
+  "description": "歌姫MISIAが豪華ゲストとライブ＆トーク▽あの名曲を熱唱…土屋太鳳涙▽PUFFYとクリスマスメドレー▽EXIT、中条あやみ、古市憲寿が紐解くMISIA素顔",
+  "extra": {
+    "出演者": "MISIA\r\n【トーク出演者】EXIT、中条あやみ、古市憲寿\r\n【ライブ出演者】MC…土屋太鳳、ゲスト…アオイツキ、オレクシーグザー＆太田吏圭子、紀平凱成、s**t kingz、T-CROWN KIDS、PUFFY、\r\n星屑スキャット、MISIA dancers"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
+  "subTitle": "名曲熱唱＆EXITと初トーク！",
   "episode": null,
   "flags": [
     "字"
