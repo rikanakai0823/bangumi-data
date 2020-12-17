@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "スリープオアシス【マットレス】\n◇おしらせ\n0120-0888-34",
   "start": 1608685200000,
   "end": 1608687000000,
   "seconds": 1800,
+  "description": "スリープオアシス【マットレス】",
+  "extra": {
+    "おしらせ": "0120-0888-34\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "マットレス",
   "episode": null,
   "flags": []
 }

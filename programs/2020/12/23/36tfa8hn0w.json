@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "楽ちんヒアリング【集音器】\n◇おしらせ\n0120-115524",
   "start": 1608687000000,
   "end": 1608687900000,
   "seconds": 900,
+  "description": "楽ちんヒアリング【集音器】",
+  "extra": {
+    "おしらせ": "0120-115524\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "集音器",
   "episode": null,
   "flags": []
 }

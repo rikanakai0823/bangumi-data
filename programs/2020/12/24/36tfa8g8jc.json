@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
-  "detail": " ",
+  "detail": "杜のすっぽん黒酢【健康食品】\n◇おしらせ\n0120-462-469",
   "start": 1608755400000,
   "end": 1608757200000,
   "seconds": 1800,
+  "description": "杜のすっぽん黒酢【健康食品】",
+  "extra": {
+    "おしらせ": "0120-462-469\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "健康食品",
   "episode": null,
   "flags": []
 }
