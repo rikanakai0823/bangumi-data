@@ -1,0 +1,27 @@
+{
+  "id": "381jqz05o0",
+  "category": "news",
+  "title": "ＥＴＶ特集",
+  "fullTitle": "ＥＴＶ特集「人知れず表現し続ける者たちⅢ」[SS][字][再]",
+  "detail": "「人知れず表現し続ける者たちⅢ」",
+  "start": 1608912300000,
+  "end": 1608915900000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "人知れず表現し続ける者たちⅢ",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字",
+    "再"
+  ]
+}

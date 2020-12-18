@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8g8re",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "Ｈ２ＯスチームＵＮＩＯＮ\n◇おしらせ\n0120-1313-00",
+  "start": 1608955200000,
+  "end": 1608957000000,
+  "seconds": 1800,
+  "description": "Ｈ２ＯスチームＵＮＩＯＮ",
+  "extra": {
+    "おしらせ": "0120-1313-00"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
