@@ -1,8 +1,8 @@
 {
   "id": "381f5ksah0",
   "category": "news",
-  "title": "このドキュメンタリーがヤバい！　２０２０　Ｚの選択",
-  "fullTitle": "このドキュメンタリーがヤバい！　２０２０　Ｚの選択",
+  "title": "Ｚの選択",
+  "fullTitle": "Ｚの選択「＃恋愛って必要ですか？」[字][再]",
   "detail": "",
   "start": 1608834600000,
   "end": 1608836460000,
@@ -17,7 +17,10 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "＃恋愛って必要ですか？",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字",
+    "再"
+  ]
 }
