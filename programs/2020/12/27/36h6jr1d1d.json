@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1d1d",
+  "category": "music",
+  "title": "彩の国百科",
+  "fullTitle": "彩の国百科[字][Ｓ]",
+  "detail": "ＳＬ編",
+  "start": 1608998100000,
+  "end": 1608998400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

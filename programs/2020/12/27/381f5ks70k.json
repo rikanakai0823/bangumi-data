@@ -1,0 +1,26 @@
+{
+  "id": "381f5ks70k",
+  "category": "sports",
+  "title": "天皇杯ＪＦＡ全日本サッカー選手権　準決勝",
+  "fullTitle": "天皇杯ＪＦＡ第１００回全日本サッカー選手権　準決勝[多][字]",
+  "detail": "　※副音声は場内音声",
+  "start": 1609052400000,
+  "end": 1609059600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 100,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
