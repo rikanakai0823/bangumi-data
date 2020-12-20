@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kjc8",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「Ｌ－ＷＩＮＧ賞」「ＫＲＡトロフィー」「ラストトゥインクル賞」",
+  "start": 1609136400000,
+  "end": 1609156800000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

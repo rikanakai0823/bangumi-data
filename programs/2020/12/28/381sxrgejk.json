@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgejk",
+  "category": "information",
+  "title": "最前線！密着警察２４時",
+  "fullTitle": "最前線！密着警察２４時[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/keisatsu24ji_20201228/",
+  "start": 1609149600000,
+  "end": 1609164000000,
+  "seconds": 14400,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/keisatsu24ji_20201228/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

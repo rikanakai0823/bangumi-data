@@ -1,0 +1,25 @@
+{
+  "id": "38224jvjtr",
+  "category": "variety",
+  "title": "わぎゅいたちの笑オーダー",
+  "fullTitle": "わぎゅいたちの笑オーダー[字]",
+  "detail": "ゲストからの笑(わら)オーダーに笑いで応えていく番組！",
+  "start": 1609164900000,
+  "end": 1609168500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
