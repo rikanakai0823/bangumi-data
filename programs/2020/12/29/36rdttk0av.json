@@ -1,0 +1,25 @@
+{
+  "id": "36rdttk0av",
+  "category": "news",
+  "title": "横浜市会ダイジェスト",
+  "fullTitle": "横浜市会ダイジェスト[再]",
+  "detail": "　",
+  "start": 1609196400000,
+  "end": 1609198200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

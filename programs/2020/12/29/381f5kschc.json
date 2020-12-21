@@ -1,0 +1,23 @@
+{
+  "id": "381f5kschc",
+  "category": "music",
+  "title": "私の紅白メモリーズ",
+  "fullTitle": "私の紅白メモリーズ",
+  "detail": "",
+  "start": 1609232280000,
+  "end": 1609232400000,
+  "seconds": 120,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

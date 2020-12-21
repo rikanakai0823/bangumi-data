@@ -1,0 +1,23 @@
+{
+  "id": "381ocd866z",
+  "category": "variety",
+  "title": "芸人報道１時間ＳＰ",
+  "fullTitle": "芸人報道１時間ＳＰ",
+  "detail": "",
+  "start": 1609171140000,
+  "end": 1609174740000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

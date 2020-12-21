@@ -1,0 +1,26 @@
+{
+  "id": "381jqz02lc",
+  "category": "welfare",
+  "title": "ハートネットＴＶ　Ｂ面談義",
+  "fullTitle": "ハートネットＴＶ　Ｂ面談義[解][字]",
+  "detail": "",
+  "start": 1609239600000,
+  "end": 1609241400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
