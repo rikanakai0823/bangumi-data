@@ -1,0 +1,25 @@
+{
+  "id": "381ocd8680",
+  "category": "news",
+  "title": "ＮＮＮニュース",
+  "fullTitle": "ＮＮＮニュース[字]",
+  "detail": "",
+  "start": 1609295400000,
+  "end": 1609296300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1d9a",
+  "category": "sports",
+  "title": "全国高校ラグビー大会",
+  "fullTitle": "第１００回全国高校ラグビー大会[Ｓ]",
+  "detail": "",
+  "start": 1609326000000,
+  "end": 1609331100000,
+  "seconds": 5100,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 100,
+  "flags": []
+}
