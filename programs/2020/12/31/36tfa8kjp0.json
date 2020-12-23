@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8kjp0",
+  "category": "information",
+  "title": "ＭＸショッピング",
+  "fullTitle": "ＭＸショッピング",
+  "detail": "洗浄魂【洗剤】\n◇おしらせ\n0120-115524",
+  "start": 1609380000000,
+  "end": 1609381800000,
+  "seconds": 1800,
+  "description": "洗浄魂【洗剤】",
+  "extra": {
+    "おしらせ": "0120-115524\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "洗剤",
+  "episode": null,
+  "flags": []
+}
