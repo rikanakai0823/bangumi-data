@@ -1,12 +1,12 @@
 {
   "id": "381f5ks5et",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "title": "ニュース「中継・衆院議運委」▽懇親会　安倍前首相の説明は…",
+  "fullTitle": "ニュース「中継・衆院議運委」▽「桜を見る会」懇親会　安倍前首相の説明は…[字]",
   "detail": "",
   "start": 1608868800000,
-  "end": 1608869100000,
-  "seconds": 300,
+  "end": 1608872400000,
+  "seconds": 3600,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "桜を見る会",
   "episode": null,
   "flags": [
     "字"

@@ -1,12 +1,12 @@
 {
   "id": "381f5ks5fj",
   "category": "news",
-  "title": "ニュース　シブ５時",
-  "fullTitle": "ニュース　シブ５時[二][字]",
-  "detail": "▽最新のニュースをお伝えします。",
+  "title": "ニュース",
+  "fullTitle": "ニュース「菅首相記者会見」[二][字]",
+  "detail": "",
   "start": 1608886800000,
-  "end": 1608887400000,
-  "seconds": 600,
+  "end": 1608888600000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "菅首相記者会見",
   "episode": null,
   "flags": [
     "二",

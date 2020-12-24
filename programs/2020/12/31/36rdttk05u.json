@@ -1,9 +1,9 @@
 {
   "id": "36rdttk05u",
   "category": "sports",
-  "title": "全国高校サッカー開会式",
-  "fullTitle": "全国高校サッカー開会式",
-  "detail": "　",
+  "title": "全国高校サッカー選手権　開会式",
+  "fullTitle": "第９９回全国高校サッカー選手権　開会式",
+  "detail": "全国校の頂点を決める第９９回全国高校サッカー選手権大会がいよいよ開幕！",
   "start": 1609390500000,
   "end": 1609391100000,
   "seconds": 600,
@@ -18,6 +18,6 @@
     "n": 5
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 99,
   "flags": []
 }
