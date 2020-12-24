@@ -1,0 +1,26 @@
+{
+  "id": "381jqz04kz",
+  "category": "variety",
+  "title": "ねほりんぱほりん",
+  "fullTitle": "ねほりんぱほりん[解][字]",
+  "detail": "",
+  "start": 1609428300000,
+  "end": 1609442700000,
+  "seconds": 14400,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

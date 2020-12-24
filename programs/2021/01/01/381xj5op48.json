@@ -1,0 +1,29 @@
+{
+  "id": "381xj5op48",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース[字]",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n堀池亮介（フジテレビアナウンサー）",
+  "start": 1609451700000,
+  "end": 1609452000000,
+  "seconds": 300,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "堀池亮介（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "38224jvxgn",
+  "category": "variety",
+  "title": "おしょうバズＴＶ",
+  "fullTitle": "おしょうバズＴＶ[字]",
+  "detail": "※詳細が決まり次第、お知らせいたします。",
+  "start": 1609470000000,
+  "end": 1609486200000,
+  "seconds": 16200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

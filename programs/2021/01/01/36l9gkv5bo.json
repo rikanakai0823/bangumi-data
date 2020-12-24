@@ -1,0 +1,27 @@
+{
+  "id": "36l9gkv5bo",
+  "category": "information",
+  "title": "ショップチャンネル",
+  "fullTitle": "ショップチャンネル",
+  "detail": "シャープ　プラズマクラスターイオン発生機\n◇番組内容\nシャープ　プラズマクラスターイオン発生機",
+  "start": 1609502400000,
+  "end": 1609506000000,
+  "seconds": 3600,
+  "description": "シャープ　プラズマクラスターイオン発生機",
+  "extra": {
+    "番組内容": "シャープ　プラズマクラスターイオン発生機"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
