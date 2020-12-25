@@ -1,0 +1,25 @@
+{
+  "id": "3826py3itt",
+  "category": "cinema",
+  "title": "新春ロードショー",
+  "fullTitle": "新春ロードショー「トータル・リコール」[二]",
+  "detail": "【出演】コリン・ファレル、ケイト・ベッキンセイル\r\n【監督】レン・ワイズマン\r\n【製作年／国】2012年／アメリカ",
+  "start": 1609518900000,
+  "end": 1609526400000,
+  "seconds": 7500,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "トータル・リコール",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
