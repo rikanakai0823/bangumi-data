@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1djg",
+  "category": "hobby",
+  "title": "日本ふるさと百景",
+  "fullTitle": "日本ふるさと百景[字][Ｓ]",
+  "detail": "神奈川編＃１",
+  "start": 1609745400000,
+  "end": 1609746900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

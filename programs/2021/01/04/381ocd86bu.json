@@ -1,0 +1,25 @@
+{
+  "id": "381ocd86bu",
+  "category": "variety",
+  "title": "ＮＥＴＡ　ＦＥＳＴＩＶＡＬ　ＪＡＰＡＮ",
+  "fullTitle": "ＮＥＴＡ　ＦＥＳＴＩＶＡＬ　ＪＡＰＡＮ[字]",
+  "detail": "",
+  "start": 1609754400000,
+  "end": 1609768440000,
+  "seconds": 14040,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
