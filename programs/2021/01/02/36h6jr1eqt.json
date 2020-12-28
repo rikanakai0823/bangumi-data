@@ -1,12 +1,12 @@
 {
-  "id": "36h6jr1ddt",
+  "id": "36h6jr1eqt",
   "category": "variety",
-  "title": "街美女アルバム",
-  "fullTitle": "街美女アルバム[Ｓ][再]",
-  "detail": "１１ｔｈ　ｓｅａｓｏｎ",
-  "start": 1609524000000,
-  "end": 1609524300000,
-  "seconds": 300,
+  "title": "街美女アルバムセレクション",
+  "fullTitle": "街美女アルバムセレクション[字][Ｓ]",
+  "detail": "２０１８秋",
+  "start": 1609576200000,
+  "end": 1609577100000,
+  "seconds": 900,
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -20,6 +20,6 @@
   "subTitle": "",
   "episode": null,
   "flags": [
-    "再"
+    "字"
   ]
 }
