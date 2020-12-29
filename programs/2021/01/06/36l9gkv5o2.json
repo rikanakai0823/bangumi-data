@@ -1,0 +1,29 @@
+{
+  "id": "36l9gkv5o2",
+  "category": "music",
+  "title": "カラオケ大賞　第１８８１回東京力車",
+  "fullTitle": "カラオケ大賞　第１８８１回[再]【ゲスト】東京力車",
+  "detail": "◇出演者\n吉岡美穂、伊戸のりお",
+  "start": 1609887600000,
+  "end": 1609890900000,
+  "seconds": 3300,
+  "description": " ",
+  "extra": {
+    "出演者": "吉岡美穂、伊戸のりお"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

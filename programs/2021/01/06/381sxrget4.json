@@ -1,0 +1,29 @@
+{
+  "id": "381sxrget4",
+  "category": "news",
+  "title": "有吉ワールドリポート",
+  "fullTitle": "有吉ワールドリポート[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/program/ariyoshi-wr_20210106/",
+  "start": 1609944960000,
+  "end": 1609948500000,
+  "seconds": 3540,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/program/ariyoshi-wr_20210106/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

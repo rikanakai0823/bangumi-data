@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8kksn",
+  "category": "documentary",
+  "title": "ごりやくさん",
+  "fullTitle": "ごりやくさん[再][字]",
+  "detail": "伏見稲荷大社",
+  "start": 1609920480000,
+  "end": 1609921800000,
+  "seconds": 1320,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再",
+    "字"
+  ]
+}
