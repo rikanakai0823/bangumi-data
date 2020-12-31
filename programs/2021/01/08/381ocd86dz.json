@@ -1,0 +1,27 @@
+{
+  "id": "381ocd86dz",
+  "category": "sports",
+  "title": "サッカー★アース",
+  "fullTitle": "サッカー★アース",
+  "detail": "高校サッカー準決勝直前SP\n◇番組内容\n【解説】\r\n【進行】日本テレビアナウンサー\r\n【ゲスト】",
+  "start": 1610036940000,
+  "end": 1610040540000,
+  "seconds": 3600,
+  "description": "高校サッカー準決勝直前SP",
+  "extra": {
+    "番組内容": "【解説】\r\n【進行】日本テレビアナウンサー\r\n【ゲスト】"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

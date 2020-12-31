@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1eav",
+  "category": "anime",
+  "title": "レベルＥ",
+  "fullTitle": "レベルＥ[Ｓ][新]",
+  "detail": "",
+  "start": 1610116200000,
+  "end": 1610118000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
