@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr1eh1",
+  "category": "information",
+  "title": "ＴＶショッピング・テレ玉いちばん本舗",
+  "fullTitle": "ＴＶショッピング・テレ玉いちばん本舗[Ｓ]",
+  "detail": "テレ玉いちばん本舗\n◇番組内容\nダブルワンダーウェーブプレミアム　0120-300-011",
+  "start": 1610284500000,
+  "end": 1610285100000,
+  "seconds": 600,
+  "description": "テレ玉いちばん本舗",
+  "extra": {
+    "番組内容": "ダブルワンダーウェーブプレミアム　0120-300-011"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

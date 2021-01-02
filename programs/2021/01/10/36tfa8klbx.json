@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8klbx",
+  "category": "documentary",
+  "title": "ごりやくさん",
+  "fullTitle": "ごりやくさん[再][字]",
+  "detail": "金刀比羅宮",
+  "start": 1610274120000,
+  "end": 1610275440000,
+  "seconds": 1320,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再",
+    "字"
+  ]
+}
