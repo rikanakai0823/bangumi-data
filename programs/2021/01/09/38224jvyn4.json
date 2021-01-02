@@ -1,12 +1,16 @@
 {
   "id": "38224jvyn4",
   "category": "variety",
-  "title": "中居正広のケ～ザイな会（仮）",
-  "fullTitle": "中居正広のケ～ザイな会（仮）[字]",
-  "detail": "※詳細が決まり次第、お知らせいたします。",
+  "title": "中居正広のケ～ザイな会",
+  "fullTitle": "中居正広のケ～ザイな会[字]",
+  "detail": "◇◇出演者\n中居正広",
   "start": 1610200800000,
   "end": 1610204400000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "◇出演者": "中居正広"
+  },
   "channel": {
     "type": "GR",
     "channel": "24",
