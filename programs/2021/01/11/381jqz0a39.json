@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0a39",
+  "category": "hobby",
+  "title": "ピタゴラスイッチ　ミニ",
+  "fullTitle": "ピタゴラスイッチ　ミニ[字]",
+  "detail": "",
+  "start": 1610317800000,
+  "end": 1610318100000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3826py3j36",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "レース中継を中心に、レース展開には欠かせないパドック情報、競馬界の最新ニュース、さらにインタビューコーナーなど盛りだくさんでお届けする。",
+  "start": 1610344800000,
+  "end": 1610348400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
