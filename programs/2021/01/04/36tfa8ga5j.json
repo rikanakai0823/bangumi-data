@@ -1,12 +1,12 @@
 {
   "id": "36tfa8ga5j",
   "category": "news",
-  "title": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ",
-  "fullTitle": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ",
-  "detail": "東京の様々なニュースをお伝えします。",
-  "start": 1609728900000,
+  "title": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ菅首相記者会見",
+  "fullTitle": "ＴＯＫＹＯ　ＭＸ　ＮＥＷＳ菅首相記者会見",
+  "detail": "",
+  "start": 1609725600000,
   "end": 1609729200000,
-  "seconds": 300,
+  "seconds": 3600,
   "channel": {
     "type": "GR",
     "channel": "16",
