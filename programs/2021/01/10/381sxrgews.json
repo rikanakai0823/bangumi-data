@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "さんま・玉緒のお年玉！あんたの夢をかなえたろかＳＰ２０２１",
   "fullTitle": "さんま・玉緒のお年玉！あんたの夢をかなえたろかＳＰ２０２１[字]",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/yume-sp/",
   "start": 1610271000000,
   "end": 1610283600000,
   "seconds": 12600,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/yume-sp/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
