@@ -1,12 +1,12 @@
 {
   "id": "381f5kscrx",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース▽緊急事態宣言めぐって",
+  "fullTitle": "ニュース「中継・衆議院議院運営委員会」▽緊急事態宣言めぐって[字]",
   "detail": "",
   "start": 1609999200000,
-  "end": 1609999620000,
-  "seconds": 420,
+  "end": 1610001600000,
+  "seconds": 2400,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "中継・衆議院議院運営委員会",
   "episode": null,
   "flags": [
     "字"

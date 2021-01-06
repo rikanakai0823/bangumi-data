@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "ビーチ９",
   "fullTitle": "ビーチ９[Ｓ]",
-  "detail": "週末爽快バラエティ！！",
+  "detail": "週末爽快バラエティ！！\n◇出演者\n新ＭＣ：吉良りん（きら　りん）",
   "start": 1610203500000,
   "end": 1610204400000,
   "seconds": 900,
+  "description": "週末爽快バラエティ！！",
+  "extra": {
+    "出演者": "新ＭＣ：吉良りん（きら　りん）"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
