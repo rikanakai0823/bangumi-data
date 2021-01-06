@@ -2,11 +2,15 @@
   "id": "36tfa8gbaf",
   "category": "drama",
   "title": "マーダーミステリードラマ",
-  "fullTitle": "マーダーミステリードラマ「アオイウソ」",
-  "detail": " ",
+  "fullTitle": "マーダーミステリードラマ「アオイウソ～告白の放課後～」",
+  "detail": "◇おしらせ\n【番組ホームページ】www.aoiuso.com\r\n【twitter】https://twitter.com/aoiuso_drama",
   "start": 1610461800000,
   "end": 1610463600000,
   "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "おしらせ": "【番組ホームページ】www.aoiuso.com\r\n【twitter】https://twitter.com/aoiuso_drama"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "アオイウソ",
+  "subTitle": "アオイウソ～告白の放課後～",
   "episode": null,
   "flags": []
 }
