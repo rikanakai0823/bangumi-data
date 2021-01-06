@@ -2,11 +2,15 @@
   "id": "36h6jr1fbu",
   "category": "news",
   "title": "ＴＥＬＥＴＡＭＡ  ＮＥＷＳ",
-  "fullTitle": "ＴＥＬＥＴＡＭＡ  ＮＥＷＳ",
-  "detail": "",
+  "fullTitle": "ＴＥＬＥＴＡＭＡ  ＮＥＷＳ[Ｓ]",
+  "detail": "◇出演者\n宮田愛子（テレ玉アナウンサー）",
   "start": 1610009400000,
   "end": 1610011800000,
   "seconds": 2400,
+  "description": "",
+  "extra": {
+    "出演者": "宮田愛子（テレ玉アナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
