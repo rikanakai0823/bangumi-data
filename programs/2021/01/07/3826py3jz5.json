@@ -1,0 +1,25 @@
+{
+  "id": "3826py3jz5",
+  "category": "news",
+  "title": "報道特番",
+  "fullTitle": "報道特番[字]",
+  "detail": "番組を変更して報道特番をお送りします",
+  "start": 1610009700000,
+  "end": 1610011500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
