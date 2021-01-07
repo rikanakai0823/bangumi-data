@@ -2,11 +2,11 @@
   "id": "381f5kscsk",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース[二][字]",
+  "fullTitle": "ニュース「菅首相記者会見」[二][字]",
   "detail": "",
   "start": 1610010000000,
-  "end": 1610010600000,
-  "seconds": 600,
+  "end": 1610011800000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "菅首相記者会見",
   "episode": null,
   "flags": [
     "二",
