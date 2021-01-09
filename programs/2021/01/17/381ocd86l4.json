@@ -1,0 +1,25 @@
+{
+  "id": "381ocd86l4",
+  "category": "variety",
+  "title": "サンバリュ",
+  "fullTitle": "サンバリュ「変幻自在　スクイーズ」[字]",
+  "detail": "",
+  "start": 1610855100000,
+  "end": 1610858700000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "変幻自在　スクイーズ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

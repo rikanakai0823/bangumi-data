@@ -1,0 +1,30 @@
+{
+  "id": "36h6jr1e9a",
+  "category": "variety",
+  "title": "いろはに千鳥",
+  "fullTitle": "いろはに千鳥[字][Ｓ][再]",
+  "detail": "いろはに千鳥卓球大会  開幕！\n◇出演者\n千鳥（大悟　ノブ）",
+  "start": 1610856000000,
+  "end": 1610857800000,
+  "seconds": 1800,
+  "description": "いろはに千鳥卓球大会  開幕！",
+  "extra": {
+    "出演者": "千鳥（大悟　ノブ）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
