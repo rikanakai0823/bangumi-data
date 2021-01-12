@@ -1,0 +1,29 @@
+{
+  "id": "36l9gkv6sm",
+  "category": "music",
+  "title": "カラオケ大賞　第１８８３回蘭華",
+  "fullTitle": "カラオケ大賞　第１８８３回【ゲスト】蘭華[再]",
+  "detail": "【ゲスト】蘭華\n◇出演者\n吉岡美穂、伊戸のりお",
+  "start": 1611097200000,
+  "end": 1611100500000,
+  "seconds": 3300,
+  "description": "【ゲスト】蘭華",
+  "extra": {
+    "出演者": "吉岡美穂、伊戸のりお"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
