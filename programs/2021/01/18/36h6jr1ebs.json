@@ -3,10 +3,15 @@
   "category": "music",
   "title": "Ｖ－Ｃｌｉｐｓ",
   "fullTitle": "Ｖ－Ｃｌｉｐｓ[Ｓ]",
-  "detail": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！",
+  "detail": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！\n◇番組内容\n渡辺あゆ香「花束」souzoucity「愛語りな一手」TEAM SHACHI 「JIBUNGOTO 」中澤卓也「約束」\n◇出演者\n渡辺あゆ香・souzoucity・TEAM SHACHI ・中澤卓也",
   "start": 1610919000000,
   "end": 1610920200000,
   "seconds": 1200,
+  "description": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！",
+  "extra": {
+    "番組内容": "渡辺あゆ香「花束」souzoucity「愛語りな一手」TEAM SHACHI 「JIBUNGOTO 」中澤卓也「約束」",
+    "出演者": "渡辺あゆ香・souzoucity・TEAM SHACHI ・中澤卓也"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
