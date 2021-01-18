@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr1fw9",
+  "category": "information",
+  "title": "テレビショッピング・ショップジャパン",
+  "fullTitle": "テレビショッピング・ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nクッキングプロ　0120-44-0027、楽ちんヒアリング　0120-44-0027",
+  "start": 1611381600000,
+  "end": 1611384900000,
+  "seconds": 3300,
+  "description": "",
+  "extra": {
+    "番組内容": "クッキングプロ　0120-44-0027、楽ちんヒアリング　0120-44-0027"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

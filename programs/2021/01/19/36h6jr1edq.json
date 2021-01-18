@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "知事定例記者会見",
   "fullTitle": "知事定例記者会見",
-  "detail": "",
+  "detail": "▽「知事発表」○新型コロナウイルス感染症対策について\n◇番組内容\n▽「幹事社質問（共同通信社）」○通常国会において期待する議論について",
   "start": 1611032340000,
   "end": 1611034200000,
   "seconds": 1860,
+  "description": "▽「知事発表」○新型コロナウイルス感染症対策について",
+  "extra": {
+    "番組内容": "▽「幹事社質問（共同通信社）」○通常国会において期待する議論について"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 12
   },
-  "subTitle": "",
+  "subTitle": "知事発表",
   "episode": null,
   "flags": []
 }
