@@ -1,0 +1,30 @@
+{
+  "id": "38224jw2e8",
+  "category": "variety",
+  "title": "ネオバズ！！　マッドマックスＴＶ",
+  "fullTitle": "ネオバズ！！　マッドマックスＴＶ[字]",
+  "detail": "かまいたちが“何が起きるか分からない”生放送に挑戦！\n◇◇出演者\n【ＭＣ】かまいたち\n◇◇おしらせ\n☆『ネオバズ!!』ＨＰ\r\n　https://www.tv-asahi.co.jp/neobuzz/",
+  "start": 1611674400000,
+  "end": 1611678000000,
+  "seconds": 3600,
+  "description": "かまいたちが“何が起きるか分からない”生放送に挑戦！",
+  "extra": {
+    "◇出演者": "【ＭＣ】かまいたち",
+    "◇おしらせ": "☆『ネオバズ!!』ＨＰ\r\n　https://www.tv-asahi.co.jp/neobuzz/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
