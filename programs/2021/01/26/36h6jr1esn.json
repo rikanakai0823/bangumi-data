@@ -3,10 +3,15 @@
   "category": "music",
   "title": "Ｖ－Ｃｌｉｐｓ",
   "fullTitle": "Ｖ－Ｃｌｉｐｓ[Ｓ]",
-  "detail": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！",
+  "detail": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！\n◇番組内容\nソナーポケット「８０億分の１」predia「BAD HABIT 」Keishi Tanaka 「One Love（AVENUE Version）」れみふぁ＃「永遠求ム」\n◇出演者\nソナーポケット・predia・Keishi Tanaka ・れみふぁ＃",
   "start": 1611610200000,
   "end": 1611611400000,
   "seconds": 1200,
+  "description": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！",
+  "extra": {
+    "番組内容": "ソナーポケット「８０億分の１」predia「BAD HABIT 」Keishi Tanaka 「One Love（AVENUE Version）」れみふぁ＃「永遠求ム」",
+    "出演者": "ソナーポケット・predia・Keishi Tanaka ・れみふぁ＃"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
