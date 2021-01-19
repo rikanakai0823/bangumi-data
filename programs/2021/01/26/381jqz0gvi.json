@@ -2,7 +2,7 @@
   "id": "381jqz0gvi",
   "category": "documentary",
   "title": "僕に、私に、できること",
-  "fullTitle": "僕に、私に、できること",
+  "fullTitle": "僕に、私に、できること[字]",
   "detail": "",
   "start": 1611633000000,
   "end": 1611633300000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

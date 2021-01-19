@@ -1,0 +1,25 @@
+{
+  "id": "38224jw208",
+  "category": "variety",
+  "title": "スペシャルサンデー第１部",
+  "fullTitle": "スペシャルサンデー第１部[字]",
+  "detail": "次世代を担うバラエティを中心に、旅・グルメ・情報などのスペシャル番組を放送！日曜の午前中にふさわしい作品をお届けします。",
+  "start": 1611453300000,
+  "end": 1611456600000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
