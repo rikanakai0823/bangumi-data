@@ -2,7 +2,7 @@
   "id": "36l9gkv74g",
   "category": "variety",
   "title": "ミクチャＴＶ",
-  "fullTitle": "ミクチャＴＶ",
+  "fullTitle": "ミクチャＴＶ[再]",
   "detail": "◇番組内容\nLIVE配信動画投稿コミュニティアプリ「MixChannel」で話題の様々なジャンルをまとめたレギュラー番組。",
   "start": 1611500400000,
   "end": 1611502200000,
@@ -23,5 +23,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }
