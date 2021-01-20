@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksr27",
-  "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "id": "381f5ksr3d",
+  "category": "information",
+  "title": "プレマップ",
+  "fullTitle": "プレマップ",
   "detail": "",
-  "start": 1611216000000,
-  "end": 1611216300000,
-  "seconds": 300,
+  "start": 1611159960000,
+  "end": 1611160200000,
+  "seconds": 240,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
