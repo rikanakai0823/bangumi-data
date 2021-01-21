@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ニュース５４５",
   "fullTitle": "ニュース５４５[Ｓ]",
-  "detail": "",
+  "detail": "◇出演者\n塩原桜（テレ玉アナウンサー）",
   "start": 1611564300000,
   "end": 1611566100000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "塩原桜（テレ玉アナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

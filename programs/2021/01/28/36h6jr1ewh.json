@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ニュース１１５５",
   "fullTitle": "ニュース１１５５[Ｓ]",
-  "detail": "",
+  "detail": "◇出演者\n荒木優里（テレ玉アナウンサー）",
   "start": 1611802500000,
   "end": 1611802800000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "出演者": "荒木優里（テレ玉アナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
