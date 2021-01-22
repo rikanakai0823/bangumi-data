@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0n6r",
+  "category": "music",
+  "title": "至芸競演",
+  "fullTitle": "至芸競演[字]",
+  "detail": "",
+  "start": 1611982800000,
+  "end": 1611990000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
