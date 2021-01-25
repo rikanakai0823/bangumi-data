@@ -1,0 +1,25 @@
+{
+  "id": "381f5kst27",
+  "category": "information",
+  "title": "キャッチアップ！よるドラ５分紹介",
+  "fullTitle": "キャッチアップ！よるドラ「ここは今から倫理です。」５分紹介[字]",
+  "detail": "",
+  "start": 1612201020000,
+  "end": 1612201320000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "ここは今から倫理です。",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
