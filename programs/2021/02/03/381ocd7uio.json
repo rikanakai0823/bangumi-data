@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7uio",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「笑コラ・今くら」[字]",
+  "detail": "",
+  "start": 1612353240000,
+  "end": 1612353600000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "笑コラ・今くら",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
