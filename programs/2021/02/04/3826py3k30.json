@@ -1,0 +1,23 @@
+{
+  "id": "3826py3k30",
+  "category": "music",
+  "title": "ミュージックブレイク",
+  "fullTitle": "ミュージックブレイク",
+  "detail": "普段は見られないアーティストの素顔にフォーカス！摩訶不思議な世界観と共にお楽しみください。",
+  "start": 1612376400000,
+  "end": 1612376700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
