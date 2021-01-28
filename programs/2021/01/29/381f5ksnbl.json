@@ -2,11 +2,11 @@
   "id": "381f5ksnbl",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース[字]",
-  "detail": "",
+  "fullTitle": "ニュース「新型コロナ対策特措法・感染症法改正案審議」[字]",
+  "detail": "新型コロナ対策特措法・感染症法などの改正案国会で審議がスタート▽趣旨説明・与野党質疑▽改正案のポイントは？",
   "start": 1611892800000,
-  "end": 1611893100000,
-  "seconds": 300,
+  "end": 1611900000000,
+  "seconds": 7200,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "新型コロナ対策特措法・感染症法改正案審議",
   "episode": null,
   "flags": [
     "字"
