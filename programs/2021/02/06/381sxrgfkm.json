@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgfkm",
+  "category": "variety",
+  "title": "クイズ！オンリー１",
+  "fullTitle": "クイズ！オンリー１[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/quizonlyone_20210206/",
+  "start": 1612605300000,
+  "end": 1612612800000,
+  "seconds": 7500,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/quizonlyone_20210206/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
