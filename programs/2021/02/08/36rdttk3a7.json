@@ -1,0 +1,23 @@
+{
+  "id": "36rdttk3a7",
+  "category": "documentary",
+  "title": "Ｔリーグ中継",
+  "fullTitle": "Ｔリーグ中継",
+  "detail": "　",
+  "start": 1612778400000,
+  "end": 1612787400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

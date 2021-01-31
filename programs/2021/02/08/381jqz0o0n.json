@@ -1,0 +1,26 @@
+{
+  "id": "381jqz0o0n",
+  "category": "welfare",
+  "title": "ハートネットＴＶ　パラマニア２０２０",
+  "fullTitle": "ハートネットＴＶ　パラマニア２０２０[解][字]",
+  "detail": "",
+  "start": 1612782000000,
+  "end": 1612783800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
