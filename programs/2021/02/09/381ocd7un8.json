@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7un8",
+  "category": "sports",
+  "title": "ＮＦＬスーパーボウル",
+  "fullTitle": "第５５回ＮＦＬスーパーボウル",
+  "detail": "",
+  "start": 1612800240000,
+  "end": 1612805940000,
+  "seconds": 5700,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 55,
+  "flags": []
+}
