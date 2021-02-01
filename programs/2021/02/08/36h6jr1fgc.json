@@ -3,10 +3,15 @@
   "category": "music",
   "title": "Ｖ－Ｃｌｉｐｓ",
   "fullTitle": "Ｖ－Ｃｌｉｐｓ[Ｓ]",
-  "detail": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！",
+  "detail": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！\n◇番組内容\nTWICE 「BETTER」 KREVA「Fall in Love Again feat.三浦大知」Seven Billion Dots「Fingers Crossed 」THE COLLECTORS「お願いマーシー」大原櫻子「透ケルトン」\n◇出演者\nTWICE ・KREVA ・Seven Billion Dots・THE COLLECTORS・大原櫻子",
   "start": 1612733400000,
   "end": 1612734600000,
   "seconds": 1200,
+  "description": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！",
+  "extra": {
+    "番組内容": "TWICE 「BETTER」 KREVA「Fall in Love Again feat.三浦大知」Seven Billion Dots「Fingers Crossed 」THE COLLECTORS「お願いマーシー」大原櫻子「透ケルトン」",
+    "出演者": "TWICE ・KREVA ・Seven Billion Dots・THE COLLECTORS・大原櫻子"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
