@@ -1,0 +1,25 @@
+{
+  "id": "idp00ha",
+  "category": "information",
+  "title": "未来スイッチ",
+  "fullTitle": "未来スイッチ「一息つける時間　子育ての中に」[字]",
+  "detail": "子育てに悩む母たちが描くマンガが話題だ。クスッと笑えながらでもぎりぎりのこところで踏みとどまっている実態がわかる。そんな母親たちを支える動きが始まっている。",
+  "start": 1612888920000,
+  "end": 1612889100000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "一息つける時間　子育ての中に",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

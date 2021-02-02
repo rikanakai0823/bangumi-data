@@ -1,0 +1,25 @@
+{
+  "id": "iduwebc",
+  "category": "cinema",
+  "title": "Ｕターン",
+  "fullTitle": "[映]Ｕターン【いまジェニファー・ロペスが観たい！】",
+  "detail": "オリヴァー・ストーン監督のサスペンススリラー。車の故障によって迷い込んだ小さな町で、住民たちの欲望に翻弄される男を描く。",
+  "start": 1612933200000,
+  "end": 1612941300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "いまジェニファー・ロペスが観たい！",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

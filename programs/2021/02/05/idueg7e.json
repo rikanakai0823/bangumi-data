@@ -1,0 +1,25 @@
+{
+  "id": "idueg7e",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６６５",
+  "detail": "",
+  "start": 1612486200000,
+  "end": 1612486800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 665,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm3vjb",
+  "category": "sports",
+  "title": "サンフレッチェTV",
+  "fullTitle": "[無]サンフレッチェTV #100",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nサンフレッチェ広島のクラブ応援番組。スーパーマーケットで森崎浩司アンバサダーが開店準備をサンチェと一緒にお手伝い。",
+  "start": 1612706400000,
+  "end": 1612707600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 100,
+  "flags": [
+    "無"
+  ]
+}

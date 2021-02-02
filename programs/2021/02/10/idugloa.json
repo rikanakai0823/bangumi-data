@@ -1,0 +1,27 @@
+{
+  "id": "idugloa",
+  "category": "cinema",
+  "title": "天空の蜂",
+  "fullTitle": "[映]天空の蜂[SS][字]",
+  "detail": "テロリストはジャックしたヘリを高速増殖炉に墜落させて大事故を起こすと当局を脅すが……。江口洋介、本木雅弘、仲間由紀恵らが共演。堤幸彦監督の社会派サスペンス大作。",
+  "start": 1612925100000,
+  "end": 1612934100000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

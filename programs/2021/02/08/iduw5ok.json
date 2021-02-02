@@ -1,0 +1,26 @@
+{
+  "id": "iduw5ok",
+  "category": "cinema",
+  "title": "ＴＩＭＥ／タイム",
+  "fullTitle": "[映][SS]ＴＩＭＥ／タイム",
+  "detail": "２５歳で成長が止まり、時間が通貨となった世界で、殺人犯として追われながら世界の真実に迫る青年の姿を描いたＳＦサスペンス。",
+  "start": 1612713600000,
+  "end": 1612720800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm3vj5",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "URAWA CHANNEL NEXT #24",
+  "detail": "浦和レッズのクラブ応援番組。今回はレッズ在籍7年目の西川周作選手と、在籍9年目の槙野智章選手をピックアップ。",
+  "start": 1612416600000,
+  "end": 1612418400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 24,
+  "flags": []
+}

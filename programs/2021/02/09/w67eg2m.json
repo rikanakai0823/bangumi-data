@@ -1,0 +1,23 @@
+{
+  "id": "w67eg2m",
+  "category": "music",
+  "title": "スペシャのプレイリスト/MUSICIAN'S SELECT ～selected by Kroi～",
+  "fullTitle": "スペシャのプレイリスト/MUSICIAN'S SELECT ～selected by Kroi～",
+  "detail": "スペースシャワーがおススメするプレイリストをオンエア！あんな時こんな時に聴きたい楽曲をテーマに合わせてお届け！",
+  "start": 1612796400000,
+  "end": 1612800000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 122
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

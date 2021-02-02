@@ -1,0 +1,29 @@
+{
+  "id": "idwslbb",
+  "category": "hobby",
+  "title": "Webのしくみと応用",
+  "fullTitle": "Webのしくみと応用　第15回",
+  "detail": "「WoT時代のWeb」\n◇番組内容\nWebサイトは必ずしもPC上で動作するWebブラウザからアクセスされるものではない。Web上で提供されるサービスをAPI経由で利用する方式や、モノのWeb化に伴い、デバイスが相互にWebの標準技術を使って直接通信するネットワークで適用されるアーキテクチャについて解説する。\n◇キーワード\nIoT、WoT、Web API、REST、ROA\n◇出演者\n青山学院大学准教授　伊藤　一成",
+  "start": 1612394100000,
+  "end": 1612396800000,
+  "seconds": 2700,
+  "description": "「WoT時代のWeb」",
+  "extra": {
+    "番組内容": "Webサイトは必ずしもPC上で動作するWebブラウザからアクセスされるものではない。Web上で提供されるサービスをAPI経由で利用する方式や、モノのWeb化に伴い、デバイスが相互にWebの標準技術を使って直接通信するネットワークで適用されるアーキテクチャについて解説する。",
+    "キーワード": "IoT、WoT、Web API、REST、ROA",
+    "出演者": "青山学院大学准教授　伊藤　一成"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "WoT時代のWeb",
+  "episode": 15,
+  "flags": []
+}

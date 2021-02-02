@@ -1,0 +1,26 @@
+{
+  "id": "iduy0iv",
+  "category": "cinema",
+  "title": "ホワイト・ボイス",
+  "fullTitle": "[映][SS]ホワイト・ボイス",
+  "detail": "電話営業の職を得た黒人青年が出世してゆく姿を、野心的な映像表現と痛烈な社会風刺を交えて描いたブラックコメディ。",
+  "start": 1612415700000,
+  "end": 1612422900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

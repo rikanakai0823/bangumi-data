@@ -1,0 +1,23 @@
+{
+  "id": "rktexit",
+  "category": "music",
+  "title": "Mnetライブ",
+  "fullTitle": "Mnetライブ 【IZ*ONE】",
+  "detail": "「EYES ON ME : THE MOVIE」TV初放送記念！日韓で大人気のIZ*ONE！彼女らのライブパフォーマンスをまとめてお届け！\r\n2021年\r\n※再放送情報はMnet HPをご確認ください",
+  "start": 1612949400000,
+  "end": 1612951200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "IZ*ONE",
+  "episode": null,
+  "flags": []
+}

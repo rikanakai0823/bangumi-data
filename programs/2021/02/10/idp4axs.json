@@ -1,0 +1,25 @@
+{
+  "id": "idp4axs",
+  "category": "documentary",
+  "title": "知床　命めぐる四季",
+  "fullTitle": "知床　命めぐる四季[字]",
+  "detail": "世界自然遺産・知床の海には豊かな生態系が広がる。流氷が覆う冬。クジラたちが集まる春。カラフトマスが帰ってくる夏。四季折々、知床の海にきらめく命を見つめる。",
+  "start": 1612892700000,
+  "end": 1612893600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

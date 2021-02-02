@@ -1,0 +1,23 @@
+{
+  "id": "rks384q",
+  "category": "information",
+  "title": "【無料】TBSチャンネルショッピング",
+  "fullTitle": "【無料】TBSチャンネルショッピング",
+  "detail": "選りすぐりの商品をご紹介します！",
+  "start": 1612642200000,
+  "end": 1612644000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 104
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

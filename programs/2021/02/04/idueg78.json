@@ -1,0 +1,26 @@
+{
+  "id": "idueg78",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]邦楽ＢＲＥＡＫ　＃６６２",
+  "detail": "",
+  "start": 1612442700000,
+  "end": 1612443600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 662,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

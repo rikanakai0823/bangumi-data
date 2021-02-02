@@ -1,0 +1,26 @@
+{
+  "id": "iduglo9",
+  "category": "cinema",
+  "title": "シャイニング（字幕版）[R-15指定]",
+  "fullTitle": "[映]シャイニング（字幕版）[R-15指定][SS]",
+  "detail": "人気作家Ｓ・キングのベストセラーを巨匠Ｓ・キューブリック監督が映画化した戦慄のホラー。氷雪に閉ざされたホテルで、管理人一家を襲う惨劇をスリリングかつ華麗に描写。",
+  "start": 1612916400000,
+  "end": 1612925100000,
+  "seconds": 8700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

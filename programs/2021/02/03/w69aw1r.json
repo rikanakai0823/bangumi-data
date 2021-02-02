@@ -1,0 +1,25 @@
+{
+  "id": "w69aw1r",
+  "category": "news",
+  "title": "アーリー・スタート",
+  "fullTitle": "[二]アーリー・スタート",
+  "detail": "日本語同時通訳付。\r\nC・ローマンズとL・ジャレットの女性アンカーコンビがお届けする、朝一番のニュース・ワイド。これを見れば、アメリカの「今」が一目でわかります。",
+  "start": 1612346400000,
+  "end": 1612350000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

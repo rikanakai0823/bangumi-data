@@ -1,0 +1,25 @@
+{
+  "id": "idozvve",
+  "category": "news",
+  "title": "キャッチ！世界のトップニュース",
+  "fullTitle": "キャッチ！世界のトップニュース[二]",
+  "detail": "▽特集：核軍縮条約延長で米ロが基本合意・プーチン大統領の思惑は・国内情勢は米ロ関係にどう影響▽各国放送局の最新ニュース▽ＮＹ経済情報　※内容変更の場合あり",
+  "start": 1612306800000,
+  "end": 1612309800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

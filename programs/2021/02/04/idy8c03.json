@@ -1,0 +1,25 @@
+{
+  "id": "idy8c03",
+  "category": "drama",
+  "title": "アンディ・マック",
+  "fullTitle": "アンディ・マック#28[二]",
+  "detail": "#28「選んだもの」",
+  "start": 1612443600000,
+  "end": 1612445400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "選んだもの",
+  "episode": 28,
+  "flags": [
+    "二"
+  ]
+}

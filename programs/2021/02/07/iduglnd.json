@@ -1,0 +1,27 @@
+{
+  "id": "iduglnd",
+  "category": "cinema",
+  "title": "Ｆｕｋｕｓｈｉｍａ　５０",
+  "fullTitle": "[映]Ｆｕｋｕｓｈｉｍａ　５０[SS][字]",
+  "detail": "東日本大震災の影響で起きた、福島第一原子力発電所の事故。オールスターキャストの豪華共演で、当時、同原発で事態の収拾に挑んだ人々の悪戦苦闘や苦悩に迫った実話大作。",
+  "start": 1612694700000,
+  "end": 1612702800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

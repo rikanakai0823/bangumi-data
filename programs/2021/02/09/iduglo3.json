@@ -1,0 +1,27 @@
+{
+  "id": "iduglo3",
+  "category": "cinema",
+  "title": "一週間フレンズ。",
+  "fullTitle": "[映]一週間フレンズ。[SS][字]",
+  "detail": "葉月抹茶のコミックを映画化、切ない恋を爽やかに描いた青春ラブストーリー。友達に関する記憶を１週間で無くしてしまうヒロインと、彼女を想い続ける男子の恋の行方は？",
+  "start": 1612863900000,
+  "end": 1612872000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

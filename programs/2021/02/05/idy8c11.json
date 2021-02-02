@@ -1,0 +1,25 @@
+{
+  "id": "idy8c11",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#5[二]",
+  "detail": "#5「Ｔポッドを回収せよ！」",
+  "start": 1612501200000,
+  "end": 1612503000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "Ｔポッドを回収せよ！",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

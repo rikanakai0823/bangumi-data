@@ -1,0 +1,26 @@
+{
+  "id": "iduglmg",
+  "category": "cinema",
+  "title": "日本統一３",
+  "fullTitle": "[映]日本統一３[字]",
+  "detail": "極道社会に飛び込んだ２人の男を軸に、日本極道界統一へ向けて群雄割拠する男たちのドラマを描いたシリーズ第３作。侠和会の内部抗争はついに血で血を洗う死闘に発展する。",
+  "start": 1612486200000,
+  "end": 1612490700000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

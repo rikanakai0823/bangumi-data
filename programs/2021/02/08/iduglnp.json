@@ -1,0 +1,27 @@
+{
+  "id": "iduglnp",
+  "category": "cinema",
+  "title": "一度死んでみた",
+  "fullTitle": "[映]一度死んでみた[SS][字]",
+  "detail": "広瀬すずが父親嫌いのデスメタル女子を演じる痛快コメディ。社長である父親が２日間だけ死ぬ薬を飲んでしまい、娘は若手社員とともに会社合併の陰謀を阻止すべく奔走する。",
+  "start": 1612773000000,
+  "end": 1612779300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iducai2",
+  "category": "cinema",
+  "title": "はやぶさ／ＨＡＹＡＢＵＳＡ",
+  "fullTitle": "[映]はやぶさ／ＨＡＹＡＢＵＳＡ[SS][字]",
+  "detail": "小惑星探査機“はやぶさ”の軌跡と、亡き兄の思いを胸に科学者を目指す女性の成長を描写。大手映画会社３社が競作した“はやぶさ”映画の１本で竹内結子、西田敏行ら共演。",
+  "start": 1612286100000,
+  "end": 1612294800000,
+  "seconds": 8700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

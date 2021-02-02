@@ -1,0 +1,26 @@
+{
+  "id": "idvjm8h",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【小倉】12Ｒ「平尾台特別」\r\n【中京】12Ｒ\r\n【東京】12Ｒ\r\n★もしもし 突然ですが東です\r\n★おうまのＱ\r\n★東スポ・藤井記者の激アツ取材",
+  "start": 1612681200000,
+  "end": 1612686600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rktexii",
+  "category": "music",
+  "title": "M COUNTDOWN バックステージ",
+  "fullTitle": "M COUNTDOWN バックステージ",
+  "detail": "出演：AB6IX、VICTON、(G)I-DLE、ONEUS、Cherry Bullet ほか\r\n【2021年1月21日M COUNTDOWN】\r\n再：（月)12:00（木)17:00（土)深4:00",
+  "start": 1612753200000,
+  "end": 1612756800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

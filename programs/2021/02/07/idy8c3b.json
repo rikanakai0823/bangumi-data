@@ -1,0 +1,26 @@
+{
+  "id": "idy8c3b",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "[無]ツムツム#20[解]",
+  "detail": "#20「ツムツムーン」",
+  "start": 1612661220000,
+  "end": 1612661400000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ツムツムーン",
+  "episode": 20,
+  "flags": [
+    "無",
+    "解"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp48n9",
+  "category": "hobby",
+  "title": "ねこ育て",
+  "fullTitle": "ねこ育て[字][再]",
+  "detail": "子猫を飼い始めたばかりのお宅にカメラを置かせてもらい、その様子をのぞき見。家族もドキドキ、子猫もドキドキ。少しずつ家族になっていく様子に、心もほんわかします！",
+  "start": 1612568700000,
+  "end": 1612572300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

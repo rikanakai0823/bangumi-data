@@ -1,0 +1,25 @@
+{
+  "id": "idv08og",
+  "category": "drama",
+  "title": "ミスター・メルセデス３",
+  "fullTitle": "ミスター・メルセデス３　＃１[二]",
+  "detail": "【レギュラー放送スタート】",
+  "start": 1612494000000,
+  "end": 1612498500000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "レギュラー放送スタート",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

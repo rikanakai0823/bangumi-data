@@ -1,0 +1,27 @@
+{
+  "id": "idwslcw",
+  "category": "hobby",
+  "title": "フランス語Ⅰ",
+  "fullTitle": "フランス語Ⅰ　第12回",
+  "detail": "「約束の準備」\n◇出演者\n東京大学教授　パトリック・ドゥヴォス\r\n東京大学准教授　桑田　光平",
+  "start": 1612332000000,
+  "end": 1612334700000,
+  "seconds": 2700,
+  "description": "「約束の準備」",
+  "extra": {
+    "出演者": "東京大学教授　パトリック・ドゥヴォス\r\n東京大学准教授　桑田　光平"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "約束の準備",
+  "episode": 12,
+  "flags": []
+}

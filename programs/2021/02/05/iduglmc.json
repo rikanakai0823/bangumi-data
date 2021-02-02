@@ -1,0 +1,26 @@
+{
+  "id": "iduglmc",
+  "category": "cinema",
+  "title": "ホテル・ムンバイ（字幕版）[R15+指定]",
+  "fullTitle": "[映]ホテル・ムンバイ（字幕版）[R15+指定][SS]",
+  "detail": "２００８年にインドのムンバイで起きた同時多発テロ事件。同地のタージマハルホテルでの惨劇を、迫力たっぷりに再現した緊迫編。同じ題材の「パレス・ダウン」も作られた。",
+  "start": 1612460700000,
+  "end": 1612468800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "パレス・ダウン",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

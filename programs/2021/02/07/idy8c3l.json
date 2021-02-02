@@ -1,0 +1,26 @@
+{
+  "id": "idy8c3l",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "[無]ダックテイルズ#59[二]",
+  "detail": "#59「地球を楽しめペナンブラ！」",
+  "start": 1612679400000,
+  "end": 1612681200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "地球を楽しめペナンブラ！",
+  "episode": 59,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

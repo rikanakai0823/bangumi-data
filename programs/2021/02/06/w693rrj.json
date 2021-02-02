@@ -1,0 +1,25 @@
+{
+  "id": "w693rrj",
+  "category": "news",
+  "title": "イブニングニュース",
+  "fullTitle": "イブニングニュース[字]",
+  "detail": "最新ニュースはもちろん、今日これまでのニュースを詳しく・列島リポート・気象予報士があすの天気を解説します。",
+  "start": 1612594800000,
+  "end": 1612612800000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

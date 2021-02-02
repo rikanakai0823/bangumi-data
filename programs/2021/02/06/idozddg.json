@@ -1,0 +1,25 @@
+{
+  "id": "idozddg",
+  "category": "documentary",
+  "title": "ＮＨＫスペシャル",
+  "fullTitle": "ＮＨＫスペシャル「オランウータン　いのちの学校」[字]",
+  "detail": "絶滅の危機にあるオランウータン。森林破壊や密猟等で親を失った孤児たちを保護し、人間が親代わりになって野生で生きる術を教える学校がある。森へ返す日までを見つめた。",
+  "start": 1612591200000,
+  "end": 1612594200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "オランウータン　いのちの学校",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

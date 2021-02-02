@@ -1,0 +1,27 @@
+{
+  "id": "idv037g",
+  "category": "cinema",
+  "title": "メン・イン・ブラック：インターナショナル",
+  "fullTitle": "[映][SS][字]メン・イン・ブラック：インターナショナル[吹]",
+  "detail": "地球で暮らすエイリアンを取り締まるＭＩＢのロンドン支部を舞台に、エージェントコンビの活躍を描く人気ＳＦシリーズ第４弾。",
+  "start": 1612360800000,
+  "end": 1612368000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

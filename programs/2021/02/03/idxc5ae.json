@@ -1,0 +1,25 @@
+{
+  "id": "idxc5ae",
+  "category": "information",
+  "title": "本日の番宣スポットすべて見せます",
+  "fullTitle": "[無]本日の番宣スポットすべて見せます",
+  "detail": "",
+  "start": 1612314000000,
+  "end": 1612315800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

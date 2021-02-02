@@ -1,0 +1,25 @@
+{
+  "id": "w693rrz",
+  "category": "news",
+  "title": "ミッドナイトニュース",
+  "fullTitle": "ミッドナイトニュース[字]",
+  "detail": "世界の様々な動きがわかる。一番の関心事を詳しくお届けします。",
+  "start": 1612623600000,
+  "end": 1612625400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

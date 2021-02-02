@@ -1,0 +1,23 @@
+{
+  "id": "rlm3vhm",
+  "category": "sports",
+  "title": "World's Strongest Man2019",
+  "fullTitle": "World's Strongest Man2019 #6　決勝",
+  "detail": "世界最強の称号をかけて、世界中の力自慢が集結。いよいよ舞台はファイナル！最強の男は誰だ？",
+  "start": 1612945800000,
+  "end": 1612949400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "決勝",
+  "episode": 6,
+  "flags": []
+}

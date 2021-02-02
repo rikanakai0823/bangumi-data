@@ -1,0 +1,26 @@
+{
+  "id": "idv0520",
+  "category": "cinema",
+  "title": "きみに読む物語",
+  "fullTitle": "[映][SS]きみに読む物語[吹]",
+  "detail": "ベストセラー小説を映画化したラブロマンス。運命によって引き裂かれた男女の、時を経て生き続ける永遠の愛の物語を綴る。",
+  "start": 1612386000000,
+  "end": 1612394100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

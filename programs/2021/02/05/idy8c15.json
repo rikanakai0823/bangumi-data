@@ -1,0 +1,25 @@
+{
+  "id": "idy8c15",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#56[二]",
+  "detail": "#56「高級レストラン」",
+  "start": 1612509960000,
+  "end": 1612510200000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "高級レストラン",
+  "episode": 56,
+  "flags": [
+    "二"
+  ]
+}

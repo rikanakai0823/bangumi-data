@@ -1,0 +1,27 @@
+{
+  "id": "idv087s",
+  "category": "anime",
+  "title": "レゴ（Ｒ）ムービー２",
+  "fullTitle": "[映][SS][字]レゴ（Ｒ）ムービー２[吹]",
+  "detail": "スーパーヒーローが存在するレゴの世界を舞台に、平凡な青年の活躍をヒーロー映画のパロディ満載で描く大ヒットアニメの続編。",
+  "start": 1612472400000,
+  "end": 1612479600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

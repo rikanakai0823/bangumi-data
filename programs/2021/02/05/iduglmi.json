@@ -1,0 +1,26 @@
+{
+  "id": "iduglmi",
+  "category": "cinema",
+  "title": "日本統一５",
+  "fullTitle": "[映]日本統一５[字]",
+  "detail": "任侠大河ロマン第５作。ようやく出所した主人公・氷室は、組長の三上から川谷の組への移籍を打診される。だが、それが氷室と田村の間に亀裂を生じさせていくことに……。",
+  "start": 1612496100000,
+  "end": 1612501500000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

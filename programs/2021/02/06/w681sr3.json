@@ -1,0 +1,25 @@
+{
+  "id": "w681sr3",
+  "category": "anime",
+  "title": "Club AT-X",
+  "fullTitle": "[無]Club AT-X #447",
+  "detail": "「Club AT-X WSB ～ワールド シークレット ベース～」\r\nMC：寺島拓篤、田所あずさ",
+  "start": 1612616400000,
+  "end": 1612618200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 129
+  },
+  "subTitle": "Club AT-X WSB ～ワールド シークレット ベース～",
+  "episode": 447,
+  "flags": [
+    "無"
+  ]
+}

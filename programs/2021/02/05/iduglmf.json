@@ -1,0 +1,26 @@
+{
+  "id": "iduglmf",
+  "category": "cinema",
+  "title": "日本統一２",
+  "fullTitle": "[映]日本統一２[字]",
+  "detail": "街のチンピラから極道の世界に飛び込んだ主人公が、極道界日本統一を目指して成長していく任侠大河ロマン第２作。侠和会の代替わりにより、会に内部分裂が勃発する。",
+  "start": 1612480800000,
+  "end": 1612486200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

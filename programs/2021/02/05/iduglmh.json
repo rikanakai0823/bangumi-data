@@ -1,0 +1,26 @@
+{
+  "id": "iduglmh",
+  "category": "cinema",
+  "title": "日本統一４",
+  "fullTitle": "[映]日本統一４[字]",
+  "detail": "極道の世界で頭角を現わす２人の男を軸に、裏社会に生きる人間たちの群像を描く任侠大河ロマン第４作。抗争の後、服役する身となった氷室と田村それぞれに転機が訪れる。",
+  "start": 1612490700000,
+  "end": 1612496100000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

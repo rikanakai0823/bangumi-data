@@ -1,0 +1,25 @@
+{
+  "id": "rlm3veh",
+  "category": "sports",
+  "title": "HAWKS宮崎春季キャンプ中継2021 午後の部 2/6",
+  "fullTitle": "[生]HAWKS宮崎春季キャンプ中継2021 午後の部 2/6",
+  "detail": "春季キャンプの模様を全日程生中継！午前・午後に分けて計4時間以上たっぷりとお届けします。\r\n解説/実況：若菜嘉晴/信川竜太",
+  "start": 1612584000000,
+  "end": 1612591200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

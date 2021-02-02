@@ -1,0 +1,25 @@
+{
+  "id": "idt5fpy",
+  "category": "music",
+  "title": "ＢＳ演歌の花道",
+  "fullTitle": "ＢＳ演歌の花道[字]",
+  "detail": "1978年から22年間放送した伝説の番組「演歌の花道」が復活！八代亜紀、日野美歌、五木ひろし、川中美幸、大川栄策、安倍里葎子、橋幸夫、城之内早苗、中澤卓也",
+  "start": 1612864800000,
+  "end": 1612868400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "演歌の花道",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

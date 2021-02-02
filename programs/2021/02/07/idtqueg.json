@@ -1,0 +1,25 @@
+{
+  "id": "idtqueg",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　東京新聞杯（GⅢ）きさらぎ賞（GⅢ）",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　東京新聞杯（GⅢ）きさらぎ賞（GⅢ）",
+  "detail": "2021年は毎週放送！東京：東京新聞杯（GⅢ）中京：きさらぎ賞（GⅢ）小倉：関門橋S／吉田均（競馬エイト）鈴木淑子／レジェンドコンビ登場！",
+  "start": 1612677600000,
+  "end": 1612681200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

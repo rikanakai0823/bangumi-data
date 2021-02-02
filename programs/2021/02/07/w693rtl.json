@@ -1,0 +1,25 @@
+{
+  "id": "w693rtl",
+  "category": "news",
+  "title": "【無料】ストレートニュース",
+  "fullTitle": "【無料】ストレートニュース[字]",
+  "detail": "国内外の最新ニュース・お天気情報・列島リポートをお届けします。",
+  "start": 1612652400000,
+  "end": 1612665000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

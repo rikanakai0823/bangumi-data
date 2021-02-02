@@ -1,0 +1,25 @@
+{
+  "id": "idv03je",
+  "category": "cinema",
+  "title": "ホテル・ムンバイ",
+  "fullTitle": "[映]ホテル・ムンバイ[吹]",
+  "detail": "インドで実際に起きたテロ事件を映画化した群像サスペンス。誇りをかけて宿泊客を救ったホテルマンたちの姿を描く。［Ｒ１５＋］",
+  "start": 1612377000000,
+  "end": 1612386000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

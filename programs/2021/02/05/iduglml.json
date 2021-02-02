@@ -1,0 +1,26 @@
+{
+  "id": "iduglml",
+  "category": "cinema",
+  "title": "名探偵ピカチュウ（字幕版）",
+  "fullTitle": "[映]名探偵ピカチュウ（字幕版）[SS]",
+  "detail": "世界中で人気の“ピカチュウ”をハリウッドで初の実写映画化。人とポケモンが共存する街で、姿を消した父を捜す青年と彼にだけ言葉が分かる名探偵ピカチュウが事件に挑む。",
+  "start": 1612512000000,
+  "end": 1612519200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

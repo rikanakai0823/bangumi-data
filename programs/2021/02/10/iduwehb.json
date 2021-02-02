@@ -1,0 +1,26 @@
+{
+  "id": "iduwehb",
+  "category": "cinema",
+  "title": "永遠に僕のもの",
+  "fullTitle": "[映][SS]永遠に僕のもの",
+  "detail": "ペドロ・アルモドバル製作の青春犯罪ドラマ。アルゼンチン全土に衝撃を与えた連続殺人犯の少年の、儚い青春を綴る。［Ｒ１５＋］",
+  "start": 1612941300000,
+  "end": 1612949400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp478a",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「隠岐諸島」[字][再]",
+  "detail": "古くから大陸との海上交通の要だった隠岐諸島。近世まで流刑地だった島には、その名残が今に伝わる。多様な歴史と文化が詰まった、玉手箱のような隠岐の島々の物語。",
+  "start": 1612479600000,
+  "end": 1612483200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "隠岐諸島",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

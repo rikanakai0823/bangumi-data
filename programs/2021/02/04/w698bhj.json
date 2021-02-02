@@ -1,0 +1,25 @@
+{
+  "id": "w698bhj",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "遠隔医療が身近になりつつある。番組では利用が簡単で、メディカル・グレードとしての性能を持つ診断装置を紹介する。",
+  "start": 1612445400000,
+  "end": 1612447200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

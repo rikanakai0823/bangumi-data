@@ -1,0 +1,26 @@
+{
+  "id": "idv0c84",
+  "category": "cinema",
+  "title": "マンマ・ミーア！",
+  "fullTitle": "[映][SS]マンマ・ミーア！[吹]",
+  "detail": "世界的な人気を誇るポップグループ「ＡＢＢＡ」のヒットナンバーで構成されたロングラン傑作ミュージカルの映画化作品。",
+  "start": 1612598400000,
+  "end": 1612605600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "ＡＢＢＡ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

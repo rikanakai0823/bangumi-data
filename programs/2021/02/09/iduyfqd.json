@@ -1,0 +1,25 @@
+{
+  "id": "iduyfqd",
+  "category": "cinema",
+  "title": "情無用のコルト",
+  "fullTitle": "[映]情無用のコルト",
+  "detail": "スティーブン・フォーサイス主演のマカロニウエスタン。初老のガンマンと、足を洗おうとする若きガンマンの友情と対決を描く。",
+  "start": 1612820700000,
+  "end": 1612825800000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

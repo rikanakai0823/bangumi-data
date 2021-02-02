@@ -1,0 +1,23 @@
+{
+  "id": "idp01pr",
+  "category": "sports",
+  "title": "カーリング日本選手権２０２１　女子・予選リーグ「中部電力」対",
+  "fullTitle": "カーリング日本選手権２０２１　女子・予選リーグ「中部電力」対「富士急」",
+  "detail": "　（試合開始　６：０７）　【解説】金村萌絵，【アナウンサー】田中秀樹　～北海道・稚内市みどりスポーツパークから中継～",
+  "start": 1612861200000,
+  "end": 1612871400000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "富士急",
+  "episode": null,
+  "flags": []
+}

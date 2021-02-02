@@ -1,0 +1,25 @@
+{
+  "id": "idy8c2g",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#86[二]",
+  "detail": "#86「好きになって！」",
+  "start": 1612599900000,
+  "end": 1612600200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "好きになって！",
+  "episode": 86,
+  "flags": [
+    "二"
+  ]
+}

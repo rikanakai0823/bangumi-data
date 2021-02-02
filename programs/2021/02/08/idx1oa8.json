@@ -1,0 +1,26 @@
+{
+  "id": "idx1oa8",
+  "category": "anime",
+  "title": "メトロポリス",
+  "fullTitle": "[無][映]メトロポリス",
+  "detail": "人類とロボットが共存する巨大未来都市・メトロポリス。そこは、高度に発達した化学文明を謳歌する地上都市と、貧困に…",
+  "start": 1612713600000,
+  "end": 1612721400000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "映"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rkuo208",
+  "category": "hobby",
+  "title": "ロボカーポリー[字/日]",
+  "fullTitle": "[無]ロボカーポリー#6[字/日]",
+  "detail": "#6「おばけの森」",
+  "start": 1612674000000,
+  "end": 1612674900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "おばけの森",
+  "episode": 6,
+  "flags": [
+    "無"
+  ]
+}

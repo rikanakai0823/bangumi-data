@@ -1,0 +1,26 @@
+{
+  "id": "iduwet9",
+  "category": "cinema",
+  "title": "【最新作】赦しのちから",
+  "fullTitle": "【最新作】[映][SS]赦しのちから",
+  "detail": "アレックス・ケンドリック監督・主演のスポーツドラマ。クロスカントリー部のコーチになった男が自身の生きる意味を見つめ直す。",
+  "start": 1612957500000,
+  "end": 1612965600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

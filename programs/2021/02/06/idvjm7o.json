@@ -1,0 +1,23 @@
+{
+  "id": "idvjm7o",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "当日の中央競馬レース結果と、明日のＧⅢ「東京新聞杯」（東京），ＧⅢ「きさらぎ賞」の展望をお伝えします。",
+  "start": 1612618200000,
+  "end": 1612620000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idp1gb9",
+  "category": "sports",
+  "title": "アルペン世界選手権２０２１",
+  "fullTitle": "アルペン世界選手権２０２１「男子スーパー大回転」",
+  "detail": "【解説】富井剛志，【アナウンサー】冨坂和男　～イタリア・コルティナダンペッツォから中継～",
+  "start": 1612875000000,
+  "end": 1612878000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "男子スーパー大回転",
+  "episode": null,
+  "flags": []
+}

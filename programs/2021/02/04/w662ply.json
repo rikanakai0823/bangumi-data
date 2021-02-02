@@ -1,0 +1,23 @@
+{
+  "id": "w662ply",
+  "category": "music",
+  "title": "サカナクション",
+  "fullTitle": "サカナクション「SAKANAQUARIUM 2019 \"834.194\"」",
+  "detail": "サカナクション「SAKANAQUARIUM 2019 \"834.194\" 6.1ch Sound Around Arena Session -LIVE at PORTMESSE NAGOYA 2019.06.14-」",
+  "start": 1612440000000,
+  "end": 1612448400000,
+  "seconds": 8400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "SAKANAQUARIUM 2019 \"834.194\"",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp49mo",
+  "category": "documentary",
+  "title": "ニッポンの里山",
+  "fullTitle": "ニッポンの里山「人といのちの絶景物語　森と林」[字]",
+  "detail": "これまでの放送から森や林に関する珠玉の絶景を選りすぐり、そこに秘められた人と自然の物語を見つめていく。",
+  "start": 1612864200000,
+  "end": 1612864800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "人といのちの絶景物語　森と林",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idueg7u",
+  "category": "music",
+  "title": "ＭＯＯＮＲＩＤＥＲＳ　ＬＩＶＥ　２０２０",
+  "fullTitle": "[初]ＭＯＯＮＲＩＤＥＲＳ　ＬＩＶＥ　２０２０",
+  "detail": "２０２１年に結成４５周年を迎えるムーンライダーズが、ファンにとって聖地ともいうべき中野サンプラザで開催したワンマンライブを放送！",
+  "start": 1612590300000,
+  "end": 1612597500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

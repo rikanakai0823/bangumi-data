@@ -1,0 +1,25 @@
+{
+  "id": "w63iya6",
+  "category": "sports",
+  "title": "箱根駅伝 復路ダイジェスト",
+  "fullTitle": "第97回箱根駅伝 復路ダイジェスト[再]",
+  "detail": "2021年１月3日開催　箱根・芦ノ湖～東京・大手町　\r\n解説：碓井哲雄　瀬古利彦　渡辺康幸　　\r\nゲスト：館澤亨次　鈴木塁人",
+  "start": 1612929600000,
+  "end": 1612936800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 97,
+  "flags": [
+    "再"
+  ]
+}

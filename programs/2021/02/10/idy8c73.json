@@ -1,0 +1,25 @@
+{
+  "id": "idy8c73",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#8[解]",
+  "detail": "#8「ツムの海底20メートル」",
+  "start": 1612909620000,
+  "end": 1612909800000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ツムの海底20メートル",
+  "episode": 8,
+  "flags": [
+    "解"
+  ]
+}

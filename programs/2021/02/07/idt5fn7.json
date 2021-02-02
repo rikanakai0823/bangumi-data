@@ -1,0 +1,23 @@
+{
+  "id": "idt5fn7",
+  "category": "information",
+  "title": "快適！ショッピングスタジオＤＸ",
+  "fullTitle": "快適！ショッピングスタジオＤＸ",
+  "detail": "スタジオから生放送でお届けする楽しいテレビショッピング！最新の人気商品はもちろん、生活を豊かにする便利なアイテム、今が買い時のイチオシ商品まで驚きの価格で紹介！",
+  "start": 1612666800000,
+  "end": 1612674000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

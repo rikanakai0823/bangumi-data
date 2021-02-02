@@ -1,0 +1,26 @@
+{
+  "id": "iduglo1",
+  "category": "cinema",
+  "title": "トリック劇場版　ラストステージ",
+  "fullTitle": "[映]トリック劇場版　ラストステージ[字]",
+  "detail": "人気ＴＶドラマの劇場版第４弾にしてシリーズ完結編。レアアースの鉱脈が眠るという海外の秘境の村を舞台に、呪術師のトリックに挑む山田と上田の最後の冒険が展開する。",
+  "start": 1612850400000,
+  "end": 1612857600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

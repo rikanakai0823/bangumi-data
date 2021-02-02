@@ -1,0 +1,25 @@
+{
+  "id": "idtquec",
+  "category": "cinema",
+  "title": "映画『チャッピー』",
+  "fullTitle": "[二]映画『チャッピー』",
+  "detail": "チャッピー…それは、余命5日間の人間になりたかったAI（ロボット）",
+  "start": 1612666800000,
+  "end": 1612673700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

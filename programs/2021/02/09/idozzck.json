@@ -1,0 +1,23 @@
+{
+  "id": "idozzck",
+  "category": "news",
+  "title": "東京マーケット情報",
+  "fullTitle": "東京マーケット情報",
+  "detail": "▽マーケット指標，株式市況速報　▽東証１部・２部前場市況",
+  "start": 1612839600000,
+  "end": 1612841100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

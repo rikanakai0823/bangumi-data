@@ -1,0 +1,27 @@
+{
+  "id": "iducakb",
+  "category": "cinema",
+  "title": "おかえり、はやぶさ",
+  "fullTitle": "[映]おかえり、はやぶさ[SS][字]",
+  "detail": "かつて火星探査機“のぞみ”のリーダーだった父親と、小惑星探査機“はやぶさ”のエンジニア助手である息子。彼らの葛藤と絆を軸に、“はやぶさ”の軌跡を描く家族ドラマ。",
+  "start": 1612555200000,
+  "end": 1612562400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

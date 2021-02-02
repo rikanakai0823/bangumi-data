@@ -1,0 +1,26 @@
+{
+  "id": "iduglmk",
+  "category": "cinema",
+  "title": "日本統一７",
+  "fullTitle": "[映]日本統一７[字]",
+  "detail": "任侠大河ロマンの人気シリーズ第７作。日本統一の悲願に向け、大阪制圧に動きだした侠和会。対立を深める氷室と田村もまた、大阪を舞台に激しく手柄を争うのだが……。",
+  "start": 1612506900000,
+  "end": 1612512000000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

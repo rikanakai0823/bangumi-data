@@ -1,0 +1,25 @@
+{
+  "id": "idy8bxs",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#3[二]",
+  "detail": "#3「ウェビー大活躍」",
+  "start": 1612303200000,
+  "end": 1612304820000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ウェビー大活躍",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

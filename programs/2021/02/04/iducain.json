@@ -1,0 +1,26 @@
+{
+  "id": "iducain",
+  "category": "cinema",
+  "title": "テッド・バンディ（字幕版）[R15+指定]",
+  "fullTitle": "[映]テッド・バンディ（字幕版）[R15+指定][SS]",
+  "detail": "全米有数の人気俳優Ｚ・エフロンが、希代の連続殺人鬼Ｔ・バンディに扮してカリスマ的な魅力を発揮。最愛の恋人の目を通して殺人鬼の不思議な謎に迫った異色犯罪ドラマ。",
+  "start": 1612367100000,
+  "end": 1612374300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

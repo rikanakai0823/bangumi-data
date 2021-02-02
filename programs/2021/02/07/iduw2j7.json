@@ -1,0 +1,26 @@
+{
+  "id": "iduw2j7",
+  "category": "cinema",
+  "title": "凪待ち",
+  "fullTitle": "[映][SS]凪待ち",
+  "detail": "香取慎吾主演、白石和彌監督で贈るヒューマンサスペンス。ギャンブル中毒の男が人生をやり直そうともがく姿を描く。［ＰＧ１２］",
+  "start": 1612628100000,
+  "end": 1612636200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

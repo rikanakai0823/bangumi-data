@@ -1,0 +1,25 @@
+{
+  "id": "rkuo20x",
+  "category": "hobby",
+  "title": "カリメロ#99,#100[字/日]",
+  "fullTitle": "[無]カリメロ#99,#100[字/日]",
+  "detail": "#99「ミニミニライト」　#100「交通ルールを守ろう」",
+  "start": 1612717200000,
+  "end": 1612719000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "ミニミニライト",
+  "episode": 99,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduyayi",
+  "category": "cinema",
+  "title": "愛人／ラマン",
+  "fullTitle": "[映]愛人／ラマン",
+  "detail": "フランス植民地時代のインドシナを舞台に、少女の愛と性のめざめを鮮烈に描いた、美しくも官能的なラブロマンス。［Ｒ－１５］",
+  "start": 1612720200000,
+  "end": 1612728000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

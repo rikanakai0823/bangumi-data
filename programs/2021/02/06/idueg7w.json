@@ -1,0 +1,26 @@
+{
+  "id": "idueg7w",
+  "category": "sports",
+  "title": "男子テニスＡＴＰツアー　　メルボルン１　男子シングルス準決勝",
+  "fullTitle": "[初]男子テニスＡＴＰツアー　　メルボルン１　男子シングルス準決勝[多]",
+  "detail": "",
+  "start": 1612598400000,
+  "end": 1612623600000,
+  "seconds": 25200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "多"
+  ]
+}

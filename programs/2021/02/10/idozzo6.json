@@ -1,0 +1,25 @@
+{
+  "id": "idozzo6",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「潜入！４Ｋ対応ゲーム　開発の舞台裏」[再]",
+  "detail": "４Ｋ対応の超高精細映像のゲーム。これまで極秘とされてきた開発現場にカメラが潜入！より美しくリアルに。４Ｋならではの表現に挑む若きクリエーターの挑戦を追った。",
+  "start": 1612885920000,
+  "end": 1612888920000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "潜入！４Ｋ対応ゲーム　開発の舞台裏",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

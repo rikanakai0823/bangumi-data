@@ -1,0 +1,25 @@
+{
+  "id": "rlm3vhn",
+  "category": "sports",
+  "title": "Bリーグ2020-21 第21節 北海道×宇都宮(2/10)",
+  "fullTitle": "[生]Bリーグ2020-21 第21節 北海道×宇都宮(2/10)",
+  "detail": "Bリーグ 2020-21 第21節(2/10)\r\n対戦:レバンガ北海道　(H)\r\n　　 宇都宮ブレックス(A)",
+  "start": 1612951200000,
+  "end": 1612962000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

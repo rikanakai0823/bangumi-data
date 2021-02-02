@@ -1,0 +1,25 @@
+{
+  "id": "iduvwj6",
+  "category": "drama",
+  "title": "ウォリアー",
+  "fullTitle": "[SS]ウォリアー　＃９",
+  "detail": "【最新作放送直前　一挙放送】",
+  "start": 1612470600000,
+  "end": 1612474800000,
+  "seconds": 4200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "最新作放送直前　一挙放送",
+  "episode": 9,
+  "flags": [
+    "SS"
+  ]
+}

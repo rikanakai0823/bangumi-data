@@ -1,0 +1,23 @@
+{
+  "id": "rlm3vfd",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ 第19節 ケルン×ビーレフェルト",
+  "fullTitle": "20/21 ブンデスリーガ 第19節 ケルン×ビーレフェルト",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年1月31日\r\n会場:ラインエネルギー シュタディオン",
+  "start": 1612474200000,
+  "end": 1612483200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

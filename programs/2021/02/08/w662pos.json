@@ -1,0 +1,23 @@
+{
+  "id": "w662pos",
+  "category": "theater",
+  "title": "Dステ12th『TRUMP』REVERSE",
+  "fullTitle": "Dステ12th『TRUMP』REVERSE",
+  "detail": "【出演】三津谷亮、西井幸人、山田裕貴、陳内将、近江陽一郎、山口賢貴、志尊淳、阿久津愼太郎、池岡亮介、土屋シオン　ほか",
+  "start": 1612785600000,
+  "end": 1612795200000,
+  "seconds": 9600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": []
+}

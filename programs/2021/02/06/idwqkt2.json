@@ -1,0 +1,23 @@
+{
+  "id": "idwqkt2",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「心理学史(’10)第３回」",
+  "start": 1612564200000,
+  "end": 1612566900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 67
+  },
+  "subTitle": "心理学史(’10)第３回",
+  "episode": 3,
+  "flags": []
+}

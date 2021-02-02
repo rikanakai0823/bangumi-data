@@ -1,0 +1,25 @@
+{
+  "id": "rktexf2",
+  "category": "variety",
+  "title": "ENHYPEN&Hi 字幕版",
+  "fullTitle": "ENHYPEN&Hi 字幕版 #4(終)",
+  "detail": "「I-LAND」から誕生したENHYPENの密着番組を日本語字幕版でお届け！\r\n2020年 全4回\r\n再：(日)7:00～、(水)17:30～",
+  "start": 1612447200000,
+  "end": 1612450800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "I-LAND",
+  "episode": 4,
+  "flags": [
+    "終"
+  ]
+}

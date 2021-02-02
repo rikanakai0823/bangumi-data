@@ -1,0 +1,26 @@
+{
+  "id": "iduglms",
+  "category": "cinema",
+  "title": "フッド：ザ・ビギニング（字幕版）",
+  "fullTitle": "[映]フッド：ザ・ビギニング（字幕版）[SS]",
+  "detail": "英国に伝わる義賊ロビン・フッドの伝説をもとにした冒険アクション歴史劇。特権階級だった若き領主がすべてを失い、やがて民衆のために戦う英雄へと成長するさまを描く。",
+  "start": 1612561200000,
+  "end": 1612568400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

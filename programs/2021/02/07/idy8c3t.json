@@ -1,0 +1,26 @@
+{
+  "id": "idy8c3t",
+  "category": "cinema",
+  "title": "ディセンダント",
+  "fullTitle": "[無]ディセンダント[二]",
+  "detail": "ディズニー・ヴィランズの子どもたちが主人公のオリジナル・ムービー。悪名高き親を持つがゆえの葛藤や彼らの心の成長、友情、そして初恋を、圧巻の歌とダンスが彩ります。",
+  "start": 1612692000000,
+  "end": 1612699200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w65o10b",
+  "category": "variety",
+  "title": "ドリフ大爆笑",
+  "fullTitle": "[字]ドリフ大爆笑【セレクト】#85",
+  "detail": "1977年より、月1回のペースでレギュラー放送され高視聴率を獲得していた、ザ・ドリフターズの代表的コント番組。",
+  "start": 1612882800000,
+  "end": 1612888200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 101
+  },
+  "subTitle": "セレクト",
+  "episode": 85,
+  "flags": [
+    "字"
+  ]
+}

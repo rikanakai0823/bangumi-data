@@ -1,0 +1,25 @@
+{
+  "id": "w68gml4",
+  "category": "documentary",
+  "title": "海洋メガマシン：コンテナ輸送",
+  "fullTitle": "海洋メガマシン：コンテナ輸送(字)",
+  "detail": "DISCO presents テクノロジーアワー\r\nニューヨークの港ではロボットを使い、限られた時間の中で超巨大なコンテナ船から荷物を積んだり降ろしたりしている。",
+  "start": 1612875600000,
+  "end": 1612879200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 131
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

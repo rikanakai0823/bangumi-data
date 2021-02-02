@@ -1,0 +1,23 @@
+{
+  "id": "rlm3vj6",
+  "category": "sports",
+  "title": "Challenge！ Consadole",
+  "fullTitle": "Challenge！ Consadole　#41",
+  "detail": "北海道コンサドーレ札幌のクラブ応援番組。大卒ルーキーの田中駿汰と金子拓郎。普段は喋る事のない二人の関係性とは！？",
+  "start": 1612460400000,
+  "end": 1612461600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 41,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idy8c2y",
+  "category": "drama",
+  "title": "ザ・ロッジ",
+  "fullTitle": "[無]ザ・ロッジ#9[二]",
+  "detail": "#9「真実」",
+  "start": 1612638000000,
+  "end": 1612639800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "真実",
+  "episode": 9,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

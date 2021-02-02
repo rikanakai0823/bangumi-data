@@ -1,0 +1,26 @@
+{
+  "id": "iducale",
+  "category": "cinema",
+  "title": "アヴリルと奇妙な世界（吹替版）",
+  "fullTitle": "[映]アヴリルと奇妙な世界（吹替版）[字]",
+  "detail": "産業革命が起きず、蒸気機関を使い続けている世界を舞台に、姿を消した両親や祖父を捜す少女の冒険を描く。アヌシー国際アニメーション映画祭長編部門グランプリ受賞作。",
+  "start": 1612724100000,
+  "end": 1612730700000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

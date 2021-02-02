@@ -1,0 +1,23 @@
+{
+  "id": "w66j8d4",
+  "category": "information",
+  "title": "おトクな時間",
+  "fullTitle": "おトクな時間",
+  "detail": "早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！",
+  "start": 1612557000000,
+  "end": 1612558800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

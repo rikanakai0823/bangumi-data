@@ -1,0 +1,27 @@
+{
+  "id": "iducalo",
+  "category": "cinema",
+  "title": "凪待ち[PG12指定]",
+  "fullTitle": "[映]凪待ち[PG12指定][SS][字]",
+  "detail": "国民的人気タレント香取慎吾と「孤狼の血」の白石和彌監督がタッグを組み、ギャンブル好きがたたって人生の失敗を幾度も重ねてきた主人公の魂の再生を鮮烈に描いた秀作。",
+  "start": 1612766700000,
+  "end": 1612774800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "孤狼の血",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

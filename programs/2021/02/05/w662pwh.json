@@ -1,0 +1,23 @@
+{
+  "id": "w662pwh",
+  "category": "music",
+  "title": "日テレプラスMUSIC+×矢井田 瞳",
+  "fullTitle": "日テレプラスMUSIC+×矢井田 瞳",
+  "detail": "2月度アーティスト：矢井田 瞳",
+  "start": 1612468200000,
+  "end": 1612468800000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

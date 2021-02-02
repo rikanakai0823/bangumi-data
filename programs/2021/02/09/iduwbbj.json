@@ -1,0 +1,26 @@
+{
+  "id": "iduwbbj",
+  "category": "cinema",
+  "title": "テリー・ギリアムのドン・キホーテ",
+  "fullTitle": "[映][SS]テリー・ギリアムのドン・キホーテ",
+  "detail": "テリー・ギリアム監督の奇想天外コメディ。情熱を失った若手監督が、自分をドン・キホーテと信じ込む老人と共に冒険へ旅立つ。",
+  "start": 1612854900000,
+  "end": 1612863300000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

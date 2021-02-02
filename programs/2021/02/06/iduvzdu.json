@@ -1,0 +1,26 @@
+{
+  "id": "iduvzdu",
+  "category": "cinema",
+  "title": "ラ・ヨローナ ～泣く女～",
+  "fullTitle": "[映][SS]ラ・ヨローナ ～泣く女～",
+  "detail": "『死霊館』シリーズの生みの親ジェームズ・ワンが製作したサバイバルホラー。中南米に伝わる“泣く女”の伝説をモチーフに描く。",
+  "start": 1612542600000,
+  "end": 1612548900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

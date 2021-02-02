@@ -1,0 +1,23 @@
+{
+  "id": "idp3m01",
+  "category": "information",
+  "title": "ＢＳ先取り情報",
+  "fullTitle": "ＢＳ先取り情報「３月号」",
+  "detail": "",
+  "start": 1612488300000,
+  "end": 1612488600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "３月号",
+  "episode": null,
+  "flags": []
+}

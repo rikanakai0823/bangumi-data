@@ -1,0 +1,26 @@
+{
+  "id": "iduw8ha",
+  "category": "cinema",
+  "title": "キャスト・アウェイ",
+  "fullTitle": "[映][SS]キャスト・アウェイ【ベストヒットハリウッド】",
+  "detail": "トム・ハンクス主演のドラマ。無人島に漂着した男のサバイバルの日々と、文明社会への帰還を通して現代人の生きる意味を問う。",
+  "start": 1612783800000,
+  "end": 1612792800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ベストヒットハリウッド",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idugllr",
+  "category": "cinema",
+  "title": "フィードバック（字幕版）",
+  "fullTitle": "[映]フィードバック（字幕版）[SS]",
+  "detail": "生放送中の深夜ラジオ番組を覆面の暴漢たちが占拠した。命を脅かされながら放送を続けるパーソナリティーだったが……。二転三転するストーリーに注目のサスペンス。",
+  "start": 1612319400000,
+  "end": 1612325700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

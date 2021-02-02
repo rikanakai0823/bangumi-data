@@ -1,0 +1,25 @@
+{
+  "id": "w66lane",
+  "category": "variety",
+  "title": "ラーメンWalker TV2",
+  "fullTitle": "[無料]ラーメンWalker TV2　#275",
+  "detail": "埼玉屈指の名店に駆け上がった今が旬の行列店！　狭山ヶ丘「自家製手もみ麺 鈴ノ木」\r\n＜出演＞田中貴（サニーデイ・サービス）　小林孝充　日比野芽奈",
+  "start": 1612725600000,
+  "end": 1612726500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 113
+  },
+  "subTitle": "自家製手もみ麺 鈴ノ木",
+  "episode": 275,
+  "flags": [
+    "無"
+  ]
+}

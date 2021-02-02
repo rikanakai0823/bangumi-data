@@ -1,0 +1,27 @@
+{
+  "id": "iducaln",
+  "category": "cinema",
+  "title": "ひとよ[PG12指定]",
+  "fullTitle": "[映]ひとよ[PG12指定][SS][字]",
+  "detail": "佐藤健、鈴木亮平、松岡茉優、田中裕子ら、豪華多彩な俳優陣を迎えて、白石和彌監督が桑原裕子の同名舞台劇を映画化。重い過去を背負ったとある家族の再生を見つめた秀作。",
+  "start": 1612758600000,
+  "end": 1612766700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

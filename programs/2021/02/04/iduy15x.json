@@ -1,0 +1,25 @@
+{
+  "id": "iduy15x",
+  "category": "cinema",
+  "title": "フライングハイ",
+  "fullTitle": "[映]フライングハイ",
+  "detail": "ヒット映画のパロディが満載の爆笑コメディ。旅客機の運行を任されたのは、操縦に自信のない元パイロットだった！",
+  "start": 1612446300000,
+  "end": 1612452000000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

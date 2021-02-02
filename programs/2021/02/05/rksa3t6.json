@@ -1,0 +1,25 @@
+{
+  "id": "rksa3t6",
+  "category": "sports",
+  "title": "競泳ジャパンオープン 2日目",
+  "fullTitle": "[生]競泳ジャパンオープン 2日目",
+  "detail": "五輪会場、東京アクアティクスセンターに日本のトップスイマー達が集結！\r\n世界水泳メダリスト松元克央や大橋悠依らが登場！※お問合せ：0570-0555-77（10時～20時）",
+  "start": 1612508400000,
+  "end": 1612515600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduglmz",
+  "category": "cinema",
+  "title": "プリンセス　トヨトミ",
+  "fullTitle": "[映]プリンセス　トヨトミ[SS][字]",
+  "detail": "堤真一、綾瀬はるか、岡田将生ら豪華キャストの競演で万城目学のベストセラー小説を映画化。ある日突然、大阪府で一切のビジネスが一斉に停止してしまう。その真相は……。",
+  "start": 1612601100000,
+  "end": 1612609200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

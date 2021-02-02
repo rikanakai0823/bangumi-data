@@ -1,0 +1,25 @@
+{
+  "id": "idx1oak",
+  "category": "anime",
+  "title": "ジョジョの奇妙な冒険 黄金の風",
+  "fullTitle": "[字]ジョジョの奇妙な冒険 黄金の風 #1",
+  "detail": "#1「黄金体験(ゴールド・エクスペリエンス)」\r\nジョースター家の宿敵・DIOの血を継ぐ息子である、青年ジョルノ・ジョバ…",
+  "start": 1612751400000,
+  "end": 1612753200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "黄金体験(ゴールド・エクスペリエンス)",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
