@@ -5,7 +5,7 @@ process.env.TZ = 'Asia/Tokyo'
 var schedule = fse.readJsonSync(process.argv[2])
 
 schedule.forEach(function(chan) {
-  if (config.cids.indexOf(chan.id) == -1) return 0
+  if (config.cids.indexOf(chan.id) == -1 && chan.type === "GR") return 0
   chan.programs.forEach(function(prog) {
     let stime = new Date(prog.start)
     let mon = `0${stime.getMonth() + 1}`.slice(-2)
