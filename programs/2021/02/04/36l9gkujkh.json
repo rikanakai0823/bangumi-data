@@ -3,14 +3,10 @@
   "category": "news",
   "title": "ＮＥＷＳチバ６００",
   "fullTitle": "ＮＥＷＳチバ６００",
-  "detail": "▽新型コロナ最新情報\r\n▽天気予報\r\n\n◇番組内容    \n今、私たちが暮らすチバにこだわり、その日の出来事をわかるやすくお届けする報道番組。",
+  "detail": "▽新型コロナ最新情報\r\n▽天気予報\r\n",
   "start": 1612429200000,
   "end": 1612430100000,
   "seconds": 900,
-  "description": "▽新型コロナ最新情報\r\n▽天気予報\r\n",
-  "extra": {
-    "番組内容    ": "今、私たちが暮らすチバにこだわり、その日の出来事をわかるやすくお届けする報道番組。"
-  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,7 +14,7 @@
     "id": "1hgokns",
     "sid": 27704,
     "nid": 32327,
-    "hasLogoData": true,
+    "hasLogoData": false,
     "n": 9
   },
   "subTitle": "",
