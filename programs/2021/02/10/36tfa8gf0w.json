@@ -3,13 +3,14 @@
   "category": "hobby",
   "title": "Ｕ字工事の旅！発見",
   "fullTitle": "Ｕ字工事の旅！発見",
-  "detail": "◇出演者      \n【出演】\r\nＵ字工事",
+  "detail": "特別編　第１弾\n◇番組内容\nこれまでの旅発見を振り返ります。\n◇出演者\n【出演】\r\nＵ字工事",
   "start": 1612892100000,
   "end": 1612893900000,
   "seconds": 1800,
-  "description": " ",
+  "description": "特別編　第１弾",
   "extra": {
-    "出演者      ": "【出演】\r\nＵ字工事"
+    "番組内容": "これまでの旅発見を振り返ります。",
+    "出演者": "【出演】\r\nＵ字工事"
   },
   "channel": {
     "type": "GR",
@@ -18,7 +19,7 @@
     "id": "1hkhnrs",
     "sid": 23608,
     "nid": 32391,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 33
   },
   "subTitle": "",
