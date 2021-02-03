@@ -1,0 +1,25 @@
+{
+  "id": "idy8c85",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#7[二]",
+  "detail": "#7「わんにゃんチュウチュウ大騒動」",
+  "start": 1612972800000,
+  "end": 1612974600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "わんにゃんチュウチュウ大騒動",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}

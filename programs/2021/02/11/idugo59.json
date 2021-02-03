@@ -1,0 +1,26 @@
+{
+  "id": "idugo59",
+  "category": "cinema",
+  "title": "半分ノ世界",
+  "fullTitle": "[映]半分ノ世界[字]",
+  "detail": "",
+  "start": 1612996200000,
+  "end": 1612997400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

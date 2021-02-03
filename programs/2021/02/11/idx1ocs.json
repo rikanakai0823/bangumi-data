@@ -1,0 +1,26 @@
+{
+  "id": "idx1ocs",
+  "category": "anime",
+  "title": "えいがのおそ松さん",
+  "fullTitle": "[映][字]えいがのおそ松さん",
+  "detail": "高校の同窓会に訪れた、６つ子たち。社会人として活躍する同級生たちと対照的なさえない自分たちの現実に打ちのめされ…",
+  "start": 1613041200000,
+  "end": 1613049900000,
+  "seconds": 8700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

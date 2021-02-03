@@ -1,0 +1,26 @@
+{
+  "id": "idugo5a",
+  "category": "cinema",
+  "title": "サクライロ",
+  "fullTitle": "[映]サクライロ[字]",
+  "detail": "人気俳優・斎藤工が初めて監督に挑んだショートフィルム。",
+  "start": 1612997400000,
+  "end": 1612999800000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

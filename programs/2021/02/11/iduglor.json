@@ -1,0 +1,26 @@
+{
+  "id": "iduglor",
+  "category": "cinema",
+  "title": "レッドブル（字幕版）",
+  "fullTitle": "[映]レッドブル（字幕版）[SS]",
+  "detail": "旧ソ連から米国へ、悪を蹴散らす猛牛刑事＝Ａ・シュワルツェネッガーが上陸。旧ソ連のタフガイ刑事とシカゴのはみ出し刑事が凸凹コンビを組むユニークで痛快なアクション！",
+  "start": 1613034000000,
+  "end": 1613041200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

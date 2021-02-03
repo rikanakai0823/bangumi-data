@@ -1,0 +1,25 @@
+{
+  "id": "iduwf3e",
+  "category": "drama",
+  "title": "ウォリアー２：ザ・リベンジ",
+  "fullTitle": "[SS]ウォリアー２：ザ・リベンジ　＃１",
+  "detail": "【独占日本初放送スタート】",
+  "start": 1612969800000,
+  "end": 1612973700000,
+  "seconds": 3900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "独占日本初放送スタート",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

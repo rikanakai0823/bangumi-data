@@ -1,0 +1,25 @@
+{
+  "id": "idp00gy",
+  "category": "documentary",
+  "title": "福島タイムラプス",
+  "fullTitle": "福島タイムラプス「薄磯海岸」[字]",
+  "detail": "福島出身の映像作家が故郷を撮影したタイムラプス（連続撮影した写真をつないだ動画）。いわき市薄磯海岸。",
+  "start": 1612989000000,
+  "end": 1612989300000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "薄磯海岸",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

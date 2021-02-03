@@ -1,0 +1,26 @@
+{
+  "id": "iduglon",
+  "category": "cinema",
+  "title": "コナン・ザ・グレート（字幕版）",
+  "fullTitle": "[映]コナン・ザ・グレート（字幕版）[SS]",
+  "detail": "人気男優Ａ・シュワルツェネッガーが映画初主演した出世作。剣と魔法の世界の最強戦士、コナンが冒険と闘いの旅に出る、壮大なヒロイックアドベンチャー。続編も生まれた。",
+  "start": 1613006100000,
+  "end": 1613014200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

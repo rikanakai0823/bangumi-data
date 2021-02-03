@@ -1,0 +1,25 @@
+{
+  "id": "rksa3x0",
+  "category": "sports",
+  "title": "2021 日本体操祭",
+  "fullTitle": "[生]2021 日本体操祭",
+  "detail": "北海道から鹿児島まで、日本全国の体操チームが集結し演技を披露。\r\n一般体操では日本最大級の祭典。\r\n※お問合せ：0570-0555-77（10時～20時）",
+  "start": 1613008800000,
+  "end": 1613029800000,
+  "seconds": 21000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

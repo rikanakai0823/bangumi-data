@@ -1,0 +1,25 @@
+{
+  "id": "rks7ryd",
+  "category": "music",
+  "title": "＜独占生中継＞Creepy Nuts One Man Tour 東京編",
+  "fullTitle": "[生]＜独占生中継＞Creepy Nuts One Man Tour 「かつて天才だった俺たちへ」東京編",
+  "detail": "Creepy Nuts 5週連続放送第一弾！Creepy Nuts One Man Tour 「かつて天才だった俺たちへ」東京編＠Zepp TokyoをCSテレ朝チャンネルだけの独占生中継！",
+  "start": 1613034000000,
+  "end": 1613043000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 106
+  },
+  "subTitle": "かつて天才だった俺たちへ",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

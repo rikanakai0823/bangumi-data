@@ -1,0 +1,27 @@
+{
+  "id": "iducant",
+  "category": "cinema",
+  "title": "沈まぬ太陽",
+  "fullTitle": "[映]沈まぬ太陽[SS][字]",
+  "detail": "山崎豊子のベストセラー小説を、巨額の製作費を投じて映画化して大ヒット。昭和３０～６０年代に大手航空会社で働き、組織の論理に翻弄された主人公を名優・渡辺謙が熱演。",
+  "start": 1613029500000,
+  "end": 1613041200000,
+  "seconds": 11700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

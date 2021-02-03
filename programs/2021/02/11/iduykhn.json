@@ -1,0 +1,26 @@
+{
+  "id": "iduykhn",
+  "category": "cinema",
+  "title": "ミュンヘン",
+  "fullTitle": "[映][SS]ミュンヘン",
+  "detail": "スピルバーグ監督が、イスラエル諜報機関によるパレスチナ幹部の暗殺事件を映画化した社会派ドラマ。［ＰＧ－１２］",
+  "start": 1612980900000,
+  "end": 1612990800000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

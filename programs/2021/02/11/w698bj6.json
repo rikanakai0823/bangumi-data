@@ -1,0 +1,25 @@
+{
+  "id": "w698bj6",
+  "category": "hobby",
+  "title": "トラベル・ショー",
+  "fullTitle": "トラベル・ショー(再)",
+  "detail": "今回のトラベル・ショーは、スウェーデンの有名なアイスホテルでの一泊など、これまでの冬の冒険を振り返る。",
+  "start": 1613014200000,
+  "end": 1613016000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

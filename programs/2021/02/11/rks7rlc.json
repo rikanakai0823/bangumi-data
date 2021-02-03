@@ -1,0 +1,25 @@
+{
+  "id": "rks7rlc",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2021 THE NEW BEGINNING in HIROSHIMA",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2021 THE NEW BEGINNING in HIROSHIMA",
+  "detail": "ＩＷＧＰヘビー級＆インターコンチネンタル王者・飯伏幸太ｖｓＧ１準優勝・ＳＡＮＡＤＡの２冠戦！ほか因縁渦巻く冬の広島決戦\r\n※1650-1800はテレ朝チャンネル2で生中継",
+  "start": 1613023200000,
+  "end": 1613030400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 106
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
