@@ -1,12 +1,12 @@
 {
   "id": "w69aw5f",
   "category": "news",
-  "title": "ザ・シチュエーション・ルーム",
-  "fullTitle": "[二]ザ・シチュエーション・ルーム",
-  "detail": "トップクラスの頭脳と最新システムが現代を検証。CNN屈指のジャーナリスト、ウルフ・ブリッツァーが、有能なアナリストと最新システムでニュースの核心を徹底分析。",
+  "title": "Business Traveller",
+  "fullTitle": "[二]Business Traveller[再]",
+  "detail": "#87 次世代の旅客機。新型コロナ禍で厳しい経営が続く中、燃料効率が良く、かつ環境に配慮した、高価な最新型旅客機の導入を迫られる航空業界を取材。",
   "start": 1612742400000,
-  "end": 1612746000000,
-  "seconds": 3600,
+  "end": 1612744200000,
+  "seconds": 1800,
   "channel": {
     "type": "CS",
     "channel": "CS6",
@@ -18,8 +18,9 @@
     "n": 138
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 87,
   "flags": [
-    "二"
+    "二",
+    "再"
   ]
 }
