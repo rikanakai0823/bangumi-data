@@ -1,0 +1,25 @@
+{
+  "id": "idozelb",
+  "category": "sports",
+  "title": "熱戦凝縮！",
+  "fullTitle": "熱戦凝縮！「カーリング日本選手権２０２０」[再]",
+  "detail": "女子の決勝はピョンチャン五輪で銅メダルを獲得したロコ・ソラーレが、延長の末中部電力を破り、４年ぶり２回目の日本一に輝いた。熱戦の模様をギュギュっと凝縮。",
+  "start": 1612626600000,
+  "end": 1612629600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "カーリング日本選手権２０２０",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
