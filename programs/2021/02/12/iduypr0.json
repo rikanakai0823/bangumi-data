@@ -1,0 +1,26 @@
+{
+  "id": "iduypr0",
+  "category": "cinema",
+  "title": "天使の涙",
+  "fullTitle": "[映][SS]天使の涙",
+  "detail": "ウォン・カーウァイ監督が、深夜の香港を舞台に５人の若者たちの恋の行方をスリリングに描いた青春ラブストーリー。",
+  "start": 1613104800000,
+  "end": 1613110800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

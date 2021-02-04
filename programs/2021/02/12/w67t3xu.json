@@ -1,0 +1,23 @@
+{
+  "id": "w67t3xu",
+  "category": "music",
+  "title": "NHK歌謡コンサート",
+  "fullTitle": "NHK歌謡コンサート #30　新たな旅立ち　希望あふれる歌",
+  "detail": "♪夜桜お七／坂本冬美\r\n♪炎／冠　二郎\r\n♪出世坂／島津亜矢\r\n♪あなたへ／香西かおり　ほか",
+  "start": 1613091600000,
+  "end": 1613095200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 126
+  },
+  "subTitle": "新たな旅立ち　希望あふれる歌",
+  "episode": 30,
+  "flags": []
+}

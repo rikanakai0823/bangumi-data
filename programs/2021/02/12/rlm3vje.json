@@ -1,0 +1,23 @@
+{
+  "id": "rlm3vje",
+  "category": "sports",
+  "title": "亀田製菓 presents アルビレックスタイムス",
+  "fullTitle": "亀田製菓 presents アルビレックスタイムス #103",
+  "detail": "アルビレックス新潟の魅力を様々な切り口からお伝えするクラブ応援番組。今季途中に完全移籍加入した福田晃斗選手が登場。",
+  "start": 1613068800000,
+  "end": 1613070000000,
+  "seconds": 1200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 103,
+  "flags": []
+}

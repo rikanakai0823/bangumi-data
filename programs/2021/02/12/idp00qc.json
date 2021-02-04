@@ -1,0 +1,23 @@
+{
+  "id": "idp00qc",
+  "category": "information",
+  "title": "プレマップ",
+  "fullTitle": "プレマップ",
+  "detail": "",
+  "start": 1613137260000,
+  "end": 1613137380000,
+  "seconds": 120,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

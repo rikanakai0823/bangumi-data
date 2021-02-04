@@ -1,0 +1,25 @@
+{
+  "id": "idy8c94",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#8[二]",
+  "detail": "#8「宝石泥棒を捕まえろ！」",
+  "start": 1613059200000,
+  "end": 1613061000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "宝石泥棒を捕まえろ！",
+  "episode": 8,
+  "flags": [
+    "二"
+  ]
+}

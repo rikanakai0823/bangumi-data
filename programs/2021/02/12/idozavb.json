@@ -1,0 +1,23 @@
+{
+  "id": "idozavb",
+  "category": "sports",
+  "title": "カーリング日本選手権２０２１　男子プレーオフ",
+  "fullTitle": "カーリング日本選手権２０２１　男子プレーオフ",
+  "detail": "　（試合開始　６：０７）　【アナウンサー】田中秀樹　～北海道・稚内市みどりスポーツパークから中継～",
+  "start": 1613120400000,
+  "end": 1613130600000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "アナウンサー",
+  "episode": null,
+  "flags": []
+}

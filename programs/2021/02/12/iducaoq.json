@@ -1,0 +1,25 @@
+{
+  "id": "iducaoq",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６６４",
+  "detail": "",
+  "start": 1613141400000,
+  "end": 1613142000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 664,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp4ayk",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「北前船の贈りもの」[字][再]",
+  "detail": "江戸から明治にかけ日本列島を結んだ物流の大動脈、北前船。米や綿に鉄、塩やニシンなど海の幸も産地から全国に運ばれ、巨万の富を生みました。（２０２０年放送）",
+  "start": 1613084400000,
+  "end": 1613088000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "北前船の贈りもの",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
