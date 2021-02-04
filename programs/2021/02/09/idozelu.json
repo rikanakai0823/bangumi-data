@@ -1,0 +1,25 @@
+{
+  "id": "idozelu",
+  "category": "sports",
+  "title": "ジャンプ女子ワールドカップ２０２０－２１　個人　ヒンツェンバッハ大会",
+  "fullTitle": "ジャンプ女子ワールドカップ２０２０－２１　個人　ヒンツェンバッハ大会[再]",
+  "detail": "【解説】一戸剛，【アナウンサー】星野圭介　～オーストリア・ヒンツェンバッハで収録～",
+  "start": 1612828800000,
+  "end": 1612835400000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
