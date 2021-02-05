@@ -1,11 +1,11 @@
 {
-  "id": "idxc5gc",
+  "id": "idxc5li",
   "category": "sports",
   "title": "WWE PPV大会 「ロイヤルランブル2021」",
-  "fullTitle": "WWE PPV大会 「ロイヤルランブル2021」【日本語字幕版】",
+  "fullTitle": "WWE PPV大会 「ロイヤルランブル2021」【日本語実況版】",
   "detail": "世界最大のスポーツエンターテインメント、WWE。\r\nその4大イベントに数えられるのが、ロイヤルランブルだ。",
-  "start": 1613041200000,
-  "end": 1613055600000,
+  "start": 1613055600000,
+  "end": 1613070000000,
   "seconds": 14400,
   "channel": {
     "type": "BS",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 70
   },
-  "subTitle": "日本語字幕版",
+  "subTitle": "日本語実況版",
   "episode": null,
   "flags": []
 }
