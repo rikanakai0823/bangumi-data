@@ -1,0 +1,27 @@
+{
+  "id": "iduglpg",
+  "category": "cinema",
+  "title": "未来のミライ",
+  "fullTitle": "[映]未来のミライ[SS][字]",
+  "detail": "「おおかみこどもの雨と雪」の細田守監督作。第９１回アカデミー賞長編アニメーション映画賞の候補になった。４歳のくんちゃんは、未来からきた妹のミライちゃんと出会う。",
+  "start": 1613207700000,
+  "end": 1613214000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "おおかみこどもの雨と雪",
+  "episode": 91,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

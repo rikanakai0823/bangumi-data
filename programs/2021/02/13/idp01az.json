@@ -1,0 +1,23 @@
+{
+  "id": "idp01az",
+  "category": "hobby",
+  "title": "攻略！ＡＢＣニュース英語",
+  "fullTitle": "攻略！ＡＢＣニュース英語",
+  "detail": "",
+  "start": 1613162700000,
+  "end": 1613163000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

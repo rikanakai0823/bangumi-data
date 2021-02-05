@@ -1,0 +1,26 @@
+{
+  "id": "iduwn98",
+  "category": "cinema",
+  "title": "ショコラ　～君がいて、僕がいる～",
+  "fullTitle": "[映][SS]ショコラ　～君がいて、僕がいる～",
+  "detail": "オマール・シー主演の伝記ドラマ。２０世紀パリに実在したフランス初の黒人芸人と、彼を支えた相方の絆を描く。［ＰＧ１２］",
+  "start": 1613167200000,
+  "end": 1613175000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

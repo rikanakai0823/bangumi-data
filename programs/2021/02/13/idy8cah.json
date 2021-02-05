@@ -1,0 +1,25 @@
+{
+  "id": "idy8cah",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#9[二]",
+  "detail": "#9「幽霊はいた！」",
+  "start": 1613145600000,
+  "end": 1613147400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "幽霊はいた！",
+  "episode": 9,
+  "flags": [
+    "二"
+  ]
+}

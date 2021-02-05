@@ -1,0 +1,23 @@
+{
+  "id": "rlm3vjh",
+  "category": "sports",
+  "title": "サンフレッチェTV",
+  "fullTitle": "サンフレッチェTV #101",
+  "detail": "サンフレッチェ広島のクラブ応援番組。森崎浩司がサンフレッチェレディースと料理対決。絶品黄金チャーハンを作るために大奮闘。",
+  "start": 1613156400000,
+  "end": 1613157600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 101,
+  "flags": []
+}

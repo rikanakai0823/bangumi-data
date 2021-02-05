@@ -1,0 +1,25 @@
+{
+  "id": "w69895d",
+  "category": "news",
+  "title": "ニュースナイト",
+  "fullTitle": "[英]ニュースナイト(再)",
+  "detail": "英国のＢＢＣ２で放送されている「ニュースナイト」より、選りすぐりの話題やベストレポート、その週のベストトピックスをオムニバス形式でお伝えする。",
+  "start": 1613194200000,
+  "end": 1613196000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "ニュースナイト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

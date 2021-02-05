@@ -1,0 +1,23 @@
+{
+  "id": "idp3ofs",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「冬景色　南八ヶ岳」",
+  "detail": "",
+  "start": 1613153100000,
+  "end": 1613154900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "冬景色　南八ヶ岳",
+  "episode": null,
+  "flags": []
+}

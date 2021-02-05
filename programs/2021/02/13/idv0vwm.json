@@ -1,0 +1,26 @@
+{
+  "id": "idv0vwm",
+  "category": "cinema",
+  "title": "リチャード・ジュエル",
+  "fullTitle": "[映][SS]リチャード・ジュエル[吹]",
+  "detail": "クリント・イーストウッド監督の実話サスペンス。アトランタ爆破テロ事件の容疑者にされてしまった警備員の過酷な運命を描く。",
+  "start": 1613151000000,
+  "end": 1613159100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

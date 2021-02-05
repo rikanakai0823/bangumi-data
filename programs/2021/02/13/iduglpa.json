@@ -1,0 +1,27 @@
+{
+  "id": "iduglpa",
+  "category": "cinema",
+  "title": "初恋（２０１９）[PG12指定]",
+  "fullTitle": "[映]初恋（２０１９）[PG12指定][SS][字]",
+  "detail": "窪田正孝、大森南朋、染谷将太らが鬼才・三池崇史監督のもとに結集したアクションラブストーリー。若者、アウトロー、刑事らの群像が歌舞伎町でカオスに満ちた激闘を展開。",
+  "start": 1613166300000,
+  "end": 1613173500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
