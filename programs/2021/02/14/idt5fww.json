@@ -1,0 +1,23 @@
+{
+  "id": "idt5fww",
+  "category": "information",
+  "title": "火曜ファンタイム　オススメ",
+  "fullTitle": "火曜ファンタイム　オススメ",
+  "detail": "「火曜ファンタイム」番組の見どころを紹介します。",
+  "start": 1613307240000,
+  "end": 1613307600000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "火曜ファンタイム",
+  "episode": null,
+  "flags": []
+}

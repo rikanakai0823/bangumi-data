@@ -1,0 +1,25 @@
+{
+  "id": "idx1oec",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#177「アライグマくんはいそうろう」\r\n#178「バラバラをさがそう」\r\n#179「ボーズくんの家族」\r\n#180「おいしいものが大…",
+  "start": 1613250000000,
+  "end": 1613251800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "アライグマくんはいそうろう",
+  "episode": 177,
+  "flags": [
+    "字"
+  ]
+}

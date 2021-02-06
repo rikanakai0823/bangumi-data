@@ -1,0 +1,25 @@
+{
+  "id": "idy8ccd",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "キャンプ・キキワカ#3[二]",
+  "detail": "#3「キャンプの掟」",
+  "start": 1613311200000,
+  "end": 1613313000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "キャンプの掟",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

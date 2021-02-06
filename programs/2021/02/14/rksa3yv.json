@@ -1,0 +1,23 @@
+{
+  "id": "rksa3yv",
+  "category": "sports",
+  "title": "剣道女子 -9",
+  "fullTitle": "剣道女子 #7-9",
+  "detail": "#7 丸山里桜（順天堂大学）\r\n#8 田中沙百合（タレント）\r\n#9 続木織衣（国士舘大学）",
+  "start": 1613300400000,
+  "end": 1613304000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "丸山里桜（順天堂大学）",
+  "episode": 7,
+  "flags": []
+}

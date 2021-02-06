@@ -1,0 +1,26 @@
+{
+  "id": "idx1oei",
+  "category": "anime",
+  "title": "機動戦士Ｚガンダム －星を継ぐ者－",
+  "fullTitle": "[映][字]機動戦士Ｚガンダム －星を継ぐ者－",
+  "detail": "宇宙世紀0087年。地球に住む特権階級の権益を代表する地球連邦軍のエリート部隊「ティターンズ」と、スペースコロニー…",
+  "start": 1613268000000,
+  "end": 1613275200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "ティターンズ",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idtququ",
+  "category": "anime",
+  "title": "ドラゴンボール超",
+  "fullTitle": "[新]ドラゴンボール超　第1話「平和の報酬1億ゼニーは誰の手に！？」",
+  "detail": "テレビシリーズ初！鳥山明オリジナル原案『ドラゴンボール超』、BSフジ初放送！",
+  "start": 1613264400000,
+  "end": 1613266200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "平和の報酬1億ゼニーは誰の手に！？",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

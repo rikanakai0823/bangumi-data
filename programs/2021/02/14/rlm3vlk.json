@@ -1,0 +1,25 @@
+{
+  "id": "rlm3vlk",
+  "category": "sports",
+  "title": "Bリーグ2020-21 第22節 千葉×信州(2/14)",
+  "fullTitle": "[生]Bリーグ2020-21 第22節 千葉×信州(2/14)",
+  "detail": "Bリーグ 2020-21 第22節(2/14)\r\n対戦:千葉ジェッツ　　　　　　(H)\r\n　　 信州ブレイブウォリアーズ(A)",
+  "start": 1613282400000,
+  "end": 1613293200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

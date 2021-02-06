@@ -1,0 +1,29 @@
+{
+  "id": "3826py3kfl",
+  "category": "cinema",
+  "title": "サタ☆シネ",
+  "fullTitle": "サタ☆シネ「救命士」[二]",
+  "detail": "選りすぐりラインナップで映画をお届け！\n◇関連情報\n【番組公式HP】\r\nwww.tv-tokyo.co.jp/telecine/oa_satcine/",
+  "start": 1613240100000,
+  "end": 1613246400000,
+  "seconds": 6300,
+  "description": "選りすぐりラインナップで映画をお届け！",
+  "extra": {
+    "関連情報": "【番組公式HP】\r\nwww.tv-tokyo.co.jp/telecine/oa_satcine/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "救命士",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

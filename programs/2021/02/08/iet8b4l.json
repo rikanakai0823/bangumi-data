@@ -1,0 +1,23 @@
+{
+  "id": "iet8b4l",
+  "category": "news",
+  "title": "ＳＴＯＣＫ７７７",
+  "fullTitle": "ＳＴＯＣＫ７７７",
+  "detail": "株価データ充実！ＳＴＯＣＫ７７７！",
+  "start": 1612730640000,
+  "end": 1612796400000,
+  "seconds": 65760,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "株価情報",
+    "id": "8l8p",
+    "sid": 777,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp1gex",
+  "category": "sports",
+  "title": "カーリング日本選手権２０２１　男子・決勝",
+  "fullTitle": "カーリング日本選手権２０２１　男子・決勝[字]",
+  "detail": "【解説】小笠原歩，【アナウンサー】飯塚洋介　～北海道・稚内市みどりスポーツパークから中継～",
+  "start": 1613274600000,
+  "end": 1613275200000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

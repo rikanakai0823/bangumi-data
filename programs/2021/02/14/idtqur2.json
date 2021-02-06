@@ -1,0 +1,25 @@
+{
+  "id": "idtqur2",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　京都記念（GⅡ）共同通信杯（GⅢ）",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　京都記念（GⅡ）共同通信杯（GⅢ）",
+  "detail": "2021年は毎週放送！阪神：京都記念（GⅡ）東京：共同通信杯（GⅢ）小倉：北九州短距離ステークス／解説：椋木宏（競馬エイト）ゲスト：横山ルリカ",
+  "start": 1613282400000,
+  "end": 1613286000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

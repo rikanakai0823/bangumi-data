@@ -1,0 +1,26 @@
+{
+  "id": "idv11cs",
+  "category": "cinema",
+  "title": "ロスト・イン・トランスレーション",
+  "fullTitle": "[映][字]ロスト・イン・トランスレーション[吹]",
+  "detail": "異国の街“東京”で偶然知り合ったアメリカ人男女の淡い恋心を、繊細な演出で紡ぎ出したロマンティックストーリー。",
+  "start": 1613282400000,
+  "end": 1613289600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

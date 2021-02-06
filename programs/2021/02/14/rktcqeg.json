@@ -1,0 +1,26 @@
+{
+  "id": "rktcqeg",
+  "category": "music",
+  "title": "平和音楽会～道を歩く",
+  "fullTitle": "平和音楽会～道を歩く　[字][新]",
+  "detail": "日本初放送！AB6IX、YB、キム・ジノ、Dynamic Duo、フォレステラら人気歌手総出演のコンサート！",
+  "start": 1613291400000,
+  "end": 1613296800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}

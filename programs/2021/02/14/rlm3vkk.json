@@ -1,0 +1,25 @@
+{
+  "id": "rlm3vkk",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ 第21節 フランクフルト×ケルン",
+  "fullTitle": "[生]20/21 ブンデスリーガ 第21節 フランクフルト×ケルン",
+  "detail": "解説/実況:柱谷幸一/西岡明彦\r\n開催日:2021年2月14日\r\n会場:ドイチェ バンク パルク",
+  "start": 1613312400000,
+  "end": 1613321400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
