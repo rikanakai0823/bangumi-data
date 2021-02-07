@@ -1,0 +1,27 @@
+{
+  "id": "ieellbl",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「日本の近世('20)」\n◇出演者\n放送大学教授　杉森　哲也",
+  "start": 1613187000000,
+  "end": 1613187900000,
+  "seconds": 900,
+  "description": "「日本の近世('20)」",
+  "extra": {
+    "出演者": "放送大学教授　杉森　哲也"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "日本の近世('20)",
+  "episode": null,
+  "flags": []
+}

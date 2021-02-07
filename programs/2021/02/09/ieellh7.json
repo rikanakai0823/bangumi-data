@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "特別講義",
   "fullTitle": "特別講義",
-  "detail": "「天文学を魅力的に伝えたい」",
+  "detail": "「天文学を魅力的に伝えたい」\n◇出演者\n国立天文台准教授　縣　秀彦",
   "start": 1612880100000,
   "end": 1612882800000,
   "seconds": 2700,
+  "description": "「天文学を魅力的に伝えたい」",
+  "extra": {
+    "出演者": "国立天文台准教授　縣　秀彦"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS11_1",

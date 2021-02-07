@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "授業科目案内～大学の窓",
   "fullTitle": "授業科目案内～大学の窓",
-  "detail": "「音を追究する」",
+  "detail": "「音を追究する」\n◇出演者\n放送大学教授　大橋　理枝",
   "start": 1612754100000,
   "end": 1612755000000,
   "seconds": 900,
+  "description": "「音を追究する」",
+  "extra": {
+    "出演者": "放送大学教授　大橋　理枝"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS11_1",

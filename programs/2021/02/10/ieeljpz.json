@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "統計学",
   "fullTitle": "統計学　第11回",
-  "detail": "「重回帰分析」",
+  "detail": "「重回帰分析」\n◇出演者\n宮崎大学教授　藤井　良宜",
   "start": 1612939500000,
   "end": 1612942200000,
   "seconds": 2700,
+  "description": "「重回帰分析」",
+  "extra": {
+    "出演者": "宮崎大学教授　藤井　良宜"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS11_1",

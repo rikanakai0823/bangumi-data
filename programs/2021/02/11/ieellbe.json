@@ -1,0 +1,27 @@
+{
+  "id": "ieellbe",
+  "category": "etc",
+  "title": "授業科目案内～大学の窓",
+  "fullTitle": "授業科目案内～大学の窓",
+  "detail": "「海からみた産業と日本」\n◇出演者\n放送大学教授　原田　順子",
+  "start": 1613013300000,
+  "end": 1613014200000,
+  "seconds": 900,
+  "description": "「海からみた産業と日本」",
+  "extra": {
+    "出演者": "放送大学教授　原田　順子"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "海からみた産業と日本",
+  "episode": null,
+  "flags": []
+}
