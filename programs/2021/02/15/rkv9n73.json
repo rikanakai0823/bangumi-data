@@ -1,0 +1,23 @@
+{
+  "id": "rkv9n73",
+  "category": "news",
+  "title": "Pre-Dawn　Update",
+  "fullTitle": "Pre-Dawn　Update",
+  "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Pre－Dawn uodate」",
+  "start": 1613318400000,
+  "end": 1613329200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 135
+  },
+  "subTitle": "日テレNEWS24・Pre－Dawn uodate",
+  "episode": null,
+  "flags": []
+}

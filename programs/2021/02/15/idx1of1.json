@@ -1,0 +1,25 @@
+{
+  "id": "idx1of1",
+  "category": "anime",
+  "title": "ルパン三世(PART2) ベストセレクション",
+  "fullTitle": "[字]ルパン三世(PART2) ベストセレクション",
+  "detail": "#146「ルパン華麗なる敗北」\r\n#147「白夜に消えた人魚」\r\nルパン一味が日本から脱出して5年。世界に散っていたルパン・…",
+  "start": 1613332800000,
+  "end": 1613336400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "ルパン華麗なる敗北",
+  "episode": 146,
+  "flags": [
+    "字"
+  ]
+}

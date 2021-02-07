@@ -1,0 +1,25 @@
+{
+  "id": "idy8ccs",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#11[解]",
+  "detail": "#11「ツムツムグラフィティ」",
+  "start": 1613341620000,
+  "end": 1613341800000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ツムツムグラフィティ",
+  "episode": 11,
+  "flags": [
+    "解"
+  ]
+}

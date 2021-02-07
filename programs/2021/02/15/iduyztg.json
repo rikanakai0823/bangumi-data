@@ -1,0 +1,25 @@
+{
+  "id": "iduyztg",
+  "category": "cinema",
+  "title": "狼よさらば",
+  "fullTitle": "[映]狼よさらば",
+  "detail": "チャールズ・ブロンソン主演のハードボイルドアクション第１弾。妻を暴漢に殺害された男が、法を超えて自ら犯罪者に鉄槌を下す。",
+  "start": 1613390400000,
+  "end": 1613396400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

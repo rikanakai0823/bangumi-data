@@ -1,0 +1,25 @@
+{
+  "id": "w63iycb",
+  "category": "information",
+  "title": "ジータスモール",
+  "fullTitle": "[無料]ジータスモール",
+  "detail": "各種インフォメーションをお届けしております",
+  "start": 1613352600000,
+  "end": 1613354400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

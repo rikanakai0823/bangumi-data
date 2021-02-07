@@ -1,0 +1,26 @@
+{
+  "id": "idx1oey",
+  "category": "anime",
+  "title": "スチームボーイ",
+  "fullTitle": "[映][字]スチームボーイ",
+  "detail": "舞台は１９世紀イギリス。蒸気機関が産業を支配し始めていた時代。発明一家のスチム家に生まれた少年レイは、ある日、祖…",
+  "start": 1613318400000,
+  "end": 1613327400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

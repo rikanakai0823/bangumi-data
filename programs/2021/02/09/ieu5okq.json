@@ -1,0 +1,23 @@
+{
+  "id": "ieu5okq",
+  "category": "etc",
+  "title": "放送休止中",
+  "fullTitle": "放送休止中",
+  "detail": "現在、このチャンネルは放送休止中です。\r\nご了承ください。",
+  "start": 1612810800000,
+  "end": 1612897200000,
+  "seconds": 86400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "プレミアムナビ",
+    "id": "8l94",
+    "sid": 792,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

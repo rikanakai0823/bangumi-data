@@ -1,0 +1,26 @@
+{
+  "id": "idv14pi",
+  "category": "cinema",
+  "title": "グレタ　ＧＲＥＴＡ",
+  "fullTitle": "[映][SS]グレタ　ＧＲＥＴＡ[吹]",
+  "detail": "イザベル・ユペール、クロエ・グレース・モレッツ主演のサイコスリラー。忘れ物の鞄を見つけた女性が巻き込まれる恐怖を描く。",
+  "start": 1613379000000,
+  "end": 1613385900000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

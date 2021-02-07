@@ -1,0 +1,25 @@
+{
+  "id": "idy8cdc",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#62[二]",
+  "detail": "#62「豪華客船」",
+  "start": 1613373900000,
+  "end": 1613374200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "豪華客船",
+  "episode": 62,
+  "flags": [
+    "二"
+  ]
+}
