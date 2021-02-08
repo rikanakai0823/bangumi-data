@@ -1,0 +1,27 @@
+{
+  "id": "iduglqf",
+  "category": "cinema",
+  "title": "コドモ警察",
+  "fullTitle": "[映]コドモ警察[SS][字]",
+  "detail": "悪の組織に子どもの姿へと変えられてしまった刑事たちが、悪戦苦闘しながら難事件に挑む。人気監督・福田雄一が参加した深夜ドラマを映画化したパロディ刑事ドラマ。",
+  "start": 1613453400000,
+  "end": 1613459700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

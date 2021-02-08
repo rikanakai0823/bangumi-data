@@ -1,0 +1,25 @@
+{
+  "id": "idsk2ou",
+  "category": "cinema",
+  "title": "「ＮＥＸＴ－ネクスト－」",
+  "fullTitle": "[映]「ＮＥＸＴ－ネクスト－」【吹替】",
+  "detail": "「マイノリティ・リポート」の原作者が描く、タイムリミット・アクション超大作！",
+  "start": 1613476800000,
+  "end": 1613483640000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

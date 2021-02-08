@@ -1,0 +1,26 @@
+{
+  "id": "idozepm",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「ＭＡＳＡと奇跡の合唱団」[字][再]",
+  "detail": "アメリカで「奇跡の合唱団」と呼ばれる子どもたちの合唱団がある。率いるのは、子どもたちにＭＡＳＡと慕われる日本人の福田真史さん。ＭＡＳＡと子どもたちの成長の物語。",
+  "start": 1613404200000,
+  "end": 1613407200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ＭＡＳＡと奇跡の合唱団",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

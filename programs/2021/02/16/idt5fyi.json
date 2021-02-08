@@ -1,0 +1,25 @@
+{
+  "id": "idt5fyi",
+  "category": "music",
+  "title": "ＢＳ演歌の花道",
+  "fullTitle": "ＢＳ演歌の花道[字]",
+  "detail": "1978年から22年間放送した伝説の番組「演歌の花道」が復活！千昌夫、山本譲二、石川さゆり、氷川きよし、レーモンド松屋、水田竜子",
+  "start": 1613469600000,
+  "end": 1613473200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "演歌の花道",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

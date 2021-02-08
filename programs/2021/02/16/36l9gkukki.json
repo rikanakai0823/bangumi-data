@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkukki",
+  "category": "news",
+  "title": "テレビ傍聴席",
+  "fullTitle": "テレビ傍聴席",
+  "detail": "▽予算委員会",
+  "start": 1613448000000,
+  "end": 1613462400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

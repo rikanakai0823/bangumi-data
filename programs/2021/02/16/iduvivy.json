@@ -1,0 +1,26 @@
+{
+  "id": "iduvivy",
+  "category": "cinema",
+  "title": "ミッドナイト・ラン",
+  "fullTitle": "[映][SS]ミッドナイト・ラン【“最高のふたり”バディムービー特集】",
+  "detail": "ロバート・デ・ニーロ主演のアクションコメディ。一匹狼の賞金稼ぎと堅物会計士の大陸横断のおかしな逃避行を描く。",
+  "start": 1613460600000,
+  "end": 1613468700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "“最高のふたり”バディムービー特集",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

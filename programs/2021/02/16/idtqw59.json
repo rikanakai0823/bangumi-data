@@ -1,0 +1,23 @@
+{
+  "id": "idtqw59",
+  "category": "information",
+  "title": "ニッセンテレビショッピング",
+  "fullTitle": "ニッセンテレビショッピング",
+  "detail": "",
+  "start": 1613455140000,
+  "end": 1613456880000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

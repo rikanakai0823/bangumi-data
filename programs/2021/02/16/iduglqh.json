@@ -1,0 +1,26 @@
+{
+  "id": "iduglqh",
+  "category": "cinema",
+  "title": "東京物語",
+  "fullTitle": "[映]東京物語[字]",
+  "detail": "名匠・小津安二郎監督が１９５３年に発表。戦後の変わりゆく家族関係を、透徹したまなざしで見つめ、世界映画史上において最高傑作の１本として広く知れ渡った不朽の名作。",
+  "start": 1613467800000,
+  "end": 1613476800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

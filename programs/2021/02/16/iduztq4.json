@@ -1,0 +1,26 @@
+{
+  "id": "iduztq4",
+  "category": "cinema",
+  "title": "アサシネーション・ネーション",
+  "fullTitle": "[映][SS]アサシネーション・ネーション[吹]",
+  "detail": "スタイリッシュな青春バイオレンススリラー。個人情報が流出し、濡れ衣を着せられた女子高生の運命を描く。［Ｒ１５＋相当］",
+  "start": 1613484000000,
+  "end": 1613491200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
