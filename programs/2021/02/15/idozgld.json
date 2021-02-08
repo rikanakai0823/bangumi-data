@@ -1,12 +1,12 @@
 {
-  "id": "idozbsr",
-  "category": "sports",
-  "title": "スポーツ×ヒューマン",
-  "fullTitle": "スポーツ×ヒューマン[字]",
+  "id": "idozgld",
+  "category": "etc",
+  "title": "ＢＳセレクション",
+  "fullTitle": "ＢＳセレクション",
   "detail": "",
-  "start": 1613390400000,
-  "end": 1613393100000,
-  "seconds": 2700,
+  "start": 1613385900000,
+  "end": 1613386200000,
+  "seconds": 300,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }

@@ -1,12 +1,12 @@
 {
   "id": "iducapx",
-  "category": "etc",
-  "title": "番組未定",
-  "fullTitle": "番組未定",
+  "category": "variety",
+  "title": "３月５日公開！完全ガイド",
+  "fullTitle": "[無]３月５日公開！「太陽は動かない」完全ガイド　＃１　キャスト編",
   "detail": "",
   "start": 1613298600000,
-  "end": 1613307600000,
-  "seconds": 9000,
+  "end": 1613299500000,
+  "seconds": 900,
   "channel": {
     "type": "BS",
     "channel": "BS03_0",
@@ -17,7 +17,9 @@
     "hasLogoData": false,
     "n": 59
   },
-  "subTitle": "",
-  "episode": null,
-  "flags": []
+  "subTitle": "キャスト編",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
 }

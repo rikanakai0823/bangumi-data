@@ -2,7 +2,7 @@
   "id": "381f5ks5gv",
   "category": "information",
   "title": "「青天を衝（つ）け」の世界",
-  "fullTitle": "「青天を衝（つ）け」の世界",
+  "fullTitle": "「青天を衝（つ）け」の世界[字]",
   "detail": "",
   "start": 1613247000000,
   "end": 1613247300000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
