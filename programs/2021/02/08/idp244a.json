@@ -1,0 +1,25 @@
+{
+  "id": "idp244a",
+  "category": "news",
+  "title": "ワールドニュース",
+  "fullTitle": "ワールドニュース[二]",
+  "detail": "▽アメリカ・ＡＢＣ，フランス・Ｆ２",
+  "start": 1612754700000,
+  "end": 1612755840000,
+  "seconds": 1140,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
