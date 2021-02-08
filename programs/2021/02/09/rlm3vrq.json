@@ -1,0 +1,23 @@
+{
+  "id": "rlm3vrq",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ 第20節 シャルケ×ライプツィヒ",
+  "fullTitle": "20/21 ブンデスリーガ 第20節 シャルケ×ライプツィヒ",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年2月6日\r\n会場:フェルティンス アレーナ",
+  "start": 1612819800000,
+  "end": 1612828800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
