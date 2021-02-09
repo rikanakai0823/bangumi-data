@@ -1,0 +1,25 @@
+{
+  "id": "idy8cg2",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#64[二]",
+  "detail": "#64「二人三脚」",
+  "start": 1613546700000,
+  "end": 1613547000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "二人三脚",
+  "episode": 64,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idt5fzj",
+  "category": "information",
+  "title": "金曜アドバンス　オススメ",
+  "fullTitle": "金曜アドバンス　オススメ",
+  "detail": "「金曜アドバンス」番組の見どころを紹介します。",
+  "start": 1613566440000,
+  "end": 1613566800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "金曜アドバンス",
+  "episode": null,
+  "flags": []
+}

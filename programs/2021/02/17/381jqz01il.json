@@ -1,0 +1,26 @@
+{
+  "id": "381jqz01il",
+  "category": "hobby",
+  "title": "ｕ＆ｉ",
+  "fullTitle": "ｕ＆ｉ[解][字]",
+  "detail": "",
+  "start": 1613520000000,
+  "end": 1613520600000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

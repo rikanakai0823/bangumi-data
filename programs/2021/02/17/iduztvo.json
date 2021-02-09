@@ -1,0 +1,25 @@
+{
+  "id": "iduztvo",
+  "category": "drama",
+  "title": "ＶＩＮＹＬ‐ヴァイナル‐",
+  "fullTitle": "ＶＩＮＹＬ‐ヴァイナル‐　＃３[二]",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ一挙放送】",
+  "start": 1613491200000,
+  "end": 1613495700000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ一挙放送",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

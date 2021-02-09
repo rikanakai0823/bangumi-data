@@ -1,0 +1,23 @@
+{
+  "id": "rkdr3rj",
+  "category": "information",
+  "title": "ジュエリースペシャル",
+  "fullTitle": "ジュエリースペシャル",
+  "detail": "ジュエリー／フレッシュに輝く　ジュエリーデイ／季節を先取りするフレッシュなコレクション。ときめきを運ぶ新しい輝きをお楽しみください。",
+  "start": 1613552400000,
+  "end": 1613556000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 87
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

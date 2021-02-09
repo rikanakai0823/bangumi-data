@@ -1,0 +1,25 @@
+{
+  "id": "idp3num",
+  "category": "documentary",
+  "title": "南極　氷の下のタイムカプセル",
+  "fullTitle": "南極　氷の下のタイムカプセル「湖底にひろがる太古の地球」[字]",
+  "detail": "地球最後の秘境・南極。氷の下の湖に「進化のタイムカプセル」が。２回目は潜水。底にはコブのような奇妙な膨らみ。細長い毛のすき間に小さな気泡。正体は？",
+  "start": 1613568780000,
+  "end": 1613569620000,
+  "seconds": 840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "湖底にひろがる太古の地球",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

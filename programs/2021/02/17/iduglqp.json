@@ -1,0 +1,26 @@
+{
+  "id": "iduglqp",
+  "category": "cinema",
+  "title": "半分の月がのぼる空",
+  "fullTitle": "[映]半分の月がのぼる空[字]",
+  "detail": "池松壮亮と忽那汐里の共演で恋愛ライトノベルを映画化。心臓病を患う少女と出会った男子高校生。わがままな彼女に振り回されながらも惹かれていく彼の切ない恋の行方は。",
+  "start": 1613529000000,
+  "end": 1613536200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
