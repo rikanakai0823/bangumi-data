@@ -1,0 +1,26 @@
+{
+  "id": "idozhyn",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「“Ｚ世代”×“コロナ”」[字][再]",
+  "detail": "コロナ禍でネット社会の申し子、１９９５年以降生まれの“Ｚ世代”の影響力が加速。ネットライブのカリスマ、アプリ開発の学生起業家、インスタコンサルタントに密着した。",
+  "start": 1613146500000,
+  "end": 1613149440000,
+  "seconds": 2940,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "“Ｚ世代”×“コロナ”",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
