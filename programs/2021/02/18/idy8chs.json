@@ -1,0 +1,25 @@
+{
+  "id": "idy8chs",
+  "category": "drama",
+  "title": "アンディ・マック",
+  "fullTitle": "アンディ・マック#30[二]",
+  "detail": "#30「打ち明ける時」",
+  "start": 1613653200000,
+  "end": 1613655000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "打ち明ける時",
+  "episode": 30,
+  "flags": [
+    "二"
+  ]
+}

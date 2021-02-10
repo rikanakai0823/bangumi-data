@@ -1,0 +1,25 @@
+{
+  "id": "idx1ohs",
+  "category": "anime",
+  "title": "ギヴン",
+  "fullTitle": "[字]ギヴン #3",
+  "detail": "#3「Somebody Else」\r\n好きだったはずのギターも、おもしろかったはずのバスケも、くすんで見え始めたある日、上ノ山立…",
+  "start": 1613644200000,
+  "end": 1613646000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "Somebody Else",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

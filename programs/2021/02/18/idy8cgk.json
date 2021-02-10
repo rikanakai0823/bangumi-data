@@ -1,0 +1,25 @@
+{
+  "id": "idy8cgk",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#12[二]",
+  "detail": "#12「レッツロックンロール」",
+  "start": 1613577600000,
+  "end": 1613579400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "レッツロックンロール",
+  "episode": 12,
+  "flags": [
+    "二"
+  ]
+}

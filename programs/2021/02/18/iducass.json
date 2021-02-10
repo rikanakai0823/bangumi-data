@@ -1,0 +1,26 @@
+{
+  "id": "iducass",
+  "category": "cinema",
+  "title": "ホフマニアダ　ホフマンの物語（字幕版）",
+  "fullTitle": "[映]ホフマニアダ　ホフマンの物語（字幕版）[SS]",
+  "detail": "幻想文学の巨匠Ｅ・Ｔ・Ａ・ホフマンを主人公に、彼が自らの思い描く作品世界と現実とを行き来する姿を、１５年もの歳月をかけ、パペット（人形）アニメの手法で描く。",
+  "start": 1613634000000,
+  "end": 1613638500000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

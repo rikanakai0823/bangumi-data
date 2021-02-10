@@ -1,0 +1,23 @@
+{
+  "id": "w6989bz",
+  "category": "news",
+  "title": "アウトサイド・ソース",
+  "fullTitle": "[英]アウトサイド・ソース",
+  "detail": "BBCニュースルームから生放送で送る国際ニュース番組。ラジオやインターネット、中継も織り交ぜながら、その日の主要な出来事の最新の動きをお届けする。",
+  "start": 1613588400000,
+  "end": 1613590200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

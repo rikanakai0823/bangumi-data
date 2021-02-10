@@ -1,0 +1,26 @@
+{
+  "id": "iduxtu9",
+  "category": "cinema",
+  "title": "デイ・アフター・トゥモロー",
+  "fullTitle": "[映][SS]デイ・アフター・トゥモロー",
+  "detail": "ローランド・エメリッヒ監督のＳＦパニック。地球温暖化による自然災害に立ち向かう気象学者の闘いを壮大なスケールで描く。",
+  "start": 1613609100000,
+  "end": 1613617200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

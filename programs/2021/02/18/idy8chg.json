@@ -1,0 +1,25 @@
+{
+  "id": "idy8chg",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#65[二]",
+  "detail": "#65「あやしい地図」",
+  "start": 1613633100000,
+  "end": 1613633400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "あやしい地図",
+  "episode": 65,
+  "flags": [
+    "二"
+  ]
+}

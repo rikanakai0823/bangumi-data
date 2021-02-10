@@ -1,0 +1,23 @@
+{
+  "id": "rlm3vk5",
+  "category": "sports",
+  "title": "20/21 ドイツ ブンデスリーガ ハイライト",
+  "fullTitle": "20/21 ドイツ ブンデスリーガ ハイライト #21",
+  "detail": "その節に行われたブンデスリーガの試合のハイライトを凝縮してお届け！",
+  "start": 1613574000000,
+  "end": 1613577600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 21,
+  "flags": []
+}

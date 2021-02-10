@@ -1,0 +1,25 @@
+{
+  "id": "idrdgmo",
+  "category": "drama",
+  "title": "ドラマ　Ｄｒ．倫太郎",
+  "fullTitle": "ドラマ　Ｄｒ．倫太郎[終]　第１０話",
+  "detail": "これは、ある精神科医の物語。\r\n彼の名前は、日野倫太郎（堺雅人）。\r\n傷ついた人々の心にとことん寄り添い、病める心を解きほぐしていく。",
+  "start": 1613646000000,
+  "end": 1613649600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": [
+    "終"
+  ]
+}

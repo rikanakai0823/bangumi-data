@@ -1,0 +1,23 @@
+{
+  "id": "w693s9j",
+  "category": "news",
+  "title": "CBSイブニングニュース<録画>",
+  "fullTitle": "CBSイブニングニュース<録画>",
+  "detail": "米ＣＢＳのメインニュースを録画放送・英語版",
+  "start": 1613615400000,
+  "end": 1613617200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm3vmo",
+  "category": "sports",
+  "title": "HAWKS宮崎春季キャンプ中継2021 午前の部 2/18",
+  "fullTitle": "[生]HAWKS宮崎春季キャンプ中継2021 午前の部 2/18",
+  "detail": "春季キャンプの模様を全日程生中継！午前・午後に分けて計４時間以上たっぷりとお届けします。",
+  "start": 1613610000000,
+  "end": 1613617200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

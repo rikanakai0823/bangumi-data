@@ -1,0 +1,25 @@
+{
+  "id": "w63iyfv",
+  "category": "sports",
+  "title": "巨人練習試合2021～那覇～",
+  "fullTitle": "巨人練習試合2021「巨人×広島」～那覇～[再]",
+  "detail": "2021年2月17日開催　*雨天中止の場合番組変更\r\n実況：町田浩徳",
+  "start": 1613592000000,
+  "end": 1613606400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "巨人×広島",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
