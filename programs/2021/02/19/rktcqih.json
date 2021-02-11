@@ -1,0 +1,26 @@
+{
+  "id": "rktcqih",
+  "category": "cinema",
+  "title": "Ｋ-シアター",
+  "fullTitle": "Ｋ-シアター「グローリーデイ」[字][再]",
+  "detail": "KBS World初放送！スホ (EXO)、ジス、リュ・ジュンヨル主演！二十歳の輝きともろさをリアルに描き、切なさが押し寄せる衝撃作！2015年",
+  "start": 1613745600000,
+  "end": 1613753700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "グローリーデイ",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

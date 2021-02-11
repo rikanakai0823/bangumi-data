@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr1gub",
+  "category": "news",
+  "title": "ニュース９３０",
+  "fullTitle": "ニュース９３０[Ｓ]",
+  "detail": "県内ニュース▽あすの天気\n◇出演者\n宮田愛子（テレ玉アナウンサー）",
+  "start": 1613737800000,
+  "end": 1613738700000,
+  "seconds": 900,
+  "description": "県内ニュース▽あすの天気",
+  "extra": {
+    "出演者": "宮田愛子（テレ玉アナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

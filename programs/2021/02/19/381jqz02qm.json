@@ -1,0 +1,25 @@
+{
+  "id": "381jqz02qm",
+  "category": "hobby",
+  "title": "ビットワールド",
+  "fullTitle": "ビットワールド[双]",
+  "detail": "",
+  "start": 1613726400000,
+  "end": 1613728500000,
+  "seconds": 2100,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "双"
+  ]
+}

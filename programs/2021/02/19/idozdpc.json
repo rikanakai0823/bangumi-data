@@ -1,0 +1,25 @@
+{
+  "id": "idozdpc",
+  "category": "information",
+  "title": "ＢＳコンシェルジュ",
+  "fullTitle": "ＢＳコンシェルジュ「鑑定！どうぶつ不動産～島へ～　壇蜜」[字]",
+  "detail": "【ゲスト】壇蜜，【司会】安めぐみ，田村直之，【語り】安井絵里",
+  "start": 1613710800000,
+  "end": 1613712300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "鑑定！どうぶつ不動産～島へ～　壇蜜",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

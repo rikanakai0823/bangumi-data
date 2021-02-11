@@ -1,0 +1,26 @@
+{
+  "id": "idueizn",
+  "category": "cinema",
+  "title": "１０ミニッツ（字幕版）",
+  "fullTitle": "[映]１０ミニッツ（字幕版）[SS]",
+  "detail": "気を失ったわずか１０分の間に弟を殺されてしまった銀行強盗一味の男が、弟を殺した裏切り者を捜して奔走する。Ｍ・チクリスとＢ・ウィリスが共演した犯罪アクション。",
+  "start": 1613690400000,
+  "end": 1613696400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

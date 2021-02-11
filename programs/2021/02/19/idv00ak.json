@@ -1,0 +1,25 @@
+{
+  "id": "idv00ak",
+  "category": "drama",
+  "title": "ＶＩＮＹＬ‐ヴァイナル‐",
+  "fullTitle": "ＶＩＮＹＬ‐ヴァイナル‐　＃８[二]",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ一挙放送】",
+  "start": 1613668800000,
+  "end": 1613673600000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ一挙放送",
+  "episode": 8,
+  "flags": [
+    "二"
+  ]
+}

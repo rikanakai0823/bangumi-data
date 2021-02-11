@@ -1,0 +1,23 @@
+{
+  "id": "w69u6zy",
+  "category": "hobby",
+  "title": "次の一手TV No.2",
+  "fullTitle": "次の一手TV No.2",
+  "detail": "番組進行：新垣未希",
+  "start": 1613688420000,
+  "end": 1613689200000,
+  "seconds": 780,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "囲碁・将棋チャンネル",
+    "id": "f0ej",
+    "sid": 363,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

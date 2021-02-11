@@ -1,0 +1,26 @@
+{
+  "id": "iduxx74",
+  "category": "cinema",
+  "title": "ゼイ・シャル・ノット・グロウ・オールド",
+  "fullTitle": "[映][SS]ゼイ・シャル・ノット・グロウ・オールド",
+  "detail": "【特集：ドキュメンタリー映画最前線！】",
+  "start": 1613703600000,
+  "end": 1613709900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "特集：ドキュメンタリー映画最前線！",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

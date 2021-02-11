@@ -1,0 +1,23 @@
+{
+  "id": "w65w3m4",
+  "category": "information",
+  "title": "TBSチャンネルショッピング",
+  "fullTitle": "TBSチャンネルショッピング",
+  "detail": "選りすぐりの商品をご紹介します！",
+  "start": 1613712600000,
+  "end": 1613714400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

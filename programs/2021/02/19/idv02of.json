@@ -1,0 +1,27 @@
+{
+  "id": "idv02of",
+  "category": "cinema",
+  "title": "永遠の僕たち",
+  "fullTitle": "[映][SS][字]永遠の僕たち[吹]",
+  "detail": "ガス・ヴァン・サント監督が、孤独な少年と難病の少女の恋を繊細に描く。加瀬亮が特攻隊員の幽霊役で出演。",
+  "start": 1613718900000,
+  "end": 1613725200000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

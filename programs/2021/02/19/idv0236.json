@@ -1,0 +1,27 @@
+{
+  "id": "idv0236",
+  "category": "cinema",
+  "title": "ブラック・スワン",
+  "fullTitle": "[映][SS][字]ブラック・スワン[吹]",
+  "detail": "ナタリー・ポートマンがアカデミー主演女優賞を受賞。熾烈なバレエの世界で次第に追い詰められるヒロインの運命は？［Ｒ１５＋］",
+  "start": 1613692200000,
+  "end": 1613700000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
