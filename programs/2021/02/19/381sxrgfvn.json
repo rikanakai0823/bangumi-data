@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "世界陸上　ＴＨＥ　ＢＥＳＴ　ロンドン２０１７",
   "fullTitle": "世界陸上　ＴＨＥ　ＢＥＳＴ　ロンドン２０１７",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/athletics/the-best/",
   "start": 1613667900000,
   "end": 1613675100000,
   "seconds": 7200,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/athletics/the-best/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",

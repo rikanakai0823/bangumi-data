@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「宮益坂賞」「道玄坂賞」",
+  "detail": "「宮益坂賞」「道玄坂賞」\n◇出演者\n【MC】\r\n前半：芦崎愛\r\n後半：宮脇美咲\r\n【解説】\r\n豊岡加奈子（勝馬）",
   "start": 1613370000000,
   "end": 1613376000000,
   "seconds": 6000,
+  "description": "「宮益坂賞」「道玄坂賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：芦崎愛\r\n後半：宮脇美咲\r\n【解説】\r\n豊岡加奈子（勝馬）"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

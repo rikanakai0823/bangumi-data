@@ -1,0 +1,23 @@
+{
+  "id": "idp1o5u",
+  "category": "sports",
+  "title": "アルペン世界選手権２０２１",
+  "fullTitle": "アルペン世界選手権２０２１「女子滑降」",
+  "detail": "【解説】川端絵美，【アナウンサー】横山哲也　～イタリア・コルティナダンペッツォから中継～",
+  "start": 1613217000000,
+  "end": 1613217600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "女子滑降",
+  "episode": null,
+  "flags": []
+}

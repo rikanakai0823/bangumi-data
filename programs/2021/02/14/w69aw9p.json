@@ -1,12 +1,12 @@
 {
   "id": "w69aw9p",
-  "category": "sports",
-  "title": "World Sport",
-  "fullTitle": "[二]World Sport",
-  "detail": "日本語同時通訳付。\r\n欧州サッカー、米4大スポーツNFL、MLB、NBA、NHL、ラグビー、ゴルフ、テニスまで、世界のスポーツの最新結果はこの番組でチェック！\r\n",
+  "category": "news",
+  "title": "特別番組：トランプ前米大統領　弾劾裁判",
+  "fullTitle": "[二]特別番組：トランプ前米大統領　弾劾裁判",
+  "detail": "米議会襲撃を扇動したとして弾劾訴追された、トランプ前大統領の弾劾裁判の模様を生中継。トランプ氏は出廷を拒否、弁護団は退任後に裁く違憲性を主張している。",
   "start": 1613253600000,
-  "end": 1613255400000,
-  "seconds": 1800,
+  "end": 1613257200000,
+  "seconds": 3600,
   "channel": {
     "type": "CS",
     "channel": "CS6",
