@@ -1,8 +1,8 @@
 {
   "id": "381f5ks7d3",
-  "category": "etc",
+  "category": "information",
   "title": "新型コロナ　命を守る行動を",
-  "fullTitle": "新型コロナ　命を守る行動を",
+  "fullTitle": "新型コロナ　命を守る行動を「この病気を甘く見てはいけない」[字]",
   "detail": "",
   "start": 1613648520000,
   "end": 1613648700000,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "この病気を甘く見てはいけない",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

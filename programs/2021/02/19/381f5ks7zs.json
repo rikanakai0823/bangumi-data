@@ -1,8 +1,8 @@
 {
   "id": "381f5ks7zs",
-  "category": "etc",
+  "category": "information",
   "title": "新型コロナ　命を守る行動を",
-  "fullTitle": "新型コロナ　命を守る行動を",
+  "fullTitle": "新型コロナ　命を守る行動を「最新の知見から・客席数を減らそう」[字]",
   "detail": "",
   "start": 1613734920000,
   "end": 1613735100000,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "最新の知見から・客席数を減らそう",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

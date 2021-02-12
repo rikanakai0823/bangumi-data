@@ -1,12 +1,16 @@
 {
   "id": "381f5ks7y8",
-  "category": "news",
-  "title": "ＮＨＫ地域局発",
-  "fullTitle": "ＮＨＫ地域局発[字]",
-  "detail": "",
+  "category": "information",
+  "title": "ＮＨＫ地域局発　茨城ＳＰ",
+  "fullTitle": "ＮＨＫ地域局発　茨城ＳＰ「水戸も舞台！“青天を衝（つ）け”見どころ徹底紹介」[字]",
+  "detail": "【出演】竹中直人，津田寛治，草彅剛，中村慶子\n◇出演者\n【出演】竹中直人，津田寛治，草彅剛，中村慶子",
   "start": 1613697300000,
-  "end": 1613699100000,
-  "seconds": 1800,
+  "end": 1613698920000,
+  "seconds": 1620,
+  "description": "【出演】竹中直人，津田寛治，草彅剛，中村慶子",
+  "extra": {
+    "出演者": "【出演】竹中直人，津田寛治，草彅剛，中村慶子"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "水戸も舞台！“青天を衝（つ）け”見どころ徹底紹介",
   "episode": null,
   "flags": [
     "字"
