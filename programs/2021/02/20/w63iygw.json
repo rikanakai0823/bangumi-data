@@ -1,0 +1,25 @@
+{
+  "id": "w63iygw",
+  "category": "sports",
+  "title": "巨人練習試合2021～那覇～",
+  "fullTitle": "[生]巨人練習試合2021「巨人×日本ハム」～那覇～",
+  "detail": "～生中継　*早終了あり、延長なし\r\n実況：蛯原哲",
+  "start": 1613790900000,
+  "end": 1613805300000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "巨人×日本ハム",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

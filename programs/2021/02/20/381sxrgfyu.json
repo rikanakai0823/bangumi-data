@@ -1,0 +1,25 @@
+{
+  "id": "381sxrgfyu",
+  "category": "information",
+  "title": "「オトラクション」ナビ",
+  "fullTitle": "「オトラクション」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1613800800000,
+  "end": 1613804400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

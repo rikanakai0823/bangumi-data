@@ -1,0 +1,26 @@
+{
+  "id": "iduvvw4",
+  "category": "cinema",
+  "title": "【最新作】ストーリー・オブ・マイライフ／わたしの若草物語",
+  "fullTitle": "【最新作】[映][SS]ストーリー・オブ・マイライフ／わたしの若草物語",
+  "detail": "【メガヒット９】【見くらべシネマ】",
+  "start": 1613822400000,
+  "end": 1613831400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

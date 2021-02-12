@@ -1,0 +1,25 @@
+{
+  "id": "idv03je",
+  "category": "cinema",
+  "title": "愛人／ラマン",
+  "fullTitle": "[映]愛人／ラマン[吹]",
+  "detail": "フランス植民地時代のインドシナを舞台に、少女の愛と性のめざめを鮮烈に描いた、美しくも官能的なラブロマンス。［Ｒ－１５］",
+  "start": 1613759400000,
+  "end": 1613766600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

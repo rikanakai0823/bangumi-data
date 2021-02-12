@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkuku8",
+  "category": "news",
+  "title": "ＮＥＷＳチバ６００",
+  "fullTitle": "ＮＥＷＳチバ６００",
+  "detail": "▽新型コロナ最新情報\r\n▽天気予報\r\n",
+  "start": 1613811600000,
+  "end": 1613811900000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

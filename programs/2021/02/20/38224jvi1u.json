@@ -1,0 +1,25 @@
+{
+  "id": "38224jvi1u",
+  "category": "drama",
+  "title": "ミッドナイトフライデー",
+  "fullTitle": "ミッドナイトフライデー[字]",
+  "detail": "金曜の深夜の眠れないアナタに極上のエンターテインメントをお届け！バラエティ・ドラマ・スポーツなど、時代の先を行くこだわり番組!!",
+  "start": 1613757600000,
+  "end": 1613759400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

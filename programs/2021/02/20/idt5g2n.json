@@ -1,0 +1,25 @@
+{
+  "id": "idt5g2n",
+  "category": "information",
+  "title": "ファッション通信",
+  "fullTitle": "ファッション通信【リクエスト・スペシャル】[字]",
+  "detail": "35年にわたる膨大なアーカイブをスペシャル・エディションでお届けする「リクエスト・スペシャル」！80～90年代にフォーカス。めくるめく時代の彼方へタイムスリップ！",
+  "start": 1613829600000,
+  "end": 1613831400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "リクエスト・スペシャル",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

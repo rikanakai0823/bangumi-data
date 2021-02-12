@@ -1,0 +1,27 @@
+{
+  "id": "iduglrn",
+  "category": "cinema",
+  "title": "エリカ３８[PG12指定]",
+  "fullTitle": "[映]エリカ３８[PG12指定][SS][字]",
+  "detail": "樹木希林が親交の深い浅田美代子を主演に据え、自ら初の企画を担当した犯罪ドラマ。実際に起きた投資詐欺事件をモチーフに、金と欲望に溺れていくひとりの女性の姿を描く。",
+  "start": 1613766600000,
+  "end": 1613773800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

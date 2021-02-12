@@ -1,0 +1,23 @@
+{
+  "id": "idp1jdp",
+  "category": "sports",
+  "title": "アルペン世界選手権２０２１（２回目）",
+  "fullTitle": "アルペン世界選手権２０２１「女子回転」（２回目）",
+  "detail": "【解説】清澤恵美子，【アナウンサー】小宮山晃義　～イタリア・コルティナダンペッツォから中継～",
+  "start": 1613821800000,
+  "end": 1613829000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "女子回転",
+  "episode": null,
+  "flags": []
+}

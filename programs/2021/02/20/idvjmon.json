@@ -1,0 +1,26 @@
+{
+  "id": "idvjmon",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【東京】５Ｒ～８Ｒ\r\n【阪神】５Ｒ～８Ｒ，９Ｒ「つばき賞」\r\n★ＧⅢ「ダイヤモンドステークス」（東京），ＧⅢ「京都牝馬ステークス」（阪神）レース展望",
+  "start": 1613790000000,
+  "end": 1613799000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "東京",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

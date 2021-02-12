@@ -1,0 +1,23 @@
+{
+  "id": "idwqku1",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「生活知と科学知('09)第７回・８回」",
+  "start": 1613795400000,
+  "end": 1613800800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 67
+  },
+  "subTitle": "生活知と科学知('09)第７回・８回",
+  "episode": 7,
+  "flags": []
+}

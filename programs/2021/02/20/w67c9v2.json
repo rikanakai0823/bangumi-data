@@ -1,0 +1,23 @@
+{
+  "id": "w67c9v2",
+  "category": "music",
+  "title": "iTunesランキング20",
+  "fullTitle": "iTunesランキング20",
+  "detail": "最新ダウンロードランキングをベースに上位20曲のミュージックビデオを一挙オンエア。\r\n情報提供：iTunes",
+  "start": 1613754000000,
+  "end": 1613761200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "スペシャプラス",
+    "id": "f0dd",
+    "sid": 321,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduglrq",
+  "category": "cinema",
+  "title": "西遊記（２００７）",
+  "fullTitle": "[映]西遊記（２００７）[SS][字]",
+  "detail": "香取慎吾が孫悟空に扮した人気ＴＶドラマの劇場版。内村光良、伊藤淳史、深津絵里らＴＶ版のレギュラー陣も結集。最強の敵、金角・銀角に遭遇した三蔵法師一行の運命は？",
+  "start": 1613787000000,
+  "end": 1613794500000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
