@@ -3,13 +3,15 @@
   "category": "sports",
   "title": "世界陸上　ＴＨＥ　ＢＥＳＴ　ロンドン２０１７",
   "fullTitle": "世界陸上　ＴＨＥ　ＢＥＳＴ　ロンドン２０１７",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/athletics/the-best/",
+  "detail": "世界中が見届けた、ウサイン・ボルト衝撃のラストラン\r\nサニブラウン＆日本男子リレーの歴史的快挙！\r\n世界陸上2017年大会の激闘を一挙お届け！\n◇主な競技\n男子100m／男子200m／男子4×100mリレー／\r\n男子10000m／男子棒高跳／女子100m／女子400m／女子10000m\r\n\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/athletics/the-best/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1613667900000,
   "end": 1613675100000,
   "seconds": 7200,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "世界中が見届けた、ウサイン・ボルト衝撃のラストラン\r\nサニブラウン＆日本男子リレーの歴史的快挙！\r\n世界陸上2017年大会の激闘を一挙お届け！",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/athletics/the-best/\r\n"
+    "主な競技": "男子100m／男子200m／男子4×100mリレー／\r\n男子10000m／男子棒高跳／女子100m／女子400m／女子10000m\r\n",
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/athletics/the-best/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
   },
   "channel": {
     "type": "GR",
