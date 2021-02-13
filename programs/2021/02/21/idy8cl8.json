@@ -1,0 +1,25 @@
+{
+  "id": "idy8cl8",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "キャンプ・キキワカ#5[二]",
+  "detail": "#5「キキワカ・釣り大会」",
+  "start": 1613916000000,
+  "end": 1613917800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "キキワカ・釣り大会",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

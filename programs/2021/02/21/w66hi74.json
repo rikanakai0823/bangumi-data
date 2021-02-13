@@ -1,0 +1,23 @@
+{
+  "id": "w66hi74",
+  "category": "sports",
+  "title": "武豊ＴＶ！２",
+  "fullTitle": "武豊ＴＶ！２　#111「春のG1プレイバック」",
+  "detail": "豊プレイバック：若葉S、毎日杯、カーネーションC、メイS ほか▽ナリタタイシン追悼▽桜花賞、皐月賞、天皇賞・春、NHKマイルC、オークス、日本ダービー、安田記念",
+  "start": 1613860200000,
+  "end": 1613865600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 111
+  },
+  "subTitle": "春のG1プレイバック",
+  "episode": 111,
+  "flags": []
+}

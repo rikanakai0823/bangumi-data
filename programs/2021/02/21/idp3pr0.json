@@ -1,0 +1,25 @@
+{
+  "id": "idp3pr0",
+  "category": "documentary",
+  "title": "さわやか自然百景",
+  "fullTitle": "さわやか自然百景「冬　北海道　釧路湿原」[字]",
+  "detail": "日本最大の湿原、北海道・釧路湿原。冬でも凍らない湧き水がさまざまな命を育む。タンチョウが子育てに励み、巨大なワシたちが、捕らえた獲物を横取りし合う姿が見られる。",
+  "start": 1613875560000,
+  "end": 1613876400000,
+  "seconds": 840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "冬　北海道　釧路湿原",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idtqv4u",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　フェブラリーS（GⅠ）小倉大賞典（GⅢ）",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　フェブラリーS（GⅠ）小倉大賞典（GⅢ）",
+  "detail": "2021年は毎週放送！東京：フェブラリーS（GⅠ）小倉：小倉大賞典（GⅢ）阪神：大和S／ゲスト：山本昌（元プロ野球選手）解説：吉田均（競馬エイト）",
+  "start": 1613887200000,
+  "end": 1613890800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

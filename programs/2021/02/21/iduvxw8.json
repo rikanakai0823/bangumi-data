@@ -1,0 +1,26 @@
+{
+  "id": "iduvxw8",
+  "category": "cinema",
+  "title": "侵入する男",
+  "fullTitle": "[映][SS]侵入する男",
+  "detail": "デニス・クエイド主演のスリラー。マイホームを手に入れた夫婦が、不気味な前の住人によって恐怖に晒される。［ＰＧ１２相当］",
+  "start": 1613854800000,
+  "end": 1613862000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

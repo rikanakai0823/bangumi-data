@@ -2,11 +2,11 @@
   "id": "381f5ks5h7",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース",
+  "fullTitle": "ニュース[字]",
   "detail": "",
   "start": 1613250000000,
-  "end": 1613250600000,
-  "seconds": 600,
+  "end": 1613253000000,
+  "seconds": 3000,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

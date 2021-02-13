@@ -1,0 +1,25 @@
+{
+  "id": "iduy46b",
+  "category": "information",
+  "title": "番組案内",
+  "fullTitle": "[無]番組案内",
+  "detail": "３つのチャンネルとオンデマンドが楽しめる　スターチャンネル　ｈｔｔｐ：／／ｓｔａｒ－ｃｈ．ｊｐ",
+  "start": 1613908260000,
+  "end": 1613908800000,
+  "seconds": 540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

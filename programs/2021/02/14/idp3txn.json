@@ -1,0 +1,25 @@
+{
+  "id": "idp3txn",
+  "category": "documentary",
+  "title": "＜インターミッション＞",
+  "fullTitle": "＜インターミッション＞[再]",
+  "detail": "",
+  "start": 1613238000000,
+  "end": 1613238060000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

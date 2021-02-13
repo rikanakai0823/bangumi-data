@@ -1,0 +1,25 @@
+{
+  "id": "idp3p7c",
+  "category": "hobby",
+  "title": "釣りびと万歳",
+  "fullTitle": "釣りびと万歳[字]",
+  "detail": "",
+  "start": 1613896200000,
+  "end": 1613898000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

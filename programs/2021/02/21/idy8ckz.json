@@ -1,0 +1,25 @@
+{
+  "id": "idy8ckz",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#89[二]",
+  "detail": "#89「月明かりの下で」",
+  "start": 1613895900000,
+  "end": 1613896200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "月明かりの下で",
+  "episode": 89,
+  "flags": [
+    "二"
+  ]
+}

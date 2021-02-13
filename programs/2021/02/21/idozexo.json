@@ -1,0 +1,25 @@
+{
+  "id": "idozexo",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「決断の冬、浅草～下町経営者と信用金庫～」[字]",
+  "detail": "コロナ危機が経営を直撃する東京・浅草の下町商店街。緊急事態宣言が延長される中、事業継続のために奔走する経営者たちと、それを支える信用金庫の冬を見つめる。",
+  "start": 1613905200000,
+  "end": 1613908200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "決断の冬、浅草～下町経営者と信用金庫～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

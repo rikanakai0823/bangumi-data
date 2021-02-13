@@ -1,0 +1,23 @@
+{
+  "id": "idoziyn",
+  "category": "information",
+  "title": "ＢＳ先取り情報",
+  "fullTitle": "ＢＳ先取り情報「３月号」",
+  "detail": "",
+  "start": 1613904300000,
+  "end": 1613904600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "３月号",
+  "episode": null,
+  "flags": []
+}

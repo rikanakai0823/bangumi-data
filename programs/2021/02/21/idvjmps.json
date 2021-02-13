@@ -1,0 +1,26 @@
+{
+  "id": "idvjmps",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【東京】５Ｒ～８Ｒ，９Ｒ「ヒヤシンスステークス」\r\n【阪神】５Ｒ～８Ｒ，９Ｒ「川西特別」10Ｒ「斑鳩ステークス」\r\n★ＧⅠ「フェブラリーステークス」レース展望",
+  "start": 1613876400000,
+  "end": 1613887200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}
