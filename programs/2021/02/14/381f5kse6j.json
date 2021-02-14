@@ -1,12 +1,12 @@
 {
-  "id": "381f5ks5hu",
+  "id": "381f5kse6j",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「福島・宮城で震度６強」関連[字]",
   "detail": "",
-  "start": 1613264400000,
-  "end": 1613265120000,
-  "seconds": 720,
+  "start": 1613268000000,
+  "end": 1613269200000,
+  "seconds": 1200,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "福島・宮城で震度６強",
   "episode": null,
   "flags": [
     "字"
