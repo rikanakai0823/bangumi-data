@@ -1,0 +1,25 @@
+{
+  "id": "w67vg3p",
+  "category": "anime",
+  "title": "弱虫ペダル NEW GENERATION ,2",
+  "fullTitle": "[新]弱虫ペダル NEW GENERATION #1,2",
+  "detail": "＃１「最後の峰ヶ山」＃２「巻島が残したもの」",
+  "start": 1613991600000,
+  "end": 1613995200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "最後の峰ヶ山",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w693rui",
+  "category": "news",
+  "title": "JNN発 列島ニュース",
+  "fullTitle": "JNN発 列島ニュース",
+  "detail": "ＪＮＮ各局の夕方ニュースから注目の話題・リポートをお届けします。",
+  "start": 1613993400000,
+  "end": 1613995200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

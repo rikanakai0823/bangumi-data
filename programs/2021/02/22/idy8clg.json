@@ -1,0 +1,25 @@
+{
+  "id": "idy8clg",
+  "category": "drama",
+  "title": "ザ・ロッジ",
+  "fullTitle": "ザ・ロッジ#14[二]",
+  "detail": "#14「宝の手がかり」",
+  "start": 1613934000000,
+  "end": 1613935800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "宝の手がかり",
+  "episode": 14,
+  "flags": [
+    "二"
+  ]
+}

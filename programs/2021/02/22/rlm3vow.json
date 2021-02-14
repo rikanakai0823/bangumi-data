@@ -1,0 +1,23 @@
+{
+  "id": "rlm3vow",
+  "category": "sports",
+  "title": "亀田製菓 presents アルビレックスタイムス",
+  "fullTitle": "亀田製菓 presents アルビレックスタイムス #107",
+  "detail": "アルビレックス新潟の魅力を様々な切り口からお伝えするクラブ応援番組。2020シーズンに加入の阿部航斗選手をピックアップ。",
+  "start": 1613974200000,
+  "end": 1613975400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 107,
+  "flags": []
+}
