@@ -1,0 +1,25 @@
+{
+  "id": "381sxrgg04",
+  "category": "variety",
+  "title": "オトラクション",
+  "fullTitle": "オトラクション[字]",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1614074400000,
+  "end": 1614081420000,
+  "seconds": 7020,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

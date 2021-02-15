@@ -1,0 +1,25 @@
+{
+  "id": "idx1olb",
+  "category": "anime",
+  "title": "ルパン三世(PART2) ベストセレクション",
+  "fullTitle": "[字]ルパン三世(PART2) ベストセレクション",
+  "detail": "#4「ネッシーの唄が聞こえる」\r\n世界に散っていたルパンファミリーが再び活動を始め、ライバルの銭形警部はインターポ…",
+  "start": 1614029400000,
+  "end": 1614031200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "ネッシーの唄が聞こえる",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

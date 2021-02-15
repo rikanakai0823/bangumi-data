@@ -1,0 +1,23 @@
+{
+  "id": "idryscp",
+  "category": "information",
+  "title": "トク選！いきいき健康便",
+  "fullTitle": "トク選！いきいき健康便",
+  "detail": "テレビショッピング",
+  "start": 1614035100000,
+  "end": 1614036600000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

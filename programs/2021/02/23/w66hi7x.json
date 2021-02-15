@@ -1,0 +1,25 @@
+{
+  "id": "w66hi7x",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×巨人",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×巨人",
+  "detail": "練習試合「東京ヤクルト vs 巨人」\r\n＜開催＞2021年2月23日 【生中継】～ANA BALL PARK浦添\r\n＜解説＞真中満　＜実況＞中村光宏",
+  "start": 1614052200000,
+  "end": 1614067200000,
+  "seconds": 15000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 111
+  },
+  "subTitle": "東京ヤクルト vs 巨人",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

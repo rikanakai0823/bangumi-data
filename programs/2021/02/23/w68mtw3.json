@@ -1,0 +1,25 @@
+{
+  "id": "w68mtw3",
+  "category": "documentary",
+  "title": "世界遺産",
+  "fullTitle": "世界遺産「ヴェルサイユ宮殿」[字]",
+  "detail": "ルイ１４世が建造したヴェルサイユ宮殿は時の経過と観光客により劣化が進行。そこにはフランスのシンボルを守るべく奮闘する職人、管理人、警備員の姿があった。",
+  "start": 1614045600000,
+  "end": 1614049200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ナショジオ",
+    "id": "f0dz",
+    "sid": 343,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 134
+  },
+  "subTitle": "ヴェルサイユ宮殿",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

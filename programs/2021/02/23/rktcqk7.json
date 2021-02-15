@@ -1,0 +1,25 @@
+{
+  "id": "rktcqk7",
+  "category": "news",
+  "title": "ニュース広場",
+  "fullTitle": "ニュース広場[生]",
+  "detail": "リアルタイムで最新韓国情報をいち早くお届け！",
+  "start": 1614027600000,
+  "end": 1614031200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

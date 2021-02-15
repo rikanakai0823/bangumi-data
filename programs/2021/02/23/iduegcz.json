@@ -1,0 +1,25 @@
+{
+  "id": "iduegcz",
+  "category": "music",
+  "title": "ＦＵＪＩ　＆　ＳＵＮ　'２０　ＬＩＶＥ",
+  "fullTitle": "[初]ＦＵＪＩ　＆　ＳＵＮ　'２０　ＬＩＶＥ　",
+  "detail": "コロナ禍でフェスティバル中止は余儀なくされ、ひと味違う形式で２０２０年も開催されたＦＵＪＩ＆ＳＵＮ。",
+  "start": 1614058200000,
+  "end": 1614063600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

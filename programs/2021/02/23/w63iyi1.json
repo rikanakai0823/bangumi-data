@@ -1,0 +1,25 @@
+{
+  "id": "w63iyi1",
+  "category": "sports",
+  "title": "巨人春季キャンプ中継2021 2月22日",
+  "fullTitle": "巨人春季キャンプ中継2021 2月22日[再]",
+  "detail": "MC:阿出川浩之",
+  "start": 1614024000000,
+  "end": 1614038400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

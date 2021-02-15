@@ -1,0 +1,23 @@
+{
+  "id": "w67t461",
+  "category": "music",
+  "title": "NHK歌謡コンサート",
+  "fullTitle": "NHK歌謡コンサート #22　今夜はたっぷり！　演歌決定版",
+  "detail": "♪北の宿から、好きになった人／都はるみ\r\n♪夢追い酒／渥美二郎\r\n♪海鳴りの詩（うた）／島津亜矢\r\n♪流氷子守歌／山川豊　ほか",
+  "start": 1614042000000,
+  "end": 1614045600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 126
+  },
+  "subTitle": "今夜はたっぷり！　演歌決定版",
+  "episode": 22,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduw5ea",
+  "category": "drama",
+  "title": "ウォリアー２：ザ・リベンジ",
+  "fullTitle": "[初][SS]ウォリアー２：ザ・リベンジ　＃３",
+  "detail": "【ＳＴＡＲ　ＤＲＡＭＡ　１１】【独占日本初放送スタート】",
+  "start": 1614083400000,
+  "end": 1614087000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "初",
+    "SS"
+  ]
+}

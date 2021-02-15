@@ -1,0 +1,26 @@
+{
+  "id": "iduglsn",
+  "category": "cinema",
+  "title": "ＬＯＦＴ　ロフト",
+  "fullTitle": "[映]ＬＯＦＴ　ロフト[字]",
+  "detail": "「散歩する侵略者」の鬼才・黒沢清監督がミイラを題材に、中谷美紀、豊川悦司という人気実力派スター２人を主役コンビに迎えて放った、謎が謎を呼ぶ異色サスペンスホラー。",
+  "start": 1614017700000,
+  "end": 1614024900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "散歩する侵略者",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

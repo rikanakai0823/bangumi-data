@@ -1,0 +1,25 @@
+{
+  "id": "idy8cmz",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#17[解]",
+  "detail": "#17「ハチミツム噴水」",
+  "start": 1614032820000,
+  "end": 1614033000000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ハチミツム噴水",
+  "episode": 17,
+  "flags": [
+    "解"
+  ]
+}
