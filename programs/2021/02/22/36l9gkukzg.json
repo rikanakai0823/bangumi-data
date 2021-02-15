@@ -1,12 +1,16 @@
 {
   "id": "36l9gkukzg",
   "category": "information",
-  "title": "生活情報",
-  "fullTitle": "生活情報",
-  "detail": " ",
+  "title": "生活情報メイク艶ＣＣ",
+  "fullTitle": "生活情報【内容】メイク艶ＣＣ",
+  "detail": "【内容】メイク艶ＣＣ\n◇番組内容\nあなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！\r\n【内容】メイク艶ＣＣ",
   "start": 1613968200000,
   "end": 1613970000000,
   "seconds": 1800,
+  "description": "【内容】メイク艶ＣＣ",
+  "extra": {
+    "番組内容": "あなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！\r\n【内容】メイク艶ＣＣ"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "内容",
   "episode": null,
   "flags": []
 }
