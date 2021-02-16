@@ -1,0 +1,23 @@
+{
+  "id": "rlm6534",
+  "category": "sports",
+  "title": "サンフレッチェTV",
+  "fullTitle": "サンフレッチェTV #104",
+  "detail": "サンフレッチェ広島のクラブ応援番組。森崎和幸C.R.Mにスーツの思い出を聞いたり、新作スーツの試着をしてもらいます。",
+  "start": 1614115800000,
+  "end": 1614116700000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 104,
+  "flags": []
+}

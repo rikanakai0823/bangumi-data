@@ -1,0 +1,25 @@
+{
+  "id": "idozgav",
+  "category": "sports",
+  "title": "チャリダースペシャル",
+  "fullTitle": "チャリダースペシャル[字]",
+  "detail": "",
+  "start": 1614157200000,
+  "end": 1614163500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w65o17d",
+  "category": "etc",
+  "title": "情報番組",
+  "fullTitle": "情報番組",
+  "detail": "この時間は情報番組をお送りしております。",
+  "start": 1614130200000,
+  "end": 1614132000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 101
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

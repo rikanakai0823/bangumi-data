@@ -1,0 +1,25 @@
+{
+  "id": "idx1om2",
+  "category": "anime",
+  "title": "ギヴン",
+  "fullTitle": "[字]ギヴン #6",
+  "detail": "#6「Creep」\r\n好きだったはずのギターも、おもしろかったはずのバスケも、くすんで見え始めたある日、上ノ山立夏は佐藤…",
+  "start": 1614162600000,
+  "end": 1614164400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "Creep",
+  "episode": 6,
+  "flags": [
+    "字"
+  ]
+}

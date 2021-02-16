@@ -1,0 +1,26 @@
+{
+  "id": "iduglt1",
+  "category": "cinema",
+  "title": "燃えよドラゴン（字幕版）",
+  "fullTitle": "[映]燃えよドラゴン（字幕版）[SS]",
+  "detail": "アジアが生んだ伝説のアクションスター、Ｂ・リーのハリウッド初主演作。全世界にカンフーブームを巻き起こした記念碑的大ヒット作。リー演じるカンフーの名手が悪と対決！",
+  "start": 1614098700000,
+  "end": 1614105000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduegdg",
+  "category": "theater",
+  "title": "大千秋楽生中継！『最遊記歌劇伝－Ｓｕｎｒｉｓｅ－』",
+  "fullTitle": "[初][生]大千秋楽生中継！『最遊記歌劇伝－Ｓｕｎｒｉｓｅ－』",
+  "detail": "峰倉かずやの大ヒット漫画「最遊記」シリーズを舞台化した「最遊記歌劇伝」。「ヘイゼル編」の完結作を放送する。",
+  "start": 1614160800000,
+  "end": 1614173400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生"
+  ]
+}

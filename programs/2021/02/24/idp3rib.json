@@ -1,0 +1,23 @@
+{
+  "id": "idp3rib",
+  "category": "theater",
+  "title": "宝塚歌劇　星組公演「眩耀の谷」",
+  "fullTitle": "宝塚歌劇　星組公演「眩耀の谷」「Ｒａｙ－星の光線ー」",
+  "detail": "宝塚大劇場で２０２０年２月に収録した星組公演、幻想歌舞録「眩耀の谷～舞い降りた新星～」とＳｈｏｗ　Ｓｔａｒｓ「Ｒａｙ－星の光線ー」をお送りする。",
+  "start": 1614095100000,
+  "end": 1614104700000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "Ｒａｙ－星の光線ー",
+  "episode": null,
+  "flags": []
+}

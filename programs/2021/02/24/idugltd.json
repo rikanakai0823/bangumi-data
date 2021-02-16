@@ -1,0 +1,27 @@
+{
+  "id": "idugltd",
+  "category": "cinema",
+  "title": "夕陽のあと",
+  "fullTitle": "[初][映]夕陽のあと[字]",
+  "detail": "貫地谷しほりと山田真歩、ダブル主演の社会派ヒューマンドラマ。幸せな家族の前に訳ありの女性が現われる。ひとりの子どもをめぐり生みの母と育ての母、２人は葛藤する。",
+  "start": 1614174300000,
+  "end": 1614182700000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

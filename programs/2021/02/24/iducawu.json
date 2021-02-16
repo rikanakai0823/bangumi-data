@@ -1,0 +1,27 @@
+{
+  "id": "iducawu",
+  "category": "cinema",
+  "title": "日本沈没（２００６）",
+  "fullTitle": "[映]日本沈没（２００６）[SS][字]",
+  "detail": "小松左京の同名ベストセラー小説を再映画化し、またも大ヒットしたＳＦパニック大作。急速な地殻変動によって日本列島が沈没？　草彅剛、柴咲コウらが競演！",
+  "start": 1614157800000,
+  "end": 1614166200000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

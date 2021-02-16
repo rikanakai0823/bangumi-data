@@ -1,0 +1,23 @@
+{
+  "id": "idxc5ns",
+  "category": "etc",
+  "title": "試験イベント①",
+  "fullTitle": "試験イベント①",
+  "detail": "",
+  "start": 1614097800000,
+  "end": 1614105600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

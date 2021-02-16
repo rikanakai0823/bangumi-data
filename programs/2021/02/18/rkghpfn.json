@@ -1,0 +1,23 @@
+{
+  "id": "rkghpfn",
+  "category": "information",
+  "title": "スカパー！のご案内チャンネルです。",
+  "fullTitle": "スカパー！のご案内チャンネルです。",
+  "detail": "カスタマーセンターへのアクセス方法や、Ｂ－ＣＡＳカードの番号を確認できます。みてみてサポーターのご登録もこちらから。",
+  "start": 1613588400000,
+  "end": 1613593800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカパー！インフォ",
+    "id": "cv1h",
+    "sid": 101,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

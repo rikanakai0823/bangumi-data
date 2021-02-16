@@ -1,0 +1,27 @@
+{
+  "id": "idv0ip8",
+  "category": "cinema",
+  "title": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+  "fullTitle": "[映][SS][字]ワンス・アポン・ア・タイム・イン・ハリウッド[吹]",
+  "detail": "Ｌ・ディカプリオとＢ・ピットが初共演を果たしたＱ・タランティーノ監督作。ハリウッド黄金時代の光と闇に迫る。［ＰＧ１２］",
+  "start": 1614160800000,
+  "end": 1614170700000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

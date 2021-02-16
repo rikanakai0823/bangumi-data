@@ -1,0 +1,23 @@
+{
+  "id": "w67eg9l",
+  "category": "music",
+  "title": "スペシャのプレイリスト",
+  "fullTitle": "スペシャのプレイリスト",
+  "detail": "スペースシャワーがおススメするプレイリストをオンエア！あんな時こんな時に聴きたい楽曲をテーマに合わせてお届け！",
+  "start": 1614092400000,
+  "end": 1614096000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 122
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

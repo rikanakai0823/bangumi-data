@@ -1,0 +1,25 @@
+{
+  "id": "w63iyim",
+  "category": "sports",
+  "title": "全国高校サッカー選手権 1回戦",
+  "fullTitle": "第99回全国高校サッカー選手権 1回戦(4)「星稜×作陽」[再]",
+  "detail": "「星稜(石川)×作陽(岡山)」\r\n解説：水沼貴史　　\r\n実況：越崎成人",
+  "start": 1614132000000,
+  "end": 1614139200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "星稜×作陽",
+  "episode": 99,
+  "flags": [
+    "再"
+  ]
+}

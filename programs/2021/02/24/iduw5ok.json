@@ -1,0 +1,23 @@
+{
+  "id": "iduw5ok",
+  "category": "etc",
+  "title": "放送設備定期点検のため放送を休止致します",
+  "fullTitle": "放送設備定期点検のため放送を休止致します",
+  "detail": "放送設備定期点検のため放送を休止致します。",
+  "start": 1614096000000,
+  "end": 1614096300000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idx1pep",
+  "category": "etc",
+  "title": "試験イベント①",
+  "fullTitle": "試験イベント①",
+  "detail": "",
+  "start": 1614097800000,
+  "end": 1614105600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
