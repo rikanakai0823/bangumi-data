@@ -1,8 +1,8 @@
 {
   "id": "w69aweg",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "Living Golf",
   "detail": "番組内容が決まり次第お知らせします。",
   "start": 1613800800000,
   "end": 1613802600000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }

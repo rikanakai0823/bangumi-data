@@ -1,8 +1,8 @@
 {
   "id": "w69aweh",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
+  "category": "documentary",
+  "title": "クエストの世界都市紀行",
+  "fullTitle": "クエストの世界都市紀行",
   "detail": "番組内容が決まり次第お知らせします。",
   "start": 1613802600000,
   "end": 1613804400000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }
