@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Angels\"JOSH GROBAN\r\n\"Beyond The Pine\"TASH SULTANA\r\n\"Pretty Lady\"TASH SULTANA\r\n\"Greed (Studio Jam Version)\"TASH SULTANA\n◇番組内容２\n\"acting like that\"YUNGBLUD feat.MACHINE GUN KELLY\r\n\"Lifestyle\"JASON DERULO feat.ADAM LEVINE",
   "start": 1614006000000,
   "end": 1614007800000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Angels\"JOSH GROBAN\r\n\"Beyond The Pine\"TASH SULTANA\r\n\"Pretty Lady\"TASH SULTANA\r\n\"Greed (Studio Jam Version)\"TASH SULTANA",
+    "番組内容２": "\"acting like that\"YUNGBLUD feat.MACHINE GUN KELLY\r\n\"Lifestyle\"JASON DERULO feat.ADAM LEVINE"
   },
   "channel": {
     "type": "GR",

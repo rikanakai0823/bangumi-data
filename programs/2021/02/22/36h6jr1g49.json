@@ -3,10 +3,15 @@
   "category": "music",
   "title": "ＳＳＣ５",
   "fullTitle": "ＳＳＣ５[Ｓ]",
-  "detail": "",
+  "detail": "◇番組内容\nkittone 「群青と走る」\n◇出演者\nkittone",
   "start": 1613925300000,
   "end": 1613925600000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "番組内容": "kittone 「群青と走る」",
+    "出演者": "kittone"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
