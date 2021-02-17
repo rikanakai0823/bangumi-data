@@ -1,0 +1,23 @@
+{
+  "id": "w67c9we",
+  "category": "music",
+  "title": "STU48 PV特集",
+  "fullTitle": "STU48 PV特集",
+  "detail": "STU48のミュージックビデオスペシャルをオンエア！",
+  "start": 1614184200000,
+  "end": 1614186000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "スペシャプラス",
+    "id": "f0dd",
+    "sid": 321,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

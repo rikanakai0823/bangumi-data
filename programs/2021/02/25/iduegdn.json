@@ -1,0 +1,25 @@
+{
+  "id": "iduegdn",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４２９",
+  "detail": "",
+  "start": 1614195300000,
+  "end": 1614195900000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 429,
+  "flags": [
+    "無"
+  ]
+}

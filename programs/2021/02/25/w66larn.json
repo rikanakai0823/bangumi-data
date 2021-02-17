@@ -1,0 +1,23 @@
+{
+  "id": "w66larn",
+  "category": "music",
+  "title": "miwaへきくちから",
+  "fullTitle": "miwaへきくちから",
+  "detail": "▽フジテレビの音楽番組をつくってきた、きくちプロデューサーがお送りする、アーティストとのゆるりとした雑談番組。",
+  "start": 1614250800000,
+  "end": 1614254400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 113
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduygk3",
+  "category": "cinema",
+  "title": "サウンド・オブ・サイレンス",
+  "fullTitle": "[映][SS]サウンド・オブ・サイレンス",
+  "detail": "マイケル・ダグラス主演のサスペンス。脅迫された精神科医、事件の鍵を握る患者、そして犯人の三つ巴の攻防をスリリングに描く。",
+  "start": 1614240900000,
+  "end": 1614248100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

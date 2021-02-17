@@ -1,0 +1,26 @@
+{
+  "id": "iduwam4",
+  "category": "cinema",
+  "title": "ライク、シェア、フォロー",
+  "fullTitle": "[映][SS]ライク、シェア、フォロー",
+  "detail": "人気ユーチューバーが、ファンの女の子にストーカーされ身の危険にさらされる恐怖を描いたサスペンスホラー。［ＰＧ１２相当］",
+  "start": 1614204000000,
+  "end": 1614210300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

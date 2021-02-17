@@ -1,0 +1,26 @@
+{
+  "id": "idp3r0i",
+  "category": "hobby",
+  "title": "ミミクリーズ",
+  "fullTitle": "ミミクリーズ「あみ」[解][字]",
+  "detail": "「ミミクリー（ｍｉｍｉｃｒｙ）」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう！",
+  "start": 1614220200000,
+  "end": 1614220800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "あみ",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

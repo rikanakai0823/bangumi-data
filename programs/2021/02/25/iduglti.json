@@ -1,0 +1,27 @@
+{
+  "id": "iduglti",
+  "category": "cinema",
+  "title": "おいしい家族",
+  "fullTitle": "[映]おいしい家族[SS][字]",
+  "detail": "松本穂香主演のヒューマンコメディ。夫と別居し、仕事も失敗ばかりで生活に疲れた女性は母の三回忌に故郷の島に帰ってくるが、父が母の服を着て生活していることに戸惑う。",
+  "start": 1614210300000,
+  "end": 1614216600000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
