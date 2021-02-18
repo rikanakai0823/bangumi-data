@@ -1,0 +1,25 @@
+{
+  "id": "idx1onk",
+  "category": "anime",
+  "title": "ギヴン",
+  "fullTitle": "[字]ギヴン #8",
+  "detail": "#8「Time Is Running Out」\r\n好きだったはずのギターも、おもしろかったはずのバスケも、くすんで見え始めたある日、上…",
+  "start": 1614335400000,
+  "end": 1614337200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "Time Is Running Out",
+  "episode": 8,
+  "flags": [
+    "字"
+  ]
+}

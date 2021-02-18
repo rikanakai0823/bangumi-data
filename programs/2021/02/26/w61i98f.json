@@ -1,0 +1,23 @@
+{
+  "id": "w61i98f",
+  "category": "information",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "各種インフォメーションをお届け",
+  "start": 1614308400000,
+  "end": 1614310200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "映画・ｃｈＮＥＣＯ",
+    "id": "f0an",
+    "sid": 223,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 92
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

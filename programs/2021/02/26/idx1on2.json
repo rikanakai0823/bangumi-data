@@ -1,0 +1,25 @@
+{
+  "id": "idx1on2",
+  "category": "anime",
+  "title": "ギヴン",
+  "fullTitle": "[字]ギヴン #7",
+  "detail": "#7「Tumbling Dice」\r\n好きだったはずのギターも、おもしろかったはずのバスケも、くすんで見え始めたある日、上ノ山立…",
+  "start": 1614277800000,
+  "end": 1614279600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "Tumbling Dice",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduwdrw",
+  "category": "cinema",
+  "title": "レイトナイト　私の素敵なボス",
+  "fullTitle": "[映][SS]レイトナイト　私の素敵なボス",
+  "detail": "エマ・トンプソン主演のコメディドラマ。世代の異なる２人の女性が、視聴率低迷にあえぐトーク番組を盛り立てるために奮闘する。",
+  "start": 1614290400000,
+  "end": 1614297000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

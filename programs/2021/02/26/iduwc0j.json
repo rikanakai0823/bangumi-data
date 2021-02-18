@@ -1,0 +1,25 @@
+{
+  "id": "iduwc0j",
+  "category": "drama",
+  "title": "１２モンキーズ　ファイナル",
+  "fullTitle": "[SS]１２モンキーズ　ファイナル　＃５",
+  "detail": "【海外ドラマ全話一挙放送】",
+  "start": 1614269700000,
+  "end": 1614273300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "海外ドラマ全話一挙放送",
+  "episode": 5,
+  "flags": [
+    "SS"
+  ]
+}

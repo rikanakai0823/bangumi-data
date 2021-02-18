@@ -1,0 +1,25 @@
+{
+  "id": "w63iyjd",
+  "category": "sports",
+  "title": "巨人練習試合2021～那覇～",
+  "fullTitle": "巨人練習試合2021「巨人×中日」～那覇～[再]",
+  "detail": "2021年2月25日開催\r\n実況：田辺研一郎",
+  "start": 1614283200000,
+  "end": 1614297600000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "巨人×中日",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

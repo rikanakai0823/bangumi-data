@@ -1,0 +1,25 @@
+{
+  "id": "idp3wmi",
+  "category": "documentary",
+  "title": "もういちど、日本",
+  "fullTitle": "もういちど、日本「瀬戸内海　塩のおもてなし」[字]",
+  "detail": "瀬戸内海を望む広島県竹原。江戸時代、質の良い塩が作られ北前船によって盛んに取引された。かつての塩田主の家には「魚飯」というおもてなし料理が伝わる。",
+  "start": 1614324300000,
+  "end": 1614324600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "瀬戸内海　塩のおもてなし",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
