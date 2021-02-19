@@ -1,12 +1,12 @@
 {
   "id": "381f5ksb1u",
-  "category": "etc",
+  "category": "information",
   "title": "新型コロナ　命を守る行動を",
-  "fullTitle": "新型コロナ　命を守る行動を",
+  "fullTitle": "新型コロナ　命を守る行動を[字]",
   "detail": "",
   "start": 1614253320000,
-  "end": 1614253500000,
-  "seconds": 180,
+  "end": 1614253380000,
+  "seconds": 60,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": "idp3xcs",
+  "category": "documentary",
+  "title": "国宝へようこそ",
+  "fullTitle": "国宝へようこそ[字]",
+  "detail": "",
+  "start": 1614302700000,
+  "end": 1614305400000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

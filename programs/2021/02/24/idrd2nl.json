@@ -1,0 +1,23 @@
+{
+  "id": "idrd2nl",
+  "category": "information",
+  "title": "ＦＯＣＵＳ　ＯＦ　ＪＡＰＡＮ",
+  "fullTitle": "ＦＯＣＵＳ　ＯＦ　ＪＡＰＡＮ",
+  "detail": "",
+  "start": 1614171240000,
+  "end": 1614171600000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
