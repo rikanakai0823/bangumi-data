@@ -1,0 +1,23 @@
+{
+  "id": "w681tb2",
+  "category": "anime",
+  "title": "Club AT-X",
+  "fullTitle": "Club AT-X #448",
+  "detail": "「Club AT-X WSB ～ワールド シークレット ベース～」\r\nMC：寺島拓篤、田所あずさ",
+  "start": 1614430800000,
+  "end": 1614432600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 129
+  },
+  "subTitle": "Club AT-X WSB ～ワールド シークレット ベース～",
+  "episode": 448,
+  "flags": []
+}

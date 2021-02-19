@@ -1,0 +1,23 @@
+{
+  "id": "idozias",
+  "category": "sports",
+  "title": "Ｊリーグタイム",
+  "fullTitle": "Ｊリーグタイム「第１節」",
+  "detail": "【解説】宮澤ミシェル，平畠啓史，【アナウンサー】内山俊哉，【司会】中川絵美里",
+  "start": 1614427200000,
+  "end": 1614430200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "第１節",
+  "episode": null,
+  "flags": []
+}

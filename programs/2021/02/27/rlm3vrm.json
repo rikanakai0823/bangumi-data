@@ -1,0 +1,25 @@
+{
+  "id": "rlm3vrm",
+  "category": "sports",
+  "title": "Bリーグ2020-21 第24節 富山×琉球(2/27)",
+  "fullTitle": "[生]Bリーグ2020-21 第24節 富山×琉球(2/27)",
+  "detail": "Bリーグ 2020-21 第24節(2/27)\r\n対戦:富山グラウジーズ　　　(H)\r\n　　 琉球ゴールデンキングス(A)",
+  "start": 1614416400000,
+  "end": 1614427200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

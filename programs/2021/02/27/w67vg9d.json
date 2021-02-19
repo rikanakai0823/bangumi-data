@@ -1,0 +1,25 @@
+{
+  "id": "w67vg9d",
+  "category": "anime",
+  "title": "ソニックＸ ,56",
+  "fullTitle": "ソニックＸ[字] #55,56",
+  "detail": "＃５５「水の惑星ハイドー」＃５６「Ｄｒ．エッグマン参戦！」",
+  "start": 1614420000000,
+  "end": 1614423600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "水の惑星ハイドー",
+  "episode": 55,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rkuo2t7",
+  "category": "hobby",
+  "title": "ドット#1,#2[字/日英]",
+  "fullTitle": "ドット#1,#2[二][字/日英]",
+  "detail": "#1「カミナリなんかこわくない」　#2「ゆうかんなきし」",
+  "start": 1614432600000,
+  "end": 1614434400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "カミナリなんかこわくない",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

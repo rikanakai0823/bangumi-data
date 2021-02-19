@@ -1,0 +1,25 @@
+{
+  "id": "idozl1w",
+  "category": "sports",
+  "title": "ラグビートップリーグ",
+  "fullTitle": "ラグビートップリーグ[字]",
+  "detail": "",
+  "start": 1614394800000,
+  "end": 1614402000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8crt",
+  "category": "anime",
+  "title": "おさるのジョージ",
+  "fullTitle": "おさるのジョージ#133[二]",
+  "detail": "#133「あれこれかだん／たまごや～い」",
+  "start": 1614378600000,
+  "end": 1614380400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "あれこれかだん／たまごや～い",
+  "episode": 133,
+  "flags": [
+    "二"
+  ]
+}

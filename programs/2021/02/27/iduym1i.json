@@ -1,0 +1,25 @@
+{
+  "id": "iduym1i",
+  "category": "cinema",
+  "title": "弾丸特急ジェット・バス",
+  "fullTitle": "[映]弾丸特急ジェット・バス",
+  "detail": "原子力バスの車内が舞台のブラックコメディ。テロに狙われたバスの乗員乗客が繰り広げる群像劇をパロディとギャグ満載で描く。",
+  "start": 1614375000000,
+  "end": 1614381000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

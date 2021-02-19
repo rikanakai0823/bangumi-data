@@ -1,0 +1,27 @@
+{
+  "id": "iduglu5",
+  "category": "cinema",
+  "title": "はやぶさ　遥かなる帰還",
+  "fullTitle": "[映]はやぶさ　遥かなる帰還[SS][字]",
+  "detail": "小惑星から岩石サンプルを持ち帰る任務を負った“はやぶさ”と、それに携わった人々を描いた群像劇。大手映画会社３社が競作した“はやぶさ”映画の１本で、渡辺謙が主演。",
+  "start": 1614373200000,
+  "end": 1614381600000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

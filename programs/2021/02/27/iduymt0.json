@@ -1,0 +1,26 @@
+{
+  "id": "iduymt0",
+  "category": "cinema",
+  "title": "トム・ヤム・クン！",
+  "fullTitle": "[映][SS]トム・ヤム・クン！",
+  "detail": "トニー・ジャー主演のムエタイアクション。動物密輸組織に誘拐された家族同然の象を取り戻すための青年の戦いを描く。",
+  "start": 1614410400000,
+  "end": 1614417600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

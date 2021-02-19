@@ -1,0 +1,25 @@
+{
+  "id": "w698d13",
+  "category": "hobby",
+  "title": "トラベル・ショー",
+  "fullTitle": "トラベル・ショー(再)",
+  "detail": "マイク・コーリーがタンザニア沖で、海水温の上昇に脅かされる生物の救世主となるかもしれないサンゴ礁についてリポートする。",
+  "start": 1614432600000,
+  "end": 1614434400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idt5g9q",
+  "category": "sports",
+  "title": "ウイニング競馬　～中山～",
+  "fullTitle": "ウイニング競馬　～中山～",
+  "detail": "【中山】10R富里特別、11R幕張Ｓ\r\n【阪神】10RマーガレットＳ(Ｌ)、11R仁川Ｓ(Ｌ)\r\n【小倉】11R帆柱山特別",
+  "start": 1614403800000,
+  "end": 1614409200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "中山",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8csb",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#90[二]",
+  "detail": "#90「ラクな暮らし」",
+  "start": 1614414300000,
+  "end": 1614414600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ラクな暮らし",
+  "episode": 90,
+  "flags": [
+    "二"
+  ]
+}

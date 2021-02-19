@@ -1,0 +1,25 @@
+{
+  "id": "w63iyk2",
+  "category": "sports",
+  "title": "巨人練習試合2021～那覇～",
+  "fullTitle": "[生]巨人練習試合2021「巨人×広島」～那覇～",
+  "detail": "～生中継　*番組変更、早終了あり\r\n解説：野村謙二郎\r\n実況：田辺研一郎",
+  "start": 1614397500000,
+  "end": 1614412800000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "巨人×広島",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rkv8wl7",
+  "category": "news",
+  "title": "Early　Morning　News",
+  "fullTitle": "Early　Morning　News",
+  "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Early Morning News」",
+  "start": 1614369600000,
+  "end": 1614376800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 135
+  },
+  "subTitle": "日テレNEWS24・Early Morning News",
+  "episode": null,
+  "flags": []
+}
