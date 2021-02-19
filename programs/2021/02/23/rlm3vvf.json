@@ -4,9 +4,9 @@
   "title": "ブレイクタイム",
   "fullTitle": "ブレイクタイム",
   "detail": "次の放送開始までしばらくお待ちください。",
-  "start": 1614021600000,
+  "start": 1614026400000,
   "end": 1614027600000,
-  "seconds": 6000,
+  "seconds": 1200,
   "channel": {
     "type": "CS",
     "channel": "CS10",

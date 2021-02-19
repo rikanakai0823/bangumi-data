@@ -1,12 +1,12 @@
 {
-  "id": "idp3v8o",
-  "category": "etc",
-  "title": "プレミアムセレクション",
-  "fullTitle": "プレミアムセレクション",
+  "id": "idp3x5u",
+  "category": "information",
+  "title": "ＢＳ先取り情報",
+  "fullTitle": "ＢＳ先取り情報「３月号」",
   "detail": "",
-  "start": 1614302700000,
-  "end": 1614305400000,
-  "seconds": 2700,
+  "start": 1614305400000,
+  "end": 1614305700000,
+  "seconds": 300,
   "channel": {
     "type": "BS",
     "channel": "BS03_1",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 42
   },
-  "subTitle": "",
+  "subTitle": "３月号",
   "episode": null,
   "flags": []
 }
