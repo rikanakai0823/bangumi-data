@@ -1,0 +1,25 @@
+{
+  "id": "idy8cst",
+  "category": "drama",
+  "title": "ザ・ロッジ",
+  "fullTitle": "ザ・ロッジ#15[二]",
+  "detail": "#15「謎の宿泊客」",
+  "start": 1614452400000,
+  "end": 1614454200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "謎の宿泊客",
+  "episode": 15,
+  "flags": [
+    "二"
+  ]
+}

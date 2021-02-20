@@ -1,0 +1,25 @@
+{
+  "id": "idozine",
+  "category": "sports",
+  "title": "ランスマ倶楽部",
+  "fullTitle": "ランスマ倶楽部「レジェンドスペシャル対談　今だから話せるあの時」[字]",
+  "detail": "【出演】金哲彦，佐野千晃，高樹リサ，藤原新，瀬古利彦，有森裕子",
+  "start": 1614513600000,
+  "end": 1614516600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "レジェンドスペシャル対談　今だから話せるあの時",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

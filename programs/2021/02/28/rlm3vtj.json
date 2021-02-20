@@ -1,0 +1,25 @@
+{
+  "id": "rlm3vtj",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～練習試合～ ソフトバンクvs.オリックス",
+  "fullTitle": "[生]HAWKS プロ野球中継2021～練習試合～ ソフトバンクvs.オリックス",
+  "detail": "実況：久保俊郎\r\n開催日時：2021年2月28日 (日) 13:00\r\n会場：アイビースタジアム",
+  "start": 1614480900000,
+  "end": 1614497400000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

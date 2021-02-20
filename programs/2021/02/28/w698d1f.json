@@ -1,0 +1,25 @@
+{
+  "id": "w698d1f",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "今週のクリックは、ファッションの世界に注目。パンデミック状況下でのロンドン・ファッション・ウィークがどうなるのか話を聞く。",
+  "start": 1614483000000,
+  "end": 1614484800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

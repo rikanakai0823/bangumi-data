@@ -1,0 +1,25 @@
+{
+  "id": "rkuo2uk",
+  "category": "hobby",
+  "title": "ドット#3,#4[字/日英]",
+  "fullTitle": "ドット#3,#4[二][字/日英]",
+  "detail": "#3「ドットのたからさがし」　#4「ママはスーパーヒーロー」",
+  "start": 1614519000000,
+  "end": 1614520800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "ドットのたからさがし",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

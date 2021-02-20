@@ -1,0 +1,23 @@
+{
+  "id": "idozmer",
+  "category": "sports",
+  "title": "ノルディック世界選手権２０２１",
+  "fullTitle": "ノルディック世界選手権２０２１",
+  "detail": "",
+  "start": 1614517200000,
+  "end": 1614520800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

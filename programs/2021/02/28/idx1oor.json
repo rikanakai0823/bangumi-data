@@ -1,0 +1,26 @@
+{
+  "id": "idx1oor",
+  "category": "anime",
+  "title": "ドラゴンクエスト ダイの大冒険（劇場版）<HD>",
+  "fullTitle": "[映][字]ドラゴンクエスト ダイの大冒険（劇場版）<HD>",
+  "detail": "その昔…勇者と呼ばれた正義の剣士が、魔王ハドラーを死闘の末打ち倒した…。魔王の手下であったモンスター達は、南海…",
+  "start": 1614484200000,
+  "end": 1614486300000,
+  "seconds": 2100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

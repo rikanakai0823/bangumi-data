@@ -1,0 +1,27 @@
+{
+  "id": "idugluf",
+  "category": "cinema",
+  "title": "寝ずの番[R-15指定]",
+  "fullTitle": "[初][映]寝ずの番[R-15指定][字]",
+  "detail": "〈日本映画の父〉と呼ばれる牧野省三を祖父に持つ俳優の津川雅彦が、マキノ雅彦名義で念願の監督デビュー。中島らもの同名短編を豪華多彩な顔触れで映画化した艶笑喜劇。",
+  "start": 1614438900000,
+  "end": 1614446100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

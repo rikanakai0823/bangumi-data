@@ -1,0 +1,27 @@
+{
+  "id": "idv0uyv",
+  "category": "cinema",
+  "title": "ファースト・マン",
+  "fullTitle": "[映][SS][字]ファースト・マン[吹]",
+  "detail": "ライアン・ゴズリング主演の伝記ドラマ。人類初の月面着陸を成し遂げた宇宙飛行士ニール・アームストロングの偉業と半生を描く。",
+  "start": 1614489300000,
+  "end": 1614498300000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

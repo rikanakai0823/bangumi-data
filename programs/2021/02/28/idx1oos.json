@@ -1,0 +1,26 @@
+{
+  "id": "idx1oos",
+  "category": "anime",
+  "title": "ドラゴンクエスト ダイの大冒険 アバンの使徒",
+  "fullTitle": "[映][字]ドラゴンクエスト ダイの大冒険 アバンの使徒",
+  "detail": "かつてアバンは、デルムリン島で教え子であったダイとポップに卒業の証としてペンダントを与え、「あなたたちの手で必…",
+  "start": 1614486300000,
+  "end": 1614489000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

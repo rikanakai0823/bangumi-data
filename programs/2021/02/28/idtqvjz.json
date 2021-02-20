@@ -1,0 +1,25 @@
+{
+  "id": "idtqvjz",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　中山記念（GⅡ）阪急杯（GⅢ）",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　中山記念（GⅡ）阪急杯（GⅢ）",
+  "detail": "2021年は毎週放送！中山記念（GⅡ）阪急杯（GⅢ）小倉：下関S／沢田知希（競馬エイト）横山ルリカ／東西で春GⅠの重要前哨戦\r\n",
+  "start": 1614492000000,
+  "end": 1614495600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

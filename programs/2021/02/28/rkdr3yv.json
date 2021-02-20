@@ -1,0 +1,23 @@
+{
+  "id": "rkdr3yv",
+  "category": "information",
+  "title": "番組放送再開のお知らせ",
+  "fullTitle": "番組放送再開のお知らせ",
+  "detail": "２月２８日（日）午前１時より、放送機器の点検・メンテナンスのため番組を一時中断しておりましたが、午前７時より番組を再開いたします。今しばらくお待ち下さい。",
+  "start": 1614462900000,
+  "end": 1614463200000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 87
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

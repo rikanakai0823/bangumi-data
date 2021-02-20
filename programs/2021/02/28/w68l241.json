@@ -1,0 +1,26 @@
+{
+  "id": "w68l241",
+  "category": "documentary",
+  "title": "未知のウイルス 2020",
+  "fullTitle": "[新]未知のウイルス 2020[字]",
+  "detail": "かつてないほどの世界的大流行となった新型コロナウイルス。その実態や感染拡大の経緯と共に、未知なる敵と人間との戦いを描く。",
+  "start": 1614506400000,
+  "end": 1614510000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ヒストリーチャンネル",
+    "id": "f0dy",
+    "sid": 342,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 133
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rksa481",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2021 2.28 CASTLE ATTACK in 大阪城ホール",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2021 2.28 CASTLE ATTACK in 大阪城ホール",
+  "detail": "ＩＷＧＰ２冠統一を目指す王者・飯伏幸太と統一を阻止すべくインターコンチ王座のみに挑戦する内藤哲也！至宝の行方を決める天下分け目の決戦！※延長の場合あり",
+  "start": 1614488400000,
+  "end": 1614499200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

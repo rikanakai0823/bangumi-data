@@ -1,0 +1,23 @@
+{
+  "id": "idrd198",
+  "category": "sports",
+  "title": "ジャパンラグビー　トップリーグ2021",
+  "fullTitle": "ジャパンラグビー　トップリーグ2021　「神戸製鋼×キヤノン」",
+  "detail": "神戸総合運動公園ユニバー記念競技場から、第2節「神戸製鋼コベルコスティーラーズ×キヤノンイーグルス」を生中継！",
+  "start": 1614488400000,
+  "end": 1614495600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 44
+  },
+  "subTitle": "神戸製鋼×キヤノン",
+  "episode": null,
+  "flags": []
+}

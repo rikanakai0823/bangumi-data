@@ -1,0 +1,27 @@
+{
+  "id": "idugluk",
+  "category": "cinema",
+  "title": "日本侠客伝　刃（ドス）",
+  "fullTitle": "[初][映]日本侠客伝　刃（ドス）[字]",
+  "detail": "１９６４年から始まり、高倉健の人気を決定づけた東映の任侠映画シリーズのいよいよ最終第１１作。明治中期の金沢を舞台に悪徳政治家に怒りの刃を向ける主人公の姿を描く。",
+  "start": 1614470400000,
+  "end": 1614476700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

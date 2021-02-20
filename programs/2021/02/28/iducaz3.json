@@ -1,0 +1,27 @@
+{
+  "id": "iducaz3",
+  "category": "cinema",
+  "title": "引っ越し大名！",
+  "fullTitle": "[映]引っ越し大名！[SS][字]",
+  "detail": "土橋章宏の小説を星野源主演で映画化した時代劇コメディ。江戸時代、７度も国替えを行なった実在の大名をモチーフに、引っ越し奉行を命じられた若侍の悪戦苦闘を綴る。",
+  "start": 1614465300000,
+  "end": 1614473100000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

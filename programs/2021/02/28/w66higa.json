@@ -1,0 +1,25 @@
+{
+  "id": "w66higa",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×阪神",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×阪神",
+  "detail": "練習試合「東京ヤクルト　ｖｓ　阪神」\r\n＜開催＞２０２１年２月２８日（日）　【生中継】～浦添\r\n＜解説＞野村弘樹　＜実況＞田淵裕章\r\n※変更の場合あり",
+  "start": 1614482400000,
+  "end": 1614499200000,
+  "seconds": 16800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 111
+  },
+  "subTitle": "東京ヤクルト　ｖｓ　阪神",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idugluj",
+  "category": "cinema",
+  "title": "首都消失",
+  "fullTitle": "[映]首都消失[字]",
+  "detail": "首都東京を直径５０ｋｍの雲が覆い隠す。出入りに加え、通信も遮断された首都は消失したも同然で……。「日本沈没」の作家・小松左京の衝撃作を映画化したＳＦパニック編。",
+  "start": 1614462300000,
+  "end": 1614470400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "日本沈没",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

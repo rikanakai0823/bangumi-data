@@ -1,0 +1,25 @@
+{
+  "id": "381f5kscvr",
+  "category": "news",
+  "title": "Ｎスペ５ｍｉｎ．",
+  "fullTitle": "Ｎスペ５ｍｉｎ．[字]",
+  "detail": "",
+  "start": 1614462300000,
+  "end": 1614462600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

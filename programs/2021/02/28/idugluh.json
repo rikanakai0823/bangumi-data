@@ -1,0 +1,26 @@
+{
+  "id": "idugluh",
+  "category": "cinema",
+  "title": "回路",
+  "fullTitle": "[映]回路[字]",
+  "detail": "インターネットを介して開かれた、現世とあの世を結ぶ回路とは……。日本を代表する鬼才・黒沢清監督による独創的ゴーストホラー。カンヌ国際映画祭国際批評家連盟賞受賞。",
+  "start": 1614454200000,
+  "end": 1614462000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduegf2",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４３０",
+  "detail": "",
+  "start": 1614502200000,
+  "end": 1614502800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 430,
+  "flags": [
+    "無"
+  ]
+}

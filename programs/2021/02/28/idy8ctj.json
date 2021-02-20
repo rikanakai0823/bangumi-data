@@ -1,0 +1,25 @@
+{
+  "id": "idy8ctj",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#91[二]",
+  "detail": "#91「勝利を奪え」",
+  "start": 1614500700000,
+  "end": 1614501000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "勝利を奪え",
+  "episode": 91,
+  "flags": [
+    "二"
+  ]
+}
