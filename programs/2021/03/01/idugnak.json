@@ -1,0 +1,26 @@
+{
+  "id": "idugnak",
+  "category": "cinema",
+  "title": "氷上の王、ジョン・カリー（字幕版）",
+  "fullTitle": "[映]氷上の王、ジョン・カリー（字幕版）[SS]",
+  "detail": "時代に先駆けてアイススケートを芸術の域にまで昇華させた孤高の天才、Ｊ・カリー。１９９４年、４４歳で短い生涯を閉じた彼の人生の光と影に迫った秀作ドキュメンタリー。",
+  "start": 1614542400000,
+  "end": 1614547800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

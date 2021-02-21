@@ -1,0 +1,23 @@
+{
+  "id": "w65w3q3",
+  "category": "documentary",
+  "title": "海底楽園",
+  "fullTitle": "海底楽園",
+  "detail": "海底に広がる美しい世界、神秘的な生物の映像をお楽しみ下さい。",
+  "start": 1614531600000,
+  "end": 1614538800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

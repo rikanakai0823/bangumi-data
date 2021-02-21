@@ -1,0 +1,25 @@
+{
+  "id": "iduxrf0",
+  "category": "cinema",
+  "title": "ラスト・オブ・モヒカン",
+  "fullTitle": "[映]ラスト・オブ・モヒカン",
+  "detail": "ダニエル・デイ＝ルイス主演の歴史ドラマ。植民地戦争の中で、モヒカン族の青年とイギリス軍人の令嬢が許されざる恋に落ちる。",
+  "start": 1614592800000,
+  "end": 1614600000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

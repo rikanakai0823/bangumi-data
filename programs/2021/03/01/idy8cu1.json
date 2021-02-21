@@ -1,0 +1,25 @@
+{
+  "id": "idy8cu1",
+  "category": "drama",
+  "title": "ザ・ロッジ",
+  "fullTitle": "ザ・ロッジ#16[二]",
+  "detail": "#16「ダンス・マラソン」",
+  "start": 1614538800000,
+  "end": 1614540600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ダンス・マラソン",
+  "episode": 16,
+  "flags": [
+    "二"
+  ]
+}

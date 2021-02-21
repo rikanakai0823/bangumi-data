@@ -1,0 +1,26 @@
+{
+  "id": "idugnal",
+  "category": "cinema",
+  "title": "キューブリックに愛された男（字幕版）",
+  "fullTitle": "[映]キューブリックに愛された男（字幕版）[SS]",
+  "detail": "あの天才監督Ｓ・キューブリックの専属運転手となり、３０年間にわたって彼の身の回りの世話をし続けた愛すべき男、Ｅ・ダレッサンドロの半生を振り返るドキュメンタリー。",
+  "start": 1614547800000,
+  "end": 1614553200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

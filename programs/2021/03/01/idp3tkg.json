@@ -1,0 +1,26 @@
+{
+  "id": "idp3tkg",
+  "category": "documentary",
+  "title": "にっぽん百名山",
+  "fullTitle": "にっぽん百名山「蓼科山」[字][再]",
+  "detail": "八ヶ岳連峰の北に位置する蓼科山。今回は紅葉と星空観察、こだわりの山小屋等を楽しむ２泊３日の山旅。尾根歩きではアルプスの眺望を楽しみ山頂では感動的なご来光を拝む。",
+  "start": 1614569400000,
+  "end": 1614571200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "蓼科山",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

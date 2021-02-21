@@ -1,0 +1,25 @@
+{
+  "id": "idozkh3",
+  "category": "information",
+  "title": "未来スイッチ",
+  "fullTitle": "未来スイッチ「横断歩道が危ない！一時停止大作戦」[字]",
+  "detail": "信号機がない横断歩道が危ない。渡ろうとしている人がいるときは車が一時停止するのがルール。しかし、なかなか止まらない。止まってもらうための取り組みが進んでいる。",
+  "start": 1614545100000,
+  "end": 1614545400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "横断歩道が危ない！一時停止大作戦",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
