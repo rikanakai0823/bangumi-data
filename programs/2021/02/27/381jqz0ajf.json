@@ -1,12 +1,16 @@
 {
   "id": "381jqz0ajf",
   "category": "welfare",
-  "title": "わたしはパパゲーノ～死にたい　でも　生きてる～",
-  "fullTitle": "わたしはパパゲーノ～死にたい　でも　生きてる～[字]",
-  "detail": "",
+  "title": "わたしはパパゲーノ～死にたい、でも、生きてる人の物語～",
+  "fullTitle": "わたしはパパゲーノ～死にたい、でも、生きてる人の物語～「アルタイルの場合」[字]",
+  "detail": "【出演】アルタイル\n◇出演者\n【出演】アルタイル",
   "start": 1614374520000,
   "end": 1614374640000,
   "seconds": 120,
+  "description": "【出演】アルタイル",
+  "extra": {
+    "出演者": "【出演】アルタイル"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "アルタイルの場合",
   "episode": null,
   "flags": [
     "字"

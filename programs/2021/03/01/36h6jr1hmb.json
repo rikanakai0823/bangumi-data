@@ -2,8 +2,8 @@
   "id": "36h6jr1hmb",
   "category": "music",
   "title": "彩の国百科",
-  "fullTitle": "彩の国百科[Ｓ]",
-  "detail": "",
+  "fullTitle": "彩の国百科[字][Ｓ]",
+  "detail": "しらさぎ編　県内の四季の様子を音楽に合わせて紹介します。",
   "start": 1614575700000,
   "end": 1614576600000,
   "seconds": 900,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

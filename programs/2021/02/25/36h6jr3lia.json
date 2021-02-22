@@ -2,7 +2,7 @@
   "id": "36h6jr3lia",
   "category": "music",
   "title": "彩の国百科",
-  "fullTitle": "彩の国百科[Ｓ]",
+  "fullTitle": "彩の国百科[字][Ｓ]",
   "detail": "花編　県内の四季の様子を音楽に合わせて紹介します。",
   "start": 1614254400000,
   "end": 1614255300000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
