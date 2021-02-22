@@ -1,0 +1,23 @@
+{
+  "id": "idt5gdb",
+  "category": "variety",
+  "title": "ＹＯＵは何しに日本へ？Ｃｌａｓｓｉｃ",
+  "fullTitle": "ＹＯＵは何しに日本へ？Ｃｌａｓｓｉｃ",
+  "detail": "テレビ東京で好評放送中の「ＹＯＵは何しに日本へ？」がＢＳテレ東にやってくる！\r\n懐かしの名物ＹＯＵからオモシロＹＯＵまで、伝説のＹＯＵ達にもう一度会えます！",
+  "start": 1614686400000,
+  "end": 1614689640000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "ＹＯＵは何しに日本へ？",
+  "episode": null,
+  "flags": []
+}

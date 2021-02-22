@@ -1,0 +1,25 @@
+{
+  "id": "idsk3gi",
+  "category": "etc",
+  "title": "ヒロシのぼっちキャンプ　Ｓｅａｓｏｎ２",
+  "fullTitle": "[字]ヒロシのぼっちキャンプ　Ｓｅａｓｏｎ２",
+  "detail": "",
+  "start": 1614695400000,
+  "end": 1614697200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

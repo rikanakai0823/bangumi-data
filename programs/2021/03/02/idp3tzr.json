@@ -1,0 +1,25 @@
+{
+  "id": "idp3tzr",
+  "category": "hobby",
+  "title": "岩合光昭の世界ネコ歩き",
+  "fullTitle": "岩合光昭の世界ネコ歩き[字]",
+  "detail": "",
+  "start": 1614690000000,
+  "end": 1614693600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

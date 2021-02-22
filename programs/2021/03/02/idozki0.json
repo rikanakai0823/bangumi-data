@@ -1,0 +1,25 @@
+{
+  "id": "idozki0",
+  "category": "information",
+  "title": "未来スイッチ",
+  "fullTitle": "未来スイッチ「聞こえているのに聞き取れない」[字]",
+  "detail": "聴力は正常なのに、雑音の多い場所では話を“聞き取ることができない”ＡＰＤ＝聴覚情報処理障害の症状に悩む人たちがいる。症状を抱えながらも生活を改善させた方法とは。",
+  "start": 1614696420000,
+  "end": 1614696600000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "聞こえているのに聞き取れない",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

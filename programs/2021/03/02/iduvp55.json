@@ -1,0 +1,26 @@
+{
+  "id": "iduvp55",
+  "category": "cinema",
+  "title": "ファイティング・ｗｉｔｈ・ファイア",
+  "fullTitle": "[映][SS]ファイティング・ｗｉｔｈ・ファイア",
+  "detail": "ジョン・シナ主演のアクションコメディ。堅物の消防隊分隊長が、火災現場から救出した子どもたちのいたずらに悪戦苦闘する。",
+  "start": 1614667500000,
+  "end": 1614673800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

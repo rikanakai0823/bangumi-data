@@ -1,0 +1,25 @@
+{
+  "id": "iduxtop",
+  "category": "cinema",
+  "title": "パララックス・ビュー",
+  "fullTitle": "[映]パララックス・ビュー",
+  "detail": "ウォーレン・ベイティ主演の政治スリラー。議員暗殺の影に潜む秘密組織を追うジャーナリストが、アメリカ社会の闇と対峙する。",
+  "start": 1614638700000,
+  "end": 1614645900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

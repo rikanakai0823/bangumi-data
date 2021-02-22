@@ -1,0 +1,25 @@
+{
+  "id": "idsk3gg",
+  "category": "cinema",
+  "title": "「極道の妻たち」",
+  "fullTitle": "[映]「極道の妻たち」",
+  "detail": "”極道の妻たち”と呼ばれる女たちの群像を描く人間ドラマ。",
+  "start": 1614686400000,
+  "end": 1614695040000,
+  "seconds": 8640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

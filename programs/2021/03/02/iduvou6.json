@@ -1,0 +1,25 @@
+{
+  "id": "iduvou6",
+  "category": "drama",
+  "title": "ザ・パシフィック",
+  "fullTitle": "[SS]ザ・パシフィック　＃４",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ全話一挙放送】",
+  "start": 1614653400000,
+  "end": 1614657600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ全話一挙放送",
+  "episode": 4,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "iex0aqc",
+  "category": "etc",
+  "title": "試験イベント②",
+  "fullTitle": "試験イベント②",
+  "detail": "",
+  "start": 1614110400000,
+  "end": 1614115800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "スカパー！ガイド",
+    "id": "8lag",
+    "sid": 840,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 85
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
