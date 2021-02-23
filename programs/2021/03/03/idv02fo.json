@@ -1,0 +1,26 @@
+{
+  "id": "idv02fo",
+  "category": "cinema",
+  "title": "ターミナル",
+  "fullTitle": "[映][字]ターミナル[吹]【吹替ベストヒットハリウッド】",
+  "detail": "トム・ハンクス主演、スティーヴン・スピルバーグ監督のヒューマンドラマ。空港で足止めされた男と周囲の人々との交流を描く。",
+  "start": 1614744000000,
+  "end": 1614753000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "吹替ベストヒットハリウッド",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

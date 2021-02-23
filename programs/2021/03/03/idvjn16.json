@@ -1,0 +1,25 @@
+{
+  "id": "idvjn16",
+  "category": "information",
+  "title": "ショップチャンネル  お買い物エンターテインメント",
+  "fullTitle": "[生]ショップチャンネル  お買い物エンターテインメント",
+  "detail": "",
+  "start": 1614745800000,
+  "end": 1614747540000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp3ysp",
+  "category": "etc",
+  "title": "一瞬の、永遠の、にっぽん",
+  "fullTitle": "一瞬の、永遠の、にっぽん[字]",
+  "detail": "",
+  "start": 1614734760000,
+  "end": 1614736500000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm3vu4",
+  "category": "sports",
+  "title": "ブンデスリーガマンスリープレビュー Pre Meister",
+  "fullTitle": "[無]ブンデスリーガマンスリープレビュー Pre Meister #7",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nその月のブンデスリーガの注目試合をピックアップ！バイエルン、ドルトムントなどの強豪はもちろん、日本人選手の情報もお届け！",
+  "start": 1614697200000,
+  "end": 1614700800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": [
+    "無"
+  ]
+}

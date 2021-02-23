@@ -1,0 +1,27 @@
+{
+  "id": "idugnbf",
+  "category": "cinema",
+  "title": "シライサン[PG12指定]",
+  "fullTitle": "[映]シライサン[PG12指定][SS][字]",
+  "detail": "飯豊まりえ主演のホラーサスペンス。親友の不審死から立ち直れない女子大学生が、親友が聞いたという“シライサン”にまつわる呪いの謎に、弟を亡くした青年とともに迫る。",
+  "start": 1614744000000,
+  "end": 1614750300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

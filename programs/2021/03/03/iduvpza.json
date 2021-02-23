@@ -1,0 +1,26 @@
+{
+  "id": "iduvpza",
+  "category": "cinema",
+  "title": "ゼイ・シャル・ノット・グロウ・オールド",
+  "fullTitle": "[映][SS]ゼイ・シャル・ノット・グロウ・オールド",
+  "detail": "ピーター・ジャクソン監督のドキュメンタリー。第一次世界大戦で撮影された映像を最新技術で着色し音声を再現した。［Ｒ１５＋］",
+  "start": 1614706200000,
+  "end": 1614713400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

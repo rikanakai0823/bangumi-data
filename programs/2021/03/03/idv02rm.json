@@ -1,0 +1,26 @@
+{
+  "id": "idv02rm",
+  "category": "cinema",
+  "title": "恐怖のセンセイ",
+  "fullTitle": "[映][SS]恐怖のセンセイ[吹]",
+  "detail": "『ソーシャル・ネットワーク』のジェシー・アイゼンバーグが、空手の先生に翻弄される青年を演じたコメディ。［ＰＧ１２相当］",
+  "start": 1614760200000,
+  "end": 1614767400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
