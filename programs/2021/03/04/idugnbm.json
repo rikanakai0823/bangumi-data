@@ -1,0 +1,27 @@
+{
+  "id": "idugnbm",
+  "category": "cinema",
+  "title": "シグナル１００[R15+指定]",
+  "fullTitle": "[映]シグナル１００[R15+指定][SS][字]",
+  "detail": "橋本環奈主演のバイオレンススリラー。担任教師が生徒たちに見せた不気味な映像。自殺催眠の暗示をかけられた彼らは、催眠を解くための生き残りを懸けたサバイバルに挑む。",
+  "start": 1614789000000,
+  "end": 1614794400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rksa4b7",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2021 旗揚げ記念日 in 日本武道館",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2021 旗揚げ記念日 in 日本武道館",
+  "detail": "新日本プロレス１９７２年の創立から４９年！旗揚げ記念大会が例年からスケールアップして日本武道館で開催！スペシャルな闘いから目が離せない！※延長の場合あり",
+  "start": 1614844800000,
+  "end": 1614855600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

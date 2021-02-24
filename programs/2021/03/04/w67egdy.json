@@ -1,0 +1,23 @@
+{
+  "id": "w67egdy",
+  "category": "music",
+  "title": "最速！新着MV",
+  "fullTitle": "最速！新着MV",
+  "detail": "スペースシャワーTVに届いたばかりの新着ミュージックビデオを邦楽・洋楽問わずいち早くオンエア！",
+  "start": 1614808800000,
+  "end": 1614809700000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 122
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

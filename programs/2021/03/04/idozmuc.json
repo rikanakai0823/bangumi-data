@@ -1,0 +1,25 @@
+{
+  "id": "idozmuc",
+  "category": "sports",
+  "title": "ノルディック世界選手権２０２１",
+  "fullTitle": "ノルディック世界選手権２０２１「ジャンプ女子　ラージヒル」[再]",
+  "detail": "【解説】原田雅彦，【アナウンサー】沢田石和樹　～ドイツ・オーベルストドルフで収録～",
+  "start": 1614846000000,
+  "end": 1614852000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ジャンプ女子　ラージヒル",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

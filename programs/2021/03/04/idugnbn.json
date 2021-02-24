@@ -1,0 +1,27 @@
+{
+  "id": "idugnbn",
+  "category": "cinema",
+  "title": "猫は抱くもの",
+  "fullTitle": "[映]猫は抱くもの[SS][字]",
+  "detail": "沢尻エリカが吉沢亮らと共演した、ハートウオーミングなファンタジー。元アイドルだが今はスーパーのレジ係をするアラサー女性の沙織。そんな彼女に恋をしたのは猫だった。",
+  "start": 1614794400000,
+  "end": 1614801600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugnbr",
+  "category": "cinema",
+  "title": "ゲゲゲの鬼太郎（２００７）",
+  "fullTitle": "[映]ゲゲゲの鬼太郎（２００７）[SS][字]",
+  "detail": "ＴＶアニメ版も親しまれている、水木しげるの国民的漫画を実写映画化。ウエンツ瑛士演じる鬼太郎をはじめ、田中麗奈、大泉洋ら豪華布陣が扮した妖怪姿も話題。続編も誕生。",
+  "start": 1614816600000,
+  "end": 1614822900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

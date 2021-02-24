@@ -1,0 +1,25 @@
+{
+  "id": "idv0520",
+  "category": "cinema",
+  "title": "遠い空の向こうに",
+  "fullTitle": "[映]遠い空の向こうに[吹]",
+  "detail": "宇宙に夢を抱く高校生が、父親と対立しながらもロケット製作に奮闘、やがて夢を実現させる…。実話を基にした感動作。",
+  "start": 1614805200000,
+  "end": 1614812400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

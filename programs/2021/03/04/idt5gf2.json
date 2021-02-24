@@ -1,0 +1,25 @@
+{
+  "id": "idt5gf2",
+  "category": "news",
+  "title": "皇室の窓スペシャル",
+  "fullTitle": "皇室の窓スペシャル[字]",
+  "detail": "伝統や行事、公務から日常生活まで、皇室のあらゆる情報を詳しく分かりやすく解説。\r\n貴重な情報をふんだんに盛り込んだ、いわば“現代の皇室全集”です。",
+  "start": 1614848280000,
+  "end": 1614855300000,
+  "seconds": 7020,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
