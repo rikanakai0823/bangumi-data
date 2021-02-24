@@ -2,8 +2,8 @@
   "id": "idozme4",
   "category": "sports",
   "title": "ノルディック世界選手権２０２１",
-  "fullTitle": "ノルディック世界選手権２０２１",
-  "detail": "",
+  "fullTitle": "ノルディック世界選手権２０２１「ジャンプ混合団体　ノーマルヒル」[再]",
+  "detail": "【解説】原田雅彦，【アナウンサー】小野卓哉　～ドイツ・オーベルストドルフで収録～",
   "start": 1614676200000,
   "end": 1614682200000,
   "seconds": 6000,
@@ -17,7 +17,9 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "ジャンプ混合団体　ノーマルヒル",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }

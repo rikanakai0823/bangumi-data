@@ -2,8 +2,8 @@
   "id": "idozmdl",
   "category": "sports",
   "title": "ノルディック世界選手権２０２１",
-  "fullTitle": "ノルディック世界選手権２０２１",
-  "detail": "",
+  "fullTitle": "ノルディック世界選手権２０２１「ジャンプ女子　団体」[再]",
+  "detail": "【解説】原田雅彦，【アナウンサー】星野圭介　～ドイツ・オーベルストドルフで収録～",
   "start": 1614556800000,
   "end": 1614563400000,
   "seconds": 6600,
@@ -17,7 +17,9 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "ジャンプ女子　団体",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }
