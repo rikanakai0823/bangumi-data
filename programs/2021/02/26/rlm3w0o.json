@@ -1,0 +1,25 @@
+{
+  "id": "rlm3w0o",
+  "category": "sports",
+  "title": "HAWKS宮崎春季キャンプ中継2021 2/26",
+  "fullTitle": "[生]HAWKS宮崎春季キャンプ中継2021 2/26",
+  "detail": "春季キャンプ最終日の模様も生中継！さらなる高みを目指す常勝軍団の見どころ盛りたくさんのキャンプをぜひお楽しみください。",
+  "start": 1614301200000,
+  "end": 1614315600000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

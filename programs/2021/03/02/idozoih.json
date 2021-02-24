@@ -2,7 +2,7 @@
   "id": "idozoih",
   "category": "sports",
   "title": "ＭＬＢ歴代メジャーリーガーベストゲーム",
-  "fullTitle": "ＭＬＢ歴代メジャーリーガーベストゲーム",
+  "fullTitle": "ＭＬＢ歴代メジャーリーガーベストゲーム[字]",
   "detail": "",
   "start": 1614682800000,
   "end": 1614685800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
