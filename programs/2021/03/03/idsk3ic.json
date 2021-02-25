@@ -1,9 +1,9 @@
 {
   "id": "idsk3ic",
-  "category": "information",
-  "title": "奈良ふしぎ旅図鑑鑑",
-  "fullTitle": "奈良ふしぎ旅図鑑鑑",
-  "detail": "",
+  "category": "documentary",
+  "title": "奈良ふしぎ旅図鑑鑑▼吉岡里帆",
+  "fullTitle": "奈良ふしぎ旅図鑑鑑＃２５６▼吉岡里帆",
+  "detail": "日本一の歴史を誇る古都・奈良。そこには、素敵なふしぎがいっぱい詰まっています。\r\n其の百九十三：三宅町のふしぎ",
   "start": 1614772440000,
   "end": 1614772800000,
   "seconds": 360,
@@ -18,6 +18,6 @@
     "n": 50
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 256,
   "flags": []
 }
