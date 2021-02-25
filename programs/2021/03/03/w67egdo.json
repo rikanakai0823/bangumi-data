@@ -1,9 +1,9 @@
 {
   "id": "w67egdo",
   "category": "music",
-  "title": "未定",
-  "fullTitle": "未定",
-  "detail": "",
+  "title": "",
+  "fullTitle": "第63回 グラミー直前SP特番",
+  "detail": "日本を代表するアーティストたちが「音楽の祭典」第63回グラミー賞を大胆予想する特別番組！",
   "start": 1614772800000,
   "end": 1614776400000,
   "seconds": 3600,
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 122
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "グラミー直前SP特番",
+  "episode": 63,
   "flags": []
 }
