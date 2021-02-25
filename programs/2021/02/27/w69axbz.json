@@ -1,11 +1,11 @@
 {
-  "id": "w69awl1",
+  "id": "w69axbz",
   "category": "news",
   "title": "アフリカ経済ウィークリー Market Place Africa",
-  "fullTitle": "[二]アフリカ経済ウィークリー Market Place Africa[再]",
+  "fullTitle": "[二]アフリカ経済ウィークリー Market Place Africa",
   "detail": "日本語同時通訳付。\r\nアフリカ経済の最新トレンド、注目のビジネスを紹介。",
-  "start": 1614510000000,
-  "end": 1614510900000,
+  "start": 1614410100000,
+  "end": 1614411000000,
   "seconds": 900,
   "channel": {
     "type": "CS",
@@ -20,7 +20,6 @@
   "subTitle": "",
   "episode": null,
   "flags": [
-    "二",
-    "再"
+    "二"
   ]
 }
