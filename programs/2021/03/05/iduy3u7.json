@@ -1,0 +1,26 @@
+{
+  "id": "iduy3u7",
+  "category": "cinema",
+  "title": "ドゥ・ザ・ライト・シング",
+  "fullTitle": "[映][SS]ドゥ・ザ・ライト・シング",
+  "detail": "スパイク・リー監督による社会派コメディドラマ。人種差別で対立するブルックリンの白人と黒人が暴動に至ったプロセスを描く。",
+  "start": 1614928500000,
+  "end": 1614936600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

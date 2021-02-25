@@ -1,0 +1,25 @@
+{
+  "id": "rks7s30",
+  "category": "variety",
+  "title": "さまぁ～ず×さまぁ～ず",
+  "fullTitle": "さまぁ～ず×さまぁ～ず #627[終]",
+  "detail": "とことんトークにこだわった…よーな、そーでないような「さまぁーず」だけのトークライブ!!",
+  "start": 1614912000000,
+  "end": 1614914400000,
+  "seconds": 2400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 106
+  },
+  "subTitle": "さまぁーず",
+  "episode": 627,
+  "flags": [
+    "終"
+  ]
+}

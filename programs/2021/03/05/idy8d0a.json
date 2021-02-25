@@ -1,0 +1,25 @@
+{
+  "id": "idy8d0a",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#78[二]",
+  "detail": "#78「恋するスクーター」",
+  "start": 1614929160000,
+  "end": 1614929400000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "恋するスクーター",
+  "episode": 78,
+  "flags": [
+    "二"
+  ]
+}

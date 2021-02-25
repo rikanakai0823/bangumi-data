@@ -1,0 +1,26 @@
+{
+  "id": "idv08r8",
+  "category": "cinema",
+  "title": "グラディエーター",
+  "fullTitle": "[映][字]グラディエーター[吹]",
+  "detail": "皇帝暗殺の濡れ衣を着せられた男が剣闘士となって復讐を誓う！アカデミー作品賞を受賞したラッセル・クロウ主演の歴史大作。",
+  "start": 1614916800000,
+  "end": 1614926700000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

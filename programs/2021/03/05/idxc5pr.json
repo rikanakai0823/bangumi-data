@@ -1,0 +1,25 @@
+{
+  "id": "idxc5pr",
+  "category": "hobby",
+  "title": "BSスカパー！パチンコパチスロアワー　Seven Dreamers",
+  "fullTitle": "[無]BSスカパー！パチンコパチスロアワー　Seven Dreamers #3",
+  "detail": "第２回　前半戦",
+  "start": 1614952800000,
+  "end": 1614956400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "前半戦",
+  "episode": 3,
+  "flags": [
+    "無"
+  ]
+}

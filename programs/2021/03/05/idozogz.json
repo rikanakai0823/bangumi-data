@@ -1,0 +1,25 @@
+{
+  "id": "idozogz",
+  "category": "news",
+  "title": "Ｎスペ５ｍｉｎ．　特別編",
+  "fullTitle": "Ｎスペ５ｍｉｎ．　特別編「津波」[字]",
+  "detail": "東日本大震災から１０年。これまで数々のＮＨＫスペシャルで伝えてきた未曽有の巨大津波の実像を、決して忘れてはならない「命を守る教訓」として５分に凝縮する特別番組。",
+  "start": 1614870060000,
+  "end": 1614870360000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "津波",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduy3io",
+  "category": "cinema",
+  "title": "モンスター",
+  "fullTitle": "[映][SS]モンスター",
+  "detail": "シャーリーズ・セロンがアカデミー主演女優賞に輝いたサスペンスドラマ。女性連続殺人犯の半生を描く。［Ｒ－１５］",
+  "start": 1614913200000,
+  "end": 1614920400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

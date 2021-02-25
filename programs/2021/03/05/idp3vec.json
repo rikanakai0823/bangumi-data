@@ -1,0 +1,26 @@
+{
+  "id": "idp3vec",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「北陸　冬のしあわせ」[字][再]",
+  "detail": "豪雪と荒波の北陸。しかし厳しい冬だからこその“しあわせ”がある。絶品の越前ガニに寒ブリ。身も心も温まる名物銭湯。支えあって生きる人々の温もりもしみる北陸の旅",
+  "start": 1614898800000,
+  "end": 1614902400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "北陸　冬のしあわせ",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idt5gpr",
+  "category": "information",
+  "title": "ハンターカメラ　オススメ",
+  "fullTitle": "ハンターカメラ　オススメ",
+  "detail": "「ハンターカメラ」番組の見どころを紹介します。",
+  "start": 1614938040000,
+  "end": 1614938400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "ハンターカメラ",
+  "episode": null,
+  "flags": []
+}

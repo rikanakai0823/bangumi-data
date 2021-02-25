@@ -1,0 +1,26 @@
+{
+  "id": "iduehtc",
+  "category": "sports",
+  "title": "全豪オープンテニス　男子シングルス決勝",
+  "fullTitle": "[初]全豪オープンテニス　男子シングルス決勝[多]",
+  "detail": "男子シングルス決勝　ノバク・ジョコビッチ×ダニール・メドベージェフ",
+  "start": 1614895200000,
+  "end": 1614902400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "多"
+  ]
+}
