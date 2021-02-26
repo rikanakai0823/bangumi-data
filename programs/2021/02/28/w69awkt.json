@@ -1,9 +1,9 @@
 {
   "id": "w69awkt",
-  "category": "news",
-  "title": "CNNニュースルーム",
-  "fullTitle": "CNNニュースルーム",
-  "detail": "専門家の分析を交え世界のニュースを検証\r\nヘッドラインを飾るニュースに最新情報を加えながら、あらゆる分野の専門家の分析とともに判り易く解説する報道・情報番組。",
+  "category": "hobby",
+  "title": "African Voices",
+  "fullTitle": "African Voices[再]",
+  "detail": "世界的に活躍するアフリカ各国の話題の人物に、ロング・インタビュー。",
   "start": 1614490200000,
   "end": 1614492000000,
   "seconds": 1800,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }
