@@ -1,0 +1,25 @@
+{
+  "id": "rkv8wnr",
+  "category": "sports",
+  "title": "プロ野球オープン戦2021",
+  "fullTitle": "[生]プロ野球オープン戦2021「千葉ロッテ×西武」",
+  "detail": "～生中継　～ZOZOマリンスタジアム　\r\n*早終了及び荒天中止の時、番組変更あり",
+  "start": 1615002300000,
+  "end": 1615017600000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 135
+  },
+  "subTitle": "千葉ロッテ×西武",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

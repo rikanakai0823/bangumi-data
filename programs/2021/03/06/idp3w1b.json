@@ -1,0 +1,26 @@
+{
+  "id": "idp3w1b",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「春を待つ香り」[字][再]",
+  "detail": "ふとした瞬間、漂う香りに感じる春。和洋の春の香りをご案内。フランス流ブーケは香りの花束、香木の小片で感じる梅の香、里山に訪れる春の使者が放つ春の香りなどを紹介。",
+  "start": 1614980700000,
+  "end": 1614982500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "春を待つ香り",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

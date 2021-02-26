@@ -1,0 +1,26 @@
+{
+  "id": "idy8d1e",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "[初]ビッグシティ・グリーン#42[二]",
+  "detail": "#42「レミーの将来　/　バーチャンは名ドライバー」",
+  "start": 1615017600000,
+  "end": 1615019400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "レミーの将来　/　バーチャンは名ドライバー",
+  "episode": 42,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

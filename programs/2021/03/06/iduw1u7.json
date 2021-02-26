@@ -1,0 +1,26 @@
+{
+  "id": "iduw1u7",
+  "category": "cinema",
+  "title": "ハスラーズ",
+  "fullTitle": "[映][SS]ハスラーズ【特集：嘘のような本当の話】",
+  "detail": "コンスタンス・ウー主演、ジェニファー・ロペス共演の犯罪ドラマ。実話を基に大胆な詐欺を企てるダンサー達を描く。［ＰＧ１２］",
+  "start": 1615014900000,
+  "end": 1615022400000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "特集：嘘のような本当の話",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

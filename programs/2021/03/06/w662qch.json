@@ -1,0 +1,23 @@
+{
+  "id": "w662qch",
+  "category": "information",
+  "title": "プラス!ショッピング",
+  "fullTitle": "プラス!ショッピング",
+  "detail": "毎日の暮らしに「プラス!」な情報を。ショッピング番組。",
+  "start": 1614980700000,
+  "end": 1614981600000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "プラス!",
+  "episode": null,
+  "flags": []
+}

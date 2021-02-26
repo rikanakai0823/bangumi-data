@@ -1,0 +1,25 @@
+{
+  "id": "rlm3vue",
+  "category": "sports",
+  "title": "Bリーグ2020-21 第26節 琉球×横浜(3/6)",
+  "fullTitle": "[生]Bリーグ2020-21 第26節 琉球×横浜(3/6)",
+  "detail": "Bリーグ 2020-21 第26節(3/6)\r\n対戦:琉球ゴールデンキングス(H)\r\n　　 横浜ビー・コルセアーズ(A)",
+  "start": 1615024800000,
+  "end": 1615035600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

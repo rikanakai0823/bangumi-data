@@ -1,0 +1,25 @@
+{
+  "id": "w63iyod",
+  "category": "sports",
+  "title": "ゴルフ日本シリーズJTカップ2020 最終日地上波",
+  "fullTitle": "ゴルフ日本シリーズJTカップ2020 最終日地上波[再]",
+  "detail": "2020年12月6日開催　～東京よみうりカントリークラブ\r\n　\r\n解説：丸山茂樹　　ゲスト：青木功　　ラウンド解説：佐藤信人　　実況：菅谷大介",
+  "start": 1615028400000,
+  "end": 1615035600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

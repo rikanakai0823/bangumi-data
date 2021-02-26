@@ -1,0 +1,23 @@
+{
+  "id": "idvjn4t",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "当日の中央競馬レース結果と、明日のＧⅡ「弥生賞ディープインパクト記念」（中山）、の展望をお伝えします。",
+  "start": 1615037400000,
+  "end": 1615039200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "弥生賞ディープインパクト記念",
+  "episode": null,
+  "flags": []
+}

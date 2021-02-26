@@ -1,0 +1,26 @@
+{
+  "id": "idozlrq",
+  "category": "sports",
+  "title": "Ｊリーグ２０２１「ベガルタ仙台」対",
+  "fullTitle": "Ｊリーグ２０２１「ベガルタ仙台」対「川崎フロンターレ」[多][デ]",
+  "detail": "　※副音声は場内音声　（試合開始　２：０４）　【解説】山本昌邦，【アナウンサー】深澤健太　～ユアテックスタジアム仙台から中継～",
+  "start": 1615006800000,
+  "end": 1615014000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "川崎フロンターレ",
+  "episode": null,
+  "flags": [
+    "多",
+    "デ"
+  ]
+}

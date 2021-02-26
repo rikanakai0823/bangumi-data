@@ -1,0 +1,25 @@
+{
+  "id": "idy8d17",
+  "category": "anime",
+  "title": "アウルハウス",
+  "fullTitle": "アウルハウス#9[二]",
+  "detail": "#9「ウソとワナ」",
+  "start": 1614994200000,
+  "end": 1614996000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ウソとワナ",
+  "episode": 9,
+  "flags": [
+    "二"
+  ]
+}

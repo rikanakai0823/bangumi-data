@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7v67",
+  "category": "news",
+  "title": "ウェークアップ",
+  "fullTitle": "ウェークアップ[字]",
+  "detail": "ウェークアップ",
+  "start": 1614985200000,
+  "end": 1614990300000,
+  "seconds": 5100,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

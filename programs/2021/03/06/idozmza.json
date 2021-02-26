@@ -1,0 +1,23 @@
+{
+  "id": "idozmza",
+  "category": "sports",
+  "title": "Ｊリーグタイム",
+  "fullTitle": "Ｊリーグタイム「Ｊ１第２節」",
+  "detail": "【解説】平畠啓史，【司会】中川絵美里",
+  "start": 1615032000000,
+  "end": 1615035000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "Ｊ１第２節",
+  "episode": null,
+  "flags": []
+}

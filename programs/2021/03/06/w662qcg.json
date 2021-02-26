@@ -1,0 +1,23 @@
+{
+  "id": "w662qcg",
+  "category": "music",
+  "title": "@JAM TV powered by LIVE DAM Ai",
+  "fullTitle": "@JAM TV powered by LIVE DAM Ai #17",
+  "detail": "アイドルカレッジ／Devil ANTHEM.／虹のコンキスタドール／夢みるアドレセンス",
+  "start": 1614977100000,
+  "end": 1614980700000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 17,
+  "flags": []
+}

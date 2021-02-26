@@ -1,0 +1,23 @@
+{
+  "id": "ieeljub",
+  "category": "etc",
+  "title": "アルゴリズムとプログラミング",
+  "fullTitle": "アルゴリズムとプログラミング　第2回",
+  "detail": "「条件分岐」",
+  "start": 1614583800000,
+  "end": 1614586500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "条件分岐",
+  "episode": 2,
+  "flags": []
+}
