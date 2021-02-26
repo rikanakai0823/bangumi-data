@@ -2,7 +2,7 @@
   "id": "idp3zpr",
   "category": "hobby",
   "title": "岩合光昭の世界ネコ歩きｍｉｎｉ",
-  "fullTitle": "岩合光昭の世界ネコ歩きｍｉｎｉ",
+  "fullTitle": "岩合光昭の世界ネコ歩きｍｉｎｉ[字]",
   "detail": "",
   "start": 1614675480000,
   "end": 1614676380000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

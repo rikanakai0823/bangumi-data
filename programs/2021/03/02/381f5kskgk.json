@@ -2,7 +2,7 @@
   "id": "381f5kskgk",
   "category": "documentary",
   "title": "１０分で巡る　にっぽんの廃線",
-  "fullTitle": "１０分で巡る　にっぽんの廃線",
+  "fullTitle": "１０分で巡る　にっぽんの廃線[字]",
   "detail": "",
   "start": 1614626400000,
   "end": 1614627000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
