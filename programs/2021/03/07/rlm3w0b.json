@@ -1,0 +1,25 @@
+{
+  "id": "rlm3w0b",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ 第24節 ケルン×ブレーメン",
+  "fullTitle": "[生]20/21 ブンデスリーガ 第24節 ケルン×ブレーメン",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年3月7日\r\n会場:ラインエネルギー シュタディオン",
+  "start": 1615126800000,
+  "end": 1615135800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

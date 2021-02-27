@@ -1,0 +1,25 @@
+{
+  "id": "w69awsh",
+  "category": "news",
+  "title": "特別番組",
+  "fullTitle": "[二]特別番組",
+  "detail": "日本語同時通訳付。\r\n番組内容が決まり次第お知らせします。",
+  "start": 1615082400000,
+  "end": 1615086000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

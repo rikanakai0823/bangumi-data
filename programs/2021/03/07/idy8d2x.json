@@ -1,0 +1,26 @@
+{
+  "id": "idy8d2x",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "[無]キャンプ・キキワカ#9[二]",
+  "detail": "#9「森の中のサンタクロース」",
+  "start": 1615125600000,
+  "end": 1615127400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "森の中のサンタクロース",
+  "episode": 9,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

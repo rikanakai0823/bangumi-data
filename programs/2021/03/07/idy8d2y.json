@@ -1,0 +1,26 @@
+{
+  "id": "idy8d2y",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "[無]キャンプ・キキワカ#10[二]",
+  "detail": "#10「恋に落ちる夜」",
+  "start": 1615127400000,
+  "end": 1615129200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "恋に落ちる夜",
+  "episode": 10,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

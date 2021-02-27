@@ -1,0 +1,27 @@
+{
+  "id": "idugncx",
+  "category": "cinema",
+  "title": "Ｄｉｎｅｒ　ダイナー",
+  "fullTitle": "[映]Ｄｉｎｅｒ　ダイナー[SS][字]",
+  "detail": "藤原竜也、玉城ティナ、窪田正孝ら充実の俳優陣が、蜷川実花監督のもとに結集。殺し屋専用の“ダイナー（食堂）”で空前絶後の死闘が幕を開ける。ＷＯＷＯＷ製作参加作品。",
+  "start": 1615095900000,
+  "end": 1615103100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

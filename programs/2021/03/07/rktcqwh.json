@@ -1,0 +1,26 @@
+{
+  "id": "rktcqwh",
+  "category": "music",
+  "title": "全国のど自慢",
+  "fullTitle": "[無]全国のど自慢　[字]",
+  "detail": "１９８０年からスタートし、長く愛され続けているKBSの代表歌番組！全国各地を巡回しながら、地域の住民と一体になってアマチュアの実力を紹介する！",
+  "start": 1615064400000,
+  "end": 1615068600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

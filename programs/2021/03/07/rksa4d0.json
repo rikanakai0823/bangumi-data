@@ -1,0 +1,25 @@
+{
+  "id": "rksa4d0",
+  "category": "sports",
+  "title": "全日本フットサル選手権大会 決勝",
+  "fullTitle": "[生]第26回全日本フットサル選手権大会 決勝",
+  "detail": "フットサル日本一を懸け、総勢３２チームが一発勝負の熱き戦いに挑む！\r\n※延長の場合あり",
+  "start": 1615092900000,
+  "end": 1615102200000,
+  "seconds": 9300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": 26,
+  "flags": [
+    "生"
+  ]
+}

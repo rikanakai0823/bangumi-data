@@ -1,0 +1,26 @@
+{
+  "id": "idy8d29",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "[無]ツムツム#27[解]",
+  "detail": "#27「ツムツム式四季」",
+  "start": 1615080420000,
+  "end": 1615080600000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ツムツム式四季",
+  "episode": 27,
+  "flags": [
+    "無",
+    "解"
+  ]
+}

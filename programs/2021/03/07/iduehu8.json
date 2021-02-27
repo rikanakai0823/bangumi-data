@@ -1,0 +1,26 @@
+{
+  "id": "iduehu8",
+  "category": "music",
+  "title": "生中継！ＴＯＭＯＲＲＯＷ　Ｘ　ＴＯＧＥＴＨＥＲ　ＦＡＮＬＩＶＥ　Ｓ…",
+  "fullTitle": "[初][生]生中継！ＴＯＭＯＲＲＯＷ　Ｘ　ＴＯＧＥＴＨＥＲ　ＦＡＮＬＩＶＥ　Ｓ…",
+  "detail": "ＴＯＭＯＲＲＯＷ　Ｘ　ＴＯＧＥＴＨＥＲがファンのために行なうスペシャルなＬＩＶＥを放送する。",
+  "start": 1615105800000,
+  "end": 1615114800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生"
+  ]
+}

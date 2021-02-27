@@ -1,0 +1,26 @@
+{
+  "id": "iduy7s6",
+  "category": "cinema",
+  "title": "ハイウェイの彼方に",
+  "fullTitle": "[映][SS]ハイウェイの彼方に",
+  "detail": "イーサン・ホーク主演のヒューマンドラマ。刑期を終えて社会復帰したばかりの男が赤ん坊を拾い、子育てに奮闘する姿を描く。",
+  "start": 1615051800000,
+  "end": 1615057200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

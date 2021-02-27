@@ -1,0 +1,26 @@
+{
+  "id": "idtqvyf",
+  "category": "cinema",
+  "title": "映画『ドラキュラ』",
+  "fullTitle": "[映][二]映画『ドラキュラ』",
+  "detail": "永遠の神話“ドラキュラ伝説” 巨匠フランシス・Ｆ・コッポラ監督が、かつてないスケールで描く壮大なゴシック・ロマン。\r\n",
+  "start": 1615053600000,
+  "end": 1615060500000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "二"
+  ]
+}

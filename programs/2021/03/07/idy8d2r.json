@@ -1,0 +1,26 @@
+{
+  "id": "idy8d2r",
+  "category": "cinema",
+  "title": "ハイスクール・ミュージカル",
+  "fullTitle": "[無]ハイスクール・ミュージカル[二]",
+  "detail": "トロイとガブリエラの二人はミュージカルの主役を抜擢するオーディションに参加を希望。だが、その事を周囲からは猛反対され・・・。97分。2005年。",
+  "start": 1615111200000,
+  "end": 1615117500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

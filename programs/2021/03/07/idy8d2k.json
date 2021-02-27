@@ -1,0 +1,26 @@
+{
+  "id": "idy8d2k",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "[無]ビッグシティ・グリーン#7[二]",
+  "detail": "#7「交通渋滞　/　ママ鳥」",
+  "start": 1615100400000,
+  "end": 1615102200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "交通渋滞　/　ママ鳥",
+  "episode": 7,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

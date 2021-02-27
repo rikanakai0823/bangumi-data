@@ -1,0 +1,23 @@
+{
+  "id": "idsk3q0",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「日本ハム　ｖｓ　巨人」",
+  "detail": "札幌ドームから生中継。午後１時試合開始。\r\n【解説】森本稀哲【実況】初田啓介",
+  "start": 1615089600000,
+  "end": 1615100040000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "日本ハム　ｖｓ　巨人",
+  "episode": null,
+  "flags": []
+}

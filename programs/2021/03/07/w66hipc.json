@@ -1,0 +1,25 @@
+{
+  "id": "w66hipc",
+  "category": "sports",
+  "title": "スワローズTV",
+  "fullTitle": "[無料]スワローズTV　#2「春のキャンプ祭り」",
+  "detail": "沖縄・浦添での東京ヤクルトスワローズ春季キャンプの模様をたっぷりとお届け。ハードな練習の模様、休日に収録された選手出演企画など、内容盛りだくさん！",
+  "start": 1615102200000,
+  "end": 1615107600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 111
+  },
+  "subTitle": "春のキャンプ祭り",
+  "episode": 2,
+  "flags": [
+    "無"
+  ]
+}

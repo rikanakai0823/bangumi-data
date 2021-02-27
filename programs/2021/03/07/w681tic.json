@@ -1,0 +1,25 @@
+{
+  "id": "w681tic",
+  "category": "anime",
+  "title": "promo-X",
+  "fullTitle": "[無]promo-X #175",
+  "detail": "声優さんやアーティストたちのプロモーションビデオを一挙に放送する、AT-X music file「promo-X」。\r\nナビゲーターは、大橋彩香さん♪",
+  "start": 1615118400000,
+  "end": 1615120200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 129
+  },
+  "subTitle": "promo-X",
+  "episode": 175,
+  "flags": [
+    "無"
+  ]
+}

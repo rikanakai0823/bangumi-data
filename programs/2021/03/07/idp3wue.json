@@ -1,0 +1,25 @@
+{
+  "id": "idp3wue",
+  "category": "music",
+  "title": "演歌フェス２０２１",
+  "fullTitle": "演歌フェス２０２１[字]",
+  "detail": "",
+  "start": 1615113000000,
+  "end": 1615118400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

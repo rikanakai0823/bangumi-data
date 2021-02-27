@@ -1,0 +1,25 @@
+{
+  "id": "iduehua",
+  "category": "theater",
+  "title": "バカリズムライブ番外編",
+  "fullTitle": "[初]バカリズムライブ番外編「バカリズム案」",
+  "detail": "「番外編」と称し単独ライブとは別に不定期開催する「バカリズム案」を放送。独自の切り口でさまざまな角度から「案」を提案していくパフォーマンス。",
+  "start": 1615115700000,
+  "end": 1615121700000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "バカリズム案",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

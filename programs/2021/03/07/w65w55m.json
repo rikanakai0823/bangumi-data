@@ -1,0 +1,25 @@
+{
+  "id": "w65w55m",
+  "category": "sports",
+  "title": "プロ野球 2021(オープン戦)DeNA×オリックス(3/7)",
+  "fullTitle": "[生]プロ野球 2021(オープン戦)DeNA×オリックス(3/7)",
+  "detail": "横浜DeNAベイスターズ主催のオープン戦を全試合、開始から終了まで生中継！※雨天中止の場合、別番組をお送りします",
+  "start": 1615089300000,
+  "end": 1615104000000,
+  "seconds": 14700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

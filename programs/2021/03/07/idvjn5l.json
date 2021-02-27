@@ -1,0 +1,26 @@
+{
+  "id": "idvjn5l",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【小倉】12Ｒ「由布院特別」\r\n【阪神】12Ｒ\r\n【中山】12Ｒ\r\n★2021新人騎手紹介",
+  "start": 1615100400000,
+  "end": 1615105800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}
