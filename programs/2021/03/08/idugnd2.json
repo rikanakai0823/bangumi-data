@@ -1,0 +1,27 @@
+{
+  "id": "idugnd2",
+  "category": "cinema",
+  "title": "孤狼の血[R15+指定]",
+  "fullTitle": "[映]孤狼の血[R15+指定][SS][字]",
+  "detail": "柚月裕子のベストセラー小説を、役所広司、松坂桃李ら豪華キャスト陣を迎えて、「凶悪」の白石和彌監督が映画化した、衝撃のバイオレンス群像劇。２０２１年に続編が誕生。",
+  "start": 1615131000000,
+  "end": 1615139100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "凶悪",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

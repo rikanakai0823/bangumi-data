@@ -1,0 +1,26 @@
+{
+  "id": "idugnd4",
+  "category": "cinema",
+  "title": "日本暗殺秘録",
+  "fullTitle": "[映]日本暗殺秘録[字]",
+  "detail": "幕末から昭和にかけて日本で起きた政治的暗殺事件の血塗られた歴史を、中島貞夫監督が、東映のオールスターキャストによりオムニバス形式で鮮烈に描いた屈指の異色大作。",
+  "start": 1615147200000,
+  "end": 1615156200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rks3a2x",
+  "category": "music",
+  "title": "【無料】TBSch×SBS Medianet PRESENTS THE SHOW <字幕>",
+  "fullTitle": "【無料】TBSch×SBS Medianet PRESENTS THE SHOW #251<字幕>",
+  "detail": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。",
+  "start": 1615136400000,
+  "end": 1615141200000,
+  "seconds": 4800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 104
+  },
+  "subTitle": "",
+  "episode": 251,
+  "flags": []
+}

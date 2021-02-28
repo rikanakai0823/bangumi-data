@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7v87",
+  "category": "etc",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "",
+  "start": 1615138440000,
+  "end": 1615143480000,
+  "seconds": 5040,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

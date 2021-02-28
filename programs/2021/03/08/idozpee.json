@@ -1,0 +1,26 @@
+{
+  "id": "idozpee",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「奇跡の里浜　震災９年　再生の日々」[字][再]",
+  "detail": "東日本大震災の津波を耐え、驚異の再生をとげる、仙台市新浜地区の「里浜」。震災後も、地元で生き続ける住民は、何を思うのか。自然と人々、再生の日々を見つめる。",
+  "start": 1615165200000,
+  "end": 1615168800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "奇跡の里浜　震災９年　再生の日々",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

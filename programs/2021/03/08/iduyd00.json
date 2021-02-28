@@ -1,0 +1,25 @@
+{
+  "id": "iduyd00",
+  "category": "cinema",
+  "title": "海外特派員",
+  "fullTitle": "[映]海外特派員",
+  "detail": "アルフレッド・ヒッチコック監督のサスペンススリラー。第二次世界大戦直前、スパイ組織の陰謀を暴くアメリカ人記者の姿を描く。",
+  "start": 1615172400000,
+  "end": 1615180200000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

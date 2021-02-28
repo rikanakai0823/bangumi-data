@@ -1,0 +1,25 @@
+{
+  "id": "w69awtr",
+  "category": "news",
+  "title": "ニュー・デイ",
+  "fullTitle": "[二]ニュー・デイ",
+  "detail": "日本語同時通訳付。\r\nアメリカの「朝」を直送\r\n全米で人気のアリスン・キャメロータとジョン・バーマンが、アメリカの最新ニュースを伝えるモーニング・ワイド。",
+  "start": 1615201200000,
+  "end": 1615204800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idsk3sx",
+  "category": "information",
+  "title": "新しいテレビの時間",
+  "fullTitle": "新しいテレビの時間",
+  "detail": "ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！",
+  "start": 1615204440000,
+  "end": 1615204800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

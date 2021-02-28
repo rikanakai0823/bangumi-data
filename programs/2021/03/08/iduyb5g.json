@@ -1,0 +1,25 @@
+{
+  "id": "iduyb5g",
+  "category": "cinema",
+  "title": "ブラインド・フューリー",
+  "fullTitle": "[映]ブラインド・フューリー",
+  "detail": "日本の『座頭市』を下敷きにしたソードアクション。盲目の剣の達人が拉致された戦友を救うため、麻薬組織に対して戦いを挑む。",
+  "start": 1615147200000,
+  "end": 1615153200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

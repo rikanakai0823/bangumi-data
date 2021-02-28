@@ -1,0 +1,25 @@
+{
+  "id": "idp3xhz",
+  "category": "documentary",
+  "title": "にっぽん百名山",
+  "fullTitle": "にっぽん百名山[字]",
+  "detail": "",
+  "start": 1615199400000,
+  "end": 1615201200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

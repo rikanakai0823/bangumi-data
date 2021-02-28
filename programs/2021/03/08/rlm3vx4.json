@@ -1,0 +1,23 @@
+{
+  "id": "rlm3vx4",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～オープン戦～ ソフトバンクvs.阪神",
+  "fullTitle": "HAWKS プロ野球中継2021～オープン戦～ ソフトバンクvs.阪神",
+  "detail": "解説/実況：斉藤和巳/信川竜太\r\n開催日時：2021年3月5日 (金) 16:00\r\n会場：福岡PayPayドーム",
+  "start": 1615174200000,
+  "end": 1615190400000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

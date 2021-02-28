@@ -1,0 +1,26 @@
+{
+  "id": "idugnd5",
+  "category": "cinema",
+  "title": "劇場版　ドルメンＸ",
+  "fullTitle": "[映]劇場版　ドルメンＸ[字]",
+  "detail": "高木ユーナの人気漫画をもとにしたＴＶドラマ全４話を再構成し、１５年後を描いた新撮場面を追加した青春アイドルコメディの劇場版。志尊淳、浅香航大ら次世代俳優が共演。",
+  "start": 1615156200000,
+  "end": 1615163400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

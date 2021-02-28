@@ -1,0 +1,23 @@
+{
+  "id": "idvjn6m",
+  "category": "information",
+  "title": "なっトク！健康チャンネル",
+  "fullTitle": "なっトク！健康チャンネル",
+  "detail": "テレビショッピング",
+  "start": 1615183200000,
+  "end": 1615184940000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
