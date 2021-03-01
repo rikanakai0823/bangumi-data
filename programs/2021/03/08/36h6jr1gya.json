@@ -2,11 +2,15 @@
   "id": "36h6jr1gya",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nターボプロ　　　　　　　　　　　　　　　０１２０－３６－２００８",
   "start": 1615154400000,
   "end": 1615156200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ターボプロ　　　　　　　　　　　　　　　０１２０－３６－２００８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
