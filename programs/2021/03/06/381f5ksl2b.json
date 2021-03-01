@@ -2,7 +2,7 @@
   "id": "381f5ksl2b",
   "category": "documentary",
   "title": "マヌ～ルのゆうべ　ふしぎな生きもの大集合",
-  "fullTitle": "マヌ～ルのゆうべ　ふしぎな生きもの大集合",
+  "fullTitle": "マヌ～ルのゆうべ　ふしぎな生きもの大集合[字]",
   "detail": "",
   "start": 1615011300000,
   "end": 1615011600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
