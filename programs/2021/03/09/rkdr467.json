@@ -1,0 +1,23 @@
+{
+  "id": "rkdr467",
+  "category": "information",
+  "title": "グルメデイとっておき！ダイジェスト",
+  "fullTitle": "グルメデイとっておき！ダイジェスト",
+  "detail": "グルメ／スペシャルグルメデイ／食卓を彩るショップチャンネル自慢のグルメをバラエティ豊かに揃えました。おもてなしにぜひ！",
+  "start": 1615294800000,
+  "end": 1615302000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 87
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

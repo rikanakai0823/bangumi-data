@@ -1,0 +1,25 @@
+{
+  "id": "iduyggw",
+  "category": "cinema",
+  "title": "真昼の決闘",
+  "fullTitle": "[映]真昼の決闘",
+  "detail": "ゲイリー・クーパー＆グレイス・ケリー共演の名作西部劇。孤立無援の保安官と４人の無法者との対決をリアルタイム進行で描く。",
+  "start": 1615273200000,
+  "end": 1615278600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

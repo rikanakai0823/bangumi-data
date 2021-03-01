@@ -1,0 +1,25 @@
+{
+  "id": "idt5gjv",
+  "category": "news",
+  "title": "日経モーニングプラスＦＴ",
+  "fullTitle": "日経モーニングプラスＦＴ[二]",
+  "detail": "「あなたの朝に、プラスを！」。日本経済新聞や英国の有力経済紙「フィナンシャル・タイムズ」(ＦＴ)が報じた国内外の最新ニュースを厳選し、朝からお届けします◆４Ｋ制作",
+  "start": 1615241100000,
+  "end": 1615244100000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

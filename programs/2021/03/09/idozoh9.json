@@ -1,0 +1,25 @@
+{
+  "id": "idozoh9",
+  "category": "documentary",
+  "title": "ＮＨＫスペシャル　選",
+  "fullTitle": "ＮＨＫスペシャル　選「メルトダウン　連鎖の真相」[字]",
+  "detail": "事故発生から１年４か月。未だに多くの謎が残されたままの東京電力福島第一原子力発電所事故。最新のシミュレーションと現場の当事者たちの証言から事故の真相に迫る。",
+  "start": 1615262460000,
+  "end": 1615266000000,
+  "seconds": 3540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "メルトダウン　連鎖の真相",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

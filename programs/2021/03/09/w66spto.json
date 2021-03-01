@@ -1,0 +1,25 @@
+{
+  "id": "w66spto",
+  "category": "drama",
+  "title": "STATION 19　シーズン1",
+  "fullTitle": "STATION 19　シーズン1 #2「見えない炎」[字]",
+  "detail": "●月～金まで毎日続けて放送！●隊長代理を任されたジャックとアンディ。巨大なタンクローリーが横転した交通事故現場への出動要請が入る。",
+  "start": 1615251600000,
+  "end": 1615255200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 116
+  },
+  "subTitle": "見えない炎",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

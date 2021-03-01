@@ -1,0 +1,25 @@
+{
+  "id": "w633rdk",
+  "category": "sports",
+  "title": "プロ野球 オープン戦 阪神×広島 3.9",
+  "fullTitle": "[生]プロ野球 オープン戦 阪神×広島 3.9",
+  "detail": "阪神×広島(3/9試合)\r\n▽生中継/甲子園/PB13：00\r\n※雨天中止、時間延長の場合あり",
+  "start": 1615261500000,
+  "end": 1615278600000,
+  "seconds": 17100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 95
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

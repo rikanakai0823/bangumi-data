@@ -1,0 +1,25 @@
+{
+  "id": "rktcqt4",
+  "category": "drama",
+  "title": "TV小説　星になって輝く",
+  "fullTitle": "TV小説　星になって輝く　#89　[字]",
+  "detail": "2015年 全128話",
+  "start": 1615267500000,
+  "end": 1615270500000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 89,
+  "flags": [
+    "字"
+  ]
+}

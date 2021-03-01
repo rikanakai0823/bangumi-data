@@ -1,0 +1,26 @@
+{
+  "id": "idv0l60",
+  "category": "cinema",
+  "title": "オーヴァーロード",
+  "fullTitle": "[映][SS]オーヴァーロード[吹]",
+  "detail": "Ｊ・Ｊ・エイブラムス製作の戦争サバイバルアクション。ナチス占領下のフランスでアメリカ兵が未知の敵と遭遇する。［Ｒ１５＋］",
+  "start": 1615251600000,
+  "end": 1615258800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

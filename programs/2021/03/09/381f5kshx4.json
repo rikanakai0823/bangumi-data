@@ -1,0 +1,25 @@
+{
+  "id": "381f5kshx4",
+  "category": "documentary",
+  "title": "ＮＨＫスペシャル",
+  "fullTitle": "ＮＨＫスペシャル「私と故郷と原発事故」[字]",
+  "detail": "",
+  "start": 1615294800000,
+  "end": 1615297800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "私と故郷と原発事故",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
