@@ -2,11 +2,15 @@
   "id": "idozmza",
   "category": "sports",
   "title": "Ｊリーグタイム",
-  "fullTitle": "Ｊリーグタイム「Ｊ１第２節」",
-  "detail": "【解説】平畠啓史，【司会】中川絵美里",
+  "fullTitle": "Ｊリーグタイム「第２週」",
+  "detail": "【解説】福西崇史，平畠啓史，【アナウンサー】野地俊二，【司会】中川絵美里\n◇出演者\n【解説】平畠啓史，【司会】中川絵美里",
   "start": 1615032000000,
   "end": 1615035000000,
   "seconds": 3000,
+  "description": "【解説】福西崇史，平畠啓史，【アナウンサー】野地俊二，【司会】中川絵美里",
+  "extra": {
+    "出演者": "【解説】平畠啓史，【司会】中川絵美里"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +21,7 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "Ｊ１第２節",
+  "subTitle": "第２週",
   "episode": null,
   "flags": []
 }
