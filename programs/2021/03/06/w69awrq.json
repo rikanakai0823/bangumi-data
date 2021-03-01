@@ -1,9 +1,9 @@
 {
   "id": "w69awrq",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "観光復活 目指す韓国",
+  "fullTitle": "観光復活 目指す韓国",
+  "detail": "2021年、コロナ禍で観光業の回復に取組む韓国。独自の文化やグルメ、建築などを紹介。",
   "start": 1615010400000,
   "end": 1615012200000,
   "seconds": 1800,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }
