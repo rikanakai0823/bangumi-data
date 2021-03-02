@@ -1,0 +1,23 @@
+{
+  "id": "idp42xm",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「車窓の風景　江ノ電」",
+  "detail": "",
+  "start": 1614798900000,
+  "end": 1614800700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "車窓の風景　江ノ電",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp42xn",
+  "category": "documentary",
+  "title": "富士山・水めぐる山",
+  "fullTitle": "富士山・水めぐる山[字]",
+  "detail": "【語り】久保田祐佳",
+  "start": 1614800700000,
+  "end": 1614801600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "語り",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

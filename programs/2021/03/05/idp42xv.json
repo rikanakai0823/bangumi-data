@@ -1,0 +1,23 @@
+{
+  "id": "idp42xv",
+  "category": "information",
+  "title": "プレマップ",
+  "fullTitle": "プレマップ",
+  "detail": "",
+  "start": 1614886080000,
+  "end": 1614886200000,
+  "seconds": 120,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
