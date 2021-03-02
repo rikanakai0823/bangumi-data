@@ -1,0 +1,26 @@
+{
+  "id": "idugndy",
+  "category": "cinema",
+  "title": "Ｔ－３４　レジェンド・オブ・ウォー（字幕版）",
+  "fullTitle": "[映]Ｔ－３４　レジェンド・オブ・ウォー（字幕版）[SS]",
+  "detail": "第２次世界大戦中、ドイツ軍の捕虜になった旧ソ連の軍人は、ひょんなことから自国のＴ‐３４戦車を使った脱走に挑む。本国ロシアで大ヒットした痛快ミリタリーアクション。",
+  "start": 1615348800000,
+  "end": 1615356000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

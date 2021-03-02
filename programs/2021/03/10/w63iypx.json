@@ -1,0 +1,25 @@
+{
+  "id": "w63iypx",
+  "category": "sports",
+  "title": "プロ野球オープン戦2021～東京ドーム～",
+  "fullTitle": "プロ野球オープン戦2021「巨人×ヤクルト」～東京ドーム～[再]",
+  "detail": "２０２１年３月４日開催\r\nゲスト解説：五十嵐亮太\r\n解説：清水隆行\r\n実況：蛯原哲",
+  "start": 1615354200000,
+  "end": 1615369500000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "巨人×ヤクルト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67eggx",
+  "category": "music",
+  "title": "【レギュラー】スペシャのヨルジュウ♪",
+  "fullTitle": "【生】【レギュラー】スペシャのヨルジュウ♪",
+  "detail": "生放送＆生配信でお届けする新形態の音楽番組！\r\nVJ：ハマ・オカモト、GEN、矢本悠馬、三原勇希、R-指定、 渋谷龍太、森本晋太郎",
+  "start": 1615381200000,
+  "end": 1615384800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 122
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

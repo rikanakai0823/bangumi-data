@@ -1,0 +1,25 @@
+{
+  "id": "idp3y9o",
+  "category": "music",
+  "title": "名曲アルバムラフマニノフ作曲",
+  "fullTitle": "名曲アルバム「チェロ・ソナタ」ラフマニノフ作曲[SS]",
+  "detail": "「チェロ・ソナタ」（チェロ）遠藤真理，（ピアノ）上原彩子　～ロシア・モスクワ、イワノフカ～",
+  "start": 1615323300000,
+  "end": 1615323600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "チェロ・ソナタ",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

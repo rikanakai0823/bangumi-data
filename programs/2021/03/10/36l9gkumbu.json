@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkumbu",
+  "category": "anime",
+  "title": "トムとジェリー",
+  "fullTitle": "トムとジェリー[二]",
+  "detail": "①へんな魚つり\r\n②カワイコ金魚ちゃん\r\n③映画大会\r\n",
+  "start": 1615363200000,
+  "end": 1615365000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

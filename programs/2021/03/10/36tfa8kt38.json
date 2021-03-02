@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kt38",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ゴールデンステッキ賞」「第１２回フジノウェーブ記念（ＳⅢ）」「スプリングタイム賞」",
+  "start": 1615357200000,
+  "end": 1615363200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": []
+}

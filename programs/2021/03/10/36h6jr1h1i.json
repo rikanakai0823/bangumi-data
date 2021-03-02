@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr1h1i",
+  "category": "information",
+  "title": "ショップジャパン",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nゴロネックス　0120-36-2008",
+  "start": 1615359600000,
+  "end": 1615361400000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ゴロネックス　0120-36-2008"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

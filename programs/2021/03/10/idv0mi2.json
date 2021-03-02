@@ -1,0 +1,27 @@
+{
+  "id": "idv0mi2",
+  "category": "cinema",
+  "title": "ブリッジ・オブ・スパイ",
+  "fullTitle": "[映][SS][字]ブリッジ・オブ・スパイ[吹]",
+  "detail": "トム・ハンクスとスティーヴン・スピルバーグ監督によるサスペンス。冷戦下、米ソのスパイ交換任務を務めた弁護士の姿を描く。",
+  "start": 1615314600000,
+  "end": 1615323600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

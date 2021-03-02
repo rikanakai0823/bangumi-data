@@ -1,0 +1,25 @@
+{
+  "id": "w6939w9",
+  "category": "news",
+  "title": "ストレートニュース",
+  "fullTitle": "ストレートニュース[字]",
+  "detail": "国内外の最新ニュース・ＪＮＮ各局発ニュース（大阪・名古屋）・お天気情報、速報は“ブレイキングニュース”でお届けします。",
+  "start": 1615345200000,
+  "end": 1615356000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
