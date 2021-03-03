@@ -5,8 +5,8 @@
   "fullTitle": "Morning　News",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Morning News」",
   "start": 1614988800000,
-  "end": 1614999600000,
-  "seconds": 10800,
+  "end": 1614994200000,
+  "seconds": 5400,
   "channel": {
     "type": "CS",
     "channel": "CS8",

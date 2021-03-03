@@ -1,0 +1,23 @@
+{
+  "id": "idp43my",
+  "category": "documentary",
+  "title": "８Ｋアースウォッチャー",
+  "fullTitle": "８Ｋアースウォッチャー",
+  "detail": "",
+  "start": 1615310400000,
+  "end": 1615312200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
