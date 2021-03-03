@@ -1,0 +1,25 @@
+{
+  "id": "iduym4k",
+  "category": "cinema",
+  "title": "ミッション",
+  "fullTitle": "[映]ミッション",
+  "detail": "２大アカデミー賞俳優共演。１８世紀南米を舞台に、キリスト教宣教師たちの葛藤を、壮大な映像美と音楽で描き出す。",
+  "start": 1615416000000,
+  "end": 1615423800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

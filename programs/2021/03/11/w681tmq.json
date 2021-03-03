@@ -1,0 +1,26 @@
+{
+  "id": "w681tmq",
+  "category": "anime",
+  "title": "怪物事変",
+  "fullTitle": "[新]怪物事変 #01 [字]",
+  "detail": "#01 夏羽",
+  "start": 1615449600000,
+  "end": 1615451400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 129
+  },
+  "subTitle": "夏羽",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

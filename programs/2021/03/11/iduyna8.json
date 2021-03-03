@@ -1,0 +1,26 @@
+{
+  "id": "iduyna8",
+  "category": "cinema",
+  "title": "トライアングルな夜",
+  "fullTitle": "[映][SS]トライアングルな夜",
+  "detail": "ナタリー・エマニュエル出演のラブコメディ。平凡な夫婦と奔放な女友達との刺激的な一夜を描く。［Ｒ１５＋相当］",
+  "start": 1615470000000,
+  "end": 1615475700000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

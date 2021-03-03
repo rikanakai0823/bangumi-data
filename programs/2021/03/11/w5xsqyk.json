@@ -1,0 +1,23 @@
+{
+  "id": "w5xsqyk",
+  "category": "information",
+  "title": "ソーラー充電式LEDランタン ルミンエイド",
+  "fullTitle": "ソーラー充電式LEDランタン ルミンエイド",
+  "detail": "空気を入れて膨らませる、ソーラー充電式のランタン。長時間の連続使用も。スマホなどへの充電もできます。",
+  "start": 1615420800000,
+  "end": 1615422600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 89
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

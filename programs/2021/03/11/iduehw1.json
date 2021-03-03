@@ -1,0 +1,28 @@
+{
+  "id": "iduehw1",
+  "category": "cinema",
+  "title": "オトトキ",
+  "fullTitle": "[初][映]オトトキ[SS][字]",
+  "detail": "２０１６年に再結成したロックバンド、ＴＨＥ　ＹＥＬＬＯＷ　ＭＯＮＫＥＹ。当時のツアーのライブ映像とメンバー４人へのインタビューを中心にした音楽ドキュメンタリー。",
+  "start": 1615471200000,
+  "end": 1615479000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

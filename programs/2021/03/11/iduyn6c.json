@@ -1,0 +1,25 @@
+{
+  "id": "iduyn6c",
+  "category": "cinema",
+  "title": "秘録怪猫伝",
+  "fullTitle": "[映]秘録怪猫伝",
+  "detail": "鍋島の化け猫騒動を題材に、兄妹の恨みを晴らすべく魔性の猫が巻き起こす怪事を描いた怪談譚。",
+  "start": 1615464000000,
+  "end": 1615470000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

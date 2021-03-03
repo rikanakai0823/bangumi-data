@@ -1,0 +1,25 @@
+{
+  "id": "w66spv4",
+  "category": "drama",
+  "title": "STATION 19　シーズン1",
+  "fullTitle": "STATION 19　シーズン1 #4「再燃」[字]",
+  "detail": "●月～金まで毎日続けて放送！●新隊長の座を巡り、競い合うアンディは、相談もなく勝手に判断を下すジャックと激しい口論になる。",
+  "start": 1615424400000,
+  "end": 1615428000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 116
+  },
+  "subTitle": "再燃",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

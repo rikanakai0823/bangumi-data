@@ -1,0 +1,25 @@
+{
+  "id": "idy8d74",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#26[二]",
+  "detail": "#26「みんながスター」",
+  "start": 1615392000000,
+  "end": 1615393800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "みんながスター",
+  "episode": 26,
+  "flags": [
+    "二"
+  ]
+}

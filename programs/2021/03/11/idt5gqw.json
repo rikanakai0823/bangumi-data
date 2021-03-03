@@ -1,0 +1,25 @@
+{
+  "id": "idt5gqw",
+  "category": "music",
+  "title": "ＢＳテレ東　歌のエール",
+  "fullTitle": "ＢＳテレ東　歌のエール[字]",
+  "detail": "震災から10年、さらにコロナ禍の2021年。\r\nがらっと世界の価値観が変わりつつある中で、「しみる」「背中を押してくれる」名曲の数々を熱唱",
+  "start": 1615456440000,
+  "end": 1615466940000,
+  "seconds": 10500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv0phg",
+  "category": "drama",
+  "title": "ウエストワールド",
+  "fullTitle": "ウエストワールド　＃５[二]",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ一挙放送】",
+  "start": 1615392000000,
+  "end": 1615396500000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ一挙放送",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}
