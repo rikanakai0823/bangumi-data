@@ -1,12 +1,12 @@
 {
   "id": "idozq9u",
   "category": "sports",
-  "title": "ラグビー　トップリーグ２０２１",
-  "fullTitle": "ラグビー　トップリーグ２０２１[字]",
-  "detail": "",
+  "title": "ラグビー　トップリーグ２０２１「ＮＥＣ」対",
+  "fullTitle": "ラグビー　トップリーグ２０２１「ＮＥＣ」対「ヤマハ発動機」[字]",
+  "detail": "　（試合開始０：０５）　【解説】砂村光信，【アナウンサー】小野卓哉，【リポーター】伊藤慶太　～秩父宮ラグビー場から中継～",
   "start": 1614999600000,
-  "end": 1615006200000,
-  "seconds": 6600,
+  "end": 1615006800000,
+  "seconds": 7200,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "ヤマハ発動機",
   "episode": null,
   "flags": [
     "字"

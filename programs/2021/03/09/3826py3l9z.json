@@ -3,13 +3,13 @@
   "category": "music",
   "title": "プレミアＭｅｌｏｄｉＸ！",
   "fullTitle": "プレミアＭｅｌｏｄｉＸ！",
-  "detail": "【ゲスト】SCANDAL【ナビゲーター】南海キャンディーズ\n◇番組内容\n【ゲスト】SCANDAL♪eternal\r\n【ナビゲーター】南海キャンディーズ\n◇関連情報\n【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪",
+  "detail": "【ゲスト】SCANDAL、Awesome　City　Club、Mr.ふぉるて、海蔵亮太\r\n【ナビゲーター】南海キャンディーズ\n◇番組内容\n【ゲスト】\r\nSCANDAL♪eternal\r\nAwesome　City　Club♪勿忘\r\nMr.ふぉるて♪幸せでいてくれよ\r\n海蔵亮太♪僕が歌う理由\r\n\r\n【ナビゲーター】\r\n南海キャンディーズ\n◇関連情報\n【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪",
   "start": 1615225800000,
   "end": 1615227600000,
   "seconds": 1800,
-  "description": "【ゲスト】SCANDAL【ナビゲーター】南海キャンディーズ",
+  "description": "【ゲスト】SCANDAL、Awesome　City　Club、Mr.ふぉるて、海蔵亮太\r\n【ナビゲーター】南海キャンディーズ",
   "extra": {
-    "番組内容": "【ゲスト】SCANDAL♪eternal\r\n【ナビゲーター】南海キャンディーズ",
+    "番組内容": "【ゲスト】\r\nSCANDAL♪eternal\r\nAwesome　City　Club♪勿忘\r\nMr.ふぉるて♪幸せでいてくれよ\r\n海蔵亮太♪僕が歌う理由\r\n\r\n【ナビゲーター】\r\n南海キャンディーズ",
     "関連情報": "【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪"
   },
   "channel": {
@@ -22,7 +22,7 @@
     "hasLogoData": true,
     "n": 26
   },
-  "subTitle": "",
+  "subTitle": "ゲスト",
   "episode": null,
   "flags": []
 }
