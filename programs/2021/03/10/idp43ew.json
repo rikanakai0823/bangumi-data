@@ -1,0 +1,25 @@
+{
+  "id": "idp43ew",
+  "category": "documentary",
+  "title": "美の都　フィレンツェ",
+  "fullTitle": "美の都　フィレンツェ[字]",
+  "detail": "【語り】比留木剛史",
+  "start": 1615340880000,
+  "end": 1615342380000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "語り",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
