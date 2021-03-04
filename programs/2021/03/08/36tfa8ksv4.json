@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「アクアマリン賞」「新助坂賞」",
+  "detail": "「アクアマリン賞」「新助坂賞」\n◇出演者\n【MC】\r\n前半：椎名真帆\r\n後半：瀬戸山知花\r\n【解説】\r\n藤田裕之（ケイシュウNEWS）",
   "start": 1615184400000,
   "end": 1615190400000,
   "seconds": 6000,
+  "description": "「アクアマリン賞」「新助坂賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：椎名真帆\r\n後半：瀬戸山知花\r\n【解説】\r\n藤田裕之（ケイシュウNEWS）"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

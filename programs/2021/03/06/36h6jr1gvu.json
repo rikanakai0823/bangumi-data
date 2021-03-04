@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "ビーチ９",
   "fullTitle": "ビーチ９[Ｓ]",
-  "detail": "週末爽快バラエティ！！",
+  "detail": "週末爽快バラエティ！！\n◇出演者\n新ＭＣ：石原希望（いしはら　のぞみ）",
   "start": 1615041900000,
   "end": 1615042800000,
   "seconds": 900,
+  "description": "週末爽快バラエティ！！",
+  "extra": {
+    "出演者": "新ＭＣ：石原希望（いしはら　のぞみ）"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

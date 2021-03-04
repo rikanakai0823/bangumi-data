@@ -2,11 +2,15 @@
   "id": "381jqz0aro",
   "category": "information",
   "title": "ガールズクラフト",
-  "fullTitle": "ガールズクラフト[字]",
-  "detail": "",
+  "fullTitle": "ガールズクラフト「幸せ運ぶ　四つ葉のクローバーのネックレス」[字]",
+  "detail": "【出演】久間田琳加，【声】中村知子\n◇出演者\n【出演】久間田琳加，【声】中村知子",
   "start": 1614993900000,
   "end": 1614994200000,
   "seconds": 300,
+  "description": "【出演】久間田琳加，【声】中村知子",
+  "extra": {
+    "出演者": "【出演】久間田琳加，【声】中村知子"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "幸せ運ぶ　四つ葉のクローバーのネックレス",
   "episode": null,
   "flags": [
     "字"
