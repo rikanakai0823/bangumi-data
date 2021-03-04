@@ -1,0 +1,23 @@
+{
+  "id": "w66spvt",
+  "category": "etc",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション(日)",
+  "detail": "インフォメーション",
+  "start": 1615509000000,
+  "end": 1615510800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 116
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

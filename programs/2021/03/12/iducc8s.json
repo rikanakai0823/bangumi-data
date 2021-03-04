@@ -1,0 +1,26 @@
+{
+  "id": "iducc8s",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]邦楽ＢＲＥＡＫ　＃６６６",
+  "detail": "",
+  "start": 1615509300000,
+  "end": 1615509900000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 666,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

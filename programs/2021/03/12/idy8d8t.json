@@ -1,0 +1,25 @@
+{
+  "id": "idy8d8t",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#30[二]",
+  "detail": "#30「ストークレス参上！」",
+  "start": 1615500000000,
+  "end": 1615501620000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ストークレス参上！",
+  "episode": 30,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduwl6c",
+  "category": "cinema",
+  "title": "君は愛にふさわしい",
+  "fullTitle": "[映][SS]君は愛にふさわしい",
+  "detail": "カンヌなど各地の映画祭で高い評価を受けた新生アフシア・エルジ監督・主演のドラマ。現代の若者たちの寄る辺ない恋愛を描く。",
+  "start": 1615550400000,
+  "end": 1615557600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

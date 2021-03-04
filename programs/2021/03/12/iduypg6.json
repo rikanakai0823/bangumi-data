@@ -1,0 +1,25 @@
+{
+  "id": "iduypg6",
+  "category": "cinema",
+  "title": "ヘッド・フル・オブ・ハニー",
+  "fullTitle": "[映]ヘッド・フル・オブ・ハニー",
+  "detail": "ニック・ノルティとマット・ディロン共演の感動ドラマ。アルツハイマー病を患う老人とその孫娘との最期の旅路を描く。",
+  "start": 1615510200000,
+  "end": 1615518000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

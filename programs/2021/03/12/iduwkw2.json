@@ -1,0 +1,26 @@
+{
+  "id": "iduwkw2",
+  "category": "cinema",
+  "title": "テッド・バンディ",
+  "fullTitle": "[映][SS]テッド・バンディ【特集：嘘のような本当の話】",
+  "detail": "ザック・エフロン主演の犯罪ドラマ。実在の連続殺人鬼テッド・バンディの実像を、その恋人の回顧録に基づき描く。［Ｒ１５＋］",
+  "start": 1615537800000,
+  "end": 1615545000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "特集：嘘のような本当の話",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

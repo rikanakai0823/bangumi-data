@@ -1,0 +1,25 @@
+{
+  "id": "w693a4a",
+  "category": "news",
+  "title": "ナイトニュース",
+  "fullTitle": "ナイトニュース[字]",
+  "detail": "ここでしか見られないニュースが盛り沢山、気になるニュースをお届けします。",
+  "start": 1615550400000,
+  "end": 1615555800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

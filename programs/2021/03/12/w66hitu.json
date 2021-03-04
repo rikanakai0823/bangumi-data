@@ -1,0 +1,25 @@
+{
+  "id": "w66hitu",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE　ヤクルト×ソフトバンク",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE　ヤクルト×ソフトバンク",
+  "detail": "オープン戦「東京ヤクルト vs 福岡ソフトバンク」\r\n＜開催＞2021年3月12日（金）【生中継】\r\n～神宮球場\r\n※変更の場合あり",
+  "start": 1615521000000,
+  "end": 1615536000000,
+  "seconds": 15000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 111
+  },
+  "subTitle": "東京ヤクルト vs 福岡ソフトバンク",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

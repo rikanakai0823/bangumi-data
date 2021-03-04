@@ -1,0 +1,23 @@
+{
+  "id": "ieellt1",
+  "category": "etc",
+  "title": "授業科目案内～大学の窓",
+  "fullTitle": "授業科目案内～大学の窓",
+  "detail": "「現代を生きるための化学」",
+  "start": 1615159800000,
+  "end": 1615160700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "現代を生きるための化学",
+  "episode": null,
+  "flags": []
+}

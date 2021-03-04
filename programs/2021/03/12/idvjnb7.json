@@ -1,0 +1,25 @@
+{
+  "id": "idvjnb7",
+  "category": "anime",
+  "title": "スーパーウィングス",
+  "fullTitle": "[二]スーパーウィングス　＃11",
+  "detail": "第21話「僕らはスーパー・セブン」\r\n第22話「クジラ・パニック」",
+  "start": 1615539600000,
+  "end": 1615541400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "僕らはスーパー・セブン",
+  "episode": 11,
+  "flags": [
+    "二"
+  ]
+}

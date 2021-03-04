@@ -1,0 +1,25 @@
+{
+  "id": "idp3zb9",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「大阪・船場」[字]",
+  "detail": "【語り】松たか子，中條誠子，井上二郎",
+  "start": 1615550400000,
+  "end": 1615554000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "大阪・船場",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
