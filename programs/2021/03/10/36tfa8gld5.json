@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8gld5",
+  "category": "news",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": " ",
+  "start": 1615348800000,
+  "end": 1615363200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
