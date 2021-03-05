@@ -1,0 +1,25 @@
+{
+  "id": "w67vgo5",
+  "category": "anime",
+  "title": "ソニックＸ ,60",
+  "fullTitle": "ソニックＸ[字] #59,60",
+  "detail": "＃５９「カオティクス、宇宙へ行く」＃６０「シャドウ・リバース」",
+  "start": 1615629600000,
+  "end": 1615633200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "カオティクス、宇宙へ行く",
+  "episode": 59,
+  "flags": [
+    "字"
+  ]
+}

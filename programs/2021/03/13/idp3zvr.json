@@ -1,0 +1,26 @@
+{
+  "id": "idp3zvr",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「和食の原点　ごはん」[字][再]",
+  "detail": "日本の伝統食「ごはん」。柳原尚之さんによる炊き方の極意、有元葉子さんこだわりのおひつ、老舗旅館ならではの伝統のかまど炊きなど、ごはんの美と魅力に迫る！",
+  "start": 1615585500000,
+  "end": 1615587300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "和食の原点　ごはん",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ieellt3",
+  "category": "etc",
+  "title": "授業科目案内～大学の窓",
+  "fullTitle": "授業科目案内～大学の窓",
+  "detail": "「心理と教育へのいざない('18)」",
+  "start": 1615245300000,
+  "end": 1615246200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "心理と教育へのいざない('18)",
+  "episode": null,
+  "flags": []
+}

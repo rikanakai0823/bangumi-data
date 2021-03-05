@@ -1,0 +1,25 @@
+{
+  "id": "idy8d9v",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#28[二]",
+  "detail": "#28「大きなペット」",
+  "start": 1615564800000,
+  "end": 1615566600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "大きなペット",
+  "episode": 28,
+  "flags": [
+    "二"
+  ]
+}

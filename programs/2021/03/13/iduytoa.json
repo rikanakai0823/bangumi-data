@@ -1,0 +1,26 @@
+{
+  "id": "iduytoa",
+  "category": "cinema",
+  "title": "ヘルボーイ［ディレクターズ・カット版］",
+  "fullTitle": "[映][SS]ヘルボーイ［ディレクターズ・カット版］",
+  "detail": "ギレルモ・デル・トロ監督が人気アメコミを映画化したＳＦアクションアドベンチャー。悪魔の子と異界からの侵略者の戦いを描く。",
+  "start": 1615645800000,
+  "end": 1615654200000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

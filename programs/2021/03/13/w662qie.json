@@ -1,0 +1,23 @@
+{
+  "id": "w662qie",
+  "category": "music",
+  "title": "@JAM TV powered by LIVE DAM Ai",
+  "fullTitle": "@JAM TV powered by LIVE DAM Ai #18",
+  "detail": "AKB48 Team 8／Jewel☆Ciel／Task have Fun／Chuning Candy",
+  "start": 1615581000000,
+  "end": 1615584600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 18,
+  "flags": []
+}

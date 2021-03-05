@@ -1,0 +1,27 @@
+{
+  "id": "idugnew",
+  "category": "cinema",
+  "title": "滝を見にいく",
+  "fullTitle": "[映]滝を見にいく[SS][字]",
+  "detail": "「おらおらでひとりいぐも」の沖田修一監督が７人のおばちゃんを優しい視点で描く、心温まる人間ドラマ。滝を見るツアーに参加したおばちゃんたちの“小さな冒険”を描く。",
+  "start": 1615579200000,
+  "end": 1615584600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "おらおらでひとりいぐも",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

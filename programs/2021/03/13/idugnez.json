@@ -1,0 +1,26 @@
+{
+  "id": "idugnez",
+  "category": "cinema",
+  "title": "男はつらいよ",
+  "fullTitle": "[映]男はつらいよ[字]",
+  "detail": "渥美清が当たり役の《フーテンの寅》こと車寅次郎に扮した、国民的映画シリーズ「男はつらいよ」の記念すべき第１作。“特別篇”を含むシリーズ全４９作はここから始まる！",
+  "start": 1615598400000,
+  "end": 1615604400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "男はつらいよ",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

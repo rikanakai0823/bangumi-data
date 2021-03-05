@@ -1,0 +1,23 @@
+{
+  "id": "idxc5ub",
+  "category": "sports",
+  "title": "WWE PPV大会",
+  "fullTitle": "WWE PPV大会 「エリミネーション・チェンバー」",
+  "detail": "世界最大のスポーツエンターテインメント、WWE。",
+  "start": 1615566600000,
+  "end": 1615575600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "エリミネーション・チェンバー",
+  "episode": null,
+  "flags": []
+}

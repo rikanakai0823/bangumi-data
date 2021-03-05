@@ -1,0 +1,25 @@
+{
+  "id": "idxc5uy",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ 第25節 ウニオンベルリン×ケルン",
+  "fullTitle": "[生]20/21 ブンデスリーガ 第25節 ウニオンベルリン×ケルン",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年3月13日\r\n会場:アン デア アルテン フェルステライ",
+  "start": 1615645200000,
+  "end": 1615654200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
