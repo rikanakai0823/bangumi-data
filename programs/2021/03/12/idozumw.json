@@ -1,0 +1,26 @@
+{
+  "id": "idozumw",
+  "category": "information",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「突撃！ストリートシェフ＠東京」[字][再]",
+  "detail": "胃袋から世界を知り尽くすグルメドキュメンタリー。今回の舞台は東京。ビルの空き地で外国人シェフのキッチンカーが大活躍。ランチから見えてくる東京の多様性とは？",
+  "start": 1615521600000,
+  "end": 1615524600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "突撃！ストリートシェフ＠東京",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

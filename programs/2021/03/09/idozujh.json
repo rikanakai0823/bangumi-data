@@ -1,0 +1,25 @@
+{
+  "id": "idozujh",
+  "category": "news",
+  "title": "Ｎスペ５ｍｉｎ．　特別編",
+  "fullTitle": "Ｎスペ５ｍｉｎ．　特別編「震災遺児」[字]",
+  "detail": "東日本大震災で親を亡くした子どもは約１８００人。その一人、２１歳となった千葉雄貴さん。震災遺児としてではなく一人の人間として生きようと歩んできた１０年間を記録。",
+  "start": 1615283400000,
+  "end": 1615283700000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "震災遺児",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
