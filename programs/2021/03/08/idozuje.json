@@ -1,0 +1,25 @@
+{
+  "id": "idozuje",
+  "category": "news",
+  "title": "Ｎスペ５ｍｉｎ．　特別編",
+  "fullTitle": "Ｎスペ５ｍｉｎ．　特別編「復興」[字]",
+  "detail": "ＮＨＫは東日本大震災直後から１０年間、岩手・宮城など被災３県の１００か所で再生の歩みを定期的に撮影。６０００カットの「定点映像」から復興の知られざる物語を紡ぐ。",
+  "start": 1615197000000,
+  "end": 1615197300000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "復興",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
