@@ -1,0 +1,23 @@
+{
+  "id": "idozuou",
+  "category": "sports",
+  "title": "全日本剣道選手権",
+  "fullTitle": "第６８回全日本剣道選手権",
+  "detail": "",
+  "start": 1615690800000,
+  "end": 1615704600000,
+  "seconds": 13800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 68,
+  "flags": []
+}

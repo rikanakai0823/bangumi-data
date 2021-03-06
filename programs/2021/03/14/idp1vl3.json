@@ -1,0 +1,25 @@
+{
+  "id": "idp1vl3",
+  "category": "sports",
+  "title": "大相撲（２０２１年）　春場所",
+  "fullTitle": "大相撲（２０２１年）　春場所[多]",
+  "detail": "",
+  "start": 1615694400000,
+  "end": 1615701900000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

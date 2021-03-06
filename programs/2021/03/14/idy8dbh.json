@@ -1,0 +1,25 @@
+{
+  "id": "idy8dbh",
+  "category": "anime",
+  "title": "マーベル　スパイダーマン",
+  "fullTitle": "マーベル　スパイダーマン#7[二]",
+  "detail": "#7「サンドマン」",
+  "start": 1615699800000,
+  "end": 1615701300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "サンドマン",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}

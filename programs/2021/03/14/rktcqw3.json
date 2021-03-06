@@ -1,0 +1,26 @@
+{
+  "id": "rktcqw3",
+  "category": "music",
+  "title": "KOREA ON STAGE～水原華城（スウォンファソン）",
+  "fullTitle": "KOREA ON STAGE～水原華城（スウォンファソン）[字][新]",
+  "detail": "日本初放送！Stray Kids、ATEEZ、(G)I-DLE、Weeekly、ミン・ウヒョクら出演のコンサート！韓国放送日：2020年9月3日",
+  "start": 1615696500000,
+  "end": 1615702500000,
+  "seconds": 6000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}

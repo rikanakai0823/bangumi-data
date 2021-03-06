@@ -1,0 +1,25 @@
+{
+  "id": "idx1oz1",
+  "category": "anime",
+  "title": "名探偵コナン",
+  "fullTitle": "[字]名探偵コナン #739",
+  "detail": "#739「工藤新一水族館事件（前編）」\r\n高校生探偵・工藤新一は、正体不明の「黒の組織」の取引現場を目撃した事から、…",
+  "start": 1615683600000,
+  "end": 1615685400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "工藤新一水族館事件（前編）",
+  "episode": 739,
+  "flags": [
+    "字"
+  ]
+}

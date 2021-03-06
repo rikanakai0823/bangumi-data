@@ -1,0 +1,25 @@
+{
+  "id": "idp449l",
+  "category": "music",
+  "title": "名曲アルバム＋（プラス）青森県民謡",
+  "fullTitle": "名曲アルバム＋（プラス）「津軽じょんから節」青森県民謡[再]",
+  "detail": "「津軽じょんから節」（唄）松田隆行，（津軽三味線）澤田勝秋，（津軽三味線）澤田社中",
+  "start": 1615665600000,
+  "end": 1615665900000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "津軽じょんから節",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

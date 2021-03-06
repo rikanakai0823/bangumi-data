@@ -1,0 +1,26 @@
+{
+  "id": "idozqe9",
+  "category": "sports",
+  "title": "大相撲どすこい研",
+  "fullTitle": "大相撲どすこい研[字][再]",
+  "detail": "",
+  "start": 1615673400000,
+  "end": 1615676400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

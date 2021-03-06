@@ -1,0 +1,25 @@
+{
+  "id": "idtqx26",
+  "category": "information",
+  "title": "ＭＯＣＡＬ　名古屋編",
+  "fullTitle": "[新]ＭＯＣＡＬ　名古屋編",
+  "detail": "",
+  "start": 1615690800000,
+  "end": 1615694100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
