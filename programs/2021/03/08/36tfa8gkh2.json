@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8gkh2",
+  "category": "news",
+  "title": "フラッシュ天気（佐久市インフォメーション）",
+  "fullTitle": "フラッシュ天気（佐久市インフォメーション）",
+  "detail": " ",
+  "start": 1615183140000,
+  "end": 1615183200000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
