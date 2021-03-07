@@ -1,0 +1,23 @@
+{
+  "id": "rktey7o",
+  "category": "music",
+  "title": "M COUNTDOWN バックステージ",
+  "fullTitle": "M COUNTDOWN バックステージ",
+  "detail": "出演：SHINee、(G)I-DLE＆IZ*ONE＆Weki Meki、ソンミ、WEiほか\r\n【2021年2月25日M COUNTDOWN】\r\n再：(月)12:00（木)17:00（土)深4:00",
+  "start": 1615777200000,
+  "end": 1615780800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

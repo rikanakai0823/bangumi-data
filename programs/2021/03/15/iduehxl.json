@@ -1,0 +1,25 @@
+{
+  "id": "iduehxl",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４３４",
+  "detail": "",
+  "start": 1615761300000,
+  "end": 1615761900000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 434,
+  "flags": [
+    "無"
+  ]
+}

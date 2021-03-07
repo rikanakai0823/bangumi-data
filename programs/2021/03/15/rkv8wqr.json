@@ -1,0 +1,23 @@
+{
+  "id": "rkv8wqr",
+  "category": "news",
+  "title": "Market　News",
+  "fullTitle": "Market　News",
+  "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Market News」▽午前中の最新株式市況をアナリストが東証から生中継",
+  "start": 1615766400000,
+  "end": 1615768200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 135
+  },
+  "subTitle": "日テレNEWS24・Market News",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w67keep",
+  "category": "music",
+  "title": "たっぷり見せます! いきものがかり特集",
+  "fullTitle": "たっぷり見せます! いきものがかり特集",
+  "detail": "24時間いきものがかりを大特集！彼らのミュージックビデオ特集を放送！",
+  "start": 1615743000000,
+  "end": 1615755600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

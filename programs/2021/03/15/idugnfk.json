@@ -1,0 +1,25 @@
+{
+  "id": "idugnfk",
+  "category": "cinema",
+  "title": "ウォーズ・オブ・ギャラクシー（字幕版）",
+  "fullTitle": "[映]ウォーズ・オブ・ギャラクシー（字幕版）",
+  "detail": "邪悪な独裁者が支配する銀河を舞台に、独裁者率いる惑星連合軍に立ち向かう反乱軍と宇宙海賊たちの戦いを描く。アサイラム社が放つ壮大なスペースファンタジーアクション。",
+  "start": 1615751100000,
+  "end": 1615756500000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
