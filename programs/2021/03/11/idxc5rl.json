@@ -4,9 +4,9 @@
   "title": "本日の番宣スポットすべて見せます",
   "fullTitle": "[無]本日の番宣スポットすべて見せます",
   "detail": "",
-  "start": 1615438800000,
+  "start": 1615439400000,
   "end": 1615442400000,
-  "seconds": 3600,
+  "seconds": 3000,
   "channel": {
     "type": "BS",
     "channel": "BS11_0",

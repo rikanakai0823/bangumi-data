@@ -3,10 +3,14 @@
   "category": "music",
   "title": "プレミアムシアター",
   "fullTitle": "プレミアムシアター[SS]",
-  "detail": "",
+  "detail": "◇おしらせ\n＜２：４８．３０－２：５０．３０　[Ｓ]インターミッション＞",
   "start": 1615731600000,
   "end": 1615748400000,
   "seconds": 16800,
+  "description": "",
+  "extra": {
+    "おしらせ": "＜２：４８．３０－２：５０．３０　[Ｓ]インターミッション＞"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS03_1",
