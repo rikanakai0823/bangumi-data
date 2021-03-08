@@ -3,10 +3,15 @@
   "category": "music",
   "title": "ＳＳＣ５",
   "fullTitle": "ＳＳＣ５[Ｓ]",
-  "detail": "",
+  "detail": "◇番組内容\n令和三姉妹「みんなの旅☆みんなの歌」\n◇出演者\n令和三姉妹",
   "start": 1615741500000,
   "end": 1615741800000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "番組内容": "令和三姉妹「みんなの旅☆みんなの歌」",
+    "出演者": "令和三姉妹"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

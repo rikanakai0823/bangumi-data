@@ -3,10 +3,15 @@
   "category": "music",
   "title": "Ｖ－Ｃｌｉｐｓ",
   "fullTitle": "Ｖ－Ｃｌｉｐｓ[Ｓ]",
-  "detail": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！",
+  "detail": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！\n◇番組内容\nＢｍＦ「Moving on 」Seven Billion Dots「Nightmare 」Seven Billion Dots「Fingers Crossed 」SPiCYSOL「ONLY ONE」あいみょん「桜が降る夜は」\n◇出演者\nＢｍＦ・Seven Billion Dots・SPiCYSOL・あいみょん",
   "start": 1615757400000,
   "end": 1615758600000,
   "seconds": 1200,
+  "description": "テレ玉の朝を彩るミュージックプログラム。気になるアーティストのＭＶをノンストップでオンエア！",
+  "extra": {
+    "番組内容": "ＢｍＦ「Moving on 」Seven Billion Dots「Nightmare 」Seven Billion Dots「Fingers Crossed 」SPiCYSOL「ONLY ONE」あいみょん「桜が降る夜は」",
+    "出演者": "ＢｍＦ・Seven Billion Dots・SPiCYSOL・あいみょん"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
