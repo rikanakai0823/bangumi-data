@@ -1,0 +1,26 @@
+{
+  "id": "iduccbj",
+  "category": "cinema",
+  "title": "ロサンゼルス（吹替版）[PG12指定]",
+  "fullTitle": "[映]ロサンゼルス（吹替版）[PG12指定][字]",
+  "detail": "Ｃ・ブロンソン主演のヒット作「狼よさらば」の続編。ブロンソン演じる主人公カージーはロサンゼルスに引っ越すが、そこでも街のダニどもをより過激に制裁していくことに。",
+  "start": 1615873500000,
+  "end": 1615879200000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "狼よさらば",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

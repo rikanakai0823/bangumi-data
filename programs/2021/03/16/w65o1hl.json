@@ -1,0 +1,25 @@
+{
+  "id": "w65o1hl",
+  "category": "variety",
+  "title": "志村通",
+  "fullTitle": "志村通【連日】#45[終]",
+  "detail": "「志村塾」に続く、志村けんの人気バラエティ番組！",
+  "start": 1615895700000,
+  "end": 1615897500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 101
+  },
+  "subTitle": "連日",
+  "episode": 45,
+  "flags": [
+    "終"
+  ]
+}

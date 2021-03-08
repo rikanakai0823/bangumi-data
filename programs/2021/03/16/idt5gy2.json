@@ -1,0 +1,25 @@
+{
+  "id": "idt5gy2",
+  "category": "music",
+  "title": "ＢＳ演歌の花道",
+  "fullTitle": "ＢＳ演歌の花道[字]",
+  "detail": "▽前半昭和の花道…小林幸子、細川たかし、山本譲二、石原圭子\r\n▽後半令和の花道…五木ひろし、市川由紀乃",
+  "start": 1615888800000,
+  "end": 1615892100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

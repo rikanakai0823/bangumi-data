@@ -1,0 +1,27 @@
+{
+  "id": "idugnfz",
+  "category": "cinema",
+  "title": "ある船頭の話[PG12指定]",
+  "fullTitle": "[映]ある船頭の話[PG12指定][SS][字]",
+  "detail": "柄本明が主演した、オダギリジョーの長編映画初監督作。村と町をつなぐ渡し船の船頭が負傷した少女と会う。彼女の面倒を見る船頭は思いがけない運命に翻弄されることに。",
+  "start": 1615858200000,
+  "end": 1615867200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

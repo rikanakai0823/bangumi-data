@@ -1,0 +1,26 @@
+{
+  "id": "idugng1",
+  "category": "cinema",
+  "title": "ある少年の告白（字幕版）[PG12指定]",
+  "fullTitle": "[映]ある少年の告白（字幕版）[PG12指定][SS]",
+  "detail": "Ｎ・キッドマン、Ｒ・クロウらが豪華共演し、ゲイの少年とその両親の衝突・苦悩を描いた秀作社会派ドラマ。ハリウッドの実力派男優Ｊ・エドガートンによる映画監督第２作。",
+  "start": 1615873500000,
+  "end": 1615880700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

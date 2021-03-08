@@ -1,0 +1,25 @@
+{
+  "id": "idx1p0o",
+  "category": "anime",
+  "title": "おそ松さん ,3",
+  "fullTitle": "[字]おそ松さん #2,3",
+  "detail": "#2「就職しよう」「おそ松の憂鬱」\r\n#3「こぼれ話集」\r\n日本中を沸かせた名作『おそ松くん』。それから時は流れ、町並み…",
+  "start": 1615874400000,
+  "end": 1615878000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "就職しよう",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

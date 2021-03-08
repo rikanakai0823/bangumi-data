@@ -1,0 +1,26 @@
+{
+  "id": "idp41ks",
+  "category": "drama",
+  "title": "【連続テレビ小説】おちょやん",
+  "fullTitle": "【連続テレビ小説】おちょやん[解][字]",
+  "detail": "",
+  "start": 1615847400000,
+  "end": 1615848300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduzsho",
+  "category": "cinema",
+  "title": "スノーピアサー",
+  "fullTitle": "[映]スノーピアサー[吹]",
+  "detail": "ポン・ジュノ監督がフランスのコミックを映画化。氷河期の地球を走り続ける列車内で反乱が起きる［ＰＧ１２］",
+  "start": 1615845600000,
+  "end": 1615853700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w66hiyl",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×阪神",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×阪神",
+  "detail": "オープン戦「東京ヤクルト vs 阪神」\r\n＜開催＞2021年3月16日（火）【生中継】～神宮球場\r\n＜解説＞齊藤明雄　＜実況＞黒瀬翔生\r\n※変更の場合あり",
+  "start": 1615866600000,
+  "end": 1615881600000,
+  "seconds": 15000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 111
+  },
+  "subTitle": "東京ヤクルト vs 阪神",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
