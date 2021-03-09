@@ -1,0 +1,25 @@
+{
+  "id": "idp46p6",
+  "category": "documentary",
+  "title": "８Ｋ空から百名山",
+  "fullTitle": "８Ｋ空から百名山「富士山」[字]",
+  "detail": "日本の山岳風景を超高精細８Ｋカメラによる空撮映像で記録！美しく雄大な百名山の自然、その光景を上空から描く。我が国のシンボル・日本一の「富士山」に迫る！",
+  "start": 1615403100000,
+  "end": 1615404000000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "富士山",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
