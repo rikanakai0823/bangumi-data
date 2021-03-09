@@ -1,9 +1,9 @@
 {
   "id": "w69awy3",
   "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "title": "Business Traveller",
+  "fullTitle": "Business Traveller[再]",
+  "detail": "＃８８　コロナ禍の出張旅行。頻繁に変わる入国条件への対応策や必要となる検査など、出張の多い人がコロナ禍で旅をスムーズに行うための方法を紹介。",
   "start": 1615698000000,
   "end": 1615699800000,
   "seconds": 1800,
@@ -18,7 +18,7 @@
     "n": 138
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 88,
   "flags": [
     "再"
   ]
