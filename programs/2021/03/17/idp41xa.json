@@ -1,0 +1,26 @@
+{
+  "id": "idp41xa",
+  "category": "hobby",
+  "title": "おとうさんといっしょ",
+  "fullTitle": "おとうさんといっしょ「フェスティバル後夜祭」[字][再]",
+  "detail": "「レオてつフェスティバル」の後夜祭▽前回の放送で紹介しきれなかった盛りだくさんのコーナーを大公開！▽お楽しみに！",
+  "start": 1615947300000,
+  "end": 1615949100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "フェスティバル後夜祭",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

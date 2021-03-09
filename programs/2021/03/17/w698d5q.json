@@ -1,0 +1,25 @@
+{
+  "id": "w698d5q",
+  "category": "hobby",
+  "title": "トラベル・ショー",
+  "fullTitle": "トラベル・ショー(再)",
+  "detail": "番組は福島県を訪れ、１０年前の原発事故からの復興を願うサーファーたちに会う。",
+  "start": 1615987800000,
+  "end": 1615989600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

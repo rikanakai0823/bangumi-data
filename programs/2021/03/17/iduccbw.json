@@ -1,0 +1,26 @@
+{
+  "id": "iduccbw",
+  "category": "cinema",
+  "title": "バランサー",
+  "fullTitle": "[映]バランサー[字]",
+  "detail": "俳優の斎藤工が“齊藤工”名義で監督を務めた短編映画。あばれる君こと古張裕起を主演に、幸運続きの主人公が人生のバランスを取るため不運に見舞われ続ける様子を描く。",
+  "start": 1615922100000,
+  "end": 1615923900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

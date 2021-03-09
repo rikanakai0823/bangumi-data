@@ -1,0 +1,25 @@
+{
+  "id": "idy8dev",
+  "category": "drama",
+  "title": "ガール・ミーツ・ワールド",
+  "fullTitle": "ガール・ミーツ・ワールド#4[二]",
+  "detail": "#4「親子の進化論」",
+  "start": 1615921200000,
+  "end": 1615923000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "親子の進化論",
+  "episode": 4,
+  "flags": [
+    "二"
+  ]
+}

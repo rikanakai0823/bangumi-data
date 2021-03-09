@@ -1,0 +1,26 @@
+{
+  "id": "idozro0",
+  "category": "sports",
+  "title": "Ｊリーグ２０２１「ＦＣ東京」対",
+  "fullTitle": "Ｊリーグ２０２１「ＦＣ東京」対「湘南ベルマーレ」[多][デ]",
+  "detail": "　※副音声は場内音声　（試合開始　６：０１）　【解説】木村和司，【アナウンサー】野地俊二　～味の素スタジアムから中継～",
+  "start": 1615971600000,
+  "end": 1615978800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "湘南ベルマーレ",
+  "episode": null,
+  "flags": [
+    "多",
+    "デ"
+  ]
+}
