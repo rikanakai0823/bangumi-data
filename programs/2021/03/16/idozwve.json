@@ -1,0 +1,26 @@
+{
+  "id": "idozwve",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「消えた窯元　１０年の軌跡」[字][再]",
+  "detail": "福島県浪江町。原発事故から１０年たつ今も人の姿が消えたままの陶芸の里。３００年以上の伝統を持つ大堀相馬焼を守ってきた窯元たちはどこに行ったのか。その軌跡を追う。",
+  "start": 1615825020000,
+  "end": 1615827960000,
+  "seconds": 2940,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "消えた窯元　１０年の軌跡",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

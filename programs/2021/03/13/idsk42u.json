@@ -1,9 +1,9 @@
 {
   "id": "idsk42u",
-  "category": "etc",
+  "category": "information",
   "title": "Ｖｅｒｓｉｏｎ　Ｕｐ！～我が家の暮らし～",
-  "fullTitle": "Ｖｅｒｓｉｏｎ　Ｕｐ！～我が家の暮らし～",
-  "detail": "",
+  "fullTitle": "Ｖｅｒｓｉｏｎ　Ｕｐ！～我が家の暮らし～＃２２",
+  "detail": "テントの中で茶会をする「茶ンピング」など、カジュアルな茶会イベントを手掛けている茶人・近藤俊太郎さん。茶道が誰でもどこでも手軽にできる秘密道具をご紹介！",
   "start": 1615643640000,
   "end": 1615644000000,
   "seconds": 360,
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 50
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "茶ンピング",
+  "episode": 22,
   "flags": []
 }
