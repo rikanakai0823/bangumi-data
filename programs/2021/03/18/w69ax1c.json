@@ -1,0 +1,25 @@
+{
+  "id": "w69ax1c",
+  "category": "news",
+  "title": "ファースト・ムーブ",
+  "fullTitle": "[二]ファースト・ムーブ",
+  "detail": "日本語同時通訳付。\r\nジュリア・チャタリーがアンカーを務める「ファースト・ムーブ」。NY証券取引所から金融市場の動きと、最新経済ニュースをリポート。",
+  "start": 1616072400000,
+  "end": 1616076000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

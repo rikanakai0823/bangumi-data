@@ -1,0 +1,25 @@
+{
+  "id": "idozs9h",
+  "category": "documentary",
+  "title": "ＥＴＶ特集",
+  "fullTitle": "ＥＴＶ特集「ＨＯＭＥ　我が愛しの甲子園」[字]",
+  "detail": "日本人の心のホーム、甲子園。夏の１００回大会の年に追った、師弟関係で結ばれた２人の監督の壮大な物語。野球というスポーツを通じて人を育てる男たちの喜びと葛藤を描く",
+  "start": 1616058000000,
+  "end": 1616061600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ＨＯＭＥ　我が愛しの甲子園",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

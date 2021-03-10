@@ -1,0 +1,27 @@
+{
+  "id": "idugngt",
+  "category": "cinema",
+  "title": "アンダーウォーター（字幕版）",
+  "fullTitle": "[初][映]アンダーウォーター（字幕版）[SS]",
+  "detail": "海底地震で目覚めた未知の生命体が深海の調査基地を襲撃。逃げ場のない海底で、研究員たちは生き延びることができるのか……。Ｋ・スチュワート主演のモンスタースリラー。",
+  "start": 1616068800000,
+  "end": 1616075100000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}

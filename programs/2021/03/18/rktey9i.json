@@ -1,0 +1,23 @@
+{
+  "id": "rktey9i",
+  "category": "music",
+  "title": "Mnetライブ",
+  "fullTitle": "Mnetライブ 【ソンミ】",
+  "detail": "「走る仲～Running girls～」放送記念！ソンミのライブパフォーマンスをまとめてお届け！\r\n2021年\r\n※再放送情報はMnet HPにて",
+  "start": 1615995900000,
+  "end": 1615996800000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "ソンミ",
+  "episode": null,
+  "flags": []
+}

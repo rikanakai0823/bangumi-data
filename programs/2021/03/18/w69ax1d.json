@@ -1,0 +1,25 @@
+{
+  "id": "w69ax1d",
+  "category": "news",
+  "title": "Connect The World",
+  "fullTitle": "[二]Connect The World",
+  "detail": "日本語同時通訳付。\r\n1日の世界の動きをこの番組でキャッチアップ！CNNインターナショナルきっての女性アンカー、ベッキー・アンダーソンが送る国際ニュース。",
+  "start": 1616076000000,
+  "end": 1616078700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduzza6",
+  "category": "cinema",
+  "title": "パラサイト　半地下の家族",
+  "fullTitle": "[映][字]パラサイト　半地下の家族[吹]",
+  "detail": "【吹替メガヒット９（再）】",
+  "start": 1616040600000,
+  "end": 1616049600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "吹替メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

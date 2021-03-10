@@ -1,0 +1,27 @@
+{
+  "id": "idugngi",
+  "category": "cinema",
+  "title": "カツベン！",
+  "fullTitle": "[映]カツベン！[SS][字]",
+  "detail": "これが映画初主演となる成田凌を筆頭に、黒島結菜、高良健吾ら、豪華多彩な顔ぶれが愉快な競演を披露。周防正行監督が５年ぶりに放った極上の最新エンターテインメント。",
+  "start": 1615995000000,
+  "end": 1616003100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

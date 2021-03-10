@@ -1,0 +1,27 @@
+{
+  "id": "idugngj",
+  "category": "cinema",
+  "title": "ブルーアワーにぶっ飛ばす",
+  "fullTitle": "[映]ブルーアワーにぶっ飛ばす[SS][字]",
+  "detail": "夏帆とシム・ウンギョンがダブル主演した青春映画。病気の祖母を見舞うため、秘密の友達と故郷に帰った自称・売れっ子ＣＭディレクター。彼女の自分探しの心の旅を描く。",
+  "start": 1616003100000,
+  "end": 1616009400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
