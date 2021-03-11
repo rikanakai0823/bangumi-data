@@ -1,0 +1,26 @@
+{
+  "id": "idugnh2",
+  "category": "cinema",
+  "title": "僕と妻の１７７８の物語",
+  "fullTitle": "[映]僕と妻の１７７８の物語[字]",
+  "detail": "余命１年を宣告された妻を笑顔にすべく、１日１編のショートショートをささげ続ける作家の夫。ＳＦ作家・眉村卓と夫人の実話をもとに草彅剛主演で贈る奇跡の物語。",
+  "start": 1616131800000,
+  "end": 1616140800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

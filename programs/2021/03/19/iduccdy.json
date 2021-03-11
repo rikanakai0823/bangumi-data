@@ -1,0 +1,26 @@
+{
+  "id": "iduccdy",
+  "category": "cinema",
+  "title": "半分ノ世界",
+  "fullTitle": "[映]半分ノ世界[字]",
+  "detail": "俳優・斎藤工が監督を務めたショートフィルム第２作。“半分ノ世界”にいる女子高校生と、定時制高校に通う青年との机の落書きを介した心の交流を綴る。",
+  "start": 1616145000000,
+  "end": 1616146200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

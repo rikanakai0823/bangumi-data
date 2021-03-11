@@ -1,0 +1,25 @@
+{
+  "id": "w66hj2t",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×楽天",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×楽天",
+  "detail": "オープン戦「東京ヤクルト vs 楽天」\r\n＜開催＞2021年3月19日（金）【生中継】\r\n～神宮球場\r\n＜解説＞大久保博元　＜実況＞酒主義久\r\n※変更の場合あり",
+  "start": 1616125800000,
+  "end": 1616140800000,
+  "seconds": 15000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 111
+  },
+  "subTitle": "東京ヤクルト vs 楽天",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

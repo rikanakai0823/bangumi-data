@@ -1,0 +1,25 @@
+{
+  "id": "idp431q",
+  "category": "documentary",
+  "title": "明鏡止水～武のＫＡＭＩＷＡＺＡ～",
+  "fullTitle": "明鏡止水～武のＫＡＭＩＷＡＺＡ～[字]",
+  "detail": "",
+  "start": 1616158800000,
+  "end": 1616162400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

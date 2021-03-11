@@ -1,0 +1,23 @@
+{
+  "id": "rkteyar",
+  "category": "music",
+  "title": "Mnetライブ",
+  "fullTitle": "Mnetライブ 【B1A4】",
+  "detail": "B1A4特集記念！B1A4の懐かしのライブパフォーマンスをまとめてお届け！\r\n2014年\r\n※再放送情報はMnet HPにて",
+  "start": 1616153400000,
+  "end": 1616155200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "B1A4",
+  "episode": null,
+  "flags": []
+}

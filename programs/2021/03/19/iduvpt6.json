@@ -1,0 +1,25 @@
+{
+  "id": "iduvpt6",
+  "category": "drama",
+  "title": "インダストリー",
+  "fullTitle": "[SS]インダストリー　＃２",
+  "detail": "【独占日本初放送スタート】",
+  "start": 1616080200000,
+  "end": 1616084100000,
+  "seconds": 3900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "独占日本初放送スタート",
+  "episode": 2,
+  "flags": [
+    "SS"
+  ]
+}

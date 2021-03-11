@@ -1,0 +1,26 @@
+{
+  "id": "rktcr04",
+  "category": "cinema",
+  "title": "ｋ-シアター",
+  "fullTitle": "ｋ-シアター「ときめきプリンセス婚活記」[字][再]",
+  "detail": "KBS World初放送！シム・ウンギョン＆イ・スンギ主演！占いで花婿を探す姫と占い師の奮闘記を描いたラブコメディ！2018年",
+  "start": 1616164800000,
+  "end": 1616172900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "ときめきプリンセス婚活記",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

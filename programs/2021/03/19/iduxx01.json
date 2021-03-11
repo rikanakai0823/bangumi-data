@@ -1,0 +1,26 @@
+{
+  "id": "iduxx01",
+  "category": "cinema",
+  "title": "マリー・アントワネット（２００６）",
+  "fullTitle": "[映][SS]マリー・アントワネット（２００６）",
+  "detail": "ソフィア・コッポラ監督が贈る歴史ドラマ。悲劇の王妃の絢爛豪華な生活と孤独な内面を、ポップなテイストで描き出す。",
+  "start": 1616114700000,
+  "end": 1616122800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

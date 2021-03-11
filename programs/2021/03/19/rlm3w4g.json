@@ -1,0 +1,25 @@
+{
+  "id": "rlm3w4g",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～ファーム～ ソフトバンクvs.阪神",
+  "fullTitle": "[生]HAWKS プロ野球中継2021～ファーム～ ソフトバンクvs.阪神",
+  "detail": "▽3月19日開催\r\n解説/実況：攝津正/久保俊郎\r\n開催日時：2021年3月19日 (金) 13:00\r\n会場：タマホーム スタジアム筑後",
+  "start": 1616126100000,
+  "end": 1616142300000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

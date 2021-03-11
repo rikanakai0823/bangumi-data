@@ -1,0 +1,25 @@
+{
+  "id": "iduxwtn",
+  "category": "cinema",
+  "title": "ミッドウェイ",
+  "fullTitle": "[映]ミッドウェイ",
+  "detail": "太平洋戦争最大の海戦を豪華キャストで再現したスペクタクル巨編。日米の海軍が勝敗を賭け、ミッドウェイ沖で雌雄を決する。",
+  "start": 1616105700000,
+  "end": 1616114700000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

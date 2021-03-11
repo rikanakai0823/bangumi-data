@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7vgl",
+  "category": "cinema",
+  "title": "",
+  "fullTitle": "第４４回　日本アカデミー賞　授賞式[字][デ]",
+  "detail": "",
+  "start": 1616155200000,
+  "end": 1616162040000,
+  "seconds": 6840,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "日本アカデミー賞　授賞式",
+  "episode": 44,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
