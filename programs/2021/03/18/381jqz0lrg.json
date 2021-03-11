@@ -1,12 +1,16 @@
 {
   "id": "381jqz0lrg",
   "category": "information",
-  "title": "ＮＨＫプラスでＥテレがパワーアップ",
-  "fullTitle": "ＮＨＫプラスでＥテレがパワーアップ",
-  "detail": "",
+  "title": "ＮＨＫプラスでより便利に楽しんで！",
+  "fullTitle": "ＮＨＫプラスでより便利に楽しんで！[字]",
+  "detail": "【出演】瀬戸康史，【声】キムラ緑子\n◇出演者\n【出演】瀬戸康史，【声】キムラ緑子",
   "start": 1616075100000,
   "end": 1616075400000,
   "seconds": 300,
+  "description": "【出演】瀬戸康史，【声】キムラ緑子",
+  "extra": {
+    "出演者": "【出演】瀬戸康史，【声】キムラ緑子"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
