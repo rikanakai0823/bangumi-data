@@ -1,0 +1,23 @@
+{
+  "id": "idozy3j",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「４月号」",
+  "detail": "",
+  "start": 1615772700000,
+  "end": 1615773000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "４月号",
+  "episode": null,
+  "flags": []
+}
