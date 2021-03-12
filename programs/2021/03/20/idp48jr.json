@@ -1,0 +1,23 @@
+{
+  "id": "idp48jr",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「瀬戸内の春」",
+  "detail": "",
+  "start": 1616184000000,
+  "end": 1616185800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "瀬戸内の春",
+  "episode": null,
+  "flags": []
+}

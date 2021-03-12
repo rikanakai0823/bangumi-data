@@ -1,0 +1,25 @@
+{
+  "id": "idy8div",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#33[二]",
+  "detail": "#33「天才シェフ　コーディー」",
+  "start": 1616169600000,
+  "end": 1616171400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "天才シェフ　コーディー",
+  "episode": 33,
+  "flags": [
+    "二"
+  ]
+}

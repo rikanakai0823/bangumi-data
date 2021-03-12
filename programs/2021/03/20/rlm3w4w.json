@@ -1,0 +1,25 @@
+{
+  "id": "rlm3w4w",
+  "category": "sports",
+  "title": "Bリーグ2020-21 第27節 琉球×広島(3/20)",
+  "fullTitle": "[生]Bリーグ2020-21 第27節 琉球×広島(3/20)",
+  "detail": "Bリーグ 2020-21 第27節(3/20)\r\n対戦:琉球ゴールデンキングス(H)\r\n　　 広島ドラゴンフライズ　(A)",
+  "start": 1616234400000,
+  "end": 1616245200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

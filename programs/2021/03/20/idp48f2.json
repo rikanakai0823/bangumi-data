@@ -1,0 +1,23 @@
+{
+  "id": "idp48f2",
+  "category": "anime",
+  "title": "アニメ　不滅のあなたへＰＲ",
+  "fullTitle": "アニメ　不滅のあなたへＰＲ",
+  "detail": "",
+  "start": 1616174400000,
+  "end": 1616174460000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

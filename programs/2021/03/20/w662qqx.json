@@ -1,0 +1,23 @@
+{
+  "id": "w662qqx",
+  "category": "cinema",
+  "title": "日本アカデミー賞授賞式 地上波版",
+  "fullTitle": "第44回日本アカデミー賞授賞式 地上波版",
+  "detail": "日テレプラスでは、地上波日テレで放送された「地上波版」をプレイバック放送。",
+  "start": 1616241600000,
+  "end": 1616248800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "地上波版",
+  "episode": 44,
+  "flags": []
+}

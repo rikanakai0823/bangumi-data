@@ -1,0 +1,23 @@
+{
+  "id": "w633ron",
+  "category": "sports",
+  "title": "プロ野球 オープン戦 阪神×オリックス 3.20",
+  "fullTitle": "プロ野球 オープン戦 阪神×オリックス 3.20",
+  "detail": "阪神×オリックス(3/20試合)\r\n▽京セラドーム/PB14：00\r\n※時間延長の場合あり",
+  "start": 1616234400000,
+  "end": 1616248800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 95
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idv060l",
+  "category": "cinema",
+  "title": "ローガン・ラッキー",
+  "fullTitle": "[映][SS]ローガン・ラッキー[吹]",
+  "detail": "スティーヴン・ソダーバーグの４年ぶりの監督復帰作となったクライムコメディ。運もツキもないド素人の破天荒な強盗計画を描く。",
+  "start": 1616233500000,
+  "end": 1616241600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

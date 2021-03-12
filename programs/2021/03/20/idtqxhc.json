@@ -1,0 +1,25 @@
+{
+  "id": "idtqxhc",
+  "category": "variety",
+  "title": "【ＢＳ５局で生放送！】バナナマンのササルＴＶ■BSフジ⇒BS日テレ",
+  "fullTitle": "[生]【ＢＳ５局で生放送！】バナナマンの「ＢＳは」ササルＴＶ■BSフジ⇒BS日テレ",
+  "detail": "バナナマンと８時間にわたるＢＳ５局リレー形式の生放送！「食」をテーマに「日本一ふつうで美味しい植野食堂 by dancyu」の植野広生が出演！ＢＳフジの後はＢＳ日テレへ！",
+  "start": 1616212800000,
+  "end": 1616218200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "ＢＳは",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
