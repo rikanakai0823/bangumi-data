@@ -1,8 +1,8 @@
 {
   "id": "381xj5onn0",
-  "category": "etc",
-  "title": "調整中＜Ｗナイト＞",
-  "fullTitle": "調整中＜Ｗナイト＞",
+  "category": "drama",
+  "title": "知ってるワイフ＜Ｗナイト＞",
+  "fullTitle": "知ってるワイフ＜Ｗナイト＞　＃１０[再]",
   "detail": "",
   "start": 1616003400000,
   "end": 1616007000000,
@@ -18,6 +18,8 @@
     "n": 29
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 10,
+  "flags": [
+    "再"
+  ]
 }
