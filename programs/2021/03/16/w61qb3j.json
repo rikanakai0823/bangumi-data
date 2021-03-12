@@ -1,0 +1,23 @@
+{
+  "id": "w61qb3j",
+  "category": "etc",
+  "title": "メンテナンスのため休止します",
+  "fullTitle": "メンテナンスのため休止します",
+  "detail": "メンテナンスのため休止します",
+  "start": 1615824000000,
+  "end": 1615827600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ザ・シネマ",
+    "id": "f0ar",
+    "sid": 227,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 93
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
