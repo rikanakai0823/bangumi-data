@@ -1,12 +1,12 @@
 {
   "id": "idozrmn",
   "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！[字]",
-  "detail": "",
+  "title": "四国推し！　四国らしんばん",
+  "fullTitle": "四国推し！　四国らしんばん「伊方原発　１０年後のリアル」[字]",
+  "detail": "福島の原発事故から１０年。四国唯一の原発を取り巻く状況はどう変わったのか。四国電力、伊方町、そして四国各地の市民を徹底取材。伊方原発のリアルな「今」を見つめる。",
   "start": 1615906800000,
-  "end": 1615909800000,
-  "seconds": 3000,
+  "end": 1615908300000,
+  "seconds": 1500,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "伊方原発　１０年後のリアル",
   "episode": null,
   "flags": [
     "字"
