@@ -1,0 +1,25 @@
+{
+  "id": "w68mudb",
+  "category": "documentary",
+  "title": "コンティネント７：南極大陸",
+  "fullTitle": "コンティネント７：南極大陸「想像を絶する気象」[字]",
+  "detail": "●ナショジオオープンキャンパス～明日の地球を守るプロジェクト～●南極調査隊は「コンディション１」と呼ばれる最も危険な気象状況に直面する。",
+  "start": 1616295600000,
+  "end": 1616299200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ナショジオ",
+    "id": "f0dz",
+    "sid": 343,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 134
+  },
+  "subTitle": "想像を絶する気象",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

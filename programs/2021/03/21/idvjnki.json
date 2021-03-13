@@ -1,0 +1,25 @@
+{
+  "id": "idvjnki",
+  "category": "anime",
+  "title": "はたらく細胞BLACK",
+  "fullTitle": "はたらく細胞BLACK[終]第13話",
+  "detail": "",
+  "start": 1616252400000,
+  "end": 1616254200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 13,
+  "flags": [
+    "終"
+  ]
+}

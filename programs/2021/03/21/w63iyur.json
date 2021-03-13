@@ -1,0 +1,25 @@
+{
+  "id": "w63iyur",
+  "category": "sports",
+  "title": "プロ野球オープン戦2021～東京ドーム～",
+  "fullTitle": "[生]プロ野球オープン戦2021「巨人×楽天」～東京ドーム～",
+  "detail": "～生中継\r\n解説：赤星憲広\r\n実況：佐藤義朗",
+  "start": 1616301900000,
+  "end": 1616317200000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "巨人×楽天",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

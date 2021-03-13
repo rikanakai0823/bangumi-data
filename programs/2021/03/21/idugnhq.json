@@ -1,0 +1,27 @@
+{
+  "id": "idugnhq",
+  "category": "cinema",
+  "title": "ドラゴンボールＺ　神と神",
+  "fullTitle": "[映]ドラゴンボールＺ　神と神[SS][字]",
+  "detail": "破壊神ビルス×超サイヤ人ゴッド！　地球の命運を懸け、神と神との超絶決戦が始まる。原作者・鳥山明の全面協力で実現した「ドラゴンボールＺ」の劇場版アニメ。",
+  "start": 1616302800000,
+  "end": 1616308200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "ドラゴンボールＺ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

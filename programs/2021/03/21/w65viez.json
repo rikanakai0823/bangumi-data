@@ -1,0 +1,23 @@
+{
+  "id": "w65viez",
+  "category": "documentary",
+  "title": "命の星物語",
+  "fullTitle": "命の星「地球」物語 #2",
+  "detail": "地球上に生きる野生動物の不思議と命の物語を見せる番組。",
+  "start": 1616263200000,
+  "end": 1616266800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "地球",
+  "episode": 2,
+  "flags": []
+}

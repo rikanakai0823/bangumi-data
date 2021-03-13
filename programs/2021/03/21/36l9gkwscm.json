@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwscm",
+  "category": "sports",
+  "title": "Ｂリーグ中継　千葉ジェッツふなばし　×　シーホース三河",
+  "fullTitle": "Ｂリーグ中継　千葉ジェッツふなばし　×　シーホース三河",
+  "detail": " ",
+  "start": 1616306400000,
+  "end": 1616316900000,
+  "seconds": 10500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

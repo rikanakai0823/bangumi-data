@@ -1,0 +1,26 @@
+{
+  "id": "iduccfe",
+  "category": "music",
+  "title": "生中継！［Ａｌｅｘａｎｄｒｏｓ］　１０ｔｈ　ＡＮＮＩＶＥＲＳＡＲＹ…",
+  "fullTitle": "[初][生]生中継！［Ａｌｅｘａｎｄｒｏｓ］　１０ｔｈ　ＡＮＮＩＶＥＲＳＡＲＹ…",
+  "detail": "会場を変更し行われる幕張メッセでの２ＤＡＹＳ公演、２日目の模様を生中継でお届け！",
+  "start": 1616313600000,
+  "end": 1616328000000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生"
+  ]
+}

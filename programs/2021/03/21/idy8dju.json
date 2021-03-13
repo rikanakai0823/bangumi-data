@@ -1,0 +1,25 @@
+{
+  "id": "idy8dju",
+  "category": "drama",
+  "title": "ザ・ロッジ",
+  "fullTitle": "ザ・ロッジ#21[二]",
+  "detail": "#21「授賞式」",
+  "start": 1616266800000,
+  "end": 1616268600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "授賞式",
+  "episode": 21,
+  "flags": [
+    "二"
+  ]
+}

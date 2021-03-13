@@ -1,0 +1,25 @@
+{
+  "id": "rlm3w6b",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ 第26節 ヘルタベルリン×レバークーゼン",
+  "fullTitle": "[生]20/21 ブンデスリーガ 第26節 ヘルタベルリン×レバークーゼン",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年3月21日\r\n会場:オリンピア シュタディオン",
+  "start": 1616336400000,
+  "end": 1616345400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

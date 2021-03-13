@@ -1,0 +1,25 @@
+{
+  "id": "w66sq2g",
+  "category": "drama",
+  "title": "STATION 19　シーズン1",
+  "fullTitle": "STATION 19　シーズン1 #5「衝撃」[字]",
+  "detail": "警察からの援護要請を受け、出動したアンディとマヤの間に不穏な空気が流れる。一方、ベンたちは電線が絡む自動車事故が発生し、車中に取り残された男性の救助に向かう。",
+  "start": 1616324400000,
+  "end": 1616328000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 116
+  },
+  "subTitle": "衝撃",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w66j9sh",
+  "category": "sports",
+  "title": "ライオンズTV",
+  "fullTitle": "[生]ライオンズTV　#3「開幕直前SP」",
+  "detail": "2021年シーズン開幕直前スペシャルをお届け！ 監督・選手たちが、オープン戦の手応えや開幕へ向けた仕上がり、意気込みなどを語る！　【生放送】",
+  "start": 1616313600000,
+  "end": 1616319000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "開幕直前SP",
+  "episode": 3,
+  "flags": [
+    "生"
+  ]
+}
