@@ -1,0 +1,26 @@
+{
+  "id": "idv0boo",
+  "category": "cinema",
+  "title": "ベスト・キッド２",
+  "fullTitle": "[映][SS]ベスト・キッド２[吹]",
+  "detail": "ひたむきに空手に打ち込む青年ダニエルと彼を見守る師匠ミヤギの交流を描いた、人気青春アクションのシリーズ第２弾。",
+  "start": 1616374800000,
+  "end": 1616382000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

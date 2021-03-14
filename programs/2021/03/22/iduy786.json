@@ -1,0 +1,25 @@
+{
+  "id": "iduy786",
+  "category": "cinema",
+  "title": "ドラゴン危機一発",
+  "fullTitle": "[映]ドラゴン危機一発",
+  "detail": "ブルース・リーの初主演作となるカンフーアクション。都会に働きに出た青年が、仲間の命を奪った麻薬密売組織に戦いを挑む。",
+  "start": 1616407800000,
+  "end": 1616414400000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

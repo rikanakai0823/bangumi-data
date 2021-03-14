@@ -1,0 +1,23 @@
+{
+  "id": "rkteych",
+  "category": "music",
+  "title": "Mnetライブ",
+  "fullTitle": "Mnetライブ 【MONSTA X】",
+  "detail": "ビジュアル、パフォーマンス、どこをとってもパーフェクトなMONSTA X！彼らのライブパフォーマンスをまとめてお届け！\r\n2018年\r\n※再放送情報はMnet HPにて",
+  "start": 1616347800000,
+  "end": 1616349600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "MONSTA X",
+  "episode": null,
+  "flags": []
+}

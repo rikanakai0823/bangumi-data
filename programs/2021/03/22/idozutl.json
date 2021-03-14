@@ -1,0 +1,25 @@
+{
+  "id": "idozutl",
+  "category": "documentary",
+  "title": "もういちど、日本",
+  "fullTitle": "もういちど、日本「わが街の競馬場　高知」[字]",
+  "detail": "高知市の高知競馬場は馬場の砂が厚くクッション性が高いため足を故障した馬が集まる。リハビリを経て再生する馬、挫折を乗り越えた調教師、赤字を逆転した競馬場の復活劇。",
+  "start": 1616402700000,
+  "end": 1616403000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "わが街の競馬場　高知",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

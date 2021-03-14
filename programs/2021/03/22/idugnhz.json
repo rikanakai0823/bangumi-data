@@ -1,0 +1,26 @@
+{
+  "id": "idugnhz",
+  "category": "cinema",
+  "title": "ウルフ（字幕版）",
+  "fullTitle": "[映]ウルフ（字幕版）[SS]",
+  "detail": "ベテランスターＪ・ニコルソンが、野性と理性の狭間をさまよう主人公を熱演した、話題のサスペンスホラー。大都会ニューヨークでひとりの男性が“狼男”に変身するように。",
+  "start": 1616356800000,
+  "end": 1616364900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduw1lg",
+  "category": "drama",
+  "title": "チェルノブイリ",
+  "fullTitle": "[SS]チェルノブイリ　＃１",
+  "detail": "【レギュラー放送スタート】",
+  "start": 1616385600000,
+  "end": 1616390100000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "レギュラー放送スタート",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp2005",
+  "category": "sports",
+  "title": "Ｗリーグ２０２０－２１　ファイナル",
+  "fullTitle": "Ｗリーグ２０２０－２１　ファイナル[字]",
+  "detail": "",
+  "start": 1616410200000,
+  "end": 1616410800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

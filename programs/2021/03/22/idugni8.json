@@ -1,0 +1,27 @@
+{
+  "id": "idugni8",
+  "category": "cinema",
+  "title": "アンフェア　ｔｈｅ　ｍｏｖｉｅ",
+  "fullTitle": "[映]アンフェア　ｔｈｅ　ｍｏｖｉｅ[SS][字]",
+  "detail": "篠原涼子主演の人気ＴＶドラマ「アンフェア」を映画化。型破りな女性警部補の雪平は、病院がテロリスト集団に占拠され、自分の娘や警察庁長官が人質になった事件に挑む！",
+  "start": 1616414400000,
+  "end": 1616421600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "アンフェア",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

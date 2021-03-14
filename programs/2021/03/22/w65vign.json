@@ -1,0 +1,26 @@
+{
+  "id": "w65vign",
+  "category": "drama",
+  "title": "ドラゴン桜",
+  "fullTitle": "[新]ドラゴン桜 #1[字]",
+  "detail": "三田紀房の人気コミックをドラマ化。偏差値３６の龍山高校の立て直しにやってきた弁護士・桜木と生徒たちの奮闘を描く。出演は阿部寛、長谷川京子ほか。",
+  "start": 1616382000000,
+  "end": 1616385000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

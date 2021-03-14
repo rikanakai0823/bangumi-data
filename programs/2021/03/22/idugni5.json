@@ -1,0 +1,27 @@
+{
+  "id": "idugni5",
+  "category": "cinema",
+  "title": "屍人荘の殺人",
+  "fullTitle": "[映]屍人荘の殺人[SS][字]",
+  "detail": "今村昌弘のベストセラー小説を神木隆之介、浜辺美波、中村倫也共演で映画化したミステリー。山奥のペンションで起きた殺人事件に、女子大学生探偵とオタクの助手が挑む。",
+  "start": 1616400000000,
+  "end": 1616407500000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

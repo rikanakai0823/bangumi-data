@@ -1,0 +1,26 @@
+{
+  "id": "iduw1on",
+  "category": "cinema",
+  "title": "ソニア　ナチスの女スパイ",
+  "fullTitle": "[映][SS]ソニア　ナチスの女スパイ【独占プレミア放送】",
+  "detail": "ナチス占領下のノルウェーで女優として活躍しながら、二重スパイとなって活動した実在の女優の人生を描く実録スパイサスペンス。",
+  "start": 1616390100000,
+  "end": 1616397300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "独占プレミア放送",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

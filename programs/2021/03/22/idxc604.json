@@ -1,0 +1,25 @@
+{
+  "id": "idxc604",
+  "category": "music",
+  "title": "熱唱！うた道",
+  "fullTitle": "[無]熱唱！うた道",
+  "detail": "歌うことが大好きな演歌ファンを応援する音楽番組です。「もっと上手に歌えたら…」そんなあなたの気持ちに応えます！",
+  "start": 1616403600000,
+  "end": 1616407200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "もっと上手に歌えたら…",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

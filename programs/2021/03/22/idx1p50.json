@@ -1,0 +1,25 @@
+{
+  "id": "idx1p50",
+  "category": "anime",
+  "title": "ダイヤのＡ ,2",
+  "fullTitle": "[字]ダイヤのＡ #1,2",
+  "detail": "#1「運命の一球」#2「相棒」\r\nもう一度、あのミットに投げ込みたい…。\r\n捕手・御幸一也との出会いが、少年の人生を一変…",
+  "start": 1616396400000,
+  "end": 1616400000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "運命の一球",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
