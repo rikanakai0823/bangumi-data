@@ -1,9 +1,9 @@
 {
   "id": "idsk4as",
   "category": "theater",
-  "title": "落語研究会",
-  "fullTitle": "落語研究会",
-  "detail": "",
+  "title": "落語研究会▼柳家花緑",
+  "fullTitle": "落語研究会▼第１９１回「不動坊火焔」柳家花緑",
+  "detail": "国立劇場で毎月開催の「落語研究会」の高座から選りすぐりの落語をお送りいたします。",
   "start": 1616004000000,
   "end": 1616007600000,
   "seconds": 3600,
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 50
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "不動坊火焔",
+  "episode": 191,
   "flags": []
 }
