@@ -1,15 +1,15 @@
 {
   "id": "36l9gkun9i",
   "category": "music",
-  "title": "カラオケ大賞　第１８９２回",
-  "fullTitle": "カラオケ大賞　第１８９２回",
-  "detail": "◇出演者      \n【審査員長】伊戸のりお\r\n【司会】吉岡美穂",
+  "title": "カラオケ大賞　第１８９２回坂本冬休み",
+  "fullTitle": "カラオケ大賞　第１８９２回【ゲスト】坂本冬休み",
+  "detail": "【ゲスト】坂本冬休み\n◇出演者\n【審査員長】伊戸のりお\r\n【司会】吉岡美穂",
   "start": 1616410800000,
   "end": 1616414100000,
   "seconds": 3300,
-  "description": " ",
+  "description": "【ゲスト】坂本冬休み",
   "extra": {
-    "出演者      ": "【審査員長】伊戸のりお\r\n【司会】吉岡美穂\r\n"
+    "出演者": "【審査員長】伊戸のりお\r\n【司会】吉岡美穂\r\n"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "ゲスト",
   "episode": null,
   "flags": []
 }

@@ -2,14 +2,14 @@
   "id": "36l9gkun6o",
   "category": "variety",
   "title": "ミクチャＴＶ",
-  "fullTitle": "ミクチャＴＶ　＃１９",
-  "detail": "◇番組内容    \nLIVE配信動画投稿コミュニティアプリ「MixChannel 」で話題の様々なジャンルをまとめたレギュラー番組。",
+  "fullTitle": "ミクチャＴＶ",
+  "detail": "◇番組内容\nLIVE配信動画投稿コミュニティアプリ「MixChannel 」で話題の様々なジャンルをまとめたレギュラー番組。",
   "start": 1616338800000,
   "end": 1616340600000,
   "seconds": 1800,
   "description": " ",
   "extra": {
-    "番組内容    ": "LIVE配信動画投稿コミュニティアプリ「MixChannel 」で話題の様々なジャンルをまとめたレギュラー番組。"
+    "番組内容": "LIVE配信動画投稿コミュニティアプリ「MixChannel 」で話題の様々なジャンルをまとめたレギュラー番組。"
   },
   "channel": {
     "type": "GR",
@@ -22,6 +22,6 @@
     "n": 9
   },
   "subTitle": "",
-  "episode": 19,
+  "episode": null,
   "flags": []
 }
