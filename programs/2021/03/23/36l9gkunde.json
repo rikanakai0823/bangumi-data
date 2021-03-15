@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkunde",
+  "category": "anime",
+  "title": "トムとジェリー",
+  "fullTitle": "トムとジェリー[二]第９回",
+  "detail": "①冬の夜ばなし\r\n②象さんはジェリーの味方\r\n③目茶苦茶ゴルフ\r\n",
+  "start": 1616486400000,
+  "end": 1616488200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 9,
+  "flags": [
+    "二"
+  ]
+}

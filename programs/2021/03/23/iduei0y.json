@@ -1,0 +1,25 @@
+{
+  "id": "iduei0y",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６６６",
+  "detail": "",
+  "start": 1616450700000,
+  "end": 1616451300000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 666,
+  "flags": [
+    "無"
+  ]
+}

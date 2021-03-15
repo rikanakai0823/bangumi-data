@@ -1,0 +1,25 @@
+{
+  "id": "iduy9kd",
+  "category": "cinema",
+  "title": "続・荒野の用心棒",
+  "fullTitle": "[映]続・荒野の用心棒",
+  "detail": "マカロニウエスタンのスター、フランコ・ネロの代表作。ジャンゴが対立する２大勢力を相手に戦うさまを過激な描写で描く。",
+  "start": 1616456700000,
+  "end": 1616462400000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

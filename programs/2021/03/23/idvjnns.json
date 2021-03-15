@@ -1,0 +1,25 @@
+{
+  "id": "idvjnns",
+  "category": "information",
+  "title": "宝くじドリームサテライト",
+  "fullTitle": "[デ]宝くじドリームサテライト",
+  "detail": "",
+  "start": 1616500680000,
+  "end": 1616500740000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}

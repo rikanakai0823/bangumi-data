@@ -1,0 +1,25 @@
+{
+  "id": "idtqwu8",
+  "category": "sports",
+  "title": "ＢＯＡＴＲＡＣＥプレミア　SGボートレースクラシック 　～ドリーム戦～",
+  "fullTitle": "[生]ＢＯＡＴＲＡＣＥプレミア　SG第56回ボートレースクラシック 　～ドリーム戦～",
+  "detail": "レースの模様はもちろん、ボートレースをより楽しむための情報を発信する！",
+  "start": 1616482800000,
+  "end": 1616486100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 56,
+  "flags": [
+    "生"
+  ]
+}

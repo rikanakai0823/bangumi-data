@@ -1,0 +1,25 @@
+{
+  "id": "idy8dm7",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#34[二]",
+  "detail": "#34「ボウリング対決」",
+  "start": 1616428800000,
+  "end": 1616430600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ボウリング対決",
+  "episode": 34,
+  "flags": [
+    "二"
+  ]
+}

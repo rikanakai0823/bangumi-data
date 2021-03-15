@@ -1,0 +1,27 @@
+{
+  "id": "idugnik",
+  "category": "cinema",
+  "title": "脳男[PG12指定]",
+  "fullTitle": "[映]脳男[PG12指定][SS][字]",
+  "detail": "生まれつき並外れた記憶力と知能、肉体を持ちながら、人間としての“感情”を持たない美しき殺人者……。その名は“脳男”。生田斗真が主演のサイコサスペンスアクション。",
+  "start": 1616500800000,
+  "end": 1616508900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

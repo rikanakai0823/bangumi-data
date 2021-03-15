@@ -1,0 +1,27 @@
+{
+  "id": "idugnic",
+  "category": "cinema",
+  "title": "町田くんの世界",
+  "fullTitle": "[映]町田くんの世界[SS][字]",
+  "detail": "オーディションで選ばれた新人・細田佳央太と関水渚がＷ主演したハートウオーミング青春ロマンス。他人のことばかり心配する善意の塊の高校生が周囲の人々の心を変える。",
+  "start": 1616441400000,
+  "end": 1616449500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
