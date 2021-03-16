@@ -2,7 +2,7 @@
   "id": "idozzkl",
   "category": "sports",
   "title": "ジャンプ女子ワールドカップ２０２０－２１",
-  "fullTitle": "ジャンプ女子ワールドカップ２０２０－２１",
+  "fullTitle": "ジャンプ女子ワールドカップ２０２０－２１[再]",
   "detail": "",
   "start": 1616371200000,
   "end": 1616377800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }

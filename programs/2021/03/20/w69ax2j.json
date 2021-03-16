@@ -1,9 +1,9 @@
 {
   "id": "w69ax2j",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "特別番組：フリーダム・デイ　地球フォーラム",
+  "fullTitle": "特別番組：フリーダム・デイ　地球フォーラム",
+  "detail": "現代奴隷制の撲滅を呼びかける「フリーダム・デイ」。世界100カ国以上を代表する若者たちによる、人身売買撲滅へ向けた討論会の模様をお届けする。",
   "start": 1616216400000,
   "end": 1616218200000,
   "seconds": 1800,
@@ -17,9 +17,7 @@
     "hasLogoData": false,
     "n": 138
   },
-  "subTitle": "",
+  "subTitle": "フリーダム・デイ",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }
