@@ -1,9 +1,9 @@
 {
   "id": "idsk4cu",
-  "category": "etc",
+  "category": "documentary",
   "title": "京景色",
-  "fullTitle": "京景色",
-  "detail": "",
+  "fullTitle": "京景色＃４",
+  "detail": "京都の四季折々の風景をお届けします。",
   "start": 1616092200000,
   "end": 1616094000000,
   "seconds": 1800,
@@ -18,6 +18,6 @@
     "n": 50
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 4,
   "flags": []
 }
