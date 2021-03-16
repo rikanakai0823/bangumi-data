@@ -1,0 +1,25 @@
+{
+  "id": "idy8doh",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#92[二]",
+  "detail": "#92「水上マーケット」",
+  "start": 1616570700000,
+  "end": 1616571000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "水上マーケット",
+  "episode": 92,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugniu",
+  "category": "cinema",
+  "title": "海よりもまだ深く",
+  "fullTitle": "[映]海よりもまだ深く[SS][字]",
+  "detail": "「海街ｄｉａｒｙ」の是枝裕和監督のもと、阿部寛ら豪華キャストが共演。台風の夜、一室に集まった元家族。台風が接近するにつれ、それぞれの心に秘めた想いが交錯する。",
+  "start": 1616572800000,
+  "end": 1616580000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "海街ｄｉａｒｙ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

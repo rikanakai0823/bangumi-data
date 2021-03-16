@@ -1,0 +1,26 @@
+{
+  "id": "iduw8os",
+  "category": "drama",
+  "title": "インダストリー",
+  "fullTitle": "[初][SS]インダストリー　＃３",
+  "detail": "【ＳＴＡＲ　ＤＲＡＭＡ　１１】【独占日本初放送スタート】",
+  "start": 1616594400000,
+  "end": 1616598000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "初",
+    "SS"
+  ]
+}

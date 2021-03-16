@@ -1,0 +1,25 @@
+{
+  "id": "idp20qe",
+  "category": "news",
+  "title": "ＣＮＮスチューデントニュース",
+  "fullTitle": "ＣＮＮスチューデントニュース[二]",
+  "detail": "",
+  "start": 1616566200000,
+  "end": 1616566800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

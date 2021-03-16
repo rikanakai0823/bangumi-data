@@ -1,0 +1,27 @@
+{
+  "id": "idugniw",
+  "category": "cinema",
+  "title": "ＨＥＲＯ（２００７）",
+  "fullTitle": "[映]ＨＥＲＯ（２００７）[SS][字]",
+  "detail": "検事・久利生公平、最大の危機！？　木村拓哉が型破りな検事を熱演したＴＶドラマ初の映画化。森田一義、イ・ビョンホン、松本白鸚ら豪華共演陣を迎えた大ヒット映画版。",
+  "start": 1616587200000,
+  "end": 1616595300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
