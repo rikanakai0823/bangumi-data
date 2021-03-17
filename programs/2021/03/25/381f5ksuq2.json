@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksuq2",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース「聖火リレー出発式」[字]",
+  "detail": "",
+  "start": 1616630400000,
+  "end": 1616634000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "聖火リレー出発式",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

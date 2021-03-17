@@ -1,0 +1,25 @@
+{
+  "id": "rktcr3h",
+  "category": "drama",
+  "title": "TV小説　星になって輝く",
+  "fullTitle": "TV小説　星になって輝く　#101　[字]",
+  "detail": "2015年 全128話",
+  "start": 1616649900000,
+  "end": 1616652900000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 101,
+  "flags": [
+    "字"
+  ]
+}

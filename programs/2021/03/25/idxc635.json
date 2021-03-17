@@ -1,0 +1,25 @@
+{
+  "id": "idxc635",
+  "category": "music",
+  "title": "独占生中継！FAKE MOTION 2021 SS LIVE SHOW",
+  "fullTitle": "[生]独占生中継！FAKE MOTION 2021 SS LIVE SHOW",
+  "detail": "3/25(木)18時より『FAKE MOTION 2021 SS LIVE SHOW』の模様をBSスカパー!にて生中継\r\n※「2週間お試し体験」対象外番組です",
+  "start": 1616662800000,
+  "end": 1616670000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

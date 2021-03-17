@@ -1,0 +1,25 @@
+{
+  "id": "idy8dpb",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#4[解]",
+  "detail": "#4「ティガーツム、大空へ」",
+  "start": 1616624820000,
+  "end": 1616625000000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ティガーツム、大空へ",
+  "episode": 4,
+  "flags": [
+    "解"
+  ]
+}

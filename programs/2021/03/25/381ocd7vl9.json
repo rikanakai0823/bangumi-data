@@ -1,0 +1,27 @@
+{
+  "id": "381ocd7vl9",
+  "category": "sports",
+  "title": "サッカー日本代表・国際親善試合",
+  "fullTitle": "サッカー日本代表・国際親善試合「日本代表×韓国代表」[多][字][デ]",
+  "detail": "",
+  "start": 1616666400000,
+  "end": 1616675040000,
+  "seconds": 8640,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "日本代表×韓国代表",
+  "episode": null,
+  "flags": [
+    "多",
+    "字",
+    "デ"
+  ]
+}

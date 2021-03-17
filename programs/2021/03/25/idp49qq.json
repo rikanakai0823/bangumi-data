@@ -1,0 +1,25 @@
+{
+  "id": "idp49qq",
+  "category": "variety",
+  "title": "ザ・穴場ツアー　ＣＡＴＶネットワーク",
+  "fullTitle": "ザ・穴場ツアー　ＣＡＴＶネットワーク[字]",
+  "detail": "",
+  "start": 1616659200000,
+  "end": 1616662800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

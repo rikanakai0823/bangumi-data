@@ -1,0 +1,25 @@
+{
+  "id": "idy8doz",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#36[二]",
+  "detail": "#36「パラレル・ワールド」",
+  "start": 1616601600000,
+  "end": 1616603400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "パラレル・ワールド",
+  "episode": 36,
+  "flags": [
+    "二"
+  ]
+}

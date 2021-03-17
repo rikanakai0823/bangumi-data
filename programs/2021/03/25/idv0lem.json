@@ -1,0 +1,26 @@
+{
+  "id": "idv0lem",
+  "category": "cinema",
+  "title": "フッド：ザ・ビギニング",
+  "fullTitle": "[映][SS]フッド：ザ・ビギニング[吹]【吹替メガヒット９（再）】",
+  "detail": "タロン・エガートン主演のアクションアドベンチャー。腐敗した政府に抵抗する義賊ロビン・フッド誕生秘話を現代的視点で描く。",
+  "start": 1616645400000,
+  "end": 1616652900000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "吹替メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

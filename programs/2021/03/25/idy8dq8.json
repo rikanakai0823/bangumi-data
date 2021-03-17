@@ -1,0 +1,25 @@
+{
+  "id": "idy8dq8",
+  "category": "drama",
+  "title": "アンディ・マック",
+  "fullTitle": "アンディ・マック#39[二]",
+  "detail": "#39「運命のケーキ」",
+  "start": 1616679000000,
+  "end": 1616680800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "運命のケーキ",
+  "episode": 39,
+  "flags": [
+    "二"
+  ]
+}
