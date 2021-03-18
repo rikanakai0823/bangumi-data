@@ -1,0 +1,25 @@
+{
+  "id": "iduyhbq",
+  "category": "cinema",
+  "title": "誘う女",
+  "fullTitle": "[映]誘う女",
+  "detail": "ニコール・キッドマン主演、ガス・ヴァン・サント監督の官能サスペンス。少年を誘惑して夫を殺害させたお天気キャスターを描く。",
+  "start": 1616695800000,
+  "end": 1616702400000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm3w8q",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "fullTitle": "[生]HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "detail": "▽3月26日開催\r\n解説/実況：若菜嘉晴/信川竜太\r\n開催日時：2021年3月26日 (金) 18:30\r\n会場：福岡PayPayドーム",
+  "start": 1616749200000,
+  "end": 1616770800000,
+  "seconds": 21600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

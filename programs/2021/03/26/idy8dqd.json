@@ -1,0 +1,25 @@
+{
+  "id": "idy8dqd",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#37[二]",
+  "detail": "#37「夏の夜の悪夢」",
+  "start": 1616688000000,
+  "end": 1616689800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "夏の夜の悪夢",
+  "episode": 37,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rksa4qx",
+  "category": "sports",
+  "title": "男子新体操 高校選抜2021",
+  "fullTitle": "[生]男子新体操 高校選抜2021",
+  "detail": "コロナ渦により様々なスポーツイベントが中止に追い込まれた2020年。そんな中、2年ぶりに新体操の高校全国大会が復活します。今回は男子新体操団体を生中継します。",
+  "start": 1616724000000,
+  "end": 1616740200000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

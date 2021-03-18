@@ -1,0 +1,26 @@
+{
+  "id": "rktcr3t",
+  "category": "drama",
+  "title": "空港に行く道",
+  "fullTitle": "空港に行く道　#11　[字][再]",
+  "detail": "2016年　全16話",
+  "start": 1616695800000,
+  "end": 1616700000000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 11,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

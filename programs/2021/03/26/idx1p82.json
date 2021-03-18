@@ -1,0 +1,25 @@
+{
+  "id": "idx1p82",
+  "category": "anime",
+  "title": "おそ松さん ,18",
+  "fullTitle": "[字]おそ松さん #17,18",
+  "detail": "#17「十四松まつり」\r\n#18「じょし松さん3」「逆襲のイヤミ」\r\n日本中を沸かせた名作『おそ松くん』。それから時は流れ…",
+  "start": 1616738400000,
+  "end": 1616742000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "十四松まつり",
+  "episode": 17,
+  "flags": [
+    "字"
+  ]
+}

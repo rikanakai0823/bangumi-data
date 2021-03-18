@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0lik",
+  "category": "hobby",
+  "title": "ようこそ！楽しい学びの入り口へ",
+  "fullTitle": "ようこそ！楽しい学びの入り口へ[字]",
+  "detail": "",
+  "start": 1616720700000,
+  "end": 1616721300000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

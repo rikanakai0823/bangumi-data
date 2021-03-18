@@ -1,0 +1,23 @@
+{
+  "id": "w61i9n8",
+  "category": "information",
+  "title": "Information30",
+  "fullTitle": "Information30",
+  "detail": "テレビショッピング",
+  "start": 1616702400000,
+  "end": 1616704200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "映画・ｃｈＮＥＣＯ",
+    "id": "f0an",
+    "sid": 223,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 92
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
