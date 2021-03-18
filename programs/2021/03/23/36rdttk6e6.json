@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\nJON BATISTEコメント\r\n\"I NEED YOU\"JON BATISTE\r\nTHE BEATLES「A Hard Day’s Night」\r\n\"34+35 (Remix)\"ARIANA GRANDE feat.DOJA CAT & MEGAN THEE STALLION\n◇番組内容２\n\"Dear August\"PJ HARDING & NOAH CYRUS\r\n\"Hold On\"JUSTIN BIEBER\r\n\"Lead The Way\"JHENE AIKO（映画「ラーヤと龍の王国」エンドソング）",
   "start": 1616425200000,
   "end": 1616427000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "JON BATISTEコメント\r\n\"I NEED YOU\"JON BATISTE\r\nTHE BEATLES「A Hard Day’s Night」\r\n\"34+35 (Remix)\"ARIANA GRANDE feat.DOJA CAT & MEGAN THEE STALLION",
+    "番組内容２": "\"Dear August\"PJ HARDING & NOAH CYRUS\r\n\"Hold On\"JUSTIN BIEBER\r\n\"Lead The Way\"JHENE AIKO（映画「ラーヤと龍の王国」エンドソング）"
   },
   "channel": {
     "type": "GR",
