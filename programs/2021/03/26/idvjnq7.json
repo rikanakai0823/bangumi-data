@@ -1,9 +1,9 @@
 {
   "id": "idvjnq7",
   "category": "anime",
-  "title": "※番組未定",
-  "fullTitle": "※番組未定",
-  "detail": "内容が決まり次第お伝えします。",
+  "title": "宇宙よりも遠い場所STAGE13",
+  "fullTitle": "宇宙よりも遠い場所[終]STAGE13「きっとまた旅に出る」",
+  "detail": "鳴り響く目覚まし時計を止めて、ベッドから起き上がったキマリは食堂の厨房へと向かう。同じ当直当番である日向に遅いと文句を言われながら…。",
   "start": 1616686200000,
   "end": 1616688000000,
   "seconds": 1800,
@@ -17,7 +17,9 @@
     "hasLogoData": false,
     "n": 65
   },
-  "subTitle": "",
+  "subTitle": "きっとまた旅に出る",
   "episode": null,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }

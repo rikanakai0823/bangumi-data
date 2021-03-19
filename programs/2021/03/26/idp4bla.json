@@ -2,11 +2,11 @@
   "id": "idp4bla",
   "category": "documentary",
   "title": "ハイビジョン特集　エジプト発掘",
-  "fullTitle": "ハイビジョン特集　エジプト発掘「第３集　妹を憎んだクレオパトラ」[再]",
+  "fullTitle": "ハイビジョン特集　エジプト発掘（３）「妹を憎んだクレオパトラ」[再]",
   "detail": "",
   "start": 1616696100000,
-  "end": 1616701440000,
-  "seconds": 5340,
+  "end": 1616701500000,
+  "seconds": 5400,
   "channel": {
     "type": "BS",
     "channel": "BS03_1",
@@ -17,8 +17,8 @@
     "hasLogoData": false,
     "n": 42
   },
-  "subTitle": "第３集　妹を憎んだクレオパトラ",
-  "episode": null,
+  "subTitle": "妹を憎んだクレオパトラ",
+  "episode": 3,
   "flags": [
     "再"
   ]
