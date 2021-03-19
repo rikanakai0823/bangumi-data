@@ -2,7 +2,7 @@
   "id": "idtqwyg",
   "category": "information",
   "title": "美ＢＯＤＹサロン",
-  "fullTitle": "美ＢＯＤＹサロン",
+  "fullTitle": "美ＢＯＤＹサロン[終]",
   "detail": "美しいカラダ「美BODY」を目指すアナタへ！究極の美BODYメソッドをご紹介!",
   "start": 1616684400000,
   "end": 1616685900000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "美BODY",
   "episode": null,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }
