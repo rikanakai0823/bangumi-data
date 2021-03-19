@@ -1,0 +1,26 @@
+{
+  "id": "iduwhn3",
+  "category": "cinema",
+  "title": "ジュラシック・ワールド",
+  "fullTitle": "[映][SS]ジュラシック・ワールド",
+  "detail": "恐竜を現代に蘇らせた巨大テーマパークを舞台にした大ヒットＳＦアドベンチャーの第４弾。新種の恐竜たちが暴れまわる。",
+  "start": 1616829300000,
+  "end": 1616837400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

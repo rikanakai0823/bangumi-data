@@ -1,0 +1,23 @@
+{
+  "id": "idp3ldl",
+  "category": "documentary",
+  "title": "生中継！東京・江戸を彩る桜",
+  "fullTitle": "生中継！東京・江戸を彩る桜",
+  "detail": "",
+  "start": 1616819400000,
+  "end": 1616824200000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

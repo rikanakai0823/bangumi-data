@@ -1,0 +1,23 @@
+{
+  "id": "idrd2fc",
+  "category": "sports",
+  "title": "ブンデスリーガ　マンスリー・セレクション",
+  "fullTitle": "ブンデスリーガ　マンスリー・セレクション",
+  "detail": "",
+  "start": 1616850000000,
+  "end": 1616853240000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

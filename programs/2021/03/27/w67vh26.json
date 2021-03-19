@@ -1,0 +1,25 @@
+{
+  "id": "w67vh26",
+  "category": "anime",
+  "title": "ソニックＸ ,64",
+  "fullTitle": "ソニックＸ[字] #63,64",
+  "detail": "＃６３「宇宙要塞メタルプラント」＃６４「激突！ソニックｖｓシャドウ」",
+  "start": 1616839200000,
+  "end": 1616842800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "宇宙要塞メタルプラント",
+  "episode": 63,
+  "flags": [
+    "字"
+  ]
+}

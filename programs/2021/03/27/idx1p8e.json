@@ -1,0 +1,25 @@
+{
+  "id": "idx1p8e",
+  "category": "anime",
+  "title": "おそ松さん ,20",
+  "fullTitle": "[字]おそ松さん #19,20",
+  "detail": "#19「時代劇おそ松さん」「じょし松さん4」「チョロ松ライジング」#20「教えてハタ坊」「スクール松」「イヤミの学校…",
+  "start": 1616774400000,
+  "end": 1616778000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "時代劇おそ松さん",
+  "episode": 19,
+  "flags": [
+    "字"
+  ]
+}

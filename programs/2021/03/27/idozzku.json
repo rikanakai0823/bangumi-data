@@ -1,0 +1,25 @@
+{
+  "id": "idozzku",
+  "category": "sports",
+  "title": "ジャンプ女子ワールドカップ２０２０－２１",
+  "fullTitle": "ジャンプ女子ワールドカップ２０２０－２１[再]",
+  "detail": "",
+  "start": 1616799600000,
+  "end": 1616806200000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

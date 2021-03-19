@@ -1,0 +1,25 @@
+{
+  "id": "w67kel8",
+  "category": "music",
+  "title": "生中継!M-ON! LIVE 小野大輔",
+  "fullTitle": "[生]生中継!M-ON! LIVE 小野大輔「ONO DAISUKE LIVE 2021: A SPACE ODYSSEY」",
+  "detail": "約2年半ぶりとなるワンマンライブ「ONO DAISUKE LIVE 2021: A SPACE ODYSSEY」より、3/27(土)の東京・武蔵野の森総合スポーツプラザ・メインアリーナの模様を生中継！",
+  "start": 1616835600000,
+  "end": 1616846400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 125
+  },
+  "subTitle": "ONO DAISUKE LIVE 2021: A SPACE ODYSSEY",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

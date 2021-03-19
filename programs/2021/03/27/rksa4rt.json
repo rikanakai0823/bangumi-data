@@ -1,0 +1,25 @@
+{
+  "id": "rksa4rt",
+  "category": "music",
+  "title": "Hello! Project ひなフェス2021",
+  "fullTitle": "[生]Hello! Project ひなフェス2021「つばきファクトリー＆BEYOOOOONDS プレミアム」",
+  "detail": "3月27日（土）幕張メッセで行われる Hello! Project ひなフェス2021「つばきファクトリー＆BEYOOOOONDS プレミアム」を独占生中継！",
+  "start": 1616814000000,
+  "end": 1616823000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "つばきファクトリー＆BEYOOOOONDS プレミアム",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w65o1mu",
+  "category": "cinema",
+  "title": "緊急検証！THE MOVIE ネッシーvsノストラダムスvsユリ・ゲラー",
+  "fullTitle": "[HV][映]緊急検証！THE MOVIE ネッシーvsノストラダムスvsユリ・ゲラー",
+  "detail": "CS放送ファミリー劇場で2012年から放送されているオカルトバラエティ番組「緊急検証！」の劇場版。",
+  "start": 1616778900000,
+  "end": 1616786100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 101
+  },
+  "subTitle": "緊急検証！",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

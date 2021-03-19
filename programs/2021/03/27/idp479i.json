@@ -1,0 +1,25 @@
+{
+  "id": "idp479i",
+  "category": "documentary",
+  "title": "決戦！タイムリミット",
+  "fullTitle": "決戦！タイムリミット[字]",
+  "detail": "【出演】吉田鋼太郎，【語り】今野浩喜",
+  "start": 1616851800000,
+  "end": 1616857200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

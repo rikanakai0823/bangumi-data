@@ -1,0 +1,27 @@
+{
+  "id": "idugnjx",
+  "category": "cinema",
+  "title": "ＯＮＥ　ＰＩＥＣＥ　ＳＴＡＭＰＥＤＥ",
+  "fullTitle": "[映]ＯＮＥ　ＰＩＥＣＥ　ＳＴＡＭＰＥＤＥ[SS][字]",
+  "detail": "世界中の海賊が集まる海賊万博が開幕！　海賊王ロジャーの残した宝をめぐる争奪戦の中、ルフィたちは巨大な陰謀に巻き込まれる。国民的コミックの劇場版アニメ第１４作。",
+  "start": 1616836500000,
+  "end": 1616842800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

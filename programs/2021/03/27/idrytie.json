@@ -1,0 +1,23 @@
+{
+  "id": "idrytie",
+  "category": "information",
+  "title": "これなら満足！快適ショッピング",
+  "fullTitle": "これなら満足！快適ショッピング",
+  "detail": "テレビショッピング",
+  "start": 1616796000000,
+  "end": 1616797500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

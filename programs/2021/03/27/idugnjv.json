@@ -1,0 +1,27 @@
+{
+  "id": "idugnjv",
+  "category": "cinema",
+  "title": "ＯＮＥ　ＰＩＥＣＥ　ＦＩＬＭ　Ｚ",
+  "fullTitle": "[映]ＯＮＥ　ＰＩＥＣＥ　ＦＩＬＭ　Ｚ[SS][字]",
+  "detail": "劇場版「ワンピース」最大のヒットとなった第１２作。総合プロデューサーに原作者・尾田栄一郎を迎え、麦わら海賊団と全海賊抹殺を謀る元海軍大将ゼットとの闘いを描く。",
+  "start": 1616821200000,
+  "end": 1616828400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "ワンピース",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

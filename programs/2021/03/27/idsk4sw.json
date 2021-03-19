@@ -1,0 +1,23 @@
+{
+  "id": "idsk4sw",
+  "category": "documentary",
+  "title": "京景色",
+  "fullTitle": "京景色＃６",
+  "detail": "京都の四季折々の風景をお届けします。",
+  "start": 1616783400000,
+  "end": 1616785200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 6,
+  "flags": []
+}

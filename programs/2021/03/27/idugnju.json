@@ -1,0 +1,27 @@
+{
+  "id": "idugnju",
+  "category": "cinema",
+  "title": "ＳＰ　革命篇",
+  "fullTitle": "[映]ＳＰ　革命篇[SS][字]",
+  "detail": "岡田准一主演のＴＶ「ＳＰ　警視庁警備部警護課第四係」を、前編“野望篇”とセットで映画化した２部作の後編。ＳＰの井上薫と同僚たちは国会議事堂ジャックの一味と対決。",
+  "start": 1616813100000,
+  "end": 1616821200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "ＳＰ　警視庁警備部警護課第四係",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
