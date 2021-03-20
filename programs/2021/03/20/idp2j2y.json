@@ -1,21 +1,21 @@
 {
-  "id": "idozy8n",
+  "id": "idp2j2y",
   "category": "sports",
   "title": "全国高校柔道選手権",
   "fullTitle": "第４３回全国高校柔道選手権「男子個人決勝」",
   "detail": "春の高校柔道日本一決定戦。昨年は中止となったが今年は個人戦のみが開催されます。１９日女子、２０日男子の模様を生中継",
-  "start": 1616223600000,
-  "end": 1616227800000,
-  "seconds": 4200,
+  "start": 1616227800000,
+  "end": 1616228820000,
+  "seconds": 1020,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
     "name": "ＮＨＫＢＳ１",
-    "id": "8kpx",
-    "sid": 101,
+    "id": "8kpy",
+    "sid": 102,
     "nid": 4,
     "hasLogoData": false,
-    "n": 40
+    "n": 41
   },
   "subTitle": "男子個人決勝",
   "episode": 43,
