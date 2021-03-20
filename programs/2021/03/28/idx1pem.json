@@ -1,0 +1,25 @@
+{
+  "id": "idx1pem",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#203「コヒグマくんのおつかい」\r\n#204「プリ虫のこと」\r\nラッコの子ども“ぼのぼの”とシマリスくんやスナドリネコさん…",
+  "start": 1616920200000,
+  "end": 1616921400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "コヒグマくんのおつかい",
+  "episode": 203,
+  "flags": [
+    "字"
+  ]
+}

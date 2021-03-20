@@ -1,0 +1,27 @@
+{
+  "id": "iduccje",
+  "category": "cinema",
+  "title": "ベスト・キッド２（吹替版）",
+  "fullTitle": "[映]ベスト・キッド２（吹替版）[SS][字]",
+  "detail": "老師ミヤギのもとに父の危篤を告げる報せが。ミヤギは弟子のダニエルを連れ、故郷・沖縄の土を再び踏むことに。空手を通じた師弟の絆を描いた人気青春スポーツ映画の続編。",
+  "start": 1616861700000,
+  "end": 1616868900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

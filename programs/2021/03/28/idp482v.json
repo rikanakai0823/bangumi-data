@@ -1,0 +1,26 @@
+{
+  "id": "idp482v",
+  "category": "music",
+  "title": "ザ少年倶楽部",
+  "fullTitle": "ザ少年倶楽部[字][再]",
+  "detail": "",
+  "start": 1616893200000,
+  "end": 1616896800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

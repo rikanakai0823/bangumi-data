@@ -1,0 +1,23 @@
+{
+  "id": "idp48ia",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「４月号」",
+  "detail": "",
+  "start": 1616883780000,
+  "end": 1616884080000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "４月号",
+  "episode": null,
+  "flags": []
+}

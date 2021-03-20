@@ -1,0 +1,23 @@
+{
+  "id": "ieeljs9",
+  "category": "etc",
+  "title": "コンピューティング",
+  "fullTitle": "コンピューティング　第3回",
+  "detail": "「計算モデル概論Ⅲ」",
+  "start": 1616568300000,
+  "end": 1616571000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "計算モデル概論Ⅲ",
+  "episode": 3,
+  "flags": []
+}

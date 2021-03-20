@@ -1,0 +1,23 @@
+{
+  "id": "rkteyhu",
+  "category": "music",
+  "title": "M COUNTDOWN バックステージ",
+  "fullTitle": "M COUNTDOWN バックステージ",
+  "detail": "出演：VERIVERY、BDC、GHOST9、WEi、Brave Girls ほか\r\n\r\n【2021年3月11日M COUNTDOWN】\r\n再：(月)12:00（木)17:00（土)深4:00",
+  "start": 1616940000000,
+  "end": 1616943600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

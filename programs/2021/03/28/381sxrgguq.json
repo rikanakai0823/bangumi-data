@@ -1,0 +1,26 @@
+{
+  "id": "381sxrgguq",
+  "category": "information",
+  "title": "超キニナル爆安祭",
+  "fullTitle": "超キニナル爆安祭[解][字]",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1616914800000,
+  "end": 1616918400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idugnk0",
+  "category": "cinema",
+  "title": "恋の門",
+  "fullTitle": "[映]恋の門[字]",
+  "detail": "劇団主宰者、個性派俳優、小説家、エッセイストなど多方面で活躍する人気の才人・松尾スズキ。羽生生純の同名コミックの映画化で松尾が長編映画監督デビューを飾った１本。",
+  "start": 1616857200000,
+  "end": 1616864400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

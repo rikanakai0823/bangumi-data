@@ -1,0 +1,27 @@
+{
+  "id": "idugnk1",
+  "category": "cinema",
+  "title": "クワイエットルームにようこそ",
+  "fullTitle": "[映]クワイエットルームにようこそ[SS][字]",
+  "detail": "才人の松尾スズキが、芥川賞候補にもなった自身の小説を、自ら監督し、内田有紀、宮藤官九郎ら豪華多彩なキャストを得て映画化。病院の精神科病棟を舞台にした群像ドラマ。",
+  "start": 1616864400000,
+  "end": 1616871600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

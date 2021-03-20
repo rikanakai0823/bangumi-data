@@ -1,0 +1,27 @@
+{
+  "id": "idv0unc",
+  "category": "cinema",
+  "title": "ストーリー・オブ・マイライフ／わたしの若草物語",
+  "fullTitle": "[映][SS][字]ストーリー・オブ・マイライフ／わたしの若草物語[吹]",
+  "detail": "【ファミリーシアター】",
+  "start": 1616893200000,
+  "end": 1616902200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "ファミリーシアター",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idtqx4s",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　　高松宮記念（GⅠ）マーチS（GⅢ）",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　　高松宮記念（GⅠ）マーチS（GⅢ）",
+  "detail": "2021年は毎週放送！中京：高松宮記念（GⅠ）中山：マーチステークス（GⅢ）阪神：六甲ステークス（L）／解説：椋木宏（競馬エイト）ゲスト：横山ルリカ",
+  "start": 1616911200000,
+  "end": 1616914800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

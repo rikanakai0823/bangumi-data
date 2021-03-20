@@ -1,0 +1,26 @@
+{
+  "id": "381jqz0mus",
+  "category": "theater",
+  "title": "古典芸能への招待",
+  "fullTitle": "古典芸能への招待[多][字]",
+  "detail": "",
+  "start": 1616932800000,
+  "end": 1616940000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
