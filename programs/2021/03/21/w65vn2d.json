@@ -1,0 +1,23 @@
+{
+  "id": "w65vn2d",
+  "category": "documentary",
+  "title": "Wonderful World I",
+  "fullTitle": "Wonderful World I",
+  "detail": "この時間は、予定していた番組を変更してお送りいたします",
+  "start": 1616313000000,
+  "end": 1616313600000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
