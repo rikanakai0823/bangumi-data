@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kvof",
+  "category": "cinema",
+  "title": "東京コンフィデンシャル４",
+  "fullTitle": "東京コンフィデンシャル４",
+  "detail": " ",
+  "start": 1616949300000,
+  "end": 1616952900000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

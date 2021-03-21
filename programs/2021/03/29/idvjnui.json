@@ -1,0 +1,25 @@
+{
+  "id": "idvjnui",
+  "category": "anime",
+  "title": "SSSS.GRIDMAN",
+  "fullTitle": "SSSS.GRIDMAN[終]＃12「覚醒」",
+  "detail": "１つになった裕太とグリッドマンは真の姿へと覚醒する。そして全員の心を繋げ、最後の戦いに挑む。",
+  "start": 1617028200000,
+  "end": 1617030000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "覚醒",
+  "episode": 12,
+  "flags": [
+    "終"
+  ]
+}

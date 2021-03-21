@@ -1,0 +1,25 @@
+{
+  "id": "idy8dut",
+  "category": "anime",
+  "title": "アウルハウス、2",
+  "fullTitle": "アウルハウス#1、2【2話連続】[二]",
+  "detail": "#1「ウソつき魔女と怒りの番人」,#2「魔法使いの試練」",
+  "start": 1617004800000,
+  "end": 1617008400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ウソつき魔女と怒りの番人",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idozaxh",
+  "category": "documentary",
+  "title": "ＣＯＯＬ　ＪＡＰＡＮ",
+  "fullTitle": "ＣＯＯＬ　ＪＡＰＡＮ「道～Ｒｏａｄｓ～」[解][字][再]",
+  "detail": "外国人が日本に来て驚くのが、道のキレイさやゴミの少なさ。高速道路のジャンクションや渋滞予報士、世界遺産・熊野古道の魅力など、外国人の視点で道のクールを探る。",
+  "start": 1617004800000,
+  "end": 1617007500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "道～Ｒｏａｄｓ～",
+  "episode": null,
+  "flags": [
+    "解",
+    "字",
+    "再"
+  ]
+}

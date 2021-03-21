@@ -1,0 +1,26 @@
+{
+  "id": "iduytng",
+  "category": "cinema",
+  "title": "エース・ベンチュラ",
+  "fullTitle": "[映][SS]エース・ベンチュラ",
+  "detail": "ジム・キャリー主演の爆笑アクションコメディ。ペット専門の私立探偵が、誘拐されたイルカをめぐって繰り広げる大騒動を描く。",
+  "start": 1617026400000,
+  "end": 1617031800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

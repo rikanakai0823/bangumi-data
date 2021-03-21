@@ -1,0 +1,25 @@
+{
+  "id": "idw6pgw",
+  "category": "sports",
+  "title": "ＳＫＩ　ＴＶ４",
+  "fullTitle": "ＳＫＩ　ＴＶ４ ＃１２[終]",
+  "detail": "日本が世界に誇るワールドカップレーサー・岡部哲也と日本を代表するナショナルデモンストレーター・丸山貴雄が送るウインタースポーツ専門番組。",
+  "start": 1617019200000,
+  "end": 1617021000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_2",
+    "name": "ＢＳ１２トゥエルビ",
+    "id": "8kta",
+    "sid": 222,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": [
+    "終"
+  ]
+}
