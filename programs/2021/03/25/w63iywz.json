@@ -1,12 +1,12 @@
 {
   "id": "w63iywz",
   "category": "sports",
-  "title": "ジャイアンツイースタンリーグ2021～ジャイアンツ球場～",
-  "fullTitle": "ジャイアンツイースタンリーグ2021「巨人×ヤクルト」～ジャイアンツ球場～",
-  "detail": "2021年3月21日開催　*雨天中止の場合番組変更\r\n解説：川相昌弘\r\n実況：河村亮",
+  "title": "巨人 in 東京ドーム 2021",
+  "fullTitle": "巨人 in 東京ドーム 2021",
+  "detail": "",
   "start": 1616679000000,
-  "end": 1616693400000,
-  "seconds": 14400,
+  "end": 1616686200000,
+  "seconds": 7200,
   "channel": {
     "type": "CS",
     "channel": "CS24",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 97
   },
-  "subTitle": "巨人×ヤクルト",
+  "subTitle": "",
   "episode": null,
   "flags": []
 }
