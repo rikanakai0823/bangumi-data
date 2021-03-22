@@ -1,15 +1,17 @@
 {
   "id": "381sxrgh1p",
   "category": "sports",
-  "title": "マスターズ魂",
-  "fullTitle": "マスターズ魂",
-  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/masters/",
+  "title": "マスターズ４月８日開幕",
+  "fullTitle": "マスターズ４月８日開幕",
+  "detail": "ゴルファーの世界一決定戦、マスターズ開幕まで１６日。\r\nマスターズで勝つことが全てのゴルファーにとって最大の名誉。\r\nそんなマスターズの魅力を紹介！\n◇番組内容\n今年10度目の出場となる松山英樹の本音に迫った。\r\n\n◇公式ページ\n◇番組ＨＰ\r\n http://www.tbs.co.jp/masters/\r\n\r\n◇TBSゴルフ公式Twitter\r\nhttps://twitter.com/GolfTbs\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1616516880000,
   "end": 1616517000000,
   "seconds": 120,
-  "description": "番組情報決定までしばらくお待ち下さい。",
+  "description": "ゴルファーの世界一決定戦、マスターズ開幕まで１６日。\r\nマスターズで勝つことが全てのゴルファーにとって最大の名誉。\r\nそんなマスターズの魅力を紹介！",
   "extra": {
-    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/masters/\r\n"
+    "番組内容": "今年10度目の出場となる松山英樹の本音に迫った。\r\n",
+    "公式ページ": "◇番組ＨＰ\r\n http://www.tbs.co.jp/masters/\r\n\r\n◇TBSゴルフ公式Twitter\r\nhttps://twitter.com/GolfTbs",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。\r\n"
   },
   "channel": {
     "type": "GR",
