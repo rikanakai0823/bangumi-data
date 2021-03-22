@@ -1,0 +1,25 @@
+{
+  "id": "idp4avn",
+  "category": "etc",
+  "title": "プロジェクトＸ　挑戦者たち",
+  "fullTitle": "プロジェクトＸ　挑戦者たち[字]",
+  "detail": "",
+  "start": 1617105600000,
+  "end": 1617108300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

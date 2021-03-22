@@ -1,0 +1,25 @@
+{
+  "id": "idx1pat",
+  "category": "anime",
+  "title": "ハイキュー!! ,4",
+  "fullTitle": "[字]ハイキュー!! #3,4",
+  "detail": "#3「最強の味方」#4「頂の景色」\r\n中学最初の公式戦で天才プレーヤー・影山飛雄に惨敗した日向翔陽は、烏野高校バレー…",
+  "start": 1617109200000,
+  "end": 1617112800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "最強の味方",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

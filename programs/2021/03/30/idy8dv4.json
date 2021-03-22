@@ -1,0 +1,25 @@
+{
+  "id": "idy8dv4",
+  "category": "anime",
+  "title": "ロスト・イン・オズ",
+  "fullTitle": "ロスト・イン・オズ#8[二]",
+  "detail": "#8「スティックス」",
+  "start": 1617030000000,
+  "end": 1617031800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "スティックス",
+  "episode": 8,
+  "flags": [
+    "二"
+  ]
+}

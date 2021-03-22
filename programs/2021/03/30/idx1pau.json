@@ -1,0 +1,25 @@
+{
+  "id": "idx1pau",
+  "category": "anime",
+  "title": "PSYCHO-PASS サイコパス ３",
+  "fullTitle": "[字]PSYCHO-PASS サイコパス ３ #4",
+  "detail": "Episode.4「コロッセオの政争」\r\n魂を数値化する巨大監視ネットワーク・シビュラシステムが人々の治安を維持している近…",
+  "start": 1617112800000,
+  "end": 1617116100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "コロッセオの政争",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

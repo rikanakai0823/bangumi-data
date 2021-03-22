@@ -1,0 +1,25 @@
+{
+  "id": "idx1pal",
+  "category": "anime",
+  "title": "おそ松さん ,22",
+  "fullTitle": "[字]おそ松さん #21,22",
+  "detail": "#21「麻雀」「神松」#22「希望の星、トド松」「ファイナルシェー」\r\n日本中を沸かせた名作『おそ松くん』。それから時…",
+  "start": 1617084000000,
+  "end": 1617087600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "麻雀",
+  "episode": 21,
+  "flags": [
+    "字"
+  ]
+}

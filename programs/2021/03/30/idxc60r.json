@@ -1,0 +1,25 @@
+{
+  "id": "idxc60r",
+  "category": "music",
+  "title": "【生放送】スカパー！スプリングフェス2021～アイドル LIVE～",
+  "fullTitle": "[生]【生放送】スカパー！スプリングフェス2021～アイドル LIVE～",
+  "detail": "AKB、つばき、ノイミー、ラスアイ、たこ虹、わーすた！\r\nアイドルファン必見！大注目のアイドルグループたちが贈る、春のスタジオライブ3時間生放送！",
+  "start": 1617098400000,
+  "end": 1617109200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

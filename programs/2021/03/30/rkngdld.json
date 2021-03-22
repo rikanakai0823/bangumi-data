@@ -1,0 +1,23 @@
+{
+  "id": "rkngdld",
+  "category": "music",
+  "title": "MSM(ミュージッククリップ)",
+  "fullTitle": "MSM(ミュージッククリップ)",
+  "detail": "話題の最新ミュージッククリップや、放送作品の主題歌をお届けします。",
+  "start": 1617089400000,
+  "end": 1617091200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "東映チャンネル",
+    "id": "cv4q",
+    "sid": 218,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

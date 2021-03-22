@@ -1,0 +1,23 @@
+{
+  "id": "idrytlu",
+  "category": "information",
+  "title": "太陽と緑の健やかタイム",
+  "fullTitle": "太陽と緑の健やかタイム",
+  "detail": "テレビショッピング",
+  "start": 1617087360000,
+  "end": 1617089100000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

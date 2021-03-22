@@ -1,0 +1,25 @@
+{
+  "id": "iduwqq4",
+  "category": "drama",
+  "title": "ビッグ・リトル・ライズ",
+  "fullTitle": "[SS]ビッグ・リトル・ライズ　＃３",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ全話一挙放送】",
+  "start": 1617069600000,
+  "end": 1617073200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ全話一挙放送",
+  "episode": 3,
+  "flags": [
+    "SS"
+  ]
+}

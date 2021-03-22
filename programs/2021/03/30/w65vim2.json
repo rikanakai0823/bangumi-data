@@ -1,0 +1,25 @@
+{
+  "id": "w65vim2",
+  "category": "sports",
+  "title": "プロ野球 2021 DeNA×ヤクルト(3/30)",
+  "fullTitle": "[生]プロ野球 2021 DeNA×ヤクルト(3/30)",
+  "detail": "横浜DeNAベイスターズ主催の2021年シーズン公式戦全試合を、プレーボールからゲームセットまで完全生中継！※雨天中止の場合、別番組をお送りします",
+  "start": 1617094800000,
+  "end": 1617114600000,
+  "seconds": 19800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

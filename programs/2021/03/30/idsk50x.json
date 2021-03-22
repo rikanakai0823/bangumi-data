@@ -1,0 +1,23 @@
+{
+  "id": "idsk50x",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　ヤクルト」",
+  "detail": "横浜から生中継。夕方５時４５分試合開始。最大延長よる９時５４分。\r\n【解説】佐々木主浩、【実況】初田啓介",
+  "start": 1617093000000,
+  "end": 1617105240000,
+  "seconds": 12240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　ヤクルト",
+  "episode": null,
+  "flags": []
+}
