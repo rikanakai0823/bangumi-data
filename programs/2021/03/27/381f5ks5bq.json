@@ -2,7 +2,7 @@
   "id": "381f5ks5bq",
   "category": "information",
   "title": "きょうの料理",
-  "fullTitle": "きょうの料理[字]",
+  "fullTitle": "きょうの料理",
   "detail": "",
   "start": 1616780580000,
   "end": 1616781900000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
