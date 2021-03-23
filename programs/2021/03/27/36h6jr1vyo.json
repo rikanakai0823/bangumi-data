@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1vyo",
+  "category": "information",
+  "title": "みらいウォッチ２０２１",
+  "fullTitle": "みらいウォッチ２０２１[Ｓ][終]",
+  "detail": "",
+  "start": 1616835300000,
+  "end": 1616835600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}
