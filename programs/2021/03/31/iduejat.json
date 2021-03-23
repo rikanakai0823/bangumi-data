@@ -1,0 +1,25 @@
+{
+  "id": "iduejat",
+  "category": "theater",
+  "title": "ミュージカル（字幕版）",
+  "fullTitle": "ミュージカル「シー・ラヴズ・ミー」（字幕版）[SS]",
+  "detail": "トム・ハンクス＆メグ・ライアン主演で大ヒットした映画『ユー・ガット・メール』の原点ともなったトニー賞受賞ミュージカル「シー・ラヴズ・ミー」の劇場上映版。",
+  "start": 1617170400000,
+  "end": 1617178500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "シー・ラヴズ・ミー",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

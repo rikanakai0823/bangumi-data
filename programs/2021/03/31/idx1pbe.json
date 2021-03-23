@@ -1,0 +1,25 @@
+{
+  "id": "idx1pbe",
+  "category": "anime",
+  "title": "おそ松さん ,24 END",
+  "fullTitle": "[字]おそ松さん #23,24 END",
+  "detail": "#23「灯油」「ダヨーン族」\r\n#24「トト子大あわて」「手紙」\r\n時は流れ、町並みも、ライフスタイルも変わった今、あの6…",
+  "start": 1617170400000,
+  "end": 1617174000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "灯油",
+  "episode": 23,
+  "flags": [
+    "字"
+  ]
+}

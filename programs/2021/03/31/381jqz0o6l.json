@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0o6l",
+  "category": "hobby",
+  "title": "でこぼこポン！",
+  "fullTitle": "でこぼこポン！[字]",
+  "detail": "",
+  "start": 1617172200000,
+  "end": 1617172800000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp49f4",
+  "category": "information",
+  "title": "ＢＳコンシェルジュ",
+  "fullTitle": "ＢＳコンシェルジュ[字]",
+  "detail": "",
+  "start": 1617132900000,
+  "end": 1617134400000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

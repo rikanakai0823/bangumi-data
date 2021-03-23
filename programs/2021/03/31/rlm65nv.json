@@ -1,0 +1,23 @@
+{
+  "id": "rlm65nv",
+  "category": "hobby",
+  "title": "ブレイクタイム",
+  "fullTitle": "ブレイクタイム",
+  "detail": "次の放送開始までしばらくお待ちください。",
+  "start": 1617127200000,
+  "end": 1617129000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

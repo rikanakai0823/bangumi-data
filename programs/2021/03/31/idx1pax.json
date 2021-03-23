@@ -1,0 +1,25 @@
+{
+  "id": "idx1pax",
+  "category": "anime",
+  "title": "おそ松さん ,24",
+  "fullTitle": "[字]おそ松さん #23,24",
+  "detail": "#23「灯油」「ダヨーン族」\r\n#24「トト子大あわて」「手紙」\r\n日本中を沸かせた名作『おそ松くん』。それから時は流れ、…",
+  "start": 1617120000000,
+  "end": 1617123600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "灯油",
+  "episode": 23,
+  "flags": [
+    "字"
+  ]
+}

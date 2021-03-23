@@ -1,0 +1,25 @@
+{
+  "id": "3826py3m5r",
+  "category": "information",
+  "title": "パラパラＰａｒａｖｉ",
+  "fullTitle": "パラパラＰａｒａｖｉ[字]",
+  "detail": "テレビ東京・森香澄アナウンサーがパラパラを踊るだけの番組",
+  "start": 1617195240000,
+  "end": 1617195600000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

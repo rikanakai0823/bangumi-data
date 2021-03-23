@@ -1,0 +1,27 @@
+{
+  "id": "idugnld",
+  "category": "cinema",
+  "title": "謝罪の王様",
+  "fullTitle": "[映]謝罪の王様[SS][字]",
+  "detail": "土下座を武器にする“謝罪師”があらゆるテクニックでトラブルを丸く収める。宮藤官九郎が脚本を手掛け、阿部サダヲ、井上真央ら豪華キャストが共演した話題のコメディ。",
+  "start": 1617192000000,
+  "end": 1617200100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

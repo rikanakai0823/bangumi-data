@@ -1,0 +1,25 @@
+{
+  "id": "idx1pbn",
+  "category": "anime",
+  "title": "PSYCHO-PASS サイコパス ３",
+  "fullTitle": "[字]PSYCHO-PASS サイコパス ３ #5",
+  "detail": "Episode.5「アガメムノンの燔祭」\r\n魂を数値化する巨大監視ネットワーク・シビュラシステムが人々の治安を維持している…",
+  "start": 1617199200000,
+  "end": 1617202500000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "アガメムノンの燔祭",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

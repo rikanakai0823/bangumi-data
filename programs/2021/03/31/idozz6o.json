@@ -1,0 +1,26 @@
+{
+  "id": "idozz6o",
+  "category": "sports",
+  "title": "千鳥のスポーツ立志伝",
+  "fullTitle": "千鳥のスポーツ立志伝[解][字]",
+  "detail": "",
+  "start": 1617192000000,
+  "end": 1617195000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

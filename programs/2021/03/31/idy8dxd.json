@@ -1,0 +1,25 @@
+{
+  "id": "idy8dxd",
+  "category": "anime",
+  "title": "アウルハウス、6",
+  "fullTitle": "アウルハウス#5、6【2話連続】[二]",
+  "detail": "#5「魔法団の大会」,#6「フーティの動く家」",
+  "start": 1617177600000,
+  "end": 1617181200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "魔法団の大会",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}
