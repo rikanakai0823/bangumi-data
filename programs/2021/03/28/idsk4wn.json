@@ -1,9 +1,9 @@
 {
   "id": "idsk4wn",
-  "category": "etc",
+  "category": "variety",
   "title": "なのにカレー",
-  "fullTitle": "なのにカレー",
-  "detail": "",
+  "fullTitle": "なのにカレー＃１",
+  "detail": "〇〇なのに美味しい「なのにカレー」開店です！うなぎ店なのに、大行列の限定カレーに舌鼓！あなたの知らない「なのにカレー」！飯テロまちがいなしです！",
   "start": 1616940000000,
   "end": 1616940900000,
   "seconds": 900,
@@ -18,6 +18,6 @@
     "n": 50
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 1,
   "flags": []
 }
