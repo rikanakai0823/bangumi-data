@@ -2,7 +2,7 @@
   "id": "381f5ks75a",
   "category": "information",
   "title": "新・よるドラ第一弾！の世界",
-  "fullTitle": "新・よるドラ第一弾！「きれいのくに」の世界",
+  "fullTitle": "新・よるドラ第一弾！「きれいのくに」の世界[字]",
   "detail": "",
   "start": 1616951100000,
   "end": 1616951400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "きれいのくに",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
