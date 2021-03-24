@@ -2,7 +2,7 @@
   "id": "36h6jr1i51",
   "category": "sports",
   "title": "Ｔｈｉｓ　Ｗｅｅｋ　ｉｎ　ｔｈｅ　ＷＷＥ",
-  "fullTitle": "Ｔｈｉｓ　Ｗｅｅｋ　ｉｎ　ｔｈｅ　ＷＷＥ[Ｓ]",
+  "fullTitle": "Ｔｈｉｓ　Ｗｅｅｋ　ｉｎ　ｔｈｅ　ＷＷＥ[Ｓ][終]",
   "detail": "",
   "start": 1617120000000,
   "end": 1617121800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }
