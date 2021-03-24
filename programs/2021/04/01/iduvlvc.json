@@ -1,0 +1,26 @@
+{
+  "id": "iduvlvc",
+  "category": "cinema",
+  "title": "ジョジョ・ラビット",
+  "fullTitle": "[映][SS]ジョジョ・ラビット",
+  "detail": "第二次世界大戦下のドイツで空想上の友人“ヒトラー”の助けを借り、立派な兵士になることを夢見る少年の奮闘を描いた感動作。",
+  "start": 1617253200000,
+  "end": 1617260100000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduzvvs",
+  "category": "cinema",
+  "title": "ゾンビランド：ダブルタップ",
+  "fullTitle": "[映][SS]ゾンビランド：ダブルタップ[吹]",
+  "detail": "主要キャストが続投したホラーコメディの続編。人類がゾンビ化して１０年、生き残るための新たなサバイバルを描く。［Ｒ１５＋］",
+  "start": 1617238800000,
+  "end": 1617246000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduceth",
+  "category": "cinema",
+  "title": "イーオン・フラックス（吹替版）",
+  "fullTitle": "[映]イーオン・フラックス（吹替版）[字]",
+  "detail": "清潔だが独裁者に支配された２５世紀の未来。革命組織の女性戦士イーオンは、厳重に守られた君主の暗殺を命じられるが……。オスカー女優Ｃ・セロン主演のＳＦアクション。",
+  "start": 1617264600000,
+  "end": 1617270600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

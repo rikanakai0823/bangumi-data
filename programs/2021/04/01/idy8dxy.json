@@ -1,0 +1,25 @@
+{
+  "id": "idy8dxy",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#13[二]",
+  "detail": "#13「数学キャンプ」",
+  "start": 1617217200000,
+  "end": 1617219000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "数学キャンプ",
+  "episode": 13,
+  "flags": [
+    "二"
+  ]
+}

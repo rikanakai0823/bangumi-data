@@ -1,0 +1,26 @@
+{
+  "id": "iduvm1q",
+  "category": "cinema",
+  "title": "デッドウッド　～決戦のワイルドタウン～",
+  "fullTitle": "[映][SS]デッドウッド　～決戦のワイルドタウン～",
+  "detail": "ＨＢＯ（Ｒ）が、実在の町“デッドウッド”を舞台にガンマンや無法者、娼婦たちが織り成す人間模様を描いた西部劇。",
+  "start": 1617262200000,
+  "end": 1617269400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
