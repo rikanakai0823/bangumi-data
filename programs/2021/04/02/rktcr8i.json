@@ -1,0 +1,25 @@
+{
+  "id": "rktcr8i",
+  "category": "variety",
+  "title": "スタジオＫ",
+  "fullTitle": "スタジオＫ　[字]",
+  "detail": "日本初放送！KBSバラエティ番組のデジタル専門スタジオ「スタジオK」で配信された最新バラエティをオンエア！2020年",
+  "start": 1617356700000,
+  "end": 1617358200000,
+  "seconds": 1500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "スタジオK",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

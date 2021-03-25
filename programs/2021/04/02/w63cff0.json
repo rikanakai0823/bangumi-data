@@ -1,0 +1,23 @@
+{
+  "id": "w63cff0",
+  "category": "sports",
+  "title": "[プロ野球]阪神×中日（京セラドーム大阪）",
+  "fullTitle": "[プロ野球]阪神×中日（京セラドーム大阪）",
+  "detail": "GAORAプロ野球中継\r\n「阪神 vs 中日」\r\n解説:湯舟敏郎\r\n実況:中井雅之\r\nリポーター:桐山隆\r\n開催：2021年4月2日／京セラドーム大阪",
+  "start": 1617368400000,
+  "end": 1617382200000,
+  "seconds": 13800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

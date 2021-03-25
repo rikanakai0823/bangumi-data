@@ -1,0 +1,25 @@
+{
+  "id": "idp4agk",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺[字]",
+  "detail": "",
+  "start": 1617359400000,
+  "end": 1617361200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

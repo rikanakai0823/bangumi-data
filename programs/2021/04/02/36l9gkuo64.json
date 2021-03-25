@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkuo64",
+  "category": "news",
+  "title": "ｎｅｗｓチバ",
+  "fullTitle": "ｎｅｗｓチバ",
+  "detail": "今、私たちが暮らすチバにこだわり、その日の出来事をわかりやすくお届けする報道番組。",
+  "start": 1617344700000,
+  "end": 1617345000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

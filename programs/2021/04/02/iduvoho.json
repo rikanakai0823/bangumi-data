@@ -1,0 +1,26 @@
+{
+  "id": "iduvoho",
+  "category": "cinema",
+  "title": "サバービコン　仮面を被った街",
+  "fullTitle": "[映][SS]サバービコン　仮面を被った街",
+  "detail": "マット・デイモン主演のサスペンス。１９５０年代、平和なニュータウンで起きた事件を巡って人々の恐るべき本性が暴かれる。",
+  "start": 1617314400000,
+  "end": 1617321600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

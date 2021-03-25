@@ -1,0 +1,25 @@
+{
+  "id": "w63iz0d",
+  "category": "sports",
+  "title": "GIANTSプレゲームショー",
+  "fullTitle": "[生]GIANTSプレゲームショー",
+  "detail": "～生放送　～東京ドーム　\r\nMC：阿出川浩之　　アシスタント：佐藤由季\r\n▽GIANTSプレゲームショー 東京ドームの試合前を盛り上げる生中継！",
+  "start": 1617350400000,
+  "end": 1617352200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

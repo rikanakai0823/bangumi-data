@@ -1,0 +1,25 @@
+{
+  "id": "w633s65",
+  "category": "sports",
+  "title": "プロ野球 阪神×中日 4.2",
+  "fullTitle": "[生]プロ野球 阪神×中日 4.2",
+  "detail": "阪神×中日(4/2試合)\r\n▽生中継/京セラドーム/PB18:00\r\n※時間延長の場合あり",
+  "start": 1617353100000,
+  "end": 1617370200000,
+  "seconds": 17100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 95
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

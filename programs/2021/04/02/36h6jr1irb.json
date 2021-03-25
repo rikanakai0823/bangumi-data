@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1irb",
+  "category": "information",
+  "title": "ちば朝ライブ　モーニングこんぱす",
+  "fullTitle": "ちば朝ライブ　モーニングこんぱす[Ｓ]",
+  "detail": "",
+  "start": 1617316200000,
+  "end": 1617318000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

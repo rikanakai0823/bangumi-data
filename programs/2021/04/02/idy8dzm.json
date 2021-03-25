@@ -1,0 +1,26 @@
+{
+  "id": "idy8dzm",
+  "category": "cinema",
+  "title": "オープン・シーズン4 おおかみ男とひみつの森",
+  "fullTitle": "[初]オープン・シーズン4 おおかみ男とひみつの森[二]",
+  "detail": "オープン・シーズン4　おおかみ男とひみつの森",
+  "start": 1617361200000,
+  "end": 1617366600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w66lc5m",
+  "category": "information",
+  "title": "番組ＰＲ",
+  "fullTitle": "番組ＰＲ【４月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1617310200000,
+  "end": 1617310800000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 113
+  },
+  "subTitle": "４月",
+  "episode": null,
+  "flags": []
+}
