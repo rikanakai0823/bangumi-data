@@ -1,0 +1,26 @@
+{
+  "id": "idozedb",
+  "category": "sports",
+  "title": "プロ野球２０２１「ヤクルト」対",
+  "fullTitle": "プロ野球２０２１「ヤクルト」対「阪神」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　２：００）　【解説】宮本慎也，藤川球児，【アナウンサー】高木修平　～神宮球場から中継～",
+  "start": 1616821200000,
+  "end": 1616833800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "阪神",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

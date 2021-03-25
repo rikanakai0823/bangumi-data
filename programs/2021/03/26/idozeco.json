@@ -1,0 +1,26 @@
+{
+  "id": "idozeco",
+  "category": "sports",
+  "title": "プロ野球　監督座談会",
+  "fullTitle": "プロ野球　監督座談会[字][再]",
+  "detail": "監督が、監督室に常備しているものとは何でしょうか？のっけから、野球と関係ない話で盛り上がった座談会。期待の選手や今年の戦い方について、熱く語ってくれました。",
+  "start": 1616747100000,
+  "end": 1616750100000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
