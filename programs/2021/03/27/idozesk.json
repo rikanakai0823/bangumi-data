@@ -1,0 +1,25 @@
+{
+  "id": "idozesk",
+  "category": "sports",
+  "title": "２０２１ＡＴＰテニス　マスターズ１０００　マイアミオープン",
+  "fullTitle": "２０２１ＡＴＰテニス　マスターズ１０００　マイアミオープン[多]",
+  "detail": "男子シングルス・２回戦　※副音声は場内音声「グリゴール　ディミトロフ」（ブルガリア）対「キャメロン　ノリー」（イギリス）　【解説】坂井利彰ほか",
+  "start": 1616781300000,
+  "end": 1616785200000,
+  "seconds": 3900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}
