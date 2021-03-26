@@ -1,0 +1,23 @@
+{
+  "id": "idt5hfw",
+  "category": "variety",
+  "title": "【ＢＳ５局番組】バナナマンのササルＴＶ",
+  "fullTitle": "【ＢＳ５局番組】バナナマンの「ＢＳは」ササルＴＶ",
+  "detail": "バナナマンとＢＳ５局リレー形式の放送！\r\nこの時間は「報道」。田原総一朗ほか各局を代表する報道番組キャスターが徹底討論！",
+  "start": 1617451200000,
+  "end": 1617458400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "ＢＳは",
+  "episode": null,
+  "flags": []
+}

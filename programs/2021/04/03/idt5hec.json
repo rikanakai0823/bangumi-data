@@ -1,0 +1,25 @@
+{
+  "id": "idt5hec",
+  "category": "information",
+  "title": "ファッション通信",
+  "fullTitle": "ファッション通信【‘21秋冬ニューヨーク・ミラノ・パリ・ベスト10】[字]",
+  "detail": "ニューヨーク、ミラノ、パリの最新秋冬コレクションから、べスト１０をセレクト！新コーナー「まなび」もスタートして気分一新！",
+  "start": 1617459060000,
+  "end": 1617460860000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "‘21秋冬ニューヨーク・ミラノ・パリ・ベスト10",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

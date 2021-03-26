@@ -1,0 +1,23 @@
+{
+  "id": "idp1k4w",
+  "category": "sports",
+  "title": "カーリング男子世界選手権　予選リーグ",
+  "fullTitle": "カーリング男子世界選手権　予選リーグ",
+  "detail": "",
+  "start": 1617421800000,
+  "end": 1617422400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

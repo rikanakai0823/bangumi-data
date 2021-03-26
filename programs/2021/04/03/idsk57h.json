@@ -1,0 +1,25 @@
+{
+  "id": "idsk57h",
+  "category": "etc",
+  "title": "ましろのおと",
+  "fullTitle": "[新]ましろのおと",
+  "detail": "",
+  "start": 1617386400000,
+  "end": 1617388200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

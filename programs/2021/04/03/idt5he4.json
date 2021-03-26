@@ -1,0 +1,23 @@
+{
+  "id": "idt5he4",
+  "category": "sports",
+  "title": "ウイニング競馬　～中山～",
+  "fullTitle": "ウイニング競馬　～中山～",
+  "detail": "【中山】10Ｒ安房特別、11Ｒダービー卿チャレンジトロフィー（ＧⅢ）\r\n【阪神】10Ｒ仲春特別\r\n　　　　11Ｒコーラルステークス（Ｌ）",
+  "start": 1617427800000,
+  "end": 1617433200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "中山",
+  "episode": null,
+  "flags": []
+}

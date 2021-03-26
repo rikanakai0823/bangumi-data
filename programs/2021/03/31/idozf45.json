@@ -1,0 +1,23 @@
+{
+  "id": "idozf45",
+  "category": "information",
+  "title": "未来へ１７ＡＣＴＩＯＮ☆ＴＶ",
+  "fullTitle": "未来へ１７ＡＣＴＩＯＮ☆ＴＶ",
+  "detail": "",
+  "start": 1617124800000,
+  "end": 1617125400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

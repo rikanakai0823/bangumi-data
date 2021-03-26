@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1ipn",
+  "category": "sports",
+  "title": "浦和レッズスーパーマッチ・浦和レッズ×鹿島アントラーズ",
+  "fullTitle": "浦和レッズスーパーマッチ・浦和レッズ×鹿島アントラーズ[Ｓ]",
+  "detail": "",
+  "start": 1617429600000,
+  "end": 1617436800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

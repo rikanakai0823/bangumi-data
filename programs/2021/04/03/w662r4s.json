@@ -1,0 +1,23 @@
+{
+  "id": "w662r4s",
+  "category": "cinema",
+  "title": "日本アカデミー賞授賞式 完全版",
+  "fullTitle": "第44回日本アカデミー賞授賞式 完全版",
+  "detail": "日テレプラスでは、各賞の受賞シーンをはじめ、受賞者の感動的なスピーチなど、地上波では放送されなかった映像を交えた「完全版」を放送!",
+  "start": 1617451200000,
+  "end": 1617463800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "完全版",
+  "episode": 44,
+  "flags": []
+}

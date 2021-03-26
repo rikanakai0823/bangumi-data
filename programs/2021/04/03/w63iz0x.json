@@ -1,0 +1,25 @@
+{
+  "id": "w63iz0x",
+  "category": "sports",
+  "title": "2021MotoGP 第2戦ドーハGP予選",
+  "fullTitle": "[生]2021MotoGP 第2戦ドーハGP予選",
+  "detail": "～生中継\r\n解説：宮城光　上田昇　坂田和人\r\n実況：寺島淳司　藤田大介　町田浩徳",
+  "start": 1617460200000,
+  "end": 1617475500000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
