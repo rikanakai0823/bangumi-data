@@ -1,0 +1,25 @@
+{
+  "id": "idozf12",
+  "category": "sports",
+  "title": "ＭＬＢ２０２１　シーズン開幕戦",
+  "fullTitle": "ＭＬＢ２０２１　シーズン開幕戦[二]",
+  "detail": "",
+  "start": 1617307200000,
+  "end": 1617317340000,
+  "seconds": 10140,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

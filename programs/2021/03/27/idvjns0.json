@@ -2,7 +2,7 @@
   "id": "idvjns0",
   "category": "variety",
   "title": "オリオンツアーpresentsガレッジセールのオリタラドコ旅",
-  "fullTitle": "オリオンツアーpresentsガレッジセールのオリタラドコ旅",
+  "fullTitle": "オリオンツアーpresentsガレッジセールのオリタラドコ旅[終]",
   "detail": "「百里基地の旅　前編」\r\n▼航空自衛隊　百里基地へ!!消防小隊を見学。\r\n▼百里基地名物を青空の下で食す！",
   "start": 1616837400000,
   "end": 1616838300000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "百里基地の旅　前編",
   "episode": null,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }
