@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1iex",
+  "category": "etc",
+  "title": "１５分テレショップ",
+  "fullTitle": "１５分テレショップ",
+  "detail": "",
+  "start": 1617499800000,
+  "end": 1617500700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

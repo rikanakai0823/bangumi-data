@@ -1,0 +1,25 @@
+{
+  "id": "rlm3wew",
+  "category": "sports",
+  "title": "＋（ぷらす）",
+  "fullTitle": "[無]＋（ぷらす）#6 井上直樹＋高田延彦＋ケンドーコバヤシ",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nRIZIN連勝中の若手注目株・井上直樹に迫り、目指すバンダム級のライバルからプライベートまでたっぷり語り尽くす！",
+  "start": 1617492600000,
+  "end": 1617494400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "井上直樹＋高田延彦＋ケンドーコバヤシ",
+  "episode": 6,
+  "flags": [
+    "無"
+  ]
+}

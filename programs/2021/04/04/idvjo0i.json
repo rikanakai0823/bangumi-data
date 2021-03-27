@@ -1,0 +1,25 @@
+{
+  "id": "idvjo0i",
+  "category": "anime",
+  "title": "ホリミヤpage.13",
+  "fullTitle": "ホリミヤ[終]page.13",
+  "detail": "",
+  "start": 1617463800000,
+  "end": 1617465420000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

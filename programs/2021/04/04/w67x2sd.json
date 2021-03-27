@@ -1,0 +1,26 @@
+{
+  "id": "w67x2sd",
+  "category": "anime",
+  "title": "大人のトムとジェリー",
+  "fullTitle": "[無]大人のトムとジェリー(二)",
+  "detail": "懐かしい「トムとジェリー」「バッグス・バニー ショー」「ドルーピーと仲間たち」を平日の夜に1時間お届け！！",
+  "start": 1617541200000,
+  "end": 1617544800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "カートゥーン",
+    "id": "f0dn",
+    "sid": 331,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

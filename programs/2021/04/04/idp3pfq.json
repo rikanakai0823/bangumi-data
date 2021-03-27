@@ -1,0 +1,23 @@
+{
+  "id": "idp3pfq",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「花開く桃源郷　甲府盆地」",
+  "detail": "",
+  "start": 1617474600000,
+  "end": 1617476400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "花開く桃源郷　甲府盆地",
+  "episode": null,
+  "flags": []
+}

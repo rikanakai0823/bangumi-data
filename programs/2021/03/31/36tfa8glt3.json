@@ -1,12 +1,16 @@
 {
   "id": "36tfa8glt3",
   "category": "anime",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
-  "detail": " ",
+  "title": "ＴＶアニメお披露目の間　．５",
+  "fullTitle": "ＴＶアニメ「シャドーハウス」お披露目の間　＃１．５[再]",
+  "detail": "◇出演者\n【出演】\r\n鬼頭明里、篠原侑、酒井広大、佐倉綾音、川島零士、下地紫野\r\n【MC】\r\n岩井勇気（ハライチ）",
   "start": 1617199200000,
   "end": 1617201000000,
   "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "出演者": "【出演】\r\n鬼頭明里、篠原侑、酒井広大、佐倉綾音、川島零士、下地紫野\r\n【MC】\r\n岩井勇気（ハライチ）"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,9 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
-  "episode": null,
-  "flags": []
+  "subTitle": "シャドーハウス",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
 }

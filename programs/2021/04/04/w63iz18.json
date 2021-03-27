@@ -1,0 +1,26 @@
+{
+  "id": "w63iz18",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～東京ドーム～",
+  "fullTitle": "[無料][生]DRAMATIC BASEBALL2021「巨人×ヤクルト」～東京ドーム～",
+  "detail": "～生中継　*試合終了まで放送\r\n▽巨人主催公式戦\r\n　全試合完全生中継！",
+  "start": 1617511500000,
+  "end": 1617526800000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "巨人×ヤクルト",
+  "episode": null,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

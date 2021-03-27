@@ -1,0 +1,25 @@
+{
+  "id": "rkv8wxw",
+  "category": "news",
+  "title": "Evening　News",
+  "fullTitle": "[無料]Evening　News",
+  "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Evening News」",
+  "start": 1617526800000,
+  "end": 1617537600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 135
+  },
+  "subTitle": "日テレNEWS24・Evening News",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

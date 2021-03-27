@@ -1,0 +1,25 @@
+{
+  "id": "rksa4vo",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2021 SAKURA GENESIS 2021",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2021 SAKURA GENESIS 2021",
+  "detail": "新日本プロレス新時代の幕開け！新設のＩＷＧＰ世界ヘビー級王座初のタイトルマッチ！初代王者・飯伏幸太ｖｓNEW JAPAN CUP覇者ウィル・オスプレイ！\r\n※延長の場合あり",
+  "start": 1617523200000,
+  "end": 1617534000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

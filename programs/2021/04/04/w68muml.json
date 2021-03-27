@@ -1,0 +1,26 @@
+{
+  "id": "w68muml",
+  "category": "documentary",
+  "title": "コンティネント７：南極大陸",
+  "fullTitle": "[無]コンティネント７：南極大陸「最後のサンプル採取」[字]",
+  "detail": "●ナショジオオープンキャンパス～明日の地球を守るプロジェクト～●砕氷船ポーラー・スターが船回し場を作る作業の途中で動けなくなってしまう。",
+  "start": 1617501600000,
+  "end": 1617505200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ナショジオ",
+    "id": "f0dz",
+    "sid": 343,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 134
+  },
+  "subTitle": "最後のサンプル採取",
+  "episode": null,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

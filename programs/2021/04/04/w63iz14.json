@@ -1,0 +1,26 @@
+{
+  "id": "w63iz14",
+  "category": "sports",
+  "title": "日本テレビ ゴルフメジャー",
+  "fullTitle": "[無料]日本テレビ ゴルフメジャー[再]",
+  "detail": "",
+  "start": 1617499800000,
+  "end": 1617503400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "再"
+  ]
+}

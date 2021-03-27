@@ -1,0 +1,27 @@
+{
+  "id": "iducevs",
+  "category": "cinema",
+  "title": "ＬＵＣＹ／ルーシー（吹替版）[PG12指定]",
+  "fullTitle": "[映]ＬＵＣＹ／ルーシー（吹替版）[PG12指定][SS][字]",
+  "detail": "Ｓ・ヨハンソン主演のＳＦアクション。女性の脳の働きが新種のドラッグの過剰摂取で活性化していく。脳の働きが１００％に達したとき、彼女が見せる人間の究極の姿とは？",
+  "start": 1617546600000,
+  "end": 1617552300000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

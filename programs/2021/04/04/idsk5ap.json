@@ -1,0 +1,25 @@
+{
+  "id": "idsk5ap",
+  "category": "etc",
+  "title": "噂の！東京マガジン",
+  "fullTitle": "[新]噂の！東京マガジン",
+  "detail": "",
+  "start": 1617508800000,
+  "end": 1617512040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w66wtel",
+  "category": "information",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "インフォメーション",
+  "start": 1617525000000,
+  "end": 1617525900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "女性ｃｈ／ＬａＬａ",
+    "id": "f0d6",
+    "sid": 314,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 117
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

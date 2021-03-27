@@ -1,0 +1,25 @@
+{
+  "id": "idp4bvn",
+  "category": "music",
+  "title": "Ｔｈｅ　Ｃｏｖｅｒｓ",
+  "fullTitle": "Ｔｈｅ　Ｃｏｖｅｒｓ[字]",
+  "detail": "",
+  "start": 1617544200000,
+  "end": 1617546000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

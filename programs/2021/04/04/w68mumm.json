@@ -1,0 +1,26 @@
+{
+  "id": "w68mumm",
+  "category": "documentary",
+  "title": "コンティネント７：南極大陸",
+  "fullTitle": "[無]コンティネント７：南極大陸「限界への挑戦」[字]",
+  "detail": "●ナショジオオープンキャンパス～明日の地球を守るプロジェクト～●南極の過酷な環境で調査を続けてきた研究者たち。厳しい冬がくる前に南極を離れなければならない。",
+  "start": 1617505200000,
+  "end": 1617508800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ナショジオ",
+    "id": "f0dz",
+    "sid": 343,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 134
+  },
+  "subTitle": "限界への挑戦",
+  "episode": null,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

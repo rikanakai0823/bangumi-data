@@ -1,0 +1,25 @@
+{
+  "id": "rlm3wey",
+  "category": "sports",
+  "title": "プロレスのススメ",
+  "fullTitle": "[無]プロレスのススメ #40",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1617485400000,
+  "end": 1617487200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 40,
+  "flags": [
+    "無"
+  ]
+}

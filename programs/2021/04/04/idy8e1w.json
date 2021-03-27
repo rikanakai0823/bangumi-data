@@ -1,0 +1,26 @@
+{
+  "id": "idy8e1w",
+  "category": "cinema",
+  "title": "わんわん物語",
+  "fullTitle": "[無]わんわん物語[二]",
+  "detail": "愛情に包まれて育ったレディと、野良犬トランプ。異なる世界に暮らす２匹は互いに惹かれ合う。ある晩、ご主人の留守中にレディの家で大変な事件が起きて・・・。１９５５年",
+  "start": 1617530400000,
+  "end": 1617535800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idy8e1f",
+  "category": "anime",
+  "title": "アウルハウス",
+  "fullTitle": "[無]アウルハウス#4[二]",
+  "detail": "#4「侵入者は誰だ」",
+  "start": 1617499800000,
+  "end": 1617501600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "侵入者は誰だ",
+  "episode": 4,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

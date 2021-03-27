@@ -1,0 +1,23 @@
+{
+  "id": "w67caf3",
+  "category": "music",
+  "title": "Hello! Project PV特集",
+  "fullTitle": "Hello! Project PV特集",
+  "detail": "Hello! Projectアーティストの魅力が詰まったミュージックビデオをお届け！",
+  "start": 1617462000000,
+  "end": 1617463800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "スペシャプラス",
+    "id": "f0dd",
+    "sid": 321,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

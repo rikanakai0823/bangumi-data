@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7vsv",
+  "category": "variety",
+  "title": "サンバリュ",
+  "fullTitle": "サンバリュ「好きすぎて嫌いベスト１０」[字]",
+  "detail": "",
+  "start": 1617507900000,
+  "end": 1617511500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "好きすぎて嫌いベスト１０",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idvjo18",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【阪神】12Ｒ「鳴門ステークス」\r\n【中山】12Ｒ\r\n▼2021クラシック直前　勢力図最終チェック",
+  "start": 1617519600000,
+  "end": 1617525000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

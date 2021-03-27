@@ -1,0 +1,23 @@
+{
+  "id": "idsk5ar",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　広島」",
+  "detail": "横浜から生中継。午後２時試合開始。\r\n【解説】佐伯貴弘【実況】熊崎風斗",
+  "start": 1617512400000,
+  "end": 1617522840000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　広島",
+  "episode": null,
+  "flags": []
+}

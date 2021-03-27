@@ -1,0 +1,26 @@
+{
+  "id": "idy8e1s",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "[無]ミッキーマウス！#4[二]",
+  "detail": "#4「ホットドッグ」",
+  "start": 1617524700000,
+  "end": 1617525000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ホットドッグ",
+  "episode": 4,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

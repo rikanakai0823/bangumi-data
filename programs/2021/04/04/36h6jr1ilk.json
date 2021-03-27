@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr1ilk",
+  "category": "drama",
+  "title": "幼獣マメシバ",
+  "fullTitle": "幼獣マメシバ[Ｓ][再][新]",
+  "detail": "",
+  "start": 1617544800000,
+  "end": 1617546600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再",
+    "新"
+  ]
+}

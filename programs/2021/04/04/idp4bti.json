@@ -1,0 +1,25 @@
+{
+  "id": "idp4bti",
+  "category": "music",
+  "title": "シンフォニック特撮ヒーローズ",
+  "fullTitle": "シンフォニック特撮ヒーローズ[再]",
+  "detail": "ゴジラからアベンジャーズまで、日米の特撮ヒーローの音楽をオーケストラの演奏でお贈りする！「ジョーカー」から「ザッツ・ライフ」を水木一郎が熱唱！▽橋本マナミ他",
+  "start": 1617469200000,
+  "end": 1617474600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
