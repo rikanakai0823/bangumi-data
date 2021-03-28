@@ -1,0 +1,25 @@
+{
+  "id": "idy8e2a",
+  "category": "drama",
+  "title": "ファスト・レイン",
+  "fullTitle": "ファスト・レイン#1[二]",
+  "detail": "#1「小屋から聞こえる声」",
+  "start": 1617562800000,
+  "end": 1617564600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "小屋から聞こえる声",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

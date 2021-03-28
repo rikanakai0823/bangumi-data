@@ -1,0 +1,26 @@
+{
+  "id": "idv09jk",
+  "category": "cinema",
+  "title": "ＬＵＣＹ／ルーシー",
+  "fullTitle": "[映][SS]ＬＵＣＹ／ルーシー[吹]",
+  "detail": "リュック・ベッソン監督、Ｓ・ヨハンソン主演。薬物により脳が覚醒した女性が、超人的能力に目覚める［ＰＧ１２］",
+  "start": 1617632400000,
+  "end": 1617638400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

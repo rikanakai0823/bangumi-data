@@ -1,0 +1,25 @@
+{
+  "id": "iduvz7g",
+  "category": "drama",
+  "title": "チェルノブイリ",
+  "fullTitle": "[SS]チェルノブイリ　＃４",
+  "detail": "【ＳＴＡＲ　ＤＲＡＭＡ　１１】",
+  "start": 1617631200000,
+  "end": 1617635700000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＳＴＡＲ　ＤＲＡＭＡ　１１",
+  "episode": 4,
+  "flags": [
+    "SS"
+  ]
+}

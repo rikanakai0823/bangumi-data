@@ -1,0 +1,27 @@
+{
+  "id": "iducewd",
+  "category": "cinema",
+  "title": "水曜日が消えた",
+  "fullTitle": "[映]水曜日が消えた[SS][字]",
+  "detail": "中村倫也主演のミステリー。幼いころの交通事故で、曜日ごとに７つの人格が入れ替わるようになった青年。ある日、彼の中で“水曜日”が消えたことから事態が変わっていく。",
+  "start": 1617613800000,
+  "end": 1617620400000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

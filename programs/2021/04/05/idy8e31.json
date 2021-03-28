@@ -1,0 +1,25 @@
+{
+  "id": "idy8e31",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#1[二]",
+  "detail": "#1「クロワッサン」",
+  "start": 1617607500000,
+  "end": 1617607800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "クロワッサン",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "381jqz0095",
+  "category": "etc",
+  "title": "（公共メディア通信）",
+  "fullTitle": "（公共メディア通信）",
+  "detail": "",
+  "start": 1617569100000,
+  "end": 1617569400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

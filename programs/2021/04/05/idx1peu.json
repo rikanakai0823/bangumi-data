@@ -1,0 +1,25 @@
+{
+  "id": "idx1peu",
+  "category": "anime",
+  "title": "ぼのぼの 傑作選",
+  "fullTitle": "[字]ぼのぼの 傑作選",
+  "detail": "#109「フェネギーくんのイヤなこと」\r\n#110「言葉がひらめいた」\r\n#111「ボクは怒ってる」\r\n#112「くっついてはなれない…",
+  "start": 1617571800000,
+  "end": 1617573600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "フェネギーくんのイヤなこと",
+  "episode": 109,
+  "flags": [
+    "字"
+  ]
+}

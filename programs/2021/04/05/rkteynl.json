@@ -1,0 +1,23 @@
+{
+  "id": "rkteynl",
+  "category": "etc",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "",
+  "start": 1617584280000,
+  "end": 1617584400000,
+  "seconds": 120,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

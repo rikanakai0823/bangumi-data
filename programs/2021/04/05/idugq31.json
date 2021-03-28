@@ -1,0 +1,27 @@
+{
+  "id": "idugq31",
+  "category": "cinema",
+  "title": "ＦＬＯＷＥＲＳ　フラワーズ",
+  "fullTitle": "[映]ＦＬＯＷＥＲＳ　フラワーズ[SS][字]",
+  "detail": "“日本の女性は、美しい。”蒼井優など豪華な顔触れの６大女優陣が夢の共演を実現。懐かしい昭和～平成の時代を背景に、３世代にわたる女性たちの大河物語を綴った話題作。",
+  "start": 1617573600000,
+  "end": 1617580800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
