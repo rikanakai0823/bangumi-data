@@ -1,0 +1,23 @@
+{
+  "id": "w67t526",
+  "category": "music",
+  "title": "NHK歌謡コンサート",
+  "fullTitle": "NHK歌謡コンサート #1",
+  "detail": "＜熱唱！春の名人戦＞\r\n魅力的なテーマに基づいて日本の美しい風景、伝統、そして日本人の心が育んだ名曲をダイナミックな構成でお送りします。",
+  "start": 1617670800000,
+  "end": 1617674400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

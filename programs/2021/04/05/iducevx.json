@@ -3,10 +3,15 @@
   "category": "theater",
   "title": "ｔｋｍｋキッチン　陳内将",
   "fullTitle": "ｔｋｍｋキッチン　陳内将",
-  "detail": "",
+  "detail": "◇番組名\nｔｋｍｋキッチン　陳内将\n◇出演／関連情報\n（日本）\r\n【出演】陳内将",
   "start": 1617565500000,
   "end": 1617567300000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組名": "ｔｋｍｋキッチン　陳内将",
+    "出演／関連情報": "（日本）\r\n【出演】陳内将"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS03_0",

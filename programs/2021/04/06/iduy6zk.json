@@ -1,0 +1,25 @@
+{
+  "id": "iduy6zk",
+  "category": "cinema",
+  "title": "ドラゴン怒りの鉄拳",
+  "fullTitle": "[映]ドラゴン怒りの鉄拳",
+  "detail": "ブルース・リー主演のカンフーアクション。２０世紀初頭の上海を舞台に、武術家の青年が暗殺された師匠の敵討ちに挑む。",
+  "start": 1617692400000,
+  "end": 1617699600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

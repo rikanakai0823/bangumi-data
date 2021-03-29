@@ -1,0 +1,23 @@
+{
+  "id": "3826py3mdm",
+  "category": "music",
+  "title": "ミュージックブレイク",
+  "fullTitle": "ミュージックブレイク",
+  "detail": "演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。",
+  "start": 1617648900000,
+  "end": 1617649200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

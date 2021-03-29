@@ -1,0 +1,25 @@
+{
+  "id": "381jqz00nt",
+  "category": "welfare",
+  "title": "楽ラクワンポイント介護",
+  "fullTitle": "楽ラクワンポイント介護[字]",
+  "detail": "",
+  "start": 1617690300000,
+  "end": 1617690600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
