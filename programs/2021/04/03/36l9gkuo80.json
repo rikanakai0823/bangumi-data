@@ -1,9 +1,9 @@
 {
   "id": "36l9gkuo80",
   "category": "music",
-  "title": "宝塚カフェブレイク",
-  "fullTitle": "宝塚カフェブレイク　＃９８８",
-  "detail": " ",
+  "title": "宝塚カフェブレイク　雪組　彩風　咲奈",
+  "fullTitle": "宝塚カフェブレイク　【ゲスト】雪組　彩風　咲奈",
+  "detail": "【ゲスト】雪組　彩風　咲奈",
   "start": 1617402600000,
   "end": 1617404400000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
-  "episode": 988,
+  "subTitle": "ゲスト",
+  "episode": null,
   "flags": []
 }

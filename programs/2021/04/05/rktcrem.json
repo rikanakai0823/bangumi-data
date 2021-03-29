@@ -1,0 +1,26 @@
+{
+  "id": "rktcrem",
+  "category": "drama",
+  "title": "ボイス～112の奇跡～",
+  "fullTitle": "[無]ボイス～112の奇跡～　#6　[字]",
+  "detail": "KBS World初放送！チャン・ヒョク主演！犯罪現場のゴールデンタイムを守る112通報センターの隊員たちの熾烈な記録を描く捜査ドラマ！2017年　全16話＋特別編全2話",
+  "start": 1617550200000,
+  "end": 1617554400000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 6,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

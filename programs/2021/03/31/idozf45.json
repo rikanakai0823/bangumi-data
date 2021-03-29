@@ -2,7 +2,7 @@
   "id": "idozf45",
   "category": "information",
   "title": "未来へ１７ＡＣＴＩＯＮ☆ＴＶ",
-  "fullTitle": "未来へ１７ＡＣＴＩＯＮ☆ＴＶ",
+  "fullTitle": "未来へ１７ＡＣＴＩＯＮ☆ＴＶ[字]",
   "detail": "",
   "start": 1617124800000,
   "end": 1617125400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
