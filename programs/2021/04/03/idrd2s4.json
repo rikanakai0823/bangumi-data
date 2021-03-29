@@ -2,8 +2,8 @@
   "id": "idrd2s4",
   "category": "news",
   "title": "皇室日記",
-  "fullTitle": "皇室日記",
-  "detail": "皇室のみなさまの最新の動静・皇室の歴史や文化などの特集をお伝えします。",
+  "fullTitle": "皇室日記　＃６",
+  "detail": "東日本大震災から１０年、両陛下・上皇ご夫妻と被災地の絆をお伝えします。",
   "start": 1617411600000,
   "end": 1617412500000,
   "seconds": 900,
@@ -18,6 +18,6 @@
     "n": 44
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 6,
   "flags": []
 }

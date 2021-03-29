@@ -1,0 +1,26 @@
+{
+  "id": "idozgbw",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「カノン～家族のしらべ～」[字][再]",
+  "detail": "特別養子縁組で結ばれた親子。思春期を迎えた娘と不器用な父はすれ違い、ぶつかり合うようになる。揺らぐ親子の絆を３人はつむぎ直せるか？“家族”の意味を見つめる。",
+  "start": 1617427200000,
+  "end": 1617432600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "カノン～家族のしらべ～",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
