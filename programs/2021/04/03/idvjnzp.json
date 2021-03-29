@@ -2,7 +2,7 @@
   "id": "idvjnzp",
   "category": "information",
   "title": "ショップチャンネル お買い物エンターテインメント",
-  "fullTitle": "ショップチャンネル お買い物エンターテインメント",
+  "fullTitle": "[生]ショップチャンネル お買い物エンターテインメント",
   "detail": "",
   "start": 1617400800000,
   "end": 1617404400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }

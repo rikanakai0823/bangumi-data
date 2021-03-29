@@ -3,10 +3,10 @@
   "category": "news",
   "title": "ヒーリングタイム＆ヘッドラインニュース",
   "fullTitle": "ヒーリングタイム＆ヘッドラインニュース",
-  "detail": "ジオラマ／ジオラマ３",
-  "start": 1617001200000,
+  "detail": "ジオラマ",
+  "start": 1617003000000,
   "end": 1617004800000,
-  "seconds": 3600,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "16",
