@@ -2,7 +2,7 @@
   "id": "idvjnyc",
   "category": "information",
   "title": "ショップチャンネル お買い物エンターテインメント",
-  "fullTitle": "ショップチャンネル お買い物エンターテインメント",
+  "fullTitle": "[生]ショップチャンネル お買い物エンターテインメント",
   "detail": "",
   "start": 1617314400000,
   "end": 1617318000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }
