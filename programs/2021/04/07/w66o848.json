@@ -1,0 +1,25 @@
+{
+  "id": "w66o848",
+  "category": "drama",
+  "title": "メンタリスト1",
+  "fullTitle": "[二]メンタリスト1(帯)#3",
+  "detail": "#3「赤潮」\r\nRed Tide\r\nビーチで15歳の少女クリスティンの遺体が発見される。死因は溺死でサーフィン中に死亡したものと思われたが、肺にたまっていた水は汚水で塩分はない。",
+  "start": 1617777000000,
+  "end": 1617780600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 114
+  },
+  "subTitle": "赤潮",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

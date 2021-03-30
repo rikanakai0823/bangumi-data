@@ -1,0 +1,25 @@
+{
+  "id": "w693b0h",
+  "category": "news",
+  "title": "ニュースの視点",
+  "fullTitle": "ニュースの視点[字]",
+  "detail": "注目ニュースや気になる話題を、識者ゲストや専門記者が鋭く解説。",
+  "start": 1617796800000,
+  "end": 1617800400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

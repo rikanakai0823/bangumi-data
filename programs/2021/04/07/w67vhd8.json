@@ -1,0 +1,26 @@
+{
+  "id": "w67vhd8",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST ,64",
+  "fullTitle": "鋼の錬金術師 FULLMETAL ALCHEMIST[字][終] #63,64",
+  "detail": "＃６３「扉の向こう側」＃６４「最終回（終）」",
+  "start": 1617796800000,
+  "end": 1617800400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "扉の向こう側",
+  "episode": 63,
+  "flags": [
+    "字",
+    "終"
+  ]
+}

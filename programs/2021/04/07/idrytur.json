@@ -1,0 +1,23 @@
+{
+  "id": "idrytur",
+  "category": "information",
+  "title": "ハッピーライフセレクション",
+  "fullTitle": "ハッピーライフセレクション",
+  "detail": "テレビショッピング",
+  "start": 1617750000000,
+  "end": 1617751800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

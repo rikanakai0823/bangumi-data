@@ -1,0 +1,26 @@
+{
+  "id": "idozc1z",
+  "category": "sports",
+  "title": "Ｊリーグ２０２１「鹿島アントラーズ」対",
+  "fullTitle": "Ｊリーグ２０２１「鹿島アントラーズ」対「柏レイソル」[多][デ]",
+  "detail": "　※副音声は場内音声　（試合開始　７：０１）　【解説】播戸竜二，【アナウンサー】小宮山晃義　～カシマスタジアムから中継～",
+  "start": 1617789600000,
+  "end": 1617796800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "柏レイソル",
+  "episode": null,
+  "flags": [
+    "多",
+    "デ"
+  ]
+}

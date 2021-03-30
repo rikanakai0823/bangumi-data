@@ -1,0 +1,25 @@
+{
+  "id": "w698eqk",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "今回のクリックは、ゲームが昨年のロックダウンを乗り越えるのにどのように役立ったかを調査する。",
+  "start": 1617726600000,
+  "end": 1617728400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

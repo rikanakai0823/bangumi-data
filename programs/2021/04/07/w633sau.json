@@ -1,0 +1,23 @@
+{
+  "id": "w633sau",
+  "category": "sports",
+  "title": "プロ野球 阪神×巨人 4.7",
+  "fullTitle": "[録]プロ野球 阪神×巨人 4.7",
+  "detail": "阪神×巨人(4/7試合)\r\n▽録画中継/甲子園/PB18:00\r\n※雨天中止、時間延長の場合あり",
+  "start": 1617804000000,
+  "end": 1617818400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 95
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

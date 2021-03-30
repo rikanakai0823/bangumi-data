@@ -1,0 +1,25 @@
+{
+  "id": "w63ta94",
+  "category": "sports",
+  "title": "ゴルフ真剣勝負　the　MATCH",
+  "fullTitle": "[初]ゴルフ真剣勝負　the　MATCH　＃60　～JGTO選手会ダブルス～",
+  "detail": "プロによる１対１の真剣勝負をお届けする「ゴルフ真剣勝負 the MATCH」。\r\n4月はJGTO選手会対決の模様をお送りする。",
+  "start": 1617796800000,
+  "end": 1617802200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "～JGTO選手会ダブルス～",
+  "episode": 60,
+  "flags": [
+    "初"
+  ]
+}

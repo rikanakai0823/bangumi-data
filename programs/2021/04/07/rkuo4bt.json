@@ -1,0 +1,25 @@
+{
+  "id": "rkuo4bt",
+  "category": "hobby",
+  "title": "ドット#7,#8[字/日英]",
+  "fullTitle": "ドット#7,#8[二][字/日英]",
+  "detail": "#7「こんにちは、チェロさん」　#8「ワンちゃんレストラン」",
+  "start": 1617768000000,
+  "end": 1617769800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "こんにちは、チェロさん",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}
