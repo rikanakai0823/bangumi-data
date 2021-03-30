@@ -1,12 +1,16 @@
 {
   "id": "36l9gkuof2",
   "category": "music",
-  "title": "ＯＮＧＡＸ　２０２１年４月",
-  "fullTitle": "ＯＮＧＡＸ　２０２１年４月",
-  "detail": " ",
+  "title": "ＯＮＧＡＸ",
+  "fullTitle": "ＯＮＧＡＸ",
+  "detail": "２０２１年４月\n◇番組内容\n●ANTENA / あいのうた\r\n●WurtS / 檸檬の日々\r\n●INUWASI / holy \r\n●ael-アエル- / 舞幻 \r\n●SKE48 / 恋落ちフラグ",
   "start": 1617639300000,
   "end": 1617640200000,
   "seconds": 900,
+  "description": "２０２１年４月",
+  "extra": {
+    "番組内容": "●ANTENA / あいのうた\r\n●WurtS / 檸檬の日々\r\n●INUWASI / holy \r\n●ael-アエル- / 舞幻 \r\n●SKE48 / 恋落ちフラグ"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",

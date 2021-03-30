@@ -2,7 +2,7 @@
   "id": "w633szi",
   "category": "sports",
   "title": "ゴルフギアQ",
-  "fullTitle": "ゴルフギアQ",
+  "fullTitle": "[無料]ゴルフギアQ",
   "detail": "驚異の直進力×飛距離性能　JBEAM　ドライバーKZ-5（可変式スリーブ）▽ドライバーからウェッジまで、クラフトマンシップ溢れるギアを紹介する。",
   "start": 1617538500000,
   "end": 1617539400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
