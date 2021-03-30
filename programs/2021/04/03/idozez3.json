@@ -1,12 +1,12 @@
 {
   "id": "idozez3",
   "category": "sports",
-  "title": "カーリング男子世界選手権２０２１　予選リーグ",
-  "fullTitle": "カーリング男子世界選手権２０２１　予選リーグ",
-  "detail": "",
+  "title": "カーリング男子世界選手権２０２１　予選リーグ「日本」対",
+  "fullTitle": "カーリング男子世界選手権２０２１　予選リーグ「日本」対「カナダ」",
+  "detail": "日本選手権３連覇中のコンサドーレが世界の強豪に挑む！出場１４チーム中６位以内に入れば北京五輪出場が決まる！",
   "start": 1617411600000,
-  "end": 1617421800000,
-  "seconds": 10200,
+  "end": 1617413400000,
+  "seconds": 1800,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "カナダ",
   "episode": null,
   "flags": []
 }

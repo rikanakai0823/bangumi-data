@@ -1,9 +1,9 @@
 {
   "id": "idvjny2",
   "category": "anime",
-  "title": "※番組未定",
-  "fullTitle": "※番組未定",
-  "detail": "内容が決まり次第お伝えします。",
+  "title": "アイドルマスター シンデレラガールズ",
+  "fullTitle": "アイドルマスター シンデレラガールズ　第１話「Who is in the pumpkin carriage？」",
+  "detail": "島村卯月はアイドルを夢見て養成所に通う普通の女の子。ある日卯月の前にやって来た３４６プロダクションのプロデューサーに、シンデレラプロジェクトの再選考枠…。",
   "start": 1617292800000,
   "end": 1617294600000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 65
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "Who is in the pumpkin carriage？",
+  "episode": 1,
   "flags": []
 }

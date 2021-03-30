@@ -1,12 +1,16 @@
 {
   "id": "381sxrghfr",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "drama",
+  "title": "「ドラゴン桜」新シリーズ直前！～２００５年版再放送～",
+  "fullTitle": "「ドラゴン桜」新シリーズ直前！～２００５年版再放送～[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/dragonzakura/\r\n◇twitter\r\nhttps://twitter.com/dragonzakuraTBS/\r\n◇instagram\r\nhttps://www.instagram.com/dragonzakuratbs/",
   "start": 1617634560000,
   "end": 1617638100000,
   "seconds": 3540,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/dragonzakura/\r\n◇twitter\r\nhttps://twitter.com/dragonzakuraTBS/\r\n◇instagram\r\nhttps://www.instagram.com/dragonzakuratbs/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
