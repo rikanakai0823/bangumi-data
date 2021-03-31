@@ -1,0 +1,25 @@
+{
+  "id": "idp1jyb",
+  "category": "sports",
+  "title": "２０２１ＡＴＰテニス　マスターズ１０００　マイアミオープン",
+  "fullTitle": "２０２１ＡＴＰテニス　マスターズ１０００　マイアミオープン[多]",
+  "detail": "男子シングルス・準々決勝　※副音声は場内音声「ダニール　メドベージェフ」（ロシア）対「ロベルト　バウティスタ　アグット」（スペイン）",
+  "start": 1617241800000,
+  "end": 1617242400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}
