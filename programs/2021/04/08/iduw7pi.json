@@ -1,0 +1,25 @@
+{
+  "id": "iduw7pi",
+  "category": "drama",
+  "title": "ウォッチメン",
+  "fullTitle": "[SS]ウォッチメン　＃７",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ全話一挙放送】",
+  "start": 1617845400000,
+  "end": 1617849900000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ全話一挙放送",
+  "episode": 7,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8e68",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#41[二]",
+  "detail": "#41「ふたご大集合」",
+  "start": 1617811200000,
+  "end": 1617813000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ふたご大集合",
+  "episode": 41,
+  "flags": [
+    "二"
+  ]
+}

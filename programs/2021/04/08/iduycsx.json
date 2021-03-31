@@ -1,0 +1,26 @@
+{
+  "id": "iduycsx",
+  "category": "cinema",
+  "title": "グエムル －漢江の怪物－",
+  "fullTitle": "[映][SS]グエムル －漢江の怪物－",
+  "detail": "ソウル市内を流れる漢江に、突如出現した怪物“グエムル”。その怪物に娘をさらわれた一家が、決死の戦いに挑む！",
+  "start": 1617842700000,
+  "end": 1617850800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

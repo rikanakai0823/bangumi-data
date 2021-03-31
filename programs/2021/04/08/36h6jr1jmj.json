@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1jmj",
+  "category": "variety",
+  "title": "ＭＩＲＡＩ系アイドルＴＶ",
+  "fullTitle": "ＭＩＲＡＩ系アイドルＴＶ[Ｓ][新]",
+  "detail": "",
+  "start": 1617813000000,
+  "end": 1617814800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

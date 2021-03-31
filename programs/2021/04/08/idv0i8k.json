@@ -1,0 +1,26 @@
+{
+  "id": "idv0i8k",
+  "category": "cinema",
+  "title": "ソニック・ザ・ムービー",
+  "fullTitle": "[映][SS]ソニック・ザ・ムービー[吹]【吹替メガヒット９（再）】",
+  "detail": "日本生まれの人気ゲームキャラをハリウッドで実写化したアクションコメディ。“ソニック”が、恐るべき陰謀の阻止に立ち上がる！",
+  "start": 1617854400000,
+  "end": 1617861600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "吹替メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

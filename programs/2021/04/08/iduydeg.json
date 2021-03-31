@@ -1,0 +1,25 @@
+{
+  "id": "iduydeg",
+  "category": "cinema",
+  "title": "ブルース・リー／死亡遊戯",
+  "fullTitle": "[映]ブルース・リー／死亡遊戯",
+  "detail": "ブルース・リーの急死で未完となっていた撮影済みのフィルムを元に、過去作からの流用や追加撮影を行なって完成させた異色作。",
+  "start": 1617870000000,
+  "end": 1617876600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67vheg",
+  "category": "anime",
+  "title": "銀魂 ,214",
+  "fullTitle": "銀魂[字] #213,214",
+  "detail": "＃２１３「鉄の街」＃２１４「お控えなすって！」",
+  "start": 1617886800000,
+  "end": 1617890400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "鉄の街",
+  "episode": 213,
+  "flags": [
+    "字"
+  ]
+}

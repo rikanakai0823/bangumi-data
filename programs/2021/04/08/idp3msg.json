@@ -1,0 +1,25 @@
+{
+  "id": "idp3msg",
+  "category": "music",
+  "title": "名曲アルバムオネゲル作曲",
+  "fullTitle": "名曲アルバム「パシフィック２３１」オネゲル作曲[SS]",
+  "detail": "「パシフィック２３１」（管弦楽）東京フィルハーモニー交響楽団，（指揮）円光寺雅彦",
+  "start": 1617828900000,
+  "end": 1617829200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "パシフィック２３１",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

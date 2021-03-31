@@ -1,0 +1,27 @@
+{
+  "id": "iduceym",
+  "category": "cinema",
+  "title": "ラスベガスをぶっつぶせ（吹替版）",
+  "fullTitle": "[映]ラスベガスをぶっつぶせ（吹替版）[SS][字]",
+  "detail": "ブラックジャックの必勝法をマスターし、一攫千金を狙ってカジノに乗り込んだＭＩＴのエリート学生たち。彼らの運命をスリル満点に描いた痛快青春エンターテインメント。",
+  "start": 1617871500000,
+  "end": 1617879600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

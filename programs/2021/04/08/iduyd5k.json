@@ -1,0 +1,25 @@
+{
+  "id": "iduyd5k",
+  "category": "cinema",
+  "title": "マンハッタン無宿",
+  "fullTitle": "[映]マンハッタン無宿",
+  "detail": "クリント・イーストウッド主演、ドン・シーゲル監督のアクション。一匹狼の保安官補がニューヨークで凶悪逃亡犯を追跡する。",
+  "start": 1617858000000,
+  "end": 1617864000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

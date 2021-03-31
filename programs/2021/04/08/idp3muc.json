@@ -1,0 +1,25 @@
+{
+  "id": "idp3muc",
+  "category": "documentary",
+  "title": "ニッポン島旅",
+  "fullTitle": "ニッポン島旅「東京・伊豆大島　ヒイミサマ伝説」[字]",
+  "detail": "東京・伊豆大島の小さな集落に伝わる日忌様（ひいみさま）伝説。毎年１月２４日の夜、人々は海から来る不思議な霊の災いを避けるため日没から夜明けまで家にこもり続ける。",
+  "start": 1617891300000,
+  "end": 1617893100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "東京・伊豆大島　ヒイミサマ伝説",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv0g63",
+  "category": "cinema",
+  "title": "ギルバート・グレイプ",
+  "fullTitle": "[映]ギルバート・グレイプ[吹]",
+  "detail": "ジョニー・デップとレオナルド・ディカプリオ共演のヒューマンドラマ。自らの夢を諦めて、家族のために生きる青年の苦悩を描く。",
+  "start": 1617819300000,
+  "end": 1617827400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
