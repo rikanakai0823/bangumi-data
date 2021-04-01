@@ -1,0 +1,25 @@
+{
+  "id": "idt5hvb",
+  "category": "information",
+  "title": "お気に入りサタデー",
+  "fullTitle": "[新]お気に入りサタデー",
+  "detail": "週末のスタートをキラリと輝かせる、お得な情報バラエテ！今回は北海道のおいしい高級素材と匠の技がつまった『干物』をご紹介します",
+  "start": 1617402600000,
+  "end": 1617404400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
