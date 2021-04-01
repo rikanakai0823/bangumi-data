@@ -1,0 +1,25 @@
+{
+  "id": "iduyg08",
+  "category": "cinema",
+  "title": "ＴＯＫＹＯ！",
+  "fullTitle": "[映]ＴＯＫＹＯ！",
+  "detail": "ミシェル・ゴンドリー、レオス・カラックス、ポン・ジュノが競作したオムニバス。東京を舞台に、３つの不思議な物語が描かれる。",
+  "start": 1617930000000,
+  "end": 1617937200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idrytwp",
+  "category": "information",
+  "title": "ジャパネットたかた テレビショッピング",
+  "fullTitle": "ジャパネットたかた テレビショッピング",
+  "detail": "人気商品が驚きの価格で登場！お見逃しなく！",
+  "start": 1617908400000,
+  "end": 1617910200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

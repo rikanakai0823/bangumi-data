@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7vw1",
+  "category": "information",
+  "title": "日テレポシュレ　いよいよ春！お得情報満載　３０分ＳＰ",
+  "fullTitle": "日テレポシュレ　いよいよ春！お得情報満載　３０分ＳＰ[再]",
+  "detail": "",
+  "start": 1617908400000,
+  "end": 1617910200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

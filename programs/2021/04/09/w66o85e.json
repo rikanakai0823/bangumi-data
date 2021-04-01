@@ -1,0 +1,25 @@
+{
+  "id": "w66o85e",
+  "category": "drama",
+  "title": "メンタリスト1",
+  "fullTitle": "[字]メンタリスト1(帯)#6",
+  "detail": "#6「冷血」\r\nRed Handed\r\nネバダ州とカリフォルニア州の州境で、切り落とされた右手の手首が発見される。手のひらには43という数字が書かれていた。",
+  "start": 1617904800000,
+  "end": 1617908400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 114
+  },
+  "subTitle": "冷血",
+  "episode": 6,
+  "flags": [
+    "字"
+  ]
+}

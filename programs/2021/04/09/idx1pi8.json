@@ -1,0 +1,25 @@
+{
+  "id": "idx1pi8",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ,514",
+  "fullTitle": "[字]ちびまる子ちゃん #513,514",
+  "detail": "#513「さくら家、クモ騒動」の巻／「初めての手紙」の巻\r\n#514「まる子、お姉ちゃん風を吹かす」の巻／「ヒデキの誕生…",
+  "start": 1617948000000,
+  "end": 1617951600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "さくら家、クモ騒動",
+  "episode": 513,
+  "flags": [
+    "字"
+  ]
+}

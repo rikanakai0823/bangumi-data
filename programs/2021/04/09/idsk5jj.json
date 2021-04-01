@@ -1,0 +1,23 @@
+{
+  "id": "idsk5jj",
+  "category": "sports",
+  "title": "Ｍａｓｔｅｒｓ２０２１",
+  "fullTitle": "Ｍａｓｔｅｒｓ２０２１",
+  "detail": "",
+  "start": 1617899100000,
+  "end": 1617908400000,
+  "seconds": 9300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rks2ran",
+  "category": "information",
+  "title": "【無料】インフォメーション2021年4月",
+  "fullTitle": "【無料】インフォメーション2021年4月",
+  "detail": "TBSチャンネルのオススメ番組を紹介！カスタマーセンター TEL：0570－666－296",
+  "start": 1617978000000,
+  "end": 1617978600000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 104
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

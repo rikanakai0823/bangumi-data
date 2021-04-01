@@ -1,0 +1,28 @@
+{
+  "id": "36rdttk7t5",
+  "category": "news",
+  "title": "ｔｖｋニュースハーバー",
+  "fullTitle": "ｔｖｋニュースハーバー",
+  "detail": "▽ｔｖｋニュース▽あすの天気予報\r\n【キャスター】瀬村奈月（ｔｖｋアナウンサー）\n◇特集１\n１\n◇特集２\n２",
+  "start": 1617957000000,
+  "end": 1617958800000,
+  "seconds": 1800,
+  "description": "▽ｔｖｋニュース▽あすの天気予報\r\n【キャスター】瀬村奈月（ｔｖｋアナウンサー）",
+  "extra": {
+    "特集１": "１",
+    "特集２": "２"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
