@@ -1,0 +1,25 @@
+{
+  "id": "w67vhgo",
+  "category": "anime",
+  "title": "ソニックＸ ,68",
+  "fullTitle": "ソニックＸ[字] #67,68",
+  "detail": "＃６７「ブラック・トラップ」＃６８「こわれた星の上で」",
+  "start": 1618048800000,
+  "end": 1618052400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "ブラック・トラップ",
+  "episode": 67,
+  "flags": [
+    "字"
+  ]
+}

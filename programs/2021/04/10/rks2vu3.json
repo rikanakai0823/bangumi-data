@@ -1,0 +1,23 @@
+{
+  "id": "rks2vu3",
+  "category": "music",
+  "title": "TBSch×SBS funE PRESENTS THE SHOW <字幕>",
+  "fullTitle": "TBSch×SBS funE PRESENTS THE SHOW #209<字幕>",
+  "detail": "TBSチャンネルと韓国のSBS funEで放送されるK－POP人気番組『THE SHOW』。【出演】TOMORROW X TOGETHER、ヨンジェ、N．Flying、ソン・ハイェ ほか",
+  "start": 1618027800000,
+  "end": 1618032600000,
+  "seconds": 4800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 104
+  },
+  "subTitle": "出演",
+  "episode": 209,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rks2vtx",
+  "category": "cinema",
+  "title": "映画「おしん」",
+  "fullTitle": "映画「おしん」",
+  "detail": "1983年に放送された橋田壽賀子原作、NHK朝の連続テレビ小説「おしん」を映画化。出演は、濱田ここね、上戸彩、稲垣吾郎、泉ピン子ほか。",
+  "start": 1618047000000,
+  "end": 1618054200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 104
+  },
+  "subTitle": "おしん",
+  "episode": null,
+  "flags": []
+}

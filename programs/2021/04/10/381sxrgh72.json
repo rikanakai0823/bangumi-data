@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgh72",
+  "category": "drama",
+  "title": "「リコカツ」ナビ",
+  "fullTitle": "「リコカツ」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/rikokatsu_tbs/\r\n\r\n◇instagram.com\r\nhttps://www.instagram.com/rikokatsu_tbs/\r\n\r\n◇twitter\r\nhttps://twitter.com/rikokatsu_tbs/",
+  "start": 1618038000000,
+  "end": 1618039800000,
+  "seconds": 1800,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/rikokatsu_tbs/\r\n\r\n◇instagram.com\r\nhttps://www.instagram.com/rikokatsu_tbs/\r\n\r\n◇twitter\r\nhttps://twitter.com/rikokatsu_tbs/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8e8w",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#43[二]",
+  "detail": "#43「新しいママ」",
+  "start": 1617984000000,
+  "end": 1617985800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "新しいママ",
+  "episode": 43,
+  "flags": [
+    "二"
+  ]
+}

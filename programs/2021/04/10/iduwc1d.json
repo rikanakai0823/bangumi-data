@@ -1,0 +1,25 @@
+{
+  "id": "iduwc1d",
+  "category": "drama",
+  "title": "ミスター・メルセデス３",
+  "fullTitle": "[SS]ミスター・メルセデス３　＃１",
+  "detail": "【海外ドラマシリーズ一挙放送】",
+  "start": 1617986700000,
+  "end": 1617991200000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "海外ドラマシリーズ一挙放送",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

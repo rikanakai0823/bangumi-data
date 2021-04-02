@@ -1,0 +1,25 @@
+{
+  "id": "idozgi9",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「福島　幻の銘酒　１０年目の復活」[字]",
+  "detail": "東日本大震災で失われた「幻の銘酒」が１０年ぶりに復活する。「酒造りで故郷の人と人をつなぎたい」と復活に奔走してきた杜氏と、地酒を待ち続けてきた人々の姿を描く",
+  "start": 1618052400000,
+  "end": 1618055400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "福島　幻の銘酒　１０年目の復活",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

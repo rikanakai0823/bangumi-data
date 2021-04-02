@@ -1,0 +1,25 @@
+{
+  "id": "idv0mbo",
+  "category": "drama",
+  "title": "ＦＡＲＧＯ／ファーゴ３",
+  "fullTitle": "ＦＡＲＧＯ／ファーゴ３　＃９[二]",
+  "detail": "【海外ドラマシリーズ一挙放送】",
+  "start": 1617984000000,
+  "end": 1617987600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "海外ドラマシリーズ一挙放送",
+  "episode": 9,
+  "flags": [
+    "二"
+  ]
+}
