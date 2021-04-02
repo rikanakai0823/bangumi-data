@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "　",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Only Wanna Be With You (Pokemon 25 Version)\"POST MALONE\r\n\"(L)only Child\"salem ilese\r\n\"Dejaria Todo\"CNCO\r\n\"The Kiss Of Venus (DOMINIC FIKE version)\"PAUL McCARTNEY\n◇番組内容２\n\"With A Little Help From My Friends(Live At The Greek Theatre / 2008)\"RINGO STARR & HIS ALL STARR BAND\r\n\"Here's To The Nights\"RINGO STARR\r\n\"Zoom In Zoom Out\"RINGO STARR",
   "start": 1617895800000,
   "end": 1617897600000,
   "seconds": 1800,
+  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "extra": {
+    "番組内容１": "\"Only Wanna Be With You (Pokemon 25 Version)\"POST MALONE\r\n\"(L)only Child\"salem ilese\r\n\"Dejaria Todo\"CNCO\r\n\"The Kiss Of Venus (DOMINIC FIKE version)\"PAUL McCARTNEY",
+    "番組内容２": "\"With A Little Help From My Friends(Live At The Greek Theatre / 2008)\"RINGO STARR & HIS ALL STARR BAND\r\n\"Here's To The Nights\"RINGO STARR\r\n\"Zoom In Zoom Out\"RINGO STARR"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
