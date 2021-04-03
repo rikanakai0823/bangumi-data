@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7vxz",
+  "category": "variety",
+  "title": "サンバリュ",
+  "fullTitle": "サンバリュ「ＭＥＫＵＲＥ」[字]",
+  "detail": "",
+  "start": 1618112700000,
+  "end": 1618115100000,
+  "seconds": 2400,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "ＭＥＫＵＲＥ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

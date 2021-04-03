@@ -1,0 +1,23 @@
+{
+  "id": "rlm3wjo",
+  "category": "sports",
+  "title": "World's Strongest Man2019",
+  "fullTitle": "World's Strongest Man2019 #3　予選ラウンド",
+  "detail": "世界最強の称号をかけて、世界中の力自慢が集結。2019年大会を制するため、ファイナルに進むのは誰だ？",
+  "start": 1618111800000,
+  "end": 1618113600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "予選ラウンド",
+  "episode": 3,
+  "flags": []
+}
