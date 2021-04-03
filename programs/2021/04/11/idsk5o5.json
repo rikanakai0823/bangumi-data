@@ -1,0 +1,23 @@
+{
+  "id": "idsk5o5",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「広島　ｖｓ　巨人」",
+  "detail": "マツダスタジアムから生中継。午後１時３０分試合開始。地上波ＴＢＳ系列からのリレー中継。最大延長午後６時。【解説】井端弘和【実況】土井敏之",
+  "start": 1618123980000,
+  "end": 1618128000000,
+  "seconds": 4020,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "広島　ｖｓ　巨人",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idozel9",
+  "category": "sports",
+  "title": "競馬２０２１",
+  "fullTitle": "競馬２０２１",
+  "detail": "",
+  "start": 1618120800000,
+  "end": 1618124400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

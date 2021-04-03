@@ -1,0 +1,26 @@
+{
+  "id": "idv0s6k",
+  "category": "cinema",
+  "title": "コレット",
+  "fullTitle": "[映][SS]コレット[吹]",
+  "detail": "キーラ・ナイトレイ主演の伝記ドラマ。女性作家シドニー＝ガブリエル・コレットの波乱万丈の半生を描き出す。［ＰＧ１２］",
+  "start": 1618135200000,
+  "end": 1618142400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

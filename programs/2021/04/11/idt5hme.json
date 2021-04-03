@@ -1,0 +1,25 @@
+{
+  "id": "idt5hme",
+  "category": "anime",
+  "title": "ポケットモンスター",
+  "fullTitle": "ポケットモンスター「恋はコダック」[字]",
+  "detail": "サトシとゴウはラーメン会！コハルとキクナは女子会！コダックが繋ぐ不思議な関係にコハルが奔走する！外は寒くても、心はあったか！雪だるまつくろう！",
+  "start": 1618092000000,
+  "end": 1618093800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "恋はコダック",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

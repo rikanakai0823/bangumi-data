@@ -1,0 +1,26 @@
+{
+  "id": "iduymo0",
+  "category": "cinema",
+  "title": "ロンドン、人生はじめます",
+  "fullTitle": "[映][SS]ロンドン、人生はじめます",
+  "detail": "ダイアン・キートン主演。高級マンションに暮らす女性が、自由に生きるホームレスの男性との交流を経て、人生を見つめ直す。",
+  "start": 1618119600000,
+  "end": 1618126200000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

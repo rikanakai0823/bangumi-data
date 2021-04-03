@@ -1,0 +1,25 @@
+{
+  "id": "w65samp",
+  "category": "documentary",
+  "title": "F1グランプリ・ヒーローズ",
+  "fullTitle": "[字]F1グランプリ・ヒーローズ #12",
+  "detail": "７０年代から８０年代のＦ１グランプリの黄金時代に活躍し、その名を歴史に刻んだ伝説のレーシング・ヒーローたちの物語。ナレーションは「クリストファー・リー」が担当。",
+  "start": 1618113600000,
+  "end": 1618117200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "ＭＯＮＤＯ　ＴＶ",
+    "id": "f0cn",
+    "sid": 295,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 103
+  },
+  "subTitle": "クリストファー・リー",
+  "episode": 12,
+  "flags": [
+    "字"
+  ]
+}

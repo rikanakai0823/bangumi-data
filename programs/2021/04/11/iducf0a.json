@@ -1,0 +1,27 @@
+{
+  "id": "iducf0a",
+  "category": "cinema",
+  "title": "ＴＩＭＥ／タイム（吹替版）",
+  "fullTitle": "[映]ＴＩＭＥ／タイム（吹替版）[SS][字]",
+  "detail": "余命時間で２つの層に分けられた世界。“スラムゾーン”の青年と“富裕ゾーン”のお嬢様の逃避行が始まる……。鬼才Ａ・ニコル監督が仕掛けたＳＦサスペンスのヒット作！",
+  "start": 1618094700000,
+  "end": 1618101900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

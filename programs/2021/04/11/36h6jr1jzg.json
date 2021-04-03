@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr1jzg",
+  "category": "etc",
+  "title": "テレ玉インフォメーション",
+  "fullTitle": "テレ玉インフォメーション[Ｓ]",
+  "detail": "テレ玉くんのうた\n◇番組内容\nテレ玉くんのうた",
+  "start": 1618124100000,
+  "end": 1618124220000,
+  "seconds": 120,
+  "description": "テレ玉くんのうた",
+  "extra": {
+    "番組内容": "テレ玉くんのうた"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

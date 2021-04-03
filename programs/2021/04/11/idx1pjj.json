@@ -1,0 +1,25 @@
+{
+  "id": "idx1pjj",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#161「おねえさんといっしょ」\r\nラッコの子ども“ぼのぼの”とシマリスくんやスナドリネコさん。そんな森の愉快な仲間…",
+  "start": 1618120200000,
+  "end": 1618120800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "おねえさんといっしょ",
+  "episode": 161,
+  "flags": [
+    "字"
+  ]
+}

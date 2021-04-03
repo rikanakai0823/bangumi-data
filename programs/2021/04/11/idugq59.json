@@ -1,0 +1,26 @@
+{
+  "id": "idugq59",
+  "category": "cinema",
+  "title": "転校生",
+  "fullTitle": "[映]転校生[字]",
+  "detail": "体が入れ替わってしまった中学生の少年少女の騒動を描いた青春ドラマの名作。大林宣彦監督が、故郷の尾道を舞台に思春期の揺れ動く心情を綴った“尾道３部作”の第１部。",
+  "start": 1618135200000,
+  "end": 1618142400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
