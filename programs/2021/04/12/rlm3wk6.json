@@ -1,0 +1,23 @@
+{
+  "id": "rlm3wk6",
+  "category": "sports",
+  "title": "19/20ブンデスリーガSP",
+  "fullTitle": "19/20ブンデスリーガSP#17 ブンデスのライジングスター達",
+  "detail": "ホーラン(ドルトムント)、デイビス(バイエルン)、テュラム(メンヘングラードバッハ)などの若きスター達を特集。",
+  "start": 1618171200000,
+  "end": 1618173000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "ブンデスのライジングスター達",
+  "episode": 17,
+  "flags": []
+}

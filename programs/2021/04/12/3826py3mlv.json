@@ -1,0 +1,25 @@
+{
+  "id": "3826py3mlv",
+  "category": "anime",
+  "title": "忍者コレクション",
+  "fullTitle": "忍者コレクション[再]",
+  "detail": "第1話「煙」",
+  "start": 1618164300000,
+  "end": 1618164600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "煙",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

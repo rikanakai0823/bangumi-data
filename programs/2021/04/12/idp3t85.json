@@ -1,0 +1,23 @@
+{
+  "id": "idp3t85",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「京都　桜一色」",
+  "detail": "",
+  "start": 1618169100000,
+  "end": 1618170900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "京都　桜一色",
+  "episode": null,
+  "flags": []
+}

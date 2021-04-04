@@ -1,0 +1,25 @@
+{
+  "id": "idsk5qi",
+  "category": "information",
+  "title": "吉田類の酒場放浪記",
+  "fullTitle": "[字]吉田類の酒場放浪記",
+  "detail": "",
+  "start": 1618228800000,
+  "end": 1618232400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

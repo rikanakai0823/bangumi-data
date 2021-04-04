@@ -1,0 +1,25 @@
+{
+  "id": "36l9gku9e1",
+  "category": "anime",
+  "title": "トムとジェリー",
+  "fullTitle": "トムとジェリー[二]第１３回",
+  "detail": "①星空の音楽会\r\n②夢と消えたバカンス\r\n③赤ちゃんは知らん顔\r\n",
+  "start": 1618216200000,
+  "end": 1618218000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 13,
+  "flags": [
+    "二"
+  ]
+}

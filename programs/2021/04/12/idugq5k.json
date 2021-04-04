@@ -1,0 +1,27 @@
+{
+  "id": "idugq5k",
+  "category": "cinema",
+  "title": "映画　ギヴン",
+  "fullTitle": "[映]映画　ギヴン[SS][字]",
+  "detail": "キヅナツキによる人気コミックが原作のＴＶアニメの続編となる劇場版。動き始めたバンド“ギヴン”の活動に情熱を注ぐ青年たちの青春と恋愛模様を繊細に綴る。",
+  "start": 1618218000000,
+  "end": 1618222500000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

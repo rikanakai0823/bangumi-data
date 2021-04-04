@@ -1,0 +1,25 @@
+{
+  "id": "idv0uf0",
+  "category": "cinema",
+  "title": "トゥルーマン・ショー",
+  "fullTitle": "[映]トゥルーマン・ショー[吹]",
+  "detail": "ジム・キャリー主演のヒューマンコメディ。私生活を生中継する番組で生まれ育った男の苦悩を、ブラックユーモアを交えて描く。",
+  "start": 1618178400000,
+  "end": 1618185600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

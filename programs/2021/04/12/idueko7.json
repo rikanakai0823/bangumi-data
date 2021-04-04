@@ -1,0 +1,25 @@
+{
+  "id": "idueko7",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４３８",
+  "detail": "",
+  "start": 1618175700000,
+  "end": 1618176300000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 438,
+  "flags": [
+    "無"
+  ]
+}

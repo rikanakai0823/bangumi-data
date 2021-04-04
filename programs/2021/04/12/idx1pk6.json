@@ -1,0 +1,25 @@
+{
+  "id": "idx1pk6",
+  "category": "anime",
+  "title": "ハイキュー!! ,20",
+  "fullTitle": "[字]ハイキュー!! #19,20",
+  "detail": "#19「指揮者」\r\n#20「及川徹は天才ではない」\r\n中学最初の公式戦で天才プレーヤー・影山飛雄に惨敗した日向翔陽は、烏野…",
+  "start": 1618196400000,
+  "end": 1618200000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "指揮者",
+  "episode": 19,
+  "flags": [
+    "字"
+  ]
+}

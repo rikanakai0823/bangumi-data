@@ -1,0 +1,25 @@
+{
+  "id": "381jqz048k",
+  "category": "hobby",
+  "title": "テキシコー",
+  "fullTitle": "テキシコー[字]",
+  "detail": "",
+  "start": 1618189500000,
+  "end": 1618190400000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
