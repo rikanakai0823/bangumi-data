@@ -1,0 +1,25 @@
+{
+  "id": "idozfms",
+  "category": "information",
+  "title": "ＢＳコンシェルジュ",
+  "fullTitle": "ＢＳコンシェルジュ「特集ドラマ“裕さんの女房”～徳重聡～」[字]",
+  "detail": "特集ドラマ「裕さんの女房」を紹介。ゲストに徳重聡さんを招き、ドラマの見どころや、石原軍団の“暗黙のオキテ”など、さまざまなエピソードを伺う。",
+  "start": 1618290000000,
+  "end": 1618291500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "特集ドラマ“裕さんの女房”～徳重聡～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

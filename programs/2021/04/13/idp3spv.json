@@ -1,0 +1,23 @@
+{
+  "id": "idp3spv",
+  "category": "music",
+  "title": "コズミックフロントＭＵＳＩＣ　ミニ",
+  "fullTitle": "コズミックフロントＭＵＳＩＣ　ミニ",
+  "detail": "宇宙と音楽のコラボ。癒しの映像とともに。",
+  "start": 1618304400000,
+  "end": 1618305000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

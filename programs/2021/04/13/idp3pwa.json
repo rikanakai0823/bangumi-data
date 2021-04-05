@@ -1,0 +1,25 @@
+{
+  "id": "idp3pwa",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「ポロロッカ　アマゾンの大逆流」[字]",
+  "detail": "最新のデジタル技術で鮮やかによみがえる「ＮＨＫ特集」。今回は、「ポロロッカ　アマゾンの大逆流」。川の水が逆流する大自然の驚異を世界で初めて撮影した。",
+  "start": 1618305000000,
+  "end": 1618308000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "ポロロッカ　アマゾンの大逆流",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

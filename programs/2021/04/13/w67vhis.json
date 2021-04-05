@@ -1,0 +1,25 @@
+{
+  "id": "w67vhis",
+  "category": "anime",
+  "title": "ココモン",
+  "fullTitle": "ココモン[字] #2",
+  "detail": "第２話「かくれんぼ」\r\nやんちゃなココモンと冷蔵庫の国の仲間たちが力をあわせていろいろなことに取り組みます。",
+  "start": 1618261200000,
+  "end": 1618262100000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "かくれんぼ",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduyslt",
+  "category": "cinema",
+  "title": "カビリアの夜",
+  "fullTitle": "[映]カビリアの夜",
+  "detail": "フェデリコ・フェリーニ監督による人間ドラマ。監督の妻ジュリエッタ・マシーナがヒロインを演じ、無垢な売春婦の哀歓を描く。",
+  "start": 1618274700000,
+  "end": 1618282800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

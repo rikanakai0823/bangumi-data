@@ -1,0 +1,25 @@
+{
+  "id": "w68musl",
+  "category": "documentary",
+  "title": "アポロ：ミッション・トゥ・ザ・ムーン",
+  "fullTitle": "アポロ：ミッション・トゥ・ザ・ムーン[字]",
+  "detail": "１９６０年代、月面着陸を目標に掲げられたアポロ計画。ＮＡＳＡの記録映像や初公開となる管制室の音声を通して、そのミッションの数々に迫る。",
+  "start": 1618318800000,
+  "end": 1618326000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ナショジオ",
+    "id": "f0dz",
+    "sid": 343,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 134
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

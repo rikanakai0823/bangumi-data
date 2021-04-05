@@ -1,0 +1,25 @@
+{
+  "id": "w662rc1",
+  "category": "drama",
+  "title": "中国ドラマ",
+  "fullTitle": "【字】中国ドラマ「鎮魂」 #12",
+  "detail": "出演:チュー・イーロン、バイ・ユー\r\nミステリアスな生物学教授＆陽気な特殊事件調査官。正反対のコンビが怪奇事件の真相に迫る!(全40話)",
+  "start": 1618274400000,
+  "end": 1618277400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "鎮魂",
+  "episode": 12,
+  "flags": [
+    "字"
+  ]
+}

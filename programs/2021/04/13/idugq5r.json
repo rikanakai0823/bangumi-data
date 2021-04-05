@@ -1,0 +1,27 @@
+{
+  "id": "idugq5r",
+  "category": "cinema",
+  "title": "影踏み",
+  "fullTitle": "[映]影踏み[SS][字]",
+  "detail": "横山秀夫の小説を、シンガーソングライターの山崎まさよし主演で映画化したヒューマンミステリー。プロの窃盗犯は過去と向き合いながら幼なじみが殺された事件の謎を追う。",
+  "start": 1618264800000,
+  "end": 1618272000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

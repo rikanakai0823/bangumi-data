@@ -1,0 +1,25 @@
+{
+  "id": "rlm3wix",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ 第28節 ホッフェンハイム×レバークーゼン",
+  "fullTitle": "[生]20/21 ブンデスリーガ 第28節 ホッフェンハイム×レバークーゼン",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年4月12日\r\n会場:プレゼロ アレーナ",
+  "start": 1618251600000,
+  "end": 1618260600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

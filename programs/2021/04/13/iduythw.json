@@ -1,0 +1,26 @@
+{
+  "id": "iduythw",
+  "category": "cinema",
+  "title": "殺人の追憶",
+  "fullTitle": "[映][SS]殺人の追憶",
+  "detail": "韓国で８０年代に起きた、実際の未解決連続殺人事件を基に映画化。事件を追う２人の刑事を描く。［ＰＧ－１２］",
+  "start": 1618315200000,
+  "end": 1618323600000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

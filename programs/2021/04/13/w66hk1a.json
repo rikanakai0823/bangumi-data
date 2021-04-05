@@ -1,0 +1,25 @@
+{
+  "id": "w66hk1a",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE　東京ヤクルト×横浜DeNA",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE　東京ヤクルト×横浜DeNA",
+  "detail": "「東京ヤクルト vs 横浜DeNA」\r\n＜開催＞2021年4月13日（火）【生中継】\r\n　～神宮球場\r\n＜解説＞谷繁元信　＜実況＞鈴木芳彦\r\n※変更の場合あり",
+  "start": 1618302000000,
+  "end": 1618320600000,
+  "seconds": 18600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 111
+  },
+  "subTitle": "東京ヤクルト vs 横浜DeNA",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
