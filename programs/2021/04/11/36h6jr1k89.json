@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr1k89",
+  "category": "information",
+  "title": "テレビショッピング・ショップジャパン",
+  "fullTitle": "テレビショッピング・ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nクレバーケーン　０１２０－４４－００２７、楽ちんヒアリング　０１２０－４４－００２７",
+  "start": 1618120800000,
+  "end": 1618124100000,
+  "seconds": 3300,
+  "description": "",
+  "extra": {
+    "番組内容": "クレバーケーン　０１２０－４４－００２７、楽ちんヒアリング　０１２０－４４－００２７"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

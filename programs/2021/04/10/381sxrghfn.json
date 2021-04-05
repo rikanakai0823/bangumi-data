@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "２分でわかる！ＰＲＯＤＵＣＥ　１０１　ＪＡＰＡＮ　ＳＥＡＳＯＮ２の楽しみ方",
   "fullTitle": "[新]２分でわかる！ＰＲＯＤＵＣＥ　１０１　ＪＡＰＡＮ　ＳＥＡＳＯＮ２の楽しみ方[字]",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/produce101/",
   "start": 1618014300000,
   "end": 1618014600000,
   "seconds": 300,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/produce101/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
