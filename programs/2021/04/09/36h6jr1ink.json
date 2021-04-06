@@ -2,7 +2,7 @@
   "id": "36h6jr1ink",
   "category": "music",
   "title": "大木あつしと戸子台ふみやのここ一番の歌謡曲",
-  "fullTitle": "大木あつしと戸子台ふみやのここ一番の歌謡曲[Ｓ][新]",
+  "fullTitle": "大木あつしと戸子台ふみやのここ一番の歌謡曲[Ｓ]",
   "detail": "走裕介",
   "start": 1617918300000,
   "end": 1617919200000,
@@ -18,8 +18,6 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": 1,
-  "flags": [
-    "新"
-  ]
+  "episode": null,
+  "flags": []
 }
