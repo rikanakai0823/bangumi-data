@@ -1,9 +1,9 @@
 {
   "id": "idsk5hb",
-  "category": "etc",
+  "category": "information",
   "title": "満喫！セカンドライフ",
-  "fullTitle": "満喫！セカンドライフ",
-  "detail": "",
+  "fullTitle": "[新]満喫！セカンドライフ＃１",
+  "detail": "よゐこの濱口優がセカンドライフを満喫する人たちを訪ねる。\r\n＃１「元教師　今は野菜を育てています」",
   "start": 1617800040000,
   "end": 1617800400000,
   "seconds": 360,
@@ -18,6 +18,8 @@
     "n": 50
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }
