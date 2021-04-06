@@ -1,0 +1,26 @@
+{
+  "id": "iduwrng",
+  "category": "drama",
+  "title": "インダストリー",
+  "fullTitle": "[初][SS]インダストリー　＃６",
+  "detail": "【ＳＴＡＲ　ＤＲＡＭＡ　１１】【独占日本初放送】",
+  "start": 1618408800000,
+  "end": 1618412400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 6,
+  "flags": [
+    "初",
+    "SS"
+  ]
+}

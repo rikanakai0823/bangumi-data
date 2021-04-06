@@ -1,0 +1,27 @@
+{
+  "id": "idugq67",
+  "category": "cinema",
+  "title": "武蔵－むさし－",
+  "fullTitle": "[映]武蔵－むさし－[SS][字]",
+  "detail": "幾多の小説や映画、ＴＶなどでおなじみの宮本武蔵を主人公に、「蠢動　－しゅんどう－」の三上康雄監督があくまで史実に基づく本物の武蔵にこだわって作り上げた時代劇。",
+  "start": 1618385400000,
+  "end": 1618393500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "蠢動　－しゅんどう－",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

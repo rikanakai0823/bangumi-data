@@ -1,0 +1,27 @@
+{
+  "id": "rktcrgc",
+  "category": "music",
+  "title": "【TOMORROW X TOGETHER主演】朝鮮ポップアゲイン",
+  "fullTitle": "【TOMORROW X TOGETHER主演】朝鮮ポップアゲイン　[字][再][新]",
+  "detail": "日本初放送！TOMORROW X TOGETHER、BAE173、ソン・ガインら出演！韓国の伝統音楽「国楽」×多様なジャンルの音楽のコラボステージをお届けする音楽番組！2021年　全1回",
+  "start": 1618385400000,
+  "end": 1618391400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "国楽",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再",
+    "新"
+  ]
+}

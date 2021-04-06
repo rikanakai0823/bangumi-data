@@ -1,0 +1,25 @@
+{
+  "id": "w633she",
+  "category": "sports",
+  "title": "プロ野球 阪神×広島 4.14",
+  "fullTitle": "[生]プロ野球 阪神×広島 4.14",
+  "detail": "阪神×広島(4/14試合)\r\n▽生中継/甲子園/PB18:00\r\n※雨天中止、時間延長の場合あり",
+  "start": 1618389900000,
+  "end": 1618407000000,
+  "seconds": 17100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 95
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w67t582",
+  "category": "music",
+  "title": "MISIA ミュージックビデオ特集",
+  "fullTitle": "MISIA ミュージックビデオ特集",
+  "detail": "歌謡ポップスチャンネルが贈るアーティストMV特集番組。今回はMISIA。\r\n日本が誇る最高峰の歌声を、選りすぐりのMVでお届けします。",
+  "start": 1618398000000,
+  "end": 1618401600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idozg2s",
+  "category": "news",
+  "title": "クローズアップ現代＋",
+  "fullTitle": "クローズアップ現代＋[字]",
+  "detail": "",
+  "start": 1618389000000,
+  "end": 1618390800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

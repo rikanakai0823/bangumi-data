@@ -1,0 +1,23 @@
+{
+  "id": "w68l2wg",
+  "category": "information",
+  "title": "情報番組",
+  "fullTitle": "情報番組",
+  "detail": "\r\n暮らしに役立つ情報満載。気に入った商品が見つかったらすぐにお電話下さい。",
+  "start": 1618353000000,
+  "end": 1618354800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ヒストリーチャンネル",
+    "id": "f0dy",
+    "sid": 342,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 133
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

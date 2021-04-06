@@ -1,0 +1,27 @@
+{
+  "id": "idugq65",
+  "category": "cinema",
+  "title": "御法度",
+  "fullTitle": "[映]御法度[SS][字]",
+  "detail": "日本映画の枠を超え、世界の映画界に衝撃を与え続けた鬼才・大島渚監督が豪華キャストを迎え、劇映画として１３年ぶりに発表した傑作時代劇。新選組に美少年が入隊し……。",
+  "start": 1618372800000,
+  "end": 1618379100000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idxc6bg",
+  "category": "sports",
+  "title": "【PPS】WWE PPV大会",
+  "fullTitle": "【PPS】WWE PPV大会 「ファスト・レーン」",
+  "detail": "世界最大のスポーツエンターテインメント、WWE。",
+  "start": 1618336800000,
+  "end": 1618347300000,
+  "seconds": 10500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "ファスト・レーン",
+  "episode": null,
+  "flags": []
+}

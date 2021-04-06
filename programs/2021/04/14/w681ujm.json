@@ -1,0 +1,26 @@
+{
+  "id": "w681ujm",
+  "category": "anime",
+  "title": "ましろのおと",
+  "fullTitle": "[新]ましろのおと #01 [字]",
+  "detail": "#01 寂寞",
+  "start": 1618381800000,
+  "end": 1618383600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 129
+  },
+  "subTitle": "寂寞",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

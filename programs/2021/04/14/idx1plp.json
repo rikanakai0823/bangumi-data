@@ -1,0 +1,25 @@
+{
+  "id": "idx1plp",
+  "category": "anime",
+  "title": "キングダム ,11",
+  "fullTitle": "[字]キングダム #10,11",
+  "detail": "#10「王都突入」#11「激戦開始」\r\n紀元前、中国。西方の国・秦で、戦災孤児として暮らしていた2人の少年、信と漂の夢は…",
+  "start": 1618372800000,
+  "end": 1618376400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "王都突入",
+  "episode": 10,
+  "flags": [
+    "字"
+  ]
+}
