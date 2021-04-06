@@ -1,9 +1,9 @@
 {
   "id": "w69axkb",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "アフリカ　ビジネス最前線",
+  "fullTitle": "アフリカ　ビジネス最前線",
+  "detail": "#5 通信　通信のデジタル化を急速に進めるアフリカ。大陸全土を網羅するためにビジネスの転換を図っている、南アフリカ拠点の大手通信会社「MTN」を紹介。",
   "start": 1618032600000,
   "end": 1618034400000,
   "seconds": 1800,
@@ -17,9 +17,7 @@
     "hasLogoData": false,
     "n": 138
   },
-  "subTitle": "",
-  "episode": null,
-  "flags": [
-    "再"
-  ]
+  "subTitle": "MTN",
+  "episode": 5,
+  "flags": []
 }
