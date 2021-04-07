@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7w0z",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まもなくケンミンＤＸ合体」[字]",
+  "detail": "",
+  "start": 1618487640000,
+  "end": 1618488000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "まもなくケンミンＤＸ合体",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

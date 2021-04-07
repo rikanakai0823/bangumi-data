@@ -1,0 +1,26 @@
+{
+  "id": "rktcrgn",
+  "category": "music",
+  "title": "開かれた音楽会",
+  "fullTitle": "開かれた音楽会　[字][再]",
+  "detail": "日本初放送！人気K-POPアイドルからベテラン歌手まで出演する韓国の長寿音楽番組！",
+  "start": 1618430400000,
+  "end": 1618434000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

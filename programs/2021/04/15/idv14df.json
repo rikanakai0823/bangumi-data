@@ -1,0 +1,26 @@
+{
+  "id": "idv14df",
+  "category": "anime",
+  "title": "ペット２",
+  "fullTitle": "[映][SS]ペット２[吹]【吹替メガヒット９（再）】",
+  "detail": "イルミネーション製作の大ヒットアニメ第２弾。飼い主に新たな家族が増えたマックスら、個性あふれるペットたちの大冒険を描く。",
+  "start": 1618460100000,
+  "end": 1618465380000,
+  "seconds": 5280,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "吹替メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

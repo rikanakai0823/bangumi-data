@@ -1,0 +1,25 @@
+{
+  "id": "w68go17",
+  "category": "documentary",
+  "title": "ウェポン：A-10サンダーボルト",
+  "fullTitle": "ウェポン：A-10サンダーボルト(二)",
+  "detail": "マックが試射をするグレンデル弾は突撃銃から発射され、1km先まで音速を維持する。さらに、発射時の反動が小さいという利点があるという。",
+  "start": 1618419600000,
+  "end": 1618423200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 131
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

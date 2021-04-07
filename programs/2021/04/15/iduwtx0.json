@@ -1,0 +1,25 @@
+{
+  "id": "iduwtx0",
+  "category": "drama",
+  "title": "ウエストワールド　シーズン２",
+  "fullTitle": "[SS]ウエストワールド　シーズン２　＃８",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ全話一挙放送】",
+  "start": 1618454400000,
+  "end": 1618459200000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ全話一挙放送",
+  "episode": 8,
+  "flags": [
+    "SS"
+  ]
+}

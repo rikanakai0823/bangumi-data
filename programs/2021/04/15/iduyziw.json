@@ -1,0 +1,26 @@
+{
+  "id": "iduyziw",
+  "category": "cinema",
+  "title": "ボディカメラ",
+  "fullTitle": "[映][SS]ボディカメラ",
+  "detail": "人気歌手メアリー・Ｊ・ブライジ主演のホラースリラー。殺人事件を捜査する女性警官が不可解な現象に遭遇する。［ＰＧ１２相当］",
+  "start": 1618474800000,
+  "end": 1618480800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

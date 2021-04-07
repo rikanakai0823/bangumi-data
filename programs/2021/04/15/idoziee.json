@@ -1,0 +1,26 @@
+{
+  "id": "idoziee",
+  "category": "documentary",
+  "title": "街角ピアノ",
+  "fullTitle": "街角ピアノ「沖縄」[字][再]",
+  "detail": "沖縄市中心部の広場に置かれたピアノ。コロナ禍でも挑戦を続ける仲良し中学生。娘のためにピアノを始めた父親。沖縄方言で日本の名曲を歌う男性。どんな思いで曲を弾くのか",
+  "start": 1618415700000,
+  "end": 1618418400000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "沖縄",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
