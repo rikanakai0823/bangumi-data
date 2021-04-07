@@ -2,8 +2,8 @@
   "id": "idozel9",
   "category": "sports",
   "title": "競馬２０２１",
-  "fullTitle": "競馬２０２１",
-  "detail": "",
+  "fullTitle": "競馬２０２１「第８１回桜花賞」",
+  "detail": "競馬ファン待望の３歳馬によるクラシックレース開幕戦。牝馬がスピードを競う桜花賞。栄えある舞台に立つ全馬をパドックで解説。",
   "start": 1618120800000,
   "end": 1618124400000,
   "seconds": 3600,
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "第８１回桜花賞",
+  "episode": 81,
   "flags": []
 }
