@@ -1,0 +1,25 @@
+{
+  "id": "w63iz74",
+  "category": "sports",
+  "title": "ジャイアンツイースタンリーグ2021～ジャイアンツ球場～",
+  "fullTitle": "[生]ジャイアンツイースタンリーグ2021「巨人×楽天」～ジャイアンツ球場～",
+  "detail": "～生中継　*早終了、及び荒天中止の時、番組変更あり　*延長なし\r\n解説：川相昌弘\r\n実況：山本健太",
+  "start": 1618545600000,
+  "end": 1618560000000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "巨人×楽天",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

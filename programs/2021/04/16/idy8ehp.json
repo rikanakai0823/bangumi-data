@@ -1,0 +1,25 @@
+{
+  "id": "idy8ehp",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#9[二]",
+  "detail": "#9「ギョッ！」",
+  "start": 1618557900000,
+  "end": 1618558200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ギョッ！",
+  "episode": 9,
+  "flags": [
+    "二"
+  ]
+}

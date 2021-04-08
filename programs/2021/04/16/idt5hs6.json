@@ -1,0 +1,23 @@
+{
+  "id": "idt5hs6",
+  "category": "documentary",
+  "title": "Ｂｅｅワールド",
+  "fullTitle": "Ｂｅｅワールド",
+  "detail": "日本篇「冬の北海道での越冬法」",
+  "start": 1618570440000,
+  "end": 1618570800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "冬の北海道での越冬法",
+  "episode": null,
+  "flags": []
+}

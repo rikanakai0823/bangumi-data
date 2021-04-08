@@ -1,0 +1,26 @@
+{
+  "id": "idp3rcg",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「鬼と炎の奈良」[字][再]",
+  "detail": "冬の奈良を彩る鬼と炎の祭り。寺の中で鬼が暴れ、巨大な松明が炎を吹き上げる。人を脅かす鬼、恵みをもたらす鬼。個性豊かな鬼の祭りを奈良各地に訪ね、春を待つ人々を描く",
+  "start": 1618527600000,
+  "end": 1618531200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "鬼と炎の奈良",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

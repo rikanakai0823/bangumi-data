@@ -1,0 +1,26 @@
+{
+  "id": "iduxoes",
+  "category": "cinema",
+  "title": "母なる証明",
+  "fullTitle": "[映][SS]母なる証明",
+  "detail": "ポン・ジュノ監督、ウォンビン出演のミステリー。殺人事件の容疑者となった息子を救うため、母親が真相解明に奔走する姿を描く。",
+  "start": 1618574400000,
+  "end": 1618582800000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1j4s",
+  "category": "sports",
+  "title": "スター☆ゴルフマッチⅡ",
+  "fullTitle": "スター☆ゴルフマッチⅡ[Ｓ][再]",
+  "detail": "",
+  "start": 1618545600000,
+  "end": 1618547400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

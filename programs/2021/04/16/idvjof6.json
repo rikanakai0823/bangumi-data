@@ -1,0 +1,25 @@
+{
+  "id": "idvjof6",
+  "category": "news",
+  "title": "インサイドOUT 特別編 リベラルタイム",
+  "fullTitle": "インサイドOUT 特別編 リベラルタイム[デ]",
+  "detail": "",
+  "start": 1618574340000,
+  "end": 1618577640000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}

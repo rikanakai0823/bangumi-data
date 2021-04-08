@@ -1,0 +1,26 @@
+{
+  "id": "idozh4c",
+  "category": "documentary",
+  "title": "ドキュメント１ＤＡＹ　緊急事態宣言下　横浜",
+  "fullTitle": "ドキュメント１ＤＡＹ　緊急事態宣言下　横浜[解][字]",
+  "detail": "７２時間スピンオフ企画。緊急事態宣言下のある１日を多地点同時ドキュメント。保健所や特殊清掃業者、ＰＣＲ検査の自販機など。みんなどんな思いで、今と向き合うのか。",
+  "start": 1618560000000,
+  "end": 1618561800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

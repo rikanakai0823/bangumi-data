@@ -1,0 +1,23 @@
+{
+  "id": "rkteyvf",
+  "category": "music",
+  "title": "New Clip",
+  "fullTitle": "New Clip",
+  "detail": "最新K-POPのMusic Videoをいち早くオンエア◆曲目リストはMnet HPをご覧ください\r\n再放送：18日(日)18:45～、20日(火)17:15～",
+  "start": 1618559100000,
+  "end": 1618560000000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

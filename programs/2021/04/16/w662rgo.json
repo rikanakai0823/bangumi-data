@@ -1,0 +1,25 @@
+{
+  "id": "w662rgo",
+  "category": "information",
+  "title": "道の駅",
+  "fullTitle": "[無料]道の駅「リレー防災セミナー in 朝来」",
+  "detail": "防災と地方創生のあるべき姿を考えるセミナーが、兵庫県朝来市の道の駅「但馬のまほろば」でリモート形式で開催され、全国に情報発信されました。このセミナーを放送します",
+  "start": 1618567200000,
+  "end": 1618574400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "リレー防災セミナー in 朝来",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

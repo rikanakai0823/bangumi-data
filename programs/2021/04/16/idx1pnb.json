@@ -1,0 +1,25 @@
+{
+  "id": "idx1pnb",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ,524",
+  "fullTitle": "[字]ちびまる子ちゃん #523,524",
+  "detail": "#523「おはしで四苦八苦」の巻／「砂時計を作ろう」の巻\r\n#524「まる子とカラ梅雨」の巻／「お父さんとツーショット」…",
+  "start": 1618552800000,
+  "end": 1618556400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "おはしで四苦八苦",
+  "episode": 523,
+  "flags": [
+    "字"
+  ]
+}

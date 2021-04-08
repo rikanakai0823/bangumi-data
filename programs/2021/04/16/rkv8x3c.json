@@ -1,0 +1,25 @@
+{
+  "id": "rkv8x3c",
+  "category": "sports",
+  "title": "KKT杯 バンテリンレディスオープン2021 1日目後半ホール",
+  "fullTitle": "[生]KKT杯 バンテリンレディスオープン2021 1日目後半ホール",
+  "detail": "～生中継",
+  "start": 1618551000000,
+  "end": 1618554600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 135
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

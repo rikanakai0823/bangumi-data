@@ -1,0 +1,26 @@
+{
+  "id": "w681um3",
+  "category": "anime",
+  "title": "東京リベンジャーズ",
+  "fullTitle": "[無][新]東京リベンジャーズ #01",
+  "detail": "#01 Reborn",
+  "start": 1618554600000,
+  "end": 1618556400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 129
+  },
+  "subTitle": "Reborn",
+  "episode": 1,
+  "flags": [
+    "無",
+    "新"
+  ]
+}
