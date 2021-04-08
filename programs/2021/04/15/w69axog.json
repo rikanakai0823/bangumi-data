@@ -1,12 +1,12 @@
 {
   "id": "w69axog",
   "category": "news",
-  "title": "ニュー・デイ",
-  "fullTitle": "[二]ニュー・デイ",
-  "detail": "日本語同時通訳付。\r\nアメリカの「朝」を直送\r\n全米で人気のアリスン・キャメロータとジョン・バーマンが、アメリカの最新ニュースを伝えるモーニング・ワイド。",
+  "title": "Connect The World",
+  "fullTitle": "[二]Connect The World",
+  "detail": "日本語同時通訳付。\r\n1日の世界の動きをこの番組でキャッチアップ！CNNインターナショナルきっての女性アンカー、ベッキー・アンダーソンが送る国際ニュース。",
   "start": 1618488000000,
-  "end": 1618489800000,
-  "seconds": 1800,
+  "end": 1618491600000,
+  "seconds": 3600,
   "channel": {
     "type": "CS",
     "channel": "CS6",
