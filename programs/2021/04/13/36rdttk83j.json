@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"This Is Heaven\"NICK JONAS\r\n\"Feed The Fire\"SG LEWIS feat.LUCKY DAYE\r\nSG LEWISインタビュー\n◇番組内容２\n\"One More\"SG LEWIS feat. NILE RODGERS\r\n\"Wellerman (220 KID & BILLEN TED  remix)\"NATHAN EVANS\r\n\"Angels Like You\"MILEY CYRUS",
   "start": 1618239600000,
   "end": 1618241400000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"This Is Heaven\"NICK JONAS\r\n\"Feed The Fire\"SG LEWIS feat.LUCKY DAYE\r\nSG LEWISインタビュー",
+    "番組内容２": "\"One More\"SG LEWIS feat. NILE RODGERS\r\n\"Wellerman (220 KID & BILLEN TED  remix)\"NATHAN EVANS\r\n\"Angels Like You\"MILEY CYRUS"
   },
   "channel": {
     "type": "GR",
