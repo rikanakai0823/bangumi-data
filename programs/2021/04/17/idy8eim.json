@@ -1,0 +1,25 @@
+{
+  "id": "idy8eim",
+  "category": "cinema",
+  "title": "ヒックとドラゴン2",
+  "fullTitle": "ヒックとドラゴン2[二]",
+  "detail": "ヒックはドラゴンのトゥースに乗って空中散歩を楽しみながらまだ地図に載っていない場所を探検に行く。ドラゴをリーダーとする悪の一味がバーク島を狙っていたのだった。",
+  "start": 1618623000000,
+  "end": 1618629300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

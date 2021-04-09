@@ -1,0 +1,25 @@
+{
+  "id": "idozlfl",
+  "category": "sports",
+  "title": "２０２１ＡＴＰテニス　マスターズ１０００　ロレックス　モンテカルロマスターズ",
+  "fullTitle": "２０２１ＡＴＰテニス　マスターズ１０００　ロレックス　モンテカルロマスターズ[多]",
+  "detail": "男子シングルス・準決勝　※副音声は場内音声　～モナコ・モンテカルロから中継～",
+  "start": 1618671000000,
+  "end": 1618673400000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

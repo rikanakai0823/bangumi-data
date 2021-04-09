@@ -1,0 +1,23 @@
+{
+  "id": "idvjogm",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "当日の中央競馬レース結果と、明日のＧⅠ「皐月賞」（中山）の展望をお伝えします。",
+  "start": 1618666200000,
+  "end": 1618668000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "皐月賞",
+  "episode": null,
+  "flags": []
+}

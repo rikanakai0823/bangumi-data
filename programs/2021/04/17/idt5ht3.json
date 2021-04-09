@@ -1,0 +1,23 @@
+{
+  "id": "idt5ht3",
+  "category": "sports",
+  "title": "ウイニング競馬　～中山～",
+  "fullTitle": "ウイニング競馬　～中山～",
+  "detail": "【中山】10R下総Ｓ、11R中山ＧＪ(Ｊ・ＧⅠ)\r\n【阪神】10R陽春Ｓ、11RアーリントンＣ(ＧⅢ)\r\n【新潟】11Rラジオ福島賞",
+  "start": 1618637400000,
+  "end": 1618642800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "中山",
+  "episode": null,
+  "flags": []
+}

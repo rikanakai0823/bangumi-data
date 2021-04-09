@@ -1,0 +1,25 @@
+{
+  "id": "w67vhnz",
+  "category": "anime",
+  "title": "劇場版",
+  "fullTitle": "劇場版「名探偵コナン　紺青の拳（フィスト）」[字]",
+  "detail": "19世紀末に海賊船と共にシンガポール近海に沈んだとされる、世界最大のブルーサファイア“紺青の拳”。",
+  "start": 1618660800000,
+  "end": 1618668000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "名探偵コナン　紺青の拳（フィスト）",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

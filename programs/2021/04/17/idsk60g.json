@@ -1,0 +1,25 @@
+{
+  "id": "idsk60g",
+  "category": "cinema",
+  "title": "「デイズ・オブ・サンダー」",
+  "fullTitle": "[映]「デイズ・オブ・サンダー」【吹替】",
+  "detail": "時速３００キロを超すスピードで繰り広げられるストラッカー・レースに若きドライバーコール・トリクル（トム・クルーズ）が挑む。",
+  "start": 1618660800000,
+  "end": 1618667640000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

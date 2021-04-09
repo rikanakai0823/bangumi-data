@@ -1,0 +1,23 @@
+{
+  "id": "idozht9",
+  "category": "sports",
+  "title": "Ｊリーグタイム",
+  "fullTitle": "Ｊリーグタイム「第８週（Ｊ１第１０節）」",
+  "detail": "【解説】山本昌邦，【コメンテーター】平畠啓史，【アナウンサー】下境秀幸，【司会】中川絵美里",
+  "start": 1618664400000,
+  "end": 1618667400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "第８週（Ｊ１第１０節）",
+  "episode": null,
+  "flags": []
+}

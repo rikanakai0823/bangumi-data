@@ -1,0 +1,23 @@
+{
+  "id": "3826py3mso",
+  "category": "information",
+  "title": "Ｅネ！",
+  "fullTitle": "Ｅネ！",
+  "detail": "テレビ東京お薦めのエンタメ情報をお届け！映画・イベント・ＤＶＤなどを紹介します！",
+  "start": 1618605900000,
+  "end": 1618606800000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": false,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

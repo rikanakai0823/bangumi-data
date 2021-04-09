@@ -1,0 +1,25 @@
+{
+  "id": "idp1o3l",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第７５回　全日本体操選手権[字]",
+  "detail": "",
+  "start": 1618637400000,
+  "end": 1618638900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "全日本体操選手権",
+  "episode": 75,
+  "flags": [
+    "字"
+  ]
+}
