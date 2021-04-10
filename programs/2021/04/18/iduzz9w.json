@@ -1,0 +1,26 @@
+{
+  "id": "iduzz9w",
+  "category": "cinema",
+  "title": "トランスフォーマー",
+  "fullTitle": "[映][SS]トランスフォーマー[吹]",
+  "detail": "マイケル・ベイ監督の大ヒットＳＦアクション第１弾。金属生命体トランスフォーマーの脅威にさらされた人類の死闘を描く！",
+  "start": 1618718400000,
+  "end": 1618727400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

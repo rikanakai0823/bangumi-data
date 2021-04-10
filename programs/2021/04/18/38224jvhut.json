@@ -1,0 +1,25 @@
+{
+  "id": "38224jvhut",
+  "category": "variety",
+  "title": "お笑い二刀流　傑作選",
+  "fullTitle": "お笑い二刀流　傑作選[字]",
+  "detail": "次世代を担うバラエティを中心に、旅・グルメ・情報などのスペシャル番組を放送！日曜の午後にふさわしい作品をお届けします。",
+  "start": 1618721700000,
+  "end": 1618725300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1poe",
+  "category": "anime",
+  "title": "ぼのぼの 傑作選",
+  "fullTitle": "[字]ぼのぼの 傑作選",
+  "detail": "#165「アソビちゃんと遊ぼう」\r\n#166「アライグマくんはカクレムシ」\r\n#167「ぼのぼのじゅげむ」\r\n#168「空とぶ丸いもの…",
+  "start": 1618693200000,
+  "end": 1618695000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "アソビちゃんと遊ぼう",
+  "episode": 165,
+  "flags": [
+    "字"
+  ]
+}

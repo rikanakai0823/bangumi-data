@@ -1,0 +1,25 @@
+{
+  "id": "idy8ejl",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#2[解]",
+  "detail": "#2「ハチミツムポップコーン」",
+  "start": 1618709220000,
+  "end": 1618709400000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ハチミツムポップコーン",
+  "episode": 2,
+  "flags": [
+    "解"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduxu2g",
+  "category": "cinema",
+  "title": "華やかな魔女たち",
+  "fullTitle": "[映]華やかな魔女たち",
+  "detail": "イタリアを代表する５監督が集結。シルヴァーナ・マンガーノ演じる魔女を題材に、ユーモラスな物語が展開するオムニバス映画。",
+  "start": 1618717200000,
+  "end": 1618724700000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

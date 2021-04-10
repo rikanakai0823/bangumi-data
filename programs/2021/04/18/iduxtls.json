@@ -1,0 +1,25 @@
+{
+  "id": "iduxtls",
+  "category": "cinema",
+  "title": "クレージー・モンキー／笑拳",
+  "fullTitle": "[映]クレージー・モンキー／笑拳",
+  "detail": "監督・脚本・主演ジャッキー・チェンのコミカルなカンフーアクション。祖父を殺された青年が“笑拳”を駆使して仇敵と闘う。",
+  "start": 1618695600000,
+  "end": 1618701600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

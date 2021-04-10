@@ -1,0 +1,26 @@
+{
+  "id": "idugq7i",
+  "category": "cinema",
+  "title": "ペット２（字幕版）",
+  "fullTitle": "[映]ペット２（字幕版）[SS]",
+  "detail": "２０１６年の大ヒットアニメ「ペット」の続編。犬のマックスとデュークを中心とするキュートなペットたちは新たな冒険に挑戦。動物仲間が増える上、物語もスケールアップ。",
+  "start": 1618745400000,
+  "end": 1618750800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "ペット",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

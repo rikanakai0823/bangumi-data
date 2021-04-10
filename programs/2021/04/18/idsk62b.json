@@ -1,0 +1,23 @@
+{
+  "id": "idsk62b",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　巨人」",
+  "detail": "横浜から生中継。午後２時試合開始。地上波ＴＢＳ系列からのリレー中継。最大延長夕方６時。【解説】未定【実況】新タ悦男",
+  "start": 1618728780000,
+  "end": 1618732800000,
+  "seconds": 4020,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　巨人",
+  "episode": null,
+  "flags": []
+}

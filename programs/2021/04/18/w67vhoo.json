@@ -1,0 +1,25 @@
+{
+  "id": "w67vhoo",
+  "category": "anime",
+  "title": "ルパン三世 セブンデイズ・ラプソディ",
+  "fullTitle": "ルパン三世 セブンデイズ・ラプソディ[字]",
+  "detail": "地球を半周する７日間のスリリングなラプソディ、ルパン三世とその一味の流儀をお見せしましょう。ＴＶスペシャル第１８弾。",
+  "start": 1618756800000,
+  "end": 1618762800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

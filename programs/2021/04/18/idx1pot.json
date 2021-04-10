@@ -1,0 +1,25 @@
+{
+  "id": "idx1pot",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#165「アソビちゃんと遊ぼう」\r\n#166「アライグマくんはカクレムシ」\r\nラッコの子ども“ぼのぼの”とシマリスくんやスナ…",
+  "start": 1618748100000,
+  "end": 1618749000000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "アソビちゃんと遊ぼう",
+  "episode": 165,
+  "flags": [
+    "字"
+  ]
+}

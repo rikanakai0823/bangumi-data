@@ -1,0 +1,25 @@
+{
+  "id": "idt5huy",
+  "category": "music",
+  "title": "ＢＳ演歌の花道",
+  "fullTitle": "ＢＳ演歌の花道[字]",
+  "detail": "▽前半昭和の花道…島倉千代子、角川博、牧村三枝子、松原のぶえ\r\n▽後半令和の花道…天童よしみ、香西かおり、三山ひろし",
+  "start": 1618747200000,
+  "end": 1618750500000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iducf51",
+  "category": "cinema",
+  "title": "生理ちゃん",
+  "fullTitle": "[映]生理ちゃん[SS][字]",
+  "detail": "二階堂ふみ主演のハートウオーミングコメディ。女性ファッション誌の編集者、清掃作業員のフリーター、編集者の妹の女子高校生が、月１回の現象に四苦八苦する姿を描く。",
+  "start": 1618685700000,
+  "end": 1618690500000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

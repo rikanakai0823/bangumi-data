@@ -1,0 +1,25 @@
+{
+  "id": "idx1pop",
+  "category": "anime",
+  "title": "黒子のバスケ ,72",
+  "fullTitle": "[字]黒子のバスケ #71,72",
+  "detail": "第71Q「これでも必死だよ」\r\n第72Q「忠告だ」\r\nバスケットボールの強豪として知られる帝光中学校は、特に“キセキの世代…",
+  "start": 1618736400000,
+  "end": 1618740000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "これでも必死だよ",
+  "episode": 71,
+  "flags": [
+    "字"
+  ]
+}
