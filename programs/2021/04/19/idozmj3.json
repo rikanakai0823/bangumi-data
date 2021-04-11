@@ -1,0 +1,26 @@
+{
+  "id": "idozmj3",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「双葉から遠く離れて　１０年」[字][再]",
+  "detail": "東日本大震災後、全町避難が唯一いまも続く福島県双葉町。１０年前、原発を抱える町は２００キロ離れた埼玉県の廃校に役場ごと避難した。その時から映像記録が始まった。",
+  "start": 1618760400000,
+  "end": 1618763400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "双葉から遠く離れて　１０年",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

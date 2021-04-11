@@ -1,0 +1,26 @@
+{
+  "id": "idp3tbb",
+  "category": "documentary",
+  "title": "にっぽん百名山",
+  "fullTitle": "にっぽん百名山「筑波山」[字][再]",
+  "detail": "茨城県の筑波山。古くから西の富士、東の筑波と称されるほど美しい山容が特徴だ。今回は梅の花が咲き誇る春の日帰り登山。山頂からは富士山まで見渡せる大展望が広がる。",
+  "start": 1618803000000,
+  "end": 1618804800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "筑波山",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

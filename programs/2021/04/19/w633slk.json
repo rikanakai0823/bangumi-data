@@ -1,0 +1,23 @@
+{
+  "id": "w633slk",
+  "category": "sports",
+  "title": "RG新体操の星",
+  "fullTitle": "RG新体操の星",
+  "detail": "第72回全日本新体操選手権大会 女子個人総合(1) 10位～6位",
+  "start": 1618830000000,
+  "end": 1618833600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 95
+  },
+  "subTitle": "",
+  "episode": 72,
+  "flags": []
+}

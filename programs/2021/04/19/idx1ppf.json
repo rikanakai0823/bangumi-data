@@ -1,0 +1,25 @@
+{
+  "id": "idx1ppf",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ,526",
+  "fullTitle": "[字]ちびまる子ちゃん #525,526",
+  "detail": "#525「まる子、極楽に行く」の巻／「まる子、ニキビが出来る」の巻\r\n#526「まる子、半熟卵を食べたい」の巻／「みぎわ…",
+  "start": 1618812000000,
+  "end": 1618815600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "まる子、極楽に行く",
+  "episode": 525,
+  "flags": [
+    "字"
+  ]
+}

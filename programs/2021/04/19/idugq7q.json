@@ -1,0 +1,27 @@
+{
+  "id": "idugq7q",
+  "category": "cinema",
+  "title": "ｍｅｌｌｏｗ",
+  "fullTitle": "[映]ｍｅｌｌｏｗ[SS][字]",
+  "detail": "ドラマ「おっさんずラブ」などで人気の田中圭が、花をこよなく愛するイケメンを爽やかに好演。独身の彼をめぐるもつれた恋愛騒動を今泉力哉監督が愉快に描いた恋愛群像劇。",
+  "start": 1618801200000,
+  "end": 1618808400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "おっさんずラブ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
