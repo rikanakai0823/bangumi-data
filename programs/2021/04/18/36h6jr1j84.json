@@ -2,11 +2,15 @@
   "id": "36h6jr1j84",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nゴロネックス　０１２０－４４－００２７",
   "start": 1618702200000,
   "end": 1618704000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ゴロネックス　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

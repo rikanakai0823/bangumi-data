@@ -2,11 +2,15 @@
   "id": "36h6jr1j6i",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nセブンスピロー　０１２０－１６－００７９",
   "start": 1618650000000,
   "end": 1618651800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "セブンスピロー　０１２０－１６－００７９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
