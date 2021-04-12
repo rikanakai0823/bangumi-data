@@ -1,0 +1,23 @@
+{
+  "id": "idxxyxi",
+  "category": "hobby",
+  "title": "AGFC通信",
+  "fullTitle": "AGFC通信",
+  "detail": "ASHIYAガールズフィッシングクラブ、通称AGFCは11人のメンバーで活動中。",
+  "start": 1618840500000,
+  "end": 1618840800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
