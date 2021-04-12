@@ -1,0 +1,26 @@
+{
+  "id": "idp3y2j",
+  "category": "documentary",
+  "title": "シリーズ　中国・天涯の地",
+  "fullTitle": "シリーズ　中国・天涯の地「森の恵みに生きる」[字][再]",
+  "detail": "世界自然遺産・九寨溝や黄龍溝のある四川省の深い森で暮らす民、ベマ族。巨大な鬼の仮面や美しい伝統衣装。北京テレビとＮＨＫの共同制作。",
+  "start": 1618504200000,
+  "end": 1618507800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "森の恵みに生きる",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
