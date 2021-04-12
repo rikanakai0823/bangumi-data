@@ -1,0 +1,23 @@
+{
+  "id": "idp3wwm",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「大阪・京都・奈良　桜めぐり」",
+  "detail": "",
+  "start": 1618853400000,
+  "end": 1618855200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "大阪・京都・奈良　桜めぐり",
+  "episode": null,
+  "flags": []
+}

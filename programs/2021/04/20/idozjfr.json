@@ -1,0 +1,26 @@
+{
+  "id": "idozjfr",
+  "category": "sports",
+  "title": "プロ野球２０２１「ＤｅＮＡ」対",
+  "fullTitle": "プロ野球２０２１「ＤｅＮＡ」対「中日」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】大野豊，【アナウンサー】飯塚洋介　～横浜スタジアムから中継～",
+  "start": 1618909200000,
+  "end": 1618921800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "中日",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

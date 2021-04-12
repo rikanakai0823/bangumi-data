@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmau2",
+  "category": "sports",
+  "title": "川崎競馬中継",
+  "fullTitle": "川崎競馬中継",
+  "detail": "川崎競馬場からレースの模様を生中継！",
+  "start": 1618912800000,
+  "end": 1618920000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": false,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugq85",
+  "category": "cinema",
+  "title": "カムイ外伝",
+  "fullTitle": "[映]カムイ外伝[SS][字]",
+  "detail": "松山ケンイチ、小雪ら共演。白土三平の伝説的漫画を映画化し、忍者の世界に嫌気が差し、自由を求めて抜け忍となった孤高の主人公カムイの決死の闘いを描く痛快娯楽時代劇。",
+  "start": 1618920000000,
+  "end": 1618928100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

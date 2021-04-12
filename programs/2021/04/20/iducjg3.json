@@ -1,0 +1,27 @@
+{
+  "id": "iducjg3",
+  "category": "etc",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "◇番組名\n放送休止",
+  "start": 1618866600000,
+  "end": 1618867200000,
+  "seconds": 600,
+  "description": "",
+  "extra": {
+    "番組名": "放送休止"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

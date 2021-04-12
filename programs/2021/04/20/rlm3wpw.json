@@ -1,0 +1,25 @@
+{
+  "id": "rlm3wpw",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.楽天",
+  "fullTitle": "[生]HAWKS プロ野球中継2021 ソフトバンクvs.楽天",
+  "detail": "▽4月20日開催\r\n解説/実況：浜名千広/信川竜太\r\n開催日時：2021年4月20日 (火) 18:00\r\n会場：北九州市民球場",
+  "start": 1618908300000,
+  "end": 1618927200000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

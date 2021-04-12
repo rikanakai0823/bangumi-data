@@ -1,0 +1,23 @@
+{
+  "id": "36rdttk8sz",
+  "category": "news",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ",
+  "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ",
+  "detail": "県内の天気予報",
+  "start": 1618901700000,
+  "end": 1618901940000,
+  "seconds": 240,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": false,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

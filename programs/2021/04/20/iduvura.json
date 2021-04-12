@@ -1,0 +1,26 @@
+{
+  "id": "iduvura",
+  "category": "cinema",
+  "title": "あなたの旅立ち、綴ります",
+  "fullTitle": "[映][SS]あなたの旅立ち、綴ります",
+  "detail": "シャーリー・マクレーンとアマンダ・セイフライド共演のヒューマンコメディ。生前に訃報記事を依頼した老婦人と若手記者を描く。",
+  "start": 1618867800000,
+  "end": 1618875000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

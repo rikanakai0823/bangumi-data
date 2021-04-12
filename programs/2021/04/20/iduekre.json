@@ -1,0 +1,23 @@
+{
+  "id": "iduekre",
+  "category": "drama",
+  "title": "東京０３",
+  "fullTitle": "東京０３　第１５回　単独公演「露骨中の露骨」",
+  "detail": "２０１３年に行なわれた全国ツアーの中から東京追加公演の模様を放送。",
+  "start": 1618899300000,
+  "end": 1618907400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "単独公演",
+  "episode": 15,
+  "flags": []
+}

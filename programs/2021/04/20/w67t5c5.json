@@ -1,0 +1,23 @@
+{
+  "id": "w67t5c5",
+  "category": "music",
+  "title": "USEN演歌ベスト20",
+  "fullTitle": "USEN演歌ベスト20 #53",
+  "detail": "有線放送「USEN」がリクエストデータやオンエア実績等を独自に集計した演歌・歌謡曲ランキングを毎週ミュージックビデオで紹介。（3/26～4/1集計)",
+  "start": 1618893000000,
+  "end": 1618900200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 126
+  },
+  "subTitle": "USEN",
+  "episode": 53,
+  "flags": []
+}
