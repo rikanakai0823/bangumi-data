@@ -1,0 +1,25 @@
+{
+  "id": "w63iz9w",
+  "category": "sports",
+  "title": "GIANTSプレゲームショー",
+  "fullTitle": "[生]GIANTSプレゲームショー",
+  "detail": "～生放送",
+  "start": 1618992000000,
+  "end": 1618993800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

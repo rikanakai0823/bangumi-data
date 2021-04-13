@@ -1,0 +1,25 @@
+{
+  "id": "iduvybd",
+  "category": "drama",
+  "title": "ビッグ・リトル・ライズ２",
+  "fullTitle": "[SS]ビッグ・リトル・ライズ２　＃６",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ全話一挙放送】",
+  "start": 1618973100000,
+  "end": 1618977600000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ全話一挙放送",
+  "episode": 6,
+  "flags": [
+    "SS"
+  ]
+}

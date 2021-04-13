@@ -1,0 +1,26 @@
+{
+  "id": "iduvytk",
+  "category": "cinema",
+  "title": "フッド：ザ・ビギニング",
+  "fullTitle": "[映][SS]フッド：ザ・ビギニング",
+  "detail": "タロン・エガートン主演のアクションアドベンチャー。腐敗した政府に抵抗する義賊ロビン・フッド誕生秘話を現代的視点で描く。",
+  "start": 1618995600000,
+  "end": 1619003700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

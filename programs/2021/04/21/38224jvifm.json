@@ -1,0 +1,31 @@
+{
+  "id": "38224jvifm",
+  "category": "variety",
+  "title": "お笑い実力刃",
+  "fullTitle": "[新]お笑い実力刃[字]",
+  "detail": "実力派芸人が様々なテーマでネタを披露！\n◇◇出演者\nアンタッチャブル\r\nサンドウィッチマン\n◇◇おしらせ\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/owaraijitsuryokuha/",
+  "start": 1619014500000,
+  "end": 1619018100000,
+  "seconds": 3600,
+  "description": "実力派芸人が様々なテーマでネタを披露！",
+  "extra": {
+    "◇出演者": "アンタッチャブル\r\nサンドウィッチマン",
+    "◇おしらせ": "☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/owaraijitsuryokuha/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

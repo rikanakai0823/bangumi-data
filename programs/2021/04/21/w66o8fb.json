@@ -1,0 +1,26 @@
+{
+  "id": "w66o8fb",
+  "category": "drama",
+  "title": "メンタリスト1",
+  "fullTitle": "[二]メンタリスト1(帯)#23[終]",
+  "detail": "#23「レッド・ジョンの足跡」\r\nRed John's Footsteps\r\nサンアンジェロの州立公園で女性の遺体が発見される。ジェーンは、遺体の状態からレッド・ジョンの犯行だと確信する。",
+  "start": 1618986600000,
+  "end": 1618990200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "レッド・ジョンの足跡",
+  "episode": 23,
+  "flags": [
+    "二",
+    "終"
+  ]
+}
