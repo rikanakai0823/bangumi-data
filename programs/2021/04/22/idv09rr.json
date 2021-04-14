@@ -1,0 +1,25 @@
+{
+  "id": "idv09rr",
+  "category": "drama",
+  "title": "ウエストワールド　シーズン２",
+  "fullTitle": "ウエストワールド　シーズン２　＃６[二]",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ一挙放送】",
+  "start": 1619025300000,
+  "end": 1619029800000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ一挙放送",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}

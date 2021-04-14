@@ -1,0 +1,23 @@
+{
+  "id": "w5xsskc",
+  "category": "information",
+  "title": "Kumi’s Room アースデイ",
+  "fullTitle": "Kumi’s Room アースデイ",
+  "detail": "ＱＶＣナビゲーター・渡辺公海がお届けするショーです。様々なジャンルのアイテムを、多彩なゲストと共に賑やかに紹介します。",
+  "start": 1619071200000,
+  "end": 1619074800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

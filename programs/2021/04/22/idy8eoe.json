@@ -1,0 +1,25 @@
+{
+  "id": "idy8eoe",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#51[二]",
+  "detail": "#51「社交ダンス競技会」",
+  "start": 1619020800000,
+  "end": 1619022600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "社交ダンス競技会",
+  "episode": 51,
+  "flags": [
+    "二"
+  ]
+}

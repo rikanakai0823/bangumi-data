@@ -1,0 +1,25 @@
+{
+  "id": "idp3une",
+  "category": "documentary",
+  "title": "ヒューマニエンス",
+  "fullTitle": "ヒューマニエンス「“出産”　ヒトは難産を選んだ」[字]",
+  "detail": "人間という不確かで不思議な存在とは何か？科学と未知の領域を行き来しながら、その真の姿に迫っていくシリーズ！今回は「なぜヒトは難産を選んだのか」。驚きの進化の物語",
+  "start": 1619089200000,
+  "end": 1619092800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "“出産”　ヒトは難産を選んだ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

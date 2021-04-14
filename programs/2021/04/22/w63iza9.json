@@ -1,0 +1,25 @@
+{
+  "id": "w63iza9",
+  "category": "sports",
+  "title": "ジャイアンツイースタンリーグ2021～ジャイアンツ球場～",
+  "fullTitle": "[生]ジャイアンツイースタンリーグ2021「巨人×西武」～ジャイアンツ球場～",
+  "detail": "～生中継　*早終了あり　*延長なし\r\n実況：小野塚康之",
+  "start": 1619064000000,
+  "end": 1619078400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "巨人×西武",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

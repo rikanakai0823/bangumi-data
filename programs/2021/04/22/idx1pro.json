@@ -1,0 +1,25 @@
+{
+  "id": "idx1pro",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ,532",
+  "fullTitle": "[字]ちびまる子ちゃん #531,532",
+  "detail": "#531「まる子、講談を聞きに行く」の巻\r\n#532「夏のかるた」の巻／「ハートのアップリケ」の巻\r\n静岡県清水市に住む小学…",
+  "start": 1619071200000,
+  "end": 1619074800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "まる子、講談を聞きに行く",
+  "episode": 531,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idozoyn",
+  "category": "information",
+  "title": "突撃！ストリートシェフ　＠バンコク",
+  "fullTitle": "突撃！ストリートシェフ　＠バンコク「ロヒンギャ料理」[字]",
+  "detail": "胃袋から、世界を知り尽くすグルメドキュメンタリー。今回は、タイに逃れてきたミャンマー出身のイスラム教徒ロヒンギャのシェフに密着。タイの人々との交流を見つめる。",
+  "start": 1618818000000,
+  "end": 1618818600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ロヒンギャ料理",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugq8m",
+  "category": "cinema",
+  "title": "レディ・ジョーカー[PG-12指定]",
+  "fullTitle": "[映]レディ・ジョーカー[PG-12指定][SS][字]",
+  "detail": "２０２０年８月１０日に他界した渡哲也をはじめとする豪華キャスト共演。髙村薫による骨太のミステリー小説を「愛を乞うひと」の平山秀幸監督が映画化した話題作。",
+  "start": 1619039700000,
+  "end": 1619047800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "愛を乞うひと",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

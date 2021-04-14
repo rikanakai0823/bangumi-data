@@ -1,0 +1,25 @@
+{
+  "id": "w67vhso",
+  "category": "anime",
+  "title": "おじゃる丸",
+  "fullTitle": "おじゃる丸[字] #23",
+  "detail": "第23話「シャク侍」\r\nヘイアンチョウの妖精界に、妖精貴族のミヤビなお子さま・坂ノ上おじゃる丸がおりました。",
+  "start": 1619063100000,
+  "end": 1619064000000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "シャク侍",
+  "episode": 23,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduw1ar",
+  "category": "cinema",
+  "title": "ロケットマン（２０１９）",
+  "fullTitle": "[映][SS]ロケットマン（２０１９）",
+  "detail": "エルトン・ジョンが自ら製作総指揮を務め、自身の波瀾万丈の音楽人生を描いたタロン・エガートン主演の伝記ドラマ。［ＰＧ１２］",
+  "start": 1619050500000,
+  "end": 1619058000000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

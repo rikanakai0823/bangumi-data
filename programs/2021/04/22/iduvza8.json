@@ -1,0 +1,25 @@
+{
+  "id": "iduvza8",
+  "category": "drama",
+  "title": "ＦＡＲＧＯ／ファーゴ：カンザスシティ",
+  "fullTitle": "[SS]ＦＡＲＧＯ／ファーゴ：カンザスシティ　＃１",
+  "detail": "【独占日本初放送スタート】",
+  "start": 1619017200000,
+  "end": 1619021700000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "独占日本初放送スタート",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}
