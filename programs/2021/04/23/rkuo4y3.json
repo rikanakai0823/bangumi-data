@@ -1,0 +1,25 @@
+{
+  "id": "rkuo4y3",
+  "category": "hobby",
+  "title": "ドット#33,#34[字/日英]",
+  "fullTitle": "ドット#33,#34[二][字/日英]",
+  "detail": "#33「たのしいウォーカソン」　#34「オーロラをみよう」",
+  "start": 1619150400000,
+  "end": 1619152200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 131
+  },
+  "subTitle": "たのしいウォーカソン",
+  "episode": 33,
+  "flags": [
+    "二"
+  ]
+}

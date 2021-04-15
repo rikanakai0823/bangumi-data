@@ -1,0 +1,23 @@
+{
+  "id": "idozkvh",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「５月号」",
+  "detail": "",
+  "start": 1619185200000,
+  "end": 1619185500000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "５月号",
+  "episode": null,
+  "flags": []
+}

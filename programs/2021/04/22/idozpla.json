@@ -1,0 +1,26 @@
+{
+  "id": "idozpla",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「バラカンが見たコロナ禍の東京」[字][再]",
+  "detail": "コロナ禍で、東京に暮らす外国人たち。彼らの目に東京はどう映り、どんな未来を思い描いているのか？２０２０年秋、日本在住４６年のピーター・バラカンが訪ねた。",
+  "start": 1619064000000,
+  "end": 1619067000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "バラカンが見たコロナ禍の東京",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

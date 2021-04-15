@@ -1,0 +1,25 @@
+{
+  "id": "idy8eps",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#52[二]",
+  "detail": "#52「健康がいちばん！」",
+  "start": 1619107200000,
+  "end": 1619109000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "健康がいちばん！",
+  "episode": 52,
+  "flags": [
+    "二"
+  ]
+}

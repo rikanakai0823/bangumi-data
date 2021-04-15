@@ -1,0 +1,23 @@
+{
+  "id": "idueksc",
+  "category": "sports",
+  "title": "週刊テニスＮＡＶＩ",
+  "fullTitle": "週刊テニスＮＡＶＩ　＃１３",
+  "detail": "",
+  "start": 1619108100000,
+  "end": 1619109900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 13,
+  "flags": []
+}

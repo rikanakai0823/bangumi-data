@@ -1,0 +1,25 @@
+{
+  "id": "w63izal",
+  "category": "sports",
+  "title": "ワールドレディスチャンピオンシップサロンパスカップ2016 最終日地上波",
+  "fullTitle": "ワールドレディスチャンピオンシップサロンパスカップ2016 最終日地上波[再]",
+  "detail": "～茨城ゴルフ倶楽部　東コース",
+  "start": 1619141400000,
+  "end": 1619148600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

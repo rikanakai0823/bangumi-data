@@ -1,0 +1,23 @@
+{
+  "id": "w67eh0t",
+  "category": "music",
+  "title": "eill PV特集",
+  "fullTitle": "eill PV特集",
+  "detail": "eillのミュージックビデオ特集をオンエア。",
+  "start": 1619186400000,
+  "end": 1619188200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 123
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

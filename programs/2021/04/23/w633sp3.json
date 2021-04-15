@@ -1,0 +1,25 @@
+{
+  "id": "w633sp3",
+  "category": "sports",
+  "title": "プロ野球 阪神×横浜DeNA 4.23",
+  "fullTitle": "[生]プロ野球 阪神×横浜DeNA 4.23",
+  "detail": "阪神×横浜DeNA(4/23試合)\r\n▽生中継/甲子園/PB18:00\r\n※雨天中止、時間延長の場合あり",
+  "start": 1619167500000,
+  "end": 1619184600000,
+  "seconds": 17100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8eqo",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#14[二]",
+  "detail": "#14「起きて！グーフィー」",
+  "start": 1619162700000,
+  "end": 1619163000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "起きて！グーフィー",
+  "episode": 14,
+  "flags": [
+    "二"
+  ]
+}
