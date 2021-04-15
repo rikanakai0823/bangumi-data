@@ -1,12 +1,12 @@
 {
   "id": "381f5ksc10",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報",
+  "title": "ニュース",
+  "fullTitle": "ニュース「日米首脳会談」",
   "detail": "",
   "start": 1618603200000,
-  "end": 1618603800000,
-  "seconds": 600,
+  "end": 1618605000000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "日米首脳会談",
   "episode": null,
   "flags": []
 }
