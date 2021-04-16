@@ -4,9 +4,9 @@
   "title": "Early　Morning　News",
   "fullTitle": "Early　Morning　News",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Early Morning News」",
-  "start": 1618691400000,
+  "start": 1618693200000,
   "end": 1618696800000,
-  "seconds": 5400,
+  "seconds": 3600,
   "channel": {
     "type": "CS",
     "channel": "CS8",
