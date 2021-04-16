@@ -1,11 +1,11 @@
 {
-  "id": "381f5ksc18",
+  "id": "381f5ksc19",
   "category": "news",
-  "title": "気象情報",
-  "fullTitle": "気象情報",
+  "title": "気象情報（関東甲信越）",
+  "fullTitle": "気象情報（関東甲信越）",
   "detail": "",
-  "start": 1618606200000,
-  "end": 1618606500000,
+  "start": 1618606500000,
+  "end": 1618606800000,
   "seconds": 300,
   "channel": {
     "type": "GR",

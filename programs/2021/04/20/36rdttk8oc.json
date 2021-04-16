@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Winter Is Coming In(Live from Festival International de Jazz de Montre？al, 7？/？5？/？2019)\"\r\nALEX HENRY FOSTER\r\nALEX HENRY FOSTERインタビュー\n◇番組内容２\n\"The Son of Hannah(Live from Festival International De Jazz De Montre？al, 7/5/2019)\"\r\nALEX HENRY FOSTER\n◇番組内容３\n\"JETSKI\"INTERNET MONEY feat. LIL TECCA & LIL MOSEY\r\n\"Beautiful Mistakes\"MAROON 5 feat.MEGAN THEE STALLION",
   "start": 1618844400000,
   "end": 1618846200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Winter Is Coming In(Live from Festival International de Jazz de Montre？al, 7？/？5？/？2019)\"\r\nALEX HENRY FOSTER\r\nALEX HENRY FOSTERインタビュー",
+    "番組内容２": "\"The Son of Hannah(Live from Festival International De Jazz De Montre？al, 7/5/2019)\"\r\nALEX HENRY FOSTER",
+    "番組内容３": "\"JETSKI\"INTERNET MONEY feat. LIL TECCA & LIL MOSEY\r\n\"Beautiful Mistakes\"MAROON 5 feat.MEGAN THEE STALLION"
   },
   "channel": {
     "type": "GR",
