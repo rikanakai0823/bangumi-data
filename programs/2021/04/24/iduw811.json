@@ -1,0 +1,26 @@
+{
+  "id": "iduw811",
+  "category": "cinema",
+  "title": "イミテーション・ゲーム／エニグマと天才数学者の秘密",
+  "fullTitle": "[映][SS]イミテーション・ゲーム／エニグマと天才数学者の秘密",
+  "detail": "【特集：偉人たちの足跡】",
+  "start": 1619243100000,
+  "end": 1619250300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "特集：偉人たちの足跡",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

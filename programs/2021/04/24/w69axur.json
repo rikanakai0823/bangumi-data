@@ -1,0 +1,23 @@
+{
+  "id": "w69axur",
+  "category": "news",
+  "title": "Amanpour",
+  "fullTitle": "Amanpour",
+  "detail": "CNNを代表するアンカー、クリスティアン・アマンプールが、国際情勢の鍵を握る世界の要人に鋭いインタビューで迫る。",
+  "start": 1619200800000,
+  "end": 1619204400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

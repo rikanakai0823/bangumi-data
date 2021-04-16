@@ -1,0 +1,25 @@
+{
+  "id": "idp3vv0",
+  "category": "music",
+  "title": "我が心の大滝詠一",
+  "fullTitle": "我が心の大滝詠一[字]",
+  "detail": "伝説のアーティスト大滝詠一。Ｊ－ＰＯＰの原点ともいえる代表作「ロング・バケイション」の発表から今年で４０周年。大滝ゆかりの豪華アーティストたちが名曲を歌唱する。",
+  "start": 1619265600000,
+  "end": 1619271000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "ロング・バケイション",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1ptd",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "#454「まる子、冬眠したい！」の巻／「終わらない大みそか」の巻\r\n#455「お正月ボケを治そう」の巻／「家のお宝」の巻\r\n…",
+  "start": 1619262000000,
+  "end": 1619265600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "まる子、冬眠したい！",
+  "episode": 454,
+  "flags": [
+    "字"
+  ]
+}

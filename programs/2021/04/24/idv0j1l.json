@@ -1,0 +1,26 @@
+{
+  "id": "idv0j1l",
+  "category": "cinema",
+  "title": "アンダーウォーター",
+  "fullTitle": "[映][SS]アンダーウォーター[吹]",
+  "detail": "クリステン・スチュアート主演のＳＦパニックスリラー。深海の研究所を舞台に、海底地震で目覚めた未知の生物の恐怖を描く。",
+  "start": 1619275500000,
+  "end": 1619281800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

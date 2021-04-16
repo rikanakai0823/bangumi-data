@@ -1,0 +1,27 @@
+{
+  "id": "381xj5nxip",
+  "category": "etc",
+  "title": "ガイド",
+  "fullTitle": "ガイド",
+  "detail": "◇番組内容",
+  "start": 1619249100000,
+  "end": 1619249400000,
+  "seconds": 300,
+  "description": "　",
+  "extra": {
+    "番組内容": "　"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

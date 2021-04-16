@@ -1,0 +1,25 @@
+{
+  "id": "rktcrm7",
+  "category": "drama",
+  "title": "*アンコール放送*メロホリック　、8",
+  "fullTitle": "*アンコール放送*メロホリック　#7、8 [字]",
+  "detail": "ユンホ（東方神起）主演！アンコール放送！予測不能なラブコメ・スリラー！2017年 全10話",
+  "start": 1619202300000,
+  "end": 1619210700000,
+  "seconds": 8400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

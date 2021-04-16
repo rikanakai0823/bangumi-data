@@ -1,0 +1,25 @@
+{
+  "id": "w67vhv6",
+  "category": "anime",
+  "title": "ソニックＸ ,72",
+  "fullTitle": "ソニックＸ[字] #71,72",
+  "detail": "＃７１「カフェ・カオティクス」＃７２「メタレックスの正体！？」",
+  "start": 1619258400000,
+  "end": 1619262000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "カフェ・カオティクス",
+  "episode": 71,
+  "flags": [
+    "字"
+  ]
+}

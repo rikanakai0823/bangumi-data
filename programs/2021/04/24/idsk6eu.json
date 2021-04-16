@@ -1,0 +1,25 @@
+{
+  "id": "idsk6eu",
+  "category": "cinema",
+  "title": "「沈黙の傭兵」",
+  "fullTitle": "[映]「沈黙の傭兵」【吹替】",
+  "detail": "迫力の大銃撃戦、厳重警備の銀行を舞台にした頭脳戦、息詰まるアクションの数々と先の読めないストーリー。爽快感１２０％の極上エンタテインメント！",
+  "start": 1619265600000,
+  "end": 1619272440000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduw86l",
+  "category": "cinema",
+  "title": "コレット",
+  "fullTitle": "[映][SS]コレット【特集：偉人たちの足跡】",
+  "detail": "キーラ・ナイトレイ主演の伝記ドラマ。女性作家シドニー＝ガブリエル・コレットの波乱万丈の半生を描き出す。［ＰＧ１２］",
+  "start": 1619250300000,
+  "end": 1619257500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "特集：偉人たちの足跡",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
