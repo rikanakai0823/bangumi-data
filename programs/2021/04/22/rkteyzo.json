@@ -1,12 +1,12 @@
 {
   "id": "rkteyzo",
   "category": "music",
-  "title": "M COUNTDOWN",
-  "fullTitle": "[生]M COUNTDOWN",
-  "detail": "最新K-POPを視聴できるNO.1音楽番組「M COUNTDOWN」韓国同時生放送でお届け！\r\n字幕なし：（土)深2:00\r\n字幕版：（日)21:00、（火)11:00、(水)深1:00",
-  "start": 1619082000000,
+  "title": "KCON:TACT 3 WORLD TOUR",
+  "fullTitle": "[生]KCON:TACT 3 WORLD TOUR",
+  "detail": "3/20～28の9日間、オンラインで開催された世界最大級のKカルチャーフェスティバル「KCON:TACT 3」のコンサートの様子をオンエア！\r\n字幕版：5月23日(日)14:00～",
+  "start": 1619073900000,
   "end": 1619088600000,
-  "seconds": 6600,
+  "seconds": 14700,
   "channel": {
     "type": "CS",
     "channel": "CS8",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 121
   },
-  "subTitle": "M COUNTDOWN",
+  "subTitle": "KCON:TACT 3",
   "episode": null,
   "flags": [
     "生"
