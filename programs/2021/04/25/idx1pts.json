@@ -1,0 +1,25 @@
+{
+  "id": "idx1pts",
+  "category": "anime",
+  "title": "名探偵コナン さざ波の魔法使い",
+  "fullTitle": "[字]名探偵コナン さざ波の魔法使い",
+  "detail": "コナンは蘭、園子、世良と国によって指を使った数の数え方が違うという話題を話す。この時、コナンは世良の発言を聞い…",
+  "start": 1619316000000,
+  "end": 1619319600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

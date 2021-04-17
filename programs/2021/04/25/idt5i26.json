@@ -1,0 +1,25 @@
+{
+  "id": "idt5i26",
+  "category": "music",
+  "title": "ＢＳ演歌の花道",
+  "fullTitle": "ＢＳ演歌の花道[字]",
+  "detail": "▽前半昭和の花道…前川清/内山田洋とクール・ファイブ、三笠優子、森進一\r\n▽後半令和の花道…竹島宏、八代亜紀、山内惠介",
+  "start": 1619352000000,
+  "end": 1619355300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

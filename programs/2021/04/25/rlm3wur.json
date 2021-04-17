@@ -1,0 +1,23 @@
+{
+  "id": "rlm3wur",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ 第31節 アウクスブルク×ケルン",
+  "fullTitle": "20/21 ブンデスリーガ 第31節 アウクスブルク×ケルン",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年4月23日\r\n会場:WWK（ベベカ） アレーナ",
+  "start": 1619290800000,
+  "end": 1619299800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

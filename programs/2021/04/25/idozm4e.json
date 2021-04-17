@@ -1,0 +1,25 @@
+{
+  "id": "idozm4e",
+  "category": "sports",
+  "title": "ＰＧＡゴルフツアー　チューリッヒ　クラシック　オブ　ニューオリンズ",
+  "fullTitle": "ＰＧＡゴルフツアー　チューリッヒ　クラシック　オブ　ニューオリンズ「３日目」[二]",
+  "detail": "チューリッヒ　クラシック　オブ　ニューオリンズ「３日目」　【解説】佐渡充高，倉本泰信，【アナウンサー】工藤三郎",
+  "start": 1619294400000,
+  "end": 1619301600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "３日目",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3826py3n40",
+  "category": "drama",
+  "title": "日曜ミステリー",
+  "fullTitle": "日曜ミステリー[再][字][解]",
+  "detail": "選りすぐりのミステリーをお送りします。\n◇放送形態\n解説放送あり\n◇関連情報\n【番組公式HP】\r\nwww.tv-tokyo.co.jp/theater9/drama/",
+  "start": 1619326800000,
+  "end": 1619334000000,
+  "seconds": 7200,
+  "description": "選りすぐりのミステリーをお送りします。",
+  "extra": {
+    "放送形態": "解説放送あり",
+    "関連情報": "【番組公式HP】\r\nwww.tv-tokyo.co.jp/theater9/drama/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再",
+    "字",
+    "解"
+  ]
+}

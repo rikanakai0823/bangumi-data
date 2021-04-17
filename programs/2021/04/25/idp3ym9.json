@@ -1,0 +1,25 @@
+{
+  "id": "idp3ym9",
+  "category": "documentary",
+  "title": "小さな旅",
+  "fullTitle": "小さな旅[字]",
+  "detail": "",
+  "start": 1619337900000,
+  "end": 1619339400000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

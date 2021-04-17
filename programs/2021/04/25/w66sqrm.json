@@ -1,0 +1,26 @@
+{
+  "id": "w66sqrm",
+  "category": "drama",
+  "title": "STATION 19　シーズン1",
+  "fullTitle": "STATION 19　シーズン1 #10「それぞれの選択」[字][終]",
+  "detail": "隊長候補者の最終面談が行われる中、超高層ビル火災が発生、第１９分署にも出動要請が入る。多くの市民が避難指示を待つ中、炎の勢いが増し、隊員は厳しい選択を迫られる。",
+  "start": 1619348400000,
+  "end": 1619352000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 117
+  },
+  "subTitle": "それぞれの選択",
+  "episode": 10,
+  "flags": [
+    "字",
+    "終"
+  ]
+}

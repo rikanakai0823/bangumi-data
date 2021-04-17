@@ -1,0 +1,25 @@
+{
+  "id": "38224jvj7z",
+  "category": "variety",
+  "title": "連続チャンピオン",
+  "fullTitle": "連続チャンピオン[字]",
+  "detail": "次世代を担うバラエティを中心に、旅・グルメ・情報などのスペシャル番組を放送！日曜の午後にふさわしい作品をお届けします。",
+  "start": 1619330100000,
+  "end": 1619334900000,
+  "seconds": 4800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

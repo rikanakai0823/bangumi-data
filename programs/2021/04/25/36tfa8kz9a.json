@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8kz9a",
+  "category": "variety",
+  "title": "日本グレートスポット紀行",
+  "fullTitle": "日本グレートスポット紀行[再]",
+  "detail": "日本各地の珍スポット、面白い場所を紹介する番組です。第４回の放送は、静岡県にある「下田城」！",
+  "start": 1619303400000,
+  "end": 1619305200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "下田城",
+  "episode": 4,
+  "flags": [
+    "再"
+  ]
+}

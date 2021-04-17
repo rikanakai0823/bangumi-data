@@ -1,0 +1,25 @@
+{
+  "id": "idp3wdg",
+  "category": "documentary",
+  "title": "よみがえる新日本紀行",
+  "fullTitle": "よみがえる新日本紀行「紀南」[字]",
+  "detail": "最新のデジタル技術で、新日本紀行が鮮やかに！今回は、昭和４３年放送の「紀南」。交通が不便だった和歌山県南部に待望の道路が通り、暮らしが変わり始めた時代を描く。",
+  "start": 1619298420000,
+  "end": 1619300700000,
+  "seconds": 2280,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "紀南",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduyfvi",
+  "category": "cinema",
+  "title": "メイド・イン・マンハッタン",
+  "fullTitle": "[映][SS]メイド・イン・マンハッタン",
+  "detail": "ジェニファー・ロペス主演のラブロマンス。一流ホテルで働く客室係の女性と次期大統領候補の男性との運命的な恋を描く。",
+  "start": 1619307000000,
+  "end": 1619313600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

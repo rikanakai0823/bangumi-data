@@ -1,0 +1,26 @@
+{
+  "id": "iduw96a",
+  "category": "cinema",
+  "title": "ジェミニマン",
+  "fullTitle": "[映][SS]ジェミニマン",
+  "detail": "ウィル・スミスが２役に挑んだ近未来アクション。引退を決意した伝説のスナイパーが３０歳近くも若い自分のクローンと対決する。",
+  "start": 1619296200000,
+  "end": 1619304300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

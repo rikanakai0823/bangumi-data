@@ -1,0 +1,25 @@
+{
+  "id": "rlm3ws0",
+  "category": "sports",
+  "title": "Bリーグ2020-21 第35節 琉球×京都(4/25)",
+  "fullTitle": "[生]Bリーグ2020-21 第35節 琉球×京都(4/25)",
+  "detail": "Bリーグ 2020-21 第35節(4/25)\r\n対戦:琉球ゴールデンキングス(H)\r\n　　 京都ハンナリーズ　　　(A)",
+  "start": 1619341200000,
+  "end": 1619352000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

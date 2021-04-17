@@ -1,0 +1,25 @@
+{
+  "id": "idrd3p0",
+  "category": "sports",
+  "title": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２１",
+  "fullTitle": "[デ]ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２１　「巨人×広島」",
+  "detail": "",
+  "start": 1619326800000,
+  "end": 1619337240000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 44
+  },
+  "subTitle": "巨人×広島",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}

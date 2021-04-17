@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7w90",
+  "category": "sports",
+  "title": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２１",
+  "fullTitle": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２１「巨人×広島」[字][デ]",
+  "detail": "※最大延長２５分",
+  "start": 1619331300000,
+  "end": 1619337300000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "巨人×広島",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

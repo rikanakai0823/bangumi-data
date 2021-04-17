@@ -1,0 +1,23 @@
+{
+  "id": "rkv8x6f",
+  "category": "news",
+  "title": "皇室日記",
+  "fullTitle": "皇室日記",
+  "detail": "天皇ご一家、皇族の公務、研究、国内外の訪問、伝統と文化そして身近な事柄と皇室の関わり等のテーマを特集。皇室の一週間の動静もお伝えします。",
+  "start": 1619300700000,
+  "end": 1619301600000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
