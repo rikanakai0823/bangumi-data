@@ -1,0 +1,23 @@
+{
+  "id": "idp40eh",
+  "category": "documentary",
+  "title": "アクアリウムちゃんねる",
+  "fullTitle": "アクアリウムちゃんねる",
+  "detail": "",
+  "start": 1619403000000,
+  "end": 1619403300000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

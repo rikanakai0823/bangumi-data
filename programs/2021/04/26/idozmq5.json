@@ -1,0 +1,23 @@
+{
+  "id": "idozmq5",
+  "category": "news",
+  "title": "ＢＳニュース４Ｋ＋ふるさと",
+  "fullTitle": "ＢＳニュース４Ｋ＋ふるさと",
+  "detail": "その日に国内外で起きたニュースをお伝えするほか、一番早い「きょうの天気」、また地域の魅力を発信する「ふるさと企画」もお届けします。",
+  "start": 1619448300000,
+  "end": 1619449800000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

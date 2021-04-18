@@ -1,0 +1,25 @@
+{
+  "id": "w693ai9",
+  "category": "news",
+  "title": "イブニングニュース",
+  "fullTitle": "イブニングニュース[字]",
+  "detail": "最新ニュースはもちろん、今日これまでのニュースを詳しくお伝えします。",
+  "start": 1619420400000,
+  "end": 1619438400000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

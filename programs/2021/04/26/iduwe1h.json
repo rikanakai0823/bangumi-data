@@ -1,0 +1,26 @@
+{
+  "id": "iduwe1h",
+  "category": "cinema",
+  "title": "グリーン・デスティニー",
+  "fullTitle": "[映][SS]グリーン・デスティニー【集中放送！アカデミー賞（Ｒ）歴代受賞作】",
+  "detail": "アカデミー外国語映画賞受賞のファンタジーアクション。名剣を巡って繰り広げられる４人の男女の愛と戦いを壮大に描く。",
+  "start": 1619401500000,
+  "end": 1619409600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "集中放送！アカデミー賞（Ｒ）歴代受賞作",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

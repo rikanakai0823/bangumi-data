@@ -1,0 +1,25 @@
+{
+  "id": "iduektm",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４３６",
+  "detail": "",
+  "start": 1619387400000,
+  "end": 1619388000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 436,
+  "flags": [
+    "無"
+  ]
+}

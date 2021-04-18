@@ -1,0 +1,26 @@
+{
+  "id": "iduwes0",
+  "category": "cinema",
+  "title": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+  "fullTitle": "[映][SS]ワンス・アポン・ア・タイム・イン・ハリウッド",
+  "detail": "【集中放送！アカデミー賞（Ｒ）歴代受賞作】",
+  "start": 1619434800000,
+  "end": 1619444700000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "集中放送！アカデミー賞（Ｒ）歴代受賞作",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

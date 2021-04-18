@@ -1,0 +1,27 @@
+{
+  "id": "iducfb0",
+  "category": "cinema",
+  "title": "ナイト　ミュージアム（吹替版）",
+  "fullTitle": "[映]ナイト　ミュージアム（吹替版）[SS][字]",
+  "detail": "夜の博物館（ミュージアム）で、展示物たちが生きているかのように動き出し、警備員は珍騒動の真っただ中に放り込まれる。シリーズ化されたファンタジーコメディの第１作。",
+  "start": 1619416800000,
+  "end": 1619423700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

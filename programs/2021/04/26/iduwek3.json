@@ -1,0 +1,26 @@
+{
+  "id": "iduwek3",
+  "category": "cinema",
+  "title": "ジョジョ・ラビット",
+  "fullTitle": "[映][SS]ジョジョ・ラビット【集中放送！アカデミー賞（Ｒ）歴代受賞作】",
+  "detail": "第二次世界大戦下のドイツで空想上の友人“ヒトラー”の助けを借り、立派な兵士になることを夢見る少年の奮闘を描いた感動作。",
+  "start": 1619424900000,
+  "end": 1619431800000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "集中放送！アカデミー賞（Ｒ）歴代受賞作",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

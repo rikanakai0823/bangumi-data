@@ -1,0 +1,25 @@
+{
+  "id": "3826py3n4l",
+  "category": "anime",
+  "title": "忍者コレクション",
+  "fullTitle": "忍者コレクション[再]",
+  "detail": "第3話「ナイトプール」",
+  "start": 1619373900000,
+  "end": 1619374200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "ナイトプール",
+  "episode": 3,
+  "flags": [
+    "再"
+  ]
+}

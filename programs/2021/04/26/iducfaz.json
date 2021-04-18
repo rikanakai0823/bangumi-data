@@ -1,0 +1,28 @@
+{
+  "id": "iducfaz",
+  "category": "variety",
+  "title": "生中継！アカデミー賞授賞式",
+  "fullTitle": "[初][生]生中継！第９３回アカデミー賞授賞式[二][SS]",
+  "detail": "アメリカ・ロサンゼルスで開催される世界最高峰の映画の祭典「アカデミー賞授賞式」を、独占生中継。",
+  "start": 1619393400000,
+  "end": 1619416800000,
+  "seconds": 23400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "アカデミー賞授賞式",
+  "episode": 93,
+  "flags": [
+    "初",
+    "生",
+    "二",
+    "SS"
+  ]
+}

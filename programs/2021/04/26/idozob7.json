@@ -1,0 +1,23 @@
+{
+  "id": "idozob7",
+  "category": "information",
+  "title": "春だ！スポーツだ！ＮＨＫ",
+  "fullTitle": "春だ！スポーツだ！ＮＨＫ",
+  "detail": "",
+  "start": 1619371140000,
+  "end": 1619371200000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
