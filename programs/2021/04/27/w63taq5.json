@@ -1,0 +1,25 @@
+{
+  "id": "w63taq5",
+  "category": "sports",
+  "title": "TEAM SERIZAWA 400",
+  "fullTitle": "[初]TEAM SERIZAWA 400",
+  "detail": "チームセリザワメンバーが月替わりで登場！プロの技やコースマネージメントを紹介するだけでなく、真剣なプレーあり、軽快なトークありと見所満載。",
+  "start": 1619528400000,
+  "end": 1619530200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 99
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

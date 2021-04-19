@@ -1,0 +1,27 @@
+{
+  "id": "idozn3a",
+  "category": "sports",
+  "title": "ワースポ×ＭＬＢ",
+  "fullTitle": "ワースポ×ＭＬＢ",
+  "detail": "▽日本選手の最新情報　【解説】黒木知宏，【キャスター】山本萩子\n◇出演者\n【解説】黒木知宏，【キャスター】山本萩子",
+  "start": 1619532000000,
+  "end": 1619534700000,
+  "seconds": 2700,
+  "description": "▽日本選手の最新情報　【解説】黒木知宏，【キャスター】山本萩子",
+  "extra": {
+    "出演者": "【解説】黒木知宏，【キャスター】山本萩子"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

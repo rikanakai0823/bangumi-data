@@ -1,0 +1,25 @@
+{
+  "id": "w67vhxa",
+  "category": "anime",
+  "title": "ココモン",
+  "fullTitle": "ココモン[字] #12",
+  "detail": "第１２話「バナナをたすけて」\r\nやんちゃなココモンと冷蔵庫の国の仲間たちが力をあわせていろいろなことに取り組みます。",
+  "start": 1619470800000,
+  "end": 1619471700000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "バナナをたすけて",
+  "episode": 12,
+  "flags": [
+    "字"
+  ]
+}

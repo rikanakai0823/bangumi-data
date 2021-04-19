@@ -1,0 +1,25 @@
+{
+  "id": "w67vhx3",
+  "category": "anime",
+  "title": "ヒカルの碁 ,36",
+  "fullTitle": "ヒカルの碁[字] #35,36",
+  "detail": "＃３５「勝者はひとり」＃３６「オレの名は」",
+  "start": 1619449200000,
+  "end": 1619452800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "勝者はひとり",
+  "episode": 35,
+  "flags": [
+    "字"
+  ]
+}

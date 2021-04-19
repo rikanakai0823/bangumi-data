@@ -1,0 +1,26 @@
+{
+  "id": "iduykim",
+  "category": "cinema",
+  "title": "トランスフォーマー／ダークサイド・ムーン",
+  "fullTitle": "[映][SS]トランスフォーマー／ダークサイド・ムーン",
+  "detail": "マイケル・ベイ監督の大ヒットＳＦアクション第３弾。金属生命体トランスフォーマーが地球の存亡をかけた死闘を繰り広げる！",
+  "start": 1619463000000,
+  "end": 1619472600000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

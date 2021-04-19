@@ -1,0 +1,25 @@
+{
+  "id": "idy8eur",
+  "category": "anime",
+  "title": "ロスト・イン・オズ",
+  "fullTitle": "ロスト・イン・オズ#12[二]",
+  "detail": "#12「おかえり　グリンダ」",
+  "start": 1619449200000,
+  "end": 1619451000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "おかえり　グリンダ",
+  "episode": 12,
+  "flags": [
+    "二"
+  ]
+}

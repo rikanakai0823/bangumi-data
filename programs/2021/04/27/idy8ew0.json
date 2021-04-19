@@ -1,0 +1,25 @@
+{
+  "id": "idy8ew0",
+  "category": "anime",
+  "title": "バンザイ！キング・ジュリアン",
+  "fullTitle": "バンザイ！キング・ジュリアン#1[二]",
+  "detail": "#1「キング誕生」",
+  "start": 1619526600000,
+  "end": 1619528400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "キング誕生",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

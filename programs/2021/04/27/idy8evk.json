@@ -1,0 +1,25 @@
+{
+  "id": "idy8evk",
+  "category": "anime",
+  "title": "学園NINJA　ランディ",
+  "fullTitle": "学園NINJA　ランディ#3[二]",
+  "detail": "#3「ゴシップ放送局／黄金の診断書」",
+  "start": 1619497800000,
+  "end": 1619499600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ゴシップ放送局／黄金の診断書",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idugqae",
+  "category": "cinema",
+  "title": "ＩＤＯＬ－あゝ無情－",
+  "fullTitle": "[映]ＩＤＯＬ－あゝ無情－[字]",
+  "detail": "ＢｉＳＨなどの女性アイドルグループが所属する音楽事務所が開いた“ＷＡＣＫ合同オーディション２０１９”。壱岐島が舞台の新たな熱い７日間を記録したドキュメンタリー。",
+  "start": 1619496000000,
+  "end": 1619501400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

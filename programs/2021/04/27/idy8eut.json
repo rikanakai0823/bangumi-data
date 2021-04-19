@@ -1,0 +1,25 @@
+{
+  "id": "idy8eut",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#54[二]",
+  "detail": "#54「ホラームービー」",
+  "start": 1619452800000,
+  "end": 1619454600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ホラームービー",
+  "episode": 54,
+  "flags": [
+    "二"
+  ]
+}

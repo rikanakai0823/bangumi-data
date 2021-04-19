@@ -1,0 +1,25 @@
+{
+  "id": "rktcron",
+  "category": "drama",
+  "title": "会社行きたくない",
+  "fullTitle": "会社行きたくない　#2　[字]",
+  "detail": "CS初放送！キム・ドンワン（神話<SHINHWA>）主演！厳しい現代社会で働くすべての人々に勇気と笑いを届ける共感度120％のリアル　オフィスドラマ！2019年　全12話",
+  "start": 1619533200000,
+  "end": 1619537400000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

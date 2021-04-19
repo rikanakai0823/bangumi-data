@@ -1,0 +1,23 @@
+{
+  "id": "idueku9",
+  "category": "theater",
+  "title": "バカリズムライブ",
+  "fullTitle": "バカリズムライブ「ｉｍａｇｅ」",
+  "detail": "バカリズムの単独ライブが登場。２０１９年５月に東京　草月ホールで行なわれたバカリズムライブ「ｉｍａｇｅ」。チケット即完のプレミアムライブを放送。",
+  "start": 1619503200000,
+  "end": 1619510400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "ｉｍａｇｅ",
+  "episode": null,
+  "flags": []
+}
