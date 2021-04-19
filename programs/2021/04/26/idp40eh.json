@@ -2,8 +2,8 @@
   "id": "idp40eh",
   "category": "documentary",
   "title": "アクアリウムちゃんねる",
-  "fullTitle": "アクアリウムちゃんねる",
-  "detail": "",
+  "fullTitle": "アクアリウムちゃんねる「Ｆｉｌｅ１」[字]",
+  "detail": "あなたのテレビが「アクアリウム」になります！毎回一流アクアリストが、水槽の中に小宇宙を生み出す番組。声の案内役は声優の小林親弘さん。癒やしの５分をお届けします！",
   "start": 1619403000000,
   "end": 1619403300000,
   "seconds": 300,
@@ -17,7 +17,9 @@
     "hasLogoData": false,
     "n": 42
   },
-  "subTitle": "",
+  "subTitle": "Ｆｉｌｅ１",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

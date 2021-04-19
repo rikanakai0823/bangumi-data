@@ -1,0 +1,23 @@
+{
+  "id": "rknid5r",
+  "category": "theater",
+  "title": "落語◆桂雀々「遺言」",
+  "fullTitle": "落語◆桂雀々「遺言」【TV初放送】",
+  "detail": "この時間は予定を変更して、桂雀々「遺言」を放送いたします。\r\nなお「紅蝙蝠」は、4/28（水）午前10:30～再放送いたします。",
+  "start": 1619289900000,
+  "end": 1619292600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "衛星劇場",
+    "id": "cv4r",
+    "sid": 219,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 92
+  },
+  "subTitle": "TV初放送",
+  "episode": null,
+  "flags": []
+}

@@ -2,11 +2,11 @@
   "id": "381f5ksgxd",
   "category": "news",
   "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報",
+  "fullTitle": "ニュース・気象情報「補選・再選挙　開票速報」",
   "detail": "",
   "start": 1619362800000,
-  "end": 1619363100000,
-  "seconds": 300,
+  "end": 1619363400000,
+  "seconds": 600,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "補選・再選挙　開票速報",
   "episode": null,
   "flags": []
 }
