@@ -3,13 +3,13 @@
   "category": "music",
   "title": "プレミアＭｅｌｏｄｉＸ！",
   "fullTitle": "プレミアＭｅｌｏｄｉＸ！",
-  "detail": "【ナビゲーター】南海キャンディーズ\n◇番組内容\n【ナビゲーター】南海キャンディーズ\n◇関連情報\n【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪",
+  "detail": "【ゲスト】三浦大知、Non　Stop　Rabbit、Homecomings、mzsrz、NU’EST\r\n【ナビゲーター】南海キャンディーズ\n◇番組内容\n【ゲスト】\r\n三浦大知♪Backwards\r\nNon　Stop　Rabbit♪推しが尊いわ\r\nHomecomings♪Herge\r\nmzsrz♪ノイズキャンセリング\r\nNU’EST♪INSIDE　OUT\r\n【ナビゲーター】\r\n南海キャンディーズ\n◇関連情報\n【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪",
   "start": 1619459400000,
   "end": 1619461200000,
   "seconds": 1800,
-  "description": "【ナビゲーター】南海キャンディーズ",
+  "description": "【ゲスト】三浦大知、Non　Stop　Rabbit、Homecomings、mzsrz、NU’EST\r\n【ナビゲーター】南海キャンディーズ",
   "extra": {
-    "番組内容": "【ナビゲーター】南海キャンディーズ",
+    "番組内容": "【ゲスト】\r\n三浦大知♪Backwards\r\nNon　Stop　Rabbit♪推しが尊いわ\r\nHomecomings♪Herge\r\nmzsrz♪ノイズキャンセリング\r\nNU’EST♪INSIDE　OUT\r\n【ナビゲーター】\r\n南海キャンディーズ",
     "関連情報": "【番組公式ホームページ】\r\n◆www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆@tx_melodix\r\n番組情報や収録の様子などをお知らせします♪"
   },
   "channel": {
@@ -22,7 +22,7 @@
     "hasLogoData": true,
     "n": 26
   },
-  "subTitle": "ナビゲーター",
+  "subTitle": "ゲスト",
   "episode": null,
   "flags": []
 }
