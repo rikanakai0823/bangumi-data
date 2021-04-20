@@ -1,0 +1,25 @@
+{
+  "id": "iducfc3",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６７０",
+  "detail": "",
+  "start": 1619570100000,
+  "end": 1619570700000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 670,
+  "flags": [
+    "無"
+  ]
+}

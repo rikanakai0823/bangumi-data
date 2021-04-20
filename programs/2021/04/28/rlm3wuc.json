@@ -1,0 +1,23 @@
+{
+  "id": "rlm3wuc",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.日本ハム",
+  "fullTitle": "HAWKS プロ野球中継2021 ソフトバンクvs.日本ハム",
+  "detail": "▽4月27日開催\r\n解説/実況：松中信彦/石黒新平\r\n開催日時：2021年4月27日 (火) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1619578800000,
+  "end": 1619596800000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

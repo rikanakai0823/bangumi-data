@@ -1,0 +1,27 @@
+{
+  "id": "idugqap",
+  "category": "cinema",
+  "title": "鈴木家の嘘[PG12指定]",
+  "fullTitle": "[映]鈴木家の嘘[PG12指定][SS][字]",
+  "detail": "長男の自殺にショックを受け、その事実を忘れてしまった母。家族は母のため、長男が外国に行ったと嘘をつくことに。家族の混乱と再生を温かく描くヒューマンコメディ。",
+  "start": 1619574300000,
+  "end": 1619582400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

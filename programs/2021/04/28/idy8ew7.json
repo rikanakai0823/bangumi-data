@@ -1,0 +1,25 @@
+{
+  "id": "idy8ew7",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#55[二]",
+  "detail": "#55「ナイスなナース」",
+  "start": 1619539200000,
+  "end": 1619541000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ナイスなナース",
+  "episode": 55,
+  "flags": [
+    "二"
+  ]
+}

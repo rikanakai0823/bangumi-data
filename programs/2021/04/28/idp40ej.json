@@ -1,0 +1,25 @@
+{
+  "id": "idp40ej",
+  "category": "documentary",
+  "title": "アクアリウムちゃんねる",
+  "fullTitle": "アクアリウムちゃんねる「Ｆｉｌｅ３」[字]",
+  "detail": "あなたのテレビが「アクアリウム」になります！毎回トップアクアリストが、水槽の中に小宇宙を生み出す番組。声で案内するのは小林親弘さん。癒やしの５分をお届けします！",
+  "start": 1619575800000,
+  "end": 1619576100000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "Ｆｉｌｅ３",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
