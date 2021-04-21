@@ -1,0 +1,23 @@
+{
+  "id": "idoznv5",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第５５回　織田幹雄記念　国際陸上競技大会",
+  "detail": "",
+  "start": 1619676000000,
+  "end": 1619679600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "織田幹雄記念　国際陸上競技大会",
+  "episode": 55,
+  "flags": []
+}

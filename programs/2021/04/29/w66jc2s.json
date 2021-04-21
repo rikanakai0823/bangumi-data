@@ -1,0 +1,23 @@
+{
+  "id": "w66jc2s",
+  "category": "music",
+  "title": "ATEEZ フジテレビTWOオリジナルスペシャルライブ",
+  "fullTitle": "ATEEZ フジテレビTWOオリジナルスペシャルライブ",
+  "detail": "フジテレビTWO独占！K-POPアーティスト「ATEEZ」の無観客ライブを完全独占放送！新曲の初披露や、ATINYとのリアルタイムのやりとりも！",
+  "start": 1619697600000,
+  "end": 1619704800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 113
+  },
+  "subTitle": "ATEEZ",
+  "episode": null,
+  "flags": []
+}

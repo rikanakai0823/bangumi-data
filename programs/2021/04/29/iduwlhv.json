@@ -1,0 +1,26 @@
+{
+  "id": "iduwlhv",
+  "category": "cinema",
+  "title": "ファースト・マン",
+  "fullTitle": "[映][SS]ファースト・マン【集中放送！アカデミー賞（Ｒ）歴代受賞作】",
+  "detail": "ライアン・ゴズリング主演の伝記ドラマ。人類初の月面着陸を成し遂げた宇宙飛行士ニール・アームストロングの偉業と半生を描く。",
+  "start": 1619626500000,
+  "end": 1619635200000,
+  "seconds": 8700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "集中放送！アカデミー賞（Ｒ）歴代受賞作",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

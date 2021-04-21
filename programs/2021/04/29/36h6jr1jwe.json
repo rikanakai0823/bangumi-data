@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1jwe",
+  "category": "sports",
+  "title": "川口オート　ＳＧオールスターオートレース中継",
+  "fullTitle": "川口オート　ＳＧ第４０回オールスターオートレース中継[Ｓ]",
+  "detail": "",
+  "start": 1619681400000,
+  "end": 1619686800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 40,
+  "flags": []
+}

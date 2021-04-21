@@ -1,0 +1,25 @@
+{
+  "id": "w67vhzf",
+  "category": "anime",
+  "title": "ヒカルの碁 ,40",
+  "fullTitle": "ヒカルの碁[字] #39,40",
+  "detail": "＃３９「魔の一瞬」＃４０「白星の行方」",
+  "start": 1619622000000,
+  "end": 1619625600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "魔の一瞬",
+  "episode": 39,
+  "flags": [
+    "字"
+  ]
+}

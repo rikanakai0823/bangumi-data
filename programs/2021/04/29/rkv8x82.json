@@ -1,0 +1,23 @@
+{
+  "id": "rkv8x82",
+  "category": "news",
+  "title": "Afternoon　News",
+  "fullTitle": "Afternoon　News",
+  "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Afternoon News」",
+  "start": 1619672400000,
+  "end": 1619676000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "日テレNEWS24・Afternoon News",
+  "episode": null,
+  "flags": []
+}
