@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kzs6",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「たて座特別」「あおば賞」「東京ダービートライアル」「緑風賞」",
+  "start": 1619763600000,
+  "end": 1619784000000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

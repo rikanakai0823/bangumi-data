@@ -1,0 +1,23 @@
+{
+  "id": "w67t5ix",
+  "category": "music",
+  "title": "NHK歌謡コンサート",
+  "fullTitle": "NHK歌謡コンサート #21　人生を謳う！　ドラマチック歌謡曲",
+  "detail": "♪人生いろいろ／島倉千代子\r\n♪花束（ブーケ）／八代亜紀\r\n♪さらば友よ／森進一\r\n♪オリビアを聴きながら／尾崎亜美　ほか",
+  "start": 1619744400000,
+  "end": 1619748000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "人生を謳う！　ドラマチック歌謡曲",
+  "episode": 21,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduekvb",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６７２",
+  "detail": "",
+  "start": 1619712900000,
+  "end": 1619713500000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 672,
+  "flags": [
+    "無"
+  ]
+}

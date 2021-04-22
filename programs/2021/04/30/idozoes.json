@@ -1,0 +1,25 @@
+{
+  "id": "idozoes",
+  "category": "news",
+  "title": "時論公論　ＮＨＫ解説委員",
+  "fullTitle": "時論公論　【出演】ＮＨＫ解説委員[字]",
+  "detail": "▽社会がわかる、時代が見える　▽政治、経済、社会、科学文化、国際など時事問題を幅広く網羅　▽一日の終わりに主要ニュースを掘り下げて、明日を考える。",
+  "start": 1619729400000,
+  "end": 1619730000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

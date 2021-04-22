@@ -1,0 +1,26 @@
+{
+  "id": "idugqbc",
+  "category": "cinema",
+  "title": "エジソンズ・ゲーム（字幕版）",
+  "fullTitle": "[映]エジソンズ・ゲーム（字幕版）[SS]",
+  "detail": "未来を照らすのは誰だ？　１９世紀後半、天才発明家Ｔ・エジソンとカリスマ実業家Ｇ・ウェスティングハウスの間で繰り広げられた電流戦争の勝負の行方を描いた実録ドラマ。",
+  "start": 1619725500000,
+  "end": 1619732700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

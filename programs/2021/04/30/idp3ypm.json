@@ -1,0 +1,25 @@
+{
+  "id": "idp3ypm",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「鎌倉早春スケッチ」[字]",
+  "detail": "鎌倉は、天然の要害として武士の文化が花開いた古の都。鎌倉に伝わる歴史や風俗を描きながら、いまも生きている古都に暮らす人々の「春を待つ物語」を紡いでいく。",
+  "start": 1619784000000,
+  "end": 1619787600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "鎌倉早春スケッチ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

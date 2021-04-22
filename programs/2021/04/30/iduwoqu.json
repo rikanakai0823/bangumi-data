@@ -1,0 +1,26 @@
+{
+  "id": "iduwoqu",
+  "category": "cinema",
+  "title": "ストーリー・オブ・マイライフ／わたしの若草物語",
+  "fullTitle": "[映][SS]ストーリー・オブ・マイライフ／わたしの若草物語",
+  "detail": "【集中放送！アカデミー賞（Ｒ）歴代受賞作】",
+  "start": 1619717400000,
+  "end": 1619726400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "集中放送！アカデミー賞（Ｒ）歴代受賞作",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugqbe",
+  "category": "cinema",
+  "title": "相棒シリーズ　Ｘ　ＤＡＹ",
+  "fullTitle": "[映]相棒シリーズ　Ｘ　ＤＡＹ[SS][字]",
+  "detail": "人気ドラマ「相棒」から生まれたスピンオフ映画第２作。田中圭が演じるサイバー犯罪対策課の岩月と川原和久が演じる伊丹刑事がコンビを組み、巨大権力が絡んだ陰謀に挑む。",
+  "start": 1619739900000,
+  "end": 1619747100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "相棒",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

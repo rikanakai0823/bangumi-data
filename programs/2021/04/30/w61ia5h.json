@@ -1,0 +1,25 @@
+{
+  "id": "w61ia5h",
+  "category": "music",
+  "title": "『ラーメン刑事』～2",
+  "fullTitle": "[字]『ラーメン刑事』#1～2【一挙放送】",
+  "detail": "12:00- #1【目黒・かづ屋編】\r\n12:30- #2【日暮里・麺酒処ぶらり編】\r\n\r\n放送日／30",
+  "start": 1619751600000,
+  "end": 1619755200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "映画・ｃｈＮＥＣＯ",
+    "id": "f0an",
+    "sid": 223,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 93
+  },
+  "subTitle": "一挙放送",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
