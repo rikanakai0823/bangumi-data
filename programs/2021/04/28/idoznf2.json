@@ -1,12 +1,12 @@
 {
   "id": "idoznf2",
-  "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！[字]",
-  "detail": "",
+  "category": "information",
+  "title": "四国推し！　とさ金",
+  "fullTitle": "四国推し！　とさ金「集え！防災志士」[字]",
+  "detail": "子どもたちのための防災番組。舞台は高知、幕末の私塾のような「土佐防災塾」。“防災志士”の子どもたちといっしょに、楽しく、真剣に防災を考えます。",
   "start": 1619536200000,
-  "end": 1619539200000,
-  "seconds": 3000,
+  "end": 1619537700000,
+  "seconds": 1500,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "集え！防災志士",
   "episode": null,
   "flags": [
     "字"
