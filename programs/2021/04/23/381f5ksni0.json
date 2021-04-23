@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksni0",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース「菅首相記者会見」[字]",
+  "detail": "中継・菅首相会見　３回目の緊急事態宣言▽東京など４都府県に４月２５日から５月１１日▽「宣言」発出の理由　対策の具体的な内容は",
+  "start": 1619175420000,
+  "end": 1619178300000,
+  "seconds": 2880,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "菅首相記者会見",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
