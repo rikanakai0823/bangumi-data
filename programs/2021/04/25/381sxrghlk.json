@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "やってみようよＳＤＧｓ　地球を笑顔にするＴＶ",
   "fullTitle": "やってみようよＳＤＧｓ　地球を笑顔にするＴＶ[字][デ]",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/SDGs_Week_20210425/",
   "start": 1619330400000,
   "end": 1619334000000,
   "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/SDGs_Week_20210425/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
