@@ -1,0 +1,27 @@
+{
+  "id": "idugsm2",
+  "category": "cinema",
+  "title": "あのコの、トリコ。",
+  "fullTitle": "[映]あのコの、トリコ。[SS][字]",
+  "detail": "吉沢亮、新木優子、杉野遥亮らが共演したラブストーリー。俳優になる夢を諦めた地味な高校生の前に現われたのは美しく成長した幼なじみ。彼女への想いが彼の運命を変える。",
+  "start": 1619843400000,
+  "end": 1619849700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

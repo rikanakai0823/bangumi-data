@@ -1,0 +1,23 @@
+{
+  "id": "idwssze",
+  "category": "hobby",
+  "title": "初歩からの生物学",
+  "fullTitle": "初歩からの生物学　第5回",
+  "detail": "「生物の誕生と進化」",
+  "start": 1619835300000,
+  "end": 1619838000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "生物の誕生と進化",
+  "episode": 5,
+  "flags": []
+}

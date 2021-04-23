@@ -1,0 +1,25 @@
+{
+  "id": "w67vi23",
+  "category": "anime",
+  "title": "ソニックＸ ,74",
+  "fullTitle": "ソニックＸ[字] #73,74",
+  "detail": "＃７３「暗殺者シャドウ！」＃７４「ロスト・プラネット」",
+  "start": 1619863200000,
+  "end": 1619866800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "暗殺者シャドウ！",
+  "episode": 73,
+  "flags": [
+    "字"
+  ]
+}

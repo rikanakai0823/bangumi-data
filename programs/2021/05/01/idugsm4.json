@@ -1,0 +1,27 @@
+{
+  "id": "idugsm4",
+  "category": "cinema",
+  "title": "キングダム（２０１９）",
+  "fullTitle": "[映]キングダム（２０１９）[SS][字]",
+  "detail": "原泰久の大ヒットコミックを実写映画化した大作歴史劇。紀元前３世紀、春秋戦国時代の中国を舞台に、戦災孤児の少年と後に始皇帝となる若き王との壮大なドラマを描く。",
+  "start": 1619857800000,
+  "end": 1619866800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduzwai",
+  "category": "cinema",
+  "title": "IT／イット　ＴＨＥ　ＥＮＤ　“それ”が見えたら、終わり。",
+  "fullTitle": "[映][SS][字]IT／イット　ＴＨＥ　ＥＮＤ　“それ”が見えたら、終わり。[吹]",
+  "detail": "【ＧＷスペシャル　吹替メガヒットパレード】",
+  "start": 1619850600000,
+  "end": 1619861100000,
+  "seconds": 10500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "ＧＷスペシャル　吹替メガヒットパレード",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

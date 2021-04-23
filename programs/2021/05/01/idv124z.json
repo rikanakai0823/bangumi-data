@@ -1,0 +1,25 @@
+{
+  "id": "idv124z",
+  "category": "drama",
+  "title": "キング・オブ・メディア",
+  "fullTitle": "キング・オブ・メディア　＃９[二]",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ一挙放送】",
+  "start": 1619799300000,
+  "end": 1619803800000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ一挙放送",
+  "episode": 9,
+  "flags": [
+    "二"
+  ]
+}

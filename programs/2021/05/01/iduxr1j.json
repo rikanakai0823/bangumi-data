@@ -1,0 +1,26 @@
+{
+  "id": "iduxr1j",
+  "category": "cinema",
+  "title": "イーグル・アイ",
+  "fullTitle": "[映][SS]イーグル・アイ",
+  "detail": "シャイア・ラブーフ主演のノンストップサスペンスアクション。何者かに監視される男女の決死の逃避行をスピーディに描く。",
+  "start": 1619846100000,
+  "end": 1619854200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

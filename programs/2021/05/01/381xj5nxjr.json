@@ -1,0 +1,25 @@
+{
+  "id": "381xj5nxjr",
+  "category": "variety",
+  "title": "ＥＮＧＥＩグランドスラム　マチネ",
+  "fullTitle": "ＥＮＧＥＩグランドスラム　マチネ[字]",
+  "detail": "",
+  "start": 1619843400000,
+  "end": 1619847000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

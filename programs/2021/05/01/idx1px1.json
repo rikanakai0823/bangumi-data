@@ -1,0 +1,25 @@
+{
+  "id": "idx1px1",
+  "category": "anime",
+  "title": "特:ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "特:[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "★GWアニメがもりもり盛りだくさん！★\r\n#473「まわる手紙」の巻／「花輪くんのマザーズデイ」の巻\r\n#474「大野くんのロ…",
+  "start": 1619816400000,
+  "end": 1619820000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w662rt5",
+  "category": "music",
+  "title": "ユニコーン",
+  "fullTitle": "ユニコーン「EBI50祭 “海老乃大漁祭”」",
+  "detail": "2015年10月、パシフィコ横浜で開催。",
+  "start": 1619864400000,
+  "end": 1619874900000,
+  "seconds": 10500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 109
+  },
+  "subTitle": "EBI50祭 “海老乃大漁祭”",
+  "episode": null,
+  "flags": []
+}

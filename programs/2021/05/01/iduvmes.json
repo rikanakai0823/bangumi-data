@@ -1,0 +1,26 @@
+{
+  "id": "iduvmes",
+  "category": "cinema",
+  "title": "【最新作】エクストリーム・ジョブ",
+  "fullTitle": "【最新作】[映][SS]エクストリーム・ジョブ【メガヒット９】",
+  "detail": "韓国の歴代興収１位を記録したアクションコメディ。大人気のチキン店を経営することになった麻薬捜査班の姿を描く。［ＰＧ１２］",
+  "start": 1619870400000,
+  "end": 1619877600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "メガヒット９",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

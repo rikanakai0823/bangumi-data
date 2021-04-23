@@ -1,0 +1,23 @@
+{
+  "id": "idozp1n",
+  "category": "sports",
+  "title": "Ｊリーグタイム",
+  "fullTitle": "Ｊリーグタイム「第１０週（Ｊ１第１２節）」",
+  "detail": "【解説】福西崇史，【コメンテーター】平畠啓史，【アナウンサー】杉岡英樹，【司会】中川絵美里",
+  "start": 1619870400000,
+  "end": 1619873400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "第１０週（Ｊ１第１２節）",
+  "episode": null,
+  "flags": []
+}

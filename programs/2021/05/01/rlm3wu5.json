@@ -1,0 +1,23 @@
+{
+  "id": "rlm3wu5",
+  "category": "sports",
+  "title": "鷹のミカタ",
+  "fullTitle": "鷹のミカタ＃10",
+  "detail": "今シーズンもやります！ 鷹のミカタ的 爆笑『リモート観戦』、話題沸騰！うんこミュージアムに突撃！！",
+  "start": 1619830800000,
+  "end": 1619834400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": []
+}

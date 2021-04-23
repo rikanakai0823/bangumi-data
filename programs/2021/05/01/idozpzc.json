@@ -1,0 +1,26 @@
+{
+  "id": "idozpzc",
+  "category": "sports",
+  "title": "Ｊリーグ２０２１「アビスパ福岡」対",
+  "fullTitle": "Ｊリーグ２０２１「アビスパ福岡」対「浦和レッズ」[多][デ]",
+  "detail": "　※副音声は場内音声　（試合開始　２：０１）　【解説】森岡隆三，【アナウンサー】森田哲意　～ベスト電器スタジアムから中継～",
+  "start": 1619845200000,
+  "end": 1619852400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "浦和レッズ",
+  "episode": null,
+  "flags": [
+    "多",
+    "デ"
+  ]
+}

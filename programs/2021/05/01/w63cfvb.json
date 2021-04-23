@@ -1,0 +1,23 @@
+{
+  "id": "w63cfvb",
+  "category": "sports",
+  "title": "[プロ野球]阪神×広島（阪神甲子園球場）",
+  "fullTitle": "[プロ野球]阪神×広島（阪神甲子園球場）",
+  "detail": "GAORAプロ野球中継\r\n「阪神 vs 広島」\r\n解説:高代延博\r\n実況:楠淳生\r\nリポーター:桐山隆\r\n開催：2021年5月1日／阪神甲子園球場",
+  "start": 1619861400000,
+  "end": 1619877600000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

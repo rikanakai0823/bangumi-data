@@ -1,0 +1,26 @@
+{
+  "id": "iduzwvw",
+  "category": "cinema",
+  "title": "ロビン・フッド（１９９１）",
+  "fullTitle": "[映][字]ロビン・フッド（１９９１）[吹]",
+  "detail": "ケヴィン・コスナー主演で伝説の英雄譚を甦らせた冒険活劇。圧政に苦しむ民衆のために、義賊であるロビン・フッドが立ち上がる。",
+  "start": 1619877600000,
+  "end": 1619887500000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

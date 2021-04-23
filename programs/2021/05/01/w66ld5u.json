@@ -1,0 +1,25 @@
+{
+  "id": "w66ld5u",
+  "category": "music",
+  "title": "VIVA LA ROCK 2021　DAY1 生中継!!",
+  "fullTitle": "[生]VIVA LA ROCK 2021　DAY1 生中継!!",
+  "detail": "KEYTALK、Novelbright、KANA-BOON、Nothing's Carved In Stone、SHISHAMO\r\n▽DAY1を初の【生中継】",
+  "start": 1619832600000,
+  "end": 1619852400000,
+  "seconds": 19800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 114
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
