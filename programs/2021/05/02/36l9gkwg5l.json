@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwg5l",
+  "category": "sports",
+  "title": "Ｂリーグ中継　千葉ジェッツふなばし　×　アルバルク東京",
+  "fullTitle": "Ｂリーグ中継　千葉ジェッツふなばし　×　アルバルク東京",
+  "detail": " ",
+  "start": 1619935200000,
+  "end": 1619945700000,
+  "seconds": 10500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

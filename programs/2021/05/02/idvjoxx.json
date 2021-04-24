@@ -1,0 +1,23 @@
+{
+  "id": "idvjoxx",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "ＧⅠ「天皇賞(春)」（阪神）の振り返りを中心に、当日の中央競馬レース結果をお伝えします。",
+  "start": 1619964000000,
+  "end": 1619965800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "天皇賞(春)",
+  "episode": null,
+  "flags": []
+}

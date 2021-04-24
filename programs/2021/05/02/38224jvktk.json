@@ -1,0 +1,23 @@
+{
+  "id": "38224jvktk",
+  "category": "welfare",
+  "title": "ミッドナイトサタデー",
+  "fullTitle": "ミッドナイトサタデー",
+  "detail": "土曜の深夜に極上のエンターテインメントをお届け！バラエティ・ドラマ・スポーツなど、時代の先を行くこだわり番組!!",
+  "start": 1619892000000,
+  "end": 1619893800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

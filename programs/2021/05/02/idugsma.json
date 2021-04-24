@@ -1,0 +1,27 @@
+{
+  "id": "idugsma",
+  "category": "cinema",
+  "title": "恋人たち（２０１５）[PG12指定]",
+  "fullTitle": "[映]恋人たち（２０１５）[PG12指定][SS][字]",
+  "detail": "それぞれ心に傷を抱えた３人の男女が織り成す人間模様を、橋口亮輔監督が繊細に描き、第８９回キネマ旬報日本映画ベスト・テン第１位をはじめ、数々の映画賞に輝いた秀作。",
+  "start": 1619901000000,
+  "end": 1619910000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 89,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

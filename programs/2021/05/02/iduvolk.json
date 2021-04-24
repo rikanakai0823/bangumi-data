@@ -1,0 +1,26 @@
+{
+  "id": "iduvolk",
+  "category": "cinema",
+  "title": "ベラのワンダフル・ホーム",
+  "fullTitle": "[映][SS]ベラのワンダフル・ホーム",
+  "detail": "１匹の犬の冒険を描くファミリーアドベンチャー。犬のベラは、離れてしまった飼い主の元へ帰ろうと６００キロの彼方へ旅立つ。",
+  "start": 1619912400000,
+  "end": 1619918400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

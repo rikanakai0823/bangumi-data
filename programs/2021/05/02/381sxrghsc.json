@@ -1,0 +1,25 @@
+{
+  "id": "381sxrghsc",
+  "category": "sports",
+  "title": "中日クラウンズ　最終日",
+  "fullTitle": "第６１回中日クラウンズ　最終日[字]",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1619935200000,
+  "end": 1619942400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": 61,
+  "flags": [
+    "字"
+  ]
+}

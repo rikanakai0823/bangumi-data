@@ -1,0 +1,27 @@
+{
+  "id": "idugsmb",
+  "category": "cinema",
+  "title": "名探偵コナン　時計じかけの摩天楼",
+  "fullTitle": "[映]名探偵コナン　時計じかけの摩天楼[SS][字]",
+  "detail": "国民的人気アニメ「名探偵コナン」の記念すべき劇場版第１作。特殊火薬盗難事件と連続爆破事件が発生、犯人から高校生探偵・工藤新一へ向け爆破予告の挑戦状が届く。",
+  "start": 1619910000000,
+  "end": 1619916300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "名探偵コナン",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

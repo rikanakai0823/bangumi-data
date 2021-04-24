@@ -1,0 +1,26 @@
+{
+  "id": "idy8f1f",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "[無]キャンプ・キキワカ#26[二]",
+  "detail": "#26「絶叫クイーン」",
+  "start": 1619965800000,
+  "end": 1619967600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "絶叫クイーン",
+  "episode": 26,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

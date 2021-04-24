@@ -1,0 +1,25 @@
+{
+  "id": "rlm3wvf",
+  "category": "sports",
+  "title": "ガンガン!ホークス CHECK!GO!",
+  "fullTitle": "[無]ガンガン!ホークス CHECK!GO! #122",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nFARM REPORTは川瀬晃内野手、ガンガンTOPICSは、板東投手やスチュワート・jr.投手をピックアップ！",
+  "start": 1619919000000,
+  "end": 1619920800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 122,
+  "flags": [
+    "無"
+  ]
+}

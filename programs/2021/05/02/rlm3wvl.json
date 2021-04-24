@@ -1,0 +1,26 @@
+{
+  "id": "rlm3wvl",
+  "category": "sports",
+  "title": "Bリーグ2020-21 第36節 秋田×宇都宮(5/2)",
+  "fullTitle": "[無][生]Bリーグ2020-21 第36節 秋田×宇都宮(5/2)",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nBリーグ 2020-21 第36節(5/2)\r\n対戦:秋田ノーザンハピネッツ(H)\r\n　　 宇都宮ブレックス　　　(A)",
+  "start": 1619931600000,
+  "end": 1619942400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

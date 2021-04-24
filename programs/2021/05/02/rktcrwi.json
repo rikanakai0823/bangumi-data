@@ -1,0 +1,27 @@
+{
+  "id": "rktcrwi",
+  "category": "variety",
+  "title": "ミュージックバンク",
+  "fullTitle": "[無]ミュージックバンク　[字][再]",
+  "detail": "K-POPファン必見！韓国を代表するトップアーティストたちが最近のヒットソングを届ける人気音楽放送！",
+  "start": 1619964000000,
+  "end": 1619969400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "字",
+    "再"
+  ]
+}

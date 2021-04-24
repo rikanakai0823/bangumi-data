@@ -1,0 +1,26 @@
+{
+  "id": "idy8f12",
+  "category": "anime",
+  "title": "アウルハウス",
+  "fullTitle": "[無]アウルハウス#8[二]",
+  "detail": "#8「肉体交換」",
+  "start": 1619919000000,
+  "end": 1619920800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "肉体交換",
+  "episode": 8,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

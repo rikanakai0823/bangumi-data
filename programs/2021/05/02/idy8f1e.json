@@ -1,0 +1,26 @@
+{
+  "id": "idy8f1e",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "[無]キャンプ・キキワカ#25[二]",
+  "detail": "#25「リーダー見習いズーリ」",
+  "start": 1619964000000,
+  "end": 1619965800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "リーダー見習いズーリ",
+  "episode": 25,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

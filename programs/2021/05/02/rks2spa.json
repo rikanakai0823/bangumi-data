@@ -1,0 +1,23 @@
+{
+  "id": "rks2spa",
+  "category": "cinema",
+  "title": "【無料】映画スペシャル",
+  "fullTitle": "【無料】映画「ヒノマルソウル～舞台裏の英雄たち～」スペシャル",
+  "detail": "田中圭主演の映画「ヒノマルソウル～舞台裏の英雄たち～」（2021年5月7日全国公開）の見どころを紹介するスペシャル番組。",
+  "start": 1619964000000,
+  "end": 1619965800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "ヒノマルソウル～舞台裏の英雄たち～",
+  "episode": null,
+  "flags": []
+}

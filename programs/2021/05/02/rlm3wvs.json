@@ -1,0 +1,25 @@
+{
+  "id": "rlm3wvs",
+  "category": "sports",
+  "title": "\"RIZIN すべて振り返らせていただきます\"",
+  "fullTitle": "[無]\"RIZIN すべて振り返らせていただきます\" #2",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nRIZIN　FIGHTING WORLD GRAND-PRIX 2015　（IZAの舞）",
+  "start": 1619960400000,
+  "end": 1619982000000,
+  "seconds": 21600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "無"
+  ]
+}
