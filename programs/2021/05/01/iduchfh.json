@@ -1,8 +1,8 @@
 {
   "id": "iduchfh",
   "category": "sports",
-  "title": "未定",
-  "fullTitle": "未定",
+  "title": "ＧＷもサッカー三昧～ラ・リーガ＆ユーロ～",
+  "fullTitle": "[無][初]ＧＷもサッカー三昧～ラ・リーガ＆ユーロ～",
   "detail": "",
   "start": 1619866800000,
   "end": 1619870400000,
@@ -19,5 +19,8 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無",
+    "初"
+  ]
 }
