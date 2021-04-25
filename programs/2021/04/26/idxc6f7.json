@@ -5,8 +5,8 @@
   "fullTitle": "SORA―お天気チャンネル―",
   "detail": "毎日の生活に欠かせない最新気象情報をお届けします。",
   "start": 1619380800000,
-  "end": 1619388000000,
-  "seconds": 7200,
+  "end": 1619386800000,
+  "seconds": 6000,
   "channel": {
     "type": "BS",
     "channel": "BS11_0",
