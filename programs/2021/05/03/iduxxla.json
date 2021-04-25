@@ -1,0 +1,25 @@
+{
+  "id": "iduxxla",
+  "category": "cinema",
+  "title": "パラダイム",
+  "fullTitle": "[映]パラダイム",
+  "detail": "鬼才ジョン・カーペンター監督が手掛けたオカルトホラー。廃墟となった教会を舞台に、司教や学者らが遭遇する悪魔の呪いを描く。",
+  "start": 1620029400000,
+  "end": 1620036000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

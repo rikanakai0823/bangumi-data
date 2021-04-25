@@ -1,0 +1,27 @@
+{
+  "id": "idugsml",
+  "category": "cinema",
+  "title": "犬鳴村",
+  "fullTitle": "[映]犬鳴村[SS][字]",
+  "detail": "「呪怨」シリーズの清水崇監督が放つ新たな最恐ホラー。実在する心霊スポットの都市伝説をもとに、地図から消された“犬鳴村”の謎に迫るヒロインが体験する恐怖を描く。",
+  "start": 1619982000000,
+  "end": 1619989200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "呪怨",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm3wwa",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2021～ファーム～ 西武vs.楽天",
+  "fullTitle": "[生]LIONS プロ野球中継2021～ファーム～ 西武vs.楽天",
+  "detail": "▽5月3日開催\r\n実況：熊谷龍一\r\n開催日時：2021年5月3日 (月) 13:00\r\n会場：CAR3219フィールド（カーミニークフィールド）",
+  "start": 1620014100000,
+  "end": 1620030600000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

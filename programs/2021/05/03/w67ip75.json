@@ -1,0 +1,25 @@
+{
+  "id": "w67ip75",
+  "category": "music",
+  "title": "天使のコーラス",
+  "fullTitle": "[無料]天使のコーラス#362",
+  "detail": "世界でもトップクラスの合唱団の演奏をお送りする番組。",
+  "start": 1619976600000,
+  "end": 1619978340000,
+  "seconds": 1740,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ミュージック・エア",
+    "id": "f0dg",
+    "sid": 324,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": 362,
+  "flags": [
+    "無"
+  ]
+}

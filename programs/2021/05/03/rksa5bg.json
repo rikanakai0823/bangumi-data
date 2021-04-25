@@ -1,0 +1,25 @@
+{
+  "id": "rksa5bg",
+  "category": "sports",
+  "title": "プロ野球中継2021 広島×巨人",
+  "fullTitle": "[生]プロ野球中継2021 広島×巨人",
+  "detail": "【生中継】「広島×巨人」\r\n解説：前田智徳、実況：三上大樹\r\n鈴木誠也を擁する広島が、リーグ２連覇中・巨人を迎え撃つ！\r\n※延長の場合あり\r\n※中止の場合番組変更あり",
+  "start": 1620032100000,
+  "end": 1620046800000,
+  "seconds": 14700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

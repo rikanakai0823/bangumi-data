@@ -1,0 +1,23 @@
+{
+  "id": "idryur0",
+  "category": "information",
+  "title": "Ａタイム　ＢＳ朝日のオススメ番組を紹介！",
+  "fullTitle": "Ａタイム　ＢＳ朝日のオススメ番組を紹介！",
+  "detail": "ＢＳ朝日のイチオシ番組をご紹介！",
+  "start": 1620042840000,
+  "end": 1620043200000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

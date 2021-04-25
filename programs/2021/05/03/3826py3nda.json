@@ -1,0 +1,25 @@
+{
+  "id": "3826py3nda",
+  "category": "anime",
+  "title": "忍者コレクション",
+  "fullTitle": "忍者コレクション[再]",
+  "detail": "第４話「美容師」",
+  "start": 1619978700000,
+  "end": 1619979000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "美容師",
+  "episode": 4,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "381f5kskfu",
+  "category": "sports",
+  "title": "プロ野球２０２１「中日」対～バンテリンドームから中継～",
+  "fullTitle": "プロ野球２０２１「中日」対「ＤｅＮＡ」～バンテリンドームから中継～[SS][字]",
+  "detail": "",
+  "start": 1620018000000,
+  "end": 1620030600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "ＤｅＮＡ",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}

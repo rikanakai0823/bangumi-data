@@ -1,0 +1,27 @@
+{
+  "id": "iduchgn",
+  "category": "cinema",
+  "title": "カンフー・パンダ（吹替版）",
+  "fullTitle": "[映]カンフー・パンダ（吹替版）[SS][字]",
+  "detail": "伝説の戦士の後継者に選ばれた臆病者のパンダは、邪悪なカンフー使いと対決する。Ｊ・ブラック、Ｊ・チェンら原語版の豪華声優陣も話題を呼んだヒットアニメ。続編も製作。",
+  "start": 1620027900000,
+  "end": 1620033600000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
