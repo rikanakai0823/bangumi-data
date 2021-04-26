@@ -1,0 +1,26 @@
+{
+  "id": "idxc6p1",
+  "category": "sports",
+  "title": "韓国女子プロゴルフツアー クリスF&CKLPGAチャンピオンシップ＜最終日＞",
+  "fullTitle": "[無][生]韓国女子プロゴルフツアー クリスF&C第43回KLPGAチャンピオンシップ＜最終日＞",
+  "detail": "2021シーズンのメジャー初戦となる「クリスF&C第43回KLPGAチャンピオンシップ」最終日の模様を生中継でお届け。",
+  "start": 1619924400000,
+  "end": 1619938800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "クリスF&C第43回KLPGAチャンピオンシップ",
+  "episode": 43,
+  "flags": [
+    "無",
+    "生"
+  ]
+}
