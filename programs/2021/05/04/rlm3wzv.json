@@ -1,0 +1,25 @@
+{
+  "id": "rlm3wzv",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ 第29節 マインツ×ヘルタベルリン",
+  "fullTitle": "[生]20/21 ブンデスリーガ 第29節 マインツ×ヘルタベルリン",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年5月3日\r\n会場:オペル アレーナ",
+  "start": 1620057000000,
+  "end": 1620066000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

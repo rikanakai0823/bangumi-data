@@ -1,0 +1,23 @@
+{
+  "id": "iduen61",
+  "category": "sports",
+  "title": "週刊テニスＮＡＶＩ",
+  "fullTitle": "週刊テニスＮＡＶＩ　＃１５",
+  "detail": "錦織圭、大坂なおみらトップ選手の最新情報から、グランドスラムや男子テニスＡＴＰツアーの模様まで余すことなくお届けする週刊テニス情報番組。",
+  "start": 1620081000000,
+  "end": 1620082200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 15,
+  "flags": []
+}

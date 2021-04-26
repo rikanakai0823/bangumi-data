@@ -1,0 +1,25 @@
+{
+  "id": "idy8f2c",
+  "category": "drama",
+  "title": "ガール・ミーツ・ワールド",
+  "fullTitle": "ガール・ミーツ・ワールド#33[二]",
+  "detail": "#33「自分の知らない自分」",
+  "start": 1620068400000,
+  "end": 1620070200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "自分の知らない自分",
+  "episode": 33,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduvtb6",
+  "category": "drama",
+  "title": "ウォリアー",
+  "fullTitle": "[SS]ウォリアー　＃４【ＧＷスペシャル　ＨＢＯ（Ｒ）ドラマ一挙放送】",
+  "detail": "ブルース・リーの原案をＨＢＯ（Ｒ）がドラマ化。カンフーを駆使する戦士の戦いを描くアクションドラマ。（全１０話）",
+  "start": 1620071400000,
+  "end": 1620075600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＧＷスペシャル　ＨＢＯ（Ｒ）ドラマ一挙放送",
+  "episode": 4,
+  "flags": [
+    "SS"
+  ]
+}

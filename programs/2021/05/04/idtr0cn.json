@@ -1,0 +1,23 @@
+{
+  "id": "idtr0cn",
+  "category": "information",
+  "title": "バルコスＴＶショッピング",
+  "fullTitle": "バルコスＴＶショッピング",
+  "detail": "",
+  "start": 1620068400000,
+  "end": 1620070200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

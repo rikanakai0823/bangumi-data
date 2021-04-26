@@ -1,0 +1,25 @@
+{
+  "id": "w698g6p",
+  "category": "hobby",
+  "title": "トラベル・ショー",
+  "fullTitle": "トラベル・ショー(再)",
+  "detail": "番組と共に新たな発見の旅へ。世界のさまざまな地を訪ね、観光客が集まる人気スポットの隠れた一面を紹介する。",
+  "start": 1620059400000,
+  "end": 1620061200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

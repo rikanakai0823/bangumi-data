@@ -1,0 +1,23 @@
+{
+  "id": "rkv8x9i",
+  "category": "news",
+  "title": "深層NEWS",
+  "fullTitle": "深層NEWS",
+  "detail": "▽混迷の時代、日本の羅針盤に。深層ＮＥＷＳ。ネットでは探せない価値ある情報をゲストからじっくりと引き出します。あなたの「知りたい」に応える。深層ＮＥＷＳ。",
+  "start": 1620054000000,
+  "end": 1620057600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "知りたい",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduchhe",
+  "category": "cinema",
+  "title": "愛唄－約束のナクヒト－",
+  "fullTitle": "[映]愛唄－約束のナクヒト－[SS][字]",
+  "detail": "ＧＲｅｅｅｅＮの名曲をベースに、横浜流星が主演した青春ラブストーリー。余命９０日を宣告された青年と秘密を持つ少女の出会いから、語り継がれるある名曲の誕生を描く。",
+  "start": 1620125100000,
+  "end": 1620133200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

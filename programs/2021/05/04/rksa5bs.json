@@ -1,0 +1,25 @@
+{
+  "id": "rksa5bs",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2021 レスリングどんたく 2021",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2021 レスリングどんたく 2021",
+  "detail": "新たな新日本プロレスの頂点・IWGP世界ヘビー級王座を懸け第２代王者ウィル・オスプレイとNEW JAPAN CUP準優勝者 鷹木信悟が激闘必至の決戦！\r\n※延長の場合あり",
+  "start": 1620108000000,
+  "end": 1620118800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

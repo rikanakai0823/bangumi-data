@@ -1,0 +1,23 @@
+{
+  "id": "w66jbo1",
+  "category": "information",
+  "title": "おトクな情報",
+  "fullTitle": "おトクな情報",
+  "detail": "各種おトクな情報をお届けしております！",
+  "start": 1620102900000,
+  "end": 1620103800000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 113
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

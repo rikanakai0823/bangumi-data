@@ -1,0 +1,26 @@
+{
+  "id": "iduchh7",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]洋楽ＢＲＥＡＫ　＃４４０",
+  "detail": "",
+  "start": 1620100200000,
+  "end": 1620100800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 440,
+  "flags": [
+    "無",
+    "初"
+  ]
+}
