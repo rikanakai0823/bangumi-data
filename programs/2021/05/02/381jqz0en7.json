@@ -1,12 +1,16 @@
 {
   "id": "381jqz0en7",
   "category": "documentary",
-  "title": "ＮＨＫ俳句",
-  "fullTitle": "ＮＨＫ俳句[字]",
-  "detail": "",
+  "title": "ＮＨＫ俳句　題",
+  "fullTitle": "ＮＨＫ俳句　題「葉桜」[字]",
+  "detail": "【ゲスト】石原良純，【出演】片山由美子，【司会】武井壮\n◇出演者\n【ゲスト】石原良純，【出演】片山由美子，【司会】武井壮",
   "start": 1619904900000,
   "end": 1619906400000,
   "seconds": 1500,
+  "description": "【ゲスト】石原良純，【出演】片山由美子，【司会】武井壮",
+  "extra": {
+    "出演者": "【ゲスト】石原良純，【出演】片山由美子，【司会】武井壮"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "葉桜",
   "episode": null,
   "flags": [
     "字"

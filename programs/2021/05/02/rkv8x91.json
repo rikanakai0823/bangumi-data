@@ -2,7 +2,7 @@
   "id": "rkv8x91",
   "category": "news",
   "title": "Lunch　Update",
-  "fullTitle": "Lunch　Update",
+  "fullTitle": "[無料]Lunch　Update",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Lunch Update」",
   "start": 1619924400000,
   "end": 1619931600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "日テレNEWS24・Lunch Update",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

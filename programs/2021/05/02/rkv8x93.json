@@ -2,7 +2,7 @@
   "id": "rkv8x93",
   "category": "news",
   "title": "Late　Afternoon　News",
-  "fullTitle": "Late　Afternoon　News",
+  "fullTitle": "[無料]Late　Afternoon　News",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Late Afternoon News」",
   "start": 1619935200000,
   "end": 1619946000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "日テレNEWS24・Late Afternoon News",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

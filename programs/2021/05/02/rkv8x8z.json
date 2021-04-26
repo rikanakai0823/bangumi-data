@@ -2,7 +2,7 @@
   "id": "rkv8x8z",
   "category": "news",
   "title": "Wake-Up　News",
-  "fullTitle": "Wake-Up　News",
+  "fullTitle": "[無料]Wake-Up　News",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Wake－Up News」",
   "start": 1619906400000,
   "end": 1619913600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "日テレNEWS24・Wake－Up News",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

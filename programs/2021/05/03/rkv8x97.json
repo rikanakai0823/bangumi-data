@@ -2,7 +2,7 @@
   "id": "rkv8x97",
   "category": "news",
   "title": "Daily　Planet",
-  "fullTitle": "Daily　Planet",
+  "fullTitle": "[無料]Daily　Planet",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Daily Planet」",
   "start": 1619969400000,
   "end": 1619971200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "日テレNEWS24・Daily Planet",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
