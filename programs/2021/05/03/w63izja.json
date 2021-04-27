@@ -1,12 +1,12 @@
 {
-  "id": "w63ize0",
+  "id": "w63izja",
   "category": "sports",
-  "title": "GIANTSプレゲームショー",
-  "fullTitle": "[生]GIANTSプレゲームショー",
-  "detail": "～生放送",
-  "start": 1619769600000,
-  "end": 1619772300000,
-  "seconds": 2700,
+  "title": "巨人 in 東京ドーム 2020",
+  "fullTitle": "[無料]巨人 in 東京ドーム 2020",
+  "detail": "",
+  "start": 1619978400000,
+  "end": 1619985600000,
+  "seconds": 7200,
   "channel": {
     "type": "CS",
     "channel": "CS24",
@@ -20,6 +20,6 @@
   "subTitle": "",
   "episode": null,
   "flags": [
-    "生"
+    "無"
   ]
 }
