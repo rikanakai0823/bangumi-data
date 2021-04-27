@@ -1,0 +1,25 @@
+{
+  "id": "rks2sts",
+  "category": "drama",
+  "title": "アンナチュラル",
+  "fullTitle": "アンナチュラル #4[字]",
+  "detail": "『逃げるは恥だが役に立つ』を手がけた脚本家・野木亜紀子が送る法医学ミステリー。石原さとみ演じる法医解剖医と仲間たちが「死」の裏にある謎や事件に挑む。",
+  "start": 1620189900000,
+  "end": 1620192900000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "死",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

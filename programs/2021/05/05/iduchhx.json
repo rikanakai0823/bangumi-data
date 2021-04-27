@@ -1,0 +1,26 @@
+{
+  "id": "iduchhx",
+  "category": "drama",
+  "title": "英国ＳＦドラマ",
+  "fullTitle": "英国ＳＦドラマ「宇宙戦争」　＃３　生存[二][字]",
+  "detail": "三本足の怪物がロンドンを破壊し始め、エイミーたちは海岸へと向かう。そして、数年後の地球は赤い荒涼とした大地にその姿を変えていた。",
+  "start": 1620177600000,
+  "end": 1620180600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "生存",
+  "episode": 3,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idugsna",
+  "category": "cinema",
+  "title": "ロイヤルコーギー　レックスの大冒険（字幕版）",
+  "fullTitle": "[映]ロイヤルコーギー　レックスの大冒険（字幕版）[SS]",
+  "detail": "英国王室で飼われていたコーギー犬をモチーフにしたＣＧアニメ。宮殿を抜け出したコーギーが、初めて見る外の世界に戸惑いながらも仲間たちと出会い、冒険を繰り広げる。",
+  "start": 1620157500000,
+  "end": 1620162900000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

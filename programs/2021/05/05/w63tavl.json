@@ -1,0 +1,23 @@
+{
+  "id": "w63tavl",
+  "category": "sports",
+  "title": "2021 中日クラウンズ 3日目",
+  "fullTitle": "2021 中日クラウンズ 3日目",
+  "detail": "愛知県の名古屋ゴルフ倶楽部・和合コースで行われる現存する日本最古の民間トーナメント。",
+  "start": 1620190800000,
+  "end": 1620198000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 99
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

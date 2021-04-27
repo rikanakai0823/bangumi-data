@@ -1,0 +1,27 @@
+{
+  "id": "iduchi8",
+  "category": "cinema",
+  "title": "仮面病棟",
+  "fullTitle": "[映]仮面病棟[SS][字]",
+  "detail": "坂口健太郎と永野芽郁がＷ主演したサスペンスミステリー。先輩医師に頼まれ一夜限りの当直に入った青年医師。だが、病院をピエロ姿の凶悪犯が占拠し、恐怖の一夜が始まる。",
+  "start": 1620212400000,
+  "end": 1620219600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
