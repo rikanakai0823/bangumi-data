@@ -1,0 +1,27 @@
+{
+  "id": "idugsnp",
+  "category": "cinema",
+  "title": "武士の一分",
+  "fullTitle": "[映]武士の一分[SS][字]",
+  "detail": "日本映画界を代表する名匠・山田洋次監督が、人気者の木村拓哉を主演に迎えた話題の１本。人情味あふれる藤沢周平の原作を、丹精こめて切なく描き切った時代劇映画の秀作。",
+  "start": 1620252000000,
+  "end": 1620260100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

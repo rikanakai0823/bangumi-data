@@ -1,0 +1,25 @@
+{
+  "id": "iduvzdu",
+  "category": "drama",
+  "title": "ウォリアー",
+  "fullTitle": "[SS]ウォリアー　＃９【ＧＷスペシャル　ＨＢＯ（Ｒ）ドラマ一挙放送】",
+  "detail": "ブルース・リーが遺した原案をＨＢＯ（Ｒ）がドラマ化。異国に渡った戦士の戦いを描くアクション。（全１０話）［ＰＧ１２相当］",
+  "start": 1620232200000,
+  "end": 1620236700000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＧＷスペシャル　ＨＢＯ（Ｒ）ドラマ一挙放送",
+  "episode": 9,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8f51",
+  "category": "drama",
+  "title": "シェイク",
+  "fullTitle": "シェイク#6[二]",
+  "detail": "#6「拡散」",
+  "start": 1620306000000,
+  "end": 1620306600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "拡散",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}

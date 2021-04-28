@@ -1,0 +1,23 @@
+{
+  "id": "w67t5nc",
+  "category": "music",
+  "title": "NHK歌謡コンサート",
+  "fullTitle": "NHK歌謡コンサート #4",
+  "detail": "＜ふるさと旅情　演歌旅！＞\r\n魅力的なテーマに基づいて日本の美しい風景、伝統、そして日本人の心が育んだ名曲をダイナミックな構成でお送りします。",
+  "start": 1620262800000,
+  "end": 1620266400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}

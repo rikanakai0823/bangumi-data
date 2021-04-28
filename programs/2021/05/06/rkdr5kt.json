@@ -1,0 +1,23 @@
+{
+  "id": "rkdr5kt",
+  "category": "information",
+  "title": "ドウシシャ　ＬＥＤサーキュライト",
+  "fullTitle": "ドウシシャ　ＬＥＤサーキュライト",
+  "detail": "電球と扇風機の１台２役！電球ソケットに簡単に取り付けられ、トイレや洗面所、夏場の玄関先など様々なシーンで大活躍。風が必要ないときは照明のみの単独運転もＯＫ。",
+  "start": 1620262800000,
+  "end": 1620266400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

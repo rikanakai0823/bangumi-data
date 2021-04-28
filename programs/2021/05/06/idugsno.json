@@ -1,0 +1,26 @@
+{
+  "id": "idugsno",
+  "category": "cinema",
+  "title": "ＴＯＫＹＯ！（字幕版）",
+  "fullTitle": "[映]ＴＯＫＹＯ！（字幕版）[字]",
+  "detail": "韓国のポン・ジュノや、Ｍ・ゴンドリー、Ｌ・カラックスなど各国の鬼才監督３人が集まり、世界で最もクールな都市だった東京を独自の視点で描いた、話題のオムニバス映画。",
+  "start": 1620244800000,
+  "end": 1620252000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

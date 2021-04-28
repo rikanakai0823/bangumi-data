@@ -1,0 +1,25 @@
+{
+  "id": "idp41j4",
+  "category": "documentary",
+  "title": "ダークサイドミステリー",
+  "fullTitle": "ダークサイドミステリー[字]",
+  "detail": "",
+  "start": 1620302400000,
+  "end": 1620306000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

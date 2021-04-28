@@ -1,0 +1,25 @@
+{
+  "id": "rktcrtr",
+  "category": "variety",
+  "title": "ミュージックバンクダイジェスト～ＥＸＯ出演回",
+  "fullTitle": "ミュージックバンクダイジェスト～ＥＸＯ出演回　[字]",
+  "detail": "EXOが音楽番組「ミュージックバンク」に出演した回をダイジェストにまとめて放送！",
+  "start": 1620241800000,
+  "end": 1620244800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "ミュージックバンク",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

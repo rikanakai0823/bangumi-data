@@ -1,0 +1,25 @@
+{
+  "id": "w63izjm",
+  "category": "sports",
+  "title": "ワールドレディスチャンピオンシップサロンパスカップ2021 1日目9番ホール",
+  "fullTitle": "[生]ワールドレディスチャンピオンシップサロンパスカップ2021 1日目9番ホール",
+  "detail": "～生中継",
+  "start": 1620282600000,
+  "end": 1620289800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

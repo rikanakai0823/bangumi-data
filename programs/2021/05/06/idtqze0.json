@@ -1,0 +1,25 @@
+{
+  "id": "idtqze0",
+  "category": "news",
+  "title": "ＢＳフジニュース",
+  "fullTitle": "[生]ＢＳフジニュース",
+  "detail": "",
+  "start": 1620266220000,
+  "end": 1620266400000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
