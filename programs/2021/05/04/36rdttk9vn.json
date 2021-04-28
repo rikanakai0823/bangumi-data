@@ -1,15 +1,18 @@
 {
   "id": "36rdttk9vn",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "title": "洋楽天国＋▽リンゴ・スター特集",
+  "fullTitle": "洋楽天国＋▽リンゴ・スター特集",
+  "detail": "新作ＥＰをリリースしたリンゴ・スターの新旧ヒット曲を紹介！\n◇番組内容\n新作EP「ズーム・イン」をリリースしたリンゴ・スター。ソロとしても70年代より活躍しているリンゴの新旧ヒット曲に加え、彼が率いるバンド　リンゴ・スター & ヒズ・オール・スター・バンドのライブ映像も紹介！！\n◇選曲１\n\"Zoom In Zoom Out\"RINGO STARR\r\n\"It Don't Come Easy\"RINGO STARR\r\n\"You're Sixteen You're Beautiful (And You're Mine)\"RINGO STARR\r\n\"Only You (And You Alone)\"RINGO STARR\n◇選曲２\n\"With A Little Help From My Friends(Live At The Greek Theatre / 2008)\"RINGO STARR & HIS ALL STARR BAND\r\n\"I Wanna Be Your Man(Live At The Greek Theatre / 2008)\"RINGO STARR & HIS ALL STARR BAND\n◇選曲３\n\"Give More Love\"RINGO STARR\r\n\"Here's To The Nights\"RINGO STARR",
   "start": 1620113400000,
   "end": 1620115200000,
   "seconds": 1800,
-  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "description": "新作ＥＰをリリースしたリンゴ・スターの新旧ヒット曲を紹介！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "新作EP「ズーム・イン」をリリースしたリンゴ・スター。ソロとしても70年代より活躍しているリンゴの新旧ヒット曲に加え、彼が率いるバンド　リンゴ・スター & ヒズ・オール・スター・バンドのライブ映像も紹介！！",
+    "選曲１": "\"Zoom In Zoom Out\"RINGO STARR\r\n\"It Don't Come Easy\"RINGO STARR\r\n\"You're Sixteen You're Beautiful (And You're Mine)\"RINGO STARR\r\n\"Only You (And You Alone)\"RINGO STARR",
+    "選曲２": "\"With A Little Help From My Friends(Live At The Greek Theatre / 2008)\"RINGO STARR & HIS ALL STARR BAND\r\n\"I Wanna Be Your Man(Live At The Greek Theatre / 2008)\"RINGO STARR & HIS ALL STARR BAND",
+    "選曲３": "\"Give More Love\"RINGO STARR\r\n\"Here's To The Nights\"RINGO STARR"
   },
   "channel": {
     "type": "GR",
