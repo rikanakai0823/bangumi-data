@@ -1,0 +1,23 @@
+{
+  "id": "idxc6py",
+  "category": "music",
+  "title": "LIVE BEYOOOOOND1St",
+  "fullTitle": "LIVE BEYOOOOOND1St",
+  "detail": "BEYOOOOONDS初の単独コンサートをBSスカパー！で放送！",
+  "start": 1620145200000,
+  "end": 1620151200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63cgar",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×千葉ロッテ～ファーム～（鎌スタ）",
+  "fullTitle": "[生][プロ野球]北海道日本ハム×千葉ロッテ～ファーム～（鎌スタ）",
+  "detail": "（試合終了まで放送、以降番組変更あり）\r\nGAORAプロ野球中継～ファーム～（ファイターズ）\r\n「北海道日本ハム vs 千葉ロッテ」\r\n進行:吉田智大\r\n開催：2021年5月5日／鎌スタ",
+  "start": 1620186900000,
+  "end": 1620202800000,
+  "seconds": 15900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
