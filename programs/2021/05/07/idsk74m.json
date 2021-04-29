@@ -1,0 +1,23 @@
+{
+  "id": "idsk74m",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　阪神」",
+  "detail": "横浜から生中継。午後５時４５分試合開始。\r\n【解説】斎藤隆【実況】伊藤隆佑",
+  "start": 1620378000000,
+  "end": 1620388440000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　阪神",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idozrrv",
+  "category": "etc",
+  "title": "ＢＳセレクション　　　　　　　　　　　　　　　　＜以降テニス中継の場合あり＞",
+  "fullTitle": "ＢＳセレクション　　　　　　　　　　　　　　　　＜以降テニス中継の場合あり＞",
+  "detail": "",
+  "start": 1620385200000,
+  "end": 1620388200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

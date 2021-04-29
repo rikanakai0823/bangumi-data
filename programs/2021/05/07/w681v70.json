@@ -1,0 +1,25 @@
+{
+  "id": "w681v70",
+  "category": "anime",
+  "title": "怪物事変",
+  "fullTitle": "怪物事変 #10 [字]",
+  "detail": "#10 双子",
+  "start": 1620396000000,
+  "end": 1620397800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "双子",
+  "episode": 10,
+  "flags": [
+    "字"
+  ]
+}

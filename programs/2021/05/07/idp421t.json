@@ -1,0 +1,25 @@
+{
+  "id": "idp421t",
+  "category": "variety",
+  "title": "最初の企画書見せてください",
+  "fullTitle": "最初の企画書見せてください「時代を変えたあの腕時計」[字]",
+  "detail": "【司会】ミキ，【語り】風吹ジュン",
+  "start": 1620392400000,
+  "end": 1620396000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "時代を変えたあの腕時計",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1kcd",
+  "category": "documentary",
+  "title": "ＭＩＤＴＶ",
+  "fullTitle": "ＭＩＤＴＶ[Ｓ][再]",
+  "detail": "坪井慶介（第３回）",
+  "start": 1620364500000,
+  "end": 1620365400000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "再"
+  ]
+}

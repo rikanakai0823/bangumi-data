@@ -1,0 +1,25 @@
+{
+  "id": "w63tawy",
+  "category": "sports",
+  "title": "銀座ゴルフ倶楽部",
+  "fullTitle": "[無料]銀座ゴルフ倶楽部【ＭＣヒロミ×ゲスト木梨憲武】",
+  "detail": "テーラーメイド銀座を舞台にヒロミが鷲見玲奈と共に毎月豪華ゲストを迎えお届けする大人のゴルフトーク番組。",
+  "start": 1620378000000,
+  "end": 1620381600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 99
+  },
+  "subTitle": "ＭＣヒロミ×ゲスト木梨憲武",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

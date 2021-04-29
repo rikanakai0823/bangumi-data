@@ -1,0 +1,25 @@
+{
+  "id": "iduyado",
+  "category": "cinema",
+  "title": "マリアンの友だち",
+  "fullTitle": "[映]マリアンの友だち",
+  "detail": "ジョージ・ロイ・ヒル監督の青春コメディ。恋愛に興味津々な２人の少女と、彼女たちに振り回される著名な音楽家との騒動を描く。",
+  "start": 1620381600000,
+  "end": 1620388800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

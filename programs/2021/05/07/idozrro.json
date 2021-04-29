@@ -1,0 +1,26 @@
+{
+  "id": "idozrro",
+  "category": "documentary",
+  "title": "ドキュメント７２時間",
+  "fullTitle": "ドキュメント７２時間「奄美　海上タクシーに乗って」[解][字]",
+  "detail": "奄美群島の島を行き来する海上タクシー。通勤や買い物など島の人たちの生活の足であり、人生の節目にも立ち会ってきた。どんな暮らしがあるのか。３日間、耳を傾ける。",
+  "start": 1620374400000,
+  "end": 1620376200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "奄美　海上タクシーに乗って",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
