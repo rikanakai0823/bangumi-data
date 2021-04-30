@@ -1,0 +1,25 @@
+{
+  "id": "rkngec0",
+  "category": "variety",
+  "title": "シネマ☆チョップ！",
+  "fullTitle": "[無料]シネマ☆チョップ！",
+  "detail": "東映チャンネルが注目する最新情報をお届けする情報番組。",
+  "start": 1620444600000,
+  "end": 1620446400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "東映チャンネル",
+    "id": "cv4q",
+    "sid": 218,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 91
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

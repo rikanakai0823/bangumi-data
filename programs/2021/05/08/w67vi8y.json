@@ -1,0 +1,25 @@
+{
+  "id": "w67vi8y",
+  "category": "anime",
+  "title": "ソニックＸ ,76",
+  "fullTitle": "ソニックＸ[字] #75,76",
+  "detail": "＃７５「森化の日」＃７６「決戦！ダーク・オーク」",
+  "start": 1620468000000,
+  "end": 1620471600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "森化の日",
+  "episode": 75,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idvjp42",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【新潟】12Ｒ「五泉特別」\r\n【中京】12Ｒ\r\n【東京】12Ｒ\r\n▼ＧⅠ「ＮＨＫマイルカップ」（東京）展望",
+  "start": 1620457200000,
+  "end": 1620462600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

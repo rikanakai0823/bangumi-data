@@ -1,0 +1,26 @@
+{
+  "id": "idugsod",
+  "category": "cinema",
+  "title": "宇宙戦争（２００５）（字幕版）",
+  "fullTitle": "[映]宇宙戦争（２００５）（字幕版）[SS]",
+  "detail": "人気男優Ｔ・クルーズとＳ・スピルバーグ監督がタッグを組んだ人気ＳＦパニックサスペンス。古典的ＳＦ小説を再映画化し、地球侵略を目指すエイリアンと人類が死闘を展開。",
+  "start": 1620421200000,
+  "end": 1620428400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp42qr",
+  "category": "documentary",
+  "title": "グレートネイチャー５ｍｉｎ．",
+  "fullTitle": "グレートネイチャー５ｍｉｎ．「ロシア・サハ共和国」[字]",
+  "detail": "冬と夏とでは気温差が１００度になるというロシア・サハ。ゴシック建築のような石柱群といった絶景から極北の大地誕生の謎に迫る。",
+  "start": 1620421200000,
+  "end": 1620421500000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "ロシア・サハ共和国",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

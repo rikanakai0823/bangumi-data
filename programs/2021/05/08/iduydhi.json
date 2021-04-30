@@ -1,0 +1,26 @@
+{
+  "id": "iduydhi",
+  "category": "cinema",
+  "title": "ターミナル",
+  "fullTitle": "[映][SS]ターミナル",
+  "detail": "トム・ハンクス主演、スティーヴン・スピルバーグ監督のヒューマンドラマ。空港で足止めされた男と周囲の人々との交流を描く。",
+  "start": 1620466200000,
+  "end": 1620475200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
