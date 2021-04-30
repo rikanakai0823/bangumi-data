@@ -2,11 +2,11 @@
   "id": "w698g6f",
   "category": "documentary",
   "title": "パノラマ：人種問題を語ろう",
-  "fullTitle": "[英]パノラマ：人種問題を語ろう(再)",
+  "fullTitle": "[無][英]パノラマ：人種問題を語ろう(再)",
   "detail": "情報番組の司会者ナガ・マンチェッティがイギリス各地を訪れ、人種や人種差別について人々の意見を聞いた。",
-  "start": 1619903400000,
+  "start": 1619903100000,
   "end": 1619906400000,
-  "seconds": 3000,
+  "seconds": 3300,
   "channel": {
     "type": "CS",
     "channel": "CS16",
@@ -20,6 +20,7 @@
   "subTitle": "",
   "episode": null,
   "flags": [
+    "無",
     "再"
   ]
 }

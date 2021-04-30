@@ -2,11 +2,11 @@
   "id": "w698g6g",
   "category": "news",
   "title": "BBCワールドニュース",
-  "fullTitle": "BBCワールドニュース",
+  "fullTitle": "[無]BBCワールドニュース",
   "detail": "世界の最新ニュースを１時間おきに伝えるニュース番組。世界各地の政治・経済ニュースをお伝えする他、スポーツの結果、映画情報などをお伝えする。",
   "start": 1619920800000,
-  "end": 1619921400000,
-  "seconds": 600,
+  "end": 1619921100000,
+  "seconds": 300,
   "channel": {
     "type": "CS",
     "channel": "CS16",
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
