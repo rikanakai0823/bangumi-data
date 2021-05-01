@@ -1,0 +1,25 @@
+{
+  "id": "w65vo04",
+  "category": "sports",
+  "title": "プロ野球 2021 DeNA×阪神(5/9)",
+  "fullTitle": "[生]プロ野球 2021 DeNA×阪神(5/9)",
+  "detail": "横浜DeNAベイスターズの2021年ホーム公式戦を全試合、試合開始から終了まで完全生中継！※雨天中止の場合、別番組をお送りします",
+  "start": 1620536100000,
+  "end": 1620554400000,
+  "seconds": 18300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 106
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

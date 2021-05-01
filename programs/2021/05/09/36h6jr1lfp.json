@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr1lfp",
+  "category": "information",
+  "title": "テレビショッピング・ショップジャパン",
+  "fullTitle": "テレビショッピング・ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nフォーサ　０１２０－４４－００２７、セブンスピロー　０１２０－１６－００７９",
+  "start": 1620540000000,
+  "end": 1620543300000,
+  "seconds": 3300,
+  "description": "",
+  "extra": {
+    "番組内容": "フォーサ　０１２０－４４－００２７、セブンスピロー　０１２０－１６－００７９"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

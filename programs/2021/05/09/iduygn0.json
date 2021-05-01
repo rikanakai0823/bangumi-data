@@ -1,0 +1,26 @@
+{
+  "id": "iduygn0",
+  "category": "cinema",
+  "title": "エクソダス：神と王",
+  "fullTitle": "[映][SS]エクソダス：神と王【ＧＷスペシャル　歴史スペクタクル特集】",
+  "detail": "リドリー・スコット監督の歴史スペクタクル大作。旧約聖書に綴られたモーゼの活躍と“１０の奇跡”を最新ＶＦＸを駆使して描く。",
+  "start": 1620552000000,
+  "end": 1620561600000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "ＧＷスペシャル　歴史スペクタクル特集",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

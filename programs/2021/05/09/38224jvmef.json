@@ -1,0 +1,25 @@
+{
+  "id": "38224jvmef",
+  "category": "variety",
+  "title": "サンキュー！おしゃベリ～マッチ",
+  "fullTitle": "サンキュー！おしゃベリ～マッチ[字]",
+  "detail": "次世代を担うバラエティを中心に、旅・グルメ・情報などのスペシャル番組を放送！日曜の午後にふさわしい作品をお届けします。",
+  "start": 1620544500000,
+  "end": 1620548700000,
+  "seconds": 4200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

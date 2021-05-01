@@ -1,0 +1,26 @@
+{
+  "id": "iduchkt",
+  "category": "cinema",
+  "title": "レッドソニア（字幕版）",
+  "fullTitle": "[映]レッドソニア（字幕版）[SS]",
+  "detail": "「コナン・ザ・グレート」シリーズに続き、Ａ・シュワルツェネッガーが豪快な剣士役を演じたヒロイックファンタジー。運命に導かれた女性剣士レッドソニアの戦いを描く。",
+  "start": 1620559800000,
+  "end": 1620565200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "コナン・ザ・グレート",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

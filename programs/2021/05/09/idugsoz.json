@@ -1,0 +1,27 @@
+{
+  "id": "idugsoz",
+  "category": "cinema",
+  "title": "ジョン・デロリアン（字幕版）[PG12指定]",
+  "fullTitle": "[初][映]ジョン・デロリアン（字幕版）[PG12指定][SS]",
+  "detail": "実話をもとに、名車デロリアンの生みの親である天才エンジニアのジョン・デロリアンと、ＦＢＩに情報屋として雇われた元パイロットの男との奇妙な友情を綴った犯罪ドラマ。",
+  "start": 1620568800000,
+  "end": 1620576000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}
