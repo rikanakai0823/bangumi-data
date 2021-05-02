@@ -1,0 +1,25 @@
+{
+  "id": "3826py3nmv",
+  "category": "anime",
+  "title": "忍者コレクション",
+  "fullTitle": "忍者コレクション[再]",
+  "detail": "第５話「シミ」",
+  "start": 1620583500000,
+  "end": 1620583800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "シミ",
+  "episode": 5,
+  "flags": [
+    "再"
+  ]
+}

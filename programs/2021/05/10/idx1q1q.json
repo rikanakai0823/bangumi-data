@@ -1,0 +1,25 @@
+{
+  "id": "idx1q1q",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ,546",
+  "fullTitle": "[字]ちびまる子ちゃん #545,546",
+  "detail": "#545「ノートのすみっこの秘密」の巻／「プラタナスの木の下で」の巻\r\n#546「まる子、大根に学ぶ」の巻／「幸福行きの…",
+  "start": 1620626400000,
+  "end": 1620630000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "ノートのすみっこの秘密",
+  "episode": 545,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugspc",
+  "category": "cinema",
+  "title": "アーカイヴ（字幕版）",
+  "fullTitle": "[初][映]アーカイヴ（字幕版）[SS]",
+  "detail": "人格と記憶を保存できる“アーカイヴ”システムを使って、亡き妻をアンドロイドとして復活させようとする工学者の主人公だったが……。Ｔ・ジェームズ主演のＳＦスリラー。",
+  "start": 1620655200000,
+  "end": 1620662400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}
