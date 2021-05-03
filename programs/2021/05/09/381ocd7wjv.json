@@ -3,10 +3,15 @@
   "category": "information",
   "title": "カウントダウン　Ｈｕｌｕ",
   "fullTitle": "カウントダウン　Ｈｕｌｕ[字]",
-  "detail": "",
+  "detail": "AAAに所属し、ラッパーとしても活躍するSKY-HIが1億円を出資したオーディション番組「THE FIRST -BMSG Audition 2021-」を紹介\n◇出演者\n【ナレーター】中野謙吾(日テレアナウンサー)\n◇番組内容\nSKY-HIプロデュースのボーイズグループ発掘オーディション番組「THE FIRST -BMSG Audition 2021-」を特集▼アジアから世界へ新しい風を巻き起こし、音楽シーンのトップを目指すこのオーディション。費用1億円はSKY-HI自らが出資して開催▼オーディションに夢と青春をかけた1次審査を突破した231人がSKY-HIと直接対面▼最終メンバー5人に選ばれるのは誰なのか！？",
   "start": 1620548400000,
   "end": 1620548700000,
   "seconds": 300,
+  "description": "AAAに所属し、ラッパーとしても活躍するSKY-HIが1億円を出資したオーディション番組「THE FIRST -BMSG Audition 2021-」を紹介",
+  "extra": {
+    "出演者": "【ナレーター】中野謙吾(日テレアナウンサー)",
+    "番組内容": "SKY-HIプロデュースのボーイズグループ発掘オーディション番組「THE FIRST -BMSG Audition 2021-」を特集▼アジアから世界へ新しい風を巻き起こし、音楽シーンのトップを目指すこのオーディション。費用1億円はSKY-HI自らが出資して開催▼オーディションに夢と青春をかけた1次審査を突破した231人がSKY-HIと直接対面▼最終メンバー5人に選ばれるのは誰なのか！？"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
+  "subTitle": "THE FIRST -BMSG Audition 2021-",
   "episode": null,
   "flags": [
     "字"
