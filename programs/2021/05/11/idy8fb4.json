@@ -1,0 +1,25 @@
+{
+  "id": "idy8fb4",
+  "category": "anime",
+  "title": "なんだかんだワンダー",
+  "fullTitle": "なんだかんだワンダー#1[二]",
+  "detail": "#1「銀河で一番／たまご」",
+  "start": 1620705600000,
+  "end": 1620707400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "銀河で一番／たまご",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

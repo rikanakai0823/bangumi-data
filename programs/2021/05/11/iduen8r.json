@@ -1,0 +1,25 @@
+{
+  "id": "iduen8r",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６７４",
+  "detail": "",
+  "start": 1620685500000,
+  "end": 1620686400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 674,
+  "flags": [
+    "無"
+  ]
+}

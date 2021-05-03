@@ -1,0 +1,25 @@
+{
+  "id": "idp446j",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「蒲田・町工場物語」[字]",
+  "detail": "経済大国・日本を支えてきた東京・蒲田で、生き残りをかけて苦闘する町工場の人々を描き、昭和６２年度文化庁芸術作品賞を受賞した番組が最新のデジタル技術でよみがえる。",
+  "start": 1620724200000,
+  "end": 1620726900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "蒲田・町工場物語",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

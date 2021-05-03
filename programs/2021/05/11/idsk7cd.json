@@ -1,0 +1,25 @@
+{
+  "id": "idsk7cd",
+  "category": "cinema",
+  "title": "「クリミナル・ミッション」",
+  "fullTitle": "[映]「クリミナル・ミッション」【吹替】",
+  "detail": "ジョン・トラボルタ出演の爽快クライム・アクション！",
+  "start": 1620734400000,
+  "end": 1620741240000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

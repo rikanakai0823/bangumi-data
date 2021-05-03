@@ -1,0 +1,25 @@
+{
+  "id": "iduchlz",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４４２",
+  "detail": "",
+  "start": 1620705000000,
+  "end": 1620705600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 442,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduwfcp",
+  "category": "cinema",
+  "title": "チャーリーズ・エンジェル（２０１９）",
+  "fullTitle": "[映][SS]チャーリーズ・エンジェル（２０１９）",
+  "detail": "キャストを一新して人気シリーズをリブートした痛快アクション。エージェント３人組が、新開発エネルギーの軍事利用を阻止する。",
+  "start": 1620672300000,
+  "end": 1620679500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

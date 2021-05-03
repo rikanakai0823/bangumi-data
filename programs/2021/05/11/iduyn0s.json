@@ -1,0 +1,25 @@
+{
+  "id": "iduyn0s",
+  "category": "cinema",
+  "title": "怒りの刑事",
+  "fullTitle": "[映]怒りの刑事",
+  "detail": "ショーン・コネリー主演。人心の荒廃した社会に葛藤する刑事を描いた戯曲を、シドニー・ルメット監督が映画化したスリラー。",
+  "start": 1620727200000,
+  "end": 1620734400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

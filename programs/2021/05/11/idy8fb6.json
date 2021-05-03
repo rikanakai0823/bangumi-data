@@ -1,0 +1,25 @@
+{
+  "id": "idy8fb6",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#60[二]",
+  "detail": "#60「精神世界への旅」",
+  "start": 1620709200000,
+  "end": 1620711000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "精神世界への旅",
+  "episode": 60,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp447a",
+  "category": "documentary",
+  "title": "奇跡の星",
+  "fullTitle": "奇跡の星「生命出現　前編」[二][字]",
+  "detail": "ウィル・スミス出演！地球の神秘に迫るドキュメンタリー番組。生命にあふれた星、地球。果たして最初の生命は、いつ、どこで、どのように生まれたのか？生命の起源に迫る。",
+  "start": 1620742500000,
+  "end": 1620744000000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "生命出現　前編",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

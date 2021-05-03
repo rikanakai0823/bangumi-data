@@ -1,0 +1,23 @@
+{
+  "id": "w67kf5x",
+  "category": "music",
+  "title": "M-ON! LIVE ONF",
+  "fullTitle": "M-ON! LIVE ONF",
+  "detail": "今注目を集めるONFのオリジナルライブを独占放送！この番組でしか見ることができない彼らの魅力が満載！",
+  "start": 1620734400000,
+  "end": 1620739800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
