@@ -1,0 +1,25 @@
+{
+  "id": "w67vic7",
+  "category": "anime",
+  "title": "ヒカルの碁 ,48",
+  "fullTitle": "ヒカルの碁[字] #47,48",
+  "detail": "＃４７「プロの世界へ」＃４８「佐為ＶＳ名人」",
+  "start": 1620745200000,
+  "end": 1620748800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "プロの世界へ",
+  "episode": 47,
+  "flags": [
+    "字"
+  ]
+}

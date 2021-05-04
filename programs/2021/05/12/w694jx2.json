@@ -1,0 +1,25 @@
+{
+  "id": "w694jx2",
+  "category": "news",
+  "title": "ストレートニュース",
+  "fullTitle": "ストレートニュース[字]",
+  "detail": "▽国内外の最新ニュース、注目会見、お天気情報　▽速報は“ブレイキングニュース”",
+  "start": 1620788400000,
+  "end": 1620802800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

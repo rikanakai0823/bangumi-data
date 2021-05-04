@@ -1,0 +1,25 @@
+{
+  "id": "idy8fcz",
+  "category": "anime",
+  "title": "バンザイ！キング・ジュリアン",
+  "fullTitle": "バンザイ！キング・ジュリアン#10[二]",
+  "detail": "#10「おかわり！」",
+  "start": 1620822600000,
+  "end": 1620824400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "おかわり！",
+  "episode": 10,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduyqix",
+  "category": "cinema",
+  "title": "おとなのけんか",
+  "fullTitle": "[映][SS]おとなのけんか",
+  "detail": "ジョディ・フォスター、ケイト・ウィンスレットら実力派俳優が共演。子供の喧嘩に口を挟む大人同士の争いを描く。",
+  "start": 1620830700000,
+  "end": 1620836400000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

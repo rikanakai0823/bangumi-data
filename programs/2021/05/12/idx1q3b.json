@@ -1,0 +1,25 @@
+{
+  "id": "idx1q3b",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ,550 END",
+  "fullTitle": "[字]ちびまる子ちゃん #549,550 END",
+  "detail": "#549「まる子、わたの種をもらう」の巻／「まる子のお風呂みかん」の巻\r\n#550「謎のクリスマスケーキ」の巻／「まる子…",
+  "start": 1620799200000,
+  "end": 1620802800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "まる子、わたの種をもらう",
+  "episode": 549,
+  "flags": [
+    "字"
+  ]
+}

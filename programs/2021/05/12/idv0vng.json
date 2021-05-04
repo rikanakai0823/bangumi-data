@@ -1,0 +1,25 @@
+{
+  "id": "idv0vng",
+  "category": "cinema",
+  "title": "バッド・ルーテナント",
+  "fullTitle": "[映]バッド・ルーテナント[吹]",
+  "detail": "ニコラス・ケイジ主演の犯罪サスペンス。ハリケーンに襲われ荒廃した街を舞台に、堕落していく刑事の姿を描く。［Ｒ１５＋］",
+  "start": 1620828000000,
+  "end": 1620836100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

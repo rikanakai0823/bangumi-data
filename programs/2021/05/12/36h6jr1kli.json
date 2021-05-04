@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1kli",
+  "category": "drama",
+  "title": "ねこタクシー",
+  "fullTitle": "ねこタクシー[Ｓ][再]",
+  "detail": "第６話　つとむ",
+  "start": 1620828000000,
+  "end": 1620829800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "つとむ",
+  "episode": 6,
+  "flags": [
+    "再"
+  ]
+}

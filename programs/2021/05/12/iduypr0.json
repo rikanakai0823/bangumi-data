@@ -1,0 +1,26 @@
+{
+  "id": "iduypr0",
+  "category": "cinema",
+  "title": "ブルー・ストーリー",
+  "fullTitle": "[映][SS]ブルー・ストーリー",
+  "detail": "親友の２人の少年が異なるギャング団に属するようになり、暴力の連鎖に巻き込まれてゆく青春クライムドラマ。［Ｒ１５＋相当］",
+  "start": 1620794400000,
+  "end": 1620800400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

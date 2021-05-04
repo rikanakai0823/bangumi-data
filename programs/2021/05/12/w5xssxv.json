@@ -1,0 +1,23 @@
+{
+  "id": "w5xssxv",
+  "category": "information",
+  "title": "Q SELECTION",
+  "fullTitle": "Q SELECTION",
+  "detail": "売れ筋やナビゲーターのイチオシなど、オールカテゴリーで注目商品をピックアップします。お買い得商品もあるので、要チェック！",
+  "start": 1620799200000,
+  "end": 1620802800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

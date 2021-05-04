@@ -1,0 +1,27 @@
+{
+  "id": "iduchmm",
+  "category": "cinema",
+  "title": "名探偵コナン　世紀末の魔術師",
+  "fullTitle": "[映]名探偵コナン　世紀末の魔術師[SS][字]",
+  "detail": "国民的人気アニメ「名探偵コナン」の劇場版第３作。コナンの好敵手・怪盗キッドが劇場版に初登場、ロマノフ王朝の秘宝をめぐる謎と殺人事件が展開する。",
+  "start": 1620792000000,
+  "end": 1620798300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "名探偵コナン",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

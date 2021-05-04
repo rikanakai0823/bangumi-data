@@ -1,0 +1,25 @@
+{
+  "id": "idy8fco",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#23[二]",
+  "detail": "#23「ボイラー室」",
+  "start": 1620804300000,
+  "end": 1620804600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ボイラー室",
+  "episode": 23,
+  "flags": [
+    "二"
+  ]
+}
