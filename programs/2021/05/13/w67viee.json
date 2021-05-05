@@ -1,0 +1,25 @@
+{
+  "id": "w67viee",
+  "category": "anime",
+  "title": "妖怪ウォッチ シャドウサイド ,4",
+  "fullTitle": "妖怪ウォッチ シャドウサイド[字] #3,4",
+  "detail": "＃３「略奪魔　レッドヘッド」＃４「もったいない男」",
+  "start": 1620896400000,
+  "end": 1620900000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "略奪魔　レッドヘッド",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

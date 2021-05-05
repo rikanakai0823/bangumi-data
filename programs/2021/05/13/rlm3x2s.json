@@ -1,0 +1,23 @@
+{
+  "id": "rlm3x2s",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "fullTitle": "HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "detail": "▽5月12日開催\r\n解説/実況：柴原洋/大前一樹\r\n開催日時：2021年5月12日 (水) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1620896400000,
+  "end": 1620914400000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

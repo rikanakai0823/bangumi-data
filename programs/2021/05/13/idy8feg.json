@@ -1,0 +1,25 @@
+{
+  "id": "idy8feg",
+  "category": "drama",
+  "title": "アンディ・マック",
+  "fullTitle": "アンディ・マック#35[二]",
+  "detail": "#35「話を聞いて」",
+  "start": 1620912900000,
+  "end": 1620914400000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "話を聞いて",
+  "episode": 35,
+  "flags": [
+    "二"
+  ]
+}

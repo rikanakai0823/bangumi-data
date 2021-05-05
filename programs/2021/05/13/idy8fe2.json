@@ -1,0 +1,25 @@
+{
+  "id": "idy8fe2",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#24[二]",
+  "detail": "#24「ミッキーモンキー」",
+  "start": 1620890700000,
+  "end": 1620891000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ミッキーモンキー",
+  "episode": 24,
+  "flags": [
+    "二"
+  ]
+}

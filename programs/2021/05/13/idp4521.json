@@ -1,0 +1,26 @@
+{
+  "id": "idp4521",
+  "category": "hobby",
+  "title": "ニッポンぶらり鉄道旅",
+  "fullTitle": "ニッポンぶらり鉄道旅「ＪＲ南武線～メッセージ」[解][字]",
+  "detail": "【リポーター】井上拓哉，【語り】ＴＡＲＡＫＯ",
+  "start": 1620901800000,
+  "end": 1620903600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "ＪＲ南武線～メッセージ",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

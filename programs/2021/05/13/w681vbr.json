@@ -1,0 +1,25 @@
+{
+  "id": "w681vbr",
+  "category": "anime",
+  "title": "TRIGUN",
+  "fullTitle": "TRIGUN #22 [字]",
+  "detail": "#22 ALTERNATIVE\r\n【全26話】1998年放送作品",
+  "start": 1620860400000,
+  "end": 1620862200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "ALTERNATIVE",
+  "episode": 22,
+  "flags": [
+    "字"
+  ]
+}

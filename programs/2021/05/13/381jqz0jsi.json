@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0jsi",
+  "category": "hobby",
+  "title": "ＮＨＫ高校講座　芸術／美術Ⅰ",
+  "fullTitle": "ＮＨＫ高校講座　芸術／美術Ⅰ[字]",
+  "detail": "",
+  "start": 1620883200000,
+  "end": 1620884400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

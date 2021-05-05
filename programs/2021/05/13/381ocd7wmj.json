@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7wmj",
+  "category": "sports",
+  "title": "アイスショーＬＵＸＥ",
+  "fullTitle": "アイスショーＬＵＸＥ[再]",
+  "detail": "",
+  "start": 1620847440000,
+  "end": 1620847740000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

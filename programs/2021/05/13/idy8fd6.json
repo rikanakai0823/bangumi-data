@@ -1,0 +1,25 @@
+{
+  "id": "idy8fd6",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#66[二]",
+  "detail": "#66「卒業式」",
+  "start": 1620835200000,
+  "end": 1620837000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "卒業式",
+  "episode": 66,
+  "flags": [
+    "二"
+  ]
+}

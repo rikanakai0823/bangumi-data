@@ -1,0 +1,27 @@
+{
+  "id": "iduchn9",
+  "category": "cinema",
+  "title": "名探偵コナン　瞳の中の暗殺者",
+  "fullTitle": "[映]名探偵コナン　瞳の中の暗殺者[SS][字]",
+  "detail": "コナンの目の前で警察官が射殺された。その後も同じ手口で現職警察官が殺される事件が起こるが、警視庁は詳細を明かさない。極秘捜査が進む中、蘭が事件に巻き込まれ……。",
+  "start": 1620878400000,
+  "end": 1620884700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

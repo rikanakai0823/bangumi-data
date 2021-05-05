@@ -1,0 +1,25 @@
+{
+  "id": "w67vide",
+  "category": "anime",
+  "title": "ヒカルの碁 ,50",
+  "fullTitle": "ヒカルの碁[字] #49,50",
+  "detail": "＃４９「捨て身の一局」＃５０「藤原佐為」",
+  "start": 1620831600000,
+  "end": 1620835200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "捨て身の一局",
+  "episode": 49,
+  "flags": [
+    "字"
+  ]
+}

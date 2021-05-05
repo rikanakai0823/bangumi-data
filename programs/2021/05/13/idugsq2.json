@@ -1,0 +1,27 @@
+{
+  "id": "idugsq2",
+  "category": "cinema",
+  "title": "嘘八百　京町ロワイヤル",
+  "fullTitle": "[映]嘘八百　京町ロワイヤル[SS][字]",
+  "detail": "中井貴一と佐々木蔵之介がＷ主演したコメディの続編。冴えない古美術商とくすぶり続ける陶芸家。２人の次の標的は悪徳古美術商と大御所鑑定家で、コンゲームの幕が上がる。",
+  "start": 1620836100000,
+  "end": 1620843300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

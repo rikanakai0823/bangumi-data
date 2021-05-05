@@ -1,0 +1,25 @@
+{
+  "id": "iduen9p",
+  "category": "theater",
+  "title": "『最遊記歌劇伝－Ｇｏｄ　Ｃｈｉｌｄ－』",
+  "fullTitle": "[初]『最遊記歌劇伝－Ｇｏｄ　Ｃｈｉｌｄ－』",
+  "detail": "峰倉かずやの原作漫画『最遊記』シリーズを舞台化した『最遊記歌劇伝』。完結となる最新作の大千秋楽生中継と、過去８作品すべてを一挙放送！",
+  "start": 1620903600000,
+  "end": 1620911700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}
