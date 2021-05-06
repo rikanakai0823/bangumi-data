@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "恋人たちの幻想曲",
   "fullTitle": "恋人たちの幻想曲「デサフィナード」",
-  "detail": "小雪",
+  "detail": "小雪\n◇出演者\n【出演】小雪",
   "start": 1620840300000,
   "end": 1620840600000,
   "seconds": 300,
+  "description": "小雪",
+  "extra": {
+    "出演者": "【出演】小雪"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS03_1",

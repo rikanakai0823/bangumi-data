@@ -3,10 +3,14 @@
   "category": "news",
   "title": "クローズアップ現代＋",
   "fullTitle": "クローズアップ現代＋[字]",
-  "detail": "",
+  "detail": "【キャスター】井上裕貴，保里小百合\n◇出演者\n【キャスター】井上裕貴，保里小百合",
   "start": 1620738000000,
   "end": 1620739800000,
   "seconds": 1800,
+  "description": "【キャスター】井上裕貴，保里小百合",
+  "extra": {
+    "出演者": "【キャスター】井上裕貴，保里小百合"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": null,
   "flags": [
     "字"
