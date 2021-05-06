@@ -2,8 +2,8 @@
   "id": "381f5ksnct",
   "category": "sports",
   "title": "競馬２０２１",
-  "fullTitle": "競馬２０２１[字]",
-  "detail": "",
+  "fullTitle": "競馬２０２１「第２６回ＮＨＫマイルカップ」[字]",
+  "detail": "～東京競馬場から中継～",
   "start": 1620540000000,
   "end": 1620543600000,
   "seconds": 3600,
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "第２６回ＮＨＫマイルカップ",
+  "episode": 26,
   "flags": [
     "字"
   ]

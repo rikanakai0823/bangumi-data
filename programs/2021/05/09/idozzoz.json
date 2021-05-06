@@ -1,0 +1,25 @@
+{
+  "id": "idozzoz",
+  "category": "documentary",
+  "title": "グレートレース",
+  "fullTitle": "グレートレース「嵐の富士山麓１６５ｋｍ　ＵＴＭＦ２０１９」[字]",
+  "detail": "富士山麓の険しい山道を昼夜問わず１６５ｋｍも走り続けるレースに密着。春の嵐に見舞われる最悪のコンディションの中、世界のトッププロがデッドヒートを繰り広げる。",
+  "start": 1620511200000,
+  "end": 1620512100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "嵐の富士山麓１６５ｋｍ　ＵＴＭＦ２０１９",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
