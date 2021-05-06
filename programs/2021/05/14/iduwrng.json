@@ -1,0 +1,26 @@
+{
+  "id": "iduwrng",
+  "category": "cinema",
+  "title": "IT／イット　ＴＨＥ　ＥＮＤ　“それ”が見えたら、終わり。",
+  "fullTitle": "[映][SS]IT／イット　ＴＨＥ　ＥＮＤ　“それ”が見えたら、終わり。",
+  "detail": "【金曜ＨＯＲＲＯＲ穴】",
+  "start": 1621000800000,
+  "end": 1621011300000,
+  "seconds": 10500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

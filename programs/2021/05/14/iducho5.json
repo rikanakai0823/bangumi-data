@@ -1,0 +1,23 @@
+{
+  "id": "iducho5",
+  "category": "variety",
+  "title": "ＣＡＭＰ　ＴＶ",
+  "fullTitle": "ＣＡＭＰ　ＴＶ　＃４",
+  "detail": "",
+  "start": 1620979200000,
+  "end": 1620981000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}

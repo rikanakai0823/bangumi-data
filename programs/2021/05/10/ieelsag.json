@@ -1,0 +1,23 @@
+{
+  "id": "ieelsag",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「日本文学の研究史('21)」",
+  "start": 1620629100000,
+  "end": 1620630000000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 73
+  },
+  "subTitle": "日本文学の研究史('21)",
+  "episode": null,
+  "flags": []
+}

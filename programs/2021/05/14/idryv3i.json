@@ -1,0 +1,23 @@
+{
+  "id": "idryv3i",
+  "category": "information",
+  "title": "今日もウキウキ！ショッピンぐぅ～",
+  "fullTitle": "今日もウキウキ！ショッピンぐぅ～",
+  "detail": "テレビショッピング",
+  "start": 1620928800000,
+  "end": 1620930600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

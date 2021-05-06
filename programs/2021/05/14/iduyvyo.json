@@ -1,0 +1,26 @@
+{
+  "id": "iduyvyo",
+  "category": "cinema",
+  "title": "エクス・マキナ",
+  "fullTitle": "[映][SS]エクス・マキナ",
+  "detail": "アカデミー視覚効果賞受賞のＳＦサスペンス。人工知能のテストを任された男が、思わぬ事態に巻き込まれる。［Ｒ１５＋］",
+  "start": 1620961200000,
+  "end": 1620967800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

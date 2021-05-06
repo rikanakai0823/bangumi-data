@@ -1,0 +1,25 @@
+{
+  "id": "idvjpay",
+  "category": "anime",
+  "title": "スーパーウィングス",
+  "fullTitle": "[二]スーパーウィングス　＃20",
+  "detail": "第39話「お天気レポーター」\r\n第40話「とっても特別なお届け物　パート１」",
+  "start": 1620982800000,
+  "end": 1620984600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "お天気レポーター",
+  "episode": 20,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugsqf",
+  "category": "cinema",
+  "title": "家路（２０１４）",
+  "fullTitle": "[映]家路（２０１４）[SS][字]",
+  "detail": "東日本大震災による原発事故で故郷も農地も追われた福島の農家を主人公に、家族の複雑な想いを綴ったヒューマンドラマ。松山ケンイチ、内野聖陽、安藤サクラらが共演。",
+  "start": 1620927900000,
+  "end": 1620935100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

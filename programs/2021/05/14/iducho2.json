@@ -1,0 +1,25 @@
+{
+  "id": "iducho2",
+  "category": "variety",
+  "title": "ＣＡＭＰ　ＴＶ",
+  "fullTitle": "[無]ＣＡＭＰ　ＴＶ　＃１",
+  "detail": "ＦＵＪＩ　＆　ＳＵＮとＣＡＭＰ　ＨＡＣＫがプロデュースする新しいキャンプ番組誕生。キャンプと音楽と食べ物の楽しい世界に誘います。",
+  "start": 1620973800000,
+  "end": 1620975600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp45qj",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「響きあう駅舎」[字][再]",
+  "detail": "日本全国の駅舎を大特集！▽レトロ建築で復活した門司港駅▽大分駅の発車メロディーにこめられた秘密▽湖上に浮かぶ駅舎や海辺の夕景にたたずむ駅舎▽太宰治が遊んだ駅舎も",
+  "start": 1620963000000,
+  "end": 1620964800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "響きあう駅舎",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

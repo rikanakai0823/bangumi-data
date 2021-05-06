@@ -1,0 +1,25 @@
+{
+  "id": "381f5kspr6",
+  "category": "documentary",
+  "title": "京コトはじめ",
+  "fullTitle": "京コトはじめ[字]",
+  "detail": "",
+  "start": 1620968700000,
+  "end": 1620971400000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

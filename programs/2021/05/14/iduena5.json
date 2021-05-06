@@ -1,0 +1,25 @@
+{
+  "id": "iduena5",
+  "category": "theater",
+  "title": "ミュージカル『テニスの王子様』　Ｄｒｅａｍ　Ｌｉｖｅ　２０１８",
+  "fullTitle": "[初]ミュージカル『テニスの王子様』　Ｄｒｅａｍ　Ｌｉｖｅ　２０１８",
+  "detail": "青学（せいがく）・六角・立海・比嘉の総勢３４名が一堂に会する１５周年記念コンサート！！",
+  "start": 1620990000000,
+  "end": 1621003500000,
+  "seconds": 13500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

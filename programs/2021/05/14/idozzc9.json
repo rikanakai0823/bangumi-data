@@ -1,0 +1,26 @@
+{
+  "id": "idozzc9",
+  "category": "documentary",
+  "title": "地球タクシー",
+  "fullTitle": "地球タクシー「シンガポールを走る」[字][再]",
+  "detail": "世界のある街を訪れ、タクシーを乗り継いでいく新感覚紀行。ドライバーとの何気ない会話、車窓からの風景から、都市の物語が浮かび上がる。今夜の舞台は、シンガポール。",
+  "start": 1620922800000,
+  "end": 1620925800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "シンガポールを走る",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

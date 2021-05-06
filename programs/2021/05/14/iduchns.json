@@ -1,0 +1,25 @@
+{
+  "id": "iduchns",
+  "category": "variety",
+  "title": "プロジェクト・ランウェイ１８",
+  "fullTitle": "プロジェクト・ランウェイ１８　＃５[二]",
+  "detail": "大人気ファッション・リアリティ・ショーの第１８シーズン！",
+  "start": 1620945000000,
+  "end": 1620948600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

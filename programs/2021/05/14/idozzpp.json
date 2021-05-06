@@ -1,0 +1,25 @@
+{
+  "id": "idozzpp",
+  "category": "sports",
+  "title": "聖火リレーデイリーハイライト　各県版",
+  "fullTitle": "聖火リレーデイリーハイライト　各県版[字]",
+  "detail": "",
+  "start": 1620999600000,
+  "end": 1621000200000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
