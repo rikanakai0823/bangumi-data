@@ -1,9 +1,9 @@
 {
   "id": "381f5kstkd",
-  "category": "etc",
+  "category": "information",
   "title": "新型コロナ　命を守る行動を",
-  "fullTitle": "新型コロナ　命を守る行動を",
-  "detail": "",
+  "fullTitle": "新型コロナ　命を守る行動を「“陽性”とわかった無症状のあなたへ」[字]",
+  "detail": "自費で受ける民間のＰＣＲ検査が拡充した一方で「陽性」と判明した場合に、対応に戸惑い適切な行動がとれない人たちがいる。必ず医師の診断を受け、保健所の指示に従うこと",
   "start": 1620992520000,
   "end": 1620992640000,
   "seconds": 120,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "“陽性”とわかった無症状のあなたへ",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

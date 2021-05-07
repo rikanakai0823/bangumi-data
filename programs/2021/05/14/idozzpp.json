@@ -1,9 +1,9 @@
 {
   "id": "idozzpp",
   "category": "sports",
-  "title": "聖火リレーデイリーハイライト　各県版",
-  "fullTitle": "聖火リレーデイリーハイライト　各県版[字]",
-  "detail": "",
+  "title": "聖火リレーデイリーハイライト",
+  "fullTitle": "聖火リレーデイリーハイライト「福島県」[字]",
+  "detail": "【語り】林田理沙",
   "start": 1620999600000,
   "end": 1621000200000,
   "seconds": 600,
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "福島県",
   "episode": null,
   "flags": [
     "字"
