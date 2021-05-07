@@ -1,0 +1,25 @@
+{
+  "id": "iduenag",
+  "category": "theater",
+  "title": "ブロードウェイ版（字幕版）",
+  "fullTitle": "ブロードウェイ版「ロミオとジュリエット」（字幕版）[SS]",
+  "detail": "「ロード・オブ・ザ・リング」シリーズのオーランド・ブルームが主演を務め、奇才デヴィッド・ルヴォーが演出を手掛けたブロードウェイ版ロミオとジュリエット。",
+  "start": 1621051200000,
+  "end": 1621060200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "ロミオとジュリエット",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

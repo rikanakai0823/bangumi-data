@@ -1,0 +1,25 @@
+{
+  "id": "w681vdt",
+  "category": "anime",
+  "title": "スーパーカブ #01-#06",
+  "fullTitle": "スーパーカブ #01-#06 [字]",
+  "detail": "#01～#06をまとめて放送！",
+  "start": 1621008000000,
+  "end": 1621017000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

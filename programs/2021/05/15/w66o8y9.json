@@ -1,0 +1,26 @@
+{
+  "id": "w66o8y9",
+  "category": "drama",
+  "title": "メンタリスト3",
+  "fullTitle": "[字]メンタリスト3(帯)#1[新]",
+  "detail": "#1「夕焼けの空」\r\nRed Sky at Night\r\n町の有力者、ダブリンが誘拐され、運転手が3発撃ち込まれ、殺されているのが発見される。",
+  "start": 1621011600000,
+  "end": 1621015200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "夕焼けの空",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}

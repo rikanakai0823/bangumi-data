@@ -1,0 +1,26 @@
+{
+  "id": "idozw9c",
+  "category": "sports",
+  "title": "Ｊリーグ２０２１「ヴィッセル神戸」対",
+  "fullTitle": "Ｊリーグ２０２１「ヴィッセル神戸」対「セレッソ大阪」[多][デ]",
+  "detail": "　※副音声は場内音声　（試合開始　４：０１）　【解説】播戸竜二，【アナウンサー】稲垣秀人　～ノエビアスタジアム神戸から中継～",
+  "start": 1621062000000,
+  "end": 1621069200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "セレッソ大阪",
+  "episode": null,
+  "flags": [
+    "多",
+    "デ"
+  ]
+}

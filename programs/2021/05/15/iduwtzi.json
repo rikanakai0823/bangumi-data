@@ -1,0 +1,25 @@
+{
+  "id": "iduwtzi",
+  "category": "drama",
+  "title": "キング・オブ・メディア",
+  "fullTitle": "[SS]キング・オブ・メディア　＃４",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ全話一挙放送】",
+  "start": 1621049400000,
+  "end": 1621053600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ全話一挙放送",
+  "episode": 4,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63iznb",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～東京ドーム～",
+  "fullTitle": "DRAMATIC BASEBALL2021「巨人×阪神」～東京ドーム～[再]",
+  "detail": "2021年5月14日開催",
+  "start": 1621026900000,
+  "end": 1621042200000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "巨人×阪神",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

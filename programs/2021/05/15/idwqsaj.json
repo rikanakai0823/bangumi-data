@@ -1,0 +1,23 @@
+{
+  "id": "idwqsaj",
+  "category": "hobby",
+  "title": "特別番組",
+  "fullTitle": "特別番組",
+  "detail": "「科学技術立国への挑戦～理化学研究所の１００年を通して～科学の未来を考える」",
+  "start": 1621007100000,
+  "end": 1621009800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 67
+  },
+  "subTitle": "科学技術立国への挑戦～理化学研究所の１００年を通して～科学の未来を考える",
+  "episode": null,
+  "flags": []
+}

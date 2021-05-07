@@ -1,0 +1,27 @@
+{
+  "id": "idugsqv",
+  "category": "cinema",
+  "title": "日本統一１３",
+  "fullTitle": "[初][映]日本統一１３[字]",
+  "detail": "任侠大河ドラマの人気シリーズ第１３作。前作で勃発した東北での抗争は、ヒットマンを操る黒幕の暗躍により、各勢力が復讐に復讐を重ねる血みどろの戦いへと激化していく。",
+  "start": 1621023300000,
+  "end": 1621027800000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugsqt",
+  "category": "cinema",
+  "title": "日本統一１１",
+  "fullTitle": "[初][映]日本統一１１[字]",
+  "detail": "本宮泰風、山口祥行主演による任侠大河ドラマのヒットシリーズ第１１作。兵庫・明石で始まった紛争は瀬戸内海を越えて香川・高松、そして四国全域へと拡大していく。",
+  "start": 1621013400000,
+  "end": 1621018800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

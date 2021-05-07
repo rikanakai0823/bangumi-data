@@ -1,0 +1,25 @@
+{
+  "id": "rksa5gt",
+  "category": "anime",
+  "title": "美味しんぼ -136",
+  "fullTitle": "美味しんぼ #129-136[終]",
+  "detail": "#129「ピザの横綱」\r\n#130「いわしの心」ほか\r\n1988年10月～1992年3月放映\r\n作：雁屋哲　画：花咲アキラ",
+  "start": 1621029600000,
+  "end": 1621044000000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "ピザの横綱",
+  "episode": 129,
+  "flags": [
+    "終"
+  ]
+}

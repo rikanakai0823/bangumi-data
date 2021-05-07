@@ -1,0 +1,26 @@
+{
+  "id": "iduwu5m",
+  "category": "cinema",
+  "title": "ソニック・ザ・ムービー",
+  "fullTitle": "[映][SS]ソニック・ザ・ムービー",
+  "detail": "日本生まれの人気ゲームキャラをハリウッドで実写化したアクションコメディ。“ソニック”が、恐るべき陰謀の阻止に立ち上がる！",
+  "start": 1621057800000,
+  "end": 1621064700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
