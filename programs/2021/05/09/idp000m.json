@@ -1,0 +1,25 @@
+{
+  "id": "idp000m",
+  "category": "documentary",
+  "title": "駅ピアノ",
+  "fullTitle": "駅ピアノ「オランダ・ユトレヒト」[再]",
+  "detail": "オランダ・ユトレヒト中央駅に置かれたピアノ。４０人で合唱するグループ、シリア難民の男性、ガン手術を乗り越えた女性、アニメ好きの高校生…　どんな思いで曲を弾くのか",
+  "start": 1620489600000,
+  "end": 1620492300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "オランダ・ユトレヒト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
