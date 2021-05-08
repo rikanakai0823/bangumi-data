@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "聖火リレーデイリーハイライト",
   "fullTitle": "聖火リレーデイリーハイライト「福島県」[字]",
-  "detail": "【語り】林田理沙",
+  "detail": "【語り】林田理沙\n◇出演者\n【語り】林田理沙",
   "start": 1620999600000,
   "end": 1621000200000,
   "seconds": 600,
+  "description": "【語り】林田理沙",
+  "extra": {
+    "出演者": "【語り】林田理沙"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
