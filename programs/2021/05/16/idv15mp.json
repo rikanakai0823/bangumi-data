@@ -1,0 +1,25 @@
+{
+  "id": "idv15mp",
+  "category": "cinema",
+  "title": "ファーストフード・ネイション",
+  "fullTitle": "[映]ファーストフード・ネイション[吹]",
+  "detail": "リチャード・リンクレイター監督の社会派コメディ。“食の安全”をテーマに、ファストフード業界の人間模様と社会問題を描く。",
+  "start": 1621111500000,
+  "end": 1621118700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

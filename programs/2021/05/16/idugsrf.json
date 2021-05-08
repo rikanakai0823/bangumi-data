@@ -1,0 +1,27 @@
+{
+  "id": "idugsrf",
+  "category": "cinema",
+  "title": "突入せよ！事件",
+  "fullTitle": "[映]突入せよ！「あさま山荘」事件[SS][字]",
+  "detail": "１９７２年、連合赤軍が厳冬の軽井沢“あさま山荘”に籠城。全国民が凝視した１０日間を「日本のいちばん長い日」の原田眞人監督が映画化した社会派エンターテインメント。",
+  "start": 1621148400000,
+  "end": 1621157400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "あさま山荘",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

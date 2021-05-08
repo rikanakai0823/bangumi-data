@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0liv",
+  "category": "hobby",
+  "title": "趣味の園芸",
+  "fullTitle": "趣味の園芸[字]",
+  "detail": "",
+  "start": 1621121400000,
+  "end": 1621122900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

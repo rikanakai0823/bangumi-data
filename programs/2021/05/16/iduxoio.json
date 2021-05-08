@@ -1,0 +1,26 @@
+{
+  "id": "iduxoio",
+  "category": "cinema",
+  "title": "フォレスト・ガンプ／一期一会",
+  "fullTitle": "[映][SS]フォレスト・ガンプ／一期一会",
+  "detail": "トム・ハンクス主演、アカデミー作品賞に輝く人間ドラマ。アメリカ現代史を駆け抜けていった男の数奇な人生を描く。［ＰＧ１２］",
+  "start": 1621172400000,
+  "end": 1621181400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idtr004",
+  "category": "news",
+  "title": "（番組は未定です）",
+  "fullTitle": "（番組は未定です）",
+  "detail": "",
+  "start": 1621139100000,
+  "end": 1621139400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

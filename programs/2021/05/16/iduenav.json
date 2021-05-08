@@ -1,0 +1,25 @@
+{
+  "id": "iduenav",
+  "category": "sports",
+  "title": "ＵＥＦＡ　ＥＵＲＯ　２０２０ＴＭ　サッカー欧州選手権マガジン",
+  "fullTitle": "[初]ＵＥＦＡ　ＥＵＲＯ　２０２０ＴＭ　サッカー欧州選手権マガジン　＃７",
+  "detail": "",
+  "start": 1621128600000,
+  "end": 1621130400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": [
+    "初"
+  ]
+}

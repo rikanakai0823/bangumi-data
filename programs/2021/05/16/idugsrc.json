@@ -1,0 +1,27 @@
+{
+  "id": "idugsrc",
+  "category": "cinema",
+  "title": "名探偵コナン　異次元の狙撃手（スナイパー）",
+  "fullTitle": "[映]名探偵コナン　異次元の狙撃手（スナイパー）[SS][字]",
+  "detail": "国民的人気アニメの劇場版第１８作。",
+  "start": 1621133400000,
+  "end": 1621140300000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

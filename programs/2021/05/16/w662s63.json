@@ -1,0 +1,25 @@
+{
+  "id": "w662s63",
+  "category": "information",
+  "title": "クリック!日テレプラス",
+  "fullTitle": "[無料]クリック!日テレプラス【5月紹介】",
+  "detail": "『次世代『神ファイブ』歌謡SHOW！』 放送記念にパク・ジュニョンさん、松尾雄史さん、中澤卓也さん、辰巳ゆうとさん、新浜レオンさんにインタビュー!",
+  "start": 1621172400000,
+  "end": 1621173000000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 109
+  },
+  "subTitle": "5月紹介",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idvjpdf",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "ＧⅠ「ヴィクトリアマイル」（東京）の振り返りを中心に、当日の中央競馬レース結果をお伝えします。",
+  "start": 1621173600000,
+  "end": 1621175400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "ヴィクトリアマイル",
+  "episode": null,
+  "flags": []
+}

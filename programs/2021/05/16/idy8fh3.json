@@ -1,0 +1,25 @@
+{
+  "id": "idy8fh3",
+  "category": "drama",
+  "title": "ハーレーはド真ん中",
+  "fullTitle": "ハーレーはド真ん中#3[二]",
+  "detail": "#3「タブレット大作戦！」",
+  "start": 1621105200000,
+  "end": 1621107000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "タブレット大作戦！",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

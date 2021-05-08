@@ -1,0 +1,25 @@
+{
+  "id": "idvjpcu",
+  "category": "drama",
+  "title": "FLIGHT HS13",
+  "fullTitle": "FLIGHT HS13[終]第10話「終局」",
+  "detail": "マジッドはシモンを銃で撃とうとしたが、遮ったナビドを誤って撃ってしまう。パニックになったマジッドに、シモンは医者の自分に息子の手当てをさせろと言う。",
+  "start": 1621119600000,
+  "end": 1621123200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "終局",
+  "episode": 10,
+  "flags": [
+    "終"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idryv6n",
+  "category": "information",
+  "title": "いちおしマーケット",
+  "fullTitle": "いちおしマーケット",
+  "detail": "テレビショッピング",
+  "start": 1621139400000,
+  "end": 1621141200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
