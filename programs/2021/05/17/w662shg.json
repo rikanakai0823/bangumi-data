@@ -1,0 +1,25 @@
+{
+  "id": "w662shg",
+  "category": "theater",
+  "title": "LUXE",
+  "fullTitle": "【生】LUXE",
+  "detail": "高橋大輔主演!「氷艶 2019」のメンバーが再集結!豪華メンバーが創り上げる華麗なる氷上レビューを生放送でお届け!!",
+  "start": 1621243800000,
+  "end": 1621254600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 109
+  },
+  "subTitle": "氷艶 2019",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

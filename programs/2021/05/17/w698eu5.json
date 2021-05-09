@@ -1,0 +1,25 @@
+{
+  "id": "w698eu5",
+  "category": "news",
+  "title": "グローバル・クエスチョン",
+  "fullTitle": "グローバル・クエスチョン(再)",
+  "detail": "様々な国の視聴者が、グローバルな問題について各国のリーダーたちに質問する。",
+  "start": 1621179000000,
+  "end": 1621180800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

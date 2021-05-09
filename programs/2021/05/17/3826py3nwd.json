@@ -1,0 +1,25 @@
+{
+  "id": "3826py3nwd",
+  "category": "anime",
+  "title": "忍者コレクション",
+  "fullTitle": "忍者コレクション[再]",
+  "detail": "第６話「ゆらゆらとシュシュ」",
+  "start": 1621188300000,
+  "end": 1621188600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "ゆらゆらとシュシュ",
+  "episode": 6,
+  "flags": [
+    "再"
+  ]
+}

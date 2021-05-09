@@ -1,0 +1,25 @@
+{
+  "id": "w63izpc",
+  "category": "sports",
+  "title": "サントリー ドリームマッチ 2021",
+  "fullTitle": "[生]サントリー ドリームマッチ 2021",
+  "detail": "～生中継　～東京ドーム\r\nコメンテーター：徳光和夫\r\n▽熱きプレーで、日本にエールを。伝説のプレーヤーたちが真剣勝負！一夜限りの夢の球宴",
+  "start": 1621242000000,
+  "end": 1621255500000,
+  "seconds": 13500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

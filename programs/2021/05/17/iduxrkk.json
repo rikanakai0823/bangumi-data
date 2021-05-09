@@ -1,0 +1,25 @@
+{
+  "id": "iduxrkk",
+  "category": "cinema",
+  "title": "哀しみのトリスターナ",
+  "fullTitle": "[映]哀しみのトリスターナ",
+  "detail": "カトリーヌ・ドヌーヴ主演、ルイス・ブニュエル監督の愛憎劇。初老の貴族に引き取られ妻となった少女が自我に目覚める姿を描く。",
+  "start": 1621252800000,
+  "end": 1621259400000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

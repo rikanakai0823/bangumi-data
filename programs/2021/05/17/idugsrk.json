@@ -1,0 +1,27 @@
+{
+  "id": "idugsrk",
+  "category": "cinema",
+  "title": "任侠学園",
+  "fullTitle": "[映]任侠学園[SS][字]",
+  "detail": "義理と人情を重んじる組長に振り回され、経営不振に陥った私立高校の立て直しを命じられたヤクザたちの騒動を描く。今野敏の人気小説を西島秀俊、西田敏行Ｗ主演で映画化。",
+  "start": 1621186200000,
+  "end": 1621194300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

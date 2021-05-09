@@ -1,0 +1,25 @@
+{
+  "id": "idy8fit",
+  "category": "anime",
+  "title": "なんだかんだワンダー",
+  "fullTitle": "なんだかんだワンダー#5[二]",
+  "detail": "#5「悪者／トロール」",
+  "start": 1621224000000,
+  "end": 1621225800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "悪者／トロール",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

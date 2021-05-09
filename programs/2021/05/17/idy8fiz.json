@@ -1,0 +1,25 @@
+{
+  "id": "idy8fiz",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#25[二]",
+  "detail": "#25「ミクロの世界」",
+  "start": 1621236300000,
+  "end": 1621236600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ミクロの世界",
+  "episode": 25,
+  "flags": [
+    "二"
+  ]
+}

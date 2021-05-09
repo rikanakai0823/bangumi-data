@@ -1,0 +1,26 @@
+{
+  "id": "rks2t04",
+  "category": "drama",
+  "title": "水戸黄門・第18部",
+  "fullTitle": "[終]水戸黄門・第18部 #33[字]",
+  "detail": "国民的人気時代劇シリーズ「水戸黄門」第１８部。このシリーズから、三代目助さん役であおい輝彦が新メンバーとして加入！",
+  "start": 1621209600000,
+  "end": 1621213200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "水戸黄門",
+  "episode": 33,
+  "flags": [
+    "終",
+    "字"
+  ]
+}
