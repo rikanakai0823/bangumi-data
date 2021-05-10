@@ -1,0 +1,27 @@
+{
+  "id": "iduclj4",
+  "category": "cinema",
+  "title": "コンタクト（吹替版）",
+  "fullTitle": "[映]コンタクト（吹替版）[SS][字]",
+  "detail": "女性天文学者がキャッチした宇宙からの電波信号にはなんと、人類を未知の世界にいざなう時空間移動装置の設計図が含まれていた。人気女優Ｊ・フォスター主演のＳＦ巨編。",
+  "start": 1621103400000,
+  "end": 1621112700000,
+  "seconds": 9300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

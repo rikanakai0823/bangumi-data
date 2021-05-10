@@ -2,11 +2,15 @@
   "id": "36h6jr1kx1",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nズーミイ　０１２０－３６－２００８",
   "start": 1621229400000,
   "end": 1621231200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ズーミイ　０１２０－３６－２００８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
