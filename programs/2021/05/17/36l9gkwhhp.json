@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwhhp",
+  "category": "variety",
+  "title": "チバミライチャンネル　戦国鍋ＴＶ",
+  "fullTitle": "チバミライチャンネル　戦国鍋ＴＶ　＃８[再]",
+  "detail": "歴史がなんとなく、楽しく学べちゃう、歴史バラエティ番組     \r\n",
+  "start": 1621224000000,
+  "end": 1621225800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": [
+    "再"
+  ]
+}
