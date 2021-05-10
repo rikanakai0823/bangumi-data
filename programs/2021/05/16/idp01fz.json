@@ -1,0 +1,26 @@
+{
+  "id": "idp01fz",
+  "category": "documentary",
+  "title": "永平寺　禅の世界",
+  "fullTitle": "永平寺　禅の世界[字][再]",
+  "detail": "福井県にある禅の修行道場・永平寺。建立から８世紀近く経つ今も、若き僧侶たちが厳格な修行に励む。世界も注目する「奇跡の寺」の修行を、映像詩まじえて綴る。",
+  "start": 1621173600000,
+  "end": 1621176600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "奇跡の寺",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
