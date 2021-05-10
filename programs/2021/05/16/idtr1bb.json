@@ -1,11 +1,11 @@
 {
-  "id": "idtr004",
-  "category": "news",
-  "title": "ＢＳフジニュース",
-  "fullTitle": "[生]ＢＳフジニュース",
+  "id": "idtr1bb",
+  "category": "etc",
+  "title": "ウメオシ！",
+  "fullTitle": "ウメオシ！",
   "detail": "",
-  "start": 1621139100000,
-  "end": 1621139400000,
+  "start": 1621138500000,
+  "end": 1621138800000,
   "seconds": 300,
   "channel": {
     "type": "BS",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "生"
-  ]
+  "flags": []
 }

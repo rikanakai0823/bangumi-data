@@ -1,9 +1,9 @@
 {
   "id": "36l9gkwhb9",
   "category": "sports",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
-  "detail": " ",
+  "title": "ＢリーグＣＳ　クォーターファイナル",
+  "fullTitle": "ＢリーグＣＳ　クォーターファイナル[多]",
+  "detail": "千葉ジェッツ×シーホース三河",
   "start": 1621058100000,
   "end": 1621068900000,
   "seconds": 10800,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "多"
+  ]
 }
