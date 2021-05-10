@@ -1,0 +1,27 @@
+{
+  "id": "idugss2",
+  "category": "cinema",
+  "title": "サヨナラまでの３０分",
+  "fullTitle": "[映]サヨナラまでの３０分[SS][字]",
+  "detail": "１年前に命を落としたバンドマンと自分の魂が、３０分だけ入れ替わるようになってしまった大学生だが……。新田真剣佑と北村匠海のＷ主演で描く青春ファンタジー。",
+  "start": 1621317600000,
+  "end": 1621324800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

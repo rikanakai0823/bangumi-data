@@ -1,0 +1,25 @@
+{
+  "id": "rks2vyc",
+  "category": "music",
+  "title": "独占生中継!SKE48 6期生 Zepp Nagoya 単独ライブ2nd",
+  "fullTitle": "[生]独占生中継!SKE48 6期生 Zepp Nagoya 単独ライブ2nd",
+  "detail": "SKE48の6期生メンバー7人による単独ライブが2021年5月18日（火）に愛知・Zepp Nagoyaで開催！TBSチャンネルではその模様を完全生中継でお届けする。",
+  "start": 1621328400000,
+  "end": 1621335600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

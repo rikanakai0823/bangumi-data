@@ -1,0 +1,25 @@
+{
+  "id": "iduchqu",
+  "category": "drama",
+  "title": "東京二十三区女",
+  "fullTitle": "東京二十三区女　第４話　港区の女[字]",
+  "detail": "",
+  "start": 1621323000000,
+  "end": 1621324800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "港区の女",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}
