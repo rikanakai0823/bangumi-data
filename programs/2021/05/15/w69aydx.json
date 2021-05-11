@@ -1,9 +1,9 @@
 {
   "id": "w69aydx",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "アフリカ最新文化事情",
+  "fullTitle": "アフリカ最新文化事情",
+  "detail": "ナイジェリアや南アフリカ、モーリシャスやケニヤなど、アフリカ各地の有名写真家たちを取材。写真の魅力に迫る。",
   "start": 1621056600000,
   "end": 1621058400000,
   "seconds": 1800,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }
