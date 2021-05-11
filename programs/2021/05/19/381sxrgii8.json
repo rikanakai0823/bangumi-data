@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgii8",
+  "category": "variety",
+  "title": "クレイジージャーニー",
+  "fullTitle": "クレイジージャーニー[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/crazyjourney/",
+  "start": 1621425600000,
+  "end": 1621432620000,
+  "seconds": 7020,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/crazyjourney/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

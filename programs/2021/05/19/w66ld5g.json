@@ -1,0 +1,23 @@
+{
+  "id": "w66ld5g",
+  "category": "information",
+  "title": "番組ＰＲ",
+  "fullTitle": "番組ＰＲ【５月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1621426800000,
+  "end": 1621427400000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 114
+  },
+  "subTitle": "５月",
+  "episode": null,
+  "flags": []
+}

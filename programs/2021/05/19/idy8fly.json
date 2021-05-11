@@ -1,0 +1,25 @@
+{
+  "id": "idy8fly",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#14[二]",
+  "detail": "#14「マクダック邸のミステリー！」",
+  "start": 1621425600000,
+  "end": 1621427400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "マクダック邸のミステリー！",
+  "episode": 14,
+  "flags": [
+    "二"
+  ]
+}

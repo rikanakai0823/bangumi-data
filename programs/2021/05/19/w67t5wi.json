@@ -1,0 +1,23 @@
+{
+  "id": "w67t5wi",
+  "category": "music",
+  "title": "TRF ミュージックビデオ特集",
+  "fullTitle": "TRF ミュージックビデオ特集",
+  "detail": "歌謡ポップスチャンネルが贈るアーティストMV特集番組。今回はTRF。\r\nパワーあふれる歌とダンスで人々に愛され続けている彼らのヒット曲をMVにてお届けします。",
+  "start": 1621422000000,
+  "end": 1621423800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8fli",
+  "category": "anime",
+  "title": "なんだかんだワンダー",
+  "fullTitle": "なんだかんだワンダー#7[二]",
+  "detail": "#7「箱／帽子」",
+  "start": 1621396800000,
+  "end": 1621398600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "箱／帽子",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "iduclgs",
+  "category": "etc",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "",
+  "start": 1621372800000,
+  "end": 1621375200000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

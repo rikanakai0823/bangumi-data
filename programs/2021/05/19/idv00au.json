@@ -1,0 +1,25 @@
+{
+  "id": "idv00au",
+  "category": "drama",
+  "title": "ウォリアー",
+  "fullTitle": "ウォリアー　＃４[二]",
+  "detail": "【ＨＢＯ（Ｒ）ドラマ一挙放送】",
+  "start": 1621359000000,
+  "end": 1621363500000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "ＨＢＯ（Ｒ）ドラマ一挙放送",
+  "episode": 4,
+  "flags": [
+    "二"
+  ]
+}
