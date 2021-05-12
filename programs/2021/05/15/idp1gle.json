@@ -1,0 +1,26 @@
+{
+  "id": "idp1gle",
+  "category": "sports",
+  "title": "プロ野球２０２１「巨人」対",
+  "fullTitle": "プロ野球２０２１「巨人」対「阪神」[SS][字]",
+  "detail": "　（試合開始　５：４５）　～東京ドームから中継～［総合テレビで放送継続］",
+  "start": 1621067400000,
+  "end": 1621069200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "阪神",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}

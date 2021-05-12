@@ -1,0 +1,23 @@
+{
+  "id": "idp3lqm",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「６月号」",
+  "detail": "",
+  "start": 1621390200000,
+  "end": 1621390500000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "６月号",
+  "episode": null,
+  "flags": []
+}
