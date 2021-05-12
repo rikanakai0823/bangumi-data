@@ -1,0 +1,27 @@
+{
+  "id": "idugssl",
+  "category": "cinema",
+  "title": "多十郎殉愛記",
+  "fullTitle": "[映]多十郎殉愛記[SS][字]",
+  "detail": "日本映画界きっての重鎮・中島貞夫監督が、高良健吾、多部未華子を主役に迎え、「極道の妻たち　決着」以来、長編劇映画としては２０年ぶりに放った本格ちゃんばら時代劇。",
+  "start": 1621477200000,
+  "end": 1621483200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "極道の妻たち　決着",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

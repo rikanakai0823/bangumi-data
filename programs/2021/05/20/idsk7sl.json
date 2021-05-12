@@ -1,0 +1,23 @@
+{
+  "id": "idsk7sl",
+  "category": "theater",
+  "title": "落語研究会▼春風亭一之輔",
+  "fullTitle": "落語研究会▼第１９３回「子別れ」春風亭一之輔",
+  "detail": "国立劇場で毎月開催の「落語研究会」の高座から選りすぐりの落語をお送りいたします。",
+  "start": 1621447200000,
+  "end": 1621450800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "子別れ",
+  "episode": 193,
+  "flags": []
+}

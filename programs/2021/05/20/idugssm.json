@@ -1,0 +1,26 @@
+{
+  "id": "idugssm",
+  "category": "cinema",
+  "title": "エクストリーム・ジョブ（字幕版）[PG12指定]",
+  "fullTitle": "[映]エクストリーム・ジョブ（字幕版）[PG12指定][SS]",
+  "detail": "韓国で公開当時、歴代興行収入ナンバーワンとなる大ヒットを記録した、痛快ポリスコメディ。犯罪組織を追う刑事たちが開店したフライドチキン店は、意外にも大繁盛し……？",
+  "start": 1621483200000,
+  "end": 1621490400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

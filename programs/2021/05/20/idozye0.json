@@ -1,0 +1,23 @@
+{
+  "id": "idozye0",
+  "category": "sports",
+  "title": "ワースポ×ＭＬＢ",
+  "fullTitle": "ワースポ×ＭＬＢ",
+  "detail": "▽日本選手の最新情報　【解説】岩村明憲，【キャスター】山本萩子",
+  "start": 1621519200000,
+  "end": 1621521900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

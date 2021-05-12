@@ -1,0 +1,25 @@
+{
+  "id": "w67vimc",
+  "category": "anime",
+  "title": "妖怪ウォッチ シャドウサイド ,14",
+  "fullTitle": "妖怪ウォッチ シャドウサイド[字] #13,14",
+  "detail": "＃１３「祈り山の怪奇」＃１４「不動明王　邪と天」",
+  "start": 1621501200000,
+  "end": 1621504800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "祈り山の怪奇",
+  "episode": 13,
+  "flags": [
+    "字"
+  ]
+}

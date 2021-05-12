@@ -1,0 +1,23 @@
+{
+  "id": "rktezlp",
+  "category": "music",
+  "title": "MUSIC VIDEO",
+  "fullTitle": "MUSIC VIDEO",
+  "detail": "最新曲からちょっと懐かしい曲まで、様々なK-POPのミュージックビデオをお届けします\r\n◆曲目リストはMnet HPをご覧ください",
+  "start": 1621521000000,
+  "end": 1621522800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduchsa",
+  "category": "cinema",
+  "title": "サイレント・ウォーター（字幕版）",
+  "fullTitle": "[映]サイレント・ウォーター（字幕版）[SS]",
+  "detail": "海中でダイビングをしているさなか、不慮の事故で身動きが取れなくなった妹を、姉は救うことができるのか。ノルウェーの海を舞台に繰り広げられるサバイバルサスペンス。",
+  "start": 1621503300000,
+  "end": 1621508400000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

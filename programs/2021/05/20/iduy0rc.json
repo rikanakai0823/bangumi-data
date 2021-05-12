@@ -1,0 +1,25 @@
+{
+  "id": "iduy0rc",
+  "category": "cinema",
+  "title": "男たちの挽歌",
+  "fullTitle": "[映]男たちの挽歌",
+  "detail": "ジョン・ウー監督の傑作ハードボイルドアクション。偽札製造組織に闘いを挑む男たちの兄弟愛と友情を描いた香港ノワール。",
+  "start": 1621498800000,
+  "end": 1621504800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduy15i",
+  "category": "cinema",
+  "title": "アイ，ロボット",
+  "fullTitle": "[映][SS]アイ，ロボット",
+  "detail": "ウィル・スミス主演。人間とロボットが共存する近未来を舞台に、刑事とロボットとの熾烈な攻防が展開する。",
+  "start": 1621517400000,
+  "end": 1621525200000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

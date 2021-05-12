@@ -1,0 +1,23 @@
+{
+  "id": "w67kfao",
+  "category": "music",
+  "title": "Apple Music カウントダウン 20",
+  "fullTitle": "Apple Music カウントダウン 20",
+  "detail": "Apple Music 週間ソング・ランキングをもとに、TOP20をミュージックビデオでカウントダウン！▼最新チャートは「エムオン」で検索！",
+  "start": 1621501200000,
+  "end": 1621508400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 126
+  },
+  "subTitle": "エムオン",
+  "episode": null,
+  "flags": []
+}

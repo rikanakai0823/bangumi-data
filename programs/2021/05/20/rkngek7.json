@@ -1,0 +1,25 @@
+{
+  "id": "rkngek7",
+  "category": "etc",
+  "title": "Coming Soon",
+  "fullTitle": "[無料]Coming Soon",
+  "detail": "来月放送作品をオリジナル予告編で紹介します。",
+  "start": 1621515000000,
+  "end": 1621515600000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "東映チャンネル",
+    "id": "cv4q",
+    "sid": 218,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 91
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

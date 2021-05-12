@@ -1,0 +1,25 @@
+{
+  "id": "w67vim1",
+  "category": "anime",
+  "title": "おじゃる丸",
+  "fullTitle": "おじゃる丸[字] #40",
+  "detail": "第40話「ぐーたらんぴんぐ」\r\nヘイアンチョウの妖精界に、妖精貴族のミヤビなお子さま・坂ノ上おじゃる丸がおりました。",
+  "start": 1621482300000,
+  "end": 1621483200000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ぐーたらんぴんぐ",
+  "episode": 40,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "38224jvoda",
+  "category": "information",
+  "title": "テレ朝番組みどころナビ",
+  "fullTitle": "テレ朝番組みどころナビ",
+  "detail": "▽5/20(木)よる9時～『桜の塔』\r\n▽5/22(土)よる11時～『泣くな研修医』\r\n▽5/22(土)よる11時30分～『コタローは１人暮らし』\n◇◇番組ＨＰ\n『桜の塔』https://www.tv-asahi.co.jp/sakuranotou/\r\n『泣くな研修医』https://www.tv-asahi.co.jp/nakuna_doctor/\r\n『コタローは１人暮らし』https://www.tv-asahi.co.jp/kotaro/",
+  "start": 1621439100000,
+  "end": 1621439400000,
+  "seconds": 300,
+  "description": "▽5/20(木)よる9時～『桜の塔』\r\n▽5/22(土)よる11時～『泣くな研修医』\r\n▽5/22(土)よる11時30分～『コタローは１人暮らし』",
+  "extra": {
+    "◇番組ＨＰ": "『桜の塔』https://www.tv-asahi.co.jp/sakuranotou/\r\n『泣くな研修医』https://www.tv-asahi.co.jp/nakuna_doctor/\r\n『コタローは１人暮らし』https://www.tv-asahi.co.jp/kotaro/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

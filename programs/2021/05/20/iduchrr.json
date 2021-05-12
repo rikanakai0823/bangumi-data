@@ -1,0 +1,25 @@
+{
+  "id": "iduchrr",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６７６",
+  "detail": "",
+  "start": 1621437600000,
+  "end": 1621438200000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 676,
+  "flags": [
+    "無"
+  ]
+}
