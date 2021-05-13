@@ -1,0 +1,23 @@
+{
+  "id": "w65vtl0",
+  "category": "drama",
+  "title": "ザ・サスペンス",
+  "fullTitle": "ザ・サスペンス「消えた日曜日」",
+  "detail": "この時間は、予定していた番組を変更してお送りいたします",
+  "start": 1620908400000,
+  "end": 1620914400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 106
+  },
+  "subTitle": "消えた日曜日",
+  "episode": null,
+  "flags": []
+}
