@@ -1,0 +1,23 @@
+{
+  "id": "idwqsfw",
+  "category": "hobby",
+  "title": "授業科目案内～大学の窓",
+  "fullTitle": "授業科目案内～大学の窓",
+  "detail": "「世界文学への招待」",
+  "start": 1621604700000,
+  "end": 1621605600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 67
+  },
+  "subTitle": "世界文学への招待",
+  "episode": null,
+  "flags": []
+}

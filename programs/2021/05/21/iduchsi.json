@@ -1,0 +1,25 @@
+{
+  "id": "iduchsi",
+  "category": "variety",
+  "title": "アニマル・インポッシブル　謎解き大作戦！",
+  "fullTitle": "アニマル・インポッシブル　謎解き大作戦！　＃７[二]",
+  "detail": "ＢＢＣが贈る痛快謎解き冒険バラエティ。",
+  "start": 1621526400000,
+  "end": 1621530000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}

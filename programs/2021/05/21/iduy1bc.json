@@ -1,0 +1,25 @@
+{
+  "id": "iduy1bc",
+  "category": "cinema",
+  "title": "ルームメイト（１９９２）",
+  "fullTitle": "[映]ルームメイト（１９９２）",
+  "detail": "ニューヨークの高級アパートで暮らす女性が、新しいルームメイトの異常行動に次第に追い詰められていく恐怖を描く。",
+  "start": 1621525200000,
+  "end": 1621531800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

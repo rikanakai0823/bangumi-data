@@ -1,0 +1,27 @@
+{
+  "id": "iduchsx",
+  "category": "cinema",
+  "title": "スクール・オブ・ロック（吹替版）",
+  "fullTitle": "[映]スクール・オブ・ロック（吹替版）[SS][字]",
+  "detail": "ロック好きの冴えない青年が一流小学校の教師になりすまし、生徒たちにロックバンドを結成させる。笑いと音楽を満載し、全米ナンバーワンヒットを記録した楽しいコメディ。",
+  "start": 1621584600000,
+  "end": 1621591200000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

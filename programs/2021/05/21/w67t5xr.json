@@ -1,0 +1,23 @@
+{
+  "id": "w67t5xr",
+  "category": "music",
+  "title": "NHK歌謡コンサート",
+  "fullTitle": "NHK歌謡コンサート #25　都会の夜　大人の恋物語",
+  "detail": "♪心凍らせて／高山厳\r\n♪六本木ララバイ／内藤やす子\r\n♪積木の部屋／布施明\r\n♪シングルベッド／氷川きよし　ほか",
+  "start": 1621558800000,
+  "end": 1621562400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "都会の夜　大人の恋物語",
+  "episode": 25,
+  "flags": []
+}

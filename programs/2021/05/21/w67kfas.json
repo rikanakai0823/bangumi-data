@@ -1,0 +1,23 @@
+{
+  "id": "w67kfas",
+  "category": "music",
+  "title": "LiSA MV特集",
+  "fullTitle": "LiSA MV特集",
+  "detail": "LiSAのミュージックビデオ特集をオンエア！",
+  "start": 1621522800000,
+  "end": 1621524600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

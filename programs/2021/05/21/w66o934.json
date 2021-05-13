@@ -1,0 +1,25 @@
+{
+  "id": "w66o934",
+  "category": "drama",
+  "title": "スーパーナチュラル14",
+  "fullTitle": "[二]スーパーナチュラル14#17",
+  "detail": "#17「ゲームナイト」\r\nGame Night\r\nドナテロから助けを求める連絡が入る。ディーンとメアリーが救出に向かい、サムはドナテロが残したメッセージを調べることに。",
+  "start": 1621557000000,
+  "end": 1621560600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "ゲームナイト",
+  "episode": 17,
+  "flags": [
+    "二"
+  ]
+}

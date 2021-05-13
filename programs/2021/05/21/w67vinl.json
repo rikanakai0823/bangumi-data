@@ -1,0 +1,25 @@
+{
+  "id": "w67vinl",
+  "category": "anime",
+  "title": "妖怪ウォッチ シャドウサイド ,16",
+  "fullTitle": "妖怪ウォッチ シャドウサイド[字] #15,16",
+  "detail": "＃１５「十万年にひとりの美少女」＃１６「あぶない海水浴」",
+  "start": 1621587600000,
+  "end": 1621591200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "十万年にひとりの美少女",
+  "episode": 15,
+  "flags": [
+    "字"
+  ]
+}

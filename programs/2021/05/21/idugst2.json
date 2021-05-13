@@ -1,0 +1,26 @@
+{
+  "id": "idugst2",
+  "category": "cinema",
+  "title": "四十七人の刺客",
+  "fullTitle": "[映]四十七人の刺客[字]",
+  "detail": "赤穂浪士４７人による吉良邸討ち入りのおなじみの「忠臣蔵」の物語を独自の新解釈で書き綴った池宮彰一郎の同名小説を、市川崑監督が独特の様式美で映画化した大作時代劇。",
+  "start": 1621590300000,
+  "end": 1621598400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "忠臣蔵",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

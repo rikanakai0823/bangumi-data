@@ -1,0 +1,25 @@
+{
+  "id": "idy8fob",
+  "category": "anime",
+  "title": "なんだかんだワンダー",
+  "fullTitle": "なんだかんだワンダー#9[二]",
+  "detail": "#9「勇者／お誕生日パーティー」",
+  "start": 1621569600000,
+  "end": 1621571400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "勇者／お誕生日パーティー",
+  "episode": 9,
+  "flags": [
+    "二"
+  ]
+}

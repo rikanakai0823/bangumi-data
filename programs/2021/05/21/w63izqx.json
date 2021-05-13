@@ -1,0 +1,23 @@
+{
+  "id": "w63izqx",
+  "category": "sports",
+  "title": "中京テレビ・ブリヂストンレディスオープン2021 1日目地上波",
+  "fullTitle": "中京テレビ・ブリヂストンレディスオープン2021 1日目地上波",
+  "detail": "",
+  "start": 1621605600000,
+  "end": 1621609200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

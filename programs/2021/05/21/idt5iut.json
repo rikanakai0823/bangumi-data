@@ -1,0 +1,23 @@
+{
+  "id": "idt5iut",
+  "category": "documentary",
+  "title": "Ｂｅｅワールド",
+  "fullTitle": "Ｂｅｅワールド",
+  "detail": "日本篇「大島桜の蜂蜜」",
+  "start": 1621594440000,
+  "end": 1621594800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "大島桜の蜂蜜",
+  "episode": null,
+  "flags": []
+}
