@@ -1,0 +1,27 @@
+{
+  "id": "iduchth",
+  "category": "cinema",
+  "title": "スパイキッズ（吹替版）",
+  "fullTitle": "[映]スパイキッズ（吹替版）[SS][字]",
+  "detail": "捕まったパパとママを救え！　冷戦時代に活躍した凄腕スパイを両親に持つ《スパイキッズ》の姉弟が、秘密兵器を駆使して活躍するアドベンチャー。大ヒットしてシリーズ化！",
+  "start": 1621665900000,
+  "end": 1621671300000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

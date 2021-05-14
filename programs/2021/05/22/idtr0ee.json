@@ -1,0 +1,25 @@
+{
+  "id": "idtr0ee",
+  "category": "information",
+  "title": "ジャパネットたかた　サタデーショッピング生放送",
+  "fullTitle": "[生]ジャパネットたかた　サタデーショッピング生放送",
+  "detail": "ジャパネットたかた生放送テレビショッピング！生放送ならではの特別価格・特別セットの商品が続々登場します！ぜひともご期待ください！お見逃しなく！！",
+  "start": 1621645260000,
+  "end": 1621652100000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

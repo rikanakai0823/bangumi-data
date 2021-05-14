@@ -1,0 +1,25 @@
+{
+  "id": "w63izr3",
+  "category": "sports",
+  "title": "中京テレビ・ブリヂストンレディスオープン2021 1日目地上波",
+  "fullTitle": "中京テレビ・ブリヂストンレディスオープン2021 1日目地上波[再]",
+  "detail": "2021年5月21日開催　～中京ゴルフ倶楽部・石野コース",
+  "start": 1621631700000,
+  "end": 1621635300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

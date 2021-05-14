@@ -1,0 +1,25 @@
+{
+  "id": "idy8fp5",
+  "category": "anime",
+  "title": "チャック・チャック",
+  "fullTitle": "チャック・チャック#50[二]",
+  "detail": "#50「チャック・チャック」",
+  "start": 1621627200000,
+  "end": 1621629000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "チャック・チャック",
+  "episode": 50,
+  "flags": [
+    "二"
+  ]
+}

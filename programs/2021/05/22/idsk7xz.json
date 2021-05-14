@@ -1,0 +1,23 @@
+{
+  "id": "idsk7xz",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日　ｖｓ　巨人」",
+  "detail": "バンテリンドームから生中継。午後２時試合開始。地上波ＴＢＳ系列からのリレー中継。最大延長夕方５時５４分。【解説】吉見一起【実況】江田亮（ＣＢＣアナウンサー）",
+  "start": 1621666380000,
+  "end": 1621670400000,
+  "seconds": 4020,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "中日　ｖｓ　巨人",
+  "episode": null,
+  "flags": []
+}

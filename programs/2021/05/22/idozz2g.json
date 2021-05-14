@@ -1,0 +1,25 @@
+{
+  "id": "idozz2g",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「爆笑問題のザ・リアル・ボイス」[字]",
+  "detail": "アメリカでバイデン政権が誕生して１００日、コロナ禍や格差拡大の中、人々は何を思い生きているのか。爆笑問題の二人がロボットカメラを使ってＮＹを訪ね、本音を探る。",
+  "start": 1621688400000,
+  "end": 1621691400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "爆笑問題のザ・リアル・ボイス",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

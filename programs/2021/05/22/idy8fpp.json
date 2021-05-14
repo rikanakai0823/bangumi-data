@@ -1,0 +1,26 @@
+{
+  "id": "idy8fpp",
+  "category": "anime",
+  "title": "ベイマックス ザ・シリーズ",
+  "fullTitle": "[初]ベイマックス ザ・シリーズ #49[二]",
+  "detail": "#49「ハイパーヒッポのピザパーティーレストラン」",
+  "start": 1621672200000,
+  "end": 1621674000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ハイパーヒッポのピザパーティーレストラン",
+  "episode": 49,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

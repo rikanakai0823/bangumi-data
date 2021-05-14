@@ -1,0 +1,26 @@
+{
+  "id": "idozz21",
+  "category": "sports",
+  "title": "プロ野球２０２１「ソフトバンク」対",
+  "fullTitle": "プロ野球２０２１「ソフトバンク」対「オリックス」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　１：００）　【解説】大野豊，【アナウンサー】西川順一　～ＰａｙＰａｙドームから中継～",
+  "start": 1621656000000,
+  "end": 1621666200000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "オリックス",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

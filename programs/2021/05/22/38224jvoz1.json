@@ -1,0 +1,25 @@
+{
+  "id": "38224jvoz1",
+  "category": "variety",
+  "title": "大人の国のアリス",
+  "fullTitle": "大人の国のアリス[字]",
+  "detail": "バラエティ、ドラマ、スポーツなどのスペシャル番組や人気番組のアンコールを放送！",
+  "start": 1621661400000,
+  "end": 1621665000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

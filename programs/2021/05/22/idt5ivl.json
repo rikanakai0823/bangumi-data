@@ -1,0 +1,23 @@
+{
+  "id": "idt5ivl",
+  "category": "sports",
+  "title": "ウイニング競馬　～東京～",
+  "fullTitle": "ウイニング競馬　～東京～",
+  "detail": "【東京】10R高尾特別　11Rメイステークス\r\n【中京】10RシドニーＴ　11R平安Ｓ（GⅢ）\r\n【新潟】11R大日岳特別",
+  "start": 1621661400000,
+  "end": 1621666800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "東京",
+  "episode": null,
+  "flags": []
+}

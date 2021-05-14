@@ -1,0 +1,27 @@
+{
+  "id": "idugstf",
+  "category": "cinema",
+  "title": "コンフィデンスマンＪＰ　ロマンス編",
+  "fullTitle": "[映]コンフィデンスマンＪＰ　ロマンス編[SS][字]",
+  "detail": "長澤まさみ、東出昌大、小日向文世が、信用詐欺師（コンフィデンスマン）を演じた痛快ＴＶドラマの映画版第１作。チームは香港で“氷姫”の異名を持つ女帝に罠を仕掛ける。",
+  "start": 1621674000000,
+  "end": 1621681200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

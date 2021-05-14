@@ -1,0 +1,23 @@
+{
+  "id": "rkdr5vu",
+  "category": "information",
+  "title": "鎌倉ねこサロン",
+  "fullTitle": "鎌倉ねこサロン",
+  "detail": "バラエティ／市場ではあまり見かけないレアなアイテムや、匠の技が光るこだわりの逸品など、コレクターでなくても欲しくなる商品をご紹介。",
+  "start": 1621666800000,
+  "end": 1621670400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduchtn",
+  "category": "cinema",
+  "title": "アレノ[R15+指定相当]",
+  "fullTitle": "[映]アレノ[R15+指定相当][SS][字]",
+  "detail": "山田真歩、渋川清彦ら実力派が共演した官能ドラマ。ある男性の妻とその愛人が共謀して男性を湖に転落させた。行方不明になった男性を捜索する間、２人が過ごす時間とは。",
+  "start": 1621694700000,
+  "end": 1621700100000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

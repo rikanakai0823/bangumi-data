@@ -1,0 +1,27 @@
+{
+  "id": "idugste",
+  "category": "cinema",
+  "title": "マスカレード・ホテル",
+  "fullTitle": "[映]マスカレード・ホテル[SS][字]",
+  "detail": "東野圭吾の「マスカレード」シリーズ第１作を、木村拓哉と長澤まさみの共演で映画化したミステリー。殺人が起きると予告されたホテルで、刑事とホテルクラークが謎に挑む。",
+  "start": 1621665900000,
+  "end": 1621674000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "マスカレード",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67vint",
+  "category": "anime",
+  "title": "ヒカルの碁 ,64",
+  "fullTitle": "ヒカルの碁[字] #63,64",
+  "detail": "＃６３「もう打たない」＃６４「慶長の花器」",
+  "start": 1621609200000,
+  "end": 1621612800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "もう打たない",
+  "episode": 63,
+  "flags": [
+    "字"
+  ]
+}

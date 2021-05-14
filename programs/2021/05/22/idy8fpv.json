@@ -1,0 +1,25 @@
+{
+  "id": "idy8fpv",
+  "category": "anime",
+  "title": "アウルハウス",
+  "fullTitle": "アウルハウス#6[二]",
+  "detail": "#6「フーティの動く家」",
+  "start": 1621690200000,
+  "end": 1621692000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "フーティの動く家",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}
