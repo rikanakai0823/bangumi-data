@@ -1,9 +1,9 @@
 {
   "id": "w69aydw",
-  "category": "documentary",
-  "title": "アフリカ　ビジネス最前線",
-  "fullTitle": "アフリカ　ビジネス最前線[再]",
-  "detail": "#6 農業  農産物が主な輸出品のアフリカ。農業関連ビジネスのサプライチェーンに付加価値を加えた事業を紹介。タンザニアの農業・食品企業「MeTL」などを紹介。",
+  "category": "news",
+  "title": "CNNニュースルーム",
+  "fullTitle": "CNNニュースルーム",
+  "detail": "専門家の分析を交え世界のニュースを検証。ヘッドラインを飾るニュースと最新情報を、各分野の専門家の分析とともに判りやすく解説する報道・情報番組",
   "start": 1621054800000,
   "end": 1621056600000,
   "seconds": 1800,
@@ -17,9 +17,7 @@
     "hasLogoData": false,
     "n": 139
   },
-  "subTitle": "MeTL",
-  "episode": 6,
-  "flags": [
-    "再"
-  ]
+  "subTitle": "",
+  "episode": null,
+  "flags": []
 }
