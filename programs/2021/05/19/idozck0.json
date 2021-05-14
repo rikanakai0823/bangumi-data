@@ -1,0 +1,25 @@
+{
+  "id": "idozck0",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「ザ・リアル・ボイス　台北編」[再]",
+  "detail": "世界の人々は何を考え、悩み、どんな喜びを感じているのか。普段は口に出さない本音を語ってもらう。舞台は台北の街角。あなたの夢は？悩みは？ビッグニュースは？",
+  "start": 1621382400000,
+  "end": 1621385160000,
+  "seconds": 2760,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ザ・リアル・ボイス　台北編",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

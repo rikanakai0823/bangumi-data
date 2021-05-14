@@ -1,0 +1,25 @@
+{
+  "id": "idp21en",
+  "category": "news",
+  "title": "週刊ワールドニュース",
+  "fullTitle": "週刊ワールドニュース[二]",
+  "detail": "週刊ワールドニュース。世界で拡大を続ける新型コロナウイルスの猛威。そして米中対立や混乱が続く香港。世界各国のニュースを１週間まとめてダイジェストで伝える。",
+  "start": 1621033200000,
+  "end": 1621036140000,
+  "seconds": 2940,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
