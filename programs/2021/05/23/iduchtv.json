@@ -1,0 +1,25 @@
+{
+  "id": "iduchtv",
+  "category": "anime",
+  "title": "魔道祖師Ｑ",
+  "fullTitle": "[初]魔道祖師Ｑ　＃１８　鬼道流　畑仕事（字幕版）",
+  "detail": "",
+  "start": 1621724580000,
+  "end": 1621725300000,
+  "seconds": 720,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "鬼道流　畑仕事（字幕版）",
+  "episode": 18,
+  "flags": [
+    "初"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8fr3",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "キャンプ・キキワカ#75[二]",
+  "detail": "#75「２人の積み上げ王」",
+  "start": 1621780200000,
+  "end": 1621782000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "２人の積み上げ王",
+  "episode": 75,
+  "flags": [
+    "二"
+  ]
+}

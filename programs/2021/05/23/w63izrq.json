@@ -1,0 +1,25 @@
+{
+  "id": "w63izrq",
+  "category": "information",
+  "title": "G+マーケット",
+  "fullTitle": "[無料]G+マーケット",
+  "detail": "各種インフォメーションをお届けしております",
+  "start": 1621753200000,
+  "end": 1621755000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

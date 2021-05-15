@@ -1,0 +1,27 @@
+{
+  "id": "idugstn",
+  "category": "cinema",
+  "title": "名探偵コナン　業火の向日葵",
+  "fullTitle": "[映]名探偵コナン　業火の向日葵[SS][字]",
+  "detail": "劇場版第１９作は、ゴッホの名画「ひまわり」をめぐってコナンと最大のライバル・怪盗キッドが対決。宝石しか狙わないはずのキッドが名画「ひまわり」を狙う真意とは？",
+  "start": 1621724400000,
+  "end": 1621731600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

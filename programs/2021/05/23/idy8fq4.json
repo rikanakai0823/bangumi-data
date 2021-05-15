@@ -1,0 +1,25 @@
+{
+  "id": "idy8fq4",
+  "category": "drama",
+  "title": "ハーレーはド真ん中",
+  "fullTitle": "ハーレーはド真ん中#5[二]",
+  "detail": "#5「楽しいご近所パーティー！」",
+  "start": 1621710000000,
+  "end": 1621711800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "楽しいご近所パーティー！",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

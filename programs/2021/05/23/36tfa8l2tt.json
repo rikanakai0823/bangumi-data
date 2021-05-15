@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8l2tt",
+  "category": "drama",
+  "title": "ドラマ",
+  "fullTitle": "ドラマ「田園ボーイズ」[再][字]",
+  "detail": " ",
+  "start": 1621726200000,
+  "end": 1621728000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "田園ボーイズ",
+  "episode": null,
+  "flags": [
+    "再",
+    "字"
+  ]
+}

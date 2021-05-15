@@ -1,0 +1,27 @@
+{
+  "id": "iduchu0",
+  "category": "cinema",
+  "title": "ＡＮＮＡ／アナ（吹替版）[PG12指定]",
+  "fullTitle": "[映]ＡＮＮＡ／アナ（吹替版）[PG12指定][SS][字]",
+  "detail": "人気監督Ｌ・ベッソンが、新たな“戦うヒロイン”の激闘を描いたスパイアクション。美しくタフなヒロイン、アナ役はモデル出身の美女Ｓ・ルス。後半の意外な展開も見もの。",
+  "start": 1621742400000,
+  "end": 1621749900000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

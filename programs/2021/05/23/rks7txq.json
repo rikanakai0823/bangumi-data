@@ -1,0 +1,25 @@
+{
+  "id": "rks7txq",
+  "category": "music",
+  "title": "マカロニえんぴつ",
+  "fullTitle": "[生]マカロニえんぴつ「マカロックツアーvol.11～いま会いに行くをする篇～」",
+  "detail": "全国ホールツアー「マカロックツアーvol.11～いま会いに行くをする篇～」のうち、千秋楽の横浜アリーナ公演の模様を生中継！",
+  "start": 1621764000000,
+  "end": 1621771200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "マカロックツアーvol.11～いま会いに行くをする篇～",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
