@@ -1,0 +1,25 @@
+{
+  "id": "idp3lrl",
+  "category": "documentary",
+  "title": "にっぽん百名山ミニ　３ｍｉｎ",
+  "fullTitle": "にっぽん百名山ミニ　３ｍｉｎ「夏　富士山」[字]",
+  "detail": "富士山（３７７６ｍ）をめざす夏の山旅！静岡側の一合目を出発、コケの森を抜け五合目へ、大迫力の宝永火口に驚嘆！剣ヶ峰の天空の頂まで登りダイナミックな風景を楽しむ！",
+  "start": 1621845720000,
+  "end": 1621845900000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "夏　富士山",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

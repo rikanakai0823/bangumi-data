@@ -1,0 +1,25 @@
+{
+  "id": "idt5ixv",
+  "category": "information",
+  "title": "新４Ｋ８Ｋ衛星放送で見ようよ！",
+  "fullTitle": "新４Ｋ８Ｋ衛星放送で見ようよ！[字]",
+  "detail": "６月に民放ＢＳ５社とＮＨＫが多彩な番組を用意して開催する「新４Ｋ８Ｋ衛星放送で見ようよ！」キャンペーン。各局が誇る珠玉のおすすめ番組を一挙に紹介します！",
+  "start": 1621846680000,
+  "end": 1621847580000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "新４Ｋ８Ｋ衛星放送で見ようよ！",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

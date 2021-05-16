@@ -1,0 +1,25 @@
+{
+  "id": "idp4alo",
+  "category": "documentary",
+  "title": "にっぽん百名山ミニ　３ｍｉｎ",
+  "fullTitle": "にっぽん百名山ミニ　３ｍｉｎ「初夏　天城山」[字]",
+  "detail": "天城山（万三郎岳１４０６ｍ）は伊豆半島にそびえる潤い豊かな山！アマゴが泳ぐ沢から新緑のブナの森を巡り、新緑に輝く尾根をたどり、天城シャクナゲが咲く頂をめざす！",
+  "start": 1621867260000,
+  "end": 1621867500000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "初夏　天城山",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

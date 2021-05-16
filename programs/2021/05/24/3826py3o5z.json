@@ -1,0 +1,25 @@
+{
+  "id": "3826py3o5z",
+  "category": "anime",
+  "title": "忍者コレクション",
+  "fullTitle": "忍者コレクション[再]",
+  "detail": "第７話「フクロウ」",
+  "start": 1621793100000,
+  "end": 1621793400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "フクロウ",
+  "episode": 7,
+  "flags": [
+    "再"
+  ]
+}

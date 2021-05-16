@@ -1,0 +1,23 @@
+{
+  "id": "w662sb7",
+  "category": "variety",
+  "title": "eGG",
+  "fullTitle": "eGG #35",
+  "detail": "eスポーツ応援番組",
+  "start": 1621791000000,
+  "end": 1621793400000,
+  "seconds": 2400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": 35,
+  "flags": []
+}

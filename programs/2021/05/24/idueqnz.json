@@ -1,0 +1,25 @@
+{
+  "id": "idueqnz",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６７５",
+  "detail": "",
+  "start": 1621845000000,
+  "end": 1621845600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 675,
+  "flags": [
+    "無"
+  ]
+}

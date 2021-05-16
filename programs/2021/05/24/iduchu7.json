@@ -1,0 +1,26 @@
+{
+  "id": "iduchu7",
+  "category": "sports",
+  "title": "ラ・リーガ　最終節",
+  "fullTitle": "ラ・リーガ　最終節[二][字]",
+  "detail": "スペインサッカー　ラ・リーガの２０２０－２０２１シーズン。世界のトップ選手たちの競演や日本人選手たちの挑戦など、毎節最大５試合を生中継する。　\r\n",
+  "start": 1621786500000,
+  "end": 1621795500000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

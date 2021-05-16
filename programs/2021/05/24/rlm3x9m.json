@@ -1,0 +1,23 @@
+{
+  "id": "rlm3x9m",
+  "category": "sports",
+  "title": "Bリーグ チャンピオンシップ 2020-21",
+  "fullTitle": "Bリーグ チャンピオンシップ 2020-21",
+  "detail": "Bリーグ チャンピオンシップ 2020-21",
+  "start": 1621850400000,
+  "end": 1621861200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

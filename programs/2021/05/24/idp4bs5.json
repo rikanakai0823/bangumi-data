@@ -1,0 +1,25 @@
+{
+  "id": "idp4bs5",
+  "category": "information",
+  "title": "新４Ｋ８Ｋ衛星放送で見ようよ！",
+  "fullTitle": "新４Ｋ８Ｋ衛星放送で見ようよ！[字]",
+  "detail": "６月にＮＨＫと民放５社が多彩な番組を用意して開催する「新４Ｋ８Ｋ衛星放送で見ようよ！」キャンペーン。各局が誇る珠玉のおすすめ番組を一挙に紹介します！",
+  "start": 1621821600000,
+  "end": 1621822500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "新４Ｋ８Ｋ衛星放送で見ようよ！",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

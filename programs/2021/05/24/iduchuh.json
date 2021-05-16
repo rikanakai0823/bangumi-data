@@ -1,0 +1,26 @@
+{
+  "id": "iduchuh",
+  "category": "drama",
+  "title": "英国サスペンス",
+  "fullTitle": "英国サスペンス「ＴＨＥ　ＢＡＹ　～空白の一夜～」　＃２　波紋[二][字]",
+  "detail": "",
+  "start": 1621839600000,
+  "end": 1621842600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "波紋",
+  "episode": 2,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

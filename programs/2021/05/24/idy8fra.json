@@ -1,0 +1,25 @@
+{
+  "id": "idy8fra",
+  "category": "drama",
+  "title": "ハーレーはド真ん中",
+  "fullTitle": "ハーレーはド真ん中#6[二]",
+  "detail": "#6「ハーレーのフローズンドリンク」",
+  "start": 1621796400000,
+  "end": 1621798200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ハーレーのフローズンドリンク",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}

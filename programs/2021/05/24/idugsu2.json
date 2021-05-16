@@ -1,0 +1,26 @@
+{
+  "id": "idugsu2",
+  "category": "cinema",
+  "title": "トリック　劇場版２",
+  "fullTitle": "[映]トリック　劇場版２[字]",
+  "detail": "自称売れっ子奇術師・山田と天才物理学者・上田の迷コンビが超常現象のトリックを解き明かす。人気ＴＶドラマのこの劇場版第２作で山田と上田は女性教祖の奇跡の謎に挑む。",
+  "start": 1621828800000,
+  "end": 1621835700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

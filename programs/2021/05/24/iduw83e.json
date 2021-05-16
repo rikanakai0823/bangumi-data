@@ -1,0 +1,26 @@
+{
+  "id": "iduw83e",
+  "category": "cinema",
+  "title": "ダウンヒル",
+  "fullTitle": "[映][SS]ダウンヒル",
+  "detail": "ウィル・フェレル主演のコメディドラマ。楽しいはずのスキー旅行で雪崩に遭遇し、家族崩壊の危機に直面する一家の騒動を描く。",
+  "start": 1621837800000,
+  "end": 1621844100000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
