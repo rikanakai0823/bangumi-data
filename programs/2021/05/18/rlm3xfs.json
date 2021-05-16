@@ -1,0 +1,23 @@
+{
+  "id": "rlm3xfs",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2020 ソフトバンクvs.ロッテ",
+  "fullTitle": "HAWKS プロ野球中継2020 ソフトバンクvs.ロッテ",
+  "detail": "▽10月10日開催\r\n解説/実況：浜名千広/信川竜太\r\n開催日時：2020年10月10日 (土) 14:00\r\n会場：福岡PayPayドーム",
+  "start": 1621306800000,
+  "end": 1621319100000,
+  "seconds": 12300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
