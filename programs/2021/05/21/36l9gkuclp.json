@@ -1,12 +1,16 @@
 {
   "id": "36l9gkuclp",
   "category": "information",
-  "title": "生活情報",
-  "fullTitle": "生活情報",
-  "detail": " ",
+  "title": "デモカウショッピング",
+  "fullTitle": "デモカウショッピング",
+  "detail": "◇番組内容\nあなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！",
   "start": 1621580400000,
   "end": 1621582200000,
   "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "番組内容": "あなたの生活をより豊かに！より楽しく！知って得するオススメ情報をお伝えします！！"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",

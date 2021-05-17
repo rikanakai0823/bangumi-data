@@ -1,0 +1,25 @@
+{
+  "id": "idozdch",
+  "category": "documentary",
+  "title": "チェンジメイカーズＲｏｓｅ",
+  "fullTitle": "チェンジメイカーズ（７）Ｒｏｓｅ[再]",
+  "detail": "【出演】ムエタイ選手…ローズ",
+  "start": 1621223100000,
+  "end": 1621223220000,
+  "seconds": 120,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "出演",
+  "episode": 7,
+  "flags": [
+    "再"
+  ]
+}
