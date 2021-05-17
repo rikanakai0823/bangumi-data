@@ -1,0 +1,25 @@
+{
+  "id": "idp1iz6",
+  "category": "sports",
+  "title": "Ｂリーグ２０２０－２１　チャンピオンシップ　セミファイナル",
+  "fullTitle": "Ｂリーグ２０２０－２１　チャンピオンシップ　セミファイナル[字]",
+  "detail": "",
+  "start": 1621857000000,
+  "end": 1621857600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
