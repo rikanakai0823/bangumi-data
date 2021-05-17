@@ -1,0 +1,23 @@
+{
+  "id": "rktezor",
+  "category": "music",
+  "title": "M COUNTDOWN 字幕版",
+  "fullTitle": "M COUNTDOWN 字幕版",
+  "detail": "【5月20日（木)韓国放送分】\r\n最新K-POPを視聴できる音楽番組！\r\n生放送：毎週(木)18:00\r\n字幕版：（日)21:00、（火)11:00、(水)深1:00",
+  "start": 1621908000000,
+  "end": 1621915200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 121
+  },
+  "subTitle": "5月20日（木)韓国放送分",
+  "episode": null,
+  "flags": []
+}

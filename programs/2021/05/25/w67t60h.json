@@ -1,0 +1,23 @@
+{
+  "id": "w67t60h",
+  "category": "music",
+  "title": "NHK歌謡コンサート",
+  "fullTitle": "NHK歌謡コンサート #26　今夜歌おう！青春のヒットパレード",
+  "detail": "♪箱根八里の半次郎／氷川きよし\r\n♪芽ばえ、わたしの彼は左きき／麻丘めぐみ♪空に太陽があるかぎり／錦野旦　\r\n♪古い日記、トゥモロー／和田アキ子　ほか",
+  "start": 1621904400000,
+  "end": 1621908000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "今夜歌おう！青春のヒットパレード",
+  "episode": 26,
+  "flags": []
+}

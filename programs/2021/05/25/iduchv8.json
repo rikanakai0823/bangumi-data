@@ -1,0 +1,26 @@
+{
+  "id": "iduchv8",
+  "category": "drama",
+  "title": "英国サスペンス",
+  "fullTitle": "英国サスペンス「ＴＨＥ　ＢＡＹ　～空白の一夜～」　＃５　崩壊[二][字]",
+  "detail": "",
+  "start": 1621925400000,
+  "end": 1621928400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "崩壊",
+  "episode": 5,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

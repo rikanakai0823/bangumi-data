@@ -1,0 +1,23 @@
+{
+  "id": "idrfa9r",
+  "category": "music",
+  "title": "サウンド・トラック・メモリーズ",
+  "fullTitle": "サウンド・トラック・メモリーズ",
+  "detail": "",
+  "start": 1621909800000,
+  "end": 1621913400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w66gym3",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE　東京ヤクルト×北海道日本ハム",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE　東京ヤクルト×北海道日本ハム",
+  "detail": "セ・パ交流戦「東京ヤクルト vs 北海道日本ハム」　＜開催＞2021年5月25日　～神宮球場　＜解説＞五十嵐亮太　＜実況＞田淵裕章　【生中継】　※変更の場合あり",
+  "start": 1621930800000,
+  "end": 1621949400000,
+  "seconds": 18600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rksa5mf",
+  "category": "news",
+  "title": "NEWS ACCESS",
+  "fullTitle": "NEWS ACCESS",
+  "detail": "現場を知りつくしたテレビ朝日報道局の記者・デスク陣が、徹底した取材情報網を生かし、最新ニュースをわかりやすく解説！",
+  "start": 1621922040000,
+  "end": 1621922400000,
+  "seconds": 360,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

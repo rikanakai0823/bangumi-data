@@ -1,0 +1,23 @@
+{
+  "id": "rkv8xhc",
+  "category": "news",
+  "title": "Daily　Planet",
+  "fullTitle": "Daily　Planet",
+  "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Daily Planet」",
+  "start": 1621944000000,
+  "end": 1621954800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "日テレNEWS24・Daily Planet",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugsu9",
+  "category": "cinema",
+  "title": "海月姫",
+  "fullTitle": "[映]海月姫[SS][字]",
+  "detail": "東村アキコの人気コミックを、能年玲奈と菅田将暉共演で映画化。オタク女子ばかりが住むアパートが存続の危機に陥り、住人たちは美しい女装男子の力を借りて立ち上がる。",
+  "start": 1621878300000,
+  "end": 1621886400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

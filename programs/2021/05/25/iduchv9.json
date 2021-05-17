@@ -1,0 +1,27 @@
+{
+  "id": "iduchv9",
+  "category": "drama",
+  "title": "英国サスペンス",
+  "fullTitle": "英国サスペンス「ＴＨＥ　ＢＡＹ　～空白の一夜～」　＃６　真実[終][二][字]",
+  "detail": "",
+  "start": 1621928400000,
+  "end": 1621931400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "真実",
+  "episode": 6,
+  "flags": [
+    "終",
+    "二",
+    "字"
+  ]
+}

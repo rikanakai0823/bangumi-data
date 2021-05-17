@@ -1,0 +1,23 @@
+{
+  "id": "idwster",
+  "category": "hobby",
+  "title": "物理の世界",
+  "fullTitle": "物理の世界　第8回",
+  "detail": "「波の伝播と干渉」",
+  "start": 1621908900000,
+  "end": 1621911600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "波の伝播と干渉",
+  "episode": 8,
+  "flags": []
+}

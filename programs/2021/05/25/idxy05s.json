@@ -1,0 +1,23 @@
+{
+  "id": "idxy05s",
+  "category": "hobby",
+  "title": "ミニ番組 HITラッシュ Spring 2",
+  "fullTitle": "ミニ番組 HITラッシュ Spring 2",
+  "detail": "厳選したエキサイティングなHITラッシュをショートバージョンでお届けします！",
+  "start": 1621871700000,
+  "end": 1621872000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

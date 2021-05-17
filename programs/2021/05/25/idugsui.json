@@ -1,0 +1,27 @@
+{
+  "id": "idugsui",
+  "category": "cinema",
+  "title": "単騎、千里を走る。",
+  "fullTitle": "[映]単騎、千里を走る。[SS][字]",
+  "detail": "日本が世界に誇る名優・高倉健と、中国映画界きっての巨匠監督チャン・イーモウ。この２人の夢のコラボレーションから生み出された感動のハートウォーミングドラマ。",
+  "start": 1621936800000,
+  "end": 1621944000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
