@@ -1,0 +1,26 @@
+{
+  "id": "iduclmg",
+  "category": "cinema",
+  "title": "少女（２０１６）",
+  "fullTitle": "[映]少女（２０１６）[字]",
+  "detail": "本田翼、山本美月、稲垣吾郎、新田真剣佑らの豪華共演で、湊かなえの同名ベストセラー小説を映画化。親友同士である多感な女子高校生２人の危うい日常を描いたサスペンス。",
+  "start": 1621812000000,
+  "end": 1621819200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

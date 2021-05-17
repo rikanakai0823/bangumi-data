@@ -2,11 +2,15 @@
   "id": "36h6jr1l3d",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nここひえ　０１２０－３６－２００８",
   "start": 1621548000000,
   "end": 1621549800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ここひえ　０１２０－３６－２００８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
