@@ -3,14 +3,10 @@
   "category": "news",
   "title": "ニュース",
   "fullTitle": "ニュース[二][字]",
-  "detail": "◇出演者\n【キャスター】三條雅幸",
+  "detail": "",
   "start": 1621328400000,
   "end": 1621329000000,
   "seconds": 600,
-  "description": "",
-  "extra": {
-    "出演者": "【キャスター】三條雅幸"
-  },
   "channel": {
     "type": "GR",
     "channel": "27",
