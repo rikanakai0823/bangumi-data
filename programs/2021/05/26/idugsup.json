@@ -1,0 +1,26 @@
+{
+  "id": "idugsup",
+  "category": "cinema",
+  "title": "アクロス・ザ・ユニバース（字幕版）",
+  "fullTitle": "[映]アクロス・ザ・ユニバース（字幕版）[SS]",
+  "detail": "ザ・ビートルズの名ナンバーのカバー曲を満載。ザ・ビートルズが活躍したのと同じ１９６０年代、ニューヨークを舞台に若者たちの愛・情熱・挫折を描いた青春ミュージカル。",
+  "start": 1621985400000,
+  "end": 1621993500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

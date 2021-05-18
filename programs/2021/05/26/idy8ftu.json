@@ -1,0 +1,26 @@
+{
+  "id": "idy8ftu",
+  "category": "anime",
+  "title": "LEGO スター・ウォーズ／フリーメーカーの冒険",
+  "fullTitle": "[新]LEGO スター・ウォーズ／フリーメーカーの冒険 #1[二]",
+  "detail": "#1「新たなヒーロー」",
+  "start": 1621960200000,
+  "end": 1621962000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "新たなヒーロー",
+  "episode": 1,
+  "flags": [
+    "新",
+    "二"
+  ]
+}

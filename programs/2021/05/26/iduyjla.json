@@ -1,0 +1,25 @@
+{
+  "id": "iduyjla",
+  "category": "cinema",
+  "title": "さらばバルデス",
+  "fullTitle": "[映]さらばバルデス【シリーズ：隠れた良作】",
+  "detail": "チャールズ・ブロンソン主演の西部劇。野生馬の放牧を営む孤高の男と、宿を求めて駆け込んで来た少年との交流を詩情豊かに綴る。",
+  "start": 1622011800000,
+  "end": 1622017800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "シリーズ：隠れた良作",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

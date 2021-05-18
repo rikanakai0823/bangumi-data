@@ -1,0 +1,26 @@
+{
+  "id": "36rdttmdn4",
+  "category": "sports",
+  "title": "ｔｖｋプロ野球中継横浜ＤｅＮＡベイスターズ熱烈ＬＩＶＥ",
+  "fullTitle": "ｔｖｋプロ野球中継横浜ＤｅＮＡベイスターズ熱烈ＬＩＶＥ「横浜×オリックス」[デ][多]",
+  "detail": "　",
+  "start": 1622018700000,
+  "end": 1622020500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "横浜×オリックス",
+  "episode": null,
+  "flags": [
+    "デ",
+    "多"
+  ]
+}

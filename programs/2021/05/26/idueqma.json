@@ -1,0 +1,26 @@
+{
+  "id": "idueqma",
+  "category": "cinema",
+  "title": "ウエスタン・スターズ（字幕版）",
+  "fullTitle": "[映]ウエスタン・スターズ（字幕版）[SS]",
+  "detail": "アメリカ音楽界屈指の大物ロックスター、Ｂ・スプリングスティーンが、２０１９年に発表して絶賛を博した同名アルバムをもとに自らの共同監督で生み出したコンサート映画。",
+  "start": 1622030400000,
+  "end": 1622035800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w65hcgr",
+  "category": "news",
+  "title": "タカラヅカニュース",
+  "fullTitle": "タカラヅカニュース",
+  "detail": "宝塚歌劇の情報をお届けするエンターテインメント・ニュース番組。司会はスカイ・ナビゲーターズ。主なトピックスや、公演初日の舞台映像など貴重な情報を交えてご紹介。",
+  "start": 1622034000000,
+  "end": 1622036700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＳＫＹ　ＳＴＡＧＥ",
+    "id": "f0ci",
+    "sid": 290,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 100
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

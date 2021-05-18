@@ -1,0 +1,25 @@
+{
+  "id": "rlm3x9y",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～ファーム～ ソフトバンクvs.阪神",
+  "fullTitle": "[生]HAWKS プロ野球中継2021～ファーム～ ソフトバンクvs.阪神",
+  "detail": "▽5月26日開催\r\n解説/実況：浜名千広/山下末則\r\n開催日時：2021年5月26日 (水) 13:00\r\n会場：タマホーム スタジアム筑後",
+  "start": 1622001300000,
+  "end": 1622017800000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

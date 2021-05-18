@@ -1,0 +1,25 @@
+{
+  "id": "w63cg78",
+  "category": "sports",
+  "title": "[プロ野球]阪神×千葉ロッテ（阪神甲子園球場）",
+  "fullTitle": "[生] [プロ野球]阪神×千葉ロッテ（阪神甲子園球場）",
+  "detail": "（延長時、以降の番組変更繰り下げあり）\r\nGAORAプロ野球中継\r\n解説:岡義朗\r\n実況:村田匡輝\r\nリポーター:桐山隆\r\n開催：2021年5月26日／阪神甲子園球場",
+  "start": 1622017800000,
+  "end": 1622035800000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

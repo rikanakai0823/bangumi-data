@@ -1,0 +1,25 @@
+{
+  "id": "w67vis5",
+  "category": "anime",
+  "title": "ヒカルの碁 ,68",
+  "fullTitle": "ヒカルの碁[字] #67,68",
+  "detail": "＃６７「試される伊角」＃６８「不戦敗」",
+  "start": 1621954800000,
+  "end": 1621958400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "試される伊角",
+  "episode": 67,
+  "flags": [
+    "字"
+  ]
+}

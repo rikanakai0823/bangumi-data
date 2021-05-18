@@ -1,0 +1,26 @@
+{
+  "id": "idv0opo",
+  "category": "cinema",
+  "title": "アド・アストラ",
+  "fullTitle": "[映][SS]アド・アストラ[吹]",
+  "detail": "ブラッド・ピット主演のＳＦアドベンチャードラマ。太陽系の彼方で消息を絶った父親を捜すため宇宙飛行士の息子が宇宙へ旅立つ。",
+  "start": 1622008800000,
+  "end": 1622016300000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugsuq",
+  "category": "cinema",
+  "title": "ホットロード",
+  "fullTitle": "[映]ホットロード[SS][字]",
+  "detail": "のんが能年玲奈の名義で主演した青春ラブストーリー。母親に愛されていないのではないかという悩みを持つ１４歳の少女の心を癒やしたのは、不良集団に所属する少年だった。",
+  "start": 1621993500000,
+  "end": 1622001600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

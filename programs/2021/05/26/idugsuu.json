@@ -1,0 +1,27 @@
+{
+  "id": "idugsuu",
+  "category": "cinema",
+  "title": "あなたへ",
+  "fullTitle": "[映]あなたへ[SS][字]",
+  "detail": "高倉健がこの世を去るその２年前に主演し、遺作となった要注目の感動作。亡き妻からの絵手紙を受け取った主人公は、彼女の思い出の地をたどる旅へと出発。監督は降旗康男。",
+  "start": 1622023200000,
+  "end": 1622030400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

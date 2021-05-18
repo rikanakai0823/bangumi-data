@@ -1,0 +1,27 @@
+{
+  "id": "idugsut",
+  "category": "cinema",
+  "title": "この空の花　長岡花火物語",
+  "fullTitle": "[映]この空の花　長岡花火物語[SS][字]",
+  "detail": "名匠・大林宣彦監督にとって「野のなななのか」「花筐／ＨＡＮＡＧＡＴＡＭＩ」へ続く“戦争三部作”の第１作となった渾身編。新潟県長岡市で現在と意外な過去が交錯する。",
+  "start": 1622013300000,
+  "end": 1622023200000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

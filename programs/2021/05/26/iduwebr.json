@@ -1,0 +1,26 @@
+{
+  "id": "iduwebr",
+  "category": "cinema",
+  "title": "ダ・ヴィンチ・コード［エクステンデッド版］",
+  "fullTitle": "[映][SS]ダ・ヴィンチ・コード［エクステンデッド版］",
+  "detail": "【驚愕の謎解きミステリー映画特集】",
+  "start": 1622006100000,
+  "end": 1622017800000,
+  "seconds": 11700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "驚愕の謎解きミステリー映画特集",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
