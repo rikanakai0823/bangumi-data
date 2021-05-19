@@ -1,8 +1,8 @@
 {
   "id": "36tfa8gsxd",
   "category": "drama",
-  "title": "マーダーミステリードラマ",
-  "fullTitle": "マーダーミステリードラマ「アオイウソ～告白の放課後～」",
+  "title": "連続ドラマ　★",
+  "fullTitle": "[新]連続ドラマ「救出劇」　★第１話",
   "detail": " ",
   "start": 1622035800000,
   "end": 1622037600000,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "アオイウソ～告白の放課後～",
-  "episode": null,
-  "flags": []
+  "subTitle": "救出劇",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }
