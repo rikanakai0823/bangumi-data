@@ -1,0 +1,25 @@
+{
+  "id": "w63izts",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～東京ドーム～",
+  "fullTitle": "DRAMATIC BASEBALL2021「巨人×楽天」～東京ドーム～[再]",
+  "detail": "２０２１年５月２６日開催\r\n解説：山本昌\r\n実況：安藤翔",
+  "start": 1622060100000,
+  "end": 1622074500000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "巨人×楽天",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

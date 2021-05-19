@@ -1,0 +1,25 @@
+{
+  "id": "idy8fwf",
+  "category": "drama",
+  "title": "シェイク",
+  "fullTitle": "シェイク#9[二]",
+  "detail": "#9「夢」",
+  "start": 1622120400000,
+  "end": 1622121000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "夢",
+  "episode": 9,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduyncq",
+  "category": "cinema",
+  "title": "カンフーハッスル",
+  "fullTitle": "[映][SS]カンフーハッスル",
+  "detail": "『少林サッカー』のチャウ・シンチー主演。驚異的なカンフー技を隠し持つ庶民が、ギャング団と闘う！",
+  "start": 1622125800000,
+  "end": 1622133000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

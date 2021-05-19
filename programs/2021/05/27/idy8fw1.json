@@ -1,0 +1,25 @@
+{
+  "id": "idy8fw1",
+  "category": "anime",
+  "title": "バンザイ！キング・ジュリアン",
+  "fullTitle": "バンザイ！キング・ジュリアン#11[二]",
+  "detail": "#11「マイ・フェア・フォッサ」",
+  "start": 1622095200000,
+  "end": 1622097000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "マイ・フェア・フォッサ",
+  "episode": 11,
+  "flags": [
+    "二"
+  ]
+}

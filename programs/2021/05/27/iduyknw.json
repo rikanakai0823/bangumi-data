@@ -1,0 +1,26 @@
+{
+  "id": "iduyknw",
+  "category": "cinema",
+  "title": "ドラゴン／ブルース・リー物語",
+  "fullTitle": "[映][SS]ドラゴン／ブルース・リー物語",
+  "detail": "３２歳の若さで急逝した不世出のカンフースター、ブルース・リー。その短くも鮮烈な生涯をドラマチックに描いた伝記ドラマ。",
+  "start": 1622061600000,
+  "end": 1622069400000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm3xa8",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ プレーオフ 1stレグ",
+  "fullTitle": "[生]20/21 ブンデスリーガ プレーオフ 1stレグ",
+  "detail": "20/21 ブンデスリーガ プレーオフ 1stレグ",
+  "start": 1622046000000,
+  "end": 1622055000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

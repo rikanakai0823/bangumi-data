@@ -1,0 +1,25 @@
+{
+  "id": "w67viuf",
+  "category": "anime",
+  "title": "妖怪ウォッチ シャドウサイド ,24",
+  "fullTitle": "妖怪ウォッチ シャドウサイド[字] #23,24",
+  "detail": "＃２３「ドクターＣの闇カルテ」＃２４「夢見るハナぽんちょ」",
+  "start": 1622106000000,
+  "end": 1622109600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ドクターＣの闇カルテ",
+  "episode": 23,
+  "flags": [
+    "字"
+  ]
+}
