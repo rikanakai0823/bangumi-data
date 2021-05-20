@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1ljc",
+  "category": "music",
+  "title": "彩の国百科",
+  "fullTitle": "彩の国百科[字][Ｓ]",
+  "detail": "しらさぎ編　県内の四季の移ろいを音楽に合わせて紹介します。",
+  "start": 1622148000000,
+  "end": 1622148900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

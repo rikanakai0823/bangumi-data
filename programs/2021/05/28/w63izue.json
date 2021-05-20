@@ -1,0 +1,25 @@
+{
+  "id": "w63izue",
+  "category": "sports",
+  "title": "～全英への道～ ミズノオープン2021 2日目",
+  "fullTitle": "[生]～全英への道～ ミズノオープン2021 2日目",
+  "detail": "～生中継",
+  "start": 1622185200000,
+  "end": 1622188800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

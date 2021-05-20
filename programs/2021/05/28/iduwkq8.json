@@ -1,0 +1,26 @@
+{
+  "id": "iduwkq8",
+  "category": "cinema",
+  "title": "レディ・オア・ノット",
+  "fullTitle": "[映][SS]レディ・オア・ノット",
+  "detail": "富豪一家に嫁いだ美しい花嫁が、一家の伝統儀式である命懸けのかくれんぼに巻き込まれるアクションスリラー。［Ｒ１５＋相当］",
+  "start": 1622182800000,
+  "end": 1622188800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

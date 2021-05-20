@@ -1,0 +1,26 @@
+{
+  "id": "iduwinm",
+  "category": "cinema",
+  "title": "魂のゆくえ",
+  "fullTitle": "[映][SS]魂のゆくえ",
+  "detail": "ポール・シュレイダー監督の人間ドラマ。小さな教会の牧師が、現実社会の様々な問題に直面する中で信仰を試される姿を描く。",
+  "start": 1622147400000,
+  "end": 1622154600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

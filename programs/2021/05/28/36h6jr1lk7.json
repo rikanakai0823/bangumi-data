@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1lk7",
+  "category": "news",
+  "title": "ニュース９３０ plus",
+  "fullTitle": "ニュース９３０ plus[Ｓ]",
+  "detail": "県内ニュース▽特集▽週末の天気",
+  "start": 1622205000000,
+  "end": 1622206800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

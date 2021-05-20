@@ -1,0 +1,26 @@
+{
+  "id": "iduwlbw",
+  "category": "cinema",
+  "title": "ヴィランズ",
+  "fullTitle": "[映][SS]ヴィランズ【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "マイカ・モンロー主演のサイコスリラー。逃亡中の強盗カップルが辿り着いた一軒家で遭遇する恐怖を描く。［ＰＧ１２相当］",
+  "start": 1622210400000,
+  "end": 1622216700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

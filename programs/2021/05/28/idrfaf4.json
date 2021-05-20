@@ -1,0 +1,23 @@
+{
+  "id": "idrfaf4",
+  "category": "music",
+  "title": "歌謡曲同好会",
+  "fullTitle": "歌謡曲同好会",
+  "detail": "",
+  "start": 1622174400000,
+  "end": 1622178000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67viun",
+  "category": "anime",
+  "title": "ヒカルの碁 ,72",
+  "fullTitle": "ヒカルの碁[字] #71,72",
+  "detail": "＃７１「復帰初戦」＃７２「走り出した二人」",
+  "start": 1622127600000,
+  "end": 1622131200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "復帰初戦",
+  "episode": 71,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1qey",
+  "category": "anime",
+  "title": "ベイビーステップ 第2シリーズ",
+  "fullTitle": "[字]ベイビーステップ 第2シリーズ #3",
+  "detail": "#3「未来のデータ」\r\n第2シリーズの舞台は、フロリダのテニスアカデミー。そこでは世界のトップを目指すライバルたちが…",
+  "start": 1622149200000,
+  "end": 1622151000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "未来のデータ",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}
