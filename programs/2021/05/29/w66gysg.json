@@ -1,0 +1,25 @@
+{
+  "id": "w66gysg",
+  "category": "sports",
+  "title": "競馬予想ＴＶ！　7ほか",
+  "fullTitle": "[生]競馬予想ＴＶ！　#1067「日本ダービー（G1）」ほか",
+  "detail": "「日本ダービー（Ｇ１）」　ほか\r\n＜司会＞見栄晴　横山ルリカ\r\n＜出演＞松本ヒロシ　競馬予想専門家４名\r\n　【生放送】",
+  "start": 1622286000000,
+  "end": 1622293200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "日本ダービー（G1）",
+  "episode": 106,
+  "flags": [
+    "生"
+  ]
+}

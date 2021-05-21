@@ -1,0 +1,25 @@
+{
+  "id": "idy8fyv",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#13[二]",
+  "detail": "#13「ゴンドラ漕ぎの恋」",
+  "start": 1622276700000,
+  "end": 1622277000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ゴンドラ漕ぎの恋",
+  "episode": 13,
+  "flags": [
+    "二"
+  ]
+}

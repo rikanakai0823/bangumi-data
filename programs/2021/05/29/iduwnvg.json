@@ -1,0 +1,26 @@
+{
+  "id": "iduwnvg",
+  "category": "cinema",
+  "title": "ターミネーター：ニュー・フェイト",
+  "fullTitle": "[映][SS]ターミネーター：ニュー・フェイト",
+  "detail": "『ターミネーター２』の直接の続編となるＳＦアクション。審判の日が回避されたはずの人類に新たな危機が訪れる。［ＰＧ１２］",
+  "start": 1622268000000,
+  "end": 1622276100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idsk8d7",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ソフトバンク　ｖｓ　巨人」",
+  "detail": "ＰａｙＰａｙドームから生中継。午後２時試合開始。最大延長夕方５時５４分。\r\n【解説】新井貴浩【実況】熊崎風斗",
+  "start": 1622264400000,
+  "end": 1622274840000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "ソフトバンク　ｖｓ　巨人",
+  "episode": null,
+  "flags": []
+}

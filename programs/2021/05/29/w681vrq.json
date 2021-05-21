@@ -1,0 +1,25 @@
+{
+  "id": "w681vrq",
+  "category": "anime",
+  "title": "劇場版",
+  "fullTitle": "劇場版「若おかみは小学生！」 [字]",
+  "detail": "2018年劇場公開作品",
+  "start": 1622282400000,
+  "end": 1622289600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "若おかみは小学生！",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
