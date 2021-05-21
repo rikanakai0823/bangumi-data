@@ -1,12 +1,12 @@
 {
   "id": "rlm3x5u",
   "category": "sports",
-  "title": "LIONS プロ野球中継2021～ファーム～ 西武vs.DeNA",
-  "fullTitle": "[生]LIONS プロ野球中継2021～ファーム～ 西武vs.DeNA",
-  "detail": "▽5月21日開催\r\n実況：西達彦\r\n開催日時：2021年5月21日 (金) 13:00\r\n会場：CAR3219フィールド（カーミニークフィールド）",
+  "title": "HAWKS プロ野球中継2020 ソフトバンクvs.ロッテ",
+  "fullTitle": "HAWKS プロ野球中継2020 ソフトバンクvs.ロッテ",
+  "detail": "▽10月11日開催\r\n解説/実況：池田親興/信川竜太\r\n開催日時：2020年10月11日 (日) 13:00\r\n会場：福岡PayPayドーム",
   "start": 1621569300000,
-  "end": 1621585800000,
-  "seconds": 16500,
+  "end": 1621582800000,
+  "seconds": 13500,
   "channel": {
     "type": "CS",
     "channel": "CS10",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "生"
-  ]
+  "flags": []
 }

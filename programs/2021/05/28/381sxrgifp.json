@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "ウッチャン式",
   "fullTitle": "ウッチャン式[字]",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/program/ucchanshiki_20210528/\r\n◇番組公式　Twitter！\r\nhttps://twitter.com/ucchanshiki?s=06\r\n@ucchanshiki",
   "start": 1622199600000,
   "end": 1622206800000,
   "seconds": 7200,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/program/ucchanshiki_20210528/\r\n◇番組公式　Twitter！\r\nhttps://twitter.com/ucchanshiki?s=06\r\n@ucchanshiki\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
