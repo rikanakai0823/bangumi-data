@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＱＶＣ　Kumi’s Room Beauty Special",
   "fullTitle": "ＱＶＣ　Kumi’s Room Beauty Special",
-  "detail": "渡辺ナビがお届けするKumi's Room。今回は、話題のビューティーアイテムをお届けします。人気ゲストと盛り上がる、軽快なトークもお楽しみに！",
+  "detail": "渡辺ナビがお届けするKumi's Room。今回は、話題のビューティーアイテムをお届けします。人気ゲストと盛り上がる、軽快なトークもお楽しみに！\n◇番組内容\n※番組の内容や放送日時は、変更となる場合がございます。",
   "start": 1622095200000,
   "end": 1622098800000,
   "seconds": 3600,
+  "description": "渡辺ナビがお届けするKumi's Room。今回は、話題のビューティーアイテムをお届けします。人気ゲストと盛り上がる、軽快なトークもお楽しみに！",
+  "extra": {
+    "番組内容": "※番組の内容や放送日時は、変更となる場合がございます。"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS09_2",
