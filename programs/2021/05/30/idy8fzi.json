@@ -1,0 +1,25 @@
+{
+  "id": "idy8fzi",
+  "category": "hobby",
+  "title": "クリエイティブ・ギャラクシー",
+  "fullTitle": "クリエイティブ・ギャラクシー#31[二]",
+  "detail": "#31「ギャラクシー・デー」",
+  "start": 1622327400000,
+  "end": 1622329200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ギャラクシー・デー",
+  "episode": 31,
+  "flags": [
+    "二"
+  ]
+}

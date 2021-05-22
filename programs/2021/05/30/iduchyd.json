@@ -1,0 +1,26 @@
+{
+  "id": "iduchyd",
+  "category": "cinema",
+  "title": "ランボー　怒りの脱出（吹替版）",
+  "fullTitle": "[映]ランボー　怒りの脱出（吹替版）[字]",
+  "detail": "Ｓ・スタローン主演のアクション《ランボー》シリーズの第２弾。元特殊部隊のランボーは終戦後も敵の捕虜になったままの米軍兵たちを救うべく、因縁の土地ベトナムへ戻る。",
+  "start": 1622361900000,
+  "end": 1622367900000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

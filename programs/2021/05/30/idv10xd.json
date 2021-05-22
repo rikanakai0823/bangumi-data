@@ -1,0 +1,25 @@
+{
+  "id": "idv10xd",
+  "category": "cinema",
+  "title": "ヘレディタリー／継承",
+  "fullTitle": "[映]ヘレディタリー／継承[吹]",
+  "detail": "『ミッドサマー』のアリ・アスターが監督した衝撃ホラー。忌まわしき“何か”を受け継いでしまった家族を描く。［ＰＧ１２］",
+  "start": 1622335500000,
+  "end": 1622343600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

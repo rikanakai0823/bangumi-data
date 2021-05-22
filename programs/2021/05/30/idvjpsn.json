@@ -1,0 +1,26 @@
+{
+  "id": "idvjpsn",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【中京】11Ｒ「白百合ステークス（Ｌ）」，12Ｒ「伊勢ステークス」\r\n【東京】12Ｒ「目黒記念」（ＧⅡ）",
+  "start": 1622358000000,
+  "end": 1622363400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

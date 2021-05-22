@@ -1,0 +1,25 @@
+{
+  "id": "rktezsi",
+  "category": "music",
+  "title": "ENHYPEN&Hi 字幕版",
+  "fullTitle": "ENHYPEN&Hi 字幕版 #4(終)",
+  "detail": "「I-LAND」から誕生したENHYPENの密着番組を日本語字幕版でお届け！\r\n再：16日(日)5:00～、30日(日)14:00～　※2話連続",
+  "start": 1622354400000,
+  "end": 1622358000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 121
+  },
+  "subTitle": "I-LAND",
+  "episode": 4,
+  "flags": [
+    "終"
+  ]
+}

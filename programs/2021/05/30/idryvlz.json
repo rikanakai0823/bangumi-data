@@ -1,0 +1,23 @@
+{
+  "id": "idryvlz",
+  "category": "information",
+  "title": "いきいきショッピング",
+  "fullTitle": "いきいきショッピング",
+  "detail": "テレビショッピング",
+  "start": 1622305800000,
+  "end": 1622307600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idozc8q",
+  "category": "sports",
+  "title": "Ｊリーグ２０２１「川崎フロンターレ」対",
+  "fullTitle": "Ｊリーグ２０２１「川崎フロンターレ」対「鹿島アントラーズ」[多][デ]",
+  "detail": "　※副音声は場内音声　（試合開始　７：０１）　【解説】福西崇史，【アナウンサー】下境秀幸　～等々力競技場から中継～",
+  "start": 1622368800000,
+  "end": 1622376000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "鹿島アントラーズ",
+  "episode": null,
+  "flags": [
+    "多",
+    "デ"
+  ]
+}

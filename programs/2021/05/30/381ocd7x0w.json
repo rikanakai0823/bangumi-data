@@ -1,0 +1,27 @@
+{
+  "id": "381ocd7x0w",
+  "category": "drama",
+  "title": "ネメシス",
+  "fullTitle": "ネメシス#08[解][字][デ]",
+  "detail": "",
+  "start": 1622381400000,
+  "end": 1622384700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": [
+    "解",
+    "字",
+    "デ"
+  ]
+}

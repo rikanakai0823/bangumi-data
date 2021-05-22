@@ -1,0 +1,26 @@
+{
+  "id": "iduchyc",
+  "category": "cinema",
+  "title": "ランボー（吹替版）",
+  "fullTitle": "[映]ランボー（吹替版）[字]",
+  "detail": "Ｓ・スタローンの《ロッキー》と並ぶ当たり役になったワンマン・アーミー《ランボー》を描く人気アクションシリーズの第１作。戦場帰りのランボーが地方の町で怒りを爆発！",
+  "start": 1622356200000,
+  "end": 1622361900000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

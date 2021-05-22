@@ -1,0 +1,25 @@
+{
+  "id": "rlm3xa9",
+  "category": "sports",
+  "title": "20/21 ブンデスリーガ プレーオフ 2ndレグ",
+  "fullTitle": "[生]20/21 ブンデスリーガ プレーオフ 2ndレグ",
+  "detail": "20/21 ブンデスリーガ プレーオフ 2ndレグ",
+  "start": 1622303400000,
+  "end": 1622316000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

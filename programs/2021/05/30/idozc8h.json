@@ -1,0 +1,25 @@
+{
+  "id": "idozc8h",
+  "category": "sports",
+  "title": "Ｂリーグ２０２０－２１　ファイナル　第２戦",
+  "fullTitle": "Ｂリーグ２０２０－２１　ファイナル　第２戦[字]",
+  "detail": "",
+  "start": 1622353800000,
+  "end": 1622361000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

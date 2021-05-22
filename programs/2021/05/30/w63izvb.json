@@ -1,0 +1,25 @@
+{
+  "id": "w63izvb",
+  "category": "sports",
+  "title": "ＷＥリーグ プレシーズンマッチ 日テレ・ベレーザ×アルビレックス新潟",
+  "fullTitle": "[生]ＷＥリーグ プレシーズンマッチ 日テレ・ベレーザ×アルビレックス新潟",
+  "detail": "～生中継　～味の素フィールド西が丘\r\n実況：田辺大智",
+  "start": 1622349900000,
+  "end": 1622358000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
