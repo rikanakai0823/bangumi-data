@@ -1,0 +1,23 @@
+{
+  "id": "idtr1m0",
+  "category": "etc",
+  "title": "ウメオシ！",
+  "fullTitle": "ウメオシ！",
+  "detail": "",
+  "start": 1622465700000,
+  "end": 1622466000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

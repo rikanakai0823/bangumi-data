@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgiit",
+  "category": "variety",
+  "title": "見破れ！アクター＆リアクター",
+  "fullTitle": "見破れ！アクター＆リアクター[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/program/actor_reactor_20210531/",
+  "start": 1622458800000,
+  "end": 1622466000000,
+  "seconds": 7200,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/program/actor_reactor_20210531/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

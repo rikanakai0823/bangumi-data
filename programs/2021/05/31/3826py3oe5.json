@@ -1,0 +1,25 @@
+{
+  "id": "3826py3oe5",
+  "category": "anime",
+  "title": "忍者コレクション",
+  "fullTitle": "忍者コレクション[再]",
+  "detail": "第８話「待ち人」",
+  "start": 1622397900000,
+  "end": 1622398200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "待ち人",
+  "episode": 8,
+  "flags": [
+    "再"
+  ]
+}

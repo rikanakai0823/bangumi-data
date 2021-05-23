@@ -1,0 +1,23 @@
+{
+  "id": "iduyx8m",
+  "category": "etc",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "放送設備点検のため放送を休止いたします。",
+  "start": 1622404440000,
+  "end": 1622408400000,
+  "seconds": 3960,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

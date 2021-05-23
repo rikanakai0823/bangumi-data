@@ -1,0 +1,27 @@
+{
+  "id": "iduchyn",
+  "category": "cinema",
+  "title": "ハルカの陶",
+  "fullTitle": "[映]ハルカの陶[SS][字]",
+  "detail": "備前焼に魅せられ、平凡だが安定した会社勤めを投げ打って陶芸作家に弟子入りしたヒロインが悪戦苦闘しながら成長していく。同名漫画を映画化した感動のヒューマンドラマ。",
+  "start": 1622410200000,
+  "end": 1622417400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

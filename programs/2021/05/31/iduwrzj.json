@@ -1,0 +1,23 @@
+{
+  "id": "iduwrzj",
+  "category": "etc",
+  "title": "放送休止　ＤＳ　スクランブル",
+  "fullTitle": "放送休止　ＤＳ　スクランブル",
+  "detail": "放送設備点検のため放送を休止いたします。",
+  "start": 1622399700000,
+  "end": 1622401140000,
+  "seconds": 1440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
