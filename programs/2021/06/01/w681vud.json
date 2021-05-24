@@ -1,0 +1,26 @@
+{
+  "id": "w681vud",
+  "category": "anime",
+  "title": "君に届け",
+  "fullTitle": "君に届け #25 [終][字]",
+  "detail": "#25 新年\r\n【全25話】2009年放送作品",
+  "start": 1622543400000,
+  "end": 1622545200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "新年",
+  "episode": 25,
+  "flags": [
+    "終",
+    "字"
+  ]
+}

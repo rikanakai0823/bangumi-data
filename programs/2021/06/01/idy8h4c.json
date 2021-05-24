@@ -1,0 +1,23 @@
+{
+  "id": "idy8h4c",
+  "category": "etc",
+  "title": "試験イベント①",
+  "fullTitle": "試験イベント①",
+  "detail": "",
+  "start": 1622484000000,
+  "end": 1622485800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

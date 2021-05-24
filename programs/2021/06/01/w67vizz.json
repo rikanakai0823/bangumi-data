@@ -1,0 +1,25 @@
+{
+  "id": "w67vizz",
+  "category": "anime",
+  "title": "妖怪ウォッチ シャドウサイド ,30",
+  "fullTitle": "妖怪ウォッチ シャドウサイド[字] #29,30",
+  "detail": "＃２９「悲劇のブラッディクローバー」＃３０「アヤメ、散る」",
+  "start": 1622538000000,
+  "end": 1622541600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "悲劇のブラッディクローバー",
+  "episode": 29,
+  "flags": [
+    "字"
+  ]
+}

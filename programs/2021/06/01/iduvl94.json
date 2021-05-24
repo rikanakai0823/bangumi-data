@@ -1,0 +1,26 @@
+{
+  "id": "iduvl94",
+  "category": "cinema",
+  "title": "海の上のピアニスト［イタリア完全版］",
+  "fullTitle": "[映][SS]海の上のピアニスト［イタリア完全版］",
+  "detail": "生涯を船上で過ごしたピアニストの数奇な人生を描く感動ドラマ。日本公開版より約４５分長い本国イタリアで公開のオリジナル版。",
+  "start": 1622494800000,
+  "end": 1622505600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvlhg",
+  "category": "cinema",
+  "title": "ディア・ファミリー　～あなたを忘れない～",
+  "fullTitle": "[映][SS]ディア・ファミリー　～あなたを忘れない～",
+  "detail": "ヒラリー・スワンクが製作総指揮と主演を兼任したヒューマンドラマ。認知症の母を巡って家族が本音でぶつかり、再生してゆく。",
+  "start": 1622505600000,
+  "end": 1622512800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

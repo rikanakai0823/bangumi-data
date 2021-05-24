@@ -1,0 +1,25 @@
+{
+  "id": "idozd38",
+  "category": "sports",
+  "title": "Ｂリーグ２０２０－２１　ファイナル　第３戦",
+  "fullTitle": "Ｂリーグ２０２０－２１　ファイナル　第３戦[字]",
+  "detail": "",
+  "start": 1622541600000,
+  "end": 1622549400000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

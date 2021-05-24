@@ -1,0 +1,23 @@
+{
+  "id": "w63cgr4",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×巨人～ファーム～（鎌スタ）",
+  "fullTitle": "[プロ野球]北海道日本ハム×巨人～ファーム～（鎌スタ）",
+  "detail": "GAORAプロ野球中継～ファーム～\r\n「北海道日本ハム vs 巨人」\r\n開催日：2021年6月1日／球場：鎌スタ",
+  "start": 1622538000000,
+  "end": 1622552400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp3pig",
+  "category": "documentary",
+  "title": "にっぽん百名山ミニ　５ｍｉｎ",
+  "fullTitle": "にっぽん百名山ミニ　５ｍｉｎ「夏　暑寒別岳」[字]",
+  "detail": "北海道の増毛山地そびえる暑寒別岳（１４９２ｍ）、山腹の雨竜沼湿原はニッコウキスゲが咲き誇り“北の尾瀬”とも呼ばれる。山頂部には増毛山地でしか見られない花も！",
+  "start": 1622558400000,
+  "end": 1622558700000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "夏　暑寒別岳",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

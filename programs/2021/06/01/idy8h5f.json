@@ -1,0 +1,25 @@
+{
+  "id": "idy8h5f",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#21[二]",
+  "detail": "#21「空をゆく盗賊たち！」",
+  "start": 1622548800000,
+  "end": 1622550600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "空をゆく盗賊たち！",
+  "episode": 21,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iducjps",
+  "category": "documentary",
+  "title": "ＢＢＣ　Ｅａｒｔｈ　グレート・リバー　生命の旅路",
+  "fullTitle": "ＢＢＣ　Ｅａｒｔｈ　グレート・リバー　生命の旅路　＃３　ミシシッピ[終][二]",
+  "detail": "アメリカを流れる巨大なミシシッピ川。広い大地をつなげるこの川は、南部の心であり魂とも言える存在だ。",
+  "start": 1622500500000,
+  "end": 1622503800000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "ミシシッピ",
+  "episode": 3,
+  "flags": [
+    "終",
+    "二"
+  ]
+}
