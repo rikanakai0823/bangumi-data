@@ -3,10 +3,15 @@
   "category": "information",
   "title": "Ｈｕｌｕ傑作シアター",
   "fullTitle": "Ｈｕｌｕ傑作シアター[デ]",
-  "detail": "",
+  "detail": "SKY-HIが主催の「THE FIRST -BMSG Audition 2021-」を特集▼「BRAVE　NEW　WORLD／ブレイブ・ニュー・ワールド」第1話\n◇出演者\n【ナビゲーター】谷口恵美\n◇番組内容\nAAAのSKY-HIが自腹1億円出資で開催するボーイズグループ発掘オーディション「THE FIRST -BMSG Audition 2021-」を特集！はたして選ばれるのは？そしてどんなボーイズグループが誕生するのか？▼「BRAVE　NEW　WORLD／ブレイブ・ニュー・ワールド」第1話を放送！完璧な新世界とされるニューロンドンは平和と安寧を実現させたユートピア。しかし旧世界から来たジョンが…",
   "start": 1622305800000,
   "end": 1622309400000,
   "seconds": 3600,
+  "description": "SKY-HIが主催の「THE FIRST -BMSG Audition 2021-」を特集▼「BRAVE　NEW　WORLD／ブレイブ・ニュー・ワールド」第1話",
+  "extra": {
+    "出演者": "【ナビゲーター】谷口恵美",
+    "番組内容": "AAAのSKY-HIが自腹1億円出資で開催するボーイズグループ発掘オーディション「THE FIRST -BMSG Audition 2021-」を特集！はたして選ばれるのは？そしてどんなボーイズグループが誕生するのか？▼「BRAVE　NEW　WORLD／ブレイブ・ニュー・ワールド」第1話を放送！完璧な新世界とされるニューロンドンは平和と安寧を実現させたユートピア。しかし旧世界から来たジョンが…"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -18,7 +23,7 @@
     "n": 16
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 1,
   "flags": [
     "デ"
   ]
