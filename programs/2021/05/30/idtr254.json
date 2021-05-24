@@ -1,0 +1,23 @@
+{
+  "id": "idtr254",
+  "category": "information",
+  "title": "つうはん本舗ＴＶショッピング",
+  "fullTitle": "つうはん本舗ＴＶショッピング",
+  "detail": "",
+  "start": 1622320200000,
+  "end": 1622321940000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
