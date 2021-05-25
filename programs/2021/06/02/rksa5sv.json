@@ -1,0 +1,23 @@
+{
+  "id": "rksa5sv",
+  "category": "information",
+  "title": "テレ朝チャンネルからのお知らせ",
+  "fullTitle": "テレ朝チャンネルからのお知らせ",
+  "detail": "第28回ＣＳテレ朝チャンネル放送番組審議会（2021年3月開催）",
+  "start": 1622573700000,
+  "end": 1622574000000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 28,
+  "flags": []
+}

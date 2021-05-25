@@ -1,0 +1,27 @@
+{
+  "id": "38224jvehq",
+  "category": "information",
+  "title": "テレ朝番組みどころナビ",
+  "fullTitle": "テレ朝番組みどころナビ",
+  "detail": "テレビ朝日のおすすめ番組をご紹介！\r\n▽6/2(水)よる9時～『特捜９』\r\n▽6/3(木)よる9時～『桜の塔』\n◇◇番組ＨＰ\n『特捜９』https://www.tv-asahi.co.jp/tokusou9_04/\r\n『桜の塔』https://www.tv-asahi.co.jp/sakuranotou/",
+  "start": 1622562300000,
+  "end": 1622562600000,
+  "seconds": 300,
+  "description": "テレビ朝日のおすすめ番組をご紹介！\r\n▽6/2(水)よる9時～『特捜９』\r\n▽6/3(木)よる9時～『桜の塔』",
+  "extra": {
+    "◇番組ＨＰ": "『特捜９』https://www.tv-asahi.co.jp/tokusou9_04/\r\n『桜の塔』https://www.tv-asahi.co.jp/sakuranotou/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

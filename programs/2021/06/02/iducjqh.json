@@ -1,0 +1,26 @@
+{
+  "id": "iducjqh",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]洋楽ＢＲＥＡＫ　＃４４４",
+  "detail": "",
+  "start": 1622602200000,
+  "end": 1622602800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 444,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

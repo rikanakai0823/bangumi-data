@@ -1,0 +1,26 @@
+{
+  "id": "idugutv",
+  "category": "cinema",
+  "title": "檸檬のころ",
+  "fullTitle": "[映]檸檬のころ[字]",
+  "detail": "優等生の女子とどこか浮いた存在の女子。対照的な２人が高校を卒業するまでに繰り広げる淡い初恋模様を描く。榮倉奈々と谷村美月ほか、フレッシュな若手共演の青春映画。",
+  "start": 1622599200000,
+  "end": 1622606400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

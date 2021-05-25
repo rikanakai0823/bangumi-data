@@ -1,0 +1,25 @@
+{
+  "id": "idp3pin",
+  "category": "documentary",
+  "title": "にっぽん百名山ミニ　３ｍｉｎ",
+  "fullTitle": "にっぽん百名山ミニ　３ｍｉｎ「夏　トムラウシ山」[字]",
+  "detail": "北海道の大雪山系にそびえるトムラウシ山（２１４１ｍ）、花と岩の殿堂を旅する！氷河期の生き残りのナキウサギ、満開の広大なお花畑、雪解け水の紺碧の沼など見所が満載！",
+  "start": 1622598060000,
+  "end": 1622598300000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "夏　トムラウシ山",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

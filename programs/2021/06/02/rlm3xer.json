@@ -1,0 +1,25 @@
+{
+  "id": "rlm3xer",
+  "category": "sports",
+  "title": "2021JリーグYBCルヴァンカップ",
+  "fullTitle": "[生]2021JリーグYBCルヴァンカップ",
+  "detail": "2021JリーグYBCルヴァンカップ",
+  "start": 1622627400000,
+  "end": 1622636400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
