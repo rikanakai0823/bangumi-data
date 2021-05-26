@@ -1,0 +1,25 @@
+{
+  "id": "w65vr54",
+  "category": "sports",
+  "title": "プロ野球 2021 DeNA×ソフトバンク(6/3)",
+  "fullTitle": "[生]プロ野球 2021 DeNA×ソフトバンク(6/3)",
+  "detail": "横浜DeNAベイスターズの2021年ホーム公式戦を全試合、試合開始から終了まで完全生中継！※雨天中止の場合、別番組をお送りします",
+  "start": 1622710500000,
+  "end": 1622728800000,
+  "seconds": 18300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 106
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

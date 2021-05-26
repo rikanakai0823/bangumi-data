@@ -1,0 +1,25 @@
+{
+  "id": "idy8h7k",
+  "category": "anime",
+  "title": "マイリトルポニー　～トモダチは魔法～",
+  "fullTitle": "マイリトルポニー　～トモダチは魔法～#80[二]",
+  "detail": "#80「トワイライトとの時間」",
+  "start": 1622683800000,
+  "end": 1622685600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "トワイライトとの時間",
+  "episode": 80,
+  "flags": [
+    "二"
+  ]
+}

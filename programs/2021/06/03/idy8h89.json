@@ -1,0 +1,25 @@
+{
+  "id": "idy8h89",
+  "category": "drama",
+  "title": "アンディ・マック",
+  "fullTitle": "アンディ・マック#40[二]",
+  "detail": "#40「おかえりなさい！」",
+  "start": 1622725200000,
+  "end": 1622727000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "おかえりなさい！",
+  "episode": 40,
+  "flags": [
+    "二"
+  ]
+}

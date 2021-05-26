@@ -1,0 +1,23 @@
+{
+  "id": "rlm3xfn",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.巨人",
+  "fullTitle": "HAWKS プロ野球中継2021 ソフトバンクvs.巨人",
+  "detail": "▽5月28日開催\r\n解説/実況：柴原洋/石黒新平\r\n開催日時：2021年5月28日 (金) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1622689200000,
+  "end": 1622707200000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iducjqw",
+  "category": "anime",
+  "title": "あしたのジョー",
+  "fullTitle": "あしたのジョー　＃５０　闘いの終り[字]",
+  "detail": "",
+  "start": 1622651400000,
+  "end": 1622653200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "闘いの終り",
+  "episode": 50,
+  "flags": [
+    "字"
+  ]
+}

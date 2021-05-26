@@ -1,0 +1,23 @@
+{
+  "id": "idp3red",
+  "category": "documentary",
+  "title": "恋人たちの幻想曲",
+  "fullTitle": "恋人たちの幻想曲「ヴォカリーズ」",
+  "detail": "【朗読】小雪",
+  "start": 1622654700000,
+  "end": 1622655000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "ヴォカリーズ",
+  "episode": null,
+  "flags": []
+}

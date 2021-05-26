@@ -1,0 +1,27 @@
+{
+  "id": "iduguu7",
+  "category": "cinema",
+  "title": "Ｌｉｆｅ　天国で君に逢えたら",
+  "fullTitle": "[映]Ｌｉｆｅ　天国で君に逢えたら[SS][字]",
+  "detail": "がんで突然世を去った、世界的プロウインドサーファーの飯島夏樹。最期までひたむきに生きた男と見守った家族の絆を、大沢たかお、伊東美咲の豪華共演で描いた実録感動作。",
+  "start": 1622692800000,
+  "end": 1622700000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

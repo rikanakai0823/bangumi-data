@@ -1,0 +1,26 @@
+{
+  "id": "iduepe1",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]邦楽ＢＲＥＡＫ　＃６８０",
+  "detail": "",
+  "start": 1622705400000,
+  "end": 1622706000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 680,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

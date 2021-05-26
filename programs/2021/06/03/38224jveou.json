@@ -1,0 +1,27 @@
+{
+  "id": "38224jveou",
+  "category": "information",
+  "title": "テレ朝番組みどころナビ",
+  "fullTitle": "テレ朝番組みどころナビ",
+  "detail": "テレビ朝日のおすすめ番組をご紹介！\r\n▽6/3(木)よる9時～『桜の塔』\r\n▽6/4(金)よる8時～『有吉クイズ』\n◇◇番組ＨＰ\n『桜の塔』https://www.tv-asahi.co.jp/sakuranotou/\r\n『有吉クイズ』https://www.tv-asahi.co.jp/ariyoshiquiz/",
+  "start": 1622648700000,
+  "end": 1622649000000,
+  "seconds": 300,
+  "description": "テレビ朝日のおすすめ番組をご紹介！\r\n▽6/3(木)よる9時～『桜の塔』\r\n▽6/4(金)よる8時～『有吉クイズ』",
+  "extra": {
+    "◇番組ＨＰ": "『桜の塔』https://www.tv-asahi.co.jp/sakuranotou/\r\n『有吉クイズ』https://www.tv-asahi.co.jp/ariyoshiquiz/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

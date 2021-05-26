@@ -1,0 +1,26 @@
+{
+  "id": "iducjra",
+  "category": "cinema",
+  "title": "ゴリラ［吹替補完版］（吹替版）",
+  "fullTitle": "[映]ゴリラ［吹替補完版］（吹替版）[字]",
+  "detail": "Ａ・シュワルツェネッガーが１９８０年代に主演したハードアクション。元ＦＢＩ捜査官が、かつての上司の頼みで悪のファミリーに潜入。上司の息子を死なせた内通者を追う。",
+  "start": 1622700000000,
+  "end": 1622707200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

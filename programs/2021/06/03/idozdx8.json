@@ -1,0 +1,26 @@
+{
+  "id": "idozdx8",
+  "category": "sports",
+  "title": "プロ野球２０２１「中日」対",
+  "fullTitle": "プロ野球２０２１「中日」対「ロッテ」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】田中賢介，【アナウンサー】渡辺憲司　～バンテリンドームから中継～",
+  "start": 1622710800000,
+  "end": 1622723400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ロッテ",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

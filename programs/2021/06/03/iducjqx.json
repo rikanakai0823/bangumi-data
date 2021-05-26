@@ -1,0 +1,25 @@
+{
+  "id": "iducjqx",
+  "category": "anime",
+  "title": "あしたのジョー",
+  "fullTitle": "あしたのジョー　＃５１　燃えつきた命[字]",
+  "detail": "",
+  "start": 1622653200000,
+  "end": 1622655000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "燃えつきた命",
+  "episode": 51,
+  "flags": [
+    "字"
+  ]
+}
