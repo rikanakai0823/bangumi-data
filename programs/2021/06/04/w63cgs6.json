@@ -1,0 +1,23 @@
+{
+  "id": "w63cgs6",
+  "category": "sports",
+  "title": "[プロ野球]阪神×オリックス（阪神甲子園球場）",
+  "fullTitle": "[プロ野球]阪神×オリックス（阪神甲子園球場）",
+  "detail": "GAORAプロ野球中継\r\n「阪神 vs オリックス」\r\n解説:野口寿浩\r\n実況:中井雅之\r\nリポーター桐山隆\r\n開催：2021年6月3日／阪神甲子園球場",
+  "start": 1622748600000,
+  "end": 1622763000000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

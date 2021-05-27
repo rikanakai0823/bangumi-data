@@ -1,0 +1,25 @@
+{
+  "id": "idx1qkc",
+  "category": "anime",
+  "title": "MIX ,2",
+  "fullTitle": "[字]MIX #1,2",
+  "detail": "#1「明青のエース」\r\n#2「おれが兄貴でおまえが弟」\r\n親の再婚によって、血は繋がらないが誕生日が同じ、双子(？)の兄弟…",
+  "start": 1622772000000,
+  "end": 1622775600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "明青のエース",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

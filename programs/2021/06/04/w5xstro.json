@@ -1,0 +1,23 @@
+{
+  "id": "w5xstro",
+  "category": "information",
+  "title": "リエコーヒー",
+  "fullTitle": "リエコーヒー",
+  "detail": "良質な豆を厳選し、飲みやすく口当たりよく仕上げられたコーヒー。モーニングタイムやリラックスタイムに深い風味をご賞味ください。",
+  "start": 1622799000000,
+  "end": 1622800800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

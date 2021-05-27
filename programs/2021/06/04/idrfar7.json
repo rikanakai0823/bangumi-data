@@ -1,0 +1,23 @@
+{
+  "id": "idrfar7",
+  "category": "music",
+  "title": "ヒーリングデイズ",
+  "fullTitle": "ヒーリングデイズ",
+  "detail": "",
+  "start": 1622790000000,
+  "end": 1622793600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

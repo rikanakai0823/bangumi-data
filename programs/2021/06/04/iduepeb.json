@@ -1,0 +1,26 @@
+{
+  "id": "iduepeb",
+  "category": "sports",
+  "title": "ＵＥＦＡ　Ｕ－２１　準決勝",
+  "fullTitle": "[初]ＵＥＦＡ　Ｕ－２１　準決勝[二]",
+  "detail": "若きスター候補たちの登竜門として知られる、ユース世代の欧州最強国を決める大会を全試合放送。参加１６チームの中から、どの選手がブレークするのか注目だ。",
+  "start": 1622778600000,
+  "end": 1622787600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

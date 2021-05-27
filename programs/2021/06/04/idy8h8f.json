@@ -1,0 +1,25 @@
+{
+  "id": "idy8h8f",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#81[二]",
+  "detail": "#81「インターネットに夢中」",
+  "start": 1622736000000,
+  "end": 1622737800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "インターネットに夢中",
+  "episode": 81,
+  "flags": [
+    "二"
+  ]
+}

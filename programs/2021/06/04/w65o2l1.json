@@ -1,0 +1,26 @@
+{
+  "id": "w65o2l1",
+  "category": "drama",
+  "title": "深夜食堂 ４",
+  "fullTitle": "[HV][字]深夜食堂 ４#40[終]",
+  "detail": "2016年に世界190カ国へ同時配信された小林薫主演「深夜食堂」のドラマシリーズ第4弾。",
+  "start": 1622732400000,
+  "end": 1622734200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 102
+  },
+  "subTitle": "深夜食堂",
+  "episode": 40,
+  "flags": [
+    "字",
+    "終"
+  ]
+}

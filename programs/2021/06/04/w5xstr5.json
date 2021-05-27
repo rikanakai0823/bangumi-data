@@ -1,0 +1,23 @@
+{
+  "id": "w5xstr5",
+  "category": "information",
+  "title": "デジタル時計機能付きLEDスタンドライト",
+  "fullTitle": "デジタル時計機能付きLEDスタンドライト",
+  "detail": "読書やお勉強などのお供に。便利な機能が付いた、LEDのスタンドライトが登場します。",
+  "start": 1622736000000,
+  "end": 1622737800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

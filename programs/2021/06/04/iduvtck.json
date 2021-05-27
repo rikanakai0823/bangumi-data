@@ -1,0 +1,26 @@
+{
+  "id": "iduvtck",
+  "category": "cinema",
+  "title": "パパは見習いサンタ",
+  "fullTitle": "[映][SS]パパは見習いサンタ",
+  "detail": "突然サンタクロース候補に任命されたクリスマス嫌いの男と、彼をサンタにしようと奮闘するエルフたちを描いたドタバタコメディ。",
+  "start": 1622750400000,
+  "end": 1622756700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

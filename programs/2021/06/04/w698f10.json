@@ -1,0 +1,23 @@
+{
+  "id": "w698f10",
+  "category": "news",
+  "title": "BBCニュース キャティ＆クリスチャン",
+  "fullTitle": "[英]BBCニュース キャティ＆クリスチャン",
+  "detail": "キャティ・ケイがワシントンから、クリスチャン・フレイザーがロンドンから、世界を形づくる出来事をリポートする。",
+  "start": 1622750400000,
+  "end": 1622752200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

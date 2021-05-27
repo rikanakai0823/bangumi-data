@@ -1,0 +1,26 @@
+{
+  "id": "rktcscn",
+  "category": "cinema",
+  "title": "Ｋ－シアター",
+  "fullTitle": "Ｋ－シアター「リトル・フォレスト 春夏秋冬」[字][初]",
+  "detail": "KBS World初放送！キム・テリ、リュ・ジュンヨル、チン・ギジュ主演。日本の同名漫画を韓国で映画化！人生に迷えるすべての人へ贈るヒーリングムービー！2018年",
+  "start": 1622817600000,
+  "end": 1622825700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "リトル・フォレスト 春夏秋冬",
+  "episode": null,
+  "flags": [
+    "字",
+    "初"
+  ]
+}

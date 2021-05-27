@@ -1,0 +1,26 @@
+{
+  "id": "iduguug",
+  "category": "cinema",
+  "title": "クィーン（字幕版）",
+  "fullTitle": "[映]クィーン（字幕版）[SS]",
+  "detail": "ダイアナ元皇太子妃の悲劇的な死に直面した時、英国王室はどう対応したか。エリザベス女王に扮したＨ・ミレンが第７９回アカデミー賞などで主演女優賞を総なめにした秀作。",
+  "start": 1622757600000,
+  "end": 1622763900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 79,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
