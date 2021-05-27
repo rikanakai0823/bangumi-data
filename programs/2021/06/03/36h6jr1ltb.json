@@ -2,7 +2,7 @@
   "id": "36h6jr1ltb",
   "category": "news",
   "title": "お天気マップ",
-  "fullTitle": "お天気マップ[Ｓ]",
+  "fullTitle": "お天気マップ[字][Ｓ]",
   "detail": "",
   "start": 1622661000000,
   "end": 1622661300000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
