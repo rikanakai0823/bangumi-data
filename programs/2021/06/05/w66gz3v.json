@@ -1,0 +1,25 @@
+{
+  "id": "w66gz3v",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE　東京ヤクルト×埼玉西武",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE　東京ヤクルト×埼玉西武",
+  "detail": "交流戦「東京ヤクルト　ｖｓ　埼玉西武」\r\n主音声：＜解説＞立浪和義　＜実況＞立本信吾　副音声：＜解説＞清水隆行　＜実況＞木下貴道　【生中継】※変更の場合あり",
+  "start": 1622868600000,
+  "end": 1622887200000,
+  "seconds": 18600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "東京ヤクルト　ｖｓ　埼玉西武",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

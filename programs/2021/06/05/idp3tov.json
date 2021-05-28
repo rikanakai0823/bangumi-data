@@ -1,0 +1,26 @@
+{
+  "id": "idp3tov",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「図書館」[字][再]",
+  "detail": "今、図書館が熱い！歴史的な図書館から、「知の闘技場」と称されるコロッセウム状の図書館、世界的建築家が手がけた図書館まで、全国各地の個性豊かな図書館が大集合！！",
+  "start": 1622876220000,
+  "end": 1622877960000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "図書館",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

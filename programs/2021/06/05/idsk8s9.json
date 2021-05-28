@@ -1,0 +1,23 @@
+{
+  "id": "idsk8s9",
+  "category": "sports",
+  "title": "すまいーだカップ　シニアゴルフトーナメント",
+  "fullTitle": "すまいーだカップ　シニアゴルフトーナメント",
+  "detail": "",
+  "start": 1622876400000,
+  "end": 1622881440000,
+  "seconds": 5040,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

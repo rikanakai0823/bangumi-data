@@ -1,0 +1,27 @@
+{
+  "id": "iducjs5",
+  "category": "cinema",
+  "title": "ブロークン・アロー（吹替版）",
+  "fullTitle": "[映]ブロークン・アロー（吹替版）[SS][字]",
+  "detail": "盗まれた核弾頭をめぐって激しい争奪戦が展開するノンストップ・アクション巨編。香港映画界出身のＪ・ウー監督によるハリウッド進出第２弾作品。主演はＪ・トラヴォルタ。",
+  "start": 1622829600000,
+  "end": 1622836800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv09dg",
+  "category": "cinema",
+  "title": "ミッドサマー",
+  "fullTitle": "[映]ミッドサマー[吹]",
+  "detail": "フローレンス・ピュー主演、アリ・アスター監督の異色スリラー。祭りに参加した女性が想像を絶する悪夢に遭遇する。［Ｒ１５＋］",
+  "start": 1622894400000,
+  "end": 1622904300000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

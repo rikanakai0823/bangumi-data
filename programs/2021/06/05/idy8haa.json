@@ -1,0 +1,26 @@
+{
+  "id": "idy8haa",
+  "category": "anime",
+  "title": "ダックテイルズ ★日本初放送エピソード！",
+  "fullTitle": "[初]ダックテイルズ #67[二]★日本初放送エピソード！",
+  "detail": "#67「初めての冒険！」",
+  "start": 1622880000000,
+  "end": 1622881800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "初めての冒険！",
+  "episode": 67,
+  "flags": [
+    "初",
+    "二"
+  ]
+}
