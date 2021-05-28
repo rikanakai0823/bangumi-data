@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksdd2",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース「菅首相記者会見」[字]",
+  "detail": "▽東京など９都道府県　緊急事態宣言を延長へ　▽再びの延長…政府は今後どう取り組むのか　▽ワクチンは・五輪は",
+  "start": 1622199420000,
+  "end": 1622202120000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "菅首相記者会見",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
