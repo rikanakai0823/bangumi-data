@@ -1,0 +1,26 @@
+{
+  "id": "rlm3xgy",
+  "category": "sports",
+  "title": "鷹酒場 ～交流戦篇～",
+  "fullTitle": "[無][生]鷹酒場 ～交流戦篇～ #3",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n豪華ゲストがホークスの交流戦ビジター３連戦を試合直後に振り返りつつ、思い出話や裏話にも花を咲かせる緩くて濃い６０分！",
+  "start": 1622970000000,
+  "end": 1622973600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

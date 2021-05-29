@@ -1,0 +1,25 @@
+{
+  "id": "w68gp5a",
+  "category": "documentary",
+  "title": "インフォマーシャル",
+  "fullTitle": "[無]インフォマーシャル(日)",
+  "detail": "通販番組をお届けする30分",
+  "start": 1622928600000,
+  "end": 1622930400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 132
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

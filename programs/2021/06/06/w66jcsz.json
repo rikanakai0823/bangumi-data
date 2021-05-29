@@ -1,0 +1,25 @@
+{
+  "id": "w66jcsz",
+  "category": "information",
+  "title": "番組PR",
+  "fullTitle": "[無料]番組PR【6月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1622934600000,
+  "end": 1622935200000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 113
+  },
+  "subTitle": "6月",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

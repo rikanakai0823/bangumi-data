@@ -1,0 +1,25 @@
+{
+  "id": "idxy0js",
+  "category": "hobby",
+  "title": "HITラッシュ Summer",
+  "fullTitle": "[無]HITラッシュ Summer",
+  "detail": "釣りビジョンでお送りした様々な釣りのヒットシーンだけを一挙放送。",
+  "start": 1622926800000,
+  "end": 1622930400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

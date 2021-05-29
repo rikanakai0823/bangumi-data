@@ -1,0 +1,28 @@
+{
+  "id": "36h6jr1lz7",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
+  "detail": "「大宮競輪」\n◇番組内容\n▽大宮競輪：スポーツニッポン新聞社杯・前検日\n◇出演者\n小川麻希",
+  "start": 1622986200000,
+  "end": 1622988000000,
+  "seconds": 1800,
+  "description": "「大宮競輪」",
+  "extra": {
+    "番組内容": "▽大宮競輪：スポーツニッポン新聞社杯・前検日",
+    "出演者": "小川麻希"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "大宮競輪",
+  "episode": null,
+  "flags": []
+}

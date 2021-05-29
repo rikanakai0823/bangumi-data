@@ -1,0 +1,25 @@
+{
+  "id": "iduepet",
+  "category": "music",
+  "title": "ザ・ヒストリー・オブ・シカゴ",
+  "fullTitle": "[初]ザ・ヒストリー・オブ・シカゴ",
+  "detail": "「長い夜」「素直になれなくて」などで知られるブラス・ロック・バンド、シカゴ。半世紀にわたりトップに君臨するバンドの光と影を描くドキュメンタリー。",
+  "start": 1622950200000,
+  "end": 1622957400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

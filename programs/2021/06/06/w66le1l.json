@@ -1,0 +1,25 @@
+{
+  "id": "w66le1l",
+  "category": "information",
+  "title": "番組PR",
+  "fullTitle": "[無料]番組PR【6月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1622962200000,
+  "end": 1622962800000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 114
+  },
+  "subTitle": "6月",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

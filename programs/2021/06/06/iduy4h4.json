@@ -1,0 +1,25 @@
+{
+  "id": "iduy4h4",
+  "category": "cinema",
+  "title": "ファーゴ",
+  "fullTitle": "[映]ファーゴ",
+  "detail": "偽装誘拐が、雪深い田舎町を血に染めていく。コーエン兄弟がアカデミー脚本賞を受賞したサスペンス。［Ｒ１５＋］",
+  "start": 1622907600000,
+  "end": 1622914200000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

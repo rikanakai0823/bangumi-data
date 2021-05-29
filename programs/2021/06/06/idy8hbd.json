@@ -1,0 +1,26 @@
+{
+  "id": "idy8hbd",
+  "category": "anime",
+  "title": "ロスト・イン・オズ",
+  "fullTitle": "[無]ロスト・イン・オズ#1[二]",
+  "detail": "#1「ドロシー　進む」",
+  "start": 1622964600000,
+  "end": 1622966400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ドロシー　進む",
+  "episode": 1,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

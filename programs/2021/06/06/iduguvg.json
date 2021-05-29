@@ -1,0 +1,27 @@
+{
+  "id": "iduguvg",
+  "category": "cinema",
+  "title": "名探偵コナン　ゼロの執行人",
+  "fullTitle": "[映]名探偵コナン　ゼロの執行人[SS][字]",
+  "detail": "３つの顔を持つ男・安室透は敵か味方か？　サミット会場を狙った大規模爆破事件を発端に、コナンと公安警察が衝突！　大ヒットを記録した「名探偵コナン」劇場版第２２作。",
+  "start": 1622973600000,
+  "end": 1622980800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "名探偵コナン",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idy8hay",
+  "category": "hobby",
+  "title": "ロケッティア",
+  "fullTitle": "[無]ロケッティア#6[二]",
+  "detail": "#6「どうぶつが　いっぱい／ぶたの　ちょきんばこ」",
+  "start": 1622935800000,
+  "end": 1622937600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "どうぶつが　いっぱい／ぶたの　ちょきんばこ",
+  "episode": 6,
+  "flags": [
+    "無",
+    "二"
+  ]
+}
