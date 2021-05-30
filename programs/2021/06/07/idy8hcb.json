@@ -1,0 +1,25 @@
+{
+  "id": "idy8hcb",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#79[二]",
+  "detail": "#79「宇宙の彼方へ」",
+  "start": 1623042000000,
+  "end": 1623043800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "宇宙の彼方へ",
+  "episode": 79,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w67cazy",
+  "category": "music",
+  "title": "邦洋ヒッツ",
+  "fullTitle": "邦洋ヒッツ",
+  "detail": "最新ヒット曲を中心に、新着ビデオや注目の楽曲を邦洋問わずオンエア。",
+  "start": 1623040200000,
+  "end": 1623043800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "スペシャプラス",
+    "id": "f0dd",
+    "sid": 321,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 122
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

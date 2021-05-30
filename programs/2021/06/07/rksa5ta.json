@@ -1,0 +1,25 @@
+{
+  "id": "rksa5ta",
+  "category": "anime",
+  "title": "怪物くん",
+  "fullTitle": "怪物くん #94[終]",
+  "detail": "#94「さようなら怪物くん」\r\n全94話／1980年4月～1982年9月放映\r\n原作：藤子不二雄Ａ",
+  "start": 1623006000000,
+  "end": 1623007800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "さようなら怪物くん",
+  "episode": 94,
+  "flags": [
+    "終"
+  ]
+}

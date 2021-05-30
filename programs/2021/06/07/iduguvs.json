@@ -1,0 +1,27 @@
+{
+  "id": "iduguvs",
+  "category": "cinema",
+  "title": "青くて痛くて脆い",
+  "fullTitle": "[映]青くて痛くて脆い[SS][字]",
+  "detail": "住野よるの同名ベストセラー小説を、吉沢亮と杉咲花の主演で映画化。大学で友人と秘密結社サークルを結成した青年が、変わり果てたサークルへ復讐を企てるのだが……。",
+  "start": 1623052800000,
+  "end": 1623060000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
