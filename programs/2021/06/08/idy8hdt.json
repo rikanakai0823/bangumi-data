@@ -1,0 +1,25 @@
+{
+  "id": "idy8hdt",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#39[二]",
+  "detail": "#39「普通のお泊まり会がしたい！」",
+  "start": 1623139200000,
+  "end": 1623141000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "普通のお泊まり会がしたい！",
+  "episode": 39,
+  "flags": [
+    "二"
+  ]
+}

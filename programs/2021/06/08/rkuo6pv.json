@@ -1,0 +1,25 @@
+{
+  "id": "rkuo6pv",
+  "category": "hobby",
+  "title": "ペッパピッグ#69,#70[字/日英]",
+  "fullTitle": "ペッパピッグ#69,#70[二][字/日英]",
+  "detail": "#69「うんどうかい」　#70「めのけんさ」",
+  "start": 1623135600000,
+  "end": 1623136500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 131
+  },
+  "subTitle": "うんどうかい",
+  "episode": 69,
+  "flags": [
+    "二"
+  ]
+}

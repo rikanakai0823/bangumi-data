@@ -1,0 +1,25 @@
+{
+  "id": "idozggl",
+  "category": "news",
+  "title": "ワールドニュース　アメリカ",
+  "fullTitle": "ワールドニュース　アメリカ[二]",
+  "detail": "▽アメリカ・ＰＢＳニュースアワー，　アメリカ・ＡＢＣ「ナイトライン」　▽世界の気象",
+  "start": 1623135600000,
+  "end": 1623138600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ナイトライン",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

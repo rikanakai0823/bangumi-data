@@ -1,0 +1,25 @@
+{
+  "id": "idy8hdn",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#80[二]",
+  "detail": "#80「敵か味方か？　ヒトカゲアン」",
+  "start": 1623128400000,
+  "end": 1623130200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "敵か味方か？　ヒトカゲアン",
+  "episode": 80,
+  "flags": [
+    "二"
+  ]
+}

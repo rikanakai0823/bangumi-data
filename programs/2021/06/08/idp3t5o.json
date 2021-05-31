@@ -1,0 +1,23 @@
+{
+  "id": "idp3t5o",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「初夏　三方五湖」",
+  "detail": "",
+  "start": 1623086700000,
+  "end": 1623088500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "初夏　三方五湖",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w66o9hp",
+  "category": "drama",
+  "title": "メンタリスト4",
+  "fullTitle": "[字]メンタリスト4(帯)#10",
+  "detail": "#10「赤のフーガ」\r\nFugue in Red\r\n消防士ポール・サターフィールドが殺害された。",
+  "start": 1623088800000,
+  "end": 1623092400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "赤のフーガ",
+  "episode": 10,
+  "flags": [
+    "字"
+  ]
+}

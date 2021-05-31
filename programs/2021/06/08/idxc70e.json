@@ -1,0 +1,23 @@
+{
+  "id": "idxc70e",
+  "category": "sports",
+  "title": "サムライTVアーカイブス",
+  "fullTitle": "サムライTVアーカイブス #34",
+  "detail": "プロレス格闘技専門チャンネル「FIGHTING TV サムライ」の中から、毎週厳選した番組をお届け。",
+  "start": 1623151800000,
+  "end": 1623155400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "FIGHTING TV サムライ",
+  "episode": 34,
+  "flags": []
+}
