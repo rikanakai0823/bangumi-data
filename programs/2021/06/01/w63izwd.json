@@ -1,9 +1,9 @@
 {
   "id": "w63izwd",
   "category": "sports",
-  "title": "2021MotoGP 第6戦イタリアGP予選 編集版",
-  "fullTitle": "2021MotoGP 第6戦イタリアGP予選 編集版",
-  "detail": "2021年5月29日開催　～ムジェロ\r\n解説：原田哲也　青木拓磨　坂田和人\r\n実況：町田浩徳　伊藤大海　寺島淳司",
+  "title": "2021MotoGP 第5戦フランスGP予選",
+  "fullTitle": "2021MotoGP 第5戦フランスGP予選[再]",
+  "detail": "2021年5月15日開催　～ル・マン\r\n解説：中野真矢　長島哲太　坂田和人\r\n実況：安藤翔　平松修造　寺島淳司",
   "start": 1622511000000,
   "end": 1622523600000,
   "seconds": 12600,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }
