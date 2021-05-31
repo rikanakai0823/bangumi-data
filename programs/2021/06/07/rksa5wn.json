@@ -1,0 +1,25 @@
+{
+  "id": "rksa5wn",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2021 DOMINION 6.6 in OSAKA-JO HALL",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2021 DOMINION 6.6 in OSAKA-JO HALL",
+  "detail": "日程変更となった、天下分け目の大阪城ホール決戦！オカダvs鷹木がIWGP世界ヘビー級王座決定戦で激突！ 飯伏とコブが決着戦！ デスペラードvsYOHのIWGPジュニア戦も!",
+  "start": 1623056400000,
+  "end": 1623067200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
