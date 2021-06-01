@@ -1,0 +1,25 @@
+{
+  "id": "iduye04",
+  "category": "cinema",
+  "title": "レ・ミゼラブル［第１部］（１９３３）",
+  "fullTitle": "[映]レ・ミゼラブル［第１部］（１９３３）",
+  "detail": "ユーゴーの名作を映画化した三部作の第１部。ジャン・バルジャンと警察署長ジャベール、薄幸のファンテーヌを巡る宿命を描く。",
+  "start": 1623168000000,
+  "end": 1623175200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

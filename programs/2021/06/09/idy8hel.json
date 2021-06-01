@@ -1,0 +1,25 @@
+{
+  "id": "idy8hel",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#24[解]",
+  "detail": "#24「機関車ツムツム」",
+  "start": 1623191220000,
+  "end": 1623191400000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "機関車ツムツム",
+  "episode": 24,
+  "flags": [
+    "解"
+  ]
+}

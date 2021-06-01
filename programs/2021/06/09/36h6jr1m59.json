@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1m59",
+  "category": "drama",
+  "title": "ねこタクシー",
+  "fullTitle": "ねこタクシー[Ｓ][再]",
+  "detail": "第９話　きずな",
+  "start": 1623247200000,
+  "end": 1623249000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "きずな",
+  "episode": 9,
+  "flags": [
+    "再"
+  ]
+}

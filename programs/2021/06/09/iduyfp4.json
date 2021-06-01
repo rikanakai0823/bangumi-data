@@ -1,0 +1,26 @@
+{
+  "id": "iduyfp4",
+  "category": "cinema",
+  "title": "ミッドナイト・ラン",
+  "fullTitle": "[映][SS]ミッドナイト・ラン",
+  "detail": "ロバート・デ・ニーロ主演のアクションコメディ。一匹狼の賞金稼ぎと堅物会計士の大陸横断のおかしな逃避行を描く。",
+  "start": 1623186000000,
+  "end": 1623193800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

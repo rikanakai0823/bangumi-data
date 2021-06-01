@@ -1,0 +1,26 @@
+{
+  "id": "rktcsf5",
+  "category": "drama",
+  "title": "風の国",
+  "fullTitle": "風の国　#1　[字][初]",
+  "detail": "2008 年　全36話",
+  "start": 1623191700000,
+  "end": 1623195900000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "初"
+  ]
+}

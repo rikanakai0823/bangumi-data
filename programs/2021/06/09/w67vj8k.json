@@ -1,0 +1,25 @@
+{
+  "id": "w67vj8k",
+  "category": "anime",
+  "title": "ポケットモンスター ,6",
+  "fullTitle": "ポケットモンスター[字] #5,6",
+  "detail": "＃５「ニビジムのたたかい！」＃６「ピッピとつきのいし」",
+  "start": 1623236400000,
+  "end": 1623240000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ニビジムのたたかい！",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

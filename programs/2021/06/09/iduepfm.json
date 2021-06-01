@@ -1,0 +1,26 @@
+{
+  "id": "iduepfm",
+  "category": "theater",
+  "title": "サウンド・オブ・ミュージック・ライブ！（字幕版）",
+  "fullTitle": "[初]サウンド・オブ・ミュージック・ライブ！（字幕版）[SS]",
+  "detail": "日本人が最も愛するミュージカルの一つ「サウンド・オブ・ミュージック」が、“２１世紀版”として一夜限りの上映でよみがえる。",
+  "start": 1623213000000,
+  "end": 1623221400000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "サウンド・オブ・ミュージック",
+  "episode": null,
+  "flags": [
+    "初",
+    "SS"
+  ]
+}

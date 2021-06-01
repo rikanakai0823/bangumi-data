@@ -1,0 +1,23 @@
+{
+  "id": "idwsto8",
+  "category": "hobby",
+  "title": "データベース",
+  "fullTitle": "データベース　第10回",
+  "detail": "「データベース言語～データの定義と操作～」",
+  "start": 1623186000000,
+  "end": 1623188700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "データベース言語～データの定義と操作～",
+  "episode": 10,
+  "flags": []
+}

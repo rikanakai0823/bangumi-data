@@ -1,0 +1,25 @@
+{
+  "id": "rlm3xii",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.広島",
+  "fullTitle": "[生]HAWKS プロ野球中継2021 ソフトバンクvs.広島",
+  "detail": "▽6月9日開催\r\n解説/実況：浜名千広/石黒新平\r\n開催日時：2021年6月9日 (水) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1623228300000,
+  "end": 1623247200000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

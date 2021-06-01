@@ -1,0 +1,27 @@
+{
+  "id": "idv0lpv",
+  "category": "cinema",
+  "title": "ブラッドショット",
+  "fullTitle": "[映][SS][字]ブラッドショット[吹]",
+  "detail": "ヴィン・ディーゼルがアメコミヒーローを演じたＳＦアクション。最新テクノロジーで死の淵から蘇った男が復讐のために戦う。",
+  "start": 1623226500000,
+  "end": 1623234600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "36l9gkuebv",
+  "category": "music",
+  "title": "カラオケ大賞　第１９０１回藤井香愛",
+  "fullTitle": "カラオケ大賞　第１９０１回【ゲスト】藤井香愛[再]",
+  "detail": "【ゲスト】藤井香愛\n◇出演者\n【審査員長】伊戸のりお\r\n【司会】吉岡美穂",
+  "start": 1623193200000,
+  "end": 1623196500000,
+  "seconds": 3300,
+  "description": "【ゲスト】藤井香愛",
+  "extra": {
+    "出演者": "【審査員長】伊戸のりお\r\n【司会】吉岡美穂\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

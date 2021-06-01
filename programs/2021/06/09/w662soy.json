@@ -1,0 +1,23 @@
+{
+  "id": "w662soy",
+  "category": "music",
+  "title": "バズリズム LIVE 2020 DAY2",
+  "fullTitle": "バズリズム LIVE 2020 DAY2",
+  "detail": "山崎まさよし/スキマスイッチ/さかいゆう/FAITH/Novelbright",
+  "start": 1623240000000,
+  "end": 1623249000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
