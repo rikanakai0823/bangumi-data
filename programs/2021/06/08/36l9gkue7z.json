@@ -3,10 +3,14 @@
   "category": "information",
   "title": "生活情報",
   "fullTitle": "生活情報",
-  "detail": " ",
+  "detail": "◇番組内容\nこだわりッ！いいねショッピング\r\n【電話】0800-888-2628",
   "start": 1623115500000,
   "end": 1623117300000,
   "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "番組内容": "こだわりッ！いいねショッピング\r\n【電話】0800-888-2628"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
