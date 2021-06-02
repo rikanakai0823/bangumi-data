@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Serotonin\"girl in red\r\n\"INVISIBLE\"DURAN DURAN\r\n\"deja vu\"オリヴィア・ロドリゴ\r\nオリヴィア・ロドリゴ　インタビュー\n◇番組内容２\n\"ドライバーズ・ライセンス\"オリヴィア・ロドリゴ\r\n\"good 4 u\"オリヴィア・ロドリゴ\r\n\"We Are The People  (UEFA EURO 2020 Song)\"\r\nMARTIN GARRIX feat.BONO & THE EDGE",
   "start": 1623078000000,
   "end": 1623079800000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Serotonin\"girl in red\r\n\"INVISIBLE\"DURAN DURAN\r\n\"deja vu\"オリヴィア・ロドリゴ\r\nオリヴィア・ロドリゴ　インタビュー",
+    "番組内容２": "\"ドライバーズ・ライセンス\"オリヴィア・ロドリゴ\r\n\"good 4 u\"オリヴィア・ロドリゴ\r\n\"We Are The People  (UEFA EURO 2020 Song)\"\r\nMARTIN GARRIX feat.BONO & THE EDGE"
   },
   "channel": {
     "type": "GR",

@@ -1,0 +1,26 @@
+{
+  "id": "idozlpo",
+  "category": "documentary",
+  "title": "街角ピアノ",
+  "fullTitle": "街角ピアノ「横浜」[字][再]",
+  "detail": "横浜の地下街に置かれた人気のピアノ。練習が大好きな５歳の女の子。中島みゆきの糸をコーラスする中学生４人組。妻との思い出の曲を弾く元教師。ピアノに託した思いとは？",
+  "start": 1623142800000,
+  "end": 1623145500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "横浜",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
