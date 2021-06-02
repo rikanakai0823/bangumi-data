@@ -1,0 +1,23 @@
+{
+  "id": "w69az08",
+  "category": "news",
+  "title": "ハラ・ゴラーニ・トゥナイト",
+  "fullTitle": "ハラ・ゴラーニ・トゥナイト",
+  "detail": "CNNインターナショナルを代表するアンカー、ハラ・ゴラーニが送る最新国際ニュース。世界の動きはこの番組でチェック！",
+  "start": 1623261600000,
+  "end": 1623265200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

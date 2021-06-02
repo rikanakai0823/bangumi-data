@@ -1,0 +1,25 @@
+{
+  "id": "iduyiuw",
+  "category": "cinema",
+  "title": "バットマン（１９６６）",
+  "fullTitle": "[映]バットマン（１９６６）",
+  "detail": "人気テレビシリーズの劇場版。悪役のジョーカー、ペンギン、キャットウーマン、ナゾラーの４人が手を組み、バットマンに挑む。",
+  "start": 1623272400000,
+  "end": 1623279600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

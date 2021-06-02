@@ -1,0 +1,25 @@
+{
+  "id": "rktf01b",
+  "category": "variety",
+  "title": "MタメBANG！",
+  "fullTitle": "MタメBANG！#1　[解]",
+  "detail": "ゲスト：CNBLUE、LIGHTSUM\r\nMnetがお届けする韓流情報番組「MタメBANG！」がリニューアル！\r\n再：10日23:30～、16日10:30～、18日15:30～",
+  "start": 1623335400000,
+  "end": 1623337080000,
+  "seconds": 1680,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "解"
+  ]
+}

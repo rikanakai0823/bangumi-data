@@ -1,0 +1,25 @@
+{
+  "id": "idy8hgw",
+  "category": "drama",
+  "title": "アンディ・マック",
+  "fullTitle": "アンディ・マック#42[二]",
+  "detail": "#42「すれ違い」",
+  "start": 1623331800000,
+  "end": 1623333600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "すれ違い",
+  "episode": 42,
+  "flags": [
+    "二"
+  ]
+}

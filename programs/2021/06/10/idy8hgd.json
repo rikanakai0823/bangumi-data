@@ -1,0 +1,25 @@
+{
+  "id": "idy8hgd",
+  "category": "anime",
+  "title": "なんだかんだワンダー",
+  "fullTitle": "なんだかんだワンダー#23[二]",
+  "detail": "#23「特別な日／朝ごはん」",
+  "start": 1623297600000,
+  "end": 1623299400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "特別な日／朝ごはん",
+  "episode": 23,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idozlic",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「１９６８　激動の時代」[字][再]",
+  "detail": "世界中の抑圧される人々や学生が一斉に声を上げ変革を信じて闘った時代。そのうねりは革命を成功させ新しい文化を生み出した。１９６８年とその後の社会の潮流を描く大作。",
+  "start": 1623254160000,
+  "end": 1623260100000,
+  "seconds": 5940,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "１９６８　激動の時代",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

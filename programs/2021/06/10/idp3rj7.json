@@ -1,0 +1,23 @@
+{
+  "id": "idp3rj7",
+  "category": "etc",
+  "title": "ＢＳプレミアム　５：００まで放送休止",
+  "fullTitle": "ＢＳプレミアム　５：００まで放送休止",
+  "detail": "放送設備の整備のため午前３時００分～５時００分まで放送を休止します。ＥＰＧ（電子番組表）とデータ放送も一部の時間でご利用できません。",
+  "start": 1623261600000,
+  "end": 1623268800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

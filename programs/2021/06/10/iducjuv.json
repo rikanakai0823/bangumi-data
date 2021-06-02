@@ -1,0 +1,25 @@
+{
+  "id": "iducjuv",
+  "category": "anime",
+  "title": "あしたのジョー",
+  "fullTitle": "あしたのジョー　＃５５　さすらいのバラード[字]",
+  "detail": "",
+  "start": 1623258000000,
+  "end": 1623259800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "さすらいのバラード",
+  "episode": 55,
+  "flags": [
+    "字"
+  ]
+}

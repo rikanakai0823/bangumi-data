@@ -1,0 +1,26 @@
+{
+  "id": "iduepg1",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]洋楽ＢＲＥＡＫ　＃４４７",
+  "detail": "",
+  "start": 1623328800000,
+  "end": 1623329400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 447,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

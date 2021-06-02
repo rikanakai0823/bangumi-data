@@ -1,0 +1,26 @@
+{
+  "id": "idozhb7",
+  "category": "sports",
+  "title": "プロ野球２０２１「ソフトバンク」対",
+  "fullTitle": "プロ野球２０２１「ソフトバンク」対「広島」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】大野豊，【アナウンサー】早瀬雄一　～ＰａｙＰａｙドームから中継～",
+  "start": 1623315600000,
+  "end": 1623328200000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "広島",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

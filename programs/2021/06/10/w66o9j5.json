@@ -1,0 +1,23 @@
+{
+  "id": "w66o9j5",
+  "category": "etc",
+  "title": "メンテナンスのため放送休止",
+  "fullTitle": "メンテナンスのため放送休止",
+  "detail": "1:00-6:00は定期メンテナンスのため、放送を休止しております。",
+  "start": 1623254400000,
+  "end": 1623254700000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
