@@ -1,0 +1,26 @@
+{
+  "id": "iduwi64",
+  "category": "cinema",
+  "title": "ミッドサマー",
+  "fullTitle": "[映][SS]ミッドサマー【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "フローレンス・ピュー主演、アリ・アスター監督の異色スリラー。祭りに参加した女性が想像を絶する悪夢に遭遇する。［Ｒ１５＋］",
+  "start": 1623420000000,
+  "end": 1623429900000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

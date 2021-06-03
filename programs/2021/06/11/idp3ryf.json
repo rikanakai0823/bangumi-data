@@ -1,0 +1,26 @@
+{
+  "id": "idp3ryf",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「道頓堀界わい」[字][再]",
+  "detail": "大阪・道頓堀界わい。老舗割烹店の感染対策、コロナに悪戦苦闘の若き芸妓、街に活気を取り戻すジャズの響き、危機を乗り越えようとする街の物語。（２０２０年放送）",
+  "start": 1623366000000,
+  "end": 1623369600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "道頓堀界わい",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

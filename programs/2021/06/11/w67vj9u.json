@@ -1,0 +1,25 @@
+{
+  "id": "w67vj9u",
+  "category": "anime",
+  "title": "ポケットモンスター ,8",
+  "fullTitle": "ポケットモンスター[字] #7,8",
+  "detail": "＃７「ハナダシティのすいちゅうか」＃８「ポケモンリーグへのみち」",
+  "start": 1623340800000,
+  "end": 1623344400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ハナダシティのすいちゅうか",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

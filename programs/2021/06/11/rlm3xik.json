@@ -1,0 +1,25 @@
+{
+  "id": "rlm3xik",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.ヤクルト",
+  "fullTitle": "[生]HAWKS プロ野球中継2021 ソフトバンクvs.ヤクルト",
+  "detail": "▽6月11日開催\r\n解説/実況：斉藤和巳/加藤暁\r\n開催日時：2021年6月11日 (金) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1623401100000,
+  "end": 1623420000000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

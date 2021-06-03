@@ -1,0 +1,26 @@
+{
+  "id": "iduwhec",
+  "category": "cinema",
+  "title": "ハロウィン（２０１８）",
+  "fullTitle": "[映][SS]ハロウィン（２０１８）【ブラムハウス・プロダクションズ特集】",
+  "detail": "スラッシャーホラーの金字塔『ハロウィン』の続編。前作から４０年後、再び現れた殺人鬼ブギーマンとの対決を描く。［Ｒ１５＋］",
+  "start": 1623384000000,
+  "end": 1623390600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ブラムハウス・プロダクションズ特集",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

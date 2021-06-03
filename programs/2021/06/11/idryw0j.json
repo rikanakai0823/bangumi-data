@@ -1,0 +1,23 @@
+{
+  "id": "idryw0j",
+  "category": "information",
+  "title": "ステキライフ",
+  "fullTitle": "ステキライフ",
+  "detail": "テレビショッピング",
+  "start": 1623396300000,
+  "end": 1623398040000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

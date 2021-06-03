@@ -1,0 +1,25 @@
+{
+  "id": "idy8hh1",
+  "category": "drama",
+  "title": "スイート・ライフ",
+  "fullTitle": "スイート・ライフ#87[二]",
+  "detail": "#87「思い出のティプトン・ホテル」",
+  "start": 1623340800000,
+  "end": 1623342600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "思い出のティプトン・ホテル",
+  "episode": 87,
+  "flags": [
+    "二"
+  ]
+}

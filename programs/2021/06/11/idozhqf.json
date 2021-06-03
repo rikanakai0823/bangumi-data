@@ -1,0 +1,26 @@
+{
+  "id": "idozhqf",
+  "category": "sports",
+  "title": "プロ野球２０２１「西武」対",
+  "fullTitle": "プロ野球２０２１「西武」対「中日」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　５：４５）　【解説】小早川毅彦，【アナウンサー】高瀬登志彦　～メットライフドームから中継～",
+  "start": 1623400800000,
+  "end": 1623413700000,
+  "seconds": 12900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "中日",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rktcsgx",
+  "category": "cinema",
+  "title": "ｋ-シアター",
+  "fullTitle": "ｋ-シアター「君の結婚式」[字][再]",
+  "detail": "KBS World初放送！キム・ヨングァン主演。高校3年の夏に出会った男女の10年にわたるラブストーリー！すれ違い続けた2人の、もどかしくて愛おしい初恋年代記！2018年",
+  "start": 1623422400000,
+  "end": 1623430500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "君の結婚式",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idvjq60",
+  "category": "news",
+  "title": "報道ライブ インサイドOUT",
+  "fullTitle": "報道ライブ インサイドOUT[Ｎ][デ]",
+  "detail": "毎月第二金曜日の『報道ライブ インサイドOUT』は、BS11解説委員のジャーナリスト・二木啓孝が、各界論客と共に注目ニュースを徹底解説！【ゲスト】●，●",
+  "start": 1623412740000,
+  "end": 1623416040000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "Ｎ",
+    "デ"
+  ]
+}
