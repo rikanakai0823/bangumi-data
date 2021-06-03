@@ -1,0 +1,23 @@
+{
+  "id": "idtr2qw",
+  "category": "information",
+  "title": "東京テレビランドＴＶショッピング",
+  "fullTitle": "東京テレビランドＴＶショッピング",
+  "detail": "",
+  "start": 1623220080000,
+  "end": 1623222000000,
+  "seconds": 1920,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
