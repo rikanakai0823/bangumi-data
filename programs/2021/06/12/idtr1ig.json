@@ -1,0 +1,26 @@
+{
+  "id": "idtr1ig",
+  "category": "cinema",
+  "title": "＜BSフジサタデープレミアム＞ 映画 『ザ・サークル』",
+  "fullTitle": "[映][二]＜BSフジサタデープレミアム＞ 映画 『ザ・サークル』",
+  "detail": "そのSNSは、世界を変えるはずだった――\r\n現代を生きるすべての人に問いかける、驚愕のサスペンス・エンタテインメント",
+  "start": 1623492000000,
+  "end": 1623498900000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "二"
+  ]
+}

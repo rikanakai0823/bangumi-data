@@ -1,0 +1,26 @@
+{
+  "id": "idp3so3",
+  "category": "documentary",
+  "title": "映像の世紀プレミアム",
+  "fullTitle": "映像の世紀プレミアム「運命の恋人たち」[字][再]",
+  "detail": "女優グレース・ケリーとモナコ大公のシンデレラストーリーの真実とは？　ナチス宣伝大臣ゲッベルスと妻マグダの異常な愛とは？　歴史の裏で繰り広げられたラブストーリー。",
+  "start": 1623488400000,
+  "end": 1623493800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "運命の恋人たち",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

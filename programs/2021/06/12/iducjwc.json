@@ -1,0 +1,26 @@
+{
+  "id": "iducjwc",
+  "category": "cinema",
+  "title": "日本統一１０",
+  "fullTitle": "[映]日本統一１０[字]",
+  "detail": "任侠ドラマのロングヒットシリーズ第１０作。着々と勢力を拡大していた侠和会だったが、一方で広島極道・玄誠会を中心に反侠和会同盟・西日本睦会が結成されることに。",
+  "start": 1623452700000,
+  "end": 1623457800000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

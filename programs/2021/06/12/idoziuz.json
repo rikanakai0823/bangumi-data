@@ -1,0 +1,25 @@
+{
+  "id": "idoziuz",
+  "category": "documentary",
+  "title": "街角ピアノ",
+  "fullTitle": "街角ピアノ「浜松」[字]",
+  "detail": "静岡県の新東名高速道路、浜松サービスエリアに置かれたピアノ。高速バスの運転手。ショパンに挑み続ける主婦。星野源「恋」を連弾する高校生。どんな思いで曲を弾くのか。",
+  "start": 1623499200000,
+  "end": 1623501900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "浜松",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

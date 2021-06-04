@@ -1,0 +1,27 @@
+{
+  "id": "iduguxf",
+  "category": "cinema",
+  "title": "ジョーカー・ゲーム",
+  "fullTitle": "[映]ジョーカー・ゲーム[SS][字]",
+  "detail": "亀梨和也を主演に迎え、シンガポールやインドネシアでロケを敢行した、日本映画としては巨大スケールのスパイアドベンチャー。深田恭子、伊勢谷友介ら豪華キャストが共演。",
+  "start": 1623472200000,
+  "end": 1623479400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

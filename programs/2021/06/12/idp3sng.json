@@ -1,0 +1,27 @@
+{
+  "id": "idp3sng",
+  "category": "documentary",
+  "title": "やまと尼寺　くいしんぼ日記",
+  "fullTitle": "やまと尼寺　くいしんぼ日記[解][字][再]",
+  "detail": "奈良・音羽山観音寺に暮らす愉快な尼さんたち３人。春の山菜、秋のギンナン…季節ごとの極上精進料理が次々登場！美しい四季と共にお届けする、くいしんぼスペシャル！",
+  "start": 1623455100000,
+  "end": 1623458700000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字",
+    "再"
+  ]
+}

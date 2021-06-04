@@ -1,0 +1,25 @@
+{
+  "id": "w662sql",
+  "category": "drama",
+  "title": "タイドラマ",
+  "fullTitle": "【字】タイドラマ「2Moons2」 #9",
+  "detail": "大学のミスター&ミスコンを舞台に繰り広げる3つのロマンチックラブストーリー。それぞれの想いが胸を熱くする、胸キュン要素がぎっしりのタイBLドラマ。",
+  "start": 1623430200000,
+  "end": 1623433500000,
+  "seconds": 3300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 109
+  },
+  "subTitle": "2Moons2",
+  "episode": 9,
+  "flags": [
+    "字"
+  ]
+}

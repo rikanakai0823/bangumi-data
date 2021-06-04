@@ -1,0 +1,26 @@
+{
+  "id": "iduyqii",
+  "category": "cinema",
+  "title": "２８日後...",
+  "fullTitle": "[映][SS]２８日後...",
+  "detail": "新種のウイルスによって荒廃した世界を舞台に、感染を免れた人々が命がけのサバイバルを繰り広げる。［ＰＧ－１２］",
+  "start": 1623508200000,
+  "end": 1623515400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

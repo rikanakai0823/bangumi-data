@@ -1,0 +1,26 @@
+{
+  "id": "idvjq6q",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【東京】５Ｒ～８Ｒ\r\n【中京】５Ｒ～８Ｒ，９Ｒ「春日井特別」",
+  "start": 1623466800000,
+  "end": 1623475800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "東京",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv0vcc",
+  "category": "cinema",
+  "title": "バトルランナー",
+  "fullTitle": "[映]バトルランナー[吹]",
+  "detail": "アーノルド・シュワルツェネッガー主演のＳＦサバイバルアクション。殺人ゲームで生き残りを賭ける男の死闘を描く。",
+  "start": 1623492000000,
+  "end": 1623499200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

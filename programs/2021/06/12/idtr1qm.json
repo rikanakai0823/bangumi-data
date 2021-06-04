@@ -1,0 +1,25 @@
+{
+  "id": "idtr1qm",
+  "category": "sports",
+  "title": "宮里藍サントリーレディスオープンゴルフ２０２１　第３日",
+  "fullTitle": "[生]宮里藍サントリーレディスオープンゴルフ２０２１　第３日",
+  "detail": "六甲の地で繰り広げられる4日間の激闘！BSフジでは熱戦の模様を連日お届け！",
+  "start": 1623466800000,
+  "end": 1623477300000,
+  "seconds": 10500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

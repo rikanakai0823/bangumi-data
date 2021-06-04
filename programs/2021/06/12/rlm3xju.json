@@ -1,0 +1,23 @@
+{
+  "id": "rlm3xju",
+  "category": "sports",
+  "title": "ガンガン!ホークス CHECK!GO!",
+  "fullTitle": "ガンガン!ホークス CHECK!GO! #124",
+  "detail": "ウエスタン・リーグ公式戦のホームゲームダイジェストや選手紹介、キャンプ情報など、若鷹にスポットをあてた福岡ソフトバンクホークス応援番組。",
+  "start": 1623492000000,
+  "end": 1623493800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 124,
+  "flags": []
+}

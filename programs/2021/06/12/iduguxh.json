@@ -1,0 +1,27 @@
+{
+  "id": "iduguxh",
+  "category": "cinema",
+  "title": "美しい星",
+  "fullTitle": "[映]美しい星[SS][字]",
+  "detail": "三島由紀夫による異色のＳＦ小説を、「桐島、部活やめるってよ」の吉田大八監督が映画化。それぞれ自分が宇宙人だと“覚醒”した一家の顛末をシニカルに描く。",
+  "start": 1623487500000,
+  "end": 1623495600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "桐島、部活やめるってよ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

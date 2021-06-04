@@ -1,0 +1,23 @@
+{
+  "id": "idsk98a",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「西武　ｖｓ　中日」",
+  "detail": "メットライフドーム（埼玉県所沢市）から生中継。午後２時試合開始。\r\n【解説】佐伯貴弘【実況】清原正博",
+  "start": 1623474000000,
+  "end": 1623484440000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "西武　ｖｓ　中日",
+  "episode": null,
+  "flags": []
+}
