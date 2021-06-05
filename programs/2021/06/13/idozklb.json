@@ -1,0 +1,23 @@
+{
+  "id": "idozklb",
+  "category": "sports",
+  "title": "全日本大学野球選手権　決勝",
+  "fullTitle": "第７０回全日本大学野球選手権　決勝",
+  "detail": "",
+  "start": 1623556800000,
+  "end": 1623567000000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 70,
+  "flags": []
+}

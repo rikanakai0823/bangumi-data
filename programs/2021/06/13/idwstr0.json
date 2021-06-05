@@ -1,0 +1,23 @@
+{
+  "id": "idwstr0",
+  "category": "hobby",
+  "title": "ソーシャルシティ",
+  "fullTitle": "ソーシャルシティ　第11回",
+  "detail": "「快適空間とヒューマンファクタ」",
+  "start": 1623545100000,
+  "end": 1623547800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "快適空間とヒューマンファクタ",
+  "episode": 11,
+  "flags": []
+}

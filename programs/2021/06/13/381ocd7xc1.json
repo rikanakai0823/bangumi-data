@@ -1,0 +1,28 @@
+{
+  "id": "381ocd7xc1",
+  "category": "drama",
+  "title": "ネメシス",
+  "fullTitle": "ネメシス#10[終][解][字][デ]",
+  "detail": "",
+  "start": 1623591000000,
+  "end": 1623594300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": [
+    "終",
+    "解",
+    "字",
+    "デ"
+  ]
+}

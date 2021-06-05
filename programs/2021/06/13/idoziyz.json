@@ -1,0 +1,23 @@
+{
+  "id": "idoziyz",
+  "category": "sports",
+  "title": "Ｊリーグタイム",
+  "fullTitle": "Ｊリーグタイム「第１６週（Ａ代表戦など）」",
+  "detail": "【ゲスト】中村憲剛，【解説】福西崇史，【コメンテーター】平畠啓史，【アナウンサー】松野靖彦，【司会】中川絵美里",
+  "start": 1623592800000,
+  "end": 1623595800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "第１６週（Ａ代表戦など）",
+  "episode": null,
+  "flags": []
+}

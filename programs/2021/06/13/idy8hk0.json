@@ -1,0 +1,25 @@
+{
+  "id": "idy8hk0",
+  "category": "anime",
+  "title": "マーベル　スパイダーマン",
+  "fullTitle": "マーベル　スパイダーマン#15[二]",
+  "detail": "#15「ヴェノム」",
+  "start": 1623562200000,
+  "end": 1623563640000,
+  "seconds": 1440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ヴェノム",
+  "episode": 15,
+  "flags": [
+    "二"
+  ]
+}

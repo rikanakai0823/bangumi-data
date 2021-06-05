@@ -1,0 +1,25 @@
+{
+  "id": "idozmpz",
+  "category": "documentary",
+  "title": "ＮＨＫスペシャル",
+  "fullTitle": "ＮＨＫスペシャル「ワイルド東京」[字]",
+  "detail": "地球最大のメガシティ、東京。ここは人間だけの世界ではない。線路を獣道とするタヌキ。オオタカとカラスの激しいバトル。ビルの屋上の巨大コロニーなど斬新な映像で描く。",
+  "start": 1623546000000,
+  "end": 1623549000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ワイルド東京",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idvjq8c",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "ＧⅢ「エプソムカップ」（東京）とＧⅢ「函館スプリントステークス」（札幌）との振り返りを中心に、当日の中央競馬レース結果をお伝えします。",
+  "start": 1623592800000,
+  "end": 1623594600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

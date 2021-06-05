@@ -1,0 +1,23 @@
+{
+  "id": "w662srr",
+  "category": "music",
+  "title": "TM NETWORK 30th FINAL",
+  "fullTitle": "TM NETWORK 30th FINAL",
+  "detail": "TM NETWORK 30周年 アニバーサリーイヤー堂々完結",
+  "start": 1623579900000,
+  "end": 1623589500000,
+  "seconds": 9600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

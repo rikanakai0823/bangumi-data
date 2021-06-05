@@ -1,0 +1,23 @@
+{
+  "id": "idwstra",
+  "category": "hobby",
+  "title": "Webのしくみと応用",
+  "fullTitle": "Webのしくみと応用　第11回",
+  "detail": "「大規模なWebシステム」",
+  "start": 1623572100000,
+  "end": 1623574800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "大規模なWebシステム",
+  "episode": 11,
+  "flags": []
+}
