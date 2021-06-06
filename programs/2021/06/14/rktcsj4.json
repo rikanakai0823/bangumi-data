@@ -1,0 +1,25 @@
+{
+  "id": "rktcsj4",
+  "category": "drama",
+  "title": "トキメキ☆成均館スキャンダル",
+  "fullTitle": "トキメキ☆成均館スキャンダル　#3　[字]",
+  "detail": "2010年 全20話",
+  "start": 1623680400000,
+  "end": 1623684600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

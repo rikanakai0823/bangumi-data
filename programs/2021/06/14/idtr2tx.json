@@ -1,0 +1,23 @@
+{
+  "id": "idtr2tx",
+  "category": "information",
+  "title": "健康の杜テレビショッピング",
+  "fullTitle": "健康の杜テレビショッピング",
+  "detail": "",
+  "start": 1623600000000,
+  "end": 1623601800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

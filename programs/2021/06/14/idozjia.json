@@ -1,0 +1,25 @@
+{
+  "id": "idozjia",
+  "category": "sports",
+  "title": "聖火リレーデイリーハイライト",
+  "fullTitle": "聖火リレーデイリーハイライト「福岡県」[字]",
+  "detail": "見逃した方、必見！！東京２０２０オリンピックの聖火リレー。１２１日間かけて４７都道府県を巡る。各地の模様をハイライトでお伝えする。５月１１日から始まった福岡県。",
+  "start": 1623678000000,
+  "end": 1623678600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "福岡県",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

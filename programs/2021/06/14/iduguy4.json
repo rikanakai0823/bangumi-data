@@ -1,0 +1,27 @@
+{
+  "id": "iduguy4",
+  "category": "cinema",
+  "title": "ぐらんぶる[PG12指定]",
+  "fullTitle": "[映]ぐらんぶる[PG12指定][SS][字]",
+  "detail": "同名人気漫画を竜星涼と犬飼貴丈のＷ主演で実写映画化した青春コメディ。変わり者ぞろいのダイビングサークルに入るはめになった２人の大学新入生のドタバタを綴る。",
+  "start": 1623650400000,
+  "end": 1623657600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

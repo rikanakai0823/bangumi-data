@@ -1,0 +1,25 @@
+{
+  "id": "3826py3ow9",
+  "category": "anime",
+  "title": "忍者コレクション",
+  "fullTitle": "忍者コレクション[再]",
+  "detail": "第９話「危篤」",
+  "start": 1623605700000,
+  "end": 1623606000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "危篤",
+  "episode": 9,
+  "flags": [
+    "再"
+  ]
+}

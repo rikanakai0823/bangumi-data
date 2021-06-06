@@ -1,0 +1,26 @@
+{
+  "id": "iducjxe",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]邦楽ＢＲＥＡＫ　＃６８１",
+  "detail": "",
+  "start": 1623639000000,
+  "end": 1623639600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 681,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

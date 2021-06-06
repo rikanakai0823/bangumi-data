@@ -1,0 +1,26 @@
+{
+  "id": "iduguy6",
+  "category": "cinema",
+  "title": "スポーン（字幕版）",
+  "fullTitle": "[映]スポーン（字幕版）[SS]",
+  "detail": "アメリカンコミックを原作に、ユニークなスーパーヒーロー、スポーンの活躍を描いた、近未来ＳＦアドベンチャー。公開当時は、まずスポーンのフィギュア（人形）が人気に！",
+  "start": 1623665700000,
+  "end": 1623672000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

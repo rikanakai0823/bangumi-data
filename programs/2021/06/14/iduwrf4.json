@@ -1,0 +1,26 @@
+{
+  "id": "iduwrf4",
+  "category": "cinema",
+  "title": "フォードｖｓフェラーリ",
+  "fullTitle": "[映][SS]フォードｖｓフェラーリ",
+  "detail": "マット・デイモン、クリスチャン・ベイル主演。ル・マン２４時間レースで王者フェラーリに挑んだ男たちの実話を基に描くドラマ。",
+  "start": 1623668400000,
+  "end": 1623677700000,
+  "seconds": 9300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
