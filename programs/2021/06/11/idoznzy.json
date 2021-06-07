@@ -1,0 +1,25 @@
+{
+  "id": "idoznzy",
+  "category": "sports",
+  "title": "ＭＬＢ２０２１「アストロズ」対",
+  "fullTitle": "ＭＬＢ２０２１「アストロズ」対「レッドソックス」[二]",
+  "detail": "【解説】今中慎二，【アナウンサー】工藤三郎　～フェンウェイパークから中継～",
+  "start": 1623369600000,
+  "end": 1623379800000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "レッドソックス",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
