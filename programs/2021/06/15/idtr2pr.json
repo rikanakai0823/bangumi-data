@@ -1,0 +1,25 @@
+{
+  "id": "idtr2pr",
+  "category": "information",
+  "title": "ジュエリーライフ１１",
+  "fullTitle": "[生]ジュエリーライフ１１",
+  "detail": "世界から良質なダイヤモンドとカラーストーンを集めて、おしゃれに使えるジュエリーをお求め安い価格でご紹介いたします。",
+  "start": 1623722400000,
+  "end": 1623726000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

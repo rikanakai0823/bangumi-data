@@ -1,0 +1,25 @@
+{
+  "id": "w67vjeq",
+  "category": "anime",
+  "title": "ポケットモンスター ,14",
+  "fullTitle": "ポケットモンスター[字] #13,14",
+  "detail": "＃１３「マサキのとうだい」＃１４「でんきたいけつ！クチバジム」",
+  "start": 1623754800000,
+  "end": 1623758400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "マサキのとうだい",
+  "episode": 13,
+  "flags": [
+    "字"
+  ]
+}

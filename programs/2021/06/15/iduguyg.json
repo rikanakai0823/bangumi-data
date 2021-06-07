@@ -1,0 +1,26 @@
+{
+  "id": "iduguyg",
+  "category": "cinema",
+  "title": "さよなら、僕のマンハッタン（字幕版）",
+  "fullTitle": "[映]さよなら、僕のマンハッタン（字幕版）[SS]",
+  "detail": "Ｃ・ターナー、Ｊ・ブリッジスら共演のヒューマンドラマ。親元を離れニューヨークで暮らす作家志望の青年が風変わりな隣人と出会い、人生の辛苦を知って成長する姿を描く。",
+  "start": 1623736800000,
+  "end": 1623742200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduwu9s",
+  "category": "cinema",
+  "title": "ザ・レイド",
+  "fullTitle": "[映][SS]ザ・レイド",
+  "detail": "高層ビルの中で特殊部隊ＶＳギャング団の熾烈なバトルが展開！インドネシア発のハード・アクション。［Ｒ１５＋］",
+  "start": 1623740400000,
+  "end": 1623747600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8hlx",
+  "category": "drama",
+  "title": "スイート・ライフ　オン・クルーズ",
+  "fullTitle": "スイート・ライフ　オン・クルーズ#2[二]",
+  "detail": "#2「オウムの消えたオウム島」",
+  "start": 1623686400000,
+  "end": 1623688200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "オウムの消えたオウム島",
+  "episode": 2,
+  "flags": [
+    "二"
+  ]
+}

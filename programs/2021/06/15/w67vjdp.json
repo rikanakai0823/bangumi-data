@@ -1,0 +1,25 @@
+{
+  "id": "w67vjdp",
+  "category": "anime",
+  "title": "ポケットモンスター ,12",
+  "fullTitle": "ポケットモンスター[字] #11,12",
+  "detail": "＃１１「はぐれポケモン　ヒトカゲ」＃１２「ゼニガメぐんだんとうじょう！」",
+  "start": 1623686400000,
+  "end": 1623690000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "はぐれポケモン　ヒトカゲ",
+  "episode": 11,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp3u68",
+  "category": "documentary",
+  "title": "奇跡の星",
+  "fullTitle": "奇跡の星「地球からの脱出　後編」[二][字]",
+  "detail": "俳優ウィル・スミスが地球の神秘に迫るドキュメンタリー番組。前編に引き続き、人類存続のため、人類が別の惑星に移住する時のことをシミュレーションする。",
+  "start": 1623766500000,
+  "end": 1623768000000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "地球からの脱出　後編",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

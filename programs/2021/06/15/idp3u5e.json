@@ -1,0 +1,25 @@
+{
+  "id": "idp3u5e",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「さらば日劇～青春の街角の半世紀～」[字]",
+  "detail": "日劇のひのき舞台に立った、きらめくスターたち。李香蘭、トニー谷、江利チエミ、雪村いずみ、ザ・タイガース…。日劇の貴重な映像でつづる大衆文化の半世紀。",
+  "start": 1623748200000,
+  "end": 1623751200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "さらば日劇～青春の街角の半世紀～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

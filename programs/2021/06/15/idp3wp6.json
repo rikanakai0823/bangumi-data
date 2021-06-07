@@ -1,0 +1,23 @@
+{
+  "id": "idp3wp6",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「函館　異国紀行」",
+  "detail": "",
+  "start": 1623691800000,
+  "end": 1623693600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "函館　異国紀行",
+  "episode": null,
+  "flags": []
+}

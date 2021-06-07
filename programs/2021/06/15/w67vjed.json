@@ -1,0 +1,26 @@
+{
+  "id": "w67vjed",
+  "category": "anime",
+  "title": "おじゃる丸 ,60",
+  "fullTitle": "おじゃる丸[字][終] #59,60",
+  "detail": "＃５９「ヘイアンプリン」＃６０「おじゃる丸　本日しゅうりょう（終）」",
+  "start": 1623729840000,
+  "end": 1623731400000,
+  "seconds": 1560,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ヘイアンプリン",
+  "episode": 59,
+  "flags": [
+    "字",
+    "終"
+  ]
+}
