@@ -3,10 +3,14 @@
   "category": "information",
   "title": "Ｈｕｌｕ傑作シアター",
   "fullTitle": "Ｈｕｌｕ傑作シアター[デ]",
-  "detail": "",
+  "detail": "特集はHulu音楽コンテンツの中から「MTV Unplugged: BiSH」とTikTokとのPJ第2弾▼「NCIS: LA ～極秘潜入捜査班～」第1話を放送\n◇番組内容\n特集は「音楽コンテンツ」\r\nHuluの音楽コンテンツの中から今回は「MTV Unplugged: BiSH」とSPインタビューを紹介！さらにHulu＆TikTok共同プロジェクト「Once　in a Blue Moon」第2弾も紹介！\r\n▼LAを舞台に数々の難事件に挑むNCIS（海軍犯罪捜査局）の活躍を描く「NCIS: LA ～極秘潜入捜査班～」第１話を放送！",
   "start": 1623515400000,
   "end": 1623519000000,
   "seconds": 3600,
+  "description": "特集はHulu音楽コンテンツの中から「MTV Unplugged: BiSH」とTikTokとのPJ第2弾▼「NCIS: LA ～極秘潜入捜査班～」第1話を放送",
+  "extra": {
+    "番組内容": "特集は「音楽コンテンツ」\r\nHuluの音楽コンテンツの中から今回は「MTV Unplugged: BiSH」とSPインタビューを紹介！さらにHulu＆TikTok共同プロジェクト「Once　in a Blue Moon」第2弾も紹介！\r\n▼LAを舞台に数々の難事件に挑むNCIS（海軍犯罪捜査局）の活躍を描く「NCIS: LA ～極秘潜入捜査班～」第１話を放送！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -18,7 +22,7 @@
     "n": 16
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 1,
   "flags": [
     "デ"
   ]
