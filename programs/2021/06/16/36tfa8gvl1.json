@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8gvl1",
+  "category": "drama",
+  "title": "連続ドラマ",
+  "fullTitle": "連続ドラマ「救出劇」",
+  "detail": "第４話",
+  "start": 1623850200000,
+  "end": 1623852000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "救出劇",
+  "episode": 4,
+  "flags": []
+}

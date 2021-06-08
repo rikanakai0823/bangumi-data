@@ -1,0 +1,25 @@
+{
+  "id": "w63j035",
+  "category": "information",
+  "title": "G+ショッピング",
+  "fullTitle": "[無料]G+ショッピング",
+  "detail": "各種インフォメーションをお届けしております",
+  "start": 1623848400000,
+  "end": 1623850200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

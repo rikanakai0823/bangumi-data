@@ -1,0 +1,25 @@
+{
+  "id": "idy8ho9",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#51[二]",
+  "detail": "#51「シニア冒険少年チャレンジ」",
+  "start": 1623830400000,
+  "end": 1623832200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "シニア冒険少年チャレンジ",
+  "episode": 51,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1mhk",
+  "category": "drama",
+  "title": "ねこタクシー",
+  "fullTitle": "ねこタクシー[Ｓ][再]",
+  "detail": "第１０話　せいろん",
+  "start": 1623852000000,
+  "end": 1623853800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "せいろん",
+  "episode": 10,
+  "flags": [
+    "再"
+  ]
+}

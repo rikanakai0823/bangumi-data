@@ -1,0 +1,25 @@
+{
+  "id": "rlm3xng",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "[生]第101回 天皇杯 2回戦 広島×おこしやす",
+  "detail": "天皇杯 JFA 第101回全日本サッカー選手権大会 2回戦\r\nサンフレッチェ広島×おこしやす京都AC",
+  "start": 1623833400000,
+  "end": 1623846000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "天皇杯 2回戦 広島×おこしやす",
+  "episode": 101,
+  "flags": [
+    "生"
+  ]
+}

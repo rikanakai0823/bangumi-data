@@ -1,0 +1,23 @@
+{
+  "id": "rlm66vj",
+  "category": "sports",
+  "title": "Challenge！ Consadole",
+  "fullTitle": "Challenge！ Consadole　#43",
+  "detail": "北海道コンサドーレ札幌のクラブ応援番組。フィールドを縦横無尽に駆け回るオールラウンドプレイヤー・荒野拓馬選手が登場！",
+  "start": 1623792600000,
+  "end": 1623793500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 142
+  },
+  "subTitle": "",
+  "episode": 43,
+  "flags": []
+}

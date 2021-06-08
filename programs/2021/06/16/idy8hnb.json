@@ -1,0 +1,25 @@
+{
+  "id": "idy8hnb",
+  "category": "drama",
+  "title": "スイート・ライフ　オン・クルーズ",
+  "fullTitle": "スイート・ライフ　オン・クルーズ#3[二]",
+  "detail": "#3「ヨーヨーでよれよれ」",
+  "start": 1623772800000,
+  "end": 1623774600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ヨーヨーでよれよれ",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

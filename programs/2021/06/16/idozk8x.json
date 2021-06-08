@@ -1,0 +1,25 @@
+{
+  "id": "idozk8x",
+  "category": "news",
+  "title": "ワールドニュース　アジア",
+  "fullTitle": "ワールドニュース　アジア[二]",
+  "detail": "▽韓国・ＫＢＳ，カタール・アルジャジーラ，中国・ＣＣＴＶ　▽アジアの気象",
+  "start": 1623821400000,
+  "end": 1623822600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

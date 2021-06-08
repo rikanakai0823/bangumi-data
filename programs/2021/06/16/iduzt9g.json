@@ -1,0 +1,26 @@
+{
+  "id": "iduzt9g",
+  "category": "cinema",
+  "title": "ブラック・クランズマン",
+  "fullTitle": "[映][SS]ブラック・クランズマン[吹]",
+  "detail": "スパイク・リー監督が放つ社会派犯罪ドラマ。驚きの実話を元に、２人の刑事が挑んだ“史上最も不可能”な潜入捜査の行方を描く。",
+  "start": 1623830400000,
+  "end": 1623839400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

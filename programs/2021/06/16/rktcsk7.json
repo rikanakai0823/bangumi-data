@@ -1,0 +1,25 @@
+{
+  "id": "rktcsk7",
+  "category": "drama",
+  "title": "ＴＶ小説　私の心は花の雨",
+  "fullTitle": "ＴＶ小説　私の心は花の雨　#32　[字]",
+  "detail": "2016年 全128話",
+  "start": 1623821100000,
+  "end": 1623824100000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 32,
+  "flags": [
+    "字"
+  ]
+}

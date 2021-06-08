@@ -1,0 +1,23 @@
+{
+  "id": "rlm3xnj",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第101回 天皇杯 2回戦 横浜FM×Honda",
+  "detail": "天皇杯 JFA 第101回全日本サッカー選手権大会 2回戦\r\n横浜F・マリノス×Honda FC",
+  "start": 1623852000000,
+  "end": 1623864600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "天皇杯 2回戦 横浜FM×Honda",
+  "episode": 101,
+  "flags": []
+}
