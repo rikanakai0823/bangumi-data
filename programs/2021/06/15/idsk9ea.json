@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・海の唄",
   "fullTitle": "夢の彼方に・海の唄",
-  "detail": "",
+  "detail": "◇制作\n翔テレビジョン",
   "start": 1623693600000,
   "end": 1623697200000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

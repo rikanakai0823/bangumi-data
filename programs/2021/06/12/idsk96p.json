@@ -3,10 +3,14 @@
   "category": "anime",
   "title": "ましろのおと",
   "fullTitle": "ましろのおと＃１１",
-  "detail": "第１１話　記憶",
+  "detail": "第１１話　記憶\n◇制作\n2021年",
   "start": 1623434400000,
   "end": 1623436200000,
   "seconds": 1800,
+  "description": "第１１話　記憶",
+  "extra": {
+    "制作": "2021年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
