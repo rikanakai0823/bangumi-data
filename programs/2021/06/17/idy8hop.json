@@ -1,0 +1,25 @@
+{
+  "id": "idy8hop",
+  "category": "drama",
+  "title": "スイート・ライフ　オン・クルーズ",
+  "fullTitle": "スイート・ライフ　オン・クルーズ#4[二]",
+  "detail": "#4「犬豚知恵比べ」",
+  "start": 1623859200000,
+  "end": 1623861000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "犬豚知恵比べ",
+  "episode": 4,
+  "flags": [
+    "二"
+  ]
+}

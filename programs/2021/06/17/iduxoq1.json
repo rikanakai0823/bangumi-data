@@ -1,0 +1,23 @@
+{
+  "id": "iduxoq1",
+  "category": "etc",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "放送設備点検のため放送を休止いたします。",
+  "start": 1623859500000,
+  "end": 1623876900000,
+  "seconds": 17400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w68gpe5",
+  "category": "documentary",
+  "title": "明日への扉",
+  "fullTitle": "[新]明日への扉(日)",
+  "detail": "日本の伝統文化を継承する若者たちを紹介するドキュメンタリー。",
+  "start": 1623925800000,
+  "end": 1623927600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 132
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

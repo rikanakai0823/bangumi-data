@@ -1,0 +1,23 @@
+{
+  "id": "w67g3k1",
+  "category": "music",
+  "title": "MTV SHUFFLE",
+  "fullTitle": "MTV SHUFFLE",
+  "detail": "「Apple Music」で、MTVのお勧め楽曲を毎週水曜日更新で幅広くお届けする「MTV SHUFFLE」。番組では、ダイジェスト版をオンエア！",
+  "start": 1623855600000,
+  "end": 1623857400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 124
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

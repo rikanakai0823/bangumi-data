@@ -1,0 +1,25 @@
+{
+  "id": "w693jp0",
+  "category": "news",
+  "title": "ナイトニュース",
+  "fullTitle": "ナイトニュース[字]",
+  "detail": "▽国内外の最新・注目ニュース、お天気情報　▽速報は“ブレイキングニュース”",
+  "start": 1623934800000,
+  "end": 1623938400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

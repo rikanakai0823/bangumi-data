@@ -1,0 +1,27 @@
+{
+  "id": "iduguz0",
+  "category": "cinema",
+  "title": "影裏",
+  "fullTitle": "[映]影裏[SS][字]",
+  "detail": "綾野剛と松田龍平がＷ主演したヒューマンミステリー。転勤先の盛岡で唯一心を許せる友人と出会った独身サラリーマンは、突然失踪した友人の別の顔と向き合っていく……。",
+  "start": 1623874500000,
+  "end": 1623883500000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

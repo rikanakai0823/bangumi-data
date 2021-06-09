@@ -1,0 +1,26 @@
+{
+  "id": "idozlpl",
+  "category": "documentary",
+  "title": "世界はＴｏｋｙｏをめざす",
+  "fullTitle": "世界はＴｏｋｙｏをめざす「祖国ニッポンに挑む」[字][再]",
+  "detail": "東京オリンピックを目指す世界各地の選手や指導者に密着するドキュメンタリー番組。大会開幕を前に、これまでに放送した素材に最新情報を加え、総集編を届ける。",
+  "start": 1623920400000,
+  "end": 1623927000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "祖国ニッポンに挑む",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

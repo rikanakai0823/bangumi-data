@@ -1,0 +1,25 @@
+{
+  "id": "idy8hor",
+  "category": "anime",
+  "title": "マーベル　アベンジャーズ：シークレット・ウォーズ",
+  "fullTitle": "マーベル　アベンジャーズ：シークレット・ウォーズ#11[二]",
+  "detail": "#11「ディメンションZ」",
+  "start": 1623862800000,
+  "end": 1623864600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ディメンションZ",
+  "episode": 11,
+  "flags": [
+    "二"
+  ]
+}

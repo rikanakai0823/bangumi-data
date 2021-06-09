@@ -1,0 +1,23 @@
+{
+  "id": "idwsttk",
+  "category": "hobby",
+  "title": "はじめての気象学",
+  "fullTitle": "はじめての気象学　第12回",
+  "detail": "「ヒートアイランド」",
+  "start": 1623896100000,
+  "end": 1623898800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "ヒートアイランド",
+  "episode": 12,
+  "flags": []
+}
