@@ -1,0 +1,26 @@
+{
+  "id": "idozpr3",
+  "category": "documentary",
+  "title": "地球タクシー",
+  "fullTitle": "地球タクシー「２０２０初夏の東京を走る」[字][再]",
+  "detail": "タクシーは不思議な場所だ。ドライバーとは一期一会、束の間のひと時を共にする。車窓からの風景と、何気ない会話が織りなす想像力のドライブ。２０２０初夏の東京の風は？",
+  "start": 1623686760000,
+  "end": 1623689760000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "２０２０初夏の東京を走る",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
