@@ -1,0 +1,25 @@
+{
+  "id": "idvjqds",
+  "category": "drama",
+  "title": "ガンダムビルドリアル",
+  "fullTitle": "[新]ガンダムビルドリアル　第１話「再会」",
+  "detail": "主人公のヒロは、小学生時代に仲間とチーム『ブライト』を結成。アルマ（武器担当）の颯太を筆頭に注目されていたが、大会前日にガンプラ（ナナハチ）を紛失…。",
+  "start": 1624010400000,
+  "end": 1624012200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "再会",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

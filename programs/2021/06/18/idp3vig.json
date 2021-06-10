@@ -1,0 +1,25 @@
+{
+  "id": "idp3vig",
+  "category": "music",
+  "title": "ザ少年倶楽部プレミアム",
+  "fullTitle": "ザ少年倶楽部プレミアム[字]",
+  "detail": "",
+  "start": 1624006800000,
+  "end": 1624010400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

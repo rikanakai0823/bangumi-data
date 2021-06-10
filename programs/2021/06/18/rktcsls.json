@@ -1,0 +1,26 @@
+{
+  "id": "rktcsls",
+  "category": "cinema",
+  "title": "Ｋ－シアター",
+  "fullTitle": "Ｋ－シアター「操作された都市」[字][再]",
+  "detail": "KBS World初放送！チ・チャンウク主演。全てが“操られた都市”でいま、生き残りを掛けた戦いが幕を開ける！世界31ヶ国で公開が決定したアクション超大作！2017年",
+  "start": 1624027200000,
+  "end": 1624035300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "操作された都市",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

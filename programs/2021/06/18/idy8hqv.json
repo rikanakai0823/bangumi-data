@@ -1,0 +1,25 @@
+{
+  "id": "idy8hqv",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#88[二]",
+  "detail": "#88「次元を越えたタートルズ」",
+  "start": 1623992400000,
+  "end": 1623994200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "次元を越えたタートルズ",
+  "episode": 88,
+  "flags": [
+    "二"
+  ]
+}

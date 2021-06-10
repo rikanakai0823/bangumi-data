@@ -1,0 +1,25 @@
+{
+  "id": "w69az6x",
+  "category": "news",
+  "title": "クオモ・プライムタイム",
+  "fullTitle": "[二]クオモ・プライムタイム",
+  "detail": "日本語同時通訳付。\r\nCNNの人気アンカー、クリス・クオモがアンカーを務めるニュースワイド。旬のゲストに1対1で鋭く切り込む、ロング・インタビューが売り物。",
+  "start": 1623978000000,
+  "end": 1623981600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

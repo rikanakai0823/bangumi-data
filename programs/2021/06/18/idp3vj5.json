@@ -1,0 +1,25 @@
+{
+  "id": "idp3vj5",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「都電荒川線」[字]",
+  "detail": "今年、開業１１０周年を迎える「都電荒川線」。東京の北部を走る路面電車は、地域の足として長年親しまれてきた。変わりゆく下町で、どっこい生きる沿線の人々の物語。",
+  "start": 1624017600000,
+  "end": 1624021200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "都電荒川線",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
