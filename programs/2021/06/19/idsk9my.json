@@ -1,0 +1,25 @@
+{
+  "id": "idsk9my",
+  "category": "anime",
+  "title": "ましろのおと",
+  "fullTitle": "ましろのおと[終]",
+  "detail": "第１２話　ましろのおと",
+  "start": 1624039200000,
+  "end": 1624041000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "ましろのおと",
+  "episode": 12,
+  "flags": [
+    "終"
+  ]
+}

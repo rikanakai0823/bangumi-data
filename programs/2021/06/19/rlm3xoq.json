@@ -1,0 +1,23 @@
+{
+  "id": "rlm3xoq",
+  "category": "sports",
+  "title": "RIZINで逢いましょう",
+  "fullTitle": "RIZINで逢いましょう #4",
+  "detail": "RIZIN FIGHTING WORLD GRAND-PRIX 2016 \r\n無差別級トーナメント 開幕戦（RIZIN.2）\r\n（2016年9月25日開催）",
+  "start": 1624028400000,
+  "end": 1624035600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}

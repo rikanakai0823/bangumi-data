@@ -1,0 +1,25 @@
+{
+  "id": "idy8hrh",
+  "category": "drama",
+  "title": "シェキラ！",
+  "fullTitle": "シェキラ！#5[二]",
+  "detail": "#5「いつも一緒」",
+  "start": 1624041000000,
+  "end": 1624042800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "いつも一緒",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

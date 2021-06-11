@@ -1,0 +1,25 @@
+{
+  "id": "w63j04a",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～甲子園～",
+  "fullTitle": "[生]DRAMATIC BASEBALL2021「阪神×巨人」～甲子園～",
+  "detail": "～生中継\r\n*早終了、及び荒天中止の時、番組変更あり\r\n*試合終了まで放送\r\n解説：岡田彰布\r\n実況：小澤昭博",
+  "start": 1624077900000,
+  "end": 1624093200000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "阪神×巨人",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w662sya",
+  "category": "drama",
+  "title": "タイドラマ 一挙放送",
+  "fullTitle": "【字】タイドラマ「TharnType2-7 Years of Love -」 一挙放送 #2",
+  "detail": "話題のタイBLドラマ。大学の寮のルームメイトとして出会ったターンとタイプ。あれから7年、社会人となり様々な問題に直面する2人は恋人から生涯の伴侶になれるのか?",
+  "start": 1624105800000,
+  "end": 1624109400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 109
+  },
+  "subTitle": "TharnType2-7 Years of Love -",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

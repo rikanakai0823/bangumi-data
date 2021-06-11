@@ -1,0 +1,23 @@
+{
+  "id": "rkdr6f5",
+  "category": "information",
+  "title": "開店！東急ハンズ　ショップチャンネル店",
+  "fullTitle": "開店！東急ハンズ　ショップチャンネル店",
+  "detail": "ホームインテリア／開店！東急ハンズショップチャンネル店／東急ハンズのイチオシがマンスリーで登場。ユニークな商品に目がくぎづけ！",
+  "start": 1624075200000,
+  "end": 1624078800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

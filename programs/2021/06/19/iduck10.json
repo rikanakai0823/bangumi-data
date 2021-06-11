@@ -1,0 +1,26 @@
+{
+  "id": "iduck10",
+  "category": "cinema",
+  "title": "少林サッカー（吹替版）",
+  "fullTitle": "[映]少林サッカー（吹替版）[字]",
+  "detail": "香港映画界の“喜劇王”、Ｃ・シンチーがサッカー、カンフーアクション、笑いの３要素を鮮やかに合体。公開当時、香港映画史上最高の大ヒットを記録した痛快無比の爆笑編。",
+  "start": 1624092000000,
+  "end": 1624098900000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

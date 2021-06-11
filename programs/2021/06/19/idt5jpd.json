@@ -1,0 +1,25 @@
+{
+  "id": "idt5jpd",
+  "category": "anime",
+  "title": "妖怪ウォッチ♪",
+  "fullTitle": "妖怪ウォッチ♪「あまのじゃくなケンカ　ほか」[字]",
+  "detail": "ケンカをしてしまうケータとクマ。ケータは妖怪あまのじゃくが取り憑いていて意地でも謝ろうとはしない。そんな状況を見かねたジバニャン、ウィスパーだったが…。",
+  "start": 1624053600000,
+  "end": 1624055400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "あまのじゃくなケンカ　ほか",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

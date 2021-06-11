@@ -1,0 +1,23 @@
+{
+  "id": "idsk9ol",
+  "category": "etc",
+  "title": "ＢＳ－ＴＢＳ　ショッピングＬＩＶＥ！",
+  "fullTitle": "ＢＳ－ＴＢＳ　ショッピングＬＩＶＥ！",
+  "detail": "話題の商品を”生放送”でお得に紹介するショッピング番組。\r\n",
+  "start": 1624075200000,
+  "end": 1624082400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "w66o9q5",
+  "category": "drama",
+  "title": "メンタリスト5",
+  "fullTitle": "[字]メンタリスト5(帯)#1[新]",
+  "detail": "#1「赤いガラス玉」\r\nThe Crimson Ticket\r\nFBIとCBIは手打ちし、両者の協力潜入捜査によってウェインライトは殉職したが、ローレライを逮捕したと発表。",
+  "start": 1624035600000,
+  "end": 1624039200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "赤いガラス玉",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}
