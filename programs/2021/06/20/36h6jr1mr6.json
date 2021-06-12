@@ -1,0 +1,28 @@
+{
+  "id": "36h6jr1mr6",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
+  "detail": "「ボートレース戸田」\n◇番組内容\n▽ボートレース戸田：カンダフルカップ・前検日\n◇出演者\n小川麻希",
+  "start": 1624195800000,
+  "end": 1624197600000,
+  "seconds": 1800,
+  "description": "「ボートレース戸田」",
+  "extra": {
+    "番組内容": "▽ボートレース戸田：カンダフルカップ・前検日",
+    "出演者": "小川麻希"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "ボートレース戸田",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduck1d",
+  "category": "cinema",
+  "title": "レオン　完全版（吹替版）[PG12指定]",
+  "fullTitle": "[映]レオン　完全版（吹替版）[PG12指定][SS][字]",
+  "detail": "殺し屋と少女という異色コンビの交流と復讐の戦いを、Ｌ・ベッソン監督が描いた人気アクションロマンが、約２２分の未公開場面を加えた約２時間１３分の完全版として復活。",
+  "start": 1624176900000,
+  "end": 1624185000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

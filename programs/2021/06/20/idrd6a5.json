@@ -1,0 +1,23 @@
+{
+  "id": "idrd6a5",
+  "category": "information",
+  "title": "ダイレクトテレショップ",
+  "fullTitle": "ダイレクトテレショップ",
+  "detail": "",
+  "start": 1624154400000,
+  "end": 1624158000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

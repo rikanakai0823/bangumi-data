@@ -1,0 +1,23 @@
+{
+  "id": "idp3wqm",
+  "category": "documentary",
+  "title": "日本の名峰",
+  "fullTitle": "日本の名峰「北アルプス」",
+  "detail": "",
+  "start": 1624125600000,
+  "end": 1624129200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "北アルプス",
+  "episode": null,
+  "flags": []
+}

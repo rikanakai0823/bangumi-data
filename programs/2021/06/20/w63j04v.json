@@ -1,0 +1,25 @@
+{
+  "id": "w63j04v",
+  "category": "sports",
+  "title": "2021MotoGP 第8戦ドイツGP",
+  "fullTitle": "[生]2021MotoGP 第8戦ドイツGP",
+  "detail": "～生中継　～ザクセンリンク\r\n解説：宮城光　上田昇　坂田和人\r\n実況：藤田大介　平松修造　町田浩徳",
+  "start": 1624178700000,
+  "end": 1624197600000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

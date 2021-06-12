@@ -1,0 +1,26 @@
+{
+  "id": "iduck18",
+  "category": "cinema",
+  "title": "日本統一１２",
+  "fullTitle": "[映]日本統一１２[字]",
+  "detail": "本宮泰風、山口祥行主演の大ヒット任侠ドラマ第１２作。四国を制した侠和会は、悲願の日本統一へ向け、地元組織の内紛で足元のぐらつく東北への進出を図るのだが……。",
+  "start": 1624137300000,
+  "end": 1624141800000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
