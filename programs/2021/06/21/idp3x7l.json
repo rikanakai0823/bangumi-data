@@ -1,0 +1,26 @@
+{
+  "id": "idp3x7l",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「沖縄の海」[字][再]",
+  "detail": "沖縄の島々を囲む美しい海。いにしえより、人々に恵みをもたらし、「外」の世界とつないできた。海とともに生きる人々の暮らしをみつめる。（２０１５年放送）",
+  "start": 1624259280000,
+  "end": 1624262820000,
+  "seconds": 3540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "沖縄の海",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

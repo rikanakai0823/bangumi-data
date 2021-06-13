@@ -1,0 +1,26 @@
+{
+  "id": "w67vjkt",
+  "category": "anime",
+  "title": "弱虫ペダル ,2",
+  "fullTitle": "[新]弱虫ペダル[字] #1,2",
+  "detail": "＃１「アキバにタダで行けるから」＃２「部員をふやすため」",
+  "start": 1624266000000,
+  "end": 1624269600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "アキバにタダで行けるから",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

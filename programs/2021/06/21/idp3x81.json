@@ -1,0 +1,25 @@
+{
+  "id": "idp3x81",
+  "category": "documentary",
+  "title": "にっぽん百名山　選",
+  "fullTitle": "にっぽん百名山　選「雲取山」[字]",
+  "detail": "東京都の最高峰、雲取山（くもとりやま）。新緑の森、多摩川の源流そしてアズマシャクナゲなどの花々。アルプスや富士山の大パノラマを楽しみながらの山旅だ。",
+  "start": 1624271400000,
+  "end": 1624273200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "雲取山",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

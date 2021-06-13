@@ -1,0 +1,23 @@
+{
+  "id": "idwqmzz",
+  "category": "hobby",
+  "title": "はじめての気象学",
+  "fullTitle": "はじめての気象学　第12回",
+  "detail": "「ヒートアイランド」",
+  "start": 1624271400000,
+  "end": 1624274100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 67
+  },
+  "subTitle": "ヒートアイランド",
+  "episode": 12,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67vjkw",
+  "category": "anime",
+  "title": "ポケットモンスター ,22",
+  "fullTitle": "ポケットモンスター[字] #21,22",
+  "detail": "＃２１「バイバイバタフリ－」＃２２「ケーシィ！ちょうのうりょくたいけつ！」",
+  "start": 1624273200000,
+  "end": 1624276800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "バイバイバタフリ－",
+  "episode": 21,
+  "flags": [
+    "字"
+  ]
+}
