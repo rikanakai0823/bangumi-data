@@ -1,0 +1,25 @@
+{
+  "id": "iducnz1",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４４５",
+  "detail": "",
+  "start": 1624300200000,
+  "end": 1624301100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 445,
+  "flags": [
+    "無"
+  ]
+}

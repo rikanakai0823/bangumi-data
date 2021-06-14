@@ -1,0 +1,25 @@
+{
+  "id": "w63j06d",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～金沢～",
+  "fullTitle": "[生]DRAMATIC BASEBALL2021「巨人×DeNA」～金沢～",
+  "detail": "～生中継\r\n*早終了、及び荒天中止の時、番組変更あり\r\n*試合終了まで放送\r\n解説：高橋由伸\r\n実況：山本健太",
+  "start": 1624350600000,
+  "end": 1624366800000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "巨人×DeNA",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

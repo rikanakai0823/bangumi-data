@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0ccy",
+  "category": "welfare",
+  "title": "ハートネットＴＶ　アイタイ",
+  "fullTitle": "ハートネットＴＶ　アイタイ＃２[字]",
+  "detail": "",
+  "start": 1624359600000,
+  "end": 1624361400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

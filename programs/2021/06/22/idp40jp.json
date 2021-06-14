@@ -1,0 +1,27 @@
+{
+  "id": "idp40jp",
+  "category": "documentary",
+  "title": "究極ガイドＴＶ",
+  "fullTitle": "究極ガイドＴＶ「２時間でまわる厳島」[SS][字][再]",
+  "detail": "究極のガイドツアー。２時間で１８ヶ所の必見ポイントを巡り厳島の魅力を存分に。臨場感あふれる映像で、旅するようなひとときをお届け！厳島神社の美しさの秘密もひも解く",
+  "start": 1624341840000,
+  "end": 1624349040000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "２時間でまわる厳島",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字",
+    "再"
+  ]
+}

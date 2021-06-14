@@ -1,0 +1,27 @@
+{
+  "id": "idugv0v",
+  "category": "cinema",
+  "title": "ドロステのはてで僕ら",
+  "fullTitle": "[映]ドロステのはてで僕ら[SS][字]",
+  "detail": "人気劇団、ヨーロッパ企画と朝倉あきが共演したＳＦ群像コメディ。カフェオーナーの部屋と店のＴＶが２分間の時差でつながったことから起こる騒動を、長回し撮影で見せる。",
+  "start": 1624341600000,
+  "end": 1624346100000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

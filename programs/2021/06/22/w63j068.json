@@ -1,0 +1,25 @@
+{
+  "id": "w63j068",
+  "category": "sports",
+  "title": "ジャイアンツイースタンリーグ2021～ジャイアンツ球場～",
+  "fullTitle": "[生]ジャイアンツイースタンリーグ2021「巨人×ヤクルト」～ジャイアンツ球場～",
+  "detail": "～生中継　*延長なし\r\n解説：清水隆行\r\n実況：上重聡",
+  "start": 1624327200000,
+  "end": 1624341600000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "巨人×ヤクルト",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

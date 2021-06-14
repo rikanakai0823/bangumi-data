@@ -1,0 +1,26 @@
+{
+  "id": "idoznbn",
+  "category": "documentary",
+  "title": "ＢＳ世界のドキュメンタリー　選",
+  "fullTitle": "ＢＳ世界のドキュメンタリー　選「命をつなぐ動物園」[二][字]",
+  "detail": "ポーランドのワルシャワ動物園は、かつてユダヤ人の秘密の隠れ家だった。危険と隣り合わせの中、知恵と機転でナチスから３００人ものユダヤ人を守った園長一家の物語。",
+  "start": 1624341900000,
+  "end": 1624344600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "命をつなぐ動物園",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

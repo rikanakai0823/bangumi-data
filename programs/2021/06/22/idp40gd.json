@@ -1,0 +1,23 @@
+{
+  "id": "idp40gd",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「７月号」",
+  "detail": "",
+  "start": 1624352700000,
+  "end": 1624353000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "７月号",
+  "episode": null,
+  "flags": []
+}
