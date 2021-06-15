@@ -1,0 +1,25 @@
+{
+  "id": "idy8hx7",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#57[二]",
+  "detail": "#57「スポーツマンシップ」",
+  "start": 1624433100000,
+  "end": 1624433400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "スポーツマンシップ",
+  "episode": 57,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduy9hg",
+  "category": "cinema",
+  "title": "Ｕターン",
+  "fullTitle": "[映]Ｕターン",
+  "detail": "オリヴァー・ストーン監督のサスペンススリラー。車の故障によって迷い込んだ小さな町で、住民たちの欲望に翻弄される男を描く。",
+  "start": 1624401600000,
+  "end": 1624410000000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

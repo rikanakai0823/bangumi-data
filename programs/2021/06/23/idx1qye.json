@@ -1,0 +1,25 @@
+{
+  "id": "idx1qye",
+  "category": "anime",
+  "title": "僕のヒーローアカデミア",
+  "fullTitle": "[字]僕のヒーローアカデミア #88 END",
+  "detail": "#88「始まりの」\r\n少年・デクは、ヒーロー輩出の名門・雄英高校に入学し、最高のヒーローになることを目指し、試練…",
+  "start": 1624446000000,
+  "end": 1624447800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "END",
+  "episode": 88,
+  "flags": [
+    "字"
+  ]
+}

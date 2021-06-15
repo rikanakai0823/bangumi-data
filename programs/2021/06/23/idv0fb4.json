@@ -1,0 +1,25 @@
+{
+  "id": "idv0fb4",
+  "category": "cinema",
+  "title": "ヴァージン・スーサイズ",
+  "fullTitle": "[映]ヴァージン・スーサイズ[吹]",
+  "detail": "ソフィア・コッポラの監督デビュー作となる青春ドラマ。自殺を遂げた５人姉妹の姿を、美しく繊細な映像で綴る。",
+  "start": 1624431600000,
+  "end": 1624437900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

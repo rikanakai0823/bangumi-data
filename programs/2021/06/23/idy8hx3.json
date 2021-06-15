@@ -1,0 +1,25 @@
+{
+  "id": "idy8hx3",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#91[二]",
+  "detail": "#91「溶岩の星」",
+  "start": 1624424400000,
+  "end": 1624426200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "溶岩の星",
+  "episode": 91,
+  "flags": [
+    "二"
+  ]
+}
