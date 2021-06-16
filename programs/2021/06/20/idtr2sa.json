@@ -2,7 +2,7 @@
   "id": "idtr2sa",
   "category": "music",
   "title": "藤澤ノリマサ La Luce",
-  "fullTitle": "藤澤ノリマサ La Luce",
+  "fullTitle": "[新]藤澤ノリマサ La Luce",
   "detail": "",
   "start": 1624116300000,
   "end": 1624116600000,
@@ -18,6 +18,8 @@
     "n": 56
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }

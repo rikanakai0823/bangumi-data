@@ -1,9 +1,9 @@
 {
   "id": "w69az7v",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "クエストの世界都市紀行",
+  "fullTitle": "クエストの世界都市紀行",
+  "detail": "CNNアンカーで旅のスペシャリスト、リチャード・クエストが、世界の街のまだ知られていない魅力的なスポットを紹介。",
   "start": 1624080600000,
   "end": 1624082400000,
   "seconds": 1800,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }

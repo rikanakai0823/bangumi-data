@@ -1,0 +1,25 @@
+{
+  "id": "idtr3fb",
+  "category": "etc",
+  "title": "恐竜謎トレ！",
+  "fullTitle": "[新]恐竜謎トレ！",
+  "detail": "",
+  "start": 1624283700000,
+  "end": 1624284000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

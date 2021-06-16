@@ -1,9 +1,9 @@
 {
   "id": "w69az7u",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "Living Golf",
+  "detail": "松山英樹らトップ選手へのインタビュー、試合の見どころなど、ゴルフ好きのための情報満載！",
   "start": 1624078800000,
   "end": 1624080600000,
   "seconds": 1800,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }
