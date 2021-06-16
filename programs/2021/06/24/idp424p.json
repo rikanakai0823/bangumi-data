@@ -1,0 +1,26 @@
+{
+  "id": "idp424p",
+  "category": "documentary",
+  "title": "深海大スペシャル",
+  "fullTitle": "深海大スペシャル「驚異のモンスター大集合！」[SS][字]",
+  "detail": "地球の深海を巡る大冒険。熱帯の海底洞窟に潜む古代生物、南極の巨大イカ、神秘の発光生物などスクープ映像に、とっておきの秘蔵映像も交えて深海モンスターの素顔に迫る。",
+  "start": 1624518720000,
+  "end": 1624522260000,
+  "seconds": 3540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "驚異のモンスター大集合！",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67vjoc",
+  "category": "anime",
+  "title": "弱虫ペダル ,8",
+  "fullTitle": "弱虫ペダル[字] #7,8",
+  "detail": "＃７「追いつきたい！」＃８「スプリントクライム！！」",
+  "start": 1624525200000,
+  "end": 1624528800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "追いつきたい！",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

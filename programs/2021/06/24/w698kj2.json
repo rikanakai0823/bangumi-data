@@ -1,0 +1,25 @@
+{
+  "id": "w698kj2",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "今回のクリックは、世界最大のゲーム見本市「Ｅ３」で、今後話題になりそうなゲームを探る。",
+  "start": 1624537800000,
+  "end": 1624539600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "Ｅ３",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

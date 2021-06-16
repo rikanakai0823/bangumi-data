@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkufnt",
+  "category": "news",
+  "title": "テレビ傍聴席",
+  "fullTitle": "テレビ傍聴席",
+  "detail": "代表質問：千翔会",
+  "start": 1624507200000,
+  "end": 1624515300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67vjne",
+  "category": "anime",
+  "title": "ポケットモンスター ,26",
+  "fullTitle": "ポケットモンスター[字] #25,26",
+  "detail": "＃２５「おこらないでねオコリザル！」＃２６「エリカとクサイハナ」",
+  "start": 1624464000000,
+  "end": 1624467600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "おこらないでねオコリザル！",
+  "episode": 25,
+  "flags": [
+    "字"
+  ]
+}

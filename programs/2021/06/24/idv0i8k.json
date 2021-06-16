@@ -1,0 +1,27 @@
+{
+  "id": "idv0i8k",
+  "category": "cinema",
+  "title": "ＴＥＮＥＴ　テネット",
+  "fullTitle": "[映][SS][字]ＴＥＮＥＴ　テネット[吹]【吹替メガヒット９（再）】",
+  "detail": "クリストファー・ノーラン監督のＳＦスパイアクション。“時間の逆行”をテーマに、世界の破滅を阻止するため闘う男の姿を描く。",
+  "start": 1624507200000,
+  "end": 1624517100000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "吹替メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

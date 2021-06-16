@@ -1,0 +1,25 @@
+{
+  "id": "w69azio",
+  "category": "news",
+  "title": "ヨーロッパ経済市場",
+  "fullTitle": "ヨーロッパ経済市場[再]",
+  "detail": "欧州経済の最新トレンド、グローバル企業の動向、注目のビジネスを紹介。",
+  "start": 1624477500000,
+  "end": 1624478400000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

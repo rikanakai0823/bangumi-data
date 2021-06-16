@@ -1,0 +1,25 @@
+{
+  "id": "rkv8xsl",
+  "category": "sports",
+  "title": "千葉ロッテ主催公式戦2021",
+  "fullTitle": "[生]千葉ロッテ主催公式戦2021「千葉ロッテ×ソフトバンク」",
+  "detail": "～生中継　～ZOZOマリンスタジアム　\r\n*早終了及び荒天中止の時、番組変更あり",
+  "start": 1624523400000,
+  "end": 1624537800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "千葉ロッテ×ソフトバンク",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

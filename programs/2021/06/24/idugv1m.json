@@ -1,0 +1,26 @@
+{
+  "id": "idugv1m",
+  "category": "cinema",
+  "title": "ホステージ（字幕版）[PG-12指定]",
+  "fullTitle": "[映]ホステージ（字幕版）[PG-12指定][SS]",
+  "detail": "Ｂ・ウィリス主演のクライムサスペンス。ＬＡ市警の敏腕交渉人だった主人公は、退職した現在、自身の家族を人質に取られるなど、同時に２つの事件に立ち向かう事態に……。",
+  "start": 1624528800000,
+  "end": 1624536000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

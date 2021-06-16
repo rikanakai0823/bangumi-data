@@ -1,0 +1,26 @@
+{
+  "id": "381jqz0d7g",
+  "category": "hobby",
+  "title": "ソーイング・ビー３",
+  "fullTitle": "ソーイング・ビー３[二][字]",
+  "detail": "",
+  "start": 1624536000000,
+  "end": 1624537800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

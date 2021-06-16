@@ -1,0 +1,23 @@
+{
+  "id": "w67t6lx",
+  "category": "music",
+  "title": "NHK歌謡コンサート",
+  "fullTitle": "NHK歌謡コンサート #33　母に贈る感謝の歌",
+  "detail": "♪感謝状～母へのメッセージ～／島津亜矢\r\n♪無縁坂、おふくろさん／森進一\r\n♪おかあさん、絹の雨／岩本公水\r\n♪遠い昔の母の胸に／氷川きよし　ほか",
+  "start": 1624496400000,
+  "end": 1624500000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "母に贈る感謝の歌",
+  "episode": 33,
+  "flags": []
+}
