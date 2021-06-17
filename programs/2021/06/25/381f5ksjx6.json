@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksjx6",
+  "category": "sports",
+  "title": "日本陸上選手権～東京２０２０オリンピック代表選考会～",
+  "fullTitle": "第１０５回日本陸上選手権～東京２０２０オリンピック代表選考会～[字]",
+  "detail": "～ヤンマースタジアム長居から中継～",
+  "start": 1624617000000,
+  "end": 1624621320000,
+  "seconds": 4320,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 105,
+  "flags": [
+    "字"
+  ]
+}

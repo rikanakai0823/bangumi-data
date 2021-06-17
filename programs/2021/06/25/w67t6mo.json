@@ -1,0 +1,23 @@
+{
+  "id": "w67t6mo",
+  "category": "music",
+  "title": "NHK歌謡コンサート",
+  "fullTitle": "NHK歌謡コンサート #48　熱唱！故郷（ふるさと）に思いをはせて",
+  "detail": "♪帰ろかな、恩返し／北島三郎\r\n♪じょっぱり／川野夏美\r\n♪きよしのズンドコ節／氷川きよし\r\n♪津軽恋女／新沼謙治　ほか",
+  "start": 1624582800000,
+  "end": 1624586400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 127
+  },
+  "subTitle": "熱唱！故郷（ふるさと）に思いをはせて",
+  "episode": 48,
+  "flags": []
+}

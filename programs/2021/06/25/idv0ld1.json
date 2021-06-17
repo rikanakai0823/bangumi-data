@@ -1,0 +1,25 @@
+{
+  "id": "idv0ld1",
+  "category": "information",
+  "title": "番組案内",
+  "fullTitle": "[無]番組案内",
+  "detail": "３つのチャンネルとオンデマンドが楽しめる　スターチャンネル　ｈｔｔｐ：／／ｓｔａｒ－ｃｈ．ｊｐ",
+  "start": 1624593180000,
+  "end": 1624593600000,
+  "seconds": 420,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

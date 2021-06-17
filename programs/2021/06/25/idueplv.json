@@ -1,0 +1,25 @@
+{
+  "id": "idueplv",
+  "category": "music",
+  "title": "Ａｎｇｅｌｏ　Ｔｏｕｒ　２０２１",
+  "fullTitle": "[初]Ａｎｇｅｌｏ　Ｔｏｕｒ　２０２１「ＴＨＥ　ＣＯＵＮＴＤＯＷＮ」",
+  "detail": "毎年精力的にアルバムのリリースとライブを展開しているＡｎｇｅｌｏ。全国ライブハウスツアーのファイナルを放送！",
+  "start": 1624620600000,
+  "end": 1624626000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "ＴＨＥ　ＣＯＵＮＴＤＯＷＮ",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

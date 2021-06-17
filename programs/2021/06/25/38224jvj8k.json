@@ -1,0 +1,25 @@
+{
+  "id": "38224jvj8k",
+  "category": "variety",
+  "title": "コレって何の日本地図!?",
+  "fullTitle": "コレって何の日本地図!?[字]",
+  "detail": "※詳細が決まり次第、お知らせいたします。",
+  "start": 1624630500000,
+  "end": 1624634100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

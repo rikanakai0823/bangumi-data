@@ -1,0 +1,27 @@
+{
+  "id": "idugyg2",
+  "category": "cinema",
+  "title": "映画　妖怪人間ベム",
+  "fullTitle": "[映]映画　妖怪人間ベム[SS][字]",
+  "detail": "往年の怪奇アニメを、亀梨和也の主演で実写映像化した大ヒットＴＶドラマの劇場版。人間たちの前から姿を消していたベムたちが、謎めいた怪事件を解き明かそうと奔走する。",
+  "start": 1624569600000,
+  "end": 1624577400000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

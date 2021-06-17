@@ -1,0 +1,25 @@
+{
+  "id": "idy8hz8",
+  "category": "drama",
+  "title": "ガール・ミーツ・ワールド",
+  "fullTitle": "ガール・ミーツ・ワールド#70[二]",
+  "detail": "#70「未来の私たち」",
+  "start": 1624561200000,
+  "end": 1624563000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "未来の私たち",
+  "episode": 70,
+  "flags": [
+    "二"
+  ]
+}

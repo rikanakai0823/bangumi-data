@@ -1,0 +1,25 @@
+{
+  "id": "w63j07h",
+  "category": "sports",
+  "title": "ダンロップ・スリクソン福島オープン2021 2日目",
+  "fullTitle": "[生]ダンロップ・スリクソン福島オープン2021 2日目",
+  "detail": "～生中継",
+  "start": 1624586400000,
+  "end": 1624593600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

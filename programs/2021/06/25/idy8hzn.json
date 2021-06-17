@@ -1,0 +1,25 @@
+{
+  "id": "idy8hzn",
+  "category": "anime",
+  "title": "あっちいって　ユニコーン！",
+  "fullTitle": "あっちいって　ユニコーン！#23[二]",
+  "detail": "#23「雪が降ったよ　ユニコーン！　/　任せたよ　ユニコーン！」",
+  "start": 1624586400000,
+  "end": 1624588200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "雪が降ったよ　ユニコーン！　/　任せたよ　ユニコーン！",
+  "episode": 23,
+  "flags": [
+    "二"
+  ]
+}
