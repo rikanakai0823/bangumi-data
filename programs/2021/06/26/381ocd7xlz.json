@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7xlz",
+  "category": "sports",
+  "title": "ラグビー日本代表戦",
+  "fullTitle": "ラグビー日本代表戦「日本×ブリティッシュ＆アイリッシュ・ライオンズ」[字][デ]",
+  "detail": "※最大延長20分",
+  "start": 1624716000000,
+  "end": 1624723200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "日本×ブリティッシュ＆アイリッシュ・ライオンズ",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

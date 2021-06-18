@@ -1,0 +1,23 @@
+{
+  "id": "idozp8d",
+  "category": "sports",
+  "title": "Ｊリーグタイム",
+  "fullTitle": "Ｊリーグタイム「第１８週（Ｊ１第１９節　他）」",
+  "detail": "【解説】山本昌邦，【コメンテーター】平畠啓史，【アナウンサー】内山俊哉，【司会】中川絵美里",
+  "start": 1624708800000,
+  "end": 1624711200000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "第１８週（Ｊ１第１９節　他）",
+  "episode": null,
+  "flags": []
+}

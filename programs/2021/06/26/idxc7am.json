@@ -1,0 +1,25 @@
+{
+  "id": "idxc7am",
+  "category": "sports",
+  "title": "スワローズ 勝利の女神　(6/26)",
+  "fullTitle": "【契】[生]スワローズ 勝利の女神　(6/26)",
+  "detail": "東京ヤクルトスワローズ主催試合前の練習を現場から生中継！",
+  "start": 1624671000000,
+  "end": 1624676400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

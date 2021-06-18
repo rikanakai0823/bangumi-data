@@ -1,0 +1,26 @@
+{
+  "id": "iduyiuw",
+  "category": "cinema",
+  "title": "ルーシー・イン・ザ・スカイ",
+  "fullTitle": "[映][SS]ルーシー・イン・ザ・スカイ",
+  "detail": "ナタリー・ポートマン主演の衝撃ドラマ。実話を元に、女性宇宙飛行士が禁断の恋の末に引き起こした事件を描く。［ＰＧ１２相当］",
+  "start": 1624654800000,
+  "end": 1624662900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

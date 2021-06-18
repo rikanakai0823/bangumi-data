@@ -1,0 +1,23 @@
+{
+  "id": "w65vrmu",
+  "category": "variety",
+  "title": "クイズダービー",
+  "fullTitle": "クイズダービー #675",
+  "detail": "大橋巨泉の司会でおなじみの「クイズダービー」がＴＢＳチャンネルに登場。全８６２回放送された中からピックアップして放送いたします。",
+  "start": 1624690800000,
+  "end": 1624692600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 106
+  },
+  "subTitle": "クイズダービー",
+  "episode": 675,
+  "flags": []
+}
