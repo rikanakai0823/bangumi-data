@@ -1,0 +1,26 @@
+{
+  "id": "idozpuq",
+  "category": "sports",
+  "title": "プロ野球２０２１「日本ハム」対",
+  "fullTitle": "プロ野球２０２１「日本ハム」対「ロッテ」[多][字]",
+  "detail": "　※副音声は球場音声　【解説】梨田昌孝，【アナウンサー】伊藤慶太　～静岡草薙球場から中継～",
+  "start": 1624777800000,
+  "end": 1624782600000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ロッテ",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

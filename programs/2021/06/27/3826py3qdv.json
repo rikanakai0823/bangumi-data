@@ -1,0 +1,25 @@
+{
+  "id": "3826py3qdv",
+  "category": "documentary",
+  "title": "日経テレ東大学",
+  "fullTitle": "日経テレ東大学[字]",
+  "detail": "日経とテレ東がタッグ！楽しく経済を学ぼう！",
+  "start": 1624780500000,
+  "end": 1624781700000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr1odf",
+  "category": "information",
+  "title": "テレビショッピング・ショップジャパン",
+  "fullTitle": "テレビショッピング・ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nセブンスピローウルトラフィット　０１２０－１６－００７９、ここひえ　０１２０－３６－２００８",
+  "start": 1624773600000,
+  "end": 1624776900000,
+  "seconds": 3300,
+  "description": "",
+  "extra": {
+    "番組内容": "セブンスピローウルトラフィット　０１２０－１６－００７９、ここひえ　０１２０－３６－２００８"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idugv2o",
+  "category": "cinema",
+  "title": "ＴＥＮＥＴ　テネット（字幕版）",
+  "fullTitle": "[映]ＴＥＮＥＴ　テネット（字幕版）[SS]",
+  "detail": "「ダークナイト」のＣ・ノーラン監督が斬新なアイデアに挑み、空前絶後の世界を構築したＳＦアクション大作。“時間を逆行させる”未来の装置が現在、悪用されそうに……。",
+  "start": 1624781700000,
+  "end": 1624791600000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "ダークナイト",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

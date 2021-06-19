@@ -1,0 +1,23 @@
+{
+  "id": "idtr3fa",
+  "category": "music",
+  "title": "藤澤ノリマサ La Luce",
+  "fullTitle": "藤澤ノリマサ La Luce",
+  "detail": "",
+  "start": 1624721100000,
+  "end": 1624721400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

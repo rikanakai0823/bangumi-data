@@ -1,0 +1,25 @@
+{
+  "id": "w63j08i",
+  "category": "sports",
+  "title": "2021MotoGP 第9戦オランダGP",
+  "fullTitle": "[生]2021MotoGP 第9戦オランダGP",
+  "detail": "～生中継　～アッセン\r\n解説：中野真矢　上田昇　坂田和人\r\n実況：平松修造　伊藤大海　藤田大介",
+  "start": 1624783500000,
+  "end": 1624802400000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

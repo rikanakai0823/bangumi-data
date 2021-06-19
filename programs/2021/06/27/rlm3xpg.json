@@ -1,0 +1,25 @@
+{
+  "id": "rlm3xpg",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～ファーム～ ソフトバンクvs.オリックス",
+  "fullTitle": "[生]HAWKS プロ野球中継2021～ファーム～ ソフトバンクvs.オリックス",
+  "detail": "▽6月27日開催\r\n解説/実況：加藤伸一/久保俊郎\r\n開催日時：2021年6月27日 (日) 13:00\r\n会場：新大分球場",
+  "start": 1624766100000,
+  "end": 1624782600000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

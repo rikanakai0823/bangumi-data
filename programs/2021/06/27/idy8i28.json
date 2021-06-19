@@ -1,0 +1,25 @@
+{
+  "id": "idy8i28",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#70[二]",
+  "detail": "#70「ギズモクラウド！」",
+  "start": 1624775400000,
+  "end": 1624777200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ギズモクラウド！",
+  "episode": 70,
+  "flags": [
+    "二"
+  ]
+}

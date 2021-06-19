@@ -1,0 +1,25 @@
+{
+  "id": "idy8i2c",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#19[二]",
+  "detail": "#19「真のチャンピオン」",
+  "start": 1624782300000,
+  "end": 1624782600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "真のチャンピオン",
+  "episode": 19,
+  "flags": [
+    "二"
+  ]
+}
