@@ -1,0 +1,23 @@
+{
+  "id": "w63ch4j",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×千葉ロッテ（静岡）",
+  "fullTitle": "[プロ野球]北海道日本ハム×千葉ロッテ（静岡）",
+  "detail": "GAORAプロ野球中継\r\n「北海道日本ハム vs 千葉ロッテ」\r\n開催：2021年6月27日／静岡",
+  "start": 1624822200000,
+  "end": 1624836600000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

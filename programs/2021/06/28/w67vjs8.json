@@ -1,0 +1,25 @@
+{
+  "id": "w67vjs8",
+  "category": "anime",
+  "title": "弱虫ペダル ,12",
+  "fullTitle": "弱虫ペダル[字] #11,12",
+  "detail": "＃１１「肉弾列車！！」＃１２「合宿初日！」",
+  "start": 1624870800000,
+  "end": 1624874400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "肉弾列車！！",
+  "episode": 11,
+  "flags": [
+    "字"
+  ]
+}

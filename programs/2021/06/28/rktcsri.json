@@ -1,0 +1,26 @@
+{
+  "id": "rktcsri",
+  "category": "drama",
+  "title": "ボイス２ ～１１２の奇跡～",
+  "fullTitle": "ボイス２ ～１１２の奇跡～　#11　[字][再]",
+  "detail": "KBS World初放送！イ・ジヌク＆イ・ハナ主演。犯罪現場のゴールデンタイムを守る112通報センターの隊員たちの熾烈な記録を描く捜査ドラマのシーズン２！2018年　全12話",
+  "start": 1624867200000,
+  "end": 1624871400000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 11,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

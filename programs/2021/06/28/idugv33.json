@@ -1,0 +1,27 @@
+{
+  "id": "idugv33",
+  "category": "cinema",
+  "title": "夜叉ヶ池",
+  "fullTitle": "[初][映]夜叉ヶ池[字]",
+  "detail": "文豪・泉鏡花の同名戯曲を篠田正浩監督が映画化。当代随一の女形の人気歌舞伎役者・坂東玉三郎が、一人二役で映画の初主演に挑んだのも話題を呼んだ異色ファンタジー。",
+  "start": 1624889700000,
+  "end": 1624897800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "idugv2r",
+  "category": "cinema",
+  "title": "転がるビー玉",
+  "fullTitle": "[初][映]転がるビー玉[SS][字]",
+  "detail": "吉川愛、萩原みのり、今泉佑唯という若手女優陣共演の青春映画。大規模な再開発が進む渋谷周辺のマンションでルームシェアをする女子３人の日常と一歩を踏み出す姿を描く。",
+  "start": 1624807200000,
+  "end": 1624813200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

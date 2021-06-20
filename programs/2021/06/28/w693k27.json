@@ -1,0 +1,23 @@
+{
+  "id": "w693k27",
+  "category": "news",
+  "title": "サンデーニュース Bizスクエア",
+  "fullTitle": "サンデーニュース Bizスクエア",
+  "detail": "明日のビジネスに役立つ最新情報をお届け。身近な暮らしのニュースから難解な国際情勢、最先端のビジネスモデルに新時代のイノベーションまで、わかりやすく伝えます。",
+  "start": 1624806000000,
+  "end": 1624809600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

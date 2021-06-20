@@ -1,0 +1,25 @@
+{
+  "id": "idv0st7",
+  "category": "cinema",
+  "title": "ストリートファイター（１９７５）",
+  "fullTitle": "[映]ストリートファイター（１９７５）[吹]",
+  "detail": "チャールズ・ブロンソン主演のアクション。流れ者とそのマネージャーがストリートファイトで金を稼いでいく姿を描く。",
+  "start": 1624817700000,
+  "end": 1624824000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
