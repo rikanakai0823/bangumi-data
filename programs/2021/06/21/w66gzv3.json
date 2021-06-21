@@ -1,0 +1,25 @@
+{
+  "id": "w66gzv3",
+  "category": "sports",
+  "title": "プロ野球ニュース 2021",
+  "fullTitle": "[生]プロ野球ニュース 2021",
+  "detail": "＜解説＞江本孟紀　野村弘樹\r\n＜ＭＣ＞黒瀬翔生\r\n▽プロ野球の結果をお届け！\r\n　【生放送】",
+  "start": 1624284000000,
+  "end": 1624287600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
