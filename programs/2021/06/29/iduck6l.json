@@ -1,0 +1,27 @@
+{
+  "id": "iduck6l",
+  "category": "cinema",
+  "title": "グッドモーニングショー",
+  "fullTitle": "[映]グッドモーニングショー[SS][字]",
+  "detail": "中井貴一の三枚目ぶりに爆笑を誘われる放送業界内幕コメディ。ワイドショーの放送中に立てこもり事件が発生。交渉役に指名されたキャスターは人質たちを解放できるのか。",
+  "start": 1624964400000,
+  "end": 1624971600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

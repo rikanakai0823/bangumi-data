@@ -1,0 +1,25 @@
+{
+  "id": "iduytcc",
+  "category": "cinema",
+  "title": "犯罪河岸",
+  "fullTitle": "[映]犯罪河岸",
+  "detail": "アンリ＝ジョルジュ・クルーゾー監督のサスペンス。殺人事件に巻き込まれた妻の疑惑を払うため、小細工を仕掛ける夫の姿を描く。",
+  "start": 1624960800000,
+  "end": 1624968000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

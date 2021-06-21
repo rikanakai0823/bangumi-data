@@ -1,0 +1,26 @@
+{
+  "id": "idozqpg",
+  "category": "sports",
+  "title": "プロ野球２０２１「阪神」対",
+  "fullTitle": "プロ野球２０２１「阪神」対「ヤクルト」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】藤川球児，【アナウンサー】清水敬亮　～甲子園球場から中継～",
+  "start": 1624957200000,
+  "end": 1624969800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ヤクルト",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduwoj1",
+  "category": "information",
+  "title": "番組案内",
+  "fullTitle": "[無]番組案内",
+  "detail": "３つのチャンネルとオンデマンドが楽しめる　スターチャンネル　ｈｔｔｐ：／／ｓｔａｒ－ｃｈ．ｊｐ",
+  "start": 1624978140000,
+  "end": 1624978800000,
+  "seconds": 660,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

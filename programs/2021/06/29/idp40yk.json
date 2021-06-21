@@ -1,0 +1,25 @@
+{
+  "id": "idp40yk",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「がんばれ　高見山大五郎」[字]",
+  "detail": "横綱・白鵬をはじめ外国人力士が活躍する大相撲。その先駆者が、ハワイ出身の高見山大五郎だった。苦労の末に花開いた高見山の相撲人生を描く。",
+  "start": 1624957800000,
+  "end": 1624960800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "がんばれ　高見山大五郎",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

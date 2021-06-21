@@ -1,0 +1,25 @@
+{
+  "id": "idy8i4y",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#61[二]",
+  "detail": "#61「離れられない」",
+  "start": 1624951500000,
+  "end": 1624951800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "離れられない",
+  "episode": 61,
+  "flags": [
+    "二"
+  ]
+}

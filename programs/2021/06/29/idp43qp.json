@@ -1,0 +1,25 @@
+{
+  "id": "idp43qp",
+  "category": "hobby",
+  "title": "美の小壺",
+  "fullTitle": "美の小壺「草履」[字]",
+  "detail": "ＢＳプレミアムで毎週金曜夜７時３０分放送の「美の壺」を“小壺”サイズに仕立てたミニ番組。古来、日本人の足元を支えてきた「草履」の魅力を堪能する！",
+  "start": 1624956900000,
+  "end": 1624957200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "草履",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

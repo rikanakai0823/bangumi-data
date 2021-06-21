@@ -1,0 +1,23 @@
+{
+  "id": "w61qbo1",
+  "category": "cinema",
+  "title": "休止",
+  "fullTitle": "休止",
+  "detail": "",
+  "start": 1624914000000,
+  "end": 1624917600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ザ・シネマ",
+    "id": "f0ar",
+    "sid": 227,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 94
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

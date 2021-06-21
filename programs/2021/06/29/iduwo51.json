@@ -1,0 +1,26 @@
+{
+  "id": "iduwo51",
+  "category": "cinema",
+  "title": "ザ・リトル・ストレンジャー",
+  "fullTitle": "[映][SS]ザ・リトル・ストレンジャー",
+  "detail": "ドーナル・グリーソン主演のミステリアスドラマ。没落する旧家の家族と若い医師たちに待ち受ける運命を描く。［ＰＧ１２相当］",
+  "start": 1624959900000,
+  "end": 1624967100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

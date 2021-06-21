@@ -1,0 +1,25 @@
+{
+  "id": "w67vjsg",
+  "category": "anime",
+  "title": "ポケットモンスター ,32",
+  "fullTitle": "ポケットモンスター[字] #31,32",
+  "detail": "＃３１「ディグダがいっぱい！」＃３２「セキチクにんじゃたいけつ！」",
+  "start": 1624896000000,
+  "end": 1624899600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ディグダがいっぱい！",
+  "episode": 31,
+  "flags": [
+    "字"
+  ]
+}
