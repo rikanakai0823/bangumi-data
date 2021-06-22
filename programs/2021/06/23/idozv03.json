@@ -1,0 +1,26 @@
+{
+  "id": "idozv03",
+  "category": "information",
+  "title": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ　Ｒｅｍｉｘ",
+  "fullTitle": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ　Ｒｅｍｉｘ「伝統の保存食」[字][再]",
+  "detail": "地域色を色濃く残す様々な保存食▽「ひじき」「かんぴょう」「梅干し」「塩ざけ」「塩ぶり」「かまぼこ」",
+  "start": 1624406400000,
+  "end": 1624409400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "伝統の保存食",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
