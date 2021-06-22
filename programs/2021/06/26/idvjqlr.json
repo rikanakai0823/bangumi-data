@@ -1,9 +1,9 @@
 {
   "id": "idvjqlr",
   "category": "anime",
-  "title": "調整中",
-  "fullTitle": "調整中",
-  "detail": "※番組が決まり次第お伝えします。",
+  "title": "羅小黒戦記　Blu-ray&DVD発売記念特番",
+  "fullTitle": "[再]羅小黒戦記　Blu-ray&DVD発売記念特番",
+  "detail": "「羅小黒戦記ぼくが選ぶ未来」のBlu-ray&DVD発売を記念した特番が放送決定！\r\n皆さんの選ぶ名シーンや、各種特典などを、キャストインタビューを交えてご紹介いたします。",
   "start": 1624633200000,
   "end": 1624635000000,
   "seconds": 1800,
@@ -17,7 +17,9 @@
     "hasLogoData": false,
     "n": 65
   },
-  "subTitle": "",
+  "subTitle": "羅小黒戦記ぼくが選ぶ未来",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }
