@@ -1,0 +1,25 @@
+{
+  "id": "w67vjuk",
+  "category": "anime",
+  "title": "ポケットモンスター ,36",
+  "fullTitle": "ポケットモンスター[字] #35,36",
+  "detail": "＃３５「ミニリュウのでんせつ」＃３６「あらしのサイクリングロード」",
+  "start": 1625050800000,
+  "end": 1625054400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ミニリュウのでんせつ",
+  "episode": 35,
+  "flags": [
+    "字"
+  ]
+}

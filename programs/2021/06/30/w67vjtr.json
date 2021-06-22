@@ -1,0 +1,25 @@
+{
+  "id": "w67vjtr",
+  "category": "anime",
+  "title": "ココモン３",
+  "fullTitle": "ココモン３[字] #6",
+  "detail": "第６話「ダイコーのダイエット！」\r\nココモンの発明したロボコンがパワーアップ、カビキング達をやっつけるため、“ヒミツのたべもの”を探す冒険に出かけます。",
+  "start": 1625000400000,
+  "end": 1625001300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ダイコーのダイエット！",
+  "episode": 6,
+  "flags": [
+    "字"
+  ]
+}

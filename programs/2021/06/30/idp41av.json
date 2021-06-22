@@ -1,0 +1,25 @@
+{
+  "id": "idp41av",
+  "category": "music",
+  "title": "名曲アルバムショパン作曲",
+  "fullTitle": "名曲アルバム「雨だれ」ショパン作曲[SS]",
+  "detail": "名曲「雨だれ」が誕生したのはショパンが病気療養のために恋人ジョルジュ・サンドと訪れたスペイン・マヨルカ島。山奥の修道院にはショパンのピアノが今も残されいる。",
+  "start": 1625000100000,
+  "end": 1625000400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "雨だれ",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

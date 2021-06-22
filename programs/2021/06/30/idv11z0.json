@@ -1,0 +1,27 @@
+{
+  "id": "idv11z0",
+  "category": "cinema",
+  "title": "ジェイソン・ボーン",
+  "fullTitle": "[映][SS][字]ジェイソン・ボーン[吹]",
+  "detail": "マット・デイモンが主演に復帰した人気アクション第５弾。記憶を取り戻した暗殺者ジェイソン・ボーンが過去を巡る戦いに挑む。",
+  "start": 1625061600000,
+  "end": 1625069700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

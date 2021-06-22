@@ -1,0 +1,25 @@
+{
+  "id": "idy8i5s",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#3[解]",
+  "detail": "#3「ツムはパティシエ」",
+  "start": 1625005620000,
+  "end": 1625005800000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ツムはパティシエ",
+  "episode": 3,
+  "flags": [
+    "解"
+  ]
+}

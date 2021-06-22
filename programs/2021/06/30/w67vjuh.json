@@ -1,0 +1,25 @@
+{
+  "id": "w67vjuh",
+  "category": "anime",
+  "title": "弱虫ペダル ,16",
+  "fullTitle": "弱虫ペダル[字] #15,16",
+  "detail": "＃１５「策略」＃１６「一点突破」",
+  "start": 1625043600000,
+  "end": 1625047200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "策略",
+  "episode": 15,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idvjqr8",
+  "category": "sports",
+  "title": "2021 帝王賞 生中継",
+  "fullTitle": "2021 帝王賞 生中継",
+  "detail": "",
+  "start": 1625047380000,
+  "end": 1625054280000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

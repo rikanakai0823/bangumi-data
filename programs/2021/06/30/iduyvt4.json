@@ -1,0 +1,25 @@
+{
+  "id": "iduyvt4",
+  "category": "cinema",
+  "title": "プレイス・イン・ザ・ハート",
+  "fullTitle": "[映]プレイス・イン・ザ・ハート",
+  "detail": "アカデミー主演女優賞（サリー・フィールド）、脚本賞のヒューマンドラマ。夫を亡くした専業主婦の女性が懸命に生きる姿を描く。",
+  "start": 1625014800000,
+  "end": 1625022000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idugv3o",
+  "category": "cinema",
+  "title": "ごくせん　ＴＨＥ　ＭＯＶＩＥ",
+  "fullTitle": "[映]ごくせん　ＴＨＥ　ＭＯＶＩＥ[SS][字]",
+  "detail": "仲間由紀恵が型破りな熱血教師《ヤンクミ》を演じた大ヒットＴＶドラマの劇場版で完結編。第２シリーズの主要キャスト、亀梨和也をはじめ、歴代の教え子役キャストが集結。",
+  "start": 1625047200000,
+  "end": 1625054400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

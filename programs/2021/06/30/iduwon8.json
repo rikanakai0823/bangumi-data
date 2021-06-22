@@ -1,0 +1,26 @@
+{
+  "id": "iduwon8",
+  "category": "cinema",
+  "title": "ジュマンジ／ウェルカム・トゥ・ジャングル",
+  "fullTitle": "[映][SS]ジュマンジ／ウェルカム・トゥ・ジャングル",
+  "detail": "１９９５年公開の大ヒットアドベンチャー『ジュマンジ』の続編。古いゲームの中に吸い込まれた高校生４人が大冒険を繰り広げる。",
+  "start": 1624982400000,
+  "end": 1624990500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8i68",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#96[二]",
+  "detail": "#96「仁義なきミュータント戦争」",
+  "start": 1625029200000,
+  "end": 1625031000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "仁義なきミュータント戦争",
+  "episode": 96,
+  "flags": [
+    "二"
+  ]
+}

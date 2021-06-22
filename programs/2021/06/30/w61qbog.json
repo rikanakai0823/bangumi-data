@@ -1,0 +1,23 @@
+{
+  "id": "w61qbog",
+  "category": "variety",
+  "title": "（無料）情報番組",
+  "fullTitle": "（無料）情報番組",
+  "detail": "\r\n情報番組\r\n\r\n",
+  "start": 1625013000000,
+  "end": 1625014800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ザ・シネマ",
+    "id": "f0ar",
+    "sid": 227,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 94
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

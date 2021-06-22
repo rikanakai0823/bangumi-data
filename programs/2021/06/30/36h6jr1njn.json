@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1njn",
+  "category": "drama",
+  "title": "ねこタクシー",
+  "fullTitle": "ねこタクシー[Ｓ][終]",
+  "detail": "最終話「あこがれ」",
+  "start": 1625061600000,
+  "end": 1625063400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "あこがれ",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

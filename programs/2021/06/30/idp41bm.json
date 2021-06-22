@@ -1,0 +1,25 @@
+{
+  "id": "idp41bm",
+  "category": "documentary",
+  "title": "未来への遺産",
+  "fullTitle": "未来への遺産（１４）「心のなかの宇宙」[字]",
+  "detail": "鮮やかな映像でよみがえる「未来への遺産」。第１４回は、スペインの「巡礼の道」や比叡山のマンダラから、人間が心のなかに秘めた神秘的で壮大な宇宙像を読み解く。",
+  "start": 1625043600000,
+  "end": 1625047200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "心のなかの宇宙",
+  "episode": 14,
+  "flags": [
+    "字"
+  ]
+}

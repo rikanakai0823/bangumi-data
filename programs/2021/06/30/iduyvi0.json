@@ -1,0 +1,26 @@
+{
+  "id": "iduyvi0",
+  "category": "cinema",
+  "title": "２番目のキス",
+  "fullTitle": "[映][SS]２番目のキス",
+  "detail": "ドリュー・バリモア主演のロマンティックコメディ。熱狂的な野球ファンの男性を恋人に持ったヒロインの戸惑いと奮闘を描く。",
+  "start": 1625000400000,
+  "end": 1625007000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
