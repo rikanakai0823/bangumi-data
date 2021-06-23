@@ -1,8 +1,8 @@
 {
   "id": "36l9gkwlsv",
   "category": "sports",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
+  "title": "チバミライチャンネル　白球の残像　大会　木更津総合×市立船橋",
+  "fullTitle": "チバミライチャンネル　白球の残像　第９８回大会　木更津総合×市立船橋[再]",
   "detail": " ",
   "start": 1624791600000,
   "end": 1624794900000,
@@ -18,6 +18,8 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 98,
+  "flags": [
+    "再"
+  ]
 }

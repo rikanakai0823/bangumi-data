@@ -1,12 +1,16 @@
 {
   "id": "381f5kskku",
-  "category": "news",
-  "title": "ＮＨＫ地域局発",
-  "fullTitle": "ＮＨＫ地域局発[字]",
-  "detail": "",
+  "category": "documentary",
+  "title": "ＮＨＫ地域局発　東北ココから",
+  "fullTitle": "ＮＨＫ地域局発　東北ココから「ハレばれ親子旅～『おかえりモネ』の舞台を行く～」[字]",
+  "detail": "【ゲスト】藤岡弘、，藤岡真威人\n◇出演者\n【ゲスト】藤岡弘、，藤岡真威人",
   "start": 1624842900000,
-  "end": 1624844700000,
-  "seconds": 1800,
+  "end": 1624844520000,
+  "seconds": 1620,
+  "description": "【ゲスト】藤岡弘、，藤岡真威人",
+  "extra": {
+    "出演者": "【ゲスト】藤岡弘、，藤岡真威人"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "ハレばれ親子旅～『おかえりモネ』の舞台を行く～",
   "episode": null,
   "flags": [
     "字"

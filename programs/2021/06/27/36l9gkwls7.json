@@ -1,8 +1,8 @@
 {
   "id": "36l9gkwls7",
   "category": "sports",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
+  "title": "チバミライチャンネル　白球の残像　大会　専大松戸×習志野",
+  "fullTitle": "チバミライチャンネル　白球の残像　第９７回大会　専大松戸×習志野[再]",
   "detail": " ",
   "start": 1624764600000,
   "end": 1624767900000,
@@ -18,6 +18,8 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 97,
+  "flags": [
+    "再"
+  ]
 }
