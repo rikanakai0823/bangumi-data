@@ -1,0 +1,25 @@
+{
+  "id": "idozrgn",
+  "category": "news",
+  "title": "キャッチ！世界のトップニュース",
+  "fullTitle": "キャッチ！世界のトップニュース[二]",
+  "detail": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり",
+  "start": 1625094000000,
+  "end": 1625097000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

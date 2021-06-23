@@ -1,0 +1,26 @@
+{
+  "id": "rktcst2",
+  "category": "drama",
+  "title": "最高の一発",
+  "fullTitle": "最高の一発　#8　[字][再]",
+  "detail": "「Train(原題)」放送記念！ユン・シユン主演！時空を超えて現代にやってきた人気スターと、その息子たちの恋と青春を描くラブコメディ！2017年　全16話",
+  "start": 1625076600000,
+  "end": 1625080800000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "Train(原題)",
+  "episode": 8,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

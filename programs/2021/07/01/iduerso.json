@@ -1,0 +1,25 @@
+{
+  "id": "iduerso",
+  "category": "theater",
+  "title": "ゴツプロ！",
+  "fullTitle": "[初]ゴツプロ！「阿波の音」",
+  "detail": "演劇界で活躍する男性俳優７人で旗揚げした劇団“ゴツプロ！”。ＷＯＷＯＷで彼らの最新公演を原案に連続ドラマ化が決定！それを記念してえりすぐりの過去作をお届けする。",
+  "start": 1625117400000,
+  "end": 1625124600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "阿波の音",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

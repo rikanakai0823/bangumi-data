@@ -1,0 +1,25 @@
+{
+  "id": "idy8i82",
+  "category": "drama",
+  "title": "アンディ・マック",
+  "fullTitle": "アンディ・マック#44[二]",
+  "detail": "#44「本当のところ」",
+  "start": 1625144400000,
+  "end": 1625146200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "本当のところ",
+  "episode": 44,
+  "flags": [
+    "二"
+  ]
+}

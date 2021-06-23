@@ -1,0 +1,26 @@
+{
+  "id": "iduzvvs",
+  "category": "cinema",
+  "title": "こころに剣士を",
+  "fullTitle": "[映][SS]こころに剣士を[吹]",
+  "detail": "１９５０年代のエストニアを舞台にした感動ドラマ。実話を元に、時代に翻弄された元フェンシング選手と子供たちの師弟愛を描く。",
+  "start": 1625101200000,
+  "end": 1625108400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

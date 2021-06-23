@@ -1,0 +1,25 @@
+{
+  "id": "rks7uls",
+  "category": "music",
+  "title": "＜独占生中継＞KREVA in Billboard Live Tour 2021",
+  "fullTitle": "[生]＜独占生中継＞KREVA in Billboard Live Tour 2021",
+  "detail": "横浜・大阪・東京の3都市を巡るビルボードライブ・ツアーからファイナルとなる Billboard Live TOKYO 公演を独占生中継！\r\n※お問合せ：0570-0555-77（10時～20時）",
+  "start": 1625130000000,
+  "end": 1625137200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

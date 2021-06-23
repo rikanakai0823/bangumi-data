@@ -1,0 +1,23 @@
+{
+  "id": "w681wnv",
+  "category": "anime",
+  "title": "番組紹介",
+  "fullTitle": "番組紹介",
+  "detail": "この時間はAT-Xの番組紹介を放送します",
+  "start": 1625144700000,
+  "end": 1625145420000,
+  "seconds": 720,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

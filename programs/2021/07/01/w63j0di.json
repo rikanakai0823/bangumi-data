@@ -1,0 +1,26 @@
+{
+  "id": "w63j0di",
+  "category": "sports",
+  "title": "日本テレビ ゴルフメジャー",
+  "fullTitle": "[無料]日本テレビ ゴルフメジャー[再]",
+  "detail": "日テレ系ゴルフ中継メジャー大会４大会の名場面をお送りします",
+  "start": 1625144400000,
+  "end": 1625148000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduck7c",
+  "category": "anime",
+  "title": "あしたのジョー",
+  "fullTitle": "あしたのジョー　＃６２　生きていた力石徹[字]",
+  "detail": "",
+  "start": 1625070600000,
+  "end": 1625072400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "生きていた力石徹",
+  "episode": 62,
+  "flags": [
+    "字"
+  ]
+}

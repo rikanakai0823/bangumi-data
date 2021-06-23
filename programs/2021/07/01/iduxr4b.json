@@ -1,0 +1,26 @@
+{
+  "id": "iduxr4b",
+  "category": "cinema",
+  "title": "十戒",
+  "fullTitle": "[映][SS]十戒",
+  "detail": "旧約聖書の壮大な世界を、莫大な製作費と、当時最先端の特撮技術を注ぎ込んで映像化した、圧巻のスペクタクル巨編。",
+  "start": 1625120100000,
+  "end": 1625134200000,
+  "seconds": 14100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

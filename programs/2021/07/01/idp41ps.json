@@ -1,0 +1,23 @@
+{
+  "id": "idp41ps",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「北海道　天売島・焼尻島の短い夏」",
+  "detail": "",
+  "start": 1625073600000,
+  "end": 1625075400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "北海道　天売島・焼尻島の短い夏",
+  "episode": null,
+  "flags": []
+}

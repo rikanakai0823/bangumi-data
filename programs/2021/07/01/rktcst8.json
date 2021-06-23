@@ -1,0 +1,25 @@
+{
+  "id": "rktcst8",
+  "category": "drama",
+  "title": "天使の罠",
+  "fullTitle": "天使の罠　#79　[字]",
+  "detail": "2014年 全103話",
+  "start": 1625096700000,
+  "end": 1625100000000,
+  "seconds": 3300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 79,
+  "flags": [
+    "字"
+  ]
+}

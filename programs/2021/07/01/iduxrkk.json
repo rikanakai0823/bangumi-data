@@ -1,0 +1,25 @@
+{
+  "id": "iduxrkk",
+  "category": "cinema",
+  "title": "キラー・シャーク　殺人鮫",
+  "fullTitle": "[映]キラー・シャーク　殺人鮫【特集：サメ！サメ！サメ！】",
+  "detail": "絶海の孤島を舞台に、サメの細胞を移植されたシャークマンとその場に足止めされた人間たちの死闘を描くモンスターパニック。",
+  "start": 1625140800000,
+  "end": 1625146800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "特集：サメ！サメ！サメ！",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

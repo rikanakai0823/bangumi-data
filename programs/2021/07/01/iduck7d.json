@@ -1,0 +1,25 @@
+{
+  "id": "iduck7d",
+  "category": "anime",
+  "title": "あしたのジョー",
+  "fullTitle": "あしたのジョー　＃６３　最後の挑戦[字]",
+  "detail": "",
+  "start": 1625072400000,
+  "end": 1625074200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "最後の挑戦",
+  "episode": 63,
+  "flags": [
+    "字"
+  ]
+}

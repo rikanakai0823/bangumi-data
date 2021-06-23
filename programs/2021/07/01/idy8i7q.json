@@ -1,0 +1,25 @@
+{
+  "id": "idy8i7q",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#63[二]",
+  "detail": "#63「ハチの恩返し」",
+  "start": 1625124300000,
+  "end": 1625124600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ハチの恩返し",
+  "episode": 63,
+  "flags": [
+    "二"
+  ]
+}

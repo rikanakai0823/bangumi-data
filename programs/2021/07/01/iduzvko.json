@@ -1,0 +1,25 @@
+{
+  "id": "iduzvko",
+  "category": "cinema",
+  "title": "ふたつの名前を持つ少年",
+  "fullTitle": "[映]ふたつの名前を持つ少年[吹]",
+  "detail": "壮絶な運命を生き抜いたユダヤ人少年の実話を元にした感動ドラマ。身の上を偽ってナチスから逃れた少年の力強い足取りを追う。",
+  "start": 1625086800000,
+  "end": 1625094000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
