@@ -1,0 +1,26 @@
+{
+  "id": "idozvqd",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「千曲川決壊　そのとき住民は」[字][再]",
+  "detail": "あなたは、自分の命を守れますか？２０１９年、全国に甚大な被害をもたらした台風１９号。長野市の千曲川の堤防が決壊するまでの２４時間を、ドキュメントで徹底検証する。",
+  "start": 1624852800000,
+  "end": 1624855800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "千曲川決壊　そのとき住民は",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
