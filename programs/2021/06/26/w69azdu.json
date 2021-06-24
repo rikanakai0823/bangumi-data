@@ -1,9 +1,9 @@
 {
   "id": "w69azdu",
-  "category": "documentary",
-  "title": "クエストの世界都市紀行",
-  "fullTitle": "[二]クエストの世界都市紀行[再]",
-  "detail": "＃25 アメリカ南部の大都市、アトランタ。パペット・ショーや人形作りを体験できる「パペット・アート・センター」を訪問。屋内リンクでローラースケートを満喫。",
+  "category": "hobby",
+  "title": "African Voices",
+  "fullTitle": "[二]African Voices[再]",
+  "detail": "日本語同時通訳付。\r\n世界的に活躍するアフリカ各国の話題の人物に、ロング・インタビュー。",
   "start": 1624701600000,
   "end": 1624703400000,
   "seconds": 1800,
@@ -17,8 +17,8 @@
     "hasLogoData": false,
     "n": 139
   },
-  "subTitle": "パペット・アート・センター",
-  "episode": 25,
+  "subTitle": "",
+  "episode": null,
   "flags": [
     "二",
     "再"
