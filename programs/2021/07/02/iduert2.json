@@ -1,0 +1,26 @@
+{
+  "id": "iduert2",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]洋楽ＢＲＥＡＫ　＃４４９",
+  "detail": "",
+  "start": 1625219100000,
+  "end": 1625219700000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 449,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

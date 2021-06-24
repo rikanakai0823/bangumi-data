@@ -1,0 +1,26 @@
+{
+  "id": "idp4256",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「空海の旅」[字][再]",
+  "detail": "番組では、真言密教の開祖・弘法大師空海にまつわる各地の風土や風習を描いてきた。空海とともに生きる人々の姿と、１２００年の時を超えて受け継がれる信仰と祈りを描く。",
+  "start": 1625180400000,
+  "end": 1625184000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "空海の旅",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63j0b8",
+  "category": "sports",
+  "title": "日本プロゴルフ選手権2021 2日目1番ホール9番ホール",
+  "fullTitle": "[生]日本プロゴルフ選手権2021 2日目1番ホール9番ホール",
+  "detail": "～生中継",
+  "start": 1625176800000,
+  "end": 1625198400000,
+  "seconds": 21600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

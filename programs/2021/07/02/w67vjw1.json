@@ -1,0 +1,25 @@
+{
+  "id": "w67vjw1",
+  "category": "anime",
+  "title": "ココモン３",
+  "fullTitle": "ココモン３[字] #8",
+  "detail": "第８話「はしれ！ポテパン」\r\nココモンの発明したロボコンがパワーアップ、カビキング達をやっつけるため、“ヒミツのたべもの”を探す冒険に出かけます。",
+  "start": 1625173200000,
+  "end": 1625174100000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "はしれ！ポテパン",
+  "episode": 8,
+  "flags": [
+    "字"
+  ]
+}

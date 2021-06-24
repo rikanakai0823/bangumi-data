@@ -1,0 +1,26 @@
+{
+  "id": "iduzza6",
+  "category": "cinema",
+  "title": "【最新作】ザ・キッチン",
+  "fullTitle": "【最新作】[映][SS]ザ・キッチン[吹]",
+  "detail": "アメコミ原作を映画化したメリッサ・マッカーシー主演の犯罪群像劇。マフィアと結婚した３人の女性が、敵対組織と闘う姿を描く。",
+  "start": 1625199000000,
+  "end": 1625206200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

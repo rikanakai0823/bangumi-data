@@ -1,0 +1,25 @@
+{
+  "id": "idx1r4u",
+  "category": "anime",
+  "title": "Fate/Zero",
+  "fullTitle": "[字]Fate/Zero #1",
+  "detail": "#1「英霊召喚」\r\n奇跡を叶える『聖杯』の力を追い求め、七人の魔術師が七人の英霊を召喚し、最後の一人になるまで戦い…",
+  "start": 1625205600000,
+  "end": 1625209200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "英霊召喚",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

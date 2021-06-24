@@ -1,0 +1,26 @@
+{
+  "id": "idugx9d",
+  "category": "cinema",
+  "title": "グッドライアー　偽りのゲーム（字幕版）",
+  "fullTitle": "[映]グッドライアー　偽りのゲーム（字幕版）[SS]",
+  "detail": "「ロード・オブ・ザ・リング」シリーズのＩ・マッケランと「クィーン」のＨ・ミレン。英国きっての熟練の名優同士が熾烈な騙し合いを繰り広げる、極上のサスペンスドラマ。",
+  "start": 1625157900000,
+  "end": 1625165100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

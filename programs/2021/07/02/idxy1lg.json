@@ -1,0 +1,23 @@
+{
+  "id": "idxy1lg",
+  "category": "hobby",
+  "title": "ミニ番組 AGFC通信 Vol.9 coco",
+  "fullTitle": "ミニ番組 AGFC通信 Vol.9 coco",
+  "detail": "ASHIYAガールズフィッシングクラブ、通称AGFCは11人のメンバーで活動中。AGFC通信では各メンバーにスポットライトをあて、その魅力を紹介します。",
+  "start": 1625183700000,
+  "end": 1625184000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

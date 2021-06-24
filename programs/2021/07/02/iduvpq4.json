@@ -1,0 +1,25 @@
+{
+  "id": "iduvpq4",
+  "category": "cinema",
+  "title": "秘録怪猫伝",
+  "fullTitle": "[映]秘録怪猫伝【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "鍋島の化け猫騒動を題材に、兄妹の恨みを晴らすべく魔性の猫が巻き起こす怪事を描いた怪談譚。",
+  "start": 1625234400000,
+  "end": 1625239800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

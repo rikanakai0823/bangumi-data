@@ -1,0 +1,25 @@
+{
+  "id": "idy8i89",
+  "category": "anime",
+  "title": "スター・ウォーズ　レジスタンス",
+  "fullTitle": "スター・ウォーズ　レジスタンス#1[二]",
+  "detail": "#1「スカウト　パート１」",
+  "start": 1625157000000,
+  "end": 1625158800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "スカウト　パート１",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

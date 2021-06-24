@@ -1,0 +1,25 @@
+{
+  "id": "idvjqtc",
+  "category": "anime",
+  "title": "スーパーウィングス",
+  "fullTitle": "[二]スーパーウィングス　＃14",
+  "detail": "第27話「火星のお友達」\r\n第28話「オーストラリアのクリスマス」",
+  "start": 1625216400000,
+  "end": 1625218200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "火星のお友達",
+  "episode": 14,
+  "flags": [
+    "二"
+  ]
+}
