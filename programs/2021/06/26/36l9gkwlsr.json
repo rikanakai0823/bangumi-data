@@ -1,8 +1,8 @@
 {
   "id": "36l9gkwlsr",
   "category": "sports",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
+  "title": "チバミライチャンネル　白球の残像　大会　成東×拓大紅陵",
+  "fullTitle": "チバミライチャンネル　白球の残像　第７１回大会　成東×拓大紅陵[再]",
   "detail": " ",
   "start": 1624705200000,
   "end": 1624708500000,
@@ -18,6 +18,8 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 71,
+  "flags": [
+    "再"
+  ]
 }

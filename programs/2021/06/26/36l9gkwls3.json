@@ -1,8 +1,8 @@
 {
   "id": "36l9gkwls3",
   "category": "sports",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
+  "title": "チバミライチャンネル　白球の残像　大会　銚子商業×拓大紅陵",
+  "fullTitle": "チバミライチャンネル　白球の残像　第７７回大会　銚子商業×拓大紅陵[再]",
   "detail": " ",
   "start": 1624678200000,
   "end": 1624681500000,
@@ -18,6 +18,8 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 77,
+  "flags": [
+    "再"
+  ]
 }
