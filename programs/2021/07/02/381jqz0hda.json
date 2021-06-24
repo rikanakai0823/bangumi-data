@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0hda",
+  "category": "hobby",
+  "title": "カズレーザーｖｓ．ＮＨＫ高校講座",
+  "fullTitle": "カズレーザーｖｓ．ＮＨＫ高校講座[字]",
+  "detail": "",
+  "start": 1625232600000,
+  "end": 1625234400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
