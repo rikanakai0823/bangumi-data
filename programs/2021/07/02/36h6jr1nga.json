@@ -3,11 +3,11 @@
   "category": "documentary",
   "title": "ＭＩＤＴＶ",
   "fullTitle": "ＭＩＤＴＶ[Ｓ][再]",
-  "detail": "◇出演者\nＭＣ：貴島明日香",
+  "detail": "野々村真（第３回）\n◇出演者\nＭＣ：貴島明日香",
   "start": 1625203200000,
   "end": 1625204100000,
   "seconds": 900,
-  "description": "",
+  "description": "野々村真（第３回）",
   "extra": {
     "出演者": "ＭＣ：貴島明日香"
   },
@@ -22,7 +22,7 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 3,
   "flags": [
     "再"
   ]
