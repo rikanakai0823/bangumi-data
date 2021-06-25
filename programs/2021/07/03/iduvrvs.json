@@ -1,0 +1,26 @@
+{
+  "id": "iduvrvs",
+  "category": "cinema",
+  "title": "ある少年の告白",
+  "fullTitle": "[映][SS]ある少年の告白",
+  "detail": "ルーカス・ヘッジズ、ニコール・キッドマン共演の人間ドラマ。自身が同性愛者だと気付いた少年と両親の葛藤を描く。［ＰＧ１２］",
+  "start": 1625274000000,
+  "end": 1625282100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

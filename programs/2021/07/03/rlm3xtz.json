@@ -1,0 +1,23 @@
+{
+  "id": "rlm3xtz",
+  "category": "sports",
+  "title": "鷹のミカタ",
+  "fullTitle": "鷹のミカタ #12",
+  "detail": "泉圭輔投手へのスペシャルインタビューやホークスグッズ特集など内容盛りだくさんの60分！",
+  "start": 1625274000000,
+  "end": 1625277600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": []
+}

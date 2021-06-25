@@ -1,0 +1,26 @@
+{
+  "id": "381f5kus11",
+  "category": "sports",
+  "title": "プロ野球２０２１「ロッテ」対",
+  "fullTitle": "プロ野球２０２１「ロッテ」対「楽天」[SS][字]",
+  "detail": "～ＺＯＺＯマリンスタジアムから中継～",
+  "start": 1625287800000,
+  "end": 1625291400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "楽天",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idt5k87",
+  "category": "sports",
+  "title": "ウイニング競馬　～福島～",
+  "fullTitle": "ウイニング競馬　～福島～",
+  "detail": "【福島】10Ｒ松島特別、11Ｒテレビユー福島賞\r\n【小倉】10Ｒ戸畑特別、11Ｒ九州スポーツ杯\r\n【函館】11Ｒ函館日刊スポーツ杯",
+  "start": 1625290200000,
+  "end": 1625295600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "福島",
+  "episode": null,
+  "flags": []
+}

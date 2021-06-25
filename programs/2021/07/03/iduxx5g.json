@@ -1,0 +1,25 @@
+{
+  "id": "iduxx5g",
+  "category": "cinema",
+  "title": "ウォーカー",
+  "fullTitle": "[映]ウォーカー",
+  "detail": "中米のニカラグアを独裁したアメリカ人、ウィリアム・ウォーカーの半生を史実とフィクションを交えて描く問題作。",
+  "start": 1625280000000,
+  "end": 1625286000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

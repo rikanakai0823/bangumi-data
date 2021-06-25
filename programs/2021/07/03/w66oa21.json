@@ -1,0 +1,25 @@
+{
+  "id": "w66oa21",
+  "category": "drama",
+  "title": "宇宙船XL-5",
+  "fullTitle": "[字]宇宙船XL-5(帯)#11",
+  "detail": "#11「怪獣現わる」\r\nSPACE MONSTER\r\n消息を絶ったXL-2号の捜索に向かったXL-5号。",
+  "start": 1625256000000,
+  "end": 1625257800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "怪獣現わる",
+  "episode": 11,
+  "flags": [
+    "字"
+  ]
+}

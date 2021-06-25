@@ -1,0 +1,26 @@
+{
+  "id": "iduvsj9",
+  "category": "cinema",
+  "title": "マーウェン",
+  "fullTitle": "[映][SS]マーウェン",
+  "detail": "ロバート・ゼメキス監督の人間ドラマ。暴力事件の後遺症に苦しみながらも、ジオラマ作りを通じて再生した男性の実話を映画化。",
+  "start": 1625305500000,
+  "end": 1625313600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

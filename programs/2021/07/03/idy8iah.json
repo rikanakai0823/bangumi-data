@@ -1,0 +1,25 @@
+{
+  "id": "idy8iah",
+  "category": "cinema",
+  "title": "ティンカー・ベルと月の石",
+  "fullTitle": "ティンカー・ベルと月の石[二]",
+  "detail": "「ピクシー・ホロウ」は、祭典の準備に大忙し。聖なる杖を作る大役を任されることになったティンカー・ベルは、大喜び！はりきって杖作りにとりかかりますが・・・。",
+  "start": 1625306400000,
+  "end": 1625311800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ピクシー・ホロウ",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

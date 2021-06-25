@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkughv",
+  "category": "hobby",
+  "title": "防災ヒーロータイム",
+  "fullTitle": "[新]防災ヒーロータイム　＃１",
+  "detail": "防災勇士トリプルウィング＃１\r\n救命戦士シェルブレイブ＃１",
+  "start": 1625265000000,
+  "end": 1625266800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
