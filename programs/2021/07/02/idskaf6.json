@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "うた恋！音楽会",
   "fullTitle": "うた恋！音楽会",
-  "detail": "",
+  "detail": "◇制作\n2021年",
   "start": 1625227200000,
   "end": 1625230440000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2021年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

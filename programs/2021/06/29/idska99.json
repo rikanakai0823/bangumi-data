@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "ヒロシのぼっちキャンプ　Ｓｅａｓｏｎ３",
   "fullTitle": "[手]ヒロシのぼっちキャンプ　Ｓｅａｓｏｎ３",
-  "detail": "",
+  "detail": "◇制作\n2021年",
   "start": 1624975200000,
   "end": 1624978800000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "2021年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

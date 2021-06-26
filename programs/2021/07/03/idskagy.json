@@ -3,10 +3,14 @@
   "category": "information",
   "title": "最旬！トレンドサーチ",
   "fullTitle": "最旬！トレンドサーチ",
-  "detail": "",
+  "detail": "◇制作\n2021年",
   "start": 1625279400000,
   "end": 1625281200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2021年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
