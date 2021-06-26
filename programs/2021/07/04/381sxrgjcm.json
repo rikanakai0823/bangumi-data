@@ -1,0 +1,31 @@
+{
+  "id": "381sxrgjcm",
+  "category": "drama",
+  "title": "日曜劇場",
+  "fullTitle": "[新]日曜劇場「ＴＯＫＹＯ　ＭＥＲ～走る緊急救命室～」　第１話[字][デ]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/TokyoMER_tbs/\r\n◇twitter\r\n@tokyo_mer_tbs\r\nhttps://twitter.com/tokyo_mer_tbs/\r\n◇instagram\r\nhttps://instagram.com/tokyo_mer_tbs/",
+  "start": 1625400000000,
+  "end": 1625404740000,
+  "seconds": 4740,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/TokyoMER_tbs/\r\n◇twitter\r\n@tokyo_mer_tbs\r\nhttps://twitter.com/tokyo_mer_tbs/\r\n◇instagram\r\nhttps://instagram.com/tokyo_mer_tbs/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "ＴＯＫＹＯ　ＭＥＲ～走る緊急救命室～",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字",
+    "デ"
+  ]
+}

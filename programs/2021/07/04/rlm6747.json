@@ -1,0 +1,23 @@
+{
+  "id": "rlm6747",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第101回 天皇杯 2回戦 浦和×富山",
+  "detail": "天皇杯 JFA 第101回全日本サッカー選手権大会 2回戦\r\n浦和レッズ×カターレ富山",
+  "start": 1625331600000,
+  "end": 1625340600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 142
+  },
+  "subTitle": "天皇杯 2回戦 浦和×富山",
+  "episode": 101,
+  "flags": []
+}

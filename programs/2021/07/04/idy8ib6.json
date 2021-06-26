@@ -1,0 +1,26 @@
+{
+  "id": "idy8ib6",
+  "category": "hobby",
+  "title": "ロケッティア",
+  "fullTitle": "[無]ロケッティア#17[二]",
+  "detail": "#17「サーカスのだいじけん／きけんなスポーツ」",
+  "start": 1625355000000,
+  "end": 1625356800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "サーカスのだいじけん／きけんなスポーツ",
+  "episode": 17,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

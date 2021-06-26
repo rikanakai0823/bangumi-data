@@ -1,0 +1,27 @@
+{
+  "id": "idugxac",
+  "category": "cinema",
+  "title": "ルパン三世　ＴＨＥ　ＦＩＲＳＴ",
+  "fullTitle": "[映]ルパン三世　ＴＨＥ　ＦＩＲＳＴ[SS][字]",
+  "detail": "「ルパン三世」の単独劇場版アニメとしては２３年ぶりにして、シリーズ初のフル３ＤＣＧ作品。初代ルパンが唯一盗めなかったという秘宝をめぐり、巨大な陰謀が動き出す。",
+  "start": 1625386500000,
+  "end": 1625392800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "ルパン三世",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

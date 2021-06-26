@@ -1,0 +1,25 @@
+{
+  "id": "w66h0bk",
+  "category": "sports",
+  "title": "競馬予想ＴＶ！　2「ラジオNIKKEI賞」",
+  "fullTitle": "[無料]競馬予想ＴＶ！　#1072「ラジオNIKKEI賞」「CBC賞」",
+  "detail": "「ラジオNIKKEI賞（G3）」「CBC賞（G3）」　ほか\r\n＜司会＞見栄晴　横山ルリカ\r\n＜出演＞松本ヒロシ　競馬予想専門家4名\r\n　【再放送】",
+  "start": 1625360400000,
+  "end": 1625367600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "CBC賞",
+  "episode": 107,
+  "flags": [
+    "無"
+  ]
+}

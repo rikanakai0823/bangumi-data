@@ -1,0 +1,25 @@
+{
+  "id": "idy8iaw",
+  "category": "drama",
+  "title": "シドニーと　がんばりマックス",
+  "fullTitle": "シドニーと　がんばりマックス#15[二]",
+  "detail": "#15「ザックにメロメロ」",
+  "start": 1625337000000,
+  "end": 1625338800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ザックにメロメロ",
+  "episode": 15,
+  "flags": [
+    "二"
+  ]
+}

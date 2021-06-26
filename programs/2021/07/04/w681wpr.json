@@ -1,0 +1,25 @@
+{
+  "id": "w681wpr",
+  "category": "anime",
+  "title": "劇場版",
+  "fullTitle": "劇場版「TRIGUN -Badlands Rumble-」 [字]",
+  "detail": "2010年劇場公開作品",
+  "start": 1625339100000,
+  "end": 1625344800000,
+  "seconds": 5700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "TRIGUN -Badlands Rumble-",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

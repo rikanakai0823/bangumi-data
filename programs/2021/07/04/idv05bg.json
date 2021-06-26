@@ -1,0 +1,26 @@
+{
+  "id": "idv05bg",
+  "category": "cinema",
+  "title": "少女ファニーと運命の旅",
+  "fullTitle": "[映][SS]少女ファニーと運命の旅[吹]",
+  "detail": "ナチス支配下のユダヤ人少女の実話を基にした感動ドラマ。子供たちだけでフランスからスイス国境を目指した過酷な逃避行を描く。",
+  "start": 1625359200000,
+  "end": 1625365800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

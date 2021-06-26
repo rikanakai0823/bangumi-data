@@ -1,0 +1,25 @@
+{
+  "id": "rlm3xz6",
+  "category": "sports",
+  "title": "ガンガン!ホークス CHECK!GO!",
+  "fullTitle": "[無]ガンガン!ホークス CHECK!GO! #126",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nガンガンTOPICSでは支配下登録を勝ち取った大関友久投手、FARM REPORTは期待の大砲リチャード選手に迫る！",
+  "start": 1625362200000,
+  "end": 1625364000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 126,
+  "flags": [
+    "無"
+  ]
+}

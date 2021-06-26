@@ -1,0 +1,25 @@
+{
+  "id": "idrd6wa",
+  "category": "anime",
+  "title": "アニメ　ぼくたちのリメイク",
+  "fullTitle": "[新]アニメ　ぼくたちのリメイク　第１話",
+  "detail": "ここから始める、もうひとつの人生（リメイク）",
+  "start": 1625324400000,
+  "end": 1625328000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

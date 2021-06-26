@@ -1,0 +1,26 @@
+{
+  "id": "w63j0bx",
+  "category": "sports",
+  "title": "日本プロゴルフ選手権2021 最終日1番ホール9番ホール",
+  "fullTitle": "[無料][生]日本プロゴルフ選手権2021 最終日1番ホール9番ホール",
+  "detail": "～生中継",
+  "start": 1625353200000,
+  "end": 1625371200000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

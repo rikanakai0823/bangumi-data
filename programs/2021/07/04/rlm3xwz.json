@@ -1,0 +1,23 @@
+{
+  "id": "rlm3xwz",
+  "category": "sports",
+  "title": "RIZINで逢いましょう",
+  "fullTitle": "RIZINで逢いましょう #5",
+  "detail": "RIZIN FIGHTING WORLD GRAND-PRIX 2016 無差別級トーナメント 2nd ROUND（RIZIN.3）\r\n（2016年12月29日開催）",
+  "start": 1625324400000,
+  "end": 1625331600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": []
+}

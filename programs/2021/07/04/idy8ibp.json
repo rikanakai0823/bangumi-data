@@ -1,0 +1,26 @@
+{
+  "id": "idy8ibp",
+  "category": "anime",
+  "title": "アウルハウス",
+  "fullTitle": "[無]アウルハウス#16[二]",
+  "detail": "#16「グロム・パーティー」",
+  "start": 1625387400000,
+  "end": 1625389200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "グロム・パーティー",
+  "episode": 16,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

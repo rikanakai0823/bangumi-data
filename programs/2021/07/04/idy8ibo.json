@@ -1,0 +1,26 @@
+{
+  "id": "idy8ibo",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "[無]ミッキーマウス！#20[二]",
+  "detail": "#20「ケーブルカーパニック」",
+  "start": 1625387100000,
+  "end": 1625387400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ケーブルカーパニック",
+  "episode": 20,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

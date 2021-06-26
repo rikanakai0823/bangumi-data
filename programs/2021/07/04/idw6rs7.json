@@ -1,0 +1,25 @@
+{
+  "id": "idw6rs7",
+  "category": "sports",
+  "title": "ゴルフ★パラダイス",
+  "fullTitle": "[新]ゴルフ★パラダイス ＃１",
+  "detail": "ゴルフが今より上手くなってもっと楽しめるようになるためにはどうすればいいの??ゴルフの本当の楽しさを考える番組、それが「ゴル★パラ」!!",
+  "start": 1625371200000,
+  "end": 1625373000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_2",
+    "name": "ＢＳ１２トゥエルビ",
+    "id": "8kta",
+    "sid": 222,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 66
+  },
+  "subTitle": "ゴル★パラ",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

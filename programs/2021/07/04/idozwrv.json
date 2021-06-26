@@ -1,0 +1,25 @@
+{
+  "id": "idozwrv",
+  "category": "sports",
+  "title": "ＰＧＡゴルフツアー２０２０－２１　ロケット　モーゲージ　クラシック",
+  "fullTitle": "ＰＧＡゴルフツアー２０２０－２１　ロケット　モーゲージ　クラシック「３日目」[二]",
+  "detail": "【解説】佐渡充高，【アナウンサー】伊藤慶太　～ミシガン州デトロイト　デトロイト・ゴルフクラブから中継～",
+  "start": 1625342400000,
+  "end": 1625349600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "３日目",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

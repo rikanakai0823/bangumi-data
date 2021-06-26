@@ -1,0 +1,25 @@
+{
+  "id": "w66lenc",
+  "category": "information",
+  "title": "番組PR",
+  "fullTitle": "[無料]番組PR【7月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1625381400000,
+  "end": 1625382000000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 114
+  },
+  "subTitle": "7月",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idvjqut",
+  "category": "anime",
+  "title": "シャドーハウス",
+  "fullTitle": "シャドーハウス[終]第13話",
+  "detail": "",
+  "start": 1625326200000,
+  "end": 1625327820000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 13,
+  "flags": [
+    "終"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iducm3s",
+  "category": "cinema",
+  "title": "スパイ・ゲーム（吹替版）",
+  "fullTitle": "[映]スパイ・ゲーム（吹替版）[字]",
+  "detail": "",
+  "start": 1625394600000,
+  "end": 1625402700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

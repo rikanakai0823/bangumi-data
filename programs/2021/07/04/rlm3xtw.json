@@ -1,0 +1,26 @@
+{
+  "id": "rlm3xtw",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2021～ファーム～ 西武vs.巨人",
+  "fullTitle": "[無][生]LIONS プロ野球中継2021～ファーム～ 西武vs.巨人",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n▽7月4日開催\r\n実況：熊谷龍一\r\n開催日時：2021年7月4日 (日) 13:00\r\n会場：CAR3219フィールド（カーミニークフィールド）",
+  "start": 1625370900000,
+  "end": 1625387400000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "生"
+  ]
+}
