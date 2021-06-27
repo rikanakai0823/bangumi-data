@@ -1,0 +1,27 @@
+{
+  "id": "idugxan",
+  "category": "cinema",
+  "title": "ソワレ[PG12指定]",
+  "fullTitle": "[映]ソワレ[PG12指定][SS][字]",
+  "detail": "豊原功補、小泉今日子らが立ち上げた映像会社、新世界合同会社による初プロデュース作で、村上虹郎が主演。俳優を目指す青年は、犯罪に加担した上、逃亡犯となってしまう。",
+  "start": 1625463900000,
+  "end": 1625471100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

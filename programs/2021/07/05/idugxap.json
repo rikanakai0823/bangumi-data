@@ -1,0 +1,26 @@
+{
+  "id": "idugxap",
+  "category": "cinema",
+  "title": "ツィゴイネルワイゼン",
+  "fullTitle": "[映]ツィゴイネルワイゼン[字]",
+  "detail": "鈴木清順監督が独特の感覚を開花させた日活在籍時代の後、１９８０年にカムバック。キネマ旬報ベスト・テン第１位など映画賞をほぼ独占した、“大正浪漫三部作”の第１弾。",
+  "start": 1625477400000,
+  "end": 1625486400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

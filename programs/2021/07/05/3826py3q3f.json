@@ -1,0 +1,26 @@
+{
+  "id": "3826py3q3f",
+  "category": "anime",
+  "title": "忍者コレクション",
+  "fullTitle": "忍者コレクション[再][終]",
+  "detail": "第13話「あやとり」",
+  "start": 1625421900000,
+  "end": 1625422200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "あやとり",
+  "episode": 13,
+  "flags": [
+    "再",
+    "終"
+  ]
+}

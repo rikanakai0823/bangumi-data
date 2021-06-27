@@ -1,0 +1,25 @@
+{
+  "id": "idxy1nc",
+  "category": "hobby",
+  "title": "ミニ番組 AGFC通信 9 coco",
+  "fullTitle": "[無]ミニ番組 AGFC通信 9 coco",
+  "detail": "AGFC通信では各メンバーにスポットライトをあて、その魅力を紹介します。",
+  "start": 1625417700000,
+  "end": 1625418000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rktcsvi",
+  "category": "drama",
+  "title": "天使の罠",
+  "fullTitle": "天使の罠　#80　[字]",
+  "detail": "2014年 全103話",
+  "start": 1625442300000,
+  "end": 1625445600000,
+  "seconds": 3300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 80,
+  "flags": [
+    "字"
+  ]
+}

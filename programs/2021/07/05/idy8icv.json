@@ -1,0 +1,25 @@
+{
+  "id": "idy8icv",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#99[二]",
+  "detail": "#99「地獄の底へ」",
+  "start": 1625461200000,
+  "end": 1625463000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "地獄の底へ",
+  "episode": 99,
+  "flags": [
+    "二"
+  ]
+}

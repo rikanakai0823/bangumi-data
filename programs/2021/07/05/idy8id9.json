@@ -1,0 +1,25 @@
+{
+  "id": "idy8id9",
+  "category": "anime",
+  "title": "カンフー・パンダ　ザ・シリーズ",
+  "fullTitle": "カンフー・パンダ　ザ・シリーズ#15[二]",
+  "detail": "#15「愛で毒を制するべし」",
+  "start": 1625484600000,
+  "end": 1625486400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "愛で毒を制するべし",
+  "episode": 15,
+  "flags": [
+    "二"
+  ]
+}

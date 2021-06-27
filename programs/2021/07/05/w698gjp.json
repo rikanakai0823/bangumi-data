@@ -1,0 +1,25 @@
+{
+  "id": "w698gjp",
+  "category": "news",
+  "title": "ワークライフ・インド",
+  "fullTitle": "ワークライフ・インド(再)",
+  "detail": "ビジネス、マネー、ライフに関する活発なディベートをインドのデリーからお送りする。",
+  "start": 1625488200000,
+  "end": 1625490000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

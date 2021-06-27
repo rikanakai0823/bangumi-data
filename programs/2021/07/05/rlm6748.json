@@ -1,0 +1,25 @@
+{
+  "id": "rlm6748",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "[無]第101回 天皇杯 2回戦 広島×おこしやす",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n天皇杯 JFA 第101回全日本サッカー選手権大会 2回戦\r\nサンフレッチェ広島×おこしやす京都AC",
+  "start": 1625418000000,
+  "end": 1625427000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 142
+  },
+  "subTitle": "天皇杯 2回戦 広島×おこしやす",
+  "episode": 101,
+  "flags": [
+    "無"
+  ]
+}

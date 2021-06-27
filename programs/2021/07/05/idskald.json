@@ -1,0 +1,25 @@
+{
+  "id": "idskald",
+  "category": "information",
+  "title": "吉田類の酒場放浪記▼本蓮沼",
+  "fullTitle": "[字]吉田類の酒場放浪記▼本蓮沼「淀川」",
+  "detail": "昭和５２年に志村坂上から移転して４３年となる酒場。まずはマスターが浦和の市場から仕入れる魚介を頂く。メニューには「からしれんこん」などもあり、郷土の味も堪能。",
+  "start": 1625486400000,
+  "end": 1625490000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "淀川",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

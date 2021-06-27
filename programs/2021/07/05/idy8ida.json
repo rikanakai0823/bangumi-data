@@ -1,0 +1,25 @@
+{
+  "id": "idy8ida",
+  "category": "cinema",
+  "title": "ゾンビーズ２",
+  "fullTitle": "ゾンビーズ２[二]",
+  "detail": "人間とゾンビが共存する町シーブルック。だが、禁断の森でアディソンが「狼族」の群れに遭遇したことが拡散され大騒ぎに！ゼッドとアディソンの関係にも影を落とし始める。",
+  "start": 1625486400000,
+  "end": 1625491800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "狼族",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

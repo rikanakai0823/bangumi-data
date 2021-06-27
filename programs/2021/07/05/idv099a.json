@@ -1,0 +1,26 @@
+{
+  "id": "idv099a",
+  "category": "cinema",
+  "title": "ターミネーター４",
+  "fullTitle": "[映][SS]ターミネーター４[吹]",
+  "detail": "人気ＳＦアクション第４弾。核戦争によって荒廃した世界を舞台に、人類存亡の危機に立ち向かう抵抗軍の闘いを描く。",
+  "start": 1625482200000,
+  "end": 1625490000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

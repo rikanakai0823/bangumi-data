@@ -1,0 +1,25 @@
+{
+  "id": "idp46cv",
+  "category": "documentary",
+  "title": "カラーでよみがえる東京",
+  "fullTitle": "カラーでよみがえる東京「銀座～モダン華やぐ街～」[字]",
+  "detail": "ＮＨＫは、東京を撮影した白黒フィルムを世界中から収集、現実にできるだけ近い色彩の復元に挑んだ。色を取り戻した東京は、どんな表情を見せるのか。今回は銀座。",
+  "start": 1625428620000,
+  "end": 1625428800000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "銀座～モダン華やぐ街～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
