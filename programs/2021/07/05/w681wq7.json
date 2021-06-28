@@ -1,9 +1,9 @@
 {
   "id": "w681wq7",
   "category": "anime",
-  "title": "未定",
-  "fullTitle": "未定",
-  "detail": "",
+  "title": "異世界チート魔術師 #01-#12+OVA",
+  "fullTitle": "異世界チート魔術師 #01-#12+OVA [字]",
+  "detail": "全12話+OVAを一挙に放送！\r\n【全12話+OVA】2019年放送作品",
   "start": 1625410800000,
   "end": 1625430600000,
   "seconds": 19800,
@@ -18,6 +18,8 @@
     "n": 130
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

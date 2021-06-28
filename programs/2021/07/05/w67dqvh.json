@@ -2,7 +2,7 @@
   "id": "w67dqvh",
   "category": "music",
   "title": "雨が主役の雨ソング特集②/ SEKAI NO OWARI、AAA 他",
-  "fullTitle": "雨が主役の雨ソング特集②/ SEKAI NO OWARI、AAA 他",
+  "fullTitle": "[無]雨が主役の雨ソング特集②/ SEKAI NO OWARI、AAA 他",
   "detail": "雨が多くなる季節！雨の日が好きな人も嫌いな人も、それぞれの雨の日の過ごし方に寄り添う雨ソング特集です！\r\n",
   "start": 1625418000000,
   "end": 1625421600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

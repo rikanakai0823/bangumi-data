@@ -2,7 +2,7 @@
   "id": "w67dqve",
   "category": "music",
   "title": "【独占】Ken Yokoyama 特番",
-  "fullTitle": "【独占】Ken Yokoyama 特番「新・居酒屋けんちゃん」",
+  "fullTitle": "[無]【独占】Ken Yokoyama 特番「新・居酒屋けんちゃん」",
   "detail": "フルアルバム「4Wheels 9Lives」を5/26にリリースするKen Yokoyama。これを記念して「居酒屋けんちゃん」が復活！どんなトークが繰り広げられるのか、乞うご期待！",
   "start": 1625407200000,
   "end": 1625410800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "新・居酒屋けんちゃん",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

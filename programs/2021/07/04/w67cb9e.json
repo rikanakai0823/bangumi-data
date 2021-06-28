@@ -2,7 +2,7 @@
   "id": "w67cb9e",
   "category": "music",
   "title": "NGT48 PV特集",
-  "fullTitle": "NGT48 PV特集",
+  "fullTitle": "[無]NGT48 PV特集",
   "detail": "6/23にシングル「Awesome」をリリースするNGT48のミュージックビデオスペシャルをオンエア！",
   "start": 1625407200000,
   "end": 1625409000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "Awesome",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "w67cb9f",
   "category": "music",
   "title": "つばきファクトリー PV特集",
-  "fullTitle": "つばきファクトリー PV特集",
+  "fullTitle": "[無]つばきファクトリー PV特集",
   "detail": "5/26にアルバム「2nd STEP」をリリースするつばきファクトリーのミュージックビデオスペシャルをオンエア！",
   "start": 1625409000000,
   "end": 1625410800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "2nd STEP",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
