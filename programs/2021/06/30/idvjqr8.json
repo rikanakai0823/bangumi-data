@@ -2,7 +2,7 @@
   "id": "idvjqr8",
   "category": "sports",
   "title": "2021帝王賞生中継",
-  "fullTitle": "2021帝王賞生中継",
+  "fullTitle": "[生]2021帝王賞生中継",
   "detail": "ダート界の実力馬たちが全国各地から集う、上半期のダート頂上決戦『帝王賞(JpnI)』を生中継でお届けします。",
   "start": 1625047380000,
   "end": 1625054280000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }
