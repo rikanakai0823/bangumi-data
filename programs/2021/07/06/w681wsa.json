@@ -1,0 +1,23 @@
+{
+  "id": "w681wsa",
+  "category": "anime",
+  "title": "出会って5秒でバトル 放送直前特番",
+  "fullTitle": "出会って5秒でバトル 放送直前特番",
+  "detail": "この時間は「『出会って５秒でバトル』放送直前特番」を放送いたします",
+  "start": 1625581800000,
+  "end": 1625583600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "『出会って５秒でバトル』放送直前特番",
+  "episode": null,
+  "flags": []
+}

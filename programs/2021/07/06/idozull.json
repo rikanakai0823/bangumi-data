@@ -1,0 +1,25 @@
+{
+  "id": "idozull",
+  "category": "sports",
+  "title": "大相撲（２０２１年）　名古屋場所",
+  "fullTitle": "大相撲（２０２１年）　名古屋場所[多]",
+  "detail": "",
+  "start": 1625544000000,
+  "end": 1625551800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

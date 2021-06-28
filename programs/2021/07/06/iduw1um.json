@@ -1,0 +1,26 @@
+{
+  "id": "iduw1um",
+  "category": "cinema",
+  "title": "ジョーカー",
+  "fullTitle": "[映][SS]ジョーカー",
+  "detail": "ホアキン・フェニックスがアカデミー主演男優賞に輝いたサスペンスドラマ。悪のカリスマ“ジョーカー”誕生を描く。［Ｒ１５＋］",
+  "start": 1625556600000,
+  "end": 1625564100000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

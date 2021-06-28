@@ -1,0 +1,25 @@
+{
+  "id": "idy8idk",
+  "category": "drama",
+  "title": "シェキラ！",
+  "fullTitle": "シェキラ！#17[二]",
+  "detail": "#17「敵は友達！」",
+  "start": 1625509800000,
+  "end": 1625511600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "敵は友達！",
+  "episode": 17,
+  "flags": [
+    "二"
+  ]
+}

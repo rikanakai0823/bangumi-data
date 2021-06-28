@@ -1,0 +1,26 @@
+{
+  "id": "idugxax",
+  "category": "cinema",
+  "title": "トールキン　旅のはじまり（字幕版）[PG12指定]",
+  "fullTitle": "[映]トールキン　旅のはじまり（字幕版）[PG12指定][SS]",
+  "detail": "小説「指輪物語」「ホビットの冒険」の人気作家Ｊ・Ｒ・Ｒ・トールキンの若かりし日々を再現した伝記ドラマ。主演は「マッドマックス　怒りのデス・ロード」のＮ・ホルト。",
+  "start": 1625536800000,
+  "end": 1625544000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

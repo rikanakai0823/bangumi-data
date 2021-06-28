@@ -1,0 +1,23 @@
+{
+  "id": "idwqyel",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「１０月入学生募集中」",
+  "start": 1625578200000,
+  "end": 1625580000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 67
+  },
+  "subTitle": "１０月入学生募集中",
+  "episode": null,
+  "flags": []
+}

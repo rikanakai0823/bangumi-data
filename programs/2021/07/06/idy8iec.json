@@ -1,0 +1,25 @@
+{
+  "id": "idy8iec",
+  "category": "anime",
+  "title": "ロスト・イン・オズ",
+  "fullTitle": "ロスト・イン・オズ#6[二]",
+  "detail": "#6「起きて　起きて　起きて！」",
+  "start": 1625554800000,
+  "end": 1625556300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "起きて　起きて　起きて！",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}

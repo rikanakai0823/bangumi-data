@@ -1,0 +1,25 @@
+{
+  "id": "w698gl5",
+  "category": "news",
+  "title": "トーキング・ビジネス",
+  "fullTitle": "トーキング・ビジネス(再)",
+  "detail": "世界を変えていくビジネスの話題や経済動向を分析するビジネス情報番組。",
+  "start": 1625574600000,
+  "end": 1625576400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

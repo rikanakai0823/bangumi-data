@@ -1,0 +1,26 @@
+{
+  "id": "iduy6be",
+  "category": "cinema",
+  "title": "恋するベーカリー",
+  "fullTitle": "[映][SS]恋するベーカリー",
+  "detail": "メリル・ストリープ主演のロマンティックコメディ。人気ベーカリーの経営者でバツイチの女性に訪れた転機を描く。［Ｒ１５＋］",
+  "start": 1625524200000,
+  "end": 1625532300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

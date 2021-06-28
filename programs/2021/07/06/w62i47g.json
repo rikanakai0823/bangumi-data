@@ -1,0 +1,23 @@
+{
+  "id": "w62i47g",
+  "category": "information",
+  "title": "【無料】番組紹介（５分）",
+  "fullTitle": "【無料】番組紹介（５分）",
+  "detail": "ムービープラスのオススメ番組の紹介。",
+  "start": 1625511300000,
+  "end": 1625511600000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ムービープラス",
+    "id": "f0b4",
+    "sid": 240,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 95
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

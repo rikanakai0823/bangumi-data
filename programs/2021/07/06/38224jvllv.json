@@ -1,0 +1,27 @@
+{
+  "id": "38224jvllv",
+  "category": "information",
+  "title": "テレ朝番組みどころナビ",
+  "fullTitle": "テレ朝番組みどころナビ",
+  "detail": "テレビ朝日のおすすめ番組をご紹介！\r\n▽7/7(水)よる9時～　新番組『刑事７人』\r\n▽7/8(木)よる9時～　新番組『緊急取調室』\n◇◇番組ＨＰ\n『刑事７人』https://www.tv-asahi.co.jp/keiji7_07/\r\n『緊急取調室』https://www.tv-asahi.co.jp/kintori/",
+  "start": 1625499900000,
+  "end": 1625500200000,
+  "seconds": 300,
+  "description": "テレビ朝日のおすすめ番組をご紹介！\r\n▽7/7(水)よる9時～　新番組『刑事７人』\r\n▽7/8(木)よる9時～　新番組『緊急取調室』",
+  "extra": {
+    "◇番組ＨＰ": "『刑事７人』https://www.tv-asahi.co.jp/keiji7_07/\r\n『緊急取調室』https://www.tv-asahi.co.jp/kintori/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

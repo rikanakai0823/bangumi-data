@@ -1,0 +1,25 @@
+{
+  "id": "idy8idh",
+  "category": "anime",
+  "title": "スター・ウォーズ　レジスタンス",
+  "fullTitle": "スター・ウォーズ　レジスタンス#3[二]",
+  "detail": "#3「トリプル・ダーク」",
+  "start": 1625502600000,
+  "end": 1625504400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "トリプル・ダーク",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

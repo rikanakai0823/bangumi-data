@@ -1,0 +1,26 @@
+{
+  "id": "idugxb1",
+  "category": "cinema",
+  "title": "浪人街（１９９０）",
+  "fullTitle": "[映]浪人街（１９９０）[字]",
+  "detail": "原田芳雄、勝新太郎ら実力派俳優陣が集まった群像時代劇。江戸末期、なすこともなく毎日を無為に過ごしていた浪人たちが、悪辣な旗本一味を相手に立ち上がる様子を描いた。",
+  "start": 1625565600000,
+  "end": 1625572800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
