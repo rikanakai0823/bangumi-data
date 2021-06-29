@@ -1,0 +1,26 @@
+{
+  "id": "idv0d0q",
+  "category": "cinema",
+  "title": "ちいさな独裁者",
+  "fullTitle": "[映][SS]ちいさな独裁者[吹]",
+  "detail": "ロベルト・シュヴェンケ監督の戦争サスペンス。ナチス将校の軍服を偶然手に入れた脱走兵が暴走してゆく姿を描いた衝撃の実話。",
+  "start": 1625596200000,
+  "end": 1625605200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

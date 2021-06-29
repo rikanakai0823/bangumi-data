@@ -1,0 +1,25 @@
+{
+  "id": "idy8ifn",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#101[二]",
+  "detail": "#101「トッカ　地球に来襲！」",
+  "start": 1625634000000,
+  "end": 1625635800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "トッカ　地球に来襲！",
+  "episode": 101,
+  "flags": [
+    "二"
+  ]
+}

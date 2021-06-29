@@ -1,0 +1,26 @@
+{
+  "id": "rktcsx1",
+  "category": "drama",
+  "title": "熱血商売人",
+  "fullTitle": "熱血商売人　#1　[字][初]",
+  "detail": "2009年 全20話",
+  "start": 1625638500000,
+  "end": 1625643000000,
+  "seconds": 4500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "初"
+  ]
+}

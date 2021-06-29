@@ -1,0 +1,23 @@
+{
+  "id": "w67dqwt",
+  "category": "music",
+  "title": "Billboard Japan カウントダウン",
+  "fullTitle": "Billboard Japan カウントダウン",
+  "detail": "店舗売上、配信、SNSなど、音楽マーケットの動向を総合的に反映したランキング番組です。",
+  "start": 1625652000000,
+  "end": 1625659200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 123
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

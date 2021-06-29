@@ -1,0 +1,25 @@
+{
+  "id": "w67vk1x",
+  "category": "anime",
+  "title": "イナズマイレブン オリオンの刻印 ,43",
+  "fullTitle": "イナズマイレブン オリオンの刻印[字] #42,43",
+  "detail": "＃４２「小さな空の下」＃４３「あのサッカーをやろう」",
+  "start": 1625639400000,
+  "end": 1625643000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "小さな空の下",
+  "episode": 42,
+  "flags": [
+    "字"
+  ]
+}

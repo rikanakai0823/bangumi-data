@@ -1,0 +1,25 @@
+{
+  "id": "iduw4r8",
+  "category": "drama",
+  "title": "ＤＥＶＩＬＳ～金融の悪魔～",
+  "fullTitle": "[SS]ＤＥＶＩＬＳ～金融の悪魔～　＃１",
+  "detail": "【独占日本初放送】",
+  "start": 1625630400000,
+  "end": 1625634000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "独占日本初放送",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

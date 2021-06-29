@@ -1,0 +1,26 @@
+{
+  "id": "idugxbd",
+  "category": "cinema",
+  "title": "ざわざわ下北沢",
+  "fullTitle": "[映]ざわざわ下北沢[字]",
+  "detail": "原田芳雄が主演し、名手・市川準監督が繊細な演出を披露。流行とノスタルジーが同居する東京・下北沢。独特の浮遊感が漂い、どこか懐かしい気分にさせられるこの街を描く。",
+  "start": 1625652000000,
+  "end": 1625659200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

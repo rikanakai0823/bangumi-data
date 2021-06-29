@@ -1,0 +1,25 @@
+{
+  "id": "w67vk14",
+  "category": "anime",
+  "title": "ポケットモンスター ,45",
+  "fullTitle": "ポケットモンスター[字] #44,45",
+  "detail": "＃４４「パラスとパラセクト」＃４５「うたって！プリン！」",
+  "start": 1625587200000,
+  "end": 1625590800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "パラスとパラセクト",
+  "episode": 44,
+  "flags": [
+    "字"
+  ]
+}

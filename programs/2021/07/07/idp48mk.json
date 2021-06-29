@@ -1,0 +1,25 @@
+{
+  "id": "idp48mk",
+  "category": "documentary",
+  "title": "富士山・いのち育む山",
+  "fullTitle": "富士山・いのち育む山[字]",
+  "detail": "【語り】久保田祐佳",
+  "start": 1625591100000,
+  "end": 1625592600000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "語り",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

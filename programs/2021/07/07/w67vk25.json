@@ -1,0 +1,25 @@
+{
+  "id": "w67vk25",
+  "category": "anime",
+  "title": "ポケットモンスター ,47",
+  "fullTitle": "ポケットモンスター[字] #46,47",
+  "detail": "＃４６「ふっかつ！？かせきポケモン」＃４７「ラッキーのカルテ」",
+  "start": 1625655600000,
+  "end": 1625659200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ふっかつ！？かせきポケモン",
+  "episode": 46,
+  "flags": [
+    "字"
+  ]
+}

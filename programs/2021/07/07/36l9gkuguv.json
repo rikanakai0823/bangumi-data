@@ -1,0 +1,29 @@
+{
+  "id": "36l9gkuguv",
+  "category": "music",
+  "title": "カラオケ大賞　第１９０５回津吹みゆ",
+  "fullTitle": "カラオケ大賞　第１９０５回【ゲスト】津吹みゆ[再]",
+  "detail": "【ゲスト】津吹みゆ\n◇出演者\n【審査員長】伊戸のりお\r\n【司会】吉岡美穂",
+  "start": 1625612400000,
+  "end": 1625615700000,
+  "seconds": 3300,
+  "description": "【ゲスト】津吹みゆ",
+  "extra": {
+    "出演者": "【審査員長】伊戸のりお\r\n【司会】吉岡美穂\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
