@@ -2,7 +2,7 @@
   "id": "rkv8xw8",
   "category": "news",
   "title": "Evening　News",
-  "fullTitle": "Evening　News",
+  "fullTitle": "[無料]Evening　News",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Evening News」",
   "start": 1625392800000,
   "end": 1625400000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "日テレNEWS24・Evening News",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

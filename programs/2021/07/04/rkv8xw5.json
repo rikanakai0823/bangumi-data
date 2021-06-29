@@ -2,7 +2,7 @@
   "id": "rkv8xw5",
   "category": "news",
   "title": "Morning　News",
-  "fullTitle": "Morning　News",
+  "fullTitle": "[無料]Morning　News",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Morning News」",
   "start": 1625356800000,
   "end": 1625367600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "日テレNEWS24・Morning News",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

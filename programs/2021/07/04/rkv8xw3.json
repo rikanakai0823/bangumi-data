@@ -2,7 +2,7 @@
   "id": "rkv8xw3",
   "category": "news",
   "title": "Early　Morning　News",
-  "fullTitle": "Early　Morning　News",
+  "fullTitle": "[無料]Early　Morning　News",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Early Morning News」",
   "start": 1625346000000,
   "end": 1625349600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "日テレNEWS24・Early Morning News",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

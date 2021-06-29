@@ -2,7 +2,7 @@
   "id": "rkv8xw1",
   "category": "news",
   "title": "Pre-Dawn　Update",
-  "fullTitle": "Pre-Dawn　Update",
+  "fullTitle": "[無料]Pre-Dawn　Update",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Pre-Dawn　Update」",
   "start": 1625338800000,
   "end": 1625342400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "日テレNEWS24・Pre-Dawn　Update",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
