@@ -1,0 +1,25 @@
+{
+  "id": "iduw7x0",
+  "category": "drama",
+  "title": "ビカミング・ア・ゴッド",
+  "fullTitle": "[SS]ビカミング・ア・ゴッド　＃１",
+  "detail": "【レギュラー放送スタート】",
+  "start": 1625716800000,
+  "end": 1625720400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "レギュラー放送スタート",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iducm5x",
+  "category": "anime",
+  "title": "あしたのジョー",
+  "fullTitle": "あしたのジョー　＃６７　小さな冒険旅行[字]",
+  "detail": "",
+  "start": 1625677200000,
+  "end": 1625679000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "小さな冒険旅行",
+  "episode": 67,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idugxbk",
+  "category": "cinema",
+  "title": "アトラクション　制圧（字幕版）",
+  "fullTitle": "[映]アトラクション　制圧（字幕版）[SS]",
+  "detail": "モスクワに巨大宇宙船が墜落。地球人が異星人と接近遭遇する中、軍司令官の娘は彼らが宇宙へ帰れるよう奔走する。後に続編「～侵略」も作られたロシア産ＳＦスペクタクル。",
+  "start": 1625701500000,
+  "end": 1625708700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "～侵略",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

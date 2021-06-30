@@ -1,0 +1,23 @@
+{
+  "id": "idskarw",
+  "category": "information",
+  "title": "ＴＶショッピング",
+  "fullTitle": "ＴＶショッピング",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1625734440000,
+  "end": 1625734800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w693kvh",
+  "category": "news",
+  "title": "ウェイクアップニュース",
+  "fullTitle": "ウェイクアップニュース[字]",
+  "detail": "▽国内外の最新・注目ニュース、お天気情報　▽トピックスやトレンド、季節の話題　▽速報は“ブレイキングニュース”",
+  "start": 1625684400000,
+  "end": 1625698800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

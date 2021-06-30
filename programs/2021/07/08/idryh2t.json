@@ -1,0 +1,23 @@
+{
+  "id": "idryh2t",
+  "category": "information",
+  "title": "ＦｏｏｄＳａｖｅｒテレビショッピング",
+  "fullTitle": "ＦｏｏｄＳａｖｅｒテレビショッピング",
+  "detail": "テレビショッピング",
+  "start": 1625697000000,
+  "end": 1625698800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

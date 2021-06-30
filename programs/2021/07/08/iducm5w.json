@@ -1,0 +1,25 @@
+{
+  "id": "iducm5w",
+  "category": "anime",
+  "title": "あしたのジョー",
+  "fullTitle": "あしたのジョー　＃６６　明日への旅立ち[字]",
+  "detail": "",
+  "start": 1625675400000,
+  "end": 1625677200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "明日への旅立ち",
+  "episode": 66,
+  "flags": [
+    "字"
+  ]
+}

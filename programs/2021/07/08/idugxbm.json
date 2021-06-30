@@ -1,0 +1,26 @@
+{
+  "id": "idugxbm",
+  "category": "cinema",
+  "title": "ぼくが処刑される未来",
+  "fullTitle": "[映]ぼくが処刑される未来[字]",
+  "detail": "福士蒼汰、吉沢亮らが共演した、シリアスなＳＦサスペンス。未来に起きる殺人事件が原因で２５年後の世界に飛ばされ、そこで被告となり、逃亡を開始する青年の危機を描く。",
+  "start": 1625716800000,
+  "end": 1625722200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rktcsxg",
+  "category": "drama",
+  "title": "風の国",
+  "fullTitle": "風の国　#18　[字]",
+  "detail": "2008 年　全36話",
+  "start": 1625697300000,
+  "end": 1625701500000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 18,
+  "flags": [
+    "字"
+  ]
+}

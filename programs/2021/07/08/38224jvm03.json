@@ -1,0 +1,27 @@
+{
+  "id": "38224jvm03",
+  "category": "information",
+  "title": "テレ朝番組みどころナビ",
+  "fullTitle": "テレ朝番組みどころナビ",
+  "detail": "テレビ朝日のおすすめ番組をご紹介！\r\n▽7/8(木)よる8時～『ＩＰ～サイバー捜査班』\r\n▽7/8(木)よる9時～　新番組『緊急取調室』\n◇◇番組ＨＰ\n『ＩＰ～サイバー捜査班』https://www.tv-asahi.co.jp/ip/\r\n『緊急取調室』https://www.tv-asahi.co.jp/kintori/",
+  "start": 1625673300000,
+  "end": 1625673600000,
+  "seconds": 300,
+  "description": "テレビ朝日のおすすめ番組をご紹介！\r\n▽7/8(木)よる8時～『ＩＰ～サイバー捜査班』\r\n▽7/8(木)よる9時～　新番組『緊急取調室』",
+  "extra": {
+    "◇番組ＨＰ": "『ＩＰ～サイバー捜査班』https://www.tv-asahi.co.jp/ip/\r\n『緊急取調室』https://www.tv-asahi.co.jp/kintori/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

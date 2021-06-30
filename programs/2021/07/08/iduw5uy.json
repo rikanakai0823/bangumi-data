@@ -1,0 +1,25 @@
+{
+  "id": "iduw5uy",
+  "category": "drama",
+  "title": "ザ・パシフィック",
+  "fullTitle": "[SS]ザ・パシフィック　＃５",
+  "detail": "【海外ドラマシリーズ一挙放送】",
+  "start": 1625682600000,
+  "end": 1625687100000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "海外ドラマシリーズ一挙放送",
+  "episode": 5,
+  "flags": [
+    "SS"
+  ]
+}

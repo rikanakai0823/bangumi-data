@@ -1,0 +1,27 @@
+{
+  "id": "idugxbn",
+  "category": "cinema",
+  "title": "劇場版　幼女戦記[PG12指定]",
+  "fullTitle": "[映]劇場版　幼女戦記[PG12指定][SS][字]",
+  "detail": "カルロ・ゼンのファンタジー戦記小説をもとにしたＴＶアニメの劇場版。戦火が拡大していく異世界を舞台に、金髪碧眼の少女ターニャ率いる帝国軍航空魔導大隊の戦いを描く。",
+  "start": 1625722200000,
+  "end": 1625728500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

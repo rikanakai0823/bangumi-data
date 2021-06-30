@@ -1,0 +1,23 @@
+{
+  "id": "rks312u",
+  "category": "information",
+  "title": "TBSチャンネルショッピング",
+  "fullTitle": "TBSチャンネルショッピング",
+  "detail": "選りすぐりの商品をご紹介します！",
+  "start": 1625677500000,
+  "end": 1625679300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

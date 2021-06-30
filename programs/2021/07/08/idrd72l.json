@@ -1,0 +1,25 @@
+{
+  "id": "idrd72l",
+  "category": "anime",
+  "title": "アニメ　ＴＳＵＫＩＰＲＯ　ＴＨＥ　ＡＮＩＭＡＴＩＯＮ２",
+  "fullTitle": "[新]アニメ　ＴＳＵＫＩＰＲＯ　ＴＨＥ　ＡＮＩＭＡＴＩＯＮ２　第１話",
+  "detail": "第１話　僕たちは朝起きるのが待てなかった",
+  "start": 1625671800000,
+  "end": 1625673600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 44
+  },
+  "subTitle": "僕たちは朝起きるのが待てなかった",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
