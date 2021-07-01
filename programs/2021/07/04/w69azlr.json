@@ -1,9 +1,9 @@
 {
   "id": "w69azlr",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "[二]特別番組",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "スタンリー・トゥッチのイタリア食紀行",
+  "fullTitle": "[二]スタンリー・トゥッチのイタリア食紀行",
+  "detail": "#3 ボローニャ　俳優スタンリー・トゥッチが、名物ボロネーゼを堪能。「イタリアチーズの王様」パルミジャーノ、パルマ産生ハム、伝統的なバルサミコ酢を探し求める。",
   "start": 1625360400000,
   "end": 1625364000000,
   "seconds": 3600,
@@ -17,8 +17,8 @@
     "hasLogoData": false,
     "n": 139
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "イタリアチーズの王様",
+  "episode": 3,
   "flags": [
     "二"
   ]
