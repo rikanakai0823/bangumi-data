@@ -1,0 +1,25 @@
+{
+  "id": "iducm6u",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６８２",
+  "detail": "",
+  "start": 1625808000000,
+  "end": 1625808600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 682,
+  "flags": [
+    "無"
+  ]
+}

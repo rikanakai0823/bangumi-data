@@ -1,0 +1,25 @@
+{
+  "id": "idy8ihp",
+  "category": "drama",
+  "title": "スイート・ライフ　オン・クルーズ",
+  "fullTitle": "スイート・ライフ　オン・クルーズ#20[二]",
+  "detail": "#20「ブルーなティーン・クルーズ」",
+  "start": 1625760000000,
+  "end": 1625761800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ブルーなティーン・クルーズ",
+  "episode": 20,
+  "flags": [
+    "二"
+  ]
+}

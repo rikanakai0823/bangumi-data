@@ -1,0 +1,25 @@
+{
+  "id": "w66h0ip",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×広島",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×広島",
+  "detail": "「東京ヤクルト　ｖｓ　広島」\r\n＜開催＞２０２１年７月９日（金）【生中継】\r\n　～神宮球場\r\n＜解説＞若松勉　＜実況＞酒主義久\r\n※変更の場合あり",
+  "start": 1625818800000,
+  "end": 1625837400000,
+  "seconds": 18600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "東京ヤクルト　ｖｓ　広島",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iducm6x",
+  "category": "cinema",
+  "title": "漂流教室",
+  "fullTitle": "[映]漂流教室[字]",
+  "detail": "楳図かずおの名作漫画を大林宣彦監督が実写映画化したＳＦサバイバルアドベンチャー。文明が滅びた未来へ学校ごと飛ばされた子どもたちが、懸命に生きていく姿を綴る。",
+  "start": 1625812200000,
+  "end": 1625818500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

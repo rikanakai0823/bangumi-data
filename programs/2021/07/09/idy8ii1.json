@@ -1,0 +1,25 @@
+{
+  "id": "idy8ii1",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#10[解]",
+  "detail": "#10「ツムツム寿司」",
+  "start": 1625783220000,
+  "end": 1625783400000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ツムツム寿司",
+  "episode": 10,
+  "flags": [
+    "解"
+  ]
+}

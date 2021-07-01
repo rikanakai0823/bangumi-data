@@ -1,0 +1,26 @@
+{
+  "id": "idozv98",
+  "category": "sports",
+  "title": "プロ野球２０２１「阪神」対",
+  "fullTitle": "プロ野球２０２１「阪神」対「巨人」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】今中慎二，【アナウンサー】宮田貴行　～甲子園球場から中継～",
+  "start": 1625821200000,
+  "end": 1625833800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "巨人",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

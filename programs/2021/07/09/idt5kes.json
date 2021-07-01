@@ -1,0 +1,23 @@
+{
+  "id": "idt5kes",
+  "category": "documentary",
+  "title": "Ｂｅｅワールド",
+  "fullTitle": "Ｂｅｅワールド",
+  "detail": "日本篇「養蜂始めました～分蜂篇～」",
+  "start": 1625824440000,
+  "end": 1625824800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "養蜂始めました～分蜂篇～",
+  "episode": null,
+  "flags": []
+}

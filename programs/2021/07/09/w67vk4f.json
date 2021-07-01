@@ -1,0 +1,25 @@
+{
+  "id": "w67vk4f",
+  "category": "anime",
+  "title": "弱虫ペダル ,30",
+  "fullTitle": "弱虫ペダル[字] #29,30",
+  "detail": "＃２９「山頂」＃３０「荒北と今泉」",
+  "start": 1625821200000,
+  "end": 1625824800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "山頂",
+  "episode": 29,
+  "flags": [
+    "字"
+  ]
+}

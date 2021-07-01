@@ -1,0 +1,26 @@
+{
+  "id": "rktcsyk",
+  "category": "cinema",
+  "title": "Ｋ－シアター",
+  "fullTitle": "Ｋ－シアター「スウィンダラーズ」[字][再]",
+  "detail": "KBS World初放送！「愛の不時着」ヒョンビン主演！駆け引きと裏切りの連続に大どんでん返しが待ち受ける、愉快・痛快・爽快の犯罪アクション・エンターテイメント！2017年",
+  "start": 1625841600000,
+  "end": 1625849700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "スウィンダラーズ",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

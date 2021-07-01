@@ -1,0 +1,23 @@
+{
+  "id": "w63j0fp",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～甲子園～",
+  "fullTitle": "DRAMATIC BASEBALL2021「阪神×巨人」～甲子園～",
+  "detail": "～当日再放送",
+  "start": 1625839200000,
+  "end": 1625853600000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "阪神×巨人",
+  "episode": null,
+  "flags": []
+}
