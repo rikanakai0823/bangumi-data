@@ -1,9 +1,9 @@
 {
   "id": "w681wpg",
   "category": "anime",
-  "title": "promo-X",
-  "fullTitle": "[無]promo-X #180",
-  "detail": "声優さんやアーティストたちのプロモーションビデオを一挙に放送する、AT-X music file「promo-X」。\r\nナビゲーターは、大橋彩香さん♪",
+  "title": "蜘蛛ですが、なにか？",
+  "fullTitle": "[無]蜘蛛ですが、なにか？ #24 [終]",
+  "detail": "#24 まだ蜘蛛ですが、なにか？\r\n【全24話】2021年放送作品",
   "start": 1625313600000,
   "end": 1625315400000,
   "seconds": 1800,
@@ -17,9 +17,10 @@
     "hasLogoData": false,
     "n": 130
   },
-  "subTitle": "promo-X",
-  "episode": 180,
+  "subTitle": "まだ蜘蛛ですが、なにか？",
+  "episode": 24,
   "flags": [
-    "無"
+    "無",
+    "終"
   ]
 }
