@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Back In Time\"MARSHMELLO & CARNAGE\r\n\"Todo De Ti\"RAUW ALEJANDRO\r\n\"Wait, I Lied\"ALFIE TEMPLEMAN\r\n\"Pareja Del Ano\"SEBASTIAN YATRA & MYKE TOWERS\n◇番組内容２\n\"Solar Power\"LORDE\r\n\"Livin' On A Prayer\"2CELLOS\r\n\"Flying On The Ground\"NOEL GALLAGHER' HIGH FLYING BIRDS",
   "start": 1625497200000,
   "end": 1625499000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Back In Time\"MARSHMELLO & CARNAGE\r\n\"Todo De Ti\"RAUW ALEJANDRO\r\n\"Wait, I Lied\"ALFIE TEMPLEMAN\r\n\"Pareja Del Ano\"SEBASTIAN YATRA & MYKE TOWERS",
+    "番組内容２": "\"Solar Power\"LORDE\r\n\"Livin' On A Prayer\"2CELLOS\r\n\"Flying On The Ground\"NOEL GALLAGHER' HIGH FLYING BIRDS"
   },
   "channel": {
     "type": "GR",

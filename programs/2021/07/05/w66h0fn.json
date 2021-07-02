@@ -1,0 +1,25 @@
+{
+  "id": "w66h0fn",
+  "category": "sports",
+  "title": "プロ野球ニュース 2021",
+  "fullTitle": "[生]プロ野球ニュース 2021",
+  "detail": "＜解説＞平松政次　笘篠賢治\r\n＜ＭＣ＞黒瀬翔生\r\n▽プロ野球全試合の結果をお届け！\r\n　【生放送】\r\n※再放送に変更の場合あり",
+  "start": 1625493600000,
+  "end": 1625497200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

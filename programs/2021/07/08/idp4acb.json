@@ -1,0 +1,26 @@
+{
+  "id": "idp4acb",
+  "category": "documentary",
+  "title": "国宝へようこそ",
+  "fullTitle": "国宝へようこそ（６）「春日大社」[字][再]",
+  "detail": "奈良時代、平城京の東に創建された春日大社。国宝の本殿に八百年納められていた「日本で作られた最も美しい楽器」。なぜ神は音楽を愛するのか。深夜の秘儀から解き明かす。",
+  "start": 1625707800000,
+  "end": 1625710500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "春日大社",
+  "episode": 6,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
