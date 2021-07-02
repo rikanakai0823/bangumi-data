@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkuged",
+  "category": "hobby",
+  "title": "みんなで防災～もしもにソナエル～",
+  "fullTitle": "みんなで防災～もしもにソナエル～[再]",
+  "detail": "地震の仕組みと千葉の地震の発生確率",
+  "start": 1625207400000,
+  "end": 1625207700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
