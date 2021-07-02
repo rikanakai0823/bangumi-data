@@ -1,12 +1,12 @@
 {
   "id": "idoztx1",
   "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！[字]",
-  "detail": "",
+  "title": "四国推し！　四国らしんばん",
+  "fullTitle": "四国推し！　四国らしんばん「コロナ禍の“変革者”たち」[字]",
+  "detail": "コロナ禍でも存在感を放つ企業がある。オンラインバスツアーが人気のバス会社。カプセルトイで新たなファンを獲得した真珠卸会社。コロナの時代、地方が輝くヒントを探る。",
   "start": 1625497800000,
-  "end": 1625500800000,
-  "seconds": 3000,
+  "end": 1625499360000,
+  "seconds": 1560,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "コロナ禍の“変革者”たち",
   "episode": null,
   "flags": [
     "字"
