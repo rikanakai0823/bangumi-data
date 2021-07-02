@@ -1,0 +1,25 @@
+{
+  "id": "rlm3xyy",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.オリックス",
+  "fullTitle": "[生]HAWKS プロ野球中継2021 ソフトバンクvs.オリックス",
+  "detail": "▽7月10日開催\r\n解説/実況：加藤伸一/大前一樹\r\n開催日時：2021年7月10日 (土) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1625906700000,
+  "end": 1625925600000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

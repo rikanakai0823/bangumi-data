@@ -1,0 +1,25 @@
+{
+  "id": "idx1rar",
+  "category": "anime",
+  "title": "SSSS.DYNAZENON",
+  "fullTitle": "[字]SSSS.DYNAZENON #8",
+  "detail": "#8\r\nフジヨキ台高校一年生の麻中蓬はある日の帰り道、『怪獣使い』を名乗る謎の男ガウマと出会う。突如現れる怪獣と巨…",
+  "start": 1625922000000,
+  "end": 1625923800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": [
+    "字"
+  ]
+}

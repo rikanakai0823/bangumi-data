@@ -1,0 +1,27 @@
+{
+  "id": "iducm7i",
+  "category": "cinema",
+  "title": "タイムマシン（吹替版）",
+  "fullTitle": "[映]タイムマシン（吹替版）[SS][字]",
+  "detail": "Ｈ・Ｇ・ウェルズの古典ＳＦをＶＦＸ満載で映画化したスペクタクルアドベンチャー。殺された婚約者を取り戻そうとタイムマシンを作った天才科学者は、８０万年後の未来へ。",
+  "start": 1625917800000,
+  "end": 1625923800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idrfcbv",
+  "category": "music",
+  "title": "ＣＡＴ　ＭＵＳＩＣ　ＴＶ",
+  "fullTitle": "ＣＡＴ　ＭＵＳＩＣ　ＴＶ",
+  "detail": "",
+  "start": 1625853600000,
+  "end": 1625855400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

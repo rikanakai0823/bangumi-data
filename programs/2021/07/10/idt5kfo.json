@@ -1,0 +1,23 @@
+{
+  "id": "idt5kfo",
+  "category": "sports",
+  "title": "ウイニング競馬　～福島～",
+  "fullTitle": "ウイニング競馬　～福島～",
+  "detail": "【福島】10Ｒいわき特別、11Ｒ阿武隈Ｓ\r\n【小倉】10Ｒインディアトロフィー、\r\n　　　　11Ｒマレーシアカップ\r\n【函館】11ＲマリーンＳ",
+  "start": 1625895000000,
+  "end": 1625900400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "福島",
+  "episode": null,
+  "flags": []
+}

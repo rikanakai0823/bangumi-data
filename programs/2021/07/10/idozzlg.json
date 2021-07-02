@@ -1,0 +1,25 @@
+{
+  "id": "idozzlg",
+  "category": "sports",
+  "title": "群馬発スポヂカラ！",
+  "fullTitle": "群馬発スポヂカラ！[字]",
+  "detail": "",
+  "start": 1625905800000,
+  "end": 1625907480000,
+  "seconds": 1680,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

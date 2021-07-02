@@ -1,0 +1,25 @@
+{
+  "id": "idtr345",
+  "category": "variety",
+  "title": "所さんの世田谷ベース",
+  "fullTitle": "[字]所さんの世田谷ベース",
+  "detail": "所ジョージがオススメする、大人のための大人遊戯大全！",
+  "start": 1625927400000,
+  "end": 1625930700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
