@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "スポーツニュース",
   "fullTitle": "スポーツニュース[字]",
-  "detail": "",
+  "detail": "【キャスター】横山哲也\n◇出演者\n【キャスター】横山哲也",
   "start": 1625921400000,
   "end": 1625922000000,
   "seconds": 600,
+  "description": "【キャスター】横山哲也",
+  "extra": {
+    "出演者": "【キャスター】横山哲也"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": null,
   "flags": [
     "字"
