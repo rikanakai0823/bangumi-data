@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksmu3",
+  "id": "381f5ksum3",
   "category": "news",
-  "title": "ニュース（関東・山梨・長野）",
-  "fullTitle": "ニュース（関東・山梨・長野）[字]",
+  "title": "ニュース",
+  "fullTitle": "ニュース「大雨関連」[字]",
   "detail": "",
-  "start": 1625282100000,
-  "end": 1625282400000,
-  "seconds": 300,
+  "start": 1625277300000,
+  "end": 1625279040000,
+  "seconds": 1740,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "大雨関連",
   "episode": null,
   "flags": [
     "字"

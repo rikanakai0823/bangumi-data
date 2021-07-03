@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yb3",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.楽天",
+  "fullTitle": "HAWKS プロ野球中継2021 ソフトバンクvs.楽天",
+  "detail": "▽5月4日開催\r\n解説/実況：攝津正/信川竜太\r\n開催日時：2021年5月4日 (火) 14:00\r\n会場：福岡PayPayドーム",
+  "start": 1625454000000,
+  "end": 1625470800000,
+  "seconds": 16800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
