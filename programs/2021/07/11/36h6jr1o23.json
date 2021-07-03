@@ -1,0 +1,28 @@
+{
+  "id": "36h6jr1o23",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
+  "detail": "「川口オート」\n◇番組内容\n▽川口オート：テレ玉presents川口ナイトレース・最終日\n◇出演者\n小川麻希",
+  "start": 1626010200000,
+  "end": 1626012000000,
+  "seconds": 1800,
+  "description": "「川口オート」",
+  "extra": {
+    "番組内容": "▽川口オート：テレ玉presents川口ナイトレース・最終日",
+    "出演者": "小川麻希"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "川口オート",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67kg00",
+  "category": "music",
+  "title": "テレビ独占生中継! M-ON! LIVE Novelbright",
+  "fullTitle": "[生]テレビ独占生中継! M-ON! LIVE Novelbright",
+  "detail": "全国7ヶ所を巡るツアー「～新章・開幕宣言～ Major 1st Full Album 『開幕宣言』 Release Tour」より、最終日となる7/11(日)の大阪城ホール公演をテレビ独占生中継！",
+  "start": 1625994000000,
+  "end": 1626006600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 126
+  },
+  "subTitle": "～新章・開幕宣言～ Major 1st Full Album 『開幕宣言』 Release Tour",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

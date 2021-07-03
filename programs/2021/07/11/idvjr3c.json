@@ -1,0 +1,26 @@
+{
+  "id": "idvjr3c",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【福島】５Ｒ～８Ｒ、９Ｒ「織姫賞」\r\n【小倉】５Ｒ～８Ｒ、９Ｒ「タイランドカップ」",
+  "start": 1625972400000,
+  "end": 1625983200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

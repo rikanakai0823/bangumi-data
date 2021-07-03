@@ -1,0 +1,26 @@
+{
+  "id": "idozwce",
+  "category": "sports",
+  "title": "Ｊリーグ２０２１「湘南ベルマーレ」対",
+  "fullTitle": "Ｊリーグ２０２１「湘南ベルマーレ」対「ＦＣ東京」[多][デ]",
+  "detail": "　※副音声は場内音声　（試合開始　７：０１）　【解説】山本昌邦，【アナウンサー】曽根優　～レモンガススタジアム平塚から中継～",
+  "start": 1625997600000,
+  "end": 1626004800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ＦＣ東京",
+  "episode": null,
+  "flags": [
+    "多",
+    "デ"
+  ]
+}

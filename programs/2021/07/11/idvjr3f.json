@@ -1,0 +1,26 @@
+{
+  "id": "idvjr3f",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【函館】12Ｒ「函館道新スポーツ杯」\r\n【小倉】12Ｒ「シンガポールターフクラブ賞」\r\n【福島】12Ｒ「彦星賞」",
+  "start": 1625986800000,
+  "end": 1625992200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

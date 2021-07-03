@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr3t7q",
+  "category": "sports",
+  "title": "川口オート  テレ玉杯川口ナイトレース  テレビ実況中継",
+  "fullTitle": "川口オート  テレ玉杯川口ナイトレース  テレビ実況中継[Ｓ]",
+  "detail": "",
+  "start": 1626006000000,
+  "end": 1626008700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

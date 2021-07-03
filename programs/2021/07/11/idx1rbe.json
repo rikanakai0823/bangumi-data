@@ -1,0 +1,25 @@
+{
+  "id": "idx1rbe",
+  "category": "anime",
+  "title": "名探偵コナン 7月号",
+  "fullTitle": "[字]名探偵コナン 7月号",
+  "detail": "#739「工藤新一水族館事件（前編）」\r\n#740「工藤新一水族館事件（後編）」\r\n#741「消えたムンクの叫び」\r\n\r\n小さな探偵が…",
+  "start": 1626001200000,
+  "end": 1626006600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "工藤新一水族館事件（前編）",
+  "episode": 739,
+  "flags": [
+    "字"
+  ]
+}

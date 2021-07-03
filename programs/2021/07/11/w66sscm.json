@@ -1,0 +1,25 @@
+{
+  "id": "w66sscm",
+  "category": "drama",
+  "title": "9-1-1: Lone Star シーズン1 ◆キャッチアップ放送！",
+  "fullTitle": "9-1-1: Lone Star シーズン1 #3[字]◆キャッチアップ放送！",
+  "detail": "大人気ドラマ「９－１－１：ＬＡ救命最前線」のスピンオフが日本初上陸。テキサスの救命最前線を熱く、スタイリッシュに描く！最新エピソードは毎週木曜２２時より放送！",
+  "start": 1625932800000,
+  "end": 1625936400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 117
+  },
+  "subTitle": "９－１－１：ＬＡ救命最前線",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

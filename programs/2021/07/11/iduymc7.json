@@ -1,0 +1,26 @@
+{
+  "id": "iduymc7",
+  "category": "cinema",
+  "title": "リズム・セクション",
+  "fullTitle": "[映][SS]リズム・セクション",
+  "detail": "ブレイク・ライヴリー、ジュード・ロウ共演のアクション。テロで家族を失った女性が、復讐を誓いスパイとなる。［ＰＧ１２相当］",
+  "start": 1625966100000,
+  "end": 1625973300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

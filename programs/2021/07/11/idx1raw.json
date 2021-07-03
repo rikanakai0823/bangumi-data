@@ -1,0 +1,25 @@
+{
+  "id": "idx1raw",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#209「山の音」\r\n#210「ぼのちゃん～ねてみよう」\r\n#211「スナドリネコさんのともだち」\r\n#212「スナドリネコさんとスー…",
+  "start": 1625950800000,
+  "end": 1625952600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "山の音",
+  "episode": 209,
+  "flags": [
+    "字"
+  ]
+}

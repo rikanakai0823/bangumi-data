@@ -1,0 +1,26 @@
+{
+  "id": "idv0pps",
+  "category": "cinema",
+  "title": "追想（２０１７）",
+  "fullTitle": "[映][SS]追想（２０１７）[吹]",
+  "detail": "ブッカー賞作家イアン・マキューアンの小説を映画化したラブストーリー。新婚初夜の出来事を機に変わりゆく夫婦の人生を描く。",
+  "start": 1625943600000,
+  "end": 1625950800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

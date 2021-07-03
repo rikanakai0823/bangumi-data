@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksqlb",
+  "category": "sports",
+  "title": "バスケットボール　男子日本代表国際試合",
+  "fullTitle": "バスケットボール　男子日本代表国際試合[字]",
+  "detail": "～沖縄アリーナから中継～",
+  "start": 1625976300000,
+  "end": 1625983200000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

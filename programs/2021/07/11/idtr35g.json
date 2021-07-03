@@ -1,0 +1,25 @@
+{
+  "id": "idtr35g",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　七夕賞（GⅢ）　プロキオンS",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　七夕賞（GⅢ）　プロキオンS(GⅢ)",
+  "detail": "2021年は毎週放送！福島：七夕賞（GⅢ）小倉：プロオキオンステークス（GⅢ）函館：五稜郭ステークス／ゲスト：鈴木淑子／解説：椋木宏（競馬エイト）",
+  "start": 1625983200000,
+  "end": 1625986800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

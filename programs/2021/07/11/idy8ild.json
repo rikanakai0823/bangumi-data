@@ -1,0 +1,25 @@
+{
+  "id": "idy8ild",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "キャンプ・キキワカ#82[二]",
+  "detail": "#82「妖精の忘れ物」",
+  "start": 1626013800000,
+  "end": 1626015600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "妖精の忘れ物",
+  "episode": 82,
+  "flags": [
+    "二"
+  ]
+}
