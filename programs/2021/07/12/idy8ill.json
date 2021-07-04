@@ -1,0 +1,25 @@
+{
+  "id": "idy8ill",
+  "category": "drama",
+  "title": "ハーレーはド真ん中",
+  "fullTitle": "ハーレーはド真ん中#20[二]",
+  "detail": "#20「コマーシャルを作ろう」",
+  "start": 1626030000000,
+  "end": 1626031800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "コマーシャルを作ろう",
+  "episode": 20,
+  "flags": [
+    "二"
+  ]
+}

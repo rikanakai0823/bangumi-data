@@ -1,0 +1,25 @@
+{
+  "id": "idp2225",
+  "category": "sports",
+  "title": "ＰＧＡゴルフツアー",
+  "fullTitle": "ＰＧＡゴルフツアー[二]",
+  "detail": "",
+  "start": 1626040140000,
+  "end": 1626040800000,
+  "seconds": 660,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

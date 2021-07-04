@@ -1,0 +1,23 @@
+{
+  "id": "idrd79s",
+  "category": "music",
+  "title": "歌謡プレミアム",
+  "fullTitle": "歌謡プレミアム",
+  "detail": "",
+  "start": 1626087600000,
+  "end": 1626090840000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

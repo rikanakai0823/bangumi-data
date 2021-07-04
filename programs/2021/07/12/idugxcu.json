@@ -1,0 +1,26 @@
+{
+  "id": "idugxcu",
+  "category": "cinema",
+  "title": "そろばんずく",
+  "fullTitle": "[映]そろばんずく[字]",
+  "detail": "とんねるずが１９８６年、ＴＶ「夕やけニャンニャン」などで人気爆発していた当時に映画初主演。広告代理店同士の競争をユーモラスに描いた業界コメディ。監督は森田芳光。",
+  "start": 1626041700000,
+  "end": 1626048900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "夕やけニャンニャン",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8imd",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#70[二]",
+  "detail": "#70「あこがれの紳士」",
+  "start": 1626074700000,
+  "end": 1626075000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "あこがれの紳士",
+  "episode": 70,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "381sxrgjjq",
+  "category": "sports",
+  "title": "キリンチャレンジカップ２０２１",
+  "fullTitle": "キリンチャレンジカップ２０２１「Ｕ－２４日本×Ｕ－２４ホンジュラス」[字][デ]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/soccer/kccup/",
+  "start": 1626084000000,
+  "end": 1626093000000,
+  "seconds": 9000,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/soccer/kccup/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "Ｕ－２４日本×Ｕ－２４ホンジュラス",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

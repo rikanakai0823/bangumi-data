@@ -1,0 +1,25 @@
+{
+  "id": "idy8im8",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#104[二]",
+  "detail": "#104「終結」",
+  "start": 1626066000000,
+  "end": 1626067800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "終結",
+  "episode": 104,
+  "flags": [
+    "二"
+  ]
+}

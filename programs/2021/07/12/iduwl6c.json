@@ -1,0 +1,26 @@
+{
+  "id": "iduwl6c",
+  "category": "cinema",
+  "title": "スキャンダル（２０１９）",
+  "fullTitle": "[映][SS]スキャンダル（２０１９）",
+  "detail": "シャーリーズ・セロンほか豪華女優共演の人間ドラマ。実話を基に、アメリカの大手ニュース局で起きたセクハラ事件の行方を描く。",
+  "start": 1626091200000,
+  "end": 1626098400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "w681wx0",
+  "category": "anime",
+  "title": "TSUKIPRO THE ANIMATION 2",
+  "fullTitle": "[新]TSUKIPRO THE ANIMATION 2 #01 [字]",
+  "detail": "",
+  "start": 1626048000000,
+  "end": 1626049800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp49vq",
+  "category": "hobby",
+  "title": "美の小壺",
+  "fullTitle": "美の小壺「はちみつ」[字]",
+  "detail": "ＢＳプレミアムで毎週金曜夜７時３０分放送の「美の壺」を“小壺”サイズに仕立てたミニ番組。琥珀（こはく）色の神秘「はちみつ」の多彩な世界と魅力を味わう！",
+  "start": 1626055740000,
+  "end": 1626056100000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "はちみつ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

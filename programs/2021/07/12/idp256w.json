@@ -1,0 +1,25 @@
+{
+  "id": "idp256w",
+  "category": "news",
+  "title": "ワールドニュース　アメリカ",
+  "fullTitle": "ワールドニュース　アメリカ[二]",
+  "detail": "▽アメリカ・ＡＢＣ「ジス・ウイーク」　▽世界の気象",
+  "start": 1626073200000,
+  "end": 1626074940000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "ジス・ウイーク",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rktct0k",
+  "category": "drama",
+  "title": "演奏者たち～Ｐａｇｅ　Ｔｕｒｎｅｒ～",
+  "fullTitle": "演奏者たち～Ｐａｇｅ　Ｔｕｒｎｅｒ～　#3　[字][再][終]",
+  "detail": "KBS World初放送！キム・ソヒョン、ジス、シン・ジェハ主演！高校生の3人が様々な葛藤を乗り越えながら成長する青春ラブストーリー！2016年　全3話",
+  "start": 1626076800000,
+  "end": 1626081000000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "字",
+    "再",
+    "終"
+  ]
+}

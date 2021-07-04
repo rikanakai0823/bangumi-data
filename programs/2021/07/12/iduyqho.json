@@ -1,0 +1,25 @@
+{
+  "id": "iduyqho",
+  "category": "cinema",
+  "title": "邪魔者は殺せ",
+  "fullTitle": "[映]邪魔者は殺せ",
+  "detail": "『第三の男』のキャロル・リード監督による傑作サスペンス。独立運動の資金を稼ぐために強盗を企てた、ある革命家の末路を描く。",
+  "start": 1626098400000,
+  "end": 1626105600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
