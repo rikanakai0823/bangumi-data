@@ -1,0 +1,25 @@
+{
+  "id": "rlm3yek",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.日本ハム",
+  "fullTitle": "[無]HAWKS プロ野球中継2021 ソフトバンクvs.日本ハム",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n▽4月29日開催\r\n解説/実況：若菜嘉晴/石黒新平\r\n副音声：建山義紀/近藤祐司",
+  "start": 1625370900000,
+  "end": 1625385300000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}
