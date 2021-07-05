@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l9a9",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「アーバンステージ文月賞」「ルビー賞」「デネブ賞」",
+  "start": 1626157200000,
+  "end": 1626177600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

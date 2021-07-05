@@ -1,0 +1,25 @@
+{
+  "id": "idy8imu",
+  "category": "anime",
+  "title": "スター・ウォーズ　レジスタンス",
+  "fullTitle": "スター・ウォーズ　レジスタンス#8[二]",
+  "detail": "#8「もう一人のスパイ」",
+  "start": 1626107400000,
+  "end": 1626109200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "もう一人のスパイ",
+  "episode": 8,
+  "flags": [
+    "二"
+  ]
+}

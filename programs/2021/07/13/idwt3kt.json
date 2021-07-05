@@ -1,0 +1,23 @@
+{
+  "id": "idwt3kt",
+  "category": "hobby",
+  "title": "特別番組",
+  "fullTitle": "特別番組",
+  "detail": "「データサイエンス　番組活用ガイド」",
+  "start": 1626126300000,
+  "end": 1626128100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "データサイエンス　番組活用ガイド",
+  "episode": null,
+  "flags": []
+}

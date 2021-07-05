@@ -1,0 +1,25 @@
+{
+  "id": "idp47i7",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「熱戦！隠岐　徹夜相撲」[字]",
+  "detail": "【語り】加藤武",
+  "start": 1626167400000,
+  "end": 1626170400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "熱戦！隠岐　徹夜相撲",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

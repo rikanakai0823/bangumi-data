@@ -1,0 +1,25 @@
+{
+  "id": "rktct0z",
+  "category": "drama",
+  "title": "風の国",
+  "fullTitle": "風の国　#20　[字]",
+  "detail": "2008 年　全36話",
+  "start": 1626129300000,
+  "end": 1626133500000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 20,
+  "flags": [
+    "字"
+  ]
+}

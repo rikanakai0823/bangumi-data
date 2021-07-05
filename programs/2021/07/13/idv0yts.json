@@ -1,0 +1,27 @@
+{
+  "id": "idv0yts",
+  "category": "cinema",
+  "title": "エクソダス：神と王",
+  "fullTitle": "[映][SS][字]エクソダス：神と王[吹]",
+  "detail": "リドリー・スコット監督の歴史スペクタクル大作。旧約聖書に綴られたモーゼの活躍と“１０の奇跡”を最新ＶＦＸを駆使して描く。",
+  "start": 1626186000000,
+  "end": 1626195600000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

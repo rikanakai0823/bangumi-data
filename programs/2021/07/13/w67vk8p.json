@@ -1,0 +1,25 @@
+{
+  "id": "w67vk8p",
+  "category": "anime",
+  "title": "ポケットモンスター ,55",
+  "fullTitle": "ポケットモンスター[字] #54,55",
+  "detail": "＃５４「けいさつけんガーディ」＃５５「シャッターチャンスはピカチュウ」",
+  "start": 1626174000000,
+  "end": 1626177600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "けいさつけんガーディ",
+  "episode": 54,
+  "flags": [
+    "字"
+  ]
+}

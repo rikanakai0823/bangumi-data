@@ -1,0 +1,25 @@
+{
+  "id": "w66oaa1",
+  "category": "drama",
+  "title": "宇宙船XL-5",
+  "fullTitle": "[字]宇宙船XL-5(帯)#23",
+  "detail": "#23「謎の宇宙船」\r\nMYSTERY OF THE TA2\r\n宇宙船XL-5号が、難破船の一部を発見した。調べてみると、機器のタグが付いていた。",
+  "start": 1626120000000,
+  "end": 1626121800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "謎の宇宙船",
+  "episode": 23,
+  "flags": [
+    "字"
+  ]
+}

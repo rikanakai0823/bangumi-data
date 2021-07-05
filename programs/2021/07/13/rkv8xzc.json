@@ -1,0 +1,23 @@
+{
+  "id": "rkv8xzc",
+  "category": "news",
+  "title": "Oha!4　NEWS　LIVE",
+  "fullTitle": "Oha!4　NEWS　LIVE",
+  "detail": "朝はOha!4から！ニッポンの朝をスマイルに！▽5時台は最新ニュースや気象情報をテンポよく！4時台は前日までのニュースをじっくりとお伝えします。",
+  "start": 1626118200000,
+  "end": 1626123000000,
+  "seconds": 4800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
