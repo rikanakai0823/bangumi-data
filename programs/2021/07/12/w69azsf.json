@@ -1,9 +1,9 @@
 {
   "id": "w69azsf",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "アフリカ　ビジネス最前線",
+  "fullTitle": "アフリカ　ビジネス最前線[再]",
+  "detail": "#8 リーダー　南アフリカの大手エネルギー企業CEO、エジプトの果物輸出業者、ナイジェリアの銀行買収者など、アフリカのビジネス界を牽引するリーダーたちを紹介。",
   "start": 1626039000000,
   "end": 1626040800000,
   "seconds": 1800,
@@ -18,7 +18,7 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 8,
   "flags": [
     "再"
   ]
