@@ -2,11 +2,15 @@
   "id": "36h6jr1o31",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nパンデリッチ　０１２０－３６－２００８",
   "start": 1626040800000,
   "end": 1626042600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "パンデリッチ　０１２０－３６－２００８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

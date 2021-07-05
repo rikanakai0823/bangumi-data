@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "土曜☆ブレイク「スマホで参加！生放送で思考力バトル」",
   "fullTitle": "土曜☆ブレイク「スマホで参加！生放送で思考力バトル「ザ☆ＨＩＲＡＭＥＫＩ」」[字]",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/the-hirameki/",
   "start": 1625893200000,
   "end": 1625896440000,
   "seconds": 3240,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/the-hirameki/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
