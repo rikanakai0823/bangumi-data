@@ -1,0 +1,23 @@
+{
+  "id": "idp015s",
+  "category": "sports",
+  "title": "ＭＬＢ２０２１",
+  "fullTitle": "ＭＬＢ２０２１",
+  "detail": "",
+  "start": 1625969100000,
+  "end": 1625982600000,
+  "seconds": 13500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
