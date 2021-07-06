@@ -1,8 +1,8 @@
 {
   "id": "381xj5ougk",
-  "category": "etc",
-  "title": "調整中＜フジバラナイト　ＦＲＩ＞",
-  "fullTitle": "調整中＜フジバラナイト　ＦＲＩ＞",
+  "category": "drama",
+  "title": "ナイト・ドクター＜フジバラナイト　ＦＲＩ＞",
+  "fullTitle": "ナイト・ドクター＜フジバラナイト　ＦＲＩ＞　＃０３[再][解]",
   "detail": "",
   "start": 1625848500000,
   "end": 1625852100000,
@@ -18,6 +18,9 @@
     "n": 29
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 3,
+  "flags": [
+    "再",
+    "解"
+  ]
 }
