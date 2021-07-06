@@ -1,0 +1,25 @@
+{
+  "id": "idx1rd5",
+  "category": "anime",
+  "title": "ちびまる子ちゃん",
+  "fullTitle": "[字]ちびまる子ちゃん #511",
+  "detail": "#511「王冠バッジを集めよう」の巻／「まる子、引っ越しがしたい」の巻\r\n静岡県清水市に住む小学3年生のももこは、みん…",
+  "start": 1626210000000,
+  "end": 1626211800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "王冠バッジを集めよう",
+  "episode": 511,
+  "flags": [
+    "字"
+  ]
+}

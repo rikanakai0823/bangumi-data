@@ -1,0 +1,25 @@
+{
+  "id": "idy8ip5",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#72[二]",
+  "detail": "#72「幸運のお守り」",
+  "start": 1626247500000,
+  "end": 1626247800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "幸運のお守り",
+  "episode": 72,
+  "flags": [
+    "二"
+  ]
+}

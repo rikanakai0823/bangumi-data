@@ -1,0 +1,27 @@
+{
+  "id": "idugxdo",
+  "category": "cinema",
+  "title": "リンドグレーン（字幕版）[PG12指定]",
+  "fullTitle": "[初][映]リンドグレーン（字幕版）[PG12指定][SS]",
+  "detail": "世界中の国々で愛され、読み継がれているスウェーデンの児童文学作家、Ａ・リンドグレーン。彼女の知られざる若き日の苦悩と葛藤をドラマティックに描いた感動の伝記映画。",
+  "start": 1626264000000,
+  "end": 1626272100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}

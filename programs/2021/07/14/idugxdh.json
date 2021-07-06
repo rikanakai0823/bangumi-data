@@ -1,0 +1,26 @@
+{
+  "id": "idugxdh",
+  "category": "cinema",
+  "title": "君よ憤怒の河を渉れ",
+  "fullTitle": "[映]君よ憤怒の河を渉れ[字]",
+  "detail": "無実の罪を着せられた主人公が、必死の逃亡を続けながら事件の真相に迫っていく様子を、「新幹線大爆破」の佐藤純彌監督＆主演・高倉健コンビで波瀾万丈に綴った娯楽活劇。",
+  "start": 1626215400000,
+  "end": 1626225300000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "新幹線大爆破",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

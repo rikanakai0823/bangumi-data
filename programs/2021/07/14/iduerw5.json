@@ -1,0 +1,23 @@
+{
+  "id": "iduerw5",
+  "category": "drama",
+  "title": "東京０３",
+  "fullTitle": "東京０３　第１８回　単独公演「明日の風に吹かれないで」",
+  "detail": "東京０３の単独ライブを放送。２０１６年に全国１５カ所・３３公演で約１万６，０００人を動員した全国ツアー『明日の風に吹かれないで』を放送。",
+  "start": 1626203700000,
+  "end": 1626210900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "単独公演",
+  "episode": 18,
+  "flags": []
+}

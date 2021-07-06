@@ -1,0 +1,27 @@
+{
+  "id": "38224jvn6n",
+  "category": "information",
+  "title": "テレ朝番組みどころナビ",
+  "fullTitle": "テレ朝番組みどころナビ",
+  "detail": "テレビ朝日おすすめ番組！\r\n▽7/14(水)よる9時～『刑事７人』\r\n▽7/15(木)よる9時～『緊急取調室』\r\n▽7/16(金)よる6時～『マイナビオールスターゲーム２０２１　第１戦』\n◇◇番組ＨＰ\n『刑事７人』https://www.tv-asahi.co.jp/keiji7_07/\r\n『緊急取調室』https://www.tv-asahi.co.jp/kintori/\r\n『マイナビオールスターゲーム』https://www.tv-asahi.co.jp/allstar/",
+  "start": 1626191100000,
+  "end": 1626191400000,
+  "seconds": 300,
+  "description": "テレビ朝日おすすめ番組！\r\n▽7/14(水)よる9時～『刑事７人』\r\n▽7/15(木)よる9時～『緊急取調室』\r\n▽7/16(金)よる6時～『マイナビオールスターゲーム２０２１　第１戦』",
+  "extra": {
+    "◇番組ＨＰ": "『刑事７人』https://www.tv-asahi.co.jp/keiji7_07/\r\n『緊急取調室』https://www.tv-asahi.co.jp/kintori/\r\n『マイナビオールスターゲーム』https://www.tv-asahi.co.jp/allstar/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

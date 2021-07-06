@@ -1,0 +1,25 @@
+{
+  "id": "idy8ip0",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#106[二]",
+  "detail": "#106「忘れられた剣士」",
+  "start": 1626238800000,
+  "end": 1626240600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "忘れられた剣士",
+  "episode": 106,
+  "flags": [
+    "二"
+  ]
+}

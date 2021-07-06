@@ -1,0 +1,25 @@
+{
+  "id": "idvjr6u",
+  "category": "sports",
+  "title": "2021ジャパンダートダービー生中継",
+  "fullTitle": "[生]2021ジャパンダートダービー生中継",
+  "detail": "三歳ダート王を決める一戦、『ジャパンダートダービー(JpnI)』を生中継でお届けします。（番組内容が変更になる可能性があります）",
+  "start": 1626256980000,
+  "end": 1626263880000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

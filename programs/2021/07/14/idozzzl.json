@@ -1,0 +1,25 @@
+{
+  "id": "idozzzl",
+  "category": "sports",
+  "title": "ＭＬＢオールスターゲーム２０２１",
+  "fullTitle": "ＭＬＢオールスターゲーム２０２１[二]",
+  "detail": "",
+  "start": 1626217200000,
+  "end": 1626234540000,
+  "seconds": 17340,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
