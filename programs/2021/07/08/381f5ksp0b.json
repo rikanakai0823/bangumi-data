@@ -1,12 +1,12 @@
 {
   "id": "381f5ksp0b",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "title": "ニュース▽宣言・重点措置判断は",
+  "fullTitle": "ニュース「中継・衆議院議院運営委員会」▽宣言・重点措置判断は[字]",
   "detail": "",
   "start": 1625720400000,
-  "end": 1625720700000,
-  "seconds": 300,
+  "end": 1625723100000,
+  "seconds": 2700,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "中継・衆議院議院運営委員会",
   "episode": null,
   "flags": [
     "字"
