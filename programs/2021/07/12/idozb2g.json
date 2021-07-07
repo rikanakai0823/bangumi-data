@@ -1,0 +1,26 @@
+{
+  "id": "idozb2g",
+  "category": "information",
+  "title": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ　Ｒｅｍｉｘ",
+  "fullTitle": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ　Ｒｅｍｉｘ「育てる漁業」[字][再]",
+  "detail": "未来につなぐ持続可能な漁業▽ほたて▽鯛（たい）▽はまち▽わかめ▽もずく▽かき",
+  "start": 1626048000000,
+  "end": 1626051000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "育てる漁業",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
