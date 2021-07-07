@@ -1,0 +1,25 @@
+{
+  "id": "iducma7",
+  "category": "anime",
+  "title": "あしたのジョー",
+  "fullTitle": "あしたのジョー　＃７２　帰えれ、輝くリングへ[字]",
+  "detail": "",
+  "start": 1626283800000,
+  "end": 1626285600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "帰えれ、輝くリングへ",
+  "episode": 72,
+  "flags": [
+    "字"
+  ]
+}

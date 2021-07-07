@@ -1,0 +1,26 @@
+{
+  "id": "idugxdv",
+  "category": "cinema",
+  "title": "日本統一１４",
+  "fullTitle": "[映]日本統一１４[字]",
+  "detail": "大ヒット任侠大河ロマン第１４作。ついに東北・進友会との全面戦争に突入した侠和会。一方、侠和会直参・氷室は無益な争いを避けるため、裏で糸を引いていた黒幕を追う。",
+  "start": 1626316200000,
+  "end": 1626321600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

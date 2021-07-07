@@ -1,0 +1,25 @@
+{
+  "id": "iducmap",
+  "category": "drama",
+  "title": "がんばれ！ＴＥＡＭ　ＮＡＣＳ",
+  "fullTitle": "がんばれ！ＴＥＡＭ　ＮＡＣＳ　「ｅｐｉｓｏｄｅ４」[字]",
+  "detail": "",
+  "start": 1626345000000,
+  "end": 1626346800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "ｅｐｉｓｏｄｅ４",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

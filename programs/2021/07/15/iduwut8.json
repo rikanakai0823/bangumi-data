@@ -1,0 +1,25 @@
+{
+  "id": "iduwut8",
+  "category": "drama",
+  "title": "ビカミング・ア・ゴッド",
+  "fullTitle": "[SS]ビカミング・ア・ゴッド　＃３",
+  "detail": "【ＳＴＡＲ　ＤＲＡＭＡ　１１】",
+  "start": 1626357600000,
+  "end": 1626361200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＳＴＡＲ　ＤＲＡＭＡ　１１",
+  "episode": 3,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8iqe",
+  "category": "anime",
+  "title": "エイリにゃん",
+  "fullTitle": "エイリにゃん#5[二]",
+  "detail": "#5「ワームホール　/　キャットニップ」",
+  "start": 1626323400000,
+  "end": 1626325200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ワームホール　/　キャットニップ",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

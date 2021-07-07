@@ -1,0 +1,25 @@
+{
+  "id": "iducma6",
+  "category": "anime",
+  "title": "あしたのジョー",
+  "fullTitle": "あしたのジョー　＃７１　無冠の帝王カーロス[字]",
+  "detail": "",
+  "start": 1626282000000,
+  "end": 1626283800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "無冠の帝王カーロス",
+  "episode": 71,
+  "flags": [
+    "字"
+  ]
+}

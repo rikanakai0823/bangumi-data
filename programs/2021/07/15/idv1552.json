@@ -1,0 +1,25 @@
+{
+  "id": "idv1552",
+  "category": "cinema",
+  "title": "裏窓（１９５４）",
+  "fullTitle": "[映]裏窓（１９５４）[吹]",
+  "detail": "アルフレッド・ヒッチコック監督のサスペンス。アパートの窓から他人の生活を覗いていた男が、向かいの住人の殺人を疑い始める。",
+  "start": 1626358200000,
+  "end": 1626366600000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

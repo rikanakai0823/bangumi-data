@@ -1,0 +1,23 @@
+{
+  "id": "rks3193",
+  "category": "music",
+  "title": "TBSch×SBS funE PRESENTS THE SHOW <字幕>",
+  "fullTitle": "TBSch×SBS funE PRESENTS THE SHOW #242<字幕>",
+  "detail": "TBSチャンネルと韓国のSBS funEで放送されるK－POP人気番組『THE SHOW』。【出演】PENTAGON、Golden Child、CHOCOME、Weki Meki、WEi ほか",
+  "start": 1626284400000,
+  "end": 1626288900000,
+  "seconds": 4500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "出演",
+  "episode": 242,
+  "flags": []
+}

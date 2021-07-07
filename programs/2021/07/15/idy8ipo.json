@@ -1,0 +1,25 @@
+{
+  "id": "idy8ipo",
+  "category": "anime",
+  "title": "スター・ウォーズ　レジスタンス",
+  "fullTitle": "スター・ウォーズ　レジスタンス#10[二]",
+  "detail": "#10「秘密とホログラム」",
+  "start": 1626280200000,
+  "end": 1626282000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "秘密とホログラム",
+  "episode": 10,
+  "flags": [
+    "二"
+  ]
+}

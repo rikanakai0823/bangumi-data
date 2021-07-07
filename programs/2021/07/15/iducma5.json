@@ -1,0 +1,25 @@
+{
+  "id": "iducma5",
+  "category": "anime",
+  "title": "あしたのジョー",
+  "fullTitle": "あしたのジョー　＃７０　気になるあいつ[字]",
+  "detail": "",
+  "start": 1626280200000,
+  "end": 1626282000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "気になるあいつ",
+  "episode": 70,
+  "flags": [
+    "字"
+  ]
+}
