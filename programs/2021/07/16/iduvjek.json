@@ -1,0 +1,26 @@
+{
+  "id": "iduvjek",
+  "category": "cinema",
+  "title": "レディ・オア・ノット",
+  "fullTitle": "[映][SS]レディ・オア・ノット【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "富豪一家に嫁いだ美しい花嫁が、一家の伝統儀式である命懸けのかくれんぼに巻き込まれるアクションスリラー。［Ｒ１５＋相当］",
+  "start": 1626444000000,
+  "end": 1626450300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

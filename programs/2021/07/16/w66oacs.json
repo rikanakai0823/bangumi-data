@@ -1,0 +1,25 @@
+{
+  "id": "w66oacs",
+  "category": "drama",
+  "title": "メンタリスト6",
+  "fullTitle": "[二]メンタリスト6(帯)#20",
+  "detail": "#20「白いテーブル」\r\nIl Tavolo Bianco\r\nジェーンが突然逮捕される。レッド・ジョン殺害の件で召喚状が出ていたが、ジェーンがそれを無視して裁判所に行かなかったからだ。",
+  "start": 1626420600000,
+  "end": 1626424200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "白いテーブル",
+  "episode": 20,
+  "flags": [
+    "二"
+  ]
+}

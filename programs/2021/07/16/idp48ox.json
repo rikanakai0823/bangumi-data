@@ -1,0 +1,23 @@
+{
+  "id": "idp48ox",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「紀州の海　百景」",
+  "detail": "",
+  "start": 1626373800000,
+  "end": 1626375600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "紀州の海　百景",
+  "episode": null,
+  "flags": []
+}

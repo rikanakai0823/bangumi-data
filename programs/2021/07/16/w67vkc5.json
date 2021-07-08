@@ -1,0 +1,25 @@
+{
+  "id": "w67vkc5",
+  "category": "anime",
+  "title": "ポケットモンスター ,61",
+  "fullTitle": "ポケットモンスター[字] #60,61",
+  "detail": "＃６０「カメックスのしま」＃６１「ハナダジム！すいちゅうのたたかい！」",
+  "start": 1626433200000,
+  "end": 1626436800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "カメックスのしま",
+  "episode": 60,
+  "flags": [
+    "字"
+  ]
+}

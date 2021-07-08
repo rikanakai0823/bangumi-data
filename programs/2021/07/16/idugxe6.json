@@ -1,0 +1,26 @@
+{
+  "id": "idugxe6",
+  "category": "cinema",
+  "title": "夢の女",
+  "fullTitle": "[映]夢の女[字]",
+  "detail": "歌舞伎界の大スター、坂東玉三郎が映画監督デビュー作「外科室」に続いて発表した映画監督第２作。今度は長編に挑んだのが話題に。主演は、「外科室」に続いて吉永小百合。",
+  "start": 1626387000000,
+  "end": 1626393300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

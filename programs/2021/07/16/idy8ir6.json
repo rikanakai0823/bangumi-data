@@ -1,0 +1,25 @@
+{
+  "id": "idy8ir6",
+  "category": "drama",
+  "title": "シェキラ！",
+  "fullTitle": "シェキラ！#25[二]",
+  "detail": "#25「おかしな三角関係！」",
+  "start": 1626373800000,
+  "end": 1626375600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "おかしな三角関係！",
+  "episode": 25,
+  "flags": [
+    "二"
+  ]
+}

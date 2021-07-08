@@ -1,0 +1,26 @@
+{
+  "id": "idp48pa",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「下北半島　夏」[字][再]",
+  "detail": "古くから下北半島は、生者も死者も行き交う“境界の地”。遠く都から伝わった夏祭り、アイヌの集落の痕跡、霊場・恐山。本州最北端の短く鮮やかな夏物語（２０１８年放送）",
+  "start": 1626390000000,
+  "end": 1626393600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "下北半島　夏",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

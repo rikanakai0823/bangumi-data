@@ -1,0 +1,23 @@
+{
+  "id": "idp3lti",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記",
+  "detail": "",
+  "start": 1626436800000,
+  "end": 1626440400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

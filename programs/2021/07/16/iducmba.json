@@ -1,0 +1,25 @@
+{
+  "id": "iducmba",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６８３",
+  "detail": "",
+  "start": 1626412800000,
+  "end": 1626413400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 683,
+  "flags": [
+    "無"
+  ]
+}

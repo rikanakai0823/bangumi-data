@@ -1,0 +1,23 @@
+{
+  "id": "idt5kn6",
+  "category": "documentary",
+  "title": "Ｂｅｅワールド",
+  "fullTitle": "Ｂｅｅワールド",
+  "detail": "日本篇「鹿児島の百花蜜」",
+  "start": 1626429240000,
+  "end": 1626429600000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "鹿児島の百花蜜",
+  "episode": null,
+  "flags": []
+}
