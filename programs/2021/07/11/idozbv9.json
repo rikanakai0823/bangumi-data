@@ -1,0 +1,26 @@
+{
+  "id": "idozbv9",
+  "category": "sports",
+  "title": "熱戦凝縮！",
+  "fullTitle": "熱戦凝縮！「日本陸上選手権」[字][再]",
+  "detail": "東京オリンピック代表選考を兼ねた日本選手権。参加標準記録を突破した選手が３位以内入れば代表に内定する。各種目最大３枠の代表をかけた“一発勝負”をギュギュと凝縮。",
+  "start": 1625986800000,
+  "end": 1625989800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "日本陸上選手権",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
