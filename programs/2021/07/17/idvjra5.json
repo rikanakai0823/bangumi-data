@@ -1,0 +1,26 @@
+{
+  "id": "idvjra5",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【函館】12Ｒ「かもめ島特別」\r\n【小倉】12Ｒ\r\n【福島】12Ｒ",
+  "start": 1626505200000,
+  "end": 1626510600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

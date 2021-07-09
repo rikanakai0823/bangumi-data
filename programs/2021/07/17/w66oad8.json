@@ -1,0 +1,25 @@
+{
+  "id": "w66oad8",
+  "category": "drama",
+  "title": "宇宙船XL-5",
+  "fullTitle": "[字]宇宙船XL-5(帯)#32",
+  "detail": "#32「光速突破！！」\r\nFASTER THAN LIGHT\r\nXL-5号は物資の補給のため、宇宙ステーション9号に向かっていた。",
+  "start": 1626467400000,
+  "end": 1626469200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "光速突破！！",
+  "episode": 32,
+  "flags": [
+    "字"
+  ]
+}

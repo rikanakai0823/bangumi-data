@@ -1,0 +1,25 @@
+{
+  "id": "w66oad7",
+  "category": "drama",
+  "title": "宇宙船XL-5",
+  "fullTitle": "[字]宇宙船XL-5(帯)#31",
+  "detail": "#31「地球侵略軍」\r\nINVASION EARTH\r\n妨害電波により通信障害が起きるようになり、宇宙空間に謎のガス雲が浮かんだ。",
+  "start": 1626465600000,
+  "end": 1626467400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "地球侵略軍",
+  "episode": 31,
+  "flags": [
+    "字"
+  ]
+}

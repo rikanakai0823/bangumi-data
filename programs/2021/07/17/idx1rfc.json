@@ -1,0 +1,25 @@
+{
+  "id": "idx1rfc",
+  "category": "anime",
+  "title": "おそ松さん 第3期",
+  "fullTitle": "[字]おそ松さん 第3期 #24",
+  "detail": "#24「帰ってきた新おそ松」「A-1グランプリ」\r\n赤塚不二夫の名作ギャグ漫画「おそ松くん」を原作に、6つ子が大人になっ…",
+  "start": 1626460200000,
+  "end": 1626462000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "帰ってきた新おそ松",
+  "episode": 24,
+  "flags": [
+    "字"
+  ]
+}

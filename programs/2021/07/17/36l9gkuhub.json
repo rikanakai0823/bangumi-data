@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkuhub",
+  "category": "hobby",
+  "title": "防災ヒーロータイム",
+  "fullTitle": "防災ヒーロータイム　＃３",
+  "detail": "防災勇士トリプルウィング＃３\r\n救命戦士シェルブレイブ＃３\r\n",
+  "start": 1626474600000,
+  "end": 1626476400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}

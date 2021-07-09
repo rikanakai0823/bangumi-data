@@ -1,0 +1,27 @@
+{
+  "id": "idugxeo",
+  "category": "cinema",
+  "title": "大奥（２０１０）",
+  "fullTitle": "[映]大奥（２０１０）[SS][字]",
+  "detail": "女性の将軍に３０００人の美男が仕えるという奇抜な設定で話題の人気少女コミックを映画化。二宮和也、柴咲コウ、堀北真希ら、豪華キャストが競演して大ヒットした時代劇！",
+  "start": 1626495300000,
+  "end": 1626502500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

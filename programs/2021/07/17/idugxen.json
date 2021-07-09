@@ -1,0 +1,26 @@
+{
+  "id": "idugxen",
+  "category": "cinema",
+  "title": "青の炎",
+  "fullTitle": "[映]青の炎[字]",
+  "detail": "家庭の平和を取り戻すべく完全犯罪を計画した１７歳の少年。彼の運命は……。二宮和也＆松浦亜弥が共演し、公開当時話題になった青春クライムサスペンス。監督は蜷川幸雄。",
+  "start": 1626488100000,
+  "end": 1626495300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

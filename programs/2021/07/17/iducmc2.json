@@ -1,0 +1,28 @@
+{
+  "id": "iducmc2",
+  "category": "cinema",
+  "title": "浅田家！",
+  "fullTitle": "[初][映]浅田家！[SS][字]",
+  "detail": "二宮和也が、実在の写真家・浅田政志を演じたハートウォーミングドラマ。家族を巻き込み、彼らとコスプレした写真で注目された写真家とさまざまな人々との心の交流を綴る。",
+  "start": 1626494400000,
+  "end": 1626502500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

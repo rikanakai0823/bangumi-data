@@ -1,0 +1,23 @@
+{
+  "id": "idt5ko2",
+  "category": "sports",
+  "title": "ウイニング競馬　～福島～",
+  "fullTitle": "ウイニング競馬　～福島～",
+  "detail": "【福島】10Ｒ横手特別、11ＲジュライS（L）\r\n【小倉】10Ｒ岩国特別、11Ｒ不知火S\r\n【函館】11Ｒ函館2歳S【GⅢ】",
+  "start": 1626499800000,
+  "end": 1626505200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "福島",
+  "episode": null,
+  "flags": []
+}

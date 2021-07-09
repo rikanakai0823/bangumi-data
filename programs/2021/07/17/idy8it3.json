@@ -1,0 +1,26 @@
+{
+  "id": "idy8it3",
+  "category": "anime",
+  "title": "アウルハウス ★日本初放送エピソード！",
+  "fullTitle": "[初]アウルハウス #17[二]★日本初放送エピソード！",
+  "detail": "#17「スポーツで対決！」",
+  "start": 1626510600000,
+  "end": 1626512400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "スポーツで対決！",
+  "episode": 17,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

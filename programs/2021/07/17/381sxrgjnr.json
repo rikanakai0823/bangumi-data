@@ -1,0 +1,30 @@
+{
+  "id": "381sxrgjnr",
+  "category": "music",
+  "title": "音楽の日",
+  "fullTitle": "音楽の日[字][デ]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/ongakunohi/",
+  "start": 1626498000000,
+  "end": 1626526440000,
+  "seconds": 28440,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/ongakunohi/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

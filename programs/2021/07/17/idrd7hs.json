@@ -1,0 +1,23 @@
+{
+  "id": "idrd7hs",
+  "category": "etc",
+  "title": "コーポレートファイル",
+  "fullTitle": "コーポレートファイル",
+  "detail": "",
+  "start": 1626530040000,
+  "end": 1626530400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

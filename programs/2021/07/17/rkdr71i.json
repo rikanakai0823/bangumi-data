@@ -1,0 +1,23 @@
+{
+  "id": "rkdr71i",
+  "category": "information",
+  "title": "開店！東急ハンズ　ショップチャンネル店",
+  "fullTitle": "開店！東急ハンズ　ショップチャンネル店",
+  "detail": "特殊な技術を使った有田焼のフィルターに飲み物を通すだけ！コーヒーやお茶などが美味しくまろやかになるアイデア商品にご注目。",
+  "start": 1626516000000,
+  "end": 1626519600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
