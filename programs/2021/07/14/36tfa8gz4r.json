@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「ケイバみるならＢＳイレブン賞」ほか",
+  "detail": "「ＢＳイレブン賞」ほか\n◇出演者\n【MC】\r\n芦崎愛\r\n【場内リポート】\r\n山田桃子\r\n【解説】\r\n樋口祐介(日刊競馬)",
   "start": 1626253200000,
   "end": 1626260400000,
   "seconds": 7200,
+  "description": "「ＢＳイレブン賞」ほか",
+  "extra": {
+    "出演者": "【MC】\r\n芦崎愛\r\n【場内リポート】\r\n山田桃子\r\n【解説】\r\n樋口祐介(日刊競馬)"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "ケイバみるならＢＳイレブン賞",
+  "subTitle": "ＢＳイレブン賞",
   "episode": null,
   "flags": []
 }

@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks625",
+  "category": "news",
+  "title": "緊急事態宣言　首都圏ニュース・生活情報",
+  "fullTitle": "緊急事態宣言　首都圏ニュース・生活情報[字]",
+  "detail": "緊急事態宣言をうけた措置の内容など首都圏の生活に身近な情報をお伝えします",
+  "start": 1626155400000,
+  "end": 1626156000000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

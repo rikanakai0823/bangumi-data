@@ -2,8 +2,8 @@
   "id": "idp3lti",
   "category": "documentary",
   "title": "新日本風土記",
-  "fullTitle": "新日本風土記",
-  "detail": "",
+  "fullTitle": "新日本風土記「夫婦の旅　山あり谷あり」[字]",
+  "detail": "新型コロナの影響で、結婚する人が減っている。そんな今だからこそ、夫婦の姿を見つめてみたい。今も昔も一番遠くて近い人、日本各地の夫婦の物語を紡いでいく。",
   "start": 1626436800000,
   "end": 1626440400000,
   "seconds": 3600,
@@ -17,7 +17,9 @@
     "hasLogoData": false,
     "n": 42
   },
-  "subTitle": "",
+  "subTitle": "夫婦の旅　山あり谷あり",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
