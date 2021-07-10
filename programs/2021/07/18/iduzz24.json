@@ -1,0 +1,27 @@
+{
+  "id": "iduzz24",
+  "category": "cinema",
+  "title": "ジョイ",
+  "fullTitle": "[映][SS][字]ジョイ[吹]",
+  "detail": "ジェニファー・ローレンス主演のサクセスストーリー。アイディア商品で貧乏生活から億万長者となった実在の主婦の成功を描く。",
+  "start": 1626571200000,
+  "end": 1626579600000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

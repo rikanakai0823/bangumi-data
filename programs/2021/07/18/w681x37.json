@@ -1,0 +1,26 @@
+{
+  "id": "w681x37",
+  "category": "anime",
+  "title": "迷宮ブラックカンパニー",
+  "fullTitle": "[新]迷宮ブラックカンパニー #01 [字]",
+  "detail": "#01 社畜の世界へようこそ",
+  "start": 1626559200000,
+  "end": 1626561000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "社畜の世界へようこそ",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

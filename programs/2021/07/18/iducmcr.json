@@ -1,0 +1,27 @@
+{
+  "id": "iducmcr",
+  "category": "cinema",
+  "title": "インセプション（吹替版）",
+  "fullTitle": "[映]インセプション（吹替版）[SS][字]",
+  "detail": "Ｌ・ディカプリオ、渡辺謙が共演し、「ダークナイト」のＣ・ノーランが監督した大ヒットＳＦサスペンス・アクション。他人の脳からアイデアを盗むチームが困難な任務へ！",
+  "start": 1626580800000,
+  "end": 1626589800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "ダークナイト",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

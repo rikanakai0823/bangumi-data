@@ -1,0 +1,26 @@
+{
+  "id": "iduvofb",
+  "category": "cinema",
+  "title": "きっと、星のせいじゃない。",
+  "fullTitle": "[映][SS]きっと、星のせいじゃない。",
+  "detail": "ベストセラー青春小説を映画化したラブストーリー。難病を抱えながらも懸命に生きる少女と少年の初恋の行方を描く。［ＰＧ１２］",
+  "start": 1626556500000,
+  "end": 1626564600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idt5kod",
+  "category": "drama",
+  "title": "真夜中ドラマ",
+  "fullTitle": "真夜中ドラマ「ホメられたい僕の妄想ごはん」第2話[字]",
+  "detail": "「ココナッツシチュー　ピーマンのナムル」\r\n◆４Ｋ制作",
+  "start": 1626534000000,
+  "end": 1626535800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "ホメられたい僕の妄想ごはん",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

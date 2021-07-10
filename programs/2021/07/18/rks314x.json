@@ -1,0 +1,23 @@
+{
+  "id": "rks314x",
+  "category": "cinema",
+  "title": "映画「奈緒子」",
+  "fullTitle": "映画「奈緒子」",
+  "detail": "多くのファンを魅了した伝説の駅伝コミックを映画化。ヒロイン・奈緒子を上野樹里、もう一人の主人公・雄介を三浦春馬が演じる。",
+  "start": 1626585600000,
+  "end": 1626593400000,
+  "seconds": 7800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

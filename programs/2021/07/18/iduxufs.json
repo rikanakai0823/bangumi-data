@@ -1,0 +1,26 @@
+{
+  "id": "iduxufs",
+  "category": "cinema",
+  "title": "バトルランナー",
+  "fullTitle": "[映][SS]バトルランナー【特集：２０ＸＸ年の世界】",
+  "detail": "アーノルド・シュワルツェネッガー主演のＳＦサバイバルアクション。殺人ゲームで生き残りを賭ける男の死闘を描く。",
+  "start": 1626596400000,
+  "end": 1626603000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "特集：２０ＸＸ年の世界",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
