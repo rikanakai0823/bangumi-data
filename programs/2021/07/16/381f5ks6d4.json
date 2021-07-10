@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksq30",
-  "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "id": "381f5ks6d4",
+  "category": "variety",
+  "title": "バラエティー生活笑百科",
+  "fullTitle": "バラエティー生活笑百科[字][再]",
   "detail": "",
-  "start": 1625897400000,
-  "end": 1625897700000,
-  "seconds": 300,
+  "start": 1626401100000,
+  "end": 1626402600000,
+  "seconds": 1500,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -20,6 +20,7 @@
   "subTitle": "",
   "episode": null,
   "flags": [
-    "字"
+    "字",
+    "再"
   ]
 }
