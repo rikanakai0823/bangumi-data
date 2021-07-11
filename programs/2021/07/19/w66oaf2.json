@@ -1,0 +1,26 @@
+{
+  "id": "w66oaf2",
+  "category": "drama",
+  "title": "メンタリスト6",
+  "fullTitle": "[二]メンタリスト6(帯)#22[終]",
+  "detail": "#22「青い鳥」\r\nBlue Bird\r\nFBIに挑戦状が届く。マイアミで5年前に起きた未解決の殺人事件の犯人を語る者からで、最後に暗号が書いてあった。",
+  "start": 1626679800000,
+  "end": 1626683400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "青い鳥",
+  "episode": 22,
+  "flags": [
+    "二",
+    "終"
+  ]
+}

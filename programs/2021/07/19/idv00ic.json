@@ -1,0 +1,25 @@
+{
+  "id": "idv00ic",
+  "category": "cinema",
+  "title": "キャッチ・ミー・イフ・ユー・キャン",
+  "fullTitle": "[映]キャッチ・ミー・イフ・ユー・キャン[吹]",
+  "detail": "Ｓ・スピルバーグ監督×Ｌ・ディカプリオ主演の痛快犯罪コメディ。実在の天才詐欺師と彼を執拗に追う捜査官との追跡劇を描く。",
+  "start": 1626638400000,
+  "end": 1626647400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

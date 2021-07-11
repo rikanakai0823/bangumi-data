@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkgqt",
+  "category": "news",
+  "title": "ｔｖｋスポットニュース",
+  "fullTitle": "ｔｖｋスポットニュース",
+  "detail": "最新ニュースをお届け",
+  "start": 1626666840000,
+  "end": 1626667200000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

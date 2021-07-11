@@ -1,0 +1,25 @@
+{
+  "id": "rlm3y93",
+  "category": "information",
+  "title": "インフォメーション",
+  "fullTitle": "[無]インフォメーション",
+  "detail": "",
+  "start": 1626659700000,
+  "end": 1626660000000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

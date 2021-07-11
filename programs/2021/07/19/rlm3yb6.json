@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yb6",
+  "category": "sports",
+  "title": "SUPER DARTS 2011 Vol.2",
+  "fullTitle": "SUPER DARTS 2011 Vol.2",
+  "detail": "SUPER DARTS 2011 Vol.2",
+  "start": 1626622500000,
+  "end": 1626630600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

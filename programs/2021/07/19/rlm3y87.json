@@ -1,0 +1,23 @@
+{
+  "id": "rlm3y87",
+  "category": "sports",
+  "title": "UFC UNLEASHED",
+  "fullTitle": "UFC UNLEASHED #7",
+  "detail": "名勝負を厳選してお届け！",
+  "start": 1626696000000,
+  "end": 1626699600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": []
+}

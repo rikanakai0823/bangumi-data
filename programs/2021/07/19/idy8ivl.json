@@ -1,0 +1,25 @@
+{
+  "id": "idy8ivl",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#76[二]",
+  "detail": "#76「アクション！」",
+  "start": 1626679500000,
+  "end": 1626679800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "アクション！",
+  "episode": 76,
+  "flags": [
+    "二"
+  ]
+}

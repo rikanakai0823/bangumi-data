@@ -1,0 +1,23 @@
+{
+  "id": "w66dozm",
+  "category": "information",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "インフォメーション",
+  "start": 1626666300000,
+  "end": 1626667200000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "銀河◆歴ドラ・サスペ",
+    "id": "f0cx",
+    "sid": 305,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 111
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

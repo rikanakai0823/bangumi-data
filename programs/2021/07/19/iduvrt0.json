@@ -1,0 +1,26 @@
+{
+  "id": "iduvrt0",
+  "category": "cinema",
+  "title": "シェイクスピアの庭",
+  "fullTitle": "[映][SS]シェイクスピアの庭",
+  "detail": "ケネス・ブラナー監督の人間ドラマ。劇作家を引退し２０年以上ぶりに故郷へ戻ってきたシェイクスピアと家族との葛藤と絆を描く。",
+  "start": 1626652800000,
+  "end": 1626660000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

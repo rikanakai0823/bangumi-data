@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkui5l",
+  "category": "hobby",
+  "title": "みんなで防災～もしもにソナエル～",
+  "fullTitle": "みんなで防災～もしもにソナエル～[再]",
+  "detail": "梅雨時にソナエルべきこと",
+  "start": 1626675900000,
+  "end": 1626676200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1rgi",
+  "category": "anime",
+  "title": "ルパン三世(PART2) ベストセレクション",
+  "fullTitle": "[字]ルパン三世(PART2) ベストセレクション",
+  "detail": "#32「ルパンは二度死ぬ」\r\n#33「オリオンの王冠は誰のもの」\r\nルパン一味が日本から脱出して5年。世界に散っていたルパ…",
+  "start": 1626638400000,
+  "end": 1626642000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "ルパンは二度死ぬ",
+  "episode": 32,
+  "flags": [
+    "字"
+  ]
+}

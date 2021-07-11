@@ -1,0 +1,25 @@
+{
+  "id": "idx1rgh",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "#503「寿司取り合戦」の巻／「お下がりを着たい」の巻\r\n#504「階段の怪談」の巻／「影絵で遊ぼう」の巻\r\n静岡県清水市に…",
+  "start": 1626634800000,
+  "end": 1626638400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "寿司取り合戦",
+  "episode": 503,
+  "flags": [
+    "字"
+  ]
+}

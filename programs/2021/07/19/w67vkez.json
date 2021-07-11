@@ -1,0 +1,25 @@
+{
+  "id": "w67vkez",
+  "category": "anime",
+  "title": "ポケットモンスター ,63",
+  "fullTitle": "ポケットモンスター[字] #62,63",
+  "detail": "＃６２「ピッピＶＳプリン」＃６３「トキワジム！最後のバッチ！」",
+  "start": 1626692400000,
+  "end": 1626696000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ピッピＶＳプリン",
+  "episode": 62,
+  "flags": [
+    "字"
+  ]
+}

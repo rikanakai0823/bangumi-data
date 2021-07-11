@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8gzt8",
+  "category": "anime",
+  "title": "トムとジェリー",
+  "fullTitle": "トムとジェリー　＃３[再][二]",
+  "detail": "＃３「楽しいボーリング」「仲直りはしたものの」「夢と消えた百万ドル」",
+  "start": 1626688800000,
+  "end": 1626690600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "楽しいボーリング",
+  "episode": 3,
+  "flags": [
+    "再",
+    "二"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idv02xg",
+  "category": "cinema",
+  "title": "ジュマンジ／ネクスト・レベル",
+  "fullTitle": "[映][SS][字]ジュマンジ／ネクスト・レベル[吹]",
+  "detail": "ドウェイン・ジョンソン主演の大ヒットアドベンチャーの続編。２人のお爺ちゃんを交えた一行が、テレビゲームの世界で奮闘する。",
+  "start": 1626691200000,
+  "end": 1626699600000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
