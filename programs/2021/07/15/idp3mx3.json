@@ -1,0 +1,26 @@
+{
+  "id": "idp3mx3",
+  "category": "drama",
+  "title": "大地の子　５分ＰＲ",
+  "fullTitle": "大地の子　５分ＰＲ[字][再]",
+  "detail": "",
+  "start": 1626315000000,
+  "end": 1626315300000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
