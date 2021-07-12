@@ -1,0 +1,25 @@
+{
+  "id": "idx1rha",
+  "category": "anime",
+  "title": "ちびまる子ちゃん",
+  "fullTitle": "[字]ちびまる子ちゃん #515",
+  "detail": "#515「まる子、手作り料理が食べたい」の巻／「みぎわさん、髪型に悩む」の巻\r\n静岡県清水市に住む小学3年生のももこは…",
+  "start": 1626728400000,
+  "end": 1626730200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "まる子、手作り料理が食べたい",
+  "episode": 515,
+  "flags": [
+    "字"
+  ]
+}

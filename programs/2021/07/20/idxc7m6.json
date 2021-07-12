@@ -1,0 +1,25 @@
+{
+  "id": "idxc7m6",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2021～ファーム～ 西武vs.ヤクルト",
+  "fullTitle": "[生]LIONS プロ野球中継2021～ファーム～ 西武vs.ヤクルト",
+  "detail": "▽7月20日開催\r\n実況：熊谷龍一\r\n開催日時：2021年7月20日 (火) 17:45\r\n会場：CAR3219フィールド（カーミニークフィールド）",
+  "start": 1626770400000,
+  "end": 1626786000000,
+  "seconds": 15600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

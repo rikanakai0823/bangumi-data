@@ -1,0 +1,25 @@
+{
+  "id": "rktct59",
+  "category": "drama",
+  "title": "風の国",
+  "fullTitle": "風の国　#24　[字]",
+  "detail": "2008 年　全36話",
+  "start": 1626734100000,
+  "end": 1626738300000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 24,
+  "flags": [
+    "字"
+  ]
+}

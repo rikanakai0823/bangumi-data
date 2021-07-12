@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8gzt0",
+  "category": "cinema",
+  "title": "アニメ映画特番",
+  "fullTitle": "アニメ映画「サイダーのように言葉が湧き上がる」特番[再]",
+  "detail": " ",
+  "start": 1626708600000,
+  "end": 1626710400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "サイダーのように言葉が湧き上がる",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

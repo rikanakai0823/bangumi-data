@@ -1,0 +1,25 @@
+{
+  "id": "3826py3qoi",
+  "category": "sports",
+  "title": "東京オリンピック　ハイライト",
+  "fullTitle": "東京オリンピック　ハイライト[字]",
+  "detail": "7月23日に開会式を迎える「東京オリンピック」。大会＆競技の注目情報をお届けします。\r\n特集！新種目！スポーツクライミング",
+  "start": 1626735000000,
+  "end": 1626735600000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "東京オリンピック",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
