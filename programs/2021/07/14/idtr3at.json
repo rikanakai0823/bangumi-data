@@ -1,9 +1,9 @@
 {
   "id": "idtr3at",
   "category": "information",
-  "title": "植野食堂 by dancyu　オムライス",
-  "fullTitle": "植野食堂 by dancyu　オムライス",
-  "detail": "雑誌「dancyu」編集長・植野広生が目指すのは、日本一ふつうで美味しい料理が並ぶ食堂の開店！",
+  "title": "植野食堂 by dancyu",
+  "fullTitle": "植野食堂 by dancyu #98 オムライス",
+  "detail": "植野食堂100回記念特集。BSフジ看板番組のMCたちの「あの店のあのメニュー」を雑誌「dancyu」編集長・植野広生が学びます！今回は小山薫堂さんからの依頼。",
   "start": 1626256800000,
   "end": 1626258600000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 56
   },
-  "subTitle": "dancyu",
-  "episode": null,
+  "subTitle": "オムライス",
+  "episode": 98,
   "flags": []
 }
