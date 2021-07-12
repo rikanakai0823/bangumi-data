@@ -2,7 +2,7 @@
   "id": "381f5ks6l3",
   "category": "drama",
   "title": "おかえりモネ",
-  "fullTitle": "おかえりモネ「第二部東京編スタート！」",
+  "fullTitle": "おかえりモネ「第二部東京編スタート！」[字]",
   "detail": "",
   "start": 1626456780000,
   "end": 1626457080000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "第二部東京編スタート！",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
