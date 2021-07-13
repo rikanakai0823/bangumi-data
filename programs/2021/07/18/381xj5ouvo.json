@@ -1,0 +1,23 @@
+{
+  "id": "381xj5ouvo",
+  "category": "etc",
+  "title": "日曜スペシャル",
+  "fullTitle": "日曜スペシャル",
+  "detail": "旅紀行番組や、骨太ドキュメンタリー番組、注目のスポーツ中継等、大型企画が続々登場します！乞うご期待",
+  "start": 1626591600000,
+  "end": 1626596700000,
+  "seconds": 5100,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
