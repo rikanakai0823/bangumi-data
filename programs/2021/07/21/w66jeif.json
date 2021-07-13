@@ -1,0 +1,25 @@
+{
+  "id": "w66jeif",
+  "category": "sports",
+  "title": "LIONS BASEBALL L!VE イースタンリーグ　西武×ヤクルト",
+  "fullTitle": "[生]LIONS BASEBALL L!VE イースタンリーグ　西武×ヤクルト",
+  "detail": "イースタンリーグ「埼玉西武 vs 東京ヤクルト」\r\n＜開催＞2021年7月21日（水）【生中継】\r\n　～メットライフドーム\r\n※変更の場合あり",
+  "start": 1626856800000,
+  "end": 1626872400000,
+  "seconds": 15600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 113
+  },
+  "subTitle": "埼玉西武 vs 東京ヤクルト",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

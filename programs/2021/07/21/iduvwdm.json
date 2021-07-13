@@ -1,0 +1,26 @@
+{
+  "id": "iduvwdm",
+  "category": "cinema",
+  "title": "ザ・ゴールドフィンチ",
+  "fullTitle": "[映][SS]ザ・ゴールドフィンチ",
+  "detail": "アンセル・エルゴート主演のサスペンスドラマ。爆破テロ事件で母親を亡くした少年の苦難と数奇な運命を描く。［Ｒ１５＋相当］",
+  "start": 1626805800000,
+  "end": 1626815700000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

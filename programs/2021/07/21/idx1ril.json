@@ -1,0 +1,25 @@
+{
+  "id": "idx1ril",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#205「ウポポ汁の秘密」\r\n#206「オトナになること」\r\nラッコの子ども“ぼのぼの”とシマリスくんやスナドリネコさん。そ…",
+  "start": 1626867600000,
+  "end": 1626868800000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "ウポポ汁の秘密",
+  "episode": 205,
+  "flags": [
+    "字"
+  ]
+}

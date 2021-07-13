@@ -1,0 +1,25 @@
+{
+  "id": "iducmeu",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４５１",
+  "detail": "",
+  "start": 1626879000000,
+  "end": 1626879600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 451,
+  "flags": [
+    "無"
+  ]
+}

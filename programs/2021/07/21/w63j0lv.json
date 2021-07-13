@@ -1,0 +1,25 @@
+{
+  "id": "w63j0lv",
+  "category": "sports",
+  "title": "日本プロゴルフ選手権2021 最終日地上波＋リレー",
+  "fullTitle": "日本プロゴルフ選手権2021 最終日地上波＋リレー[再]",
+  "detail": "2021年7月4日開催　～日光カンツリー倶楽部\r\n解説：丸山茂樹　　ラウンド解説：牧野裕　　実況：中野謙吾",
+  "start": 1626856200000,
+  "end": 1626867000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

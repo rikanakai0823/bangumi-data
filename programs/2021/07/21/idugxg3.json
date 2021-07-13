@@ -1,0 +1,26 @@
+{
+  "id": "idugxg3",
+  "category": "cinema",
+  "title": "バーチュオシティ（字幕版）",
+  "fullTitle": "[映]バーチュオシティ（字幕版）[SS]",
+  "detail": "Ｄ・ワシントンとＲ・クロウが豪華顔合わせしたＳＦアクション。ヒトラーなど極悪人１５０人以上のデータをインプットされた人工生命体が逃亡。元警官はそれを追うが……。",
+  "start": 1626868800000,
+  "end": 1626876000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

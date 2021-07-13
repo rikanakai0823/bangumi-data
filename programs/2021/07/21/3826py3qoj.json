@@ -1,0 +1,25 @@
+{
+  "id": "3826py3qoj",
+  "category": "sports",
+  "title": "東京オリンピック　ハイライト",
+  "fullTitle": "東京オリンピック　ハイライト[字]",
+  "detail": "7月23日に開会式を迎える「東京オリンピック」。大会＆競技の注目情報をお届けします。\r\n特集！競泳　金メダルへ　松元克央など",
+  "start": 1626821400000,
+  "end": 1626822000000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "東京オリンピック",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

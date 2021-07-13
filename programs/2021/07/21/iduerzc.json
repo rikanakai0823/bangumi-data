@@ -1,0 +1,23 @@
+{
+  "id": "iduerzc",
+  "category": "variety",
+  "title": "ＣＡＭＰ　ＴＶ",
+  "fullTitle": "ＣＡＭＰ　ＴＶ　＃１０",
+  "detail": "ＦＵＪＩ　＆　ＳＵＮとＣＡＭＰ　ＨＡＣＫがプロデュースする新しいキャンプ番組誕生。キャンプと音楽と食べ物の楽しい世界に誘います。",
+  "start": 1626836400000,
+  "end": 1626838200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": []
+}

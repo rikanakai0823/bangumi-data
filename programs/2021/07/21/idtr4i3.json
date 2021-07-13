@@ -1,0 +1,23 @@
+{
+  "id": "idtr4i3",
+  "category": "information",
+  "title": "ダイレクト  テレショップ",
+  "fullTitle": "ダイレクト  テレショップ",
+  "detail": "",
+  "start": 1626802320000,
+  "end": 1626804060000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

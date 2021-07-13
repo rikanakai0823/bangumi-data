@@ -1,0 +1,27 @@
+{
+  "id": "idugxfw",
+  "category": "cinema",
+  "title": "ホタル",
+  "fullTitle": "[映]ホタル[SS][字]",
+  "detail": "主演・高倉健＆監督・降旗康男という、「駅　ＳＴＡＴＩＯＮ」「鉄道員（ぽっぽや）」などのヒット作を生み出したコンビが、元特攻隊員を主人公にした人間ドラマの感動作。",
+  "start": 1626818400000,
+  "end": 1626825600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
