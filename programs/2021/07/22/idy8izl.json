@@ -1,0 +1,25 @@
+{
+  "id": "idy8izl",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#80[二]",
+  "detail": "#80「ペンキを塗ろう」",
+  "start": 1626938700000,
+  "end": 1626939000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ペンキを塗ろう",
+  "episode": 80,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idskbl3",
+  "category": "variety",
+  "title": "スイモクちゃんねる",
+  "fullTitle": "スイモクちゃんねる",
+  "detail": "",
+  "start": 1626962400000,
+  "end": 1626965640000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

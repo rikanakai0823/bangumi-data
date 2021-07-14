@@ -1,0 +1,25 @@
+{
+  "id": "w681x7f",
+  "category": "anime",
+  "title": "Sonny Boy",
+  "fullTitle": "[新]Sonny Boy #01",
+  "detail": "#01 夏の果ての島",
+  "start": 1626933600000,
+  "end": 1626935400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "夏の果ての島",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

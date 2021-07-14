@@ -1,0 +1,25 @@
+{
+  "id": "w63j0qp",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～東京ドーム～",
+  "fullTitle": "[生]DRAMATIC BASEBALL2021「巨人軍　３チーム対抗戦ＳＰ」～東京ドーム～",
+  "detail": "緊急生中継！",
+  "start": 1626837300000,
+  "end": 1626858000000,
+  "seconds": 20700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "巨人軍　３チーム対抗戦ＳＰ",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iducmfg",
+  "category": "cinema",
+  "title": "オデッセイ（吹替版）",
+  "fullTitle": "[映]オデッセイ（吹替版）[SS][字]",
+  "detail": "事故で生存が絶望視されていた宇宙飛行士が、火星でひとりぼっちで生きていた！　果たして彼の救出作戦は可能か？　Ｒ・スコット監督＆Ｍ・デイモン主演の大ヒット痛快作。",
+  "start": 1626926400000,
+  "end": 1626935100000,
+  "seconds": 8700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

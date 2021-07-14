@@ -1,0 +1,23 @@
+{
+  "id": "idp01af",
+  "category": "sports",
+  "title": "東京２０２０オリンピック◇サッカー　男子・予選リーグ　グループＡ",
+  "fullTitle": "東京２０２０オリンピック◇サッカー　男子・予選リーグ　グループＡ",
+  "detail": "◇サッカー　男子・予選リーグ　グループＡ「メキシコ×フランス」（中継）",
+  "start": 1626940800000,
+  "end": 1626948000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "メキシコ×フランス",
+  "episode": null,
+  "flags": []
+}

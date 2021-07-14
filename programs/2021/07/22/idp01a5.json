@@ -1,0 +1,26 @@
+{
+  "id": "idp01a5",
+  "category": "sports",
+  "title": "スポーツ×ヒューマン",
+  "fullTitle": "スポーツ×ヒューマン[字][再]",
+  "detail": "",
+  "start": 1626908400000,
+  "end": 1626911040000,
+  "seconds": 2640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

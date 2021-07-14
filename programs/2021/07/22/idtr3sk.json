@@ -1,0 +1,23 @@
+{
+  "id": "idtr3sk",
+  "category": "information",
+  "title": "今夜のオススメ",
+  "fullTitle": "今夜のオススメ",
+  "detail": "",
+  "start": 1626944400000,
+  "end": 1626944700000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

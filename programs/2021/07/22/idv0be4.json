@@ -1,0 +1,25 @@
+{
+  "id": "idv0be4",
+  "category": "cinema",
+  "title": "十戒日曜洋画劇場版",
+  "fullTitle": "[映]十戒[吹]日曜洋画劇場版",
+  "detail": "旧約聖書の壮大な世界を、莫大な製作費と、当時最先端の特撮技術を注ぎ込んで映像化した、圧巻のスペクタクル巨編。",
+  "start": 1626902400000,
+  "end": 1626913800000,
+  "seconds": 11400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

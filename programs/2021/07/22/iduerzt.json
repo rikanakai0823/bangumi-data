@@ -1,0 +1,25 @@
+{
+  "id": "iduerzt",
+  "category": "music",
+  "title": "ＦＵＪＩ　＆　ＳＵＮ　'２１",
+  "fullTitle": "[初]ＦＵＪＩ　＆　ＳＵＮ　'２１",
+  "detail": "広々とした富士山麓という自然の中で音楽を楽しむ、ＷＯＷＯＷをはじめ５社が贈るキャンプフェスの模様を紹介。",
+  "start": 1626939000000,
+  "end": 1626944400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

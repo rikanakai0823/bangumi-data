@@ -1,0 +1,23 @@
+{
+  "id": "w67vkhw",
+  "category": "anime",
+  "title": "きんだーてれび PUI PUI モルカー　一挙放送",
+  "fullTitle": "きんだーてれび PUI PUI モルカー　一挙放送",
+  "detail": "きんだーてれび PUI PUI モルカー一挙放送をします。",
+  "start": 1626908400000,
+  "end": 1626912000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
