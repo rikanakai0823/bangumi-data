@@ -2,7 +2,7 @@
   "id": "idozcxl",
   "category": "sports",
   "title": "ＭＬＢ２０２１大谷翔平ベストゲーム",
-  "fullTitle": "ＭＬＢ２０２１大谷翔平ベストゲーム",
+  "fullTitle": "ＭＬＢ２０２１大谷翔平ベストゲーム[字]",
   "detail": "",
   "start": 1626876000000,
   "end": 1626878700000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

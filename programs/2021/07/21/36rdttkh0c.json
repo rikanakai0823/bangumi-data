@@ -3,10 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n\"Skin\"BEARTOOTH\r\n\"So Far Away\"SURFACES\r\n\"Next Thing (Loverboy)\"SURFACES\r\nSURFACES インタビュー\r\n\"Wave Of You\"SURFACES\r\n\"Mona Lisa\"AREA21",
   "start": 1626849000000,
   "end": 1626850800000,
   "seconds": 1800,
+  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "extra": {
+    "番組内容": "\"Skin\"BEARTOOTH\r\n\"So Far Away\"SURFACES\r\n\"Next Thing (Loverboy)\"SURFACES\r\nSURFACES インタビュー\r\n\"Wave Of You\"SURFACES\r\n\"Mona Lisa\"AREA21"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
