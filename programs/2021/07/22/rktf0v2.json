@@ -1,12 +1,12 @@
 {
   "id": "rktf0v2",
   "category": "music",
-  "title": "M COUNTDOWN",
-  "fullTitle": "[生]M COUNTDOWN",
-  "detail": "最新K-POPを視聴できるNO.1音楽番組「M COUNTDOWN」韓国同時生放送でお届け！\r\n字幕なし：（土)深2:00\r\n字幕版：（日)21:00、（火)11:00、(水)深1:00",
-  "start": 1626944400000,
-  "end": 1626951600000,
-  "seconds": 7200,
+  "title": "KCON:TACT 4 U",
+  "fullTitle": "[生]KCON:TACT 4 U",
+  "detail": "6月19日から27日に開催された「KCON:TACT 4 U」のコンサートの様子をオンエア！\r\n字幕版：8月30日20:30～\r\nバックステージビハインド：8月31日19:00～",
+  "start": 1626937200000,
+  "end": 1626955200000,
+  "seconds": 18000,
   "channel": {
     "type": "CS",
     "channel": "CS8",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 121
   },
-  "subTitle": "M COUNTDOWN",
+  "subTitle": "KCON:TACT 4 U",
   "episode": null,
   "flags": [
     "生"
