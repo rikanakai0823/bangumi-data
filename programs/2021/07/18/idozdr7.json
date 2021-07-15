@@ -1,0 +1,26 @@
+{
+  "id": "idozdr7",
+  "category": "sports",
+  "title": "熱戦凝縮！",
+  "fullTitle": "熱戦凝縮！「全日本卓球選手権」[字][再]",
+  "detail": "卓球シングルス日本一をかけて、東京五輪代表内定の伊藤美誠、石川佳純、平野美宇、張本智和、丹羽孝希が参戦。卓球の世界レベルの技と熱い戦いをギュギュっと凝縮！",
+  "start": 1626588000000,
+  "end": 1626594600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "全日本卓球選手権",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
