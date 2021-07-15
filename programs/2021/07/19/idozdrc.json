@@ -1,0 +1,26 @@
+{
+  "id": "idozdrc",
+  "category": "sports",
+  "title": "熱戦凝縮！",
+  "fullTitle": "熱戦凝縮！「全日本体操選手権」[字][再]",
+  "detail": "体操・男女の個人総合と種目別の日本一を争う大会▽鉄棒一本で五輪メダルを狙う内村航平が圧巻の演技▽エース村上茉愛がケガから復活。代表候補の戦いをギュギュっと凝縮！",
+  "start": 1626652800000,
+  "end": 1626655800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "全日本体操選手権",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

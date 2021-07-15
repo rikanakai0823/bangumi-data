@@ -1,0 +1,26 @@
+{
+  "id": "idozdri",
+  "category": "sports",
+  "title": "熱戦凝縮！",
+  "fullTitle": "熱戦凝縮！「ＮＨＫ杯体操」[字][再]",
+  "detail": "▽東京オリンピック体操の代表選考を兼ねたＮＨＫ杯▽男女団体メンバー４人のうち男子は２人、女子は４人全員が内定▽代表を目指す選手たちの熱い戦いをギュギュっと凝縮！",
+  "start": 1626656400000,
+  "end": 1626659400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ＮＨＫ杯体操",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
