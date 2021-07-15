@@ -1,0 +1,26 @@
+{
+  "id": "w66oahs",
+  "category": "drama",
+  "title": "宇宙船XL-5",
+  "fullTitle": "[字]宇宙船XL-5(帯)#39[終]",
+  "detail": "#39「透明生物」\r\nSPACE MAGNET\r\n月の周辺をパトロールしていたXL-7号が、突如制御不能になり消息を絶った。",
+  "start": 1626984000000,
+  "end": 1626985800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "透明生物",
+  "episode": 39,
+  "flags": [
+    "字",
+    "終"
+  ]
+}

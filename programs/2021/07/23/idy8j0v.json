@@ -1,0 +1,25 @@
+{
+  "id": "idy8j0v",
+  "category": "cinema",
+  "title": "トロールズ",
+  "fullTitle": "トロールズ[二]",
+  "detail": "歌と踊りとハグが大好きなトロールは、森の中で平和に暮らしている。しかし一方で、トロールを食べれば幸せになれると信じる不幸な生き物ベルゲンの存在に脅かされていた。",
+  "start": 1627034400000,
+  "end": 1627040700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

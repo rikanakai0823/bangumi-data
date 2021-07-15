@@ -1,0 +1,25 @@
+{
+  "id": "idy8j03",
+  "category": "anime",
+  "title": "悪魔バスター★スター・バタフライ",
+  "fullTitle": "悪魔バスター★スター・バタフライ#77[二]",
+  "detail": "#77「二つの世界」",
+  "start": 1626982200000,
+  "end": 1626984000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "二つの世界",
+  "episode": 77,
+  "flags": [
+    "二"
+  ]
+}

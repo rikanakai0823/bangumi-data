@@ -1,0 +1,27 @@
+{
+  "id": "idugxgq",
+  "category": "cinema",
+  "title": "天気の子",
+  "fullTitle": "[映]天気の子[SS][字]",
+  "detail": "「君の名は。」に続く新海誠監督の長編アニメーション映画で、２０１９年の日本で最大のヒットを記録。東京で出会った１組の少年少女は、自らの生き方を“選択”していく。",
+  "start": 1627034400000,
+  "end": 1627041600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "君の名は。",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w69b01f",
+  "category": "news",
+  "title": "CNNニュースルーム",
+  "fullTitle": "[二]CNNニュースルーム",
+  "detail": "日本語同時通訳付。\r\n専門家の分析を交え世界のニュースを検証。ヘッドラインを飾るニュースと最新情報を、各分野の専門家の分析とともに判りやすく解説する報道・情報番組",
+  "start": 1627016400000,
+  "end": 1627020000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

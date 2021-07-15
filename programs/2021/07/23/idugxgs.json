@@ -1,0 +1,26 @@
+{
+  "id": "idugxgs",
+  "category": "cinema",
+  "title": "ペット（字幕版）",
+  "fullTitle": "[映]ペット（字幕版）[SS]",
+  "detail": "「怪盗グルー」シリーズのイルミネーション・エンターテインメントによる、家族そろって楽しめるコメディアニメ。飼い主の留守の間、ペットたちは冒険へ。後に続編も誕生。",
+  "start": 1627048800000,
+  "end": 1627054200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "怪盗グルー",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

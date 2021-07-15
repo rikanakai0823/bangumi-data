@@ -1,0 +1,23 @@
+{
+  "id": "rkdr75g",
+  "category": "information",
+  "title": "ジュエリースペシャル",
+  "fullTitle": "ジュエリースペシャル",
+  "detail": "ジュエリー／真夏の大特価市／”夏のおトクを集めたスペシャル企画！何が出るかは見てのお楽しみ！”",
+  "start": 1627012800000,
+  "end": 1627016400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

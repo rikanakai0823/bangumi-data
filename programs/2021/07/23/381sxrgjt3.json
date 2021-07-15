@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgjt3",
+  "category": "variety",
+  "title": "ザ・ベストワン",
+  "fullTitle": "ザ・ベストワン[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/the_best_one_tbs/",
+  "start": 1627034400000,
+  "end": 1627048440000,
+  "seconds": 14040,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/the_best_one_tbs/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

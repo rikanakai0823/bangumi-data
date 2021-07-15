@@ -1,0 +1,25 @@
+{
+  "id": "w63tcgt",
+  "category": "sports",
+  "title": "オンデマンドでみよう！７月号",
+  "fullTitle": "[初]オンデマンドでみよう！７月号",
+  "detail": "“いつでも見たい時に、見たい映画を見られる”オンデマンド配信。今月の見逃せない話題作をご紹介！",
+  "start": 1626966900000,
+  "end": 1626967800000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 99
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

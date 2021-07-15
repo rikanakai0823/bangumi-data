@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yag",
+  "category": "sports",
+  "title": "東京女子プロレス 2020.11.7TDCホール<2H版>",
+  "fullTitle": "東京女子プロレス 2020.11.7TDCホール<2H版>",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1626967800000,
+  "end": 1626975000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": null,
+  "flags": []
+}

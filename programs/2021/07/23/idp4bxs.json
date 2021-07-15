@@ -1,0 +1,26 @@
+{
+  "id": "idp4bxs",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「涼をまとう　浴衣」[字][再]",
+  "detail": "歌舞伎俳優・片岡愛之助さんこだわりの浴衣から、涼しく過ごすための伝統の技、人気着物スタイリストおすすめの着こなし、最新の浴衣まで、美しく奥深い浴衣の魅力に迫る！",
+  "start": 1627011000000,
+  "end": 1627012800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "涼をまとう　浴衣",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
