@@ -1,0 +1,27 @@
+{
+  "id": "idv0j16",
+  "category": "cinema",
+  "title": "デンジャラス・ラン",
+  "fullTitle": "[映][SS][字]デンジャラス・ラン[吹]",
+  "detail": "デンゼル・ワシントン主演。新米ＣＩＡ職員と元敏腕工作員である指名手配犯の、決死の逃亡劇を描く。［ＰＧ１２］",
+  "start": 1627137000000,
+  "end": 1627144800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

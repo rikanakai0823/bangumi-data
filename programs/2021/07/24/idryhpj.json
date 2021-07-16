@@ -1,0 +1,23 @@
+{
+  "id": "idryhpj",
+  "category": "information",
+  "title": "美と健康のショッピング",
+  "fullTitle": "美と健康のショッピング",
+  "detail": "テレビショッピング",
+  "start": 1627070400000,
+  "end": 1627073700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

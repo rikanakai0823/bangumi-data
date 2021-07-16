@@ -1,0 +1,25 @@
+{
+  "id": "iduw5vd",
+  "category": "drama",
+  "title": "フォークロア：名もなき者",
+  "fullTitle": "[SS]フォークロア：名もなき者",
+  "detail": "【海外ドラマシリーズ一挙放送】",
+  "start": 1627065900000,
+  "end": 1627069500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "海外ドラマシリーズ一挙放送",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp3lgd",
+  "category": "documentary",
+  "title": "驚き！ニッポンの底力",
+  "fullTitle": "驚き！ニッポンの底力「建築王国物語」[字][再]",
+  "detail": "いま東京にこれまでの常識を覆す建物が続々と誕生！長さ９０ｍの巨大な木造梁（はり）がかかる有明体操競技場。海の上に造られた、広大な東京国際クルーズターミナルなど。",
+  "start": 1627101000000,
+  "end": 1627106400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "建築王国物語",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

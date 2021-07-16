@@ -1,0 +1,27 @@
+{
+  "id": "iducmh9",
+  "category": "cinema",
+  "title": "弱虫ペダル",
+  "fullTitle": "[映]弱虫ペダル[SS][字]",
+  "detail": "渡辺航の大ヒット漫画をＫｉｎｇ　＆　Ｐｒｉｎｃｅの永瀬廉主演で実写映画化。オタク高校生が自転車ロードレースとの出会いを通じて仲間との友情を築き、成長していく。",
+  "start": 1627124400000,
+  "end": 1627131600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
