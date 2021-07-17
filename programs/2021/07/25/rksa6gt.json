@@ -1,0 +1,25 @@
+{
+  "id": "rksa6gt",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2021 WRESTLE GRAND SLAM in TOKYO DOME",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2021 WRESTLE GRAND SLAM in TOKYO DOME",
+  "detail": "新日本プロレス史上初・夏の東京ドーム決戦！最高の舞台でＩＷＧＰ世界ヘビー級王座を懸け第３代王者・鷹木信悟と初代王者・飯伏幸太が頂上決戦！\r\n※延長の場合あり",
+  "start": 1627200000000,
+  "end": 1627214400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

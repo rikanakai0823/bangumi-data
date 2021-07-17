@@ -1,0 +1,25 @@
+{
+  "id": "idx1rk5",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#217「たどってゆこう」\r\n#218「今日は大運動会」\r\n#219「みんなで大運動会」\r\n#220「おとうさんたちのはなし」\r\nラッコの…",
+  "start": 1627160400000,
+  "end": 1627162200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "たどってゆこう",
+  "episode": 217,
+  "flags": [
+    "字"
+  ]
+}

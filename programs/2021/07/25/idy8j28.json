@@ -1,0 +1,25 @@
+{
+  "id": "idy8j28",
+  "category": "drama",
+  "title": "ハーレーはド真ん中",
+  "fullTitle": "ハーレーはド真ん中#23[二]",
+  "detail": "#23「ガレージセール大作戦！」",
+  "start": 1627153200000,
+  "end": 1627155000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ガレージセール大作戦！",
+  "episode": 23,
+  "flags": [
+    "二"
+  ]
+}

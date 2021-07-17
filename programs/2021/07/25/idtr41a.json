@@ -1,0 +1,25 @@
+{
+  "id": "idtr41a",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　新潟：アイビスサマーダッシュ（GⅢ）　函館：UHB杯",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　新潟：アイビスサマーダッシュ（GⅢ）　函館：UHB杯",
+  "detail": "2021年は毎週放送！新潟：アイビスサマーダッシュ（GⅢ）函館：UHB杯／ゲスト：山本昌（元プロ野球選手）解説：沢田知希（競馬エイト）／夏競馬真っ盛り！",
+  "start": 1627192800000,
+  "end": 1627196400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
