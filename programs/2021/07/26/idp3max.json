@@ -1,0 +1,26 @@
+{
+  "id": "idp3max",
+  "category": "documentary",
+  "title": "ニッポン印象派",
+  "fullTitle": "ニッポン印象派「鉄路の記憶」[字][再]",
+  "detail": "日本が世界に誇る数々の絶景を、４Ｋ高精細カメラが捕らえるシリーズ「ニッポン印象派」。今はなき北海道・士幌線跡をたどる。幻のアーチ橋・タウシュベツ川橋梁ほか。",
+  "start": 1627263300000,
+  "end": 1627265100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "鉄路の記憶",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

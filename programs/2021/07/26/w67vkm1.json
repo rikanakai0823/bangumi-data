@@ -1,0 +1,26 @@
+{
+  "id": "w67vkm1",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST ,2",
+  "fullTitle": "[新]鋼の錬金術師 FULLMETAL ALCHEMIST[字] #1,2",
+  "detail": "＃１「鋼の錬金術師」＃２「はじまりの日」",
+  "start": 1627308000000,
+  "end": 1627311600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "鋼の錬金術師",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

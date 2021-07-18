@@ -1,0 +1,27 @@
+{
+  "id": "idugxho",
+  "category": "cinema",
+  "title": "銃２０２０",
+  "fullTitle": "[映]銃２０２０[SS][字]",
+  "detail": "青春ハードボイルドスリラー「銃」の原作者・中村文則が原案などを担当。日南響子が１丁の拳銃に運命を振り回されるヒロインを熱演し、加藤雅也、友近、佐藤浩市らが共演。",
+  "start": 1627267500000,
+  "end": 1627272900000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "銃",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

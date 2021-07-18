@@ -1,0 +1,23 @@
+{
+  "id": "idozc0q",
+  "category": "sports",
+  "title": "東京２０２０オリンピック◇トライアスロン　男子",
+  "fullTitle": "東京２０２０オリンピック◇トライアスロン　男子",
+  "detail": "◇トライアスロン　男子（中継）",
+  "start": 1627248000000,
+  "end": 1627257000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
