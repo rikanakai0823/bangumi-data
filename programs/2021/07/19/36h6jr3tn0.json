@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr3tn0",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ[Ｓ]",
+  "detail": "",
+  "start": 1626681600000,
+  "end": 1626684300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
