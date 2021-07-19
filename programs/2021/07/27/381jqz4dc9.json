@@ -1,0 +1,25 @@
+{
+  "id": "381jqz4dc9",
+  "category": "sports",
+  "title": "東京２０２０オリンピック",
+  "fullTitle": "東京２０２０オリンピック[字]",
+  "detail": "",
+  "start": 1627386240000,
+  "end": 1627387200000,
+  "seconds": 960,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
