@@ -1,0 +1,23 @@
+{
+  "id": "ieu4d5s",
+  "category": "etc",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "ただいま設備のメンテナンスのため放送を休止しています。放送開始は午前７時からとなります。",
+  "start": 1626804000000,
+  "end": 1626807600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "プレミアムナビ",
+    "id": "8l94",
+    "sid": 792,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 84
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

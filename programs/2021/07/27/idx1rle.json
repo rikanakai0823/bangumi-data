@@ -1,0 +1,25 @@
+{
+  "id": "idx1rle",
+  "category": "anime",
+  "title": "ちびまる子ちゃん",
+  "fullTitle": "[字]ちびまる子ちゃん #520",
+  "detail": "#520「まる子の積立貯金」の巻／「バラ色の人生」の巻\r\n静岡県清水市に住む小学3年生のももこは、みんなから“まる子”…",
+  "start": 1627333200000,
+  "end": 1627335000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "まる子の積立貯金",
+  "episode": 520,
+  "flags": [
+    "字"
+  ]
+}

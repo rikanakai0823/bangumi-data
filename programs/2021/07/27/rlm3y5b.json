@@ -1,0 +1,25 @@
+{
+  "id": "rlm3y5b",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～エキシビションマッチ～ ソフトバンクvs.DeNA",
+  "fullTitle": "[生]HAWKS プロ野球中継2021～エキシビションマッチ～ ソフトバンクvs.DeNA",
+  "detail": "解説/実況：浜名千広/石黒新平\r\n開催日：2021年7月27日 (火)\r\n会場：福岡PayPayドーム",
+  "start": 1627376100000,
+  "end": 1627390800000,
+  "seconds": 14700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

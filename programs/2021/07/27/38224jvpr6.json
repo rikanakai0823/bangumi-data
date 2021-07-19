@@ -1,0 +1,27 @@
+{
+  "id": "38224jvpr6",
+  "category": "information",
+  "title": "テレ朝番組みどころナビ",
+  "fullTitle": "テレ朝番組みどころナビ",
+  "detail": "テレビ朝日のおすすめ番組をご紹介！\n◇◇おしらせ\n※この番組は放送時間が変更になる場合があります",
+  "start": 1627315500000,
+  "end": 1627315800000,
+  "seconds": 300,
+  "description": "テレビ朝日のおすすめ番組をご紹介！",
+  "extra": {
+    "◇おしらせ": "※この番組は放送時間が変更になる場合があります"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

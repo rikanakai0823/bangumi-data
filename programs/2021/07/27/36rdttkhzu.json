@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkhzu",
+  "category": "news",
+  "title": "ｔｖｋニュース",
+  "fullTitle": "ｔｖｋニュース",
+  "detail": "ニュース▽あすの天気予報",
+  "start": 1627389000000,
+  "end": 1627389600000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

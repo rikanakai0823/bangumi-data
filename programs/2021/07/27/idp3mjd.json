@@ -1,0 +1,25 @@
+{
+  "id": "idp3mjd",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「大看板　團十郎への道」[字]",
+  "detail": "十二代目市川團十郎を襲名するまでの苦闘を見つめた１９８５年の番組。多忙を極めたスケジュールをこなしつつ、歌舞伎界の大看板を背負うまでの道のりを追う。",
+  "start": 1627377000000,
+  "end": 1627380000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "大看板　團十郎への道",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

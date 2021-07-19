@@ -1,0 +1,23 @@
+{
+  "id": "idozcy0",
+  "category": "sports",
+  "title": "東京２０２０オリンピック",
+  "fullTitle": "東京２０２０オリンピック",
+  "detail": "",
+  "start": 1627376100000,
+  "end": 1627381200000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
