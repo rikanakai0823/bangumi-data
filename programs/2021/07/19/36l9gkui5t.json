@@ -1,9 +1,9 @@
 {
   "id": "36l9gkui5t",
   "category": "hobby",
-  "title": "ちば見聞録",
-  "fullTitle": "ちば見聞録",
-  "detail": " ",
+  "title": "ちば見聞録　「房総の偉人 」",
+  "fullTitle": "ちば見聞録[再]　「房総の偉人 「日蓮」」",
+  "detail": "鎌倉時代に安房の国に生まれた日蓮宗の開祖・日蓮。その足跡や伝説、ゆかりの地などを紹介。",
   "start": 1626670800000,
   "end": 1626672300000,
   "seconds": 1500,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "日蓮",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }
