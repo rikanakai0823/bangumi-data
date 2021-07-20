@@ -4,9 +4,9 @@
   "title": "ニュース・気象情報（関東）",
   "fullTitle": "ニュース・気象情報（関東）[字]",
   "detail": "",
-  "start": 1627120200000,
+  "start": 1627119900000,
   "end": 1627120800000,
-  "seconds": 600,
+  "seconds": 900,
   "channel": {
     "type": "GR",
     "channel": "27",
