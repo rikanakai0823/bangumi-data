@@ -1,0 +1,25 @@
+{
+  "id": "idozch2",
+  "category": "sports",
+  "title": "東京２０２０オリンピック◇７人制ラグビー　男子",
+  "fullTitle": "東京２０２０オリンピック◇７人制ラグビー　男子[字]",
+  "detail": "◇７人制ラグビー　男子・７－８位決定戦・５－６位決定戦・３位決定戦・決勝（中継）",
+  "start": 1627457100000,
+  "end": 1627464600000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

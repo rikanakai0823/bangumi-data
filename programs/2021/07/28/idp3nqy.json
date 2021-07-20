@@ -1,0 +1,23 @@
+{
+  "id": "idp3nqy",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「８月号」",
+  "detail": "",
+  "start": 1627465800000,
+  "end": 1627466100000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "８月号",
+  "episode": null,
+  "flags": []
+}

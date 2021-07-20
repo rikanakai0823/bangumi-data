@@ -1,0 +1,25 @@
+{
+  "id": "iduwi8w",
+  "category": "drama",
+  "title": "ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ",
+  "fullTitle": "[SS]ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ　＃１",
+  "detail": "【ＴＶ初放送スタート】",
+  "start": 1627398000000,
+  "end": 1627401600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＴＶ初放送スタート",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

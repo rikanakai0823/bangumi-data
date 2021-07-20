@@ -1,0 +1,26 @@
+{
+  "id": "rks35ds",
+  "category": "drama",
+  "title": "メゾン・ド・ポリス",
+  "fullTitle": "[新]メゾン・ド・ポリス #1[字]",
+  "detail": "高畑充希主演の刑事ドラマ。新人刑事・牧野ひよりが退職警察官だけが住むシェアハウスを訪れ、ワケありの“おじさま”たちと事件を解決していく姿を描く。",
+  "start": 1627459200000,
+  "end": 1627463100000,
+  "seconds": 3900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8j5e",
+  "category": "anime",
+  "title": "キム・ポッシブル",
+  "fullTitle": "キム・ポッシブル#3[二]",
+  "detail": "#3「ダンス・パーティー」",
+  "start": 1627414200000,
+  "end": 1627416000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ダンス・パーティー",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

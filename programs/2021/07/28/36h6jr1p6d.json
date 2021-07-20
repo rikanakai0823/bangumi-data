@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr1p6d",
+  "category": "drama",
+  "title": "ネコナデ",
+  "fullTitle": "ネコナデ[字][Ｓ][再]",
+  "detail": "第４話　世間じゃ　それを癒しと呼ぶ",
+  "start": 1627480800000,
+  "end": 1627482600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "世間じゃ　それを癒しと呼ぶ",
+  "episode": 4,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

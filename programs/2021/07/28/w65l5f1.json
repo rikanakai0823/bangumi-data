@@ -1,0 +1,23 @@
+{
+  "id": "w65l5f1",
+  "category": "information",
+  "title": "【無料】生活情報の時間",
+  "fullTitle": "【無料】生活情報の時間",
+  "detail": "-2021年・オリジナル番組-\r\nこの時間は、ショッピング情報をお送りします。",
+  "start": 1627436700000,
+  "end": 1627437600000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "時代劇専門ｃｈ",
+    "id": "f0ck",
+    "sid": 292,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 101
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

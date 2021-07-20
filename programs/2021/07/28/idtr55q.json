@@ -1,0 +1,25 @@
+{
+  "id": "idtr55q",
+  "category": "music",
+  "title": "Wakanaの素顔　～magic moment～",
+  "fullTitle": "[新]Wakanaの素顔　～magic moment～",
+  "detail": "シンガー“Wakana”のライブではなかなか見られない「素顔」を切り取ります。",
+  "start": 1627401600000,
+  "end": 1627401900000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "素顔",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

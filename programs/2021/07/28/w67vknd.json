@@ -1,0 +1,25 @@
+{
+  "id": "w67vknd",
+  "category": "anime",
+  "title": "あひるの空 ,4",
+  "fullTitle": "あひるの空[字] #3,4",
+  "detail": "＃３「百春の翼」＃４「初めての飛翔」",
+  "start": 1627408800000,
+  "end": 1627412400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "百春の翼",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}
