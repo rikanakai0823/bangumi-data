@@ -1,0 +1,23 @@
+{
+  "id": "idryhwg",
+  "category": "information",
+  "title": "ｅ―ｃｈａｎｃｅ！テレビショッピング",
+  "fullTitle": "ｅ―ｃｈａｎｃｅ！テレビショッピング",
+  "detail": "テレビショッピング",
+  "start": 1627511400000,
+  "end": 1627513200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

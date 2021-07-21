@@ -1,0 +1,27 @@
+{
+  "id": "idugxiv",
+  "category": "cinema",
+  "title": "君の名は。",
+  "fullTitle": "[映]君の名は。[SS][字]",
+  "detail": "後に「天気の子」も大ヒットする新海誠監督が先駆けて放った、歴史的大ヒット長編アニメーション映画。夢の中で“入れ替わる”少年と少女の恋と奇跡の物語。",
+  "start": 1627560000000,
+  "end": 1627567200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "天気の子",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

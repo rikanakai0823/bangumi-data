@@ -1,0 +1,25 @@
+{
+  "id": "rktctau",
+  "category": "drama",
+  "title": "風の国",
+  "fullTitle": "風の国　#30　[字]",
+  "detail": "2008 年　全36話",
+  "start": 1627511700000,
+  "end": 1627515900000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 30,
+  "flags": [
+    "字"
+  ]
+}

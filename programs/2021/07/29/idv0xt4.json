@@ -1,0 +1,26 @@
+{
+  "id": "idv0xt4",
+  "category": "cinema",
+  "title": "ジャングルランド",
+  "fullTitle": "[映][SS]ジャングルランド[吹]",
+  "detail": "チャーリー・ハナム主演の人間ドラマ。高額賞金の格闘技大会に向かう旅を通して兄弟の絆を描く。［ＰＧ１２相当］",
+  "start": 1627520400000,
+  "end": 1627527600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

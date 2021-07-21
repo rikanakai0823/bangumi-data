@@ -1,0 +1,23 @@
+{
+  "id": "idues29",
+  "category": "music",
+  "title": "大橋トリオ　ＬＩＶＥ　ＡＴ　ＭＵＳＩＣ　ＨＯＵＳＥ",
+  "fullTitle": "大橋トリオ　ＬＩＶＥ　ＡＴ　ＭＵＳＩＣ　ＨＯＵＳＥ",
+  "detail": "心にじんわり沁みる大橋トリオのＷＯＷＯＷオリジナルライブ番組。豪華なメンバーとプライベートな空間で奏でるスペシャルなライブをお届け。",
+  "start": 1627549200000,
+  "end": 1627556400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

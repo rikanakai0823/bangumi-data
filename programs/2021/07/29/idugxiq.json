@@ -1,0 +1,26 @@
+{
+  "id": "idugxiq",
+  "category": "cinema",
+  "title": "キネマの天地",
+  "fullTitle": "[映]キネマの天地[字]",
+  "detail": "映画作りに情熱を燃やす人々を、名匠・山田洋次監督が活写した人情群像劇。昭和初期の松竹蒲田撮影所を舞台に、次第にスターへと成長していく新人女優をヒロインに据えた。",
+  "start": 1627522200000,
+  "end": 1627531200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

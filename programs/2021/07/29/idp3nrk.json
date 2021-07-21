@@ -1,0 +1,23 @@
+{
+  "id": "idp3nrk",
+  "category": "music",
+  "title": "映像散歩",
+  "fullTitle": "映像散歩「中央アルプス」",
+  "detail": "",
+  "start": 1627491900000,
+  "end": 1627493700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "中央アルプス",
+  "episode": null,
+  "flags": []
+}

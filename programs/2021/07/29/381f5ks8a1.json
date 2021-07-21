@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks8a1",
+  "category": "sports",
+  "title": "東京２０２０オリンピック◇体操　女子個人総合・決勝（中継）",
+  "fullTitle": "東京２０２０オリンピック◇体操　女子個人総合・決勝（中継）[字]",
+  "detail": "◇体操　女子個人総合・決勝（中継）",
+  "start": 1627554600000,
+  "end": 1627565400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

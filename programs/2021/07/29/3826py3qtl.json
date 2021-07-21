@@ -1,0 +1,26 @@
+{
+  "id": "3826py3qtl",
+  "category": "sports",
+  "title": "東京五輪プレミアム",
+  "fullTitle": "東京五輪プレミアム[字][SS]",
+  "detail": "◇5.1サラウンド",
+  "start": 1627567200000,
+  "end": 1627578000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "SS"
+  ]
+}
