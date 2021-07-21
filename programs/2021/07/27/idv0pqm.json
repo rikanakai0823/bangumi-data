@@ -1,0 +1,23 @@
+{
+  "id": "idv0pqm",
+  "category": "etc",
+  "title": "放送休止　スクランブル",
+  "fullTitle": "放送休止　スクランブル",
+  "detail": "放送設備点検のため放送を休止いたします。",
+  "start": 1627327800000,
+  "end": 1627329300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
