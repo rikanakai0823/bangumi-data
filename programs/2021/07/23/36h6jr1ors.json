@@ -1,12 +1,12 @@
 {
   "id": "36h6jr1ors",
-  "category": "news",
-  "title": "ＴＥＬＥＴＡＭＡ  ＮＥＷＳ",
-  "fullTitle": "ＴＥＬＥＴＡＭＡ  ＮＥＷＳ[Ｓ]",
+  "category": "etc",
+  "title": "ＴＥＬＥＴＡＭＡ　ＮＥＷＳ",
+  "fullTitle": "ＴＥＬＥＴＡＭＡ　ＮＥＷＳ",
   "detail": "",
-  "start": 1627030800000,
-  "end": 1627031700000,
-  "seconds": 900,
+  "start": 1627008900000,
+  "end": 1627009200000,
+  "seconds": 300,
   "channel": {
     "type": "GR",
     "channel": "32",
