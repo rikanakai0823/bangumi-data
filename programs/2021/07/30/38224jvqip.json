@@ -1,0 +1,25 @@
+{
+  "id": "38224jvqip",
+  "category": "etc",
+  "title": "作品調整中",
+  "fullTitle": "作品調整中[字]",
+  "detail": "※番組が決まり次第、お知らせいたします。",
+  "start": 1627585200000,
+  "end": 1627588500000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

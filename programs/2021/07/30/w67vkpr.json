@@ -1,0 +1,25 @@
+{
+  "id": "w67vkpr",
+  "category": "anime",
+  "title": "ポケットモンスター ,75",
+  "fullTitle": "ポケットモンスター[字] #74,75",
+  "detail": "＃７４「げきとつ！ちょうこだいポケモン！」＃７５「ガラガラのほねこんぼう」",
+  "start": 1627574400000,
+  "end": 1627578000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "げきとつ！ちょうこだいポケモン！",
+  "episode": 74,
+  "flags": [
+    "字"
+  ]
+}

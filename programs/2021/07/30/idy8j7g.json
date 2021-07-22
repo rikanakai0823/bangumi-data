@@ -1,0 +1,25 @@
+{
+  "id": "idy8j7g",
+  "category": "drama",
+  "title": "シェキラ！",
+  "fullTitle": "シェキラ！#35[二]",
+  "detail": "#35「パーティーの裁判！」",
+  "start": 1627583400000,
+  "end": 1627585200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "パーティーの裁判！",
+  "episode": 35,
+  "flags": [
+    "二"
+  ]
+}

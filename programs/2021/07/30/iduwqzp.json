@@ -1,0 +1,26 @@
+{
+  "id": "iduwqzp",
+  "category": "documentary",
+  "title": "ウエスタン・スターズ",
+  "fullTitle": "[映][SS]ウエスタン・スターズ",
+  "detail": "ブルース・スプリングスティーン初監督の音楽ドキュメンタリー。ライブツアーの模様を収録するなど自身の同名アルバムを映画化。",
+  "start": 1627623900000,
+  "end": 1627631100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

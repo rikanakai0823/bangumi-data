@@ -1,0 +1,23 @@
+{
+  "id": "idtr4a7",
+  "category": "information",
+  "title": "スマイルＴＶショッピング",
+  "fullTitle": "スマイルＴＶショッピング",
+  "detail": "",
+  "start": 1627581660000,
+  "end": 1627583400000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

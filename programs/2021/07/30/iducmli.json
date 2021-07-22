@@ -1,0 +1,25 @@
+{
+  "id": "iducmli",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６８５",
+  "detail": "",
+  "start": 1627622400000,
+  "end": 1627623000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 685,
+  "flags": [
+    "無"
+  ]
+}
