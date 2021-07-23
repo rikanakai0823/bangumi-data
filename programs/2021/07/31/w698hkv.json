@@ -1,0 +1,23 @@
+{
+  "id": "w698hkv",
+  "category": "documentary",
+  "title": "BBCドキュメンタリー",
+  "fullTitle": "BBCドキュメンタリー",
+  "detail": "選りすぐりのドキュメンタリー番組をお届けする。",
+  "start": 1627695000000,
+  "end": 1627696800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

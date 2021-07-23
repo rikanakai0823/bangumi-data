@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7ye6",
+  "category": "cinema",
+  "title": "映画『竜とそばかすの姫』⑧",
+  "fullTitle": "映画『竜とそばかすの姫』⑧",
+  "detail": "",
+  "start": 1627676640000,
+  "end": 1627676940000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

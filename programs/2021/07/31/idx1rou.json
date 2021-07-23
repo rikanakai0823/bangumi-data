@@ -1,0 +1,25 @@
+{
+  "id": "idx1rou",
+  "category": "anime",
+  "title": "ヴァニタスの手記",
+  "fullTitle": "[字]ヴァニタスの手記 #2",
+  "detail": "#2\r\n人間と吸血鬼が存在する19世紀フランス。吸血鬼の青年ノエは、吸血鬼に呪いを振り撒くという魔導書“ヴァニタスの…",
+  "start": 1627734600000,
+  "end": 1627736400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

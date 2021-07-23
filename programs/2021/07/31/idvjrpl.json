@@ -1,0 +1,26 @@
+{
+  "id": "idvjrpl",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【新潟】５Ｒ～７Ｒ，８Ｒ「新潟ジャンプステークス(Ｊ・ＧⅢ)」\r\n【函館】５Ｒ～８Ｒ，９Ｒ「八甲田山特別」",
+  "start": 1627700400000,
+  "end": 1627709400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

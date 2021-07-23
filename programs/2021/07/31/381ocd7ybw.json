@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7ybw",
+  "category": "etc",
+  "title": "東京オリンピック",
+  "fullTitle": "東京オリンピック「陸上　男子１００ｍ予選・女子１００ｍ決勝　他」[字][デ]",
+  "detail": "※延長の場合あり",
+  "start": 1627723800000,
+  "end": 1627736400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "陸上　男子１００ｍ予選・女子１００ｍ決勝　他",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

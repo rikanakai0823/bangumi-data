@@ -1,0 +1,25 @@
+{
+  "id": "idy8j99",
+  "category": "anime",
+  "title": "アウルハウス",
+  "fullTitle": "アウルハウス#3[二]",
+  "detail": "#3「ルースと魔法学校」",
+  "start": 1627720200000,
+  "end": 1627722000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ルースと魔法学校",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

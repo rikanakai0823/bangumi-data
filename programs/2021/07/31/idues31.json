@@ -1,0 +1,25 @@
+{
+  "id": "idues31",
+  "category": "theater",
+  "title": "宝塚プルミエール　望海風斗　退団スペシャル",
+  "fullTitle": "[初]宝塚プルミエール　望海風斗　退団スペシャル",
+  "detail": "放送当月に公開される宝塚最新公演を中心に、トップスターらによるインタビューなど、ＷＯＷＯＷオリジナル映像満載でお届けする宝塚情報番組",
+  "start": 1627705800000,
+  "end": 1627709400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

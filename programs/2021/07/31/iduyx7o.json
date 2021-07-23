@@ -1,0 +1,26 @@
+{
+  "id": "iduyx7o",
+  "category": "cinema",
+  "title": "しあわせの百貨店へようこそ",
+  "fullTitle": "[映][SS]しあわせの百貨店へようこそ",
+  "detail": "ブルース・ベレスフォード監督のハートウォーミングな人間ドラマ。シドニーの百貨店のドレス売り場で働く女性たちの人生を描く。",
+  "start": 1627672800000,
+  "end": 1627680000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

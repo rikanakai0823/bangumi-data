@@ -1,0 +1,23 @@
+{
+  "id": "idtr5kt",
+  "category": "information",
+  "title": "トライステージＴＶショッピング",
+  "fullTitle": "トライステージＴＶショッピング",
+  "detail": "",
+  "start": 1627677000000,
+  "end": 1627678800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

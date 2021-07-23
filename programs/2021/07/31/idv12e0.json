@@ -1,0 +1,25 @@
+{
+  "id": "idv12e0",
+  "category": "cinema",
+  "title": "哀しき獣",
+  "fullTitle": "[映]哀しき獣[吹]",
+  "detail": "ハ・ジョンウ主演の犯罪サスペンス。過酷な運命に翻弄されながらも、妻と再会するために孤軍奮闘する男の姿を描く。［Ｒ１５＋］",
+  "start": 1627674000000,
+  "end": 1627683600000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
