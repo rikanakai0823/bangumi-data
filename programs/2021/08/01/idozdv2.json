@@ -1,0 +1,25 @@
+{
+  "id": "idozdv2",
+  "category": "sports",
+  "title": "東京２０２０オリンピック◇野球　決勝トーナメント１回戦",
+  "fullTitle": "東京２０２０オリンピック◇野球　決勝トーナメント１回戦「Ａ２位×Ｂ２位」[字]",
+  "detail": "◇野球　決勝トーナメント１回戦「Ａ２位×Ｂ２位」（中継）",
+  "start": 1627811400000,
+  "end": 1627820700000,
+  "seconds": 9300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "Ａ２位×Ｂ２位",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

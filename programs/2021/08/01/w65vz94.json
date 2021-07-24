@@ -1,0 +1,23 @@
+{
+  "id": "w65vz94",
+  "category": "news",
+  "title": "未定",
+  "fullTitle": "未定",
+  "detail": "※放送する番組は未定です",
+  "start": 1627815600000,
+  "end": 1627819200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 106
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

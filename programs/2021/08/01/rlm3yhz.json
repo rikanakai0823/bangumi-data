@@ -1,0 +1,25 @@
+{
+  "id": "rlm3yhz",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～エキシビションマッチ～ ソフトバンクvs.ヤクルト",
+  "fullTitle": "[無]HAWKS プロ野球中継2021～エキシビションマッチ～ ソフトバンクvs.ヤクルト",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n解説/実況：坊西浩嗣/久保俊郎\r\n開催日：2021年7月31日 (土)\r\n副音声：上田剛史/上田まりえ",
+  "start": 1627786800000,
+  "end": 1627801200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

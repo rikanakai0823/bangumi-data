@@ -1,0 +1,25 @@
+{
+  "id": "idxc7qc",
+  "category": "sports",
+  "title": "【PPS】ドラゴンゲート21.8.1 神戸大会",
+  "fullTitle": "【PPS】[生]ドラゴンゲート21.8.1 神戸大会",
+  "detail": "兵庫・神戸ワールド記念ホールで開催されるビッグマッチ「SPEED STAR FINAL」。吉野正人選手の最後の勇姿を目に焼き付けろ！",
+  "start": 1627797600000,
+  "end": 1627815600000,
+  "seconds": 18000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "SPEED STAR FINAL",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

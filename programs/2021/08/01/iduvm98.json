@@ -1,0 +1,26 @@
+{
+  "id": "iduvm98",
+  "category": "cinema",
+  "title": "ハッピー・デス・デイ ２Ｕ",
+  "fullTitle": "[映][SS]ハッピー・デス・デイ ２Ｕ",
+  "detail": "全米スマッシュヒットを記録した学園ホラーの続編。誕生日の夜に何者かに殺されるという恐怖のタイムループが再び主人公を襲う！",
+  "start": 1627812000000,
+  "end": 1627819200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idy8k3l",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "[無]キャンプ・キキワカ#85[二]",
+  "detail": "#85「三ツ星と赤ちゃん」",
+  "start": 1627828200000,
+  "end": 1627830000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "三ツ星と赤ちゃん",
+  "episode": 85,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idy8k36",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "[無]ダックテイルズ#7[二]",
+  "detail": "#7「あやしいホテル！」",
+  "start": 1627799400000,
+  "end": 1627801200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "あやしいホテル！",
+  "episode": 7,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

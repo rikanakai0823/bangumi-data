@@ -1,0 +1,27 @@
+{
+  "id": "idugzsj",
+  "category": "cinema",
+  "title": "アオハライド",
+  "fullTitle": "[映]アオハライド[SS][字]",
+  "detail": "咲坂伊緒の人気コミックを東出昌大と本田翼共演で映画化した青春ロマンス。初恋の男子と数年ぶりに再会したヒロインが、やがて彼の心の痛みを知って全力で向き合っていく。",
+  "start": 1627760700000,
+  "end": 1627768800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

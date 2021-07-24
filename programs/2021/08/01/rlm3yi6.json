@@ -1,0 +1,25 @@
+{
+  "id": "rlm3yi6",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "[無]URAWA CHANNEL NEXT #26",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n浦和レッズのクラブ応援番組。シーズン開幕まであとわずか！伊藤涼太郎選手と武田英寿選手に、今シーズンへの想いを聞きました。",
+  "start": 1627828200000,
+  "end": 1627830000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 26,
+  "flags": [
+    "無"
+  ]
+}

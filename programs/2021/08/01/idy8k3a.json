@@ -1,0 +1,26 @@
+{
+  "id": "idy8k3a",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "[無]ミッキーマウス！#26[二]",
+  "detail": "#26「ドナルド船長」",
+  "start": 1627806300000,
+  "end": 1627806600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ドナルド船長",
+  "episode": 26,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

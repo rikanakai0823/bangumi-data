@@ -1,0 +1,23 @@
+{
+  "id": "idryi23",
+  "category": "information",
+  "title": "飛び出せ！幸せ！お取り寄せ！",
+  "fullTitle": "飛び出せ！幸せ！お取り寄せ！",
+  "detail": "テレビショッピング",
+  "start": 1627794000000,
+  "end": 1627795800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

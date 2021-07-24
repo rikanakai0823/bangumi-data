@@ -1,0 +1,27 @@
+{
+  "id": "381sxrgk1j",
+  "category": "variety",
+  "title": "日曜グランプリ",
+  "fullTitle": "日曜グランプリ「ウッチャン式」",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/ucchanshiki/",
+  "start": 1627792200000,
+  "end": 1627793820000,
+  "seconds": 1620,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/ucchanshiki/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "ウッチャン式",
+  "episode": null,
+  "flags": []
+}
