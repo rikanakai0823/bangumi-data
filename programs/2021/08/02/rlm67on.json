@@ -1,0 +1,23 @@
+{
+  "id": "rlm67on",
+  "category": "sports",
+  "title": "Challenge！ Consadole",
+  "fullTitle": "Challenge！ Consadole　#45",
+  "detail": "北海道コンサドーレ札幌のクラブ応援番組。クラブの自主企画・撮影・編集により、クラブの魅力を深く掘り下げる15分番組。",
+  "start": 1627849800000,
+  "end": 1627850700000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 142
+  },
+  "subTitle": "",
+  "episode": 45,
+  "flags": []
+}

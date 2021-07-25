@@ -1,0 +1,25 @@
+{
+  "id": "idp1jf9",
+  "category": "sports",
+  "title": "東京２０２０オリンピック◇バレーボール　女子・予選リーグ　グループＡ",
+  "fullTitle": "東京２０２０オリンピック◇バレーボール　女子・予選リーグ　グループＡ[字]",
+  "detail": "◇バレーボール　女子・予選リーグ　グループＡ「日本×ドミニカ共和国」（中継）",
+  "start": 1627902000000,
+  "end": 1627907100000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "日本×ドミニカ共和国",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

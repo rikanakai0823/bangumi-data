@@ -1,0 +1,25 @@
+{
+  "id": "w67vktw",
+  "category": "anime",
+  "title": "あひるの空 ,12",
+  "fullTitle": "あひるの空[字] #11,12",
+  "detail": "＃１１「男の意地と女のプライド」＃１２「ＴＥＡＭ」",
+  "start": 1627909200000,
+  "end": 1627912800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "男の意地と女のプライド",
+  "episode": 11,
+  "flags": [
+    "字"
+  ]
+}

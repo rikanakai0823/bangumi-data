@@ -1,0 +1,26 @@
+{
+  "id": "idugzt0",
+  "category": "cinema",
+  "title": "日本侠客伝",
+  "fullTitle": "[映]日本侠客伝[字]",
+  "detail": "多くの映画ファンに愛された名優、高倉健。計１１本作られその人気を決定づけた、東映任侠映画の人気シリーズの記念すべき第１作。任侠の世界の人々の熱い生きざまを綴る。",
+  "start": 1627892100000,
+  "end": 1627898400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

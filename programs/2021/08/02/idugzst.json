@@ -1,0 +1,26 @@
+{
+  "id": "idugzst",
+  "category": "cinema",
+  "title": "ワールドエンド（字幕版）[PG12指定]",
+  "fullTitle": "[映]ワールドエンド（字幕版）[PG12指定][SS]",
+  "detail": "世界的大停電で世界の大半が壊滅。それは謎の異星人による地球侵略の序章だった。侵略者に立ち向かう特殊部隊の死闘を、壮大なスケールで描いたロシア製ＳＦアクション。",
+  "start": 1627841700000,
+  "end": 1627851600000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "w67vkss",
+  "category": "anime",
+  "title": "カードキャプターさくら クロウカード編 ,4",
+  "fullTitle": "[無]カードキャプターさくら クロウカード編[字] #3,4",
+  "detail": "＃３「さくらのドキドキ初デート」＃４「さくらのくたくた日曜日」",
+  "start": 1627840800000,
+  "end": 1627844400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "さくらのドキドキ初デート",
+  "episode": 3,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

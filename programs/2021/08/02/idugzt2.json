@@ -1,0 +1,27 @@
+{
+  "id": "idugzt2",
+  "category": "cinema",
+  "title": "子ぎつねヘレン",
+  "fullTitle": "[映]子ぎつねヘレン[SS][字]",
+  "detail": "目も耳も不自由な子ぎつねを懸命な介護で育てた獣医師、竹田津実のノンフィクションをもとにした感動作。ある少年と障害がある子ぎつねの交流を、美しい映像とともに綴る。",
+  "start": 1627905600000,
+  "end": 1627912800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

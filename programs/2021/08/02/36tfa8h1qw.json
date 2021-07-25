@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8h1qw",
+  "category": "anime",
+  "title": "トムとジェリー",
+  "fullTitle": "トムとジェリー　＃５[再][二]",
+  "detail": "＃５「にわとりのおばさん」「夢よ、もう一度」「ナポリよいとこ」",
+  "start": 1627898400000,
+  "end": 1627900200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "にわとりのおばさん",
+  "episode": 5,
+  "flags": [
+    "再",
+    "二"
+  ]
+}

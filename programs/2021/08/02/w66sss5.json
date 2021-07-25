@@ -1,0 +1,26 @@
+{
+  "id": "w66sss5",
+  "category": "drama",
+  "title": "パッセージ",
+  "fullTitle": "[無]パッセージ #2「約束」[字]",
+  "detail": "リチャーズの追跡を振り切ろうと必死で逃げるウォルガストとエイミー。銃撃戦でケガを負ったウォルガストは、昔なじみのある人物に助けを求めることにする。",
+  "start": 1627840800000,
+  "end": 1627844400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 117
+  },
+  "subTitle": "約束",
+  "episode": 2,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

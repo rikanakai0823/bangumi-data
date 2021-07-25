@@ -1,0 +1,23 @@
+{
+  "id": "w65o3dj",
+  "category": "etc",
+  "title": "メンテナンス休止",
+  "fullTitle": "メンテナンス休止",
+  "detail": "～メンテナンス休止～\r\nただ今のお時間はメンテナンスの為、放送を休止させていただいております。",
+  "start": 1627835400000,
+  "end": 1627851600000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 102
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
