@@ -2,7 +2,7 @@
   "id": "idozcy0",
   "category": "sports",
   "title": "東京２０２０オリンピック",
-  "fullTitle": "東京２０２０オリンピック",
+  "fullTitle": "東京２０２０オリンピック[字]",
   "detail": "",
   "start": 1627376100000,
   "end": 1627381200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

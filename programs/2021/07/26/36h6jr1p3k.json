@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1p3k",
+  "category": "music",
+  "title": "彩の国百科",
+  "fullTitle": "彩の国百科[字][Ｓ]",
+  "detail": "異国情緒編　県内の四季の映像を音楽にあわせて紹介します。",
+  "start": 1627263000000,
+  "end": 1627264800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
