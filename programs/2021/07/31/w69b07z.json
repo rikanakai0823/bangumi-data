@@ -1,9 +1,9 @@
 {
   "id": "w69b07z",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "クエストの世界都市紀行",
+  "fullTitle": "クエストの世界都市紀行[再]",
+  "detail": "#26 クロアチアの港町で「アドリア海の真珠」といわれるドブロブニク。世界遺産登録の、中世から残る城壁に囲まれた旧市街を散策。民族舞踊を体験。",
   "start": 1627707600000,
   "end": 1627709400000,
   "seconds": 1800,
@@ -17,8 +17,8 @@
     "hasLogoData": false,
     "n": 139
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "クロアチアの港町で",
+  "episode": 26,
   "flags": [
     "再"
   ]

@@ -1,9 +1,9 @@
 {
   "id": "w69b0aa",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "[二]特別番組[再]",
-  "detail": "日本語同時通訳付。\r\n番組内容が決まり次第お知らせします。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "[二]Living Golf[再]",
+  "detail": "#198 東京五輪特集。昨年の全米プロに続き、今年全英オープンを制した金メダル候補のコリン・モリカワ、2016年リオ五輪女子金メダリスト、朴仁妃にインタビュー。",
   "start": 1627873200000,
   "end": 1627875000000,
   "seconds": 1800,
@@ -18,7 +18,7 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 198,
   "flags": [
     "二",
     "再"
