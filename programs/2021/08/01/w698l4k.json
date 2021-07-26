@@ -1,0 +1,26 @@
+{
+  "id": "w698l4k",
+  "category": "hobby",
+  "title": "トラベル・ショー",
+  "fullTitle": "[無]トラベル・ショー(再)",
+  "detail": "今回のトラベル・ショーは、クリスタ・ラーウッドがこれまで番組が行ったニューヨークの旅を振り返る。",
+  "start": 1627799400000,
+  "end": 1627801200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "再"
+  ]
+}
