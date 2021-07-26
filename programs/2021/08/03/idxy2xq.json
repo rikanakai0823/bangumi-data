@@ -1,0 +1,23 @@
+{
+  "id": "idxy2xq",
+  "category": "hobby",
+  "title": "【22時・23時はリクエストアワー】ぶらりバスの旅 1 HIROSHIMA",
+  "fullTitle": "【22時・23時はリクエストアワー】ぶらりバスの旅 1 HIROSHIMA",
+  "detail": "釣りビジョン期待の新番組がスタート！電車を乗り継ぎ、バスに揺られ、全国各地をぶらりと巡るバス番組。その名も『ぶらりバスの旅』！「ぶらバス」と呼んでほしい。",
+  "start": 1627999200000,
+  "end": 1628002800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "ぶらバス",
+  "episode": null,
+  "flags": []
+}

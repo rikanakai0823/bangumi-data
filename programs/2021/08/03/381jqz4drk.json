@@ -1,0 +1,25 @@
+{
+  "id": "381jqz4drk",
+  "category": "sports",
+  "title": "東京２０２０オリンピック",
+  "fullTitle": "東京２０２０オリンピック[字]",
+  "detail": "◇ボクシング　男子フライ級・準々決勝、男子ライト級・準々決勝、女子フェザー級・決勝　ほか（中継）",
+  "start": 1627963140000,
+  "end": 1627963500000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

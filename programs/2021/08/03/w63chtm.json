@@ -1,0 +1,23 @@
+{
+  "id": "w63chtm",
+  "category": "information",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "生活に役立つお得な情報をお届けします",
+  "start": 1627956000000,
+  "end": 1627957800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

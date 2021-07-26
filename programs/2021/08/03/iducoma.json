@@ -1,0 +1,26 @@
+{
+  "id": "iducoma",
+  "category": "anime",
+  "title": "ルパン三世　ＥＰＩＳＯＤＥ：０　ファーストコンタクト",
+  "fullTitle": "[初]ルパン三世　ＥＰＩＳＯＤＥ：０　ファーストコンタクト[字]",
+  "detail": "なぜ彼らは手を組むことになったのか―知られざるルパンたちの邂逅。",
+  "start": 1627972200000,
+  "end": 1627978500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "字"
+  ]
+}

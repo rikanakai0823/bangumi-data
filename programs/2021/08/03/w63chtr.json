@@ -1,0 +1,25 @@
+{
+  "id": "w63chtr",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×埼玉西武～ファーム～（鎌スタ）",
+  "fullTitle": "[生] [プロ野球]北海道日本ハム×埼玉西武～ファーム～（鎌スタ）",
+  "detail": "（延長時、以降の番組変更繰り下げあり）\r\nGAORAプロ野球中継～ファーム～\r\n「北海道日本ハム vs 埼玉西武」\r\n\r\n開催日：2021年8月3日／球場：鎌スタ",
+  "start": 1627962900000,
+  "end": 1627979400000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
