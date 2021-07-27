@@ -1,12 +1,12 @@
 {
-  "id": "381f5ks6h0",
+  "id": "381f5ksc04",
   "category": "news",
   "title": "ニュース関連",
-  "fullTitle": "ニュース「台風８号」関連[字]",
+  "fullTitle": "ニュース「台風８号」関連",
   "detail": "",
-  "start": 1627372200000,
-  "end": 1627372800000,
-  "seconds": 600,
+  "start": 1627398600000,
+  "end": 1627416000000,
+  "seconds": 17400,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -19,7 +19,5 @@
   },
   "subTitle": "台風８号",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
