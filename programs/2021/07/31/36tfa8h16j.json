@@ -1,12 +1,18 @@
 {
   "id": "36tfa8h16j",
   "category": "variety",
-  "title": "ＷＯＮＤＥＲ　ＷＨＥＥＬ",
-  "fullTitle": "ＷＯＮＤＥＲ　ＷＨＥＥＬ",
-  "detail": " ",
+  "title": "ＷＯＮＤＥＲ　ＷＨＥＥＬ　★３ＤＣＧバーチャル音楽ライブ番組",
+  "fullTitle": "ＷＯＮＤＥＲ　ＷＨＥＥＬ　★３ＤＣＧバーチャル音楽ライブ番組",
+  "detail": "３ＤＣＧのバーチャルステージによる音楽ライブ番組。ＭＣは、サイプレス上野と奥津マリリ（フィロソフィーのダンス）が担当し、毎回様々なゲストアーティストが登場！\n◇番組内容\n今回は、未公開編スペシャルとして、番組ゲストアーティストに、  モン吉、a子、@onefive、バンドじゃないもん！MAXX NAKAYOSHI、SHARE LOCK HOMESが登場！\r\n▼ライブ曲：モン吉「君が好き」、a子「CHAOS」、@onefive「Pinky Promise」、バンドじゃないもん！MAXX NAKAYOSHI「6 RESPECT」、SHARE LOCK HOMES「パリ↓↑パニ」\n◇出演者\n【MC】\r\nサイプレス上野、奥津マリリ（フィロソフィーのダンス）\r\n【ゲストアーティスト】\r\nモン吉、a子、@onefive、バンドじゃないもん！MAXX NAKAYOSHI、SHARE LOCK HOMES\n◇おしらせ\n【番組ホームページ】　https://wonderwheel.jp\r\n【Twitter】@wonder_wheel20",
   "start": 1627662900000,
   "end": 1627664700000,
   "seconds": 1800,
+  "description": "３ＤＣＧのバーチャルステージによる音楽ライブ番組。ＭＣは、サイプレス上野と奥津マリリ（フィロソフィーのダンス）が担当し、毎回様々なゲストアーティストが登場！",
+  "extra": {
+    "番組内容": "今回は、未公開編スペシャルとして、番組ゲストアーティストに、  モン吉、a子、@onefive、バンドじゃないもん！MAXX NAKAYOSHI、SHARE LOCK HOMESが登場！\r\n▼ライブ曲：モン吉「君が好き」、a子「CHAOS」、@onefive「Pinky Promise」、バンドじゃないもん！MAXX NAKAYOSHI「6 RESPECT」、SHARE LOCK HOMES「パリ↓↑パニ」",
+    "出演者": "【MC】\r\nサイプレス上野、奥津マリリ（フィロソフィーのダンス）\r\n【ゲストアーティスト】\r\nモン吉、a子、@onefive、バンドじゃないもん！MAXX NAKAYOSHI、SHARE LOCK HOMES",
+    "おしらせ": "【番組ホームページ】　https://wonderwheel.jp\r\n【Twitter】@wonder_wheel20"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

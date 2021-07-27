@@ -2,7 +2,7 @@
   "id": "3826py3qtl",
   "category": "sports",
   "title": "東京五輪プレミアム",
-  "fullTitle": "東京五輪プレミアム[字][SS]",
+  "fullTitle": "東京五輪プレミアム[字][デ][SS]",
   "detail": "◇5.1サラウンド",
   "start": 1627567200000,
   "end": 1627578000000,
@@ -21,6 +21,7 @@
   "episode": null,
   "flags": [
     "字",
+    "デ",
     "SS"
   ]
 }
