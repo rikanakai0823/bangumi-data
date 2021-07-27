@@ -1,0 +1,25 @@
+{
+  "id": "rlm3yhh",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～エキシビションマッチ～ ソフトバンクvs.巨人",
+  "fullTitle": "[生]HAWKS プロ野球中継2021～エキシビションマッチ～ ソフトバンクvs.巨人",
+  "detail": "解説/実況：柴原洋/加藤暁\r\n開催日：2021年8月4日 (水)\r\n会場：福岡PayPayドーム",
+  "start": 1628067300000,
+  "end": 1628082000000,
+  "seconds": 14700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

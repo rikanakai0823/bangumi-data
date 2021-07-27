@@ -1,0 +1,25 @@
+{
+  "id": "iduvtck",
+  "category": "drama",
+  "title": "フードロア：Ｌｉｆｅ　ｉｎ　ａ　Ｂｏｘ",
+  "fullTitle": "[SS]フードロア：Ｌｉｆｅ　ｉｎ　ａ　Ｂｏｘ",
+  "detail": "【海外ドラマシリーズ一挙放送】",
+  "start": 1628020800000,
+  "end": 1628024400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "海外ドラマシリーズ一挙放送",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

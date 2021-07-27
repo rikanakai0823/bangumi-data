@@ -1,0 +1,26 @@
+{
+  "id": "idp3oyh",
+  "category": "hobby",
+  "title": "テントを背負って",
+  "fullTitle": "テントを背負って[字][再]",
+  "detail": "テントを背負って、小さな冒険に出かけよう！山へ、海へ、川へ…行き先は、その日の気分次第。静かな自然の音と心を癒す緑の風景があなたをテントの世界へと誘います！",
+  "start": 1628040540000,
+  "end": 1628044200000,
+  "seconds": 3660,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

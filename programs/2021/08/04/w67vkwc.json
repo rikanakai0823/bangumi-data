@@ -1,0 +1,25 @@
+{
+  "id": "w67vkwc",
+  "category": "anime",
+  "title": "ポケットモンスター ,83",
+  "fullTitle": "ポケットモンスター[字] #82,83",
+  "detail": "＃８２「ポケモンリーグ！さいごのたたかい！」＃８３「マサラタウン！あらたなるたびたち」",
+  "start": 1628074800000,
+  "end": 1628078400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ポケモンリーグ！さいごのたたかい！",
+  "episode": 82,
+  "flags": [
+    "字"
+  ]
+}

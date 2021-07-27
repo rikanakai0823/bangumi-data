@@ -1,0 +1,25 @@
+{
+  "id": "w68gqf1",
+  "category": "documentary",
+  "title": "火星探査 生命の痕跡を求めて",
+  "fullTitle": "火星探査 生命の痕跡を求めて(字)",
+  "detail": "NASAの火星無人探査車「キュリオシティ」の開発から火星への着陸、調査の様子まで密着。火星にはかつて生命を維持するのに十分な水とエネルギー、物質があったのか。",
+  "start": 1628020800000,
+  "end": 1628024400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 132
+  },
+  "subTitle": "キュリオシティ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

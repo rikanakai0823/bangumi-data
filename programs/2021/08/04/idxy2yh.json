@@ -1,0 +1,23 @@
+{
+  "id": "idxy2yh",
+  "category": "hobby",
+  "title": "【22時・23時はリクエストアワー】ぶらりバスの旅 2 YAMANAKA",
+  "fullTitle": "【22時・23時はリクエストアワー】ぶらりバスの旅 2 YAMANAKA",
+  "detail": "電車を乗り継ぎ、バスに揺られ、全国各地をぶらりと巡るバス番組。その名も『ぶらりバスの旅』。車に乗って移動なんて事は期待しちゃあいけません。今回の行き先は山梨県。",
+  "start": 1628085600000,
+  "end": 1628089200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

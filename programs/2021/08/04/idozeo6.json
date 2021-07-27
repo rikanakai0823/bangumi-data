@@ -1,0 +1,25 @@
+{
+  "id": "idozeo6",
+  "category": "sports",
+  "title": "東京２０２０オリンピック◇アーティスティックスイミング　デュエット・決勝",
+  "fullTitle": "東京２０２０オリンピック◇アーティスティックスイミング　デュエット・決勝[字]",
+  "detail": "◇アーティスティックスイミング　デュエット・決勝　フリールーティン（中継）",
+  "start": 1628072700000,
+  "end": 1628077500000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

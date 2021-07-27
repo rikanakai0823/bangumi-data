@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yjv",
+  "category": "sports",
+  "title": "SUPER DARTS 2013 Vol.1",
+  "fullTitle": "SUPER DARTS 2013 Vol.1",
+  "detail": "SUPER DARTS 2013 Vol.1",
+  "start": 1628002800000,
+  "end": 1628015700000,
+  "seconds": 12900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

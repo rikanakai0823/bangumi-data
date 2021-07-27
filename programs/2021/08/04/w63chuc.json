@@ -1,0 +1,23 @@
+{
+  "id": "w63chuc",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×横浜DeNA～エキシビションマッチ～（函館）",
+  "fullTitle": "[プロ野球]北海道日本ハム×横浜DeNA～エキシビションマッチ～（函館）",
+  "detail": "GAORAプロ野球中継～エキシビションマッチ～「北海道日本ハム vs 横浜DeNA」\r\n解説:岩本勉、実況:吉田智大\r\n開催：2021年8月4日／函館",
+  "start": 1628069400000,
+  "end": 1628083800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "北海道日本ハム vs 横浜DeNA",
+  "episode": null,
+  "flags": []
+}

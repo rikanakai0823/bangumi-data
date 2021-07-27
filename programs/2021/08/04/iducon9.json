@@ -1,0 +1,26 @@
+{
+  "id": "iducon9",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]邦楽ＢＲＥＡＫ　＃６８９",
+  "detail": "",
+  "start": 1628088600000,
+  "end": 1628089200000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 689,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

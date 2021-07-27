@@ -1,0 +1,23 @@
+{
+  "id": "idozenv",
+  "category": "sports",
+  "title": "東京２０２０オリンピック◇射撃ほか",
+  "fullTitle": "東京２０２０オリンピック◇射撃ほか",
+  "detail": "◇射撃（録画）◇スポーツクライミング　男子複合・予選（録画）◇サッカー　男子・準決勝（録画）",
+  "start": 1628017200000,
+  "end": 1628029200000,
+  "seconds": 12000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

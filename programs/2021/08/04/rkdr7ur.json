@@ -1,0 +1,23 @@
+{
+  "id": "rkdr7ur",
+  "category": "information",
+  "title": "番組の一時中断のお知らせ",
+  "fullTitle": "番組の一時中断のお知らせ",
+  "detail": "放送機器の保守点検により、放送を一旦休止させていただきます。何卒ご了承下さい。",
+  "start": 1628006400000,
+  "end": 1628006460000,
+  "seconds": 60,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

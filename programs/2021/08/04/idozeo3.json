@@ -1,0 +1,23 @@
+{
+  "id": "idozeo3",
+  "category": "sports",
+  "title": "東京２０２０オリンピック◇水球　男子・準々決勝",
+  "fullTitle": "東京２０２０オリンピック◇水球　男子・準々決勝",
+  "detail": "◇水球　男子・準々決勝（中継）",
+  "start": 1628057400000,
+  "end": 1628063700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w67kgal",
+  "category": "music",
+  "title": "M-ON! SPECIAL",
+  "fullTitle": "M-ON! SPECIAL 「GENERATIONS from EXILE TRIBE」",
+  "detail": "ニューアルバム『Up & Down』の発売を記念して、エムオン!オリジナル番組を放送！",
+  "start": 1628087400000,
+  "end": 1628091000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 126
+  },
+  "subTitle": "GENERATIONS from EXILE TRIBE",
+  "episode": null,
+  "flags": []
+}

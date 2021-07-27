@@ -1,0 +1,25 @@
+{
+  "id": "idy8k5y",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#85[二]",
+  "detail": "#85「僕の裏庭」",
+  "start": 1628061900000,
+  "end": 1628062200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "僕の裏庭",
+  "episode": 85,
+  "flags": [
+    "二"
+  ]
+}
