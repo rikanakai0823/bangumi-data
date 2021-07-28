@@ -1,15 +1,18 @@
 {
   "id": "36rdttkixj",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "title": "洋楽天国＋▽最強コラボ特集",
+  "fullTitle": "洋楽天国＋▽最強コラボ特集",
+  "detail": "いま話題のコラボレーション楽曲を紹介！\n◇番組内容\nジャンルを超えたアーティスト達がコラボレーションして制作した楽曲を紹介！コラボしたアーティストが共演したミュージック・ビデオも見応えあり！！\n◇選曲１\n\"Beautiful Mistakes\"MAROON 5 feat.MEGAN THEE STALLION\r\n\"Save Your Tears (Remix)\"THE WEEKND & ARIANA GRANDE\r\n\"Leave The Door Open\"SILK SONIC (BRUNO MARS & ANDERSON .PAAK)\n◇選曲２\n\"Kiss Me More\"DOJA CAT feat.SZA\r\n\"Sorry Not Sorry\"DJ KHALED feat.NAS, JAY-Z & JAMES FAUNTLEROY and Harmonies by The Hive\n◇選曲３\n\"Leave Before You Love Me\"MARSHMELLO x JONAS BROTHERS\r\n\"We Are The People　(UEFA EURO 2020 Song)\"\r\nMARTIN GARRIX feat.BONO & THE EDGE",
   "start": 1627783200000,
   "end": 1627785000000,
   "seconds": 1800,
-  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "description": "いま話題のコラボレーション楽曲を紹介！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "ジャンルを超えたアーティスト達がコラボレーションして制作した楽曲を紹介！コラボしたアーティストが共演したミュージック・ビデオも見応えあり！！",
+    "選曲１": "\"Beautiful Mistakes\"MAROON 5 feat.MEGAN THEE STALLION\r\n\"Save Your Tears (Remix)\"THE WEEKND & ARIANA GRANDE\r\n\"Leave The Door Open\"SILK SONIC (BRUNO MARS & ANDERSON .PAAK)",
+    "選曲２": "\"Kiss Me More\"DOJA CAT feat.SZA\r\n\"Sorry Not Sorry\"DJ KHALED feat.NAS, JAY-Z & JAMES FAUNTLEROY and Harmonies by The Hive",
+    "選曲３": "\"Leave Before You Love Me\"MARSHMELLO x JONAS BROTHERS\r\n\"We Are The People　(UEFA EURO 2020 Song)\"\r\nMARTIN GARRIX feat.BONO & THE EDGE"
   },
   "channel": {
     "type": "GR",
