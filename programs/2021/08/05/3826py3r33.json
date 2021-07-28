@@ -1,0 +1,25 @@
+{
+  "id": "3826py3r33",
+  "category": "sports",
+  "title": "東京オリンピック　ハイライト",
+  "fullTitle": "東京オリンピック　ハイライト[字]",
+  "detail": "連日熱戦が繰り広げられている「東京オリンピック」。日本選手団のメダルラッシュへ、大会＆競技の注目情報をたっぷりとお伝えします！",
+  "start": 1628117400000,
+  "end": 1628118000000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "東京オリンピック",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

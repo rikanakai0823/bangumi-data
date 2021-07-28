@@ -1,0 +1,26 @@
+{
+  "id": "iduvz1w",
+  "category": "cinema",
+  "title": "【最新作】スポンティニアス",
+  "fullTitle": "【最新作】[映][SS]スポンティニアス",
+  "detail": "キャサリン・ラングフォード主演、異色の青春ラブストーリー。謎の人体爆発事件が続発する高校に通う少女の恋の行方を描く。",
+  "start": 1628164800000,
+  "end": 1628172000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

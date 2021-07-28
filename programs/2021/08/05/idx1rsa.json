@@ -1,0 +1,25 @@
+{
+  "id": "idx1rsa",
+  "category": "anime",
+  "title": "甲鉄城のカバネリ ,12 END",
+  "fullTitle": "[字]甲鉄城のカバネリ #11,12 END",
+  "detail": "#11「燃える命」#12「甲鉄城」END\r\n産業革命の波が押し寄せ、近世から近代に移り変わろうとした頃、突如として不死の怪…",
+  "start": 1628168400000,
+  "end": 1628172000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "燃える命",
+  "episode": 11,
+  "flags": [
+    "字"
+  ]
+}

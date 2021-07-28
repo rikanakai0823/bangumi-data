@@ -1,0 +1,25 @@
+{
+  "id": "idy8k6j",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#30[解]",
+  "detail": "#30「ツムの蛍ミネーション」",
+  "start": 1628116020000,
+  "end": 1628116200000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ツムの蛍ミネーション",
+  "episode": 30,
+  "flags": [
+    "解"
+  ]
+}

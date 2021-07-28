@@ -1,0 +1,25 @@
+{
+  "id": "iduconv",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６８６",
+  "detail": "",
+  "start": 1628171400000,
+  "end": 1628172000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 686,
+  "flags": [
+    "無"
+  ]
+}
