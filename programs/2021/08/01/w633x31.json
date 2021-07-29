@@ -2,7 +2,7 @@
   "id": "w633x31",
   "category": "sports",
   "title": "ゴルフギアQ",
-  "fullTitle": "ゴルフギアQ",
+  "fullTitle": "[無料]ゴルフギアQ",
   "detail": "ぶっ飛び系アイアン　METAL FACTORY T2アイアン▽ドライバーからウェッジまで、クラフトマンシップ溢れるギアを紹介する。",
   "start": 1627767900000,
   "end": 1627768800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

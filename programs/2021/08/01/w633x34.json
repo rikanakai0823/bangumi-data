@@ -2,7 +2,7 @@
   "id": "w633x34",
   "category": "sports",
   "title": "ゴルフギアQ",
-  "fullTitle": "ゴルフギアQ",
+  "fullTitle": "[無料]ゴルフギアQ",
   "detail": "名器伝承のスコアメーカー！ヨシムラゴルフ ユーティリティ「TLUT」▽ドライバーからウェッジまで、クラフトマンシップ溢れるギアを紹介する。",
   "start": 1627811100000,
   "end": 1627812000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "TLUT",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
