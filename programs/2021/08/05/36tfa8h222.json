@@ -1,12 +1,18 @@
 {
   "id": "36tfa8h222",
   "category": "hobby",
-  "title": "ＡＢＣブロッコリ！",
-  "fullTitle": "ＡＢＣブロッコリ！",
-  "detail": " ",
+  "title": "ＡＢＣブロッコリ！　★だいじな花びんをこわしちゃった！",
+  "fullTitle": "ＡＢＣブロッコリ！　★だいじな花びんをこわしちゃった！",
+  "detail": "＃１８「こわしちゃった！」\n◇番組内容\n団長のだいじな花びんをこわしちゃったパオッポ\r\nPoppo broke the vase!\r\nアリサはなんとかしてなおそうとしますが…\r\nこわれた花びんはもとどおりになるのかな？\r\n\r\nスイカをわるのも break!\r\nクッキーをはんぶんにするのも break!\n◇出演者\nアリサ、パオッポ、ウサリーヌ（ウサリーヌ・ドヌーブ）、ガミオ（タテ・ガミオ）、ブロッコリ＆カリフラワー\n◇おしらせ\n【番組ホームページ】https://s.mxtv.jp/variety/abcbroccoli/",
   "start": 1628155800000,
   "end": 1628157600000,
   "seconds": 1800,
+  "description": "＃１８「こわしちゃった！」",
+  "extra": {
+    "番組内容": "団長のだいじな花びんをこわしちゃったパオッポ\r\nPoppo broke the vase!\r\nアリサはなんとかしてなおそうとしますが…\r\nこわれた花びんはもとどおりになるのかな？\r\n\r\nスイカをわるのも break!\r\nクッキーをはんぶんにするのも break!",
+    "出演者": "アリサ、パオッポ、ウサリーヌ（ウサリーヌ・ドヌーブ）、ガミオ（タテ・ガミオ）、ブロッコリ＆カリフラワー",
+    "おしらせ": "【番組ホームページ】https://s.mxtv.jp/variety/abcbroccoli/"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "こわしちゃった！",
+  "episode": 18,
   "flags": []
 }

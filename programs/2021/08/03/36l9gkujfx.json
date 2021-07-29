@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２１年８月",
+  "detail": "２０２１年８月\n◇番組内容\n●蒼井翔太 / give me  me\r\n●DEZERT / ミザリィレインボウ\r\n●ukka / WINGS \r\n●WurtS / 魔法のスープ\r\n●新浜レオン / さよならを決めたのなら",
   "start": 1627920900000,
   "end": 1627921800000,
   "seconds": 900,
+  "description": "２０２１年８月",
+  "extra": {
+    "番組内容": "●蒼井翔太 / give me  me\r\n●DEZERT / ミザリィレインボウ\r\n●ukka / WINGS \r\n●WurtS / 魔法のスープ\r\n●新浜レオン / さよならを決めたのなら"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
