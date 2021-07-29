@@ -1,0 +1,26 @@
+{
+  "id": "rktctgc",
+  "category": "cinema",
+  "title": "Ｋ－シアター",
+  "fullTitle": "Ｋ－シアター「安市城グレート・バトル」[字][初]",
+  "detail": "KBS World初放送！チョ・インソン、ナム・ジュヒョク主演！20万を超える大軍に立ち向かった、小さな城の偉大な戦い！本国大ヒットを記録した歴史アクション大作！2018年",
+  "start": 1628260800000,
+  "end": 1628269200000,
+  "seconds": 8400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "安市城グレート・バトル",
+  "episode": null,
+  "flags": [
+    "字",
+    "初"
+  ]
+}

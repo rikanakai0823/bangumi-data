@@ -1,0 +1,25 @@
+{
+  "id": "rktctg3",
+  "category": "drama",
+  "title": "ＴＶ小説　私の心は花の雨",
+  "fullTitle": "ＴＶ小説　私の心は花の雨　#69　[字]",
+  "detail": "2016年 全128話",
+  "start": 1628227500000,
+  "end": 1628230500000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 69,
+  "flags": [
+    "字"
+  ]
+}

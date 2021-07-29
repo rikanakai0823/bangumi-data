@@ -1,0 +1,25 @@
+{
+  "id": "idx1rst",
+  "category": "anime",
+  "title": "さよなら私のクラマー ,6",
+  "fullTitle": "[字]さよなら私のクラマー #5,6",
+  "detail": "#5「恋わずらい」\r\n#6「追う者、追われる者」\r\n女子高生サッカープレイヤー・恩田希。彼女は、藤第一中学校男子サッカー…",
+  "start": 1628226000000,
+  "end": 1628229600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "恋わずらい",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

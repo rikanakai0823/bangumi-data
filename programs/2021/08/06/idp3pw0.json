@@ -1,0 +1,26 @@
+{
+  "id": "idp3pw0",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「東京の地下」[字][再]",
+  "detail": "東京の地下は、世界一、長くて広い。昼夜掘り続ける穴が新しい道になり、有機野菜を作る農場にもなったりする東京の地下を、たっぷりさまよう１時間。",
+  "start": 1628204400000,
+  "end": 1628208000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "東京の地下",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8k7o",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#87[二]",
+  "detail": "#87「恐怖のブーメラン」",
+  "start": 1628234700000,
+  "end": 1628235000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "恐怖のブーメラン",
+  "episode": 87,
+  "flags": [
+    "二"
+  ]
+}

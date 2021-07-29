@@ -1,0 +1,29 @@
+{
+  "id": "36h6jr1prj",
+  "category": "documentary",
+  "title": "ＭＩＤＴＶ",
+  "fullTitle": "ＭＩＤＴＶ[Ｓ][再]",
+  "detail": "◇出演者\nＭＣ：貴島明日香",
+  "start": 1628226900000,
+  "end": 1628227800000,
+  "seconds": 900,
+  "description": "",
+  "extra": {
+    "出演者": "ＭＣ：貴島明日香"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

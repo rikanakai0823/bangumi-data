@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yk5",
+  "category": "sports",
+  "title": "DEEP 2020.3.1後楽園ホール",
+  "fullTitle": "DEEP 2020.3.1後楽園ホール",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1628182800000,
+  "end": 1628190000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": null,
+  "flags": []
+}

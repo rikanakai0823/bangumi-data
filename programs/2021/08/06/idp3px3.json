@@ -1,0 +1,25 @@
+{
+  "id": "idp3px3",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「日本の原風景　古民家」[字]",
+  "detail": "木のぬくもりや、ゆったりした空間が魅力の「古民家」。昔ながらの古民家ライフ、京町家の美意識、建築の技、美観を守る工夫、シェアハウスまで…古民家の魅力に迫る！",
+  "start": 1628245800000,
+  "end": 1628247600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "日本の原風景　古民家",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

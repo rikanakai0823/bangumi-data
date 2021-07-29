@@ -1,0 +1,25 @@
+{
+  "id": "w67vkyw",
+  "category": "anime",
+  "title": "あひるの空 ,20",
+  "fullTitle": "あひるの空[字] #19,20",
+  "detail": "＃１９「誰よりも高く」＃２０「ラストプレイ」",
+  "start": 1628254800000,
+  "end": 1628258400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "誰よりも高く",
+  "episode": 19,
+  "flags": [
+    "字"
+  ]
+}
