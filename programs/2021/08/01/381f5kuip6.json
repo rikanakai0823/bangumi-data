@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuip6",
+  "category": "sports",
+  "title": "東京２０２０オリンピック◇ゴルフ　男子・最終ラウンド（中継）",
+  "fullTitle": "東京２０２０オリンピック◇ゴルフ　男子・最終ラウンド（中継）[字]",
+  "detail": "◇ゴルフ　男子・最終ラウンド（中継）",
+  "start": 1627790340000,
+  "end": 1627790700000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
