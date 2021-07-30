@@ -1,12 +1,12 @@
 {
   "id": "381f5ks8m2",
   "category": "sports",
-  "title": "東京２０２０オリンピック",
-  "fullTitle": "東京２０２０オリンピック[字]",
-  "detail": "",
+  "title": "東京２０２０オリンピック◇サッカー　男子・準々決勝",
+  "fullTitle": "東京２０２０オリンピック◇サッカー　男子・準々決勝「日本×ニュージーランド」[字]",
+  "detail": "◇サッカー　男子・準々決勝「日本×ニュージーランド」（中継）",
   "start": 1627727400000,
-  "end": 1627740000000,
-  "seconds": 12600,
+  "end": 1627732500000,
+  "seconds": 5100,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "日本×ニュージーランド",
   "episode": null,
   "flags": [
     "字"
