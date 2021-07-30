@@ -1,0 +1,26 @@
+{
+  "id": "rkunj8x",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#5,#6[字/日英]",
+  "fullTitle": "[無]ちびっこバス　タヨ#5,#6[二][字/日英]",
+  "detail": "#5「僕と一緒に行こう」　#6「遊び場ができたよ！」",
+  "start": 1628317800000,
+  "end": 1628319600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 131
+  },
+  "subTitle": "僕と一緒に行こう",
+  "episode": 5,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

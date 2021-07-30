@@ -1,0 +1,23 @@
+{
+  "id": "idvjrxs",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "当日の中央競馬レース結果と、明日のＧⅢ『レパードステークス』（新潟）とＧⅢ『エルムステークス』（函館）の展望をお伝えします。",
+  "start": 1628343000000,
+  "end": 1628344800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

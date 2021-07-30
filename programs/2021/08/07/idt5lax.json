@@ -1,0 +1,23 @@
+{
+  "id": "idt5lax",
+  "category": "sports",
+  "title": "ウイニング競馬　～新潟～",
+  "fullTitle": "ウイニング競馬　～新潟～",
+  "detail": "レース中継を中心に、レース展開には欠かせないパドック情報、競馬界の最新ニュース、さらにインタビューコーナーなど盛りだくさんでお届けする。",
+  "start": 1628314200000,
+  "end": 1628319600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

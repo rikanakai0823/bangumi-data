@@ -1,0 +1,23 @@
+{
+  "id": "idskcgv",
+  "category": "news",
+  "title": "Ｔｏｇｅｔｈｅｒ",
+  "fullTitle": "Ｔｏｇｅｔｈｅｒ",
+  "detail": "",
+  "start": 1628344800000,
+  "end": 1628348400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

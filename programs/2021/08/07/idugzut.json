@@ -1,0 +1,27 @@
+{
+  "id": "idugzut",
+  "category": "cinema",
+  "title": "太陽は動かない",
+  "fullTitle": "[映]太陽は動かない[SS][字]",
+  "detail": "人気作家、吉田修一の同名小説を藤原竜也と竹内涼真の共演で映画化。ＷＯＷＯＷ　ＦＩＬＭＳによる、壮大なスケールのサスペンスアクションエンターテインメント。",
+  "start": 1628334000000,
+  "end": 1628341200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

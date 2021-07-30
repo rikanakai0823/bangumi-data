@@ -1,0 +1,23 @@
+{
+  "id": "idskcgu",
+  "category": "etc",
+  "title": "デジタル一番星＋",
+  "fullTitle": "デジタル一番星＋",
+  "detail": "",
+  "start": 1628344440000,
+  "end": 1628344800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

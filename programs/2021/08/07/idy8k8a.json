@@ -1,0 +1,26 @@
+{
+  "id": "idy8k8a",
+  "category": "hobby",
+  "title": "ブルーイ",
+  "fullTitle": "[無]ブルーイ#22[二]",
+  "detail": "#22「じゅうたんじま　/　びようしごっこ　/　ぺったんヤモリ」",
+  "start": 1628289000000,
+  "end": 1628290800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "じゅうたんじま　/　びようしごっこ　/　ぺったんヤモリ",
+  "episode": 22,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

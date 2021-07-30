@@ -1,0 +1,25 @@
+{
+  "id": "rkunj8g",
+  "category": "hobby",
+  "title": "ロボカーポリー[字/日]",
+  "fullTitle": "[無]ロボカーポリー#15[字/日]",
+  "detail": "#15「かくしげい大会」",
+  "start": 1628289000000,
+  "end": 1628289840000,
+  "seconds": 840,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 131
+  },
+  "subTitle": "かくしげい大会",
+  "episode": 15,
+  "flags": [
+    "無"
+  ]
+}

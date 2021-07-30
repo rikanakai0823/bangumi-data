@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7yfq",
+  "category": "sports",
+  "title": "東京オリンピック",
+  "fullTitle": "東京オリンピック「陸上　女子マラソン決勝」[字][デ]",
+  "detail": "",
+  "start": 1628285400000,
+  "end": 1628344800000,
+  "seconds": 59400,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "陸上　女子マラソン決勝",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
