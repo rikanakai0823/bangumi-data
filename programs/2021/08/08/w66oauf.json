@@ -1,0 +1,25 @@
+{
+  "id": "w66oauf",
+  "category": "drama",
+  "title": "スタートレック ディスカバリー2",
+  "fullTitle": "[二]スタートレック ディスカバリー2#7",
+  "detail": "#7「光と影」\r\nLight and Shadows\r\nディスカバリーは宇宙艦隊の指示でカミナー周辺に留まり、信号と天使の消えたあとに残るタキオン粒子を調べることになった。",
+  "start": 1628424000000,
+  "end": 1628427600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 115
+  },
+  "subTitle": "光と影",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}

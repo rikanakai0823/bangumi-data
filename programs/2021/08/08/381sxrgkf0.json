@@ -1,0 +1,26 @@
+{
+  "id": "381sxrgkf0",
+  "category": "theater",
+  "title": "サンリオミュージカルナビ",
+  "fullTitle": "サンリオミュージカルナビ[解][字]",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1628407800000,
+  "end": 1628409600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

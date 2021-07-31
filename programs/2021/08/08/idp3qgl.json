@@ -1,0 +1,26 @@
+{
+  "id": "idp3qgl",
+  "category": "documentary",
+  "title": "小さな旅",
+  "fullTitle": "小さな旅「ありし日の　あの響きと～みちのく音紀行～」[SS][字]",
+  "detail": "ふだんは気に留めることもない日常の「音」。しかし、聞こえなくなるととたんに懐かしく感じることがあります。在りし日の音をめぐって、みちのくの各地を旅します。",
+  "start": 1628409900000,
+  "end": 1628411400000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "ありし日の　あの響きと～みちのく音紀行～",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}

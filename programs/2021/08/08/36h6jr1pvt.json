@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1pvt",
+  "category": "sports",
+  "title": "東京２０２０オリンピック中継",
+  "fullTitle": "東京２０２０オリンピック中継[Ｓ]",
+  "detail": "バスケットボール女子　決勝戦",
+  "start": 1628388900000,
+  "end": 1628398500000,
+  "seconds": 9600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iducopf",
+  "category": "cinema",
+  "title": "マーシャル・ロー（吹替版）",
+  "fullTitle": "[映]マーシャル・ロー（吹替版）[SS][字]",
+  "detail": "無差別テロが続発するＮＹに戒厳令が発令。戦場と化した街で、ＦＢＩ、ＣＩＡ、軍の思惑が交錯する……。Ｄ・ワシントン、Ｂ・ウィリスら豪華共演のサスペンスアクション！",
+  "start": 1628375700000,
+  "end": 1628382900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

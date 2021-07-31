@@ -1,0 +1,26 @@
+{
+  "id": "idy8k9y",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "[無]キャンプ・キキワカ#86[二]",
+  "detail": "#86「ヘラジカの日」",
+  "start": 1628433000000,
+  "end": 1628434800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ヘラジカの日",
+  "episode": 86,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgk8y",
+  "category": "information",
+  "title": "「ラヴィット！」ナビ",
+  "fullTitle": "「ラヴィット！」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/loveit/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/tbs_loveit/\r\n\r\n◇twitter\r\n@tbs_loveit\r\nhttps://twitter.com/tbs_loveit",
+  "start": 1628404200000,
+  "end": 1628407800000,
+  "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/loveit/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/tbs_loveit/\r\n\r\n◇twitter\r\n@tbs_loveit\r\nhttps://twitter.com/tbs_loveit\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63j0uf",
+  "category": "sports",
+  "title": "ゴルフ革命α Season3",
+  "fullTitle": "ゴルフ革命α Season3(2)[再]",
+  "detail": "吉村崇　大西ライオン　山本幸路プロ　郡司恭子アナ",
+  "start": 1628431200000,
+  "end": 1628434800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

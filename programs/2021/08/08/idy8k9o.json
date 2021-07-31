@@ -1,0 +1,26 @@
+{
+  "id": "idy8k9o",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "[無]ミッキーマウス！#27[二]",
+  "detail": "#27「グーフィーのおばあちゃん」",
+  "start": 1628411100000,
+  "end": 1628411400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "グーフィーのおばあちゃん",
+  "episode": 27,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

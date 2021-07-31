@@ -1,0 +1,25 @@
+{
+  "id": "idtr4sq",
+  "category": "sports",
+  "title": "ＢＯＡＴ  ＲＡＣＥ  プレミア　ハートビートボート＋",
+  "fullTitle": "[生]ＢＯＡＴ  ＲＡＣＥ  プレミア　ハートビートボート＋",
+  "detail": "レースの模様はもちろん、ボートレースをより楽しむための情報を発信する！",
+  "start": 1628406000000,
+  "end": 1628409360000,
+  "seconds": 3360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

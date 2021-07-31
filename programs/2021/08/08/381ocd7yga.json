@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7yga",
+  "category": "variety",
+  "title": "サンバリュ",
+  "fullTitle": "サンバリュ「極限サバイバルクイズ　ナルハヤ」[字]",
+  "detail": "",
+  "start": 1628394300000,
+  "end": 1628397900000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "極限サバイバルクイズ　ナルハヤ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduyddw",
+  "category": "cinema",
+  "title": "拳銃王",
+  "fullTitle": "[映]拳銃王",
+  "detail": "開拓時代の実在の無法者をモデルにしたグレゴリー・ペック主演作。銃を捨てる決心をしたガンマンに最後の刺客が迫る！",
+  "start": 1628409600000,
+  "end": 1628415600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

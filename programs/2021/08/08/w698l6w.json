@@ -1,0 +1,25 @@
+{
+  "id": "w698l6w",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "今回のクリックは、人工知能がいかに世界中で医療サービスに役立っているのかを探る。",
+  "start": 1628429400000,
+  "end": 1628431200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

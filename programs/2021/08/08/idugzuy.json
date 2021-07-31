@@ -1,0 +1,26 @@
+{
+  "id": "idugzuy",
+  "category": "cinema",
+  "title": "ブラッドショット（字幕版）",
+  "fullTitle": "[映]ブラッドショット（字幕版）[SS]",
+  "detail": "「ワイルド・スピード」のドミニク役などで知られるハリウッド男優、Ｖ・ディーゼルが主演したＳＦアクション。殺された海兵隊員は最先端のナノテクノロジーで蘇生される。",
+  "start": 1628366400000,
+  "end": 1628373600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "ワイルド・スピード",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

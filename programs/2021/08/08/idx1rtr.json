@@ -1,0 +1,26 @@
+{
+  "id": "idx1rtr",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ,510",
+  "fullTitle": "[無][字]ちびまる子ちゃん #509,510",
+  "detail": "#509「脳みその開発」の巻／「まる子、貝の違いが分からない」の巻\r\n#510「まる子、オウムと仲良しになる」の巻／「伊…",
+  "start": 1628371800000,
+  "end": 1628375400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "脳みその開発",
+  "episode": 509,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

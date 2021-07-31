@@ -1,0 +1,23 @@
+{
+  "id": "idtr4sd",
+  "category": "music",
+  "title": "ガチャムク",
+  "fullTitle": "ガチャムク",
+  "detail": "朝から元気！朝から笑顔、親子で楽しめる、ガチャピンとムックのバラエティーショー！",
+  "start": 1628380800000,
+  "end": 1628382600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

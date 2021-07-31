@@ -1,0 +1,26 @@
+{
+  "id": "idy8k8w",
+  "category": "drama",
+  "title": "ハーレーはド真ん中",
+  "fullTitle": "[無]ハーレーはド真ん中#27[二]",
+  "detail": "#27「初めてのダンスパーティー」",
+  "start": 1628362800000,
+  "end": 1628364600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "初めてのダンスパーティー",
+  "episode": 27,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

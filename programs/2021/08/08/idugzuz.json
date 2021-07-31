@@ -1,0 +1,27 @@
+{
+  "id": "idugzuz",
+  "category": "cinema",
+  "title": "ウォーターボーイズ",
+  "fullTitle": "[映]ウォーターボーイズ[SS][字]",
+  "detail": "妻夫木聡、玉木宏らが共演した、矢口史靖監督のヒット青春コメディ。水泳のアーティスティックスイミング（シンクロナイズドスイミング）に打ち込む男子高校生たちを活写。",
+  "start": 1628373600000,
+  "end": 1628379900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
