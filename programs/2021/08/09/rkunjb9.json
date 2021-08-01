@@ -1,0 +1,26 @@
+{
+  "id": "rkunjb9",
+  "category": "hobby",
+  "title": "ペッパピッグ#91,#92[字/日英]",
+  "fullTitle": "[無]ペッパピッグ#91,#92[二][字/日英]",
+  "detail": "#91「くさかり」　#92「バスでえんそく」",
+  "start": 1628463600000,
+  "end": 1628464500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 131
+  },
+  "subTitle": "くさかり",
+  "episode": 91,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

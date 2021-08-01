@@ -1,0 +1,25 @@
+{
+  "id": "38224jvg2r",
+  "category": "variety",
+  "title": "ＡＵＮ",
+  "fullTitle": "ＡＵＮ[字]",
+  "detail": "※詳細が決まり次第、お知らせいたします。",
+  "start": 1628520300000,
+  "end": 1628523900000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

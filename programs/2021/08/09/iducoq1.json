@@ -1,0 +1,27 @@
+{
+  "id": "iducoq1",
+  "category": "cinema",
+  "title": "おおかみこどもの雨と雪",
+  "fullTitle": "[映]おおかみこどもの雨と雪[SS][字]",
+  "detail": "「未来のミライ」の細田守監督が、人間とおおかみの２つの顔を持つ“おおかみこども”を授かった女性の１３年にわたる親子の物語を描くオリジナル長編アニメーション映画。",
+  "start": 1628491500000,
+  "end": 1628498700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "未来のミライ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

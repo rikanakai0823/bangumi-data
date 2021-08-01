@@ -1,0 +1,26 @@
+{
+  "id": "idy8ka9",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "[無]ツムツム#32[解]",
+  "detail": "#32「肝試しツム試し」",
+  "start": 1628461620000,
+  "end": 1628461800000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "肝試しツム試し",
+  "episode": 32,
+  "flags": [
+    "無",
+    "解"
+  ]
+}

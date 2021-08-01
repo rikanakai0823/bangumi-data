@@ -1,0 +1,26 @@
+{
+  "id": "w67vl1x",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST ,22",
+  "fullTitle": "[無]鋼の錬金術師 FULLMETAL ALCHEMIST[字] #21,22",
+  "detail": "＃２１「愚者の前進」＃２２「遠くの背中」",
+  "start": 1628517600000,
+  "end": 1628521200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "愚者の前進",
+  "episode": 21,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

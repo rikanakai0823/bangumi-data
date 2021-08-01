@@ -1,0 +1,25 @@
+{
+  "id": "idp3qou",
+  "category": "documentary",
+  "title": "にっぽん百名山",
+  "fullTitle": "にっぽん百名山「赤城山～天空の遊び場～」[字]",
+  "detail": "群馬県の「赤城山」。山頂が吹き飛んで出来たカルデラ湖を、外輪山が取り巻く。最高峰の黒檜山（１８２８ｍ）などの峰々と、カルデラ湖の自然を満喫する、２泊３日の山旅。",
+  "start": 1628505000000,
+  "end": 1628506800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "赤城山～天空の遊び場～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm3ym7",
+  "category": "sports",
+  "title": "Challenge！ Consadole",
+  "fullTitle": "Challenge！ Consadole　#44",
+  "detail": "北海道コンサドーレ札幌のクラブ応援番組。クラブの自主企画・撮影・編集により、クラブの魅力を深く掘り下げる15分番組。",
+  "start": 1628438400000,
+  "end": 1628439300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 44,
+  "flags": []
+}

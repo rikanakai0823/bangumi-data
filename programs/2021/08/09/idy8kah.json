@@ -1,0 +1,26 @@
+{
+  "id": "idy8kah",
+  "category": "anime",
+  "title": "ロスト・イン・オズ-12",
+  "fullTitle": "[無]ロスト・イン・オズ#11-12【2話連続】[二]",
+  "detail": "#11「11時11分」,#12「おかえり　グリンダ」",
+  "start": 1628490600000,
+  "end": 1628493900000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "11時11分",
+  "episode": 11,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

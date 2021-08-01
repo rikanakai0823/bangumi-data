@@ -1,0 +1,23 @@
+{
+  "id": "w67i2q0",
+  "category": "music",
+  "title": "天使のコーラス",
+  "fullTitle": "天使のコーラス#376",
+  "detail": "世界でもトップクラスの合唱団の演奏をお送りする番組。",
+  "start": 1628445600000,
+  "end": 1628447400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ミュージック・エア",
+    "id": "f0dg",
+    "sid": 324,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": 376,
+  "flags": []
+}
