@@ -2,7 +2,7 @@
   "id": "36h6jr1pvt",
   "category": "sports",
   "title": "東京２０２０オリンピック中継",
-  "fullTitle": "東京２０２０オリンピック中継[Ｓ]",
+  "fullTitle": "東京２０２０オリンピック中継[字][Ｓ]",
   "detail": "バスケットボール女子　決勝戦",
   "start": 1628388900000,
   "end": 1628398500000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

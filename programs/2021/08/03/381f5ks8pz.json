@@ -1,12 +1,12 @@
 {
   "id": "381f5ks8pz",
   "category": "sports",
-  "title": "東京２０２０オリンピック",
-  "fullTitle": "東京２０２０オリンピック[字]",
-  "detail": "",
+  "title": "東京２０２０オリンピック◇卓球　男子団体準々決勝（中継）",
+  "fullTitle": "東京２０２０オリンピック◇卓球　男子団体準々決勝「日本×スウェーデン」（中継）[字]",
+  "detail": "◇卓球　男子団体・準々決勝「日本×スウェーデン」（中継）",
   "start": 1627960800000,
-  "end": 1627962300000,
-  "seconds": 1500,
+  "end": 1627962240000,
+  "seconds": 1440,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "日本×スウェーデン",
   "episode": null,
   "flags": [
     "字"
