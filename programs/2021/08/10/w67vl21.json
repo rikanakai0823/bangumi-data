@@ -1,0 +1,26 @@
+{
+  "id": "w67vl21",
+  "category": "anime",
+  "title": "あひるの空 ,22",
+  "fullTitle": "[無]あひるの空[字] #21,22",
+  "detail": "＃２１「涙」＃２２「ラストピース」",
+  "start": 1628532000000,
+  "end": 1628535600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "涙",
+  "episode": 21,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

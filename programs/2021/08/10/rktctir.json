@@ -1,0 +1,25 @@
+{
+  "id": "rktctir",
+  "category": "drama",
+  "title": "天使の罠",
+  "fullTitle": "天使の罠　#101　[字]",
+  "detail": "2014年 全103話",
+  "start": 1628553000000,
+  "end": 1628556000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 101,
+  "flags": [
+    "字"
+  ]
+}

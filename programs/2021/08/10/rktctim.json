@@ -1,0 +1,25 @@
+{
+  "id": "rktctim",
+  "category": "drama",
+  "title": "家族を守れ",
+  "fullTitle": "家族を守れ　#35　[字]",
+  "detail": "2015年 全123話",
+  "start": 1628536800000,
+  "end": 1628539200000,
+  "seconds": 2400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 35,
+  "flags": [
+    "字"
+  ]
+}

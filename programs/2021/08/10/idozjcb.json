@@ -1,0 +1,26 @@
+{
+  "id": "idozjcb",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「戦争花嫁たちのアメリカ」[字][再]",
+  "detail": "進駐軍兵士と結婚しアメリカに渡った４万人を超える「戦争花嫁」。差別や偏見を乗り越え、アメリカ社会に根を張って生き抜いた戦争花嫁の知られざる歴史を証言を通して描く",
+  "start": 1628553600000,
+  "end": 1628560200000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "戦争花嫁たちのアメリカ",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

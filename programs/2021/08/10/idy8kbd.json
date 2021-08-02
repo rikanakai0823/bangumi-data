@@ -1,0 +1,25 @@
+{
+  "id": "idy8kbd",
+  "category": "cinema",
+  "title": "マダガスカル",
+  "fullTitle": "マダガスカル[二]",
+  "detail": "ライオンのアレックス、シマウマのマーティ、キリンのメルマン、カバのグロリアは仲良し4頭組。ある日、動物園から大脱走！たどり着いた先は・・・。86分。2005年。",
+  "start": 1628589600000,
+  "end": 1628595000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

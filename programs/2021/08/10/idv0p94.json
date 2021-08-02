@@ -1,0 +1,25 @@
+{
+  "id": "idv0p94",
+  "category": "drama",
+  "title": "ザ・パシフィック",
+  "fullTitle": "ザ・パシフィック　＃７[二]",
+  "detail": "【吹替ＳＴＡＲ　ＤＲＡＭＡ】",
+  "start": 1628600400000,
+  "end": 1628604600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "吹替ＳＴＡＲ　ＤＲＡＭＡ",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}
