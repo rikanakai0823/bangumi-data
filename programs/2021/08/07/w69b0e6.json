@@ -1,9 +1,9 @@
 {
   "id": "w69b0e6",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "アフリカ　ビジネス最前線",
+  "fullTitle": "アフリカ　ビジネス最前線",
+  "detail": "#9 ビジネス変革 「マラ・グループ」CEOにアフリカのスマホ戦略について、モロッコの製薬会社「ソトゥマ」CEOに、アフリカ各国への薬剤知識の提供について聞く。",
   "start": 1628312400000,
   "end": 1628314200000,
   "seconds": 1800,
@@ -17,9 +17,7 @@
     "hasLogoData": false,
     "n": 139
   },
-  "subTitle": "",
-  "episode": null,
-  "flags": [
-    "再"
-  ]
+  "subTitle": "ビジネス変革",
+  "episode": 9,
+  "flags": []
 }
