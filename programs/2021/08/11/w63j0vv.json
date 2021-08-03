@@ -1,0 +1,25 @@
+{
+  "id": "w63j0vv",
+  "category": "sports",
+  "title": "ジャイアンツイースタンリーグ2021～江戸川～",
+  "fullTitle": "[生]ジャイアンツイースタンリーグ2021「巨人×ヤクルト」～江戸川～",
+  "detail": "～生中継　*延長なし\r\n実況：槙嶋範彦",
+  "start": 1628658000000,
+  "end": 1628672400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "巨人×ヤクルト",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

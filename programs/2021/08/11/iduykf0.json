@@ -1,0 +1,26 @@
+{
+  "id": "iduykf0",
+  "category": "cinema",
+  "title": "愛しのローズマリー",
+  "fullTitle": "[映][SS]愛しのローズマリー",
+  "detail": "ジャック・ブラック、グウィネス・パルトロウ主演のラブコメディ。心の美しさが外見に現れる催眠をかけられた男の恋を描く。",
+  "start": 1628616000000,
+  "end": 1628623200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

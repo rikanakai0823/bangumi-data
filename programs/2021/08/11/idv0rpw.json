@@ -1,0 +1,27 @@
+{
+  "id": "idv0rpw",
+  "category": "anime",
+  "title": "ペット２",
+  "fullTitle": "[映][SS][字]ペット２[吹]【吹替ファミリー映画大集合！】",
+  "detail": "イルミネーション製作の大ヒットアニメ第２弾。飼い主に新たな家族が増えたマックスら、個性あふれるペットたちの大冒険を描く。",
+  "start": 1628654400000,
+  "end": 1628659800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "吹替ファミリー映画大集合！",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

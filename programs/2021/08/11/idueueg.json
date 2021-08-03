@@ -1,0 +1,25 @@
+{
+  "id": "idueueg",
+  "category": "theater",
+  "title": "ミュージカル（字幕版）",
+  "fullTitle": "ミュージカル「ホリデイ・イン」（字幕版）[SS]",
+  "detail": "ビング・クロスビーとフレッド・アステアが主演し、名曲「ホワイト・クリスマス」がオリジナル曲として登場した１９４２年のミュージカル映画を舞台化。",
+  "start": 1628636400000,
+  "end": 1628644500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "ホリデイ・イン",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

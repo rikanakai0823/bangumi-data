@@ -1,0 +1,26 @@
+{
+  "id": "idugzvz",
+  "category": "cinema",
+  "title": "クラウド　アトラス（字幕版）[PG12指定]",
+  "fullTitle": "[映]クラウド　アトラス（字幕版）[PG12指定][SS]",
+  "detail": "「マトリックス」シリーズのウォシャウスキー姉妹らが監督。驚異の映像技術を駆使して１９世紀から未来まで６つの時代を舞台にしたＳＦ叙事詩。Ｔ・ハンクスらが豪華共演。",
+  "start": 1628654400000,
+  "end": 1628665200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "マトリックス",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

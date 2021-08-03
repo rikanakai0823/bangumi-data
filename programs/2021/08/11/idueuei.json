@@ -1,0 +1,23 @@
+{
+  "id": "idueuei",
+  "category": "music",
+  "title": "Ｐｅｒｆｕｍｅ",
+  "fullTitle": "Ｐｅｒｆｕｍｅ「ワールドツアー・スペシャル」",
+  "detail": "これまで３回行なわれてきたＰｅｒｆｕｍｅのワールドツアーをフィーチャーしたスペシャル番組。彼女たちのワールドワイドな活躍を堪能しよう。",
+  "start": 1628650800000,
+  "end": 1628654400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "ワールドツアー・スペシャル",
+  "episode": null,
+  "flags": []
+}

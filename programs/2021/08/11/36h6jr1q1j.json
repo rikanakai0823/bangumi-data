@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr1q1j",
+  "category": "drama",
+  "title": "ネコナデ",
+  "fullTitle": "ネコナデ[字][Ｓ][再]",
+  "detail": "第５話　１分、いくらで働いていますか？",
+  "start": 1628690400000,
+  "end": 1628692200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "１分、いくらで働いていますか？",
+  "episode": 5,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

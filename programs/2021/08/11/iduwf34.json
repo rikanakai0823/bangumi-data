@@ -1,0 +1,25 @@
+{
+  "id": "iduwf34",
+  "category": "drama",
+  "title": "ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド",
+  "fullTitle": "[SS]ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃３",
+  "detail": "【ＴＶ初放送】",
+  "start": 1628607600000,
+  "end": 1628611200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＴＶ初放送",
+  "episode": 3,
+  "flags": [
+    "SS"
+  ]
+}

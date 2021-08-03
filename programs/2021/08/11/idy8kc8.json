@@ -1,0 +1,25 @@
+{
+  "id": "idy8kc8",
+  "category": "cinema",
+  "title": "クルードさんちのはじめての冒険",
+  "fullTitle": "クルードさんちのはじめての冒険[二]",
+  "detail": "まだ文明が発達していない原始時代のころ。クルード一家は洞窟で暮らしていた。しかしある日、天変地異が起こって洞窟が崩壊してしまう！",
+  "start": 1628676000000,
+  "end": 1628682300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

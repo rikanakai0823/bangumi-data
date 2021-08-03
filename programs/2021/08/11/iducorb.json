@@ -1,0 +1,26 @@
+{
+  "id": "iducorb",
+  "category": "anime",
+  "title": "ルパン三世　霧のエリューシヴ",
+  "fullTitle": "[初]ルパン三世　霧のエリューシヴ[字]",
+  "detail": "今回のお宝は「時を超える乗り物」！複雑にからみあった謎を解き、ルパン達は無事に東京に戻れるか！？",
+  "start": 1628663400000,
+  "end": 1628669700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "時を超える乗り物",
+  "episode": null,
+  "flags": [
+    "初",
+    "字"
+  ]
+}

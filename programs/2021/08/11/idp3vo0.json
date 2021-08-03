@@ -1,0 +1,26 @@
+{
+  "id": "idp3vo0",
+  "category": "documentary",
+  "title": "美の壺　スペシャル",
+  "fullTitle": "美の壺　スペシャル「日本の避暑地」[字][再]",
+  "detail": "日本各地の避暑地の魅力を集めた拡大スペシャル！上高地の老舗ホテルのおもてなしから、オーベルジュのフランス料理、奥日光の絶景まで、避暑地の「美」をたっぷり紹介！",
+  "start": 1628640000000,
+  "end": 1628645340000,
+  "seconds": 5340,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "日本の避暑地",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

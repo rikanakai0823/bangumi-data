@@ -1,0 +1,27 @@
+{
+  "id": "iducora",
+  "category": "cinema",
+  "title": "Ａ．Ｉ．（吹替版）",
+  "fullTitle": "[映]Ａ．Ｉ．（吹替版）[SS][字]",
+  "detail": "“その愛は真実、その存在は偽り”。愛すらも理解できる人工知能（Ａ．Ｉ．）を持ったアンドロイドの少年の旅路を、巨匠Ｓ・スピルバーグが自らの脚本で描いた超大作ＳＦ。",
+  "start": 1628654400000,
+  "end": 1628663400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idozicq",
+  "category": "documentary",
+  "title": "街角ピアノ",
+  "fullTitle": "街角ピアノ「広島」[字][再]",
+  "detail": "２０２０年７月、広島の地下街に置かれたカラフルなピアノ。２０年来の大親友。プロレスが大好きな青年。病で倒れ片手で弾き語りをする男性…どんな思いで曲を弾くのか。",
+  "start": 1628640300000,
+  "end": 1628643000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "広島",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

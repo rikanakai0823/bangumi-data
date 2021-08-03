@@ -1,0 +1,25 @@
+{
+  "id": "rkunje3",
+  "category": "hobby",
+  "title": "ペッパピッグ#95,#96[字/日英]",
+  "fullTitle": "ペッパピッグ#95,#96[二][字/日英]",
+  "detail": "#95「ペンパル」　#96「けんか」",
+  "start": 1628636400000,
+  "end": 1628637300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 131
+  },
+  "subTitle": "ペンパル",
+  "episode": 95,
+  "flags": [
+    "二"
+  ]
+}
