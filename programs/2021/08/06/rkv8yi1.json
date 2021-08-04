@@ -1,0 +1,23 @@
+{
+  "id": "rkv8yi1",
+  "category": "news",
+  "title": "つなぐヒロシマ",
+  "fullTitle": "つなぐヒロシマ",
+  "detail": "",
+  "start": 1628204400000,
+  "end": 1628211180000,
+  "seconds": 6780,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

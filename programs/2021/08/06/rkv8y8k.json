@@ -5,8 +5,8 @@
   "fullTitle": "Wake-Up　News",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Wake－Up News」",
   "start": 1628200800000,
-  "end": 1628208000000,
-  "seconds": 7200,
+  "end": 1628204400000,
+  "seconds": 3600,
   "channel": {
     "type": "CS",
     "channel": "CS8",
