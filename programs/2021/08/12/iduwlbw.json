@@ -1,0 +1,25 @@
+{
+  "id": "iduwlbw",
+  "category": "drama",
+  "title": "ビカミング・ア・ゴッド",
+  "fullTitle": "[SS]ビカミング・ア・ゴッド　＃７",
+  "detail": "【ＳＴＡＲ　ＤＲＡＭＡ　１１】",
+  "start": 1628776800000,
+  "end": 1628780400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ＳＴＡＲ　ＤＲＡＭＡ　１１",
+  "episode": 7,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iducos5",
+  "category": "cinema",
+  "title": "ＴＡＪＯＭＡＲＵ",
+  "fullTitle": "[映]ＴＡＪＯＭＡＲＵ[SS][字]",
+  "detail": "人気俳優・小栗旬が愛する女性のため地位も名誉も名前も捨ててしまう主人公役を熱演した新感覚時代劇。名作「羅生門」で三船敏郎が演じた盗賊、多襄丸を新たな解釈で描く。",
+  "start": 1628757900000,
+  "end": 1628766000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "羅生門",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

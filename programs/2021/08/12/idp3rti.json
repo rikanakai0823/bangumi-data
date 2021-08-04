@@ -1,0 +1,25 @@
+{
+  "id": "idp3rti",
+  "category": "documentary",
+  "title": "巨樹の国にっぽん",
+  "fullTitle": "巨樹の国にっぽん（３）「今を映し出す」[字]",
+  "detail": "今、巨樹が危機に立っている！リニア新幹線の工事で伐採の危機に立つブナの巨樹。コロナ禍で祈る命の巨樹。巨樹と向き合うとわかる生命の尊さ。日本人と巨樹の今を見つめる",
+  "start": 1628762400000,
+  "end": 1628764200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "今を映し出す",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

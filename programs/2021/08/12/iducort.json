@@ -1,0 +1,25 @@
+{
+  "id": "iducort",
+  "category": "drama",
+  "title": "男コピーライター、育休をとる。",
+  "fullTitle": "男コピーライター、育休をとる。　「第５回」[字]",
+  "detail": "",
+  "start": 1628715600000,
+  "end": 1628717400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "第５回",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

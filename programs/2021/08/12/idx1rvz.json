@@ -1,0 +1,25 @@
+{
+  "id": "idx1rvz",
+  "category": "anime",
+  "title": "ちびまる子ちゃん",
+  "fullTitle": "[字]ちびまる子ちゃん #532",
+  "detail": "#532「夏のかるた」の巻／「ハートのアップリケ」の巻\r\n静岡県清水市に住む小学3年生のももこは、みんなから“まる子”…",
+  "start": 1628715600000,
+  "end": 1628717400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "夏のかるた",
+  "episode": 532,
+  "flags": [
+    "字"
+  ]
+}

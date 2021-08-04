@@ -1,0 +1,25 @@
+{
+  "id": "idy8kcl",
+  "category": "anime",
+  "title": "ディズニー・コメディ・タイム#1-#3",
+  "fullTitle": "ディズニー・コメディ・タイム#1-#3[二]",
+  "detail": "#1「ミッキーとあざらし」　#2「ミッキーのお化け退治」　#3「リスの冬支度」",
+  "start": 1628713800000,
+  "end": 1628715600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ミッキーとあざらし",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv0vf4",
+  "category": "cinema",
+  "title": "悪人伝",
+  "fullTitle": "[映]悪人伝[吹]",
+  "detail": "マ・ドンソク主演のバイオレンスアクション。自分を襲った連続殺人鬼を追いつめるため、刑事と手を組むヤクザの組長を描く。",
+  "start": 1628766000000,
+  "end": 1628773200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

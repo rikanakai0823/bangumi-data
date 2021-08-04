@@ -1,0 +1,25 @@
+{
+  "id": "iducoru",
+  "category": "documentary",
+  "title": "ＢＢＣ　Ｅａｒｔｈ　ワイルド・メトロポリス　躍動する野生",
+  "fullTitle": "ＢＢＣ　Ｅａｒｔｈ　ワイルド・メトロポリス　躍動する野生　＃２　通勤者[二]",
+  "detail": "",
+  "start": 1628717400000,
+  "end": 1628721000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "通勤者",
+  "episode": 2,
+  "flags": [
+    "二"
+  ]
+}
