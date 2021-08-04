@@ -1,0 +1,23 @@
+{
+  "id": "w694jzh",
+  "category": "news",
+  "title": "広島平和記念式典 中継",
+  "fullTitle": "広島平和記念式典 中継",
+  "detail": "広島・平和記念公園から「広島市原爆死没者慰霊式並びに平和祈念式」の模様を生中継します。（ＲＣＣ中国放送制作）",
+  "start": 1628203500000,
+  "end": 1628208900000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 137
+  },
+  "subTitle": "広島市原爆死没者慰霊式並びに平和祈念式",
+  "episode": null,
+  "flags": []
+}
