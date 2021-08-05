@@ -2,7 +2,7 @@
   "id": "381f5ksfzb",
   "category": "information",
   "title": "新型コロナ　命を守る行動を",
-  "fullTitle": "新型コロナ　命を守る行動を",
+  "fullTitle": "新型コロナ　命を守る行動を[字]",
   "detail": "",
   "start": 1628653380000,
   "end": 1628653500000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

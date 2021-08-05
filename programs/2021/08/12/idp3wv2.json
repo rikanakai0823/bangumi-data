@@ -1,0 +1,23 @@
+{
+  "id": "idp3wv2",
+  "category": "information",
+  "title": "晴れ、ときどきファーム　ミニ動画",
+  "fullTitle": "晴れ、ときどきファーム　ミニ動画",
+  "detail": "",
+  "start": 1628758500000,
+  "end": 1628758800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

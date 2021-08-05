@@ -1,0 +1,23 @@
+{
+  "id": "rlm3ys2",
+  "category": "sports",
+  "title": "月刊！ホークス",
+  "fullTitle": "月刊！ホークス #254",
+  "detail": "今月は平石洋介一軍打撃コーチと栗原陵矢選手に迫る！",
+  "start": 1628389800000,
+  "end": 1628391600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 254,
+  "flags": []
+}
