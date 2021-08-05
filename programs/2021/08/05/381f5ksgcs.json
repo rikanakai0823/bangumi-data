@@ -1,11 +1,11 @@
 {
-  "id": "381f5ks9e3",
+  "id": "381f5ksgcs",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース「中継・衆議院議院運営委員会」[字]",
+  "fullTitle": "ニュース「中継・参議院議院運営委員会」[字]",
   "detail": "",
-  "start": 1628136000000,
-  "end": 1628139000000,
+  "start": 1628139600000,
+  "end": 1628142600000,
   "seconds": 3000,
   "channel": {
     "type": "GR",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "中継・衆議院議院運営委員会",
+  "subTitle": "中継・参議院議院運営委員会",
   "episode": null,
   "flags": [
     "字"
