@@ -1,0 +1,23 @@
+{
+  "id": "idp3sbm",
+  "category": "music",
+  "title": "クラシック倶楽部　ベルリンＲＩＡＳ室内合唱団　演奏会",
+  "fullTitle": "クラシック倶楽部　ベルリンＲＩＡＳ室内合唱団　演奏会",
+  "detail": "ドイツを代表する室内合唱団、ベルリンＲＩＡＳ室内合唱団。ジャスティン・ドイルの指揮でバッハやブルックナーといった宗教合唱曲の精髄をお送りする。",
+  "start": 1628798400000,
+  "end": 1628801700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

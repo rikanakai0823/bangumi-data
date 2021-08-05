@@ -1,0 +1,26 @@
+{
+  "id": "rktctks",
+  "category": "variety",
+  "title": "芸能ライブ",
+  "fullTitle": "芸能ライブ　[字][再]",
+  "detail": "日本初放送！ＫＢＳの芸能街中継がリニューアルして帰ってきた！韓国の芸能ニュースをいち早くお届けする情報番組！2020年",
+  "start": 1628819100000,
+  "end": 1628823000000,
+  "seconds": 3900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduwnit",
+  "category": "cinema",
+  "title": "ジュディ　虹の彼方に",
+  "fullTitle": "[映][SS]ジュディ　虹の彼方に",
+  "detail": "レニー・ゼルウィガーがアカデミー主演女優賞に輝いた伝記ドラマ。波乱の人生を歩んだ女優ジュディ・ガーランドの晩年を描く。",
+  "start": 1628819100000,
+  "end": 1628827200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

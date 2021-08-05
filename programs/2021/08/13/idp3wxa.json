@@ -1,0 +1,26 @@
+{
+  "id": "idp3wxa",
+  "category": "documentary",
+  "title": "ディープオーシャン　世界の深海",
+  "fullTitle": "ディープオーシャン　世界の深海「氷の海の巨大生物　南極海」[SS][字]",
+  "detail": "氷の秘境・南極の深海に初潜航。長さ１０ｍものダイオウクラゲや純白の巨大イカに遭遇。人類が初めて深海で見た姿は、氷の精のように白く輝いていた。",
+  "start": 1628790300000,
+  "end": 1628791200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "氷の海の巨大生物　南極海",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}

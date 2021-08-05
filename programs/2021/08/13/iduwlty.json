@@ -1,0 +1,25 @@
+{
+  "id": "iduwlty",
+  "category": "drama",
+  "title": "ビッグ・リトル・ライズ",
+  "fullTitle": "[SS]ビッグ・リトル・ライズ　＃５",
+  "detail": "【海外ドラマシリーズ一挙放送】",
+  "start": 1628801400000,
+  "end": 1628805600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "海外ドラマシリーズ一挙放送",
+  "episode": 5,
+  "flags": [
+    "SS"
+  ]
+}

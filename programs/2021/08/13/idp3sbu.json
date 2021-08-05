@@ -1,0 +1,26 @@
+{
+  "id": "idp3sbu",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「八戸」[字][再]",
+  "detail": "青森県の港町、八戸。かつて飢饉に苦しんだ人々は海に活路を見いだした。イカの水揚げ量日本一。そして臨海工業都市へ。厳しい風土を生き抜いた人々の物語▽２０１８年放送",
+  "start": 1628809200000,
+  "end": 1628812800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "八戸",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

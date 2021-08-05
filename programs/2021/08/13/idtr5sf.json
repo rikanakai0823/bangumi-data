@@ -1,0 +1,23 @@
+{
+  "id": "idtr5sf",
+  "category": "information",
+  "title": "アクセルクリエイションテレビショッピング",
+  "fullTitle": "アクセルクリエイションテレビショッピング",
+  "detail": "",
+  "start": 1628789520000,
+  "end": 1628791260000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

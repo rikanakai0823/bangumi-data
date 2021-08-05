@@ -1,0 +1,25 @@
+{
+  "id": "w67vl6s",
+  "category": "anime",
+  "title": "あひるの空 ,30",
+  "fullTitle": "あひるの空[字] #29,30",
+  "detail": "＃２９「キズナ」＃３０「存在意義」",
+  "start": 1628859600000,
+  "end": 1628863200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "キズナ",
+  "episode": 29,
+  "flags": [
+    "字"
+  ]
+}

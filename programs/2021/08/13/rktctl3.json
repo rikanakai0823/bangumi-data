@@ -1,0 +1,25 @@
+{
+  "id": "rktctl3",
+  "category": "news",
+  "title": "ＫＢＳニュース９",
+  "fullTitle": "ＫＢＳニュース９[生]",
+  "detail": "リアルタイムで最新韓国情報をいち早くお届け！",
+  "start": 1628856000000,
+  "end": 1628859600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w65o3i6",
+  "category": "variety",
+  "title": "変なおじさんTV",
+  "fullTitle": "[字]変なおじさんTV【セレクト】#26",
+  "detail": "日常に起こる様々な出来事をテーマに、楽しいコントを披露。後半には屋台の設定で、毎回豪華なゲストを招いてのトーク。",
+  "start": 1628800200000,
+  "end": 1628802000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 102
+  },
+  "subTitle": "セレクト",
+  "episode": 26,
+  "flags": [
+    "字"
+  ]
+}

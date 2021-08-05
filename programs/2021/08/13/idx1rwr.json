@@ -1,0 +1,25 @@
+{
+  "id": "idx1rwr",
+  "category": "anime",
+  "title": "ちびまる子ちゃん",
+  "fullTitle": "[字]ちびまる子ちゃん #533",
+  "detail": "#533「真夏の枕」の巻／「備えあれば憂いなし」の巻\r\n静岡県清水市に住む小学3年生のももこは、みんなから“まる子”と…",
+  "start": 1628802000000,
+  "end": 1628803800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "真夏の枕",
+  "episode": 533,
+  "flags": [
+    "字"
+  ]
+}

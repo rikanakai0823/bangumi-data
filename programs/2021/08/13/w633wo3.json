@@ -1,0 +1,23 @@
+{
+  "id": "w633wo3",
+  "category": "sports",
+  "title": "全国高校野球選手権大会 第5日",
+  "fullTitle": "第103回全国高校野球選手権大会 第5日",
+  "detail": "第1試合 大阪桐蔭-東海大菅生\r\n第2試合 近江-日大東北\r\n第3試合 西日本短大付-二松学舎大付\r\n第4試合 京都国際-前橋育英\r\n",
+  "start": 1628848800000,
+  "end": 1628881200000,
+  "seconds": 32400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": 103,
+  "flags": []
+}

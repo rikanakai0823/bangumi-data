@@ -1,0 +1,23 @@
+{
+  "id": "idxc7w3",
+  "category": "music",
+  "title": "precious STAGE ～Juice=Juice～BSスカパー！版",
+  "fullTitle": "precious STAGE ～Juice=Juice～BSスカパー！版",
+  "detail": "Juice=Juiceによる特別LIVE＆トーク\r\nBSスカパー！でしか見られないトークを追加した特別版！",
+  "start": 1628857800000,
+  "end": 1628859600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
