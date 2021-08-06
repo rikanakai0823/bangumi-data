@@ -5,8 +5,8 @@
   "fullTitle": "放送休止",
   "detail": "放送設備点検のため放送を休止いたします。",
   "start": 1628525100000,
-  "end": 1628546100000,
-  "seconds": 21000,
+  "end": 1628527500000,
+  "seconds": 2400,
   "channel": {
     "type": "BS",
     "channel": "BS09_1",
