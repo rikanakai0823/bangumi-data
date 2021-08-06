@@ -2,7 +2,7 @@
   "id": "381jqz09fv",
   "category": "anime",
   "title": "沼ハマ“高校生青春リレーアニメ”",
-  "fullTitle": "沼ハマ“高校生青春リレーアニメ”",
+  "fullTitle": "沼ハマ“高校生青春リレーアニメ”[字]",
   "detail": "",
   "start": 1628777700000,
   "end": 1628778000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

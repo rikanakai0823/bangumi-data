@@ -1,0 +1,23 @@
+{
+  "id": "idp1l3v",
+  "category": "news",
+  "title": "ＢＳニュース",
+  "fullTitle": "ＢＳニュース",
+  "detail": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+  "start": 1628295300000,
+  "end": 1628295600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
