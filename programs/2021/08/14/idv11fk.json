@@ -1,0 +1,27 @@
+{
+  "id": "idv11fk",
+  "category": "cinema",
+  "title": "ザ・エージェント",
+  "fullTitle": "[映][SS][字]ザ・エージェント[吹]",
+  "detail": "トム・クルーズ主演の人間ドラマ。一度は挫折したスポーツエージェントが、周囲の協力を得て再起を目指す。［ＰＧ１２］",
+  "start": 1628924400000,
+  "end": 1628933400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

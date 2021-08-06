@@ -1,0 +1,25 @@
+{
+  "id": "w63j0x6",
+  "category": "sports",
+  "title": "2021MotoGP 第11戦オーストリアGP予選",
+  "fullTitle": "[生]2021MotoGP 第11戦オーストリアGP予選",
+  "detail": "～生中継　～レッドブル・リンク\r\n解説：辻本聡　長島哲太　坂田和人\r\n実況：藤田大介　伊藤大海　田辺大智",
+  "start": 1628937000000,
+  "end": 1628952300000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

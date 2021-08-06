@@ -1,0 +1,26 @@
+{
+  "id": "rks34cv",
+  "category": "drama",
+  "title": "新参者",
+  "fullTitle": "[終]新参者 #10[字]【東野圭吾特集】",
+  "detail": "事件の容疑者は人形町を行き交う人々全員！？複雑に入り組んだ住民の「心の闇」を一人の刑事が解き明かす、東野圭吾原作の泣ける本格ミステリー。",
+  "start": 1628934600000,
+  "end": 1628938800000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "東野圭吾特集",
+  "episode": 10,
+  "flags": [
+    "終",
+    "字"
+  ]
+}

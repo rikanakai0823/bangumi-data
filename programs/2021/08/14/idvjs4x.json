@@ -1,0 +1,26 @@
+{
+  "id": "idvjs4x",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "",
+  "start": 1628910000000,
+  "end": 1628919000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

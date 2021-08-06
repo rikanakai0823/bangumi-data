@@ -1,0 +1,25 @@
+{
+  "id": "idozik2",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル[字]",
+  "detail": "",
+  "start": 1628946000000,
+  "end": 1628949000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

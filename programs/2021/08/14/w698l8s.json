@@ -1,0 +1,23 @@
+{
+  "id": "w698l8s",
+  "category": "news",
+  "title": "レポーターズ",
+  "fullTitle": "レポーターズ",
+  "detail": "世界各地のBBCレポーターがトップニュースのみならず、ジャーナリストとして見逃せない興味深い情報を世界中からお届けする。",
+  "start": 1628950200000,
+  "end": 1628951400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

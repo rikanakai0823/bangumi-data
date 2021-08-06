@@ -1,0 +1,26 @@
+{
+  "id": "idozkib",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「独裁者ヒトラー　演説の魔力」[字][再]",
+  "detail": "ヒトラーが大衆を熱狂させた最大の武器は「演説」だった。実際に演説を聞いた人々をドイツ各地に訪ね、さらに１５０万語のビッグデータを分析。謎に包まれた実態に迫る。",
+  "start": 1628870100000,
+  "end": 1628876040000,
+  "seconds": 5940,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "独裁者ヒトラー　演説の魔力",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

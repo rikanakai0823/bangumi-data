@@ -1,0 +1,27 @@
+{
+  "id": "iducotb",
+  "category": "cinema",
+  "title": "ミュンヘン（吹替版）[PG-12指定]",
+  "fullTitle": "[映]ミュンヘン（吹替版）[PG-12指定][SS][字]",
+  "detail": "Ｓ・スピルバーグ監督が、過去の史実に基づいて描いた衝撃の問題作。テロへの報復措置として駆り出されたイスラエルの極秘暗殺部隊。その苛酷な運命を凄絶なタッチで描写。",
+  "start": 1628892900000,
+  "end": 1628902800000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

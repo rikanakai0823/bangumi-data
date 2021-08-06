@@ -1,0 +1,26 @@
+{
+  "id": "iduwqd2",
+  "category": "cinema",
+  "title": "グランド・ブダペスト・ホテル",
+  "fullTitle": "[映][SS]グランド・ブダペスト・ホテル",
+  "detail": "ウェス・アンダーソン監督作。伝説のコンシェルジュが殺人事件の真相解明に挑む、超豪華キャスト共演のミステリーコメディ。",
+  "start": 1628890200000,
+  "end": 1628896500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

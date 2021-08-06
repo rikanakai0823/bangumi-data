@@ -1,0 +1,23 @@
+{
+  "id": "idt5lj3",
+  "category": "information",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": "",
+  "start": 1628908200000,
+  "end": 1628910000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

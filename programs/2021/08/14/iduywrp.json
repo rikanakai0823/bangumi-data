@@ -1,0 +1,26 @@
+{
+  "id": "iduywrp",
+  "category": "cinema",
+  "title": "めまい",
+  "fullTitle": "[映][SS]めまい",
+  "detail": "アルフレッド・ヒッチコック監督による極上サスペンス。高所恐怖症の男が女性の尾行を依頼され、次第に不審な事実へと辿り着く。",
+  "start": 1628948700000,
+  "end": 1628956800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

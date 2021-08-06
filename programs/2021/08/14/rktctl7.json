@@ -1,0 +1,25 @@
+{
+  "id": "rktctl7",
+  "category": "variety",
+  "title": "＊リクエスト放送＊ＥＸＯのあみだで世界旅行～ＣＢＸ日本編～",
+  "fullTitle": "＊リクエスト放送＊ＥＸＯのあみだで世界旅行～ＣＢＸ日本編～　[字]",
+  "detail": "リクエスト放送！ＥＸＯ－ＣＢＸ(ベクヒョン、シウミン、チェン)が日本の鳥取県を旅するリアルバラエティ！2018年　全8回",
+  "start": 1628879100000,
+  "end": 1628887200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
