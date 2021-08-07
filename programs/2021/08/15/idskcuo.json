@@ -1,0 +1,23 @@
+{
+  "id": "idskcuo",
+  "category": "etc",
+  "title": "クロージング",
+  "fullTitle": "クロージング",
+  "detail": "",
+  "start": 1628964000000,
+  "end": 1628964060000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

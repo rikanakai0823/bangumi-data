@@ -1,0 +1,25 @@
+{
+  "id": "iduwulb",
+  "category": "cinema",
+  "title": "デッド・シティ",
+  "fullTitle": "[映]デッド・シティ【第１回ゾンビ世界選手権２０２１】",
+  "detail": "南米を舞台にしたサバイバルアクション。謎のウイルスによるゾンビ化で混乱する中、息子を探す医師を描く。［ＰＧ１２相当］",
+  "start": 1629026100000,
+  "end": 1629032400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "第１回ゾンビ世界選手権２０２１",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

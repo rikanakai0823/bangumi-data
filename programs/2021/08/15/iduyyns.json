@@ -1,0 +1,26 @@
+{
+  "id": "iduyyns",
+  "category": "cinema",
+  "title": "恋におちたシェイクスピア",
+  "fullTitle": "[映][SS]恋におちたシェイクスピア",
+  "detail": "若き日のシェイクスピアが、女性との恋によって劇作家としての才能を開花させていき…。アカデミー作品賞受賞。",
+  "start": 1628974800000,
+  "end": 1628982900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

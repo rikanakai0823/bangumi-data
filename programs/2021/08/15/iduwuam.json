@@ -1,0 +1,26 @@
+{
+  "id": "iduwuam",
+  "category": "cinema",
+  "title": "デッド・ドント・ダイ",
+  "fullTitle": "[映][SS]デッド・ドント・ダイ【第１回ゾンビ世界選手権２０２１】",
+  "detail": "ジム・ジャームッシュ監督のゾンビコメディ。警察官が３人の平和な町にゾンビの大群が出現し、パニックが起こる。［Ｒ１５＋］",
+  "start": 1629012600000,
+  "end": 1629019800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "第１回ゾンビ世界選手権２０２１",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

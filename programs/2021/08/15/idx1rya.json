@@ -1,0 +1,25 @@
+{
+  "id": "idx1rya",
+  "category": "anime",
+  "title": "名探偵コナン 8月号",
+  "fullTitle": "[字]名探偵コナン 8月号",
+  "detail": "#742「あやつられた名探偵（前編）」\r\n#743「あやつられた名探偵（後編）」\r\n#744「少年探偵団vs老人（シルバー）探偵団…",
+  "start": 1628992800000,
+  "end": 1629000000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "あやつられた名探偵（前編）",
+  "episode": 742,
+  "flags": [
+    "字"
+  ]
+}

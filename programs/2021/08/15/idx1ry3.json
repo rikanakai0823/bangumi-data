@@ -1,0 +1,25 @@
+{
+  "id": "idx1ry3",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#229「スナドリネコさんとボク」\r\n#230「旅人さんがやって来た」\r\n#231「コヒグマくんとヤマビーくん」\r\n#232「いろいろ…",
+  "start": 1628974800000,
+  "end": 1628976600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "スナドリネコさんとボク",
+  "episode": 229,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w698l9c",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "プレミアリーグの開幕にあわせ、番組が紹介するのはテクノロジーを駆使した新たなスカウト方法。それは世界中の人々に最高峰の舞台でプレーするチャンスを提供している。",
+  "start": 1629034200000,
+  "end": 1629036000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
