@@ -1,0 +1,26 @@
+{
+  "id": "381jqz08j6",
+  "category": "welfare",
+  "title": "ハートネットＴＶ　ＮＨＫハート展２０２１",
+  "fullTitle": "ハートネットＴＶ　ＮＨＫハート展２０２１[解][字]",
+  "detail": "",
+  "start": 1629111600000,
+  "end": 1629113400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

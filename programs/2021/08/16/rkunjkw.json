@@ -1,0 +1,25 @@
+{
+  "id": "rkunjkw",
+  "category": "hobby",
+  "title": "ペッパピッグ#101,#102[字/日英]",
+  "fullTitle": "ペッパピッグ#101,#102[二][字/日英]",
+  "detail": "#101「ていでん」　#102「ボールあそび」",
+  "start": 1629068400000,
+  "end": 1629069300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 131
+  },
+  "subTitle": "ていでん",
+  "episode": 101,
+  "flags": [
+    "二"
+  ]
+}

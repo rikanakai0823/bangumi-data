@@ -1,0 +1,25 @@
+{
+  "id": "idozjhq",
+  "category": "sports",
+  "title": "スポーツ酒場“語り亭”　東京２０２０スぺシャル",
+  "fullTitle": "スポーツ酒場“語り亭”　東京２０２０スぺシャル[字]",
+  "detail": "",
+  "start": 1629108000000,
+  "end": 1629114600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idueugj",
+  "category": "sports",
+  "title": "リーガダイジェスト！　　第１節",
+  "fullTitle": "[初]リーガダイジェスト！　　第１節",
+  "detail": "",
+  "start": 1629122400000,
+  "end": 1629125100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

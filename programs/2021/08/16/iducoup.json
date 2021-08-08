@@ -1,0 +1,27 @@
+{
+  "id": "iducoup",
+  "category": "cinema",
+  "title": "最後の初恋（吹替版）",
+  "fullTitle": "[映]最後の初恋（吹替版）[SS][字]",
+  "detail": "Ｒ・ギアとＤ・レインが「運命の女」以来の共演を果たした大人のラブロマンス。主婦と外科医、それぞれ家庭に悩みを抱えた２人が運命的な恋に落ちていく様子を切なく綴る。",
+  "start": 1629089100000,
+  "end": 1629095400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "運命の女",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

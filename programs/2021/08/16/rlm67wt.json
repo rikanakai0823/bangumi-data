@@ -1,0 +1,23 @@
+{
+  "id": "rlm67wt",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第101回 天皇杯 3回戦 札幌×長崎",
+  "detail": "天皇杯 JFA 第101回全日本サッカー選手権大会 3回戦\r\n北海道コンサドーレ札幌×V・ファーレン長崎",
+  "start": 1629046800000,
+  "end": 1629055800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 142
+  },
+  "subTitle": "天皇杯 3回戦 札幌×長崎",
+  "episode": 101,
+  "flags": []
+}

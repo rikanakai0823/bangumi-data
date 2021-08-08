@@ -1,0 +1,26 @@
+{
+  "id": "iduvifa",
+  "category": "cinema",
+  "title": "栄光のランナー／１９３６ベルリン",
+  "fullTitle": "[映][SS]栄光のランナー／１９３６ベルリン",
+  "detail": "【ナチス支配の影に隠された知られざる実話たち】",
+  "start": 1629077400000,
+  "end": 1629086400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "ナチス支配の影に隠された知られざる実話たち",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

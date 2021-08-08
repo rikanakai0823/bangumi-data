@@ -1,0 +1,25 @@
+{
+  "id": "w681xul",
+  "category": "anime",
+  "title": "精霊幻想記",
+  "fullTitle": "精霊幻想記 #06 [字]",
+  "detail": "#06 祭りの夜",
+  "start": 1629099000000,
+  "end": 1629100800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "祭りの夜",
+  "episode": 6,
+  "flags": [
+    "字"
+  ]
+}

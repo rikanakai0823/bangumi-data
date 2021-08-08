@@ -1,0 +1,23 @@
+{
+  "id": "rlm67wy",
+  "category": "music",
+  "title": "【KNTV】V Clip",
+  "fullTitle": "【KNTV】V Clip",
+  "detail": "名曲や最新ヒット曲などK-POPミュージックビデオをノンストップでお送りします!!",
+  "start": 1629069300000,
+  "end": 1629070200000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 142
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

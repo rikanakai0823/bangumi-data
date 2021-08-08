@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ldtj",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「飛鳥山特別」「お盆もＳＰＡＴ４で！ポイント１０倍賞」「サマーメモリー賞」",
+  "start": 1629094800000,
+  "end": 1629115200000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
