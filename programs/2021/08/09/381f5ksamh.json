@@ -2,7 +2,7 @@
   "id": "381f5ksamh",
   "category": "news",
   "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報",
+  "fullTitle": "ニュース・気象情報[字]",
   "detail": "",
   "start": 1628452800000,
   "end": 1628453400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

@@ -1,12 +1,22 @@
 {
   "id": "381sxrgkf2",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "　",
+  "category": "drama",
+  "title": "「ＴＯＫＹＯ　ＭＥＲ～走る緊急救命室～」ダイジェスト",
+  "fullTitle": "「ＴＯＫＹＯ　ＭＥＲ～走る緊急救命室～」ダイジェスト[字]",
+  "detail": "かつてない超スケールで描く命を巡る熱く胸躍るヒューマンドラマ！\n◇番組内容\n　\n◇出演者\n鈴木亮平・賀来賢人・中条あやみ・要潤・小手伸也・佐野勇斗・佐藤栞里・佐藤寛太・フォンチー／菜々緒／鶴見辰吾・橋本さとし・渡辺真起子／仲里依紗・石田ゆり子\n◇みどころ\n最新鋭のオペ室を完備した“走る緊急救命室”「ERカー」は、製作期間なんと６ヶ月！「実在すれば理想の救命車輌」だと実際の医師たちも絶賛！リハーサルを重ねた本格的な医療シーンもドラマの見どころ！\n◇音楽\n主題歌：「アカリ」  GReeeeN（ZEN MUSIC / UNIVERSAL MUSIC）　　音楽：羽岡 佳・斎木達彦・櫻井美希　\n◇スタッフ\n脚本：黒岩勉／企画：高橋正尚/演出：松木彩／プロデューサー：武藤淳・渡辺良介・八木亜未\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/TokyoMER_tbs/\r\n◇twitter\r\n@tokyo_mer_tbs\r\nhttps://twitter.com/tokyo_mer_tbs/\r\n◇instagram\r\nhttps://instagram.com/tokyo_mer_tbs/\r\n\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1629003600000,
   "end": 1629006840000,
   "seconds": 3240,
+  "description": "かつてない超スケールで描く命を巡る熱く胸躍るヒューマンドラマ！",
+  "extra": {
+    "番組内容": "　",
+    "出演者": "鈴木亮平・賀来賢人・中条あやみ・要潤・小手伸也・佐野勇斗・佐藤栞里・佐藤寛太・フォンチー／菜々緒／鶴見辰吾・橋本さとし・渡辺真起子／仲里依紗・石田ゆり子",
+    "みどころ": "最新鋭のオペ室を完備した“走る緊急救命室”「ERカー」は、製作期間なんと６ヶ月！「実在すれば理想の救命車輌」だと実際の医師たちも絶賛！リハーサルを重ねた本格的な医療シーンもドラマの見どころ！",
+    "音楽": "主題歌：「アカリ」  GReeeeN（ZEN MUSIC / UNIVERSAL MUSIC）　　音楽：羽岡 佳・斎木達彦・櫻井美希　",
+    "スタッフ": "脚本：黒岩勉／企画：高橋正尚/演出：松木彩／プロデューサー：武藤淳・渡辺良介・八木亜未",
+    "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/TokyoMER_tbs/\r\n◇twitter\r\n@tokyo_mer_tbs\r\nhttps://twitter.com/tokyo_mer_tbs/\r\n◇instagram\r\nhttps://instagram.com/tokyo_mer_tbs/\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -19,5 +29,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
