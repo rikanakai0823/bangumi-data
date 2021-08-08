@@ -1,0 +1,23 @@
+{
+  "id": "381f5ksi9e",
+  "category": "news",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「台風」関連",
+  "detail": "▽最新情報　▽台風進路図",
+  "start": 1628435400000,
+  "end": 1628452800000,
+  "seconds": 17400,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "台風",
+  "episode": null,
+  "flags": []
+}
