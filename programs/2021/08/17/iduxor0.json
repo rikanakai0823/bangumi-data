@@ -1,0 +1,25 @@
+{
+  "id": "iduxor0",
+  "category": "cinema",
+  "title": "天地創造",
+  "fullTitle": "[映]天地創造",
+  "detail": "旧約聖書の「アダムとイヴ」「ノアの箱船」「バベルの塔」などの有名エピソードを壮大なスケールで描く超大作。",
+  "start": 1629132000000,
+  "end": 1629142800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

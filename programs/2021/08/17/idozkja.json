@@ -1,0 +1,25 @@
+{
+  "id": "idozkja",
+  "category": "documentary",
+  "title": "福島タイムラプス",
+  "fullTitle": "福島タイムラプス「吾妻小富士」[字]",
+  "detail": "福島出身の映像作家が故郷を撮影したタイムラプス（連続撮影した写真をつないだ動画）。舞台は吾妻小富士。",
+  "start": 1629177900000,
+  "end": 1629178200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "吾妻小富士",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

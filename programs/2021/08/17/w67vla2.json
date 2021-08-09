@@ -1,0 +1,25 @@
+{
+  "id": "w67vla2",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST ,32",
+  "fullTitle": "鋼の錬金術師 FULLMETAL ALCHEMIST[字] #31,32",
+  "detail": "＃３１「５２０センズの約束」＃３２「大総統の息子」",
+  "start": 1629142200000,
+  "end": 1629145800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "５２０センズの約束",
+  "episode": 31,
+  "flags": [
+    "字"
+  ]
+}

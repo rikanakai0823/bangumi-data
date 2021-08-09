@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksh71",
+  "category": "sports",
+  "title": "アニ×パラワールド",
+  "fullTitle": "アニ×パラワールド[字]",
+  "detail": "",
+  "start": 1629208800000,
+  "end": 1629209700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

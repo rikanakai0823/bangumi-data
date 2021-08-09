@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmlrf",
+  "category": "etc",
+  "title": "ナイター中継は１７時４５分からご覧のチャンネルで放送します",
+  "fullTitle": "ナイター中継は１７時４５分からご覧のチャンネルで放送します",
+  "detail": "　",
+  "start": 1629189000000,
+  "end": 1629189900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

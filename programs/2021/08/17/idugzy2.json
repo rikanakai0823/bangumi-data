@@ -1,0 +1,27 @@
+{
+  "id": "idugzy2",
+  "category": "cinema",
+  "title": "八王子ゾンビーズ",
+  "fullTitle": "[映]八王子ゾンビーズ[SS][字]",
+  "detail": "三代目　Ｊ　ＳＯＵＬ　ＢＲＯＴＨＥＲＳ　ｆｒｏｍ　ＥＸＩＬＥ　ＴＲＩＢＥの山下健二郎が主演のゾンビコメディ。主人公は８人のイケメンゾンビ集団を成仏させられるか？",
+  "start": 1629183900000,
+  "end": 1629189900000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

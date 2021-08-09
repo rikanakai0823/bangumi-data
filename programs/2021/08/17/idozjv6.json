@@ -1,0 +1,26 @@
+{
+  "id": "idozjv6",
+  "category": "sports",
+  "title": "プロ野球２０２１「ロッテ」対",
+  "fullTitle": "プロ野球２０２１「ロッテ」対「西武」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　５：４５）　【解説】小早川毅彦，【アナウンサー】小野卓哉　～ＺＯＺＯマリンスタジアムから中継～",
+  "start": 1629189900000,
+  "end": 1629202500000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "西武",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
