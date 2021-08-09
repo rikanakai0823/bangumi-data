@@ -1,0 +1,26 @@
+{
+  "id": "idryii9",
+  "category": "sports",
+  "title": "全国高校野球選手権大会　第1日",
+  "fullTitle": "[SS][デ]第103回全国高校野球選手権大会　第1日",
+  "detail": "開会式▽日大山形（山形）×米子東（鳥取）▽新田（愛媛）×静岡（静岡）▽東明館（佐賀）×日本航空（山梨）",
+  "start": 1628553000000,
+  "end": 1628586000000,
+  "seconds": 33000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 103,
+  "flags": [
+    "SS",
+    "デ"
+  ]
+}
