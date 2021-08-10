@@ -1,0 +1,23 @@
+{
+  "id": "rktf1ea",
+  "category": "music",
+  "title": "EPEX DEBUT SHOW : Prelude 字幕版",
+  "fullTitle": "EPEX DEBUT SHOW : Prelude 字幕版",
+  "detail": "EPEXの記念すべきデビューショーを字幕版でオンエア！\r\n2021年\r\n再：18日19:00～、26日12:00～、27日深3:45～、30日17:30～",
+  "start": 1629280800000,
+  "end": 1629284400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

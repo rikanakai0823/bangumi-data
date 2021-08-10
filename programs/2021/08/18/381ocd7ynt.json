@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7ynt",
+  "category": "welfare",
+  "title": "２４時間テレビ４４直前カウントダウン②",
+  "fullTitle": "２４時間テレビ４４「想い～世界はきっと変わる。」直前カウントダウン②[字]",
+  "detail": "",
+  "start": 1629287640000,
+  "end": 1629288000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "想い～世界はきっと変わる。",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

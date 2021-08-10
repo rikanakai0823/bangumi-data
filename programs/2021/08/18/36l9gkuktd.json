@@ -1,0 +1,29 @@
+{
+  "id": "36l9gkuktd",
+  "category": "music",
+  "title": "カラオケ大賞　第１９１１回水田竜子",
+  "fullTitle": "カラオケ大賞　第１９１１回【ゲスト】水田竜子[再]",
+  "detail": "【ゲスト】水田竜子\n◇出演者\n【審査員長】伊戸のりお\r\n【司会】吉岡美穂",
+  "start": 1629241200000,
+  "end": 1629244500000,
+  "seconds": 3300,
+  "description": "【ゲスト】水田竜子",
+  "extra": {
+    "出演者": "【審査員長】伊戸のりお\r\n【司会】吉岡美穂\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

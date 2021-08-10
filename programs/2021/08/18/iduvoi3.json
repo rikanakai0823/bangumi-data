@@ -1,0 +1,26 @@
+{
+  "id": "iduvoi3",
+  "category": "cinema",
+  "title": "ヴィランズ",
+  "fullTitle": "[映][SS]ヴィランズ",
+  "detail": "マイカ・モンロー主演のサイコスリラー。逃亡中の強盗カップルが辿り着いた一軒家で遭遇する恐怖を描く。［ＰＧ１２相当］",
+  "start": 1629238500000,
+  "end": 1629244800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

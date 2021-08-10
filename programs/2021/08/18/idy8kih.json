@@ -1,0 +1,25 @@
+{
+  "id": "idy8kih",
+  "category": "cinema",
+  "title": "グース",
+  "fullTitle": "グース[二]",
+  "detail": "エイミーは、事故で母親を失い父親に引き取られる。ある日、森の中でグースの卵を発見するが。１０７分。１９９６年。（出演）ジェフ・ダニエルズ、アンナ・パキン",
+  "start": 1629280800000,
+  "end": 1629288000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

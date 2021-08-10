@@ -1,0 +1,25 @@
+{
+  "id": "idp3uhw",
+  "category": "documentary",
+  "title": "浮世絵ＥＤＯ－ＬＩＦＥ　福袋",
+  "fullTitle": "浮世絵ＥＤＯ－ＬＩＦＥ　福袋[字]",
+  "detail": "",
+  "start": 1629296100000,
+  "end": 1629297900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

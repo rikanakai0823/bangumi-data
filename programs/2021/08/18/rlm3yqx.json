@@ -1,0 +1,25 @@
+{
+  "id": "rlm3yqx",
+  "category": "sports",
+  "title": "ドイツ スーパーカップ 2021 ドルトムント×バイエルン",
+  "fullTitle": "[生]ドイツ スーパーカップ 2021 ドルトムント×バイエルン",
+  "detail": "リーグ9連覇中の王者バイエルンか、それともポカール王者のドルトムントが昨年の雪辱を晴らすか！",
+  "start": 1629224400000,
+  "end": 1629237000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

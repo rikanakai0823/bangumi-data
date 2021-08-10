@@ -1,0 +1,25 @@
+{
+  "id": "w66h1pv",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×巨人",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×巨人",
+  "detail": "「東京ヤクルト vs 巨人」\r\n＜開催＞2021年8月18日（水）【生中継】\r\n　～松山・坊っちゃんスタジアム\r\n※変更の場合あり",
+  "start": 1629278400000,
+  "end": 1629295200000,
+  "seconds": 16800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "東京ヤクルト vs 巨人",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
