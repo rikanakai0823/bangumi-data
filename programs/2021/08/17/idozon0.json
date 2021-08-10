@@ -1,0 +1,26 @@
+{
+  "id": "idozon0",
+  "category": "sports",
+  "title": "真央が行く！",
+  "fullTitle": "真央が行く！「千葉」[字][再]",
+  "detail": "全国のパラアスリートを訪ねる浅田真央さんの旅！今回、千葉県で出会うのは身体障害者の野球チーム。再び夢を見つけた選手や、世界を目指す“二刀流”アスリートが登場！",
+  "start": 1629162000000,
+  "end": 1629165000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "千葉",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
