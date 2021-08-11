@@ -2,7 +2,7 @@
   "id": "w67drd7",
   "category": "music",
   "title": "【独占ライブ】DEAD POP FESTiVAL 2021 DAY1",
-  "fullTitle": "【独占ライブ】DEAD POP FESTiVAL 2021 DAY1",
+  "fullTitle": "[無]【独占ライブ】DEAD POP FESTiVAL 2021 DAY1",
   "detail": "SiM主催の野外フェス「DEAD POP FESTiVAL 2021」が2年越しでのリベンジ開催！熱狂のステージが繰り広げられた2日間の模様を、各日90分にわたりお届けします！",
   "start": 1628942400000,
   "end": 1628947800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "DEAD POP FESTiVAL 2021",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
