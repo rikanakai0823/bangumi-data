@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yr1",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第101回 天皇杯 ラウンド16 鹿島×長崎",
+  "detail": "天皇杯 JFA 第101回全日本サッカー選手権大会 ラウンド16\r\n鹿島アントラーズ×V・ファーレン長崎",
+  "start": 1629315000000,
+  "end": 1629327600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "天皇杯 ラウンド16 鹿島×長崎",
+  "episode": 101,
+  "flags": []
+}

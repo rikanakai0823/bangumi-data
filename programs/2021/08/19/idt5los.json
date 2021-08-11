@@ -1,0 +1,23 @@
+{
+  "id": "idt5los",
+  "category": "sports",
+  "title": "ＭＬＢ",
+  "fullTitle": "ＭＬＢ",
+  "detail": "エンゼルスＶＳタイガース",
+  "start": 1629363480000,
+  "end": 1629370140000,
+  "seconds": 6660,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

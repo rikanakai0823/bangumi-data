@@ -1,0 +1,26 @@
+{
+  "id": "iducowl",
+  "category": "documentary",
+  "title": "ＢＢＣ　Ｅａｒｔｈ　ワイルド・メトロポリス　躍動する野生",
+  "fullTitle": "ＢＢＣ　Ｅａｒｔｈ　ワイルド・メトロポリス　躍動する野生　＃３　厄介者[終][二]",
+  "detail": "一見、厄介者に思える動物たちは、古くからその土地に暮らしていた。今は都会のジャングルでたくましく生きる。",
+  "start": 1629322200000,
+  "end": 1629325800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "厄介者",
+  "episode": 3,
+  "flags": [
+    "終",
+    "二"
+  ]
+}

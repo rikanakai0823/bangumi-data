@@ -1,0 +1,25 @@
+{
+  "id": "w63j0z6",
+  "category": "sports",
+  "title": "ジャイアンツイースタンリーグ2021～ジャイアンツ球場～",
+  "fullTitle": "[生]ジャイアンツイースタンリーグ2021「巨人×千葉ロッテ」～ジャイアンツ球場～",
+  "detail": "～生中継　*延長なし\r\n実況：村山喜彦",
+  "start": 1629356400000,
+  "end": 1629370800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "巨人×千葉ロッテ",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

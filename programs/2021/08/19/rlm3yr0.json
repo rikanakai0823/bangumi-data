@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yr0",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第101回 天皇杯 ラウンド16 川崎×清水",
+  "detail": "天皇杯 JFA 第101回全日本サッカー選手権大会 ラウンド16\r\n川崎フロンターレ×清水エスパルス",
+  "start": 1629302400000,
+  "end": 1629315000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "天皇杯 ラウンド16 川崎×清水",
+  "episode": 101,
+  "flags": []
+}

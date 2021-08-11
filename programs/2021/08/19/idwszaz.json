@@ -1,0 +1,23 @@
+{
+  "id": "idwszaz",
+  "category": "hobby",
+  "title": "初歩からの物理",
+  "fullTitle": "初歩からの物理　第10回",
+  "detail": "「電気って何だろう」",
+  "start": 1629350100000,
+  "end": 1629352800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "電気って何だろう",
+  "episode": 10,
+  "flags": []
+}
