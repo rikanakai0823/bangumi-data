@@ -1,0 +1,26 @@
+{
+  "id": "idozpq1",
+  "category": "documentary",
+  "title": "地球タクシー",
+  "fullTitle": "地球タクシー「アンソロジー　家族の風景」[字][再]",
+  "detail": "タクシーは不思議な場所だ。シンガポール、パリ、ハイチ、バルセロナ、大阪、モントリオール、ローマ…、車窓から街を感じる旅のアンソロジー特別編第四弾「家族の風景」。",
+  "start": 1629058200000,
+  "end": 1629061200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "アンソロジー　家族の風景",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
