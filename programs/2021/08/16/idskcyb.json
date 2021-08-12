@@ -1,9 +1,9 @@
 {
   "id": "idskcyb",
-  "category": "etc",
-  "title": "麺鉄",
-  "fullTitle": "麺鉄",
-  "detail": "",
+  "category": "information",
+  "title": "麺鉄～メン食い鉄道絶景の旅",
+  "fullTitle": "麺鉄～メン食い鉄道絶景の旅",
+  "detail": "六角精児さんと市川紗椰さんが、それぞれ初夏の九州を訪れ各路線と沿線の魅力を紹介しながら絶景を堪能しながら、その路線を代表する「駅麺」をいただく。",
   "start": 1629108000000,
   "end": 1629114840000,
   "seconds": 6840,
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 50
   },
-  "subTitle": "",
+  "subTitle": "駅麺",
   "episode": null,
   "flags": []
 }
