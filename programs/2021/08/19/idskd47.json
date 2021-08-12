@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "昭和歌謡ベストテンＤＸ",
   "fullTitle": "昭和歌謡ベストテンＤＸ",
-  "detail": "",
+  "detail": "◇制作\n2021年",
   "start": 1629374400000,
   "end": 1629377640000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2021年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
