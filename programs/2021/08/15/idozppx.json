@@ -1,0 +1,26 @@
+{
+  "id": "idozppx",
+  "category": "documentary",
+  "title": "地球タクシー",
+  "fullTitle": "地球タクシー「アンソロジー　日本の面影を求めて」[字][再]",
+  "detail": "タクシーは不思議な場所だ。今回は、日本列島を駆け抜けるドライブ。鹿児島、金沢、広島、秋田、東京、函館、大阪…、車窓から街を感じる旅のアンソロジー特別編、第三弾。",
+  "start": 1628971800000,
+  "end": 1628974800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "アンソロジー　日本の面影を求めて",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
