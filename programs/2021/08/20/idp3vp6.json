@@ -1,0 +1,26 @@
+{
+  "id": "idp3vp6",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「淡路島」[字][再]",
+  "detail": "兵庫県・淡路島。島の誇りは、日本誕生にまつわる神々の物語。古事記によれば、この国で初めて出来たのが、ここ淡路島。始まりの島の物語です。（２０１７年放送）",
+  "start": 1629414000000,
+  "end": 1629417600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "淡路島",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

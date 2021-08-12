@@ -1,0 +1,25 @@
+{
+  "id": "idy8kk6",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "ビッグシティ・グリーン[二]",
+  "detail": "街のクマ",
+  "start": 1629459000000,
+  "end": 1629459900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

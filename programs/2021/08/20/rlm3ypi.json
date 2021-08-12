@@ -1,0 +1,23 @@
+{
+  "id": "rlm3ypi",
+  "category": "sports",
+  "title": "サムライTVアーカイブス",
+  "fullTitle": "サムライTVアーカイブス #24",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1629388800000,
+  "end": 1629392400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": 24,
+  "flags": []
+}

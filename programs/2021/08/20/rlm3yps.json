@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yps",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.日本ハム",
+  "fullTitle": "HAWKS プロ野球中継2021 ソフトバンクvs.日本ハム",
+  "detail": "▽8月15日開催\r\n解説/実況：斉藤和巳/四家秀治\r\n開催日時：2021年8月15日 (日) 13:00\r\n会場：福岡PayPayドーム",
+  "start": 1629428400000,
+  "end": 1629446400000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

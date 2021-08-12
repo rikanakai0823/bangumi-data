@@ -1,0 +1,26 @@
+{
+  "id": "idozp5u",
+  "category": "sports",
+  "title": "プロ野球２０２１「中日」対",
+  "fullTitle": "プロ野球２０２１「中日」対「阪神」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　５：４５）　【解説】梨田昌孝，【アナウンサー】別井敬之　～バンテリンドームから中継～",
+  "start": 1629448800000,
+  "end": 1629461700000,
+  "seconds": 12900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "阪神",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvuw0",
+  "category": "cinema",
+  "title": "ドクター・スリープ",
+  "fullTitle": "[映][SS]ドクター・スリープ",
+  "detail": "スティーヴン・キング原作『シャイニング』の続編小説を映画化したホラー。惨劇を生き延びた少年の４０年後を描く。［ＰＧ１２］",
+  "start": 1629414000000,
+  "end": 1629423900000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

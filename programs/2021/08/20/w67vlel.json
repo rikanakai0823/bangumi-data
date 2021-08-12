@@ -1,0 +1,25 @@
+{
+  "id": "w67vlel",
+  "category": "anime",
+  "title": "あひるの空 ,40",
+  "fullTitle": "あひるの空[字] #39,40",
+  "detail": "＃３９「ＦＩＧＨＴ　ＦＯＲ　ＲＯＣＫ　ＦＯＲ　ＬＩＦＥ」＃４０「ＳＴＯＰ　＆　ＧＯ」",
+  "start": 1629464400000,
+  "end": 1629468000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ＦＩＧＨＴ　ＦＯＲ　ＲＯＣＫ　ＦＯＲ　ＬＩＦＥ",
+  "episode": 39,
+  "flags": [
+    "字"
+  ]
+}
