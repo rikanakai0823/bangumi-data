@@ -1,0 +1,27 @@
+{
+  "id": "idugzze",
+  "category": "cinema",
+  "title": "黄泉がえり",
+  "fullTitle": "[映]黄泉がえり[SS][字]",
+  "detail": "強い想いが死者を呼び戻す……。梶尾真治の原作を、草彅剛、竹内結子らの共演で映画化したファンタジー。柴咲コウの歌う主題歌とともにヒットを記録した人気作。　",
+  "start": 1629513000000,
+  "end": 1629521100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

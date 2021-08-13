@@ -1,0 +1,23 @@
+{
+  "id": "idozlwy",
+  "category": "sports",
+  "title": "ワースポ×ＭＬＢ",
+  "fullTitle": "ワースポ×ＭＬＢ",
+  "detail": "▽日本選手の最新情報　【解説】岡島秀樹，【キャスター】市川いずみ",
+  "start": 1629554400000,
+  "end": 1629555600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

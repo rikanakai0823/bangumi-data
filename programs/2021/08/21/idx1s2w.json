@@ -1,0 +1,25 @@
+{
+  "id": "idx1s2w",
+  "category": "anime",
+  "title": "バクテン!! 一挙放送",
+  "fullTitle": "[字]バクテン!! 一挙放送",
+  "detail": "中学生活最後の夏、男子新体操と出会い、強烈に魅せられた少年・双葉翔太郎。私立蒼秀館高等学校に入学し、男子新体操…",
+  "start": 1629514800000,
+  "end": 1629536400000,
+  "seconds": 21600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

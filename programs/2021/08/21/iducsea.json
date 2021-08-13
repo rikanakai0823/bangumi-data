@@ -1,0 +1,25 @@
+{
+  "id": "iducsea",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４５２",
+  "detail": "",
+  "start": 1629548100000,
+  "end": 1629549000000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 452,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iducoyh",
+  "category": "sports",
+  "title": "ラ・リーガ　第２節　アラベスｖｓマジョルカ",
+  "fullTitle": "[初][生]ラ・リーガ　第２節　アラベスｖｓマジョルカ[二]",
+  "detail": "",
+  "start": 1629557100000,
+  "end": 1629566100000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生",
+    "二"
+  ]
+}

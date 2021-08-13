@@ -1,0 +1,28 @@
+{
+  "id": "iducoy9",
+  "category": "cinema",
+  "title": "ミッドナイトスワン",
+  "fullTitle": "[初][映]ミッドナイトスワン[SS][字]",
+  "detail": "草彅剛が主演し、第４４回日本アカデミー賞で最優秀主演男優賞、最優秀作品賞などに輝いた、話題の日本映画。草彅はトランスジェンダーの主人公を熱演。",
+  "start": 1629518400000,
+  "end": 1629526500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 44,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

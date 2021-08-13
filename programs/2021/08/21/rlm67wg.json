@@ -1,0 +1,23 @@
+{
+  "id": "rlm67wg",
+  "category": "sports",
+  "title": "GAMBA FAMiLY",
+  "fullTitle": "GAMBA FAMiLY #84",
+  "detail": "ガンバ大阪を愛する全ての人へ、PLAYER、GAME、CLUB、SUPPORTER、ACADEMY、あらゆる視点から最新情報をお届けします。",
+  "start": 1629491400000,
+  "end": 1629493200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 142
+  },
+  "subTitle": "",
+  "episode": 84,
+  "flags": []
+}
