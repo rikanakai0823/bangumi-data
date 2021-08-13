@@ -1,8 +1,8 @@
 {
   "id": "381xj5ow80",
-  "category": "etc",
-  "title": "調整中＜サンデーＭＩＤＮＩＧＨＴ＞",
-  "fullTitle": "調整中＜サンデーＭＩＤＮＩＧＨＴ＞",
+  "category": "drama",
+  "title": "推しの王子様＜サンデーＭＩＤＮＩＧＨＴ＞",
+  "fullTitle": "推しの王子様＜サンデーＭＩＤＮＩＧＨＴ＞　＃０５[再][解]",
   "detail": "",
   "start": 1629046500000,
   "end": 1629050100000,
@@ -18,6 +18,9 @@
     "n": 29
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 5,
+  "flags": [
+    "再",
+    "解"
+  ]
 }
