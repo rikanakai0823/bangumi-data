@@ -1,0 +1,23 @@
+{
+  "id": "idvjsf2",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "ＧⅡ『札幌記念』（札幌）とＧⅢ『北九州記念』（小倉）の振り返りを中心に、当日の中央競馬レース結果をお伝えします。",
+  "start": 1629640800000,
+  "end": 1629642600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

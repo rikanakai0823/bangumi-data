@@ -1,0 +1,25 @@
+{
+  "id": "w69b0qe",
+  "category": "music",
+  "title": "特別番組：NY復活記念コンサート",
+  "fullTitle": "[二]特別番組：NY復活記念コンサート",
+  "detail": "B・スプリングスティーン、P・サイモン、サンタナ、ジャーニー、アース・ウィンド&ファイアー、LL・クール・Jらによるコロナ禍からのNY復活を祝うライブを生中継。",
+  "start": 1629586800000,
+  "end": 1629590400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idwt3ah",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「日本語学入門・錯覚の科学」",
+  "start": 1629604800000,
+  "end": 1629605700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "日本語学入門・錯覚の科学",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idv0c8y",
+  "category": "cinema",
+  "title": "ハッピー・デス・デイ",
+  "fullTitle": "[映][SS]ハッピー・デス・デイ[吹]",
+  "detail": "ジェイソン・ブラムが製作を務めたタイムループホラー。誕生日の夜に殺される、という恐怖の１日が何度も繰り返される様を描く。",
+  "start": 1629621000000,
+  "end": 1629627300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

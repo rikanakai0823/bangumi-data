@@ -1,0 +1,25 @@
+{
+  "id": "idv09zo",
+  "category": "cinema",
+  "title": "華やかな魔女たち土曜映画招待席版",
+  "fullTitle": "[映]華やかな魔女たち[吹]土曜映画招待席版",
+  "detail": "イタリアを代表する５監督が集結。シルヴァーナ・マンガーノ演じる魔女を題材に、ユーモラスな物語が展開するオムニバス映画。",
+  "start": 1629576000000,
+  "end": 1629581400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

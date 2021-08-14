@@ -1,0 +1,26 @@
+{
+  "id": "idozms2",
+  "category": "documentary",
+  "title": "ＣＯＯＬ　ＪＡＰＡＮ",
+  "fullTitle": "ＣＯＯＬ　ＪＡＰＡＮ「川～Ｒｉｖｅｒ～」[解][字]",
+  "detail": "昔から日本人の生活に密着した存在、川。氾濫を緩和し、住民の憩いの場となっている広い河川敷は日本独特のもの！？川がはぐくむ世界でも貴重なノリと伝統食文化はクール？",
+  "start": 1629622800000,
+  "end": 1629625500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "川～Ｒｉｖｅｒ～",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

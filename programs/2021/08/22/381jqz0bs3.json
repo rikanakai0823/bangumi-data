@@ -1,0 +1,26 @@
+{
+  "id": "381jqz0bs3",
+  "category": "hobby",
+  "title": "日曜美術館",
+  "fullTitle": "日曜美術館[字][再]",
+  "detail": "",
+  "start": 1629630000000,
+  "end": 1629632700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

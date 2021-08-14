@@ -1,0 +1,25 @@
+{
+  "id": "idy8km2",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#29[二]",
+  "detail": "#29「恋するグーフィー」",
+  "start": 1629620700000,
+  "end": 1629621000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "恋するグーフィー",
+  "episode": 29,
+  "flags": [
+    "二"
+  ]
+}

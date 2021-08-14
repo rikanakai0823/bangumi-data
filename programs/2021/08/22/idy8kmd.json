@@ -1,0 +1,25 @@
+{
+  "id": "idy8kmd",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "キャンプ・キキワカ#60[二]",
+  "detail": "#60「キキワカ・タレントショー」",
+  "start": 1629642600000,
+  "end": 1629644400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "キキワカ・タレントショー",
+  "episode": 60,
+  "flags": [
+    "二"
+  ]
+}

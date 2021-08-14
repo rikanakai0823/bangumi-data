@@ -1,0 +1,23 @@
+{
+  "id": "idskd9o",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「日本ハム　ｖｓ　楽天」",
+  "detail": "札幌から生中継。午後２時試合開始。\r\n【解説】飯田哲也【実況】伊藤隆佑",
+  "start": 1629608400000,
+  "end": 1629618840000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "日本ハム　ｖｓ　楽天",
+  "episode": null,
+  "flags": []
+}

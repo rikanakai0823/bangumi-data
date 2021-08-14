@@ -1,0 +1,25 @@
+{
+  "id": "idozmsd",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「感染症に斃れた日本軍兵士」[字]",
+  "detail": "太平洋戦争中、戦場で兵士の感染症対策にあたった南方軍防疫給水部。新資料から知られざる活動が明らかになった。ワクチンや細菌兵器の開発にも着手したその実態に迫る。",
+  "start": 1629637200000,
+  "end": 1629643800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "感染症に斃れた日本軍兵士",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

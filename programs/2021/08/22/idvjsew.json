@@ -1,0 +1,23 @@
+{
+  "id": "idvjsew",
+  "category": "cinema",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": "※番組内容は決まり次第お伝えします。",
+  "start": 1629626400000,
+  "end": 1629633600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
