@@ -1,8 +1,8 @@
 {
   "id": "381f5ksd8z",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報",
+  "title": "ニュース・気象情報関連",
+  "fullTitle": "ニュース・気象情報「大雨」関連[字]",
   "detail": "",
   "start": 1628971200000,
   "end": 1628971800000,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "大雨",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

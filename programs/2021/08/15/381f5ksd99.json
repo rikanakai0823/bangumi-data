@@ -1,8 +1,8 @@
 {
   "id": "381f5ksd99",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「大雨」関連",
   "detail": "",
   "start": 1628974800000,
   "end": 1628975400000,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "大雨",
   "episode": null,
   "flags": []
 }
