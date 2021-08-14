@@ -2,7 +2,7 @@
   "id": "381f5ksky2",
   "category": "news",
   "title": "ニュース関連",
-  "fullTitle": "ニュース「大雨」関連",
+  "fullTitle": "ニュース「大雨」関連[字]",
   "detail": "",
   "start": 1628953440000,
   "end": 1628954040000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "大雨",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
