@@ -1,0 +1,25 @@
+{
+  "id": "idozndi",
+  "category": "documentary",
+  "title": "駅ピアノ",
+  "fullTitle": "駅ピアノ「ロサンゼルス」[再]",
+  "detail": "アメリカ・ロサンゼルスのユニオン駅に置かれたピアノ。妻と自転車旅行中のベルギー人、日本アニメが好きな中国の若者、ピアノを独学した女性・・・どんな曲を弾いたのか？",
+  "start": 1629663300000,
+  "end": 1629666000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "ロサンゼルス",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

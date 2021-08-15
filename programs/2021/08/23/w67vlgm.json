@@ -1,0 +1,25 @@
+{
+  "id": "w67vlgm",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST ,24",
+  "fullTitle": "鋼の錬金術師 FULLMETAL ALCHEMIST[字] #23,24",
+  "detail": "＃２３「戦場（いくさば）の少女」＃２４「腹の中」",
+  "start": 1629662400000,
+  "end": 1629666000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "戦場（いくさば）の少女",
+  "episode": 23,
+  "flags": [
+    "字"
+  ]
+}

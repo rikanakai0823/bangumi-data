@@ -1,0 +1,25 @@
+{
+  "id": "w67vlhi",
+  "category": "anime",
+  "title": "あひるの空 ,42",
+  "fullTitle": "あひるの空[字] #41,42",
+  "detail": "＃４１「挑戦者」＃４２「宣戦布告」",
+  "start": 1629723600000,
+  "end": 1629727200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "挑戦者",
+  "episode": 41,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rks34fq",
+  "category": "music",
+  "title": "TBSch×SBS Medianet PRESENTS THE SHOW <字幕>",
+  "fullTitle": "TBSch×SBS Medianet PRESENTS THE SHOW #270<字幕>",
+  "detail": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。",
+  "start": 1629648000000,
+  "end": 1629652800000,
+  "seconds": 4800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": 270,
+  "flags": []
+}

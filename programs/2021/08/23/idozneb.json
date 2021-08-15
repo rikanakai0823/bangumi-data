@@ -1,0 +1,26 @@
+{
+  "id": "idozneb",
+  "category": "documentary",
+  "title": "Ａｓｉａ　Ｉｎｓｉｇｈｔ　選",
+  "fullTitle": "Ａｓｉａ　Ｉｎｓｉｇｈｔ　選「北京　怒りの部屋」[二][字]",
+  "detail": "中国・北京で、空き瓶やマネキン人形などをバットで破壊してストレスを発散できる店が人気。急速な経済成長の反面、し烈な競争社会でもある中国の人々の怒りに耳を傾ける。",
+  "start": 1629694800000,
+  "end": 1629696600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "北京　怒りの部屋",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

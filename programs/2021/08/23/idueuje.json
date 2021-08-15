@@ -1,0 +1,25 @@
+{
+  "id": "idueuje",
+  "category": "sports",
+  "title": "ラ・リーガ　第２節　レバンテｖｓレアル・マドリード",
+  "fullTitle": "ラ・リーガ　第２節　レバンテｖｓレアル・マドリード[二]",
+  "detail": "",
+  "start": 1629696600000,
+  "end": 1629703800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

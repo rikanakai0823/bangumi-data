@@ -1,0 +1,26 @@
+{
+  "id": "iduh003",
+  "category": "cinema",
+  "title": "海峡",
+  "fullTitle": "[映]海峡[字]",
+  "detail": "高倉健・主演。本州と北海道を地中でつなぐ青函トンネルの完成に情熱を燃やした男性と彼の周囲が織り成す多彩な人間模様を重厚なタッチで綴った、壮大なヒューマンドラマ。",
+  "start": 1629695700000,
+  "end": 1629704700000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

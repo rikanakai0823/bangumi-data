@@ -1,0 +1,26 @@
+{
+  "id": "rktf1l3",
+  "category": "music",
+  "title": "KINGDOMWEEK：<NO+>",
+  "fullTitle": "[生]KINGDOMWEEK：<NO+> #7(終)",
+  "detail": "Stray Kidsと過ごす7日間！\r\nKINGDOM : LEGENDARY WAR優勝特典がついに始動！日韓同時放送でお届け！\r\n字幕版：10月放送予定",
+  "start": 1629705600000,
+  "end": 1629712800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": [
+    "生",
+    "終"
+  ]
+}

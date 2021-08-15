@@ -1,0 +1,27 @@
+{
+  "id": "iduh002",
+  "category": "cinema",
+  "title": "４６１個のおべんとう",
+  "fullTitle": "[映]４６１個のおべんとう[SS][字]",
+  "detail": "ヒップホップバンドＴＯＫＹＯ　Ｎｏ．１　ＳＯＵＬ　ＳＥＴの渡辺俊美による実話エッセイを映画化。高校生の息子のため弁当を作り続けるシングルファーザーの奮闘を綴る。",
+  "start": 1629687600000,
+  "end": 1629695700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

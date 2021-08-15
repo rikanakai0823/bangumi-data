@@ -1,0 +1,23 @@
+{
+  "id": "idoznem",
+  "category": "sports",
+  "title": "アニ×パラスペシャル",
+  "fullTitle": "アニ×パラスペシャル「特別拡大版」",
+  "detail": "広瀬アリス、武井壮などの豪華ゲストとアニ×パラを通じ、パラスポーツの奥深さを語り尽くす拡大版！大会直前の選手に直撃！ＬｉＳＡなどアーティストと共に歌でエールを！",
+  "start": 1629703800000,
+  "end": 1629709800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "特別拡大版",
+  "episode": null,
+  "flags": []
+}

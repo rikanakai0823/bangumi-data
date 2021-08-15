@@ -1,0 +1,23 @@
+{
+  "id": "idy8kn4",
+  "category": "cinema",
+  "title": "おおかみこどもの雨と雪",
+  "fullTitle": "おおかみこどもの雨と雪",
+  "detail": "",
+  "start": 1629720000000,
+  "end": 1629727200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

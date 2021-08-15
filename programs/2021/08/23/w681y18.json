@@ -1,0 +1,25 @@
+{
+  "id": "w681y18",
+  "category": "anime",
+  "title": "精霊幻想記",
+  "fullTitle": "精霊幻想記 #07 [字]",
+  "detail": "#07 約束の地",
+  "start": 1629703800000,
+  "end": 1629705600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 130
+  },
+  "subTitle": "約束の地",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

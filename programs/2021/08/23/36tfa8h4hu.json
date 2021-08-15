@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8h4hu",
+  "category": "anime",
+  "title": "トムとジェリー",
+  "fullTitle": "トムとジェリー　＃８[再][二]",
+  "detail": "＃８「悪魔のささやき」「まるでツイていない日」「忍法ネコだまし」",
+  "start": 1629712800000,
+  "end": 1629714600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "悪魔のささやき",
+  "episode": 8,
+  "flags": [
+    "再",
+    "二"
+  ]
+}
