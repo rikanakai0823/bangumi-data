@@ -1,0 +1,26 @@
+{
+  "id": "iduh008",
+  "category": "cinema",
+  "title": "アス（字幕版）[R15+指定]",
+  "fullTitle": "[映]アス（字幕版）[R15+指定][SS]",
+  "detail": "全米初登場でＮｏ．１ヒットを飛ばし、オリジナルホラー映画史上、歴代最高のオープニング興収記録を樹立。「ゲット・アウト」のＪ・ピール監督が再び放つ、戦慄の衝撃作。",
+  "start": 1629737100000,
+  "end": 1629744300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "ゲット・アウト",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

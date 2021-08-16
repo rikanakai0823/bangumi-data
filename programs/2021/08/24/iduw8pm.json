@@ -1,0 +1,25 @@
+{
+  "id": "iduw8pm",
+  "category": "drama",
+  "title": "ステージド　俺たちの舞台、ステイホーム！",
+  "fullTitle": "[初]ステージド　俺たちの舞台、ステイホーム！　＃２",
+  "detail": "【独占日本初放送スタート】",
+  "start": 1629815400000,
+  "end": 1629817200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "独占日本初放送スタート",
+  "episode": 2,
+  "flags": [
+    "初"
+  ]
+}

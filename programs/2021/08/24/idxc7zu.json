@@ -1,0 +1,25 @@
+{
+  "id": "idxc7zu",
+  "category": "variety",
+  "title": "見せます　Mnet　presents",
+  "fullTitle": "[無]第1話見せます　Mnet　presents「MタメBANG！」",
+  "detail": "CS318プレミアムサービス658CH Mnetで毎月第1・第3(日)20:30～放送中！",
+  "start": 1629806400000,
+  "end": 1629808200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "MタメBANG！",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduh00a",
+  "category": "cinema",
+  "title": "太陽の蓋",
+  "fullTitle": "[映]太陽の蓋[字]",
+  "detail": "２０１１年３月の東日本大震災とそれに続いた福島第一原子力発電所の事故を受け、事態の収拾に追われた官邸、被災者たちの５日間を多角的に描いた、社会派ドラマの意欲作。",
+  "start": 1629751500000,
+  "end": 1629759600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

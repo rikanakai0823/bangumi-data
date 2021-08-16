@@ -1,0 +1,27 @@
+{
+  "id": "iduh00e",
+  "category": "cinema",
+  "title": "記憶屋　あなたを忘れない",
+  "fullTitle": "[映]記憶屋　あなたを忘れない[SS][字]",
+  "detail": "Ｈｅｙ！　Ｓａｙ！　ＪＵＭＰの山田涼介主演のヒューマンファンタジー。“記憶屋”に自分のことを忘れさせられてしまった年上の恋人の記憶を取り戻そうと青年は奔走する。",
+  "start": 1629783900000,
+  "end": 1629791100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

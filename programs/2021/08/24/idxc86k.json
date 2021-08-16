@@ -1,0 +1,23 @@
+{
+  "id": "idxc86k",
+  "category": "sports",
+  "title": "Ｊリーグラボ放送100回記念　DAY1",
+  "fullTitle": "【契】Ｊリーグラボ放送100回記念　DAY1",
+  "detail": "Jリーグラボ放送100回を記念して、今までの放送回をアンコールでお届けいたします！",
+  "start": 1629810000000,
+  "end": 1629837000000,
+  "seconds": 27000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

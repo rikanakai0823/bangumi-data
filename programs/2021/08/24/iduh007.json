@@ -1,0 +1,27 @@
+{
+  "id": "iduh007",
+  "category": "cinema",
+  "title": "ウィッチサマー（字幕版）",
+  "fullTitle": "[初][映]ウィッチサマー（字幕版）[SS]",
+  "detail": "夏休みを父の暮らす海辺の町で過ごすことになった１７歳の少年が、隣人の体に憑依した邪悪な魔女の存在を知る。注目の兄弟監督ザ・ピアース・ブラザーズが放つ戦慄ホラー。",
+  "start": 1629730800000,
+  "end": 1629737100000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp3y20",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「再現！こんぴら大芝居」[字]",
+  "detail": "現存する日本最古の芝居小屋である四国の「金丸座」で、江戸時代の昔そのままに歌舞伎を上演した舞台裏のドキュメント。中村吉右衛門、澤村藤十郎の熱演が光る。",
+  "start": 1629796200000,
+  "end": 1629799020000,
+  "seconds": 2820,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "再現！こんぴら大芝居",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
