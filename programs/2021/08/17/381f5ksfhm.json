@@ -1,12 +1,12 @@
 {
   "id": "381f5ksfhm",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "title": "ニュース緊急事態宣言・まん延防止等重点措置で質疑",
+  "fullTitle": "ニュース「中継・衆議院議院運営委員会」緊急事態宣言・まん延防止等重点措置で質疑[字]",
   "detail": "",
   "start": 1629187200000,
-  "end": 1629187500000,
-  "seconds": 300,
+  "end": 1629190200000,
+  "seconds": 3000,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "中継・衆議院議院運営委員会",
   "episode": null,
   "flags": [
     "字"
