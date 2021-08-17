@@ -3,7 +3,7 @@
   "category": "news",
   "title": "ワールドニュース　アメリカ",
   "fullTitle": "ワールドニュース　アメリカ[二]",
-  "detail": "▽アメリカ・ＰＢＳニュースアワー，　アメリカ・ＡＢＣ「ナイトライン」　▽世界の気象",
+  "detail": "▽アメリカ・ＰＢＳニュースアワー　▽世界の気象",
   "start": 1629183600000,
   "end": 1629186540000,
   "seconds": 2940,
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 41
   },
-  "subTitle": "ナイトライン",
+  "subTitle": "",
   "episode": null,
   "flags": [
     "二"
