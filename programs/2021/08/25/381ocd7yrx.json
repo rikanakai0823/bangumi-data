@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7yrx",
+  "category": "information",
+  "title": "イントロ",
+  "fullTitle": "イントロ",
+  "detail": "",
+  "start": 1629820740000,
+  "end": 1629821040000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

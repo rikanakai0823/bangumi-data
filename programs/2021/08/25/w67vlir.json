@@ -1,0 +1,25 @@
+{
+  "id": "w67vlir",
+  "category": "anime",
+  "title": "ポケットモンスター ,111",
+  "fullTitle": "ポケットモンスター[字] #110,111",
+  "detail": "＃１１０「タッグバトル！さいごのジム！」＃１１１「コイキング！しんかのひみつ！」",
+  "start": 1629820800000,
+  "end": 1629824400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "タッグバトル！さいごのジム！",
+  "episode": 110,
+  "flags": [
+    "字"
+  ]
+}

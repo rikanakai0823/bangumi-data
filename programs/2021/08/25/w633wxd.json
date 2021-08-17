@@ -1,0 +1,25 @@
+{
+  "id": "w633wxd",
+  "category": "sports",
+  "title": "プロ野球 阪神×横浜DeNA 8.25",
+  "fullTitle": "[生]プロ野球 阪神×横浜DeNA 8.25",
+  "detail": "阪神×横浜DeNA(8/25試合)\r\n▽生中継/京セラドーム/PB18:00/解説：黒田正宏、実況：村田匡輝、リポーター：桐山隆※時間延長の場合あり",
+  "start": 1629881100000,
+  "end": 1629898200000,
+  "seconds": 17100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

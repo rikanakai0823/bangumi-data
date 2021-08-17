@@ -1,0 +1,26 @@
+{
+  "id": "iduh00r",
+  "category": "cinema",
+  "title": "海へ　Ｓｅｅ　Ｙｏｕ",
+  "fullTitle": "[映]海へ　Ｓｅｅ　Ｙｏｕ[字]",
+  "detail": "高倉健が主演し、「南極物語」の蔵原惟繕監督と組んだロードムービー。世界一過酷なレースと呼ばれる“パリ・ダカールラリー”に参加した人々が織り成す人間模様を描いた。",
+  "start": 1629875700000,
+  "end": 1629886500000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "南極物語",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

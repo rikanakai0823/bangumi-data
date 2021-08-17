@@ -1,0 +1,26 @@
+{
+  "id": "iduwbh3",
+  "category": "cinema",
+  "title": "猿の惑星：新世紀（ライジング）",
+  "fullTitle": "[映][SS]猿の惑星：新世紀（ライジング）",
+  "detail": "『猿の惑星』の前日譚を描いたリブート版第２弾。進化した猿たちと絶滅寸前の人間が、地上の支配者の地位を賭けて戦う。",
+  "start": 1629882900000,
+  "end": 1629891900000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

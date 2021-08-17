@@ -1,0 +1,25 @@
+{
+  "id": "w63ci39",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×千葉ロッテ（札幌ドーム）",
+  "fullTitle": "[生] [プロ野球]北海道日本ハム×千葉ロッテ（札幌ドーム）",
+  "detail": "（延長時、以降の番組変更繰り下げあり）\r\nGAORAプロ野球中継\r\n北海道日本ハム vs 千葉ロッテ\r\n\r\n解説:田中幸雄\r\n実況:近藤祐司\r\n開催：2021年8月25日／札幌ドーム",
+  "start": 1629880200000,
+  "end": 1629898200000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
