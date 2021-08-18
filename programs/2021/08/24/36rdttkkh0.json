@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Cure For Me\"AURORA\r\n\"til the end of time\"almost monday\r\n\"Grow\"SAMM HENSHAW\r\n\"NDA\"BILLIE EILISH\r\n\"Pick Me Up\"SAM FELDT & SAM FISCHER\n◇番組内容２\n\"Memory\"KANE BROWN x blackbear\r\n\"You For Me\"SIGALA feat.RITA ORA\r\n\"Stay\"THE KID LAROI & JUSTIN BIEBER",
   "start": 1629730800000,
   "end": 1629732600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Cure For Me\"AURORA\r\n\"til the end of time\"almost monday\r\n\"Grow\"SAMM HENSHAW\r\n\"NDA\"BILLIE EILISH\r\n\"Pick Me Up\"SAM FELDT & SAM FISCHER",
+    "番組内容２": "\"Memory\"KANE BROWN x blackbear\r\n\"You For Me\"SIGALA feat.RITA ORA\r\n\"Stay\"THE KID LAROI & JUSTIN BIEBER"
   },
   "channel": {
     "type": "GR",

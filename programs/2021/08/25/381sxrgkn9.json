@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "同じもの好きなヤツら",
   "fullTitle": "同じもの好きなヤツら[字]",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/onajimono_20210825/",
   "start": 1629889200000,
   "end": 1629896220000,
   "seconds": 7020,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/onajimono_20210825/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
