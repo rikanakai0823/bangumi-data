@@ -1,9 +1,9 @@
 {
   "id": "idp428o",
   "category": "documentary",
-  "title": "地球トラベラー撮影日誌",
-  "fullTitle": "地球トラベラー撮影日誌",
-  "detail": "",
+  "title": "洋上アルプス撮影日誌",
+  "fullTitle": "洋上アルプス撮影日誌（１）「屋久島　水と岩が育む森」",
+  "detail": "冬の屋久島　水を巡る旅！第１話：豊かな雨が岩の上に育んだこけむす森を訪れ、霧に包まれた幻想的な世界を楽しむ。高さ３００ｍの大岩壁をよじ登るクライミングにも挑戦！",
   "start": 1629669600000,
   "end": 1629670500000,
   "seconds": 900,
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 42
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "屋久島　水と岩が育む森",
+  "episode": 1,
   "flags": []
 }

@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksmnj",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース「横浜市長選　開票速報」[字]",
+  "detail": "",
+  "start": 1629639840000,
+  "end": 1629640800000,
+  "seconds": 960,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "横浜市長選　開票速報",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
