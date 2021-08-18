@@ -1,0 +1,25 @@
+{
+  "id": "idp3z25",
+  "category": "documentary",
+  "title": "ＮＨＫスペシャル",
+  "fullTitle": "ＮＨＫスペシャル「仁淀川～青の神秘～」[字]",
+  "detail": "圧倒的な透明度を誇る清流「仁淀川」。胸を打つような美しい水は「仁淀ブルー」と呼ばれ、水質は日本一。めぐる四季の中、この日本一の清流を源流から河口まで旅する。",
+  "start": 1629940920000,
+  "end": 1629944100000,
+  "seconds": 3180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "仁淀川～青の神秘～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

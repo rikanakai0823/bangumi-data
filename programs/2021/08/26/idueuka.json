@@ -1,0 +1,25 @@
+{
+  "id": "idueuka",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４５５",
+  "detail": "",
+  "start": 1629913500000,
+  "end": 1629914400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 455,
+  "flags": [
+    "無"
+  ]
+}

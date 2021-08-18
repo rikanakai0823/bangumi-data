@@ -1,0 +1,25 @@
+{
+  "id": "w63j12g",
+  "category": "sports",
+  "title": "ジャイアンツフラッシュバック2008",
+  "fullTitle": "ジャイアンツフラッシュバック2008(2)[再]",
+  "detail": "2008年シーズン　６・７月",
+  "start": 1629939600000,
+  "end": 1629946800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

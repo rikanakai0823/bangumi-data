@@ -1,0 +1,25 @@
+{
+  "id": "w67vlkz",
+  "category": "anime",
+  "title": "あひるの空 ,48",
+  "fullTitle": "あひるの空[字] #47,48",
+  "detail": "＃４７「家鴨の空」＃４８「ストレイトストーリー」",
+  "start": 1629982800000,
+  "end": 1629986400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "家鴨の空",
+  "episode": 47,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduh012",
+  "category": "cinema",
+  "title": "あ・うん",
+  "fullTitle": "[映]あ・うん[字]",
+  "detail": "主演・高倉健＆監督・降旗康男という名コンビが向田邦子の原作を映画化。昭和１０年代前半、東京の山の手で男女が織り成す交流をペーソスたっぷりに描いた人間模様ドラマ。",
+  "start": 1629965700000,
+  "end": 1629972900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

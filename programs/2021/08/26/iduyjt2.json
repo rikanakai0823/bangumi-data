@@ -1,0 +1,25 @@
+{
+  "id": "iduyjt2",
+  "category": "cinema",
+  "title": "頭上の敵機",
+  "fullTitle": "[映]頭上の敵機",
+  "detail": "グレゴリー・ペック主演の戦争映画。実話を基に、第二次大戦下のアメリカ空軍部隊で士気高揚に努めた指揮官の孤独な戦いを描く。",
+  "start": 1629970200000,
+  "end": 1629979200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

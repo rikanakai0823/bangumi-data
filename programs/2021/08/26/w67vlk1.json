@@ -1,0 +1,25 @@
+{
+  "id": "w67vlk1",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST ,46",
+  "fullTitle": "鋼の錬金術師 FULLMETAL ALCHEMIST[字] #45,46",
+  "detail": "＃４５「約束の日」＃４６「迫る影」",
+  "start": 1629919800000,
+  "end": 1629923400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "約束の日",
+  "episode": 45,
+  "flags": [
+    "字"
+  ]
+}

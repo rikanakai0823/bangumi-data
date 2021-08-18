@@ -1,0 +1,26 @@
+{
+  "id": "idp3yqe",
+  "category": "hobby",
+  "title": "ニッポンぶらり鉄道旅",
+  "fullTitle": "ニッポンぶらり鉄道旅[解][字]",
+  "detail": "",
+  "start": 1629973800000,
+  "end": 1629975600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

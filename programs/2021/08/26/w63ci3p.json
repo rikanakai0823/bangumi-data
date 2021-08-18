@@ -1,0 +1,25 @@
+{
+  "id": "w63ci3p",
+  "category": "sports",
+  "title": "[プロ野球]阪神×オリックス～ファーム～（阪神鳴尾浜球場）",
+  "fullTitle": "[生] [プロ野球]阪神×オリックス～ファーム～（阪神鳴尾浜球場）",
+  "detail": "（延長時、以降の番組変更繰り下げあり）\r\nGAORAプロ野球中継～ファーム～\r\n阪神 vs オリックス（8.26）\r\n\r\n解説:江草仁貴\r\n実況:三ツ廣政輝\r\n\r\n",
+  "start": 1629948300000,
+  "end": 1629963000000,
+  "seconds": 14700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
