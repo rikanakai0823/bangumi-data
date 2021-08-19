@@ -1,9 +1,9 @@
 {
   "id": "36tfa8h5k1",
   "category": "news",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
-  "detail": " ",
+  "title": "東京都議会中継ダイジェスト",
+  "fullTitle": "東京都議会中継ダイジェスト[デ]",
+  "detail": "「第２回臨時会本会議」",
   "start": 1630029600000,
   "end": 1630040340000,
   "seconds": 10740,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
-  "episode": null,
-  "flags": []
+  "subTitle": "第２回臨時会本会議",
+  "episode": 2,
+  "flags": [
+    "デ"
+  ]
 }
