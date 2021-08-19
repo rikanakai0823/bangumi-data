@@ -1,0 +1,26 @@
+{
+  "id": "w67vlm4",
+  "category": "anime",
+  "title": "あひるの空 ,50",
+  "fullTitle": "あひるの空[字][終] #49,50",
+  "detail": "＃４９「ラスト・ピリオド」＃５０「ブリッジ（終）」",
+  "start": 1630069200000,
+  "end": 1630072800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "ラスト・ピリオド",
+  "episode": 49,
+  "flags": [
+    "字",
+    "終"
+  ]
+}

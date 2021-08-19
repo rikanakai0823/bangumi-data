@@ -1,0 +1,25 @@
+{
+  "id": "idp3z4o",
+  "category": "music",
+  "title": "ザ少年倶楽部　ｉｎ大阪２０２１",
+  "fullTitle": "ザ少年倶楽部　ｉｎ大阪２０２１[字]",
+  "detail": "",
+  "start": 1630054800000,
+  "end": 1630058400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

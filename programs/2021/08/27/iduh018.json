@@ -1,0 +1,26 @@
+{
+  "id": "iduh018",
+  "category": "cinema",
+  "title": "神童",
+  "fullTitle": "[映]神童[字]",
+  "detail": "成海璃子と松山ケンイチが共演。さそうあきらの人気コミックを映画化した感動作。ピアノの天才少女は落ちこぼれの音大受験生との出会いを通じ、音楽の喜びに目覚めていく。",
+  "start": 1630006200000,
+  "end": 1630014300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

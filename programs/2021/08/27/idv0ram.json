@@ -1,0 +1,26 @@
+{
+  "id": "idv0ram",
+  "category": "cinema",
+  "title": "栄光のランナー／１９３６ベルリン",
+  "fullTitle": "[映][SS]栄光のランナー／１９３６ベルリン[吹]",
+  "detail": "米人陸上選手ジェシー・オーエンスが、人種差別と闘いながらナチス政権下のベルリン五輪で４冠を達成する姿を描く。",
+  "start": 1630018200000,
+  "end": 1630026600000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

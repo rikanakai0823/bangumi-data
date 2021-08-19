@@ -1,0 +1,25 @@
+{
+  "id": "idy8kq8",
+  "category": "anime",
+  "title": "ミュータント　タートルズ-40",
+  "fullTitle": "ミュータント　タートルズ#39-40【2話連続】[二]",
+  "detail": "#39「マンハッタン計画　パート１」,#40「マンハッタン計画　パート２」",
+  "start": 1630040400000,
+  "end": 1630044000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "マンハッタン計画　パート１",
+  "episode": 39,
+  "flags": [
+    "二"
+  ]
+}

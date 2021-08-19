@@ -1,0 +1,25 @@
+{
+  "id": "w67vlm2",
+  "category": "anime",
+  "title": "ポケットモンスター ,117",
+  "fullTitle": "ポケットモンスター[字] #116,117",
+  "detail": "＃１１６「マルマインだいばくは！？」＃１１７「かえってきたマサラタウン！」",
+  "start": 1630062000000,
+  "end": 1630065600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 128
+  },
+  "subTitle": "マルマインだいばくは！？",
+  "episode": 116,
+  "flags": [
+    "字"
+  ]
+}

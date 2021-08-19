@@ -1,0 +1,27 @@
+{
+  "id": "iduh017",
+  "category": "cinema",
+  "title": "俺俺",
+  "fullTitle": "[映]俺俺[SS][字]",
+  "detail": "ＫＡＴ－ＴＵＮの亀梨和也が、増殖していく主人公をひとり３３役で演じたコミカルサスペンス。出来心でオレオレ詐欺を働いてしまった青年を襲う不条理な体験を綴る。",
+  "start": 1629999000000,
+  "end": 1630006200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

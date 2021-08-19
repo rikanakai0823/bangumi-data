@@ -1,0 +1,23 @@
+{
+  "id": "w698ioe",
+  "category": "news",
+  "title": "アジアビジネスレポート",
+  "fullTitle": "[英]アジアビジネスレポート",
+  "detail": "シンガポールのスタジオよりお届けするアジアに特化したビジネス情報番組。アジアの各マーケットの最新の株式市場情報など、有益なビジネス・金融情報をお伝えする。",
+  "start": 1630027800000,
+  "end": 1630028700000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

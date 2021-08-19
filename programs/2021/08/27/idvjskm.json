@@ -1,0 +1,25 @@
+{
+  "id": "idvjskm",
+  "category": "anime",
+  "title": "スーパーウィングス",
+  "fullTitle": "[二]スーパーウィングス　＃22",
+  "detail": "第43話「モコモコ・トラブル発生」\r\n第44話「恐竜ロボット・パーク」",
+  "start": 1630054800000,
+  "end": 1630056600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 65
+  },
+  "subTitle": "モコモコ・トラブル発生",
+  "episode": 22,
+  "flags": [
+    "二"
+  ]
+}

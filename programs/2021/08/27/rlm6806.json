@@ -1,0 +1,23 @@
+{
+  "id": "rlm6806",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第101回 天皇杯 ラウンド16 京都×浦和",
+  "detail": "天皇杯 JFA 第101回全日本サッカー選手権大会 ラウンド16\r\n京都サンガF.C.×浦和レッズ",
+  "start": 1629997200000,
+  "end": 1630006200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 142
+  },
+  "subTitle": "天皇杯 ラウンド16 京都×浦和",
+  "episode": 101,
+  "flags": []
+}

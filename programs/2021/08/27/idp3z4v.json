@@ -1,0 +1,25 @@
+{
+  "id": "idp3z4v",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「大地の母　山」[字]",
+  "detail": "天空の大絶景「山」。タイムラプスやドローンを駆使して３０００メートル級の山の壮大な自然美に迫る！北アルプスの燕岳、地蔵ヶ岳のオベリスク、奇勝・妙義山の奥の院。",
+  "start": 1630060200000,
+  "end": 1630062000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "大地の母　山",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

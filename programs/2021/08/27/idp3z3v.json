@@ -1,0 +1,26 @@
+{
+  "id": "idp3z3v",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「立山　地獄・極楽めぐり」[字][再]",
+  "detail": "富山県の東部に連なる立山連峰。一度登れば極楽往生できると、江戸時代には大勢の参拝者を集めた。登山客が集い始める初夏、立山信仰を今に伝える麓の集落の物語。",
+  "start": 1630018800000,
+  "end": 1630022400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "立山　地獄・極楽めぐり",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

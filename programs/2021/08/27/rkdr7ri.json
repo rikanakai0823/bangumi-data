@@ -1,0 +1,23 @@
+{
+  "id": "rkdr7ri",
+  "category": "information",
+  "title": "ファッションスペシャル！",
+  "fullTitle": "ファッションスペシャル！",
+  "detail": "ファッション／フレッシュ！フラッシュ！ファッションデイ／バイヤーおすすめのフレッシュなブランドが一堂に。新しいお気に入りと出会えます！",
+  "start": 1630008000000,
+  "end": 1630011600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

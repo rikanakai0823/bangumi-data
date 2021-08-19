@@ -1,0 +1,23 @@
+{
+  "id": "idozrar",
+  "category": "sports",
+  "title": "東京２０２０パラリンピック",
+  "fullTitle": "東京２０２０パラリンピック",
+  "detail": "",
+  "start": 1630030200000,
+  "end": 1630044000000,
+  "seconds": 13800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
