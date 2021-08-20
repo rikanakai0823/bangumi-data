@@ -1,12 +1,12 @@
 {
   "id": "idozrap",
   "category": "sports",
-  "title": "東京２０２０パラリンピック",
-  "fullTitle": "東京２０２０パラリンピック",
-  "detail": "",
-  "start": 1629982800000,
+  "title": "東京２０２０パラリンピック◇車いすラグビー　予選リーグ",
+  "fullTitle": "東京２０２０パラリンピック◇車いすラグビー　予選リーグ「カナダ×アメリカ」",
+  "detail": "◇車いすラグビー　予選リーグ　グループＢ「カナダ×アメリカ」（録画）",
+  "start": 1629983400000,
   "end": 1629990000000,
-  "seconds": 7200,
+  "seconds": 6600,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "カナダ×アメリカ",
   "episode": null,
   "flags": []
 }

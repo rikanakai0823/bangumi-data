@@ -1,12 +1,12 @@
 {
   "id": "idozral",
   "category": "sports",
-  "title": "東京２０２０パラリンピック",
-  "fullTitle": "東京２０２０パラリンピック",
-  "detail": "",
-  "start": 1629896400000,
+  "title": "東京２０２０パラリンピック◇車いすラグビー　予選",
+  "fullTitle": "東京２０２０パラリンピック◇車いすラグビー　予選「オーストラリア×デンマーク」",
+  "detail": "◇車いすラグビー　予選リーグ　グループＡ「オーストラリア×デンマーク」（録画）",
+  "start": 1629897000000,
   "end": 1629903600000,
-  "seconds": 7200,
+  "seconds": 6600,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "オーストラリア×デンマーク",
   "episode": null,
   "flags": []
 }
