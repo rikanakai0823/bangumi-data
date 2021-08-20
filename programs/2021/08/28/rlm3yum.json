@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yum",
+  "category": "sports",
+  "title": "UFC NOW",
+  "fullTitle": "UFC NOW #2",
+  "detail": "名勝負を厳選してお届け！",
+  "start": 1630083600000,
+  "end": 1630087200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}

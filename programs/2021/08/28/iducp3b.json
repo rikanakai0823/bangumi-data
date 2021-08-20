@@ -1,0 +1,27 @@
+{
+  "id": "iducp3b",
+  "category": "cinema",
+  "title": "マチネの終わりに",
+  "fullTitle": "[映]マチネの終わりに[SS][字]",
+  "detail": "福山雅治の主演で、芥川賞作家・平野啓一郎の小説を映画化したラブストーリー。運命的に出会った、天才ギタリスト（福山）と女性ジャーナリスト（石田ゆり子）の恋を描く。",
+  "start": 1630162500000,
+  "end": 1630170300000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

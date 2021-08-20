@@ -1,0 +1,25 @@
+{
+  "id": "idx1s7s",
+  "category": "anime",
+  "title": "キングダム",
+  "fullTitle": "[字]キングダム #1",
+  "detail": "#1「無名の少年」\r\n紀元前、中国。西方の国・秦で、戦災孤児として暮らしていた2人の少年、信と漂の夢は、いつか戦で武…",
+  "start": 1630094400000,
+  "end": 1630098000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 69
+  },
+  "subTitle": "無名の少年",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

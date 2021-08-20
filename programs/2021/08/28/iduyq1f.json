@@ -1,0 +1,25 @@
+{
+  "id": "iduyq1f",
+  "category": "cinema",
+  "title": "赤い砂漠",
+  "fullTitle": "[映]赤い砂漠",
+  "detail": "ミケランジェロ・アントニオーニ監督の心理ドラマ。高度成長時代のイタリアの港町で、孤独から不倫に走る人妻の心情を描く。",
+  "start": 1630138500000,
+  "end": 1630145700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

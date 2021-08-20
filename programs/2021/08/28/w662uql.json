@@ -1,0 +1,25 @@
+{
+  "id": "w662uql",
+  "category": "sports",
+  "title": "THE ICE 2021",
+  "fullTitle": "【多】THE ICE 2021",
+  "detail": "出演:宇野昌磨　ほか\r\n※会場音のみ／実況解説ありの音声切り替えができます",
+  "start": 1630148400000,
+  "end": 1630152000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

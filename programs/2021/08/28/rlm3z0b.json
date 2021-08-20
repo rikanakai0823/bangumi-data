@@ -1,0 +1,25 @@
+{
+  "id": "rlm3z0b",
+  "category": "sports",
+  "title": "プロ野球中継2021 中日vs.巨人",
+  "fullTitle": "[生]プロ野球中継2021 中日vs.巨人",
+  "detail": "＜開催＞2021年8月28日（土）バンテリンドーム ナゴヤ\r\n＜解説＞谷沢健一　＜実況＞小田島卓生\r\n＜リポーター＞下嶋兄",
+  "start": 1630126200000,
+  "end": 1630144800000,
+  "seconds": 18600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

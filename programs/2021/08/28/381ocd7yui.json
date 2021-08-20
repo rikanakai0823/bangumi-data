@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7yui",
+  "category": "drama",
+  "title": "土曜ドラマ今夜放送から追いつけるＳＰ",
+  "fullTitle": "土曜ドラマ「ボイスⅡ」今夜放送第６話から追いつけるＳＰ[字]",
+  "detail": "",
+  "start": 1630134000000,
+  "end": 1630137600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "ボイスⅡ",
+  "episode": 6,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduwkpo",
+  "category": "cinema",
+  "title": "ポール・マッカートニー／ゲット・バック",
+  "fullTitle": "[映]ポール・マッカートニー／ゲット・バック【特集：ザ・ビートルズ】",
+  "detail": "１９８９年にノルウェーから始まったポール・マッカートニーのワールドツアーの模様を収めたライブドキュメンタリー。",
+  "start": 1630130400000,
+  "end": 1630136700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "特集：ザ・ビートルズ",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

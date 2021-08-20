@@ -1,0 +1,25 @@
+{
+  "id": "w66h24f",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE　東京ヤクルト×横浜DeNA",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE　東京ヤクルト×横浜DeNA",
+  "detail": "「東京ヤクルト vs 横浜DeNA」\r\n＜開催＞2021年8月28日（土）【生中継】\r\n　～東京ドーム\r\n＜解説＞若松勉　＜実況＞向坂樹興\r\n※変更の場合あり",
+  "start": 1630126200000,
+  "end": 1630144800000,
+  "seconds": 18600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 112
+  },
+  "subTitle": "東京ヤクルト vs 横浜DeNA",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

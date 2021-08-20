@@ -1,0 +1,23 @@
+{
+  "id": "idt5lyc",
+  "category": "sports",
+  "title": "ウイニング競馬　～新潟～",
+  "fullTitle": "ウイニング競馬　～新潟～",
+  "detail": "【新潟】10Ｒ長岡Ｓ、11ＲＢＳＮ賞（Ｌ）\r\n【小倉】11Ｒ釜山Ｓ\r\n【札幌】10Ｒ摩周湖特別、11ＲオホーツクＳ",
+  "start": 1630128600000,
+  "end": 1630134000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 53
+  },
+  "subTitle": "新潟",
+  "episode": null,
+  "flags": []
+}
