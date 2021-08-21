@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksn68",
+  "id": "381f5ksnzm",
   "category": "etc",
-  "title": "セレクション",
-  "fullTitle": "セレクション",
+  "title": "このあとすぐ",
+  "fullTitle": "このあとすぐ【深夜のイッキ見！まつり】",
   "detail": "",
-  "start": 1629996660000,
-  "end": 1630006500000,
-  "seconds": 9840,
+  "start": 1629905940000,
+  "end": 1629906000000,
+  "seconds": 60,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "深夜のイッキ見！まつり",
   "episode": null,
   "flags": []
 }
