@@ -1,0 +1,26 @@
+{
+  "id": "idv0vta",
+  "category": "cinema",
+  "title": "パージ",
+  "fullTitle": "[映][SS]パージ[吹]",
+  "detail": "イーサン・ホーク主演のサバイバルホラー。年に一晩だけ犯罪が合法となる夜、暴徒に襲われた一家の戦いを描く。［Ｒ１５＋］",
+  "start": 1630167000000,
+  "end": 1630172400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

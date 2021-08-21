@@ -1,0 +1,26 @@
+{
+  "id": "iduytat",
+  "category": "cinema",
+  "title": "ある戦争",
+  "fullTitle": "[映][SS]ある戦争",
+  "detail": "トビアス・リンホルム監督の人間ドラマ。戦争の不条理に翻弄された兵士とその家族の悲劇を、ドキュメンタリータッチで描く。",
+  "start": 1630230300000,
+  "end": 1630238400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

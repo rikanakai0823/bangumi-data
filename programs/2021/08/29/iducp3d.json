@@ -1,0 +1,26 @@
+{
+  "id": "iducp3d",
+  "category": "cinema",
+  "title": "バトルランナー（吹替版）",
+  "fullTitle": "[映]バトルランナー（吹替版）[字]",
+  "detail": "Ａ・シュワルツェネッガー主演の近未来ＳＦアクション。無実の罪で投獄された主人公は、命を懸けて殺人者から逃げる残虐なＴＶ番組《ランニング・マン》に出場させられる。",
+  "start": 1630177800000,
+  "end": 1630184100000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

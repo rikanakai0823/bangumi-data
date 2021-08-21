@@ -1,0 +1,23 @@
+{
+  "id": "idskdm2",
+  "category": "etc",
+  "title": "クロージング",
+  "fullTitle": "クロージング",
+  "detail": "",
+  "start": 1630173600000,
+  "end": 1630173660000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

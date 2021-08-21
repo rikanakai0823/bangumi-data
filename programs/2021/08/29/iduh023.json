@@ -1,0 +1,26 @@
+{
+  "id": "iduh023",
+  "category": "cinema",
+  "title": "ワールド・ウォーＺ（字幕版）",
+  "fullTitle": "[映]ワールド・ウォーＺ（字幕版）[SS]",
+  "detail": "Ｍ・ブルックスのベストセラー小説をもとに、人類を滅亡へと導く謎のウイルスの拡大を防ぐべく奔走する元国連捜査官の主人公をＢ・ピットが熱演する、戦慄のパニック大作。",
+  "start": 1630206900000,
+  "end": 1630214100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

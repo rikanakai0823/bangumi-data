@@ -1,0 +1,25 @@
+{
+  "id": "w68im42",
+  "category": "documentary",
+  "title": "【一挙放送】メキシコの大自然",
+  "fullTitle": "【一挙放送】【地球ものがたり】メキシコの大自然(二)",
+  "detail": "一挙放送\r\nメキシコに生息する珍しい動物を紹介。草食のクモやケンプヒメウミガメ、アホロテトカゲなどが登場する。",
+  "start": 1630180800000,
+  "end": 1630184400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "アニマルプラネット",
+    "id": "f0dx",
+    "sid": 341,
+    "nid": 7,
+    "hasLogoData": false,
+    "n": 133
+  },
+  "subTitle": "地球ものがたり",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

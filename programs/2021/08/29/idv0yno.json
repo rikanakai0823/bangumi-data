@@ -1,0 +1,27 @@
+{
+  "id": "idv0yno",
+  "category": "cinema",
+  "title": "【最新作】イエスタデイ（２０１９）",
+  "fullTitle": "【最新作】[映][SS][字]イエスタデイ（２０１９）[吹]【吹替メガヒット９】",
+  "detail": "【吹替メガヒット９】",
+  "start": 1630238400000,
+  "end": 1630246200000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "吹替メガヒット９",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduyqqk",
+  "category": "cinema",
+  "title": "シャーク・イン・ベニス",
+  "fullTitle": "[映]シャーク・イン・ベニス",
+  "detail": "ヴェネチアを舞台にしたパニック。人喰いザメの恐怖が迫る中、大学講師が隠された財宝を巡って窃盗団と対決。［ＰＧ１２相当］",
+  "start": 1630171200000,
+  "end": 1630177800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
