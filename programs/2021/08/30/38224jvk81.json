@@ -1,0 +1,25 @@
+{
+  "id": "38224jvk81",
+  "category": "sports",
+  "title": "東京パラリンピック　みどころ",
+  "fullTitle": "東京パラリンピック　みどころ[字]",
+  "detail": "松岡修造、寺川綾、内田篤人らテレビ朝日スポーツキャスターが、注目の選手をご紹介！競技の見どころをお伝えします。",
+  "start": 1630332600000,
+  "end": 1630332900000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

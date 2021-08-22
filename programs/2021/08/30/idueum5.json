@@ -1,0 +1,27 @@
+{
+  "id": "idueum5",
+  "category": "sports",
+  "title": "ラ・リーガ　第３節　アトレティコ・マドリードｖｓビジャレアル",
+  "fullTitle": "[初][生]ラ・リーガ　第３節　アトレティコ・マドリードｖｓビジャレアル[二]",
+  "detail": "",
+  "start": 1630266300000,
+  "end": 1630275000000,
+  "seconds": 8700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生",
+    "二"
+  ]
+}

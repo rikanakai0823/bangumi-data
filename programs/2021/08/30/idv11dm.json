@@ -1,0 +1,25 @@
+{
+  "id": "idv11dm",
+  "category": "cinema",
+  "title": "スケアリーストーリーズ　怖い本",
+  "fullTitle": "[映]スケアリーストーリーズ　怖い本[吹]",
+  "detail": "ギレルモ・デル・トロ製作のホラー。少女が幽霊屋敷から持ち帰った本に書かれている通りに、子どもたちが次々と姿を消してゆく。",
+  "start": 1630305000000,
+  "end": 1630312200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

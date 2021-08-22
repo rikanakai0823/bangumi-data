@@ -1,0 +1,23 @@
+{
+  "id": "rktf1q4",
+  "category": "music",
+  "title": "M COUNTDOWN バックステージ",
+  "fullTitle": "M COUNTDOWN バックステージ",
+  "detail": "出演：ASTRO、THE BOYZ、Golden Child、ONFほか\r\n【2021年8月12日M COUNTDOWN】\r\n再：(月)12:00（木)17:00（土)深4:00",
+  "start": 1630292400000,
+  "end": 1630296000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": false,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

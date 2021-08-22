@@ -1,0 +1,25 @@
+{
+  "id": "idy8kt6",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#42[二]",
+  "detail": "#42「ストックマンの孤独な変化」",
+  "start": 1630301400000,
+  "end": 1630303200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ストックマンの孤独な変化",
+  "episode": 42,
+  "flags": [
+    "二"
+  ]
+}

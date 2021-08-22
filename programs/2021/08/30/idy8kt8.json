@@ -1,0 +1,25 @@
+{
+  "id": "idy8kt8",
+  "category": "anime",
+  "title": "アウルハウス",
+  "fullTitle": "アウルハウス#15[二]",
+  "detail": "#15「ウィローの記憶」",
+  "start": 1630305000000,
+  "end": 1630306800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "ウィローの記憶",
+  "episode": 15,
+  "flags": [
+    "二"
+  ]
+}

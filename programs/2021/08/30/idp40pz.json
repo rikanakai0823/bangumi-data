@@ -1,0 +1,23 @@
+{
+  "id": "idp40pz",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「白山麓（ろく）夏紀行」",
+  "detail": "",
+  "start": 1630265400000,
+  "end": 1630267200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "白山麓（ろく）夏紀行",
+  "episode": null,
+  "flags": []
+}
