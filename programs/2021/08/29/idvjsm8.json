@@ -2,8 +2,8 @@
   "id": "idvjsm8",
   "category": "anime",
   "title": "現実主義勇者の王国再建記",
-  "fullTitle": "現実主義勇者の王国再建記　＃09",
-  "detail": "",
+  "fullTitle": "現実主義勇者の王国再建記　＃09「縦横、成らず」",
+  "detail": "ソーマはついに三公との会議を開き、最後通告を出す。自分に従うか、さもなくば戦か。エクセルは恭順を示したが、残るゲオルグとカストールは戦いの道を選ぶ。",
   "start": 1630168200000,
   "end": 1630170000000,
   "seconds": 1800,
@@ -14,10 +14,10 @@
     "id": "8ksz",
     "sid": 211,
     "nid": 4,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 65
   },
-  "subTitle": "",
+  "subTitle": "縦横、成らず",
   "episode": 9,
   "flags": []
 }

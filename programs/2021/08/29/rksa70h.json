@@ -1,0 +1,25 @@
+{
+  "id": "rksa70h",
+  "category": "sports",
+  "title": "水泳クラブ世界一決定戦 ISL2021 第2戦 1日目",
+  "fullTitle": "[生]水泳クラブ世界一決定戦 ISL2021 第2戦 1日目",
+  "detail": "（内容未定）",
+  "start": 1630166400000,
+  "end": 1630174500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

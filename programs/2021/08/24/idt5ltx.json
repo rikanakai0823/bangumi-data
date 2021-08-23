@@ -2,7 +2,7 @@
   "id": "idt5ltx",
   "category": "news",
   "title": "モーサテ",
-  "fullTitle": "モーサテ",
+  "fullTitle": "モーサテ【世界の中銀が気候変動対策】",
   "detail": "世界の経済ニュースやマーケットの情報をいち早くお伝えします！",
   "start": 1629751500000,
   "end": 1629756300000,
@@ -14,10 +14,10 @@
     "id": "8krv",
     "sid": 171,
     "nid": 4,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 53
   },
-  "subTitle": "",
+  "subTitle": "世界の中銀が気候変動対策",
   "episode": null,
   "flags": []
 }

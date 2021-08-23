@@ -3,7 +3,7 @@
   "category": "sports",
   "title": "2021 FORMULA 1　第12戦ベルギーGP 決勝",
   "fullTitle": "2021 FORMULA 1　第12戦ベルギーGP 決勝",
-  "detail": "＜開催＞2021年8月29日（日）【再放送】\r\n　～スパ フランコルシャン\r\n※第2音声：会場音\r\n※変更の場合あり",
+  "detail": "＜開催＞2021年8月29日【再放送】\r\n　～スパ フランコルシャン\r\n＜解説＞森脇基恭　川井一仁\r\n＜実況＞西岡孝洋\r\n※第2音声：会場音\r\n※変更の場合あり",
   "start": 1630325400000,
   "end": 1630338600000,
   "seconds": 13200,
@@ -14,7 +14,7 @@
     "id": "f0d1",
     "sid": 309,
     "nid": 7,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 114
   },
   "subTitle": "再放送",

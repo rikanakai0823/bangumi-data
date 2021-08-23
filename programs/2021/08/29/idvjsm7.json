@@ -2,7 +2,7 @@
   "id": "idvjsm7",
   "category": "anime",
   "title": "かげきしょうじょ!!　第九幕",
-  "fullTitle": "かげきしょうじょ!!　第九幕",
+  "fullTitle": "かげきしょうじょ!!　第九幕「ふたりのジュリエット」",
   "detail": "",
   "start": 1630166400000,
   "end": 1630168200000,
@@ -14,10 +14,10 @@
     "id": "8ksz",
     "sid": 211,
     "nid": 4,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 65
   },
-  "subTitle": "",
+  "subTitle": "ふたりのジュリエット",
   "episode": null,
   "flags": []
 }
