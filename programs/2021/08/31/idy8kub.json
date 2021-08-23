@@ -1,0 +1,25 @@
+{
+  "id": "idy8kub",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#44[二]",
+  "detail": "#44「ピザフェイスの悪夢」",
+  "start": 1630387800000,
+  "end": 1630389600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ピザフェイスの悪夢",
+  "episode": 44,
+  "flags": [
+    "二"
+  ]
+}

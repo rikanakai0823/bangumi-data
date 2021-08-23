@@ -1,0 +1,25 @@
+{
+  "id": "idozrbm",
+  "category": "sports",
+  "title": "東京２０２０パラリンピック◇ボッチャ　個人　ＢＣ１・準々決勝ほか",
+  "fullTitle": "東京２０２０パラリンピック◇ボッチャ　個人　ＢＣ１・準々決勝ほか[字]",
+  "detail": "◇ボッチャ　個人　ＢＣ１・準々決勝、個人　ＢＣ２・準決勝（中継）",
+  "start": 1630392900000,
+  "end": 1630402200000,
+  "seconds": 9300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

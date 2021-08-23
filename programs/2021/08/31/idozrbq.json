@@ -1,0 +1,23 @@
+{
+  "id": "idozrbq",
+  "category": "sports",
+  "title": "東京２０２０パラリンピック◇陸上　男子１５００ｍ　Ｔ１１・決勝ほか（中継）",
+  "fullTitle": "東京２０２０パラリンピック◇陸上　男子１５００ｍ　Ｔ１１・決勝ほか（中継）",
+  "detail": "◇陸上　男子１５００ｍ　Ｔ１１・決勝、女子１００ｍ　Ｔ１３・予選、男子１５００ｍ　Ｔ５４・決勝ほか（中継）",
+  "start": 1630368000000,
+  "end": 1630380600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

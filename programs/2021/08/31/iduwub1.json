@@ -1,0 +1,26 @@
+{
+  "id": "iduwub1",
+  "category": "cinema",
+  "title": "ザ・ビートルズ EIGHT DAYS A WEEK",
+  "fullTitle": "[映][SS]ザ・ビートルズ EIGHT DAYS A WEEK",
+  "detail": "【特集：ザ・ビートルズ】",
+  "start": 1630395900000,
+  "end": 1630403100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "特集：ザ・ビートルズ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

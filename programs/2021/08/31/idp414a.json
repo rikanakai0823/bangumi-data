@@ -1,0 +1,25 @@
+{
+  "id": "idp414a",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「小椋佳の世界」[字]",
+  "detail": "「シクラメンのかほり」で知られるシンガーソングライター小椋佳。銀行員でありながら歌手としての活動を両立させて実現した初めてのコンサートのドキュメント。",
+  "start": 1630401000000,
+  "end": 1630404000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "小椋佳の世界",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

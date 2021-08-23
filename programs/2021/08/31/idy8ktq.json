@@ -1,0 +1,25 @@
+{
+  "id": "idy8ktq",
+  "category": "drama",
+  "title": "スイート・ライフ　オン・クルーズ",
+  "fullTitle": "スイート・ライフ　オン・クルーズ#44[二]",
+  "detail": "#44「魔法のランプ」",
+  "start": 1630348200000,
+  "end": 1630350000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "魔法のランプ",
+  "episode": 44,
+  "flags": [
+    "二"
+  ]
+}

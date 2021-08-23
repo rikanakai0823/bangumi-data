@@ -1,0 +1,25 @@
+{
+  "id": "idy8kud",
+  "category": "anime",
+  "title": "アウルハウス",
+  "fullTitle": "アウルハウス#17[二]",
+  "detail": "#17「スポーツで対決！」",
+  "start": 1630391400000,
+  "end": 1630393200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "スポーツで対決！",
+  "episode": 17,
+  "flags": [
+    "二"
+  ]
+}

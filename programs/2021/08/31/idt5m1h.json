@@ -1,0 +1,25 @@
+{
+  "id": "idt5m1h",
+  "category": "music",
+  "title": "プレイバック日本歌手協会歌謡祭",
+  "fullTitle": "プレイバック日本歌手協会歌謡祭[字]",
+  "detail": "「日本歌手協会歌謡祭」名曲＆懐かしの名場面を一挙放送！",
+  "start": 1630400280000,
+  "end": 1630403640000,
+  "seconds": 3360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "日本歌手協会歌謡祭",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

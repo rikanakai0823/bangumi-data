@@ -1,0 +1,23 @@
+{
+  "id": "idp43jo",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「９月号」",
+  "detail": "",
+  "start": 1630375740000,
+  "end": 1630376100000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "９月号",
+  "episode": null,
+  "flags": []
+}

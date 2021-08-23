@@ -1,0 +1,23 @@
+{
+  "id": "rlm683r",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第3節 ケルン×ボーフム",
+  "fullTitle": "21/22 ブンデスリーガ 第3節 ケルン×ボーフム",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年8月28日\r\n会場:ラインエネルギー シュタディオン",
+  "start": 1630342800000,
+  "end": 1630351800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
