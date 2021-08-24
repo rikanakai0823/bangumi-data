@@ -1,0 +1,25 @@
+{
+  "id": "rkunk7a",
+  "category": "hobby",
+  "title": "ペッパピッグ#125,#126[字/日英]",
+  "fullTitle": "ペッパピッグ#125,#126[二][字/日英]",
+  "detail": "#125「つきりょこう」　#126「グランパとこうえんへ」",
+  "start": 1630450800000,
+  "end": 1630451700000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "つきりょこう",
+  "episode": 125,
+  "flags": [
+    "二"
+  ]
+}

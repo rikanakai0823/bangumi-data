@@ -1,0 +1,25 @@
+{
+  "id": "idx1sam",
+  "category": "anime",
+  "title": "七つの大罪 ,6",
+  "fullTitle": "[字]七つの大罪 #5,6",
+  "detail": "#5「たとえあなたが死んでも」\r\n#6「はじまりの詩」\r\n王女エリザベスはたった一人国を離れ、ある者たちを探す旅にでた。…",
+  "start": 1630450800000,
+  "end": 1630454400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "たとえあなたが死んでも",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rkunk7l",
+  "category": "hobby",
+  "title": "ペッパピッグ#5,#6[字/日英]",
+  "fullTitle": "ペッパピッグ#5,#6[二][字/日英]",
+  "detail": "#5「ダイナソーはどこ？」　#6「おかいもの」",
+  "start": 1630468800000,
+  "end": 1630469700000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ダイナソーはどこ？",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

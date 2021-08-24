@@ -1,0 +1,23 @@
+{
+  "id": "idozre0",
+  "category": "sports",
+  "title": "東京２０２０パラリンピック◇シッティングバレーボール　女子中継",
+  "fullTitle": "東京２０２０パラリンピック◇シッティングバレーボール　女子「日本×カナダ」中継",
+  "detail": "◇シッティングバレーボール　女子・予選リーグ　グループＡ「日本×カナダ」（中継）",
+  "start": 1630495200000,
+  "end": 1630501200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "日本×カナダ",
+  "episode": null,
+  "flags": []
+}

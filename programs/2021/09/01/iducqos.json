@@ -1,0 +1,27 @@
+{
+  "id": "iducqos",
+  "category": "cinema",
+  "title": "カリートの道（吹替版）",
+  "fullTitle": "[映]カリートの道（吹替版）[SS][字]",
+  "detail": "名優Ａ・パチーノが「スカーフェイス」のＢ・デ・パルマ監督と再び組み、老いたＮＹギャングの凄絶な生きざまを演じきった男泣きハードバイオレンスロマン。Ｓ・ペン共演。",
+  "start": 1630468800000,
+  "end": 1630477800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "スカーフェイス",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

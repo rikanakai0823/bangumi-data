@@ -1,0 +1,25 @@
+{
+  "id": "idrd9mu",
+  "category": "sports",
+  "title": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２１　～京セラドーム",
+  "fullTitle": "[デ]ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２１　「巨人×ヤクルト」～京セラドーム",
+  "detail": "",
+  "start": 1630486800000,
+  "end": 1630497240000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "巨人×ヤクルト",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}

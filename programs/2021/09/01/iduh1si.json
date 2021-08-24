@@ -1,0 +1,27 @@
+{
+  "id": "iduh1si",
+  "category": "cinema",
+  "title": "星の子",
+  "fullTitle": "[映]星の子[SS][字]",
+  "detail": "芦田愛菜、永瀬正敏、原田知世、岡田将生らが豪華共演し、今村夏子の同名ベストセラー小説を大森立嗣監督が映画化。両親が新興宗教を信じる中学３年生の少女の運命は……。",
+  "start": 1630497600000,
+  "end": 1630504800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

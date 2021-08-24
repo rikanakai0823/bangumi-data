@@ -1,0 +1,25 @@
+{
+  "id": "rlm3ywv",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2021～ファーム～ 西武vs.日本ハム",
+  "fullTitle": "[生]LIONS プロ野球中継2021～ファーム～ 西武vs.日本ハム",
+  "detail": "▽9月1日開催\r\n実況：深澤慶\r\n開催日時：2021年9月1日 (水) 13:00\r\n会場：CAR3219フィールド（カーミニークフィールド）",
+  "start": 1630468500000,
+  "end": 1630485000000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv15aw",
+  "category": "cinema",
+  "title": "天地創造ノーカットレーザーディスク版",
+  "fullTitle": "[映]天地創造[吹]ノーカットレーザーディスク版",
+  "detail": "旧約聖書の「アダムとイヴ」「ノアの箱船」「バベルの塔」などの有名エピソードを壮大なスケールで描く超大作。",
+  "start": 1630426800000,
+  "end": 1630437600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

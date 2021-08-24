@@ -1,0 +1,25 @@
+{
+  "id": "idx1sau",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "#546「まる子、大根に学ぶ」の巻／「幸福行きのキップ」の巻\r\n静岡県清水市に住む小学3年生のももこは、みんなから“ま…",
+  "start": 1630477800000,
+  "end": 1630479600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "まる子、大根に学ぶ",
+  "episode": 546,
+  "flags": [
+    "字"
+  ]
+}
