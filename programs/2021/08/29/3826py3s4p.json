@@ -3,10 +3,14 @@
   "category": "information",
   "title": "７コレ　Ｓｕｎｄａｙ",
   "fullTitle": "７コレ　Ｓｕｎｄａｙ",
-  "detail": "テレ東の旬の話題をお届け。ここでしか見られないインタビューや番組をもっと楽しめる情報をお届けします!!",
+  "detail": "9/3(金)公開『リョーマ!The　Prince　of　Tennis　新生劇場版テニスの王子様』公式応援団の四千頭身が映画の魅力を語る！今夜6:30「THEカラオケ★バトル」みどころ\n◇出演者\n福田典子(テレビ東京アナウンサー)",
   "start": 1630182000000,
   "end": 1630182600000,
   "seconds": 600,
+  "description": "9/3(金)公開『リョーマ!The　Prince　of　Tennis　新生劇場版テニスの王子様』公式応援団の四千頭身が映画の魅力を語る！今夜6:30「THEカラオケ★バトル」みどころ",
+  "extra": {
+    "出演者": "福田典子(テレビ東京アナウンサー)"
+  },
   "channel": {
     "type": "GR",
     "channel": "23",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 26
   },
-  "subTitle": "",
+  "subTitle": "THEカラオケ★バトル",
   "episode": null,
   "flags": []
 }
