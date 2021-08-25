@@ -1,0 +1,26 @@
+{
+  "id": "iducqpq",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]洋楽ＢＲＥＡＫ　＃４５６",
+  "detail": "",
+  "start": 1630590600000,
+  "end": 1630591200000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 456,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

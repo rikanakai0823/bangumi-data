@@ -1,0 +1,25 @@
+{
+  "id": "rkunk8q",
+  "category": "hobby",
+  "title": "ペッパピッグ#127,#128[字/日英]",
+  "fullTitle": "ペッパピッグ#127,#128[二][字/日英]",
+  "detail": "#127「きんぎょのゴールディ」　#128「ゆうえんち」",
+  "start": 1630537200000,
+  "end": 1630538100000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "きんぎょのゴールディ",
+  "episode": 127,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w67t7xn",
+  "category": "information",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "この時間は、ショッピング情報をお送りしております。",
+  "start": 1630567800000,
+  "end": 1630569600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 127
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

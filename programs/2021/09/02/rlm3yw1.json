@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yw1",
+  "category": "sports",
+  "title": "21/22 ドイツ ブンデスリーガ ハイライト",
+  "fullTitle": "21/22 ドイツ ブンデスリーガ ハイライト #3",
+  "detail": "その節に行われたブンデスリーガの試合のハイライトを凝縮してお届け！",
+  "start": 1630508400000,
+  "end": 1630512000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iducqp8",
+  "category": "cinema",
+  "title": "海辺のエトランゼ[PG12指定]",
+  "fullTitle": "[映]海辺のエトランゼ[PG12指定][SS][字]",
+  "detail": "ボーイズラブに特化したアニメレーベル“ＢＬＵＥ　ＬＹＮＸ”の第３弾。紀伊カンナのコミックを原作に、沖縄の離島を舞台にした小説家の卵と年下の少年との恋模様を綴る。",
+  "start": 1630521000000,
+  "end": 1630524600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

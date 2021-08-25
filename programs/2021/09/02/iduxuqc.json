@@ -1,0 +1,25 @@
+{
+  "id": "iduxuqc",
+  "category": "cinema",
+  "title": "ビッグ・アメリカン",
+  "fullTitle": "[映]ビッグ・アメリカン",
+  "detail": "ポール・ニューマン主演の異色西部劇。ガンマンとして名を馳せたバッファロー・ビルは、開拓時代終焉後に興行師として活躍する。",
+  "start": 1630584000000,
+  "end": 1630592100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

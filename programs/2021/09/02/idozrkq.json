@@ -1,0 +1,23 @@
+{
+  "id": "idozrkq",
+  "category": "sports",
+  "title": "東京２０２０パラリンピック◇車いすテニス（中継）",
+  "fullTitle": "東京２０２０パラリンピック◇車いすテニス（中継）",
+  "detail": "◇車いすテニス（中継）",
+  "start": 1630552500000,
+  "end": 1630573200000,
+  "seconds": 20700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

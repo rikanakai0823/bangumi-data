@@ -1,0 +1,25 @@
+{
+  "id": "rkunk94",
+  "category": "hobby",
+  "title": "ミッキーマウス　クラブハウス[字/日英]",
+  "fullTitle": "ミッキーマウス　クラブハウス#4[二][字/日英]",
+  "detail": "今日は、待ちに待った気球レースの日。優勝して大きな青いリボンを手にしたいドナルドをミッキー達が応援する。",
+  "start": 1630558800000,
+  "end": 1630560600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": [
+    "二"
+  ]
+}

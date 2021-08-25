@@ -1,0 +1,23 @@
+{
+  "id": "w63ci8h",
+  "category": "sports",
+  "title": "[プロ野球]阪神×中日（阪神甲子園球場）",
+  "fullTitle": "[プロ野球]阪神×中日（阪神甲子園球場）",
+  "detail": "GAORAプロ野球中継\r\n「阪神 vs 中日」\r\n解説:川相昌弘\r\n実況:中井雅之\r\nリポーター:桐山隆\r\n開催：2021年9月2日／阪神甲子園球場",
+  "start": 1630589400000,
+  "end": 1630605600000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

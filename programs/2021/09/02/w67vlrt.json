@@ -1,0 +1,25 @@
+{
+  "id": "w67vlrt",
+  "category": "anime",
+  "title": "ポケットモンスター ,123",
+  "fullTitle": "ポケットモンスター[字] #122,123",
+  "detail": "＃１２２「ドンファンのたに！」＃１２３「ホーホーとあやしいもり！」",
+  "start": 1630512000000,
+  "end": 1630515600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ドンファンのたに！",
+  "episode": 122,
+  "flags": [
+    "字"
+  ]
+}

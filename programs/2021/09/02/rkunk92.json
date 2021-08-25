@@ -1,0 +1,25 @@
+{
+  "id": "rkunk92",
+  "category": "hobby",
+  "title": "ヘイ！ダギー#7,#8[字/日英]",
+  "fullTitle": "ヘイ！ダギー#7,#8[二][字/日英]",
+  "detail": "#7「ダギーの　ジャムバッジ」　#8「ダギーの　たからさがしバッジ」",
+  "start": 1630556100000,
+  "end": 1630557000000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ダギーの　ジャムバッジ",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}
