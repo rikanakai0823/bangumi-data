@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "スイモクちゃんねる",
   "fullTitle": "スイモクちゃんねる",
-  "detail": "",
+  "detail": "◇制作\n2021年",
   "start": 1630504800000,
   "end": 1630508040000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2021年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
