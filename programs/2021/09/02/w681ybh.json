@@ -1,9 +1,9 @@
 {
   "id": "w681ybh",
   "category": "anime",
-  "title": "TSUKIPRO THE ANIMATION 2",
-  "fullTitle": "TSUKIPRO THE ANIMATION 2 #09 [字]",
-  "detail": "",
+  "title": "TSUKIPRO THE ANIMATION セレクション",
+  "fullTitle": "TSUKIPRO THE ANIMATION セレクション #01",
+  "detail": "この時間は「『TSUKIPRO THE ANIMATION 2』セレクション1」を放送いたします。",
   "start": 1630584000000,
   "end": 1630585800000,
   "seconds": 1800,
@@ -17,9 +17,7 @@
     "hasLogoData": true,
     "n": 130
   },
-  "subTitle": "",
-  "episode": 9,
-  "flags": [
-    "字"
-  ]
+  "subTitle": "『TSUKIPRO THE ANIMATION 2』セレクション1",
+  "episode": 1,
+  "flags": []
 }
