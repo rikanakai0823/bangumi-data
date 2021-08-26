@@ -1,0 +1,25 @@
+{
+  "id": "idy8kyh",
+  "category": "anime",
+  "title": "ベイマックス　ザ・シリーズ",
+  "fullTitle": "ベイマックス　ザ・シリーズ#2[二]",
+  "detail": "#2「新しいルームメイト」",
+  "start": 1630648800000,
+  "end": 1630650600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "新しいルームメイト",
+  "episode": 2,
+  "flags": [
+    "二"
+  ]
+}

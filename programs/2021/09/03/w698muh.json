@@ -1,0 +1,25 @@
+{
+  "id": "w698muh",
+  "category": "news",
+  "title": "ウェザー・ワールド",
+  "fullTitle": "ウェザー・ワールド(再)",
+  "detail": "ニック・ミラーとサラ・キース＝ルーカスが、近年の環境災害は、世界の気候変動への取り組みの転換点となるのかを問う。",
+  "start": 1630654200000,
+  "end": 1630656000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

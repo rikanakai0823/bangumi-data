@@ -1,0 +1,23 @@
+{
+  "id": "idp434i",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「埼玉　秩父巡礼路」",
+  "detail": "",
+  "start": 1630606200000,
+  "end": 1630608000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "埼玉　秩父巡礼路",
+  "episode": null,
+  "flags": []
+}

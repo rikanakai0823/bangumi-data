@@ -1,0 +1,23 @@
+{
+  "id": "idrfevz",
+  "category": "music",
+  "title": "最新曲研究所",
+  "fullTitle": "最新曲研究所",
+  "detail": "",
+  "start": 1630647000000,
+  "end": 1630650600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63j16o",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～京セラドーム～",
+  "fullTitle": "DRAMATIC BASEBALL2021「巨人×ヤクルト」～京セラドーム～[再]",
+  "detail": "２０２１年９月２日開催\r\n解説：高橋由伸\r\n実況：平川健太郎",
+  "start": 1630613700000,
+  "end": 1630628100000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×ヤクルト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduh1t5",
+  "category": "cinema",
+  "title": "ＲＯＯＫＩＥＳ－卒業－",
+  "fullTitle": "[映]ＲＯＯＫＩＥＳ－卒業－[SS][字]",
+  "detail": "人気ＴＶドラマの完結編である劇場版にして、２００９年興行収入第１位のヒット作。ケンカの代わりに野球の楽しさを知った不良生徒たちが、夢の甲子園を目指して熱くなる！",
+  "start": 1630654200000,
+  "end": 1630663200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

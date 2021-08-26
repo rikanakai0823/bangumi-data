@@ -1,0 +1,26 @@
+{
+  "id": "idtr69f",
+  "category": "news",
+  "title": "ＢＳフジＬＩＶＥプライムニュース",
+  "fullTitle": "[生][デ]ＢＳフジＬＩＶＥプライムニュース",
+  "detail": "一つのテーマを二時間徹底議論！問題の解決策を見つけ出し、提言する。◆４Ｋ制作番組",
+  "start": 1630666800000,
+  "end": 1630673700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

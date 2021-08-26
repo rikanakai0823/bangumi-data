@@ -1,0 +1,25 @@
+{
+  "id": "w63j16x",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～甲子園～",
+  "fullTitle": "[生]DRAMATIC BASEBALL2021「阪神×巨人」～甲子園～",
+  "detail": "～生中継\r\n*雨天の場合、放送休止・早終了の可能性あり\r\n*試合終了まで放送",
+  "start": 1630658700000,
+  "end": 1630674000000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "阪神×巨人",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp42ai",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「松山」[字][再]",
+  "detail": "俳都と呼ばれる松山。正岡子規や夏目漱石が愛した道後の湯に松山鮓。夏、全国の高校生が集結し、俳句甲子園で五・七・五の言葉バトルを繰り広げる。（２０１９年放送）",
+  "start": 1630623600000,
+  "end": 1630627200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "松山",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3826py3scc",
+  "category": "sports",
+  "title": "東京パラリンピック　ハイライト",
+  "fullTitle": "東京パラリンピック　ハイライト[字]",
+  "detail": "８月２４日から開幕中の東京パラリンピック。１３日間にわたり２２競技が開催される。２５０人を超える日本選手団の大会での模様を連日速報として伝える。",
+  "start": 1630623300000,
+  "end": 1630623600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

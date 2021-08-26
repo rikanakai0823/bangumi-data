@@ -1,0 +1,26 @@
+{
+  "id": "idp42aa",
+  "category": "documentary",
+  "title": "命巡る海　知床　シャチの楽園",
+  "fullTitle": "命巡る海　知床　シャチの楽園[字][再]",
+  "detail": "世界自然遺産・北海道知床。この海には毎年たくさんの生きものがやってくる。移ろう季節の中で様々な生きものたちが織りなす命のドラマを、圧倒的な映像美で克明に描く。",
+  "start": 1630600800000,
+  "end": 1630606200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

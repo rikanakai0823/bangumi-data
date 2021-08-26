@@ -1,0 +1,27 @@
+{
+  "id": "iduh1t1",
+  "category": "cinema",
+  "title": "ストロボ・エッジ",
+  "fullTitle": "[映]ストロボ・エッジ[SS][字]",
+  "detail": "福士蒼汰と有村架純共演の純愛ストーリー。学校一の人気を集めるイケメン男子に恋をした女子高生。彼に恋人がいることを承知で想い続ける彼女の片想いは実るのか。",
+  "start": 1630627200000,
+  "end": 1630634400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

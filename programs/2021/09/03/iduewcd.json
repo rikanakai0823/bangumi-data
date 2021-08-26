@@ -1,0 +1,26 @@
+{
+  "id": "iduewcd",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]邦楽ＢＲＥＡＫ　＃６９３",
+  "detail": "",
+  "start": 1630680300000,
+  "end": 1630680900000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 693,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

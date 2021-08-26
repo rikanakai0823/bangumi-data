@@ -1,0 +1,25 @@
+{
+  "id": "w67vlt1",
+  "category": "anime",
+  "title": "ポケットモンスター ,125",
+  "fullTitle": "ポケットモンスター[字] #124,125",
+  "detail": "＃１２４「キレイハナのバトルダンシング！」＃１２５「イトマル！だいそうさせん！！」",
+  "start": 1630598400000,
+  "end": 1630602000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "キレイハナのバトルダンシング！",
+  "episode": 124,
+  "flags": [
+    "字"
+  ]
+}

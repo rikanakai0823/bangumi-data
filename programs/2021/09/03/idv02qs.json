@@ -1,0 +1,26 @@
+{
+  "id": "idv02qs",
+  "category": "cinema",
+  "title": "赦しのちから",
+  "fullTitle": "[映][SS]赦しのちから[吹]",
+  "detail": "アレックス・ケンドリック監督・主演のスポーツドラマ。クロスカントリー部のコーチになった男が自身の生きる意味を見つめ直す。",
+  "start": 1630656000000,
+  "end": 1630663800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
