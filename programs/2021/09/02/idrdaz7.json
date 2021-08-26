@@ -1,9 +1,9 @@
 {
   "id": "idrdaz7",
   "category": "anime",
-  "title": "アニメ",
-  "fullTitle": "アニメ",
-  "detail": "",
+  "title": "アニメ　ＴＳＵＫＩＰＲＯ　ＴＨＥ　ＡＮＩＭＡＴＩＯＮ",
+  "fullTitle": "アニメ　ＴＳＵＫＩＰＲＯ　ＴＨＥ　ＡＮＩＭＡＴＩＯＮ　第１話",
+  "detail": "第1話 桜花爛漫",
   "start": 1630510200000,
   "end": 1630512000000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 44
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "桜花爛漫",
+  "episode": 1,
   "flags": []
 }
