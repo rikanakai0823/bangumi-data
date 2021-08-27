@@ -2,7 +2,7 @@
   "id": "381jqz0gyv",
   "category": "hobby",
   "title": "オハ！よ～いどん",
-  "fullTitle": "オハ！よ～いどん",
+  "fullTitle": "オハ！よ～いどん[字]",
   "detail": "",
   "start": 1630618800000,
   "end": 1630619400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
