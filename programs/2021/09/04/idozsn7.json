@@ -1,0 +1,25 @@
+{
+  "id": "idozsn7",
+  "category": "sports",
+  "title": "東京２０２０パラリンピック◇バドミントン　決勝（中継）",
+  "fullTitle": "東京２０２０パラリンピック◇バドミントン　決勝（中継）[字]",
+  "detail": "◇バドミントン　決勝（中継）",
+  "start": 1630736400000,
+  "end": 1630756800000,
+  "seconds": 20400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rkniev1",
+  "category": "information",
+  "title": "【無料】番組案内",
+  "fullTitle": "【無料】番組案内",
+  "detail": "「衛星劇場」最新情報、お勧め作品をご紹介いたします。",
+  "start": 1630750500000,
+  "end": 1630751400000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "衛星劇場",
+    "id": "cv4r",
+    "sid": 219,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 92
+  },
+  "subTitle": "衛星劇場",
+  "episode": null,
+  "flags": []
+}

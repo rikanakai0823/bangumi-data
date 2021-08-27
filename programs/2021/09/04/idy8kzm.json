@@ -1,0 +1,26 @@
+{
+  "id": "idy8kzm",
+  "category": "anime",
+  "title": "セイディ・スパークス ★日本初放送！",
+  "fullTitle": "[新]セイディ・スパークス #1[二]★日本初放送！",
+  "detail": "#1「ありのままの私／スピードを求めて」",
+  "start": 1630720800000,
+  "end": 1630722600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ありのままの私／スピードを求めて",
+  "episode": 1,
+  "flags": [
+    "新",
+    "二"
+  ]
+}

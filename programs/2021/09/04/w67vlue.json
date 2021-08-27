@@ -1,0 +1,25 @@
+{
+  "id": "w67vlue",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST ,60",
+  "fullTitle": "鋼の錬金術師 FULLMETAL ALCHEMIST[字] #59,60",
+  "detail": "＃５９「失われた光」＃６０「天の瞳、地の扉」",
+  "start": 1630697400000,
+  "end": 1630701000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "失われた光",
+  "episode": 59,
+  "flags": [
+    "字"
+  ]
+}

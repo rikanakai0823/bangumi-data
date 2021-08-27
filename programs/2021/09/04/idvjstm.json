@@ -1,0 +1,23 @@
+{
+  "id": "idvjstm",
+  "category": "etc",
+  "title": "土曜セレクション",
+  "fullTitle": "土曜セレクション",
+  "detail": "",
+  "start": 1630747800000,
+  "end": 1630749000000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

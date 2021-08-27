@@ -1,0 +1,23 @@
+{
+  "id": "idt5m7q",
+  "category": "sports",
+  "title": "ゴルフ５レディス",
+  "fullTitle": "ゴルフ５レディス",
+  "detail": "東京五輪銀メダリスト稲見萌寧、前年優勝小祝さくらなど実力者が勢ぞろい！熱戦の模様を生放送でお届けします。",
+  "start": 1630738800000,
+  "end": 1630742400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

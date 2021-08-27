@@ -1,0 +1,26 @@
+{
+  "id": "idvjstg",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【新潟】５Ｒ～８Ｒ\r\n【小倉】５Ｒ～８Ｒ，９Ｒ「別府特別」",
+  "start": 1630724400000,
+  "end": 1630733400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "新潟",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

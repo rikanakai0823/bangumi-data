@@ -1,0 +1,23 @@
+{
+  "id": "rlm3yzy",
+  "category": "sports",
+  "title": "GAMBA FAMiLY",
+  "fullTitle": "GAMBA FAMiLY #82",
+  "detail": "ガンバ大阪を愛する全ての人へ、今回は東口選手が登場。さらに活動休止後、ホーム開幕戦となったアビスパ福岡戦に密着。",
+  "start": 1630693800000,
+  "end": 1630695600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 82,
+  "flags": []
+}

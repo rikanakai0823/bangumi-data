@@ -1,0 +1,25 @@
+{
+  "id": "rkunkbo",
+  "category": "hobby",
+  "title": "ペッパピッグ#95-#98[字/日英]",
+  "fullTitle": "ペッパピッグ#95-#98[二][字/日英]",
+  "detail": "#95「ペンパル」　#96「けんか」　#97「オモチャのとだな」　#98「みんなでキャンプ」",
+  "start": 1630758600000,
+  "end": 1630760400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ペンパル",
+  "episode": 95,
+  "flags": [
+    "二"
+  ]
+}

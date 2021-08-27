@@ -1,0 +1,27 @@
+{
+  "id": "idv06bk",
+  "category": "cinema",
+  "title": "キングスマン",
+  "fullTitle": "[映][SS][字]キングスマン[吹]",
+  "detail": "『キック・アス』の監督＆原作者が放つ痛快スパイアクション。英国紳士が強靭な肉体と奇抜な武器で脅威に挑む。［Ｒ１５＋］",
+  "start": 1630762800000,
+  "end": 1630771200000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

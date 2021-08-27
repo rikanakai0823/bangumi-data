@@ -1,0 +1,23 @@
+{
+  "id": "idxc89i",
+  "category": "sports",
+  "title": "【PPS】WWE PPV大会「サマースラム」",
+  "fullTitle": "【PPS】WWE PPV大会「サマースラム」【日本語字幕版】",
+  "detail": "世界最大のスポーツエンターテインメント、WWE。",
+  "start": 1630730400000,
+  "end": 1630745400000,
+  "seconds": 15000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "日本語字幕版",
+  "episode": null,
+  "flags": []
+}

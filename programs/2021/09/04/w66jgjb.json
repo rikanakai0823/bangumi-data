@@ -1,0 +1,25 @@
+{
+  "id": "w66jgjb",
+  "category": "sports",
+  "title": "49th フジサンケイクラシック　第3日 トップ中継",
+  "fullTitle": "[生]49th フジサンケイクラシック　第3日 トップ中継",
+  "detail": "チャンピオンシップ 第3日　トップ中継\r\n＜解説＞細川和彦プロ　＜ラウンド解説＞佐藤信人プロ\r\n＜ゼネラルプロデューサー＞戸張捷\r\n＜実況＞谷岡慎一　【生中継】",
+  "start": 1630724400000,
+  "end": 1630733100000,
+  "seconds": 8700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

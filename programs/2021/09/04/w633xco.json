@@ -1,0 +1,25 @@
+{
+  "id": "w633xco",
+  "category": "variety",
+  "title": "お笑いLIVE",
+  "fullTitle": "[初]お笑いLIVE　第13回 東京03 単独公演 「図星中の図星」",
+  "detail": "第13回 東京03 単独公演 「図星中の図星」▽コント界屈指の実力と人気を誇る東京03の単独公演をお届け！",
+  "start": 1630726200000,
+  "end": 1630733400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "東京03 単独公演",
+  "episode": 13,
+  "flags": [
+    "初"
+  ]
+}

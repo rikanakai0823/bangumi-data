@@ -1,0 +1,27 @@
+{
+  "id": "idv05ts",
+  "category": "cinema",
+  "title": "天使と悪魔［エクステンデッド版］",
+  "fullTitle": "[映][SS][字]天使と悪魔［エクステンデッド版］[吹]",
+  "detail": "トム・ハンクス主演の大ヒット作『ダ・ヴィンチ・コード』の続編。劇場公開版より約８分長い［エクステンデッド版］。",
+  "start": 1630738800000,
+  "end": 1630747800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
