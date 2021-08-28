@@ -1,0 +1,26 @@
+{
+  "id": "iducqr4",
+  "category": "cinema",
+  "title": "柳生一族の陰謀",
+  "fullTitle": "[映]柳生一族の陰謀[字]",
+  "detail": "この時間は予定を変更し、千葉真一さん追悼番組として「柳生一族の陰謀」を放送します。「Ｅ．Ｔ．」は、１０月２日１１：００から放送いたします。",
+  "start": 1630802700000,
+  "end": 1630810800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

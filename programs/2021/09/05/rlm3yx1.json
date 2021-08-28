@@ -1,0 +1,26 @@
+{
+  "id": "rlm3yx1",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.オリックス",
+  "fullTitle": "[無][生]HAWKS プロ野球中継2021 ソフトバンクvs.オリックス",
+  "detail": "無料放送。どなたでもご覧頂けます\r\n▽9月5日開催\r\n解説/実況：池田親興/信川竜太\r\n開催日時：2021年9月5日 (日) 13:00\r\n会場：福岡PayPayドーム",
+  "start": 1630813500000,
+  "end": 1630831800000,
+  "seconds": 18300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w69b13f",
+  "category": "news",
+  "title": "ステート・オブ・ザ・ユニオン",
+  "fullTitle": "[二]ステート・オブ・ザ・ユニオン",
+  "detail": "日本語同時通訳付。\r\nCNNアンカーのジェイク・タッパーとダナ・バッシュが、大物政治家へのインタビューなどを交え、1週間の米政局を徹底検証。",
+  "start": 1630846800000,
+  "end": 1630850400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

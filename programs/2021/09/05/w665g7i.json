@@ -1,0 +1,25 @@
+{
+  "id": "w665g7i",
+  "category": "etc",
+  "title": "インフォメーション",
+  "fullTitle": "[無料]インフォメーション",
+  "detail": "番組からのお知らせ",
+  "start": 1630790700000,
+  "end": 1630791600000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "エンタメ～テレ",
+    "id": "f0ct",
+    "sid": 301,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 110
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

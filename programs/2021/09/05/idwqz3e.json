@@ -1,0 +1,23 @@
+{
+  "id": "idwqz3e",
+  "category": "hobby",
+  "title": "特別番組",
+  "fullTitle": "特別番組",
+  "detail": "「放送大学　学び方ガイダンス」",
+  "start": 1630810800000,
+  "end": 1630813500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "放送大学　学び方ガイダンス",
+  "episode": null,
+  "flags": []
+}

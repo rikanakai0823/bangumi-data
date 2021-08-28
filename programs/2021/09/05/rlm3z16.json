@@ -1,0 +1,25 @@
+{
+  "id": "rlm3z16",
+  "category": "sports",
+  "title": "UFC CLASSICS～PRIDE×UFCスターファイター対決",
+  "fullTitle": "[無]UFC CLASSICS～PRIDE×UFCスターファイター対決",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n今回はPRIDEとUFCのスターファイターたち同士の対決を特集。",
+  "start": 1630783800000,
+  "end": 1630787400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7z0y",
+  "category": "sports",
+  "title": "東京パラリンピック",
+  "fullTitle": "東京パラリンピック「車いすバスケットボール　ハイライト」[字]",
+  "detail": "",
+  "start": 1630826700000,
+  "end": 1630830300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "車いすバスケットボール　ハイライト",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduy1bh",
+  "category": "cinema",
+  "title": "クロッシング",
+  "fullTitle": "[映][SS]クロッシング",
+  "detail": "リチャード・ギア主演の犯罪ドラマ。危険と隣り合わせの日常を送る警官たちの苦悩を緊張感溢れるタッチで描く。［Ｒ１５＋］",
+  "start": 1630770300000,
+  "end": 1630778400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

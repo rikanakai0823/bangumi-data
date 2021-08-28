@@ -1,0 +1,25 @@
+{
+  "id": "rksa701",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2021 WRESTLE GRAND SLAM in MetLife Dome",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2021 WRESTLE GRAND SLAM in MetLife Dome",
+  "detail": "新日本プロレス７年ぶりの埼玉・メットライフドーム大会！IWGP世界ヘビー級王者・鷹木信悟からEVILが王座強奪を狙う！大荒れ必至のスタジアム決戦！\r\n※延長の場合あり",
+  "start": 1630821600000,
+  "end": 1630834200000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

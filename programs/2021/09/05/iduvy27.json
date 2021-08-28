@@ -1,0 +1,26 @@
+{
+  "id": "iduvy27",
+  "category": "anime",
+  "title": "ミニオンズ",
+  "fullTitle": "[映][SS]ミニオンズ",
+  "detail": "大ヒットアニメ『怪盗グルー』シリーズのスピンオフ。人気キャラクターのミニオンを主役に、彼らの知られざる過去と冒険を描く。",
+  "start": 1630797300000,
+  "end": 1630803600000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

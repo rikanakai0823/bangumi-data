@@ -1,0 +1,26 @@
+{
+  "id": "idy8l1e",
+  "category": "anime",
+  "title": "ふしぎの国　アンフィビア",
+  "fullTitle": "[無]ふしぎの国　アンフィビア#4[二]",
+  "detail": "#4「秘密のペット／怪しい島」",
+  "start": 1630846800000,
+  "end": 1630848600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "秘密のペット／怪しい島",
+  "episode": 4,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

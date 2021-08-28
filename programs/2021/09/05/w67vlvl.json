@@ -1,0 +1,26 @@
+{
+  "id": "w67vlvl",
+  "category": "etc",
+  "title": "劇場版",
+  "fullTitle": "[無]劇場版「それいけ！アンパンマン　おむすびまん」[字]",
+  "detail": "自由な旅人「おむすびまん」。今日も一人で気ままな一人旅。ところがその先にはたぬきおにの罠が・・・。",
+  "start": 1630800000000,
+  "end": 1630801920000,
+  "seconds": 1920,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "それいけ！アンパンマン　おむすびまん",
+  "episode": null,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

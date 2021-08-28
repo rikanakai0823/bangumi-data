@@ -1,0 +1,26 @@
+{
+  "id": "idy8l0g",
+  "category": "drama",
+  "title": "ハーレーはド真ん中",
+  "fullTitle": "[無]ハーレーはド真ん中#36[二]",
+  "detail": "#36「ハワイ旅行大作戦！」",
+  "start": 1630782000000,
+  "end": 1630783800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ハワイ旅行大作戦！",
+  "episode": 36,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

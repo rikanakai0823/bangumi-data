@@ -1,0 +1,26 @@
+{
+  "id": "381jqz0hzt",
+  "category": "anime",
+  "title": "アニメ　きかんしゃトーマス",
+  "fullTitle": "アニメ　きかんしゃトーマス[二][字]",
+  "detail": "",
+  "start": 1630830600000,
+  "end": 1630831800000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

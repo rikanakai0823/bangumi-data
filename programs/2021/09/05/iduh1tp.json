@@ -1,0 +1,26 @@
+{
+  "id": "iduh1tp",
+  "category": "cinema",
+  "title": "ＨＥＲＯ（２００２）（字幕版）",
+  "fullTitle": "[映]ＨＥＲＯ（２００２）（字幕版）[SS]",
+  "detail": "チャン・イーモウ監督がＪ・リー、Ｔ・レオン、Ｍ・チャンら、アジアのそうそうたる人気スターを一堂に取りそろえ、華麗な音と映像で綴った話題のスペクタクル歴史劇巨編。",
+  "start": 1630803600000,
+  "end": 1630810200000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

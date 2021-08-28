@@ -1,0 +1,26 @@
+{
+  "id": "idy8l17",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "[無]ミッキーマウス！#32[二]",
+  "detail": "#32「おやつはホドホドに」",
+  "start": 1630830300000,
+  "end": 1630830600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "おやつはホドホドに",
+  "episode": 32,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

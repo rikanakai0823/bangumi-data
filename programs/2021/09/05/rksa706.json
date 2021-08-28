@@ -1,0 +1,26 @@
+{
+  "id": "rksa706",
+  "category": "variety",
+  "title": "水曜どうでしょうClassic",
+  "fullTitle": "[無料][新]水曜どうでしょうClassic #1「サイコロ１」",
+  "detail": "#1「サイコロ１」\r\n出演者：鈴井貴之、大泉洋\r\n北海道テレビ：2004年7月14日放送\r\n伝説の最強ローカルバラエティ!!",
+  "start": 1630843200000,
+  "end": 1630845000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "サイコロ１",
+  "episode": 1,
+  "flags": [
+    "無",
+    "新"
+  ]
+}

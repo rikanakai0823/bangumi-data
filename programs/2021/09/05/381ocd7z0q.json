@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7z0q",
+  "category": "sports",
+  "title": "東京パラリンピック",
+  "fullTitle": "東京パラリンピック「車いすバスケットボール男子３位決定戦」[字]",
+  "detail": "※最大延長５０分",
+  "start": 1630803300000,
+  "end": 1630810500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "車いすバスケットボール男子３位決定戦",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

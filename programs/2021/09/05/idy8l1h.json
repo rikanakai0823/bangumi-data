@@ -1,0 +1,26 @@
+{
+  "id": "idy8l1h",
+  "category": "drama",
+  "title": "ファスト・レイン",
+  "fullTitle": "[無]ファスト・レイン#2[二]",
+  "detail": "#2「運転手、始めます」",
+  "start": 1630852200000,
+  "end": 1630854000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "運転手、始めます",
+  "episode": 2,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

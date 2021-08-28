@@ -1,0 +1,23 @@
+{
+  "id": "idvjsv0",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "ＧⅢ『新潟記念』（新潟）とＧⅢ『小倉２歳ステークス』（小倉）の振り返りを中心に、当日の中央競馬レース結果をお伝えします。",
+  "start": 1630850400000,
+  "end": 1630852200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
