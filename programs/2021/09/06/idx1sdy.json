@@ -1,0 +1,25 @@
+{
+  "id": "idx1sdy",
+  "category": "anime",
+  "title": "ルパン三世(PART2) ベストセレクション",
+  "fullTitle": "[字]ルパン三世(PART2) ベストセレクション",
+  "detail": "#45「殺しはワインの匂い」\r\n#46「ルパンお高く売ります」\r\nルパン一味が日本から脱出して5年。世界に散っていたルパン…",
+  "start": 1630872000000,
+  "end": 1630875600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "殺しはワインの匂い",
+  "episode": 45,
+  "flags": [
+    "字"
+  ]
+}

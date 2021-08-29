@@ -1,0 +1,26 @@
+{
+  "id": "idy8l1l",
+  "category": "anime",
+  "title": "マーベル　スパイダーマン",
+  "fullTitle": "[無]マーベル　スパイダーマン#25[二]",
+  "detail": "#25「ホブゴブリン　パート１」",
+  "start": 1630859400000,
+  "end": 1630861200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ホブゴブリン　パート１",
+  "episode": 25,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

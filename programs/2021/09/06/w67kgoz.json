@@ -1,0 +1,25 @@
+{
+  "id": "w67kgoz",
+  "category": "music",
+  "title": "M-ON! SPECIAL",
+  "fullTitle": "[無]M-ON! SPECIAL 「ジェニーハイ」",
+  "detail": "9/1(水)に2ndフルアルバム『ジェニースター』を発売するジェニーハイ。これを記念して、エムオン!オリジナル番組を放送！",
+  "start": 1630855800000,
+  "end": 1630857600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "ジェニーハイ",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

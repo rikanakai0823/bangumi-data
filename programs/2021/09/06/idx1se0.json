@@ -1,0 +1,25 @@
+{
+  "id": "idx1se0",
+  "category": "anime",
+  "title": "ぼのぼの 傑作選",
+  "fullTitle": "[字]ぼのぼの 傑作選",
+  "detail": "#241「イケケさんとボボイさんがきた」\r\n#242「ふたりの歌」\r\n#243「クモモの森が心配してる」\r\n#244「さあ、うたおう！…",
+  "start": 1630877400000,
+  "end": 1630879200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "イケケさんとボボイさんがきた",
+  "episode": 241,
+  "flags": [
+    "字"
+  ]
+}

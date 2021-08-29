@@ -1,0 +1,25 @@
+{
+  "id": "iduy6jg",
+  "category": "cinema",
+  "title": "シャンドライの恋",
+  "fullTitle": "[映]シャンドライの恋",
+  "detail": "ベルナルド・ベルトルッチ監督のラブロマンス。ローマを舞台に、亡命したアフリカ人女性とイギリス人ピアニストの愛を綴る。",
+  "start": 1630891200000,
+  "end": 1630897200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

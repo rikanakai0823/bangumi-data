@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8h6b3",
+  "category": "anime",
+  "title": "トムとジェリー",
+  "fullTitle": "トムとジェリー　＃１０[再][二]",
+  "detail": "＃１０「天国と地獄」「おめでたいアヒル」「素敵なおさがり」",
+  "start": 1630922400000,
+  "end": 1630924200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "天国と地獄",
+  "episode": 10,
+  "flags": [
+    "再",
+    "二"
+  ]
+}

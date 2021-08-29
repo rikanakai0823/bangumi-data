@@ -1,0 +1,25 @@
+{
+  "id": "w693tfc",
+  "category": "news",
+  "title": "【無料】ミッドナイトニュース",
+  "fullTitle": "【無料】ミッドナイトニュース[字]",
+  "detail": "▽国内外の最新ニュース、トピックスやトレンド、お天気情報　▽速報は“ブレイキングニュース”",
+  "start": 1630857600000,
+  "end": 1630868400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm3z2h",
+  "category": "sports",
+  "title": "UFC UNLEASHED",
+  "fullTitle": "UFC UNLEASHED #4",
+  "detail": "名勝負を厳選してお届け！",
+  "start": 1630929600000,
+  "end": 1630933200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}

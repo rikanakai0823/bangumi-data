@@ -1,0 +1,25 @@
+{
+  "id": "w67vlx2",
+  "category": "anime",
+  "title": "ポケットモンスター ,129",
+  "fullTitle": "ポケットモンスター[字] #128,129",
+  "detail": "＃１２８「いじっぱりのチコリータ！」＃１２９「ヌオーとＧＳボール！？」",
+  "start": 1630926000000,
+  "end": 1630929600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "いじっぱりのチコリータ！",
+  "episode": 128,
+  "flags": [
+    "字"
+  ]
+}

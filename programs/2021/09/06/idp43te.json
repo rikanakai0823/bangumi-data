@@ -1,0 +1,25 @@
+{
+  "id": "idp43te",
+  "category": "documentary",
+  "title": "にっぽん百名山ミニ　３ｍｉｎ",
+  "fullTitle": "にっぽん百名山ミニ　３ｍｉｎ「夏　立山」[字]",
+  "detail": "北アルプスの立山（雄山３００３ｍ）は日本を代表する霊峰、１３００年前に開山され人々の信仰を集めてきた。ミヤマリンドウなどの高山植物やライチョウの親子とも出会う！",
+  "start": 1630939260000,
+  "end": 1630939500000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "夏　立山",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
