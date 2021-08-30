@@ -1,0 +1,25 @@
+{
+  "id": "w662v2z",
+  "category": "music",
+  "title": "まねきケチャ結成６周年記念公演『６周年だよ！まねきケチャ』",
+  "fullTitle": "【生】まねきケチャ結成６周年記念公演『６周年だよ！まねきケチャ』",
+  "detail": "まねきケチャ結成6周年記念公演『6周年だよ!まねきケチャ』を日テレプラスで生放送!!\r\n\r\n公演:2021年9月4日(土)18:00～ TOKYO DOME CITY HALL",
+  "start": 1630746000000,
+  "end": 1630756800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
