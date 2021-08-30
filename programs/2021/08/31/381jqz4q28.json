@@ -1,0 +1,25 @@
+{
+  "id": "381jqz4q28",
+  "category": "sports",
+  "title": "東京２０２０パラリンピック",
+  "fullTitle": "東京２０２０パラリンピック[字]",
+  "detail": "",
+  "start": 1630410240000,
+  "end": 1630414800000,
+  "seconds": 4560,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
