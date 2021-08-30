@@ -1,0 +1,25 @@
+{
+  "id": "idx1sf2",
+  "category": "anime",
+  "title": "夏目友人帳 参",
+  "fullTitle": "[字]夏目友人帳 参 #13 END",
+  "detail": "#13「夏目遊戯帳」END\r\n妖怪が見える少年・夏目貴志は、祖母の遺品の中から“友人帳”を見つける。それは祖母・レイコ…",
+  "start": 1630998000000,
+  "end": 1630999800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "END",
+  "episode": 13,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1ser",
+  "category": "anime",
+  "title": "ちびまる子ちゃん",
+  "fullTitle": "[字]ちびまる子ちゃん #550",
+  "detail": "#550「謎のクリスマスケーキ」の巻／「まる子の失われた記憶」の巻\r\n静岡県清水市に住む小学3年生のももこは、みんなか…",
+  "start": 1630962000000,
+  "end": 1630963800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "謎のクリスマスケーキ",
+  "episode": 550,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63cibc",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム× 巨人～ファーム～（鎌スタ）",
+  "fullTitle": "[生] [プロ野球]北海道日本ハム× 巨人～ファーム～（鎌スタ）",
+  "detail": "（最大延長　１７：５０）\r\nGAORAプロ野球中継～ファーム～\r\n「北海道日本ハム vs 巨人」\r\n\r\n開催日：2021年9月7日／球場：鎌スタ",
+  "start": 1630986900000,
+  "end": 1631003400000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

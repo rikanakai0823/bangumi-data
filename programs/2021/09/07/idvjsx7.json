@@ -1,0 +1,25 @@
+{
+  "id": "idvjsx7",
+  "category": "sports",
+  "title": "ＢＳイレブン住之江ボートレース中継",
+  "fullTitle": "[生]ＢＳイレブン住之江ボートレース中継",
+  "detail": "『ＧⅠ第49回高松宮記念特別競走』のレースの模様を、実況生中継！\r\n企画も盛りだくさんに、ボートレースの楽しさを発信します！",
+  "start": 1631012400000,
+  "end": 1631015880000,
+  "seconds": 3480,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 49,
+  "flags": [
+    "生"
+  ]
+}

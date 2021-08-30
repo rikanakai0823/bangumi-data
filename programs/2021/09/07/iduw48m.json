@@ -1,0 +1,26 @@
+{
+  "id": "iduw48m",
+  "category": "cinema",
+  "title": "キングスマン",
+  "fullTitle": "[映][SS]キングスマン",
+  "detail": "『キック・アス』の監督＆原作者が放つ痛快スパイアクション。英国紳士が強靭な肉体と奇抜な武器で脅威に挑む。［Ｒ１５＋］",
+  "start": 1630963800000,
+  "end": 1630972200000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

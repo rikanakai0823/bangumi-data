@@ -1,0 +1,25 @@
+{
+  "id": "idx1sek",
+  "category": "anime",
+  "title": "キングダム ,13",
+  "fullTitle": "[字]キングダム #12,13",
+  "detail": "#12「究極の一刀」#13「ランカイ吠える」\r\n紀元前、中国。西方の国・秦で、戦災孤児として暮らしていた2人の少年、信と…",
+  "start": 1630940400000,
+  "end": 1630944000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "究極の一刀",
+  "episode": 12,
+  "flags": [
+    "字"
+  ]
+}

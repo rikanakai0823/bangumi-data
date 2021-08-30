@@ -1,0 +1,25 @@
+{
+  "id": "w67vlxe",
+  "category": "anime",
+  "title": "ココモン",
+  "fullTitle": "ココモン[字] #4",
+  "detail": "第４話「ようこそオモン」\r\nやんちゃなココモンと冷蔵庫の国の仲間たちが力をあわせていろいろなことに取り組みます。",
+  "start": 1630962000000,
+  "end": 1630962900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ようこそオモン",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

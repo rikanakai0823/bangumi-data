@@ -1,0 +1,25 @@
+{
+  "id": "idoztwd",
+  "category": "sports",
+  "title": "ＭＬＢ２０２１",
+  "fullTitle": "ＭＬＢ２０２１[二]",
+  "detail": "",
+  "start": 1630976400000,
+  "end": 1630990200000,
+  "seconds": 13800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

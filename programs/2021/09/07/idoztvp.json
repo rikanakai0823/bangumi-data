@@ -1,0 +1,23 @@
+{
+  "id": "idoztvp",
+  "category": "etc",
+  "title": "ＢＳセレクション",
+  "fullTitle": "ＢＳセレクション",
+  "detail": "",
+  "start": 1630944000000,
+  "end": 1630945500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

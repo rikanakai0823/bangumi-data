@@ -1,0 +1,25 @@
+{
+  "id": "idy8l3s",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#10[二]",
+  "detail": "#10「目指せ！ネバレストの山頂」",
+  "start": 1630998000000,
+  "end": 1630999500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "目指せ！ネバレストの山頂",
+  "episode": 10,
+  "flags": [
+    "二"
+  ]
+}

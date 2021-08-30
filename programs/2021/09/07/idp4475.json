@@ -1,0 +1,25 @@
+{
+  "id": "idp4475",
+  "category": "documentary",
+  "title": "食の守護神ＪＦＫ（日本食文化監察局）",
+  "fullTitle": "食の守護神ＪＦＫ（日本食文化監察局）[字]",
+  "detail": "",
+  "start": 1631024100000,
+  "end": 1631025900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

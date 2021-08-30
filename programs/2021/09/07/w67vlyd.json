@@ -1,0 +1,25 @@
+{
+  "id": "w67vlyd",
+  "category": "anime",
+  "title": "ポケットモンスター ,131",
+  "fullTitle": "ポケットモンスター[字] #130,131",
+  "detail": "＃１３０「レディバのふえ！」＃１３１「ハピナスのハッピーナース！」",
+  "start": 1631012400000,
+  "end": 1631016000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "レディバのふえ！",
+  "episode": 130,
+  "flags": [
+    "字"
+  ]
+}
