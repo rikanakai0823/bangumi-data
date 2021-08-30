@@ -1,8 +1,8 @@
 {
   "id": "381xj5ox66",
-  "category": "etc",
-  "title": "調整中＜フジバラナイト　ＳＡＴ＞",
-  "fullTitle": "調整中＜フジバラナイト　ＳＡＴ＞",
+  "category": "drama",
+  "title": "ナイト・ドクター＜フジバラナイト　ＳＡＴ＞",
+  "fullTitle": "ナイト・ドクター＜フジバラナイト　ＳＡＴ＞　＃０９[再][解]",
   "detail": "",
   "start": 1630774200000,
   "end": 1630777800000,
@@ -18,6 +18,9 @@
     "n": 29
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 9,
+  "flags": [
+    "再",
+    "解"
+  ]
 }
