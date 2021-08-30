@@ -3,10 +3,15 @@
   "category": "sports",
   "title": "ＢＡＣＨプラザ",
   "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
-  "detail": "",
+  "detail": "「ボートレース戸田」\n◇番組内容\n▽ボートレース戸田：マンスリーＢＯＡＴＲＡＣＥ杯・初日\n◇出演者\n堂前英男",
   "start": 1630503000000,
   "end": 1630504800000,
   "seconds": 1800,
+  "description": "「ボートレース戸田」",
+  "extra": {
+    "番組内容": "▽ボートレース戸田：マンスリーＢＯＡＴＲＡＣＥ杯・初日",
+    "出演者": "堂前英男"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 12
   },
-  "subTitle": "",
+  "subTitle": "ボートレース戸田",
   "episode": null,
   "flags": []
 }

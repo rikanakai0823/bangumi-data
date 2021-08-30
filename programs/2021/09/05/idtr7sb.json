@@ -1,0 +1,23 @@
+{
+  "id": "idtr7sb",
+  "category": "information",
+  "title": "エバーライフＴＶショッピング",
+  "fullTitle": "エバーライフＴＶショッピング",
+  "detail": "",
+  "start": 1630846500000,
+  "end": 1630846800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -2,8 +2,8 @@
   "id": "idrd9rc",
   "category": "news",
   "title": "皇室日記",
-  "fullTitle": "皇室日記",
-  "detail": "皇室のみなさまの最新の動静・皇室の歴史や文化などの特集をお伝えします。",
+  "fullTitle": "皇室日記　＃１１",
+  "detail": "終戦から７６年、天皇陛下が受け継ぐ平和への想いをお伝えします。",
   "start": 1630717200000,
   "end": 1630718100000,
   "seconds": 900,
@@ -18,6 +18,6 @@
     "n": 44
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 11,
   "flags": []
 }
