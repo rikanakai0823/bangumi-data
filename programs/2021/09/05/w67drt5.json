@@ -2,7 +2,7 @@
   "id": "w67drt5",
   "category": "music",
   "title": "【独占】Official髭男dism 特番",
-  "fullTitle": "【独占】Official髭男dism 特番",
+  "fullTitle": "[無]【独占】Official髭男dism 特番",
   "detail": "8/18に待望のメジャー2ndアルバム「Editorial」をリリースするOfficial髭男dismの撮り下ろし番組をお届けします！",
   "start": 1630850400000,
   "end": 1630854000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "Editorial",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

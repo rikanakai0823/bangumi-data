@@ -2,7 +2,7 @@
   "id": "w67drt8",
   "category": "music",
   "title": "アニメ主題歌・挿入歌特集②/Eve、UVERworld 他",
-  "fullTitle": "アニメ主題歌・挿入歌特集②/Eve、UVERworld 他",
+  "fullTitle": "[無]アニメ主題歌・挿入歌特集②/Eve、UVERworld 他",
   "detail": "作品の魅力を引き立て、アニメの世界観を盛り上げてくれる主題歌・挿入歌をたっぷりお届けします！\r\n",
   "start": 1630861200000,
   "end": 1630864800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
