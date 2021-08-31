@@ -2,7 +2,7 @@
   "id": "w67cbuf",
   "category": "music",
   "title": "BiSH ライブ特集",
-  "fullTitle": "BiSH ライブ特集",
+  "fullTitle": "[無]BiSH ライブ特集",
   "detail": "BiSHが8/4にNEW アルバム『GOiNG TO DESTRUCTiON』をリリース！これを記念し、BiSHの圧巻のライブパフォーマンスをオンエア！",
   "start": 1630836000000,
   "end": 1630837800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

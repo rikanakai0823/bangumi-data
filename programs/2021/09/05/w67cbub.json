@@ -2,7 +2,7 @@
   "id": "w67cbub",
   "category": "music",
   "title": "ナツカシ！J-POP",
-  "fullTitle": "ナツカシ！J-POP【年代別】",
+  "fullTitle": "[無]ナツカシ！J-POP【年代別】",
   "detail": "輝かしい90年代ソングを中心にその年を切り取ったベストヒットソングを1年ごとにお届け！あなたはあの頃何をしてましたか？",
   "start": 1630807200000,
   "end": 1630814400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "年代別",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
