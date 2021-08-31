@@ -1,0 +1,23 @@
+{
+  "id": "idwszmk",
+  "category": "hobby",
+  "title": "フランス語Ⅰ",
+  "fullTitle": "フランス語Ⅰ　第3回",
+  "detail": "「一本の電話」",
+  "start": 1631070000000,
+  "end": 1631072700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "一本の電話",
+  "episode": 3,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lgqp",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「おひつじ座特別」「第５８回東京記念（ＳⅠ）」「サファイア賞」",
+  "start": 1631082000000,
+  "end": 1631102400000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 58,
+  "flags": []
+}

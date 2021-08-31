@@ -1,0 +1,25 @@
+{
+  "id": "iduw60x",
+  "category": "drama",
+  "title": "ＦＡＲＧＯ／ファーゴ３",
+  "fullTitle": "[SS]ＦＡＲＧＯ／ファーゴ３　＃４",
+  "detail": "【海外ドラマシリーズ一挙放送】",
+  "start": 1631047500000,
+  "end": 1631051100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "海外ドラマシリーズ一挙放送",
+  "episode": 4,
+  "flags": [
+    "SS"
+  ]
+}

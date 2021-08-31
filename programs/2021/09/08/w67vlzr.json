@@ -1,0 +1,26 @@
+{
+  "id": "w67vlzr",
+  "category": "anime",
+  "title": "ヒカルの碁 ,2",
+  "fullTitle": "[新]ヒカルの碁[字] #1,2",
+  "detail": "＃１「永遠のライバル」＃２「見ぬかれた急所！！」",
+  "start": 1631109600000,
+  "end": 1631113200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "永遠のライバル",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

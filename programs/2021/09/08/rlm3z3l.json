@@ -1,0 +1,23 @@
+{
+  "id": "rlm3z3l",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "URAWA CHANNEL NEXT #25",
+  "detail": "浦和レッズのクラブ応援番組。今回は新しくチームを率いるリカルド ロドリゲス新監督と新加入選手たちのインタビューをお届け！",
+  "start": 1631066400000,
+  "end": 1631068200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 25,
+  "flags": []
+}

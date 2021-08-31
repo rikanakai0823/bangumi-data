@@ -1,0 +1,26 @@
+{
+  "id": "iduh1um",
+  "category": "cinema",
+  "title": "スクール・オブ・ロック（字幕版）",
+  "fullTitle": "[映]スクール・オブ・ロック（字幕版）[SS]",
+  "detail": "ロック好きの冴えない青年が一流小学校の教師になりすまし、生徒たちにロックバンドを結成させる。笑いと音楽を満載し、全米ナンバーワンヒットを記録した楽しいコメディ。",
+  "start": 1631047500000,
+  "end": 1631054700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

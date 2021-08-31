@@ -1,0 +1,26 @@
+{
+  "id": "iducqsm",
+  "category": "cinema",
+  "title": "日本統一１５",
+  "fullTitle": "[映]日本統一１５[字]",
+  "detail": "侠和会の工藤会長がヒットマンに襲撃され、全国極道界に激震が走る！　氷室と田村は会長襲撃の犯人を追って奔走するが……。福井を主な舞台に描く任侠大河ロマン第１５作。",
+  "start": 1631035800000,
+  "end": 1631041200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

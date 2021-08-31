@@ -1,0 +1,25 @@
+{
+  "id": "idy8l55",
+  "category": "anime",
+  "title": "ベイマックス　ザ・シリーズ",
+  "fullTitle": "ベイマックス　ザ・シリーズ#5[二]",
+  "detail": "#5「ムイラハラの森」",
+  "start": 1631080800000,
+  "end": 1631082600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ムイラハラの森",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}
