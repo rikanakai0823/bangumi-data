@@ -1,0 +1,25 @@
+{
+  "id": "rkunkia",
+  "category": "hobby",
+  "title": "ペッパピッグ#17,#18[字/日英]",
+  "fullTitle": "ペッパピッグ#17,#18[二][字/日英]",
+  "detail": "#17「ゆき」　#18「アイススケート」",
+  "start": 1631160000000,
+  "end": 1631160900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ゆき",
+  "episode": 17,
+  "flags": [
+    "二"
+  ]
+}

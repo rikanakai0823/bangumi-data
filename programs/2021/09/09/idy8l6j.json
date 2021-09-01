@@ -1,0 +1,25 @@
+{
+  "id": "idy8l6j",
+  "category": "anime",
+  "title": "ベイマックス　ザ・シリーズ",
+  "fullTitle": "ベイマックス　ザ・シリーズ#6[二]",
+  "detail": "#6「風邪をひいたヒロ」",
+  "start": 1631167200000,
+  "end": 1631169000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "風邪をひいたヒロ",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}

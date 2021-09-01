@@ -1,0 +1,23 @@
+{
+  "id": "w5xswrg",
+  "category": "information",
+  "title": "マルチに使える便利なセンサーライト特集",
+  "fullTitle": "マルチに使える便利なセンサーライト特集",
+  "detail": "例えば非常時に懐中電灯になるもの、防滴仕様のもの、手軽に可愛く使えるものなど、様々なタイプのLEDライトを、お手頃な価格でご紹介します。",
+  "start": 1631138400000,
+  "end": 1631142000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

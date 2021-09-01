@@ -1,0 +1,25 @@
+{
+  "id": "idv0lbk",
+  "category": "drama",
+  "title": "ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド",
+  "fullTitle": "[SS]ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃７[吹]",
+  "detail": "【独占日本初放送】",
+  "start": 1631156400000,
+  "end": 1631159400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "独占日本初放送",
+  "episode": 7,
+  "flags": [
+    "SS"
+  ]
+}

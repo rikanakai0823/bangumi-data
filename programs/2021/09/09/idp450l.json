@@ -1,0 +1,25 @@
+{
+  "id": "idp450l",
+  "category": "documentary",
+  "title": "ニッポン島旅　選",
+  "fullTitle": "ニッポン島旅　選「長崎　壱岐島　鬼が島伝説」[字]",
+  "detail": "作家のヤマザキマリさんが、長崎県壱岐島の鬼が島伝説をめぐり旅をする。鬼退治の様子が描かれた鬼凧（おんだこ）を守ろうとする家族を通し、壱岐の歴史と今を見つめる。",
+  "start": 1631196900000,
+  "end": 1631198700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "長崎　壱岐島　鬼が島伝説",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

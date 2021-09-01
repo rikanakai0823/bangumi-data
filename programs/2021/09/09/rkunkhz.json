@@ -1,0 +1,25 @@
+{
+  "id": "rkunkhz",
+  "category": "hobby",
+  "title": "ペッパピッグ#7,#8[字/日英]",
+  "fullTitle": "ペッパピッグ#7,#8[二][字/日英]",
+  "detail": "#7「キャンプ」　#8「ランチ」",
+  "start": 1631142000000,
+  "end": 1631142900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "キャンプ",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}

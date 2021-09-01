@@ -1,0 +1,23 @@
+{
+  "id": "idske9m",
+  "category": "etc",
+  "title": "昭和歌謡ベストテンＤＸ",
+  "fullTitle": "昭和歌謡ベストテンＤＸ",
+  "detail": "",
+  "start": 1631188800000,
+  "end": 1631192040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
