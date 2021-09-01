@@ -1,13 +1,13 @@
 {
   "id": "idskdy4",
-  "category": "etc",
+  "category": "anime",
   "title": "カノジョも彼女",
-  "fullTitle": "カノジョも彼女",
-  "detail": "◇制作\n2021年",
+  "fullTitle": "カノジョも彼女＃１０",
+  "detail": "第１０話　温泉楽しみ\n◇制作\n2021年",
   "start": 1630692000000,
   "end": 1630693800000,
   "seconds": 1800,
-  "description": "",
+  "description": "第１０話　温泉楽しみ",
   "extra": {
     "制作": "2021年"
   },
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "温泉楽しみ",
+  "episode": 10,
   "flags": []
 }

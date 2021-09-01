@@ -1,12 +1,18 @@
 {
   "id": "36tfa8h5vd",
   "category": "variety",
-  "title": "ＷＯＮＤＥＲ　ＷＨＥＥＬ",
-  "fullTitle": "ＷＯＮＤＥＲ　ＷＨＥＥＬ",
-  "detail": " ",
+  "title": "ＷＯＮＤＥＲ　ＷＨＥＥＬ　★３ＤＣＧバーチャル音楽ライブ番組",
+  "fullTitle": "ＷＯＮＤＥＲ　ＷＨＥＥＬ　★３ＤＣＧバーチャル音楽ライブ番組",
+  "detail": "３ＤＣＧのバーチャルステージによる音楽ライブ番組。ＭＣは、サイプレス上野と奥津マリリ（フィロソフィーのダンス）が担当し、毎回様々なゲストアーティストが登場！\n◇番組内容\n今回は、番組ゲストアーティストに、TENDOUJI、AATA、PIGGSが登場！\r\n▼ライブ曲：TENDOUJI「DODA」、AATA「Slow Flow」、PIGGS「VISITOR」\n◇出演者\n【MC】\r\nサイプレス上野、奥津マリリ（フィロソフィーのダンス）\r\n【ゲストアーティスト】\r\nTENDOUJI、AATA、PIGGS\n◇おしらせ\n【番組ホームページ】　https://wonderwheel.jp\r\n【Twitter】@wonder_wheel20",
   "start": 1630686900000,
   "end": 1630688700000,
   "seconds": 1800,
+  "description": "３ＤＣＧのバーチャルステージによる音楽ライブ番組。ＭＣは、サイプレス上野と奥津マリリ（フィロソフィーのダンス）が担当し、毎回様々なゲストアーティストが登場！",
+  "extra": {
+    "番組内容": "今回は、番組ゲストアーティストに、TENDOUJI、AATA、PIGGSが登場！\r\n▼ライブ曲：TENDOUJI「DODA」、AATA「Slow Flow」、PIGGS「VISITOR」",
+    "出演者": "【MC】\r\nサイプレス上野、奥津マリリ（フィロソフィーのダンス）\r\n【ゲストアーティスト】\r\nTENDOUJI、AATA、PIGGS",
+    "おしらせ": "【番組ホームページ】　https://wonderwheel.jp\r\n【Twitter】@wonder_wheel20"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
