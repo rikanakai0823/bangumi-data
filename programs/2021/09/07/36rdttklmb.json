@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Que Mas Pues?\"J BALVIN & MARIA BECERRA\r\n\"Losing My Mind\"ANGELS & AIRWAVES\r\n\"Number 2\"KSI feat.FUTURE & 21 SAVAGE\n◇番組内容２\n\"Lose\"KSI x LIL WAYNE\r\n\"Holiday\"KSI\r\n\"Tunnel\"POLO & PAN feat.CHANNEL TRES\r\n\"Saturday\"twenty one pilots",
   "start": 1630940400000,
   "end": 1630942200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Que Mas Pues?\"J BALVIN & MARIA BECERRA\r\n\"Losing My Mind\"ANGELS & AIRWAVES\r\n\"Number 2\"KSI feat.FUTURE & 21 SAVAGE",
+    "番組内容２": "\"Lose\"KSI x LIL WAYNE\r\n\"Holiday\"KSI\r\n\"Tunnel\"POLO & PAN feat.CHANNEL TRES\r\n\"Saturday\"twenty one pilots"
   },
   "channel": {
     "type": "GR",
