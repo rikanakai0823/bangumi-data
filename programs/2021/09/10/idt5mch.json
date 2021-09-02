@@ -1,0 +1,23 @@
+{
+  "id": "idt5mch",
+  "category": "information",
+  "title": "北斎づくし　オススメ",
+  "fullTitle": "北斎づくし　オススメ",
+  "detail": "「北斎づくし」番組の見どころを紹介します。",
+  "start": 1631282040000,
+  "end": 1631282400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "北斎づくし",
+  "episode": null,
+  "flags": []
+}

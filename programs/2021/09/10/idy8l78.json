@@ -1,0 +1,25 @@
+{
+  "id": "idy8l78",
+  "category": "drama",
+  "title": "シェキラ！",
+  "fullTitle": "シェキラ！#43[二]",
+  "detail": "#43「こわい真似っこ！」",
+  "start": 1631212200000,
+  "end": 1631214000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "こわい真似っこ！",
+  "episode": 43,
+  "flags": [
+    "二"
+  ]
+}

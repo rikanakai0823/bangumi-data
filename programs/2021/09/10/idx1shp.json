@@ -1,0 +1,25 @@
+{
+  "id": "idx1shp",
+  "category": "anime",
+  "title": "テニスの王子様 ,16",
+  "fullTitle": "[字]テニスの王子様 #15,16",
+  "detail": "#15「それぞれの戦い」\r\n#16「ブーメラン・スネイク」\r\nアメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョー…",
+  "start": 1631282400000,
+  "end": 1631286000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "それぞれの戦い",
+  "episode": 15,
+  "flags": [
+    "字"
+  ]
+}

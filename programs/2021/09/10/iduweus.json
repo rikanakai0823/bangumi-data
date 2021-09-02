@@ -1,0 +1,26 @@
+{
+  "id": "iduweus",
+  "category": "cinema",
+  "title": "テッド",
+  "fullTitle": "[映][SS]テッド",
+  "detail": "毒舌中年テディベアが騒動を巻き起こす！ぬいぐるみと、大人になりきれない男の友情を描く、大ヒット痛快コメディ。［Ｒ１５＋］",
+  "start": 1631275200000,
+  "end": 1631282400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

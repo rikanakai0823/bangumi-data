@@ -1,0 +1,25 @@
+{
+  "id": "w65o3vw",
+  "category": "variety",
+  "title": "志村劇場",
+  "fullTitle": "[HV]志村劇場#47[終]",
+  "detail": "志村けんの冠コント番組。ショートコントとロケ企画による二部構成。出演者はほかに優香、肥後克広、上島竜兵、ハリセンボン、亜里沙、森田涼花。",
+  "start": 1631273400000,
+  "end": 1631275200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 102
+  },
+  "subTitle": "",
+  "episode": 47,
+  "flags": [
+    "終"
+  ]
+}

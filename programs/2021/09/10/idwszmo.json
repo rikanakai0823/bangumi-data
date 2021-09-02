@@ -1,0 +1,23 @@
+{
+  "id": "idwszmo",
+  "category": "hobby",
+  "title": "フランス語Ⅰ",
+  "fullTitle": "フランス語Ⅰ　第7回",
+  "detail": "「出発」",
+  "start": 1631242800000,
+  "end": 1631245500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "出発",
+  "episode": 7,
+  "flags": []
+}

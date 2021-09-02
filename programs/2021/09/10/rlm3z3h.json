@@ -1,0 +1,23 @@
+{
+  "id": "rlm3z3h",
+  "category": "sports",
+  "title": "NOAH 2020.3.29後楽園ホール",
+  "fullTitle": "NOAH 2020.3.29後楽園ホール",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1631203200000,
+  "end": 1631215800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": null,
+  "flags": []
+}

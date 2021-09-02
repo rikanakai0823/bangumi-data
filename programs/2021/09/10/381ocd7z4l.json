@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7z4l",
+  "category": "variety",
+  "title": "土曜も日テレ！",
+  "fullTitle": "土曜も日テレ！「明日はＩ　ＬＯＶＥ　みんなのどうぶつ園」[字]",
+  "detail": "",
+  "start": 1631282040000,
+  "end": 1631282400000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "明日はＩ　ＬＯＶＥ　みんなのどうぶつ園",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

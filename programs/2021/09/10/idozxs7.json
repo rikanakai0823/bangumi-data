@@ -1,0 +1,23 @@
+{
+  "id": "idozxs7",
+  "category": "sports",
+  "title": "２０２１世界トライアスロンシリーズ",
+  "fullTitle": "２０２１世界トライアスロンシリーズ",
+  "detail": "",
+  "start": 1631246400000,
+  "end": 1631249400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

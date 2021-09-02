@@ -1,0 +1,25 @@
+{
+  "id": "rkunkjq",
+  "category": "hobby",
+  "title": "ペッパピッグ#19,#20[字/日英]",
+  "fullTitle": "ペッパピッグ#19,#20[二][字/日英]",
+  "detail": "#19「オウムのポリー」　#20「さむいふゆの日」",
+  "start": 1631246400000,
+  "end": 1631247300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "オウムのポリー",
+  "episode": 19,
+  "flags": [
+    "二"
+  ]
+}

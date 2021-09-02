@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lgy9",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「２０２１ウマきゅんＬＩＶＥ配信賞」「２０２１　３５周年記念ムービー視聴２００万回突破賞」「トゥインクルレースっていいなって思った。賞」",
+  "start": 1631254800000,
+  "end": 1631275200000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67vm18",
+  "category": "anime",
+  "title": "ヒカルの碁 ,4",
+  "fullTitle": "ヒカルの碁[字] #3,4",
+  "detail": "＃３「牙をむくアキラ」＃４「将棋部の加賀　」",
+  "start": 1631215800000,
+  "end": 1631219400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "牙をむくアキラ",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv0mc8",
+  "category": "cinema",
+  "title": "メメント",
+  "fullTitle": "[映]メメント[吹]",
+  "detail": "妻を殺した犯人を追う記憶障害の男性の奮闘をスリリングに描く、クリストファー・ノーラン監督の出世作となったサスペンス。",
+  "start": 1631204400000,
+  "end": 1631211600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
