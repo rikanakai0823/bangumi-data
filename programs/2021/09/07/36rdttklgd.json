@@ -1,15 +1,17 @@
 {
   "id": "36rdttklgd",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "title": "洋楽天国＋▽一緒に踊ろう！ダンス・ミュージック特集",
+  "fullTitle": "洋楽天国＋▽一緒に踊ろう！ダンス・ミュージック特集",
+  "detail": "聴けば自然に体が動くような様々なジャンルのダンス・ミュージックを紹介！\n◇番組内容\n聴けば自然に体が動くようなダンス・ミュージックを特集！世界を魅了するDJが作り出すEDMはもちろん、ダンスシーンが素晴らしいミュージック・ビデオを紹介！\n◇選曲１\n\"Stay\"THE KID LAROI & JUSTIN BIEBER\r\n\"Don't Go Yet\"CAMILA CABELLO\r\n\"Wellerman (220 KID x BILLEN TED  remix)\"NATHAN EVANS\r\n\"Starstruck\"YEARS & YEARS\n◇選曲２\n\"Cure For Me\"AURORA\r\n\"Back In Time\"MARSHMELLO x CARNAGE\r\n\"Hear Me Say\"JONAS BLUE, LEON\r\n\"1 Day 2 Nights\"HRVY\r\n\"Butter\"BTS",
   "start": 1631023200000,
   "end": 1631025000000,
   "seconds": 1800,
-  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "description": "聴けば自然に体が動くような様々なジャンルのダンス・ミュージックを紹介！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "聴けば自然に体が動くようなダンス・ミュージックを特集！世界を魅了するDJが作り出すEDMはもちろん、ダンスシーンが素晴らしいミュージック・ビデオを紹介！",
+    "選曲１": "\"Stay\"THE KID LAROI & JUSTIN BIEBER\r\n\"Don't Go Yet\"CAMILA CABELLO\r\n\"Wellerman (220 KID x BILLEN TED  remix)\"NATHAN EVANS\r\n\"Starstruck\"YEARS & YEARS",
+    "選曲２": "\"Cure For Me\"AURORA\r\n\"Back In Time\"MARSHMELLO x CARNAGE\r\n\"Hear Me Say\"JONAS BLUE, LEON\r\n\"1 Day 2 Nights\"HRVY\r\n\"Butter\"BTS"
   },
   "channel": {
     "type": "GR",
