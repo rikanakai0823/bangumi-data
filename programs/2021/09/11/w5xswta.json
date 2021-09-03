@@ -1,0 +1,23 @@
+{
+  "id": "w5xswta",
+  "category": "information",
+  "title": "24時間 Today’s Special Value ハイライト",
+  "fullTitle": "24時間 Today’s Special Value ハイライト",
+  "detail": "当日限りのお買得アイテム「TSV」が、なんとこの日は24時間全商品、TSV価格で登場します！",
+  "start": 1631365200000,
+  "end": 1631368800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 90
+  },
+  "subTitle": "TSV",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w63cidh",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×福岡ソフトバンク（札幌ドーム）",
+  "fullTitle": "[プロ野球]北海道日本ハム×福岡ソフトバンク（札幌ドーム）",
+  "detail": "GAORAプロ野球中継\r\n北海道日本ハムvs福岡ソフトバンク\r\n解説:岩本勉\r\n実況:近藤祐司\r\n＜副音声＞\r\n斉藤和巳、ノボせもんなべ\r\n開催：2021年9月11日／札幌ドーム",
+  "start": 1631352600000,
+  "end": 1631368800000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381f5kspzp",
+  "category": "music",
+  "title": "シブヤノオト",
+  "fullTitle": "シブヤノオト[字]",
+  "detail": "",
+  "start": 1631369400000,
+  "end": 1631371200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

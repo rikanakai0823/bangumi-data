@@ -1,0 +1,25 @@
+{
+  "id": "idy8l9c",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "ビッグシティ・グリーン#54[二]",
+  "detail": "#54「魔法と迷路　/　みんなでカラオケ」",
+  "start": 1631345400000,
+  "end": 1631347200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "魔法と迷路　/　みんなでカラオケ",
+  "episode": 54,
+  "flags": [
+    "二"
+  ]
+}

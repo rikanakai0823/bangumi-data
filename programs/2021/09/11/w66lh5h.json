@@ -1,0 +1,25 @@
+{
+  "id": "w66lh5h",
+  "category": "sports",
+  "title": "2021 FORMULA 1　第14戦イタリアGP スプリント予選",
+  "fullTitle": "[生]2021 FORMULA 1　第14戦イタリアGP スプリント予選",
+  "detail": "＜開催＞２０２１年９月１１日【生中継】\r\n　～モンツァサーキット\r\n＜解説＞森脇基恭　川井一仁\r\n＜実況＞野崎昌一\r\n※第２音声：会場音\r\n※変更の場合あり",
+  "start": 1631368800000,
+  "end": 1631376000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 114
+  },
+  "subTitle": "生中継",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

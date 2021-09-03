@@ -1,0 +1,25 @@
+{
+  "id": "idtr6oz",
+  "category": "drama",
+  "title": "龍は眠る",
+  "fullTitle": "[字]龍は眠る",
+  "detail": "不思議な超能力者たちの力に記者はひかれていく",
+  "start": 1631340000000,
+  "end": 1631346900000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w69b187",
+  "category": "news",
+  "title": "ニュー・デイ・サタデー",
+  "fullTitle": "[二]ニュー・デイ・サタデー",
+  "detail": "日本語同時通訳付。\r\nアメリカの「朝」を直送。\r\n最新ニュースを伝えるモーニング・ワイド。",
+  "start": 1631361600000,
+  "end": 1631365200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

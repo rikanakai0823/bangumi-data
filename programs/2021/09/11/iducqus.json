@@ -1,0 +1,27 @@
+{
+  "id": "iducqus",
+  "category": "sports",
+  "title": "チャンピオンズリーグダイジェスト！開幕ＳＰ",
+  "fullTitle": "[無][初][生]チャンピオンズリーグダイジェスト！開幕ＳＰ",
+  "detail": "",
+  "start": 1631347200000,
+  "end": 1631354400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "初",
+    "生"
+  ]
+}

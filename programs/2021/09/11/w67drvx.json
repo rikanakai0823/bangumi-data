@@ -1,0 +1,23 @@
+{
+  "id": "w67drvx",
+  "category": "music",
+  "title": "KREVA PV特集",
+  "fullTitle": "KREVA PV特集",
+  "detail": "KREVAのミュージックビデオ特集をオンエア！",
+  "start": 1631358000000,
+  "end": 1631361600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 123
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

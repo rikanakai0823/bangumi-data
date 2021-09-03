@@ -1,0 +1,25 @@
+{
+  "id": "iduwgvb",
+  "category": "drama",
+  "title": "ＦＡＲＧＯ／ファーゴ３　［最終話］",
+  "fullTitle": "[SS]ＦＡＲＧＯ／ファーゴ３　＃１０［最終話］",
+  "detail": "【海外ドラマシリーズ一挙放送】",
+  "start": 1631308500000,
+  "end": 1631312100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "海外ドラマシリーズ一挙放送",
+  "episode": 10,
+  "flags": [
+    "SS"
+  ]
+}
