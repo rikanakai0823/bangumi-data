@@ -1,11 +1,11 @@
 {
-  "id": "381f5ksmaa",
-  "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
-  "detail": "",
-  "start": 1630679400000,
-  "end": 1630679700000,
+  "id": "381f5ktfh4",
+  "category": "etc",
+  "title": "放送番組未定",
+  "fullTitle": "放送番組未定",
+  "detail": "この時間、放送する番組は未定です",
+  "start": 1630674900000,
+  "end": 1630675200000,
   "seconds": 300,
   "channel": {
     "type": "GR",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
