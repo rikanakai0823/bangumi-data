@@ -1,0 +1,25 @@
+{
+  "id": "iduypys",
+  "category": "cinema",
+  "title": "ジョン・レノン，ニューヨーク",
+  "fullTitle": "[映]ジョン・レノン，ニューヨーク",
+  "detail": "ビートルズ解散後、アメリカへ移住したジョン・レノンのニューヨークで過ごした約９年間に焦点を当てた音楽ドキュメンタリー。",
+  "start": 1631431200000,
+  "end": 1631439000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

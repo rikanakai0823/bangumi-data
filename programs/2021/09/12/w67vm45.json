@@ -1,0 +1,26 @@
+{
+  "id": "w67vm45",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST -14",
+  "fullTitle": "[新]鋼の錬金術師 FULLMETAL ALCHEMIST[字] #1-14",
+  "detail": "＃１「鋼の錬金術師」＃２「はじまりの日」＃３「邪教の街」＃４「錬金術師の苦悩」＃５「哀しみの雨」＃６「希望の道」＃７「隠された真実」＃８「第五研究所」他",
+  "start": 1631437200000,
+  "end": 1631462400000,
+  "seconds": 25200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "鋼の錬金術師",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

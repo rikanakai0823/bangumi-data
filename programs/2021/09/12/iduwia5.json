@@ -1,0 +1,27 @@
+{
+  "id": "iduwia5",
+  "category": "cinema",
+  "title": "アイアムアヒーロー",
+  "fullTitle": "[映][SS][字]アイアムアヒーロー",
+  "detail": "大泉洋主演のパニックアクション。ゾンビ危機の日本を舞台に、偶然出会った少女と冴えない青年との逃避行を描く。［Ｒ１５＋］",
+  "start": 1631375100000,
+  "end": 1631383200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

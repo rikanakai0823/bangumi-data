@@ -1,0 +1,25 @@
+{
+  "id": "idx1sih",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ,520",
+  "fullTitle": "[字]ちびまる子ちゃん #519,520",
+  "detail": "#519「貼り紙注意？！」の巻／「まる子、藤の花に幻を見る」の巻\r\n#520「まる子の積立貯金」の巻／「バラ色の人生」の…",
+  "start": 1631395800000,
+  "end": 1631399400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "貼り紙注意？！",
+  "episode": 519,
+  "flags": [
+    "字"
+  ]
+}

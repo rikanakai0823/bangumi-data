@@ -1,0 +1,26 @@
+{
+  "id": "idozw8q",
+  "category": "sports",
+  "title": "プロ野球２０２１「日本ハム」対",
+  "fullTitle": "プロ野球２０２１「日本ハム」対「ソフトバンク」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　２：００）　【解説】小早川毅彦，【アナウンサー】星野圭介　～札幌ドームから中継～",
+  "start": 1631422800000,
+  "end": 1631433000000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ソフトバンク",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

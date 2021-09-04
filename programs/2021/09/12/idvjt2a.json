@@ -1,0 +1,26 @@
+{
+  "id": "idvjt2a",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【中山】５Ｒ～８Ｒ，９Ｒ「白井特別」\r\n【中京】５Ｒ～８Ｒ，９Ｒ「長久手特別」",
+  "start": 1631415600000,
+  "end": 1631426400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

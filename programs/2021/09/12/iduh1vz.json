@@ -1,0 +1,26 @@
+{
+  "id": "iduh1vz",
+  "category": "cinema",
+  "title": "セイント（字幕版）",
+  "fullTitle": "[映]セイント（字幕版）[SS]",
+  "detail": "世界各地で活躍する大盗賊サイモン・テンプラー役に「ヒート」などで人気のアクター、Ｖ・キルマーが扮した冒険アクション大作。監督は「今そこにある危機」のＰ・ノイス。",
+  "start": 1631391300000,
+  "end": 1631398500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

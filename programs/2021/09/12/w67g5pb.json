@@ -1,0 +1,23 @@
+{
+  "id": "w67g5pb",
+  "category": "music",
+  "title": "GLAY厳選ライブ",
+  "fullTitle": "GLAY厳選ライブ",
+  "detail": "歴代のライブ映像をはじめ、MTV主催の音楽アワード「MTV VMAJ」に出演した際の映像など、GLAYの圧倒的なライブパフォーマンスを厳選してお届け。",
+  "start": 1631451600000,
+  "end": 1631458800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "MTV VMAJ",
+  "episode": null,
+  "flags": []
+}

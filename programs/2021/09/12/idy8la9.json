@@ -1,0 +1,25 @@
+{
+  "id": "idy8la9",
+  "category": "cinema",
+  "title": "シュレック",
+  "fullTitle": "シュレック[二]",
+  "detail": "恐ろしい姿とは裏腹に本当は心の優しいシュレック。ある日、彼が住む人里離れた沼のほとりに突然おとぎ話の登場人物たちが大挙してやってきて・・・。2001年。90分。",
+  "start": 1631415600000,
+  "end": 1631421900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

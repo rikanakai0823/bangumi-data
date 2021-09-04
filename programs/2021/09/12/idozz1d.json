@@ -1,0 +1,25 @@
+{
+  "id": "idozz1d",
+  "category": "sports",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「甲子園で輝きたい～女子高校球児の夏～」[字]",
+  "detail": "【語り】庄司宇芽香",
+  "start": 1631455200000,
+  "end": 1631458200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "甲子園で輝きたい～女子高校球児の夏～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

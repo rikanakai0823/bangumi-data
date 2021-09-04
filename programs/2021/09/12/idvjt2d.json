@@ -1,0 +1,26 @@
+{
+  "id": "idvjt2d",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【中京】12Ｒ\r\n【中山】12Ｒ\r\n\r\n▼凱旋門賞情報",
+  "start": 1631430000000,
+  "end": 1631435400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "中京",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

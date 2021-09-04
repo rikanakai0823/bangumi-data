@@ -1,0 +1,25 @@
+{
+  "id": "idx1sig",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#245「ボーズくんが来た」\r\n#246「シマリスくんとエイロプさん」\r\n#247「オトナの話」\r\n#248「ぼのちゃん～アライグマち…",
+  "start": 1631394000000,
+  "end": 1631395800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ボーズくんが来た",
+  "episode": 245,
+  "flags": [
+    "字"
+  ]
+}

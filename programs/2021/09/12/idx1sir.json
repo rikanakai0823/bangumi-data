@@ -1,0 +1,25 @@
+{
+  "id": "idx1sir",
+  "category": "anime",
+  "title": "ハイキュー!! TO THE TOP ,12",
+  "fullTitle": "[字]ハイキュー!! TO THE TOP #11,12",
+  "detail": "#11「繋がれるチャンス」#12「鮮烈」\r\n春の高校バレー宮城県予選、全国大会出場を決めた烏野高校排球部。彼らのもとに…",
+  "start": 1631433600000,
+  "end": 1631437200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "繋がれるチャンス",
+  "episode": 11,
+  "flags": [
+    "字"
+  ]
+}

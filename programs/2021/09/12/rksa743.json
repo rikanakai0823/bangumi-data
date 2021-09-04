@@ -1,0 +1,25 @@
+{
+  "id": "rksa743",
+  "category": "sports",
+  "title": "プロ野球中継2021 広島×巨人",
+  "fullTitle": "[生]プロ野球中継2021 広島×巨人",
+  "detail": "巨人はリーグ３連覇へ正念場！広島は巻き返しへ！東京五輪金メダル戦士の巨人・坂本や広島・菊池、鈴木誠、栗林らに注目！\r\n※延長の場合あり、中止の場合翌日順延",
+  "start": 1631436900000,
+  "end": 1631451600000,
+  "seconds": 14700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

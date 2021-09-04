@@ -1,0 +1,25 @@
+{
+  "id": "idy8lal",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "キャンプ・キキワカ#66[二]",
+  "detail": "#66「ヘイゼルの帰還！」",
+  "start": 1631453400000,
+  "end": 1631455200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ヘイゼルの帰還！",
+  "episode": 66,
+  "flags": [
+    "二"
+  ]
+}

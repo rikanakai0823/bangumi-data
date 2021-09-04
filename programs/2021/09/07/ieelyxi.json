@@ -1,0 +1,23 @@
+{
+  "id": "ieelyxi",
+  "category": "etc",
+  "title": "授業科目案内～大学の窓",
+  "fullTitle": "授業科目案内～大学の窓",
+  "detail": "「都市社会構造論('18)」",
+  "start": 1631003400000,
+  "end": 1631004300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "都市社会構造論('18)",
+  "episode": null,
+  "flags": []
+}

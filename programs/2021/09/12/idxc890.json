@@ -1,0 +1,23 @@
+{
+  "id": "idxc890",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "【契】URAWA CHANNEL NEXT #28",
+  "detail": "浦和レッズのクラブ応援番組。今回は、今シーズンプロデビューを果たした期待のゴールキーパー、鈴木彩艶選手にインタビュー！",
+  "start": 1631395800000,
+  "end": 1631397600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 28,
+  "flags": []
+}

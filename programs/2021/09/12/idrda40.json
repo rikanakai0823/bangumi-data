@@ -1,0 +1,23 @@
+{
+  "id": "idrda40",
+  "category": "music",
+  "title": "音楽のある風景　夢幻飛行",
+  "fullTitle": "音楽のある風景　夢幻飛行",
+  "detail": "イージーリスニングの名曲を集めたジェットストリーム。かつてFMラジオで聞いた懐かしい城達也のナレーションとともに、ジェットストリームの旅をお楽しみください。",
+  "start": 1631390400000,
+  "end": 1631392200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

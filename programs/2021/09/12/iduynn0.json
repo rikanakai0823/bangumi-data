@@ -1,0 +1,25 @@
+{
+  "id": "iduynn0",
+  "category": "cinema",
+  "title": "バーバレラ",
+  "fullTitle": "[映]バーバレラ",
+  "detail": "ジェーン・フォンダ主演、人気コミックを映画化したＳＦエロティックアクション。宇宙破壊光線を駆使する悪との闘いを描く。",
+  "start": 1631383200000,
+  "end": 1631389500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

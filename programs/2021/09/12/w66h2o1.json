@@ -1,0 +1,23 @@
+{
+  "id": "w66h2o1",
+  "category": "sports",
+  "title": "競馬予想ＴＶ！　0「セントウルS」ほか",
+  "fullTitle": "競馬予想ＴＶ！　#1080「セントウルS」「京成杯オータムH」ほか",
+  "detail": "「セントウルS（G2）」「京成杯オータムH（G3）」　ほか\r\n＜司会＞見栄晴　横山ルリカ\r\n＜出演＞松本ヒロシ　競馬予想専門家4名",
+  "start": 1631372400000,
+  "end": 1631379600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "京成杯オータムH",
+  "episode": 108,
+  "flags": []
+}
