@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＱＶＣ　24時間 Today’s Special Value ハイライト",
   "fullTitle": "ＱＶＣ　24時間 Today’s Special Value ハイライト",
-  "detail": "当日限りのお買得アイテム「TSV」が、なんとこの日は24時間全商品、TSV価格で登場します！",
+  "detail": "当日限りのお買得アイテム「TSV」が、なんとこの日は24時間全商品、TSV価格で登場します！\n◇番組内容\n※番組の内容や放送日時は、変更となる場合がございます。",
   "start": 1631368800000,
   "end": 1631372400000,
   "seconds": 3600,
+  "description": "当日限りのお買得アイテム「TSV」が、なんとこの日は24時間全商品、TSV価格で登場します！",
+  "extra": {
+    "番組内容": "※番組の内容や放送日時は、変更となる場合がございます。"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS09_2",
