@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "番組未定",
   "fullTitle": "番組未定",
-  "detail": "",
+  "detail": "◇番組名\n番組未定",
   "start": 1631455200000,
   "end": 1631460600000,
   "seconds": 5400,
+  "description": "",
+  "extra": {
+    "番組名": "番組未定"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS03_0",
