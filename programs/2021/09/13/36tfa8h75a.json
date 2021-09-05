@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8h75a",
+  "category": "anime",
+  "title": "トムとジェリー",
+  "fullTitle": "トムとジェリー　＃１１[再][二]",
+  "detail": "＃１１「春はいたずらもの」「ジェリーのいたずら大作戦」「ネズミの学校」",
+  "start": 1631527200000,
+  "end": 1631529000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "春はいたずらもの",
+  "episode": 11,
+  "flags": [
+    "再",
+    "二"
+  ]
+}

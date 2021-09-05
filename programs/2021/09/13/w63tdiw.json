@@ -1,0 +1,23 @@
+{
+  "id": "w63tdiw",
+  "category": "sports",
+  "title": "銀座ゴルフ倶楽部",
+  "fullTitle": "銀座ゴルフ倶楽部【MCヒロミ×ゲスト石原良純】",
+  "detail": "テーラーメイド銀座を舞台にヒロミが鷲見玲奈と共に毎月豪華ゲストを迎えお届けする大人のゴルフトーク番組。",
+  "start": 1631527200000,
+  "end": 1631530800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 99
+  },
+  "subTitle": "MCヒロミ×ゲスト石原良純",
+  "episode": null,
+  "flags": []
+}

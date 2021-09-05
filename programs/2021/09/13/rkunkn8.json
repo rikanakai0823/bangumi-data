@@ -1,0 +1,25 @@
+{
+  "id": "rkunkn8",
+  "category": "hobby",
+  "title": "ペッパピッグ#21,#22[字/日英]",
+  "fullTitle": "ペッパピッグ#21,#22[二][字/日英]",
+  "detail": "#21「わたしのおたんじょうびパーティ」　#22「かくれんぼ」",
+  "start": 1631505600000,
+  "end": 1631506500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "わたしのおたんじょうびパーティ",
+  "episode": 21,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67kgsc",
+  "category": "music",
+  "title": "ミュージックバンク",
+  "fullTitle": "ミュージックバンク【字】",
+  "detail": "韓国の人気音楽番組。日本語字幕入りで毎週オンエア！",
+  "start": 1631525400000,
+  "end": 1631530800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

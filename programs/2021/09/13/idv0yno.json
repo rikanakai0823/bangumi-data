@@ -1,0 +1,26 @@
+{
+  "id": "idv0yno",
+  "category": "cinema",
+  "title": "ランボー",
+  "fullTitle": "[映][字]ランボー[吹]",
+  "detail": "シルヴェスター・スタローン主演のアクションシリーズ第１弾。ベトナム帰還兵の男が、警察からの嫌がらせに怒りを爆発させる。",
+  "start": 1631534400000,
+  "end": 1631540400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

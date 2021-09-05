@@ -1,0 +1,23 @@
+{
+  "id": "idrda6f",
+  "category": "news",
+  "title": "深層ＮＥＷＳ　２時間スペシャル",
+  "fullTitle": "深層ＮＥＷＳ　２時間スペシャル",
+  "detail": "",
+  "start": 1631534400000,
+  "end": 1631541600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

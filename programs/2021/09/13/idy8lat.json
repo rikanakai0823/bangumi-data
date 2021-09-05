@@ -1,0 +1,25 @@
+{
+  "id": "idy8lat",
+  "category": "anime",
+  "title": "怪奇ゾーン　グラビティフォールズ#21,#22",
+  "fullTitle": "怪奇ゾーン　グラビティフォールズ#21,#22[二]",
+  "detail": "#21「怖いカラオケ」　#22「謎の隠れ場所」",
+  "start": 1631467800000,
+  "end": 1631471400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "怖いカラオケ",
+  "episode": 21,
+  "flags": [
+    "二"
+  ]
+}

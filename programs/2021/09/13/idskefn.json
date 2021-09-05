@@ -1,0 +1,23 @@
+{
+  "id": "idskefn",
+  "category": "documentary",
+  "title": "夢の彼方に・ＥＵＲＯＰＥ",
+  "fullTitle": "夢の彼方に・ＥＵＲＯＰＥ",
+  "detail": "",
+  "start": 1631469600000,
+  "end": 1631473200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

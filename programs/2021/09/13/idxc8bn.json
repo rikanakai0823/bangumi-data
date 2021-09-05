@@ -1,0 +1,23 @@
+{
+  "id": "idxc8bn",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2021～ファーム～ 西武vs.楽天",
+  "fullTitle": "LIONS プロ野球中継2021～ファーム～ 西武vs.楽天",
+  "detail": "▽9月11日開催\r\n実況：飯塚治\r\n開催日時：2021年9月11日 (土) 13:00\r\n会場：CAR3219フィールド（カーミニークフィールド）",
+  "start": 1631484000000,
+  "end": 1631498400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

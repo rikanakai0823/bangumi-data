@@ -1,0 +1,23 @@
+{
+  "id": "ieelto4",
+  "category": "etc",
+  "title": "初歩のスペイン語",
+  "fullTitle": "初歩のスペイン語　第2回",
+  "detail": "「ここに喫茶店があります。」",
+  "start": 1631080800000,
+  "end": 1631083500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "ここに喫茶店があります。",
+  "episode": 2,
+  "flags": []
+}

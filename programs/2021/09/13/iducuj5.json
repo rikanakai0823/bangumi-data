@@ -1,0 +1,25 @@
+{
+  "id": "iducuj5",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６９２",
+  "detail": "",
+  "start": 1631471400000,
+  "end": 1631472300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 692,
+  "flags": [
+    "無"
+  ]
+}

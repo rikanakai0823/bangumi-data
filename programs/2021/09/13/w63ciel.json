@@ -1,0 +1,23 @@
+{
+  "id": "w63ciel",
+  "category": "etc",
+  "title": "[プロレス]最先端バトル ドラゴンゲート!!",
+  "fullTitle": "[プロレス]最先端バトル ドラゴンゲート!! #120",
+  "detail": "オープン・ザ・ツインゲート統一タッグ選手権試合",
+  "start": 1631516400000,
+  "end": 1631518200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 120,
+  "flags": []
+}

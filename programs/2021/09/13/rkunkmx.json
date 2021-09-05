@@ -1,0 +1,25 @@
+{
+  "id": "rkunkmx",
+  "category": "hobby",
+  "title": "ペッパピッグ#11,#12[字/日英]",
+  "fullTitle": "ペッパピッグ#11,#12[二][字/日英]",
+  "detail": "#11「ピューピューあきの日」　#12「あたらしいくるま」",
+  "start": 1631487600000,
+  "end": 1631488500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ピューピューあきの日",
+  "episode": 11,
+  "flags": [
+    "二"
+  ]
+}

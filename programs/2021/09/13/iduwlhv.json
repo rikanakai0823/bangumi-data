@@ -1,0 +1,26 @@
+{
+  "id": "iduwlhv",
+  "category": "cinema",
+  "title": "ブレイキング・イン",
+  "fullTitle": "[映][SS]ブレイキング・イン",
+  "detail": "ガブリエル・ユニオン主演・製作のアクションスリラー。子供を人質にとられた母親が、たった１人で４人の男たちに立ち向かう！",
+  "start": 1631463300000,
+  "end": 1631469600000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

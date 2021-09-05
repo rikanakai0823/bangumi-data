@@ -1,0 +1,26 @@
+{
+  "id": "idv0yi4",
+  "category": "cinema",
+  "title": "ブラック アンド ブルー",
+  "fullTitle": "[映][SS]ブラック アンド ブルー[吹]",
+  "detail": "ナオミ・ハリス主演のクライムアクション。悪徳警官の殺人現場を目撃した女性警官が、孤立無援の中で事件を告発しようと試みる。",
+  "start": 1631527200000,
+  "end": 1631534400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

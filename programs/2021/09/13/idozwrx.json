@@ -1,0 +1,25 @@
+{
+  "id": "idozwrx",
+  "category": "information",
+  "title": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ　ミニ日本語版",
+  "fullTitle": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ　ミニ日本語版「納豆」[字]",
+  "detail": "本場　茨城・水戸市▽自宅で納豆を作っている農家▽昔ながらの納豆作りを学ぶ▽東京・池尻の納豆専門店",
+  "start": 1631476800000,
+  "end": 1631477400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "納豆",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

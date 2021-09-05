@@ -1,0 +1,25 @@
+{
+  "id": "w67vm46",
+  "category": "anime",
+  "title": "ヒカルの碁 -20",
+  "fullTitle": "ヒカルの碁[字] #17-20",
+  "detail": "＃１７「追憶の一局」＃１８「アキラ対ｓａｉ」＃１９「ヒカルの実力」＃２０「プロへの道」",
+  "start": 1631462400000,
+  "end": 1631469600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "追憶の一局",
+  "episode": 17,
+  "flags": [
+    "字"
+  ]
+}

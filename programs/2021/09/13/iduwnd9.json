@@ -1,0 +1,26 @@
+{
+  "id": "iduwnd9",
+  "category": "cinema",
+  "title": "スローターハウス・ルールズ",
+  "fullTitle": "[映][SS]スローターハウス・ルールズ",
+  "detail": "サイモン・ペッグとニック・フロストが手がけるホラーコメディ。名門寄宿学校に編入した少年の成長を描く。［ＰＧ１２相当］",
+  "start": 1631490300000,
+  "end": 1631497200000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
