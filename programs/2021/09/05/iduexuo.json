@@ -1,0 +1,25 @@
+{
+  "id": "iduexuo",
+  "category": "sports",
+  "title": "全米オープンテニス２０１７　女子シングルス決勝",
+  "fullTitle": "全米オープンテニス２０１７　女子シングルス決勝[多]",
+  "detail": "女子シングルス決勝　マディソン・キーズ×スローン・スティーブンス",
+  "start": 1630816200000,
+  "end": 1630821600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}
