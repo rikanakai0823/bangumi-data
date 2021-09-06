@@ -1,0 +1,26 @@
+{
+  "id": "idozx6k",
+  "category": "sports",
+  "title": "プロ野球２０２１「楽天」対",
+  "fullTitle": "プロ野球２０２１「楽天」対「オリックス」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】武田一浩，【アナウンサー】小野卓哉　～楽天生命パーク宮城から中継～",
+  "start": 1631610000000,
+  "end": 1631622600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "オリックス",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

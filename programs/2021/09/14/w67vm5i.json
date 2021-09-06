@@ -1,0 +1,25 @@
+{
+  "id": "w67vm5i",
+  "category": "anime",
+  "title": "ヒカルの碁 ,8",
+  "fullTitle": "ヒカルの碁[字] #7,8",
+  "detail": "＃７「お前とは打たない」＃８「雨の中の策略」",
+  "start": 1631561400000,
+  "end": 1631565000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "お前とは打たない",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

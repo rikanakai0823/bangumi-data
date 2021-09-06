@@ -1,0 +1,23 @@
+{
+  "id": "rlm3z68",
+  "category": "sports",
+  "title": "UFC UNLEASHED",
+  "fullTitle": "UFC UNLEASHED #3",
+  "detail": "名勝負を厳選してお届け！",
+  "start": 1631570400000,
+  "end": 1631574000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}

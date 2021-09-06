@@ -1,0 +1,23 @@
+{
+  "id": "idryjow",
+  "category": "information",
+  "title": "贈り物ＴＶ",
+  "fullTitle": "贈り物ＴＶ",
+  "detail": "テレビショッピング",
+  "start": 1631604300000,
+  "end": 1631606040000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

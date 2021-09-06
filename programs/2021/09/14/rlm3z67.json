@@ -1,0 +1,23 @@
+{
+  "id": "rlm3z67",
+  "category": "sports",
+  "title": "UFC UNLEASHED",
+  "fullTitle": "UFC UNLEASHED #2",
+  "detail": "成長へとつながった３試合に注目！",
+  "start": 1631566800000,
+  "end": 1631570400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}

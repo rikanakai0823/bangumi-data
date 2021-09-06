@@ -1,0 +1,23 @@
+{
+  "id": "w67t860",
+  "category": "music",
+  "title": "USEN演歌ベスト20",
+  "fullTitle": "USEN演歌ベスト20 #74",
+  "detail": "有線放送「USEN」がリクエストデータやオンエア実績等を独自に集計した演歌・歌謡曲ランキングを毎週ミュージックビデオで紹介。（8/20～8/26集計)",
+  "start": 1631593800000,
+  "end": 1631601000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "歌謡ポップス",
+    "id": "f0dl",
+    "sid": 329,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 127
+  },
+  "subTitle": "USEN",
+  "episode": 74,
+  "flags": []
+}

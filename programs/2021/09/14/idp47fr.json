@@ -1,0 +1,25 @@
+{
+  "id": "idp47fr",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「晴れ姿！！旅役者座長大会」[字]",
+  "detail": "九州筑豊の嘉穂劇場で旅回りの座長２７人が一堂に集まり、全日本座長大会が開かれた。満員札止めの盛況、笑いと涙の舞台、役者と観客がひとつになる大衆演劇の世界を描く。",
+  "start": 1631610600000,
+  "end": 1631613600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "晴れ姿！！旅役者座長大会",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

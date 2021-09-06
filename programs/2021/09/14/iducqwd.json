@@ -1,0 +1,27 @@
+{
+  "id": "iducqwd",
+  "category": "cinema",
+  "title": "クロスファイア",
+  "fullTitle": "[映]クロスファイア[SS][字]",
+  "detail": "宮部みゆきの同名小説を、矢田亜希子、伊藤英明らの共演で“平成ガメラ”３部作の金子修介監督が映画化したＳＦスリラー。発火できる超能力を持ったヒロインの死闘を描く。",
+  "start": 1631620800000,
+  "end": 1631628000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
