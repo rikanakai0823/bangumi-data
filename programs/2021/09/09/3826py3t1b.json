@@ -1,0 +1,27 @@
+{
+  "id": "3826py3t1b",
+  "category": "documentary",
+  "title": "蓋",
+  "fullTitle": "蓋",
+  "detail": "実験的蓋番組\n◇お知らせ\n#3：9/10（金）深夜3時35分\r\n\r\n#4：9/12（日）深夜3時46分\r\n\r\n#5：9/13（月）深夜4時10分",
+  "start": 1631127300000,
+  "end": 1631127900000,
+  "seconds": 600,
+  "description": "実験的蓋番組",
+  "extra": {
+    "お知らせ": "#3：9/10（金）深夜3時35分\r\n\r\n#4：9/12（日）深夜3時46分\r\n\r\n#5：9/13（月）深夜4時10分"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
