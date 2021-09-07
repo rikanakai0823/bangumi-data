@@ -1,0 +1,23 @@
+{
+  "id": "w698ju2",
+  "category": "sports",
+  "title": "スポーツ・トゥデイ",
+  "fullTitle": "スポーツ・トゥデイ",
+  "detail": "世界中で注目されているスポーツの話題、ニュース、試合結果をお届けするニュース番組。",
+  "start": 1631659500000,
+  "end": 1631660400000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

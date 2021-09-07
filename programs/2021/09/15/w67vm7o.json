@@ -1,0 +1,25 @@
+{
+  "id": "w67vm7o",
+  "category": "anime",
+  "title": "カードキャプターさくら クリアカード編 ,4",
+  "fullTitle": "カードキャプターさくら クリアカード編[字] #3,4",
+  "detail": "＃３「さくらの大雨注意報」＃４「さくらと素敵な転校生」",
+  "start": 1631696400000,
+  "end": 1631700000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "さくらの大雨注意報",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

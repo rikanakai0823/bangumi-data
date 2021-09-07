@@ -1,0 +1,23 @@
+{
+  "id": "idxc8bp",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2021～ファーム～ 西武vs.楽天",
+  "fullTitle": "LIONS プロ野球中継2021～ファーム～ 西武vs.楽天",
+  "detail": "▽9月13日開催\r\n実況：木下貴道\r\n開催日時：2021年9月13日 (月) 17:45\r\n会場：メットライフドーム",
+  "start": 1631656800000,
+  "end": 1631671200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

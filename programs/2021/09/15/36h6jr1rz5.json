@@ -1,0 +1,28 @@
+{
+  "id": "36h6jr1rz5",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
+  "detail": "「西武園競輪」\n◇番組内容\n▽西武園競輪：第６０回東京中日スポーツ杯・２日目\n◇出演者\n堂前英男",
+  "start": 1631712600000,
+  "end": 1631714400000,
+  "seconds": 1800,
+  "description": "「西武園競輪」",
+  "extra": {
+    "番組内容": "▽西武園競輪：第６０回東京中日スポーツ杯・２日目",
+    "出演者": "堂前英男"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "西武園競輪",
+  "episode": null,
+  "flags": []
+}

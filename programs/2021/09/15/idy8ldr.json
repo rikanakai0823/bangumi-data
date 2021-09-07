@@ -1,0 +1,25 @@
+{
+  "id": "idy8ldr",
+  "category": "anime",
+  "title": "ラプンツェル　ザ・シリーズ",
+  "fullTitle": "ラプンツェル　ザ・シリーズ#42[二]",
+  "detail": "#42「鏡の国」",
+  "start": 1631655000000,
+  "end": 1631656800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "鏡の国",
+  "episode": 42,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduyzaf",
+  "category": "cinema",
+  "title": "ザ・ウェイバック",
+  "fullTitle": "[映][SS]ザ・ウェイバック",
+  "detail": "ベン・アフレック主演のスポーツドラマ。アルコール依存症の元スター選手が、母校のコーチ就任をきっかけに人生を再生させる。",
+  "start": 1631682900000,
+  "end": 1631690400000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

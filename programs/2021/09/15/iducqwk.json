@@ -1,0 +1,26 @@
+{
+  "id": "iducqwk",
+  "category": "cinema",
+  "title": "日本統一１８",
+  "fullTitle": "[映]日本統一１８[字]",
+  "detail": "本宮泰風と山口祥行の共演で描く人気シリーズ第１８作。九州極道界を束ねる至誠会が博多派と熊本派で分裂の危機に陥り、やがて侠和会と西日本睦会の代理戦争へと発展する。",
+  "start": 1631653500000,
+  "end": 1631658600000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm3z5z",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "fullTitle": "HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "detail": "▽9月14日開催\r\n解説/実況：斉藤和巳/加藤暁\r\n開催日時：2021年9月14日 (火) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1631674800000,
+  "end": 1631692800000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduh1x4",
+  "category": "cinema",
+  "title": "ボルケーノ（字幕版）",
+  "fullTitle": "[映]ボルケーノ（字幕版）[SS]",
+  "detail": "大都会ＬＡの地下で蒸気の異常噴出が発生。それはやがて恐るべきマグマの大噴火に発展していく。当時最新のＶＦＸを駆使してマグマの恐怖を描いたヒットパニックムービー！",
+  "start": 1631686500000,
+  "end": 1631692800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

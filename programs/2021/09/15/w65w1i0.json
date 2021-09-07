@@ -1,0 +1,23 @@
+{
+  "id": "w65w1i0",
+  "category": "documentary",
+  "title": "放送休止のお知らせ",
+  "fullTitle": "放送休止のお知らせ",
+  "detail": "メンテナンスのため放送を休止いたします。午前7時より放送を再開します。",
+  "start": 1631635200000,
+  "end": 1631635500000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 106
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

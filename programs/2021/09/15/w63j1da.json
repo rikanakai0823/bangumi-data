@@ -1,0 +1,25 @@
+{
+  "id": "w63j1da",
+  "category": "sports",
+  "title": "巨人練習中",
+  "fullTitle": "[生]巨人練習中「直生」",
+  "detail": "～生中継\r\n▽東京ドームで行われる試合前の練習を、開場前から打撃練習を中心に生中継する「直生」。",
+  "start": 1631682000000,
+  "end": 1631687400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "直生",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "381jqz0mi4",
+  "category": "hobby",
+  "title": "シャキーン！",
+  "fullTitle": "シャキーン！「ドキドキの水曜日」[字][デ]",
+  "detail": "【声】小林優子，かわのをとや\n◇出演者\n【声】小林優子，かわのをとや",
+  "start": 1631655600000,
+  "end": 1631656500000,
+  "seconds": 900,
+  "description": "【声】小林優子，かわのをとや",
+  "extra": {
+    "出演者": "【声】小林優子，かわのをとや"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "ドキドキの水曜日",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

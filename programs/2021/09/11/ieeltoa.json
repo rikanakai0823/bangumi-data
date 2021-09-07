@@ -1,0 +1,23 @@
+{
+  "id": "ieeltoa",
+  "category": "etc",
+  "title": "初歩のスペイン語",
+  "fullTitle": "初歩のスペイン語　第8回",
+  "detail": "「今日はどんな天気ですか？」",
+  "start": 1631340000000,
+  "end": 1631342700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "今日はどんな天気ですか？",
+  "episode": 8,
+  "flags": []
+}

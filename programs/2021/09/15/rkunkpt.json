@@ -1,0 +1,25 @@
+{
+  "id": "rkunkpt",
+  "category": "hobby",
+  "title": "ペッパピッグ#15,#16[字/日英]",
+  "fullTitle": "ペッパピッグ#15,#16[二][字/日英]",
+  "detail": "#15「ツリーハウス」　#16「おかたづけ」",
+  "start": 1631660400000,
+  "end": 1631661300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ツリーハウス",
+  "episode": 15,
+  "flags": [
+    "二"
+  ]
+}

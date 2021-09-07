@@ -1,0 +1,25 @@
+{
+  "id": "idp4aco",
+  "category": "documentary",
+  "title": "生命の大地・地球",
+  "fullTitle": "生命の大地・地球「水没ジャングル～南米・アマゾン川流域～」[字]",
+  "detail": "【語り】中島裕子",
+  "start": 1631646000000,
+  "end": 1631647500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "水没ジャングル～南米・アマゾン川流域～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8lef",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "ビッグシティ・グリーン#22[二]",
+  "detail": "#22「特別なごちそう　/　本当の勝者」",
+  "start": 1631691000000,
+  "end": 1631692800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "特別なごちそう　/　本当の勝者",
+  "episode": 22,
+  "flags": [
+    "二"
+  ]
+}
