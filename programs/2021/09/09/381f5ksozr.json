@@ -1,12 +1,12 @@
 {
   "id": "381f5ksozr",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "title": "ニュース▽宣言・重点措置延長は",
+  "fullTitle": "ニュース「中継・衆議院議院運営委員会」▽宣言・重点措置延長は[字]",
   "detail": "",
   "start": 1631160000000,
-  "end": 1631160300000,
-  "seconds": 300,
+  "end": 1631163000000,
+  "seconds": 3000,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "中継・衆議院議院運営委員会",
   "episode": null,
   "flags": [
     "字"

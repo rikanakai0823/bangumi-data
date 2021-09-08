@@ -1,0 +1,25 @@
+{
+  "id": "idp3lq0",
+  "category": "documentary",
+  "title": "カラーでよみがえる東京",
+  "fullTitle": "カラーでよみがえる東京「浅草～盛り場の試練～」[字]",
+  "detail": "ＮＨＫは、東京を撮影した白黒フィルムを世界中から収集、現実にできるだけ近い色彩の復元に挑んだ。色を取り戻した東京は、どんな表情を見せるのか。今回は浅草。",
+  "start": 1631472960000,
+  "end": 1631473200000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "浅草～盛り場の試練～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
