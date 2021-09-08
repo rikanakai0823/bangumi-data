@@ -1,0 +1,25 @@
+{
+  "id": "w63j1dj",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～東京ドーム～",
+  "fullTitle": "DRAMATIC BASEBALL2021「巨人×DeNA」～東京ドーム～[再]",
+  "detail": "２０２１年９月１５日開催\r\n解説：中畑清\r\n実況：山本健太",
+  "start": 1631736000000,
+  "end": 1631751300000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×DeNA",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduwuys",
+  "category": "cinema",
+  "title": "インフェルノ（２０１６）",
+  "fullTitle": "[映][SS]インフェルノ（２０１６）",
+  "detail": "ダン・ブラウン原作によるミステリー第３弾。トム・ハンクス演じる宗教象徴学者がダンテの「神曲」に隠された暗号を解き明かす。",
+  "start": 1631721600000,
+  "end": 1631729700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "神曲",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

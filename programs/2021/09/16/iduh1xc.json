@@ -1,0 +1,26 @@
+{
+  "id": "iduh1xc",
+  "category": "cinema",
+  "title": "隣の影（字幕版）",
+  "fullTitle": "[映]隣の影（字幕版）[SS]",
+  "detail": "アイスランドのアカデミー賞に当たる第２０回エッダ賞で、作品賞、監督賞ほか、主要７部門を制覇。些細なことが原因で隣家が全面対決に至るさまを描いた不条理サスペンス。",
+  "start": 1631745600000,
+  "end": 1631751300000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 20,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

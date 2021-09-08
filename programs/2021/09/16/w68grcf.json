@@ -1,0 +1,25 @@
+{
+  "id": "w68grcf",
+  "category": "documentary",
+  "title": "宇宙探査フロンティア：スペースコミュニケーション",
+  "fullTitle": "宇宙探査フロンティア：スペースコミュニケーション(二)",
+  "detail": "様々な分野の宇宙技術が発展している。特にコミュニケーションの発展は著しい。どのようにしてデータの伝送速度を上げて、遠い星にいる探査機と通信しているのか。",
+  "start": 1631736000000,
+  "end": 1631737800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 132
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

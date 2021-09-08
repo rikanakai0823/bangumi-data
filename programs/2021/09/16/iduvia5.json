@@ -1,0 +1,26 @@
+{
+  "id": "iduvia5",
+  "category": "cinema",
+  "title": "魔女がいっぱい",
+  "fullTitle": "[映][SS]魔女がいっぱい",
+  "detail": "アン・ハサウェイ主演、ロアルド・ダールの児童文学を映画化したファンタジー。魔女たちの恐ろしい野望を阻止する少年を描く。",
+  "start": 1631749500000,
+  "end": 1631756400000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

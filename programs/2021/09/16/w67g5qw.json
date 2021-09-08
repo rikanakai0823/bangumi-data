@@ -1,0 +1,23 @@
+{
+  "id": "w67g5qw",
+  "category": "music",
+  "title": "ザ・キラーズ ライブ",
+  "fullTitle": "ザ・キラーズ ライブ",
+  "detail": "ザ・キラーズが２０１３年に行われたイベント「Rock Am Ring」で披露したライブをオンエア。",
+  "start": 1631721600000,
+  "end": 1631725200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "Rock Am Ring",
+  "episode": null,
+  "flags": []
+}

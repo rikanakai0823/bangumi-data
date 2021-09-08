@@ -1,0 +1,25 @@
+{
+  "id": "w67vm82",
+  "category": "anime",
+  "title": "ヒカルの碁 ,12",
+  "fullTitle": "ヒカルの碁[字] #11,12",
+  "detail": "＃１１「最も卑劣な行為」＃１２「三将はお前だ」",
+  "start": 1631734200000,
+  "end": 1631737800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "最も卑劣な行為",
+  "episode": 11,
+  "flags": [
+    "字"
+  ]
+}

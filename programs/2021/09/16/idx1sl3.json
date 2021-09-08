@@ -1,0 +1,25 @@
+{
+  "id": "idx1sl3",
+  "category": "anime",
+  "title": "テニスの王子様 ,20",
+  "fullTitle": "[字]テニスの王子様 #19,20",
+  "detail": "#19「傷だらけのリョーマ」\r\n#20「タイムリミット」\r\nアメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ…",
+  "start": 1631732400000,
+  "end": 1631736000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "傷だらけのリョーマ",
+  "episode": 19,
+  "flags": [
+    "字"
+  ]
+}

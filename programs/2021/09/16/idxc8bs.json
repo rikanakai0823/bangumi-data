@@ -1,0 +1,23 @@
+{
+  "id": "idxc8bs",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2021～ファーム～ 西武vs.楽天",
+  "fullTitle": "LIONS プロ野球中継2021～ファーム～ 西武vs.楽天",
+  "detail": "▽9月12日開催\r\n実況：北野文啓\r\n開催日時：2021年9月12日 (日) 13:00\r\n会場：CAR3219フィールド（カーミニークフィールド）",
+  "start": 1631746800000,
+  "end": 1631761200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

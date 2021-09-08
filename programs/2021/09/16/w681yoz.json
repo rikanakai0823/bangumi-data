@@ -1,0 +1,23 @@
+{
+  "id": "w681yoz",
+  "category": "anime",
+  "title": "TSUKIPRO THE ANIMATION セレクション",
+  "fullTitle": "TSUKIPRO THE ANIMATION セレクション #03",
+  "detail": "この時間は「『TSUKIPRO THE ANIMATION 2』セレクション3」を放送いたします。",
+  "start": 1631793600000,
+  "end": 1631795400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "『TSUKIPRO THE ANIMATION 2』セレクション3",
+  "episode": 3,
+  "flags": []
+}
