@@ -1,0 +1,25 @@
+{
+  "id": "w67vmaf",
+  "category": "anime",
+  "title": "ヒカルの碁 ,16",
+  "fullTitle": "ヒカルの碁[字] #15,16",
+  "detail": "＃１５「ネットに潜む棋士」＃１６「ｓａｉはだれだ」",
+  "start": 1631887200000,
+  "end": 1631890800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ネットに潜む棋士",
+  "episode": 15,
+  "flags": [
+    "字"
+  ]
+}

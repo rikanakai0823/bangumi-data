@@ -1,0 +1,27 @@
+{
+  "id": "iduh1xu",
+  "category": "cinema",
+  "title": "風花（２０００）",
+  "fullTitle": "[初][映]風花（２０００）[字]",
+  "detail": "浅野忠信と小泉今日子の魅力的な共演で、鳴海章の同名小説を映画化。本作が公開された２００１年、５３歳で惜しくも早逝した相米慎二監督の遺作となったロードムービー。",
+  "start": 1631872800000,
+  "end": 1631880000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

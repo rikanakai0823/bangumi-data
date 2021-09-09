@@ -1,0 +1,25 @@
+{
+  "id": "w66obot",
+  "category": "drama",
+  "title": "クリミナル・マインド13",
+  "fullTitle": "[字]クリミナル・マインド13(帯)#21",
+  "detail": "#21「消えない音」\r\nMixed Signals\r\nニューメキシコで連続事件が発生。被害者は皆、左側頭部にドライバーで穴を開けられていた。",
+  "start": 1631872800000,
+  "end": 1631876400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "消えない音",
+  "episode": 21,
+  "flags": [
+    "字"
+  ]
+}

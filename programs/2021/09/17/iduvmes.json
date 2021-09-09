@@ -1,0 +1,26 @@
+{
+  "id": "iduvmes",
+  "category": "cinema",
+  "title": "【最新作】ムスタング",
+  "fullTitle": "【最新作】[映][SS]ムスタング",
+  "detail": "服役囚が野生馬“ムスタング”の調教を通し、自分の中にある人間らしさを再発見する姿を描くドラマ。［ＰＧ１２相当］",
+  "start": 1631880000000,
+  "end": 1631887200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

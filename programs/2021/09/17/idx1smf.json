@@ -1,0 +1,25 @@
+{
+  "id": "idx1smf",
+  "category": "anime",
+  "title": "テニスの王子様 ,24",
+  "fullTitle": "[字]テニスの王子様 #23,24",
+  "detail": "#23「登場！乾汁デラックス」\r\n#24「リョーマの休日」\r\nアメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョー…",
+  "start": 1631887200000,
+  "end": 1631890800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "登場！乾汁デラックス",
+  "episode": 23,
+  "flags": [
+    "字"
+  ]
+}

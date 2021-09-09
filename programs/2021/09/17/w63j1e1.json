@@ -1,0 +1,25 @@
+{
+  "id": "w63j1e1",
+  "category": "sports",
+  "title": "2021 ANAオープンゴルフトーナメント 2日目 1番ホール",
+  "fullTitle": "[生]2021 ANAオープンゴルフトーナメント 2日目 1番ホール",
+  "detail": "～生中継",
+  "start": 1631829600000,
+  "end": 1631836800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

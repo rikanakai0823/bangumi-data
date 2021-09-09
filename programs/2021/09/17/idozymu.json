@@ -1,0 +1,23 @@
+{
+  "id": "idozymu",
+  "category": "sports",
+  "title": "日本シニアオープンゴルフ２０２１",
+  "fullTitle": "日本シニアオープンゴルフ２０２１",
+  "detail": "",
+  "start": 1631854800000,
+  "end": 1631864940000,
+  "seconds": 10140,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

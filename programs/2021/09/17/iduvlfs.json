@@ -1,0 +1,26 @@
+{
+  "id": "iduvlfs",
+  "category": "cinema",
+  "title": "ラブレス（２０１７）",
+  "fullTitle": "[映][SS]ラブレス（２０１７）",
+  "detail": "カンヌ国際映画祭審査員賞に輝いたサスペンス。ロシアの現代社会を背景に、家族という関係の希薄さをシビアに描く。［Ｒ１５＋］",
+  "start": 1631835600000,
+  "end": 1631844000000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

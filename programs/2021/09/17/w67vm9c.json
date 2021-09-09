@@ -1,0 +1,25 @@
+{
+  "id": "w67vm9c",
+  "category": "anime",
+  "title": "ヒカルの碁 ,14",
+  "fullTitle": "ヒカルの碁[字] #13,14",
+  "detail": "＃１３「それぞれの決意」＃１４「三度目の対局」",
+  "start": 1631820600000,
+  "end": 1631824200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "それぞれの決意",
+  "episode": 13,
+  "flags": [
+    "字"
+  ]
+}

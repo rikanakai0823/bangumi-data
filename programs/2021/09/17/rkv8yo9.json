@@ -1,0 +1,25 @@
+{
+  "id": "rkv8yo9",
+  "category": "sports",
+  "title": "2021ANAオープンゴルフトーナメント 2日目",
+  "fullTitle": "[生]2021ANAオープンゴルフトーナメント 2日目",
+  "detail": "～生中継",
+  "start": 1631845800000,
+  "end": 1631851200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

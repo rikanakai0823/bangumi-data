@@ -1,0 +1,23 @@
+{
+  "id": "rlm3z77",
+  "category": "sports",
+  "title": "NOAH 2020.8.20後楽園ホール",
+  "fullTitle": "NOAH 2020.8.20後楽園ホール",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1631808000000,
+  "end": 1631815200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": null,
+  "flags": []
+}

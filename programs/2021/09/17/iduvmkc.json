@@ -1,0 +1,26 @@
+{
+  "id": "iduvmkc",
+  "category": "cinema",
+  "title": "デッド・ドント・ダイ",
+  "fullTitle": "[映][SS]デッド・ドント・ダイ【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "ジム・ジャームッシュ監督のゾンビコメディ。警察官が３人の平和な町にゾンビの大群が出現し、パニックが起こる。［Ｒ１５＋］",
+  "start": 1631887200000,
+  "end": 1631894400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rkdr87x",
+  "category": "information",
+  "title": "プレシャスファーコレクション　受注会",
+  "fullTitle": "プレシャスファーコレクション　受注会",
+  "detail": "札幌の老舗メーカーがお届けするコレクション。コーディネートを格上げしてくれる上質なアイテムをラインナップしました。",
+  "start": 1631808000000,
+  "end": 1631811600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idskepf",
+  "category": "documentary",
+  "title": "世界の窓",
+  "fullTitle": "世界の窓",
+  "detail": "窓のある風景。現在も人々の生活に根付いている窓から見える歴史や文化を訪ねる世界紀行。",
+  "start": 1631886840000,
+  "end": 1631887200000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

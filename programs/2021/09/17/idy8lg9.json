@@ -1,0 +1,25 @@
+{
+  "id": "idy8lg9",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "ビッグシティ・グリーン[二]",
+  "detail": "ビッグシティ・グリーン",
+  "start": 1631810700000,
+  "end": 1631811600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

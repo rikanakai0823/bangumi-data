@@ -1,0 +1,25 @@
+{
+  "id": "idp48wz",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「多摩丘陵」[字]",
+  "detail": "東京都心から４０分、多摩丘陵には昔ながらの里山が残る。ここに５０年前に誕生した日本最大規模の多摩ニュータウン。古きも、新しきも受け入れながら生きる人々の夏物語。",
+  "start": 1631880000000,
+  "end": 1631883600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "多摩丘陵",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

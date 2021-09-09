@@ -1,0 +1,23 @@
+{
+  "id": "idxy4my",
+  "category": "hobby",
+  "title": "ミニ番組 2021年9月 1",
+  "fullTitle": "ミニ番組 2021年9月 1",
+  "detail": "５分間のミニ番組です。",
+  "start": 1631854500000,
+  "end": 1631854800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

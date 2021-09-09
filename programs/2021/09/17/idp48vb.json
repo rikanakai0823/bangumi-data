@@ -1,0 +1,26 @@
+{
+  "id": "idp48vb",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「三浦半島」[字][再]",
+  "detail": "東京のすぐそばにある別天地、三浦半島。マグロや野菜のグルメに、３千種の生物がいる奇跡の森まで魅力満載。日本最古級の造船所、特攻隊の秘密基地など、歴史と今を巡る旅",
+  "start": 1631833200000,
+  "end": 1631836800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "三浦半島",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

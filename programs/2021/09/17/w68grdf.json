@@ -1,0 +1,25 @@
+{
+  "id": "w68grdf",
+  "category": "documentary",
+  "title": "NASA超常ファイル S3：ISS・非常警報発令",
+  "fullTitle": "NASA超常ファイル S3：ISS・非常警報発令(二)",
+  "detail": "探査機マーズ・リコネッサンス・オービターが火星の表面に奇妙な筋を見つけた。それは地下水で満たされた大きな帯水層が火星の地下にあることを示しているようで…。",
+  "start": 1631844000000,
+  "end": 1631847600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 132
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
