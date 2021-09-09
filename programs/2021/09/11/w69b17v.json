@@ -1,9 +1,9 @@
 {
   "id": "w69b17v",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "Living Golf[再]",
+  "detail": "＃199 史上最高のゴルファーの1人、アーノルド・パーマー特集。死去から5年、ジャック・ニクラスとゲーリー・プレーヤーにインタビュー、彼のキャリアを振り返る。",
   "start": 1631336400000,
   "end": 1631338200000,
   "seconds": 1800,
@@ -18,7 +18,7 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 199,
   "flags": [
     "再"
   ]
