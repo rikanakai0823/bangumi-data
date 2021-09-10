@@ -1,0 +1,23 @@
+{
+  "id": "w698jz6",
+  "category": "news",
+  "title": "BBCワールドニュース",
+  "fullTitle": "BBCワールドニュース",
+  "detail": "世界の最新ニュースを１時間おきに伝えるニュース番組。世界各地の政治・経済ニュースをお伝えする他、スポーツの結果、映画情報などをお伝えする。",
+  "start": 1631970000000,
+  "end": 1631970900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idozcj3",
+  "category": "sports",
+  "title": "クライミング世界選手権２０２１",
+  "fullTitle": "クライミング世界選手権２０２１",
+  "detail": "",
+  "start": 1631976600000,
+  "end": 1631983800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

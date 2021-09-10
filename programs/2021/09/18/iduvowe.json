@@ -1,0 +1,26 @@
+{
+  "id": "iduvowe",
+  "category": "cinema",
+  "title": "ハッピー・デス・デイ",
+  "fullTitle": "[映][SS]ハッピー・デス・デイ【取り残されるな！時間逆行サスペンス】",
+  "detail": "ジェイソン・ブラムが製作を務めたタイムループホラー。誕生日の夜に殺される、という恐怖の１日が何度も繰り返される様を描く。",
+  "start": 1631935800000,
+  "end": 1631942100000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "取り残されるな！時間逆行サスペンス",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

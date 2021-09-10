@@ -1,0 +1,23 @@
+{
+  "id": "idt5mka",
+  "category": "sports",
+  "title": "ウイニング競馬　～中山～",
+  "fullTitle": "ウイニング競馬　～中山～",
+  "detail": "【中山】10Ｒ御宿特別\r\n　　　　11Ｒ初風ステークス\r\n【中京】10Ｒ大府特別\r\n　　　　11Ｒケフェウスステークス",
+  "start": 1631943000000,
+  "end": 1631948400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "中山",
+  "episode": null,
+  "flags": []
+}

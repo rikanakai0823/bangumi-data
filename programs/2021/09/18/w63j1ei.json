@@ -1,0 +1,25 @@
+{
+  "id": "w63j1ei",
+  "category": "sports",
+  "title": "2021 ANAオープンゴルフトーナメント 3日目 1番ホール",
+  "fullTitle": "[生]2021 ANAオープンゴルフトーナメント 3日目 1番ホール",
+  "detail": "～生中継",
+  "start": 1631919600000,
+  "end": 1631928600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

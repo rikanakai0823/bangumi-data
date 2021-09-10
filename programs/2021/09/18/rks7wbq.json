@@ -1,0 +1,25 @@
+{
+  "id": "rks7wbq",
+  "category": "information",
+  "title": "CSテレ朝ナビ！！",
+  "fullTitle": "[無料]CSテレ朝ナビ！！",
+  "detail": "テレビ朝日のCS放送「テレ朝チャンネル１・２」の見どころを紹介します！\r\nTEL:0570-0555-77（10時～20時　年中無休）",
+  "start": 1631903100000,
+  "end": 1631903400000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "テレ朝チャンネル１・２",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

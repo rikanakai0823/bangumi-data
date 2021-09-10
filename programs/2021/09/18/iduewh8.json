@@ -1,0 +1,27 @@
+{
+  "id": "iduewh8",
+  "category": "sports",
+  "title": "ラ・リーガ　第５節　Ａ・マドリードｖｓＡ・ビルバオ",
+  "fullTitle": "[初][生]ラ・リーガ　第５節　Ａ・マドリードｖｓＡ・ビルバオ[二]",
+  "detail": "",
+  "start": 1631973600000,
+  "end": 1631982000000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生",
+    "二"
+  ]
+}

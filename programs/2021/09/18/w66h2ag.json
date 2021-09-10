@@ -1,0 +1,25 @@
+{
+  "id": "w66h2ag",
+  "category": "variety",
+  "title": "いいすぽ！",
+  "fullTitle": "[生]いいすぽ！　#67",
+  "detail": "＜MC＞バカリズム\r\n＜出演＞e-Sportsプレイヤー\r\n※第2音声：ゲーム音のみ\r\n【生放送】",
+  "start": 1631955600000,
+  "end": 1631962800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": 67,
+  "flags": [
+    "生"
+  ]
+}

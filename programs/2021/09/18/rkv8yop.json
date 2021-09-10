@@ -1,0 +1,25 @@
+{
+  "id": "rkv8yop",
+  "category": "sports",
+  "title": "2021MotoGP 第14戦カサンマリノGP予選",
+  "fullTitle": "[生]2021MotoGP 第14戦カサンマリノGP予選",
+  "detail": "",
+  "start": 1631961000000,
+  "end": 1631976300000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

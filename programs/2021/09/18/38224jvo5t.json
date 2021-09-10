@@ -1,0 +1,25 @@
+{
+  "id": "38224jvo5t",
+  "category": "variety",
+  "title": "かまいたちのいただきハウス",
+  "fullTitle": "かまいたちのいただきハウス[字]",
+  "detail": "バラエティ、ドラマ、スポーツなどのスペシャル番組や人気番組のアンコールを放送！",
+  "start": 1631943000000,
+  "end": 1631946600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

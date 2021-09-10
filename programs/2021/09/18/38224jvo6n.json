@@ -1,0 +1,25 @@
+{
+  "id": "38224jvo6n",
+  "category": "drama",
+  "title": "調整中",
+  "fullTitle": "調整中[字]",
+  "detail": "※番組が決まり次第、お知らせいたします。",
+  "start": 1631932200000,
+  "end": 1631932800000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
