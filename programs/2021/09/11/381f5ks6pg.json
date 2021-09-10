@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks6pg",
+  "category": "news",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「９．１１から２０年式典」関連[字]",
+  "detail": "",
+  "start": 1631364600000,
+  "end": 1631364900000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "９．１１から２０年式典",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
