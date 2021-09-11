@@ -1,0 +1,25 @@
+{
+  "id": "idx1sna",
+  "category": "anime",
+  "title": "はたらく細胞 ,5,6",
+  "fullTitle": "[字]はたらく細胞 #4,5,6",
+  "detail": "#4「食中毒」#5「スギ花粉アレルギー」\r\n#6「赤芽球と骨髄球」\r\n細胞たちは体という世界の中、今日も元気に、休むことな…",
+  "start": 1632007800000,
+  "end": 1632013200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "食中毒",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

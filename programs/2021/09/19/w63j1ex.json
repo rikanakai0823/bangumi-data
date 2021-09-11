@@ -1,0 +1,23 @@
+{
+  "id": "w63j1ex",
+  "category": "sports",
+  "title": "2021 ANAオープンゴルフトーナメント 3日目 地上波",
+  "fullTitle": "2021 ANAオープンゴルフトーナメント 3日目 地上波",
+  "detail": "2021年9月18日開催",
+  "start": 1632000600000,
+  "end": 1632004200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idy8lio",
+  "category": "cinema",
+  "title": "サマーウォーズ",
+  "fullTitle": "サマーウォーズ",
+  "detail": "長野の田舎で、数学が取り得の内気な高校生が大家族とともに、仮想世界ＯＺから突如ぼっ発した世界の危機に立ち向かう。／監督：細田守／声の出演：神木隆之介ほか",
+  "start": 1631977200000,
+  "end": 1631984400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

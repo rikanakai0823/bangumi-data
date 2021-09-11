@@ -1,0 +1,25 @@
+{
+  "id": "w63j1ey",
+  "category": "sports",
+  "title": "2021 ANAオープンゴルフトーナメント 最終日 1番ホール",
+  "fullTitle": "[生]2021 ANAオープンゴルフトーナメント 最終日 1番ホール",
+  "detail": "～生中継",
+  "start": 1632004200000,
+  "end": 1632013200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduewhn",
+  "category": "sports",
+  "title": "ラ・リーガ　第５節　レアル・ソシエダｖｓセビージャ",
+  "fullTitle": "[初][生]ラ・リーガ　第５節　レアル・ソシエダｖｓセビージャ[二]",
+  "detail": "",
+  "start": 1632060300000,
+  "end": 1632069000000,
+  "seconds": 8700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生",
+    "二"
+  ]
+}

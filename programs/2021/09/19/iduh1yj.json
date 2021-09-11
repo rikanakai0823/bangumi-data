@@ -1,0 +1,27 @@
+{
+  "id": "iduh1yj",
+  "category": "cinema",
+  "title": "とんかつＤＪアゲ太郎",
+  "fullTitle": "[映]とんかつＤＪアゲ太郎[SS][字]",
+  "detail": "北村匠海が、ＤＪを目指すとんかつ店の三代目を演じた音楽青春コメディ。好きな女の子を振り向かせようと実力派のＤＪに弟子入りした、老舗とんかつ店の息子が大活躍する。",
+  "start": 1632044700000,
+  "end": 1632051000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

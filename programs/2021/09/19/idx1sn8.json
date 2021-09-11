@@ -1,0 +1,25 @@
+{
+  "id": "idx1sn8",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ,522",
+  "fullTitle": "[字]ちびまる子ちゃん #521,522",
+  "detail": "#521「立ったタマゴ」の巻／「コンニャクぷるるん」の巻\r\n#522「楽しい歯みがき」の巻／「ファッションモデルになろう…",
+  "start": 1632000600000,
+  "end": 1632004200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "立ったタマゴ",
+  "episode": 521,
+  "flags": [
+    "字"
+  ]
+}

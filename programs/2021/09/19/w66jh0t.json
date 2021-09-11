@@ -1,0 +1,25 @@
+{
+  "id": "w66jh0t",
+  "category": "variety",
+  "title": "オールナイト声優フジ3夜",
+  "fullTitle": "[生]オールナイト声優フジ3夜",
+  "detail": "番組MCは、大人気声優・森久保祥太郎！ 人気若手声優が大集結！の生放送番組第3弾！今回は、フジテレビ本社スタジオから【4時間完全生放送】",
+  "start": 1631977200000,
+  "end": 1631991600000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "4時間完全生放送",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

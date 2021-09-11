@@ -1,0 +1,25 @@
+{
+  "id": "idtr7ck",
+  "category": "sports",
+  "title": "住友生命Vitalityレディス  東海クラシック　最終日",
+  "fullTitle": "[生]第52回住友生命Vitalityレディス  東海クラシック　最終日",
+  "detail": "秋の愛知で繰り広げられる、女子プロゴルファーたちの熱い戦いを連日放送！2019年大会優勝の渋野日向子、2020年大会優勝の古江彩佳など名勝負が続く本大会。今年も大注目だ",
+  "start": 1632016800000,
+  "end": 1632020400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 52,
+  "flags": [
+    "生"
+  ]
+}

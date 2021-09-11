@@ -1,0 +1,25 @@
+{
+  "id": "idxy4o8",
+  "category": "hobby",
+  "title": "魚種格闘技戦！ 233 DIRECTORS-spec 奨",
+  "fullTitle": "[新]魚種格闘技戦！ 233 DIRECTORS-spec 奨",
+  "detail": "全世界をフィールドにあらゆる魚族に挑むフィッシングエンタメ番組。実釣番組最多放送回数を誇るラインナップから、厳選バトルを村田基のコメンタリー付で振り返る。",
+  "start": 1632009600000,
+  "end": 1632013200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

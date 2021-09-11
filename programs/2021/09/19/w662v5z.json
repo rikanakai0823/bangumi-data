@@ -1,0 +1,25 @@
+{
+  "id": "w662v5z",
+  "category": "information",
+  "title": "番組PR",
+  "fullTitle": "[無料]番組PR",
+  "detail": "日テレプラスのオススメ・イチオシ番組をご紹介。",
+  "start": 1632041700000,
+  "end": 1632042000000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

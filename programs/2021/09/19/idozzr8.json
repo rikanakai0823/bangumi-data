@@ -1,0 +1,23 @@
+{
+  "id": "idozzr8",
+  "category": "sports",
+  "title": "日本シニアオープンゴルフ２０２１",
+  "fullTitle": "日本シニアオープンゴルフ２０２１「最終日」",
+  "detail": "熟練シニアプレーヤーの熱戦。谷口徹、伊澤利光、深堀圭一郎など実績十分の選手に注目！山梨県北杜市のシャトレーゼ　ヴィンテージゴルフ倶楽部から生中継です。",
+  "start": 1632024000000,
+  "end": 1632034200000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "最終日",
+  "episode": null,
+  "flags": []
+}

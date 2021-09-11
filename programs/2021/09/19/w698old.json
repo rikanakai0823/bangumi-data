@@ -1,0 +1,25 @@
+{
+  "id": "w698old",
+  "category": "hobby",
+  "title": "トラベル・ショー",
+  "fullTitle": "トラベル・ショー(再)",
+  "detail": "今回のトラベル・ショーは、ラジャン・ダタルが閉港となったベルリンのテーゲル空港を訪れる。",
+  "start": 1632054600000,
+  "end": 1632056400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
