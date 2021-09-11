@@ -1,0 +1,25 @@
+{
+  "id": "idozchn",
+  "category": "documentary",
+  "title": "空港ピアノ",
+  "fullTitle": "空港ピアノ「オーストラリア・ブリスベン」[再]",
+  "detail": "豪・ブリスベンの国際空港に置かれた赤いピアノ。サッカー強豪チームの女子高校生、ガンと闘うジャズピアニスト、一人娘と旅するシングルマザー…どんな思いで曲を弾くのか",
+  "start": 1631333100000,
+  "end": 1631335800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "オーストラリア・ブリスベン",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
