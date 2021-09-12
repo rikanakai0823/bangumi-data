@@ -1,0 +1,25 @@
+{
+  "id": "w67vmcv",
+  "category": "etc",
+  "title": "劇場版",
+  "fullTitle": "劇場版「それいけ！アンパンマン　虹のピラミッド」[字]",
+  "detail": "虹の星の大ピンチを救うためアンパンマンたちが大活躍！！の＜虹のピラミッド＞お送りします。",
+  "start": 1632105000000,
+  "end": 1632108600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "それいけ！アンパンマン　虹のピラミッド",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

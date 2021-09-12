@@ -1,0 +1,25 @@
+{
+  "id": "w63j1fp",
+  "category": "sports",
+  "title": "ジャイアンツイースタンリーグ2021～ジャイアンツ球場～",
+  "fullTitle": "[生]ジャイアンツイースタンリーグ2021「巨人×ヤクルト」～ジャイアンツ球場～",
+  "detail": "～生中継\r\n*雨天の場合、放送休止の可能性あり\r\n*延長なし\r\n解説：川相昌弘　実況：河村亮",
+  "start": 1632110400000,
+  "end": 1632124800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×ヤクルト",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

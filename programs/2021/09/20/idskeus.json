@@ -1,0 +1,23 @@
+{
+  "id": "idskeus",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　中日」",
+  "detail": "",
+  "start": 1632114000000,
+  "end": 1632124440000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　中日",
+  "episode": null,
+  "flags": []
+}

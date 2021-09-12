@@ -1,0 +1,25 @@
+{
+  "id": "idozbci",
+  "category": "documentary",
+  "title": "街角ピアノ",
+  "fullTitle": "街角ピアノ「浜松　ｖｏｌ．１」[字]",
+  "detail": "静岡県の新東名高速道路、浜松サービスエリア上り線に置かれたピアノ。高速バスの運転手。浜崎あゆみの大ファン。ショパンに挑み続ける主婦。どんな思いで曲を弾くのか。",
+  "start": 1632099600000,
+  "end": 1632100500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "浜松　ｖｏｌ．１",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

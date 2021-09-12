@@ -1,0 +1,25 @@
+{
+  "id": "w63j1ft",
+  "category": "sports",
+  "title": "2021 ANAオープンゴルフトーナメント 最終日 地上波",
+  "fullTitle": "2021 ANAオープンゴルフトーナメント 最終日 地上波[再]",
+  "detail": "2021年9月19日開催",
+  "start": 1632132000000,
+  "end": 1632137400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvuwu",
+  "category": "cinema",
+  "title": "アス",
+  "fullTitle": "[映][SS]アス",
+  "detail": "ジョーダン・ピール監督の不条理ホラー。別荘へやってきた家族が、自分たちと瓜二つの４人組に襲われる恐怖を描く。［Ｒ１５＋］",
+  "start": 1632094200000,
+  "end": 1632102000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idt5n0z",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "【中山】10Ｒ2001メモリアルジャングルポケットＣ、11Ｒセントライト記念（ＧⅡ）\r\n【中京】10Ｒ2011メモリアルオルフェーヴルＣ、11ＲJRAアニバーサリーステークス",
+  "start": 1632117600000,
+  "end": 1632121200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "中山",
+  "episode": null,
+  "flags": []
+}

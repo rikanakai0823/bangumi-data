@@ -1,0 +1,25 @@
+{
+  "id": "idxc8i6",
+  "category": "sports",
+  "title": "【PPS】ドラゴンゲート21.9.20 大田区大会",
+  "fullTitle": "[生]【PPS】ドラゴンゲート21.9.20 大田区大会",
+  "detail": "東京・大田区総合体育館で開催されるビッグマッチ「DANGEROUS GATE 2021」。",
+  "start": 1632117600000,
+  "end": 1632135600000,
+  "seconds": 18000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "DANGEROUS GATE 2021",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

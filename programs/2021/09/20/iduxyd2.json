@@ -1,0 +1,25 @@
+{
+  "id": "iduxyd2",
+  "category": "cinema",
+  "title": "カラヴァッジオ［ＨＤリマスター版］",
+  "fullTitle": "[映]カラヴァッジオ［ＨＤリマスター版］",
+  "detail": "鬼才デレク・ジャーマン監督による伝記ドラマ。ルネッサンスに実在した画家カラヴァッジオの波乱万丈の人生を大胆な解釈で描く。",
+  "start": 1632075000000,
+  "end": 1632081000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

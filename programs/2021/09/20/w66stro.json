@@ -1,0 +1,25 @@
+{
+  "id": "w66stro",
+  "category": "drama",
+  "title": "パッセージ",
+  "fullTitle": "パッセージ #9「光の中」[字]",
+  "detail": "４Ｂでは感染者たちが暴れ出すが、エレベーターが動かなくなり、取り残された者たちは逃げられなくなる。ウォルガストはラボにいるサイクスを助け、脱出しようとするが…。",
+  "start": 1632074400000,
+  "end": 1632078000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 117
+  },
+  "subTitle": "光の中",
+  "episode": 9,
+  "flags": [
+    "字"
+  ]
+}

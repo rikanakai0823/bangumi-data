@@ -1,0 +1,25 @@
+{
+  "id": "w681ysd",
+  "category": "anime",
+  "title": "東京リベンジャーズ",
+  "fullTitle": "東京リベンジャーズ #24 [終]",
+  "detail": "",
+  "start": 1632141000000,
+  "end": 1632142800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 24,
+  "flags": [
+    "終"
+  ]
+}

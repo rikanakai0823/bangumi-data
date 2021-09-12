@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zbo",
+  "category": "sports",
+  "title": "UFC CLASSICS～フランク・ミア",
+  "fullTitle": "UFC CLASSICS～フランク・ミア",
+  "detail": "ヘビー級史上最強ファイターのひとり、フランク・ミア。ティム・シルビア、ブロック・レスナー、ノゲイラらとの対戦を特集。",
+  "start": 1632087000000,
+  "end": 1632090600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

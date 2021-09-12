@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8h807",
+  "category": "anime",
+  "title": "トムとジェリー",
+  "fullTitle": "トムとジェリー　＃１２[再][二]",
+  "detail": "＃１２「いたずらきつつき」「オーバーな奴」「くたびれもうけの魚釣り」",
+  "start": 1632132000000,
+  "end": 1632133800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "いたずらきつつき",
+  "episode": 12,
+  "flags": [
+    "再",
+    "二"
+  ]
+}

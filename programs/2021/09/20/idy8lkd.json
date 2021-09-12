@@ -1,0 +1,25 @@
+{
+  "id": "idy8lkd",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#1[二]",
+  "detail": "#1「タートルズ参上！（前編）」",
+  "start": 1632114000000,
+  "end": 1632115800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "タートルズ参上！（前編）",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

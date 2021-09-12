@@ -1,0 +1,26 @@
+{
+  "id": "idp25f5",
+  "category": "sports",
+  "title": "プロ野球２０２１「楽天」対",
+  "fullTitle": "プロ野球２０２１「楽天」対「ソフトバンク」[多][字]",
+  "detail": "　※副音声は球場音声　【解説】大野豊，【アナウンサー】塚本貴之　～楽天生命パーク宮城から中継～",
+  "start": 1632119400000,
+  "end": 1632123000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "ソフトバンク",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

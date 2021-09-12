@@ -1,0 +1,25 @@
+{
+  "id": "idy8ljx",
+  "category": "drama",
+  "title": "ザ・ロッジ",
+  "fullTitle": "ザ・ロッジ#6[二]",
+  "detail": "#6「秘密と親友」",
+  "start": 1632076200000,
+  "end": 1632078000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "秘密と親友",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}
