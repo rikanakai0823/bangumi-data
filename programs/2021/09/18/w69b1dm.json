@@ -1,9 +1,9 @@
 {
   "id": "w69b1dm",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "Living Golf",
+  "detail": "#200 アイスランド特集。美しい山々と溶岩の大地に囲まれた、独この国ならではのゴルフコース、自然との共生を目指す、サステナブルなゴルフへの取組みなどを紹介。",
   "start": 1631941200000,
   "end": 1631943000000,
   "seconds": 1800,
@@ -18,8 +18,6 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
-  "flags": [
-    "再"
-  ]
+  "episode": 200,
+  "flags": []
 }
