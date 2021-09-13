@@ -1,9 +1,9 @@
 {
   "id": "idozcj3",
   "category": "sports",
-  "title": "クライミング世界選手権２０２１",
-  "fullTitle": "クライミング世界選手権２０２１",
-  "detail": "",
+  "title": "クライミング世界選手権２０２１～モスクワ～",
+  "fullTitle": "クライミング世界選手権２０２１～モスクワ～「ボルダリング女子決勝」[二]",
+  "detail": "【解説】平山ユージ，【アナウンサー】笠井大輔",
   "start": 1631976600000,
   "end": 1631983800000,
   "seconds": 7200,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "ボルダリング女子決勝",
   "episode": null,
-  "flags": []
+  "flags": [
+    "二"
+  ]
 }

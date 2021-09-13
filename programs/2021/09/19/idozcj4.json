@@ -1,9 +1,9 @@
 {
   "id": "idozcj4",
   "category": "sports",
-  "title": "クライミング世界選手権２０２１",
-  "fullTitle": "クライミング世界選手権２０２１",
-  "detail": "",
+  "title": "クライミング世界選手権２０２１～モスクワ～",
+  "fullTitle": "クライミング世界選手権２０２１～モスクワ～「ボルダリング男子決勝」[二]",
+  "detail": "【解説】平山ユージ，【アナウンサー】伊藤慶太",
   "start": 1632063000000,
   "end": 1632070200000,
   "seconds": 7200,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "ボルダリング男子決勝",
   "episode": null,
-  "flags": []
+  "flags": [
+    "二"
+  ]
 }
