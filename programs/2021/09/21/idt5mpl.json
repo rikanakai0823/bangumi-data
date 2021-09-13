@@ -1,0 +1,23 @@
+{
+  "id": "idt5mpl",
+  "category": "information",
+  "title": "ジャパ得！ショッピング",
+  "fullTitle": "ジャパ得！ショッピング",
+  "detail": "ジャパネットたかたテレビショッピング。人気の家電製品やワクワクするような食品など生活を豊かにする素敵な商品を紹介します。",
+  "start": 1632167460000,
+  "end": 1632169200000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

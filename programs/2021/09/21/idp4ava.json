@@ -1,0 +1,25 @@
+{
+  "id": "idp4ava",
+  "category": "documentary",
+  "title": "世界ふれあい街歩き　選　スペシャル",
+  "fullTitle": "世界ふれあい街歩き　選　スペシャル「音楽が響く街」[字]",
+  "detail": "ゴスペルが聴こえるニューヨーク・ハーレム、ミュゼットが懐かしいパリ・カルチェラタンなど、音楽が響く街を特集して紹介する。コロナ禍に見舞われた様子も伝える。",
+  "start": 1632222000000,
+  "end": 1632227340000,
+  "seconds": 5340,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "音楽が響く街",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

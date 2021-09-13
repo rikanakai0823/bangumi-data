@@ -1,0 +1,23 @@
+{
+  "id": "idvjtc2",
+  "category": "etc",
+  "title": "ZERO HOUR",
+  "fullTitle": "ZERO HOUR",
+  "detail": "疲れたマインドをリセットしてみませんか？\r\nこの地球上のどこかのエリアで流れている空気、異なる時間の流れを、美しい映像とともにお送りします。",
+  "start": 1632155100000,
+  "end": 1632155400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iducr09",
+  "category": "cinema",
+  "title": "明日の食卓",
+  "fullTitle": "[映]明日の食卓[SS][字]",
+  "detail": "椰月美智子の同名小説を、「糸」の瀬々敬久監督が映画化。子育てに奮闘する母親たちを、菅野美穂、高畑充希、尾野真千子が三者三様に熱演した痛切極まりない秀作群像劇。",
+  "start": 1632214200000,
+  "end": 1632222000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "糸",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

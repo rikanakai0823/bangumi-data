@@ -1,0 +1,26 @@
+{
+  "id": "iduvwau",
+  "category": "cinema",
+  "title": "ふたつの名前を持つ少年",
+  "fullTitle": "[映][SS]ふたつの名前を持つ少年",
+  "detail": "壮絶な運命を生き抜いたユダヤ人少年の実話を元にした感動ドラマ。身の上を偽ってナチスから逃れた少年の力強い足取りを追う。",
+  "start": 1632159000000,
+  "end": 1632166200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rkngi0h",
+  "category": "etc",
+  "title": "放送終了",
+  "fullTitle": "放送終了",
+  "detail": "この時間は放送を終了しています。",
+  "start": 1632159000000,
+  "end": 1632164400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "東映チャンネル",
+    "id": "cv4q",
+    "sid": 218,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 91
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67vmdm",
+  "category": "anime",
+  "title": "ヒカルの碁 ,18",
+  "fullTitle": "ヒカルの碁[字] #17,18",
+  "detail": "＃１７「追憶の一局」＃１８「アキラ対ｓａｉ」",
+  "start": 1632166200000,
+  "end": 1632169800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "追憶の一局",
+  "episode": 17,
+  "flags": [
+    "字"
+  ]
+}

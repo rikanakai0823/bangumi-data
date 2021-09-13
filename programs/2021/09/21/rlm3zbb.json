@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zbb",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～ファーム～ ソフトバンクvs.広島",
+  "fullTitle": "HAWKS プロ野球中継2021～ファーム～ ソフトバンクvs.広島",
+  "detail": "▽9月18日開催\r\n解説/実況：松中信彦/山下末則\r\n開催日時：2021年9月18日 (土) 17:00\r\n会場：タマホーム スタジアム筑後",
+  "start": 1632193200000,
+  "end": 1632209400000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

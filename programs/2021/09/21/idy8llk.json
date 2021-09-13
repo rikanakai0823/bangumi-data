@@ -1,0 +1,25 @@
+{
+  "id": "idy8llk",
+  "category": "anime",
+  "title": "マーベル　おしえて！スパイダーマン",
+  "fullTitle": "マーベル　おしえて！スパイダーマン#5[二]",
+  "detail": "#5「電気の力」",
+  "start": 1632200100000,
+  "end": 1632200400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "電気の力",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67vmem",
+  "category": "anime",
+  "title": "ポケットモンスター ,151",
+  "fullTitle": "ポケットモンスター[字] #150,151",
+  "detail": "＃１５０「ウパーがいっぱい！」＃１５１「プリンＶＳブルー！」",
+  "start": 1632222000000,
+  "end": 1632225600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ウパーがいっぱい！",
+  "episode": 150,
+  "flags": [
+    "字"
+  ]
+}

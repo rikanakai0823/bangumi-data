@@ -1,0 +1,25 @@
+{
+  "id": "w67vmep",
+  "category": "anime",
+  "title": "ヒカルの碁 ,20",
+  "fullTitle": "ヒカルの碁[字] #19,20",
+  "detail": "＃１９「ヒカルの実力」＃２０「プロへの道」",
+  "start": 1632232800000,
+  "end": 1632236400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ヒカルの実力",
+  "episode": 19,
+  "flags": [
+    "字"
+  ]
+}

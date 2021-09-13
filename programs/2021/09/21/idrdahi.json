@@ -1,0 +1,23 @@
+{
+  "id": "idrdahi",
+  "category": "information",
+  "title": "日テレポシュレＢＳ店",
+  "fullTitle": "日テレポシュレＢＳ店",
+  "detail": "「ポシュレだから買える」お得な商品をご紹介します！",
+  "start": 1632159000000,
+  "end": 1632160800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "ポシュレだから買える",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w693tli",
+  "category": "news",
+  "title": "特選ドキュメンタリー JNNドキュメント",
+  "fullTitle": "特選ドキュメンタリー JNNドキュメント",
+  "detail": "ＪＮＮ各局が制作する珠玉のドキュメンタリー",
+  "start": 1632232800000,
+  "end": 1632236400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
