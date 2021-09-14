@@ -1,0 +1,25 @@
+{
+  "id": "idy8lmc",
+  "category": "drama",
+  "title": "シェキラ！",
+  "fullTitle": "シェキラ！#49[二]",
+  "detail": "#49「クシャミとチャリティー！」",
+  "start": 1632249000000,
+  "end": 1632250800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "クシャミとチャリティー！",
+  "episode": 49,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1sok",
+  "category": "anime",
+  "title": "キングダム ,31",
+  "fullTitle": "[字]キングダム #30,31",
+  "detail": "#30「天災」#31「集の力」\r\n紀元前、中国。西方の国・秦で、戦災孤児として暮らしていた2人の少年、信と漂の夢は、いつ…",
+  "start": 1632254400000,
+  "end": 1632258000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "天災",
+  "episode": 30,
+  "flags": [
+    "字"
+  ]
+}

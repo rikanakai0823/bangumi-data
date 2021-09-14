@@ -1,0 +1,25 @@
+{
+  "id": "idrdaky",
+  "category": "anime",
+  "title": "アニメ　結城友奈は勇者である",
+  "fullTitle": "アニメ　結城友奈は勇者である[終]",
+  "detail": "勇者の章　⑥　「君ありて幸福」",
+  "start": 1632321000000,
+  "end": 1632322800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "君ありて幸福",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

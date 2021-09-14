@@ -1,0 +1,27 @@
+{
+  "id": "iduewik",
+  "category": "sports",
+  "title": "ラ・リーガ　第６節　ヘタフェｖｓアトレティコ・マドリード",
+  "fullTitle": "[初][生]ラ・リーガ　第６節　ヘタフェｖｓアトレティコ・マドリード[二]",
+  "detail": "",
+  "start": 1632244500000,
+  "end": 1632253500000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生",
+    "二"
+  ]
+}

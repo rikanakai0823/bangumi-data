@@ -1,0 +1,26 @@
+{
+  "id": "iduw1ar",
+  "category": "cinema",
+  "title": "ムスタング",
+  "fullTitle": "[映][SS]ムスタング",
+  "detail": "服役囚が野生馬“ムスタング”の調教を通し、自分の中にある人間らしさを再発見する姿を描くドラマ。［ＰＧ１２相当］",
+  "start": 1632269700000,
+  "end": 1632276000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

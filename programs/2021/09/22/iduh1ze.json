@@ -1,0 +1,27 @@
+{
+  "id": "iduh1ze",
+  "category": "cinema",
+  "title": "影に抱かれて眠れ[PG12指定]",
+  "fullTitle": "[映]影に抱かれて眠れ[PG12指定][SS][字]",
+  "detail": "加藤雅也、中村ゆり、松本利夫らが共演し、アウトローの群像を描いた北方謙三の小説「抱影」を映画化したハードボイルド編。監督は「相棒」シリーズなどの名手、和泉聖治。",
+  "start": 1632276000000,
+  "end": 1632283200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

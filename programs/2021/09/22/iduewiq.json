@@ -1,0 +1,25 @@
+{
+  "id": "iduewiq",
+  "category": "theater",
+  "title": "トニー賞が帰ってくる！",
+  "fullTitle": "[無]トニー賞が帰ってくる！",
+  "detail": "",
+  "start": 1632272400000,
+  "end": 1632273300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

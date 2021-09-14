@@ -1,0 +1,25 @@
+{
+  "id": "w67vmfy",
+  "category": "anime",
+  "title": "ヒカルの碁 ,22",
+  "fullTitle": "ヒカルの碁[字] #21,22",
+  "detail": "＃２１「葉瀬中囲碁部」＃２２「院生試験」",
+  "start": 1632319200000,
+  "end": 1632322800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "葉瀬中囲碁部",
+  "episode": 21,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idskeyu",
+  "category": "information",
+  "title": "奈良ふしぎ旅図鑑",
+  "fullTitle": "奈良ふしぎ旅図鑑",
+  "detail": "",
+  "start": 1632311640000,
+  "end": 1632312000000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
