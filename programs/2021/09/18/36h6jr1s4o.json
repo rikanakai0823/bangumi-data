@@ -2,7 +2,7 @@
   "id": "36h6jr1s4o",
   "category": "music",
   "title": "彩の国百科",
-  "fullTitle": "彩の国百科[字][Ｓ]",
+  "fullTitle": "彩の国百科[Ｓ]",
   "detail": "権現堂桜堤編",
   "start": 1631975400000,
   "end": 1631975700000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
