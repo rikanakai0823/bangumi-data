@@ -1,0 +1,27 @@
+{
+  "id": "idv0d10",
+  "category": "cinema",
+  "title": "アルゴ",
+  "fullTitle": "[映][SS][字]アルゴ[吹]",
+  "detail": "アメリカ大使館人質事件を題材に、実際にＣＩＡが行った奇想天外な救出劇を映画化してアカデミー作品賞を受賞した実録ドラマ。",
+  "start": 1632336000000,
+  "end": 1632344400000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

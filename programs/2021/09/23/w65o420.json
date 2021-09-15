@@ -1,0 +1,26 @@
+{
+  "id": "w65o420",
+  "category": "cinema",
+  "title": "陰陽師",
+  "fullTitle": "[HV][字][映]陰陽師",
+  "detail": "原作者・夢枕獏自身が書き下ろした完全オリジナル作品。主人公・安倍晴明には、映画初主演の野村萬斎。監督は「おくりびと」など優れた人物描写に定評のある滝田洋二郎。",
+  "start": 1632401400000,
+  "end": 1632409200000,
+  "seconds": 7800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 102
+  },
+  "subTitle": "おくりびと",
+  "episode": null,
+  "flags": [
+    "字",
+    "映"
+  ]
+}

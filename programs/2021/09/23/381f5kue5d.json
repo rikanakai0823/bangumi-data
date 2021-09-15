@@ -1,0 +1,25 @@
+{
+  "id": "381f5kue5d",
+  "category": "sports",
+  "title": "ＭＬＢ２０２１「アストロズ」対",
+  "fullTitle": "ＭＬＢ２０２１「アストロズ」対「エンジェルス」[字]",
+  "detail": "～エンジェルススタジアムから中継～",
+  "start": 1632365580000,
+  "end": 1632373200000,
+  "seconds": 7620,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "エンジェルス",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

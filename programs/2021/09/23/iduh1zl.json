@@ -1,0 +1,27 @@
+{
+  "id": "iduh1zl",
+  "category": "cinema",
+  "title": "ホテルローヤル[PG12指定]",
+  "fullTitle": "[映]ホテルローヤル[PG12指定][SS][字]",
+  "detail": "波瑠主演で桜木紫乃の直木賞受賞作を映画化した人間ドラマ。美大受験に失敗し、実家のラブホテルを手伝う娘が、従業員や客のカップルたちのさまざまな人間模様を見つめる。",
+  "start": 1632325500000,
+  "end": 1632332700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

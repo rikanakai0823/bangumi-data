@@ -1,0 +1,23 @@
+{
+  "id": "idskf0r",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「広島　ｖｓ　巨人」",
+  "detail": "マツダスタジアムから生中継。午後１時３０分試合開始。最大延長午後５時２４分。\r\n【解説】槙原寛己【実況】南波雅俊",
+  "start": 1632371400000,
+  "end": 1632381840000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "広島　ｖｓ　巨人",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8lol",
+  "category": "drama",
+  "title": "アンディ・マック",
+  "fullTitle": "アンディ・マック#45[二]",
+  "detail": "#45「あまーいクッキー」",
+  "start": 1632403800000,
+  "end": 1632405600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "あまーいクッキー",
+  "episode": 45,
+  "flags": [
+    "二"
+  ]
+}

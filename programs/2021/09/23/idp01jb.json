@@ -1,0 +1,26 @@
+{
+  "id": "idp01jb",
+  "category": "sports",
+  "title": "プロ野球２０２１「ロッテ」対",
+  "fullTitle": "プロ野球２０２１「ロッテ」対「ソフトバンク」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　２：００）　【解説】藤川球児，【アナウンサー】横山哲也　～ＺＯＺＯマリンスタジアムから中継～",
+  "start": 1632373200000,
+  "end": 1632385800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ソフトバンク",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iducr11",
+  "category": "anime",
+  "title": "うらみちお兄さん",
+  "fullTitle": "[無][初]うらみちお兄さん　＃１２",
+  "detail": "ＷＥＢマンガ誌「ｃｏｍｉｃ　ＰＯＯＬ」にて連載中の『うらみちお兄さん』のＴＶアニメ。",
+  "start": 1632322800000,
+  "end": 1632324600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "ｃｏｍｉｃ　ＰＯＯＬ",
+  "episode": 12,
+  "flags": [
+    "無",
+    "初"
+  ]
+}
