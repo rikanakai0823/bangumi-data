@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1sgm",
+  "category": "news",
+  "title": "特番（仮）",
+  "fullTitle": "特番（仮）[手][Ｓ]",
+  "detail": "",
+  "start": 1632445200000,
+  "end": 1632448800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

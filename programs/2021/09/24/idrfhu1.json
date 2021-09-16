@@ -1,0 +1,25 @@
+{
+  "id": "idrfhu1",
+  "category": "sports",
+  "title": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２１",
+  "fullTitle": "[デ]ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２１",
+  "detail": "",
+  "start": 1632473100000,
+  "end": 1632474000000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}

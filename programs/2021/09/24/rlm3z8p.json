@@ -1,0 +1,23 @@
+{
+  "id": "rlm3z8p",
+  "category": "sports",
+  "title": "NOAH 公式戦セレクション",
+  "fullTitle": "NOAH 「GLOBAL TAG LEAGUE 2020」公式戦セレクション",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1632420000000,
+  "end": 1632427200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "GLOBAL TAG LEAGUE 2020",
+  "episode": null,
+  "flags": []
+}

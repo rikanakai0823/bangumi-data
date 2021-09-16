@@ -1,0 +1,23 @@
+{
+  "id": "w63j1hg",
+  "category": "sports",
+  "title": "巨人関連番組（仮）",
+  "fullTitle": "巨人関連番組（仮）",
+  "detail": "",
+  "start": 1632466800000,
+  "end": 1632469500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

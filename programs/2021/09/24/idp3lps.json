@@ -1,0 +1,25 @@
+{
+  "id": "idp3lps",
+  "category": "information",
+  "title": "１５分でわかる！",
+  "fullTitle": "１５分でわかる！「マー姉ちゃん」[字]",
+  "detail": "２７日（月）午前７時１５分からＢＳプレミアムで再放送される連続テレビ小説「マー姉ちゃん」。主演の熊谷真実のインタビューなどを通じてドラマの魅力に迫る！",
+  "start": 1632483900000,
+  "end": 1632484800000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "マー姉ちゃん",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

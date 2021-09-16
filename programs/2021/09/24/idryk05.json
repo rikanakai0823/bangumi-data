@@ -1,0 +1,23 @@
+{
+  "id": "idryk05",
+  "category": "information",
+  "title": "ハッピーライフセレクション",
+  "fullTitle": "ハッピーライフセレクション",
+  "detail": "テレビショッピング",
+  "start": 1632466560000,
+  "end": 1632468300000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

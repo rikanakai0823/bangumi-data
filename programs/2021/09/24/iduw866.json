@@ -1,0 +1,26 @@
+{
+  "id": "iduw866",
+  "category": "cinema",
+  "title": "家族を想うとき",
+  "fullTitle": "[映][SS]家族を想うとき",
+  "detail": "名匠ケン・ローチ監督の社会派ドラマ。宅配ドライバーとして独立した父親が、過酷なノルマに追われ家族との時間が奪われてゆく。",
+  "start": 1632468600000,
+  "end": 1632475800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

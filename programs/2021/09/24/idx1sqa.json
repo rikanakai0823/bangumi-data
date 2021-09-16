@@ -1,0 +1,25 @@
+{
+  "id": "idx1sqa",
+  "category": "anime",
+  "title": "テニスの王子様 ,30",
+  "fullTitle": "[字]テニスの王子様 #29,30",
+  "detail": "#29「桃とマムシ」\r\n#30「観月のシナリオ」\r\nアメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テニス…",
+  "start": 1632492000000,
+  "end": 1632495600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "桃とマムシ",
+  "episode": 29,
+  "flags": [
+    "字"
+  ]
+}
