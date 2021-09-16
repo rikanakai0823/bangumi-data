@@ -1,0 +1,26 @@
+{
+  "id": "idp1kis",
+  "category": "sports",
+  "title": "大相撲（２０２１年）　秋場所　十二日目",
+  "fullTitle": "大相撲（２０２１年）　秋場所　十二日目[多][字]",
+  "detail": "　※副音声は場内音声　【解説】正面（十両）…高崎（元金開山），【アナウンサー】正面（十両）…佐藤洋之　～国技館から中継～",
+  "start": 1632377100000,
+  "end": 1632377820000,
+  "seconds": 720,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
