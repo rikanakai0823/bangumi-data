@@ -1,9 +1,9 @@
 {
   "id": "idtr7ao",
   "category": "information",
-  "title": "植野食堂 by dancyu　アンテナショップ巡り",
-  "fullTitle": "植野食堂 by dancyu　アンテナショップ巡り",
-  "detail": "雑誌「dancyu」編集長・植野広生が目指すのは、日本一ふつうで美味しい料理が並ぶ食堂の開店！",
+  "title": "植野食堂 by dancyu",
+  "fullTitle": "植野食堂 by dancyu　＃123　アンテナショップでお買い物",
+  "detail": "雑誌「dancyu」編集長・植野広生が目指すのは、日本一ふつうで美味しい料理が並ぶ食堂の開店！定休日の本日は一流シェフとアンテナショップ巡り！",
   "start": 1632304800000,
   "end": 1632306600000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 56
   },
-  "subTitle": "dancyu",
-  "episode": null,
+  "subTitle": "アンテナショップでお買い物",
+  "episode": 123,
   "flags": []
 }
