@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ljl6",
+  "category": "news",
+  "title": "天気情報",
+  "fullTitle": "天気情報",
+  "detail": " ",
+  "start": 1631908800000,
+  "end": 1631912400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
