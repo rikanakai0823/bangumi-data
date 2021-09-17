@@ -1,0 +1,25 @@
+{
+  "id": "idozfwy",
+  "category": "documentary",
+  "title": "夜ふかしピアノ（一部）",
+  "fullTitle": "夜ふかしピアノ「第一夜」（一部[字]）",
+  "detail": "「夜ふかしピアノ」。これまで放送した「駅・空港・街角ピアノ」から、おすすめの回を二夜連続で紹介する。第一夜は、チョコ・プラハ、米・ミネアポリス、高知・四万十町。",
+  "start": 1632412500000,
+  "end": 1632420720000,
+  "seconds": 8220,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "第一夜",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
