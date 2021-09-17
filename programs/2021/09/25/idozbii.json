@@ -1,0 +1,25 @@
+{
+  "id": "idozbii",
+  "category": "sports",
+  "title": "Ｊリーグ２０２１「アビスパ福岡」対",
+  "fullTitle": "Ｊリーグ２０２１「アビスパ福岡」対「サガン鳥栖」[デ]",
+  "detail": "　（試合開始　７：０１）　【解説】木村和司，【アナウンサー】森田哲意　～ベスト電器スタジアムから中継～",
+  "start": 1632564000000,
+  "end": 1632571200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "サガン鳥栖",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}

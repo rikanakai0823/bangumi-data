@@ -1,0 +1,25 @@
+{
+  "id": "idt5mtp",
+  "category": "anime",
+  "title": "妖怪ウォッチ♪",
+  "fullTitle": "妖怪ウォッチ♪「エンマ大王が来た！　ほか」[字]",
+  "detail": "とんでもなく恐ろしい妖怪がやってくるという夢を見たウィスパーは、大変な事が起きるとケータに忠告する。気にせず登校したケータであったが・・・。",
+  "start": 1632520800000,
+  "end": 1632522600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "エンマ大王が来た！　ほか",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idskf55",
+  "category": "information",
+  "title": "町中華で飲ろうぜ",
+  "fullTitle": "町中華で飲ろうぜ",
+  "detail": "",
+  "start": 1632562200000,
+  "end": 1632564000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

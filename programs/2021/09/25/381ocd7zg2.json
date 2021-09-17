@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7zg2",
+  "category": "variety",
+  "title": "はじめてのおつかい　傑作選",
+  "fullTitle": "はじめてのおつかい　傑作選[字]",
+  "detail": "本放送は、25（土）19時～3時間スペシャルです！",
+  "start": 1632544200000,
+  "end": 1632547800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67vmin",
+  "category": "anime",
+  "title": "ヒカルの碁 ,26",
+  "fullTitle": "ヒカルの碁[字] #25,26",
+  "detail": "＃２５「恐れとあせりと」＃２６「ようこそ一組へ」",
+  "start": 1632511800000,
+  "end": 1632515400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "恐れとあせりと",
+  "episode": 25,
+  "flags": [
+    "字"
+  ]
+}

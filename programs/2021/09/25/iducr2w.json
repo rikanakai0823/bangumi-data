@@ -1,0 +1,28 @@
+{
+  "id": "iducr2w",
+  "category": "cinema",
+  "title": "新解釈・三國志",
+  "fullTitle": "[初][映]新解釈・三國志[SS][字]",
+  "detail": "大泉洋、小栗旬ら豪華キャストが集結した、福田雄一監督による歴史エンターテインメント。魏・蜀・呉が群雄割拠した時代。ある将軍の決起から壮大な戦いが繰り広げられる。",
+  "start": 1632542400000,
+  "end": 1632549600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

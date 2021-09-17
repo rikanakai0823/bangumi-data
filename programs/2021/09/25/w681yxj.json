@@ -1,0 +1,23 @@
+{
+  "id": "w681yxj",
+  "category": "anime",
+  "title": "R指定アニメ！ 生放送 第二部",
+  "fullTitle": "R指定アニメ！ 生放送 第二部 #04",
+  "detail": "",
+  "start": 1632567600000,
+  "end": 1632571200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}

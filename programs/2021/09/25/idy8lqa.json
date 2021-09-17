@@ -1,0 +1,25 @@
+{
+  "id": "idy8lqa",
+  "category": "anime",
+  "title": "スイチュー！フレンズ",
+  "fullTitle": "スイチュー！フレンズ#11[二]",
+  "detail": "#11「パレード対決／働きたくない！」",
+  "start": 1632513600000,
+  "end": 1632515400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "パレード対決／働きたくない！",
+  "episode": 11,
+  "flags": [
+    "二"
+  ]
+}

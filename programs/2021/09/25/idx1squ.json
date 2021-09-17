@@ -1,0 +1,25 @@
+{
+  "id": "idx1squ",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#222「カマチョ先生のこと」\r\nラッコの子ども“ぼのぼの”とシマリスくんやスナドリネコさん。そんな森の愉快な仲間た…",
+  "start": 1632567000000,
+  "end": 1632567600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "カマチョ先生のこと",
+  "episode": 222,
+  "flags": [
+    "字"
+  ]
+}

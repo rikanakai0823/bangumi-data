@@ -1,0 +1,23 @@
+{
+  "id": "w67g5um",
+  "category": "music",
+  "title": "ASTRO ビデオ特集",
+  "fullTitle": "ASTRO ビデオ特集",
+  "detail": "デビュープロジェクト「TO BE CONTINUED」を経て待望のデビューを果たしたASTROのミュージックビデオを特集する。",
+  "start": 1632502800000,
+  "end": 1632506400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "TO BE CONTINUED",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idozfx4",
+  "category": "documentary",
+  "title": "夜ふかしピアノ（一部）",
+  "fullTitle": "夜ふかしピアノ「第二夜」（一部[字]）",
+  "detail": "「夜ふかしピアノ」。これまで放送した「駅・空港・街角ピアノ」から、おすすめの回を二夜連続で紹介する。第二夜は、京都、ロンドン、オランダ・ユトレヒトの駅ピアノ。",
+  "start": 1632498900000,
+  "end": 1632507120000,
+  "seconds": 8220,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "第二夜",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

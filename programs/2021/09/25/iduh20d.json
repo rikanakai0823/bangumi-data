@@ -1,0 +1,26 @@
+{
+  "id": "iduh20d",
+  "category": "cinema",
+  "title": "大洗にも星はふるなり",
+  "fullTitle": "[映]大洗にも星はふるなり[字]",
+  "detail": "山田孝之らが共演し、福田雄一監督が自身の戯曲を映画化したコメディ。真冬の海岸にある海の家に集まる男性６人。ひとりのマドンナをめぐって彼らの争いと妄想は暴走する。",
+  "start": 1632526200000,
+  "end": 1632533400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

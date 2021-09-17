@@ -1,0 +1,23 @@
+{
+  "id": "w67kgxz",
+  "category": "music",
+  "title": "独占生中継! M-ON! LIVE ジェニーハイ",
+  "fullTitle": "独占生中継! M-ON! LIVE ジェニーハイ 「アリーナジェニー」",
+  "detail": "9/25(土)神奈川・ ぴあアリーナMMで行われる、「アリーナジェニー」の模様を独占生中継！",
+  "start": 1632556800000,
+  "end": 1632567600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "アリーナジェニー",
+  "episode": null,
+  "flags": []
+}

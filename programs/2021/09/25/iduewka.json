@@ -1,0 +1,26 @@
+{
+  "id": "iduewka",
+  "category": "sports",
+  "title": "ラ・リーガ　第７節　アラベスｖｓアトレティコ・マドリード",
+  "fullTitle": "[初]ラ・リーガ　第７節　アラベスｖｓアトレティコ・マドリード[二]",
+  "detail": "",
+  "start": 1632572400000,
+  "end": 1632581400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgleg",
+  "category": "variety",
+  "title": "「お笑いの日」ナビ",
+  "fullTitle": "「お笑いの日」ナビ[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/owaraiday/",
+  "start": 1632546000000,
+  "end": 1632552840000,
+  "seconds": 6840,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/owaraiday/\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

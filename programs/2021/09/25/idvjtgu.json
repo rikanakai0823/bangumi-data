@@ -1,0 +1,26 @@
+{
+  "id": "idvjtgu",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【中山】５Ｒ～７Ｒ，８Ｒ「清秋ジャンプステークス」\r\n【中京】５Ｒ～８Ｒ，９Ｒ「野路菊ステークス」",
+  "start": 1632538800000,
+  "end": 1632547800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idt5mu0",
+  "category": "sports",
+  "title": "ウイニング競馬　～中山～",
+  "fullTitle": "ウイニング競馬　～中山～",
+  "detail": "【中山】10Ｒ九十九里特別\r\n　　　　11Ｒながつきステークス\r\n【中京】10Ｒ夕月特別\r\n　　　　11Ｒ長篠ステークス",
+  "start": 1632547800000,
+  "end": 1632553200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "中山",
+  "episode": null,
+  "flags": []
+}

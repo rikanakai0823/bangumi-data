@@ -1,0 +1,26 @@
+{
+  "id": "idozbh8",
+  "category": "documentary",
+  "title": "ＢＳ世界のドキュメンタリー",
+  "fullTitle": "ＢＳ世界のドキュメンタリー「天空の村のピアノ」[二][字]",
+  "detail": "ピアノをロンドンから標高４０００メートルのヒマラヤの小学校に運ぶプロジェクトに密着。そこで繰り広げられる人間模様を描いたヒューマンドキュメンタリー。",
+  "start": 1632496200000,
+  "end": 1632498900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "天空の村のピアノ",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

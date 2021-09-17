@@ -1,0 +1,27 @@
+{
+  "id": "iducr37",
+  "category": "cinema",
+  "title": "ペット２（吹替版）",
+  "fullTitle": "[映]ペット２（吹替版）[SS][字]",
+  "detail": "２０１６年の大ヒットアニメ「ペット」の続編。犬のマックスとデュークを中心とするキュートなペットたちは新たな冒険に挑戦。動物仲間が増える上、物語もスケールアップ。",
+  "start": 1632581100000,
+  "end": 1632586500000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "ペット",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

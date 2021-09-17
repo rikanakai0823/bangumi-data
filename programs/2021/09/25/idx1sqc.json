@@ -1,0 +1,25 @@
+{
+  "id": "idx1sqc",
+  "category": "anime",
+  "title": "BanG Dream! ,4",
+  "fullTitle": "[字]BanG Dream! #3,4",
+  "detail": "#3「逃げちゃった！」\r\n#4「怒っちゃった！」\r\n幼い頃、星空を見上げた時に聴こえた『星の鼓動』のように、キラキラでド…",
+  "start": 1632499200000,
+  "end": 1632502800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "逃げちゃった！",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

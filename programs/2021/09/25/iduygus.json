@@ -1,0 +1,25 @@
+{
+  "id": "iduygus",
+  "category": "cinema",
+  "title": "ポール・マッカートニー／ゲット・バック",
+  "fullTitle": "[映]ポール・マッカートニー／ゲット・バック",
+  "detail": "１９８９年にノルウェーから始まったポール・マッカートニーのワールドツアーの模様を収めたライブドキュメンタリー。",
+  "start": 1632571200000,
+  "end": 1632577500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
