@@ -1,0 +1,23 @@
+{
+  "id": "rks7x8t",
+  "category": "variety",
+  "title": "アンコール放送四千頭身FES 夜の部",
+  "fullTitle": "アンコール放送【一夜一度限りのCS独占ライブ】四千頭身FES 夜の部",
+  "detail": "8月29日（日）恵比寿ザ・ガーデンホールで開催『四千頭身FES 夜の部』を放送！舞台裏で生中継されたアフタートークが見られるのはテレ朝チャンネル1だけ！",
+  "start": 1632628800000,
+  "end": 1632637200000,
+  "seconds": 8400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "一夜一度限りのCS独占ライブ",
+  "episode": null,
+  "flags": []
+}

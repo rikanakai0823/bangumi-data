@@ -1,0 +1,25 @@
+{
+  "id": "w681yxq",
+  "category": "anime",
+  "title": "かげきしょうじょ!!",
+  "fullTitle": "かげきしょうじょ!! #13 [終]",
+  "detail": "",
+  "start": 1632582000000,
+  "end": 1632583800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 13,
+  "flags": [
+    "終"
+  ]
+}

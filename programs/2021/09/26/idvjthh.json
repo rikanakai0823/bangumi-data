@@ -1,0 +1,25 @@
+{
+  "id": "idvjthh",
+  "category": "anime",
+  "title": "かげきしょうじょ!!第十三幕",
+  "fullTitle": "かげきしょうじょ!![終]第十三幕",
+  "detail": "",
+  "start": 1632585600000,
+  "end": 1632587400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

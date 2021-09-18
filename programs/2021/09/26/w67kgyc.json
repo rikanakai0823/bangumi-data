@@ -1,0 +1,23 @@
+{
+  "id": "w67kgyc",
+  "category": "music",
+  "title": "サキドリ！乃木坂46",
+  "fullTitle": "サキドリ！乃木坂46",
+  "detail": "人気アーティストの最新映像をいち早くお届けする「サキドリ！」。今回は9/26(日)限定の乃木坂46バージョンを放送！",
+  "start": 1632636000000,
+  "end": 1632636900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "サキドリ！",
+  "episode": null,
+  "flags": []
+}

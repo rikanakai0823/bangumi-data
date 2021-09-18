@@ -1,0 +1,27 @@
+{
+  "id": "iduewkp",
+  "category": "sports",
+  "title": "ラ・リーガ　第７節　マジョルカｖｓオサスナ",
+  "fullTitle": "[初][生]ラ・リーガ　第７節　マジョルカｖｓオサスナ[二]",
+  "detail": "スペインサッカー　ラ・リーガの２０２１－２０２２シーズン。各国のスター選手が競演する最高峰の戦いを毎節最大５試合生中継する。",
+  "start": 1632656700000,
+  "end": 1632665700000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生",
+    "二"
+  ]
+}

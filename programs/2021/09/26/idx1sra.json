@@ -1,0 +1,25 @@
+{
+  "id": "idx1sra",
+  "category": "anime",
+  "title": "名探偵コナン 9月号",
+  "fullTitle": "[字]名探偵コナン 9月号",
+  "detail": "#746「緋色の序章」#747「緋色の追求」\r\n#748「緋色の交錯」#749「緋色の帰還」\r\n#750「緋色の真相」\r\n\r\n小さな探偵が大活…",
+  "start": 1632621600000,
+  "end": 1632630600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "緋色の序章",
+  "episode": 746,
+  "flags": [
+    "字"
+  ]
+}

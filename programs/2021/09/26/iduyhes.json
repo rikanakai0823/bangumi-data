@@ -1,0 +1,25 @@
+{
+  "id": "iduyhes",
+  "category": "cinema",
+  "title": "眼下の敵",
+  "fullTitle": "[映]眼下の敵",
+  "detail": "第二次大戦下の南大西洋を舞台に、米国駆逐艦とドイツの潜水艦との息詰まる攻防戦と、人々の葛藤を描いた名作戦争映画。",
+  "start": 1632597600000,
+  "end": 1632603600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

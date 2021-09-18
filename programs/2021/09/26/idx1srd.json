@@ -1,0 +1,25 @@
+{
+  "id": "idx1srd",
+  "category": "anime",
+  "title": "うちの3姉妹 ,102 END",
+  "fullTitle": "[字]うちの3姉妹 #101,102 END",
+  "detail": "#101「入学へのカウントダウン/おむつ災害/長女の卒園式」\r\n#102「次女の入園式/三女の暴挙/3姉妹の新しい生活」END\r\n長…",
+  "start": 1632636000000,
+  "end": 1632639600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "入学へのカウントダウン/おむつ災害/長女の卒園式",
+  "episode": 101,
+  "flags": [
+    "字"
+  ]
+}

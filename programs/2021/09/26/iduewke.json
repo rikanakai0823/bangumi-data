@@ -1,0 +1,25 @@
+{
+  "id": "iduewke",
+  "category": "theater",
+  "title": "ミュージカル（字幕版）",
+  "fullTitle": "ミュージカル「４２ｎｄストリート」（字幕版）[SS]",
+  "detail": "１９３３年公開の名作ミュージカル映画『四十二番街』を舞台化したブロードウェイ作品「４２ｎｄストリート」の劇場上映版。",
+  "start": 1632601800000,
+  "end": 1632610800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "４２ｎｄストリート",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

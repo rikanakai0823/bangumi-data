@@ -1,0 +1,23 @@
+{
+  "id": "w671klg",
+  "category": "information",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "通販情報などをお送りする30分番組。\r\n各商品のお問い合わせは、番組中に流れるお問い合わせ番号まで。\r\n",
+  "start": 1632603600000,
+  "end": 1632605400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＸＮミステリー",
+    "id": "f0d8",
+    "sid": 316,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

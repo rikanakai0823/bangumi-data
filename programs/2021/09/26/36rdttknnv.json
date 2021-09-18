@@ -1,0 +1,26 @@
+{
+  "id": "36rdttknnv",
+  "category": "sports",
+  "title": "ＷＥリーグ中継",
+  "fullTitle": "ＷＥリーグ中継[デ][多]",
+  "detail": "　",
+  "start": 1632636000000,
+  "end": 1632643200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "デ",
+    "多"
+  ]
+}

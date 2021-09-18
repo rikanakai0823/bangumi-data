@@ -1,0 +1,23 @@
+{
+  "id": "iex0cuu",
+  "category": "information",
+  "title": "スカパー！ガイド",
+  "fullTitle": "スカパー！ガイド",
+  "detail": "スカパー！BSチャンネルのご案内です。\r\nスカパー！は映画、アニメ、スポーツ、エンタメなど色々なチャンネルが盛りだくさん!\r\nお申込はリモコンでも簡単にできます！",
+  "start": 1632083400000,
+  "end": 1632088800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "スカパー！ガイド",
+    "id": "8lag",
+    "sid": 840,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 86
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

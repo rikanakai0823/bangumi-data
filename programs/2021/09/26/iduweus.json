@@ -1,0 +1,26 @@
+{
+  "id": "iduweus",
+  "category": "cinema",
+  "title": "ハイ・ライフ",
+  "fullTitle": "[映][SS]ハイ・ライフ",
+  "detail": "鬼才クレール・ドゥニ監督によるＳＦスリラー。太陽系外の宇宙船を舞台に、ある実験に参加した囚人たちを描く。［ＰＧ１２］",
+  "start": 1632657600000,
+  "end": 1632664800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

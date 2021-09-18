@@ -1,0 +1,23 @@
+{
+  "id": "w67i3up",
+  "category": "music",
+  "title": "クイーン：マーキュリー・ライジング",
+  "fullTitle": "クイーン：マーキュリー・ライジング",
+  "detail": "伝説のロック・バンド、クイーンの魅力に迫るドキュメンタリー。",
+  "start": 1632643200000,
+  "end": 1632646800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ミュージック・エア",
+    "id": "f0dg",
+    "sid": 324,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

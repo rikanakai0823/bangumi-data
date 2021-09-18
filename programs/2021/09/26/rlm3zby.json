@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zby",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "URAWA CHANNEL NEXT #29",
+  "detail": "浦和レッズのクラブ応援番組。今回は、今シーズン水戸ホーリーホックより加入した平野佑一選手にインタビュー！",
+  "start": 1632655800000,
+  "end": 1632657600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 29,
+  "flags": []
+}

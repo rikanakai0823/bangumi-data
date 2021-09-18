@@ -1,0 +1,26 @@
+{
+  "id": "idozfuu",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「特攻　知られざる真実」[字][再]",
+  "detail": "沖縄の海に眠るアメリカの軍艦。その調査から７６年前に行われた旧日本軍の特攻作戦の詳細が見えてきた。死を前提とした作戦を強いられた若者たち。その最期の思いとは？",
+  "start": 1632636000000,
+  "end": 1632642600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "特攻　知られざる真実",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

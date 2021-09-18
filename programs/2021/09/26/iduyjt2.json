@@ -1,0 +1,26 @@
+{
+  "id": "iduyjt2",
+  "category": "cinema",
+  "title": "ビューティフル・マインド",
+  "fullTitle": "[映][SS]ビューティフル・マインド",
+  "detail": "ラッセル・クロウが幻覚に悩まされる実在の天才数学者を熱演し、アカデミー作品賞をはじめとする４部門を受賞した感動のドラマ。",
+  "start": 1632648600000,
+  "end": 1632657600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

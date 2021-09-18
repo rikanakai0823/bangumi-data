@@ -1,0 +1,25 @@
+{
+  "id": "w63j1i5",
+  "category": "sports",
+  "title": "ミヤギテレビ杯ダンロップ女子オープン2021 最終日 1番ホール",
+  "fullTitle": "[生]ミヤギテレビ杯ダンロップ女子オープン2021 最終日 1番ホール",
+  "detail": "～生中継　～利府ゴルフ倶楽部",
+  "start": 1632609000000,
+  "end": 1632616200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

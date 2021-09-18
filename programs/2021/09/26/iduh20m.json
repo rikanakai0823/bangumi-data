@@ -1,0 +1,27 @@
+{
+  "id": "iduh20m",
+  "category": "cinema",
+  "title": "ファンシー[R15+指定]",
+  "fullTitle": "[映]ファンシー[R15+指定][SS][字]",
+  "detail": "永瀬正敏、窪田正孝、小西桜子の共演で山本直樹の短編漫画を映画化した群像コメディ。郵便配達員でもある彫師と若き詩人、詩人の女性ファンが織り成す人間模様を描く。",
+  "start": 1632582300000,
+  "end": 1632588600000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
