@@ -1,0 +1,26 @@
+{
+  "id": "381jqz01od",
+  "category": "hobby",
+  "title": "パプリカ",
+  "fullTitle": "パプリカ[解][字]",
+  "detail": "",
+  "start": 1632738300000,
+  "end": 1632740400000,
+  "seconds": 2100,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

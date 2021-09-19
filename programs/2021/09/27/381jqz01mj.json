@@ -1,0 +1,26 @@
+{
+  "id": "381jqz01mj",
+  "category": "hobby",
+  "title": "にほんごであそぼ",
+  "fullTitle": "にほんごであそぼ[字][デ]",
+  "detail": "",
+  "start": 1632698700000,
+  "end": 1632699300000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

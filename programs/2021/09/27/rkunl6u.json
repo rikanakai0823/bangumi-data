@@ -1,0 +1,25 @@
+{
+  "id": "rkunl6u",
+  "category": "hobby",
+  "title": "ペッパピッグ#41,#42[字/日英]",
+  "fullTitle": "ペッパピッグ#41,#42[二][字/日英]",
+  "detail": "#41「おるすばん」　#42「バレエのレッスン」",
+  "start": 1632715200000,
+  "end": 1632716100000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "おるすばん",
+  "episode": 41,
+  "flags": [
+    "二"
+  ]
+}

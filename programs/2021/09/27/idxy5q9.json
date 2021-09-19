@@ -1,0 +1,23 @@
+{
+  "id": "idxy5q9",
+  "category": "hobby",
+  "title": "ミニ番組 HITラッシュ Summer 2",
+  "fullTitle": "ミニ番組 HITラッシュ Summer 2",
+  "detail": "厳選したエキサイティングなHITラッシュをショートバージョンでお届けします！",
+  "start": 1632750900000,
+  "end": 1632751200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

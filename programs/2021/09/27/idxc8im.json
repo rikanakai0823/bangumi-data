@@ -1,0 +1,25 @@
+{
+  "id": "idxc8im",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第6節 フライブルク×アウクスブルク",
+  "fullTitle": "【契】[生]21/22 ブンデスリーガ 第6節 フライブルク×アウクスブルク",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年9月26日\r\n会場:シュバルツバルト シュタディオン",
+  "start": 1632669600000,
+  "end": 1632678600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

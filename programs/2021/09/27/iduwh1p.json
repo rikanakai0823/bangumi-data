@@ -1,0 +1,26 @@
+{
+  "id": "iduwh1p",
+  "category": "cinema",
+  "title": "ザ・ビートルズ EIGHT DAYS A WEEK",
+  "fullTitle": "[映][SS]ザ・ビートルズ EIGHT DAYS A WEEK",
+  "detail": "ロン・ハワード監督が１９６３年から６６年まで行ったビートルズのコンサート映像を厳選し、構成した音楽ドキュメンタリー。",
+  "start": 1632699900000,
+  "end": 1632706800000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

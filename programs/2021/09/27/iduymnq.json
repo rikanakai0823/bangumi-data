@@ -1,0 +1,26 @@
+{
+  "id": "iduymnq",
+  "category": "cinema",
+  "title": "スラムドッグ＄ミリオネア",
+  "fullTitle": "[映][SS]スラムドッグ＄ミリオネア",
+  "detail": "アカデミー作品賞に輝くダニー・ボイル監督作品。インドを舞台にクイズ番組の最後の１問に挑む青年の半生を辿る。［ＰＧ－１２］",
+  "start": 1632720600000,
+  "end": 1632728700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

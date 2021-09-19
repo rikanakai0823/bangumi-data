@@ -1,0 +1,25 @@
+{
+  "id": "idy8lt6",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "ビッグシティ・グリーン#40[二]",
+  "detail": "#40「ガレージ物語　/　動物農場」",
+  "start": 1632729600000,
+  "end": 1632731400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ガレージ物語　/　動物農場",
+  "episode": 40,
+  "flags": [
+    "二"
+  ]
+}

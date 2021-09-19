@@ -1,0 +1,25 @@
+{
+  "id": "idw6ttq",
+  "category": "music",
+  "title": "うたのワガママ館",
+  "fullTitle": "うたのワガママ館 ＃５２[終]",
+  "detail": "一般の方々にどんな歌が愛され、どんな歌手が望まれているのか…。そんなカラオケシーンの“今”がわかる番組です。歌を愛する「歌自慢」の皆様が集います。",
+  "start": 1632686400000,
+  "end": 1632688200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_2",
+    "name": "ＢＳ１２トゥエルビ",
+    "id": "8kta",
+    "sid": 222,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "歌自慢",
+  "episode": 52,
+  "flags": [
+    "終"
+  ]
+}

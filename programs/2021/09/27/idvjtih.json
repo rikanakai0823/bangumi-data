@@ -1,0 +1,25 @@
+{
+  "id": "idvjtih",
+  "category": "anime",
+  "title": "ウマ娘 プリティーダービーEXTRA Ｒ",
+  "fullTitle": "ウマ娘 プリティーダービー[終]EXTRA Ｒ「響け、ファンファーレ！」",
+  "detail": "ファンの夢を背負って、18人のウマ娘がウィンタードリームトロフィーに出場。夢のような舞台で、トレーナーは何を思い、何を見るのか。あの時見た輝きが、今、目の前に―!!",
+  "start": 1632670200000,
+  "end": 1632672000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "響け、ファンファーレ！",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

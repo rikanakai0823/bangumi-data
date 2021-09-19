@@ -1,0 +1,23 @@
+{
+  "id": "rktf27g",
+  "category": "music",
+  "title": "Mnetライブ",
+  "fullTitle": "Mnetライブ 【2PM】",
+  "detail": "9月「今月のアーティスト」2PM！人々の心を鷲掴みにする彼らのライブパフォーマンスをお届け！\r\n2021年\r\n※再放送情報はMnet HPにてご確認ください",
+  "start": 1632724200000,
+  "end": 1632726000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "2PM",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idp3mwy",
+  "category": "drama",
+  "title": "【連続テレビ小説】おかえりモネ",
+  "fullTitle": "【連続テレビ小説】おかえりモネ[解][字][再]",
+  "detail": "",
+  "start": 1632751200000,
+  "end": 1632752100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字",
+    "再"
+  ]
+}

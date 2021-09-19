@@ -1,0 +1,25 @@
+{
+  "id": "iduym72",
+  "category": "cinema",
+  "title": "現金に手を出すな",
+  "fullTitle": "[映]現金に手を出すな",
+  "detail": "ジャン・ギャバン主演のフレンチノワール。強奪した金塊を巡って誘拐された親友を救うため、初老のギャングが宿敵と対決する。",
+  "start": 1632699000000,
+  "end": 1632705000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

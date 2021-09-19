@@ -1,0 +1,23 @@
+{
+  "id": "idp3p3j",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「１０月号」",
+  "detail": "",
+  "start": 1632708600000,
+  "end": 1632708900000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "１０月号",
+  "episode": null,
+  "flags": []
+}
