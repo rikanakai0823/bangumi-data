@@ -1,0 +1,25 @@
+{
+  "id": "idozgnx",
+  "category": "sports",
+  "title": "ｏｕｒ　ＳＰＯＲＴＳ！",
+  "fullTitle": "ｏｕｒ　ＳＰＯＲＴＳ！「１００コマ　ケイリン」[再]",
+  "detail": "スポーツの魅力を伝えるｏｕｒ　ＳＰＯＲＴＳ。落語家・柳家わさびさんが、たった５分でざっくりとケイリンの基礎知識をお伝えする。",
+  "start": 1632108300000,
+  "end": 1632108600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "１００コマ　ケイリン",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
