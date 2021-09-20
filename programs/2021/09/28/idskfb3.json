@@ -1,0 +1,25 @@
+{
+  "id": "idskfb3",
+  "category": "etc",
+  "title": "ヒロシのぼっちキャンプ　Ｓｅａｓｏｎ３",
+  "fullTitle": "[字]ヒロシのぼっちキャンプ　Ｓｅａｓｏｎ３",
+  "detail": "",
+  "start": 1632837600000,
+  "end": 1632841200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

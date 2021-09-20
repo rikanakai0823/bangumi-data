@@ -1,0 +1,25 @@
+{
+  "id": "idx1ssr",
+  "category": "anime",
+  "title": "BanG Dream! ,6",
+  "fullTitle": "[字]BanG Dream! #5,6",
+  "detail": "#5「ドキドキしちゃった！」\r\n#6「作っちゃった！」\r\n幼い頃、星空を見上げた時に聴こえた『星の鼓動』のように、キラキ…",
+  "start": 1632787200000,
+  "end": 1632790800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ドキドキしちゃった！",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

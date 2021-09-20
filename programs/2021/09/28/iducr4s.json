@@ -1,0 +1,27 @@
+{
+  "id": "iducr4s",
+  "category": "cinema",
+  "title": "ペット（吹替版）",
+  "fullTitle": "[映]ペット（吹替版）[SS][字]",
+  "detail": "「怪盗グルー」シリーズのイルミネーション・エンターテインメントによる、家族そろって楽しめるコメディアニメ。飼い主の留守の間、ペットたちは冒険へ。後に続編も誕生。",
+  "start": 1632828600000,
+  "end": 1632834000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "怪盗グルー",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1st5",
+  "category": "anime",
+  "title": "名探偵コナン 火の用心の落とし穴",
+  "fullTitle": "[字]名探偵コナン 火の用心の落とし穴",
+  "detail": "#770「火の用心の落とし穴」\r\nコナン、歩美、元太、光彦、灰原は消防団員に付き添われ、「火の用心」と言いながら夜回…",
+  "start": 1632825000000,
+  "end": 1632826800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "火の用心の落とし穴",
+  "episode": 770,
+  "flags": [
+    "字"
+  ]
+}

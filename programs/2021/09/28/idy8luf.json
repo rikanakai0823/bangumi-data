@@ -1,0 +1,25 @@
+{
+  "id": "idy8luf",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#38[二]",
+  "detail": "#38「デューイとデラの大冒険」",
+  "start": 1632812400000,
+  "end": 1632813900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "デューイとデラの大冒険",
+  "episode": 38,
+  "flags": [
+    "二"
+  ]
+}

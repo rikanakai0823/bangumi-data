@@ -1,0 +1,23 @@
+{
+  "id": "w67i3vz",
+  "category": "music",
+  "title": "ABBA物語",
+  "fullTitle": "ABBA物語",
+  "detail": "スウェーデンが生んだ世界的人気グループABBAの軌跡を辿るライヴ＆ドキュメンタリー。",
+  "start": 1632758400000,
+  "end": 1632762000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ミュージック・エア",
+    "id": "f0dg",
+    "sid": 324,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

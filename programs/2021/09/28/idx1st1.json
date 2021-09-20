@@ -1,0 +1,25 @@
+{
+  "id": "idx1st1",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#224「ぼのちゃん～イヤイヤなの？」\r\nラッコの子ども“ぼのぼの”とシマリスくんやスナドリネコさん。そんな森の愉快…",
+  "start": 1632817200000,
+  "end": 1632817800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ぼのちゃん～イヤイヤなの？",
+  "episode": 224,
+  "flags": [
+    "字"
+  ]
+}

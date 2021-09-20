@@ -1,0 +1,26 @@
+{
+  "id": "iduwl4t",
+  "category": "cinema",
+  "title": "カリフォルニア・ダウン",
+  "fullTitle": "[映][SS]カリフォルニア・ダウン",
+  "detail": "巨大地震の脅威を描くアクション。※本作品は本編に地震・津波の映像が含まれております。ご了承いただきました上、ご鑑賞下さい",
+  "start": 1632829500000,
+  "end": 1632837600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

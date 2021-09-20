@@ -1,0 +1,25 @@
+{
+  "id": "rkunl8a",
+  "category": "hobby",
+  "title": "ペッパピッグ#43,#44[字/日英]",
+  "fullTitle": "ペッパピッグ#43,#44[二][字/日英]",
+  "detail": "#43「おおあらし」　#44「くるまのおそうじ」",
+  "start": 1632801600000,
+  "end": 1632802500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "おおあらし",
+  "episode": 43,
+  "flags": [
+    "二"
+  ]
+}

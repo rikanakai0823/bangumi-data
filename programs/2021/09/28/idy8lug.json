@@ -1,0 +1,25 @@
+{
+  "id": "idy8lug",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#31[二]",
+  "detail": "#31「アムステルダムの風車」",
+  "start": 1632813900000,
+  "end": 1632814200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "アムステルダムの風車",
+  "episode": 31,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zd9",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.日本ハム",
+  "fullTitle": "HAWKS プロ野球中継2021 ソフトバンクvs.日本ハム",
+  "detail": "解説/実況：加藤伸一/久保俊郎\r\n開催日：2021年9月25日 (土)\r\n副音声：建山義紀、稲田直人",
+  "start": 1632798000000,
+  "end": 1632816000000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63j1jw",
+  "category": "sports",
+  "title": "ジャイアンツイースタンリーグ2021～ジャイアンツ球場～",
+  "fullTitle": "[生]ジャイアンツイースタンリーグ2021「巨人×日本ハム」～ジャイアンツ球場～",
+  "detail": "～生中継\r\n*雨天の場合、放送休止の可能性あり\r\n*延長なし\r\n解説：村田真一　実況：北脇太基",
+  "start": 1632812400000,
+  "end": 1632826800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×日本ハム",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

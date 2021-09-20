@@ -1,0 +1,27 @@
+{
+  "id": "iduh21k",
+  "category": "cinema",
+  "title": "チェケラッチョ！！",
+  "fullTitle": "[映]チェケラッチョ！！[SS][字]",
+  "detail": "主演の市原隼人がラップに挑みながら、井上真央、平岡祐太らと共演。沖縄でヒップホップバンドを結成した高校生たちが、ラップを通じて成長していく姿を綴る青春ムービー。",
+  "start": 1632830400000,
+  "end": 1632837600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

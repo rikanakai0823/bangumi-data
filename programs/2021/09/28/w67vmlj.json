@@ -1,0 +1,25 @@
+{
+  "id": "w67vmlj",
+  "category": "anime",
+  "title": "ヒカルの碁 ,28",
+  "fullTitle": "ヒカルの碁[字] #27,28",
+  "detail": "＃２７「時々戻りたい場所」＃２８「若獅子戦」",
+  "start": 1632771000000,
+  "end": 1632774600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "時々戻りたい場所",
+  "episode": 27,
+  "flags": [
+    "字"
+  ]
+}
