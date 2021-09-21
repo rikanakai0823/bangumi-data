@@ -1,0 +1,23 @@
+{
+  "id": "idp00li",
+  "category": "news",
+  "title": "ＢＳニュース",
+  "fullTitle": "ＢＳニュース",
+  "detail": "",
+  "start": 1632225900000,
+  "end": 1632226500000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
