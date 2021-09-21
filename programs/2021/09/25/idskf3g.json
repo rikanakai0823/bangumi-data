@@ -1,9 +1,9 @@
 {
   "id": "idskf3g",
-  "category": "etc",
+  "category": "anime",
   "title": "ＢＬＵＥ　ＲＥＦＬＥＣＴＩＯＮ　ＲＡＹ／澪",
   "fullTitle": "ＢＬＵＥ　ＲＥＦＬＥＣＴＩＯＮ　ＲＡＹ／澪[終]",
-  "detail": "",
+  "detail": "第２４話　ブルー・リフレクション",
   "start": 1632504600000,
   "end": 1632506400000,
   "seconds": 1800,
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "ブルー・リフレクション",
+  "episode": 24,
   "flags": [
     "終"
   ]

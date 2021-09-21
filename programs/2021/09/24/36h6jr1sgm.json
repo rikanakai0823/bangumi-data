@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1sgm",
   "category": "news",
-  "title": "特番（仮）",
-  "fullTitle": "特番（仮）[手][Ｓ]",
-  "detail": "",
+  "title": "埼玉県議会中継",
+  "fullTitle": "埼玉県議会中継[手][Ｓ]",
+  "detail": "◇出演者\n進行：荒木優里（テレ玉アナウンサー）",
   "start": 1632445200000,
   "end": 1632448800000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "進行：荒木優里（テレ玉アナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
