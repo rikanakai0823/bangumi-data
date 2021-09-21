@@ -1,0 +1,25 @@
+{
+  "id": "w63cimk",
+  "category": "sports",
+  "title": "[プロ野球]阪神×広島（阪神甲子園球場）",
+  "fullTitle": "[生] [プロ野球]阪神×広島（阪神甲子園球場）",
+  "detail": "（延長時、以降の番組変更繰り下げあり）\r\nGAORAプロ野球中継\r\n「阪神 vs 広島」\r\n解説:岡義朗\r\n実況:寺西裕一\r\nリポーター:村田匡輝",
+  "start": 1632904200000,
+  "end": 1632922200000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

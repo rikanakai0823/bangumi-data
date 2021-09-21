@@ -1,0 +1,25 @@
+{
+  "id": "rlm3zd3",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.西武",
+  "fullTitle": "[生]HAWKS プロ野球中継2021 ソフトバンクvs.西武",
+  "detail": "▽9月29日開催\r\n解説/実況：池田親興/大前一樹\r\n開催日時：2021年9月29日 (水) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1632905100000,
+  "end": 1632924000000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

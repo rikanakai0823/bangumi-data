@@ -1,0 +1,25 @@
+{
+  "id": "w67vmn9",
+  "category": "anime",
+  "title": "おじゃる丸",
+  "fullTitle": "おじゃる丸[字] #15",
+  "detail": "第15話「日本茶コーヒー仮面」\r\nヘイアンチョウの妖精界に、妖精貴族のミヤビなお子さま・坂ノ上おじゃる丸がおりました。",
+  "start": 1632896100000,
+  "end": 1632897000000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "日本茶コーヒー仮面",
+  "episode": 15,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxc8e3",
+  "category": "variety",
+  "title": "見せます　Mnet　presents",
+  "fullTitle": "[無]第1話見せます　Mnet　presents「シックスセンス 2」",
+  "detail": "CS318プレミアムサービス658CH Mnetで毎週(土)17:00～放送！",
+  "start": 1632920400000,
+  "end": 1632926400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "シックスセンス 2",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

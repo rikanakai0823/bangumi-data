@@ -1,0 +1,25 @@
+{
+  "id": "iducr54",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６９０",
+  "detail": "",
+  "start": 1632880800000,
+  "end": 1632881700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 690,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idryk5l",
+  "category": "information",
+  "title": "キューサイテレビショッピング",
+  "fullTitle": "キューサイテレビショッピング",
+  "detail": "テレビショッピング",
+  "start": 1632859200000,
+  "end": 1632862500000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

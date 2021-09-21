@@ -1,0 +1,23 @@
+{
+  "id": "rkdr8g5",
+  "category": "information",
+  "title": "魚屋さんが選んだおいしい魚４ヶ月頒布会",
+  "fullTitle": "魚屋さんが選んだおいしい魚４ヶ月頒布会",
+  "detail": "魚の目利き人が厳選した、解凍して温めるだけで美味しく食べられる魚料理の頒布会。毎月１２食分を１切れずつの小分けパックでお届けします。",
+  "start": 1632848400000,
+  "end": 1632852000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

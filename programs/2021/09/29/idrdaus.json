@@ -1,0 +1,23 @@
+{
+  "id": "idrdaus",
+  "category": "music",
+  "title": "令和歌謡塾",
+  "fullTitle": "令和歌謡塾",
+  "detail": "",
+  "start": 1632859200000,
+  "end": 1632861000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

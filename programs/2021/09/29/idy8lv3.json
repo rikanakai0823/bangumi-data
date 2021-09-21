@@ -1,0 +1,25 @@
+{
+  "id": "idy8lv3",
+  "category": "drama",
+  "title": "グッドラック・チャーリー",
+  "fullTitle": "グッドラック・チャーリー#5[二]",
+  "detail": "#5「ダンスパーティー大作戦」",
+  "start": 1632855600000,
+  "end": 1632857400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ダンスパーティー大作戦",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

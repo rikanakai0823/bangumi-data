@@ -1,0 +1,25 @@
+{
+  "id": "idozerk",
+  "category": "sports",
+  "title": "真央が行く！",
+  "fullTitle": "真央が行く！「パラリンピックＳＰ」[字]",
+  "detail": "【リポーター】浅田真央，【語り】高山みなみ",
+  "start": 1632913200000,
+  "end": 1632916200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "パラリンピックＳＰ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

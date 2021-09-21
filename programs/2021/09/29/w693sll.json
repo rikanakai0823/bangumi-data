@@ -1,0 +1,25 @@
+{
+  "id": "w693sll",
+  "category": "news",
+  "title": "ミッドナイトニュース",
+  "fullTitle": "ミッドナイトニュース[字]",
+  "detail": "▽国内外の最新ニュース、トピックスやトレンド、お天気情報　▽速報は“ブレイキングニュース”",
+  "start": 1632924000000,
+  "end": 1632942000000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

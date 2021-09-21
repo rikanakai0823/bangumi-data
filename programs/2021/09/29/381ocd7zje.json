@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7zje",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まだまだ有吉の壁」[字]",
+  "detail": "",
+  "start": 1632916440000,
+  "end": 1632916800000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "まだまだ有吉の壁",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

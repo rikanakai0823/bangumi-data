@@ -1,0 +1,26 @@
+{
+  "id": "idp3nnr",
+  "category": "documentary",
+  "title": "ベネチアの秘密",
+  "fullTitle": "ベネチアの秘密「海と島の物語」[字][再]",
+  "detail": "水の都ベネチアには、知られざるエピソードに彩られた不思議なスポットが無数にある。今回は、ベネチア本島以外の島々をめぐり、その魅力に触れていく。",
+  "start": 1632922680000,
+  "end": 1632924000000,
+  "seconds": 1320,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "海と島の物語",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

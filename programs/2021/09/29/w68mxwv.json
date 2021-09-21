@@ -1,0 +1,25 @@
+{
+  "id": "w68mxwv",
+  "category": "documentary",
+  "title": "戦火の記憶",
+  "fullTitle": "戦火の記憶「初期」[二]",
+  "detail": "第二次世界大戦を豊富な映像で振り返る。今回は１９３３年９月の党大会でのヒトラーのスピーチから、日本海軍が初めて大敗を喫した１９４２年のミッドウェー海戦までを扱う",
+  "start": 1632909600000,
+  "end": 1632913200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ナショジオ",
+    "id": "f0dz",
+    "sid": 343,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 135
+  },
+  "subTitle": "初期",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

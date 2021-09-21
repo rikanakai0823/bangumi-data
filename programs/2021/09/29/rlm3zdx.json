@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zdx",
+  "category": "sports",
+  "title": "SUPER DARTS 2017 Vol.2",
+  "fullTitle": "SUPER DARTS 2017 Vol.2",
+  "detail": "SUPER DARTS 2017 Vol.2",
+  "start": 1632844800000,
+  "end": 1632858900000,
+  "seconds": 14100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

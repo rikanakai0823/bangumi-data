@@ -1,0 +1,25 @@
+{
+  "id": "idy8lv2",
+  "category": "drama",
+  "title": "シェキラ！",
+  "fullTitle": "シェキラ！#54[二]",
+  "detail": "#54「ブルーなシーシー！」",
+  "start": 1632853800000,
+  "end": 1632855600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ブルーなシーシー！",
+  "episode": 54,
+  "flags": [
+    "二"
+  ]
+}

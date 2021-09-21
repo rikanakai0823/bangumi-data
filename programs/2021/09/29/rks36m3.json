@@ -1,0 +1,23 @@
+{
+  "id": "rks36m3",
+  "category": "documentary",
+  "title": "放送休止のお知らせ",
+  "fullTitle": "放送休止のお知らせ",
+  "detail": "メンテナンスのため放送を休止いたします。午前7時より放送を再開します。",
+  "start": 1632844800000,
+  "end": 1632845100000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
