@@ -1,9 +1,9 @@
 {
   "id": "w69b1kr",
-  "category": "news",
-  "title": "リライアブル・ソース",
-  "fullTitle": "リライアブル・ソース",
-  "detail": "メディア事情に詳しい元NYタイムズ紙記者、B・ステルター氏が司会。新聞記者やリポーターをゲストに招き、メディアがニュースをどのように報道しているかを検証します。",
+  "category": "documentary",
+  "title": "Inside Africa",
+  "fullTitle": "Inside Africa[再]",
+  "detail": "アフリカ各地の魅力を自然、産業、芸術、文化、人物など、様々な観点から伝える。",
   "start": 1632668400000,
   "end": 1632672000000,
   "seconds": 3600,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }
