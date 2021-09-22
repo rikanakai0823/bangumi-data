@@ -1,0 +1,25 @@
+{
+  "id": "idv11dm",
+  "category": "cinema",
+  "title": "スパルタカス［復元版］（１９６０）",
+  "fullTitle": "[映]スパルタカス［復元版］（１９６０）[吹]",
+  "detail": "カーク・ダグラス主演、製作総指揮の歴史スペクタクル。初公開時のオリジナル版にシーンの追加や再編集を施した「復元完全版」。",
+  "start": 1632983400000,
+  "end": 1632994800000,
+  "seconds": 11400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "復元完全版",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

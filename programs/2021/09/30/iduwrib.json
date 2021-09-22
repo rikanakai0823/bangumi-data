@@ -1,0 +1,25 @@
+{
+  "id": "iduwrib",
+  "category": "cinema",
+  "title": "【無料】サンダーバード（１９６６）ＮＨＫ版",
+  "fullTitle": "【無料】[映]サンダーバード（１９６６）ＮＨＫ版[吹]",
+  "detail": "【５５周年長期特別企画始動：サンダーバードの日　無料放送】",
+  "start": 1633004100000,
+  "end": 1633010400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "５５周年長期特別企画始動：サンダーバードの日　無料放送",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

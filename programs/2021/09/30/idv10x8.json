@@ -1,0 +1,26 @@
+{
+  "id": "idv10x8",
+  "category": "cinema",
+  "title": "ザ・コア",
+  "fullTitle": "[映][SS]ザ・コア[吹]",
+  "detail": "アーロン・エッカートとヒラリー・スワンク共演のＳＦパニックサスペンス。地球の核“コア”停止による人類滅亡の危機を描く。",
+  "start": 1632962400000,
+  "end": 1632970800000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv11za",
+  "category": "cinema",
+  "title": "イップ・マン　宗師",
+  "fullTitle": "[映]イップ・マン　宗師[吹]",
+  "detail": "ブルース・リーの師イップ・マンの若き日を描いたカンフーアクション。警察官のイップ・マンがマフィアや日本軍将校と対決する。",
+  "start": 1633011000000,
+  "end": 1633016400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zfy",
+  "category": "hobby",
+  "title": "ブレイクタイム",
+  "fullTitle": "ブレイクタイム",
+  "detail": "次の放送開始までしばらくお待ちください。",
+  "start": 1632952500000,
+  "end": 1632952800000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm3zdk",
+  "category": "sports",
+  "title": "HAWKS AFTER GAME SHOW  ～9月29日開催 vs.西武戦～",
+  "fullTitle": "[無]HAWKS AFTER GAME SHOW  ～9月29日開催 vs.西武戦～",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n前日に行われた試合をハイライト、監督インタビュー、選手のプレイ解説等交えて徹底的に深堀りしながら振り返ります。",
+  "start": 1632952800000,
+  "end": 1632956400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rktcuep",
+  "category": "drama",
+  "title": "ＴＶ小説　私の心は花の雨",
+  "fullTitle": "ＴＶ小説　私の心は花の雨　#108　[字]",
+  "detail": "2016年 全128話",
+  "start": 1632979500000,
+  "end": 1632982500000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 108,
+  "flags": [
+    "字"
+  ]
+}

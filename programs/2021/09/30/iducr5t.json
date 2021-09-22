@@ -1,0 +1,27 @@
+{
+  "id": "iducr5t",
+  "category": "cinema",
+  "title": "ユナイテッド９３（吹替版）",
+  "fullTitle": "[映]ユナイテッド９３（吹替版）[SS][字]",
+  "detail": "２００１年９月１１日、米国同時多発テロ事件でハイジャックされた航空機のうち、唯一テログループが標的に到達させられなかったユナイテッド航空９３便。その機内を再現。",
+  "start": 1632974400000,
+  "end": 1632981600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

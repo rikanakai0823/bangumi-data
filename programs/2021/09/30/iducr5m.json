@@ -1,0 +1,26 @@
+{
+  "id": "iducr5m",
+  "category": "cinema",
+  "title": "日本統一２０",
+  "fullTitle": "[映]日本統一２０[字]",
+  "detail": "極道界日本統一へと歩む男たちを描いた任侠大河ロマン、節目の第２０作。九州至誠会の分裂騒動、そして侠和会と西日本睦会の長きにわたる対立にいよいよ終止符が打たれる。",
+  "start": 1632949500000,
+  "end": 1632954600000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

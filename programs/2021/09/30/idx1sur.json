@@ -1,0 +1,25 @@
+{
+  "id": "idx1sur",
+  "category": "anime",
+  "title": "黒子のバスケ ,2",
+  "fullTitle": "[字]黒子のバスケ #1,2",
+  "detail": "第1Q「黒子はボクです」\r\n第2Q「本気です」\r\nバスケットボールの強豪として知られる帝光中学校は、特に“キセキの世代”…",
+  "start": 1632999600000,
+  "end": 1633003200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "黒子はボクです",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

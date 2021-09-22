@@ -1,0 +1,26 @@
+{
+  "id": "iduh220",
+  "category": "cinema",
+  "title": "ウィンブルドン（字幕版）",
+  "fullTitle": "[映]ウィンブルドン（字幕版）[SS]",
+  "detail": "テニスのグランドスラムのひとつ、“ウィンブルドンテニス”を舞台にしたスポーツラブストーリー。引退を決めた落ち目の男子選手と、売り出し中の若手女子選手の恋を描く。",
+  "start": 1632949500000,
+  "end": 1632955500000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

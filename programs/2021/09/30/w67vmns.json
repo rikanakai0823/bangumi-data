@@ -1,0 +1,25 @@
+{
+  "id": "w67vmns",
+  "category": "anime",
+  "title": "ヒカルの碁 ,30",
+  "fullTitle": "ヒカルの碁[字] #29,30",
+  "detail": "＃２９「桑原本因坊」＃３０「緒方ＶＳ本因坊」",
+  "start": 1632943800000,
+  "end": 1632947400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "桑原本因坊",
+  "episode": 29,
+  "flags": [
+    "字"
+  ]
+}

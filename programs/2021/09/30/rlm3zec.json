@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zec",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "URAWA CHANNEL NEXT #27",
+  "detail": "浦和レッズのクラブ応援番組。この夏加入した2人に注目！酒井宏樹選手の入団会見、江坂任選手へのインタビューをお届け。",
+  "start": 1632967200000,
+  "end": 1632969000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 27,
+  "flags": []
+}
