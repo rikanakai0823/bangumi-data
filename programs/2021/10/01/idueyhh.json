@@ -1,0 +1,23 @@
+{
+  "id": "idueyhh",
+  "category": "theater",
+  "title": "宝塚プルミエール　星組",
+  "fullTitle": "宝塚プルミエール　星組「柳生忍法帖」",
+  "detail": "放送当月に公開される宝塚最新公演を中心に、トップスターらによるインタビューなど、ＷＯＷＯＷオリジナル映像満載でお届けする宝塚情報番組",
+  "start": 1633054500000,
+  "end": 1633056300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "柳生忍法帖",
+  "episode": null,
+  "flags": []
+}

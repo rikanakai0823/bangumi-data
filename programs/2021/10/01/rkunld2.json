@@ -1,0 +1,25 @@
+{
+  "id": "rkunld2",
+  "category": "hobby",
+  "title": "ペッパピッグ#1,#2[字/日英]",
+  "fullTitle": "ペッパピッグ#1,#2[二][字/日英]",
+  "detail": "#1「みずたまり」　#2「ガーデニング」",
+  "start": 1633089600000,
+  "end": 1633090500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "みずたまり",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

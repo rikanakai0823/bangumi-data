@@ -1,0 +1,23 @@
+{
+  "id": "idp3q30",
+  "category": "etc",
+  "title": "レギュラー番組への道",
+  "fullTitle": "レギュラー番組への道",
+  "detail": "",
+  "start": 1633097700000,
+  "end": 1633099500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

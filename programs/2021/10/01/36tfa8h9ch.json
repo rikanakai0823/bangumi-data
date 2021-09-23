@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8h9ch",
+  "category": "documentary",
+  "title": "日本のチカラ",
+  "fullTitle": "日本のチカラ[字]",
+  "detail": " ",
+  "start": 1633046400000,
+  "end": 1633048200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

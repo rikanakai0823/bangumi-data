@@ -1,0 +1,23 @@
+{
+  "id": "idt5n6b",
+  "category": "news",
+  "title": "ＷＢＳ",
+  "fullTitle": "ＷＢＳ",
+  "detail": "「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。",
+  "start": 1633097700000,
+  "end": 1633101300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "あなたと世界を経済でつなぐ",
+  "episode": null,
+  "flags": []
+}

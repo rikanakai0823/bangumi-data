@@ -1,0 +1,25 @@
+{
+  "id": "w67vmpr",
+  "category": "anime",
+  "title": "ポケットモンスター サン＆ムーン ,8",
+  "fullTitle": "ポケットモンスター サン＆ムーン[字] #7,8",
+  "detail": "＃７「市場の風来坊ニャビー！」＃８「タマゴ係はだ～れだ？」",
+  "start": 1633071600000,
+  "end": 1633075200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "市場の風来坊ニャビー！",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

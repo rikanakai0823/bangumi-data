@@ -1,0 +1,25 @@
+{
+  "id": "idozebm",
+  "category": "news",
+  "title": "キャッチ！世界のトップニュース",
+  "fullTitle": "キャッチ！世界のトップニュース[二]",
+  "detail": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】西海奈穂子，中川栞",
+  "start": 1633042800000,
+  "end": 1633045800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "キャスター",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idvjtns",
+  "category": "anime",
+  "title": "スーパーウィングス　セレクション",
+  "fullTitle": "スーパーウィングス　セレクション　＃２[二]",
+  "detail": "第３話「泳ぐブタさん」\r\n第４話「真の勇者」",
+  "start": 1633078800000,
+  "end": 1633080600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "泳ぐブタさん",
+  "episode": 2,
+  "flags": [
+    "二"
+  ]
+}

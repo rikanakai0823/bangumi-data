@@ -1,0 +1,25 @@
+{
+  "id": "381jqz03av",
+  "category": "hobby",
+  "title": "ロンリのちから",
+  "fullTitle": "ロンリのちから[字]",
+  "detail": "",
+  "start": 1633015200000,
+  "end": 1633015800000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

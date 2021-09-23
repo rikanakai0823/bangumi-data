@@ -1,0 +1,26 @@
+{
+  "id": "iduvly4",
+  "category": "cinema",
+  "title": "ファンタジー・アイランド",
+  "fullTitle": "[映][SS]ファンタジー・アイランド",
+  "detail": "ジェイソン・ブラム製作で人気テレビドラマをリメイクしたホラー。あらゆる夢を叶える島を訪れた男女が思わぬ恐怖に遭遇する。",
+  "start": 1633068000000,
+  "end": 1633075200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

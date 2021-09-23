@@ -1,0 +1,25 @@
+{
+  "id": "idozeb8",
+  "category": "documentary",
+  "title": "ディープオーシャン",
+  "fullTitle": "ディープオーシャン「絶景　南極の海」[SS]",
+  "detail": "壮大な南極の絶景と生き物の世界を、極上の映像で描く。久石譲のオリジナル音楽とテロップのみで伝える、フィラー映像で最後の秘境「南極」を体感する。",
+  "start": 1633028400000,
+  "end": 1633030200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "絶景　南極の海",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

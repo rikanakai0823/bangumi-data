@@ -1,0 +1,25 @@
+{
+  "id": "38224jvehu",
+  "category": "music",
+  "title": "ザ・ニュージックビデオ",
+  "fullTitle": "ザ・ニュージックビデオ[字]",
+  "detail": "※詳細が決まり次第、お知らせいたします。",
+  "start": 1633097700000,
+  "end": 1633101300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

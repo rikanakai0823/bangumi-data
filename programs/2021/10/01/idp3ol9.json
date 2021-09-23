@@ -1,0 +1,27 @@
+{
+  "id": "idp3ol9",
+  "category": "drama",
+  "title": "ミュージックｉｎドラマ",
+  "fullTitle": "ミュージックｉｎドラマ「ホシに願いを」[SS][字][再]",
+  "detail": "音楽の力を軸に、人を信頼する気持ちと、世代を超え受け継がれる希望を描く、ミュージックｉｎドラマ。",
+  "start": 1633066620000,
+  "end": 1633071240000,
+  "seconds": 4620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ホシに願いを",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字",
+    "再"
+  ]
+}

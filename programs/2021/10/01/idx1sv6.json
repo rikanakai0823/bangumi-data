@@ -1,0 +1,25 @@
+{
+  "id": "idx1sv6",
+  "category": "anime",
+  "title": "BanG Dream! ,10",
+  "fullTitle": "[字]BanG Dream! #9,10",
+  "detail": "#9「バイトしちゃった！」\r\n#10「驚いちゃった！」\r\n幼い頃、星空を見上げた時に聴こえた『星の鼓動』のように、キラキ…",
+  "start": 1633046400000,
+  "end": 1633050000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "バイトしちゃった！",
+  "episode": 9,
+  "flags": [
+    "字"
+  ]
+}

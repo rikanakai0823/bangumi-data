@@ -1,0 +1,26 @@
+{
+  "id": "iduzwvw",
+  "category": "cinema",
+  "title": "３００ ＜スリーハンドレッド＞",
+  "fullTitle": "[映][字]３００ ＜スリーハンドレッド＞[吹]",
+  "detail": "ジェラルド・バトラー主演の歴史劇。スパルタの兵士３００人が、百万のペルシア巨大軍に挑む！［Ｒ－１５］",
+  "start": 1633096800000,
+  "end": 1633104000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

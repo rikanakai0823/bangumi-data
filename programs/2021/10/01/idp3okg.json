@@ -1,0 +1,26 @@
+{
+  "id": "idp3okg",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「２０２１　東京の夏」[字][再]",
+  "detail": "新型コロナとオリンピック一色だった今年の夏。いつもとは違う東京の風景、どんな人たちがどんな思いで過ごしたのか。自分らしさを見失わず生きる人々の物語。",
+  "start": 1633042800000,
+  "end": 1633046400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "２０２１　東京の夏",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
