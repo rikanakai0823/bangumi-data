@@ -2,7 +2,7 @@
   "id": "w698ooq",
   "category": "documentary",
   "title": "COP26へのカウントダウン",
-  "fullTitle": "COP26へのカウントダウン ＃2",
+  "fullTitle": "COP26へのカウントダウン ＃2(再)",
   "detail": "COP26を前に、地球が直面する課題を理解するための特別番組を世界のBBC支局の特派員たちがお送りする。",
   "start": 1632579000000,
   "end": 1632580200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 2,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }

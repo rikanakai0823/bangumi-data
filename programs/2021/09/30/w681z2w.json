@@ -1,9 +1,9 @@
 {
   "id": "w681z2w",
   "category": "anime",
-  "title": "未定",
-  "fullTitle": "未定",
-  "detail": "",
+  "title": "SCARLET NEXUS",
+  "fullTitle": "SCARLET NEXUS #14 [字]",
+  "detail": "#14 二千年の想い",
   "start": 1633010400000,
   "end": 1633012200000,
   "seconds": 1800,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 130
   },
-  "subTitle": "",
-  "episode": null,
-  "flags": []
+  "subTitle": "二千年の想い",
+  "episode": 14,
+  "flags": [
+    "字"
+  ]
 }

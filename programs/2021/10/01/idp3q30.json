@@ -1,8 +1,8 @@
 {
   "id": "idp3q30",
-  "category": "etc",
+  "category": "documentary",
   "title": "レギュラー番組への道",
-  "fullTitle": "レギュラー番組への道",
+  "fullTitle": "レギュラー番組への道「こんなの借りるのどんな人？」[字]",
   "detail": "",
   "start": 1633097700000,
   "end": 1633099500000,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 42
   },
-  "subTitle": "",
+  "subTitle": "こんなの借りるのどんな人？",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "w681yyb",
   "category": "anime",
   "title": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON",
-  "fullTitle": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON #08",
+  "fullTitle": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON #08 [終]",
   "detail": "■マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-\r\n＜スタッフ＞\r\n原作：Magica Quartet",
   "start": 1632663000000,
   "end": 1632664800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 8,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }
