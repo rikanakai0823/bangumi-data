@@ -1,0 +1,25 @@
+{
+  "id": "idxc8oz",
+  "category": "music",
+  "title": "TOKYO IDOL FESTIVAL 2021 生中継 DAY1 後半",
+  "fullTitle": "[生]TOKYO IDOL FESTIVAL 2021 生中継 DAY1 後半",
+  "detail": "アイドルがお台場に大集結！世界最大のアイドルフェス、TOKYO IDOL FESTIVAL 2021 DAY1終盤のHOT STAGEの模様をお届け！",
+  "start": 1633083600000,
+  "end": 1633089600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
