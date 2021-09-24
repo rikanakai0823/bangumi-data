@@ -3,7 +3,7 @@
   "category": "news",
   "title": "東京都議会中継",
   "fullTitle": "東京都議会中継[手]",
-  "detail": " ",
+  "detail": "「令和３年第３回定例会・本会議初日」",
   "start": 1632801600000,
   "end": 1632812400000,
   "seconds": 10800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "令和３年第３回定例会・本会議初日",
+  "episode": 3,
   "flags": []
 }
