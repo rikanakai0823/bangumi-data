@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkuoup",
+  "category": "hobby",
+  "title": "ヤツルギステーション！",
+  "fullTitle": "[新]ヤツルギステーション！　＃１",
+  "detail": "鳳神ヤツルギ１０＃１\r\nもぐもぐ！べじわーるど３＃１\r\n",
+  "start": 1633127400000,
+  "end": 1633129200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

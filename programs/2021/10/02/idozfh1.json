@@ -1,0 +1,25 @@
+{
+  "id": "idozfh1",
+  "category": "sports",
+  "title": "日本女子オープンゴルフ２０２１",
+  "fullTitle": "日本女子オープンゴルフ２０２１[字]",
+  "detail": "",
+  "start": 1633142700000,
+  "end": 1633150200000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

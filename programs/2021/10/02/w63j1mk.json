@@ -1,0 +1,25 @@
+{
+  "id": "w63j1mk",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第5回 全日本ＢＭＸフリースタイル選手権大会　パーク[再]",
+  "detail": "実況：勅使川原大地\r\n解説：中野謙吾",
+  "start": 1633181400000,
+  "end": 1633188600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "全日本ＢＭＸフリースタイル選手権大会　パーク",
+  "episode": 5,
+  "flags": [
+    "再"
+  ]
+}

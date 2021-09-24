@@ -1,0 +1,25 @@
+{
+  "id": "w67vmq8",
+  "category": "anime",
+  "title": "ヒカルの碁 ,34",
+  "fullTitle": "ヒカルの碁[字] #33,34",
+  "detail": "＃３３「チーム結成！」＃３４「勝ってはならない」",
+  "start": 1633116600000,
+  "end": 1633120200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "チーム結成！",
+  "episode": 33,
+  "flags": [
+    "字"
+  ]
+}

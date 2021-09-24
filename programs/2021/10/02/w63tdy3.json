@@ -1,0 +1,25 @@
+{
+  "id": "w63tdy3",
+  "category": "sports",
+  "title": "2021-22 サンダーソンファームズ チャンピオンシップ 2日目",
+  "fullTitle": "[生]2021-22 サンダーソンファームズ チャンピオンシップ 2日目",
+  "detail": "ツアー唯一のミシシッピ州での開催。舞台はカントリークラブ・オブ・ジャクソン。",
+  "start": 1633118400000,
+  "end": 1633125600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 99
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvola",
+  "category": "cinema",
+  "title": "ワイルド・スピード／スーパーコンボ",
+  "fullTitle": "[映][SS]ワイルド・スピード／スーパーコンボ",
+  "detail": "ドウェイン・ジョンソンとジェイソン・ステイサム共演のアクション大作。犬猿の仲だったホブスとショウが世界の危機を阻止する。",
+  "start": 1633131000000,
+  "end": 1633140000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduh3zu",
+  "category": "cinema",
+  "title": "アイアムアヒーロー[R15+指定]",
+  "fullTitle": "[映]アイアムアヒーロー[R15+指定][SS][字]",
+  "detail": "ゾンビが人間を襲いだした世界で悪戦苦闘する漫画家に大泉洋が扮し、有村架純、長澤まさみなど豪華キャストが共演した２０１６年公開の話題作。花沢健吾の人気漫画が原作。",
+  "start": 1633179600000,
+  "end": 1633187700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

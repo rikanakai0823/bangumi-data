@@ -1,0 +1,26 @@
+{
+  "id": "iducssp",
+  "category": "cinema",
+  "title": "イーグル・アイ（字幕版）",
+  "fullTitle": "[映]イーグル・アイ（字幕版）[SS]",
+  "detail": "スピルバーグが製作総指揮。最新テクノロジーをテーマにしたノンストップ・アクション・サスペンス。何者かに監視され、脅迫された男女が国家的規模の陰謀の真っただ中へ。",
+  "start": 1633100400000,
+  "end": 1633108500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

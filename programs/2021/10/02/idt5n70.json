@@ -1,0 +1,23 @@
+{
+  "id": "idt5n70",
+  "category": "sports",
+  "title": "ウイニング競馬　～中山～",
+  "fullTitle": "ウイニング競馬　～中山～",
+  "detail": "【中山】10Ｒ勝浦特別\r\n　　　　11Ｒ秋風ステークス\r\n【中京】10Ｒ関ケ原ステークス\r\n　　　　11Ｒシリウスステークス（ＧⅢ）",
+  "start": 1633152600000,
+  "end": 1633158000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "中山",
+  "episode": null,
+  "flags": []
+}

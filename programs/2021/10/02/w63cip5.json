@@ -1,0 +1,25 @@
+{
+  "id": "w63cip5",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×横浜DeNA～ファーム～（鎌スタ）",
+  "fullTitle": "[生] [プロ野球]北海道日本ハム×横浜DeNA～ファーム～（鎌スタ）",
+  "detail": "（最大延長　１７：４５）\r\nGAORAプロ野球中継～ファーム～\r\n「北海道日本ハム vs 横浜DeNA」\r\n解説:西山秀二、実況:中野玄\r\n開催日：2021年10月2日",
+  "start": 1633146900000,
+  "end": 1633163400000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

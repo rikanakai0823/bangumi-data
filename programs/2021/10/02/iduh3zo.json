@@ -1,0 +1,26 @@
+{
+  "id": "iduh3zo",
+  "category": "cinema",
+  "title": "羅生門",
+  "fullTitle": "[映]羅生門[字]",
+  "detail": "巨匠・黒澤明監督が第１２回ヴェネチア国際映画祭で金獅子賞を、第２４回アカデミー賞で名誉賞を受賞。監督が“世界のクロサワ”と呼ばれるきっかけになった記念碑的名作。",
+  "start": 1633137300000,
+  "end": 1633142700000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

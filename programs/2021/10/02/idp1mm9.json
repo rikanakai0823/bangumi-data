@@ -1,0 +1,25 @@
+{
+  "id": "idp1mm9",
+  "category": "sports",
+  "title": "Ｂリーグ２０２０－２１",
+  "fullTitle": "Ｂリーグ２０２０－２１[字]",
+  "detail": "",
+  "start": 1633175400000,
+  "end": 1633176000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

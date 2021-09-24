@@ -1,0 +1,23 @@
+{
+  "id": "w694k07",
+  "category": "news",
+  "title": "メンテナンス",
+  "fullTitle": "メンテナンス",
+  "detail": "＜お知らせ＞　放送機器メンテナンスのため午前３時まで放送を休止します。",
+  "start": 1633179600000,
+  "end": 1633179900000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

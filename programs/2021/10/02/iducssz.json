@@ -1,0 +1,27 @@
+{
+  "id": "iducssz",
+  "category": "cinema",
+  "title": "Ｅ．Ｔ．（吹替版）",
+  "fullTitle": "[映]Ｅ．Ｔ．（吹替版）[SS][字]",
+  "detail": "Ｓ・スピルバーグ監督によるＳＦファンタジーの名作。１０歳の少年と地球に取り残された地球外生命体（Ｅ．Ｔ．）が、星を超えた友情を育んでいく姿を感動的に描き出す。",
+  "start": 1633140000000,
+  "end": 1633147200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

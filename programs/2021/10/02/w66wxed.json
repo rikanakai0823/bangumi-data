@@ -1,0 +1,25 @@
+{
+  "id": "w66wxed",
+  "category": "music",
+  "title": "人気MUSICセレクト",
+  "fullTitle": "[初]人気MUSICセレクト",
+  "detail": "話題のアーティストをLaLaTVがセレクト！新譜リリース、ライブ情報、ミュージックビデオやアーティストからのコメントもお届けします！",
+  "start": 1633182300000,
+  "end": 1633183200000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "女性ｃｈ／ＬａＬａ",
+    "id": "f0d6",
+    "sid": 314,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 118
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zjl",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第7節 ケルン×グロイターフュルト",
+  "fullTitle": "21/22 ブンデスリーガ 第7節 ケルン×グロイターフュルト",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年10月1日\r\n会場:ラインエネルギー シュタディオン",
+  "start": 1633168800000,
+  "end": 1633177800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

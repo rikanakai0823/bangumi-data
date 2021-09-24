@@ -1,0 +1,25 @@
+{
+  "id": "w67kh1f",
+  "category": "music",
+  "title": "テレビ独占生中継! 2021 THE FACT MUSIC AWARDS",
+  "fullTitle": "[生]テレビ独占生中継! 2021 THE FACT MUSIC AWARDS",
+  "detail": "＜出演者＞\r\nBTS、SUPER JUNIOR、SEVENTEEN、ファン・チヨル、Brave Girls、OH MY GIRL、ITZY、Stray Kids、THE BOYZ、ATEEZ、ASTRO、STAYC、ENHYPEN、カン・ダニエル 他",
+  "start": 1633168800000,
+  "end": 1633188600000,
+  "seconds": 19800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

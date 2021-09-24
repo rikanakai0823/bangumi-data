@@ -1,0 +1,23 @@
+{
+  "id": "w63tdy6",
+  "category": "sports",
+  "title": "2021年度",
+  "fullTitle": "2021年度 第26回 日本ジュニアゴルフ選手権競技",
+  "detail": "今後の日本ゴルフ界を担うジュニアゴルファーたちの熱い戦いの模様をダイジェストにて放送。",
+  "start": 1633149000000,
+  "end": 1633152600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 99
+  },
+  "subTitle": "日本ジュニアゴルフ選手権競技",
+  "episode": 26,
+  "flags": []
+}

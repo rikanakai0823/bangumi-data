@@ -1,0 +1,25 @@
+{
+  "id": "idy8lzm",
+  "category": "anime",
+  "title": "おさるのジョージ",
+  "fullTitle": "おさるのジョージ#143[二]",
+  "detail": "#143「ネコまねどり／ポヨポヨ～ン」",
+  "start": 1633131000000,
+  "end": 1633132800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ネコまねどり／ポヨポヨ～ン",
+  "episode": 143,
+  "flags": [
+    "二"
+  ]
+}

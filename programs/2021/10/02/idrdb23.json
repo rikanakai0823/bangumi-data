@@ -1,0 +1,23 @@
+{
+  "id": "idrdb23",
+  "category": "cinema",
+  "title": "映画「エントラップメント」",
+  "fullTitle": "映画「エントラップメント」",
+  "detail": "ショーン・コネリー＆キャサリン・ゼタ＝ジョーンズ共演、\r\n予想を裏切るクライマックスに緊張が走る、スリリングなノンストップ・アクション！",
+  "start": 1633168800000,
+  "end": 1633175640000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

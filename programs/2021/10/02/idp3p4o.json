@@ -1,0 +1,25 @@
+{
+  "id": "idp3p4o",
+  "category": "documentary",
+  "title": "さわやか自然百景",
+  "fullTitle": "さわやか自然百景「和歌山　田辺の海」[字]",
+  "detail": "黒潮の影響を受ける和歌山県田辺の海。色鮮やかなソフトコーラルが群生し５００種以上の魚が見られる。夏、この海の楽園で生きものたちは懸命に次の世代へ命を繋（つな）ぐ",
+  "start": 1633123800000,
+  "end": 1633124700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "和歌山　田辺の海",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

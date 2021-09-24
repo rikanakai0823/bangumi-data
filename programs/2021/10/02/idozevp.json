@@ -1,0 +1,23 @@
+{
+  "id": "idozevp",
+  "category": "sports",
+  "title": "Ｊリーグタイム",
+  "fullTitle": "Ｊリーグタイム「第２６週（Ｊ１第３１節）」",
+  "detail": "【解説】宮澤ミシェル，【コメンテーター】平畠啓史，【アナウンサー】笠井大輔，【司会】中川絵美里",
+  "start": 1633176000000,
+  "end": 1633179000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "第２６週（Ｊ１第３１節）",
+  "episode": null,
+  "flags": []
+}
