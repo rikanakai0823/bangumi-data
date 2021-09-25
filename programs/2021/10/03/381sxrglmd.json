@@ -1,0 +1,25 @@
+{
+  "id": "381sxrglmd",
+  "category": "information",
+  "title": "秋の新番組プレゼン祭",
+  "fullTitle": "秋の新番組プレゼン祭[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "start": 1633237200000,
+  "end": 1633244040000,
+  "seconds": 6840,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

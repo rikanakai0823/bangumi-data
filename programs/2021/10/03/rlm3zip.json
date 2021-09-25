@@ -1,0 +1,25 @@
+{
+  "id": "rlm3zip",
+  "category": "sports",
+  "title": "月刊！ホークス",
+  "fullTitle": "[無]月刊！ホークス #256",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n結果だけではない、記録だけではない、そこに刻まれた熱い人間ドラマを魅せるスポーツドキュメンタリー。",
+  "start": 1633228200000,
+  "end": 1633230000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 256,
+  "flags": [
+    "無"
+  ]
+}

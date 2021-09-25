@@ -1,0 +1,26 @@
+{
+  "id": "idy8m0z",
+  "category": "anime",
+  "title": "ベイマックス　ザ・シリーズ",
+  "fullTitle": "[無]ベイマックス　ザ・シリーズ#15[二]",
+  "detail": "#15「ミニ・マックス」",
+  "start": 1633240800000,
+  "end": 1633242600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ミニ・マックス",
+  "episode": 15,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

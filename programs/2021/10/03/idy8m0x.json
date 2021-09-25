@@ -1,0 +1,26 @@
+{
+  "id": "idy8m0x",
+  "category": "anime",
+  "title": "セイディ・スパークス",
+  "fullTitle": "[無]セイディ・スパークス#3[二]",
+  "detail": "#3「幸運を取り戻せ／ファラオと猫の女神」",
+  "start": 1633237200000,
+  "end": 1633239000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "幸運を取り戻せ／ファラオと猫の女神",
+  "episode": 3,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

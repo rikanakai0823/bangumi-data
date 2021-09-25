@@ -1,0 +1,25 @@
+{
+  "id": "rlm3ziq",
+  "category": "sports",
+  "title": "ガンガン!ホークス CHECK!GO!",
+  "fullTitle": "[無]ガンガン!ホークス CHECK!GO! #131",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nガンガンTOPICSでは重田倫明投手の初勝利、中村宜聖選手の満塁HRなど育成選手の活躍に注目！",
+  "start": 1633249800000,
+  "end": 1633251600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 131,
+  "flags": [
+    "無"
+  ]
+}

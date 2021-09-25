@@ -1,0 +1,25 @@
+{
+  "id": "w633yae",
+  "category": "information",
+  "title": "インフォメーション",
+  "fullTitle": "[無料]インフォメーション",
+  "detail": "",
+  "start": 1633203000000,
+  "end": 1633204800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

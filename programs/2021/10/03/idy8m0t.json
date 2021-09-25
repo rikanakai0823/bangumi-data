@@ -1,0 +1,26 @@
+{
+  "id": "idy8m0t",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "[無]ツムツム#6[解]",
+  "detail": "#6「ツムたちの演奏会」",
+  "start": 1633226220000,
+  "end": 1633226400000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ツムたちの演奏会",
+  "episode": 6,
+  "flags": [
+    "無",
+    "解"
+  ]
+}

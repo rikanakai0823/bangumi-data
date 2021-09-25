@@ -1,0 +1,23 @@
+{
+  "id": "w694k08",
+  "category": "news",
+  "title": "メンテナンス",
+  "fullTitle": "メンテナンス",
+  "detail": "＜お知らせ＞　このあと午前３時より放送を再開します。",
+  "start": 1633197300000,
+  "end": 1633197600000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

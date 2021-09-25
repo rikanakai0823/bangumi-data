@@ -1,0 +1,25 @@
+{
+  "id": "iduvsks",
+  "category": "cinema",
+  "title": "桜桃の味",
+  "fullTitle": "[映]桜桃の味【映画は死なず！特集：アジアの巨匠たち】",
+  "detail": "カンヌで最高賞に輝いたアッバス・キアロスタミ監督の人間ドラマ。自殺を決意した男とかつて自殺を試みた老人との交流を描く。",
+  "start": 1633255200000,
+  "end": 1633262400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "映画は死なず！特集：アジアの巨匠たち",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

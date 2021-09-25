@@ -1,0 +1,26 @@
+{
+  "id": "rktcul4",
+  "category": "drama",
+  "title": "ドラマスペシャル～サングォン",
+  "fullTitle": "[無]ドラマスペシャル～サングォン　[字]",
+  "detail": "2012年　全1話",
+  "start": 1633201500000,
+  "end": 1633205700000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

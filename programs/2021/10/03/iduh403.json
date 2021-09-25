@@ -1,0 +1,26 @@
+{
+  "id": "iduh403",
+  "category": "variety",
+  "title": "［ダイジェスト版］シネマセッション　編",
+  "fullTitle": "[無][初]［ダイジェスト版］シネマセッション　「騙し絵の牙」編",
+  "detail": "",
+  "start": 1633246500000,
+  "end": 1633247100000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "騙し絵の牙",
+  "episode": null,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

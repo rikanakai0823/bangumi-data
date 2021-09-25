@@ -1,0 +1,26 @@
+{
+  "id": "idp3shr",
+  "category": "documentary",
+  "title": "ＣＹＣＬＥ　ＡＲＯＵＮＤ　ＪＡＰＡＮ　Ｈｉｇｈｌｉｇｈｔｓ",
+  "fullTitle": "ＣＹＣＬＥ　ＡＲＯＵＮＤ　ＪＡＰＡＮ　Ｈｉｇｈｌｉｇｈｔｓ[二][字]",
+  "detail": "",
+  "start": 1633206600000,
+  "end": 1633208220000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

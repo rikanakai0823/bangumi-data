@@ -1,0 +1,26 @@
+{
+  "id": "iduh400",
+  "category": "cinema",
+  "title": "まあだだよ",
+  "fullTitle": "[映]まあだだよ[字]",
+  "detail": "作家・内田百閒と彼を人生の師と慕う門下生たちとの心温まる交流をほのぼのとしたタッチで描写。日本映画界の巨匠・黒澤明監督の遺作となったヒューマンドラマ。",
+  "start": 1633221900000,
+  "end": 1633230900000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

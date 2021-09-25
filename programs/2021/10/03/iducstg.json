@@ -1,0 +1,26 @@
+{
+  "id": "iducstg",
+  "category": "cinema",
+  "title": "ニュー・ミュータント（字幕版）",
+  "fullTitle": "[映]ニュー・ミュータント（字幕版）[SS]",
+  "detail": "人気アメコミを原作とするヒット映画シリーズ「Ｘ－ＭＥＮ」の第１３作。若きキャストが演じる超能力者たちによる激烈バトルを描いた、話題のＳＦファンタジーアクション。",
+  "start": 1633223700000,
+  "end": 1633230000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "Ｘ－ＭＥＮ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

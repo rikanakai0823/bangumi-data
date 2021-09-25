@@ -1,0 +1,25 @@
+{
+  "id": "rlm3zgt",
+  "category": "sports",
+  "title": "全日本プロレスアーカイブス",
+  "fullTitle": "[無]全日本プロレスアーカイブス #30",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1633203000000,
+  "end": 1633206600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 30,
+  "flags": [
+    "無"
+  ]
+}

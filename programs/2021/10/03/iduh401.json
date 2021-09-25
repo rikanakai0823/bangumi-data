@@ -1,0 +1,27 @@
+{
+  "id": "iduh401",
+  "category": "cinema",
+  "title": "探偵はＢＡＲにいる[PG12指定]",
+  "fullTitle": "[映]探偵はＢＡＲにいる[PG12指定][SS][字]",
+  "detail": "大泉洋と松田龍平が共演したヒットハードボイルドミステリー。札幌のススキノで私立探偵稼業を営む“俺”と相棒兼運転手のコンビ。“俺”は謎の女から奇妙な依頼を受ける。",
+  "start": 1633230900000,
+  "end": 1633239000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

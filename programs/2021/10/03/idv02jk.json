@@ -1,0 +1,26 @@
+{
+  "id": "idv02jk",
+  "category": "cinema",
+  "title": "ユナイテッド９３",
+  "fullTitle": "[映][SS]ユナイテッド９３[吹]",
+  "detail": "臨場感あふれるドキュメンタリー・タッチの映像によって９．１１でハイジャックされたユナイテッド９３便に焦点を当てたドラマ。",
+  "start": 1633239600000,
+  "end": 1633246800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

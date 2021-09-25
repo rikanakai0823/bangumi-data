@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkuoxf",
+  "category": "anime",
+  "title": "ぐんまちゃん",
+  "fullTitle": "[新]ぐんまちゃん　＃１",
+  "detail": " ",
+  "start": 1633217400000,
+  "end": 1633219200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

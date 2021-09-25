@@ -1,0 +1,26 @@
+{
+  "id": "w63j1m9",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～東京ドーム～",
+  "fullTitle": "[無料][生]DRAMATIC BASEBALL2021「巨人×DeNA」～東京ドーム～",
+  "detail": "～生中継　*試合終了まで放送",
+  "start": 1633236300000,
+  "end": 1633251600000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×DeNA",
+  "episode": null,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w662vh7",
+  "category": "theater",
+  "title": "演劇調異譚",
+  "fullTitle": "【生】演劇調異譚「xxxHOLiC」",
+  "detail": "人気クリエイター集団CLAMPの大ヒット作品『xxxHOLiC』を舞台化!",
+  "start": 1633251600000,
+  "end": 1633260600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "xxxHOLiC",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

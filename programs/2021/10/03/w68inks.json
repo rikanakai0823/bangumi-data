@@ -1,0 +1,25 @@
+{
+  "id": "w68inks",
+  "category": "documentary",
+  "title": "インフォマーシャル",
+  "fullTitle": "[無]インフォマーシャル(日)",
+  "detail": "通販番組をお届けする30分",
+  "start": 1633217400000,
+  "end": 1633219200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "アニマルプラネット",
+    "id": "f0dx",
+    "sid": 341,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 133
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

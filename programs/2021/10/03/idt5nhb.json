@@ -1,0 +1,25 @@
+{
+  "id": "idt5nhb",
+  "category": "music",
+  "title": "ＢＳ演歌の花道",
+  "fullTitle": "ＢＳ演歌の花道[字]",
+  "detail": "1978年の番組開始から22年にわたりレギュラー番組として放送した伝説の番組「演歌の花道」が復活！日本を代表する歌手の皆さんの熱き歌声をお届けします！",
+  "start": 1633262400000,
+  "end": 1633265700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "演歌の花道",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

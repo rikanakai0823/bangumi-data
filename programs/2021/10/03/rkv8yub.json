@@ -1,0 +1,25 @@
+{
+  "id": "rkv8yub",
+  "category": "news",
+  "title": "Lunch　Update",
+  "fullTitle": "[無料]Lunch　Update",
+  "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Lunch Update」",
+  "start": 1633230000000,
+  "end": 1633237200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "日テレNEWS24・Lunch Update",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}
