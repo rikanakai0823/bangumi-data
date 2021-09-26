@@ -1,9 +1,9 @@
 {
   "id": "idozeck",
   "category": "sports",
-  "title": "プロ野球２０２１",
-  "fullTitle": "プロ野球２０２１[多][字]",
-  "detail": "",
+  "title": "プロ野球２０２１「阪神」対",
+  "fullTitle": "プロ野球２０２１「阪神」対「中日」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】和田一浩，【アナウンサー】冨坂和男　～甲子園球場から中継～",
   "start": 1633078800000,
   "end": 1633091400000,
   "seconds": 12600,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "中日",
   "episode": null,
   "flags": [
     "多",

@@ -1,9 +1,9 @@
 {
   "id": "idozfk6",
   "category": "sports",
-  "title": "プロ野球２０２１",
-  "fullTitle": "プロ野球２０２１[多][字]",
-  "detail": "",
+  "title": "プロ野球２０２１「阪神」対",
+  "fullTitle": "プロ野球２０２１「阪神」対「中日」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　２：００）　【解説】宮本慎也，【アナウンサー】宮田貴行　～甲子園球場から中継～",
   "start": 1633237200000,
   "end": 1633249800000,
   "seconds": 12600,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "中日",
   "episode": null,
   "flags": [
     "多",
