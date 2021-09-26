@@ -1,0 +1,26 @@
+{
+  "id": "iduh40k",
+  "category": "cinema",
+  "title": "うさぎドロップ",
+  "fullTitle": "[映]うさぎドロップ[字]",
+  "detail": "松山ケンイチと名子役の芦田愛菜が初共演。祖父の隠し子の少女を引き取った独身サラリーマンの奮闘と、彼と少女の心のふれあいを描いた、ハートウォーミングな大ヒット作。",
+  "start": 1633348800000,
+  "end": 1633356000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

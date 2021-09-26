@@ -1,0 +1,26 @@
+{
+  "id": "iduvura",
+  "category": "cinema",
+  "title": "遊星からの物体Ｘ　ファーストコンタクト",
+  "fullTitle": "[映][SS]遊星からの物体Ｘ　ファーストコンタクト",
+  "detail": "カルト的な人気を誇る名作ＳＦホラーの前日譚。人体に寄生するエイリアンと人類との遭遇を描く。［ＰＧ１２］",
+  "start": 1633296600000,
+  "end": 1633303800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

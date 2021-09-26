@@ -1,0 +1,23 @@
+{
+  "id": "w66oc1h",
+  "category": "etc",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "この時間は情報番組をお送りしております",
+  "start": 1633291200000,
+  "end": 1633294800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

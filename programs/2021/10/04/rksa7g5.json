@@ -1,0 +1,25 @@
+{
+  "id": "rksa7g5",
+  "category": "anime",
+  "title": "【ドラえもん1982年一挙放送】",
+  "fullTitle": "[無料]【ドラえもん1982年一挙放送】",
+  "detail": "なつかしいドラえもんを放送！\r\n「巨大ロボットを組み立てよう(前)／巨大ロボットを組み立てよう(後)／空気中継衛星」",
+  "start": 1633276800000,
+  "end": 1633278600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

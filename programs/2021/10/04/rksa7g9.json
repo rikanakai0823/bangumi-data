@@ -1,0 +1,25 @@
+{
+  "id": "rksa7g9",
+  "category": "anime",
+  "title": "【ドラえもん1982年一挙放送】",
+  "fullTitle": "[無料]【ドラえもん1982年一挙放送】",
+  "detail": "#20・21\r\n#20「のび太のなが～い家出／火災予定報知ベル／チクタクボン・ワッペン」\r\n#21「おもかるとう／サイオー馬／そっくりかかし」",
+  "start": 1633284000000,
+  "end": 1633287600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 20,
+  "flags": [
+    "無"
+  ]
+}

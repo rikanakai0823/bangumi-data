@@ -1,0 +1,25 @@
+{
+  "id": "idxy5ug",
+  "category": "hobby",
+  "title": "HITラッシュ Fall",
+  "fullTitle": "[無]HITラッシュ Fall",
+  "detail": "年間500本以上の釣り番組を放送している国内唯一の釣り専門チャンネル『釣りビジョン』。この番組では釣りビジョンでお送りした様々な釣りのヒットシーンだけを一挙放送",
+  "start": 1633276800000,
+  "end": 1633280400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

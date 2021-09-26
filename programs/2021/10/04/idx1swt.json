@@ -1,0 +1,25 @@
+{
+  "id": "idx1swt",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "#525「まる子、極楽に行く」の巻／「まる子、ニキビが出来る」の巻\r\n静岡県清水市に住む小学3年生のももこは、みんなか…",
+  "start": 1633289400000,
+  "end": 1633291200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "まる子、極楽に行く",
+  "episode": 525,
+  "flags": [
+    "字"
+  ]
+}

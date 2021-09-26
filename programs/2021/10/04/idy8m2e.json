@@ -1,0 +1,25 @@
+{
+  "id": "idy8m2e",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#34[二]",
+  "detail": "#34「赤いの怖い！」",
+  "start": 1633332300000,
+  "end": 1633332600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "赤いの怖い！",
+  "episode": 34,
+  "flags": [
+    "二"
+  ]
+}

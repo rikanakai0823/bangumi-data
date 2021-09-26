@@ -1,0 +1,25 @@
+{
+  "id": "rksa7g3",
+  "category": "anime",
+  "title": "【ドラえもん1982年一挙放送】",
+  "fullTitle": "[無料]【ドラえもん1982年一挙放送】",
+  "detail": "なつかしいドラえもんを放送！\r\n「タイムマシンがなくなった!!(前)／タイムマシンがなくなった!!(後)／ロボット雪だるま」",
+  "start": 1633273200000,
+  "end": 1633275000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

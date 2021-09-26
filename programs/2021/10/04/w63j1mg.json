@@ -1,0 +1,25 @@
+{
+  "id": "w63j1mg",
+  "category": "sports",
+  "title": "2021MotoGP 第15戦アメリカズGP決勝",
+  "fullTitle": "[生]2021MotoGP 第15戦アメリカズGP決勝",
+  "detail": "～生中継　～オースティン\r\n解説：宮城光　青木拓磨　坂田和人\r\n実況：伊藤大海　藤田大介　町田浩徳",
+  "start": 1633275900000,
+  "end": 1633294800000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

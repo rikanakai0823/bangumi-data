@@ -1,0 +1,23 @@
+{
+  "id": "w662vi1",
+  "category": "theater",
+  "title": "舞台『刀剣乱舞』虚伝 燃ゆる本能寺～再演～",
+  "fullTitle": "舞台『刀剣乱舞』虚伝 燃ゆる本能寺～再演～",
+  "detail": "【出演】鈴木拡樹、荒牧慶彦、佐々木喜英、瀬戸祐介、納谷健、北村 諒、和田雅成、椎名鯛造、廣瀬大介、杉江大志、東啓介、健人、丸目聖人、窪寺昭",
+  "start": 1633348800000,
+  "end": 1633357800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "出演",
+  "episode": null,
+  "flags": []
+}

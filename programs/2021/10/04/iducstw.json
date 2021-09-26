@@ -1,0 +1,27 @@
+{
+  "id": "iducstw",
+  "category": "sports",
+  "title": "ラ・リーガ　第８節　グラナダｖｓセビージャ",
+  "fullTitle": "[初][生]ラ・リーガ　第８節　グラナダｖｓセビージャ[二]",
+  "detail": "スペインサッカー　ラ・リーガの２０２１－２０２２シーズン。各国のスター選手が競演する最高峰の戦いを毎節最大５試合生中継する。",
+  "start": 1633286700000,
+  "end": 1633295100000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生",
+    "二"
+  ]
+}

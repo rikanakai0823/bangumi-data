@@ -1,0 +1,26 @@
+{
+  "id": "w67vmru",
+  "category": "anime",
+  "title": "ヒカルの碁 -32",
+  "fullTitle": "[無]ヒカルの碁[字] #29-32",
+  "detail": "＃２９「桑原本因坊」＃３０「緒方ＶＳ本因坊」＃３１「プロ試験開始」＃３２「予選最終日」",
+  "start": 1633276800000,
+  "end": 1633284000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "桑原本因坊",
+  "episode": 29,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

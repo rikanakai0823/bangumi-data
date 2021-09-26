@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zg9",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2021～ファーム～ 西武vs.巨人",
+  "fullTitle": "LIONS プロ野球中継2021～ファーム～ 西武vs.巨人",
+  "detail": "▽10月3日開催\r\n実況：木下貴道\r\n開催日時：2021年10月3日 (日) 13:00\r\n会場：CAR3219フィールド（カーミニークフィールド）",
+  "start": 1633316400000,
+  "end": 1633332600000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

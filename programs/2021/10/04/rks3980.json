@@ -1,0 +1,23 @@
+{
+  "id": "rks3980",
+  "category": "music",
+  "title": "【無料】TBSch×SBS funE PRESENTS THE SHOW <字幕>",
+  "fullTitle": "【無料】TBSch×SBS funE PRESENTS THE SHOW #234<字幕>",
+  "detail": "TBSチャンネルと韓国のSBS funEで放送されるK－POP人気番組『THE SHOW』。【出演】ATEEZ、April、ソユ、ホ・チャンミ、Eric Nam、WayV ほか",
+  "start": 1633276800000,
+  "end": 1633281600000,
+  "seconds": 4800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "出演",
+  "episode": 234,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1sx1",
+  "category": "anime",
+  "title": "ちびまる子ちゃん(第1期) ,20",
+  "fullTitle": "[字]ちびまる子ちゃん(第1期) #19,20",
+  "detail": "#19「おかあさんの日」\r\nもうすぐ母の日。お母さんに感謝の気持ちをこめてプレゼントをしたいと思うまる子なのだが、貯…",
+  "start": 1633312800000,
+  "end": 1633316400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "おかあさんの日",
+  "episode": 19,
+  "flags": [
+    "字"
+  ]
+}
