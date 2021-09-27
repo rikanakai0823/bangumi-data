@@ -1,8 +1,8 @@
 {
   "id": "w681z53",
   "category": "anime",
-  "title": "未定",
-  "fullTitle": "未定",
+  "title": "海賊王女",
+  "fullTitle": "[新]海賊王女 #01 [字]",
   "detail": "",
   "start": 1633271400000,
   "end": 1633273200000,
@@ -18,6 +18,9 @@
     "n": 130
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
 }

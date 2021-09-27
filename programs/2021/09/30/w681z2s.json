@@ -1,9 +1,9 @@
 {
   "id": "w681z2s",
   "category": "anime",
-  "title": "闇芝居 第9期 #12・#13",
-  "fullTitle": "闇芝居 第9期 #12・#13 [終]",
-  "detail": "",
+  "title": "闇芝居 第9期",
+  "fullTitle": "闇芝居 第9期 #12",
+  "detail": "#12 猿合わせ",
   "start": 1633006800000,
   "end": 1633007400000,
   "seconds": 600,
@@ -17,9 +17,7 @@
     "hasLogoData": true,
     "n": 130
   },
-  "subTitle": "",
+  "subTitle": "猿合わせ",
   "episode": 12,
-  "flags": [
-    "終"
-  ]
+  "flags": []
 }
