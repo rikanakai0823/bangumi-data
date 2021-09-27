@@ -1,9 +1,9 @@
 {
   "id": "idx1swr",
-  "category": "anime",
-  "title": "番組未定",
-  "fullTitle": "番組未定",
-  "detail": "番組未定",
+  "category": "variety",
+  "title": "「鬼滅の刃」スペシャルイベント～鬼滅の宴～",
+  "fullTitle": "「鬼滅の刃」スペシャルイベント～鬼滅の宴～",
+  "detail": "2019年10月に開催された、TVアニメ『鬼滅の刃』初の大型イベント「鬼滅の宴」。\r\n作品の世界観を彩るキャストたちが集…",
   "start": 1633258800000,
   "end": 1633267800000,
   "seconds": 9000,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 69
   },
-  "subTitle": "",
+  "subTitle": "鬼滅の宴",
   "episode": null,
   "flags": []
 }

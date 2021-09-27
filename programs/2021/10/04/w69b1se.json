@@ -1,9 +1,9 @@
 {
   "id": "w69b1se",
-  "category": "news",
-  "title": "CNNニュースルーム",
-  "fullTitle": "CNNニュースルーム",
-  "detail": "専門家の分析を交え世界のニュースを検証\r\nヘッドラインを飾るニュースに最新情報を加えながら、あらゆる分野の専門家の分析とともに判り易く解説する報道・情報番組。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "Living Golf[再]",
+  "detail": "＃199 史上最高のゴルファーの1人、アーノルド・パーマー特集。死去から5年、ジャック・ニクラスとゲーリー・プレーヤーにインタビュー、彼のキャリアを振り返る。",
   "start": 1633291200000,
   "end": 1633294800000,
   "seconds": 3600,
@@ -18,6 +18,8 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 199,
+  "flags": [
+    "再"
+  ]
 }
