@@ -1,0 +1,25 @@
+{
+  "id": "w66lhx6",
+  "category": "information",
+  "title": "番組PR",
+  "fullTitle": "[無料]番組PR【10月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1633238700000,
+  "end": 1633239300000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 114
+  },
+  "subTitle": "10月",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

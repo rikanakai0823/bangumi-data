@@ -1,8 +1,8 @@
 {
   "id": "idvjtq5",
   "category": "anime",
-  "title": "ANIME＋",
-  "fullTitle": "ANIME＋",
+  "title": "ジャヒー様はくじけない！",
+  "fullTitle": "[新]ジャヒー様はくじけない！　＃１",
   "detail": "",
   "start": 1633271400000,
   "end": 1633273200000,
@@ -18,6 +18,8 @@
     "n": 65
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }
