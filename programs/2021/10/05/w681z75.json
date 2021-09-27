@@ -1,0 +1,25 @@
+{
+  "id": "w681z75",
+  "category": "anime",
+  "title": "ワッチャプリマジ！",
+  "fullTitle": "[新]ワッチャプリマジ！ #01",
+  "detail": "",
+  "start": 1633444200000,
+  "end": 1633446000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

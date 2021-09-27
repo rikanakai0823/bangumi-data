@@ -1,0 +1,26 @@
+{
+  "id": "iduh40o",
+  "category": "cinema",
+  "title": "日本統一１６",
+  "fullTitle": "[映]日本統一１６[字]",
+  "detail": "侠和会の工藤会長襲撃事件の首謀者が、福井・坂下組組長の坂下と判明。怒りに燃える氷室と田村はヒットマンを雇い、坂下を追い詰めていく。任侠大河ロマン第１６作。",
+  "start": 1633375500000,
+  "end": 1633380000000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

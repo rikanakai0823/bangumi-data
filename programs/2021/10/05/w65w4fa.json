@@ -1,0 +1,26 @@
+{
+  "id": "w65w4fa",
+  "category": "anime",
+  "title": "けいおん!!",
+  "fullTitle": "[新]けいおん!!#1[字]",
+  "detail": "かきふらい原作・京都アニメーション制作の「けいおん！」第２期。高校３年生に進級した軽音部メンバーのゆるやかな日常が描かれる。",
+  "start": 1633420800000,
+  "end": 1633422600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 106
+  },
+  "subTitle": "けいおん！",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8m3d",
+  "category": "anime",
+  "title": "プッカ",
+  "fullTitle": "プッカ#10[二]",
+  "detail": "#10「ネコの強盗団/プッカの夢の中へ/悪党アビョ」",
+  "start": 1633402800000,
+  "end": 1633404600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ネコの強盗団/プッカの夢の中へ/悪党アビョ",
+  "episode": 10,
+  "flags": [
+    "二"
+  ]
+}

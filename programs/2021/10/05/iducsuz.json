@@ -1,0 +1,26 @@
+{
+  "id": "iducsuz",
+  "category": "cinema",
+  "title": "ようこそ映画音響の世界へ（字幕版）",
+  "fullTitle": "[映]ようこそ映画音響の世界へ（字幕版）[SS]",
+  "detail": "音楽、せりふ、効果音といった映画の“音響（サウンド）”を掘り下げてクローズアップしたドキュメンタリー。Ｇ・ルーカス、Ｓ・スピルバーグなど、大物映画人も多数登場。",
+  "start": 1633417800000,
+  "end": 1633423800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

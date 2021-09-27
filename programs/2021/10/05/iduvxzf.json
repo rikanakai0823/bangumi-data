@@ -1,0 +1,26 @@
+{
+  "id": "iduvxzf",
+  "category": "cinema",
+  "title": "グッドライアー 偽りのゲーム",
+  "fullTitle": "[映][SS]グッドライアー 偽りのゲーム",
+  "detail": "イアン・マッケラン、ヘレン・ミレン共演のミステリー。ベテラン詐欺師と夫を亡くした資産家の妻が繰り広げる騙し合いを描く。",
+  "start": 1633385700000,
+  "end": 1633392900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

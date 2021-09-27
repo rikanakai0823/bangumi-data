@@ -1,0 +1,31 @@
+{
+  "id": "38224jvf2v",
+  "category": "variety",
+  "title": "有吉クイズ",
+  "fullTitle": "[新]有吉クイズ[字]",
+  "detail": "有吉弘行も解答者！知識＆情報一切無縁のクイズバラエティー！\n◇◇出演者\n有吉弘行\n◇◇おしらせ\n☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/ariyoshiquiz/\r\n\r\n☆番組Twitter\r\n　https://twitter.com/ariyoshiquiz",
+  "start": 1633360500000,
+  "end": 1633362300000,
+  "seconds": 1800,
+  "description": "有吉弘行も解答者！知識＆情報一切無縁のクイズバラエティー！",
+  "extra": {
+    "◇出演者": "有吉弘行",
+    "◇おしらせ": "☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/ariyoshiquiz/\r\n\r\n☆番組Twitter\r\n　https://twitter.com/ariyoshiquiz"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

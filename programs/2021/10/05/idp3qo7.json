@@ -1,0 +1,25 @@
+{
+  "id": "idp3qo7",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「突進２１５キロ　～小錦奮戦～」[字]",
+  "detail": "外国人力士のパイオニア・小錦は、２１５キロの巨体から繰り出す突き押しで大相撲の歴史を変えた。横綱、大関を次々に倒した場所に密着し、その素顔を描く。",
+  "start": 1633425000000,
+  "end": 1633428000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "突進２１５キロ　～小錦奮戦～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

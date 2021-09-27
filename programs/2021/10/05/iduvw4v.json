@@ -1,0 +1,26 @@
+{
+  "id": "iduvw4v",
+  "category": "cinema",
+  "title": "クラウド　アトラス",
+  "fullTitle": "[映][SS]クラウド　アトラス",
+  "detail": "トム・ハンクス、ハル・ベリーら豪華スター出演。時代も場所も違う６つの物語が、壮大な叙事詩を紡ぎ出す。［ＰＧ１２］",
+  "start": 1633360500000,
+  "end": 1633371300000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

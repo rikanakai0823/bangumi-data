@@ -1,0 +1,23 @@
+{
+  "id": "w69b1ta",
+  "category": "news",
+  "title": "ザ・リード",
+  "fullTitle": "ザ・リード",
+  "detail": "アメリカを代表するトップジャーナリストがニュースを斬る\r\nワシントン上級特派員のジェイク・タッパーがアンカーを務めるオールラウンドなニュース番組「ザ・リード」。",
+  "start": 1633377600000,
+  "end": 1633381200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7znh",
+  "category": "information",
+  "title": "日テレポシュレ　１０月もガンガンセースします！４５分ＳＰ",
+  "fullTitle": "日テレポシュレ　１０月もガンガンセースします！４５分ＳＰ[再]",
+  "detail": "",
+  "start": 1633373100000,
+  "end": 1633375800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63te0q",
+  "category": "sports",
+  "title": "【わくわく！火曜ゴルフ・プレミアム】ＥＶＥＲ ＧＲＥＥＮ ＣＬＵＢ",
+  "fullTitle": "[初]【わくわく！火曜ゴルフ・プレミアム】ＥＶＥＲ ＧＲＥＥＮ ＣＬＵＢ ＃５",
+  "detail": "ゴルフライフを豊かにする様々な情報を紹介する「EVERGREEN CLUB」。ゴルフの楽しさを余すところなく紹介する。",
+  "start": 1633435200000,
+  "end": 1633436100000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 99
+  },
+  "subTitle": "EVERGREEN CLUB",
+  "episode": 5,
+  "flags": [
+    "初"
+  ]
+}

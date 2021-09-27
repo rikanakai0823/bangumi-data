@@ -1,0 +1,23 @@
+{
+  "id": "rktf2d1",
+  "category": "music",
+  "title": "Mnetライブ",
+  "fullTitle": "Mnetライブ 【EVERGLOW】",
+  "detail": "世界中から着々と人気を得ているEVERGLOW！彼女たちのエネルギッシュなライブパフォーマンスをまとめてお届け！\r\n2021年\r\n※再放送情報はMnet HPにてご確認ください",
+  "start": 1633417200000,
+  "end": 1633419000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "EVERGLOW",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idueyix",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]邦楽ＢＲＥＡＫ　＃６９７",
+  "detail": "",
+  "start": 1633382100000,
+  "end": 1633383000000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 697,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

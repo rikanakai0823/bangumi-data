@@ -1,0 +1,25 @@
+{
+  "id": "rkunli7",
+  "category": "hobby",
+  "title": "ペッパピッグ#53,#54[字/日英]",
+  "fullTitle": "ペッパピッグ#53,#54[二][字/日英]",
+  "detail": "#53「こうえん」　#54「あしながクモさん」",
+  "start": 1633406400000,
+  "end": 1633407300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "こうえん",
+  "episode": 53,
+  "flags": [
+    "二"
+  ]
+}

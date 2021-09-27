@@ -1,0 +1,26 @@
+{
+  "id": "iduvz1w",
+  "category": "cinema",
+  "title": "BPM ビート・パー・ミニット",
+  "fullTitle": "[映][SS]BPM ビート・パー・ミニット",
+  "detail": "カンヌ国際映画祭グランプリ受賞の青春ドラマ。ＨＩＶ感染者の偏見に対抗する団体に加わった若者の恋と葛藤を描く。［Ｒ１５＋］",
+  "start": 1633435200000,
+  "end": 1633444200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

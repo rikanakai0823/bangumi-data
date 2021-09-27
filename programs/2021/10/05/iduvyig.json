@@ -1,0 +1,26 @@
+{
+  "id": "iduvyig",
+  "category": "cinema",
+  "title": "レイニーデイ・イン・ニューヨーク",
+  "fullTitle": "[映][SS]レイニーデイ・イン・ニューヨーク【メガヒット９（再）】",
+  "detail": "ウディ・アレン監督のロマンティックコメディ。雨のニューヨークを舞台に運命のいたずらに翻弄される大学生カップルの姿を描く。",
+  "start": 1633410000000,
+  "end": 1633416600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

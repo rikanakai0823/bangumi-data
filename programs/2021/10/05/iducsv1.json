@@ -1,0 +1,27 @@
+{
+  "id": "iducsv1",
+  "category": "cinema",
+  "title": "騙し絵の牙",
+  "fullTitle": "[映]騙し絵の牙[SS][字]",
+  "detail": "大泉洋、松岡茉優、佐藤浩市などオールスターが共演。崖っぷちの出版社で騙し合いバトルが展開。塩田武士の同名小説を「桐島、部活やめるってよ」の吉田大八監督が映画化。",
+  "start": 1633424400000,
+  "end": 1633431600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "桐島、部活やめるってよ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
