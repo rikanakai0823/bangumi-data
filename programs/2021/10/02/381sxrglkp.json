@@ -2,7 +2,7 @@
   "id": "381sxrglkp",
   "category": "variety",
   "title": "お笑いの日　第１部",
-  "fullTitle": "お笑いの日　第１部",
+  "fullTitle": "お笑いの日　第１部[デ]",
   "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/owaraiday/",
   "start": 1633150800000,
   "end": 1633168800000,
@@ -23,5 +23,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "デ"
+  ]
 }
