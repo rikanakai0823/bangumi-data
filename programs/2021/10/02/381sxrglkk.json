@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "とれたてハッピー！",
   "fullTitle": "[新]とれたてハッピー！[解][字]",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/toretate-happy/",
   "start": 1633134300000,
   "end": 1633134600000,
   "seconds": 300,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/toretate-happy/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
