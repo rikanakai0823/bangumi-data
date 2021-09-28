@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zg5",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021 ソフトバンクvs.楽天",
+  "fullTitle": "HAWKS プロ野球中継2021 ソフトバンクvs.楽天",
+  "detail": "▽10月5日開催\r\n解説/実況：若菜嘉晴/石黒新平\r\n開催日時：2021年10月5日 (火) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1633489200000,
+  "end": 1633507200000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

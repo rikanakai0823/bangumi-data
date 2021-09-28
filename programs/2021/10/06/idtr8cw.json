@@ -1,0 +1,26 @@
+{
+  "id": "idtr8cw",
+  "category": "sports",
+  "title": "ＢＳフジＬＩＶＥプロ野球２０２１　東京ヤクルト×巨人（神宮球場）",
+  "fullTitle": "[生][多]ＢＳフジＬＩＶＥプロ野球２０２１　東京ヤクルト×巨人（神宮球場）",
+  "detail": "ペナントレースもいよいよ大詰め！注目の2試合を生中継でお届け！",
+  "start": 1633510800000,
+  "end": 1633521300000,
+  "seconds": 10500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "多"
+  ]
+}

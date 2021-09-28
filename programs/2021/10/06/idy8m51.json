@@ -1,0 +1,25 @@
+{
+  "id": "idy8m51",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#36[二]",
+  "detail": "#36「ロデオに出よう」",
+  "start": 1633505100000,
+  "end": 1633505400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ロデオに出よう",
+  "episode": 36,
+  "flags": [
+    "二"
+  ]
+}

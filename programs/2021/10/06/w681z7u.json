@@ -1,0 +1,23 @@
+{
+  "id": "w681z7u",
+  "category": "anime",
+  "title": "TSUKIPRO THE ANIMATION セレクション",
+  "fullTitle": "TSUKIPRO THE ANIMATION セレクション #05",
+  "detail": "この時間は「『TSUKIPRO THE ANIMATION 2』セレクション5」を放送いたします。",
+  "start": 1633500000000,
+  "end": 1633501800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "『TSUKIPRO THE ANIMATION 2』セレクション5",
+  "episode": 5,
+  "flags": []
+}

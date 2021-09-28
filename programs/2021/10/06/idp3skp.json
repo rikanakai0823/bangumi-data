@@ -1,0 +1,25 @@
+{
+  "id": "idp3skp",
+  "category": "hobby",
+  "title": "美の小壺",
+  "fullTitle": "美の小壺「益子焼」[字]",
+  "detail": "ＢＳプレミアムで毎週金曜夜７時３０分放送の「美の壺」を“小壺”サイズに仕立てたミニ番組。ぽってりとした素朴な土感とあたたかみが持ち味の「益子焼」の魅力を紹介！",
+  "start": 1633485960000,
+  "end": 1633486500000,
+  "seconds": 540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "益子焼",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

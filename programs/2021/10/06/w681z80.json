@@ -1,0 +1,25 @@
+{
+  "id": "w681z80",
+  "category": "anime",
+  "title": "SCARLET NEXUS",
+  "fullTitle": "SCARLET NEXUS #14 [字]",
+  "detail": "#14 二千年の想い",
+  "start": 1633507200000,
+  "end": 1633509000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "二千年の想い",
+  "episode": 14,
+  "flags": [
+    "字"
+  ]
+}

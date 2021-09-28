@@ -1,0 +1,25 @@
+{
+  "id": "w693vve",
+  "category": "news",
+  "title": "ストレートニュース",
+  "fullTitle": "ストレートニュース[字]",
+  "detail": "▽国内外の最新・注目ニュース、お天気情報　▽内閣官房長官　午前の定例会見　▽速報は“ブレイキングニュース”",
+  "start": 1633474800000,
+  "end": 1633503600000,
+  "seconds": 28800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

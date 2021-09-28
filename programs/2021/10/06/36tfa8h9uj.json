@@ -1,0 +1,26 @@
+{
+  "id": "36tfa8h9uj",
+  "category": "documentary",
+  "title": "ごりやくさん",
+  "fullTitle": "ごりやくさん[再][字]",
+  "detail": "金神社",
+  "start": 1633458900000,
+  "end": 1633460400000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再",
+    "字"
+  ]
+}
