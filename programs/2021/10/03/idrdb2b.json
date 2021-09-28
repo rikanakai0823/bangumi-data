@@ -1,9 +1,9 @@
 {
   "id": "idrdb2b",
   "category": "anime",
-  "title": "アニメ",
-  "fullTitle": "アニメ",
-  "detail": "",
+  "title": "ＴＶアニメ『最果てのパラディン』放送直前特番",
+  "fullTitle": "ＴＶアニメ『最果てのパラディン』放送直前特番",
+  "detail": "9月26日(日)に開催されたTVアニメ「最果てのパラディン」第1話・第2話先行上映&トークショーの総集編をお送りします。\r\nキャスト陣からの撮り下ろしコメントも！",
   "start": 1633186800000,
   "end": 1633188600000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 44
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "最果てのパラディン",
+  "episode": 1,
   "flags": []
 }
