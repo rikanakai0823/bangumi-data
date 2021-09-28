@@ -1,0 +1,27 @@
+{
+  "id": "idp3urc",
+  "category": "documentary",
+  "title": "ザ・プロファイラー～夢と野望の人生～",
+  "fullTitle": "ザ・プロファイラー～夢と野望の人生～[解][字][再]",
+  "detail": "",
+  "start": 1633445100000,
+  "end": 1633448700000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字",
+    "再"
+  ]
+}
