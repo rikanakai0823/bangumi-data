@@ -1,9 +1,9 @@
 {
   "id": "idskfhb",
-  "category": "documentary",
-  "title": "おんな酒場放浪記",
-  "fullTitle": "[字]おんな酒場放浪記",
-  "detail": "",
+  "category": "information",
+  "title": "おんな酒場放浪記▼今日はお家呑み～狛江からテイクアウト",
+  "fullTitle": "[字]おんな酒場放浪記▼今日はお家呑み～狛江「ミートステーション」からテイクアウト",
+  "detail": "狛江「ミートステーション」から自慢の焼き鳥をテイクアウトし、岡山県から海の幸と老舗酒造が造ったクラフトジンを取り寄せ愉しむ。倉本さんが一押しする手料理も初公開。",
   "start": 1633096800000,
   "end": 1633100400000,
   "seconds": 3600,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
+  "subTitle": "ミートステーション",
   "episode": null,
   "flags": [
     "字"

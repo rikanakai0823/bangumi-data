@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n映画「スターダスト」\r\nガブリエル・リンチ（監督）インタビュー\n◇番組内容２\n\"LALISA\"LISA from BLACKPINK\r\n\"Skinny Dipping\"SABRINA CARPENTER\r\n\"Fast Lane\"DON TOLIVER, LIL DURK & LATTO\r\n\"I Get A Kick Out Of You\"TONY BENNETT & LADY GAGA",
   "start": 1633359600000,
   "end": 1633361400000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "映画「スターダスト」\r\nガブリエル・リンチ（監督）インタビュー",
+    "番組内容２": "\"LALISA\"LISA from BLACKPINK\r\n\"Skinny Dipping\"SABRINA CARPENTER\r\n\"Fast Lane\"DON TOLIVER, LIL DURK & LATTO\r\n\"I Get A Kick Out Of You\"TONY BENNETT & LADY GAGA"
   },
   "channel": {
     "type": "GR",
