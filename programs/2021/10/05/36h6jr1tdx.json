@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ライオンズアワー・千葉ロッテ×埼玉西武",
   "fullTitle": "ライオンズアワー・千葉ロッテ×埼玉西武[Ｓ]",
-  "detail": "",
+  "detail": "◇出演者\n解説：立川隆史　実況：小笠原聖",
   "start": 1633428000000,
   "end": 1633437000000,
   "seconds": 9000,
+  "description": "",
+  "extra": {
+    "出演者": "解説：立川隆史　実況：小笠原聖"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

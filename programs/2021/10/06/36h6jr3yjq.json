@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ライオンズアワー・千葉ロッテ×埼玉西武",
   "fullTitle": "ライオンズアワー・千葉ロッテ×埼玉西武[Ｓ]",
-  "detail": "",
+  "detail": "◇出演者\n解説：薮田安彦　実況：喜谷知純",
   "start": 1633511700000,
   "end": 1633514400000,
   "seconds": 2700,
+  "description": "",
+  "extra": {
+    "出演者": "解説：薮田安彦　実況：喜谷知純"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
