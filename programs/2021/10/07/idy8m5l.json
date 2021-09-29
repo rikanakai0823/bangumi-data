@@ -1,0 +1,25 @@
+{
+  "id": "idy8m5l",
+  "category": "drama",
+  "title": "グッドラック・チャーリー",
+  "fullTitle": "グッドラック・チャーリー#10[二]",
+  "detail": "#10「恋する男子」",
+  "start": 1633546800000,
+  "end": 1633548600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "恋する男子",
+  "episode": 10,
+  "flags": [
+    "二"
+  ]
+}

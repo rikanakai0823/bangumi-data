@@ -1,0 +1,23 @@
+{
+  "id": "w698lp7",
+  "category": "news",
+  "title": "ワールドビジネスレポート",
+  "fullTitle": "ワールドビジネスレポート",
+  "detail": "世界の主要都市から最新ビジネス、経済、株式、市場ニュースを毎日レポート。世界のビジネス最新情報をお届けする。",
+  "start": 1633581000000,
+  "end": 1633582800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

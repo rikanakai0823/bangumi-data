@@ -1,0 +1,26 @@
+{
+  "id": "idp3vlv",
+  "category": "documentary",
+  "title": "よみがえる新日本紀行",
+  "fullTitle": "よみがえる新日本紀行「幸福への旅～帯広～」[字][再]",
+  "detail": "昭和４８年放送の「新日本紀行」が、最新のデジタル技術で鮮やかな映像に。帯広市幸福町で雪深い大地を切り開き、幸福を探し求める家族を見つめる。",
+  "start": 1633585200000,
+  "end": 1633587480000,
+  "seconds": 2280,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "幸福への旅～帯広～",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

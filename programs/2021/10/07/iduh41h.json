@@ -1,0 +1,26 @@
+{
+  "id": "iduh41h",
+  "category": "cinema",
+  "title": "ライブリポート（字幕版）",
+  "fullTitle": "[映]ライブリポート（字幕版）[SS]",
+  "detail": "ネットの生配信サイトを通じてその緊迫した状況が刻一刻同時中継される中、誘拐された少女を無事救出すべく奔走する警察官の姿をスリル満点に描いたノンストップスリラー。",
+  "start": 1633559400000,
+  "end": 1633565700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

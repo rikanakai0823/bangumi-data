@@ -1,0 +1,25 @@
+{
+  "id": "rkunll3",
+  "category": "hobby",
+  "title": "ペッパピッグ#57,#58[字/日英]",
+  "fullTitle": "ペッパピッグ#57,#58[二][字/日英]",
+  "detail": "#57「おゆうぎかい」　#58「しゃぼんだま」",
+  "start": 1633579200000,
+  "end": 1633580100000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "おゆうぎかい",
+  "episode": 57,
+  "flags": [
+    "二"
+  ]
+}

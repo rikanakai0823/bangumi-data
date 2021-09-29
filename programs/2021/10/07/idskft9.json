@@ -1,0 +1,25 @@
+{
+  "id": "idskft9",
+  "category": "hobby",
+  "title": "釣り百景",
+  "fullTitle": "[字]釣り百景",
+  "detail": "",
+  "start": 1633611600000,
+  "end": 1633614840000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

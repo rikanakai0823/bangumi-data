@@ -1,0 +1,25 @@
+{
+  "id": "idy8m69",
+  "category": "anime",
+  "title": "バンザイ！キング・ジュリアン",
+  "fullTitle": "バンザイ！キング・ジュリアン#30[二]",
+  "detail": "#30「オー・ブラザー！」",
+  "start": 1633584600000,
+  "end": 1633586400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "オー・ブラザー！",
+  "episode": 30,
+  "flags": [
+    "二"
+  ]
+}

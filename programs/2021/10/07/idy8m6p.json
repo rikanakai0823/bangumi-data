@@ -1,0 +1,25 @@
+{
+  "id": "idy8m6p",
+  "category": "drama",
+  "title": "アンディ・マック",
+  "fullTitle": "アンディ・マック#48[二]",
+  "detail": "#48「秘密クラブ」",
+  "start": 1633611600000,
+  "end": 1633613400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "秘密クラブ",
+  "episode": 48,
+  "flags": [
+    "二"
+  ]
+}

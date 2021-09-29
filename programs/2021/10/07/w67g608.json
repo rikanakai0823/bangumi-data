@@ -1,0 +1,23 @@
+{
+  "id": "w67g608",
+  "category": "music",
+  "title": "2PM ビデオ特集",
+  "fullTitle": "2PM ビデオ特集",
+  "detail": "9月29日にミニアルバム『WITH ME AGAIN』をリリースしたことを記念して、番組では2PMのミュージックビデオをお届けする。",
+  "start": 1633615200000,
+  "end": 1633622400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

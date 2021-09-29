@@ -1,0 +1,25 @@
+{
+  "id": "idvjtum",
+  "category": "sports",
+  "title": "マイナビ Be a booster！　B.LEAGUEウィークリーハイライト",
+  "fullTitle": "[新]マイナビ Be a booster！　B.LEAGUEウィークリーハイライト",
+  "detail": "",
+  "start": 1633611600000,
+  "end": 1633613400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

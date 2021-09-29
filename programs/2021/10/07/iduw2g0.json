@@ -1,0 +1,25 @@
+{
+  "id": "iduw2g0",
+  "category": "cinema",
+  "title": "犯罪都市",
+  "fullTitle": "[映]犯罪都市",
+  "detail": "マ・ドンソク主演のクライムアクション。実際の事件を基に、強力班の刑事、中国の新興勢力、韓国マフィアの三つ巴の戦いを描く。",
+  "start": 1633532400000,
+  "end": 1633540500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

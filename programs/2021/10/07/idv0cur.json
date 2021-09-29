@@ -1,0 +1,25 @@
+{
+  "id": "idv0cur",
+  "category": "cinema",
+  "title": "哭声／コクソン",
+  "fullTitle": "[映]哭声／コクソン[吹]",
+  "detail": "ナ・ホンジン監督、國村隼出演のサスペンススリラー。平和な村で殺人事件が続発し、警察は不審な男を追い詰めてゆく。",
+  "start": 1633536900000,
+  "end": 1633546800000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
