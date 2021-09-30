@@ -1,0 +1,23 @@
+{
+  "id": "idrdbdf",
+  "category": "news",
+  "title": "深層ＮＥＷＳ",
+  "fullTitle": "深層ＮＥＷＳ",
+  "detail": "混迷の時代、「日本の羅針盤」に。\r\nＢＳ日テレ、日本テレビ、読売新聞のタッグでお送りする本格的報道番組。\r\n本質を突き詰め、価値ある情報をじっくりと引き出します。",
+  "start": 1633698000000,
+  "end": 1633701600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "日本の羅針盤",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "w68inpb",
+  "category": "documentary",
+  "title": "【「世界動物の日」記念SP】ワイルドライフ24",
+  "fullTitle": "【「世界動物の日」記念SP】[新]ワイルドライフ24(二)",
+  "detail": "「世界動物の日」記念SP\r\nたった24時間でも世界中で様々なことが起きている。空の下では鳥がさえずり、は虫類が日光浴をし、ジャガーが狩りをする。",
+  "start": 1633701600000,
+  "end": 1633705200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "アニマルプラネット",
+    "id": "f0dx",
+    "sid": 341,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 133
+  },
+  "subTitle": "世界動物の日",
+  "episode": 1,
+  "flags": [
+    "新",
+    "二"
+  ]
+}

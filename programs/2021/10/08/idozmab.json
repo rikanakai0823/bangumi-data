@@ -1,0 +1,25 @@
+{
+  "id": "idozmab",
+  "category": "documentary",
+  "title": "グレートレース",
+  "fullTitle": "グレートレース「嵐の富士山麓１６５ｋｍ　ＵＴＭＦ２０１９　＃同級生」[字]",
+  "detail": "富士山麓の険しい山道を昼夜問わず１６５ｋｍも走り続けるレースに密着。苦闘するランナーを励ます高校時代の同級生たちの奮闘を伝える。",
+  "start": 1633700640000,
+  "end": 1633701000000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "嵐の富士山麓１６５ｋｍ　ＵＴＭＦ２０１９　＃同級生",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

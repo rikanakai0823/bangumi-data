@@ -1,0 +1,23 @@
+{
+  "id": "idy8m7i",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#5",
+  "detail": "#5「トーキョーでゴー！」",
+  "start": 1633667100000,
+  "end": 1633667400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "トーキョーでゴー！",
+  "episode": 5,
+  "flags": []
+}

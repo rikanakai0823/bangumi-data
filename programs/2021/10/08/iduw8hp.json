@@ -1,0 +1,26 @@
+{
+  "id": "iduw8hp",
+  "category": "cinema",
+  "title": "ゴースト／ニューヨークの幻",
+  "fullTitle": "[映][SS]ゴースト／ニューヨークの幻",
+  "detail": "【ＳＴＡＲ　ＣＨＡＮＮＥＬ　ＭＯＶＩＥＳ公開記念特集：美しい人生映画】",
+  "start": 1633693500000,
+  "end": 1633701600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "ＳＴＡＲ　ＣＨＡＮＮＥＬ　ＭＯＶＩＥＳ公開記念特集：美しい人生映画",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp3rsy",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「明治維新への旅　第一回」[字][再]",
+  "detail": "明治維新から１５０年。激動の時代が日本の風土に残したものをたどるシリーズの１回目。龍馬が脱藩した高知の山間の町ではいま…。（２０１８年放送）",
+  "start": 1633647600000,
+  "end": 1633651200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "明治維新への旅　第一回",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

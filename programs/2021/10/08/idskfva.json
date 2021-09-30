@@ -1,0 +1,23 @@
+{
+  "id": "idskfva",
+  "category": "etc",
+  "title": "素晴らしい明日",
+  "fullTitle": "素晴らしい明日",
+  "detail": "",
+  "start": 1633694040000,
+  "end": 1633694400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

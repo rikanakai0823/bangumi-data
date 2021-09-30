@@ -1,0 +1,26 @@
+{
+  "id": "iduh41s",
+  "category": "cinema",
+  "title": "日本統一１９",
+  "fullTitle": "[映]日本統一１９[字]",
+  "detail": "九州・至誠会の分裂騒動は侠和会と西日本睦会の代理戦争と化した。そんな中、氷室にもヒットマンの凶弾が襲い掛かる！　本宮泰風、山口祥行主演の人気シリーズ第１９作。",
+  "start": 1633635000000,
+  "end": 1633640400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

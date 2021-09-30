@@ -1,0 +1,25 @@
+{
+  "id": "idp3run",
+  "category": "documentary",
+  "title": "新日本風土記　選",
+  "fullTitle": "新日本風土記　選「明治維新への旅　第二回」[字]",
+  "detail": "明治維新が日本の風土に残したものを探るシリーズの２回目。群馬の女工、京都の町衆、青森の開拓者。激動の時代を生きた先人たちの豊かな遺産を訪ねる（２０１８年放送）",
+  "start": 1633694400000,
+  "end": 1633698000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "明治維新への旅　第二回",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

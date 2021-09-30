@@ -1,0 +1,23 @@
+{
+  "id": "idwqzbj",
+  "category": "hobby",
+  "title": "動物の科学",
+  "fullTitle": "動物の科学　第2回",
+  "detail": "「野生動物の進化と系統」",
+  "start": 1633656600000,
+  "end": 1633659300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "野生動物の進化と系統",
+  "episode": 2,
+  "flags": []
+}

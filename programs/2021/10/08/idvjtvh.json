@@ -1,0 +1,25 @@
+{
+  "id": "idvjtvh",
+  "category": "anime",
+  "title": "スーパーウィングス　セレクション",
+  "fullTitle": "[二]スーパーウィングス　セレクション　＃３",
+  "detail": "第５話「チームタンゴ」\r\n第６話「氷山をどけろ」",
+  "start": 1633683600000,
+  "end": 1633685400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "チームタンゴ",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}
