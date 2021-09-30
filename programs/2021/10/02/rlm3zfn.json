@@ -1,11 +1,11 @@
 {
-  "id": "rlm3zfo",
+  "id": "rlm3zfn",
   "category": "sports",
   "title": "サムライTVアーカイブス",
-  "fullTitle": "サムライTVアーカイブス #31",
+  "fullTitle": "サムライTVアーカイブス #30",
   "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
-  "start": 1633125600000,
-  "end": 1633129200000,
+  "start": 1633122000000,
+  "end": 1633125600000,
   "seconds": 3600,
   "channel": {
     "type": "CS",
@@ -18,6 +18,6 @@
     "n": 141
   },
   "subTitle": "サムライTV",
-  "episode": 31,
+  "episode": 30,
   "flags": []
 }
