@@ -3,11 +3,11 @@
   "category": "sports",
   "title": "ＢＡＣＨプラザ",
   "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
-  "detail": "◇出演者\n吉原完",
+  "detail": "「特集」\n◇出演者\n吉原完",
   "start": 1633613400000,
   "end": 1633615200000,
   "seconds": 1800,
-  "description": "",
+  "description": "「特集」",
   "extra": {
     "出演者": "吉原完"
   },
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 12
   },
-  "subTitle": "",
+  "subTitle": "特集",
   "episode": null,
   "flags": []
 }

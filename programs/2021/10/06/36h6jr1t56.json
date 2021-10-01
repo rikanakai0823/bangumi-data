@@ -3,13 +3,14 @@
   "category": "sports",
   "title": "ＢＡＣＨプラザ",
   "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
-  "detail": "◇出演者\n吉原完",
+  "detail": "「大宮競輪」\n◇出演者\n吉原完\n◇番組内容\n▽大宮競輪：エート賞＆ＣＴＣ杯・最終日",
   "start": 1633527000000,
   "end": 1633528800000,
   "seconds": 1800,
-  "description": "",
+  "description": "「大宮競輪」",
   "extra": {
-    "出演者": "吉原完"
+    "出演者": "吉原完",
+    "番組内容": "▽大宮競輪：エート賞＆ＣＴＣ杯・最終日"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +22,7 @@
     "hasLogoData": true,
     "n": 12
   },
-  "subTitle": "",
+  "subTitle": "大宮競輪",
   "episode": null,
   "flags": []
 }

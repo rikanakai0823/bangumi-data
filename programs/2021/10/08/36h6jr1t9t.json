@@ -3,13 +3,14 @@
   "category": "sports",
   "title": "ＢＡＣＨプラザ",
   "fullTitle": "ＢＡＣＨプラザ[Ｓ]",
-  "detail": "◇出演者\n吉原完",
+  "detail": "「ボートレース戸田」\n◇出演者\n吉原完\n◇番組内容\n▽ボートレース戸田：１２カンパニー杯・前検日",
   "start": 1633699800000,
   "end": 1633701600000,
   "seconds": 1800,
-  "description": "",
+  "description": "「ボートレース戸田」",
   "extra": {
-    "出演者": "吉原完"
+    "出演者": "吉原完",
+    "番組内容": "▽ボートレース戸田：１２カンパニー杯・前検日"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +22,7 @@
     "hasLogoData": true,
     "n": 12
   },
-  "subTitle": "",
+  "subTitle": "ボートレース戸田",
   "episode": null,
   "flags": []
 }

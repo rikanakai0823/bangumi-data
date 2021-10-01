@@ -2,8 +2,8 @@
   "id": "w681z53",
   "category": "anime",
   "title": "海賊王女",
-  "fullTitle": "[新]海賊王女 #01 [字]",
-  "detail": "",
+  "fullTitle": "[無][新]海賊王女 #01 [字]",
+  "detail": "#01 記憶",
   "start": 1633271400000,
   "end": 1633273200000,
   "seconds": 1800,
@@ -17,9 +17,10 @@
     "hasLogoData": true,
     "n": 130
   },
-  "subTitle": "",
+  "subTitle": "記憶",
   "episode": 1,
   "flags": [
+    "無",
     "新",
     "字"
   ]
