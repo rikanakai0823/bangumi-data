@@ -1,12 +1,12 @@
 {
   "id": "381f5ksaam",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[字]",
-  "detail": "",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「首相指名選挙」関連[字]",
+  "detail": "▽中継・首相指名選挙　第１００代首相に岸田氏選出へ…瞬間を生中継",
   "start": 1633320000000,
-  "end": 1633320300000,
-  "seconds": 300,
+  "end": 1633323600000,
+  "seconds": 3600,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "首相指名選挙",
   "episode": null,
   "flags": [
     "字"

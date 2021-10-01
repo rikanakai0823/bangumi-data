@@ -1,9 +1,9 @@
 {
   "id": "idskfva",
-  "category": "etc",
-  "title": "素晴らしい明日",
-  "fullTitle": "素晴らしい明日",
-  "detail": "",
+  "category": "documentary",
+  "title": "素晴らしい明日船越英一郎～本日のお悩み／最近、物忘れが激しい",
+  "fullTitle": "素晴らしい明日【相談者】船越英一郎～本日のお悩み／最近、物忘れが激しい",
+  "detail": "インドでヨガの母と呼ばれる相川圭子が人生の悩みに答えます。相談者は俳優の船越英一郎さん。お悩みは「最近、物忘れが激しい」です。",
   "start": 1633694040000,
   "end": 1633694400000,
   "seconds": 360,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
+  "subTitle": "相談者",
   "episode": null,
   "flags": []
 }
