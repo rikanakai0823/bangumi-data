@@ -1,0 +1,26 @@
+{
+  "id": "idvjtwf",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【東京】５Ｒ～８Ｒ\r\n【阪神】５Ｒ～８Ｒ，９Ｒ「りんどう賞」",
+  "start": 1633748400000,
+  "end": 1633757400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "東京",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

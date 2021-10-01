@@ -1,0 +1,23 @@
+{
+  "id": "idvjtwu",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "当日の中央競馬レース結果と、明日のＧⅡ「毎日王冠」（東京）とＧⅡ「京都大賞典」（阪神）の展望をお伝えします。",
+  "start": 1633786200000,
+  "end": 1633788000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

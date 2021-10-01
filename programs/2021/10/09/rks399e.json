@@ -1,0 +1,23 @@
+{
+  "id": "rks399e",
+  "category": "news",
+  "title": "未定",
+  "fullTitle": "未定",
+  "detail": "※放送する番組は未定です",
+  "start": 1633789800000,
+  "end": 1633791600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

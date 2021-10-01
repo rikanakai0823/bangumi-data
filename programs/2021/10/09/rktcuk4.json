@@ -1,0 +1,25 @@
+{
+  "id": "rktcuk4",
+  "category": "music",
+  "title": "歌謡舞台",
+  "fullTitle": "歌謡舞台　[字]",
+  "detail": "１９８５年から２０年以上続いてきた長寿番組。郷愁が漂う想い出深い伝統歌謡、ブラウン管を離れた歌手の全盛期を再現、昔ながらの姿が見られる唯一の音楽番組。",
+  "start": 1633726800000,
+  "end": 1633730400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

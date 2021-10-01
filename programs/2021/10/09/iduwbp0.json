@@ -1,0 +1,26 @@
+{
+  "id": "iduwbp0",
+  "category": "cinema",
+  "title": "【最新作】ダウントン・アビー",
+  "fullTitle": "【最新作】[映][SS]ダウントン・アビー【メガヒット９】",
+  "detail": "大人気ＴＶシリーズ初の劇場版。イギリス貴族の大邸宅を舞台に、伯爵一家と彼らに仕える使用人たちが奏でる人間模様を描く。",
+  "start": 1633780800000,
+  "end": 1633788900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idozifl",
+  "category": "sports",
+  "title": "プロ野球２０２１「ヤクルト」対",
+  "fullTitle": "プロ野球２０２１「ヤクルト」対「阪神」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】田中賢介，【アナウンサー】伊藤慶太　～神宮球場から中継～",
+  "start": 1633770000000,
+  "end": 1633782600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "阪神",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

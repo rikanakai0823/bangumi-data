@@ -1,0 +1,25 @@
+{
+  "id": "381jqz07ep",
+  "category": "hobby",
+  "title": "ピタゴラスイッチ",
+  "fullTitle": "ピタゴラスイッチ[字]",
+  "detail": "",
+  "start": 1633732500000,
+  "end": 1633733100000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

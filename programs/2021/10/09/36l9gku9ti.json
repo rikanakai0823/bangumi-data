@@ -1,0 +1,23 @@
+{
+  "id": "36l9gku9ti",
+  "category": "news",
+  "title": "ｎｅｗｓチバ",
+  "fullTitle": "ｎｅｗｓチバ",
+  "detail": "▽県内ニュース\r\n▽出演／坂本奈津美アナウンサー\r\n",
+  "start": 1633770000000,
+  "end": 1633770300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

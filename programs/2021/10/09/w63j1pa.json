@@ -1,0 +1,25 @@
+{
+  "id": "w63j1pa",
+  "category": "sports",
+  "title": "ブリヂストンオープンゴルフ 2021 3日目後半ホール",
+  "fullTitle": "[生]ブリヂストンオープンゴルフ 2021 3日目後半ホール",
+  "detail": "生中継～袖ヶ浦カンツリークラブ",
+  "start": 1633753800000,
+  "end": 1633757400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

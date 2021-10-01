@@ -1,0 +1,25 @@
+{
+  "id": "w67uvy2",
+  "category": "anime",
+  "title": "ヒカルの碁 ,44",
+  "fullTitle": "ヒカルの碁[字] #43,44",
+  "detail": "＃４３「ヒカルＶＳ和谷」＃４４「起死回生」",
+  "start": 1633721400000,
+  "end": 1633725000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ヒカルＶＳ和谷",
+  "episode": 43,
+  "flags": [
+    "字"
+  ]
+}

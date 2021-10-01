@@ -1,0 +1,26 @@
+{
+  "id": "iduwaow",
+  "category": "cinema",
+  "title": "ラスト・クリスマス（２０１９）",
+  "fullTitle": "[映][SS]ラスト・クリスマス（２０１９）",
+  "detail": "ワム！の名曲をモチーフにしたエミリア・クラーク主演のロマンティックコメディ。悩み多き女性と謎めいた青年の恋の行方を描く。",
+  "start": 1633734000000,
+  "end": 1633741200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

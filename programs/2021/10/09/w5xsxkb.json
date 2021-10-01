@@ -1,0 +1,23 @@
+{
+  "id": "w5xsxkb",
+  "category": "information",
+  "title": "OTONASALONE-オトナヘルスチャンネル-",
+  "fullTitle": "OTONASALONE-オトナヘルスチャンネル-",
+  "detail": "",
+  "start": 1633773600000,
+  "end": 1633777200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

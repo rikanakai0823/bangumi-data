@@ -1,0 +1,23 @@
+{
+  "id": "idozlk3",
+  "category": "sports",
+  "title": "Ｊリーグタイム",
+  "fullTitle": "Ｊリーグタイム「第２７週」",
+  "detail": "【解説】佐藤寿人，【コメンテーター】平畠啓史，【アナウンサー】松野靖彦，【司会】中川絵美里",
+  "start": 1633782600000,
+  "end": 1633784940000,
+  "seconds": 2340,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "第２７週",
+  "episode": null,
+  "flags": []
+}

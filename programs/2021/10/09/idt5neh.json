@@ -1,0 +1,23 @@
+{
+  "id": "idt5neh",
+  "category": "sports",
+  "title": "ウイニング競馬　～東京～",
+  "fullTitle": "ウイニング競馬　～東京～",
+  "detail": "レース中継を中心に、レース展開には欠かせないパドック情報、競馬界の最新ニュース、さらにインタビューコーナーなど盛りだくさんでお届けする。",
+  "start": 1633757400000,
+  "end": 1633762800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

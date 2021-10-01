@@ -1,0 +1,27 @@
+{
+  "id": "iduh428",
+  "category": "cinema",
+  "title": "クロユリ団地",
+  "fullTitle": "[映]クロユリ団地[SS][字]",
+  "detail": "いわくつきの団地に引っ越してきた介護士の卵のヒロインが、やがて奇怪な現象に襲われていく。「リング」の中田秀夫監督が、前田敦子を主演に得て描くＪホラーのヒット作。",
+  "start": 1633749300000,
+  "end": 1633756500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "リング",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w662vlk",
+  "category": "drama",
+  "title": "タイドラマ 一挙放送 (最終回)",
+  "fullTitle": "【字】タイドラマ「2Moons2」 一挙放送 #12(最終回)",
+  "detail": "大学のミスター&ミスコンを舞台に繰り広げる3つのロマンチックラブストーリー。それぞれの想いが胸を熱くする、胸キュン要素がぎっしりのタイBLドラマ。",
+  "start": 1633721700000,
+  "end": 1633725300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "2Moons2",
+  "episode": 12,
+  "flags": [
+    "字"
+  ]
+}
