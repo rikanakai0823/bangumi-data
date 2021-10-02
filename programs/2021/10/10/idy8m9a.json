@@ -1,0 +1,25 @@
+{
+  "id": "idy8m9a",
+  "category": "drama",
+  "title": "ザ・ロッジ",
+  "fullTitle": "ザ・ロッジ#11[二]",
+  "detail": "#11「あなたを選ぶ」",
+  "start": 1633804200000,
+  "end": 1633806000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "あなたを選ぶ",
+  "episode": 11,
+  "flags": [
+    "二"
+  ]
+}

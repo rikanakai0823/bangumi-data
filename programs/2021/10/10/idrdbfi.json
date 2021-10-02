@@ -1,0 +1,23 @@
+{
+  "id": "idrdbfi",
+  "category": "cinema",
+  "title": "日曜ロードショー　映画（日本語字幕）",
+  "fullTitle": "日曜ロードショー　映画「スター・トレック」（日本語字幕）",
+  "detail": "宇宙ステーションで活動する人々が、艦長や司令官の指揮のもとに様々な困難を乗り越えて活躍し、未知の生命体や文明と交流していくSFのルーツといえるシリーズ！",
+  "start": 1633863600000,
+  "end": 1633870440000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "スター・トレック",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "381ocd7zqp",
+  "category": "anime",
+  "title": "ルパン三世ＰＡＲＴ６",
+  "fullTitle": "[新]ルパン三世ＰＡＲＴ６[字]",
+  "detail": "",
+  "start": 1633794900000,
+  "end": 1633796700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

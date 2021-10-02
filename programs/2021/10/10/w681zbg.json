@@ -1,0 +1,26 @@
+{
+  "id": "w681zbg",
+  "category": "anime",
+  "title": "海賊王女",
+  "fullTitle": "[新]海賊王女 #01 [字]",
+  "detail": "#01 記憶",
+  "start": 1633822200000,
+  "end": 1633824000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "記憶",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

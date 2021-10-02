@@ -1,0 +1,25 @@
+{
+  "id": "idy8ma4",
+  "category": "drama",
+  "title": "サルファー・スプリングスの秘密",
+  "fullTitle": "サルファー・スプリングスの秘密#2[二]",
+  "detail": "#2「時空を超える時」",
+  "start": 1633870800000,
+  "end": 1633872600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "時空を超える時",
+  "episode": 2,
+  "flags": [
+    "二"
+  ]
+}

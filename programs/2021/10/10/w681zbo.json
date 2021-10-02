@@ -1,0 +1,25 @@
+{
+  "id": "w681zbo",
+  "category": "anime",
+  "title": "ビルディバイド -#000000- #01",
+  "fullTitle": "[新]ビルディバイド -#000000- #01",
+  "detail": "",
+  "start": 1633867200000,
+  "end": 1633869000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 0,
+  "flags": [
+    "新"
+  ]
+}

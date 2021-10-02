@@ -1,0 +1,25 @@
+{
+  "id": "idx1t1z",
+  "category": "anime",
+  "title": "名探偵コナン 10月号",
+  "fullTitle": "[字]名探偵コナン 10月号",
+  "detail": "#751「織り姫クラブへようこそ」\r\n#752「太閤恋する名人戦（前編）」\r\n#753「太閤恋する名人戦（後編）」\r\n\r\n小さな探偵が…",
+  "start": 1633863600000,
+  "end": 1633869000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "織り姫クラブへようこそ",
+  "episode": 751,
+  "flags": [
+    "字"
+  ]
+}

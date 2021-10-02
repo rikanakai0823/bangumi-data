@@ -1,0 +1,25 @@
+{
+  "id": "w633ygf",
+  "category": "sports",
+  "title": "ライジングレディースゴルフTV",
+  "fullTitle": "[初]ライジングレディースゴルフTV【MATCH4-6】",
+  "detail": "MATCH4-6　荒川侑奈選手＆幡野夏生選手組 VS 植手桃子プロ＆土方優花選手組",
+  "start": 1633813200000,
+  "end": 1633815000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "MATCH4-6",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

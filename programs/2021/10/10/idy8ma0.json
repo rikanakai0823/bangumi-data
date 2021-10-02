@@ -1,0 +1,25 @@
+{
+  "id": "idy8ma0",
+  "category": "cinema",
+  "title": "ターボ",
+  "fullTitle": "ターボ[二]",
+  "detail": "スローな世界に生きるカタツムリのターボはある日、街を猛スピードで走る車に巻き込まれ、なぜか車のように走　ることができるようになってしまう！",
+  "start": 1633860000000,
+  "end": 1633866300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

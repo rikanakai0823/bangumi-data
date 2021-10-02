@@ -1,0 +1,25 @@
+{
+  "id": "w63j1pp",
+  "category": "sports",
+  "title": "ブリヂストンオープンゴルフ 2021 最終日1番ホール",
+  "fullTitle": "[生]ブリヂストンオープンゴルフ 2021 最終日1番ホール",
+  "detail": "生中継～袖ヶ浦カンツリークラブ",
+  "start": 1633819500000,
+  "end": 1633827600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

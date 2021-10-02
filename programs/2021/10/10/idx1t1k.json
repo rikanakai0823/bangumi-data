@@ -1,0 +1,25 @@
+{
+  "id": "idx1t1k",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ,528",
+  "fullTitle": "[字]ちびまる子ちゃん #527,528",
+  "detail": "#527「たまちゃん、勇気を出す」の巻／「くるくる万華鏡」の巻\r\n#528「まる子、ドロボーに用心する」の巻／「わかめの…",
+  "start": 1633815000000,
+  "end": 1633818600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "たまちゃん、勇気を出す",
+  "episode": 527,
+  "flags": [
+    "字"
+  ]
+}

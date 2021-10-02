@@ -1,0 +1,25 @@
+{
+  "id": "idtr8dy",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　毎日王冠（GⅡ）京都大賞典（GⅡ）",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　毎日王冠（GⅡ）京都大賞典（GⅡ）",
+  "detail": "毎日王冠（GⅡ）京都大賞典（GⅡ）ゲスト・山本昌（元プロ野球選手）解説・高尾幸司（競馬エイト）秋の天皇賞（GⅠ）に直結するスーパーGⅡ",
+  "start": 1633845600000,
+  "end": 1633849200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

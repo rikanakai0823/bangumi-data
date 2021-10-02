@@ -1,0 +1,25 @@
+{
+  "id": "rkunlpe",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#9,#10[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#9,#10[二][字/日英]",
+  "detail": "#9「宝物は僕の物だ！」　#10「名探偵ロギ」",
+  "start": 1633847400000,
+  "end": 1633849200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "宝物は僕の物だ！",
+  "episode": 9,
+  "flags": [
+    "二"
+  ]
+}

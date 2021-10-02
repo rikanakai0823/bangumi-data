@@ -1,0 +1,23 @@
+{
+  "id": "rks39af",
+  "category": "music",
+  "title": "TBSch×SBS Medianet PRESENTS THE SHOW <字幕>",
+  "fullTitle": "TBSch×SBS Medianet PRESENTS THE SHOW #254<字幕>",
+  "detail": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。【出演】ATEEZ、Brave Girls、ONF、WayV、WEi、VERIVERY ほか",
+  "start": 1633798800000,
+  "end": 1633803600000,
+  "seconds": 4800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "出演",
+  "episode": 254,
+  "flags": []
+}

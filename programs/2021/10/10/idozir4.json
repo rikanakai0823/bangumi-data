@@ -1,0 +1,23 @@
+{
+  "id": "idozir4",
+  "category": "sports",
+  "title": "ＷＲＣ世界ラリー選手権２０２１",
+  "fullTitle": "ＷＲＣ世界ラリー選手権２０２１",
+  "detail": "",
+  "start": 1633845600000,
+  "end": 1633852200000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

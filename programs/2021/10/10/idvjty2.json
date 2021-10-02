@@ -1,0 +1,23 @@
+{
+  "id": "idvjty2",
+  "category": "etc",
+  "title": "調整中",
+  "fullTitle": "調整中",
+  "detail": "",
+  "start": 1633860000000,
+  "end": 1633867200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

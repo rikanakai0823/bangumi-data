@@ -1,0 +1,25 @@
+{
+  "id": "idy8m9u",
+  "category": "anime",
+  "title": "ロスト・イン・オズ",
+  "fullTitle": "ロスト・イン・オズ#18[二]",
+  "detail": "#18「魔法の地図」",
+  "start": 1633851000000,
+  "end": 1633852800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "魔法の地図",
+  "episode": 18,
+  "flags": [
+    "二"
+  ]
+}
