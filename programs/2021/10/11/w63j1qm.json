@@ -1,0 +1,23 @@
+{
+  "id": "w63j1qm",
+  "category": "sports",
+  "title": "ブリヂストンオープンゴルフ 2021 最終日地上波",
+  "fullTitle": "ブリヂストンオープンゴルフ 2021 最終日地上波",
+  "detail": "2021年10月10日開催～袖ヶ浦カンツリークラブ",
+  "start": 1633937400000,
+  "end": 1633942800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

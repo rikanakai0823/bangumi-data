@@ -1,0 +1,26 @@
+{
+  "id": "rktculz",
+  "category": "drama",
+  "title": "グッド・ドクター",
+  "fullTitle": "グッド・ドクター　#5　[字][再]",
+  "detail": "2013年 全20話",
+  "start": 1633939200000,
+  "end": 1633943400000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

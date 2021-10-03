@@ -1,0 +1,25 @@
+{
+  "id": "idx1t23",
+  "category": "anime",
+  "title": "名探偵コナン 動く標的",
+  "fullTitle": "[字]名探偵コナン 動く標的",
+  "detail": "#765「動く標的」\r\n午後8時、コナンは10階建てビル屋上から会社員の袋小路貞夫が落下する現場を目撃する。その真下の路…",
+  "start": 1633883400000,
+  "end": 1633885200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "動く標的",
+  "episode": 765,
+  "flags": [
+    "字"
+  ]
+}

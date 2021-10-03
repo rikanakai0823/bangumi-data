@@ -1,0 +1,25 @@
+{
+  "id": "3826py3u5o",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第一闇「ハンカチ落とし」",
+  "start": 1633889100000,
+  "end": 1633889400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "ハンカチ落とし",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

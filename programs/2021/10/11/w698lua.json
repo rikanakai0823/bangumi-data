@@ -1,0 +1,25 @@
+{
+  "id": "w698lua",
+  "category": "news",
+  "title": "ワールド・フィーチャーズ",
+  "fullTitle": "ワールド・フィーチャーズ(再)",
+  "detail": "選りすぐりのエンターテインメントや、今週の世界のニュースをお届けする。",
+  "start": 1633878600000,
+  "end": 1633879800000,
+  "seconds": 1200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

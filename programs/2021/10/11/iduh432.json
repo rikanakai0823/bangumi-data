@@ -1,0 +1,25 @@
+{
+  "id": "iduh432",
+  "category": "cinema",
+  "title": "ポネット（字幕版）",
+  "fullTitle": "[映]ポネット（字幕版）",
+  "detail": "交通事故で母親を失った４歳の少女ポネット。まだ死のことを理解できない彼女は、どう現実と向き合うのか……。公開当時、ロングランヒットを記録。監督はＪ・ドワイヨン。",
+  "start": 1633959300000,
+  "end": 1633965300000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

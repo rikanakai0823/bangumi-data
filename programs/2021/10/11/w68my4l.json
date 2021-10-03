@@ -1,0 +1,26 @@
+{
+  "id": "w68my4l",
+  "category": "documentary",
+  "title": "バ科学６",
+  "fullTitle": "[新]バ科学６「雷の法則」[二]",
+  "detail": "今回検証するのは雷の発生メカニズム、ヤング率や重力による位置エネルギー、棒術など。おバカなハプニング映像をもとに科学の法則を使って失敗の原因を解き明かしていく。",
+  "start": 1633921200000,
+  "end": 1633923000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ナショジオ",
+    "id": "f0dz",
+    "sid": 343,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 135
+  },
+  "subTitle": "雷の法則",
+  "episode": 1,
+  "flags": [
+    "新",
+    "二"
+  ]
+}

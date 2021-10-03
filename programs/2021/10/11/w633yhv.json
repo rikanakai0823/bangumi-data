@@ -1,0 +1,25 @@
+{
+  "id": "w633yhv",
+  "category": "sports",
+  "title": "プロ野球ドラフト会議 supported by リポビタンＤ",
+  "fullTitle": "[生]プロ野球ドラフト会議 supported by リポビタンＤ",
+  "detail": "2021年プロ野球ドラフト会議を生中継！\r\n注目が集まる1位指名から全12球団の最終指名が終わるまで、さらには育成選手指名までを追いかける。",
+  "start": 1633937400000,
+  "end": 1633953600000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

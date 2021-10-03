@@ -1,0 +1,25 @@
+{
+  "id": "idx1t2t",
+  "category": "anime",
+  "title": "テニスの王子様 ,50",
+  "fullTitle": "[字]テニスの王子様 #49,50",
+  "detail": "#49「異種格闘戦」\r\n#50「青学名物！」\r\nアメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テニスの名…",
+  "start": 1633960800000,
+  "end": 1633964400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "異種格闘戦",
+  "episode": 49,
+  "flags": [
+    "字"
+  ]
+}

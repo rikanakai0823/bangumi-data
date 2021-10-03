@@ -1,0 +1,23 @@
+{
+  "id": "idp3tjf",
+  "category": "music",
+  "title": "クラシック倶楽部",
+  "fullTitle": "クラシック倶楽部",
+  "detail": "",
+  "start": 1633896000000,
+  "end": 1633899300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

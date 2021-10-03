@@ -1,0 +1,28 @@
+{
+  "id": "iduh430",
+  "category": "cinema",
+  "title": "漫画誕生",
+  "fullTitle": "[初][映]漫画誕生[SS][字]",
+  "detail": "現在の漫画産業の礎を築いたとされる北沢楽天の半生を描いた伝記ドラマ。イッセー尾形が“近代漫画の父”と呼ばれ、後の漫画家たちにも大きな影響を与えた楽天役を演じた。",
+  "start": 1633946400000,
+  "end": 1633953600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}
