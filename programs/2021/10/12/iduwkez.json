@@ -1,0 +1,26 @@
+{
+  "id": "iduwkez",
+  "category": "cinema",
+  "title": "ランボー／怒りの脱出",
+  "fullTitle": "[映][SS]ランボー／怒りの脱出",
+  "detail": "シルヴェスター・スタローン主演のアクションシリーズ第２弾。ランボーが、捕虜となっているアメリカ兵救出の特殊任務に挑む。",
+  "start": 1634004900000,
+  "end": 1634011200000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idxc8ov",
+  "category": "music",
+  "title": "7ORDERの始まりテレビ　完全版",
+  "fullTitle": "7ORDERの始まりテレビ　完全版",
+  "detail": "リリース記念日の7/7に生放送された、7ORDERの特番の完全版",
+  "start": 1634038200000,
+  "end": 1634047200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

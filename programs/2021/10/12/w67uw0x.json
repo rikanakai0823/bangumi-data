@@ -1,0 +1,25 @@
+{
+  "id": "w67uw0x",
+  "category": "anime",
+  "title": "ヒカルの碁 ,46",
+  "fullTitle": "ヒカルの碁[字] #45,46",
+  "detail": "＃４５「ヒカルＶＳ越智」＃４６「プロ試験最終日」",
+  "start": 1633980600000,
+  "end": 1633984200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ヒカルＶＳ越智",
+  "episode": 45,
+  "flags": [
+    "字"
+  ]
+}

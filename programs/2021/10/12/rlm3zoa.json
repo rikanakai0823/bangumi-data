@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zoa",
+  "category": "sports",
+  "title": "みやざきフェニックス・リーグ 中日×日本ハム",
+  "fullTitle": "第18回みやざきフェニックス・リーグ 中日×日本ハム",
+  "detail": "第18回みやざきフェニックス・リーグ",
+  "start": 1634032800000,
+  "end": 1634049000000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 18,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iducszl",
+  "category": "cinema",
+  "title": "奈緒子",
+  "fullTitle": "[映]奈緒子[字]",
+  "detail": "駅伝を題材にした同名コミックを上野樹里、三浦春馬ら人気俳優共演で描いた青春ドラマ。天才ランナーの少年と複雑な因縁を持つ少女は、陸上競技を通じて心を通わせていく。",
+  "start": 1634035500000,
+  "end": 1634043600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

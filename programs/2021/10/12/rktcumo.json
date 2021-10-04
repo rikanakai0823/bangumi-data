@@ -1,0 +1,26 @@
+{
+  "id": "rktcumo",
+  "category": "drama",
+  "title": "グッド・ドクター",
+  "fullTitle": "グッド・ドクター　#6　[字][再]",
+  "detail": "2013年 全20話",
+  "start": 1634025600000,
+  "end": 1634029800000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 6,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

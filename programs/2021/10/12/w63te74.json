@@ -1,0 +1,25 @@
+{
+  "id": "w63te74",
+  "category": "sports",
+  "title": "TEAM SERIZAWA 411",
+  "fullTitle": "[初]TEAM SERIZAWA 411【わくわく！火曜ゴルフ・プレミアム】",
+  "detail": "チームセリザワメンバーが月替わりで登場！プロの技やコースマネージメントを紹介するだけでなく、真剣なプレーあり、軽快なトークありと見所満載。",
+  "start": 1634043600000,
+  "end": 1634045400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 99
+  },
+  "subTitle": "わくわく！火曜ゴルフ・プレミアム",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

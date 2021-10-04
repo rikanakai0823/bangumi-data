@@ -1,0 +1,26 @@
+{
+  "id": "iducsze",
+  "category": "cinema",
+  "title": "劇場版　聖☆おにいさん　第Ⅰ紀",
+  "fullTitle": "[映]劇場版　聖☆おにいさん　第Ⅰ紀[字]",
+  "detail": "中村光の人気漫画を、福田雄一の監督・脚本、山田孝之の製作総指揮で実写化したＴＶドラマの再編集劇場版。下界にやって来たイエスとブッダの日常を綴る脱力コメディ。",
+  "start": 1634011200000,
+  "end": 1634016600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

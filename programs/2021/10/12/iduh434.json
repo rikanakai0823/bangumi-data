@@ -1,0 +1,27 @@
+{
+  "id": "iduh434",
+  "category": "cinema",
+  "title": "ばるぼら[R15+指定]",
+  "fullTitle": "[映]ばるぼら[R15+指定][SS][字]",
+  "detail": "稲垣吾郎と二階堂ふみを主演に、スランプ中の作家と謎めいた少女の関係を退廃的映像美で描く。漫画界の巨人・手塚治虫による異色作を、息子の手塚眞監督が映画化。",
+  "start": 1633972500000,
+  "end": 1633978800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
