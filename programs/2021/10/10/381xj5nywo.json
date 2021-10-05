@@ -1,8 +1,8 @@
 {
   "id": "381xj5nywo",
-  "category": "etc",
-  "title": "調整中＜フジバラナイト　ＳＡＴ＞",
-  "fullTitle": "調整中＜フジバラナイト　ＳＡＴ＞",
+  "category": "drama",
+  "title": "ラジエーションハウスⅡ＜フジバラナイト　ＳＡＴ＞",
+  "fullTitle": "ラジエーションハウスⅡ＜フジバラナイト　ＳＡＴ＞　＃０１[再][解]",
   "detail": "",
   "start": 1633797900000,
   "end": 1633803300000,
@@ -18,6 +18,9 @@
     "n": 29
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "再",
+    "解"
+  ]
 }
