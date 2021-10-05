@@ -2,7 +2,7 @@
   "id": "idozmuk",
   "category": "etc",
   "title": "大谷翔平２０２１ＭＬＢハイライト",
-  "fullTitle": "大谷翔平２０２１ＭＬＢハイライト",
+  "fullTitle": "大谷翔平２０２１ＭＬＢハイライト[字]",
   "detail": "",
   "start": 1633860000000,
   "end": 1633866600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
