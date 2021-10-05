@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ワクチン接種啓発対談",
   "fullTitle": "ワクチン接種啓発対談[Ｓ]",
-  "detail": "",
+  "detail": "◇出演者\n大野元裕埼玉県知事",
   "start": 1633860000000,
   "end": 1633861500000,
   "seconds": 1500,
+  "description": "",
+  "extra": {
+    "出演者": "大野元裕埼玉県知事"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
