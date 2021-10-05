@@ -1,0 +1,25 @@
+{
+  "id": "iduytm2",
+  "category": "cinema",
+  "title": "勇気ある追跡",
+  "fullTitle": "[映]勇気ある追跡",
+  "detail": "雇い人に父親を殺された少女が、ベテラン保安官と若きレンジャーを雇って復讐の旅に出る、名作西部劇。ジョン・ウェイン主演。",
+  "start": 1634133000000,
+  "end": 1634140800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduct08",
+  "category": "cinema",
+  "title": "樹海村",
+  "fullTitle": "[映]樹海村[SS][字]",
+  "detail": "大ヒット作「犬鳴村」に続く“恐怖の村”シリーズ第２弾。青木ヶ原樹海の都市伝説を下敷きに、死に損なった人間たちが集まるという“樹海村”にまつわる恐怖が展開する。",
+  "start": 1634115600000,
+  "end": 1634122800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "犬鳴村",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

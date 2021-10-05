@@ -1,0 +1,25 @@
+{
+  "id": "idy8mdp",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#7[二]",
+  "detail": "#7「怖い友だち　」",
+  "start": 1634099100000,
+  "end": 1634099400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "怖い友だち",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}

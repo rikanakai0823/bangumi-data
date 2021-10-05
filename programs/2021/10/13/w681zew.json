@@ -1,0 +1,26 @@
+{
+  "id": "w681zew",
+  "category": "anime",
+  "title": "サクガン",
+  "fullTitle": "[新]サクガン #01 [字]",
+  "detail": "#01 FATHERS&DAUGHTERS",
+  "start": 1634113800000,
+  "end": 1634115600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "FATHERS&DAUGHTERS",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

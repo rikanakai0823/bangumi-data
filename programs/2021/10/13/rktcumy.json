@@ -1,0 +1,25 @@
+{
+  "id": "rktcumy",
+  "category": "drama",
+  "title": "家族を守れ",
+  "fullTitle": "家族を守れ　#71　[字]",
+  "detail": "2015年 全123話",
+  "start": 1634066400000,
+  "end": 1634068800000,
+  "seconds": 2400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 71,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w66su8e",
+  "category": "drama",
+  "title": "STATION 19　シーズン2",
+  "fullTitle": "STATION 19　シーズン2 #2「制服の下の葛藤」[字]",
+  "detail": "病院からマックスという少年がいなくなり、捜索に加わるミラーとアンディ。ライアンが町でマックスを発見するが、逃げようとしたマックスは下水管に転落し、大捜索となる。",
+  "start": 1634050800000,
+  "end": 1634054400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 117
+  },
+  "subTitle": "制服の下の葛藤",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

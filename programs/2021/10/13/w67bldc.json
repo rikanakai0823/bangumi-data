@@ -1,0 +1,23 @@
+{
+  "id": "w67bldc",
+  "category": "music",
+  "title": "ベストヒット！邦洋ランキング20",
+  "fullTitle": "ベストヒット！邦洋ランキング20",
+  "detail": "ランキング番組の決定版！スペースシャワーTV プラスの最新オリジナルランキングの上位20曲をカウントダウン！",
+  "start": 1634072400000,
+  "end": 1634079600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "スペシャプラス",
+    "id": "f0dd",
+    "sid": 321,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 122
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduwoa6",
+  "category": "cinema",
+  "title": "ビューティフル・マインド",
+  "fullTitle": "[映][SS]ビューティフル・マインド【特集：美しい人生映画】",
+  "detail": "ラッセル・クロウが幻覚に悩まされる実在の天才数学者を熱演し、アカデミー作品賞をはじめとする４部門を受賞した感動のドラマ。",
+  "start": 1634124600000,
+  "end": 1634133600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "特集：美しい人生映画",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

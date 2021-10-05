@@ -1,0 +1,25 @@
+{
+  "id": "w63j1rp",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2021～東京ドーム～",
+  "fullTitle": "[生]DRAMATIC BASEBALL2021「巨人×阪神」～東京ドーム～",
+  "detail": "～生中継　*試合終了まで放送\r\n解説：山本昌\r\n実況：安藤翔",
+  "start": 1634114700000,
+  "end": 1634130000000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×阪神",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

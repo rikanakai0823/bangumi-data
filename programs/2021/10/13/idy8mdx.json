@@ -1,0 +1,25 @@
+{
+  "id": "idy8mdx",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#42[二]",
+  "detail": "#42「街角のバンドマン」",
+  "start": 1634109900000,
+  "end": 1634110200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "街角のバンドマン",
+  "episode": 42,
+  "flags": [
+    "二"
+  ]
+}
