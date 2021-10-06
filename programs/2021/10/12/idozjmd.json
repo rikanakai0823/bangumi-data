@@ -1,9 +1,9 @@
 {
   "id": "idozjmd",
-  "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！[字]",
-  "detail": "",
+  "category": "variety",
+  "title": "四国推し！　四国あるある選手権・拡大版",
+  "fullTitle": "四国推し！　四国あるある選手権・拡大版[字]",
+  "detail": "四国４県の生活に根づく「あるある」ネタを各県のプレゼンターが歌にのせて紹介、互いの県民性を深掘りする。４月に四国で放送し好評を博した教養バラエティの拡大特別版。",
   "start": 1633965000000,
   "end": 1633968000000,
   "seconds": 3000,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "あるある",
   "episode": null,
   "flags": [
     "字"

@@ -1,0 +1,25 @@
+{
+  "id": "idp1u89",
+  "category": "sports",
+  "title": "ＰＧＡゴルフツアー　シュライナーズ　チルドレンズ　オープン",
+  "fullTitle": "ＰＧＡゴルフツアー　シュライナーズ　チルドレンズ　オープン「最終日」[二]",
+  "detail": "「最終日」　【解説】田中泰二郎，【アナウンサー】工藤三郎　～ネバダ州ラスベガス　ＴＰＣ・サマーリンから中継～",
+  "start": 1633914000000,
+  "end": 1633921200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "最終日",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
