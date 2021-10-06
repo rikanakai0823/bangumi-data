@@ -1,0 +1,25 @@
+{
+  "id": "idozkjc",
+  "category": "documentary",
+  "title": "目撃！にっぽん",
+  "fullTitle": "目撃！にっぽん[字]",
+  "detail": "",
+  "start": 1634198400000,
+  "end": 1634200200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

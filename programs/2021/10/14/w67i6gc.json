@@ -1,0 +1,23 @@
+{
+  "id": "w67i6gc",
+  "category": "music",
+  "title": "ビージーズ：スタジオ・ライヴ",
+  "fullTitle": "ビージーズ：スタジオ・ライヴ",
+  "detail": "ビージーズのBeat Clubライヴ映像をオンエア。",
+  "start": 1634145000000,
+  "end": 1634146200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ミュージック・エア",
+    "id": "f0dg",
+    "sid": 324,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

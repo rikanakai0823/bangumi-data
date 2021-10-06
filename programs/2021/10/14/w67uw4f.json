@@ -1,0 +1,25 @@
+{
+  "id": "w67uw4f",
+  "category": "anime",
+  "title": "ヒカルの碁 ,52",
+  "fullTitle": "ヒカルの碁[字] #51,52",
+  "detail": "＃５１「倉田六段」＃５２「ヒカルＶＳアキラ」",
+  "start": 1634220000000,
+  "end": 1634223600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "倉田六段",
+  "episode": 51,
+  "flags": [
+    "字"
+  ]
+}

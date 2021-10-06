@@ -1,0 +1,25 @@
+{
+  "id": "idy8mek",
+  "category": "anime",
+  "title": "キム・ポッシブル",
+  "fullTitle": "キム・ポッシブル#60[二]",
+  "detail": "#60「チャンネル・ツアー」",
+  "start": 1634153400000,
+  "end": 1634155200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "チャンネル・ツアー",
+  "episode": 60,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduh43w",
+  "category": "cinema",
+  "title": "花より男子ファイナル",
+  "fullTitle": "[映]花より男子ファイナル[SS][字]",
+  "detail": "井上真央、松本潤ら人気ドラマのキャストが再結集した映画版の完結編。つくしと道明寺の結婚式が迫る中、道明寺家へ嫁ぐ者に代々受け継がれてきたティアラが盗まれ……。　",
+  "start": 1634184000000,
+  "end": 1634192100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

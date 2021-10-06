@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkoii",
+  "category": "information",
+  "title": "ｔｖｋお買物情報",
+  "fullTitle": "ｔｖｋお買物情報",
+  "detail": "暮らしに役立つ、選りすぐりの商品をご紹介します。\r\n▽医療機器",
+  "start": 1634158500000,
+  "end": 1634158800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

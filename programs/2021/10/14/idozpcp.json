@@ -1,0 +1,25 @@
+{
+  "id": "idozpcp",
+  "category": "sports",
+  "title": "日本オープンゴルフ選手権",
+  "fullTitle": "日本オープンゴルフ選手権[字]",
+  "detail": "",
+  "start": 1634184000000,
+  "end": 1634191800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

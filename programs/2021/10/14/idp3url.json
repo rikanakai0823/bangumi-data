@@ -1,0 +1,23 @@
+{
+  "id": "idp3url",
+  "category": "music",
+  "title": "名曲アルバムラヴェル作曲",
+  "fullTitle": "名曲アルバム「クープランの墓」ラヴェル作曲",
+  "detail": "「クープランの墓」（管弦楽）東京フィルハーモニー交響楽団，（指揮）大友直人　～フランス　リヨンス・ラ・フォレ～",
+  "start": 1634158500000,
+  "end": 1634158800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "クープランの墓",
+  "episode": null,
+  "flags": []
+}

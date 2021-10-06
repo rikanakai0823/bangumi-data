@@ -1,0 +1,25 @@
+{
+  "id": "iduwrng",
+  "category": "drama",
+  "title": "ナイト・オブ・キリング　失われた記憶",
+  "fullTitle": "[SS]ナイト・オブ・キリング　失われた記憶　＃４",
+  "detail": "【ＳＴＡＲ　ＤＲＡＭＡ　１１】",
+  "start": 1634220000000,
+  "end": 1634224500000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "ＳＴＡＲ　ＤＲＡＭＡ　１１",
+  "episode": 4,
+  "flags": [
+    "SS"
+  ]
+}
