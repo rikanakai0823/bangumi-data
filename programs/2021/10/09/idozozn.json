@@ -1,0 +1,25 @@
+{
+  "id": "idozozn",
+  "category": "sports",
+  "title": "ＭＬＢ２０２１　ア・リーグ地区シリーズ",
+  "fullTitle": "ＭＬＢ２０２１　ア・リーグ地区シリーズ[二]",
+  "detail": "",
+  "start": 1633733700000,
+  "end": 1633743000000,
+  "seconds": 9300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
