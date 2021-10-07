@@ -1,0 +1,25 @@
+{
+  "id": "iduwug6",
+  "category": "cinema",
+  "title": "イップ・マン外伝　マスターＺ",
+  "fullTitle": "[映]イップ・マン外伝　マスターＺ",
+  "detail": "大人気アクション『イップ・マン』のスピンオフ。第３作でイップ・マンに挑んだ詠春拳の使い手チョン・ティンチのその後を描く。",
+  "start": 1634290200000,
+  "end": 1634297400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

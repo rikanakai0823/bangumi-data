@@ -1,0 +1,25 @@
+{
+  "id": "iduct1a",
+  "category": "variety",
+  "title": "オンデマンドＮＡＶＩ　いつでもどこでもＷＯＷＯＷ",
+  "fullTitle": "[無]オンデマンドＮＡＶＩ　いつでもどこでもＷＯＷＯＷ　＃４",
+  "detail": "",
+  "start": 1634253000000,
+  "end": 1634254200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": [
+    "無"
+  ]
+}

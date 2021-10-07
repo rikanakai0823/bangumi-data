@@ -1,0 +1,26 @@
+{
+  "id": "w63j1sa",
+  "category": "etc",
+  "title": "NFL on 日テレジータス2017 スーパーボウル 編集版",
+  "fullTitle": "[多]NFL on 日テレジータス2017 第52回スーパーボウル 編集版[再]",
+  "detail": "＜編集版＞\r\n第52回スーパーボウル「イーグルス×ペイトリオッツ」",
+  "start": 1634242500000,
+  "end": 1634255100000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 52,
+  "flags": [
+    "多",
+    "再"
+  ]
+}

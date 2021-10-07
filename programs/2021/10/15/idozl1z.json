@@ -1,0 +1,26 @@
+{
+  "id": "idozl1z",
+  "category": "sports",
+  "title": "プロ野球２０２１「日本ハム」対",
+  "fullTitle": "プロ野球２０２１「日本ハム」対「オリックス」[多][字]",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】宮本慎也，【アナウンサー】星野圭介　～札幌ドームから中継～",
+  "start": 1634288400000,
+  "end": 1634301000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "オリックス",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

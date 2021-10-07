@@ -1,0 +1,25 @@
+{
+  "id": "idy8mgm",
+  "category": "anime",
+  "title": "バンザイ！キング・ジュリアン",
+  "fullTitle": "バンザイ！キング・ジュリアン#36[二]",
+  "detail": "#36「うちから出ていけ」",
+  "start": 1634275800000,
+  "end": 1634277600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "うちから出ていけ",
+  "episode": 36,
+  "flags": [
+    "二"
+  ]
+}

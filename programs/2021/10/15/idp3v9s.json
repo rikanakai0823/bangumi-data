@@ -1,0 +1,25 @@
+{
+  "id": "idp3v9s",
+  "category": "music",
+  "title": "名曲アルバム",
+  "fullTitle": "名曲アルバム「このすばらしき世界」[SS]",
+  "detail": "アメリカの行く末を案じる詞と美しいメロディーを持つ１９６７年発表の名曲。最初にこの曲を歌ったルイ・アームストロングの生まれたニューオーリンズの風景と共に描く。",
+  "start": 1634244900000,
+  "end": 1634245200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "このすばらしき世界",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

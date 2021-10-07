@@ -1,0 +1,27 @@
+{
+  "id": "iduh446",
+  "category": "cinema",
+  "title": "フード・ラック！食運",
+  "fullTitle": "[映]フード・ラック！食運[SS][字]",
+  "detail": "芸能界屈指の食通としても知られるダチョウ倶楽部・寺門ジモンの初監督作。ＥＸＩＬＥ　ＮＡＯＴＯと土屋太鳳の共演で、“焼肉”を軸に繰り広げられる人間模様を綴る。",
+  "start": 1634254200000,
+  "end": 1634261400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

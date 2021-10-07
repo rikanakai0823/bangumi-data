@@ -1,0 +1,26 @@
+{
+  "id": "iduh44a",
+  "category": "cinema",
+  "title": "クライマーズ（字幕版）",
+  "fullTitle": "[映]クライマーズ（字幕版）[SS]",
+  "detail": "史上初めてチョモランマ（エベレスト）に北稜から登頂しようと挑んだ中国の登山隊。彼らの実話に基づき、その試練を迫力たっぷりに再現。人気者チャン・ツィイーらが共演。",
+  "start": 1634283900000,
+  "end": 1634292000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

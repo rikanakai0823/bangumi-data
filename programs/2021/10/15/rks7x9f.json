@@ -1,0 +1,25 @@
+{
+  "id": "rks7x9f",
+  "category": "music",
+  "title": "＜独占生中継＞indigo la End ONEMAN TOUR",
+  "fullTitle": "[生]＜独占生中継＞indigo la End ONEMAN TOUR「ムード」",
+  "detail": "川谷絵音ひきいるindigo la Endの最新ツアーより大阪・大阪城音楽堂にて開催されるライブを独占生中継！\r\n※延長の場合あり\r\n※お問合せ：0570-0555-77（10時～20時）",
+  "start": 1634292000000,
+  "end": 1634301000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "ムード",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

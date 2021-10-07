@@ -1,0 +1,27 @@
+{
+  "id": "iduh444",
+  "category": "cinema",
+  "title": "水上のフライト",
+  "fullTitle": "[映]水上のフライト[SS][字]",
+  "detail": "中条あやみ主演のヒューマンドラマ。将来を嘱望されながら交通事故で五輪出場への夢を絶たれた女子大学生。彼女が水上競技パラカヌーとの出会いを通じて再生する姿を描く。",
+  "start": 1634240700000,
+  "end": 1634247900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
