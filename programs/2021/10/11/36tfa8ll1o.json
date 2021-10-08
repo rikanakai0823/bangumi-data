@@ -2,7 +2,7 @@
   "id": "36tfa8ll1o",
   "category": "documentary",
   "title": "ＪＥＴ　ＳＴＲＥＡＭ",
-  "fullTitle": "ＪＥＴ　ＳＴＲＥＡＭ",
+  "fullTitle": "[新]ＪＥＴ　ＳＴＲＥＡＭ",
   "detail": "アメリカ・ニューヨーク",
   "start": 1633950000000,
   "end": 1633951800000,
@@ -18,6 +18,8 @@
     "n": 35
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }
