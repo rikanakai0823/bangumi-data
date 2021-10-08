@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksbtd",
-  "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
+  "id": "381f5kskhq",
+  "category": "information",
+  "title": "所さん！大変ですよ",
+  "fullTitle": "所さん！大変ですよ[字][再]",
   "detail": "",
-  "start": 1633654800000,
-  "end": 1633655400000,
-  "seconds": 600,
+  "start": 1634138640000,
+  "end": 1634140260000,
+  "seconds": 1620,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -20,6 +20,7 @@
   "subTitle": "",
   "episode": null,
   "flags": [
-    "字"
+    "字",
+    "再"
   ]
 }
