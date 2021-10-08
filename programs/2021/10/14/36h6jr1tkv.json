@@ -2,11 +2,15 @@
   "id": "36h6jr1tkv",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nホオンテック　０１２０－１６－００７９",
   "start": 1634207400000,
   "end": 1634209200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ホオンテック　０１２０－１６－００７９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

@@ -1,0 +1,25 @@
+{
+  "id": "idp40p1",
+  "category": "documentary",
+  "title": "にっぽん百名山ミニ　３ｍｉｎ",
+  "fullTitle": "にっぽん百名山ミニ　３ｍｉｎ「夏　恵那山」[字]",
+  "detail": "中央アルプスの南端にそびえる恵那山（２１９１ｍ）、岐阜と長野の県境に伸びる尾根をたどり、ドウダンツツジの花のトンネルを歩く。富士山や南アルプスの大展望も魅力だ！",
+  "start": 1633821960000,
+  "end": 1633822200000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "夏　恵那山",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

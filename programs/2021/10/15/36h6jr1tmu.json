@@ -2,11 +2,15 @@
   "id": "36h6jr1tmu",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nセブンスピローウルトラフィット　０１２０－１６－００７９",
   "start": 1634248800000,
   "end": 1634250600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "セブンスピローウルトラフィット　０１２０－１６－００７９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

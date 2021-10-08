@@ -1,8 +1,8 @@
 {
   "id": "381ocd7zqk",
   "category": "variety",
-  "title": "Creator's Space(クリエイターズスペース)　小松美羽のアトリエ公開",
-  "fullTitle": "Creator's Space(クリエイターズスペース)　小松美羽のアトリエ公開",
+  "title": "Creator's Space(クリエイターズスペース)小松美羽のアトリエ公開",
+  "fullTitle": "Creator's Space(クリエイターズスペース)[字]小松美羽のアトリエ公開",
   "detail": "人気クリエイターの仕事空間を訪ねて、職場や道具やクリエイティブのこだわりを伺う。そこで「オリジナル作品」の創作を依頼。…作品のテーマは［SPACE/スペース］\n◇出演者\n小松美羽（現代アーティスト）\n◇制作\n日本テレビ　ＡＸＯＮ\n◇おしらせ\n【ホームページ】www.ntv.co.jp/creators-space/\r\n【インスタグラム】creators_space.ntv",
   "start": 1633787640000,
   "end": 1633787820000,
@@ -25,5 +25,7 @@
   },
   "subTitle": "オリジナル作品",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
