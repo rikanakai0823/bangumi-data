@@ -1,0 +1,23 @@
+{
+  "id": "idueync",
+  "category": "music",
+  "title": "ヴィジュアル系主義　シド",
+  "fullTitle": "ヴィジュアル系主義　シド　＃５",
+  "detail": "ＤＡＩＧＯをナビゲーターに、人気ヴィジュアル系バンド１組を１時間特集するレギュラー番組。個別インタビュー、歴代のライブ映像やＭＶ、対談等で知られざる魅力に迫る！",
+  "start": 1634313600000,
+  "end": 1634317200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": []
+}

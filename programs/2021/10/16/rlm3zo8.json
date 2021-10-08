@@ -1,0 +1,25 @@
+{
+  "id": "rlm3zo8",
+  "category": "sports",
+  "title": "みやざきフェニックス・リーグ 巨人×中日",
+  "fullTitle": "[生]第18回みやざきフェニックス・リーグ 巨人×中日",
+  "detail": "▽10月16日開催\r\n解説/実況：荒波翔/本田将一郎\r\n開催日時：2021年10月16日 (土) 12:30\r\n会場：SOKKENスタジアム",
+  "start": 1634354700000,
+  "end": 1634371200000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 18,
+  "flags": [
+    "生"
+  ]
+}

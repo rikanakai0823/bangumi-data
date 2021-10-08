@@ -1,0 +1,25 @@
+{
+  "id": "w66sub1",
+  "category": "drama",
+  "title": "9-1-1: Lone Star シーズン1",
+  "fullTitle": "9-1-1: Lone Star シーズン1 #1「新生活」[字]",
+  "detail": "爆発事故で壊滅した１２６分署再建のため、ストランドはテキサスへ。目標はインクルーシブな職場環境作りと史上最強チームの発足だった。オースティンでの新生活が始まる。",
+  "start": 1634360400000,
+  "end": 1634364000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 117
+  },
+  "subTitle": "新生活",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

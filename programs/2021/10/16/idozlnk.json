@@ -1,0 +1,23 @@
+{
+  "id": "idozlnk",
+  "category": "sports",
+  "title": "Ｊリーグタイム",
+  "fullTitle": "Ｊリーグタイム「第２８週（Ｊ１第３２節）」",
+  "detail": "【解説】宮澤ミシェル，【コメンテーター】平畠啓史，【アナウンサー】内山俊哉，【司会】中川絵美里",
+  "start": 1634386200000,
+  "end": 1634388600000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "第２８週（Ｊ１第３２節）",
+  "episode": null,
+  "flags": []
+}

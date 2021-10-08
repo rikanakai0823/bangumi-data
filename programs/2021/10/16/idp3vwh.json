@@ -1,0 +1,25 @@
+{
+  "id": "idp3vwh",
+  "category": "documentary",
+  "title": "さわやか自然百景",
+  "fullTitle": "さわやか自然百景「新潟　粟島　夏」[字]",
+  "detail": "新潟県の沖合、日本海に浮かぶ粟島。夏、豊かな海の恵みを糧に海鳥たちが子育てに励む。なかでもオオミズナギドリの繁殖地としては日本有数。海岸の崖で懸命に命をつなぐ。",
+  "start": 1634333400000,
+  "end": 1634334300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "新潟　粟島　夏",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

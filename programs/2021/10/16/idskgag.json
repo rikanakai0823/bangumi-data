@@ -1,0 +1,23 @@
+{
+  "id": "idskgag",
+  "category": "information",
+  "title": "ジャパネットたかた　買いドキ！サタデーショッピング",
+  "fullTitle": "ジャパネットたかた　買いドキ！サタデーショッピング",
+  "detail": "ジャパネットたかた生放送テレビショッピング　この時期にぴったりの季節商品や今だけの期間限定商品をお得に手にする大チャンス！",
+  "start": 1634338800000,
+  "end": 1634346000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

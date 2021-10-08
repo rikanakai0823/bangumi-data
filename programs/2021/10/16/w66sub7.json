@@ -1,0 +1,25 @@
+{
+  "id": "w66sub7",
+  "category": "drama",
+  "title": "STATION 19　シーズン2 ◆キャッチアップ放送",
+  "fullTitle": "STATION 19　シーズン2 #2[字]◆キャッチアップ放送",
+  "detail": "ションダ・ライムズ製作総指揮の大人気医療ドラマ「グレイズ・アナトミー」のスピンオフ作品の第２弾をキャッチアップ放送！最新エピソードは毎週月曜２２時より放送！",
+  "start": 1634382000000,
+  "end": 1634385600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 117
+  },
+  "subTitle": "グレイズ・アナトミー",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

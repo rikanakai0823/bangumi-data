@@ -1,0 +1,25 @@
+{
+  "id": "idy8mhs",
+  "category": "anime",
+  "title": "セイディ・スパークス",
+  "fullTitle": "セイディ・スパークス#1[二]",
+  "detail": "#1「ありのままの私／スピードを求めて」",
+  "start": 1634349600000,
+  "end": 1634351400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ありのままの私／スピードを求めて",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
