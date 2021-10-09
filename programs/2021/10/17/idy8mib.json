@@ -1,0 +1,25 @@
+{
+  "id": "idy8mib",
+  "category": "anime",
+  "title": "スター・ウォーズ　レジスタンス",
+  "fullTitle": "スター・ウォーズ　レジスタンス#28[二]",
+  "detail": "#28「埋もれた寺院」",
+  "start": 1634401800000,
+  "end": 1634403600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "埋もれた寺院",
+  "episode": 28,
+  "flags": [
+    "二"
+  ]
+}

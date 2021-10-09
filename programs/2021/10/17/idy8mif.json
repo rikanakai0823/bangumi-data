@@ -1,0 +1,25 @@
+{
+  "id": "idy8mif",
+  "category": "drama",
+  "title": "ハーレーはド真ん中",
+  "fullTitle": "ハーレーはド真ん中#48[二]",
+  "detail": "#48「お気に入りはあたし！」",
+  "start": 1634410800000,
+  "end": 1634412600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "お気に入りはあたし！",
+  "episode": 48,
+  "flags": [
+    "二"
+  ]
+}

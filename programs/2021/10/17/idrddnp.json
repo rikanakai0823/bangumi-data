@@ -1,0 +1,25 @@
+{
+  "id": "idrddnp",
+  "category": "anime",
+  "title": "アニメ　闘神機ジーズフレーム",
+  "fullTitle": "[新]アニメ　闘神機ジーズフレーム",
+  "detail": "第1話　Ｇ’ｓFrame",
+  "start": 1634479200000,
+  "end": 1634481000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "Ｇ’ｓFrame",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

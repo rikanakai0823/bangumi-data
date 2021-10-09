@@ -1,0 +1,25 @@
+{
+  "id": "rlm3zpp",
+  "category": "sports",
+  "title": "みやざきフェニックス・リーグ 巨人×広島",
+  "fullTitle": "[生]第18回みやざきフェニックス・リーグ 巨人×広島",
+  "detail": "▽10月17日開催\r\n解説/実況：荒波翔/本田将一郎\r\n開催日時：2021年10月17日 (日) 12:30\r\n会場：天福球場",
+  "start": 1634441100000,
+  "end": 1634457600000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 18,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduvltt",
+  "category": "cinema",
+  "title": "海辺の家",
+  "fullTitle": "[映]海辺の家【特集：美しい人生映画】",
+  "detail": "ケヴィン・クラインとヘイデン・クリステンセン共演、感動の家族ドラマ。自分の人生を見つめ直そうとする父と、息子の絆を描く。",
+  "start": 1634445900000,
+  "end": 1634454000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "特集：美しい人生映画",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

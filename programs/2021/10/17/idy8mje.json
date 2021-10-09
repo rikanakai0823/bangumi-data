@@ -1,0 +1,25 @@
+{
+  "id": "idy8mje",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "キャンプ・キキワカ#77[二]",
+  "detail": "#77「かき氷失踪事件」",
+  "start": 1634477400000,
+  "end": 1634479200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "かき氷失踪事件",
+  "episode": 77,
+  "flags": [
+    "二"
+  ]
+}

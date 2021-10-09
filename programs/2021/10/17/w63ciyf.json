@@ -1,0 +1,25 @@
+{
+  "id": "w63ciyf",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×オリックス（札幌ドーム）",
+  "fullTitle": "[生] [プロ野球]北海道日本ハム×オリックス（札幌ドーム）",
+  "detail": "（最大延長　１７：５８）\r\nGAORAプロ野球中継\r\n「北海道日本ハム vs オリックス」\r\n解説:森本稀哲\r\n実況:近藤祐司\r\n開催：2021年10月17日／札幌ドーム",
+  "start": 1634445000000,
+  "end": 1634459400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

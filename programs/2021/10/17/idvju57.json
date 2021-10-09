@@ -1,0 +1,25 @@
+{
+  "id": "idvju57",
+  "category": "anime",
+  "title": "ポプテピピック（リミックス版）",
+  "fullTitle": "ポプテピピック[再]（リミックス版）＃２「異次元遊戯ヴァンヴー」",
+  "detail": "",
+  "start": 1634401800000,
+  "end": 1634403600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "異次元遊戯ヴァンヴー",
+  "episode": 2,
+  "flags": [
+    "再"
+  ]
+}

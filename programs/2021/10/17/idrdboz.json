@@ -1,0 +1,25 @@
+{
+  "id": "idrdboz",
+  "category": "anime",
+  "title": "アニメ　シキザクラ",
+  "fullTitle": "[新]アニメ　シキザクラ",
+  "detail": "#1　希望/START",
+  "start": 1634398380000,
+  "end": 1634400000000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "希望/START",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

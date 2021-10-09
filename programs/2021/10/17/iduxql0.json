@@ -1,0 +1,25 @@
+{
+  "id": "iduxql0",
+  "category": "cinema",
+  "title": "道 [最高画質版]",
+  "fullTitle": "[映]道 [最高画質版]",
+  "detail": "イタリアの巨匠フェデリコ・フェリーニ監督の名作ドラマ。粗野な旅回りの芸人と彼に引き取られた女を巡り、人生の哀歓を描く。",
+  "start": 1634426400000,
+  "end": 1634433300000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

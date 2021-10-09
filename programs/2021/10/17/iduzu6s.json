@@ -1,0 +1,25 @@
+{
+  "id": "iduzu6s",
+  "category": "cinema",
+  "title": "アルフィー（２００４）",
+  "fullTitle": "[映]アルフィー（２００４）[吹]",
+  "detail": "１９６６年の同名作品をジュード・ロウ主演でリメイク。英国人プレイボーイの華やかな独身生活をコミカルに描く。",
+  "start": 1634414400000,
+  "end": 1634421000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

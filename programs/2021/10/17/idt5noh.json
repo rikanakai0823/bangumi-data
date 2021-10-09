@@ -1,0 +1,25 @@
+{
+  "id": "idt5noh",
+  "category": "music",
+  "title": "ＢＳ演歌の花道",
+  "fullTitle": "ＢＳ演歌の花道[字]",
+  "detail": "1978年から22年間レギュラー番組として放送した伝説の番組「演歌の花道」が復活！角川博、木の実ナナ、ニック・ニューサ、小野さとる、中条きよし、長山洋子、西田あい",
+  "start": 1634472000000,
+  "end": 1634475300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "演歌の花道",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

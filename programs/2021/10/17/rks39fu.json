@@ -1,0 +1,23 @@
+{
+  "id": "rks39fu",
+  "category": "music",
+  "title": "TBSch×SBS Medianet PRESENTS THE SHOW <字幕>",
+  "fullTitle": "TBSch×SBS Medianet PRESENTS THE SHOW #276<字幕>",
+  "detail": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。【出演】NCT 127、ヤン・ヨソプ、ATEEZ、STAYC、WONHO、NORAZO 他",
+  "start": 1634403600000,
+  "end": 1634408400000,
+  "seconds": 4800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "出演",
+  "episode": 276,
+  "flags": []
+}

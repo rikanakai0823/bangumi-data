@@ -1,0 +1,26 @@
+{
+  "id": "iduct2p",
+  "category": "cinema",
+  "title": "コピーキャット（吹替版）",
+  "fullTitle": "[映]コピーキャット（吹替版）[字]",
+  "detail": "異常犯罪を題材とする作品が増えた、１９９０年代のサイコスリラーブームの中、スマッシュヒットした衝撃のサスペンスムービー。Ｓ・ウィーヴァー、Ｈ・ハンターらが出演。",
+  "start": 1634460000000,
+  "end": 1634467800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

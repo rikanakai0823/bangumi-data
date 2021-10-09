@@ -1,0 +1,25 @@
+{
+  "id": "381sxrglxl",
+  "category": "variety",
+  "title": "占いメガネ",
+  "fullTitle": "[新]占いメガネ",
+  "detail": "番組情報決定までしばらくお待ちください。",
+  "start": 1634401680000,
+  "end": 1634403480000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

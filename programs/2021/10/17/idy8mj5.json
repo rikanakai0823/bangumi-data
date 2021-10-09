@@ -1,0 +1,25 @@
+{
+  "id": "idy8mj5",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#38[二]",
+  "detail": "#38「いとしのミニー」",
+  "start": 1634459100000,
+  "end": 1634459400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "いとしのミニー",
+  "episode": 38,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w67kh82",
+  "category": "music",
+  "title": "M-ON! SPECIAL",
+  "fullTitle": "M-ON! SPECIAL 「櫻坂46」",
+  "detail": "10/13(水)にニューシングル「流れ弾」を発売する櫻坂46。これを記念して、スペシャルプログラムを放送！",
+  "start": 1634459400000,
+  "end": 1634461200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "櫻坂46",
+  "episode": null,
+  "flags": []
+}

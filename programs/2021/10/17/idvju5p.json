@@ -1,0 +1,26 @@
+{
+  "id": "idvju5p",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【東京】５Ｒ～８Ｒ，９Ｒ「東京ハイジャンプ」（Ｊ・ＧⅡ），10Ｒ「テレビ静岡賞」\r\n【阪神】５Ｒ～８Ｒ，９Ｒ「もみじステークス」",
+  "start": 1634439600000,
+  "end": 1634450400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

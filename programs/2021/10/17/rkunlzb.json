@@ -1,0 +1,25 @@
+{
+  "id": "rkunlzb",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#13,#14[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#13,#14[二][字/日英]",
+  "detail": "#13「シトの秘密」　#14「プリンセスになりたい」",
+  "start": 1634452200000,
+  "end": 1634454000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "シトの秘密",
+  "episode": 13,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w681zip",
+  "category": "anime",
+  "title": "海賊王女",
+  "fullTitle": "海賊王女 #02 [字]",
+  "detail": "#02 受け継ぐ旅",
+  "start": 1634427000000,
+  "end": 1634428800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "受け継ぐ旅",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

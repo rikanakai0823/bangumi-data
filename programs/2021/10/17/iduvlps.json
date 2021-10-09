@@ -1,0 +1,26 @@
+{
+  "id": "iduvlps",
+  "category": "cinema",
+  "title": "負け犬の美学",
+  "fullTitle": "[映][SS]負け犬の美学【特集：美しい人生映画】",
+  "detail": "『アメリ』のマチュー・カソヴィッツ主演のボクシングドラマ。家族のために奮闘する落ち目の中年ボクサーの悲哀を描く。",
+  "start": 1634439600000,
+  "end": 1634445900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "特集：美しい人生映画",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

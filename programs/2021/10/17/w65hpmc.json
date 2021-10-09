@@ -1,0 +1,23 @@
+{
+  "id": "w65hpmc",
+  "category": "news",
+  "title": "タカラヅカニュース総集編",
+  "fullTitle": "タカラヅカニュース総集編",
+  "detail": "今週月曜日から金曜日までのニュースをダイジェストで放送。",
+  "start": 1634439600000,
+  "end": 1634443200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＳＫＹ　ＳＴＡＧＥ",
+    "id": "f0ci",
+    "sid": 290,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 100
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
