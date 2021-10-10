@@ -1,0 +1,25 @@
+{
+  "id": "iduxucg",
+  "category": "cinema",
+  "title": "ザ・デプス",
+  "fullTitle": "[映]ザ・デプス",
+  "detail": "『１３日の金曜日』の監督による深海ＳＦパニック。海底１万メートルにあるアメリカ軍の秘密基地を謎のモンスターが襲撃する。",
+  "start": 1634540400000,
+  "end": 1634547600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rkdr8ti",
+  "category": "information",
+  "title": "鎌倉ねこサロン",
+  "fullTitle": "鎌倉ねこサロン",
+  "detail": "保冷保温機能が付いたショッピングカートをご案内。イス付きなので、ちょっとのひと休みにも大変便利。華やかなデザインにも要注目！",
+  "start": 1634540400000,
+  "end": 1634544000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

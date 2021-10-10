@@ -1,0 +1,25 @@
+{
+  "id": "w67uw7d",
+  "category": "anime",
+  "title": "ヒカルの碁 -40",
+  "fullTitle": "ヒカルの碁[字] #37-40",
+  "detail": "＃３７「本戦開始」＃３８「挑戦者たち」＃３９「魔の一瞬」＃４０「白星の行方」",
+  "start": 1634486400000,
+  "end": 1634493600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "本戦開始",
+  "episode": 37,
+  "flags": [
+    "字"
+  ]
+}

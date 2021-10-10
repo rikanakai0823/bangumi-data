@@ -1,0 +1,26 @@
+{
+  "id": "iduvpim",
+  "category": "cinema",
+  "title": "ＷＡＶＥＳ／ウェイブス",
+  "fullTitle": "[映][SS]ＷＡＶＥＳ／ウェイブス",
+  "detail": "気鋭のスタジオＡ２４が放つ鮮烈な青春ドラマ。エリート高校生とその陰で生きる妹、ある悲劇が２人の運命を変える。［ＰＧ１２］",
+  "start": 1634556600000,
+  "end": 1634565600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

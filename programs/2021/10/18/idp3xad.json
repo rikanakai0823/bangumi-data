@@ -1,0 +1,25 @@
+{
+  "id": "idp3xad",
+  "category": "music",
+  "title": "名曲アルバムベートーベン作曲",
+  "fullTitle": "名曲アルバム「月光」ベートーベン作曲[SS]",
+  "detail": "ウィーンの街で絶望と希望のはざまを生きたベートーベン。彼にとって絶望であり希望でもあった音楽は、癒やされることのない“魂の悲しみ”に時を超えて今も寄り添い続ける",
+  "start": 1634504100000,
+  "end": 1634504400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "月光",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}
