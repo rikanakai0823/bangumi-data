@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "土曜☆ブレイク",
   "fullTitle": "土曜☆ブレイク「愛のウップン言わせ１０」[字]",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/program/ainouppun_20211016/",
   "start": 1634360400000,
   "end": 1634363640000,
   "seconds": 3240,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/program/ainouppun_20211016/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
