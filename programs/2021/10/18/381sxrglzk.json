@@ -3,10 +3,16 @@
   "category": "information",
   "title": "１００％！アピ～ルちゃん",
   "fullTitle": "１００％！アピ～ルちゃん[字]",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "“埋もれている逸材”や“お宝ネタ”を発掘して代わりに全力アピールで応援！★芸能界屈指の情報通である指原莉乃・麒麟・川島が驚く「お宝ネタ」の発掘に挑む！！\n◇出演者\n指原莉乃 川島明（麒麟） ほか\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.mbs.jp/100appeal/\r\n◇ツイッター\r\nhttps://twitter.com/appealchan @appealchan #アピ～ルちゃん #指原莉乃 #川島明\r\n\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1634562000000,
   "end": 1634565420000,
   "seconds": 3420,
+  "description": "“埋もれている逸材”や“お宝ネタ”を発掘して代わりに全力アピールで応援！★芸能界屈指の情報通である指原莉乃・麒麟・川島が驚く「お宝ネタ」の発掘に挑む！！",
+  "extra": {
+    "出演者": "指原莉乃 川島明（麒麟） ほか",
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.mbs.jp/100appeal/\r\n◇ツイッター\r\nhttps://twitter.com/appealchan @appealchan #アピ～ルちゃん #指原莉乃 #川島明\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 23
   },
-  "subTitle": "",
+  "subTitle": "お宝ネタ",
   "episode": null,
   "flags": [
     "字"
