@@ -1,0 +1,25 @@
+{
+  "id": "idp2izc",
+  "category": "sports",
+  "title": "２０２１ＡＴＰテニス　マスターズ１０００　ＢＮＰパリバオープン",
+  "fullTitle": "２０２１ＡＴＰテニス　マスターズ１０００　ＢＮＰパリバオープン[多]",
+  "detail": "男子シングルス・３回戦　※副音声は場内音声「ロイド　ハリス」（南アフリカ）対「キャスパー　ルード」（ノルウェー）",
+  "start": 1633982400000,
+  "end": 1633989000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}
