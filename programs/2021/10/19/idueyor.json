@@ -1,0 +1,23 @@
+{
+  "id": "idueyor",
+  "category": "theater",
+  "title": "第十三回　其の弐",
+  "fullTitle": "第十三回「博多・天神落語まつり」　其の弐",
+  "detail": "三遊亭円楽プロデュースによる、人気落語家たちが博多の街に集結する日本最大の落語フェスティバル。第１３回の今回も珠玉の高座の数々をお届けする。",
+  "start": 1634591100000,
+  "end": 1634598600000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "博多・天神落語まつり",
+  "episode": 13,
+  "flags": []
+}

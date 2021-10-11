@@ -1,0 +1,25 @@
+{
+  "id": "idoznfg",
+  "category": "information",
+  "title": "ＢＳコンシェルジュ",
+  "fullTitle": "ＢＳコンシェルジュ「ねこ育て　いぬ育て　～濱田マリ～」[字]",
+  "detail": "保護猫や保護犬を迎え入れる家庭を、定点カメラでそっとのぞき見する「ねこ育て　いぬ育て」を紹介。ナレーションを務めている濱田マリさんに番組の魅力をうかがう。",
+  "start": 1634619600000,
+  "end": 1634621100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ねこ育て　いぬ育て　～濱田マリ～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduxxp1",
+  "category": "information",
+  "title": "４Ｋスペシャル",
+  "fullTitle": "[無]４Ｋスペシャル「Ｏｕｒ　Ｃｉｎｅｍａ　Ｐａｒａｄｉｓｅ」",
+  "detail": "日本最古の映画館、新潟県上越市の「高田世界館」。開館以来、愛され続ける映画館とその素晴らしき空間を４Ｋ高精細映像で放送。",
+  "start": 1634636700000,
+  "end": 1634638500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "Ｏｕｒ　Ｃｉｎｅｍａ　Ｐａｒａｄｉｓｅ",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8mkv",
+  "category": "drama",
+  "title": "シェキラ！",
+  "fullTitle": "シェキラ！#65[二]",
+  "detail": "#65「ロッキーのカムバック！」",
+  "start": 1634581800000,
+  "end": 1634583600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ロッキーのカムバック！",
+  "episode": 65,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rktcuqp",
+  "category": "drama",
+  "title": "グッド・ドクター",
+  "fullTitle": "グッド・ドクター　#8　[字][再]",
+  "detail": "2013年 全20話",
+  "start": 1634630400000,
+  "end": 1634634600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv022m",
+  "category": "cinema",
+  "title": "ヒストリー・オブ・バイオレンス",
+  "fullTitle": "[映]ヒストリー・オブ・バイオレンス[吹]",
+  "detail": "デヴィッド・クローネンバーグ監督のバイオレンス映画。強盗を倒しヒーローとなった男の意外な過去が明らかになる。［Ｒ１５＋］",
+  "start": 1634599800000,
+  "end": 1634605800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

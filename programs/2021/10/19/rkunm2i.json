@@ -1,0 +1,25 @@
+{
+  "id": "rkunm2i",
+  "category": "hobby",
+  "title": "ペッパピッグ#25,#26[字/日英]",
+  "fullTitle": "ペッパピッグ#25,#26[二][字/日英]",
+  "detail": "#25「たからさがし」　#26「ボールとりゲーム」",
+  "start": 1634644800000,
+  "end": 1634645700000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "たからさがし",
+  "episode": 25,
+  "flags": [
+    "二"
+  ]
+}

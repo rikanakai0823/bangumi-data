@@ -1,0 +1,26 @@
+{
+  "id": "iduvryk",
+  "category": "cinema",
+  "title": "わたしを離さないで",
+  "fullTitle": "[映][SS]わたしを離さないで",
+  "detail": "社会から隔絶された謎の寄宿学校で育った男女３人の恋と友情をミステリアスに描く、実力派俳優共演の異色ＳＦ青春ドラマ。",
+  "start": 1634608800000,
+  "end": 1634616000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
