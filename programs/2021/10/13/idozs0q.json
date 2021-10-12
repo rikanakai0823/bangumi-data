@@ -1,0 +1,25 @@
+{
+  "id": "idozs0q",
+  "category": "sports",
+  "title": "２０２１ＡＴＰテニス　マスターズ１０００　ＢＮＰパリバオープン",
+  "fullTitle": "２０２１ＡＴＰテニス　マスターズ１０００　ＢＮＰパリバオープン[多]",
+  "detail": "男子シングルス・３回戦　※副音声は場内音声「マテオ　ベレッティーニ」（イタリア）対「テイラー　フリッツ」（アメリカ）",
+  "start": 1634061600000,
+  "end": 1634068800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}
