@@ -1,0 +1,27 @@
+{
+  "id": "iduh45y",
+  "category": "cinema",
+  "title": "ジーン・ワルツ",
+  "fullTitle": "[映]ジーン・ワルツ[SS][字]",
+  "detail": "「チーム・バチスタの栄光」の海堂尊による同名ベストセラーを菅野美穂主演で映画化。現在の産婦人科医療が抱える問題を背景に、ヒロインの医師の葛藤と、ある行動を描く。",
+  "start": 1634709600000,
+  "end": 1634716800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "チーム・バチスタの栄光",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

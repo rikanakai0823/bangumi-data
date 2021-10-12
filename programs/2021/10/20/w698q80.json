@@ -1,0 +1,25 @@
+{
+  "id": "w698q80",
+  "category": "news",
+  "title": "トーキング・ムービーズ：ロンドン映画祭",
+  "fullTitle": "トーキング・ムービーズ：ロンドン映画祭(再)",
+  "detail": "今回のトーキング・ムービーズは、英国最大の映画イベントであるロンドン映画祭からリポートする。",
+  "start": 1634715000000,
+  "end": 1634716800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

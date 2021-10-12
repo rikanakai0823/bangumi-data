@@ -1,0 +1,23 @@
+{
+  "id": "w63cj08",
+  "category": "sports",
+  "title": "[プロ野球]阪神×東京ヤクルト（阪神甲子園球場）",
+  "fullTitle": "[プロ野球]阪神×東京ヤクルト（阪神甲子園球場）",
+  "detail": "GAORAプロ野球中継「阪神 vs 東京ヤクルト」\r\n阪神 vs 東京ヤクルト(10.19)\r\n解説:川相昌弘\r\n実況:中井雅之\r\nリポーター:桐山隆",
+  "start": 1634697000000,
+  "end": 1634713200000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "阪神 vs 東京ヤクルト",
+  "episode": null,
+  "flags": []
+}

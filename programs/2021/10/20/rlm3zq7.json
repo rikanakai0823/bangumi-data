@@ -1,0 +1,25 @@
+{
+  "id": "rlm3zq7",
+  "category": "sports",
+  "title": "ストリートファイター: プレイバック 第3節",
+  "fullTitle": "[無]ストリートファイター: プレイバック 第3節",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nＳＦリーグの試合結果を速報でお届け！さらに、ここでしか見られないチームや選手にフィーチャーした企画も満載！",
+  "start": 1634668200000,
+  "end": 1634670000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

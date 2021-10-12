@@ -1,0 +1,26 @@
+{
+  "id": "idv063i",
+  "category": "cinema",
+  "title": "マリー・アントワネット（２００６）",
+  "fullTitle": "[映][字]マリー・アントワネット（２００６）[吹]",
+  "detail": "【ソフィア・コッポラ監督×ライジングスター】",
+  "start": 1634727000000,
+  "end": 1634734800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "ソフィア・コッポラ監督×ライジングスター",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

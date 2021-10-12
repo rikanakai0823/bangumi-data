@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zqt",
+  "category": "sports",
+  "title": "GAMBA FAMiLY",
+  "fullTitle": "GAMBA FAMiLY #84",
+  "detail": "ガンバ大阪を愛する全ての人へ、PLAYER、GAME、CLUB、SUPPORTER、ACADEMY、あらゆる視点から最新情報をお届けします。",
+  "start": 1634695200000,
+  "end": 1634697000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 84,
+  "flags": []
+}

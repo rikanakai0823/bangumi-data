@@ -1,0 +1,27 @@
+{
+  "id": "iduh45v",
+  "category": "cinema",
+  "title": "ＢＥＣＫ",
+  "fullTitle": "[映]ＢＥＣＫ[SS][字]",
+  "detail": "水嶋ヒロ、佐藤健らの豪華共演でハロルド作石の人気コミックを実写映画化。平凡な毎日を送っていた高校生は、天才ギタリストとの出会いとバンド活動を通じて成長していく。",
+  "start": 1634686200000,
+  "end": 1634695200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

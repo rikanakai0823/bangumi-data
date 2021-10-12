@@ -1,0 +1,25 @@
+{
+  "id": "idv03h1",
+  "category": "cinema",
+  "title": "ブリングリング",
+  "fullTitle": "[映]ブリングリング[吹]",
+  "detail": "ソフィア・コッポラ監督×エマ・ワトソン主演。実際の事件を基に、“セレブ”宅で窃盗を繰り返す若者たちを描く。［Ｒ１５＋］",
+  "start": 1634665500000,
+  "end": 1634671200000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

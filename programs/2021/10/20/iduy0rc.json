@@ -1,0 +1,25 @@
+{
+  "id": "iduy0rc",
+  "category": "cinema",
+  "title": "サマー・インフェルノ",
+  "fullTitle": "[映]サマー・インフェルノ",
+  "detail": "サマーキャンプを舞台に、“襲う側”と“襲われる側”が入れ替わる若者たちの恐怖を描いたパニックホラー。［ＰＧ１２相当］",
+  "start": 1634718000000,
+  "end": 1634723400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

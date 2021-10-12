@@ -1,0 +1,23 @@
+{
+  "id": "ieem4s2",
+  "category": "hobby",
+  "title": "特別講義",
+  "fullTitle": "特別講義",
+  "detail": "「ヒューマンインタフェース技術のタネは日常生活のなかにある」",
+  "start": 1634361300000,
+  "end": 1634364000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "ヒューマンインタフェース技術のタネは日常生活のなかにある",
+  "episode": null,
+  "flags": []
+}

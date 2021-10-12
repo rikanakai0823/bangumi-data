@@ -1,0 +1,25 @@
+{
+  "id": "w67uwav",
+  "category": "anime",
+  "title": "ポケットモンスター ,191",
+  "fullTitle": "ポケットモンスター[字] #190,191",
+  "detail": "＃１９０「テッポウオのそら！」＃１９１「ヒメグマのひみつ！」",
+  "start": 1634727600000,
+  "end": 1634731200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "テッポウオのそら！",
+  "episode": 190,
+  "flags": [
+    "字"
+  ]
+}

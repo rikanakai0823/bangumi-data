@@ -1,0 +1,23 @@
+{
+  "id": "idxy6j7",
+  "category": "etc",
+  "title": "休止",
+  "fullTitle": "休止",
+  "detail": "メンテナンスの為休止いたします。",
+  "start": 1634670000000,
+  "end": 1634673600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

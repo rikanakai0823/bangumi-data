@@ -1,0 +1,25 @@
+{
+  "id": "idy8mm0",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "ビッグシティ・グリーン[二]",
+  "detail": "プールで大騒ぎ",
+  "start": 1634658300000,
+  "end": 1634659200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

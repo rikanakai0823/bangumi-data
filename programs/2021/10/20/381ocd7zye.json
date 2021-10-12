@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7zye",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まだまだ笑コラ」[字]",
+  "detail": "",
+  "start": 1634730840000,
+  "end": 1634731200000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "まだまだ笑コラ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

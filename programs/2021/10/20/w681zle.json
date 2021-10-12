@@ -1,0 +1,25 @@
+{
+  "id": "w681zle",
+  "category": "anime",
+  "title": "最果てのパラディン",
+  "fullTitle": "最果てのパラディン #02 [字]",
+  "detail": "#02 彷徨の賢者",
+  "start": 1634675400000,
+  "end": 1634677200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "彷徨の賢者",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}
