@@ -1,12 +1,12 @@
 {
   "id": "381f5ksesg",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「衆議院解散」関連[字]",
   "detail": "",
   "start": 1634184000000,
-  "end": 1634184300000,
-  "seconds": 300,
+  "end": 1634187000000,
+  "seconds": 3000,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "衆議院解散",
   "episode": null,
   "flags": [
     "字"
