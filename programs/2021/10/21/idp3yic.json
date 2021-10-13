@@ -1,0 +1,26 @@
+{
+  "id": "idp3yic",
+  "category": "hobby",
+  "title": "ニッポンぶらり鉄道旅",
+  "fullTitle": "ニッポンぶらり鉄道旅「ＪＲ横須賀線　なるほど！ナットク」[解][字]",
+  "detail": "【リポーター】井上拓哉，【語り】ＴＡＲＡＫＯ",
+  "start": 1634812200000,
+  "end": 1634814000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ＪＲ横須賀線　なるほど！ナットク",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

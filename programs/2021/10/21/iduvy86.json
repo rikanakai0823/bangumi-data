@@ -1,0 +1,26 @@
+{
+  "id": "iduvy86",
+  "category": "cinema",
+  "title": "マザーレス・ブルックリン",
+  "fullTitle": "[映][SS]マザーレス・ブルックリン",
+  "detail": "エドワード・ノートンが監督・脚本・製作・主演を務めた犯罪サスペンス。脅威の記憶力を持つ私立探偵が、ボスの殺害事件を追う。",
+  "start": 1634779800000,
+  "end": 1634788800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

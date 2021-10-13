@@ -1,0 +1,23 @@
+{
+  "id": "w67ds7b",
+  "category": "music",
+  "title": "アンコールアワー",
+  "fullTitle": "アンコールアワー",
+  "detail": "スペースシャワーTV 30周年を記念にお届けするアンコール番組「アンコールアワー」がスタート！様々な番組の中から、選りすぐりの名作（迷作？）をお届けいたします。",
+  "start": 1634824800000,
+  "end": 1634832000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 123
+  },
+  "subTitle": "アンコールアワー",
+  "episode": null,
+  "flags": []
+}

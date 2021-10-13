@@ -1,0 +1,25 @@
+{
+  "id": "idy8mo4",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#39[二]",
+  "detail": "#39「白と黒の恐怖」",
+  "start": 1634801100000,
+  "end": 1634801400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "白と黒の恐怖",
+  "episode": 39,
+  "flags": [
+    "二"
+  ]
+}

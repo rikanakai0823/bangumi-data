@@ -1,0 +1,25 @@
+{
+  "id": "idxc8sr",
+  "category": "variety",
+  "title": "見せます　Mnet　presents",
+  "fullTitle": "[無]第1話見せます　Mnet　presents「ハネムーンゲストハウス」",
+  "detail": "CS318/プレミアムサービス658CH Mnetで毎週(火)20:00～放送！",
+  "start": 1634824800000,
+  "end": 1634830800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "ハネムーンゲストハウス",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

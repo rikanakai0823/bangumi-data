@@ -1,0 +1,23 @@
+{
+  "id": "w63cj11",
+  "category": "sports",
+  "title": "[プロ野球]阪神×東京ヤクルト（阪神甲子園球場）",
+  "fullTitle": "[プロ野球]阪神×東京ヤクルト（阪神甲子園球場）",
+  "detail": "GAORAプロ野球中継「阪神 vs 東京ヤクルト」\r\n解説:野口寿浩\r\n実況:寺西裕一\r\nリポーター:村田匡輝\r\n\r\n＜副音声＞\r\n解説:川崎憲次郎\r\n実況:中尾考作",
+  "start": 1634783400000,
+  "end": 1634799600000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "阪神 vs 東京ヤクルト",
+  "episode": null,
+  "flags": []
+}
