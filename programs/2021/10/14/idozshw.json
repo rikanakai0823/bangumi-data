@@ -1,0 +1,25 @@
+{
+  "id": "idozshw",
+  "category": "sports",
+  "title": "２０２１ＡＴＰテニス　マスターズ１０００　ＢＮＰパリバオープン",
+  "fullTitle": "２０２１ＡＴＰテニス　マスターズ１０００　ＢＮＰパリバオープン[多]",
+  "detail": "男子シングルス・４回戦　※副音声は場内音声「ディエゴ　シュワルツマン」（アルゼンチン）対「キャスパー　ルード」（ノルウェー）",
+  "start": 1634148000000,
+  "end": 1634155200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}
