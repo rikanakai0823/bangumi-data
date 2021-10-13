@@ -1,0 +1,26 @@
+{
+  "id": "idp42tk",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「旅を彩る　駅弁」[字][再]",
+  "detail": "旅を盛り上げる「駅弁」。名物駅弁の誕生秘話から、達人ならではの味わい方、バリエーション豊かな器や掛け紙まで…見て美しい、食べておいしい、駅弁の魅力に迫る！",
+  "start": 1634452200000,
+  "end": 1634454000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "旅を彩る　駅弁",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
