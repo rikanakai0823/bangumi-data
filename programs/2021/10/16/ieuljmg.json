@@ -1,0 +1,25 @@
+{
+  "id": "ieuljmg",
+  "category": "cinema",
+  "title": "スターチャンネル加入案内",
+  "fullTitle": "[無]スターチャンネル加入案内",
+  "detail": "映画専門スター・チャンネルの加入方法をご案内します。",
+  "start": 1634389200000,
+  "end": 1634418000000,
+  "seconds": 28800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル",
+    "id": "8l9c",
+    "sid": 800,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 85
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

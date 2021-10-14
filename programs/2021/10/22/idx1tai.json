@@ -1,0 +1,25 @@
+{
+  "id": "idx1tai",
+  "category": "anime",
+  "title": "おそ松さん 第2期 ,16",
+  "fullTitle": "[字]おそ松さん 第2期 #15,16",
+  "detail": "#15「ＵＭＡ探検隊(2)」「びん」「カラ松タクシー」「トッティクイズ」\r\n#16「宇宙海賊」「グルメ回」「となりのかわい…",
+  "start": 1634864400000,
+  "end": 1634868000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ＵＭＡ探検隊(2)",
+  "episode": 15,
+  "flags": [
+    "字"
+  ]
+}

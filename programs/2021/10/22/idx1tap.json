@@ -1,0 +1,25 @@
+{
+  "id": "idx1tap",
+  "category": "anime",
+  "title": "名探偵コナン ダイヤと絵画と大女優 他",
+  "fullTitle": "[字]名探偵コナン ダイヤと絵画と大女優 他",
+  "detail": "#697「ダイヤと絵画と大女優」\r\n小五郎、コナン、蘭は大女優・白川美鈴の屋敷に招かれる。美鈴は息子の京介、娘の千春…",
+  "start": 1634889600000,
+  "end": 1634893200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ダイヤと絵画と大女優",
+  "episode": 697,
+  "flags": [
+    "字"
+  ]
+}

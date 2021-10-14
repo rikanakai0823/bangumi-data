@@ -1,0 +1,27 @@
+{
+  "id": "idv0bhg",
+  "category": "cinema",
+  "title": "アポロ１３",
+  "fullTitle": "[映][SS][字]アポロ１３[吹]",
+  "detail": "緊急事態を起こして宇宙をさまようアポロ１３号の地球帰還までの全貌を追いかけた、トム・ハンクス主演による実録ドラマ。",
+  "start": 1634856000000,
+  "end": 1634865000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

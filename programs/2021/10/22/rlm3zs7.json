@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zs7",
+  "category": "sports",
+  "title": "ZERO1 2020.8.2後楽園ホール",
+  "fullTitle": "ZERO1 2020.8.2後楽園ホール",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1634832000000,
+  "end": 1634839200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": null,
+  "flags": []
+}

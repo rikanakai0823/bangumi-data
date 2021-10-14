@@ -1,0 +1,25 @@
+{
+  "id": "w63j1vm",
+  "category": "sports",
+  "title": "関東インカレ陸上",
+  "fullTitle": "第100回関東インカレ陸上[再]",
+  "detail": "＜5月23日開催＞　～相模原ギオンスタジアム\r\n解説：桜井智野風　横田真人\r\n実況：梅澤廉　弘竜太郎\r\nインタビュアー：杉原凜",
+  "start": 1634879700000,
+  "end": 1634899500000,
+  "seconds": 19800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 100,
+  "flags": [
+    "再"
+  ]
+}

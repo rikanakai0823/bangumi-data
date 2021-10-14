@@ -1,0 +1,25 @@
+{
+  "id": "iduvzan",
+  "category": "drama",
+  "title": "ベルグレービア　秘密だらけの邸宅街",
+  "fullTitle": "[SS]ベルグレービア　秘密だらけの邸宅街　＃１",
+  "detail": "【独占日本初放送スタート】",
+  "start": 1634829300000,
+  "end": 1634832900000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "独占日本初放送スタート",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

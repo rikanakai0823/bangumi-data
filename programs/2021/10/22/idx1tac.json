@@ -1,0 +1,25 @@
+{
+  "id": "idx1tac",
+  "category": "anime",
+  "title": "キングダム 第２シリーズ ,33",
+  "fullTitle": "[字]キングダム 第２シリーズ #32,33",
+  "detail": "#32「色あせぬ時代」#33「勝利…そして」\r\n紀元前、中国。春秋・戦国時代。先の戦の功績により三百人の特殊部隊の将と…",
+  "start": 1634846400000,
+  "end": 1634850000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "色あせぬ時代",
+  "episode": 32,
+  "flags": [
+    "字"
+  ]
+}

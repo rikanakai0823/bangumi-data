@@ -1,0 +1,25 @@
+{
+  "id": "idueypz",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４６１",
+  "detail": "",
+  "start": 1634861700000,
+  "end": 1634862600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 461,
+  "flags": [
+    "無"
+  ]
+}

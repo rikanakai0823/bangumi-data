@@ -1,0 +1,26 @@
+{
+  "id": "rktf2pz",
+  "category": "music",
+  "title": "Girls Planet 999：少女祭典",
+  "fullTitle": "[生]Girls Planet 999：少女祭典 #12(終)",
+  "detail": "日韓中の少女たちによる超大型デビュープロジェクト!\r\n日韓同時放送：(金)20:00～\r\n※放送時間が変更になる場合がございます。予めご了承ください。",
+  "start": 1634900400000,
+  "end": 1634911200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": [
+    "生",
+    "終"
+  ]
+}

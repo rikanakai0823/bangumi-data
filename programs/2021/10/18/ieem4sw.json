@@ -1,0 +1,23 @@
+{
+  "id": "ieem4sw",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「NPO・NGOの世界('21)」",
+  "start": 1634518800000,
+  "end": 1634519700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "NPO・NGOの世界('21)",
+  "episode": null,
+  "flags": []
+}

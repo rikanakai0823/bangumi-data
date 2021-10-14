@@ -1,0 +1,27 @@
+{
+  "id": "idv0c8y",
+  "category": "cinema",
+  "title": "エイリアン２［完全版］",
+  "fullTitle": "[映][SS][字]エイリアン２［完全版］[吹]",
+  "detail": "人気ＳＦアクションのシリーズ第２弾。約１８分のシーンを監督が自ら追加再編集した完全版。［ＰＧ１２相当］",
+  "start": 1634891400000,
+  "end": 1634901600000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

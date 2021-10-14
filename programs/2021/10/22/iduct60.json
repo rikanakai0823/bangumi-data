@@ -1,0 +1,26 @@
+{
+  "id": "iduct60",
+  "category": "cinema",
+  "title": "アイ・アム・タレント（字幕版）",
+  "fullTitle": "[映]アイ・アム・タレント（字幕版）[SS]",
+  "detail": "南アフリカ共和国で９歳から路上生活をしていた少年が、スケートボードで身を立てるべくアメリカのカリフォルニアへ渡り、成長していく姿を密着取材したドキュメンタリー。",
+  "start": 1634891400000,
+  "end": 1634896800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

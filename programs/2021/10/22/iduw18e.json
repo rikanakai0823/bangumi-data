@@ -1,0 +1,26 @@
+{
+  "id": "iduw18e",
+  "category": "cinema",
+  "title": "僕のワンダフル・ジャーニー",
+  "fullTitle": "[映][SS]僕のワンダフル・ジャーニー",
+  "detail": "『僕のワンダフル・ライフ』の続編となる感動ドラマ。愛する飼い主と再会した犬が、彼の孫娘を見守るために再び転生を繰り返す。",
+  "start": 1634859000000,
+  "end": 1634866200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

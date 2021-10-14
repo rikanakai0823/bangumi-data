@@ -1,0 +1,25 @@
+{
+  "id": "idy8mpi",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "ビッグシティ・グリーン#20[二]",
+  "detail": "#20「感謝祭の大セール／禁断のネコ」",
+  "start": 1634887800000,
+  "end": 1634889600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "感謝祭の大セール／禁断のネコ",
+  "episode": 20,
+  "flags": [
+    "二"
+  ]
+}

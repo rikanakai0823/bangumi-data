@@ -1,0 +1,25 @@
+{
+  "id": "rksa7s1",
+  "category": "sports",
+  "title": "ZOZO CHAMPIONSHIP2021 ゴルフ 第2日",
+  "fullTitle": "[生]ZOZO CHAMPIONSHIP2021 ゴルフ 第2日",
+  "detail": "今年マスターズを制した松山英樹を初め、全英王者のコリン・モリカワ、東京オリンピック金メダリストのザンダー・シャフリーなど世界屈指のトッププロが集結！！",
+  "start": 1634860800000,
+  "end": 1634878440000,
+  "seconds": 17640,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
