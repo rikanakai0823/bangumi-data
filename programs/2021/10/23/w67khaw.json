@@ -1,0 +1,23 @@
+{
+  "id": "w67khaw",
+  "category": "music",
+  "title": "LINE MUSICカウントダウン20",
+  "fullTitle": "LINE MUSICカウントダウン20",
+  "detail": "定額音楽配信サービス「LINE MUSIC」。音楽を楽しむための新しいスタイル「LINE MUSIC」のウィークリーランキングTOP20をお届け！",
+  "start": 1634922000000,
+  "end": 1634929200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

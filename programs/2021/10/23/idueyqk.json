@@ -1,0 +1,25 @@
+{
+  "id": "idueyqk",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６９５",
+  "detail": "",
+  "start": 1634988600000,
+  "end": 1634989500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 695,
+  "flags": [
+    "無"
+  ]
+}

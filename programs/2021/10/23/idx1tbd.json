@@ -1,0 +1,25 @@
+{
+  "id": "idx1tbd",
+  "category": "anime",
+  "title": "劇場版 Free!-Road to the World-夢",
+  "fullTitle": "[映]劇場版 Free!-Road to the World-夢",
+  "detail": "初めてのチームとして幼い絆を結び合う、遙、真琴、渚、そして、凛。凛は世界で戦う夢を、渚は楽しく泳ぎ続けたい気持…",
+  "start": 1634968500000,
+  "end": 1634975700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

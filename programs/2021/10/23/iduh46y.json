@@ -1,0 +1,27 @@
+{
+  "id": "iduh46y",
+  "category": "cinema",
+  "title": "映画　クロサギ",
+  "fullTitle": "[映]映画　クロサギ[SS][字]",
+  "detail": "山下智久、堀北真希の共演で大ヒットした人気ＴＶドラマの劇場版。詐欺師だけを狙って詐欺を仕掛ける“クロサギ”の主人公は、日本の経済界を揺るがす陰謀に巻き込まれる。",
+  "start": 1634969700000,
+  "end": 1634977800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3826py3uci",
+  "category": "anime",
+  "title": "しまじろうのわお！",
+  "fullTitle": "しまじろうのわお！[字]",
+  "detail": "世界の、自然の、不思議がいっぱい！\r\n「わお！」（驚き）がつまった３０分！\r\n親子で楽しめる、しまじろうのテレビ番組です。",
+  "start": 1634945400000,
+  "end": 1634947200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idt5nv2",
+  "category": "drama",
+  "title": "土曜お昼のミステリー『松本清張特別企画』",
+  "fullTitle": "土曜お昼のミステリー『松本清張特別企画「張込み」』[字]",
+  "detail": "都内で発生した強盗殺人事件。事件後行方不明となった容疑者は元恋人の前に姿を現すと刑事が推理するが…。\r\n【主演】若村麻由美",
+  "start": 1634956200000,
+  "end": 1634963400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "張込み",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

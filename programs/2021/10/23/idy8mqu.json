@@ -1,0 +1,25 @@
+{
+  "id": "idy8mqu",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#40[二]",
+  "detail": "#40「ありがた迷惑」",
+  "start": 1634977500000,
+  "end": 1634977800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ありがた迷惑",
+  "episode": 40,
+  "flags": [
+    "二"
+  ]
+}

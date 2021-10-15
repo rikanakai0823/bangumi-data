@@ -1,0 +1,25 @@
+{
+  "id": "rlm3zrc",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第9節 マインツ×アウクスブルク",
+  "fullTitle": "[生]21/22 ブンデスリーガ 第9節 マインツ×アウクスブルク",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年10月22日\r\n会場:メーバ アレーナ",
+  "start": 1634926800000,
+  "end": 1634935800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

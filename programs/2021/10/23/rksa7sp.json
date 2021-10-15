@@ -1,0 +1,23 @@
+{
+  "id": "rksa7sp",
+  "category": "sports",
+  "title": "フィギュアスケート オータムクラシック2021",
+  "fullTitle": "フィギュアスケート オータムクラシック2021",
+  "detail": "カナダ・ピエールフォンで開催のＩＳＵチャレンジャーシリーズ。男女シングル、ペア、アイスダンスの演技を一挙放送！ペアは三浦璃来＆木原龍一組の演技に注目！",
+  "start": 1634972400000,
+  "end": 1634979600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

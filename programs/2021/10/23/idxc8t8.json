@@ -1,0 +1,23 @@
+{
+  "id": "idxc8t8",
+  "category": "news",
+  "title": "SORA―お天気チャンネル―",
+  "fullTitle": "SORA―お天気チャンネル―",
+  "detail": "毎日の生活に欠かせない最新気象情報をお届けします。",
+  "start": 1634934600000,
+  "end": 1634941800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

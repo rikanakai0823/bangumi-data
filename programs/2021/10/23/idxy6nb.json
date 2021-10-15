@@ -1,0 +1,25 @@
+{
+  "id": "idxy6nb",
+  "category": "hobby",
+  "title": "RAD SALT 7 静岡ルアーゲーム",
+  "fullTitle": "[初]RAD SALT 7 静岡ルアーゲーム",
+  "detail": "RAD（ヤバい）な瞬間を求めてオカッパリのみで全国のフィールドにチャレンジする『RAD SALT』。今回は伊豆半島を中心とした静岡エリアで青物に挑む！",
+  "start": 1634994000000,
+  "end": 1634997600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

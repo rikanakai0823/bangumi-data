@@ -1,0 +1,26 @@
+{
+  "id": "idx1tvs",
+  "category": "anime",
+  "title": "テレビアニメ無限列車編",
+  "fullTitle": "[新][字]テレビアニメ「鬼滅の刃」無限列車編 #1",
+  "detail": "#1\r\n竈門炭治郎 立志編、遊郭編、それぞれと繋がるエピソードである無限列車編を、テレビアニメという形で繋ぎます。\r\n…",
+  "start": 1634990400000,
+  "end": 1634992200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "鬼滅の刃",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

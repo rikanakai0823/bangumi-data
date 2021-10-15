@@ -1,0 +1,25 @@
+{
+  "id": "w67uwea",
+  "category": "anime",
+  "title": "マジカパーティ",
+  "fullTitle": "マジカパーティ[字] #25",
+  "detail": "第２５話\r\n「魔力解放～！」でマジンを召喚！",
+  "start": 1634979600000,
+  "end": 1634981400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "",
+  "episode": 25,
+  "flags": [
+    "字"
+  ]
+}

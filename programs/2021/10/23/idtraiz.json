@@ -1,0 +1,23 @@
+{
+  "id": "idtraiz",
+  "category": "information",
+  "title": "キューサイテレビショッピング",
+  "fullTitle": "キューサイテレビショッピング",
+  "detail": "",
+  "start": 1634979300000,
+  "end": 1634979600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

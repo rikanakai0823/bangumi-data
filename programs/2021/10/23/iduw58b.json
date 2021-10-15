@@ -1,0 +1,26 @@
+{
+  "id": "iduw58b",
+  "category": "cinema",
+  "title": "海底４７ｍ",
+  "fullTitle": "[映][SS]海底４７ｍ",
+  "detail": "【シリーズ一挙放送】",
+  "start": 1634984100000,
+  "end": 1634990400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "シリーズ一挙放送",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

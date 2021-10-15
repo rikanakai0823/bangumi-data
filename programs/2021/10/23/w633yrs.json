@@ -1,0 +1,25 @@
+{
+  "id": "w633yrs",
+  "category": "sports",
+  "title": "ライジングレディースゴルフTV",
+  "fullTitle": "[初]ライジングレディースゴルフTV【MATCH3-10】",
+  "detail": "MATCH3-10　前田衣里奈選手＆植手桃子プロ組 VS 江口紗代選手＆八巻セイラ選手組",
+  "start": 1634940000000,
+  "end": 1634941800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "MATCH3-10",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

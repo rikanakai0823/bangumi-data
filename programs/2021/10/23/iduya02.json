@@ -1,0 +1,26 @@
+{
+  "id": "iduya02",
+  "category": "cinema",
+  "title": "ドメスティック・フィアー",
+  "fullTitle": "[映][SS]ドメスティック・フィアー",
+  "detail": "ジョン・トラヴォルタ主演。暴力的な継父に脅かされている我が子を救うため、実の父親が立ち上がる…！",
+  "start": 1634965800000,
+  "end": 1634971800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
