@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＱＶＣ　Fashion Month SP Live ! NATURAL BEAUTY",
   "fullTitle": "ＱＶＣ　Fashion Month SP Live ! NATURAL BEAUTY",
-  "detail": "自然で美しい服、リアルクローズ。QVCオリジナル企画でお届けする、新たな「NATURAL BEAUTY」にご期待ください。",
+  "detail": "自然で美しい服、リアルクローズ。QVCオリジナル企画でお届けする、新たな「NATURAL BEAUTY」にご期待ください。\n◇番組内容\n※番組の内容や放送日は、変更となる場合がございます。",
   "start": 1634533200000,
   "end": 1634536800000,
   "seconds": 3600,
+  "description": "自然で美しい服、リアルクローズ。QVCオリジナル企画でお届けする、新たな「NATURAL BEAUTY」にご期待ください。",
+  "extra": {
+    "番組内容": "※番組の内容や放送日は、変更となる場合がございます。"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS09_2",
