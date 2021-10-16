@@ -1,0 +1,25 @@
+{
+  "id": "w63tegk",
+  "category": "sports",
+  "title": "オンデマンドでみよう！１０月号",
+  "fullTitle": "[初]オンデマンドでみよう！１０月号",
+  "detail": "“いつでも見たい時に、見たい映画を見られる”オンデマンド配信。今月の見逃せない話題作をご紹介！",
+  "start": 1635006600000,
+  "end": 1635007500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 99
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

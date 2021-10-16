@@ -1,0 +1,25 @@
+{
+  "id": "w698q98",
+  "category": "documentary",
+  "title": "パノラマ",
+  "fullTitle": "[英]パノラマ(再)",
+  "detail": "「パノラマ」は長い歴史を誇るＢＢＣの看板ドキュメンタリーシリーズ。世界各地の知られざる事象に、鋭く切り込むスタイルで制作される。",
+  "start": 1635017400000,
+  "end": 1635019200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "パノラマ",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

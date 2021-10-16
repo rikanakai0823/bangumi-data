@@ -1,0 +1,25 @@
+{
+  "id": "rkunm8x",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#23,#24[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#23,#24[二][字/日英]",
+  "detail": "#23「真夜中の幽霊騒ぎ」　#24「ナナからの招待」",
+  "start": 1635035400000,
+  "end": 1635037200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "真夜中の幽霊騒ぎ",
+  "episode": 23,
+  "flags": [
+    "二"
+  ]
+}

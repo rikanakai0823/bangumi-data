@@ -1,0 +1,27 @@
+{
+  "id": "iduct7a",
+  "category": "cinema",
+  "title": "ザ・コア（吹替版）",
+  "fullTitle": "[映]ザ・コア（吹替版）[SS][字]",
+  "detail": "地球の核（コア）が停止し、人類は滅亡の危機に！　最後の望みを懸け、科学者チームが地球の中心へと向かう。驚異のＶＦＸで未知なる地底への旅を描くＳＦアドベンチャー。",
+  "start": 1635071400000,
+  "end": 1635080400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

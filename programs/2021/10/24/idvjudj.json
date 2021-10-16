@@ -1,0 +1,26 @@
+{
+  "id": "idvjudj",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【新潟】12Ｒ「鳥屋野特別」\r\n【阪神】12Ｒ「天王寺ステークス」\r\n【東京】12Ｒ\r\n\r\n▼凱旋門賞 徹底回顧\r\n▼秋華賞一週前情報",
+  "start": 1635058800000,
+  "end": 1635064200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rksa7t4",
+  "category": "information",
+  "title": "ショッピング情報",
+  "fullTitle": "ショッピング情報",
+  "detail": "\r\n　　　 ・・・ショッピング情報・・・",
+  "start": 1635028200000,
+  "end": 1635030000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w681zph",
+  "category": "anime",
+  "title": "見える子ちゃん",
+  "fullTitle": "見える子ちゃん #03 [字]",
+  "detail": "#03 まだ見える",
+  "start": 1635026400000,
+  "end": 1635028200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "まだ見える",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

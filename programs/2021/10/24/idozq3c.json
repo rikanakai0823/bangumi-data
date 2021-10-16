@@ -1,0 +1,26 @@
+{
+  "id": "idozq3c",
+  "category": "documentary",
+  "title": "小さな旅",
+  "fullTitle": "小さな旅[解][字]",
+  "detail": "",
+  "start": 1635087000000,
+  "end": 1635088560000,
+  "seconds": 1560,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

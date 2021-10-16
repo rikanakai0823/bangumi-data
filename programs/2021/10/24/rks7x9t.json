@@ -1,0 +1,23 @@
+{
+  "id": "rks7x9t",
+  "category": "etc",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": "（内容未定）",
+  "start": 1635044400000,
+  "end": 1635053400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

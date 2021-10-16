@@ -1,0 +1,23 @@
+{
+  "id": "idozq2q",
+  "category": "sports",
+  "title": "ＮＨＫ杯ジャンプ",
+  "fullTitle": "第６３回ＮＨＫ杯ジャンプ",
+  "detail": "シーズン幕開けを告げるＮＨＫ杯ジャンプ。北京五輪を前に日本のトップ選手が勢ぞろい！男子はエース小林陵侑と佐藤幸椰の争いか？女子は髙梨沙羅が６回目の優勝に挑む。",
+  "start": 1635038400000,
+  "end": 1635047400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 63,
+  "flags": []
+}

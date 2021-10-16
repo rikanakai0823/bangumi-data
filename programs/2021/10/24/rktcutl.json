@@ -1,0 +1,26 @@
+{
+  "id": "rktcutl",
+  "category": "music",
+  "title": "【ＢＴＳ出演】２０１８　ＫＢＳ歌謡祭",
+  "fullTitle": "【ＢＴＳ出演】２０１８　ＫＢＳ歌謡祭　[字][新]",
+  "detail": "BTS、EXO、Wanna One、TWICE、SEVENTEEN、MONSTA X出演！毎年恒例3カ月連続企画！授賞式スペシャル第1弾！10月は2018年の模様をお届け！",
+  "start": 1635064200000,
+  "end": 1635072300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}

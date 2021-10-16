@@ -1,0 +1,25 @@
+{
+  "id": "idv0ips",
+  "category": "cinema",
+  "title": "海底４７ｍ",
+  "fullTitle": "[映]海底４７ｍ[吹]",
+  "detail": "【シリーズ一挙放送】",
+  "start": 1635070800000,
+  "end": 1635076800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "シリーズ一挙放送",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

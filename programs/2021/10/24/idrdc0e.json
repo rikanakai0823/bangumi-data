@@ -1,0 +1,23 @@
+{
+  "id": "idrdc0e",
+  "category": "cinema",
+  "title": "映画「スター・トレック／ミスター・スポックを探せ！」",
+  "fullTitle": "映画「スター・トレック／ミスター・スポックを探せ！」",
+  "detail": "",
+  "start": 1635073200000,
+  "end": 1635080040000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8mse",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "キャンプ・キキワカ#80[二]",
+  "detail": "#80「チャリティー祭りは問題だらけ」",
+  "start": 1635084000000,
+  "end": 1635085800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "チャリティー祭りは問題だらけ",
+  "episode": 80,
+  "flags": [
+    "二"
+  ]
+}

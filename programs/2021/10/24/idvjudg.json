@@ -1,0 +1,26 @@
+{
+  "id": "idvjudg",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【東京】５Ｒ～８Ｒ，９Ｒ「tvk賞」，10Ｒ「甲斐路ステークス」\r\n【阪神】５Ｒ～７Ｒ，８Ｒ「なでしこ賞」，９Ｒ「北摂特別」",
+  "start": 1635044400000,
+  "end": 1635055200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

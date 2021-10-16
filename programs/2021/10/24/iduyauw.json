@@ -1,0 +1,25 @@
+{
+  "id": "iduyauw",
+  "category": "cinema",
+  "title": "史上最大の作戦",
+  "fullTitle": "[映]史上最大の作戦",
+  "detail": "第二次世界大戦の明暗を分けたノルマンディ上陸作戦。その経緯を、史実を織り交ぜて壮大なスケールの映像と豪華キャストで描く。",
+  "start": 1635006000000,
+  "end": 1635017400000,
+  "seconds": 11400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

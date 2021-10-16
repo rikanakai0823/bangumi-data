@@ -1,0 +1,26 @@
+{
+  "id": "idp433d",
+  "category": "information",
+  "title": "魔改造の夜",
+  "fullTitle": "魔改造の夜[字][再]",
+  "detail": "「子どものおもちゃ」や「日常使用の家電」をえげつないパワーにチューンナップ。エンジニアたちが極限のアイデアとテクニックを競う新しい技術エンタメ番組。８９分ＳＰ版",
+  "start": 1635049800000,
+  "end": 1635055200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

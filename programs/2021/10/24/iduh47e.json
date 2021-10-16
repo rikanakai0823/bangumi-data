@@ -1,0 +1,28 @@
+{
+  "id": "iduh47e",
+  "category": "cinema",
+  "title": "瞽女　ＧＯＺＥ",
+  "fullTitle": "[初][映]瞽女　ＧＯＺＥ[SS][字]",
+  "detail": "各地を旅して三味線と唄を聴かせる盲目の女性旅芸人“瞽女（ごぜ）”。最後の瞽女と呼ばれ、２００５年に世を去った小林ハルの波瀾万丈の人生を綴った伝記ドラマ。",
+  "start": 1635085800000,
+  "end": 1635093000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}
