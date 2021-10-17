@@ -1,0 +1,26 @@
+{
+  "id": "iduct7n",
+  "category": "cinema",
+  "title": "海底４７ｍ（吹替版）",
+  "fullTitle": "[映]海底４７ｍ（吹替版）[字]",
+  "detail": "ケージの中からサメを観察するシャークケージダイビングの最中、水深４７ｍの海底に沈んでしまう姉妹。２人の決死のサバイバルを描く海洋パニック編。後に続編も誕生した。",
+  "start": 1635122700000,
+  "end": 1635128700000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

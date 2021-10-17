@@ -1,0 +1,23 @@
+{
+  "id": "38224jvj8p",
+  "category": "etc",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": "※番組が決まり次第、お知らせいたします。",
+  "start": 1635102000000,
+  "end": 1635105300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8mta",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#21[二]",
+  "detail": "#21「ねらわれたエイプリル」",
+  "start": 1635138000000,
+  "end": 1635139800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ねらわれたエイプリル",
+  "episode": 21,
+  "flags": [
+    "二"
+  ]
+}

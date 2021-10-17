@@ -1,0 +1,25 @@
+{
+  "id": "rkunma5",
+  "category": "hobby",
+  "title": "サラとダックン[字/日英]",
+  "fullTitle": "サラとダックン#18[二][字/日英]",
+  "detail": "寝不足のサラが朝ラジオをつけると、聞き慣れない珍しい音楽が流れてくる。サラはレコーダーでいろいろな音を集め、音楽を作る。",
+  "start": 1635110520000,
+  "end": 1635111000000,
+  "seconds": 480,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "",
+  "episode": 18,
+  "flags": [
+    "二"
+  ]
+}

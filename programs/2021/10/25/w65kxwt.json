@@ -1,0 +1,23 @@
+{
+  "id": "w65kxwt",
+  "category": "hobby",
+  "title": "【無料】インフォメーション",
+  "fullTitle": "【無料】インフォメーション",
+  "detail": "時代劇専門チャンネルの番組のお知らせ",
+  "start": 1635098400000,
+  "end": 1635102000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "時代劇専門ｃｈ",
+    "id": "f0ck",
+    "sid": 292,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 101
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

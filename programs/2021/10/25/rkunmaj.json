@@ -1,0 +1,25 @@
+{
+  "id": "rkunmaj",
+  "category": "hobby",
+  "title": "ペッパピッグ#81,#82[字/日英]",
+  "fullTitle": "ペッパピッグ#81,#82[二][字/日英]",
+  "detail": "#81「くうそうのおともだち」　#82「おえかき」",
+  "start": 1635134400000,
+  "end": 1635135300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "くうそうのおともだち",
+  "episode": 81,
+  "flags": [
+    "二"
+  ]
+}

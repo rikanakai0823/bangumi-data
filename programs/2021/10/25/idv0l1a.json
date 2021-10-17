@@ -1,0 +1,26 @@
+{
+  "id": "idv0l1a",
+  "category": "cinema",
+  "title": "スペル（２０２０）",
+  "fullTitle": "[映][SS]スペル（２０２０）[吹]",
+  "detail": "飛行機事故で負傷した男性が、黒魔術を信仰する老婦人に助けられたことをきっかけに遭遇する恐怖を描くホラー。［Ｒ１５＋相当］",
+  "start": 1635118200000,
+  "end": 1635124200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1tcd",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "#531「まる子、講談を聞きに行く」の巻\r\n#532「夏のかるた」の巻／「ハートのアップリケ」の巻\r\n\r\n静岡県清水市に住む小…",
+  "start": 1635102000000,
+  "end": 1635105600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "まる子、講談を聞きに行く",
+  "episode": 531,
+  "flags": [
+    "字"
+  ]
+}

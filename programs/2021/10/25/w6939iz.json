@@ -1,0 +1,23 @@
+{
+  "id": "w6939iz",
+  "category": "news",
+  "title": "Bizスクエア",
+  "fullTitle": "Bizスクエア",
+  "detail": "経済ニュースのポイントをズバリ！マーケット情報・国際情勢から最先端技術・ヒット商品までコロナ禍で激変する社会経済のその先を読み解きます。",
+  "start": 1635087600000,
+  "end": 1635091200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

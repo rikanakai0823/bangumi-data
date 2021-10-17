@@ -1,0 +1,23 @@
+{
+  "id": "381ocd8029",
+  "category": "sports",
+  "title": "自転車トラック世界選手権２０２１",
+  "fullTitle": "自転車トラック世界選手権２０２１",
+  "detail": "",
+  "start": 1635095760000,
+  "end": 1635101160000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

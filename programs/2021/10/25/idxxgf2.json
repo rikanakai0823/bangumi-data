@@ -1,0 +1,23 @@
+{
+  "id": "idxxgf2",
+  "category": "hobby",
+  "title": "北海道つり部 4 室蘭のロックフィッシュゲーム",
+  "fullTitle": "北海道つり部 4 室蘭のロックフィッシュゲーム",
+  "detail": "北海道地域限定の釣り番組『北海道つり部』四季折々の海や川、湖を舞台に、ご当地の釣りと美味しい北の魚の魅力をお届けしていきます。今回の舞台は室蘭。",
+  "start": 1635102000000,
+  "end": 1635105600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
