@@ -2,7 +2,7 @@
   "id": "38224jvitt",
   "category": "information",
   "title": "ＴＶクリップ",
-  "fullTitle": "ＴＶクリップ",
+  "fullTitle": "ＴＶクリップ[字]",
   "detail": "人気番組の最新情報をギュッと凝縮してお届けします！",
   "start": 1634963160000,
   "end": 1634963400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

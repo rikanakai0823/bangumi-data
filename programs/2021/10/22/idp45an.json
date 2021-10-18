@@ -1,0 +1,23 @@
+{
+  "id": "idp45an",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「１１月号」",
+  "detail": "",
+  "start": 1634868540000,
+  "end": 1634868900000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "１１月号",
+  "episode": null,
+  "flags": []
+}
