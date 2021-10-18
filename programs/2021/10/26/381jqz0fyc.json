@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0fyc",
+  "category": "information",
+  "title": "きょうの料理　とっておき！レシピリレー",
+  "fullTitle": "きょうの料理　とっておき！レシピリレー[字]",
+  "detail": "",
+  "start": 1635249600000,
+  "end": 1635251100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

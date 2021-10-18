@@ -1,0 +1,25 @@
+{
+  "id": "rkunmby",
+  "category": "hobby",
+  "title": "チャギントン#83,#84[字/日英]",
+  "fullTitle": "チャギントン#83,#84[二][字/日英]",
+  "detail": "#83「金色の車輪」　#84「ホッジとチャガーショー」",
+  "start": 1635219000000,
+  "end": 1635220800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "金色の車輪",
+  "episode": 83,
+  "flags": [
+    "二"
+  ]
+}

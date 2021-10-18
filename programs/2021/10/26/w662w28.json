@@ -1,0 +1,25 @@
+{
+  "id": "w662w28",
+  "category": "information",
+  "title": "クリック!日テレプラス",
+  "fullTitle": "[無料]クリック!日テレプラス【11月紹介】",
+  "detail": "日テレプラスの新作・おすすめ・お得な情報をお知らせします!これを見れば日テレプラスからますます目が離せなくなりますよ!では♪番組にクリック!",
+  "start": 1635223800000,
+  "end": 1635224400000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "11月紹介",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

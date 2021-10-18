@@ -1,0 +1,25 @@
+{
+  "id": "rkunmcg",
+  "category": "hobby",
+  "title": "ペッパピッグ#35,#36[字/日英]",
+  "fullTitle": "ペッパピッグ#35,#36[二][字/日英]",
+  "detail": "#35「あたらしいくつ」　#36「がっこうのおまつり」",
+  "start": 1635249600000,
+  "end": 1635250500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "あたらしいくつ",
+  "episode": 35,
+  "flags": [
+    "二"
+  ]
+}

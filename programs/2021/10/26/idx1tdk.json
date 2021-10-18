@@ -1,0 +1,25 @@
+{
+  "id": "idx1tdk",
+  "category": "anime",
+  "title": "進撃の巨人 Season 2",
+  "fullTitle": "[字]進撃の巨人 Season 2 #1",
+  "detail": "#1「獣の巨人」\r\n超大型巨人の出現により、果てしない戦いの日々は続く…。抗する術もなく巨人の餌となった母の最期を…",
+  "start": 1635233400000,
+  "end": 1635235200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "獣の巨人",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

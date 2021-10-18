@@ -1,0 +1,23 @@
+{
+  "id": "idozqxp",
+  "category": "sports",
+  "title": "ワースポ×ＭＬＢ",
+  "fullTitle": "ワースポ×ＭＬＢ",
+  "detail": "▽日本選手の最新情報　【ゲスト】石橋貴明，【解説】黒木知宏，【キャスター】山本萩子",
+  "start": 1635256800000,
+  "end": 1635259500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

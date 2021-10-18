@@ -1,0 +1,25 @@
+{
+  "id": "w66ocid",
+  "category": "drama",
+  "title": "スーパーナチュラル11",
+  "fullTitle": "[二]スーパーナチュラル11(帯)#18",
+  "detail": "#18「地獄の天使」\r\nHell's Angel\r\nルシファーから逃げ出したクラウリーは、神の手のひとつ「ヨシュアの角笛」を手に入れた。",
+  "start": 1635199200000,
+  "end": 1635202800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "地獄の天使",
+  "episode": 18,
+  "flags": [
+    "二"
+  ]
+}

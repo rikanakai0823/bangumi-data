@@ -1,0 +1,23 @@
+{
+  "id": "rktcuuu",
+  "category": "etc",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "",
+  "start": 1635233400000,
+  "end": 1635235200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

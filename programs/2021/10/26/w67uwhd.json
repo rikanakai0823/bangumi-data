@@ -1,0 +1,25 @@
+{
+  "id": "w67uwhd",
+  "category": "anime",
+  "title": "マジカパーティ",
+  "fullTitle": "マジカパーティ[字] #19",
+  "detail": "第19話「ベスト４決定戦！マジカバトルロワイヤル！」\r\n「魔力解放～！」でマジンを召喚！",
+  "start": 1635242400000,
+  "end": 1635244200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ベスト４決定戦！マジカバトルロワイヤル！",
+  "episode": 19,
+  "flags": [
+    "字"
+  ]
+}

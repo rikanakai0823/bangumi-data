@@ -1,0 +1,25 @@
+{
+  "id": "iduyixo",
+  "category": "cinema",
+  "title": "ジャンヌ・ダーク",
+  "fullTitle": "[映]ジャンヌ・ダーク",
+  "detail": "イングリッド・バーグマン主演の壮大な歴史劇。フランスを滅亡の危機から救った悲劇のヒロイン、ジャンヌ・ダークの運命を描く。",
+  "start": 1635199200000,
+  "end": 1635209100000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

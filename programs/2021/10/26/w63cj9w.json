@@ -1,0 +1,25 @@
+{
+  "id": "w63cj9w",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×埼玉西武（札幌ドーム）",
+  "fullTitle": "[生] [プロ野球]北海道日本ハム×埼玉西武（札幌ドーム）",
+  "detail": "（延長時、以降の番組変更あり）\r\nGAORAプロ野球中継\r\n「北海道日本ハム vs 埼玉西武」\r\n\r\n解説:稲田直人\r\n実況:近藤祐司\r\n開催：2021年10月26日／札幌ドーム",
+  "start": 1635237000000,
+  "end": 1635255000000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

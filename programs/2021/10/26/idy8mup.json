@@ -1,0 +1,25 @@
+{
+  "id": "idy8mup",
+  "category": "anime",
+  "title": "ベイマックス　ザ・シリーズ",
+  "fullTitle": "ベイマックス　ザ・シリーズ#33[二]",
+  "detail": "#33「ウソ発見器」",
+  "start": 1635228000000,
+  "end": 1635229800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ウソ発見器",
+  "episode": 33,
+  "flags": [
+    "二"
+  ]
+}

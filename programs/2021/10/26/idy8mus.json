@@ -1,0 +1,25 @@
+{
+  "id": "idy8mus",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#51[二]",
+  "detail": "#51「ミニーマウス！　靴下どろぼう」",
+  "start": 1635233100000,
+  "end": 1635233400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ミニーマウス！　靴下どろぼう",
+  "episode": 51,
+  "flags": [
+    "二"
+  ]
+}

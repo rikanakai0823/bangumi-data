@@ -1,0 +1,25 @@
+{
+  "id": "idy8mtw",
+  "category": "drama",
+  "title": "スイート・ライフ　オン・クルーズ",
+  "fullTitle": "スイート・ライフ　オン・クルーズ#66[二]",
+  "detail": "#66「ロンドン・キャロル」",
+  "start": 1635179400000,
+  "end": 1635181200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ロンドン・キャロル",
+  "episode": 66,
+  "flags": [
+    "二"
+  ]
+}
