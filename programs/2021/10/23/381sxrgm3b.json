@@ -3,13 +3,15 @@
   "category": "information",
   "title": "「学校へ行こう！２０２１」ナビ",
   "fullTitle": "「学校へ行こう！２０２１」ナビ[字]",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/gakkou2021/",
+  "detail": "１０月２６日（火）よる７時から３時間生放送される「学校へ行こう！２０２１」に先駆けて、昨年放送された「Ｖ６の愛なんだ２０２０」をお届け\n◇出演者\nＶ６\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/gakkou2021/\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1634965200000,
   "end": 1634968440000,
   "seconds": 3240,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "１０月２６日（火）よる７時から３時間生放送される「学校へ行こう！２０２１」に先駆けて、昨年放送された「Ｖ６の愛なんだ２０２０」をお届け",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/gakkou2021/"
+    "出演者": "Ｖ６",
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/gakkou2021/",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
   },
   "channel": {
     "type": "GR",

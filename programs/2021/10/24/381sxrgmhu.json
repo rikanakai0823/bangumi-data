@@ -1,0 +1,25 @@
+{
+  "id": "381sxrgmhu",
+  "category": "welfare",
+  "title": "サウンドインＳ",
+  "fullTitle": "サウンドインＳ[字]",
+  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "start": 1635058800000,
+  "end": 1635062400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
