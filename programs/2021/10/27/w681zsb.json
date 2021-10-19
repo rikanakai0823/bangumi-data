@@ -1,0 +1,25 @@
+{
+  "id": "w681zsb",
+  "category": "anime",
+  "title": "異世界食堂２",
+  "fullTitle": "異世界食堂２ #04 [字]",
+  "detail": "#04 「お子様ランチ」「クリームコロッケ」",
+  "start": 1635298200000,
+  "end": 1635300000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "お子様ランチ",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idv0rys",
+  "category": "cinema",
+  "title": "ザ・フライ",
+  "fullTitle": "[映][SS]ザ・フライ[吹]",
+  "detail": "名作『蝿男の恐怖』を、Ｄ・クローネンバーグ監督がリメイク。実験中の事故で蝿と融合してしまった男の運命は…！",
+  "start": 1635319200000,
+  "end": 1635325200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

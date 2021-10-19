@@ -1,0 +1,26 @@
+{
+  "id": "iduwi0k",
+  "category": "cinema",
+  "title": "【最新作】フリー・ガイ",
+  "fullTitle": "【最新作】[映][SS]フリー・ガイ【ＴＶ最速放送】",
+  "detail": "ライアン・レイノルズ主演のアドベンチャーアクション。自分がゲームのキャラクターであることに気づいた主人公が世界を救う。",
+  "start": 1635336000000,
+  "end": 1635343200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "ＴＶ最速放送",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

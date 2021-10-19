@@ -1,0 +1,23 @@
+{
+  "id": "w66jhw7",
+  "category": "information",
+  "title": "番組PR",
+  "fullTitle": "番組PR【10月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1635279600000,
+  "end": 1635280200000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "10月",
+  "episode": null,
+  "flags": []
+}

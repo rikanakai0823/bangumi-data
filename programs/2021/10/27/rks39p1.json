@@ -1,0 +1,23 @@
+{
+  "id": "rks39p1",
+  "category": "documentary",
+  "title": "海底楽園",
+  "fullTitle": "海底楽園",
+  "detail": "海底に広がる美しい世界、神秘的な生物の映像をお楽しみ下さい。",
+  "start": 1635285300000,
+  "end": 1635285600000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

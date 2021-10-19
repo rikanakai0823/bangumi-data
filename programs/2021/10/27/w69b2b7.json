@@ -1,0 +1,23 @@
+{
+  "id": "w69b2b7",
+  "category": "news",
+  "title": "ＪＣＴＶ定期メンテナンス停波",
+  "fullTitle": "ＪＣＴＶ定期メンテナンス停波",
+  "detail": "放送機器メンテナンスのため放送を休止させて頂きます。",
+  "start": 1635267600000,
+  "end": 1635271200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
