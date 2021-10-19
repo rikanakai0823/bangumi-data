@@ -1,0 +1,23 @@
+{
+  "id": "idwrbfj",
+  "category": "hobby",
+  "title": "オープニング・エンディング番組",
+  "fullTitle": "オープニング・エンディング番組　第00回「試験信号送出（EPGなし）」",
+  "detail": "\r\n\r\n\r\n",
+  "start": 1634662200000,
+  "end": 1634674500000,
+  "seconds": 12300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "試験信号送出（EPGなし）",
+  "episode": 0,
+  "flags": []
+}
