@@ -1,0 +1,23 @@
+{
+  "id": "idozw1q",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「１１月号」",
+  "detail": "",
+  "start": 1634823900000,
+  "end": 1634824200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "１１月号",
+  "episode": null,
+  "flags": []
+}
