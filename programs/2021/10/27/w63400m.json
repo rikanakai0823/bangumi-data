@@ -1,0 +1,23 @@
+{
+  "id": "w63400m",
+  "category": "etc",
+  "title": "試験イベント①",
+  "fullTitle": "試験イベント①",
+  "detail": "",
+  "start": 1635265800000,
+  "end": 1635270000000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
