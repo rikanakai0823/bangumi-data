@@ -1,0 +1,23 @@
+{
+  "id": "idwr4us",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「情報学　公共図書館の課題解決支援サービス」",
+  "start": 1635425100000,
+  "end": 1635427800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "情報学　公共図書館の課題解決支援サービス",
+  "episode": null,
+  "flags": []
+}

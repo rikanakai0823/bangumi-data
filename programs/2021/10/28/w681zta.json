@@ -1,0 +1,25 @@
+{
+  "id": "w681zta",
+  "category": "anime",
+  "title": "見える子ちゃん",
+  "fullTitle": "見える子ちゃん #04 [字]",
+  "detail": "#04 やっぱり見える",
+  "start": 1635366600000,
+  "end": 1635368400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "やっぱり見える",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

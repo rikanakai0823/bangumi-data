@@ -1,0 +1,25 @@
+{
+  "id": "rktf2u9",
+  "category": "music",
+  "title": "M COUNTDOWN",
+  "fullTitle": "[生]M COUNTDOWN",
+  "detail": "最新K-POPを視聴できるNO.1音楽番組「M COUNTDOWN」韓国同時生放送でお届け！\r\n字幕なし：（土)深2:00\r\n字幕版：（日)21:00、（火)11:00、(水)深1:00",
+  "start": 1635411600000,
+  "end": 1635418800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "M COUNTDOWN",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

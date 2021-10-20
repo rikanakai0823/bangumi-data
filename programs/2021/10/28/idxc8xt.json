@@ -1,0 +1,26 @@
+{
+  "id": "idxc8xt",
+  "category": "sports",
+  "title": "ストリートファイター: プレイバック 第5節",
+  "fullTitle": "[無][生]ストリートファイター: プレイバック 第5節",
+  "detail": "ＳＦリーグの試合結果を速報でお届け！さらに、ここでしか見られないチームや選手にフィーチャーした企画も満載！",
+  "start": 1635427800000,
+  "end": 1635429600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67uwjp",
+  "category": "anime",
+  "title": "ルパン三世 PART4 ,4",
+  "fullTitle": "ルパン三世 PART4[字] #3,4",
+  "detail": "＃３「生存率０，２％」＃４「我が手に拳銃を」",
+  "start": 1635422400000,
+  "end": 1635426000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "生存率０，２％",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

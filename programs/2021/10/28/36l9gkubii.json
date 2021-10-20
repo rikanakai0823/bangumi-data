@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkubii",
+  "category": "documentary",
+  "title": "政見放送",
+  "fullTitle": "政見放送",
+  "detail": "自由民主党\r\n立憲民主党\r\n日本維新の会",
+  "start": 1635422400000,
+  "end": 1635424200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

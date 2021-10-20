@@ -1,0 +1,25 @@
+{
+  "id": "w65vj2w",
+  "category": "sports",
+  "title": "プロ野球 みやざきフェニックス・リーグ 中日vs.横浜DeNA",
+  "fullTitle": "[生]プロ野球 第18回みやざきフェニックス・リーグ 中日vs.横浜DeNA",
+  "detail": "若手育成を主な目的として行われる秋季教育リーグ！ひなたサンマリンスタジアム宮崎で開催の一戦を生中継！※雨天中止の場合、別番組をお送りします",
+  "start": 1635391500000,
+  "end": 1635408000000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 106
+  },
+  "subTitle": "",
+  "episode": 18,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w681zte",
+  "category": "anime",
+  "title": "テレビアニメ無限列車編",
+  "fullTitle": "テレビアニメ「鬼滅の刃」無限列車編 #02 [字]",
+  "detail": "#02 深い眠り",
+  "start": 1635375600000,
+  "end": 1635377400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "深い眠り",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

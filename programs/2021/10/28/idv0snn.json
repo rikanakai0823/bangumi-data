@@ -1,0 +1,25 @@
+{
+  "id": "idv0snn",
+  "category": "cinema",
+  "title": "ＳＯＭＥＷＨＥＲＥ",
+  "fullTitle": "[映]ＳＯＭＥＷＨＥＲＥ[吹]",
+  "detail": "ソフィア・コッポラ監督が、映画スターの父親と、離れて暮らす思春期の娘との触れ合いをハートウォーミングに描いたドラマ。",
+  "start": 1635351300000,
+  "end": 1635357600000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8mwd",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "ビッグシティ・グリーン[二]",
+  "detail": "ビルは体操選手",
+  "start": 1635354900000,
+  "end": 1635355800000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

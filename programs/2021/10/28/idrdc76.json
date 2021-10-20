@@ -1,0 +1,23 @@
+{
+  "id": "idrdc76",
+  "category": "news",
+  "title": "日テレＮＥＷＳ２４",
+  "fullTitle": "日テレＮＥＷＳ２４",
+  "detail": "ニュースをまとめてお伝えします▽気になる気象情報も。",
+  "start": 1635359400000,
+  "end": 1635360900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
