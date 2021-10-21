@@ -1,9 +1,9 @@
 {
   "id": "idvjua7",
   "category": "sports",
-  "title": "寛仁親王牌・世界選手権記念トーナメントGⅠ　LIVE",
-  "fullTitle": "第30回寛仁親王牌・世界選手権記念トーナメントGⅠ　LIVE",
-  "detail": "本気の競輪TV premium▼",
+  "title": "寛仁親王牌・世界選手権記念トーナメントＧⅠ LIVE",
+  "fullTitle": "[生]第30回寛仁親王牌・世界選手権記念トーナメントＧⅠ LIVE",
+  "detail": "▼本気の競輪TV premium\r\n寛仁親王牌・世界選手権記念トーナメント（ＧⅠ）開催初日の模様を、弥彦競輪場から生中継！",
   "start": 1634799600000,
   "end": 1634802900000,
   "seconds": 3300,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 30,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }
