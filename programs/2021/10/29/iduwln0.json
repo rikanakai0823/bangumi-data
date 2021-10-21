@@ -1,0 +1,26 @@
+{
+  "id": "iduwln0",
+  "category": "cinema",
+  "title": "ランボー　最後の戦場",
+  "fullTitle": "[映][SS]ランボー　最後の戦場",
+  "detail": "Ｓ・スタローン監督・主演の戦争アクションシリーズ第４作。ランボーが最後の戦いに挑む姿をハードに描く！［Ｒ－１５］",
+  "start": 1635444000000,
+  "end": 1635451200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

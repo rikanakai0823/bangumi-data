@@ -1,0 +1,25 @@
+{
+  "id": "iduythw",
+  "category": "cinema",
+  "title": "ラストエンペラー",
+  "fullTitle": "[映]ラストエンペラー",
+  "detail": "清国最後の皇帝の人生をベルナルド・ベルトルッチ監督が映画化した傑作。アカデミー作品賞ほか全９部門に輝く。［ＰＧ１２］",
+  "start": 1635508800000,
+  "end": 1635519600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iducta1",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４６３",
+  "detail": "",
+  "start": 1635463200000,
+  "end": 1635463800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 463,
+  "flags": [
+    "無"
+  ]
+}

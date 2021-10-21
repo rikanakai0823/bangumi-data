@@ -1,0 +1,23 @@
+{
+  "id": "idp42gg",
+  "category": "documentary",
+  "title": "ごろごろパンダ日記",
+  "fullTitle": "ごろごろパンダ日記",
+  "detail": "神戸市立王子動物園にいるジャイアントパンダのタンタンが餌を食べたり、散歩したり、お昼寝する様子をたっぷりお楽しみください",
+  "start": 1635437460000,
+  "end": 1635441300000,
+  "seconds": 3840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

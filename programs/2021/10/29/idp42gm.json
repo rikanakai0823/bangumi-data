@@ -1,0 +1,23 @@
+{
+  "id": "idp42gm",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「埼玉　史跡散歩」",
+  "detail": "",
+  "start": 1635442200000,
+  "end": 1635444000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "埼玉　史跡散歩",
+  "episode": null,
+  "flags": []
+}

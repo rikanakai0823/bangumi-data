@@ -1,0 +1,25 @@
+{
+  "id": "idskh03",
+  "category": "information",
+  "title": "おんな酒場放浪記▼立会川寺澤ひろみ",
+  "fullTitle": "[字]おんな酒場放浪記▼立会川「鳥勝」寺澤ひろみ",
+  "detail": "開店前から行列ができるもつ焼きの名店。毎日芝浦から仕入れる新鮮な豚肉や牛肉を堪能できる。タレがよく絡む串焼きや、寒い時期にぴったりな「煮込み豆腐」は人気の一品。",
+  "start": 1635516000000,
+  "end": 1635519600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "鳥勝",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

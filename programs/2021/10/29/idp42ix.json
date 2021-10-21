@@ -1,0 +1,26 @@
+{
+  "id": "idp42ix",
+  "category": "variety",
+  "title": "鉄オタ選手権",
+  "fullTitle": "鉄オタ選手権[字][デ]",
+  "detail": "",
+  "start": 1635512400000,
+  "end": 1635516000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

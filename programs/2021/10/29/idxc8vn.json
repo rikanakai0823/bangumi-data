@@ -1,0 +1,23 @@
+{
+  "id": "idxc8vn",
+  "category": "sports",
+  "title": "NOAH 2021.9.18-20無観客試合",
+  "fullTitle": "NOAH 2021.9.18-20無観客試合",
+  "detail": "",
+  "start": 1635517800000,
+  "end": 1635525000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

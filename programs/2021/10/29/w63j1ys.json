@@ -1,0 +1,25 @@
+{
+  "id": "w63j1ys",
+  "category": "variety",
+  "title": "Gベスト!",
+  "fullTitle": "[無料]Gベスト!",
+  "detail": "日テレジータスの旬な番組や情報をベストな時期、ベストな形でお届けする「Gベスト!」巨人戦、ゴルフ中継、MotoGP、NFL…など、ホットな番組をピックアップ!",
+  "start": 1635444000000,
+  "end": 1635444900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "Gベスト!",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

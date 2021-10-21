@@ -1,0 +1,26 @@
+{
+  "id": "idv0y7u",
+  "category": "cinema",
+  "title": "ゴースト／ニューヨークの幻",
+  "fullTitle": "[映][字]ゴースト／ニューヨークの幻[吹]",
+  "detail": "９０年代に大ブームとなったファンタジックなラブロマンス。不慮の死を遂げた男が幽霊となって愛する女性を守り抜く姿を描く。",
+  "start": 1635489000000,
+  "end": 1635497100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rktcuy3",
+  "category": "drama",
+  "title": "家族を守れ",
+  "fullTitle": "家族を守れ　#80　[字]",
+  "detail": "2015年 全123話",
+  "start": 1635451200000,
+  "end": 1635454800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 80,
+  "flags": [
+    "字"
+  ]
+}

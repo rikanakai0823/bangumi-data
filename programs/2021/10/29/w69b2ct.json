@@ -1,0 +1,23 @@
+{
+  "id": "w69b2ct",
+  "category": "news",
+  "title": "グローバル・ブリーフ",
+  "fullTitle": "グローバル・ブリーフ",
+  "detail": "CNNキャスター、ビアンカ・ノビロがロンドンから世界のトップニュースをお届けする。",
+  "start": 1635454800000,
+  "end": 1635456600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

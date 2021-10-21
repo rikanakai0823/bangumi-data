@@ -1,0 +1,25 @@
+{
+  "id": "idx1tfs",
+  "category": "anime",
+  "title": "テニスの王子様 ,76",
+  "fullTitle": "[字]テニスの王子様 #75,76",
+  "detail": "#75「さらば、手塚国光」\r\n#76「青学対城成湘南」\r\nアメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。…",
+  "start": 1635516000000,
+  "end": 1635519600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "さらば、手塚国光",
+  "episode": 75,
+  "flags": [
+    "字"
+  ]
+}
