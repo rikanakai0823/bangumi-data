@@ -4,9 +4,9 @@
   "title": "Daily　Planet",
   "fullTitle": "Daily　Planet",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Daily Planet」",
-  "start": 1635163200000,
+  "start": 1635165000000,
   "end": 1635174000000,
-  "seconds": 10800,
+  "seconds": 9000,
   "channel": {
     "type": "CS",
     "channel": "CS8",
