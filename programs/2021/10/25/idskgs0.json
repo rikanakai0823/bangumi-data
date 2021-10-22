@@ -1,9 +1,9 @@
 {
   "id": "idskgs0",
-  "category": "etc",
+  "category": "documentary",
   "title": "和の學校～日本人と自然～",
   "fullTitle": "和の學校～日本人と自然～",
-  "detail": "",
+  "detail": "＃１０「京都はなぜ素敵なのか？」美しき古の都、京都。今回は古都だけではない３つの美しい京都を訪れ、その土地の自然や歴史から生み出されたアート作品をご紹介します。",
   "start": 1635162840000,
   "end": 1635163200000,
   "seconds": 360,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "京都はなぜ素敵なのか？",
+  "episode": 10,
   "flags": []
 }
