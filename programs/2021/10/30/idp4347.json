@@ -1,0 +1,25 @@
+{
+  "id": "idp4347",
+  "category": "documentary",
+  "title": "さわやか自然百景",
+  "fullTitle": "さわやか自然百景「愛媛　宇和海　夏」[字]",
+  "detail": "愛媛県南西部の宇和海。１００種を超えるサンゴが群生するとともに、海草や藻が生い茂る場所もある。そこは生きものたちの楽園。魚や甲殻類など多種多様な命でにぎわう。",
+  "start": 1635543000000,
+  "end": 1635543900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "愛媛　宇和海　夏",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

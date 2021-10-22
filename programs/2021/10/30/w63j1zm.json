@@ -1,0 +1,25 @@
+{
+  "id": "w63j1zm",
+  "category": "sports",
+  "title": "NFL倶楽部",
+  "fullTitle": "NFL倶楽部(5)[再]",
+  "detail": "オードリー(若林正恭　春日俊彰)\r\n小高茉緒　ラルフ鈴木",
+  "start": 1635582600000,
+  "end": 1635584400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

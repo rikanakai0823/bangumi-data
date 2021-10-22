@@ -1,0 +1,25 @@
+{
+  "id": "iduyvt4",
+  "category": "cinema",
+  "title": "荒野の決闘",
+  "fullTitle": "[映]荒野の決闘【ＴＨＥ映画遺産】",
+  "detail": "ジョン・フォード監督×ヘンリー・フォンダ。ワイアット・アープとクラントン一家との『ＯＫ牧場』での決闘がモチーフの西部劇。",
+  "start": 1635555600000,
+  "end": 1635562800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "ＴＨＥ映画遺産",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

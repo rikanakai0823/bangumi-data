@@ -1,0 +1,25 @@
+{
+  "id": "idozsv6",
+  "category": "sports",
+  "title": "スポヂカラ！",
+  "fullTitle": "スポヂカラ！[字]",
+  "detail": "",
+  "start": 1635577200000,
+  "end": 1635580200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

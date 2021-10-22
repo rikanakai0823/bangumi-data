@@ -1,0 +1,25 @@
+{
+  "id": "w66oclc",
+  "category": "drama",
+  "title": "[5.1]NCIS: ニューオーリンズ5",
+  "fullTitle": "[字][5.1]NCIS: ニューオーリンズ5(帯)#9",
+  "detail": "#9「二重生活」\r\nRisk Assessment\r\n海軍に出入りする保険会社の男ジェイコブ・ベルが絞殺死体で見つかる。",
+  "start": 1635537600000,
+  "end": 1635541200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "二重生活",
+  "episode": 9,
+  "flags": [
+    "字"
+  ]
+}

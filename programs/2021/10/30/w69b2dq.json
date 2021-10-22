@@ -1,0 +1,25 @@
+{
+  "id": "w69b2dq",
+  "category": "news",
+  "title": "ドン・レモン・トゥナイト",
+  "fullTitle": "[二]ドン・レモン・トゥナイト",
+  "detail": "日本語同時通訳付。\r\nCNNの人気アンカー、ドン・レモンがホストを務めるニュースワイド。\r\nスタジオに旬のゲストを招き、アメリカと世界の“今”をわかりやすく伝える。",
+  "start": 1635562800000,
+  "end": 1635566400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

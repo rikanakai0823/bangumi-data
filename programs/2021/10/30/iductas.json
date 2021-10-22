@@ -1,0 +1,27 @@
+{
+  "id": "iductas",
+  "category": "cinema",
+  "title": "レッド・ライト（吹替版）",
+  "fullTitle": "[映]レッド・ライト（吹替版）[SS][字]",
+  "detail": "超常現象のウソを暴いてきた科学者と、伝説の超能力者との息詰まる駆け引きを描くサスペンス。Ｒ・デ・ニーロ、Ｃ・マーフィ、Ｓ・ウィーヴァーら豪華キャストが共演。",
+  "start": 1635558600000,
+  "end": 1635565800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

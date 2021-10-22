@@ -1,0 +1,25 @@
+{
+  "id": "idy8myz",
+  "category": "cinema",
+  "title": "インビジブル・シスター",
+  "fullTitle": "インビジブル・シスター[二]",
+  "detail": "科学の実験に失敗して姉を透明人間にしてしまった妹。ピンチを乗り切るべく姉妹が大奮闘を繰り広げる。ディズニー・チャンネル　スターズ共演によるハートフル・コメディ。",
+  "start": 1635521400000,
+  "end": 1635526800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

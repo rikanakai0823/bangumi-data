@@ -1,0 +1,25 @@
+{
+  "id": "idskh1k",
+  "category": "documentary",
+  "title": "関口宏のもう一度！近現代史",
+  "fullTitle": "[字]関口宏のもう一度！近現代史",
+  "detail": "",
+  "start": 1635562800000,
+  "end": 1635566040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

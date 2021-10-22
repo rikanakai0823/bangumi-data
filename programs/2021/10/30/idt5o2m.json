@@ -1,0 +1,23 @@
+{
+  "id": "idt5o2m",
+  "category": "sports",
+  "title": "ウイニング競馬　～東京～",
+  "fullTitle": "ウイニング競馬　～東京～",
+  "detail": "【東京】10Ｒ紅葉Ｓ、11ＲアルテミスＳ（ＧⅢ）\r\n【阪神】10Ｒ西脇Ｓ、11ＲスワンＳ（ＧⅡ）\r\n【新潟】11Ｒ魚沼Ｓ",
+  "start": 1635571800000,
+  "end": 1635577200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "東京",
+  "episode": null,
+  "flags": []
+}

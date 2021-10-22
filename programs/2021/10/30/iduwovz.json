@@ -1,0 +1,26 @@
+{
+  "id": "iduwovz",
+  "category": "cinema",
+  "title": "オデッセイ（２０１５）",
+  "fullTitle": "[映][SS]オデッセイ（２０１５）",
+  "detail": "マット・デイモン主演、リドリー・スコット監督でベストセラー小説を映画化。火星に取り残された宇宙飛行士のサバイバルを描く。",
+  "start": 1635534900000,
+  "end": 1635543900000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

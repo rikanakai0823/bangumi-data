@@ -1,0 +1,23 @@
+{
+  "id": "w681zvr",
+  "category": "anime",
+  "title": "Club AT-X",
+  "fullTitle": "Club AT-X #461",
+  "detail": "「Club AT-X ナローなワイドショー」\r\n2021年10月より情報番組「Club AT-X」がリニューアル！初回は1時間の生放送でお届けいたします。",
+  "start": 1635598800000,
+  "end": 1635602400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "Club AT-X ナローなワイドショー",
+  "episode": 461,
+  "flags": []
+}

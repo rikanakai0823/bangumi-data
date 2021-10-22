@@ -1,0 +1,25 @@
+{
+  "id": "iduywt8",
+  "category": "cinema",
+  "title": "愛の嵐",
+  "fullTitle": "[映]愛の嵐",
+  "detail": "シャーロット・ランプリング主演の文芸ドラマ。強制収容所で出会ったナチス親衛隊員とユダヤ人女性が再会し、禁断の愛に落ちる。",
+  "start": 1635602400000,
+  "end": 1635610200000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

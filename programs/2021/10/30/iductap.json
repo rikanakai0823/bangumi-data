@@ -1,0 +1,27 @@
+{
+  "id": "iductap",
+  "category": "cinema",
+  "title": "クローズＺＥＲＯ　Ⅱ[PG-12指定]",
+  "fullTitle": "[映]クローズＺＥＲＯ　Ⅱ[PG-12指定][SS][字]",
+  "detail": "鈴蘭高校の不良高校生たちは新たに、他校の恐るべき不良高校生軍団と壮絶バトルへ。小栗旬、山田孝之らイケメン俳優陣が三池崇史監督のもとに集った青春アクションの続編。",
+  "start": 1635539400000,
+  "end": 1635547500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

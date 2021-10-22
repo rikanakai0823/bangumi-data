@@ -1,0 +1,25 @@
+{
+  "id": "idp435k",
+  "category": "etc",
+  "title": "井上陽水ＬＩＶＥ２０１１“ＰＯＷＤＥＲ”",
+  "fullTitle": "井上陽水ＬＩＶＥ２０１１“ＰＯＷＤＥＲ”[再]",
+  "detail": "",
+  "start": 1635602400000,
+  "end": 1635607800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idozsvj",
+  "category": "sports",
+  "title": "Ｊリーグタイム",
+  "fullTitle": "Ｊリーグタイム「第３０週」",
+  "detail": "【解説】福西崇史，【コメンテーター】平畠啓史，【アナウンサー】曽根優，【司会】中川絵美里",
+  "start": 1635595200000,
+  "end": 1635597600000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "第３０週",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1tgd",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "#522「楽しい歯みがき」の巻／「ファッションモデルになろう！」の巻\r\n静岡県清水市に住む小学3年生のももこは、みんな…",
+  "start": 1635593400000,
+  "end": 1635595200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "楽しい歯みがき",
+  "episode": 522,
+  "flags": [
+    "字"
+  ]
+}

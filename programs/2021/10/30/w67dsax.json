@@ -1,0 +1,23 @@
+{
+  "id": "w67dsax",
+  "category": "music",
+  "title": "スペシャのプレイリスト/MUSICIAN'S SELECT ～selected KALMA～",
+  "fullTitle": "スペシャのプレイリスト/MUSICIAN'S SELECT ～selected KALMA～",
+  "detail": "スペースシャワーがおススメするプレイリストをオンエア！あんな時こんな時に聴きたい楽曲をテーマに合わせてお届け！",
+  "start": 1635523200000,
+  "end": 1635526800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 123
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

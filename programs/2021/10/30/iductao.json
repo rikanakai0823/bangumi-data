@@ -1,0 +1,27 @@
+{
+  "id": "iductao",
+  "category": "cinema",
+  "title": "クローズＺＥＲＯ[PG-12指定]",
+  "fullTitle": "[映]クローズＺＥＲＯ[PG-12指定][SS][字]",
+  "detail": "不良高校生たちの戦いを描いた髙橋ヒロシのコミック「クローズ」を完全オリジナル・ストーリーで初映画化。小栗旬、山田孝之ら若手俳優陣が豪華競演して大ヒット！",
+  "start": 1635531300000,
+  "end": 1635539400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "クローズ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

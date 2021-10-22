@@ -1,0 +1,25 @@
+{
+  "id": "idtr9mn",
+  "category": "drama",
+  "title": "花の鎖",
+  "fullTitle": "[字]花の鎖",
+  "detail": "同じ街に暮らしながら決して交わるはずのない3人の女。しかし彼女たちの人生が1人の男「K」で繋がり…。",
+  "start": 1635566400000,
+  "end": 1635574500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "K",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

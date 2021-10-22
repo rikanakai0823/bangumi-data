@@ -1,0 +1,25 @@
+{
+  "id": "w63j1zk",
+  "category": "sports",
+  "title": "全国高校サッカー選手権　高校サッカー伝説の名試合",
+  "fullTitle": "第99回全国高校サッカー選手権　高校サッカー伝説の名試合(3)[再]",
+  "detail": "「盟友対決」第８３回大会２回戦\r\n星稜×滝川第二",
+  "start": 1635573600000,
+  "end": 1635580800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "盟友対決",
+  "episode": 99,
+  "flags": [
+    "再"
+  ]
+}
