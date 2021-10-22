@@ -2,11 +2,15 @@
   "id": "381jqz0h89",
   "category": "hobby",
   "title": "ミミクリーズ",
-  "fullTitle": "ミミクリーズ[解][字]",
-  "detail": "",
+  "fullTitle": "ミミクリーズ「ハスのはのヒミツ」[解][字]",
+  "detail": "【語り】諏訪部順一\n◇出演者\n【語り】諏訪部順一",
   "start": 1635469200000,
   "end": 1635469800000,
   "seconds": 600,
+  "description": "【語り】諏訪部順一",
+  "extra": {
+    "出演者": "【語り】諏訪部順一"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "ハスのはのヒミツ",
   "episode": null,
   "flags": [
     "解",
