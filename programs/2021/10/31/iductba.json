@@ -1,0 +1,27 @@
+{
+  "id": "iductba",
+  "category": "cinema",
+  "title": "デビル（２０１０）（吹替版）",
+  "fullTitle": "[映]デビル（２０１０）（吹替版）[SS][字]",
+  "detail": "エレベーターに閉じ込められた男女を待ち受ける惨劇。それは悪魔の罠なのか……。Ｍ・ナイト・シャマラン監督が放つ《ザ・ナイト・クロニクル》プロジェクト第１弾。",
+  "start": 1635670200000,
+  "end": 1635675300000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

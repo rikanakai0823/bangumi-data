@@ -1,0 +1,26 @@
+{
+  "id": "idtr9oc",
+  "category": "cinema",
+  "title": "＜ＢＳフジサンデースペシャル＞映画",
+  "fullTitle": "[映][字]＜ＢＳフジサンデースペシャル＞映画「清須会議」",
+  "detail": "三谷幸喜が原作と脚本と監督を務め、総勢26名の豪華なキャスト陣が描く歴史エンターテインメント映画。",
+  "start": 1635674400000,
+  "end": 1635684300000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "清須会議",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

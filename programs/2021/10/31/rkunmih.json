@@ -1,0 +1,25 @@
+{
+  "id": "rkunmih",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#17,#18[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#17,#18[二][字/日英]",
+  "detail": "#17「タヨの宇宙大冒険　1」　#18「タヨの宇宙大冒険　2」",
+  "start": 1635640200000,
+  "end": 1635642000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "タヨの宇宙大冒険　1",
+  "episode": 17,
+  "flags": [
+    "二"
+  ]
+}

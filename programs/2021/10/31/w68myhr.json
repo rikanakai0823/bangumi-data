@@ -1,0 +1,25 @@
+{
+  "id": "w68myhr",
+  "category": "documentary",
+  "title": "アドベンチャーレース！１００万ドル争奪戦",
+  "fullTitle": "アドベンチャーレース！１００万ドル争奪戦「順位確定」[字]",
+  "detail": "賞金１００万ドルを懸けた過酷なレースの１１～１３日目。南米チームは想定外の事態でレース中断に追い込まれる。他３チームは第１ステージのゴールに到着。",
+  "start": 1635638400000,
+  "end": 1635642000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ナショジオ",
+    "id": "f0dz",
+    "sid": 343,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 135
+  },
+  "subTitle": "順位確定",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

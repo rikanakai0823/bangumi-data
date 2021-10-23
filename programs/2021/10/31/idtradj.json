@@ -1,0 +1,25 @@
+{
+  "id": "idtradj",
+  "category": "documentary",
+  "title": "ニッポン美景めぐり",
+  "fullTitle": "[字]ニッポン美景めぐり「平戸」",
+  "detail": "ニッポンの美しい風景をめぐる旅。今回は長崎県平戸市をめぐります。\r\n\r\n",
+  "start": 1635611400000,
+  "end": 1635612900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "平戸",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

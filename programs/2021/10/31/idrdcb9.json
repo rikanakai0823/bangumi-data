@@ -1,0 +1,23 @@
+{
+  "id": "idrdcb9",
+  "category": "anime",
+  "title": "アニメ　シキザクラ",
+  "fullTitle": "アニメ　シキザクラ",
+  "detail": "#3　飛翔/JUMP",
+  "start": 1635607980000,
+  "end": 1635609600000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "飛翔/JUMP",
+  "episode": 3,
+  "flags": []
+}

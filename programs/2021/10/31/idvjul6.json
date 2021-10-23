@@ -1,0 +1,26 @@
+{
+  "id": "idvjul6",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【東京】５Ｒ～７Ｒ，８Ｒ「本栖湖特別」，９Ｒ「国立特別」\r\n【阪神】５Ｒ～８Ｒ，９Ｒ「古都ステークス」，10Ｒ「オータムリーフステークス」",
+  "start": 1635649200000,
+  "end": 1635660000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

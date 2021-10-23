@@ -1,0 +1,23 @@
+{
+  "id": "381jqz4ssy",
+  "category": "sports",
+  "title": "東京六大学野球２０２１「慶応」対",
+  "fullTitle": "東京六大学野球２０２１「慶応」対「早稲田」",
+  "detail": "～神宮球場から中継～",
+  "start": 1635652800000,
+  "end": 1635656400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "早稲田",
+  "episode": null,
+  "flags": []
+}

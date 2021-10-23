@@ -1,0 +1,23 @@
+{
+  "id": "w62i5fi",
+  "category": "hobby",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "",
+  "start": 1635662700000,
+  "end": 1635663600000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ムービープラス",
+    "id": "f0b4",
+    "sid": 240,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 95
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

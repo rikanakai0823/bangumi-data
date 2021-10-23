@@ -1,0 +1,25 @@
+{
+  "id": "idvjukn",
+  "category": "anime",
+  "title": "ポプテピピック（リミックス版）",
+  "fullTitle": "ポプテピピック[再]（リミックス版）＃４「SWGP2018」",
+  "detail": "",
+  "start": 1635611400000,
+  "end": 1635613200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "SWGP2018",
+  "episode": 4,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduyzd7",
+  "category": "cinema",
+  "title": "夜の訪問者",
+  "fullTitle": "[映]夜の訪問者",
+  "detail": "チャールズ・ブロンソン主演のサスペンススリラー。港町で平和に暮らしている男が突如現れた昔の仲間と対立する運命が描かれる。",
+  "start": 1635660900000,
+  "end": 1635667200000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

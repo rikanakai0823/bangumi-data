@@ -1,0 +1,26 @@
+{
+  "id": "idv12dq",
+  "category": "cinema",
+  "title": "タキシード（２００２）",
+  "fullTitle": "[映][SS]タキシード（２００２）[吹]",
+  "detail": "ジャッキー・チェン主演のアクションコメディ。不思議なパワーを持つタキシードを身に着けた男が、大企業の陰謀に立ち向かう。",
+  "start": 1635622200000,
+  "end": 1635628200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

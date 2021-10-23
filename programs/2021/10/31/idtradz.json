@@ -1,0 +1,23 @@
+{
+  "id": "idtradz",
+  "category": "documentary",
+  "title": "ワールドツアー　ギリシャ編",
+  "fullTitle": "ワールドツアー　ギリシャ編",
+  "detail": "今回はギリシャ編をお届け！",
+  "start": 1635620400000,
+  "end": 1635623700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

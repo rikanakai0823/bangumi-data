@@ -1,0 +1,26 @@
+{
+  "id": "idoztgv",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「写真家　ユージン・スミスの戦争」[字][再]",
+  "detail": "写真家ユージン・スミス。水俣病患者の写真で知られるが、若き日太平洋戦争に従軍していた。未発表のフィルム、手紙から戦場での体験を探っていく。",
+  "start": 1635659940000,
+  "end": 1635663000000,
+  "seconds": 3060,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "写真家　ユージン・スミスの戦争",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

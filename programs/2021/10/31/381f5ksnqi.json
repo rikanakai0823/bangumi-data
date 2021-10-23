@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksnqi",
+  "category": "sports",
+  "title": "競馬２０２１",
+  "fullTitle": "競馬２０２１「第１６４回天皇賞」[字]",
+  "detail": "～東京競馬場から中継～",
+  "start": 1635660000000,
+  "end": 1635663600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "第１６４回天皇賞",
+  "episode": 164,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1tgt",
+  "category": "anime",
+  "title": "めぞん一刻 デジタルリマスターHD版 最終回SP",
+  "fullTitle": "[字]めぞん一刻 デジタルリマスターHD版 最終回SP",
+  "detail": "#91～96 END\r\nとある街の時計坂に建つアパート『一刻館』。大正時代に建てられたと言う由緒あるボロアパート。住んでい…",
+  "start": 1635652800000,
+  "end": 1635663600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": 91,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w681zw3",
+  "category": "anime",
+  "title": "海賊王女",
+  "fullTitle": "海賊王女 #04 [字]",
+  "detail": "#04 石の謎",
+  "start": 1635636600000,
+  "end": 1635638400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "石の謎",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idskhio",
+  "category": "information",
+  "title": "ＢＳ－ＴＢＳ　プレミアムカイモノラボ",
+  "fullTitle": "ＢＳ－ＴＢＳ　プレミアムカイモノラボ",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1635645600000,
+  "end": 1635648840000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

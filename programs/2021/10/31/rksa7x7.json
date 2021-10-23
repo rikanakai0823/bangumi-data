@@ -1,0 +1,23 @@
+{
+  "id": "rksa7x7",
+  "category": "sports",
+  "title": "剣道女子 -4",
+  "fullTitle": "剣道女子 #2-4",
+  "detail": "#2 河嶋香菜子（立教大学）\r\n#3 三浦遥（富士ゼロックス東京）\r\n#4 泉望美（小学校教員）",
+  "start": 1635685200000,
+  "end": 1635688800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "河嶋香菜子（立教大学）",
+  "episode": 2,
+  "flags": []
+}

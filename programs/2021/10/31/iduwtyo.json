@@ -1,0 +1,26 @@
+{
+  "id": "iduwtyo",
+  "category": "cinema",
+  "title": "ディヴァイン・フューリー／使者",
+  "fullTitle": "[映][SS]ディヴァイン・フューリー／使者",
+  "detail": "パク・ソジュン主演のエクソシストアクション。正義の力に目覚めた若き格闘家とベテラン神父が、恐るべき悪の存在に立ち向かう！",
+  "start": 1635649200000,
+  "end": 1635658200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
