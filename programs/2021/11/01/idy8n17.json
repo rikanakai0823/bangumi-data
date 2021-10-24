@@ -1,0 +1,25 @@
+{
+  "id": "idy8n17",
+  "category": "drama",
+  "title": "ザ・ロッジ",
+  "fullTitle": "ザ・ロッジ#17[二]",
+  "detail": "#17「ロッジを守れ！」",
+  "start": 1635705000000,
+  "end": 1635706800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ロッジを守れ！",
+  "episode": 17,
+  "flags": [
+    "二"
+  ]
+}

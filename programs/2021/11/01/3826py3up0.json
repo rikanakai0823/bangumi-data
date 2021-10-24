@@ -1,0 +1,25 @@
+{
+  "id": "3826py3up0",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第四闇「豆まき」",
+  "start": 1635705600000,
+  "end": 1635705900000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "豆まき",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

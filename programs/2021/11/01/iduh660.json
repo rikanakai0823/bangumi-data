@@ -1,0 +1,26 @@
+{
+  "id": "iduh660",
+  "category": "cinema",
+  "title": "ノンストップ（字幕版）",
+  "fullTitle": "[映]ノンストップ（字幕版）[SS]",
+  "detail": "ハイジャックされた航空機を舞台に意外な素性を持つヒロインが活躍する、韓国産のにぎやかなアクションコメディ。韓国で興行ランキング第１位に。主演はオム・ジョンファ。",
+  "start": 1635744600000,
+  "end": 1635750900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

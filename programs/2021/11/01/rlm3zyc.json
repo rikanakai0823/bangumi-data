@@ -1,0 +1,25 @@
+{
+  "id": "rlm3zyc",
+  "category": "sports",
+  "title": "みやざきフェニックス・リーグ 西武×広島",
+  "fullTitle": "[生]第18回みやざきフェニックス・リーグ 西武×広島",
+  "detail": "▽11月1日開催\r\n解説/実況：野村弘樹/石原敬士\r\n開催日時：2021年11月1日 (月) 11:00\r\n会場：天福球場",
+  "start": 1635731700000,
+  "end": 1635748200000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 18,
+  "flags": [
+    "生"
+  ]
+}

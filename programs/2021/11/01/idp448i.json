@@ -1,0 +1,25 @@
+{
+  "id": "idp448i",
+  "category": "music",
+  "title": "クラシック音楽館　Ｎ響　第１８６４回定期公演",
+  "fullTitle": "クラシック音楽館　Ｎ響　第１８６４回定期公演「レニングラード」[SS]",
+  "detail": "交響曲第７番　ハ長調　作品６０　「レニングラード」（ショスタコーヴィチ）（２０１７年９月１６日・ＮＨＫホール）",
+  "start": 1635697140000,
+  "end": 1635702000000,
+  "seconds": 4860,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "レニングラード",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduzwqc",
+  "category": "cinema",
+  "title": "ＴＥＮＥＴ　テネット",
+  "fullTitle": "[映][SS][字]ＴＥＮＥＴ　テネット[吹]",
+  "detail": "クリストファー・ノーラン監督のＳＦスパイアクション。“時間の逆行”をテーマに、世界の破滅を阻止するため闘う男の姿を描く。",
+  "start": 1635768000000,
+  "end": 1635777600000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

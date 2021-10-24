@@ -1,0 +1,26 @@
+{
+  "id": "iduwv4r",
+  "category": "cinema",
+  "title": "ニュー・ミュータント",
+  "fullTitle": "[映][SS]ニュー・ミュータント",
+  "detail": "マーベルコミック原作の青春ＳＦアクション。特殊能力を持つ若者たちが自らの特殊能力に翻弄されつつ、モンスターに立ち向かう。",
+  "start": 1635704100000,
+  "end": 1635710400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

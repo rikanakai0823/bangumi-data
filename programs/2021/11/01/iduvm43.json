@@ -1,0 +1,25 @@
+{
+  "id": "iduvm43",
+  "category": "cinema",
+  "title": "マイライフ・アズ・ア・ドッグ",
+  "fullTitle": "[映]マイライフ・アズ・ア・ドッグ【犬の日映画スペシャル】",
+  "detail": "犬と少年をモチーフにした、ラッセ・ハルストレム監督の出世作。病気の母をもつ少年の成長を感動的に描く。［ＰＧ１２］",
+  "start": 1635754500000,
+  "end": 1635761700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "犬の日映画スペシャル",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
