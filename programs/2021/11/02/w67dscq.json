@@ -1,0 +1,23 @@
+{
+  "id": "w67dscq",
+  "category": "music",
+  "title": "【K-POP】M COUNTDOWN",
+  "fullTitle": "【K-POP】M COUNTDOWN",
+  "detail": "人気のK-POPチャートを韓国から毎週お届け！話題のアーティストたちが迫力のステージを披露！※スペースシャワーTVでは毎月60分のダイジェスト版を放送します",
+  "start": 1635829200000,
+  "end": 1635832800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 123
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

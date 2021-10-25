@@ -1,0 +1,27 @@
+{
+  "id": "iduh66c",
+  "category": "cinema",
+  "title": "甘いお酒でうがい",
+  "fullTitle": "[映]甘いお酒でうがい[SS][字]",
+  "detail": "大九明子が監督を務め、シソンヌのじろうが原作・脚本を担当した日常ドラマ。松雪泰子扮する４０代独身のベテラン派遣社員が、同僚や年下の青年たちと交流する日々を綴る。",
+  "start": 1635831900000,
+  "end": 1635839100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

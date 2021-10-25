@@ -1,0 +1,23 @@
+{
+  "id": "rkghsyr",
+  "category": "etc",
+  "title": "試験イベント①",
+  "fullTitle": "試験イベント①",
+  "detail": "",
+  "start": 1635265800000,
+  "end": 1635270000000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカパー！インフォ",
+    "id": "cv1h",
+    "sid": 101,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 89
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

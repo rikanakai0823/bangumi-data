@@ -1,0 +1,25 @@
+{
+  "id": "iduxrwi",
+  "category": "cinema",
+  "title": "ホンドー",
+  "fullTitle": "[映]ホンドー",
+  "detail": "ジョン・ウェイン主演の西部劇。夫の留守を守る女と彼女の宿を借りた騎兵隊員の恋を中心に、アパッチ族との壮絶な戦いを描く。",
+  "start": 1635784200000,
+  "end": 1635789600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

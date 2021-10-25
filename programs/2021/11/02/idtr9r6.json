@@ -1,0 +1,26 @@
+{
+  "id": "idtr9r6",
+  "category": "news",
+  "title": "ＢＳフジ×ウェザーニュース",
+  "fullTitle": "[生][デ]ＢＳフジ×ウェザーニュース",
+  "detail": "",
+  "start": 1635796800000,
+  "end": 1635798600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

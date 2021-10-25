@@ -1,0 +1,25 @@
+{
+  "id": "idx1thu",
+  "category": "anime",
+  "title": "テニスの王子様 ,78",
+  "fullTitle": "[字]テニスの王子様 #77,78",
+  "detail": "#77「冷静と情熱の戦い」\r\n#78「サンダーボルト」\r\nアメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。…",
+  "start": 1635793200000,
+  "end": 1635796800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "冷静と情熱の戦い",
+  "episode": 77,
+  "flags": [
+    "字"
+  ]
+}

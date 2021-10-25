@@ -1,0 +1,23 @@
+{
+  "id": "idtrb2r",
+  "category": "information",
+  "title": "やずやＴＶショッピング",
+  "fullTitle": "やずやＴＶショッピング",
+  "detail": "",
+  "start": 1635787920000,
+  "end": 1635789660000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

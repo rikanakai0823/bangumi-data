@@ -1,0 +1,26 @@
+{
+  "id": "iduvp1j",
+  "category": "cinema",
+  "title": "ノマドランド",
+  "fullTitle": "[映][SS]ノマドランド【メガヒット９（再）】",
+  "detail": "アカデミー賞主要３部門ほか、数々の映画賞に輝く人間ドラマ。“現代のノマド（遊牧民）”として車上生活を送る女性の姿を描く。",
+  "start": 1635830100000,
+  "end": 1635837300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

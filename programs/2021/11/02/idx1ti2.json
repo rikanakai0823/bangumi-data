@@ -1,0 +1,25 @@
+{
+  "id": "idx1ti2",
+  "category": "anime",
+  "title": "約束のネバーランド ,10",
+  "fullTitle": "[字]約束のネバーランド #9,10",
+  "detail": "#9「031145」#10「130146」\r\nグレイス＝フィールドハウスは、親の居ない子どもたちが住むところ。血の繋がりはなくても…",
+  "start": 1635818400000,
+  "end": 1635822000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "031145",
+  "episode": 9,
+  "flags": [
+    "字"
+  ]
+}

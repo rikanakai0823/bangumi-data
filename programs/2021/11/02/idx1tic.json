@@ -1,0 +1,25 @@
+{
+  "id": "idx1tic",
+  "category": "anime",
+  "title": "黒子のバスケ ,46",
+  "fullTitle": "[字]黒子のバスケ #45,46",
+  "detail": "第45Q「軽いものなはずないだろう」\r\n第46Q「初得点!!」\r\nバスケットボールの強豪として知られる帝光中学校は、特に“キ…",
+  "start": 1635850800000,
+  "end": 1635854400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "軽いものなはずないだろう",
+  "episode": 45,
+  "flags": [
+    "字"
+  ]
+}

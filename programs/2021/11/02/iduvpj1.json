@@ -1,0 +1,26 @@
+{
+  "id": "iduvpj1",
+  "category": "cinema",
+  "title": "王宮の夜鬼",
+  "fullTitle": "[映][SS]王宮の夜鬼",
+  "detail": "ヒョンビン、チャン・ドンゴン共演のゾンビアクション。挑戦王朝時代を舞台に、謎の疫病で凶暴化した“夜鬼”との死闘を描く。",
+  "start": 1635853500000,
+  "end": 1635861600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
