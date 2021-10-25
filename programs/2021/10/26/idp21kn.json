@@ -1,0 +1,25 @@
+{
+  "id": "idp21kn",
+  "category": "sports",
+  "title": "プロ野球２０２１「日本ハム」対",
+  "fullTitle": "プロ野球２０２１「日本ハム」対「西武」[多]",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】田中賢介，【アナウンサー】筒井亮太郎　～札幌ドームから中継～",
+  "start": 1635238800000,
+  "end": 1635251400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "西武",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

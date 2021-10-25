@@ -1,0 +1,25 @@
+{
+  "id": "w66h4sb",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×広島",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE 2021　東京ヤクルト×広島",
+  "detail": "「東京ヤクルト vs 広島」\r\n＜開催＞2021年11月1日（月）【生中継】\r\n　～神宮球場\r\n※変更の場合あり",
+  "start": 1635756600000,
+  "end": 1635775200000,
+  "seconds": 18600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "東京ヤクルト vs 広島",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
