@@ -1,0 +1,23 @@
+{
+  "id": "rlm404b",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "detail": "開催日：2021年3月26日\r\n今宮、周東、柳田の一発攻勢で得点し、先発石川も7回1失点の好投で勝利を掴んだ開幕戦をお届け",
+  "start": 1635822000000,
+  "end": 1635840000000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

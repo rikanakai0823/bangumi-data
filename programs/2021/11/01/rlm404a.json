@@ -1,0 +1,23 @@
+{
+  "id": "rlm404a",
+  "category": "sports",
+  "title": "RIZINで逢いましょう",
+  "fullTitle": "RIZINで逢いましょう #8",
+  "detail": "RIZIN FIGHTING WORLD GRAND-PRIX 2017 バンタム級トーナメント 1st ROUND -夏の陣-(RIZIN.6)\r\n(2017年7月30日)",
+  "start": 1635775200000,
+  "end": 1635782400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": []
+}
