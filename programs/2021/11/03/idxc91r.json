@@ -1,0 +1,25 @@
+{
+  "id": "idxc91r",
+  "category": "variety",
+  "title": "#なつエモ！（前編）",
+  "fullTitle": "[無]#なつエモ！（前編）",
+  "detail": "スカパー！なつエモ天国ＴＶをとことん楽しむための特別番組",
+  "start": 1635904800000,
+  "end": 1635908400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

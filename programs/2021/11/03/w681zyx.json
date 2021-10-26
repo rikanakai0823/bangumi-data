@@ -1,0 +1,25 @@
+{
+  "id": "w681zyx",
+  "category": "anime",
+  "title": "最果てのパラディン",
+  "fullTitle": "最果てのパラディン #04 [字]",
+  "detail": "#04 灯火の女神",
+  "start": 1635885000000,
+  "end": 1635886800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "灯火の女神",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

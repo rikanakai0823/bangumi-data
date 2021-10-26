@@ -1,0 +1,26 @@
+{
+  "id": "idy8n4k",
+  "category": "anime",
+  "title": "アウルハウス ★まるごと大放送！日本初エピソード！",
+  "fullTitle": "[初]アウルハウス #18[二]★まるごと大放送！日本初エピソード！",
+  "detail": "#18「魔女の苦しみ」",
+  "start": 1635933600000,
+  "end": 1635935400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "魔女の苦しみ",
+  "episode": 18,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

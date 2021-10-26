@@ -1,0 +1,27 @@
+{
+  "id": "iducv0p",
+  "category": "cinema",
+  "title": "糸",
+  "fullTitle": "[映]糸[SS][字]",
+  "detail": "菅田将暉と小松菜奈がＷ主演したラブストーリー。平成元年生まれの男女が１３歳の時、運命的に出会う。２人はすれ違いを繰り返しながら、平成という激動の時代を生きる。",
+  "start": 1635921900000,
+  "end": 1635930000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

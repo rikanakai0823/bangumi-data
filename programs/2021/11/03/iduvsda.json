@@ -1,0 +1,26 @@
+{
+  "id": "iduvsda",
+  "category": "cinema",
+  "title": "パブリック　図書館の奇跡",
+  "fullTitle": "[映][SS]パブリック　図書館の奇跡",
+  "detail": "エミリオ・エステベス監督・主演の感動ヒューマンドラマ。行き場を失くしたホームレスたちと、図書館員の勇気ある行動を描く。",
+  "start": 1635924600000,
+  "end": 1635932700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

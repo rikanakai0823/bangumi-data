@@ -1,0 +1,26 @@
+{
+  "id": "iduvrli",
+  "category": "cinema",
+  "title": "建築学概論",
+  "fullTitle": "[映][SS]建築学概論",
+  "detail": "韓国で記録的ヒットとなったラブストーリー。初恋の女性から家の改築を依頼された若手建築士が、かつての思いを蘇らせてゆく。",
+  "start": 1635888600000,
+  "end": 1635896700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w67khi2",
+  "category": "music",
+  "title": "V6 MV特集",
+  "fullTitle": "V6 MV特集",
+  "detail": "V6のミュージックビデオ特集をオンエア！",
+  "start": 1635865200000,
+  "end": 1635872400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

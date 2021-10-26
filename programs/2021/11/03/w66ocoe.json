@@ -1,0 +1,26 @@
+{
+  "id": "w66ocoe",
+  "category": "drama",
+  "title": "[5.1]スーパーナチュラル11",
+  "fullTitle": "[字][5.1]スーパーナチュラル11(帯)#23[終]",
+  "detail": "#23「光と闇」\r\nAlpha and Omega\r\nアマラの攻撃を受けて瀕死のチャックに、呼応するように欠けていく太陽。刻一刻と世界は終末に近づいていた。",
+  "start": 1635879600000,
+  "end": 1635883200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "光と闇",
+  "episode": 23,
+  "flags": [
+    "字",
+    "終"
+  ]
+}

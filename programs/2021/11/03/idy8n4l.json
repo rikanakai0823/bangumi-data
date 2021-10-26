@@ -1,0 +1,26 @@
+{
+  "id": "idy8n4l",
+  "category": "anime",
+  "title": "アウルハウス ★まるごと大放送！日本初エピソード！",
+  "fullTitle": "[初]アウルハウス #19[二]★まるごと大放送！日本初エピソード！",
+  "detail": "#19「二人の絆」",
+  "start": 1635935400000,
+  "end": 1635937200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "二人の絆",
+  "episode": 19,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

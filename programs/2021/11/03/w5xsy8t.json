@@ -1,0 +1,23 @@
+{
+  "id": "w5xsy8t",
+  "category": "information",
+  "title": "Philips Beauty",
+  "fullTitle": "Philips Beauty",
+  "detail": "",
+  "start": 1635948000000,
+  "end": 1635951600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

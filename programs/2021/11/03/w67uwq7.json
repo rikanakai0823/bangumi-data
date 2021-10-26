@@ -1,0 +1,26 @@
+{
+  "id": "w67uwq7",
+  "category": "anime",
+  "title": "あひるの空 ,2",
+  "fullTitle": "[新]あひるの空[字] #1,2",
+  "detail": "＃１「みにくいあひるの子」＃２「才能のない少年達（ひとたち）」",
+  "start": 1635930000000,
+  "end": 1635933600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "みにくいあひるの子",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

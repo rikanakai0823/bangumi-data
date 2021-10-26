@@ -1,0 +1,25 @@
+{
+  "id": "w68gsf6",
+  "category": "documentary",
+  "title": "スペースタイム・宇宙ガイド：火星への旅",
+  "fullTitle": "スペースタイム・宇宙ガイド：火星への旅(二)",
+  "detail": "今まで、いくつもの探査機が火星に送られ、写真やデータを集めてきた。しかし、情報が集まるほど疑問も増えた。人類は今、火星へ向かい、その謎を完全に解こうとしている。",
+  "start": 1635883200000,
+  "end": 1635886800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 132
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm404c",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "detail": "開催日：2021年3月27日\r\n8回裏にデスパイネの適時打で同点、続く9回には今宮の適時打でサヨナラ勝利を決めた一戦",
+  "start": 1635908400000,
+  "end": 1635926400000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

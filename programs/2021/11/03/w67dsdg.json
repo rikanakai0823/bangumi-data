@@ -1,0 +1,23 @@
+{
+  "id": "w67dsdg",
+  "category": "music",
+  "title": "【独占】WANIMA特番",
+  "fullTitle": "【独占】WANIMA「Fresh Cheese Delivery」特番",
+  "detail": "サブスクリプション限定アルバム「Fresh Cheese Delivery」のリリースを記念した特別撮り下ろし番組。",
+  "start": 1635948000000,
+  "end": 1635951600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 123
+  },
+  "subTitle": "Fresh Cheese Delivery",
+  "episode": null,
+  "flags": []
+}

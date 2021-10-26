@@ -1,0 +1,25 @@
+{
+  "id": "rktcuze",
+  "category": "drama",
+  "title": "ミス・マンマミーア",
+  "fullTitle": "ミス・マンマミーア　#3　[字]",
+  "detail": "2015年 全12話",
+  "start": 1635872400000,
+  "end": 1635876600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}
