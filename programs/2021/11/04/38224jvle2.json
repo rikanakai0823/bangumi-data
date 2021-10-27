@@ -1,0 +1,27 @@
+{
+  "id": "38224jvle2",
+  "category": "drama",
+  "title": "ゴゴワイド",
+  "fullTitle": "ゴゴワイド[解][字][再]",
+  "detail": "テレビ朝日がかつて放送したドラマの中から、選りすぐりの番組をお届けします。午後のひと時、人気ドラマをたっぷりとお楽しみ下さい！",
+  "start": 1636001640000,
+  "end": 1636005000000,
+  "seconds": 3360,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字",
+    "再"
+  ]
+}

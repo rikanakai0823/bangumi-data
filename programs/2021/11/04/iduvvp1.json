@@ -1,0 +1,25 @@
+{
+  "id": "iduvvp1",
+  "category": "cinema",
+  "title": "ワイルド・ローズ",
+  "fullTitle": "[映]ワイルド・ローズ",
+  "detail": "ジェシー・バックリーが歌手を目指すシングルマザーを演じた音楽ドラマ。不器用にもがきながら夢に向かう姿を描く。［ＰＧ１２］",
+  "start": 1636019100000,
+  "end": 1636026300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8n5o",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#58[二]",
+  "detail": "#58「スイミング・ホール」",
+  "start": 1636007100000,
+  "end": 1636007400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "スイミング・ホール",
+  "episode": 58,
+  "flags": [
+    "二"
+  ]
+}

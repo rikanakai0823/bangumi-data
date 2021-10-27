@@ -1,0 +1,25 @@
+{
+  "id": "w662w8v",
+  "category": "information",
+  "title": "クリック!日テレプラス",
+  "fullTitle": "[無料]クリック!日テレプラス【11月紹介】",
+  "detail": "ふぉ～ゆ～の冠番組『ふぉ～ゆ～の王道テレビ ～これにかけてるんで！』が始動!\r\n番組制作発表にて行われたトークコーナーをご紹介!お見逃しなく!",
+  "start": 1636001400000,
+  "end": 1636002000000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "11月紹介",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

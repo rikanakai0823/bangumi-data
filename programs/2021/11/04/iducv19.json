@@ -1,0 +1,26 @@
+{
+  "id": "iducv19",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]邦楽ＢＲＥＡＫ　＃６９９",
+  "detail": "",
+  "start": 1636015500000,
+  "end": 1636016400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 699,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

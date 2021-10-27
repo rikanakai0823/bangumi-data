@@ -1,0 +1,26 @@
+{
+  "id": "iduvtcz",
+  "category": "cinema",
+  "title": "ザ・スーベニア～魅せられて～",
+  "fullTitle": "[映][SS]ザ・スーベニア～魅せられて～",
+  "detail": "若きアーティストの初恋と自己発見を美しく緻密に描くドラマ。気鋭の映画製作スタジオ「Ａ２４」による作品。［Ｒ１５＋相当］",
+  "start": 1635970500000,
+  "end": 1635978600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "Ａ２４",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

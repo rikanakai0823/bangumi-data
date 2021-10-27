@@ -1,0 +1,23 @@
+{
+  "id": "w67g6c2",
+  "category": "music",
+  "title": "海外ライブ傑作選",
+  "fullTitle": "海外ライブ傑作選",
+  "detail": "「MTV WORLD STAGE」は、世界の音楽シーンから選りすぐりのライブを放送する番組。人気アーティストの最上級のライブをお楽しみに！",
+  "start": 1635955200000,
+  "end": 1635958800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "MTV WORLD STAGE",
+  "episode": null,
+  "flags": []
+}

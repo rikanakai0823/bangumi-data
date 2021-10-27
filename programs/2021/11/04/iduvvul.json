@@ -1,0 +1,26 @@
+{
+  "id": "iduvvul",
+  "category": "cinema",
+  "title": "イエスタデイ（２０１９）",
+  "fullTitle": "[映][SS]イエスタデイ（２０１９）",
+  "detail": "ダニー・ボイル監督、ビートルズの名曲が全編を彩る感動の人生賛歌。誰もビートルズを知らない世界に迷い込んだ青年の姿を描く。",
+  "start": 1636026300000,
+  "end": 1636034400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
