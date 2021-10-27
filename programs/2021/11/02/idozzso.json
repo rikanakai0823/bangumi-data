@@ -1,0 +1,27 @@
+{
+  "id": "idozzso",
+  "category": "information",
+  "title": "おいしい東京",
+  "fullTitle": "おいしい東京「ハレの日を彩る海の幸」[二][字][再]",
+  "detail": "季節ごとの年中行事や祝い事になくてはならない海の幸の魅力▽伊勢えび／千葉▽はまぐり／三重▽かつお／高知▽ずわいがに／兵庫▽あわび／千葉",
+  "start": 1635854400000,
+  "end": 1635857400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ハレの日を彩る海の幸",
+  "episode": null,
+  "flags": [
+    "二",
+    "字",
+    "再"
+  ]
+}
