@@ -1,0 +1,23 @@
+{
+  "id": "ieem354",
+  "category": "etc",
+  "title": "コンピューティング",
+  "fullTitle": "コンピューティング　第5回",
+  "detail": "「ラムダ計算」",
+  "start": 1635681600000,
+  "end": 1635684300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "ラムダ計算",
+  "episode": 5,
+  "flags": []
+}

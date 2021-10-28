@@ -1,0 +1,26 @@
+{
+  "id": "idp4614",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「お風呂の旅」[字][再]",
+  "detail": "秘湯、名湯に、ちょっとレトロな町中の銭湯。道後や箱根などの温泉から、京都西陣の風情豊かな銭湯まで。日本全国の「お風呂」を巡る旅と、お湯の極楽を愛する人々の物語。",
+  "start": 1636066800000,
+  "end": 1636070400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "お風呂の旅",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

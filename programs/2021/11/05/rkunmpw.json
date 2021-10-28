@@ -1,0 +1,25 @@
+{
+  "id": "rkunmpw",
+  "category": "hobby",
+  "title": "ペッパピッグ#99,#100[字/日英]",
+  "fullTitle": "ペッパピッグ#99,#100[二][字/日英]",
+  "detail": "#99「グランマとグランパのやねうら」　#100「キャプテン・ダディピッグ」",
+  "start": 1636084800000,
+  "end": 1636085700000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "グランマとグランパのやねうら",
+  "episode": 99,
+  "flags": [
+    "二"
+  ]
+}

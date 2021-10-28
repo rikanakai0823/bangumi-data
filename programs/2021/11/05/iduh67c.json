@@ -1,0 +1,27 @@
+{
+  "id": "iduh67c",
+  "category": "cinema",
+  "title": "容疑者Ｘの献身",
+  "fullTitle": "[映]容疑者Ｘの献身[SS][字]",
+  "detail": "福山雅治主演のヒットドラマ「ガリレオ」の劇場版第１作。東野圭吾の直木賞受賞作を原作に、ある哀しい殺人をめぐって探偵ガリレオこと湯川学と天才数学者が頭脳戦を展開。",
+  "start": 1636087500000,
+  "end": 1636095600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "ガリレオ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

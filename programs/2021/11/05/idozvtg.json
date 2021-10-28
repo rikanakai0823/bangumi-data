@@ -1,0 +1,23 @@
+{
+  "id": "idozvtg",
+  "category": "news",
+  "title": "ＢＳニュース４Ｋ＋ふるさと",
+  "fullTitle": "ＢＳニュース４Ｋ＋ふるさと",
+  "detail": "",
+  "start": 1636123500000,
+  "end": 1636125000000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

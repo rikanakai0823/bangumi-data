@@ -1,0 +1,25 @@
+{
+  "id": "idy8n70",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#59[二]",
+  "detail": "#59「お安いご用」",
+  "start": 1636093500000,
+  "end": 1636093800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "お安いご用",
+  "episode": 59,
+  "flags": [
+    "二"
+  ]
+}

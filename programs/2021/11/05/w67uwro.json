@@ -1,0 +1,25 @@
+{
+  "id": "w67uwro",
+  "category": "anime",
+  "title": "ルパン三世 PART4 ,12",
+  "fullTitle": "ルパン三世 PART4[字] #11,12",
+  "detail": "＃１１「イタリアの夢　前篇」＃１２「イタリアの夢　後篇」",
+  "start": 1636045200000,
+  "end": 1636048800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "イタリアの夢　前篇",
+  "episode": 11,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idtraod",
+  "category": "information",
+  "title": "笑顔が一番！～子どもの元気と栄養～",
+  "fullTitle": "笑顔が一番！～子どもの元気と栄養～",
+  "detail": "",
+  "start": 1636116900000,
+  "end": 1636117200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

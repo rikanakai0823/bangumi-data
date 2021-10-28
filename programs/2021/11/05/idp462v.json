@@ -1,0 +1,25 @@
+{
+  "id": "idp462v",
+  "category": "documentary",
+  "title": "マエストロたちの晩餐会",
+  "fullTitle": "マエストロたちの晩餐会[字]",
+  "detail": "",
+  "start": 1636117200000,
+  "end": 1636120800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm3zzz",
+  "category": "drama",
+  "title": "連続ドラマ",
+  "fullTitle": "連続ドラマ「アカギ」 第1話",
+  "detail": "現代麻雀漫画の金字塔がＴＶドラマとなって登場！生死を賭けた一夜の麻雀対決をドラマ化！",
+  "start": 1636110000000,
+  "end": 1636113600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "アカギ",
+  "episode": 1,
+  "flags": []
+}
