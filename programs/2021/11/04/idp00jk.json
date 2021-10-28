@@ -1,0 +1,25 @@
+{
+  "id": "idp00jk",
+  "category": "sports",
+  "title": "レジェンドの目撃者",
+  "fullTitle": "レジェンドの目撃者[字]",
+  "detail": "",
+  "start": 1636027200000,
+  "end": 1636030200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
