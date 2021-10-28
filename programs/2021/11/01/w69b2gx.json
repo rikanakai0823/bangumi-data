@@ -1,9 +1,9 @@
 {
   "id": "w69b2gx",
-  "category": "news",
-  "title": "CNNニュースルーム",
-  "fullTitle": "[二]CNNニュースルーム",
-  "detail": "日本語同時通訳付。\r\n専門家の分析を交え世界のニュースを検証。ヘッドラインを飾るニュースと最新情報を、各分野の専門家の分析とともに判りやすく解説する報道・情報番組",
+  "category": "documentary",
+  "title": "Inside Africa",
+  "fullTitle": "[二]Inside Africa[再]",
+  "detail": "日本語同時通訳付。\r\nアフリカ各地の魅力を自然、産業、芸術、文化、人物など、様々な観点から伝える。",
   "start": 1635724800000,
   "end": 1635728400000,
   "seconds": 3600,
@@ -20,6 +20,7 @@
   "subTitle": "",
   "episode": null,
   "flags": [
-    "二"
+    "二",
+    "再"
   ]
 }

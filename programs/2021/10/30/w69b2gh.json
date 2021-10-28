@@ -1,9 +1,9 @@
 {
   "id": "w69b2gh",
-  "category": "documentary",
-  "title": "Inside Africa",
-  "fullTitle": "[二]Inside Africa[再]",
-  "detail": "日本語同時通訳付。\r\nアフリカ各地の魅力を自然、産業、芸術、文化、人物など、様々な観点から伝える。",
+  "category": "news",
+  "title": "ニュー・デイ・サタデー",
+  "fullTitle": "[二]ニュー・デイ・サタデー",
+  "detail": "日本語同時通訳付。\r\nアメリカの「朝」を直送。\r\n最新ニュースを伝えるモーニング・ワイド。",
   "start": 1635595200000,
   "end": 1635597000000,
   "seconds": 1800,
@@ -20,7 +20,6 @@
   "subTitle": "",
   "episode": null,
   "flags": [
-    "二",
-    "再"
+    "二"
   ]
 }
