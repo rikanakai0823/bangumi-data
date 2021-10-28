@@ -2,11 +2,15 @@
   "id": "36h6jr1up3",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nフィットカーブ　０１２０－４４－００２７",
   "start": 1635976800000,
   "end": 1635978600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "フィットカーブ　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

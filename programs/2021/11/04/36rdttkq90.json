@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Move\"SANTANA,ROB THOMAS & AMERICAN AUTHORS\r\n\"Heaven Angel\"THE DRIVER ERA\r\n\"I've Got You Under My Skin\"TONY BENNETT & LADY GAGA\r\n\"I Concentrate On You\"TONY BENNETT & LADY GAGA\n◇番組内容２\n\"Love For Sale\"TONY BENNETT & LADY GAGA\r\n\"I Get A Kick Out Of You\"TONY BENNETT & LADY GAGA\r\n\"Million To One\"CAMILA CABELLO\r\n\"Stay\"THE KID LAROI & JUSTIN BIEBER",
   "start": 1635951600000,
   "end": 1635953400000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Move\"SANTANA,ROB THOMAS & AMERICAN AUTHORS\r\n\"Heaven Angel\"THE DRIVER ERA\r\n\"I've Got You Under My Skin\"TONY BENNETT & LADY GAGA\r\n\"I Concentrate On You\"TONY BENNETT & LADY GAGA",
+    "番組内容２": "\"Love For Sale\"TONY BENNETT & LADY GAGA\r\n\"I Get A Kick Out Of You\"TONY BENNETT & LADY GAGA\r\n\"Million To One\"CAMILA CABELLO\r\n\"Stay\"THE KID LAROI & JUSTIN BIEBER"
   },
   "channel": {
     "type": "GR",
