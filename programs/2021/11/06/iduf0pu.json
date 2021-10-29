@@ -1,0 +1,26 @@
+{
+  "id": "iduf0pu",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]洋楽ＢＲＥＡＫ　＃４６６",
+  "detail": "",
+  "start": 1636140600000,
+  "end": 1636141500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 466,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

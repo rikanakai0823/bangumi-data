@@ -1,0 +1,25 @@
+{
+  "id": "w66lih2",
+  "category": "sports",
+  "title": "2021 FORMULA 1　第18戦メキシコシティGP 金曜フリー走行1",
+  "fullTitle": "[生]2021 FORMULA 1　第18戦メキシコシティGP 金曜フリー走行1",
+  "detail": "＜開催＞２０２１年１１月５日（金）【生中継】\r\n＜解説＞津川哲夫　米家峰起\r\n＜実況＞堀池亮介\r\n※第２音声：会場音\r\n※変更の場合あり",
+  "start": 1636132800000,
+  "end": 1636137600000,
+  "seconds": 4800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 114
+  },
+  "subTitle": "生中継",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

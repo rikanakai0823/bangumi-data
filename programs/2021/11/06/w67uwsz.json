@@ -1,0 +1,25 @@
+{
+  "id": "w67uwsz",
+  "category": "anime",
+  "title": "NINKU-忍空- ,2",
+  "fullTitle": "[新]NINKU-忍空- #1,2",
+  "detail": "＃１「子忍の風助！」＃２「酉忍隊長登場」",
+  "start": 1636140600000,
+  "end": 1636144200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "子忍の風助！",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

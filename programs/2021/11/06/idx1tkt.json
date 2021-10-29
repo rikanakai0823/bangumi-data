@@ -1,0 +1,25 @@
+{
+  "id": "idx1tkt",
+  "category": "anime",
+  "title": "ヴィジュアルプリズン",
+  "fullTitle": "[新]ヴィジュアルプリズン #1",
+  "detail": "#1\r\n周囲に馴染めず、内に強い孤独を抱えた少年・結希アンジュ。天涯孤独の身になったのを機に、故郷を離れて憧れのア…",
+  "start": 1636198200000,
+  "end": 1636200000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

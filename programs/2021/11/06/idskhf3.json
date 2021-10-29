@@ -1,0 +1,25 @@
+{
+  "id": "idskhf3",
+  "category": "news",
+  "title": "Ｂｉｚスクエア",
+  "fullTitle": "[字]Ｂｉｚスクエア",
+  "detail": "あすから役に立つ最新情報を優しく深くお伝えするニュース番組。身近な暮らしや仕事のニュース、熱いビジネスの現場の最先端、内外の経済動向や国際情勢まで広くカバー。",
+  "start": 1636164000000,
+  "end": 1636167240000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

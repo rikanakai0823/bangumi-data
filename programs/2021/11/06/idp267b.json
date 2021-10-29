@@ -1,0 +1,25 @@
+{
+  "id": "idp267b",
+  "category": "sports",
+  "title": "２０２１ＡＴＰテニス　マスターズ１０００　ロレックス　パリマスターズ",
+  "fullTitle": "２０２１ＡＴＰテニス　マスターズ１０００　ロレックス　パリマスターズ[多]",
+  "detail": "男子シングルス・準決勝　※副音声は場内音声　～フランス・パリから中継～",
+  "start": 1636206600000,
+  "end": 1636210200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

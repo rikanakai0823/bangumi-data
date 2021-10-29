@@ -1,0 +1,23 @@
+{
+  "id": "idt5o9v",
+  "category": "sports",
+  "title": "ウイニング競馬　～東京～",
+  "fullTitle": "ウイニング競馬　～東京～",
+  "detail": "【東京】10ＲノベンバーＳ、\r\n　　　　11Ｒ京王杯２歳Ｓ（ＧⅡ）\r\n【阪神】10Ｒ安芸Ｓ、11ＲファンタジーＳ（ＧⅢ）【福島】11Ｒ河北新報杯",
+  "start": 1636176600000,
+  "end": 1636182000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "東京",
+  "episode": null,
+  "flags": []
+}

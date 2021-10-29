@@ -1,0 +1,25 @@
+{
+  "id": "idp46u4",
+  "category": "anime",
+  "title": "アニメ×投票",
+  "fullTitle": "アニメ×投票「発表！全仮面ライダー大投票」[双]",
+  "detail": "",
+  "start": 1636205400000,
+  "end": 1636212600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "発表！全仮面ライダー大投票",
+  "episode": null,
+  "flags": [
+    "双"
+  ]
+}
