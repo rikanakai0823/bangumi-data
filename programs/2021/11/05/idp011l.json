@@ -1,0 +1,25 @@
+{
+  "id": "idp011l",
+  "category": "documentary",
+  "title": "ドキュメント７２時間　年末スペシャル投票募集",
+  "fullTitle": "ドキュメント７２時間　年末スペシャル投票募集[再]",
+  "detail": "",
+  "start": 1636100940000,
+  "end": 1636101000000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

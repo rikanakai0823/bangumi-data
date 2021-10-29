@@ -1,12 +1,18 @@
 {
   "id": "36rdttkq7x",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "title": "洋楽天国＋▽実力派！ギタリスト特集",
+  "fullTitle": "洋楽天国＋▽実力派！ギタリスト特集",
+  "detail": "テクニックや表現力を持ち、様々ジャンルで活躍するギタリストを紹介！\n◇番組内容\n現代３代ギタリストと称されるデレク・トラックス、ジョン・メイヤーをはじめ、様々ジャンルで活躍するギタリストが登場！ギターのテクニックや表現力を堪能できるミュージック・ビデオを紹介！\n◇選曲１\n\"Layla(Live at LOCKN' / 2019)\"TEDESCHI TRUCKS BAND\r\n\"This Is Not Utopia\"THE OFFSPRING\r\n\"Dustland\"THE KILLERS feat.BRUCE SPRINGSTEEN\n◇選曲２\n\"Head On\"JOSE GONZALEZ\r\n\"Witch's Spell\"AC/DC\r\n\"Last Train Home\"JOHN MAYER\r\n\"Driven By You\"BRIAN MAY",
   "start": 1635861600000,
   "end": 1635863400000,
   "seconds": 1800,
+  "description": "テクニックや表現力を持ち、様々ジャンルで活躍するギタリストを紹介！",
+  "extra": {
+    "番組内容": "現代３代ギタリストと称されるデレク・トラックス、ジョン・メイヤーをはじめ、様々ジャンルで活躍するギタリストが登場！ギターのテクニックや表現力を堪能できるミュージック・ビデオを紹介！",
+    "選曲１": "\"Layla(Live at LOCKN' / 2019)\"TEDESCHI TRUCKS BAND\r\n\"This Is Not Utopia\"THE OFFSPRING\r\n\"Dustland\"THE KILLERS feat.BRUCE SPRINGSTEEN",
+    "選曲２": "\"Head On\"JOSE GONZALEZ\r\n\"Witch's Spell\"AC/DC\r\n\"Last Train Home\"JOHN MAYER\r\n\"Driven By You\"BRIAN MAY"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
