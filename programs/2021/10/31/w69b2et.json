@@ -1,9 +1,9 @@
 {
   "id": "w69b2et",
-  "category": "news",
-  "title": "CNNニュースルーム",
-  "fullTitle": "CNNニュースルーム",
-  "detail": "専門家の分析を交え世界のニュースを検証\r\nヘッドラインを飾るニュースに最新情報を加えながら、あらゆる分野の専門家の分析とともに判り易く解説する報道・情報番組。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "Living Golf[再]",
+  "detail": "#201 ゴルフと美食。ミシュラン星付きレストラン併設、アイルランドのゴルフコース。高級ホテル併設の南アのゴルフ・クラブ。アーニー・エルスのワイナリーを紹介。",
   "start": 1635654600000,
   "end": 1635656400000,
   "seconds": 1800,
@@ -18,6 +18,8 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 201,
+  "flags": [
+    "再"
+  ]
 }
