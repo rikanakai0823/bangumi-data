@@ -1,0 +1,26 @@
+{
+  "id": "iduw4dc",
+  "category": "cinema",
+  "title": "フェアウェル",
+  "fullTitle": "[映][SS]フェアウェル",
+  "detail": "ゴールデングローブ賞主演女優賞などに輝いた感動の人間ドラマ。余命わずかな祖母のために帰郷した孫娘と家族の絆を描く。",
+  "start": 1636239600000,
+  "end": 1636246800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

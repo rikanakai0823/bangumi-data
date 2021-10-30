@@ -1,0 +1,25 @@
+{
+  "id": "iduf0qe",
+  "category": "music",
+  "title": "ＡＪＩＣＯ　Ｔｏｕｒ　接続",
+  "fullTitle": "[初]ＡＪＩＣＯ　Ｔｏｕｒ　接続",
+  "detail": "ＵＡとベンジーを中心としたＡＪＩＣＯが２０年ぶりに再始動。その最新ツアーから、中野サンプラザ公演を全曲ノーカットでお届け！",
+  "start": 1636282800000,
+  "end": 1636290000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

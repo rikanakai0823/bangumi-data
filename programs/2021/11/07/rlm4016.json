@@ -1,0 +1,25 @@
+{
+  "id": "rlm4016",
+  "category": "sports",
+  "title": "熱血宣言！E・ZO HAWKS",
+  "fullTitle": "[無]熱血宣言！E・ZO HAWKS #50",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n新MCノボせもんなべがホークスOBプロ野球解説者とともにホークスのいまを番組独自の目線で徹底的に深掘ります！",
+  "start": 1636250400000,
+  "end": 1636252200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 50,
+  "flags": [
+    "無"
+  ]
+}

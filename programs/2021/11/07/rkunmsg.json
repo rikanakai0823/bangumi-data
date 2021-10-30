@@ -1,0 +1,26 @@
+{
+  "id": "rkunmsg",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#21,#22[字/日英]",
+  "fullTitle": "[無]ちびっこバス　タヨ#21,#22[二][字/日英]",
+  "detail": "#21「勇敢なヘリコプター、エア」　#22「いたずら電話大騒動」",
+  "start": 1636245000000,
+  "end": 1636246800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "勇敢なヘリコプター、エア",
+  "episode": 21,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm400s",
+  "category": "sports",
+  "title": "UFC MAIN EVENT～ファブリシオ・ヴェウドゥム×マーク・ハント",
+  "fullTitle": "[無]UFC MAIN EVENT～ファブリシオ・ヴェウドゥム×マーク・ハント",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n2014年開催の「UFC 180」メイン・イベント、ファブリシオ・ヴェウドゥム×マーク・ハントのヘビー級対決をお届け！",
+  "start": 1636232400000,
+  "end": 1636234200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

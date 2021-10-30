@@ -1,0 +1,25 @@
+{
+  "id": "idp47ff",
+  "category": "drama",
+  "title": "【プレミアムドラマ】山女日記３",
+  "fullTitle": "【プレミアムドラマ】山女日記３[字]",
+  "detail": "",
+  "start": 1636290000000,
+  "end": 1636293000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

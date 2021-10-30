@@ -1,0 +1,26 @@
+{
+  "id": "iduyap2",
+  "category": "cinema",
+  "title": "シンドラーのリスト",
+  "fullTitle": "[映][SS]シンドラーのリスト",
+  "detail": "スピルバーグ監督が、多くのユダヤ人を救ったドイツ人実業家シンドラーを描き、アカデミー７部門を受賞した傑作戦争ドラマ。",
+  "start": 1636294200000,
+  "end": 1636306200000,
+  "seconds": 12000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

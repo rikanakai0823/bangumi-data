@@ -1,0 +1,25 @@
+{
+  "id": "idx1tkz",
+  "category": "anime",
+  "title": "ハイキュー!! 一挙放送 第1～13話",
+  "fullTitle": "[字]ハイキュー!! 一挙放送(1) 第1～13話",
+  "detail": "#1～13\r\n中学最初の公式戦で天才プレーヤー・影山飛雄に惨敗した日向翔陽は、烏野高校バレー部の門を叩くが、そこには…",
+  "start": 1636210800000,
+  "end": 1636232400000,
+  "seconds": 21600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

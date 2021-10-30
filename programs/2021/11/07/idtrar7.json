@@ -1,0 +1,25 @@
+{
+  "id": "idtrar7",
+  "category": "documentary",
+  "title": "ニッポン美景めぐり　十和田・奥入瀬",
+  "fullTitle": "[字]ニッポン美景めぐり　十和田・奥入瀬",
+  "detail": "俳優の和合真一がニッポンの美しい風景をめぐる旅。今回は十和田湖と奥入瀬渓流をめぐる。",
+  "start": 1636221600000,
+  "end": 1636223400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

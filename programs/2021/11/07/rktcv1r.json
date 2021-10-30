@@ -1,0 +1,25 @@
+{
+  "id": "rktcv1r",
+  "category": "drama",
+  "title": "グッド・ドクター",
+  "fullTitle": "グッド・ドクター　#13　[字]",
+  "detail": "2013年 全20話",
+  "start": 1636212600000,
+  "end": 1636216800000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 13,
+  "flags": [
+    "字"
+  ]
+}

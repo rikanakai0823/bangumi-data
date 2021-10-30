@@ -1,0 +1,25 @@
+{
+  "id": "rkv8z76",
+  "category": "news",
+  "title": "Morning　News",
+  "fullTitle": "[無料]Morning　News",
+  "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Morning News」",
+  "start": 1636243200000,
+  "end": 1636254000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "日テレNEWS24・Morning News",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

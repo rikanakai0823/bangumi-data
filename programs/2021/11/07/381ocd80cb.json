@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80cb",
+  "category": "variety",
+  "title": "サンバリュ",
+  "fullTitle": "サンバリュ「ＴＨＥ　ＭＡＫＥＯＶＥＲ」[字]",
+  "detail": "",
+  "start": 1636256700000,
+  "end": 1636260300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "ＴＨＥ　ＭＡＫＥＯＶＥＲ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

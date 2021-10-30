@@ -1,0 +1,25 @@
+{
+  "id": "rlm401g",
+  "category": "sports",
+  "title": "月刊！ホークス",
+  "fullTitle": "[無]月刊！ホークス #257",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n結果だけではない、記録だけではない、そこに刻まれた熱い人間ドラマを魅せるスポーツドキュメンタリー。",
+  "start": 1636257600000,
+  "end": 1636259400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 257,
+  "flags": [
+    "無"
+  ]
+}

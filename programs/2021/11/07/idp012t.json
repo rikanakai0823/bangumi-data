@@ -1,0 +1,25 @@
+{
+  "id": "idp012t",
+  "category": "sports",
+  "title": "ＰＧＡゴルフツアー　ワールドワイドテクノロジーチャンピオンシップ",
+  "fullTitle": "ＰＧＡゴルフツアー　ワールドワイドテクノロジーチャンピオンシップ「３日目」[二]",
+  "detail": "【解説】佐渡充高，【アナウンサー】野地俊二",
+  "start": 1636225200000,
+  "end": 1636232400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "３日目",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

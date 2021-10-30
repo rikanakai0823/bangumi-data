@@ -1,0 +1,26 @@
+{
+  "id": "iduw50e",
+  "category": "cinema",
+  "title": "ヴァレリアン　千の惑星の救世主",
+  "fullTitle": "[映][SS]ヴァレリアン　千の惑星の救世主",
+  "detail": "リュック・ベッソンが名作コミックを映画化したＳＦ超大作。銀河を守る男女コンビが、全宇宙の存亡を揺るがす陰謀に立ち向かう。",
+  "start": 1636270200000,
+  "end": 1636279200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

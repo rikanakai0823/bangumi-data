@@ -1,0 +1,25 @@
+{
+  "id": "rlm401q",
+  "category": "sports",
+  "title": "UFC MAIN EVENT～アリスター・オーフレイム×ブロック・レスナー",
+  "fullTitle": "[無]UFC MAIN EVENT～アリスター・オーフレイム×ブロック・レスナー",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n2011年開催の「UFC 141」メイン・イベント、アリスター・オーフレイム×ブロック・レスナーのヘビー級対決をお届け！",
+  "start": 1636273800000,
+  "end": 1636277400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm400r",
+  "category": "sports",
+  "title": "ザ・ベスト・オブ シーズン3 （全12話）",
+  "fullTitle": "[無]ザ・ベスト・オブ「PRIDE」 シーズン3 #8（全12話）",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nあの\"PRIDE\"がスポーツライブ＋でよみがえる！\r\n今回はヴァンダレイ・シウバ×ランペイジ・ジャクソンなどを放送！",
+  "start": 1636228800000,
+  "end": 1636232400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "PRIDE",
+  "episode": 8,
+  "flags": [
+    "無"
+  ]
+}

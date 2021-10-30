@@ -1,0 +1,26 @@
+{
+  "id": "w63j23l",
+  "category": "sports",
+  "title": "★SAPPOROスポーツスペシャル 箱根駅伝予選会",
+  "fullTitle": "[無料]★SAPPOROスポーツスペシャル 第98回箱根駅伝予選会[再]",
+  "detail": "日テレジータス特別編",
+  "start": 1636237800000,
+  "end": 1636246800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 98,
+  "flags": [
+    "無",
+    "再"
+  ]
+}

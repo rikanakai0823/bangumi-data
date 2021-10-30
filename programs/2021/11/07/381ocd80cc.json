@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80cc",
+  "category": "information",
+  "title": "あの日のＴＨＥ　ＦＩＲＳＴ特別版",
+  "fullTitle": "あの日のＴＨＥ　ＦＩＲＳＴ特別版[字]",
+  "detail": "",
+  "start": 1636260300000,
+  "end": 1636262100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

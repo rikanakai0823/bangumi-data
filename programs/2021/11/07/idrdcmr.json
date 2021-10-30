@@ -1,0 +1,23 @@
+{
+  "id": "idrdcmr",
+  "category": "anime",
+  "title": "アニメ　シキザクラ",
+  "fullTitle": "アニメ　シキザクラ",
+  "detail": "#4　家族/BROTHER",
+  "start": 1636212780000,
+  "end": 1636214400000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "家族/BROTHER",
+  "episode": 4,
+  "flags": []
+}

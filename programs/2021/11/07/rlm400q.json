@@ -1,0 +1,25 @@
+{
+  "id": "rlm400q",
+  "category": "sports",
+  "title": "10min.ハイライト　第10節 フランクフルト×ライプツィヒ",
+  "fullTitle": "[無]10min.ハイライト　第10節 フランクフルト×ライプツィヒ",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nブンデスリーガ第10節で行われたフランクフルト×ライプツィヒのハイライト映像をお届けします。",
+  "start": 1636228200000,
+  "end": 1636228800000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

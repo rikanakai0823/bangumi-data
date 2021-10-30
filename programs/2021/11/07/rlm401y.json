@@ -1,0 +1,25 @@
+{
+  "id": "rlm401y",
+  "category": "hobby",
+  "title": "パチンコパチスロアワー　ベーパチ！",
+  "fullTitle": "[無]パチンコパチスロアワー　ベーパチ！#1",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n#1　ヒラヤマンとビワコとパチンコと野球と（前半）",
+  "start": 1636290000000,
+  "end": 1636293600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

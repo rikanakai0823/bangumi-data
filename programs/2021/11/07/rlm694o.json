@@ -1,0 +1,25 @@
+{
+  "id": "rlm694o",
+  "category": "sports",
+  "title": "サンフレッチェTV",
+  "fullTitle": "[無]サンフレッチェTV #110",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nサンフレッチェ広島のクラブ応援番組。選手の素顔やインタビューなど貴重映像とともにクラブの活動をお届けします。",
+  "start": 1636229700000,
+  "end": 1636230600000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "",
+  "episode": 110,
+  "flags": [
+    "無"
+  ]
+}

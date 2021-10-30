@@ -1,0 +1,25 @@
+{
+  "id": "idt5ob1",
+  "category": "music",
+  "title": "ＢＳ演歌の花道",
+  "fullTitle": "ＢＳ演歌の花道[字]",
+  "detail": "1978年から22年間レギュラー番組として放送した伝説の番組「演歌の花道」が復活！五木ひろし、川中美幸、前川清、内山田洋とクール・ファイブ、角川博、クミコ、田辺靖雄",
+  "start": 1636286400000,
+  "end": 1636289700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "演歌の花道",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
