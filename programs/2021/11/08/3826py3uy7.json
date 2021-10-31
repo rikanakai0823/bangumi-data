@@ -1,0 +1,25 @@
+{
+  "id": "3826py3uy7",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第五闇「笑い声」",
+  "start": 1636314000000,
+  "end": 1636314300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "笑い声",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rkunmu0",
+  "category": "hobby",
+  "title": "チャギントン#101,#102[字/日英]",
+  "fullTitle": "チャギントン#101,#102[二][字/日英]",
+  "detail": "#101「スペシャル・レスキュー」　#102「チャグパトロールの助手」",
+  "start": 1636342200000,
+  "end": 1636344000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "スペシャル・レスキュー",
+  "episode": 101,
+  "flags": [
+    "二"
+  ]
+}

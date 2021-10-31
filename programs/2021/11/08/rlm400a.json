@@ -1,0 +1,25 @@
+{
+  "id": "rlm400a",
+  "category": "sports",
+  "title": "21/22 ドイツ ブンデスリーガ ハイライト",
+  "fullTitle": "[無]21/22 ドイツ ブンデスリーガ ハイライト #10",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nその節に行われたブンデスリーガの試合のハイライトを凝縮してお届け！",
+  "start": 1636303800000,
+  "end": 1636307400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": [
+    "無"
+  ]
+}

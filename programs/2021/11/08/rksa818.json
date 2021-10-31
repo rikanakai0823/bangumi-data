@@ -1,0 +1,25 @@
+{
+  "id": "rksa818",
+  "category": "anime",
+  "title": "【ドラえもん1999年一挙放送】",
+  "fullTitle": "[無料]【ドラえもん1999年一挙放送】",
+  "detail": "#801-804\r\n#801「太陽たまご/お百度エンヤコラ餅」\r\n#802「水玉カプセルの旅/ヘアーカタログセット」ほか",
+  "start": 1636306200000,
+  "end": 1636313400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 801,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w67khid",
+  "category": "music",
+  "title": "M-ON! SPECIAL",
+  "fullTitle": "M-ON! SPECIAL 「ONEUS」",
+  "detail": "６人６色の魅力満載の撮り下ろし特別番組の放送が決定！近況トークはもちろん、ミニゲームなど、この番組でしか見られないＯＮＥＵＳの姿をたっぷり収録！お楽しみに！",
+  "start": 1636376400000,
+  "end": 1636380000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "ONEUS",
+  "episode": null,
+  "flags": []
+}

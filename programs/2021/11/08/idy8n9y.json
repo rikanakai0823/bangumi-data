@@ -1,0 +1,26 @@
+{
+  "id": "idy8n9y",
+  "category": "drama",
+  "title": "ザ・ロッジ",
+  "fullTitle": "[無]ザ・ロッジ#19[二]",
+  "detail": "#19「新しい経営者」",
+  "start": 1636309800000,
+  "end": 1636311600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "新しい経営者",
+  "episode": 19,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

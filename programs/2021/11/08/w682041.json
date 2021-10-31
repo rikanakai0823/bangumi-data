@@ -1,0 +1,25 @@
+{
+  "id": "w682041",
+  "category": "anime",
+  "title": "テレビアニメ無限列車編",
+  "fullTitle": "テレビアニメ「鬼滅の刃」無限列車編 #03 [字]",
+  "detail": "#03 本当なら",
+  "start": 1636347600000,
+  "end": 1636349400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "本当なら",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

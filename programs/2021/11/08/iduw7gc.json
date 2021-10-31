@@ -1,0 +1,26 @@
+{
+  "id": "iduw7gc",
+  "category": "cinema",
+  "title": "パピヨン （２０１７）",
+  "fullTitle": "[映][SS]パピヨン （２０１７）",
+  "detail": "１９７３年の名作『パピヨン』をリメイクした感動ドラマ。無実の罪を着せられた終身刑囚の、１３年に及ぶ命がけの脱獄劇を描く。",
+  "start": 1636322400000,
+  "end": 1636331400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

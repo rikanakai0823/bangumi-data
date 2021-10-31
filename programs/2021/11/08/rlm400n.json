@@ -1,0 +1,25 @@
+{
+  "id": "rlm400n",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第11節 グロイターフュルト×フランクフルト",
+  "fullTitle": "[生]21/22 ブンデスリーガ 第11節 グロイターフュルト×フランクフルト",
+  "detail": "実況:福田浩大\r\n開催日:2021年11月7日\r\n会場:シュポルトパルク ロンホフ トーマス ゾマー",
+  "start": 1636309200000,
+  "end": 1636318200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

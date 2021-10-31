@@ -1,0 +1,23 @@
+{
+  "id": "w67blgg",
+  "category": "music",
+  "title": "YouTubeランキング20",
+  "fullTitle": "YouTubeランキング20",
+  "detail": "世界最大の動画共有サービス「YouTube」。 YouTubeで再生された楽曲の合計視聴回数を集計した最新ランキングをお届けします。",
+  "start": 1636318800000,
+  "end": 1636326000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "スペシャプラス",
+    "id": "f0dd",
+    "sid": 321,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 122
+  },
+  "subTitle": "YouTube",
+  "episode": null,
+  "flags": []
+}

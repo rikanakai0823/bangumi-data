@@ -1,0 +1,25 @@
+{
+  "id": "idv0ius",
+  "category": "cinema",
+  "title": "サンダーバード（１９６６）ＮＨＫ版",
+  "fullTitle": "[映]サンダーバード（１９６６）[吹]ＮＨＫ版",
+  "detail": "【「サンダーバード」５５周年長期徹底特集　第２弾】",
+  "start": 1636372800000,
+  "end": 1636378800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "「サンダーバード",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

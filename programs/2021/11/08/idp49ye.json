@@ -1,0 +1,23 @@
+{
+  "id": "idp49ye",
+  "category": "information",
+  "title": "（公共メディア通信）",
+  "fullTitle": "（公共メディア通信）",
+  "detail": "",
+  "start": 1636314120000,
+  "end": 1636314300000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
