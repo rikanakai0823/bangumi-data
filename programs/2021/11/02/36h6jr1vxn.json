@@ -3,10 +3,14 @@
   "category": "information",
   "title": "買物情報・プライムダイレクトＴＶショッピング",
   "fullTitle": "買物情報・プライムダイレクトＴＶショッピング[Ｓ]",
-  "detail": "",
+  "detail": "◇番組内容\nスピードヒート　０８００－９９９７５５５",
   "start": 1635804000000,
   "end": 1635805800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "スピードヒート　０８００－９９９７５５５"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

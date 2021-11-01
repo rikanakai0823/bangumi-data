@@ -1,9 +1,9 @@
 {
   "id": "rktf2xl",
-  "category": "music",
-  "title": "M COUNTDOWN バックステージ",
-  "fullTitle": "M COUNTDOWN バックステージ",
-  "detail": "出演：ENHYPEN、ITZY、ドンヘ (SUPER JUNIOR)、WONHO ほか\r\n【2021年10月14日M COUNTDOWN】\r\n再：(月)12:00（木)17:00（土)深4:00",
+  "category": "variety",
+  "title": "2021 MAMA ノミネーション",
+  "fullTitle": "[生]2021 MAMA ノミネーション",
+  "detail": "緊急特番！世界最大級のK-POP音楽授賞式\r\n「2021 MAMA (2021 Mnet ASIAN MUSIC AWARDS)」ノミニーアーティストを発表！\r\n字幕版：12月5日(日)19:30～",
   "start": 1636012800000,
   "end": 1636016400000,
   "seconds": 3600,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }
