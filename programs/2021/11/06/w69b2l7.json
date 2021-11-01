@@ -1,9 +1,9 @@
 {
   "id": "w69b2l7",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "アフリカ　ビジネス最前線",
+  "fullTitle": "アフリカ　ビジネス最前線",
+  "detail": "アフリカのビジネス界に変化を起こすべく挑戦している企業や人々、注目のプロジェクトを紹介。",
   "start": 1636174800000,
   "end": 1636176600000,
   "seconds": 1800,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }

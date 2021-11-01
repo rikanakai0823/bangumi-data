@@ -1,8 +1,8 @@
 {
   "id": "w69b2lp",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
+  "category": "documentary",
+  "title": "環境保護への挑戦",
+  "fullTitle": "環境保護への挑戦",
   "detail": "番組内容が決まり次第お知らせします。",
   "start": 1636216200000,
   "end": 1636218000000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }

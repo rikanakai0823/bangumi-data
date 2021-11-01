@@ -1,8 +1,8 @@
 {
   "id": "w69b2lg",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "[二]特別番組[再]",
+  "category": "documentary",
+  "title": "特別番組：地球環境の保護者たち",
+  "fullTitle": "[二]特別番組：地球環境の保護者たち",
   "detail": "日本語同時通訳付。\r\n番組内容が決まり次第お知らせします。",
   "start": 1636192800000,
   "end": 1636194600000,
@@ -20,7 +20,6 @@
   "subTitle": "",
   "episode": null,
   "flags": [
-    "二",
-    "再"
+    "二"
   ]
 }

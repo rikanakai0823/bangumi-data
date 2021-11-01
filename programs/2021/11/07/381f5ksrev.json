@@ -2,11 +2,15 @@
   "id": "381f5ksrev",
   "category": "documentary",
   "title": "ＮＨＫスペシャル",
-  "fullTitle": "ＮＨＫスペシャル[字]",
-  "detail": "",
+  "fullTitle": "ＮＨＫスペシャル「グレート・リセット～脱炭素社会の“理想と現実”～」[字]",
+  "detail": "【語り】梶裕貴，中條誠子\n◇出演者\n【語り】梶裕貴，中條誠子",
   "start": 1636286400000,
   "end": 1636289400000,
   "seconds": 3000,
+  "description": "【語り】梶裕貴，中條誠子",
+  "extra": {
+    "出演者": "【語り】梶裕貴，中條誠子"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "グレート・リセット～脱炭素社会の“理想と現実”～",
   "episode": null,
   "flags": [
     "字"
