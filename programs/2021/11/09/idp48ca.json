@@ -1,0 +1,25 @@
+{
+  "id": "idp48ca",
+  "category": "documentary",
+  "title": "アナザーストーリーズ　運命の分岐点",
+  "fullTitle": "アナザーストーリーズ　運命の分岐点[字]",
+  "detail": "",
+  "start": 1636459200000,
+  "end": 1636462800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

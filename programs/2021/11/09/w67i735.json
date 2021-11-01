@@ -1,0 +1,23 @@
+{
+  "id": "w67i735",
+  "category": "music",
+  "title": "番組情報",
+  "fullTitle": "番組情報",
+  "detail": "ミュージック・エアおすすめ番組情報をお送りします。",
+  "start": 1636397400000,
+  "end": 1636398000000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ミュージック・エア",
+    "id": "f0dg",
+    "sid": 324,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

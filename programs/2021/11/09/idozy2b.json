@@ -1,0 +1,25 @@
+{
+  "id": "idozy2b",
+  "category": "news",
+  "title": "ワールドニュース　アメリカ",
+  "fullTitle": "ワールドニュース　アメリカ[二]",
+  "detail": "",
+  "start": 1636437600000,
+  "end": 1636437900000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idv0lqu",
+  "category": "cinema",
+  "title": "ある決闘　セントヘレナの掟",
+  "fullTitle": "[映][SS]ある決闘　セントヘレナの掟[吹]",
+  "detail": "ウディ・ハレルソンとリーアム・ヘムズワース共演のウエスタン。テキサスレンジャーと説教師の因縁の対決を描く。［ＰＧ１２］",
+  "start": 1636447800000,
+  "end": 1636455000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduh68u",
+  "category": "cinema",
+  "title": "クイール",
+  "fullTitle": "[映]クイール[SS][字]",
+  "detail": "ベストセラーノンフィクション写真集「盲導犬クイールの一生」を映画化したヒット作。ラブラドルレトリバーの子犬クイールが盲導犬に成長していくまでを描いた感動の物語。",
+  "start": 1636459200000,
+  "end": 1636465500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "盲導犬クイールの一生",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

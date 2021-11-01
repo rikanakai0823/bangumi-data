@@ -1,0 +1,25 @@
+{
+  "id": "idx1tme",
+  "category": "anime",
+  "title": "ルパン三世(PART2) ベストセレクション",
+  "fullTitle": "[字]ルパン三世(PART2) ベストセレクション",
+  "detail": "#48「非常ベルにルパンは笑う」\r\nルパン一味が日本から脱出して5年。世界に散っていたルパン・次元・五右ェ門・不二子…",
+  "start": 1636407000000,
+  "end": 1636408800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "非常ベルにルパンは笑う",
+  "episode": 48,
+  "flags": [
+    "字"
+  ]
+}

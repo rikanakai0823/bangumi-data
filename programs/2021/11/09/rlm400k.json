@@ -1,0 +1,23 @@
+{
+  "id": "rlm400k",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "URAWA CHANNEL NEXT #30",
+  "detail": "浦和レッズのクラブ応援番組。今回は、阿部勇樹選手、池田咲紀子選手、坪井慶介さんのトリプル対談をお届け！",
+  "start": 1636423200000,
+  "end": 1636425000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 30,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w63cjrt",
+  "category": "sports",
+  "title": "[プロ野球]みやざきフェニックス・リーグ",
+  "fullTitle": " [プロ野球]第18回みやざきフェニックス・リーグ「阪神 vs 楽天」",
+  "detail": "GAORAプロ野球中継\r\n阪神 vs 楽天\r\n解説:片岡篤史\r\n実況:本田将一郎\r\n開催日：2021年10月23日\r\n球場：アイビースタジアム",
+  "start": 1636464600000,
+  "end": 1636479000000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "阪神 vs 楽天",
+  "episode": 18,
+  "flags": []
+}

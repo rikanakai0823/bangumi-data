@@ -1,0 +1,25 @@
+{
+  "id": "iducv4d",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃７００",
+  "detail": "",
+  "start": 1636429800000,
+  "end": 1636430400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 700,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduh68t",
+  "category": "cinema",
+  "title": "学校Ⅱ",
+  "fullTitle": "[映]学校Ⅱ[字]",
+  "detail": "山田洋次監督の「学校」シリーズ第２弾。今回は、北海道の養護学校を舞台に、２人の生徒の兄弟のような絆と、彼らを理解しようと体当たりでぶつかる教師たちの交流を描く。",
+  "start": 1636451100000,
+  "end": 1636459200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "学校",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rktf32u",
+  "category": "music",
+  "title": "Mnetライブ",
+  "fullTitle": "Mnetライブ 【VIXX】",
+  "detail": "11月放送番組「クルーズ探検隊」にヒョギが出演！VIXXの迫力あるライブパフォーマンスをまとめてお届け！\r\n2018年\r\n※再放送情報はMnet HPにてご確認ください",
+  "start": 1636410600000,
+  "end": 1636412400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "VIXX",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80e4",
+  "category": "variety",
+  "title": "一撃解明バラエティ　ひと目でわかる!!",
+  "fullTitle": "一撃解明バラエティ　ひと目でわかる!![字]",
+  "detail": "",
+  "start": 1636462800000,
+  "end": 1636466400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

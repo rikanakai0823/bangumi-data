@@ -1,0 +1,25 @@
+{
+  "id": "idy8nbj",
+  "category": "anime",
+  "title": "プッカ",
+  "fullTitle": "プッカ#19[二]",
+  "detail": "#19「スッキリソーダ/お米が欲しい/こわーいミジャ」",
+  "start": 1636425000000,
+  "end": 1636426800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "スッキリソーダ/お米が欲しい/こわーいミジャ",
+  "episode": 19,
+  "flags": [
+    "二"
+  ]
+}

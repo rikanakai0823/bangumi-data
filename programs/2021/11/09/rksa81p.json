@@ -1,0 +1,23 @@
+{
+  "id": "rksa81p",
+  "category": "sports",
+  "title": "スポーツセレクション",
+  "fullTitle": "スポーツセレクション",
+  "detail": "スポーツ番組をお送りする予定です！",
+  "start": 1636385400000,
+  "end": 1636398000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

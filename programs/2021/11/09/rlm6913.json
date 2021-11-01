@@ -1,0 +1,23 @@
+{
+  "id": "rlm6913",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第101回 天皇杯 準々決勝 名古屋×C大阪",
+  "detail": "天皇杯 JFA 第101回全日本サッカー選手権大会 準々決勝\r\n名古屋グランパス×セレッソ大阪",
+  "start": 1636390800000,
+  "end": 1636400400000,
+  "seconds": 9600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "天皇杯 準々決勝 名古屋×C大阪",
+  "episode": 101,
+  "flags": []
+}

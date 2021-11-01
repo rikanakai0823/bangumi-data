@@ -1,0 +1,26 @@
+{
+  "id": "iduwajc",
+  "category": "cinema",
+  "title": "サラブレッド",
+  "fullTitle": "[映][SS]サラブレッド",
+  "detail": "オリヴィア・クックとアニャ・テイラー＝ジョイ共演の青春サスペンス。幼馴染の少女２人による継父殺害計画を描く。［ＰＧ１２］",
+  "start": 1636405200000,
+  "end": 1636411500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

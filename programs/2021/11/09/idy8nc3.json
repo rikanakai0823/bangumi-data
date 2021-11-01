@@ -1,0 +1,23 @@
+{
+  "id": "idy8nc3",
+  "category": "anime",
+  "title": "ゆるキャン△",
+  "fullTitle": "ゆるキャン△#7",
+  "detail": "#7「湖畔の夜とキャンプの人々」",
+  "start": 1636461000000,
+  "end": 1636462800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "湖畔の夜とキャンプの人々",
+  "episode": 7,
+  "flags": []
+}

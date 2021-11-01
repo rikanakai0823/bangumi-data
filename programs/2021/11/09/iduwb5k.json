@@ -1,0 +1,26 @@
+{
+  "id": "iduwb5k",
+  "category": "cinema",
+  "title": "フリー・ガイ",
+  "fullTitle": "[映][SS]フリー・ガイ【メガヒット９（再）】",
+  "detail": "ライアン・レイノルズ主演のアドベンチャーアクション。自分がゲームのキャラクターであることに気づいた主人公が世界を救う。",
+  "start": 1636434000000,
+  "end": 1636442100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8nb3",
+  "category": "drama",
+  "title": "シェキラ！",
+  "fullTitle": "シェキラ！#76[二]",
+  "detail": "#76「新しいダンス番組！」",
+  "start": 1636396200000,
+  "end": 1636398000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "新しいダンス番組！",
+  "episode": 76,
+  "flags": [
+    "二"
+  ]
+}
