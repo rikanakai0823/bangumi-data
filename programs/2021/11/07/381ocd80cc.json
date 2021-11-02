@@ -3,10 +3,15 @@
   "category": "information",
   "title": "あの日のＴＨＥ　ＦＩＲＳＴ特別版",
   "fullTitle": "あの日のＴＨＥ　ＦＩＲＳＴ特別版[字]",
-  "detail": "",
+  "detail": "オーディションを経てデビューしたBE:FIRSTの7人と最終審査まで残った4人を加えた11人でオーディションを振り返る「あの日のTHE FIRST」の特別版\n◇出演者\nBE:FIRST（SOTA、SHUNTO、MANATO、RHUHEI、JUNON、RYOKI、LEO）／Aile The Shota／練習生（RUI、RAN、REIKO）\n◇番組内容\nBE:FIRSTの7人と最終審査まで残った4人を加えた11人で約半年にも及んだオーディション「THE FIRST」を振り返る。まずはお互いの第一印象を発表し合っていく。SHUNTOのSHOTAに対する第一印象は●●の先生！？そして合宿中に起きたメンバー全員爆笑の●●事件についても語る！▼SNS人気アニメを実写化！番組ラストにはショートドラマ「モモウメ」の厳選1エピソードをご紹介！",
   "start": 1636260300000,
   "end": 1636262100000,
   "seconds": 1800,
+  "description": "オーディションを経てデビューしたBE:FIRSTの7人と最終審査まで残った4人を加えた11人でオーディションを振り返る「あの日のTHE FIRST」の特別版",
+  "extra": {
+    "出演者": "BE:FIRST（SOTA、SHUNTO、MANATO、RHUHEI、JUNON、RYOKI、LEO）／Aile The Shota／練習生（RUI、RAN、REIKO）",
+    "番組内容": "BE:FIRSTの7人と最終審査まで残った4人を加えた11人で約半年にも及んだオーディション「THE FIRST」を振り返る。まずはお互いの第一印象を発表し合っていく。SHUNTOのSHOTAに対する第一印象は●●の先生！？そして合宿中に起きたメンバー全員爆笑の●●事件についても語る！▼SNS人気アニメを実写化！番組ラストにはショートドラマ「モモウメ」の厳選1エピソードをご紹介！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
+  "subTitle": "あの日のTHE FIRST",
   "episode": null,
   "flags": [
     "字"
