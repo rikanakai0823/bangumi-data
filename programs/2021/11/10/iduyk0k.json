@@ -1,0 +1,26 @@
+{
+  "id": "iduyk0k",
+  "category": "cinema",
+  "title": "９６時間",
+  "fullTitle": "[映][SS]９６時間",
+  "detail": "リーアム・ニーソン主演のサスペンスアクション第１作。娘を誘拐された元工作員の男が命懸けの救出に挑む！［ＰＧ１２］",
+  "start": 1636545600000,
+  "end": 1636551900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

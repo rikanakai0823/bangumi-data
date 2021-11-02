@@ -1,0 +1,25 @@
+{
+  "id": "w662wcu",
+  "category": "music",
+  "title": "ビルボード・ミュージック・アワード2021",
+  "fullTitle": "【字】ビルボード・ミュージック・アワード2021",
+  "detail": "ビルボード・ミュージック・アワードは三大主要音楽祭の一つ。\r\n授賞式と豪華アーティストによるスペシャルライブの模様を放送。",
+  "start": 1636545600000,
+  "end": 1636553400000,
+  "seconds": 7800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

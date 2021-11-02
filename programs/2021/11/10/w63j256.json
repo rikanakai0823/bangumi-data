@@ -1,0 +1,25 @@
+{
+  "id": "w63j256",
+  "category": "sports",
+  "title": "全国高校サッカー地区大会 準決勝　東京A",
+  "fullTitle": "第100回全国高校サッカー地区大会 準決勝　東京A[再]",
+  "detail": "▽第１試合「駒澤大高×國學院久我山」\r\n実況：安村直樹\r\n▽第２試合「成立学園×堀越」\r\n実況：川畑一志",
+  "start": 1636502400000,
+  "end": 1636520400000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "駒澤大高×國學院久我山",
+  "episode": 100,
+  "flags": [
+    "再"
+  ]
+}

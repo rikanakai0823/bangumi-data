@@ -1,0 +1,25 @@
+{
+  "id": "idy8nce",
+  "category": "anime",
+  "title": "キム・ポッシブル",
+  "fullTitle": "キム・ポッシブル#76[二]",
+  "detail": "#76「ドラッケン大学」",
+  "start": 1636486200000,
+  "end": 1636488000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ドラッケン大学",
+  "episode": 76,
+  "flags": [
+    "二"
+  ]
+}

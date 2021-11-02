@@ -1,0 +1,29 @@
+{
+  "id": "36l9gkucos",
+  "category": "music",
+  "title": "カラオケ大賞　第１９２２回知里",
+  "fullTitle": "カラオケ大賞　第１９２２回【ゲスト】知里[再]",
+  "detail": "【ゲスト】知里\n◇出演者\n【審査員長】伊戸のりお\r\n【司会】吉岡美穂",
+  "start": 1636498800000,
+  "end": 1636502100000,
+  "seconds": 3300,
+  "description": "【ゲスト】知里",
+  "extra": {
+    "出演者": "【審査員長】伊戸のりお\r\n【司会】吉岡美穂\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

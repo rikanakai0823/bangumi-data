@@ -1,0 +1,25 @@
+{
+  "id": "iduyj1a",
+  "category": "cinema",
+  "title": "わが心のジミー・ディーン",
+  "fullTitle": "[映]わが心のジミー・ディーン",
+  "detail": "伝説の映画スター、ジェームス・ディーンの２０回目の命日に再会した、元ファンクラブの女性たちの人生模様を描くドラマ。",
+  "start": 1636500600000,
+  "end": 1636507800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

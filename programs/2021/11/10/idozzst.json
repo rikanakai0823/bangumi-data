@@ -1,0 +1,25 @@
+{
+  "id": "idozzst",
+  "category": "documentary",
+  "title": "命を預かるレストラン",
+  "fullTitle": "命を預かるレストラン[字]",
+  "detail": "",
+  "start": 1636551600000,
+  "end": 1636552200000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm4032",
+  "category": "etc",
+  "title": "Bリーグ2021-22 第7節 北海道×千葉(11/10)",
+  "fullTitle": "[生]Bリーグ2021-22 第7節 北海道×千葉(11/10)",
+  "detail": "Bリーグ 2021-22 第7節(11/10)\r\n対戦:レバンガ北海道(H)\r\n　　 千葉ジェッツ　(A)",
+  "start": 1636538400000,
+  "end": 1636549200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

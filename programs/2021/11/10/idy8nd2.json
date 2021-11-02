@@ -1,0 +1,25 @@
+{
+  "id": "idy8nd2",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "ビッグシティ・グリーン#44[二]",
+  "detail": "#44「本当の友達　/　だまし合い」",
+  "start": 1636527600000,
+  "end": 1636529400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "本当の友達　/　だまし合い",
+  "episode": 44,
+  "flags": [
+    "二"
+  ]
+}
