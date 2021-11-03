@@ -1,0 +1,25 @@
+{
+  "id": "w67uwy3",
+  "category": "anime",
+  "title": "ルパン三世 PART4 ,20",
+  "fullTitle": "ルパン三世 PART4[字] #19,20",
+  "detail": "＃１９「龍は静かに眠る」＃２０「もう一度、君の歌声」",
+  "start": 1636563600000,
+  "end": 1636567200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "龍は静かに眠る",
+  "episode": 19,
+  "flags": [
+    "字"
+  ]
+}

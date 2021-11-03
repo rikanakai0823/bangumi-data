@@ -1,0 +1,23 @@
+{
+  "id": "w698nqv",
+  "category": "news",
+  "title": "ニュースデイ",
+  "fullTitle": "ニュースデイ",
+  "detail": "BBCシンガポール支局から、アジアと世界の最新情報をお伝えする生放送のニュース番組。",
+  "start": 1636588800000,
+  "end": 1636590600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

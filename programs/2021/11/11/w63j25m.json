@@ -1,0 +1,25 @@
+{
+  "id": "w63j25m",
+  "category": "sports",
+  "title": "全国高校サッカー地区大会 準決勝　東京B",
+  "fullTitle": "第100回全国高校サッカー地区大会 準決勝　東京B[再]",
+  "detail": "▽第１試合「関東第一×大森学園」\r\n実況：伊藤遼\r\n▽第２試合「大成×帝京」\r\n実況：田辺大智",
+  "start": 1636588800000,
+  "end": 1636606800000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "関東第一×大森学園",
+  "episode": 100,
+  "flags": [
+    "再"
+  ]
+}

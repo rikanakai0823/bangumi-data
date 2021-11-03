@@ -1,0 +1,25 @@
+{
+  "id": "idx1to2",
+  "category": "anime",
+  "title": "おそ松さん 第3期 ,15",
+  "fullTitle": "[字]おそ松さん 第3期 #14,15",
+  "detail": "#14「ワカサギ釣り」「死闘」「キラキラ ファントム ストリーム」\r\n#15「コスプレ松」\r\n20歳を過ぎてもクズでニートで童…",
+  "start": 1636592400000,
+  "end": 1636596000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ワカサギ釣り",
+  "episode": 14,
+  "flags": [
+    "字"
+  ]
+}

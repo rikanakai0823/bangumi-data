@@ -1,0 +1,26 @@
+{
+  "id": "iduyk9q",
+  "category": "cinema",
+  "title": "チェンジリング",
+  "fullTitle": "[映][SS]チェンジリング",
+  "detail": "クリント・イーストウッド監督が、アンジェリーナ・ジョリー主演で息子を誘拐された母の苦闘を描くサスペンス。［ＰＧ－１２］",
+  "start": 1636558200000,
+  "end": 1636567200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

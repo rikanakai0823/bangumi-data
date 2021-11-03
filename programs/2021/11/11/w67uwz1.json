@@ -1,0 +1,25 @@
+{
+  "id": "w67uwz1",
+  "category": "anime",
+  "title": "あひるの空 ,14",
+  "fullTitle": "あひるの空[字] #13,14",
+  "detail": "＃１３「温度の違い」＃１４「勝利に向かって」",
+  "start": 1636621200000,
+  "end": 1636624800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "温度の違い",
+  "episode": 13,
+  "flags": [
+    "字"
+  ]
+}

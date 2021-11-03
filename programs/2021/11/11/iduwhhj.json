@@ -1,0 +1,26 @@
+{
+  "id": "iduwhhj",
+  "category": "cinema",
+  "title": "ブルータル・ジャスティス",
+  "fullTitle": "[映][SS]ブルータル・ジャスティス",
+  "detail": "メル・ギブソンとヴィンス・ヴォーン共演のバイオレンスアクション。停職中の刑事２人による強盗計画の顛末を描く。［Ｒ１５＋］",
+  "start": 1636607700000,
+  "end": 1636618500000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

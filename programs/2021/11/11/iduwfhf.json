@@ -1,0 +1,26 @@
+{
+  "id": "iduwfhf",
+  "category": "cinema",
+  "title": "ブレイクスルー　奇跡の生還",
+  "fullTitle": "[映][SS]ブレイクスルー　奇跡の生還",
+  "detail": "実話に基づく奇跡の感動ドラマ。真冬の凍った湖で転落事故が発生、心肺停止した少年と回復を信じる家族との絆を描く。",
+  "start": 1636575300000,
+  "end": 1636582500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

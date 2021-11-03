@@ -1,0 +1,23 @@
+{
+  "id": "rks2ph1",
+  "category": "music",
+  "title": "BEHIND THE SHOW <字幕>",
+  "fullTitle": "BEHIND THE SHOW #92<字幕>",
+  "detail": "K－POPの人気番組『THE SHOW』のバックステージを紹介する。【出演】TOMORROW X TOGETHER、チャン・ドンウ(INFINITE)、ラビ(VIXX)、(G)I-DLE ほか",
+  "start": 1636575600000,
+  "end": 1636578000000,
+  "seconds": 2400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "出演",
+  "episode": 92,
+  "flags": []
+}

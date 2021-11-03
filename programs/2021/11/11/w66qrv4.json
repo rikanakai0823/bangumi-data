@@ -1,0 +1,23 @@
+{
+  "id": "w66qrv4",
+  "category": "information",
+  "title": "ショッピング・インフォメーション",
+  "fullTitle": "ショッピング・インフォメーション",
+  "detail": "通信販売番組",
+  "start": 1636581300000,
+  "end": 1636582200000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＸＮ　海外ドラマ",
+    "id": "f0d3",
+    "sid": 311,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 116
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
