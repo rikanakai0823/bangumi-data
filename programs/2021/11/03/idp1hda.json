@@ -1,0 +1,25 @@
+{
+  "id": "idp1hda",
+  "category": "sports",
+  "title": "２０２１ＡＴＰテニス　マスターズ１０００　ロレックス　パリマスターズ",
+  "fullTitle": "２０２１ＡＴＰテニス　マスターズ１０００　ロレックス　パリマスターズ[多]",
+  "detail": "男子シングルス・２回戦　※副音声は場内音声「キャメロン　ノリー」（イギリス）対「ライリー　オペルカ」（アメリカ）",
+  "start": 1635944400000,
+  "end": 1635951600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}
