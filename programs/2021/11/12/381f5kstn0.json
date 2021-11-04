@@ -1,0 +1,27 @@
+{
+  "id": "381f5kstn0",
+  "category": "sports",
+  "title": "２０２１ＮＨＫ杯フィギュア",
+  "fullTitle": "２０２１ＮＨＫ杯フィギュア「アイスダンス　リズムダンス」[多][字][デ]",
+  "detail": "　※副音声は場内音声",
+  "start": 1636693500000,
+  "end": 1636700400000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "アイスダンス　リズムダンス",
+  "episode": null,
+  "flags": [
+    "多",
+    "字",
+    "デ"
+  ]
+}

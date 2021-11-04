@@ -1,0 +1,26 @@
+{
+  "id": "iduh69p",
+  "category": "cinema",
+  "title": "コンゴ（字幕版）",
+  "fullTitle": "[映]コンゴ（字幕版）[SS]",
+  "detail": "「ジュラシック・パーク」の原作者Ｍ・クライトンによる冒険小説を、「アラクノフォビア」のＦ・マーシャル監督が映画化。全米公開でナンバーワンヒットを記録した話題作。",
+  "start": 1636671600000,
+  "end": 1636678800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

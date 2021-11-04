@@ -1,0 +1,25 @@
+{
+  "id": "idy8neu",
+  "category": "drama",
+  "title": "グッドラック・チャーリー",
+  "fullTitle": "グッドラック・チャーリー#30[二]",
+  "detail": "#30「ダンカン　vs　ダンカン」",
+  "start": 1636657200000,
+  "end": 1636659000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ダンカン　vs　ダンカン",
+  "episode": 30,
+  "flags": [
+    "二"
+  ]
+}

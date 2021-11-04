@@ -1,0 +1,23 @@
+{
+  "id": "w662wee",
+  "category": "variety",
+  "title": "ふぉ～ゆ～の王道テレビ ～これにかけてるんで!",
+  "fullTitle": "ふぉ～ゆ～の王道テレビ ～これにかけてるんで! #3",
+  "detail": "ふぉ～ゆ～(福田悠太、辰巳雄大、越岡裕貴、松崎祐介)",
+  "start": 1636718400000,
+  "end": 1636720200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}

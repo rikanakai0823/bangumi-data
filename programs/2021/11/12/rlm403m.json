@@ -1,0 +1,23 @@
+{
+  "id": "rlm403m",
+  "category": "sports",
+  "title": "RIZINで逢いましょう",
+  "fullTitle": "RIZINで逢いましょう #1",
+  "detail": "RIZIN FIGHTING WORLD GRAND-PRIX 2015 SARABAの宴（2015年12月29日開催）",
+  "start": 1636722000000,
+  "end": 1636729200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

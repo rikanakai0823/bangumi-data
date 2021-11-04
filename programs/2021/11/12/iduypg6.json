@@ -1,0 +1,25 @@
+{
+  "id": "iduypg6",
+  "category": "cinema",
+  "title": "危険な情事",
+  "fullTitle": "[映]危険な情事",
+  "detail": "一晩の情事を楽しんだ男が、相手の女性の異常な執着心に追い詰められていく…。社会現象になった大ヒット作。",
+  "start": 1636678200000,
+  "end": 1636686000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

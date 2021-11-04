@@ -1,0 +1,25 @@
+{
+  "id": "idx1tot",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#232「いろいろな遊び」\r\nラッコの子ども“ぼのぼの”とシマリスくんやスナドリネコさん。そんな森の愉快な仲間たちと…",
+  "start": 1636672800000,
+  "end": 1636673400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "いろいろな遊び",
+  "episode": 232,
+  "flags": [
+    "字"
+  ]
+}

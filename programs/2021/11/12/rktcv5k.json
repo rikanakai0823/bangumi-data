@@ -1,0 +1,26 @@
+{
+  "id": "rktcv5k",
+  "category": "cinema",
+  "title": "Ｋ－シアター",
+  "fullTitle": "Ｋ－シアター「コンフィデンシャル／共助」[字][再]",
+  "detail": "KBS World初放送！ヒョンビン、ユ・ヘジン主演。世界の運命は、北と南の刑事に託された―。ハリウッド驚愕のメガヒット・アクション・エンターテインメント！2017年",
+  "start": 1636728000000,
+  "end": 1636736100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "コンフィデンシャル／共助",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

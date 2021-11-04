@@ -1,0 +1,23 @@
+{
+  "id": "w633ziu",
+  "category": "information",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "",
+  "start": 1636678800000,
+  "end": 1636680600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

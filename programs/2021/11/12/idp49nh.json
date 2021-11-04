@@ -1,0 +1,25 @@
+{
+  "id": "idp49nh",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「木曽路の宿場町」[字]",
+  "detail": "【語り】松たか子，中條誠子，井上二郎",
+  "start": 1636718400000,
+  "end": 1636722000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "木曽路の宿場町",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

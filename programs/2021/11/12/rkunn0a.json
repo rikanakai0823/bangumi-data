@@ -1,0 +1,25 @@
+{
+  "id": "rkunn0a",
+  "category": "hobby",
+  "title": "ペッパピッグ#61,#62[字/日英]",
+  "fullTitle": "ペッパピッグ#61,#62[二][字/日英]",
+  "detail": "#61「なぞとき」　#62「ジョージのおともだち」",
+  "start": 1636718400000,
+  "end": 1636719300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "なぞとき",
+  "episode": 61,
+  "flags": [
+    "二"
+  ]
+}

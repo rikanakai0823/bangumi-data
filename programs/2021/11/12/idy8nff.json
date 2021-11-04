@@ -1,0 +1,25 @@
+{
+  "id": "idy8nff",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#66[二]",
+  "detail": "#66「神のパワーがほしい！」",
+  "start": 1636696800000,
+  "end": 1636698300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "神のパワーがほしい！",
+  "episode": 66,
+  "flags": [
+    "二"
+  ]
+}

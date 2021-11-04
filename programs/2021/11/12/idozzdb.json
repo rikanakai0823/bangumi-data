@@ -1,0 +1,26 @@
+{
+  "id": "idozzdb",
+  "category": "information",
+  "title": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ",
+  "fullTitle": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ「油揚げ」[二][字]",
+  "detail": "和食に欠かせない食材「油揚げ」▽消費量が多い福井県のこだわり「油揚げ」▽大きさと厚さが特徴的な新潟県の「油揚げ」を使ったフレンチトースト",
+  "start": 1636693200000,
+  "end": 1636695000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "油揚げ",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

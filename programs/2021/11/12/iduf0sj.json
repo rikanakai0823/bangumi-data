@@ -1,0 +1,23 @@
+{
+  "id": "iduf0sj",
+  "category": "theater",
+  "title": "東京０３",
+  "fullTitle": "東京０３　第２１回　単独公演　「人間味風」",
+  "detail": "全国１５カ所・全４３公演を行なった東京０３の単独公演を放送。チケットは常に即完売の超プレミアムステージ。爆笑間違いなしの絶品コントステージは必見。",
+  "start": 1636714800000,
+  "end": 1636722000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "単独公演",
+  "episode": 21,
+  "flags": []
+}
