@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Who You Are\"CRAIG DAVID & MNEK\r\n\"Chasing/Wasting Time\"KAWALA\r\n \"Mamma Mia\"ABBA\r\n\"Knowing Me, Knowing You\"ABBA \r\n\"Dancing Queen\"ABBA \r\nABBA  EPK\n◇番組内容２\n\"I Still Have Faith In You\"ABBA\r\n\"Breakdown\"G-EAZY feat.DEMI LOVATO",
   "start": 1636383600000,
   "end": 1636385400000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Who You Are\"CRAIG DAVID & MNEK\r\n\"Chasing/Wasting Time\"KAWALA\r\n \"Mamma Mia\"ABBA\r\n\"Knowing Me, Knowing You\"ABBA \r\n\"Dancing Queen\"ABBA \r\nABBA  EPK",
+    "番組内容２": "\"I Still Have Faith In You\"ABBA\r\n\"Breakdown\"G-EAZY feat.DEMI LOVATO"
   },
   "channel": {
     "type": "GR",
