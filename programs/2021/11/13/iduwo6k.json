@@ -1,0 +1,25 @@
+{
+  "id": "iduwo6k",
+  "category": "cinema",
+  "title": "【無料】ダイナマイト諜報機関／クレオパトラ危機突破",
+  "fullTitle": "【無料】[映]ダイナマイト諜報機関／クレオパトラ危機突破",
+  "detail": "【無料放送】",
+  "start": 1636797600000,
+  "end": 1636804800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "無料放送",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

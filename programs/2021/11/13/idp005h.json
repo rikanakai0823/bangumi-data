@@ -1,0 +1,25 @@
+{
+  "id": "idp005h",
+  "category": "sports",
+  "title": "２０２１ＮＨＫ杯フィギュア",
+  "fullTitle": "２０２１ＮＨＫ杯フィギュア[多]",
+  "detail": "",
+  "start": 1636765200000,
+  "end": 1636768200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

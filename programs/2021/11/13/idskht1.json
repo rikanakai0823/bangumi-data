@@ -1,0 +1,23 @@
+{
+  "id": "idskht1",
+  "category": "sports",
+  "title": "三井住友ＶＩＳＡ太平洋マスターズゴルフ",
+  "fullTitle": "三井住友ＶＩＳＡ太平洋マスターズゴルフ「第３日」",
+  "detail": "",
+  "start": 1636772400000,
+  "end": 1636779240000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "第３日",
+  "episode": null,
+  "flags": []
+}

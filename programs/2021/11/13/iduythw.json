@@ -1,0 +1,26 @@
+{
+  "id": "iduythw",
+  "category": "cinema",
+  "title": "イングロリアス・バスターズ",
+  "fullTitle": "[映][SS]イングロリアス・バスターズ",
+  "detail": "Ｑ・タランティーノ監督、Ｂ・ピット主演の戦争アクション。ナチス一掃を企む連合軍特殊部隊の活躍を描く。［Ｒ１５＋］",
+  "start": 1636804800000,
+  "end": 1636814400000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

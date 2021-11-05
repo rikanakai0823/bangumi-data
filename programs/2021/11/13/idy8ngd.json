@@ -1,0 +1,25 @@
+{
+  "id": "idy8ngd",
+  "category": "cinema",
+  "title": "ジュマンジ",
+  "fullTitle": "ジュマンジ[二]",
+  "detail": "いじめられっ子のアランがある日ふとしたことから土の中に埋もれていた木箱を見つける。中にはすごろくのゲームが収められていた。104分。1995年。",
+  "start": 1636777800000,
+  "end": 1636785000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

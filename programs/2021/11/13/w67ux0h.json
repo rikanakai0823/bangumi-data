@@ -1,0 +1,25 @@
+{
+  "id": "w67ux0h",
+  "category": "anime",
+  "title": "ルパン三世 PART4 ,24",
+  "fullTitle": "ルパン三世 PART4[字] #23,24",
+  "detail": "＃２３「世界解剖　前篇」＃２４「世界解剖　後篇」",
+  "start": 1636736400000,
+  "end": 1636740000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "世界解剖　前篇",
+  "episode": 23,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rkv8z9i",
+  "category": "news",
+  "title": "Late　Afternoon　News",
+  "fullTitle": "Late　Afternoon　News",
+  "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Late Afternoon News」",
+  "start": 1636783200000,
+  "end": 1636794000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "日テレNEWS24・Late Afternoon News",
+  "episode": null,
+  "flags": []
+}

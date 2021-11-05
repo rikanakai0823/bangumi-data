@@ -1,0 +1,25 @@
+{
+  "id": "idp4af1",
+  "category": "documentary",
+  "title": "さわやか自然百景",
+  "fullTitle": "さわやか自然百景「北海道　松前小島」[字]",
+  "detail": "北海道・松前小島。希少な海鳥が子育てし、海中には豊かな海藻の森が広がる。８月。沸騰したように波立つ海面。イワシを数千匹のクロマグロが襲う、ダイナミックな狩りだ。",
+  "start": 1636752600000,
+  "end": 1636753500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "北海道　松前小島",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

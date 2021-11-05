@@ -1,0 +1,23 @@
+{
+  "id": "idt5oid",
+  "category": "sports",
+  "title": "ウイニング競馬　～東京～",
+  "fullTitle": "ウイニング競馬　～東京～",
+  "detail": "【東京】10R奥多摩Ｓ、11R武蔵野Ｓ（ＧⅢ）【阪神】10R堺Ｓ、\r\n　　　　11Rデイリー杯２歳Ｓ（ＧⅡ）\r\n【福島】11R奥羽Ｓ、12R会津特別",
+  "start": 1636781400000,
+  "end": 1636786800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "36rdttkqx4",
+  "category": "sports",
+  "title": "全国高校サッカー県決勝中継",
+  "fullTitle": "全国高校サッカー県決勝中継[多][デ]",
+  "detail": "◇出演者\n【解説】\r\n【実況】\r\n【リポーター】",
+  "start": 1636776000000,
+  "end": 1636783200000,
+  "seconds": 7200,
+  "description": "　",
+  "extra": {
+    "出演者": "【解説】\r\n【実況】\r\n【リポーター】"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多",
+    "デ"
+  ]
+}

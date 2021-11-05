@@ -1,0 +1,23 @@
+{
+  "id": "idryllw",
+  "category": "information",
+  "title": "レッツ５！ショッピング",
+  "fullTitle": "レッツ５！ショッピング",
+  "detail": "家電量販最大手のYAMADAが家電と住まいのお得情報をお届け！家電住まいる館テレビショッピング店！",
+  "start": 1636761600000,
+  "end": 1636763400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

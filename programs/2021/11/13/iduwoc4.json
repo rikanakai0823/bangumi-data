@@ -1,0 +1,26 @@
+{
+  "id": "iduwoc4",
+  "category": "cinema",
+  "title": "【最新作】キャッツ",
+  "fullTitle": "【最新作】[映][SS]キャッツ【メガヒット９】",
+  "detail": "大ヒットミュージカルを豪華スターの共演で実写映画化。満月の夜、ロンドンの片隅で個性豊かな猫たちが舞踏会を繰り広げる。",
+  "start": 1636804800000,
+  "end": 1636812000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

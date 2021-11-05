@@ -1,0 +1,25 @@
+{
+  "id": "idskhtd",
+  "category": "cinema",
+  "title": "土曜映画デラックス「ＲＯＮＩＮ」",
+  "fullTitle": "[映]土曜映画デラックス「ＲＯＮＩＮ」【吹替】",
+  "detail": "世紀の２大スター、Ｒ・デ・ニーロ＆ジャン・レノがタッグを組んだ！アクションの巨匠、Ｊ・フランケンハイマーが壮絶なる男たちの闘いを描く、クライム・アクション！",
+  "start": 1636804800000,
+  "end": 1636811640000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm4043",
+  "category": "sports",
+  "title": "RIZINで逢いましょう",
+  "fullTitle": "RIZINで逢いましょう #2",
+  "detail": "RIZIN FIGHTING WORLD GRAND-PRIX 2015 IZAの舞（2015年12月31日開催）",
+  "start": 1636729200000,
+  "end": 1636736400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}
