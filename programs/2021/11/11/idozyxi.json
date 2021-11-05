@@ -1,12 +1,12 @@
 {
   "id": "idozyxi",
   "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！[字]",
-  "detail": "",
+  "title": "四国推し！　四国らしんばん",
+  "fullTitle": "四国推し！　四国らしんばん「ウィズコロナ時代　成長の条件は」[字]",
+  "detail": "コロナ禍が社会に影を落とす中、経済の二極化を表す「Ｋ字経済」という言葉が注目されている。番組では、四国経済の現場を徹底取材、ウィズコロナ時代の成長の条件を探る。",
   "start": 1636557000000,
-  "end": 1636560000000,
-  "seconds": 3000,
+  "end": 1636558560000,
+  "seconds": 1560,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "ウィズコロナ時代　成長の条件は",
   "episode": null,
   "flags": [
     "字"
