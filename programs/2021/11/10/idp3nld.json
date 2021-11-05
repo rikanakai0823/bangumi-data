@@ -1,0 +1,25 @@
+{
+  "id": "idp3nld",
+  "category": "documentary",
+  "title": "南極　氷の下のタイムカプセル",
+  "fullTitle": "南極　氷の下のタイムカプセル[字]",
+  "detail": "２０１６年、ＮＨＫは世界で初めて南極の氷の下にある湖を８Ｋカメラで撮影した。なぜ地球は生命にあふれる星になったのか。湖底に広がる「原始の地球」の光景を描き出す。",
+  "start": 1636486200000,
+  "end": 1636486500000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "原始の地球",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
