@@ -1,0 +1,23 @@
+{
+  "id": "rksa898",
+  "category": "anime",
+  "title": "【ドラえもん1999年一挙放送】",
+  "fullTitle": "【ドラえもん1999年一挙放送】",
+  "detail": "#805-809\r\n#805「VIPクリーム/宝さがしに行こう」\r\n#806「ジャイ子のバレンタイン/ガチガチン」ほか",
+  "start": 1636644600000,
+  "end": 1636653600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 805,
+  "flags": []
+}
