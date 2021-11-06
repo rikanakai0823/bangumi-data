@@ -1,0 +1,26 @@
+{
+  "id": "iduh6ai",
+  "category": "cinema",
+  "title": "ルート２２５",
+  "fullTitle": "[映]ルート２２５[字]",
+  "detail": "多部未華子が主演し、芥川賞作家・藤野千夜の小説を映画化したファンタジー。現実と少しだけ異なるパラレルワールドに迷い込んでしまった姉弟は、そこから脱出できるのか。",
+  "start": 1636861500000,
+  "end": 1636867800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

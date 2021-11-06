@@ -1,0 +1,25 @@
+{
+  "id": "iduwqc8",
+  "category": "cinema",
+  "title": "マイライフ・アズ・ア・ドッグ",
+  "fullTitle": "[映]マイライフ・アズ・ア・ドッグ",
+  "detail": "犬と少年をモチーフにした、ラッセ・ハルストレム監督の出世作。病気の母をもつ少年の成長を感動的に描く。［ＰＧ１２］",
+  "start": 1636837200000,
+  "end": 1636844400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

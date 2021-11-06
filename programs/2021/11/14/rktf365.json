@@ -1,0 +1,23 @@
+{
+  "id": "rktf365",
+  "category": "variety",
+  "title": "MINOのパイロット",
+  "fullTitle": "MINOのパイロット #5",
+  "detail": "MINO(WINNER)待望の単独番組パイロット版！再：(金)8:00～、(日)11:45～",
+  "start": 1636857900000,
+  "end": 1636858800000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": []
+}

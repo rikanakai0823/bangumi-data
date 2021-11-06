@@ -1,0 +1,25 @@
+{
+  "id": "idp4b0m",
+  "category": "variety",
+  "title": "ガイロク（街録）選",
+  "fullTitle": "ガイロク（街録）選[字]",
+  "detail": "",
+  "start": 1636848000000,
+  "end": 1636849800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

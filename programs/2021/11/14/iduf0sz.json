@@ -1,0 +1,25 @@
+{
+  "id": "iduf0sz",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃７０１",
+  "detail": "",
+  "start": 1636832700000,
+  "end": 1636833300000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 701,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idrylna",
+  "category": "information",
+  "title": "わかるわかるチャンネル",
+  "fullTitle": "わかるわかるチャンネル　「お金と賢く付き合おう」",
+  "detail": "生活の基盤ともいえるお金の疑問にプロがアドバイス。お金に詳しくなれば、世の中のしくみや未来の見通しを理解できる。自分と家族のために知っておきたいポイントを紹介！",
+  "start": 1636867800000,
+  "end": 1636869600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "お金と賢く付き合おう",
+  "episode": null,
+  "flags": []
+}

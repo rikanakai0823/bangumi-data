@@ -1,0 +1,25 @@
+{
+  "id": "idrylng",
+  "category": "documentary",
+  "title": "二十歳の挑戦",
+  "fullTitle": "[字]二十歳の挑戦",
+  "detail": "番組では、それぞれが歩みだした20歳前後の日々を、ドキュメント感あふれる映像で紹介。答えは一つではない。一歩を踏み出した本気の「挑戦」にエールを送ります。",
+  "start": 1636883640000,
+  "end": 1636884000000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "挑戦",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

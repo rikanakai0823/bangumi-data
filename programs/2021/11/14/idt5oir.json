@@ -1,0 +1,23 @@
+{
+  "id": "idt5oir",
+  "category": "hobby",
+  "title": "Ｄの旋律",
+  "fullTitle": "Ｄの旋律",
+  "detail": "",
+  "start": 1636821000000,
+  "end": 1636821300000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

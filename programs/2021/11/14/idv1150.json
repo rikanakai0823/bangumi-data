@@ -1,0 +1,26 @@
+{
+  "id": "idv1150",
+  "category": "cinema",
+  "title": "ＳＴＵＢＥＲ／ストゥーバー",
+  "fullTitle": "[映][SS]ＳＴＵＢＥＲ／ストゥーバー[吹]",
+  "detail": "クメイル・ナンジアニとデイヴ・バウティスタ共演のアクション。刑事とウーバー運転手のコンビが殺人犯を追う。［ＰＧ１２相当］",
+  "start": 1636860000000,
+  "end": 1636866600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

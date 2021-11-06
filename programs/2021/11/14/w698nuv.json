@@ -1,0 +1,25 @@
+{
+  "id": "w698nuv",
+  "category": "documentary",
+  "title": "アワ・ワールド 世界は今",
+  "fullTitle": "アワ・ワールド 世界は今(再)",
+  "detail": "毎日放送しているニュースから注目すべき世界の諸問題について真実を追求するドキュメンタリー番組。",
+  "start": 1636821000000,
+  "end": 1636822800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

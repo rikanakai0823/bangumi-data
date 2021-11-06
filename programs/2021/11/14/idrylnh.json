@@ -1,0 +1,25 @@
+{
+  "id": "idrylnh",
+  "category": "news",
+  "title": "BS朝日 日曜スクープ",
+  "fullTitle": "[生]BS朝日 日曜スクープ",
+  "detail": "日本と世界の今を伝えるウィークリーニュース！これを見れば、今押さえておきたいニュースのエキスパートに！さらに、注目ニュースを専門家による深い解説とパネルで紹介！",
+  "start": 1636884000000,
+  "end": 1636890840000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idrylni",
+  "category": "music",
+  "title": "暦に集う",
+  "fullTitle": "暦に集う　「黒豆の枝豆」",
+  "detail": "京都府丹波町の農作物は「丹波ブランド」と呼ばれ、中でも「京丹波の黒豆」は江戸幕府に献上していた最高級品とされています。10月は、その黒豆の枝豆の収穫期です。",
+  "start": 1636890840000,
+  "end": 1636891200000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "黒豆の枝豆",
+  "episode": null,
+  "flags": []
+}

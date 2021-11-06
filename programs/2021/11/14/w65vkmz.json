@@ -1,0 +1,25 @@
+{
+  "id": "w65vkmz",
+  "category": "sports",
+  "title": "2021三井住友VISA太平洋マスターズゴルフ",
+  "fullTitle": "[生]2021三井住友VISA太平洋マスターズゴルフ「最終日」",
+  "detail": "4日間全て生中継でお届け！シーズン終盤戦！49回目となる国内最高峰のゴルフトーナメント・三井住友VISA太平洋マスターズ！※ゴルフ中継延長の可能性あり",
+  "start": 1636845900000,
+  "end": 1636853400000,
+  "seconds": 7500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 106
+  },
+  "subTitle": "最終日",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

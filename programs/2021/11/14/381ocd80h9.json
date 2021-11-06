@@ -1,0 +1,23 @@
+{
+  "id": "381ocd80h9",
+  "category": "sports",
+  "title": "全国高校サッカー選手権大会　東京Ｂ決勝",
+  "fullTitle": "第１００回全国高校サッカー選手権大会　東京Ｂ決勝",
+  "detail": "",
+  "start": 1636821060000,
+  "end": 1636827660000,
+  "seconds": 6600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 100,
+  "flags": []
+}

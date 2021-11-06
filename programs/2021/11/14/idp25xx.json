@@ -1,0 +1,26 @@
+{
+  "id": "idp25xx",
+  "category": "sports",
+  "title": "大相撲（２０２１年）　九州場所",
+  "fullTitle": "大相撲（２０２１年）　九州場所[多][字]",
+  "detail": "",
+  "start": 1636869900000,
+  "end": 1636873200000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

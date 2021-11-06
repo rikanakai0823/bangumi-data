@@ -1,0 +1,25 @@
+{
+  "id": "w68209w",
+  "category": "anime",
+  "title": "海賊王女",
+  "fullTitle": "海賊王女 #06 [字]",
+  "detail": "#06 混乱の蒼い船",
+  "start": 1636846200000,
+  "end": 1636848000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "混乱の蒼い船",
+  "episode": 6,
+  "flags": [
+    "字"
+  ]
+}

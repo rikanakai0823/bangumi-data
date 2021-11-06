@@ -1,0 +1,25 @@
+{
+  "id": "idx1tq5",
+  "category": "anime",
+  "title": "ルパン三世(PART2) ベストセレクション",
+  "fullTitle": "[字]ルパン三世(PART2) ベストセレクション",
+  "detail": "#65「ルパンの敵はルパン」\r\n#66「射殺命令!!」\r\nルパン一味が日本から脱出して5年。世界に散っていたルパン・ファミリ…",
+  "start": 1636848000000,
+  "end": 1636851600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ルパンの敵はルパン",
+  "episode": 65,
+  "flags": [
+    "字"
+  ]
+}
