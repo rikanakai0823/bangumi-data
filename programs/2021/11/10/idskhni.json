@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ヒロシのぼっちキャンプ",
   "fullTitle": "[字]ヒロシのぼっちキャンプ",
-  "detail": "",
+  "detail": "◇制作\n2020年",
   "start": 1636549200000,
   "end": 1636552440000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2020年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
