@@ -1,0 +1,25 @@
+{
+  "id": "rkunn3x",
+  "category": "hobby",
+  "title": "ペッパピッグ#111,#112[字/日英]",
+  "fullTitle": "ペッパピッグ#111,#112[二][字/日英]",
+  "detail": "#111「たいひづくり」　#112「リチャードラビットがやってきた」",
+  "start": 1636948800000,
+  "end": 1636949700000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "たいひづくり",
+  "episode": 111,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm4063",
+  "category": "sports",
+  "title": "RIZINで逢いましょう",
+  "fullTitle": "RIZINで逢いましょう #9",
+  "detail": "RIZIN FIGHTING WORLD GRAND-PRIX 2017 バンタム級トーナメント＆女子スーパーアトム級トーナメント 1st ROUND -秋の陣-(RIZIN.7)\r\n(2017年10月15日)",
+  "start": 1636902000000,
+  "end": 1636909200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 9,
+  "flags": []
+}

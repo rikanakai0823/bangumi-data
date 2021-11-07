@@ -1,0 +1,26 @@
+{
+  "id": "iduwuam",
+  "category": "cinema",
+  "title": "バルーン　奇蹟の脱出飛行",
+  "fullTitle": "[映][SS]バルーン　奇蹟の脱出飛行",
+  "detail": "東西冷戦下の１９７９年、手作りの気球によって東ドイツから西側への亡命に挑んだ２家族の実話を基に描いたサスペンスドラマ。",
+  "start": 1636961400000,
+  "end": 1636969500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

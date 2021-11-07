@@ -1,0 +1,25 @@
+{
+  "id": "w66h58s",
+  "category": "sports",
+  "title": "プロ野球ニュース 2021",
+  "fullTitle": "[生]プロ野球ニュース 2021",
+  "detail": "どこよりも詳しくプロ野球情報をお伝えする野球専門番組。クライマックスシリーズの試合結果を詳細にお送りする。\r\n　【生放送】\r\n※変更の場合あり",
+  "start": 1636984800000,
+  "end": 1636988400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

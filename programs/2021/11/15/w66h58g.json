@@ -1,0 +1,23 @@
+{
+  "id": "w66h58g",
+  "category": "information",
+  "title": "おトクな情報",
+  "fullTitle": "おトクな情報",
+  "detail": "各種おトクな情報をお届けしております！",
+  "start": 1636965300000,
+  "end": 1636966200000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

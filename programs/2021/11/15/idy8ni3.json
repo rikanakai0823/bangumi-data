@@ -1,0 +1,25 @@
+{
+  "id": "idy8ni3",
+  "category": "anime",
+  "title": "スター・ウォーズ　レジスタンス",
+  "fullTitle": "スター・ウォーズ　レジスタンス#33[二]",
+  "detail": "#33「消えたスパイ」",
+  "start": 1636918200000,
+  "end": 1636920000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "消えたスパイ",
+  "episode": 33,
+  "flags": [
+    "二"
+  ]
+}

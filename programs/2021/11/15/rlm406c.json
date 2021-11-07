@@ -1,0 +1,23 @@
+{
+  "id": "rlm406c",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.楽天",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.楽天",
+  "detail": "開催日：2021年4月21日\r\nグラシアルと栗原の連続適時打などで先制し、先発・和田が6回途中1失点で今季2勝目を掴んだ一戦",
+  "start": 1636945200000,
+  "end": 1636963200000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

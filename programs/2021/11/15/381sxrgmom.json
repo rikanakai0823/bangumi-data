@@ -1,0 +1,32 @@
+{
+  "id": "381sxrgmom",
+  "category": "music",
+  "title": "ＣＤＴＶライブ！ライブ！",
+  "fullTitle": "ＣＤＴＶライブ！ライブ！[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇見どころ\n　\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/cdtv_livelive/　　　\r\n\n◇公式ＳＮＳ\n★［Twitter］https://twitter.com/TBSCDTV\r\n★［Instagram］https://www.instagram.com/cdtv.tbs6/\r\n★［YouTube］https://www.youtube.com/channel/UC8RGSE6ESHAr-M71qcY4Oqw/channels\r\n\r\n\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
+  "start": 1636977600000,
+  "end": 1636981200000,
+  "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "見どころ": "　",
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/cdtv_livelive/　　　\r\n",
+    "公式ＳＮＳ": "★［Twitter］https://twitter.com/TBSCDTV\r\n★［Instagram］https://www.instagram.com/cdtv.tbs6/\r\n★［YouTube］https://www.youtube.com/channel/UC8RGSE6ESHAr-M71qcY4Oqw/channels\r\n\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

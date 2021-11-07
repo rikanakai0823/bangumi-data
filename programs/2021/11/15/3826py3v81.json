@@ -1,0 +1,25 @@
+{
+  "id": "3826py3v81",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第六闇「釣りの成果」",
+  "start": 1636915200000,
+  "end": 1636915500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "釣りの成果",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

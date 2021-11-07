@@ -1,0 +1,25 @@
+{
+  "id": "idp4bfi",
+  "category": "documentary",
+  "title": "日本の世界遺産",
+  "fullTitle": "日本の世界遺産「悠久の時を生きる森　～屋久島～」[字]",
+  "detail": "九州の南に浮かぶ島の苔むした深い森に息づくのは「屋久杉」と呼ばれる樹齢千年を超える世界でもまれにみる長寿の杉。生命の循環を繰り返す太古の森に流れる悠久の時を巡る",
+  "start": 1636925400000,
+  "end": 1636926300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "悠久の時を生きる森　～屋久島～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

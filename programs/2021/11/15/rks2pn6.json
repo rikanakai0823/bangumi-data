@@ -1,0 +1,25 @@
+{
+  "id": "rks2pn6",
+  "category": "music",
+  "title": "AKB48グループ歌唱力No.1決定戦",
+  "fullTitle": "[生]第4回AKB48グループ歌唱力No.1決定戦「予選1」",
+  "detail": "AKB48グループの中でもっとも魅力的な歌い手を決める「AKB48グループ歌唱力No．1決定戦」の第4回大会。予選審査は生放送、決勝大会は会場から完全生中継！",
+  "start": 1636977600000,
+  "end": 1636988400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "予選1",
+  "episode": 4,
+  "flags": [
+    "生"
+  ]
+}

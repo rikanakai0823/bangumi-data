@@ -1,0 +1,23 @@
+{
+  "id": "rlm4064",
+  "category": "sports",
+  "title": "RIZINで逢いましょう",
+  "fullTitle": "RIZINで逢いましょう #10",
+  "detail": "RIZIN FIGHTING WORLD GRAND-PRIX 2017 バンタム級トーナメント2nd ROUND(RIZIN.8)\r\n(2017年12月29日)",
+  "start": 1636909200000,
+  "end": 1636916400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": []
+}
