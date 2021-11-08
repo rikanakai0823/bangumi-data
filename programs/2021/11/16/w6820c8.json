@@ -1,0 +1,25 @@
+{
+  "id": "w6820c8",
+  "category": "anime",
+  "title": "テレビアニメ無限列車編",
+  "fullTitle": "テレビアニメ「鬼滅の刃」無限列車編 #04 [字]",
+  "detail": "#04 侮辱",
+  "start": 1637060400000,
+  "end": 1637062200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "侮辱",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

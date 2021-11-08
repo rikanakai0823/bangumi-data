@@ -1,0 +1,25 @@
+{
+  "id": "idx1trk",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#234「しまっちゃうおじさんが地図をくれた」\r\nラッコの子ども“ぼのぼの”とシマリスくんやスナドリネコさん。そんな…",
+  "start": 1637018400000,
+  "end": 1637019000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "しまっちゃうおじさんが地図をくれた",
+  "episode": 234,
+  "flags": [
+    "字"
+  ]
+}

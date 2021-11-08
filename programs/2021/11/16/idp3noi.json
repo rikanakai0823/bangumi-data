@@ -1,0 +1,23 @@
+{
+  "id": "idp3noi",
+  "category": "etc",
+  "title": "プレミアムセレクション",
+  "fullTitle": "プレミアムセレクション",
+  "detail": "",
+  "start": 1637048940000,
+  "end": 1637050200000,
+  "seconds": 1260,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

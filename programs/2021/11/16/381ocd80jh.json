@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80jh",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まもなく一攫千金宝の山」[字]",
+  "detail": "",
+  "start": 1637063640000,
+  "end": 1637064000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "まもなく一攫千金宝の山",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

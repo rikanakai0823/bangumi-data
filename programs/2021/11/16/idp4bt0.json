@@ -1,0 +1,25 @@
+{
+  "id": "idp4bt0",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「皇居」[字]",
+  "detail": "東京の真ん中にある３０万坪の広大な空間、皇居。そこでは、日々どのような営みがくり広げられているのか。１か月にわたってカメラを持ち込み、皇居を克明に記録した。",
+  "start": 1637053800000,
+  "end": 1637056800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "皇居",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idp4bsz",
+  "category": "etc",
+  "title": "プレミアムセレクション",
+  "fullTitle": "プレミアムセレクション",
+  "detail": "",
+  "start": 1637042580000,
+  "end": 1637046180000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
