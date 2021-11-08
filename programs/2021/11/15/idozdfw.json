@@ -1,8 +1,8 @@
 {
   "id": "idozdfw",
   "category": "sports",
-  "title": "（２０２１ＮＨＫ杯フィギュア）",
-  "fullTitle": "（２０２１ＮＨＫ杯フィギュア）",
+  "title": "２０２１ＮＨＫ杯フィギュア",
+  "fullTitle": "２０２１ＮＨＫ杯フィギュア[多]",
   "detail": "",
   "start": 1636934400000,
   "end": 1636937400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "多"
+  ]
 }
