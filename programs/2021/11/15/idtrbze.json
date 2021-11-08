@@ -1,0 +1,23 @@
+{
+  "id": "idtrbze",
+  "category": "information",
+  "title": "QVC ジャパンテレビショッピング",
+  "fullTitle": "QVC ジャパンテレビショッピング",
+  "detail": "",
+  "start": 1636927260000,
+  "end": 1636929000000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
