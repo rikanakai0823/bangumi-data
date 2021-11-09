@@ -1,0 +1,26 @@
+{
+  "id": "idozavy",
+  "category": "documentary",
+  "title": "ＢＳ世界のドキュメンタリー",
+  "fullTitle": "ＢＳ世界のドキュメンタリー[二][字]",
+  "detail": "",
+  "start": 1637157600000,
+  "end": 1637160300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

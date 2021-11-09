@@ -1,0 +1,23 @@
+{
+  "id": "iduvjwr",
+  "category": "etc",
+  "title": "オープニング",
+  "fullTitle": "オープニング",
+  "detail": "スターチャンネルはまもなく放送を開始いたします。",
+  "start": 1637096100000,
+  "end": 1637096400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rkunn6s",
+  "category": "hobby",
+  "title": "ペッパピッグ#115,#116[字/日英]",
+  "fullTitle": "ペッパピッグ#115,#116[二][字/日英]",
+  "detail": "#115「ポリーとボート」　#116「デルフィーヌドンキー」",
+  "start": 1637121600000,
+  "end": 1637122500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ポリーとボート",
+  "episode": 115,
+  "flags": [
+    "二"
+  ]
+}

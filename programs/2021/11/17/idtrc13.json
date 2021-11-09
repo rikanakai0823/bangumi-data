@@ -1,0 +1,23 @@
+{
+  "id": "idtrc13",
+  "category": "information",
+  "title": "雪印ビーンスタークテレビショッピング",
+  "fullTitle": "雪印ビーンスタークテレビショッピング",
+  "detail": "",
+  "start": 1637078700000,
+  "end": 1637080440000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

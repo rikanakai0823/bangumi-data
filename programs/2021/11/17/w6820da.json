@@ -1,0 +1,25 @@
+{
+  "id": "w6820da",
+  "category": "anime",
+  "title": "SCARLET NEXUS",
+  "fullTitle": "SCARLET NEXUS #20 [字]",
+  "detail": "#20 再会",
+  "start": 1637136000000,
+  "end": 1637137800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "再会",
+  "episode": 20,
+  "flags": [
+    "字"
+  ]
+}

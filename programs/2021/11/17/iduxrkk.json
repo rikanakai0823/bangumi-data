@@ -1,0 +1,25 @@
+{
+  "id": "iduxrkk",
+  "category": "cinema",
+  "title": "ペンチャー・ワゴン",
+  "fullTitle": "[映]ペンチャー・ワゴン",
+  "detail": "リー・マーヴィンとクリント・イーストウッドが共演したミュージカル西部劇。魅力的な妻と、２人の夫が巻き起こす大騒動を描く。",
+  "start": 1637150400000,
+  "end": 1637161200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

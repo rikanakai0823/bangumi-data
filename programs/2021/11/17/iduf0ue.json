@@ -1,0 +1,25 @@
+{
+  "id": "iduf0ue",
+  "category": "theater",
+  "title": "シネマ歌舞伎『海神別荘』",
+  "fullTitle": "シネマ歌舞伎『海神別荘』[SS]",
+  "detail": "海にささげられた美女は、海底で無垢な魂と出会う。海底にある宮殿の公子と、地上の美女の恋を描いた物語。坂東玉三郎、市川海老蔵の共演が実現。",
+  "start": 1637123400000,
+  "end": 1637129700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

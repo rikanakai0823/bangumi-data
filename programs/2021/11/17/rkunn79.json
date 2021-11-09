@@ -1,0 +1,25 @@
+{
+  "id": "rkunn79",
+  "category": "hobby",
+  "title": "ペッパピッグ#67,#68[字/日英]",
+  "fullTitle": "ペッパピッグ#67,#68[二][字/日英]",
+  "detail": "#67「おふねあそび」　#68「ねるじかん」",
+  "start": 1637150400000,
+  "end": 1637151300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "おふねあそび",
+  "episode": 67,
+  "flags": [
+    "二"
+  ]
+}

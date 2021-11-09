@@ -1,0 +1,23 @@
+{
+  "id": "w66ling",
+  "category": "documentary",
+  "title": "新・みんなの鉄道",
+  "fullTitle": "新・みんなの鉄道　#1「しなの鉄道」",
+  "detail": "長野新幹線開業により、信越本線の軽井沢から篠ノ井間を第3セクター化し開業した「しなの鉄道・しなの鉄道線」に入線。営業キロ65.1km、駅数19の路線。",
+  "start": 1637132400000,
+  "end": 1637136000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 114
+  },
+  "subTitle": "しなの鉄道",
+  "episode": 1,
+  "flags": []
+}
