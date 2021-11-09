@@ -1,9 +1,9 @@
 {
   "id": "idvj2hn",
   "category": "sports",
-  "title": "マイナビ Be a booster！　B.LEAGUEウィークリーハイライト",
-  "fullTitle": "マイナビ Be a booster！　B.LEAGUEウィークリーハイライト　＃６",
-  "detail": "男子プロバスケットボールリーグ『B.LEAGUE（Bリーグ）』の、１週間の出来事をピックアップ！\r\n",
+  "title": "マイナビBe a booster!",
+  "fullTitle": "マイナビBe a booster!「昨夜のゲームから注目ゲームをピックアップ！」",
+  "detail": "B1第７節から注目試合を中心にたっぷりと！熱く熱くお伝えしてまいります！",
   "start": 1636635600000,
   "end": 1636637400000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 65
   },
-  "subTitle": "",
-  "episode": 6,
+  "subTitle": "昨夜のゲームから注目ゲームをピックアップ！",
+  "episode": null,
   "flags": []
 }
