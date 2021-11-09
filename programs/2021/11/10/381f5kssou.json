@@ -1,12 +1,12 @@
 {
   "id": "381f5kssou",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報[字]",
-  "detail": "",
-  "start": 1636524000000,
-  "end": 1636524420000,
-  "seconds": 420,
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「首相指名選挙」関連[字]",
+  "detail": "▽中継・首相指名選挙…第１０１代の首相に岸田氏を選出へ▽各党の幹部に問う…今後の国会にどう臨む",
+  "start": 1636520700000,
+  "end": 1636526400000,
+  "seconds": 5700,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "首相指名選挙",
   "episode": null,
   "flags": [
     "字"
