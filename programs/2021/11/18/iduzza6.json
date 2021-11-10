@@ -1,0 +1,27 @@
+{
+  "id": "iduzza6",
+  "category": "cinema",
+  "title": "キャッツ",
+  "fullTitle": "[映][SS][字]キャッツ[吹]【吹替メガヒット９（再）】",
+  "detail": "大ヒットミュージカルを豪華スターの共演で実写映画化。満月の夜、ロンドンの片隅で個性豊かな猫たちが舞踏会を繰り広げる。",
+  "start": 1637208600000,
+  "end": 1637215800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "吹替メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

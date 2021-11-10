@@ -1,0 +1,26 @@
+{
+  "id": "iduvpf0",
+  "category": "cinema",
+  "title": "４７歳　人生のステータス",
+  "fullTitle": "[映][SS]４７歳　人生のステータス",
+  "detail": "ベン・スティラー主演の人間ドラマ。４７歳の中年男性が大学進学を目指す息子との旅で、自分を見つめ直していくさまを描く。",
+  "start": 1637229600000,
+  "end": 1637236800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

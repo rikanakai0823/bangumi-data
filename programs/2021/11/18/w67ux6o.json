@@ -1,0 +1,25 @@
+{
+  "id": "w67ux6o",
+  "category": "anime",
+  "title": "あひるの空 ,24",
+  "fullTitle": "あひるの空[字] #23,24",
+  "detail": "＃２３「月とリング」＃２４「光」",
+  "start": 1637226000000,
+  "end": 1637229600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "月とリング",
+  "episode": 23,
+  "flags": [
+    "字"
+  ]
+}

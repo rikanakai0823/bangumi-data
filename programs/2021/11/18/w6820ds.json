@@ -1,0 +1,23 @@
+{
+  "id": "w6820ds",
+  "category": "anime",
+  "title": "８６ -エイティシックス- 特番",
+  "fullTitle": "８６ -エイティシックス- 特番",
+  "detail": "この時間は「『８６ -エイティシックス-』特番」を放送いたします",
+  "start": 1637179200000,
+  "end": 1637181000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "『８６ -エイティシックス-』特番",
+  "episode": null,
+  "flags": []
+}

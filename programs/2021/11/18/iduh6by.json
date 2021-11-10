@@ -1,0 +1,27 @@
+{
+  "id": "iduh6by",
+  "category": "cinema",
+  "title": "Ｗの悲劇",
+  "fullTitle": "[映]Ｗの悲劇[SS][字]",
+  "detail": "舞台での役と引き替えに、看板女優のスキャンダルを肩代わりすることになる劇団研究生。２０歳の薬師丸ひろ子が三田佳子を相手にヒロインを熱演し、女優に開眼した話題作。",
+  "start": 1637229600000,
+  "end": 1637236800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

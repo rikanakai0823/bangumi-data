@@ -1,0 +1,25 @@
+{
+  "id": "381ocd80kr",
+  "category": "variety",
+  "title": "日テレ＋",
+  "fullTitle": "日テレ＋「まもなく秘密のケンミンＳＨＯＷ極」[字]",
+  "detail": "",
+  "start": 1637236440000,
+  "end": 1637236800000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "まもなく秘密のケンミンＳＨＯＷ極",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rkunn88",
+  "category": "hobby",
+  "title": "ペッパピッグ#117,#118[字/日英]",
+  "fullTitle": "ペッパピッグ#117,#118[二][字/日英]",
+  "detail": "#117「しょうぼうしゃ」　#118「プリンセス・ペッパ」",
+  "start": 1637208000000,
+  "end": 1637208900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "しょうぼうしゃ",
+  "episode": 117,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idozbc2",
+  "category": "news",
+  "title": "ワールドニュース",
+  "fullTitle": "ワールドニュース[二]",
+  "detail": "▽アメリカ・ＡＢＣ，フランス・Ｆ２，オーストラリア・ＡＢＣ",
+  "start": 1637205900000,
+  "end": 1637207400000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
