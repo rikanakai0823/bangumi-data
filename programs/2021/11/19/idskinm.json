@@ -1,0 +1,23 @@
+{
+  "id": "idskinm",
+  "category": "theater",
+  "title": "落語研究会▽「厩火事」桃月庵白酒、「柴檀楼古木」入船亭扇辰、桂やまと",
+  "fullTitle": "落語研究会▽「厩火事」桃月庵白酒、「柴檀楼古木」入船亭扇辰、「阿武松」桂やまと",
+  "detail": "国立劇場で毎月開催の「落語研究会」の高座から、よりすぐりの落語を、月に一度お届けします。",
+  "start": 1637265600000,
+  "end": 1637272800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "阿武松",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvsvw",
+  "category": "cinema",
+  "title": "海底４７ｍ",
+  "fullTitle": "[映][SS]海底４７ｍ【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "逃げ場のない海中でサメの恐怖が迫るワンシチュエーションスリラー。海底に落下した檻に閉じ込められた姉妹の決死の脱出を描く。",
+  "start": 1637330400000,
+  "end": 1637336700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

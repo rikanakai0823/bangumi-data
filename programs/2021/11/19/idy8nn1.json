@@ -1,0 +1,25 @@
+{
+  "id": "idy8nn1",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#13[解]",
+  "detail": "#13「雪山に積もるツム」",
+  "start": 1637288820000,
+  "end": 1637289000000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "雪山に積もるツム",
+  "episode": 13,
+  "flags": [
+    "解"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp3m70",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「木曽路の宿場町」[字][再]",
+  "detail": "黒い格子の家並みが、江戸情緒を醸し出す。木曽川沿いに点在する、“木曽十一宿”と呼ばれた中山道の宿場町だ。山深い木曽に暮らす人々の素顔の日常を描く。",
+  "start": 1637276400000,
+  "end": 1637280000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "木曽路の宿場町",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

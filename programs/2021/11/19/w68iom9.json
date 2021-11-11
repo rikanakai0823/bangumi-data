@@ -1,0 +1,25 @@
+{
+  "id": "w68iom9",
+  "category": "documentary",
+  "title": "ATLAS 日本",
+  "fullTitle": "ATLAS 日本(字)",
+  "detail": "現代と古代が同居する国、日本。日本人のユニークな生活と未来への希望、そして古き伝統を守る人々を紹介する。",
+  "start": 1637285400000,
+  "end": 1637289000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "アニマルプラネット",
+    "id": "f0dx",
+    "sid": 341,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 133
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

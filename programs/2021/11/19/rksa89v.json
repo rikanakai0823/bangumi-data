@@ -1,0 +1,23 @@
+{
+  "id": "rksa89v",
+  "category": "anime",
+  "title": "【ドラえもん1999年一挙放送】",
+  "fullTitle": "【ドラえもん1999年一挙放送】",
+  "detail": "#810・811\r\n#810「パニックアース/ムリヤリ借用書」\r\n#811「やった木/カミナリだいこ」",
+  "start": 1637258400000,
+  "end": 1637262000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 810,
+  "flags": []
+}

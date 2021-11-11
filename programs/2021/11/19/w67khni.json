@@ -1,0 +1,23 @@
+{
+  "id": "w67khni",
+  "category": "music",
+  "title": "K-POPランキングTOP10",
+  "fullTitle": "K-POPランキングTOP10",
+  "detail": "K-POPのヒット曲をオリジナルランキングでカウントダウン！さらに、人気アーティストの韓国のMVを先取りでオンエア！▼最新チャートは「エムオン」で検索！",
+  "start": 1637276400000,
+  "end": 1637280000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "エムオン",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm407p",
+  "category": "sports",
+  "title": "RIKIX 2020.10.29TSUTAYA O-EAST",
+  "fullTitle": "RIKIX 2020.10.29TSUTAYA O-EAST",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1637251200000,
+  "end": 1637258400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm407q",
+  "category": "sports",
+  "title": "全日本プロレス 2020.8.15後楽園ホール",
+  "fullTitle": "全日本プロレス 2020.8.15後楽園ホール",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1637258400000,
+  "end": 1637265600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": null,
+  "flags": []
+}

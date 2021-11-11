@@ -1,0 +1,26 @@
+{
+  "id": "rktcvaa",
+  "category": "cinema",
+  "title": "Ｋ－シアター",
+  "fullTitle": "Ｋ－シアター「探偵なふたり：リターンズ」[字][再]",
+  "detail": "KBS World初放送！クォン・サンウ×ソン・ドンイル主演！推理オタクと違法捜査のプロのデコボコ コンビが事件を捜査する推理ミステリーコメディの第2弾！2018年",
+  "start": 1637332800000,
+  "end": 1637340900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "探偵なふたり：リターンズ",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
