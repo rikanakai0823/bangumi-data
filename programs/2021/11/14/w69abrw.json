@@ -1,9 +1,9 @@
 {
   "id": "w69abrw",
   "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "title": "ヨーロッパ経済市場",
+  "fullTitle": "ヨーロッパ経済市場[再]",
+  "detail": "#6 サステナビリティへの取組み。気候変動問題について話し合うCOP26が10月末開幕。食品大手「ネスレ」の会長に、サステナビリティに向けた取組みについて聞く。",
   "start": 1636869600000,
   "end": 1636871400000,
   "seconds": 1800,
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "ネスレ",
+  "episode": 6,
   "flags": [
     "再"
   ]
