@@ -2,8 +2,8 @@
   "id": "idozdfw",
   "category": "sports",
   "title": "２０２１ＮＨＫ杯フィギュア",
-  "fullTitle": "２０２１ＮＨＫ杯フィギュア[多]",
-  "detail": "",
+  "fullTitle": "２０２１ＮＨＫ杯フィギュア「アイスダンス」",
+  "detail": "北京五輪代表の座を狙う村元哉中・髙橋大輔組と小松原組。ＮＨＫ杯を終えて上位にいるのは果たして？リズムダンスとフリーダンスの両演技を振り返ります。",
   "start": 1636934400000,
   "end": 1636937400000,
   "seconds": 3000,
@@ -17,9 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "アイスダンス",
   "episode": null,
-  "flags": [
-    "多"
-  ]
+  "flags": []
 }

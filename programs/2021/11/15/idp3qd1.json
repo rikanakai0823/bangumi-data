@@ -1,0 +1,26 @@
+{
+  "id": "idp3qd1",
+  "category": "documentary",
+  "title": "桃源紀行",
+  "fullTitle": "桃源紀行「中国・普者黒（雲南省）」[字][再]",
+  "detail": "世界各地のまるで「桃源郷」のように魅力的な場所を、地元に暮らす人の案内で紹介するシリーズ。少数民族サニ族が暮らす美しい村、雲南省プージャーヘイを紹介する。",
+  "start": 1636923600000,
+  "end": 1636925400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "中国・普者黒（雲南省）",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
