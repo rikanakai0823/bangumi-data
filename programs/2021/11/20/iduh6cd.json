@@ -1,0 +1,27 @@
+{
+  "id": "iduh6cd",
+  "category": "cinema",
+  "title": "日本統一２３",
+  "fullTitle": "[初][映]日本統一２３[字]",
+  "detail": "極道界日本統一を目指す男たちの熱いドラマを描いた人気シリーズ第２３作。氷室がヒットマンに命を狙われる一方、東北では丸神会と極山会との抗争が激化していく。",
+  "start": 1637340300000,
+  "end": 1637345700000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

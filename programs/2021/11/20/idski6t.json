@@ -1,0 +1,25 @@
+{
+  "id": "idski6t",
+  "category": "cinema",
+  "title": "土曜映画デラックス「ランボー」",
+  "fullTitle": "[映]土曜映画デラックス「ランボー」【吹替】",
+  "detail": "アクションスター！シルベスター・スタローンの代表シリーズ、記念すべき第１作",
+  "start": 1637409600000,
+  "end": 1637416440000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

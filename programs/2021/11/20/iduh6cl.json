@@ -1,0 +1,27 @@
+{
+  "id": "iduh6cl",
+  "category": "cinema",
+  "title": "信長協奏曲",
+  "fullTitle": "[映]信長協奏曲[SS][字]",
+  "detail": "「ミュージアム」の小栗旬が主演した人気ＴＶドラマを映画化した大ヒット作。戦国時代に飛ばされ、織田信長となった現代の高校生サブローに、いよいよ本能寺の変が迫る。",
+  "start": 1637390700000,
+  "end": 1637398800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "ミュージアム",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

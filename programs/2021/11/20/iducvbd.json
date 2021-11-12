@@ -1,0 +1,28 @@
+{
+  "id": "iducvbd",
+  "category": "cinema",
+  "title": "ブレイブ－群青戦記－[PG12指定]",
+  "fullTitle": "[初][映]ブレイブ－群青戦記－[PG12指定][SS][字]",
+  "detail": "新田真剣佑、三浦春馬、松山ケンイチらを出演陣に迎え、笠原真樹による人気コミックを実写映画化。戦国時代にタイムスリップした高校生たちの戦いを描く青春ファンタジー。",
+  "start": 1637380800000,
+  "end": 1637388000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

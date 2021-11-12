@@ -1,0 +1,25 @@
+{
+  "id": "idv067o",
+  "category": "cinema",
+  "title": "クローゼット",
+  "fullTitle": "[映]クローゼット[吹]",
+  "detail": "ハ・ジョンウとキム・ナムギル共演のホラー。行方不明になった娘を捜す父親と、彼の手助けをする謎の男を描く。",
+  "start": 1637409600000,
+  "end": 1637416500000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

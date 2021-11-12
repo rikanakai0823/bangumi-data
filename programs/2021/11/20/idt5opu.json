@@ -1,0 +1,23 @@
+{
+  "id": "idt5opu",
+  "category": "sports",
+  "title": "ウイニング競馬　～東京～",
+  "fullTitle": "ウイニング競馬　～東京～",
+  "detail": "【東京】11Ｒ東京スポーツ杯２歳Ｓ（ＧⅡ）\r\n【阪神】10Ｒ尼崎Ｓ、\r\n　　　　11ＲアンドロメダＳ（Ｌ）\r\n【福島】11ＲみちのくＳ、12Ｒ西郷特別",
+  "start": 1637386200000,
+  "end": 1637391600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "東京",
+  "episode": null,
+  "flags": []
+}

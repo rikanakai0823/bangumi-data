@@ -1,0 +1,23 @@
+{
+  "id": "rlm408c",
+  "category": "sports",
+  "title": "ガンガン!ホークス CHECK!GO!",
+  "fullTitle": "ガンガン!ホークス CHECK!GO! #133",
+  "detail": "今月のガンガンTOPICS は大型内野手として成長を続ける小林珠維 選手のプレーに注目します！",
+  "start": 1637400600000,
+  "end": 1637402400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 133,
+  "flags": []
+}

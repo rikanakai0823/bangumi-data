@@ -1,0 +1,27 @@
+{
+  "id": "iduh6cp",
+  "category": "cinema",
+  "title": "グレート・ホワイト（字幕版）",
+  "fullTitle": "[初][映]グレート・ホワイト（字幕版）[SS]",
+  "detail": "陸地から１６０ｋｍも離れた絶海で遭難してしまった５人の男女。１隻の救命ボートで岸を目指す彼らに、血に飢えたサメがつきまとう。大海原を舞台に描くシャークパニック。",
+  "start": 1637419500000,
+  "end": 1637425800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}

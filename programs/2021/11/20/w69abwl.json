@@ -1,0 +1,25 @@
+{
+  "id": "w69abwl",
+  "category": "news",
+  "title": "アンダーソン・クーパー360°",
+  "fullTitle": "[二]アンダーソン・クーパー360°",
+  "detail": "日本語同時通訳付。\r\n米国の最新トピックを全方向(360゜)で一望。司会はアンダーソン・クーパー。政治・経済からポップカルチャーまでリアル・アメリカを体験できます。",
+  "start": 1637370000000,
+  "end": 1637373600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

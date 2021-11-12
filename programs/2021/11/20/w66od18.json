@@ -1,0 +1,26 @@
+{
+  "id": "w66od18",
+  "category": "drama",
+  "title": "MANIFEST/マニフェスト1 全話一挙放送",
+  "fullTitle": "[二]MANIFEST/マニフェスト1 全話一挙放送#16[終]",
+  "detail": "#16「出発予定時刻」\r\nEstimated Time of Departure\r\nグリフィンが釈放される日、カルは工作で作ったアイス棒のドラゴンを壊して暴れ出す。",
+  "start": 1637391600000,
+  "end": 1637395200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "出発予定時刻",
+  "episode": 16,
+  "flags": [
+    "二",
+    "終"
+  ]
+}

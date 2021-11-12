@@ -1,0 +1,25 @@
+{
+  "id": "idy8no7",
+  "category": "anime",
+  "title": "おさるのジョージ",
+  "fullTitle": "おさるのジョージ#150[二]",
+  "detail": "#150「落としましたよ～／ちぢみ！」",
+  "start": 1637364600000,
+  "end": 1637366400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "落としましたよ～／ちぢみ！",
+  "episode": 150,
+  "flags": [
+    "二"
+  ]
+}

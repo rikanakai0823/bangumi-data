@@ -1,0 +1,27 @@
+{
+  "id": "iduh6cg",
+  "category": "cinema",
+  "title": "日本統一２６",
+  "fullTitle": "[初][映]日本統一２６[字]",
+  "detail": "本宮泰風、山口祥行主演の任侠大河ドラマ第２６作。沖縄での内紛に決着をつけるため奔走する氷室と田村。その一方、現体制の侠和会に不満を持つ勢力がうごめきだす……。",
+  "start": 1637358300000,
+  "end": 1637364600000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w6820g9",
+  "category": "anime",
+  "title": "最果てのパラディン",
+  "fullTitle": "最果てのパラディン #06 [字]",
+  "detail": "#06 獣の森の射手",
+  "start": 1637364600000,
+  "end": 1637366400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "獣の森の射手",
+  "episode": 6,
+  "flags": [
+    "字"
+  ]
+}

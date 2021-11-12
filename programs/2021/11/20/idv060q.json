@@ -1,0 +1,26 @@
+{
+  "id": "idv060q",
+  "category": "cinema",
+  "title": "フリー・ガイ",
+  "fullTitle": "[映][SS]フリー・ガイ[吹]",
+  "detail": "ライアン・レイノルズ主演のアドベンチャーアクション。自分がゲームのキャラクターであることに気づいた主人公が世界を救う。",
+  "start": 1637401800000,
+  "end": 1637409600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

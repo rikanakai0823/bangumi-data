@@ -1,0 +1,27 @@
+{
+  "id": "iduh6cf",
+  "category": "cinema",
+  "title": "日本統一２５",
+  "fullTitle": "[初][映]日本統一２５[字]",
+  "detail": "極道界日本統一へと邁進する男たちのドラマを描いた人気シリーズ第２５作。三代目侠和会会長・川谷がヒットマンに撃たれ、氷室たちは会の中枢に内通者がいることを疑う。",
+  "start": 1637352000000,
+  "end": 1637358300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

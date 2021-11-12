@@ -1,0 +1,25 @@
+{
+  "id": "w66od14",
+  "category": "drama",
+  "title": "MANIFEST/マニフェスト1 全話一挙放送",
+  "fullTitle": "[二]MANIFEST/マニフェスト1 全話一挙放送#12",
+  "detail": "#12「消失点」\r\nVanishing Point\r\nベンが自宅に戻ると、警察が詰めかけていた。グレースがカルの失踪を通報したためだ。",
+  "start": 1637377200000,
+  "end": 1637380800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "消失点",
+  "episode": 12,
+  "flags": [
+    "二"
+  ]
+}
