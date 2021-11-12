@@ -1,0 +1,27 @@
+{
+  "id": "idozgm9",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「デナリ　大滑降　完全版」[SS][字][再]",
+  "detail": "アラスカにそびえる北米最高峰デナリ（旧名マッキンリー）の世界最大級の急斜面を一気に滑降する！世界初の冒険に挑むスキーヤー佐々木大輔の１年間に完全密着。",
+  "start": 1636880400000,
+  "end": 1636887000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "デナリ　大滑降　完全版",
+  "episode": null,
+  "flags": [
+    "SS",
+    "字",
+    "再"
+  ]
+}
