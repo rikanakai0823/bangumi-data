@@ -1,0 +1,25 @@
+{
+  "id": "idx1tv9",
+  "category": "anime",
+  "title": "ルパン三世(PART2) ベストセレクション",
+  "fullTitle": "[字]ルパン三世(PART2) ベストセレクション",
+  "detail": "#67「ルパンの大西遊記」\r\n#68「カジノ島・逆転また逆転」\r\nルパン一味が日本から脱出して5年。世界に散っていたルパン…",
+  "start": 1637452800000,
+  "end": 1637456400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ルパンの大西遊記",
+  "episode": 67,
+  "flags": [
+    "字"
+  ]
+}

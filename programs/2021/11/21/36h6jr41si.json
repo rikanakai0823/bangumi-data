@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr41si",
+  "category": "hobby",
+  "title": "日本ふるさと百景",
+  "fullTitle": "日本ふるさと百景[字][Ｓ]",
+  "detail": "東京編３",
+  "start": 1637479800000,
+  "end": 1637481300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

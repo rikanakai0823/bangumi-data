@@ -1,0 +1,23 @@
+{
+  "id": "idvj2ro",
+  "category": "anime",
+  "title": "ポプテピピック",
+  "fullTitle": "ポプテピピック　＃７「ヘルシェイク矢野」",
+  "detail": "",
+  "start": 1637425800000,
+  "end": 1637427600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "ヘルシェイク矢野",
+  "episode": 7,
+  "flags": []
+}

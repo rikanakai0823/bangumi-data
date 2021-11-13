@@ -1,0 +1,25 @@
+{
+  "id": "idy8np7",
+  "category": "anime",
+  "title": "スター・ウォーズ　レジスタンス",
+  "fullTitle": "スター・ウォーズ　レジスタンス#34[二]",
+  "detail": "#34「救出作戦」",
+  "start": 1637436600000,
+  "end": 1637438400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "救出作戦",
+  "episode": 34,
+  "flags": [
+    "二"
+  ]
+}

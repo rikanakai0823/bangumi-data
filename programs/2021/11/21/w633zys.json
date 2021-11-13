@@ -1,0 +1,25 @@
+{
+  "id": "w633zys",
+  "category": "sports",
+  "title": "明治神宮野球大会",
+  "fullTitle": "[生]第52回明治神宮野球大会【第2日】",
+  "detail": "【第2日】第1、2試合 高校の部 2回戦／第3、4試合 大学の部 2回戦\r\n(2021/11/21　明治神宮野球場)\r\n※雨天順延あり",
+  "start": 1637451000000,
+  "end": 1637487000000,
+  "seconds": 36000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "第2日",
+  "episode": 52,
+  "flags": [
+    "生"
+  ]
+}

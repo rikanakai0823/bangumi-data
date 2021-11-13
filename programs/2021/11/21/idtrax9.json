@@ -1,0 +1,26 @@
+{
+  "id": "idtrax9",
+  "category": "anime",
+  "title": "ワンピース",
+  "fullTitle": "[解][字]ワンピース　第751話「冒険開幕　幻の島「ゾウ」到着！」",
+  "detail": "伝説の秘宝“ワンピース”を求めルフィは仲間と冒険の旅。",
+  "start": 1637458200000,
+  "end": 1637460000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "冒険開幕　幻の島",
+  "episode": 751,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

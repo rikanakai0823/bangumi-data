@@ -1,0 +1,26 @@
+{
+  "id": "idv08iw",
+  "category": "cinema",
+  "title": "名もなき生涯",
+  "fullTitle": "[映][SS]名もなき生涯[吹]",
+  "detail": "テレンス・マリック監督のドラマ。第二次世界大戦下、ナチスに抵抗して自らの信念に殉じた男の不屈の人生を実話に基づいて描く。",
+  "start": 1637456400000,
+  "end": 1637467200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

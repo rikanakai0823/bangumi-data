@@ -1,0 +1,25 @@
+{
+  "id": "w698o64",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "「テクノロジー」にまつわるニュースや最新動向をレポートする番組。ネットライフをより快適にする情報や、使えるウェブサイトの紹介など、役立つ情報満載でお届けする。",
+  "start": 1637465400000,
+  "end": 1637467200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "テクノロジー",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp3nb9",
+  "category": "documentary",
+  "title": "小さな旅",
+  "fullTitle": "小さな旅「工場夜景　誇り輝く～川崎～」[解][字]",
+  "detail": "京浜工業地帯にある川崎市の工場群。夜は魅惑的な工場夜景が広がります。その魅力を伝えるガイド。労働者を支えてきた食堂。工場とともに人生を歩む人々を訪ねます。",
+  "start": 1637481900000,
+  "end": 1637483400000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "工場夜景　誇り輝く～川崎～",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

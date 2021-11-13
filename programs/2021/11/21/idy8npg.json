@@ -1,0 +1,25 @@
+{
+  "id": "idy8npg",
+  "category": "anime",
+  "title": "おさるのジョージ",
+  "fullTitle": "おさるのジョージ#151[二]",
+  "detail": "#151「どーこだ？／もちあげろー！」",
+  "start": 1637451000000,
+  "end": 1637452800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "どーこだ？／もちあげろー！",
+  "episode": 151,
+  "flags": [
+    "二"
+  ]
+}

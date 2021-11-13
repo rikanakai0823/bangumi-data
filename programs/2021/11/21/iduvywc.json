@@ -1,0 +1,26 @@
+{
+  "id": "iduvywc",
+  "category": "cinema",
+  "title": "ノマドランド",
+  "fullTitle": "[映][SS]ノマドランド",
+  "detail": "アカデミー賞主要３部門ほか、数々の映画賞に輝く人間ドラマ。“現代のノマド（遊牧民）”として車上生活を送る女性の姿を描く。",
+  "start": 1637488800000,
+  "end": 1637496000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

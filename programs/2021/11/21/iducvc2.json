@@ -1,0 +1,27 @@
+{
+  "id": "iducvc2",
+  "category": "cinema",
+  "title": "劇場",
+  "fullTitle": "[映]劇場[SS][字]",
+  "detail": "人気芸人にして芥川賞作家・又吉直樹による初の長編恋愛小説を、行定勲監督が映画化。演劇界での成功を夢見るしがない青年と、彼を支え続ける献身的な恋人との葛藤を綴る。",
+  "start": 1637490000000,
+  "end": 1637498400000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3826py3w2v",
+  "category": "sports",
+  "title": "ＳＭＢＣ日本シリーズ２０２１第２戦",
+  "fullTitle": "ＳＭＢＣ日本シリーズ２０２１第２戦[字]",
+  "detail": "ＳＭＢＣ日本シリーズ２０２１第２戦の模様をお届けします。",
+  "start": 1637485200000,
+  "end": 1637496000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

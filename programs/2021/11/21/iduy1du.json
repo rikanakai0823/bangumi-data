@@ -1,0 +1,25 @@
+{
+  "id": "iduy1du",
+  "category": "cinema",
+  "title": "パリ、テキサス",
+  "fullTitle": "[映]パリ、テキサス",
+  "detail": "カンヌ国際映画祭最高賞に輝いたヴィム・ヴェンダース監督の名作。記憶を失った男が、息子とともに妻を捜す旅に出る…",
+  "start": 1637425800000,
+  "end": 1637435400000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

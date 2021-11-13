@@ -1,0 +1,26 @@
+{
+  "id": "rktcvat",
+  "category": "drama",
+  "title": "ミス・マンマミーア　、7",
+  "fullTitle": "ミス・マンマミーア　#6、7　[字][再]",
+  "detail": "2015年 全12話",
+  "start": 1637431200000,
+  "end": 1637439300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 6,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

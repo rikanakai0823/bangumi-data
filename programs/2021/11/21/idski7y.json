@@ -1,0 +1,25 @@
+{
+  "id": "idski7y",
+  "category": "news",
+  "title": "ＴＢＳニュース",
+  "fullTitle": "[字]ＴＢＳニュース",
+  "detail": "",
+  "start": 1637438400000,
+  "end": 1637440200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

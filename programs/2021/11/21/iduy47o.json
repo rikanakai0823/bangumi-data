@@ -1,0 +1,26 @@
+{
+  "id": "iduy47o",
+  "category": "cinema",
+  "title": "トゥルー・グリット",
+  "fullTitle": "[映][SS]トゥルー・グリット",
+  "detail": "ジョン・ウェイン主演の名作『勇気ある追跡』の原作を、コーエン兄弟が現代的な視点を取り入れ再映画化した西部劇。［ＰＧ１２］",
+  "start": 1637496000000,
+  "end": 1637503200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

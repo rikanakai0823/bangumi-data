@@ -1,0 +1,25 @@
+{
+  "id": "idy8np6",
+  "category": "drama",
+  "title": "ハーレーはド真ん中",
+  "fullTitle": "ハーレーはド真ん中#56[二]",
+  "detail": "#56「ディアス裁判」",
+  "start": 1637434800000,
+  "end": 1637436600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ディアス裁判",
+  "episode": 56,
+  "flags": [
+    "二"
+  ]
+}
