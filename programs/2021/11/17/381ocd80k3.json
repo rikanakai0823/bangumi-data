@@ -1,12 +1,16 @@
 {
   "id": "381ocd80k3",
   "category": "variety",
-  "title": "日テレ系音楽の祭典　ベストアーティスト　２０２１",
-  "fullTitle": "日テレ系音楽の祭典　ベストアーティスト　２０２１[字][デ]",
-  "detail": "",
+  "title": "日テレ系音楽の祭典",
+  "fullTitle": "日テレ系音楽の祭典【ベストアーティスト20周年SP】[字][デ]",
+  "detail": "20周年に超豪華アーティスト集結!!桑田佳祐＆MISIA＆YOASOBI＆LiSA＆NiziU熱狂ライブ4時間生放送!!ミスチル浜崎SMAP嵐…20年秘蔵映像大放出\n◇出演者\n▽総合司会\r\n櫻井翔\r\n▽司会\r\n羽鳥慎一、バカリズム、市來玲奈\r\n▽アーティスト\r\nEXIT、AKB48、KAT-TUN、関ジャニ∞、King & Prince、桑田佳祐、櫻坂46、ジャニーズWEST、SixTONES、Snow Man、Sexy Zone、DISH//、なにわ男子、NiziU、NEWS、乃木坂46、Perfume、日向坂46、Hey!Say!JUMP、MISIA、YOASOBI、LiSA",
   "start": 1637143200000,
   "end": 1637157240000,
   "seconds": 14040,
+  "description": "20周年に超豪華アーティスト集結!!桑田佳祐＆MISIA＆YOASOBI＆LiSA＆NiziU熱狂ライブ4時間生放送!!ミスチル浜崎SMAP嵐…20年秘蔵映像大放出",
+  "extra": {
+    "出演者": "▽総合司会\r\n櫻井翔\r\n▽司会\r\n羽鳥慎一、バカリズム、市來玲奈\r\n▽アーティスト\r\nEXIT、AKB48、KAT-TUN、関ジャニ∞、King & Prince、桑田佳祐、櫻坂46、ジャニーズWEST、SixTONES、Snow Man、Sexy Zone、DISH//、なにわ男子、NiziU、NEWS、乃木坂46、Perfume、日向坂46、Hey!Say!JUMP、MISIA、YOASOBI、LiSA"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
+  "subTitle": "ベストアーティスト20周年SP",
   "episode": null,
   "flags": [
     "字",
