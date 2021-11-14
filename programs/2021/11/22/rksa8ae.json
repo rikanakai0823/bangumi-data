@@ -1,0 +1,23 @@
+{
+  "id": "rksa8ae",
+  "category": "drama",
+  "title": "ドラマセレクション",
+  "fullTitle": "ドラマセレクション",
+  "detail": "（内容未定）",
+  "start": 1637586000000,
+  "end": 1637595000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w698o84",
+  "category": "news",
+  "title": "BBCニュース",
+  "fullTitle": "BBCニュース",
+  "detail": "イギリス国内および世界の最新ニュースをお伝えする。",
+  "start": 1637575200000,
+  "end": 1637578800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

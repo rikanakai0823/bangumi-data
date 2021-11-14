@@ -1,0 +1,26 @@
+{
+  "id": "idp3nsl",
+  "category": "documentary",
+  "title": "イッピン　ＳＰ",
+  "fullTitle": "イッピン　ＳＰ「伝統の技が未来を照らす」[字][再]",
+  "detail": "大量生産・大量消費で廃棄物を吐き出す現代社会。捨てられる運命にあったものを別の製品によみがえらせる試みを紹介。そこには、熟練の職人たちの技が生かされていた。",
+  "start": 1637560260000,
+  "end": 1637563860000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "伝統の技が未来を照らす",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

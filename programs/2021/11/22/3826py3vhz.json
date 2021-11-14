@@ -1,0 +1,25 @@
+{
+  "id": "3826py3vhz",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第七闇「一寸法師」",
+  "start": 1637517900000,
+  "end": 1637518200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "一寸法師",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

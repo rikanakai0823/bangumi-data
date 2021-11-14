@@ -1,0 +1,27 @@
+{
+  "id": "iducvce",
+  "category": "cinema",
+  "title": "影武者",
+  "fullTitle": "[映]影武者[SS][字]",
+  "detail": "黒澤明監督が１９７０年の「どですかでん」以来、１０年ぶりに日本で作った新作として１９８０年、世界的に注目を集めた時代劇大作。武田信玄の影武者になった男の運命は。",
+  "start": 1637541900000,
+  "end": 1637553000000,
+  "seconds": 11100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "どですかでん",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

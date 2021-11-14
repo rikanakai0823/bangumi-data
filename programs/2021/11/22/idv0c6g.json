@@ -1,0 +1,26 @@
+{
+  "id": "idv0c6g",
+  "category": "cinema",
+  "title": "１０人の泥棒たち",
+  "fullTitle": "[映][SS]１０人の泥棒たち[吹]",
+  "detail": "アジアの豪華スターが共演した犯罪エンターテインメント。幻のダイヤモンドを巡る１０人の泥棒たちの騙し合いや争奪戦を描く。",
+  "start": 1637566800000,
+  "end": 1637575200000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rkunndt",
+  "category": "hobby",
+  "title": "チャギントン#11,#12[字/日英]",
+  "fullTitle": "チャギントン#11,#12[二][字/日英]",
+  "detail": "#11「ピートじいさんの知恵」　#12「エディ、またも遅刻」",
+  "start": 1637551800000,
+  "end": 1637553600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ピートじいさんの知恵",
+  "episode": 11,
+  "flags": [
+    "二"
+  ]
+}

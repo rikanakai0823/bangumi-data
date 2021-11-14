@@ -1,0 +1,23 @@
+{
+  "id": "w66jitz",
+  "category": "information",
+  "title": "番組PR",
+  "fullTitle": "番組PR【11月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1637526000000,
+  "end": 1637526600000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "11月",
+  "episode": null,
+  "flags": []
+}

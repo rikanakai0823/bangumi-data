@@ -1,0 +1,25 @@
+{
+  "id": "rkunneb",
+  "category": "hobby",
+  "title": "ペッパピッグ#73,#74[字/日英]",
+  "fullTitle": "ペッパピッグ#73,#74[二][字/日英]",
+  "detail": "#73「バザー」　#74「スイミング」",
+  "start": 1637582400000,
+  "end": 1637583300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "バザー",
+  "episode": 73,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w65o4uc",
+  "category": "variety",
+  "title": "変なおじさんTV-43",
+  "fullTitle": "[字]変なおじさんTV【セレクト】#42-43",
+  "detail": "日常に起こる様々な出来事をテーマに、楽しいコントを披露。後半には屋台の設定で、毎回豪華なゲストを招いてのトーク。",
+  "start": 1637514900000,
+  "end": 1637518500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 102
+  },
+  "subTitle": "セレクト",
+  "episode": 42,
+  "flags": [
+    "字"
+  ]
+}

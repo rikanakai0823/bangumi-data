@@ -1,0 +1,23 @@
+{
+  "id": "rlm40de",
+  "category": "sports",
+  "title": "RIZINで逢いましょう",
+  "fullTitle": "RIZINで逢いましょう #12",
+  "detail": "RIZIN.10\r\n（2018年5月6日開催）",
+  "start": 1637589600000,
+  "end": 1637596800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": []
+}

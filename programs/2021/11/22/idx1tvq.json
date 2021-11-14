@@ -1,0 +1,25 @@
+{
+  "id": "idx1tvq",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "#539「運動会のお弁当」の巻／「まる子と校長室」の巻\r\n#540「杉山くんとキャッチボール」の巻／「和菓子を作ろう！」…",
+  "start": 1637521200000,
+  "end": 1637524800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "運動会のお弁当",
+  "episode": 539,
+  "flags": [
+    "字"
+  ]
+}

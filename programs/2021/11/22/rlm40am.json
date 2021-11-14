@@ -1,0 +1,23 @@
+{
+  "id": "rlm40am",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.西武",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.西武",
+  "detail": "開催日：2021年5月8日\r\n先発：マルティネス",
+  "start": 1637550000000,
+  "end": 1637568000000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

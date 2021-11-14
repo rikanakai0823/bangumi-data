@@ -1,0 +1,25 @@
+{
+  "id": "idy8nqd",
+  "category": "drama",
+  "title": "ザ・ロッジ",
+  "fullTitle": "ザ・ロッジ#23[二]",
+  "detail": "#23「すれ違う心」",
+  "start": 1637519400000,
+  "end": 1637521200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "すれ違う心",
+  "episode": 23,
+  "flags": [
+    "二"
+  ]
+}
