@@ -1,8 +1,8 @@
 {
   "id": "rlm699u",
   "category": "music",
-  "title": "【KNTV】ショー！K-POPの中心＜最新版－日本語字幕なし－＞",
-  "fullTitle": "【KNTV】ショー！K-POPの中心＜最新版－日本語字幕なし－＞ #746",
+  "title": "【KNTV】ショー！K-POPの中心＜最新版－日本語字幕なし－＞ ▼D&E",
+  "fullTitle": "【KNTV】ショー！K-POPの中心＜最新版－日本語字幕なし－＞ #746▼D&E(SJ)",
   "detail": "日韓ほぼ同時放送！\r\n字幕なしの最新版で旬のアーティストの歌、パフォーマンスをお届け！",
   "start": 1637155800000,
   "end": 1637160600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 746,
-  "flags": []
+  "flags": [
+    "SJ"
+  ]
 }
