@@ -1,0 +1,25 @@
+{
+  "id": "381jqz04uq",
+  "category": "sports",
+  "title": "関東大学ラグビー対抗戦２０２１「早稲田」対",
+  "fullTitle": "関東大学ラグビー対抗戦２０２１「早稲田」対「慶応」[字]",
+  "detail": "～秩父宮ラグビー場から中継～　［延伸のとき　Ｅテレ３で放送継続］",
+  "start": 1637643600000,
+  "end": 1637650800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "慶応",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
