@@ -1,0 +1,26 @@
+{
+  "id": "iduw4uf",
+  "category": "cinema",
+  "title": "ミッドウェイ（２０１９）",
+  "fullTitle": "[映][SS]ミッドウェイ（２０１９）【メガヒット９（再）】",
+  "detail": "ローランド・エメリッヒ監督による海戦アクション。第二次世界大戦の中でも、激戦として知られるミッドウェイの戦いを描く。",
+  "start": 1637644500000,
+  "end": 1637653500000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

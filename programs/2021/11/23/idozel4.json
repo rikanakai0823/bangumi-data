@@ -1,0 +1,23 @@
+{
+  "id": "idozel4",
+  "category": "sports",
+  "title": "全日本選抜スピードスケート",
+  "fullTitle": "全日本選抜スピードスケート「帯広大会」",
+  "detail": "３か月後に迫る冬季オリンピック北京大会、そしてその先２０２６年のミラノ・コルティナ大会の日本代表を目指す若手選手らが出場。男女５００ｍを中心にレースを紹介する。",
+  "start": 1637616000000,
+  "end": 1637619000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "帯広大会",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp3pa1",
+  "category": "hobby",
+  "title": "いいＺｏｏだね。～岩合光昭の動物園歩き～",
+  "fullTitle": "いいＺｏｏだね。～岩合光昭の動物園歩き～「伊豆」[字]",
+  "detail": "動物写真家・岩合光昭が「伊豆シャボテン動物公園」と「伊豆アニマルキングダム」を訪れ、動物園の楽しみ方を教えてくれる。",
+  "start": 1637653200000,
+  "end": 1637656800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "伊豆",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

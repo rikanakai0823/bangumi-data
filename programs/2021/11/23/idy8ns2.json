@@ -1,0 +1,25 @@
+{
+  "id": "idy8ns2",
+  "category": "anime",
+  "title": "ビッグシティ・グリーン",
+  "fullTitle": "ビッグシティ・グリーン#8[二]",
+  "detail": "#8「うちへようこそ　/　アライグマを追い払え」",
+  "start": 1637652600000,
+  "end": 1637654400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "うちへようこそ　/　アライグマを追い払え",
+  "episode": 8,
+  "flags": [
+    "二"
+  ]
+}

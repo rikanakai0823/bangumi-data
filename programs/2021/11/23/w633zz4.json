@@ -1,0 +1,25 @@
+{
+  "id": "w633zz4",
+  "category": "sports",
+  "title": "明治神宮野球大会",
+  "fullTitle": "[生]第52回明治神宮野球大会【第4日】",
+  "detail": "第1試合 \r\n第2試合\r\n第3試合 九州産業-\r\n(2021/11/23　明治神宮野球場)\r\n※雨天順延あり",
+  "start": 1637628300000,
+  "end": 1637656200000,
+  "seconds": 27900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "第4日",
+  "episode": 52,
+  "flags": [
+    "生"
+  ]
+}

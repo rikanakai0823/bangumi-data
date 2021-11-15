@@ -1,0 +1,23 @@
+{
+  "id": "idozez5",
+  "category": "sports",
+  "title": "２０２１世界トライアスロンシリーズ",
+  "fullTitle": "２０２１世界トライアスロンシリーズ「アブダビ大会・男子」",
+  "detail": "今シーズン最後の世界シリーズ。日本からは東京五輪代表のニナー賢治選手と、今季世界戦でトップ１０入りを果たした北條巧選手が出場！",
+  "start": 1637622000000,
+  "end": 1637625000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "アブダビ大会・男子",
+  "episode": null,
+  "flags": []
+}

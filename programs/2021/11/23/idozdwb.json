@@ -1,0 +1,25 @@
+{
+  "id": "idozdwb",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「ミホンモ　韓国　未婚の母の苦闘」[字]",
+  "detail": "儒教の影響が強い韓国では、「ミホンモ」（未婚の母）はタブー視され、家族や社会から疎外されてきた。伝統的な社会で、もがきながら生きる女性たちの日々を見つめる。",
+  "start": 1637672400000,
+  "end": 1637675400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ミホンモ　韓国　未婚の母の苦闘",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

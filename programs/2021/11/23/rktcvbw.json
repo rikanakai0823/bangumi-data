@@ -1,0 +1,25 @@
+{
+  "id": "rktcvbw",
+  "category": "drama",
+  "title": "ミス・マンマミーア",
+  "fullTitle": "ミス・マンマミーア　#8　[字]",
+  "detail": "2015年 全12話",
+  "start": 1637600400000,
+  "end": 1637604600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": [
+    "字"
+  ]
+}

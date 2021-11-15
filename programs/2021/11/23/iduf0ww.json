@@ -1,0 +1,25 @@
+{
+  "id": "iduf0ww",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃６９８",
+  "detail": "",
+  "start": 1637646000000,
+  "end": 1637646600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 698,
+  "flags": [
+    "無"
+  ]
+}

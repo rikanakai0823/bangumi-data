@@ -1,0 +1,25 @@
+{
+  "id": "idy8nre",
+  "category": "anime",
+  "title": "悪魔バスター★スター・バタフライ",
+  "fullTitle": "悪魔バスター★スター・バタフライ#39[二]",
+  "detail": "#39「トフィー」",
+  "start": 1637595000000,
+  "end": 1637596800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "トフィー",
+  "episode": 39,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1twn",
+  "category": "anime",
+  "title": "はたらく細胞 一挙放送 -7",
+  "fullTitle": "[字]はたらく細胞 一挙放送(1) #1-7",
+  "detail": "#1～7\r\n細胞たちは体という世界の中、今日も元気に、休むことなく働いている。そこには、知られざる細胞たちのドラマが…",
+  "start": 1637629200000,
+  "end": 1637641800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

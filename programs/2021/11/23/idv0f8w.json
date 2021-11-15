@@ -1,0 +1,27 @@
+{
+  "id": "idv0f8w",
+  "category": "cinema",
+  "title": "ＡＮＮＡ　アナ",
+  "fullTitle": "[映][SS][字]ＡＮＮＡ　アナ[吹]",
+  "detail": "リュック・ベッソン監督が手掛けたノンストップアクション。最強の殺し屋に仕立て上げられた女スパイの死闘を描く。［ＰＧ１２］",
+  "start": 1637648400000,
+  "end": 1637656200000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

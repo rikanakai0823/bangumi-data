@@ -1,0 +1,23 @@
+{
+  "id": "idozehq",
+  "category": "documentary",
+  "title": "ザ・ベストテレビ２０２１",
+  "fullTitle": "ザ・ベストテレビ２０２１",
+  "detail": "",
+  "start": 1637625600000,
+  "end": 1637629320000,
+  "seconds": 3720,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

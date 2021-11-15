@@ -1,0 +1,23 @@
+{
+  "id": "idrdde8",
+  "category": "sports",
+  "title": "ＢＯＡＴ　ＲＡＣＥプレミア　ＳＧチャレンジカップ　～ドリーム戦～",
+  "fullTitle": "ＢＯＡＴ　ＲＡＣＥプレミア　ＳＧ第２４回チャレンジカップ　～ドリーム戦～",
+  "detail": "",
+  "start": 1637650800000,
+  "end": 1637654100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": 24,
+  "flags": []
+}

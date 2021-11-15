@@ -1,0 +1,25 @@
+{
+  "id": "idx1tws",
+  "category": "anime",
+  "title": "テニスの王子様 ,104",
+  "fullTitle": "[字]テニスの王子様 #103,104",
+  "detail": "#103「眠れない夜」\r\n#104「リョーマVS真田」\r\nアメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テニ…",
+  "start": 1637676000000,
+  "end": 1637679600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "眠れない夜",
+  "episode": 103,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1two",
+  "category": "anime",
+  "title": "はたらく細胞 一挙放送 -13＋特別編",
+  "fullTitle": "[字]はたらく細胞 一挙放送(2) #8-13＋特別編",
+  "detail": "#8～13,特別編 END\r\n細胞たちは体という世界の中、今日も元気に、休むことなく働いている。そこには、知られざる細胞た…",
+  "start": 1637641800000,
+  "end": 1637654400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": [
+    "字"
+  ]
+}

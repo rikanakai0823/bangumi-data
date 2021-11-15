@@ -1,0 +1,25 @@
+{
+  "id": "rkunnfa",
+  "category": "hobby",
+  "title": "ペッパピッグ#123,#124[字/日英]",
+  "fullTitle": "ペッパピッグ#123,#124[二][字/日英]",
+  "detail": "#123「グランマのニワトリ」　#124「とくいなこと」",
+  "start": 1637640000000,
+  "end": 1637640900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "グランマのニワトリ",
+  "episode": 123,
+  "flags": [
+    "二"
+  ]
+}
