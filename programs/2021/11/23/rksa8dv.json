@@ -1,0 +1,25 @@
+{
+  "id": "rksa8dv",
+  "category": "sports",
+  "title": "SMBC日本シリーズ2021 第3戦 ヤクルト×オリックス",
+  "fullTitle": "[生]SMBC日本シリーズ2021 第3戦 ヤクルト×オリックス",
+  "detail": "東京五輪金メダルメンバーが躍動し、リーグ優勝を果たしたチーム同士の対決に！伝説の「野村ＩＤ」対「仰木マジック」以来２６年ぶりの対決の行方は！？※延長の場合あり",
+  "start": 1637657400000,
+  "end": 1637672400000,
+  "seconds": 15000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
