@@ -1,9 +1,9 @@
 {
   "id": "w69abxs",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "クエストの世界都市紀行",
+  "fullTitle": "クエストの世界都市紀行[再]",
+  "detail": "#30 サンクトペテルブルク。街全体が世界遺産のロシア・サンクトペテルブルク。マリインスキー劇場をオペラ歌手が案内。エルミタージュ美術館で「孔雀時計」を鑑賞。",
   "start": 1637474400000,
   "end": 1637476200000,
   "seconds": 1800,
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "孔雀時計",
+  "episode": 30,
   "flags": [
     "再"
   ]

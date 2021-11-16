@@ -1,9 +1,9 @@
 {
   "id": "w69abxa",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "Living Golf[再]",
+  "detail": "#202 注目の女子ゴルファーたち。リディア・コー、ミンジ・リー、エミリー・ペデルセンにインタビュー。",
   "start": 1637429400000,
   "end": 1637431200000,
   "seconds": 1800,
@@ -18,7 +18,7 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 202,
   "flags": [
     "再"
   ]
