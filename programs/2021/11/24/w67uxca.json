@@ -1,0 +1,23 @@
+{
+  "id": "w67uxca",
+  "category": "information",
+  "title": "情報",
+  "fullTitle": "情報",
+  "detail": "この時間は情報番組をお送りしております。",
+  "start": 1637699400000,
+  "end": 1637701200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

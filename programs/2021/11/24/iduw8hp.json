@@ -1,0 +1,26 @@
+{
+  "id": "iduw8hp",
+  "category": "cinema",
+  "title": "ファイアー・レスキュー",
+  "fullTitle": "[映][SS]ファイアー・レスキュー",
+  "detail": "ニコラス・ツェーとショーン・ユー共演の火災パニックアクション。クリスマスに発生した大火災現場での消防士たちの奮闘を描く。",
+  "start": 1637754300000,
+  "end": 1637762400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

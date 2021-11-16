@@ -1,0 +1,25 @@
+{
+  "id": "rktcvd1",
+  "category": "etc",
+  "title": "生き生き情報",
+  "fullTitle": "生き生き情報　[字]",
+  "detail": "日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！",
+  "start": 1637745000000,
+  "end": 1637748000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduh6e1",
+  "category": "cinema",
+  "title": "潔白（字幕版）",
+  "fullTitle": "[初][映]潔白（字幕版）",
+  "detail": "ドラマ「黄金の私の人生」のシン・へソン主演のサスペンス。平和な村で起こった農薬入りマッコリを使った集団殺人事件。容疑者になった母を弁護する娘は驚愕の真実を知る。",
+  "start": 1637755200000,
+  "end": 1637762400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "黄金の私の人生",
+  "episode": null,
+  "flags": [
+    "初",
+    "映"
+  ]
+}

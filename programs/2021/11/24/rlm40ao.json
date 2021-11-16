@@ -1,0 +1,23 @@
+{
+  "id": "rlm40ao",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "detail": "開催日：2021年5月11日\r\n先発：武田翔太",
+  "start": 1637722800000,
+  "end": 1637740800000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

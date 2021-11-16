@@ -1,0 +1,23 @@
+{
+  "id": "w67i7g4",
+  "category": "information",
+  "title": "情報番組",
+  "fullTitle": "情報番組",
+  "detail": "快適で健やかな暮らしに役立つ品々の通信販売のご案内。",
+  "start": 1637730000000,
+  "end": 1637731800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ミュージック・エア",
+    "id": "f0dg",
+    "sid": 324,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

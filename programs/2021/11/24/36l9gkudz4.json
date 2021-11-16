@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkudz4",
+  "category": "news",
+  "title": "太陽の里天気予報",
+  "fullTitle": "太陽の里天気予報",
+  "detail": " ",
+  "start": 1637711700000,
+  "end": 1637712000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

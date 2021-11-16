@@ -1,0 +1,25 @@
+{
+  "id": "w6820ju",
+  "category": "anime",
+  "title": "ブルーピリオド",
+  "fullTitle": "ブルーピリオド #07 [字]",
+  "detail": "#07 1次試験開始",
+  "start": 1637733600000,
+  "end": 1637735400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "1次試験開始",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

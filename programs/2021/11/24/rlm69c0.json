@@ -1,0 +1,23 @@
+{
+  "id": "rlm69c0",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "URAWA CHANNEL NEXT #31",
+  "detail": "浦和レッズのクラブ応援番組。クラブの自主企画・撮影・編集により、クラブの魅力を深く掘り下げる。",
+  "start": 1637695800000,
+  "end": 1637697600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "",
+  "episode": 31,
+  "flags": []
+}

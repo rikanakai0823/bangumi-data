@@ -1,0 +1,25 @@
+{
+  "id": "idozidl",
+  "category": "sports",
+  "title": "ワースポ×ＭＬＢ　スペシャル",
+  "fullTitle": "ワースポ×ＭＬＢ　スペシャル「大谷翔平　ＭＶＰなるか」[字]",
+  "detail": "黒木知宏，岩村明憲，山本萩子",
+  "start": 1637276400000,
+  "end": 1637280000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "大谷翔平　ＭＶＰなるか",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

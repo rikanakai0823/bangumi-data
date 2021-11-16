@@ -1,0 +1,25 @@
+{
+  "id": "rktcvcl",
+  "category": "drama",
+  "title": "ミス・マンマミーア",
+  "fullTitle": "ミス・マンマミーア　#9　[字]",
+  "detail": "2015年 全12話",
+  "start": 1637686800000,
+  "end": 1637691000000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 9,
+  "flags": [
+    "字"
+  ]
+}

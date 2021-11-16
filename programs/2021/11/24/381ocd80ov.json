@@ -1,0 +1,27 @@
+{
+  "id": "381ocd80ov",
+  "category": "sports",
+  "title": "サッカー★アース",
+  "fullTitle": "サッカー★アース",
+  "detail": "◇出演者\n【MC】ぺこぱ（シュウペイ、松陰寺太勇）\r\n【解説】都並敏史\r\n【進行】小髙茉緒（日本テレビアナウンサー）",
+  "start": 1637688900000,
+  "end": 1637692500000,
+  "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】ぺこぱ（シュウペイ、松陰寺太勇）\r\n【解説】都並敏史\r\n【進行】小髙茉緒（日本テレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

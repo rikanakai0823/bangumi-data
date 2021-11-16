@@ -1,0 +1,26 @@
+{
+  "id": "iduyast",
+  "category": "cinema",
+  "title": "夢の涯てまでも［ディレクターズカット版］",
+  "fullTitle": "[映][SS]夢の涯てまでも［ディレクターズカット版］",
+  "detail": "ヴィム・ヴェンダース監督の近未来ＳＦ。車で旅に出た女性クレアは何者かの追跡を逃れる男性と出会い、世紀末の世界を巡る。",
+  "start": 1637682300000,
+  "end": 1637700000000,
+  "seconds": 17700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

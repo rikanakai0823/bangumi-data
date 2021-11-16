@@ -1,0 +1,25 @@
+{
+  "id": "w6820k2",
+  "category": "anime",
+  "title": "SCARLET NEXUS",
+  "fullTitle": "SCARLET NEXUS #21 [字]",
+  "detail": "#21 ワカナの決意",
+  "start": 1637740800000,
+  "end": 1637742600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "ワカナの決意",
+  "episode": 21,
+  "flags": [
+    "字"
+  ]
+}

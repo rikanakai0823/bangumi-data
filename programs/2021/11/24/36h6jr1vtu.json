@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1vtu",
+  "category": "etc",
+  "title": "ショッピングタイム",
+  "fullTitle": "ショッピングタイム",
+  "detail": "",
+  "start": 1637728200000,
+  "end": 1637730000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

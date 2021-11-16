@@ -1,0 +1,23 @@
+{
+  "id": "rlm40bj",
+  "category": "sports",
+  "title": "SUPER DARTS 2018",
+  "fullTitle": "SUPER DARTS 2018",
+  "detail": "SUPER DARTS 2018",
+  "start": 1637683200000,
+  "end": 1637694300000,
+  "seconds": 11100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
