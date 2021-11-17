@@ -1,0 +1,25 @@
+{
+  "id": "w67uxdi",
+  "category": "anime",
+  "title": "ココモン３",
+  "fullTitle": "ココモン３[字] #7",
+  "detail": "第７話「オバケの森のひみつ」\r\nココモンの発明したロボコンがパワーアップ、カビキング達をやっつけるため、“ヒミツのたべもの”を探す冒険に出かけます。",
+  "start": 1637787600000,
+  "end": 1637788500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "オバケの森のひみつ",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

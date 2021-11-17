@@ -1,0 +1,26 @@
+{
+  "id": "iduwbby",
+  "category": "cinema",
+  "title": "オキュラス／怨霊鏡",
+  "fullTitle": "[映][SS]オキュラス／怨霊鏡",
+  "detail": "ジェイソン・ブラム製作によるサスペンスホラー。呪いの鏡によって、両親を亡くした姉弟が遭遇する恐怖を描く。［Ｒ１５＋］",
+  "start": 1637825400000,
+  "end": 1637832600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

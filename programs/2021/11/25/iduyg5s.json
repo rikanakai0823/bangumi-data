@@ -1,0 +1,25 @@
+{
+  "id": "iduyg5s",
+  "category": "cinema",
+  "title": "ブラッド＆ワイン",
+  "fullTitle": "[映]ブラッド＆ワイン",
+  "detail": "ジャック・ニコルソン主演のサスペンスドラマ。盗んだネックレスを巡り、憎み合う義父と息子が殺し合いを繰り広げる姿を描く。",
+  "start": 1637809200000,
+  "end": 1637815800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

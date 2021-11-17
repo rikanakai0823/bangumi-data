@@ -1,0 +1,25 @@
+{
+  "id": "idx1txx",
+  "category": "anime",
+  "title": "ぼのぼの",
+  "fullTitle": "[字]ぼのぼの",
+  "detail": "#240「明日のニオイ」\r\nラッコの子ども“ぼのぼの”とシマリスくんやスナドリネコさん。そんな森の愉快な仲間たちとの…",
+  "start": 1637796000000,
+  "end": 1637796600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "明日のニオイ",
+  "episode": 240,
+  "flags": [
+    "字"
+  ]
+}

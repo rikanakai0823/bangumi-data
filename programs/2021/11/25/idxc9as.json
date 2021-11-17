@@ -1,0 +1,23 @@
+{
+  "id": "idxc9as",
+  "category": "sports",
+  "title": "Challenge！ Consadole",
+  "fullTitle": "【契】Challenge！ Consadole　#49",
+  "detail": "北海道コンサドーレ札幌のクラブ応援番組。クラブの自主企画・撮影・編集により、クラブの魅力を深く掘り下げる番組を毎月放送。",
+  "start": 1637836200000,
+  "end": 1637837100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 49,
+  "flags": []
+}

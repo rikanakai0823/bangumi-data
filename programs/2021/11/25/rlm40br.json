@@ -1,0 +1,23 @@
+{
+  "id": "rlm40br",
+  "category": "sports",
+  "title": "\"RIZIN すべて振り返らせていただきます\"",
+  "fullTitle": "\"RIZIN すべて振り返らせていただきます\" #26",
+  "detail": "RIZIN.23 -CALLING OVER- (2020/8/10)",
+  "start": 1637830800000,
+  "end": 1637844600000,
+  "seconds": 13800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 26,
+  "flags": []
+}

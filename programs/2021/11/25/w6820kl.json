@@ -1,0 +1,25 @@
+{
+  "id": "w6820kl",
+  "category": "anime",
+  "title": "見える子ちゃん",
+  "fullTitle": "見える子ちゃん #08 [字]",
+  "detail": "#08 見えてるもの",
+  "start": 1637785800000,
+  "end": 1637787600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "見えてるもの",
+  "episode": 8,
+  "flags": [
+    "字"
+  ]
+}

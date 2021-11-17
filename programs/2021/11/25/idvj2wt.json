@@ -1,0 +1,25 @@
+{
+  "id": "idvj2wt",
+  "category": "sports",
+  "title": "ＢＳイレブン住之江ボートレース中継",
+  "fullTitle": "[生]ＢＳイレブン住之江ボートレース中継",
+  "detail": "『男女Ｗ優勝戦　第14回森下仁丹杯争奪戦』のレースの模様を、実況生中継！\r\n企画も盛りだくさんに、ボートレースの楽しさを発信します！",
+  "start": 1637838000000,
+  "end": 1637841420000,
+  "seconds": 3420,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 14,
+  "flags": [
+    "生"
+  ]
+}

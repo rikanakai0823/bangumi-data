@@ -1,0 +1,25 @@
+{
+  "id": "idv0lqk",
+  "category": "cinema",
+  "title": "海辺の家",
+  "fullTitle": "[映]海辺の家[吹]",
+  "detail": "ケヴィン・クラインとヘイデン・クリステンセン共演、感動の家族ドラマ。自分の人生を見つめ直そうとする父と、息子の絆を描く。",
+  "start": 1637829600000,
+  "end": 1637838000000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

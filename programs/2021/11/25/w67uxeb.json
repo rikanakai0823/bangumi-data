@@ -1,0 +1,25 @@
+{
+  "id": "w67uxeb",
+  "category": "anime",
+  "title": "あひるの空 ,34",
+  "fullTitle": "あひるの空[字] #33,34",
+  "detail": "＃３３「ＬＩＦＥ」＃３４「光跡」",
+  "start": 1637830800000,
+  "end": 1637834400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ＬＩＦＥ",
+  "episode": 33,
+  "flags": [
+    "字"
+  ]
+}

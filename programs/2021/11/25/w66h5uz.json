@@ -1,0 +1,25 @@
+{
+  "id": "w66h5uz",
+  "category": "sports",
+  "title": "SMBC日本シリーズ2021　第5戦 東京ヤクルト×オリックス",
+  "fullTitle": "[生]SMBC日本シリーズ2021　第5戦 東京ヤクルト×オリックス",
+  "detail": "第5戦「東京ヤクルト vs オリックス」\r\n＜開催＞2021年11月25日（木）【生中継】\r\n　～東京ドーム\r\n※番組変更の場合あり",
+  "start": 1637830800000,
+  "end": 1637848800000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "東京ヤクルト vs オリックス",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

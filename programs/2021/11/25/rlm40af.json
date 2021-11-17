@@ -1,0 +1,25 @@
+{
+  "id": "rlm40af",
+  "category": "information",
+  "title": "ホッとな☆お買い物情報",
+  "fullTitle": "[無]ホッとな☆お買い物情報",
+  "detail": "",
+  "start": 1637827200000,
+  "end": 1637830800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}
