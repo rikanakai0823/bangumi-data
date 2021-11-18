@@ -1,0 +1,25 @@
+{
+  "id": "idozf2z",
+  "category": "news",
+  "title": "クローズアップ現代＋",
+  "fullTitle": "クローズアップ現代＋[字]",
+  "detail": "【キャスター】井上裕貴，保里小百合",
+  "start": 1637915400000,
+  "end": 1637917200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "キャスター",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

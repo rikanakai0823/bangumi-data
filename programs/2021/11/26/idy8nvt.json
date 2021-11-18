@@ -1,0 +1,25 @@
+{
+  "id": "idy8nvt",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#73[二]",
+  "detail": "#73「いかないで」",
+  "start": 1637907900000,
+  "end": 1637908200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "いかないで",
+  "episode": 73,
+  "flags": [
+    "二"
+  ]
+}

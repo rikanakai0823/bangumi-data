@@ -1,0 +1,26 @@
+{
+  "id": "iduwcbn",
+  "category": "cinema",
+  "title": "博士と彼女のセオリー",
+  "fullTitle": "[映][SS]博士と彼女のセオリー",
+  "detail": "天才物理学者ホーキング博士と妻の実話を基にしたヒューマンドラマ。難病を発症した博士と彼を支える妻の絆を描く。",
+  "start": 1637871300000,
+  "end": 1637879400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

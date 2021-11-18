@@ -1,0 +1,23 @@
+{
+  "id": "idp3tni",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「晩秋　越前海岸」",
+  "detail": "",
+  "start": 1637861400000,
+  "end": 1637863200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "晩秋　越前海岸",
+  "episode": null,
+  "flags": []
+}

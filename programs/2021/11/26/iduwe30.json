@@ -1,0 +1,25 @@
+{
+  "id": "iduwe30",
+  "category": "cinema",
+  "title": "ファイティン！",
+  "fullTitle": "[映]ファイティン！",
+  "detail": "マ・ドンソク主演のアクションドラマ。八百長疑惑で一度は夢を断たれたアームレスリングの選手が、再起を誓って大会に挑む。",
+  "start": 1637892000000,
+  "end": 1637899200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

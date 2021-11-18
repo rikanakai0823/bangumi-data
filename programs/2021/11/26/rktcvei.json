@@ -1,0 +1,26 @@
+{
+  "id": "rktcvei",
+  "category": "cinema",
+  "title": "Ｋ－シアター",
+  "fullTitle": "Ｋ－シアター「ミッドナイト・ランナー」[字][再]",
+  "detail": "KBS World初放送！550万人突破の驚異的大ヒット！パク・ソジュン×カン・ハヌル主演！警察学校で出会ったコンビが繰り広げる、痛快アクション・エンターテイメント！2017年",
+  "start": 1637937600000,
+  "end": 1637945700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "ミッドナイト・ランナー",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

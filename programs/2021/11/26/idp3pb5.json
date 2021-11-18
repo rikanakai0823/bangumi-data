@@ -1,0 +1,26 @@
+{
+  "id": "idp3pb5",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「鍋のしあわせ」[字][再]",
+  "detail": "海と山の幸に恵まれた日本には、自慢の鍋もの・汁ものがある。富山県氷見の「カモ鍋」。ハレの日に食べる沖縄久米島の「ヤギ汁」。鍋が運ぶ幸せの物語。（２０２０年放送）",
+  "start": 1637881200000,
+  "end": 1637884800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "鍋のしあわせ",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

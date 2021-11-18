@@ -1,0 +1,25 @@
+{
+  "id": "idp3pct",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「オクシズ　奥静岡」[字]",
+  "detail": "南北に伸びる静岡市。その８０パーセントを占める中山間地は「オクシズ（奥静岡）」と呼ばれ、江戸時代は金山で栄えた。歴史上、重要な役割を果たしてきた面影をたどる。",
+  "start": 1637928000000,
+  "end": 1637931600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "オクシズ　奥静岡",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

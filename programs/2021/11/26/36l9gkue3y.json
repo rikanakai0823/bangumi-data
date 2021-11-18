@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkue3y",
+  "category": "news",
+  "title": "テレビ傍聴席",
+  "fullTitle": "テレビ傍聴席",
+  "detail": " ",
+  "start": 1637888400000,
+  "end": 1637892000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idt5p6b",
+  "category": "sports",
+  "title": "世界卓球２０２１",
+  "fullTitle": "世界卓球２０２１[デ]",
+  "detail": "舞台は、アメリカ・ヒューストン！新生ニッポン、世界一への新たな「１歩」は、ここヒューストンからー熱戦をお伝えします！",
+  "start": 1637924100000,
+  "end": 1637927640000,
+  "seconds": 3540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "１歩",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}

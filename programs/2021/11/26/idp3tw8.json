@@ -1,0 +1,23 @@
+{
+  "id": "idp3tw8",
+  "category": "drama",
+  "title": "ドラマ５分ＰＲ",
+  "fullTitle": "ドラマ「生きて、ふたたび」５分ＰＲ",
+  "detail": "",
+  "start": 1637911440000,
+  "end": 1637911800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "生きて、ふたたび",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduweus",
+  "category": "cinema",
+  "title": "ポルトガル、夏の終わり",
+  "fullTitle": "[映][SS]ポルトガル、夏の終わり",
+  "detail": "イザベル・ユペール主演の人間ドラマ。死期を悟った大女優が、自らの家族や友人たちをポルトガルの避暑地へ招きひと夏を過ごす。",
+  "start": 1637928000000,
+  "end": 1637935200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

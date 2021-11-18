@@ -1,0 +1,25 @@
+{
+  "id": "w6820lm",
+  "category": "anime",
+  "title": "大正オトメ御伽話 #01-#07",
+  "fullTitle": "大正オトメ御伽話 #01-#07 [字]",
+  "detail": "#01～#07をまとめて放送！",
+  "start": 1637856000000,
+  "end": 1637866800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
