@@ -1,0 +1,26 @@
+{
+  "id": "w69acxa",
+  "category": "news",
+  "title": "中東経済市場",
+  "fullTitle": "[二]中東経済市場[再]",
+  "detail": "日本語同時通訳付。\r\n中東経済の最新トレンド、グローバル企業の動向、注目のビジネスを紹介。",
+  "start": 1637534700000,
+  "end": 1637535600000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二",
+    "再"
+  ]
+}
