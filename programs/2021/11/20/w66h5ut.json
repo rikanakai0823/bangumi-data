@@ -1,0 +1,25 @@
+{
+  "id": "w66h5ut",
+  "category": "sports",
+  "title": "プロ野球ニュース 2021",
+  "fullTitle": "[生]プロ野球ニュース 2021",
+  "detail": "＜解説＞平松政次　野村弘樹\r\n＜ＭＣ＞梅田淳\r\n▽日本シリーズの試合結果をお届け！\r\n　【生放送】",
+  "start": 1637416800000,
+  "end": 1637420400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

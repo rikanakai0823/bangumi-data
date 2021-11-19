@@ -1,0 +1,25 @@
+{
+  "id": "idozk40",
+  "category": "documentary",
+  "title": "街角ピアノ",
+  "fullTitle": "街角ピアノ「弘前　ｖｏｌ．３」[字]",
+  "detail": "青森県弘前駅に置かれた１台のピアノ。同僚と連弾を始めた看護師。津軽三味線との合奏を楽しむ音楽仲間。夜の駅でベートーヴェンを弾く大学生。どんな思いで曲を弾くのか？",
+  "start": 1637445600000,
+  "end": 1637446500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "弘前　ｖｏｌ．３",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
