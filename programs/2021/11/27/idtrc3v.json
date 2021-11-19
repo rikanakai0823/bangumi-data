@@ -1,0 +1,25 @@
+{
+  "id": "idtrc3v",
+  "category": "documentary",
+  "title": "ニッポン美景めぐり",
+  "fullTitle": "[字]ニッポン美景めぐり　「伊万里」",
+  "detail": "ニッポンの美しい風景をめぐる旅。今回は佐賀県の伊万里をめぐります。",
+  "start": 1637953200000,
+  "end": 1637955000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "伊万里",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

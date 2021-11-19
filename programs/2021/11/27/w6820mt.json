@@ -1,0 +1,25 @@
+{
+  "id": "w6820mt",
+  "category": "anime",
+  "title": "大正オトメ御伽話",
+  "fullTitle": "大正オトメ御伽話 #07 [字]",
+  "detail": "#07 珠彦先生",
+  "start": 1637960400000,
+  "end": 1637962200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "珠彦先生",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

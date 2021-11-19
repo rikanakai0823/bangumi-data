@@ -1,0 +1,23 @@
+{
+  "id": "idt5owu",
+  "category": "sports",
+  "title": "ウイニング競馬　～東京～",
+  "fullTitle": "ウイニング競馬　～東京～",
+  "detail": "【東京】11Ｒキャピタルステークス（Ｌ）\r\n【阪神】10Ｒ茨木ステークス\r\n　　　　11Ｒ京都２歳ステークス（ＧⅢ）",
+  "start": 1637991000000,
+  "end": 1637996400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "東京",
+  "episode": null,
+  "flags": []
+}

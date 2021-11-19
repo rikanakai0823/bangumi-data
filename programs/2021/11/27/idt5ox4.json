@@ -1,0 +1,25 @@
+{
+  "id": "idt5ox4",
+  "category": "information",
+  "title": "ファッション通信",
+  "fullTitle": "ファッション通信【Holiday　～希望に満ちたときめき～】[字]",
+  "detail": "ホリデイシーズンに先駆けて、「人生を少しでも豊かに導くキラキラなトピックス」を紹介する特別企画。「ホリデイ　～希望に満ちたときめき～」",
+  "start": 1638021600000,
+  "end": 1638023400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "Holiday　～希望に満ちたときめき～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

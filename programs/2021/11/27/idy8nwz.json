@@ -1,0 +1,25 @@
+{
+  "id": "idy8nwz",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#49[二]",
+  "detail": "#49「ノーと言えない」",
+  "start": 1638001500000,
+  "end": 1638001800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ノーと言えない",
+  "episode": 49,
+  "flags": [
+    "二"
+  ]
+}

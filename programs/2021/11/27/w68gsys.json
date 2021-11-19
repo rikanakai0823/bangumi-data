@@ -1,0 +1,25 @@
+{
+  "id": "w68gsys",
+  "category": "hobby",
+  "title": "【MotorTrend】トップギア ベトナムスペシャル",
+  "fullTitle": "【MotorTrend】トップギア ベトナムスペシャル(字)",
+  "detail": "MotorTrend\r\n今回はベトナムを舞台に繰り広げられる長距離レース。",
+  "start": 1637982000000,
+  "end": 1637987400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 132
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

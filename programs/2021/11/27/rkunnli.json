@@ -1,0 +1,25 @@
+{
+  "id": "rkunnli",
+  "category": "hobby",
+  "title": "ペッパピッグ#57-#60[字/日英]",
+  "fullTitle": "ペッパピッグ#57-#60[二][字/日英]",
+  "detail": "#57「おゆうぎかい」　#58「しゃぼんだま」　#59「エミリーエレファント」　#60「ポリーのきゅうじつ」",
+  "start": 1638016200000,
+  "end": 1638018000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "おゆうぎかい",
+  "episode": 57,
+  "flags": [
+    "二"
+  ]
+}

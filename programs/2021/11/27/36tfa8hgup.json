@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8hgup",
+  "category": "news",
+  "title": "ＭＸ　ｎｅｗｓ　ＦＬＡＧ",
+  "fullTitle": "ＭＸ　ｎｅｗｓ　ＦＬＡＧ",
+  "detail": "東京の、各地のニュース・天気情報など詳しくお伝えします。",
+  "start": 1638003600000,
+  "end": 1638004500000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

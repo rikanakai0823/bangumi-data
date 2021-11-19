@@ -1,0 +1,26 @@
+{
+  "id": "idv0rzm",
+  "category": "cinema",
+  "title": "フォーン・ブース",
+  "fullTitle": "[映][SS]フォーン・ブース[吹]",
+  "detail": "コリン・ファレル主演の密室劇。偶然入った電話ボックスに閉じ込められ命を狙われる運命に陥った男の戦いを描く。",
+  "start": 1637999400000,
+  "end": 1638004800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

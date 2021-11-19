@@ -1,0 +1,25 @@
+{
+  "id": "w633zta",
+  "category": "sports",
+  "title": "ライジングレディースゴルフTV",
+  "fullTitle": "[初]ライジングレディースゴルフTV【MATCH8-4】",
+  "detail": "MATCH8-4　井上莉花選手＆江口紗代選手組 VS 原田怜奈選手＆姜致世選手組",
+  "start": 1637964000000,
+  "end": 1637965800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "MATCH8-4",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

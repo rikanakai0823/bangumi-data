@@ -1,0 +1,26 @@
+{
+  "id": "iduh6f0",
+  "category": "cinema",
+  "title": "リトル・マエストラ",
+  "fullTitle": "[映]リトル・マエストラ[字]",
+  "detail": "解散の危機を迎えた漁港のアマチュアオーケストラを救うため、天才指揮者という女子高生が雇われるのだが……。「あまちゃん」で注目の有村架純が主演する音楽ドラマ。",
+  "start": 1637980200000,
+  "end": 1637987400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "あまちゃん",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

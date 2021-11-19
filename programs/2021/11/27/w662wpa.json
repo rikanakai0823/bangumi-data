@@ -1,0 +1,23 @@
+{
+  "id": "w662wpa",
+  "category": "music",
+  "title": "AKB48 のアニソンカラオケ大音楽祭",
+  "fullTitle": "AKB48 のアニソンカラオケ大音楽祭",
+  "detail": "メンバーが5組に分かれ競いお気に入りのアニソンを歌う!アニメクイズやゲーム、コスプレも!\r\n総合優勝したチームには、年末AKB特番に出演が決定します。",
+  "start": 1637994600000,
+  "end": 1638001800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
