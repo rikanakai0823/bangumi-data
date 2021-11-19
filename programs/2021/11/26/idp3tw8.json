@@ -2,7 +2,7 @@
   "id": "idp3tw8",
   "category": "drama",
   "title": "ドラマ５分ＰＲ",
-  "fullTitle": "ドラマ「生きて、ふたたび」５分ＰＲ",
+  "fullTitle": "ドラマ「生きて、ふたたび」５分ＰＲ[字]",
   "detail": "",
   "start": 1637911440000,
   "end": 1637911800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "生きて、ふたたび",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
