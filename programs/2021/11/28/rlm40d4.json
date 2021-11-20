@@ -1,0 +1,23 @@
+{
+  "id": "rlm40d4",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.巨人",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.巨人",
+  "detail": "開催日：2021年5月29日\r\n柳田・長谷川・甲斐にホームランが飛び出し一発攻勢で試合を決めた一戦。",
+  "start": 1638072000000,
+  "end": 1638090000000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

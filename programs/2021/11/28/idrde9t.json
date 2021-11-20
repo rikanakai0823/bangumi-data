@@ -1,0 +1,23 @@
+{
+  "id": "idrde9t",
+  "category": "cinema",
+  "title": "日曜ロードショー　映画",
+  "fullTitle": "日曜ロードショー　映画「ＤＥＳＴＩＮＹ 鎌倉ものがたり」",
+  "detail": "愛する妻の命を取り戻すため、夫は黄泉の国へ旅に出る――",
+  "start": 1638095400000,
+  "end": 1638104040000,
+  "seconds": 8640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "ＤＥＳＴＩＮＹ 鎌倉ものがたり",
+  "episode": null,
+  "flags": []
+}

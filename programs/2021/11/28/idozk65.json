@@ -1,0 +1,25 @@
+{
+  "id": "idozk65",
+  "category": "sports",
+  "title": "２０２１Ｎｉｔｔｏ　ＡＴＰファイナル～トリノ～",
+  "fullTitle": "２０２１Ｎｉｔｔｏ　ＡＴＰファイナル～トリノ～[多]",
+  "detail": "",
+  "start": 1638044400000,
+  "end": 1638051000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

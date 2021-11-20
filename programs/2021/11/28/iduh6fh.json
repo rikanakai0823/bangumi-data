@@ -1,0 +1,28 @@
+{
+  "id": "iduh6fh",
+  "category": "cinema",
+  "title": "くれなずめ",
+  "fullTitle": "[初][映]くれなずめ[SS][字]",
+  "detail": "友人の結婚式のため再会した高校時代の仲間たちが、２次会までの時間を持て余す中で過去に想いを馳せる。松居大悟監督が成田凌、高良健吾らを主演に描く青春コメディ。",
+  "start": 1638100800000,
+  "end": 1638108000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

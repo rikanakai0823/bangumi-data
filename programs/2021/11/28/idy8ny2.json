@@ -1,0 +1,25 @@
+{
+  "id": "idy8ny2",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#72[二]",
+  "detail": "#72「スクルージ・マクダックは有罪？！」",
+  "start": 1638081000000,
+  "end": 1638082800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "スクルージ・マクダックは有罪？！",
+  "episode": 72,
+  "flags": [
+    "二"
+  ]
+}
