@@ -1,0 +1,25 @@
+{
+  "id": "idxxihc",
+  "category": "hobby",
+  "title": "楽釣楽磯宣言 62 愛媛県日振島",
+  "fullTitle": "[初]楽釣楽磯宣言 62 愛媛県日振島",
+  "detail": "今回は愛媛県日振島エリアでグレを狙う",
+  "start": 1638187200000,
+  "end": 1638190800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w6820o6",
+  "category": "anime",
+  "title": "ブルーピリオド",
+  "fullTitle": "ブルーピリオド #08 [字]",
+  "detail": "",
+  "start": 1638144000000,
+  "end": 1638145800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w633zy1",
+  "category": "information",
+  "title": "オープニング",
+  "fullTitle": "オープニング",
+  "detail": "",
+  "start": 1638125700000,
+  "end": 1638126000000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
