@@ -1,0 +1,26 @@
+{
+  "id": "iduwr4u",
+  "category": "cinema",
+  "title": "スタートアップ！",
+  "fullTitle": "[映][SS]スタートアップ！",
+  "detail": "マ・ドンソクがおかっぱ頭のシェフを演じた痛快コメディ。反抗ばかりの少年が正体不明のシェフと出会い、成長してゆく姿を描く。",
+  "start": 1638257400000,
+  "end": 1638264000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm40d8",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.広島",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.広島",
+  "detail": "開催日：2021年6月8日\r\nソフトバンク・武田、広島・大瀬良の両先発がともに7回1失点の好投した一戦。",
+  "start": 1638241200000,
+  "end": 1638259200000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

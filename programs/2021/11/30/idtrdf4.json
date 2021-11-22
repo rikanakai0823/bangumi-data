@@ -1,0 +1,25 @@
+{
+  "id": "idtrdf4",
+  "category": "sports",
+  "title": "女子サッカー国際親善試合　なでしこジャパン（日本女子代表）×オランダ女子代表",
+  "fullTitle": "[生]女子サッカー国際親善試合　なでしこジャパン（日本女子代表）×オランダ女子代表",
+  "detail": "なでしこジャパンの国際親善試合を生中継でお届け！",
+  "start": 1638210600000,
+  "end": 1638219540000,
+  "seconds": 8940,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

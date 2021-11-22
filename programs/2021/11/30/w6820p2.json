@@ -1,0 +1,25 @@
+{
+  "id": "w6820p2",
+  "category": "anime",
+  "title": "海賊王女 #01-#05",
+  "fullTitle": "海賊王女 #01-#05 [字]",
+  "detail": "#01 記憶\r\n#02 受け継ぐ旅\r\n#03 バルバラル\r\n#04 石の謎\r\n#05 座標",
+  "start": 1638201600000,
+  "end": 1638210600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "記憶",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

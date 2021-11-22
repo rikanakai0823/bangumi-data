@@ -1,0 +1,25 @@
+{
+  "id": "rlm40dc",
+  "category": "variety",
+  "title": "Smile again！～人生宝箱～",
+  "fullTitle": "[無]Smile again！～人生宝箱～　#10",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nゲストは谷　真海さん（東京2020パラリンピック　トライアスロン出場選手）",
+  "start": 1638266400000,
+  "end": 1638269100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": [
+    "無"
+  ]
+}

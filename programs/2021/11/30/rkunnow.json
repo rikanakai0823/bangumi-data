@@ -1,0 +1,25 @@
+{
+  "id": "rkunnow",
+  "category": "hobby",
+  "title": "サラとダックン[字/日英]",
+  "fullTitle": "サラとダックン#44[二][字/日英]",
+  "detail": "ある晩、「居眠りマナティ座」を見ようとしていたサラとダックン。だが金星が星を並べ替えてしまい、星座が一つもなくなっていた。",
+  "start": 1638220920000,
+  "end": 1638221400000,
+  "seconds": 480,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "居眠りマナティ座",
+  "episode": 44,
+  "flags": [
+    "二"
+  ]
+}

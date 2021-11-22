@@ -1,0 +1,23 @@
+{
+  "id": "w67g6n9",
+  "category": "music",
+  "title": "レディオヘッド ビデオ特集",
+  "fullTitle": "レディオヘッド ビデオ特集",
+  "detail": "『KID A MNESIA』の発売に合わせレディオヘッドのミュージックビデオを特集する。",
+  "start": 1638205200000,
+  "end": 1638208800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
