@@ -1,9 +1,9 @@
 {
   "id": "w6820n8",
   "category": "anime",
-  "title": "最果てのパラディン",
-  "fullTitle": "最果てのパラディン #08 [字]",
-  "detail": "",
+  "title": "最果てのパラディン 総集編",
+  "fullTitle": "最果てのパラディン 総集編",
+  "detail": "総集編「道行」",
   "start": 1638023400000,
   "end": 1638025200000,
   "seconds": 1800,
@@ -17,9 +17,7 @@
     "hasLogoData": true,
     "n": 130
   },
-  "subTitle": "",
-  "episode": 8,
-  "flags": [
-    "字"
-  ]
+  "subTitle": "道行",
+  "episode": null,
+  "flags": []
 }

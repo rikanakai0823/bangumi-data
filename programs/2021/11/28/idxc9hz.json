@@ -1,0 +1,25 @@
+{
+  "id": "idxc9hz",
+  "category": "sports",
+  "title": "【PPS】RIZIN TRIGGER 1st",
+  "fullTitle": "[生]【PPS】RIZIN TRIGGER 1st",
+  "detail": "2015年末に誕生した史上最大の格闘技フェデレーション『RIZIN』",
+  "start": 1638075600000,
+  "end": 1638099000000,
+  "seconds": 23400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
