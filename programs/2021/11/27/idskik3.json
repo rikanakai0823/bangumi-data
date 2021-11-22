@@ -1,9 +1,9 @@
 {
   "id": "idskik3",
-  "category": "etc",
+  "category": "variety",
   "title": "銀座ランドマーク物語",
   "fullTitle": "銀座ランドマーク物語",
-  "detail": "",
+  "detail": "銀座の街の象徴である「和光」を中心に日本が世界に誇る街、銀座の物語をお届けします。",
   "start": 1637985600000,
   "end": 1637988840000,
   "seconds": 3240,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
+  "subTitle": "和光",
   "episode": null,
   "flags": []
 }
