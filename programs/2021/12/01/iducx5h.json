@@ -1,0 +1,26 @@
+{
+  "id": "iducx5h",
+  "category": "cinema",
+  "title": "ドラゴンヘッド",
+  "fullTitle": "[映]ドラゴンヘッド[字]",
+  "detail": "妻夫木聡らの共演で望月峯太郎のコミックを映画化したサバイバルＳＦ。大地震でトンネルに閉じ込められた高校生の少年と少女。やっと外に出た彼らが見た東京の光景は……。",
+  "start": 1638340200000,
+  "end": 1638348300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
