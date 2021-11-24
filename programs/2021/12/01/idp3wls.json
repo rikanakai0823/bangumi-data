@@ -1,0 +1,26 @@
+{
+  "id": "idp3wls",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「森の神秘　きのこ」[字][再]",
+  "detail": "秋の味覚の代表「きのこ」。フレンチ料理やマタギのきのこ鍋、不思議な姿のものや光るきのこ、菌類画家の細密画から南方熊楠の図譜まで、きのこの奥深い魅力に迫る！",
+  "start": 1638308700000,
+  "end": 1638310500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "森の神秘　きのこ",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
