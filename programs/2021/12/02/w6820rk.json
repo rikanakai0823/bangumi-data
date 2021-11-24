@@ -1,0 +1,25 @@
+{
+  "id": "w6820rk",
+  "category": "anime",
+  "title": "見える子ちゃん",
+  "fullTitle": "見える子ちゃん #09 [字]",
+  "detail": "#09 見たことある",
+  "start": 1638390600000,
+  "end": 1638392400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "見たことある",
+  "episode": 9,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rks7y06",
+  "category": "music",
+  "title": "Saucy Dog ワンマンライブ \"今度こそ、はじめてのホールツアー！”TOUR FINAL",
+  "fullTitle": "[生]Saucy Dog ワンマンライブ \"今度こそ、はじめてのホールツアー！”TOUR FINAL",
+  "detail": "東京ガーデンシアターで開催されるツアーファイナルの模様を独占生中継！\r\n※延長の場合あり\r\n※お問合せ：0570-0555-77（10時～20時）",
+  "start": 1638439200000,
+  "end": 1638446400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

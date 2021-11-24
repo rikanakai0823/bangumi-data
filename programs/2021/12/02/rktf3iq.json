@@ -1,0 +1,23 @@
+{
+  "id": "rktf3iq",
+  "category": "music",
+  "title": "M COUNTDOWN バックステージ",
+  "fullTitle": "M COUNTDOWN バックステージ",
+  "detail": "出演：ONEUS、LABOUM、Billlie、BLITZERS、ICHILLIN’\r\n【2021年11月11日M COUNTDOWN】\r\n再：(月)12:00（木)17:00（土)深4:00",
+  "start": 1638432000000,
+  "end": 1638435600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

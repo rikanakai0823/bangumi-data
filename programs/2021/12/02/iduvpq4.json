@@ -1,0 +1,25 @@
+{
+  "id": "iduvpq4",
+  "category": "drama",
+  "title": "ＦＡＲＧＯ／ファーゴ：カンザスシティ",
+  "fullTitle": "[SS]ＦＡＲＧＯ／ファーゴ：カンザスシティ　＃３",
+  "detail": "【ＳＴＡＲ　ＤＲＡＭＡ　１１】",
+  "start": 1638453600000,
+  "end": 1638458100000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "ＳＴＡＲ　ＤＲＡＭＡ　１１",
+  "episode": 3,
+  "flags": [
+    "SS"
+  ]
+}

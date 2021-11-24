@@ -1,0 +1,25 @@
+{
+  "id": "idy8o3a",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#79[二]",
+  "detail": "#79「嫌われたい」",
+  "start": 1638428100000,
+  "end": 1638428400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "嫌われたい",
+  "episode": 79,
+  "flags": [
+    "二"
+  ]
+}
