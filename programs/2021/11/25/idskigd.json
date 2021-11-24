@@ -1,9 +1,9 @@
 {
   "id": "idskigd",
-  "category": "etc",
-  "title": "絶景にっぽん紀行～おうちで旅気分～",
-  "fullTitle": "絶景にっぽん紀行～おうちで旅気分～",
-  "detail": "",
+  "category": "documentary",
+  "title": "絶景にっぽん紀行～おうちで旅気分～▼岐阜県",
+  "fullTitle": "絶景にっぽん紀行～おうちで旅気分～▼岐阜県「恵那峡」",
+  "detail": "今回訪れたのは岐阜県の「恵那峡」遊覧船に乗り、川の上から数千万年前の火山活動によって出来た巨大な岩を間近に見ることができる。",
   "start": 1637841240000,
   "end": 1637841600000,
   "seconds": 360,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
+  "subTitle": "恵那峡",
   "episode": null,
   "flags": []
 }
