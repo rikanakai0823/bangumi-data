@@ -1,0 +1,25 @@
+{
+  "id": "rksa8i9",
+  "category": "etc",
+  "title": "ラグビーTOP14 ペルピニャン×クレルモンpresented byヒト・コミュニケーションズ",
+  "fullTitle": "[生]ラグビーTOP14 ペルピニャン×クレルモンpresented byヒト・コミュニケーションズ",
+  "detail": "ラグビー日本代表の松島幸太朗が移籍し大活躍中のフランスラグビーリーグTOP14。各国のスター選手が集結する世界最高峰リーグのハイレベルな試合を生中継!※延長の場合あり",
+  "start": 1638021000000,
+  "end": 1638030600000,
+  "seconds": 9600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
