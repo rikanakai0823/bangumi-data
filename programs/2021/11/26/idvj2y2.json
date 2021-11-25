@@ -1,9 +1,9 @@
 {
   "id": "idvj2y2",
   "category": "news",
-  "title": "報道ライブ インサイドOUT",
-  "fullTitle": "報道ライブ インサイドOUT「タカラベnews＆talk」[デ]",
-  "detail": "",
+  "title": "報道ライブインサイド  タカラベnews&talk",
+  "fullTitle": "報道ライブインサイド  タカラベnews&talk 「福島原発事故はなぜ起きたのか」[デ]",
+  "detail": "福島原発はなぜあれほどの大規模な原発事故となったのか。東京電力は事故を未然に防ぐことはできなかったのか。福島第二原発の所長も務めた東電の元副社長が語る。",
   "start": 1637927940000,
   "end": 1637931240000,
   "seconds": 3300,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 65
   },
-  "subTitle": "タカラベnews＆talk",
+  "subTitle": "福島原発事故はなぜ起きたのか",
   "episode": null,
   "flags": [
     "デ"

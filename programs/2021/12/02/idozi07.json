@@ -1,9 +1,9 @@
 {
   "id": "idozi07",
-  "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！[字]",
-  "detail": "",
+  "category": "documentary",
+  "title": "東北推し！　東北ココから",
+  "fullTitle": "東北推し！　東北ココから「限界集落　住んでみた」[字]",
+  "detail": "「限界集落」ってどんなとこ？宮城と山形の県境にある小さな限界集落に、番組ディレクターがカメラ片手に一か月間暮らしてみた。そこで見つけたものとは？",
   "start": 1638371400000,
   "end": 1638374400000,
   "seconds": 3000,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "限界集落　住んでみた",
   "episode": null,
   "flags": [
     "字"

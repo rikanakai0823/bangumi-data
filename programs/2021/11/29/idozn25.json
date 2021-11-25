@@ -1,0 +1,25 @@
+{
+  "id": "idozn25",
+  "category": "sports",
+  "title": "２０２１ＮＨＫ杯フィギュア",
+  "fullTitle": "２０２１ＮＨＫ杯フィギュア[字]",
+  "detail": "",
+  "start": 1638175500000,
+  "end": 1638179700000,
+  "seconds": 4200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

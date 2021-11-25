@@ -1,0 +1,23 @@
+{
+  "id": "idp3xch",
+  "category": "music",
+  "title": "さわやかウインドー",
+  "fullTitle": "さわやかウインドー「生駒山めぐり」",
+  "detail": "",
+  "start": 1638291900000,
+  "end": 1638293700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "生駒山めぐり",
+  "episode": null,
+  "flags": []
+}
