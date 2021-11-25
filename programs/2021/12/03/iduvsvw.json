@@ -1,0 +1,26 @@
+{
+  "id": "iduvsvw",
+  "category": "cinema",
+  "title": "狼チャイルド",
+  "fullTitle": "[映][SS]狼チャイルド【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "シッチェス映画祭批評家賞などを受賞したファンタジーホラー。狼男の血を引く男児と、育ての親となった女性の切ない交流を描く。",
+  "start": 1638540000000,
+  "end": 1638549000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

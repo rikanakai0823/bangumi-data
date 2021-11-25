@@ -1,0 +1,25 @@
+{
+  "id": "idy8o3x",
+  "category": "drama",
+  "title": "グッドラック・チャーリー",
+  "fullTitle": "グッドラック・チャーリー#43[二]",
+  "detail": "#43「おはなし会で親子対決」",
+  "start": 1638471600000,
+  "end": 1638473400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "おはなし会で親子対決",
+  "episode": 43,
+  "flags": [
+    "二"
+  ]
+}

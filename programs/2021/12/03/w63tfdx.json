@@ -1,0 +1,25 @@
+{
+  "id": "w63tfdx",
+  "category": "sports",
+  "title": "2021-22 ヒーロー ワールドチャレンジ 1日目",
+  "fullTitle": "[生]2021-22 ヒーロー ワールドチャレンジ 1日目",
+  "detail": "タイガー・ウッズが大会ホストを務める招待イベント。舞台はバハマのニュープロビデンス島、アルバニー。",
+  "start": 1638469800000,
+  "end": 1638480600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 99
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

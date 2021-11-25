@@ -1,0 +1,23 @@
+{
+  "id": "w66jjmg",
+  "category": "music",
+  "title": "めざましライブ",
+  "fullTitle": "めざましライブ　#1「Novelbright」",
+  "detail": "＜出演＞Novelbright\r\n▽史上初のバーチャル空間で開催された、フジテレビ毎年恒例の「めざましライブ」をお届け！",
+  "start": 1638540000000,
+  "end": 1638543000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "Novelbright",
+  "episode": 1,
+  "flags": []
+}

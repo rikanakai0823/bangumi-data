@@ -1,0 +1,23 @@
+{
+  "id": "w67g7e0",
+  "category": "music",
+  "title": "MISIA ビデオ特集",
+  "fullTitle": "MISIA ビデオ特集",
+  "detail": "12月1日にニューアルバム『HELLO LOVE』をリリースした、MISIAのミュージックビデオをお届け。",
+  "start": 1638525600000,
+  "end": 1638529200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

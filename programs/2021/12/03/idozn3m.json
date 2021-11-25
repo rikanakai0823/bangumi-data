@@ -1,0 +1,25 @@
+{
+  "id": "idozn3m",
+  "category": "news",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル[字]",
+  "detail": "",
+  "start": 1638529200000,
+  "end": 1638532200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
