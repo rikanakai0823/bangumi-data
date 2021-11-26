@@ -1,9 +1,9 @@
 {
   "id": "idskikc",
-  "category": "etc",
-  "title": "郷愁の街角ラーメン",
-  "fullTitle": "[字]郷愁の街角ラーメン",
-  "detail": "",
+  "category": "information",
+  "title": "郷愁の街角ラーメン▽銀座のど真ん中で昔ながらの中華そば　銀座",
+  "fullTitle": "[字]郷愁の街角ラーメン▽銀座のど真ん中で昔ながらの中華そば　銀座「共楽」",
+  "detail": "昭和３１年創業の「共楽」。屋台から始まり、今は３代目が店を切り盛りし伝統の味を守る。中華そばもいいが、ワンタンメンは店の具すべてが入るお得なメニュー。",
   "start": 1638007200000,
   "end": 1638008100000,
   "seconds": 900,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
+  "subTitle": "共楽",
   "episode": null,
   "flags": [
     "字"
