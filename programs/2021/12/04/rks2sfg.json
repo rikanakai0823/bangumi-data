@@ -1,0 +1,23 @@
+{
+  "id": "rks2sfg",
+  "category": "music",
+  "title": "アイドルのチカラ",
+  "fullTitle": "アイドルのチカラ #1「AKB48 チーム8」",
+  "detail": "今こそ日本中に届けたい、アイドルのチカラ！AKB48、SKE48、＝LOVE、≠ME、たこやきレインボーがライブ＆トーク！音楽特番『アイドルのチカラ』を独占放送！",
+  "start": 1638577800000,
+  "end": 1638581400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "AKB48 チーム8",
+  "episode": 1,
+  "flags": []
+}

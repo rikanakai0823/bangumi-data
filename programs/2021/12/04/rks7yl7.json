@@ -1,0 +1,25 @@
+{
+  "id": "rks7yl7",
+  "category": "etc",
+  "title": "ラグビーTOP14 クレルモン×ビアリッツ presented byヒト・コミュニケーションズ",
+  "fullTitle": "[生]ラグビーTOP14 クレルモン×ビアリッツ presented byヒト・コミュニケーションズ",
+  "detail": "ラグビー日本代表の松島幸太朗が移籍し大活躍中のフランスラグビーリーグTOP14。各国のスター選手が集結する世界最高峰リーグの試合を生中継！\r\n※延長の場合あり",
+  "start": 1638625800000,
+  "end": 1638635400000,
+  "seconds": 9600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

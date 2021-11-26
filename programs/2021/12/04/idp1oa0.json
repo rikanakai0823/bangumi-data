@@ -1,0 +1,25 @@
+{
+  "id": "idp1oa0",
+  "category": "sports",
+  "title": "Ｂリーグ２０２１－２２",
+  "fullTitle": "Ｂリーグ２０２１－２２[字]",
+  "detail": "",
+  "start": 1638611400000,
+  "end": 1638612000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

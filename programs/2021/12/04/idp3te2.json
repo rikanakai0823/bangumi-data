@@ -1,0 +1,25 @@
+{
+  "id": "idp3te2",
+  "category": "documentary",
+  "title": "映像の世紀プレミアム",
+  "fullTitle": "映像の世紀プレミアム（２１）「太平洋戦争　銃後　もうひとつの戦場」[字]",
+  "detail": "【語り】山田孝之，山根基世",
+  "start": 1638613800000,
+  "end": 1638619200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "太平洋戦争　銃後　もうひとつの戦場",
+  "episode": 21,
+  "flags": [
+    "字"
+  ]
+}

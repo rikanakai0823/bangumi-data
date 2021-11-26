@@ -1,0 +1,25 @@
+{
+  "id": "iduvvjh",
+  "category": "cinema",
+  "title": "ドアロック",
+  "fullTitle": "[映]ドアロック【特集：Ｋホラーに感染する】",
+  "detail": "単身世帯が増加する韓国の世相を反映したサスペンススリラー。都心のマンションで独り暮らしをする女性に降りかかる恐怖を描く。",
+  "start": 1638603900000,
+  "end": 1638611100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "特集：Ｋホラーに感染する",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

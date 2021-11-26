@@ -1,0 +1,26 @@
+{
+  "id": "idozmak",
+  "category": "documentary",
+  "title": "奇跡のレッスン",
+  "fullTitle": "奇跡のレッスン「小説　重松清」[字][再]",
+  "detail": "子供や家族を描く小説が人気の直木賞作家重松清が、公募で集まった小学生から高校生１２人に特別レッスン。自分の内面を見つめ続ける子供たち、どんな作品が生まれるのか。",
+  "start": 1638579600000,
+  "end": 1638586200000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "小説　重松清",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rktcviu",
+  "category": "variety",
+  "title": "２０２０ ＫＢＳ芸能大賞",
+  "fullTitle": "２０２０ ＫＢＳ芸能大賞　[字][新]",
+  "detail": "韓国バラエティ好きの方、必見！今年の芸能大賞を楽しむ前に昨年の様子をお届け！",
+  "start": 1638555900000,
+  "end": 1638565200000,
+  "seconds": 9300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}

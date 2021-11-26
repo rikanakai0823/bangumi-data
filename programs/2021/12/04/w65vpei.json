@@ -1,0 +1,25 @@
+{
+  "id": "w65vpei",
+  "category": "sports",
+  "title": "横浜DeNAベイスターズ ファンフェスティバル2021",
+  "fullTitle": "[生]横浜DeNAベイスターズ ファンフェスティバル2021",
+  "detail": "シーズンを通して熱い声援を送ってくれたファンの皆様に感謝の気持ちを込めて開催するオフシーズン最大のイベントの模様を横浜スタジアムから生中継！",
+  "start": 1638585000000,
+  "end": 1638606600000,
+  "seconds": 21600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 106
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

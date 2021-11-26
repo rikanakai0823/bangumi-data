@@ -1,0 +1,23 @@
+{
+  "id": "idt5p48",
+  "category": "sports",
+  "title": "ウイニング競馬　～中山～",
+  "fullTitle": "ウイニング競馬　～中山～",
+  "detail": "【中山】11ＲステイヤーズＳ（ＧⅡ）\r\n【阪神】10Ｒ妙見山Ｓ、11ＲチャレンジＣ（ＧⅢ）\r\n【中京】10Ｒ中京スポニチ賞、11Ｒ飛騨Ｓ",
+  "start": 1638595800000,
+  "end": 1638601200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "中山",
+  "episode": null,
+  "flags": []
+}

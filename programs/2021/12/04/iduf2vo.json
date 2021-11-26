@@ -1,0 +1,25 @@
+{
+  "id": "iduf2vo",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４６９",
+  "detail": "",
+  "start": 1638556200000,
+  "end": 1638557100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 469,
+  "flags": [
+    "無"
+  ]
+}

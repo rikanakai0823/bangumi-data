@@ -1,0 +1,28 @@
+{
+  "id": "iduh8ek",
+  "category": "cinema",
+  "title": "ミセス・ノイズィ",
+  "fullTitle": "[初][映]ミセス・ノイズィ[SS][字]",
+  "detail": "もしも引っ越したマンションの隣室に、布団をたたいてうるさいおばさんがいたら……。今の日本でありそうな、隣人トラブルなどの問題を盛り込んだ、社会派コメディの秀作。",
+  "start": 1638621900000,
+  "end": 1638629100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

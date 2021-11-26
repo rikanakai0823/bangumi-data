@@ -1,0 +1,25 @@
+{
+  "id": "w67khul",
+  "category": "music",
+  "title": "テレビ独占生中継! MMA2021 (MELON MUSIC AWARDS)",
+  "fullTitle": "[生]テレビ独占生中継! MMA2021 (MELON MUSIC AWARDS)",
+  "detail": "韓国No.1音楽サイト「Melon」が主催する音楽授賞式「MMA2021 (MELON MUSIC AWARDS)」。エムオン!では、この韓国最大級の授賞式の模様をテレビ独占生中継！",
+  "start": 1638608400000,
+  "end": 1638624600000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

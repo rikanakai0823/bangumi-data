@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8hhsy",
+  "category": "sports",
+  "title": "ＪリーグＬＩＶＥ２０２１",
+  "fullTitle": "ＪリーグＬＩＶＥ２０２１",
+  "detail": "２０２１明治安田生命Ｊ１リーグ第３８節　ＦＣ東京ｖｓアビスパ福岡戦",
+  "start": 1638594000000,
+  "end": 1638601200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
