@@ -1,0 +1,26 @@
+{
+  "id": "w63j2hp",
+  "category": "sports",
+  "title": "全国高校サッカー地区大会 決勝　茨城",
+  "fullTitle": "[無料][生]第100回全国高校サッカー地区大会 決勝　茨城",
+  "detail": "～生中継　～早終了あり",
+  "start": 1638676800000,
+  "end": 1638685800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 100,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

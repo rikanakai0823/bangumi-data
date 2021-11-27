@@ -1,0 +1,26 @@
+{
+  "id": "idy8o6m",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "[無]ツムツム#0[解]",
+  "detail": "#0「クリスマツム」",
+  "start": 1638669420000,
+  "end": 1638669600000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "クリスマツム",
+  "episode": 0,
+  "flags": [
+    "無",
+    "解"
+  ]
+}

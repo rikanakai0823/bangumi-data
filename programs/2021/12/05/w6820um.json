@@ -1,0 +1,26 @@
+{
+  "id": "w6820um",
+  "category": "anime",
+  "title": "見える子ちゃん",
+  "fullTitle": "[無]見える子ちゃん #10 [字]",
+  "detail": "",
+  "start": 1638709200000,
+  "end": 1638711000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

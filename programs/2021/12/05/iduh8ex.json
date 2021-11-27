@@ -1,0 +1,27 @@
+{
+  "id": "iduh8ex",
+  "category": "cinema",
+  "title": "ＭＯＴＨＥＲ　マザー[PG12指定]",
+  "fullTitle": "[映]ＭＯＴＨＥＲ　マザー[PG12指定][SS][字]",
+  "detail": "長澤まさみがシングルマザーの役に挑んだヒューマンドラマ。その日暮らしで生活費にも困窮するシングルマザーと息子。社会の底辺で生きる母子に過酷な運命が待ち受ける。",
+  "start": 1638676800000,
+  "end": 1638684900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idskj02",
+  "category": "hobby",
+  "title": "麺鉄",
+  "fullTitle": "[字]麺鉄",
+  "detail": "",
+  "start": 1638694800000,
+  "end": 1638698040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

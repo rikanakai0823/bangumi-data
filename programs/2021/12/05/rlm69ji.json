@@ -1,0 +1,25 @@
+{
+  "id": "rlm69ji",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "[無]URAWA CHANNEL NEXT #31",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n浦和レッズのクラブ応援番組。今回は、今シーズンミッティランから加入したアレクサンダー ショルツ選手にインタビュー！",
+  "start": 1638649800000,
+  "end": 1638651600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "",
+  "episode": 31,
+  "flags": [
+    "無"
+  ]
+}

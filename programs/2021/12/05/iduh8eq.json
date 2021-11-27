@@ -1,0 +1,26 @@
+{
+  "id": "iduh8eq",
+  "category": "cinema",
+  "title": "吉祥天女[PG-12指定]",
+  "fullTitle": "[映]吉祥天女[PG-12指定][字]",
+  "detail": "吉田秋生の名作コミックを映画化した青春スリラー。鈴木杏を主演に、妖しいまでの美貌を持った少女に運命を狂わされていく人間たちと、彼女が背負う悲しい宿命を綴る。",
+  "start": 1638653400000,
+  "end": 1638660600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

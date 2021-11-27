@@ -1,0 +1,23 @@
+{
+  "id": "idp1spp",
+  "category": "sports",
+  "title": "カーリング　ミックスダブルス　北京オリンピック世界最終予選　予選・第１戦",
+  "fullTitle": "カーリング　ミックスダブルス　北京オリンピック世界最終予選　予選・第１戦",
+  "detail": "",
+  "start": 1638694800000,
+  "end": 1638698400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

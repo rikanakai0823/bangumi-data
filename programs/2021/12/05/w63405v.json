@@ -1,0 +1,26 @@
+{
+  "id": "w63405v",
+  "category": "sports",
+  "title": "ライジングレディースゴルフTV",
+  "fullTitle": "[無料][初]ライジングレディースゴルフTV【MATCH6-6】",
+  "detail": "MATCH6-6　加藤沙弥選手 VS 松原果音選手",
+  "start": 1638651600000,
+  "end": 1638653400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "MATCH6-6",
+  "episode": null,
+  "flags": [
+    "無",
+    "初"
+  ]
+}
