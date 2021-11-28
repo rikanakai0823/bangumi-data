@@ -1,0 +1,25 @@
+{
+  "id": "3826py3w1b",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第八闇「柩仰」",
+  "start": 1638727500000,
+  "end": 1638727800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "柩仰",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

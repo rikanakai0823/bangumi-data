@@ -1,0 +1,26 @@
+{
+  "id": "idy8o78",
+  "category": "anime",
+  "title": "アウルハウス",
+  "fullTitle": "[無]アウルハウス#13[二]",
+  "detail": "#13「初めての日」",
+  "start": 1638716400000,
+  "end": 1638718200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "初めての日",
+  "episode": 13,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

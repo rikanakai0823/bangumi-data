@@ -1,0 +1,26 @@
+{
+  "id": "idp3uia",
+  "category": "documentary",
+  "title": "桃源紀行",
+  "fullTitle": "桃源紀行「ボローニャ（イタリア）」[字][再]",
+  "detail": "イタリア北部の古都ボローニャ。この町を有名にしているのが１１世紀末に創立されたヨーロッパ最古の大学、ボローニャ大学。大学を中心に発展してきた町の姿を描く。",
+  "start": 1638738000000,
+  "end": 1638739800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ボローニャ（イタリア）",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

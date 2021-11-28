@@ -1,0 +1,26 @@
+{
+  "id": "w66odd3",
+  "category": "drama",
+  "title": "スーパーナチュラル13",
+  "fullTitle": "[二]スーパーナチュラル13(帯)#1[新]",
+  "detail": "#1「魔王の息子」\r\nLost and Found\r\nついにルシファーの息子、ジャックが誕生した。サムは対話を試みるが、ディーンは迷わず発砲。",
+  "start": 1638741600000,
+  "end": 1638745200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "魔王の息子",
+  "episode": 1,
+  "flags": [
+    "二",
+    "新"
+  ]
+}
