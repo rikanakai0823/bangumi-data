@@ -1,0 +1,27 @@
+{
+  "id": "iducx9a",
+  "category": "cinema",
+  "title": "スウィングガールズ",
+  "fullTitle": "[映]スウィングガールズ[SS][字]",
+  "detail": "東北の片田舎でスウィングジャズの魅力に目覚めた女子高校生たちの奮戦を綴った青春音楽コメディ。上野樹里、貫地谷しほりらの出世作となった大ヒット作。監督は矢口史靖。",
+  "start": 1638874800000,
+  "end": 1638882000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

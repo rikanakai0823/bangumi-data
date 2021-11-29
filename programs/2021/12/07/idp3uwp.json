@@ -1,0 +1,25 @@
+{
+  "id": "idp3uwp",
+  "category": "hobby",
+  "title": "テントを背負って",
+  "fullTitle": "テントを背負って「雲を見に行く」[字]",
+  "detail": "テントを背負って、小さな冒険へ。行く先はその日の気分次第。今回は北アルプス白馬連峰に、雲を見に行く。何気なく見上げる空、その奥深き世界をご堪能ください！",
+  "start": 1638873000000,
+  "end": 1638874800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "雲を見に行く",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

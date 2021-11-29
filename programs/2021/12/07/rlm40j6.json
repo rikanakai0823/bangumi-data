@@ -1,0 +1,23 @@
+{
+  "id": "rlm40j6",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.日本ハム",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.日本ハム",
+  "detail": "開催日：2021年6月18日\r\n先発：石川柊太",
+  "start": 1638846000000,
+  "end": 1638860700000,
+  "seconds": 14700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

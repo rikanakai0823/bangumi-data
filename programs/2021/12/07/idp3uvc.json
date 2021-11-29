@@ -1,0 +1,26 @@
+{
+  "id": "idp3uvc",
+  "category": "documentary",
+  "title": "桃源紀行",
+  "fullTitle": "桃源紀行「ウィットビー（イギリス）」[字][再]",
+  "detail": "イングランド北東部にある港町ウィットビー。ハワイなどを発見したキャプテン・クックがこの街から航海に出た。自らの土地に誇りを持ち、海と共に生きる人たちの姿を描く。",
+  "start": 1638824400000,
+  "end": 1638826200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ウィットビー（イギリス）",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

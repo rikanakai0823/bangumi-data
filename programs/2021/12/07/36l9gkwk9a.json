@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwk9a",
+  "category": "hobby",
+  "title": "チバミライチャンネル　みんなで防災～もしもにソナエル～",
+  "fullTitle": "チバミライチャンネル　みんなで防災～もしもにソナエル～",
+  "detail": "火災を防ぐ初期消火",
+  "start": 1638867300000,
+  "end": 1638867600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
