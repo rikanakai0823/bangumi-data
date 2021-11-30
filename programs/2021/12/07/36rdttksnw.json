@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Let It Snow! (10th Anniversary) \"MICHAEL BUBLE\r\n\"Hopeless Romantic\"SAM FISCHER\r\n\"have a great day\"EASY LIFE\r\n\"Smokin Out The Window\"BRUNO MARS, ANDERSON .PAAK, SILK SONIC\n◇番組内容２\n\"I Feel For You\"CHAKA KHAN\r\n\"I'm Every Woman\"CHAKA KHAN\r\n\"Through The Fire\"CHAKA KHAN",
   "start": 1638802800000,
   "end": 1638804600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Let It Snow! (10th Anniversary) \"MICHAEL BUBLE\r\n\"Hopeless Romantic\"SAM FISCHER\r\n\"have a great day\"EASY LIFE\r\n\"Smokin Out The Window\"BRUNO MARS, ANDERSON .PAAK, SILK SONIC",
+    "番組内容２": "\"I Feel For You\"CHAKA KHAN\r\n\"I'm Every Woman\"CHAKA KHAN\r\n\"Through The Fire\"CHAKA KHAN"
   },
   "channel": {
     "type": "GR",

@@ -1,12 +1,12 @@
 {
   "id": "idozj2r",
   "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！[字]",
-  "detail": "",
+  "title": "四国推し！　あわとく",
+  "fullTitle": "四国推し！　あわとく「ＡＷＡラウンドテーブル～夜間中学」[字]",
+  "detail": "ＮＨＫ徳島に取材をうけた人が語り合い、明日への気付きを得るＡＷＡラウンドテーブルの第二弾。徳島で今年生まれた夜間中学・しらさぎ中学校。教師の知られざる悩みとは？",
   "start": 1638544200000,
-  "end": 1638547200000,
-  "seconds": 3000,
+  "end": 1638545700000,
+  "seconds": 1500,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "ＡＷＡラウンドテーブル～夜間中学",
   "episode": null,
   "flags": [
     "字"
