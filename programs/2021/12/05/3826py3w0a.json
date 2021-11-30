@@ -3,10 +3,14 @@
   "category": "information",
   "title": "７コレ　Ｓｕｎｄａｙ",
   "fullTitle": "７コレ　Ｓｕｎｄａｙ",
-  "detail": "テレ東の旬の話題をお届け。ここでしか見られないインタビューや番組をもっと楽しめる情報をお届けします!!",
+  "detail": "毎週日曜夜9時「～夢のオーディションバラエティー～Dreamer　Z」iCON　Z男性ソロアーティストプロデューサー：EXILE　SHOKICHIからメッセージ！\n◇出演者\n狩野恵里(テレビ東京アナウンサー)",
   "start": 1638649200000,
   "end": 1638649800000,
   "seconds": 600,
+  "description": "毎週日曜夜9時「～夢のオーディションバラエティー～Dreamer　Z」iCON　Z男性ソロアーティストプロデューサー：EXILE　SHOKICHIからメッセージ！",
+  "extra": {
+    "出演者": "狩野恵里(テレビ東京アナウンサー)"
+  },
   "channel": {
     "type": "GR",
     "channel": "23",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 26
   },
-  "subTitle": "",
+  "subTitle": "～夢のオーディションバラエティー～Dreamer　Z",
   "episode": null,
   "flags": []
 }
