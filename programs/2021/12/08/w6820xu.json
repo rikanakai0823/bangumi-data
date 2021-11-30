@@ -1,0 +1,25 @@
+{
+  "id": "w6820xu",
+  "category": "anime",
+  "title": "サクガン",
+  "fullTitle": "サクガン #09 [字]",
+  "detail": "#09 END OF VACATION",
+  "start": 1638952200000,
+  "end": 1638954000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "END OF VACATION",
+  "episode": 9,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idt5ped",
+  "category": "music",
+  "title": "日本歌手協会歌謡祭　第二夜",
+  "fullTitle": "日本歌手協会歌謡祭　第二夜【ＢＳテレ東歌謡10DAYS】[字]",
+  "detail": "３夜連続で合計９時間にわたってお届けする「第４８回　日本歌手協会歌謡祭」総勢100組の出演歌手が名曲の数々を熱唱します！",
+  "start": 1638953880000,
+  "end": 1638964080000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "日本歌手協会歌謡祭",
+  "episode": 48,
+  "flags": [
+    "字"
+  ]
+}

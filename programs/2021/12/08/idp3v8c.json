@@ -1,0 +1,25 @@
+{
+  "id": "idp3v8c",
+  "category": "music",
+  "title": "名曲アルバムドボルザーク作曲",
+  "fullTitle": "名曲アルバム「悲しみの聖母」ドボルザーク作曲[SS]",
+  "detail": "「悲しみの聖母」ドボルザーク作曲　（ソプラノ）安井陽子，（アルト）加納悦子，（テノール）小原啓楼，（バス）小森輝彦，（合唱）東京混声合唱団",
+  "start": 1638910500000,
+  "end": 1638910800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "悲しみの聖母",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

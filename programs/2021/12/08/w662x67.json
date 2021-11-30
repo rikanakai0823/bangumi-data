@@ -1,0 +1,25 @@
+{
+  "id": "w662x67",
+  "category": "theater",
+  "title": "MANKAI STAGE『A3!』Troupe LIVE～AUTUMN 2021～",
+  "fullTitle": "【生】MANKAI STAGE『A3!』Troupe LIVE～AUTUMN 2021～",
+  "detail": "エーステ秋組単独LIVE!\r\n【出演】水江建太 中村太郎 赤澤遼太郎 稲垣成弥 藤田 玲",
+  "start": 1638957600000,
+  "end": 1638964800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

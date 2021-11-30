@@ -1,0 +1,25 @@
+{
+  "id": "w66svcj",
+  "category": "drama",
+  "title": "STATION 19　シーズン2",
+  "fullTitle": "STATION 19　シーズン2 #10「恐怖の電車」[字]",
+  "detail": "マヤはジャックの復帰が早すぎるのではないかと感じていた。そんな時、地下鉄で複数の乗客が軽症を負ったとの連絡が入る。マヤとジャックが対応に向かったのだが…。",
+  "start": 1638889200000,
+  "end": 1638892800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＦＯＸ",
+    "id": "f0d4",
+    "sid": 312,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 117
+  },
+  "subTitle": "恐怖の電車",
+  "episode": 10,
+  "flags": [
+    "字"
+  ]
+}

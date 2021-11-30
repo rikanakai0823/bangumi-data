@@ -1,0 +1,23 @@
+{
+  "id": "w63j2j0",
+  "category": "sports",
+  "title": "ゴルフ日本シリーズJTカップ2021 3日目地上波",
+  "fullTitle": "ゴルフ日本シリーズJTカップ2021 3日目地上波",
+  "detail": "2021年12月4日開催　～東京よみうりカントリークラブ",
+  "start": 1638950400000,
+  "end": 1638955800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

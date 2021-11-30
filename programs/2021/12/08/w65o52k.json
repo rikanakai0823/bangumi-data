@@ -1,0 +1,25 @@
+{
+  "id": "w65o52k",
+  "category": "variety",
+  "title": "志村屋です。-96",
+  "fullTitle": "[HV]志村屋です。【連日】#95-96[終]",
+  "detail": "志村けんがお届けする、コントありトークありの抱腹絶倒バラエティ。",
+  "start": 1638964500000,
+  "end": 1638968100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 102
+  },
+  "subTitle": "連日",
+  "episode": 95,
+  "flags": [
+    "終"
+  ]
+}
