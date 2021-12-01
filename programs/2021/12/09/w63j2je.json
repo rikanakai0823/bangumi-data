@@ -1,0 +1,23 @@
+{
+  "id": "w63j2je",
+  "category": "sports",
+  "title": "ゴルフ日本シリーズJTカップ2021 最終日地上波",
+  "fullTitle": "ゴルフ日本シリーズJTカップ2021 最終日地上波",
+  "detail": "２０２１年１２月５日開催　～東京よみうりカントリークラブ\r\n解説：青木功　丸山茂樹　ラウンド解説：佐藤信人　深堀圭一郎\r\n実況：菅谷大介",
+  "start": 1639035000000,
+  "end": 1639042200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

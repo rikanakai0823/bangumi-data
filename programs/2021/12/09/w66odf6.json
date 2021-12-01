@@ -1,0 +1,25 @@
+{
+  "id": "w66odf6",
+  "category": "drama",
+  "title": "[5.1]ブラックリスト7",
+  "fullTitle": "[字][5.1]ブラックリスト7(帯)#3",
+  "detail": "#3「悪の華」\r\nLES FLEURS DU MAL (NO. 151)\r\nフランチェスカは、スタインヒルが以前仕事をした「悪の華」という組織があるとレッドに伝える。",
+  "start": 1638979200000,
+  "end": 1638982800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "悪の華",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

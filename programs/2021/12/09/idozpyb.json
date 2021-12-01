@@ -1,0 +1,23 @@
+{
+  "id": "idozpyb",
+  "category": "sports",
+  "title": "都市対抗野球　決勝",
+  "fullTitle": "第９２回都市対抗野球　決勝",
+  "detail": "",
+  "start": 1639033200000,
+  "end": 1639045800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 92,
+  "flags": []
+}

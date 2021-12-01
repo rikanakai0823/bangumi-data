@@ -1,0 +1,25 @@
+{
+  "id": "w6820z5",
+  "category": "anime",
+  "title": "ブルーピリオド",
+  "fullTitle": "ブルーピリオド #10 [字]",
+  "detail": "",
+  "start": 1639051200000,
+  "end": 1639053000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": [
+    "字"
+  ]
+}
