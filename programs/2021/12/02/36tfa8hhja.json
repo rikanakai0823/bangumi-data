@@ -1,12 +1,18 @@
 {
   "id": "36tfa8hhja",
   "category": "hobby",
-  "title": "ＡＢＣブロッコリ！",
-  "fullTitle": "ＡＢＣブロッコリ！",
-  "detail": " ",
+  "title": "ＡＢＣブロッコリ！　★ダンスのれんしゅう！Ｓｌｏｗ！Ｆａｓｔ！",
+  "fullTitle": "ＡＢＣブロッコリ！　★ダンスのれんしゅう！Ｓｌｏｗ！Ｆａｓｔ！",
+  "detail": "＃３３「ダンス・ダンス・ダンス」\n◇番組内容\n団長が用意してくれたリズムくんで\r\nダンスのれんしゅうをしよう！\r\n\r\nSlow Slow　ゆっくり ゆっくり\r\nFast Fast　はやく はやく！\r\nStop!　とまれ！\n◇出演者\nアリサ、パオッポ、ウサリーヌ（ウサリーヌ・ドヌーブ）、ガミオ（タテ・ガミオ）、ブロッコリ＆カリフラワー\n◇おしらせ\n【番組ホームページ】https://s.mxtv.jp/variety/abcbroccoli/",
   "start": 1638437400000,
   "end": 1638438960000,
   "seconds": 1560,
+  "description": "＃３３「ダンス・ダンス・ダンス」",
+  "extra": {
+    "番組内容": "団長が用意してくれたリズムくんで\r\nダンスのれんしゅうをしよう！\r\n\r\nSlow Slow　ゆっくり ゆっくり\r\nFast Fast　はやく はやく！\r\nStop!　とまれ！",
+    "出演者": "アリサ、パオッポ、ウサリーヌ（ウサリーヌ・ドヌーブ）、ガミオ（タテ・ガミオ）、ブロッコリ＆カリフラワー",
+    "おしらせ": "【番組ホームページ】https://s.mxtv.jp/variety/abcbroccoli/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "ダンス・ダンス・ダンス",
+  "episode": 33,
   "flags": []
 }
