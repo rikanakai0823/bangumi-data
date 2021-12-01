@@ -1,0 +1,25 @@
+{
+  "id": "w66h6h8",
+  "category": "information",
+  "title": "番組PR",
+  "fullTitle": "[無料]番組PR【12月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1638674400000,
+  "end": 1638675000000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "12月",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}
