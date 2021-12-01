@@ -2,8 +2,8 @@
   "id": "idozk68",
   "category": "sports",
   "title": "競馬２０２１",
-  "fullTitle": "競馬２０２１[字]",
-  "detail": "",
+  "fullTitle": "競馬２０２１「第２２回チャンピオンズカップ」",
+  "detail": "桜花賞馬、白毛のソダシがダートに初挑戦▽史上２頭目の連覇を狙うチュウワウィザードや地方競馬のカジノフォンテン！パドックから本馬場入場、レースまですべて生中継！",
   "start": 1638684000000,
   "end": 1638687000000,
   "seconds": 3000,
@@ -17,9 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
-  "episode": null,
-  "flags": [
-    "字"
-  ]
+  "subTitle": "第２２回チャンピオンズカップ",
+  "episode": 22,
+  "flags": []
 }
