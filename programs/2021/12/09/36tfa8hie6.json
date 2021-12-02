@@ -1,12 +1,18 @@
 {
   "id": "36tfa8hie6",
   "category": "hobby",
-  "title": "ＡＢＣブロッコリ！",
-  "fullTitle": "ＡＢＣブロッコリ！",
-  "detail": " ",
+  "title": "ＡＢＣブロッコリ！　★Ｈｅｌｌｏ！でんわで話すのはたのしいね！",
+  "fullTitle": "ＡＢＣブロッコリ！　★Ｈｅｌｌｏ！でんわで話すのはたのしいね！",
+  "detail": "＃３４「でんわは　たのしい」\n◇番組内容\nでんわがあれば便利なのに…\r\nそこへガミオがでんわをもってやってきた\r\nそのでんわとは…？\r\n\r\nHello, it's Alisa! Is this Usarine?\r\n「もしもしアリサよ！ウサリーヌですか？」\r\nでんわで話すのはたのしいね！\n◇出演者\nアリサ、パオッポ、ウサリーヌ（ウサリーヌ・ドヌーブ）、ガミオ（タテ・ガミオ）、ブロッコリ＆カリフラワー\n◇おしらせ\n【番組ホームページ】https://s.mxtv.jp/variety/abcbroccoli/",
   "start": 1639042200000,
   "end": 1639043760000,
   "seconds": 1560,
+  "description": "＃３４「でんわは　たのしい」",
+  "extra": {
+    "番組内容": "でんわがあれば便利なのに…\r\nそこへガミオがでんわをもってやってきた\r\nそのでんわとは…？\r\n\r\nHello, it's Alisa! Is this Usarine?\r\n「もしもしアリサよ！ウサリーヌですか？」\r\nでんわで話すのはたのしいね！",
+    "出演者": "アリサ、パオッポ、ウサリーヌ（ウサリーヌ・ドヌーブ）、ガミオ（タテ・ガミオ）、ブロッコリ＆カリフラワー",
+    "おしらせ": "【番組ホームページ】https://s.mxtv.jp/variety/abcbroccoli/"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "でんわは　たのしい",
+  "episode": 34,
   "flags": []
 }
