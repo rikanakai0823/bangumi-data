@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1wp6",
+  "category": "documentary",
+  "title": "ＭＩＤＴＶ",
+  "fullTitle": "ＭＩＤＴＶ[Ｓ][再]",
+  "detail": "貴島明日香（第２回）",
+  "start": 1639109700000,
+  "end": 1639110600000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "再"
+  ]
+}

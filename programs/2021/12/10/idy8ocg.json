@@ -1,0 +1,25 @@
+{
+  "id": "idy8ocg",
+  "category": "cinema",
+  "title": "キム・ポッシブル",
+  "fullTitle": "キム・ポッシブル[二]",
+  "detail": "ティーンヒーロー、キムの高校初日は散々な一日となる。高校生活は世界を救うより難しいかもしれない。その頃、刑務所を脱獄したドラッケンがキムヘの復讐を計画していた。",
+  "start": 1639063800000,
+  "end": 1639069200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

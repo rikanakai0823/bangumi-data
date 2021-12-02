@@ -1,0 +1,25 @@
+{
+  "id": "iduyk0k",
+  "category": "cinema",
+  "title": "エアポート’８０",
+  "fullTitle": "[映]エアポート’８０【シルヴィア・クリステル特集第２弾】",
+  "detail": "アラン・ドロン、シルヴィア・クリステル共演の大ヒット航空パニック第４弾。機体ごと暗殺の標的になった飛行機の危機を描く。",
+  "start": 1639137600000,
+  "end": 1639144800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "シルヴィア・クリステル特集第２弾",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

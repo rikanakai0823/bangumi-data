@@ -1,0 +1,26 @@
+{
+  "id": "iduh8gt",
+  "category": "cinema",
+  "title": "カリスマ",
+  "fullTitle": "[映]カリスマ[字]",
+  "detail": "現代日本映画界きっての名匠・黒沢清監督が放った、黙示録的ビジョンに満ちた衝撃作。カリスマと呼ばれる奇妙な木が生えた森を舞台に、人々は息詰まる葛藤劇を展開する。",
+  "start": 1639131300000,
+  "end": 1639137600000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
