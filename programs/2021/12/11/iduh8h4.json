@@ -1,0 +1,27 @@
+{
+  "id": "iduh8h4",
+  "category": "cinema",
+  "title": "映画　ホタルノヒカリ",
+  "fullTitle": "[映]映画　ホタルノヒカリ[SS][字]",
+  "detail": "綾瀬はるか主演の人気ＴＶドラマの劇場版。“干物女”と“ぶちょお”がついにゴールイン。だが新婚旅行先のイタリア・ローマで、２人の行く先々にトラブルが発生し？",
+  "start": 1639197000000,
+  "end": 1639204200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rktcvnc",
+  "category": "drama",
+  "title": "恋するレモネード",
+  "fullTitle": "恋するレモネード　#3　[字][再]",
+  "detail": "KBS World初放送！「君の歌を聴かせて」のキム・セジョン、チャン・ドンユン、「愛の不時着」のキム・ジョンヒョン主演！学園青春ロマンス！2017年　全16話",
+  "start": 1639219500000,
+  "end": 1639224000000,
+  "seconds": 4500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

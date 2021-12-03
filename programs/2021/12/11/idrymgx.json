@@ -1,0 +1,25 @@
+{
+  "id": "idrymgx",
+  "category": "information",
+  "title": "新4K8K衛星放送で見ようよ！年末リレー1週間12/25～31",
+  "fullTitle": "[字]新4K8K衛星放送で見ようよ！年末リレー1週間12/25～31",
+  "detail": "民放BS5社とNHKが誇る珠玉の年末番組を、局またぎの豪華リレーで放送！",
+  "start": 1639233000000,
+  "end": 1639233900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

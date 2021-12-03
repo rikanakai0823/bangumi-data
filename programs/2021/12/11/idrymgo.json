@@ -1,0 +1,25 @@
+{
+  "id": "idrymgo",
+  "category": "information",
+  "title": "食ノ音色",
+  "fullTitle": "[字]食ノ音色　＃233「日々、試行錯誤 蒸し餃子」",
+  "detail": "キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。今回の“食ノ音色”を奏でる主役は「蒸し餃子」。",
+  "start": 1639209360000,
+  "end": 1639209600000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "日々、試行錯誤 蒸し餃子",
+  "episode": 233,
+  "flags": [
+    "字"
+  ]
+}

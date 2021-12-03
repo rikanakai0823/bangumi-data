@@ -1,0 +1,25 @@
+{
+  "id": "idskjce",
+  "category": "cinema",
+  "title": "土曜映画デラックス「００７／スペクター」",
+  "fullTitle": "[映]土曜映画デラックス「００７／スペクター」【吹替】",
+  "detail": "ダニエル・クレイグが４度目のジェームズ・ボンド役を演じる「００７」シリーズ第２４作。タイトルになっている、ボンドの宿敵「スペクター」が登場！",
+  "start": 1639224000000,
+  "end": 1639234440000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

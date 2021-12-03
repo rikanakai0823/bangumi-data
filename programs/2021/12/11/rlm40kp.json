@@ -1,0 +1,25 @@
+{
+  "id": "rlm40kp",
+  "category": "sports",
+  "title": "福岡ソフトバンクホークス ファンフェスティバル2021",
+  "fullTitle": "[生]福岡ソフトバンクホークス ファンフェスティバル2021",
+  "detail": "ファンの皆様へ１年間の感謝を込めて、福岡ソフトバンクホークス ファンフェスティバル2021をお届け！",
+  "start": 1639191600000,
+  "end": 1639209600000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

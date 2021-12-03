@@ -1,0 +1,25 @@
+{
+  "id": "rktf3pd",
+  "category": "music",
+  "title": "2021 Mnet ASIAN MUSIC AWARDS レッドカーペット",
+  "fullTitle": "[生]2021 Mnet ASIAN MUSIC AWARDS レッドカーペット",
+  "detail": "「2021 MAMA (2021 Mnet ASIAN MUSIC AWARDS)」のレッドカーペットを日韓同時生放送！※放送時間・内容は変更になる場合がございます。予めご了承ください。",
+  "start": 1639206000000,
+  "end": 1639213200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "2021 MAMA (2021 Mnet ASIAN MUSIC AWARDS)",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
