@@ -1,0 +1,25 @@
+{
+  "id": "idy8ofj",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#53[二]",
+  "detail": "#53「ターキッシュデライト」",
+  "start": 1639297500000,
+  "end": 1639297800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ターキッシュデライト",
+  "episode": 53,
+  "flags": [
+    "二"
+  ]
+}

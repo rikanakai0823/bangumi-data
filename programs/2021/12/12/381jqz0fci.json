@@ -1,0 +1,23 @@
+{
+  "id": "381jqz0fci",
+  "category": "sports",
+  "title": "全日本空手道選手権",
+  "fullTitle": "第４９回全日本空手道選手権",
+  "detail": "～日本武道館から中継～［延伸のとき　Ｅテレ３で放送継続］",
+  "start": 1639290600000,
+  "end": 1639296000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 49,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduwksg",
+  "category": "cinema",
+  "title": "ミッドウェイ（２０１９）",
+  "fullTitle": "[映][SS]ミッドウェイ（２０１９）【特集：世界の戦争映画】",
+  "detail": "ローランド・エメリッヒ監督による海戦アクション。第二次世界大戦の中でも、激戦として知られるミッドウェイの戦いを描く。",
+  "start": 1639292400000,
+  "end": 1639301400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "特集：世界の戦争映画",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idt5pif",
+  "category": "music",
+  "title": "ＢＳ演歌の花道",
+  "fullTitle": "ＢＳ演歌の花道[字]",
+  "detail": "1978年から22年間レギュラー番組として放送した伝説の番組「演歌の花道」が復活！都はるみ、山本譲二、岡千秋、柳沢純子、橋幸夫、田川寿美、松尾雄史",
+  "start": 1639310400000,
+  "end": 1639313700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "演歌の花道",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

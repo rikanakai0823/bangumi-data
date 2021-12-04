@@ -1,0 +1,25 @@
+{
+  "id": "idp1uzy",
+  "category": "sports",
+  "title": "Ｂリーグ２０２１－２２「宇都宮ブレックス」対",
+  "fullTitle": "Ｂリーグ２０２１－２２「宇都宮ブレックス」対「琉球ゴールデンキングス」[字]",
+  "detail": "【解説】中原雄，【アナウンサー】塚本貴之　～ブレックスアリーナ宇都宮から中継～",
+  "start": 1639295400000,
+  "end": 1639299600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "琉球ゴールデンキングス",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

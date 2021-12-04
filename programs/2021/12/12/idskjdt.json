@@ -1,0 +1,23 @@
+{
+  "id": "idskjdt",
+  "category": "etc",
+  "title": "新４Ｋ８Ｋ衛星放送で見ようよ！年末リレー１週間",
+  "fullTitle": "新４Ｋ８Ｋ衛星放送で見ようよ！年末リレー１週間",
+  "detail": "",
+  "start": 1639279800000,
+  "end": 1639280700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

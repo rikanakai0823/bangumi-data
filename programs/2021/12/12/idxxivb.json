@@ -1,0 +1,23 @@
+{
+  "id": "idxxivb",
+  "category": "hobby",
+  "title": "ミニ番組",
+  "fullTitle": "ミニ番組 #1 HITラッシュ 冬 5minutes 1",
+  "detail": "今回は2019年冬に放送した番組から、厳選したエキサイティングなHITラッシュをショートバージョンでお届けします！",
+  "start": 1639245300000,
+  "end": 1639245600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "HITラッシュ 冬 5minutes 1",
+  "episode": 1,
+  "flags": []
+}

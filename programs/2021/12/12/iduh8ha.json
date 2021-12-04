@@ -1,0 +1,26 @@
+{
+  "id": "iduh8ha",
+  "category": "cinema",
+  "title": "地獄の警備員",
+  "fullTitle": "[映]地獄の警備員[字]",
+  "detail": "黒沢清監督が１９９２年に発表した異色ホラー。深夜のオフィスビルに殺人鬼が出現。深く被った帽子の下で、血に飢えた目を輝かせる……。松重豊の初の映画出演作でもある。",
+  "start": 1639238400000,
+  "end": 1639244700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

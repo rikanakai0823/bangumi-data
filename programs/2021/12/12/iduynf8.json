@@ -1,0 +1,25 @@
+{
+  "id": "iduynf8",
+  "category": "cinema",
+  "title": "バスケットケース３",
+  "fullTitle": "[映]バスケットケース３",
+  "detail": "コメディ色が濃厚になったカルトホラー第３弾。ベリアルの子どもたちを巡って再び騒動が繰り広げられる。［ＰＧ１２相当］",
+  "start": 1639236000000,
+  "end": 1639242000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

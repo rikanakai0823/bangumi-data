@@ -1,0 +1,25 @@
+{
+  "id": "idx1uam",
+  "category": "anime",
+  "title": "名探偵コナン 12月号",
+  "fullTitle": "[字]名探偵コナン 12月号",
+  "detail": "#757「米花ポン　出血大サービス」\r\n#758「高木刑事、手錠で逃走」\r\n#759「三人の第一発見者（前編）」\r\n#760「三人の第…",
+  "start": 1639274400000,
+  "end": 1639281600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "米花ポン　出血大サービス",
+  "episode": 757,
+  "flags": [
+    "字"
+  ]
+}
