@@ -1,0 +1,23 @@
+{
+  "id": "w68211j",
+  "category": "anime",
+  "title": "R指定アニメ！",
+  "fullTitle": "R指定アニメ！ #06",
+  "detail": "【再放送】\r\n#6『少女革命ウテナ』生放送スペシャル",
+  "start": 1639339200000,
+  "end": 1639342800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "再放送",
+  "episode": 6,
+  "flags": []
+}

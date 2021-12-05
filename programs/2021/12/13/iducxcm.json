@@ -1,0 +1,26 @@
+{
+  "id": "iducxcm",
+  "category": "cinema",
+  "title": "学校",
+  "fullTitle": "[映]学校[字]",
+  "detail": "夜間中学を舞台に年齢など大きく異なる生徒・教師たちの心の交流を描いたヒューマンドラマ。山田洋次監督が１５年来温めていた企画を実現。第４作までシリーズ化された。",
+  "start": 1639356300000,
+  "end": 1639364400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

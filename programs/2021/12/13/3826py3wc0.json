@@ -1,0 +1,25 @@
+{
+  "id": "3826py3wc0",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再]",
+  "detail": "第九闇「蟻地獄」",
+  "start": 1639332300000,
+  "end": 1639332600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "蟻地獄",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
