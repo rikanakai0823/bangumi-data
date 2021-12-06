@@ -1,0 +1,25 @@
+{
+  "id": "idv11qy",
+  "category": "cinema",
+  "title": "ダークスカイズ",
+  "fullTitle": "[映]ダークスカイズ[吹]",
+  "detail": "『ザ・ハント』などのプロデューサー、ジェイソン・ブラム製作のホラー。家の中で起こる怪現象に悩まされる家族の恐怖を描く。",
+  "start": 1639480200000,
+  "end": 1639486800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

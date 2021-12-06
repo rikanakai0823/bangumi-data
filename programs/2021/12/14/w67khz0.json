@@ -1,0 +1,23 @@
+{
+  "id": "w67khz0",
+  "category": "music",
+  "title": "K-POP ヒッツ！",
+  "fullTitle": "K-POP ヒッツ！",
+  "detail": "K-POPアーティストのミュージックビデオを続々オンエア！",
+  "start": 1639472400000,
+  "end": 1639476000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

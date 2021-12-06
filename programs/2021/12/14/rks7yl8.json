@@ -1,0 +1,25 @@
+{
+  "id": "rks7yl8",
+  "category": "music",
+  "title": "＜独占生中継＞日本全国CK地元化計画",
+  "fullTitle": "[生]＜独占生中継＞【C&Kライブ】日本全国CK地元化計画",
+  "detail": "『日本全国CK地元化計画 地元です。地元じゃなくても、地元ですツアー2021　劇団ひとりぼっち～僕は独りじゃない～ 改』ツアーファイナル独占生中継\r\n※延長の場合あり",
+  "start": 1639476000000,
+  "end": 1639486800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "C&Kライブ",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8oi1",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#88[二]",
+  "detail": "#88「僕と君のハーモニー」",
+  "start": 1639464900000,
+  "end": 1639465200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "僕と君のハーモニー",
+  "episode": 88,
+  "flags": [
+    "二"
+  ]
+}
