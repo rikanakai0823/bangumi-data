@@ -1,0 +1,26 @@
+{
+  "id": "iducxdn",
+  "category": "cinema",
+  "title": "ブラック・リッジ（字幕版）",
+  "fullTitle": "[映]ブラック・リッジ（字幕版）[SS]",
+  "detail": "ジョージア国のウインターリゾートを舞台に、自然の雪山でスノーボードを楽しもうとしていたカップルが、何者かに命を狙われることに。極限状況のサバイバルサスペンス。",
+  "start": 1639503000000,
+  "end": 1639508400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

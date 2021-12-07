@@ -1,0 +1,25 @@
+{
+  "id": "iducxe5",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃７０３",
+  "detail": "",
+  "start": 1639576200000,
+  "end": 1639576800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 703,
+  "flags": [
+    "無"
+  ]
+}

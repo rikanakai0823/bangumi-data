@@ -1,0 +1,25 @@
+{
+  "id": "w68214h",
+  "category": "anime",
+  "title": "サクガン",
+  "fullTitle": "サクガン #10 [字]",
+  "detail": "#10 OH MY TONNY",
+  "start": 1639557000000,
+  "end": 1639558800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "OH MY TONNY",
+  "episode": 10,
+  "flags": [
+    "字"
+  ]
+}

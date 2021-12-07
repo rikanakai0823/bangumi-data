@@ -1,0 +1,29 @@
+{
+  "id": "36l9gkufqk",
+  "category": "music",
+  "title": "カラオケ大賞　第１９２６回チョン・テフ",
+  "fullTitle": "カラオケ大賞　第１９２６回【ゲスト】チョン・テフ[再]",
+  "detail": "【ゲスト】チョン・テフ\n◇出演者\n【審査員長】伊戸のりお\r\n【司会】吉岡美穂",
+  "start": 1639522800000,
+  "end": 1639526100000,
+  "seconds": 3300,
+  "description": "【ゲスト】チョン・テフ",
+  "extra": {
+    "出演者": "【審査員長】伊戸のりお\r\n【司会】吉岡美穂\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

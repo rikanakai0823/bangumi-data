@@ -1,0 +1,25 @@
+{
+  "id": "idv1520",
+  "category": "cinema",
+  "title": "デンジャー・クロース　極限着弾",
+  "fullTitle": "[映]デンジャー・クロース　極限着弾[吹]",
+  "detail": "ベトナム戦争下、オーストラリア軍兵士１０８人が約２千人のベトナム兵相手に闘った「ロングタンの戦い」を描いた戦争映画。",
+  "start": 1639573200000,
+  "end": 1639581000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "ロングタンの戦い",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

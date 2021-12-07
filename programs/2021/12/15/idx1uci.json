@@ -1,0 +1,25 @@
+{
+  "id": "idx1uci",
+  "category": "anime",
+  "title": "テニスの王子様 ,134",
+  "fullTitle": "[字]テニスの王子様 #133,134",
+  "detail": "#133「日本一の寿司屋」\r\n#134「わたしの王子様」\r\nアメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。…",
+  "start": 1639508400000,
+  "end": 1639512000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "日本一の寿司屋",
+  "episode": 133,
+  "flags": [
+    "字"
+  ]
+}

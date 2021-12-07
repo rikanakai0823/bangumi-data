@@ -1,0 +1,25 @@
+{
+  "id": "w68214g",
+  "category": "anime",
+  "title": "SCARLET NEXUS",
+  "fullTitle": "SCARLET NEXUS #24 [字]",
+  "detail": "#24 眠れる想い",
+  "start": 1639555200000,
+  "end": 1639557000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "眠れる想い",
+  "episode": 24,
+  "flags": [
+    "字"
+  ]
+}

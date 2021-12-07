@@ -1,0 +1,25 @@
+{
+  "id": "idp1tlt",
+  "category": "sports",
+  "title": "Ｂリーグ２０２１－２２「アルバルク東京」対",
+  "fullTitle": "Ｂリーグ２０２１－２２「アルバルク東京」対「サンロッカーズ渋谷」[字]",
+  "detail": "【解説】佐々木クリス，【アナウンサー】厚井大樹　～アリーナ立川立飛から中継～",
+  "start": 1639569000000,
+  "end": 1639569600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "サンロッカーズ渋谷",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
