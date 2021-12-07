@@ -1,0 +1,25 @@
+{
+  "id": "idp42vx",
+  "category": "documentary",
+  "title": "コズミックフロント☆ヒーリング",
+  "fullTitle": "コズミックフロント☆ヒーリング「冬の星空」[再]",
+  "detail": "宇宙の謎に迫るコズミックフロント。これまで撮影してきた究極の星空映像を極上の音楽とともに紹介する。今夜は空気が澄み星々の輝きが増す「冬の星空」を描く。",
+  "start": 1639240080000,
+  "end": 1639243680000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "冬の星空",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

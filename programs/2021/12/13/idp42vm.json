@@ -1,0 +1,25 @@
+{
+  "id": "idp42vm",
+  "category": "documentary",
+  "title": "世界の小さな街から",
+  "fullTitle": "世界の小さな街から「キンセール～アイルランド」[再]",
+  "detail": "",
+  "start": 1639403280000,
+  "end": 1639404000000,
+  "seconds": 720,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "キンセール～アイルランド",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
