@@ -1,0 +1,23 @@
+{
+  "id": "rkdr9z4",
+  "category": "information",
+  "title": "アルファキュービック",
+  "fullTitle": "アルファキュービック",
+  "detail": "ファッション／トライ！トライ！ファッションデイ／気持ちよくて、あったかでおしゃれもキマる！冬のいちおしをチェック！",
+  "start": 1639591200000,
+  "end": 1639594800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

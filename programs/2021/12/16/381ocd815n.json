@@ -1,0 +1,25 @@
+{
+  "id": "381ocd815n",
+  "category": "music",
+  "title": "読響プレミア",
+  "fullTitle": "読響プレミア[SS]",
+  "detail": "",
+  "start": 1639591500000,
+  "end": 1639595100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

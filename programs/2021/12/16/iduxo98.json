@@ -1,0 +1,25 @@
+{
+  "id": "iduxo98",
+  "category": "cinema",
+  "title": "ザ・ヤクザ",
+  "fullTitle": "[映]ザ・ヤクザ",
+  "detail": "高倉健、ロバート・ミッチャム共演のアクションドラマ。義理と人情で結ばれた日米の男２人が“ヤクザ”に立ち向かう。",
+  "start": 1639648800000,
+  "end": 1639656000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

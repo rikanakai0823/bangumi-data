@@ -1,0 +1,25 @@
+{
+  "id": "idy8ok2",
+  "category": "anime",
+  "title": "なんだかんだワンダー",
+  "fullTitle": "なんだかんだワンダー#6[二]",
+  "detail": "#6「ちっちゃなヤツ」",
+  "start": 1639598400000,
+  "end": 1639600200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ちっちゃなヤツ",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}
