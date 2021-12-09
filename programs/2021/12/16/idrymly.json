@@ -1,12 +1,16 @@
 {
   "id": "idrymly",
   "category": "sports",
-  "title": "BOAT RACEプレミア　SGグランプリ　～3日目トライアル2nd～",
-  "fullTitle": "BOAT RACEプレミア　SG第36回グランプリ　～3日目トライアル2nd～",
-  "detail": "BOAT RACEプレミア　SG第36回グランプリ　～3日目トライアル2nd～▽迫力のレースをお見逃しなく！",
+  "title": "BOAT RACEプレミア　SGグランプリ",
+  "fullTitle": "BOAT RACEプレミア　SG第36回グランプリ",
+  "detail": "「3日目トライアル2nd」～BOATRACE住之江\n◇出演者\n【司会】青木源太\r\n【ゲスト】ずん、植草歩\r\n【スタジオ解説】植木通彦（ボートレースアンバサダー）\r\n【実況】吉原完",
   "start": 1639652400000,
   "end": 1639655640000,
   "seconds": 3240,
+  "description": "「3日目トライアル2nd」～BOATRACE住之江",
+  "extra": {
+    "出演者": "【司会】青木源太\r\n【ゲスト】ずん、植草歩\r\n【スタジオ解説】植木通彦（ボートレースアンバサダー）\r\n【実況】吉原完"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_0",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 47
   },
-  "subTitle": "",
+  "subTitle": "3日目トライアル2nd",
   "episode": 36,
   "flags": []
 }
