@@ -2,11 +2,16 @@
   "id": "381ocd8135",
   "category": "variety",
   "title": "Ｗｅ　ＮｉｚｉＵ！　ＴＶ　２",
-  "fullTitle": "Ｗｅ　ＮｉｚｉＵ！　ＴＶ　２[字]",
-  "detail": "NiziUの魅力満載！待望の冠番組第２弾",
+  "fullTitle": "Ｗｅ　ＮｉｚｉＵ！　ＴＶ　２[字]　＃３【NiziU初！ファッション・コーデ対決】",
+  "detail": "NiziUの魅力満載！待望の冠番組第２弾▽初のファッション・コーデ対決！男装に挑戦メンバーも▽Nizi Project以来初披露「Boom Boom Boom」\n◇出演者\nNiziU\r\n近藤春菜\r\nアンミカ\r\n生見愛瑠\n◇番組内容\nNiziUの魅力満載！待望の冠番組第２弾▽初のファッション・コーデ対決！９人のおしゃれセンスを大公開▽３チームに分かれテーマに合わせてコーデするも、バラバラ行動やテーマがコロコロ変わったりと自由すぎるNiziU▽審査員アンミカ＆めるる絶賛！NiziUのトータルコーディネートとは？男装に挑戦するメンバーも▽Nizi Project最終審査課題曲「Boom Boom Boom」９人での初パフォーマンス",
   "start": 1639284300000,
   "end": 1639286100000,
   "seconds": 1800,
+  "description": "NiziUの魅力満載！待望の冠番組第２弾▽初のファッション・コーデ対決！男装に挑戦メンバーも▽Nizi Project以来初披露「Boom Boom Boom」",
+  "extra": {
+    "出演者": "NiziU\r\n近藤春菜\r\nアンミカ\r\n生見愛瑠",
+    "番組内容": "NiziUの魅力満載！待望の冠番組第２弾▽初のファッション・コーデ対決！９人のおしゃれセンスを大公開▽３チームに分かれテーマに合わせてコーデするも、バラバラ行動やテーマがコロコロ変わったりと自由すぎるNiziU▽審査員アンミカ＆めるる絶賛！NiziUのトータルコーディネートとは？男装に挑戦するメンバーも▽Nizi Project最終審査課題曲「Boom Boom Boom」９人での初パフォーマンス"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,8 +22,8 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "NiziU初！ファッション・コーデ対決",
+  "episode": 3,
   "flags": [
     "字"
   ]
