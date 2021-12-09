@@ -1,0 +1,25 @@
+{
+  "id": "iduxqqf",
+  "category": "cinema",
+  "title": "モン・パリ",
+  "fullTitle": "[映]モン・パリ",
+  "detail": "カトリーヌ・ドヌーヴ主演。男性の妊娠という奇想天外な出来事から巻き起こる騒動を描いたラブコメディ。",
+  "start": 1639703700000,
+  "end": 1639710000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

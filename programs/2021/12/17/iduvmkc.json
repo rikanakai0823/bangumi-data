@@ -1,0 +1,25 @@
+{
+  "id": "iduvmkc",
+  "category": "cinema",
+  "title": "ドアロック",
+  "fullTitle": "[映]ドアロック【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "単身世帯が増加する韓国の世相を反映したサスペンススリラー。都心のマンションで独り暮らしをする女性に降りかかる恐怖を描く。",
+  "start": 1639749600000,
+  "end": 1639756800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rkdr9zs",
+  "category": "information",
+  "title": "有名人気シェフ夢の大集合！",
+  "fullTitle": "有名人気シェフ夢の大集合！",
+  "detail": "和洋の人気シェフ３名が集うＳＨＯＰならではの特別番組。ハンバーグやグラタン、ピッツァなど美味しいグルメが登場します。",
+  "start": 1639677600000,
+  "end": 1639681200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
