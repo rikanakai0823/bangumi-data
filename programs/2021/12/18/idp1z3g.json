@@ -1,0 +1,23 @@
+{
+  "id": "idp1z3g",
+  "category": "sports",
+  "title": "全日本アイスホッケー選手権",
+  "fullTitle": "第８９回全日本アイスホッケー選手権",
+  "detail": "",
+  "start": 1639813800000,
+  "end": 1639814400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 89,
+  "flags": []
+}

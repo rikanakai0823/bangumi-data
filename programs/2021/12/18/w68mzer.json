@@ -1,0 +1,25 @@
+{
+  "id": "w68mzer",
+  "category": "documentary",
+  "title": "世界大自然紀行：アゾレス諸島",
+  "fullTitle": "世界大自然紀行：アゾレス諸島[字]",
+  "detail": "大西洋の孤島・アゾレス諸島。ポルトガル本土から１０００キロ以上離れ人の入植はわずか６００年前。海底洞窟や高温の湧き水など変化に富んだ地形が育む生物を紹介。",
+  "start": 1639771200000,
+  "end": 1639774800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ナショジオ",
+    "id": "f0dz",
+    "sid": 343,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 135
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

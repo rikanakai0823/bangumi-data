@@ -1,0 +1,23 @@
+{
+  "id": "w698tbx",
+  "category": "documentary",
+  "title": "アフリカ・アイ",
+  "fullTitle": "アフリカ・アイ",
+  "detail": "BBCアフリカがお送りする真実を追求するドキュメンタリー番組。",
+  "start": 1639818600000,
+  "end": 1639821600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

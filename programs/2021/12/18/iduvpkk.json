@@ -1,0 +1,26 @@
+{
+  "id": "iduvpkk",
+  "category": "cinema",
+  "title": "【最新作】ストックホルム・ケース",
+  "fullTitle": "【最新作】[映][SS]ストックホルム・ケース【メガヒット９】",
+  "detail": "イーサン・ホークの主演のクライムドラマ。“ストックホルム症候群”の語源となった、スウェーデンの歴史的強盗事件を描く。",
+  "start": 1639828800000,
+  "end": 1639835100000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

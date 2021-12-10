@@ -1,0 +1,25 @@
+{
+  "id": "w68217m",
+  "category": "anime",
+  "title": "デート・ア・バレット",
+  "fullTitle": "デート・ア・バレット [字]",
+  "detail": "「デッド・オア・バレット」/「ナイトメア・オア・クイーン」\r\n2020年劇場イベント上映作品",
+  "start": 1639803600000,
+  "end": 1639807200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

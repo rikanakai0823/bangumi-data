@@ -1,0 +1,26 @@
+{
+  "id": "iduzzw4",
+  "category": "cinema",
+  "title": "ハクソー・リッジ",
+  "fullTitle": "[映][SS]ハクソー・リッジ[吹]",
+  "detail": "メル・ギブソン監督の戦争ドラマ。銃を持つことを拒否し、沖縄の激戦地で数多くの命を救った兵士の実話を映画化。［ＰＧ１２］",
+  "start": 1639828800000,
+  "end": 1639837800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

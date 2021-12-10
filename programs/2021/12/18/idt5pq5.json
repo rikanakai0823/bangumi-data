@@ -1,0 +1,23 @@
+{
+  "id": "idt5pq5",
+  "category": "sports",
+  "title": "ウイニング競馬　～中山～",
+  "fullTitle": "ウイニング競馬　～中山～",
+  "detail": "【中山】11ＲターコイズＳ（ＧⅢ）\r\n【阪神】10Ｒ甲東特別、11ＲタンザナイトＳ\r\n【中京】10Ｒ中京２歳Ｓ、11Ｒ有松特別",
+  "start": 1639805400000,
+  "end": 1639810800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "中山",
+  "episode": null,
+  "flags": []
+}
