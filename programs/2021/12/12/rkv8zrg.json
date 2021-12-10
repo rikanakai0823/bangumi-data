@@ -1,0 +1,25 @@
+{
+  "id": "rkv8zrg",
+  "category": "documentary",
+  "title": "アプレジェンヌ　～日テレ大劇場へようこそ～",
+  "fullTitle": "アプレジェンヌ　～日テレ大劇場へようこそ～[再]",
+  "detail": "第１回ゲスト：柚希礼音さん",
+  "start": 1639234800000,
+  "end": 1639238400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
