@@ -1,0 +1,23 @@
+{
+  "id": "idvj3mt",
+  "category": "anime",
+  "title": "ポプテピピック",
+  "fullTitle": "ポプテピピック　＃11「呪館」",
+  "detail": "",
+  "start": 1639845000000,
+  "end": 1639846800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "呪館",
+  "episode": 11,
+  "flags": []
+}

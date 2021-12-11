@@ -1,0 +1,25 @@
+{
+  "id": "idtrcky",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　朝日杯FS　素質馬集結の2歳マイル王決定戦",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　朝日杯FS　素質馬集結の2歳マイル王決定戦",
+  "detail": "阪神：朝日杯FS（GⅠ）中山：ディセンバーS（L）中京：三河S／解説：沢田知希（競馬エイト）ゲスト：横山ルリカ／無敗の素質馬が集結した2歳マイル王決定戦",
+  "start": 1639893600000,
+  "end": 1639897200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

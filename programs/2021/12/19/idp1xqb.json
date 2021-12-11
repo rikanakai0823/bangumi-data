@@ -1,0 +1,23 @@
+{
+  "id": "idp1xqb",
+  "category": "sports",
+  "title": "全日本バレーボール選手権",
+  "fullTitle": "全日本バレーボール選手権",
+  "detail": "",
+  "start": 1639885800000,
+  "end": 1639888200000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

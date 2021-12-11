@@ -1,0 +1,23 @@
+{
+  "id": "idskjry",
+  "category": "music",
+  "title": "クリスマスの約束２０１９",
+  "fullTitle": "クリスマスの約束２０１９",
+  "detail": "",
+  "start": 1639915200000,
+  "end": 1639920600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

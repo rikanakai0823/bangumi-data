@@ -1,0 +1,25 @@
+{
+  "id": "idy8onu",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "ツムツム#23[解]",
+  "detail": "#23「ツムのプレゼント宅配」",
+  "start": 1639879020000,
+  "end": 1639879200000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ツムのプレゼント宅配",
+  "episode": 23,
+  "flags": [
+    "解"
+  ]
+}

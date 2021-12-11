@@ -1,0 +1,25 @@
+{
+  "id": "rkunogs",
+  "category": "hobby",
+  "title": "しゅつどう！パジャマスク　ミュージックビデオ",
+  "fullTitle": "しゅつどう！パジャマスク　ミュージックビデオ#27[二]",
+  "detail": "パジャマスクのミュージックビデオで、ゲッコー、アウレット、キャットボーイと一緒に歌おう！",
+  "start": 1639902300000,
+  "end": 1639902600000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "",
+  "episode": 27,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idtrcks",
+  "category": "anime",
+  "title": "ワンピース",
+  "fullTitle": "[解][字]ワンピース　第755話「ガルチュー！麦わらの一味再集結」",
+  "detail": "伝説の秘宝“ワンピース”を求めルフィは仲間と冒険の旅。",
+  "start": 1639877400000,
+  "end": 1639879200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "ガルチュー！麦わらの一味再集結",
+  "episode": 755,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

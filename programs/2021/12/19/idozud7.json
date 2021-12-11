@@ -1,0 +1,23 @@
+{
+  "id": "idozud7",
+  "category": "sports",
+  "title": "甲子園ボウル",
+  "fullTitle": "第７６回甲子園ボウル",
+  "detail": "",
+  "start": 1639886400000,
+  "end": 1639896600000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 76,
+  "flags": []
+}

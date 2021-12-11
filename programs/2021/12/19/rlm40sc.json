@@ -1,0 +1,25 @@
+{
+  "id": "rlm40sc",
+  "category": "hobby",
+  "title": "パチンコパチスロアワー　ベーパチ！",
+  "fullTitle": "[無]パチンコパチスロアワー　ベーパチ！#4",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n#4　ヒラヤマンが嵐と辻ヤスシと野球練習（後半）",
+  "start": 1639886400000,
+  "end": 1639890000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": [
+    "無"
+  ]
+}
