@@ -1,0 +1,25 @@
+{
+  "id": "iduy0gs",
+  "category": "cinema",
+  "title": "バスケットケース２",
+  "fullTitle": "[映]バスケットケース２",
+  "detail": "カルト的人気を博したホラー映画の続編。フリークスたちが暮らす屋敷に引き取られた兄弟が、惨劇を引き起こす。［ＰＧ１２相当］",
+  "start": 1639975200000,
+  "end": 1639981200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

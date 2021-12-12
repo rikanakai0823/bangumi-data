@@ -1,0 +1,25 @@
+{
+  "id": "rkunoih",
+  "category": "hobby",
+  "title": "ヘイ！ダギー#86,#87[字/日英]",
+  "fullTitle": "ヘイ！ダギー#86,#87[二][字/日英]",
+  "detail": "#86「ダギーの　おひるねバッジ」　#87「ダギーの　ゆうかんなバナナバッジ」",
+  "start": 1640002500000,
+  "end": 1640003400000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ダギーの　おひるねバッジ",
+  "episode": 86,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxc9px",
+  "category": "music",
+  "title": "メンバーと観る！つばきファクトリー 日本武道館スッペシャル",
+  "fullTitle": "[生]メンバーと観る！つばきファクトリー 日本武道館スッペシャル",
+  "detail": "つばきファクトリー コンサート2021「CAMELLIA～日本武道館スッペシャル～」をメンバーと一緒に観る生放送！",
+  "start": 1639994400000,
+  "end": 1640001600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "CAMELLIA～日本武道館スッペシャル～",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

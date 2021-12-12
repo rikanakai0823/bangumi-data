@@ -1,0 +1,25 @@
+{
+  "id": "idozr4s",
+  "category": "documentary",
+  "title": "スポーツ×ヒューマン",
+  "fullTitle": "スポーツ×ヒューマン「孤高の横綱　白鵬」[字]",
+  "detail": "大相撲の歴史を次々と塗り替えた横綱・白鵬が、ことし土俵を去った。入門当初は小柄だった青年は、いかにして稀代の横綱へと上り詰めたのか。孤高の相撲人生に迫る。",
+  "start": 1640001600000,
+  "end": 1640004300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "孤高の横綱　白鵬",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

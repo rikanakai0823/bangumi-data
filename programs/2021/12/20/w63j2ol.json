@@ -1,0 +1,25 @@
+{
+  "id": "w63j2ol",
+  "category": "sports",
+  "title": "箱根駅伝シンポジウム",
+  "fullTitle": "箱根駅伝シンポジウム[再]",
+  "detail": "2021年\r\n出演者：中村匠吾　服部勇馬　相澤晃　伊藤達彦　上田誠仁　後藤晴菜",
+  "start": 1639981800000,
+  "end": 1639985400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

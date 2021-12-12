@@ -1,0 +1,26 @@
+{
+  "id": "w68219c",
+  "category": "anime",
+  "title": "テレビアニメ遊郭編",
+  "fullTitle": "[新]テレビアニメ「鬼滅の刃」遊郭編 #01 [字]",
+  "detail": "#01 音柱・宇髄天元",
+  "start": 1639976400000,
+  "end": 1639980000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "音柱・宇髄天元",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

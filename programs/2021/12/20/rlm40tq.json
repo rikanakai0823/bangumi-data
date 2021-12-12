@@ -1,0 +1,23 @@
+{
+  "id": "rlm40tq",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～エキシビションマッチ～ ソフトバンクvs.DeNA",
+  "fullTitle": "HAWKS プロ野球中継2021～エキシビションマッチ～ ソフトバンクvs.DeNA",
+  "detail": "解説/実況：浜名千広/石黒新平\r\n開催日：2021年7月27日 (火)\r\n副音声：佐伯貴弘/袴田彩会",
+  "start": 1639969200000,
+  "end": 1639981500000,
+  "seconds": 12300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
