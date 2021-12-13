@@ -1,13 +1,13 @@
 {
   "id": "idskjo9",
-  "category": "etc",
+  "category": "anime",
   "title": "結城友奈は勇者である－大満開の章－",
   "fullTitle": "結城友奈は勇者である－大満開の章－[終]",
-  "detail": "◇制作\n2021年",
+  "detail": "第１２話　いつまでも続く喜び\n◇制作\n2021年",
   "start": 1639762200000,
   "end": 1639764000000,
   "seconds": 1800,
-  "description": "",
+  "description": "第１２話　いつまでも続く喜び",
   "extra": {
     "制作": "2021年"
   },
@@ -21,8 +21,8 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "いつまでも続く喜び",
+  "episode": 12,
   "flags": [
     "終"
   ]
