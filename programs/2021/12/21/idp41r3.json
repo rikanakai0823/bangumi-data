@@ -1,0 +1,25 @@
+{
+  "id": "idp41r3",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「手塚治虫　創作の秘密」[字]",
+  "detail": "“マンガの神様”手塚治虫の秘密の仕事場に初めてリモートコントロールカメラを入れて、一人で寝泊まりし締め切りに追われながら、マンガ一筋に打ち込む手塚の姿を描いた。",
+  "start": 1640077800000,
+  "end": 1640080800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "手塚治虫　創作の秘密",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm40r8",
+  "category": "sports",
+  "title": "鷹酒場",
+  "fullTitle": "[生]鷹酒場 #7",
+  "detail": "今回は牧原大成選手と川瀬晃選手をゲストに招き、現ホークスの話から今だから話せるお二人の思い出話まで語り尽くします！",
+  "start": 1640091600000,
+  "end": 1640095200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": [
+    "生"
+  ]
+}

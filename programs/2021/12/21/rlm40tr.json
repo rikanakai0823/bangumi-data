@@ -1,0 +1,23 @@
+{
+  "id": "rlm40tr",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2021～エキシビションマッチ～ ソフトバンクvs.DeNA",
+  "fullTitle": "HAWKS プロ野球中継2021～エキシビションマッチ～ ソフトバンクvs.DeNA",
+  "detail": "解説/実況：摂津正/石黒新平\r\n開催日：2021年7月28日 (水)\r\n副音声：佐伯貴弘/袴田彩会",
+  "start": 1640055600000,
+  "end": 1640070300000,
+  "seconds": 14700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

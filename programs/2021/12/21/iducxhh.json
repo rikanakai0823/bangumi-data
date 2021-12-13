@@ -1,0 +1,25 @@
+{
+  "id": "iducxhh",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃７０４",
+  "detail": "",
+  "start": 1640015400000,
+  "end": 1640016000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 704,
+  "flags": [
+    "無"
+  ]
+}

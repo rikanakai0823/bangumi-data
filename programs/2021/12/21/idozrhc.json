@@ -1,0 +1,25 @@
+{
+  "id": "idozrhc",
+  "category": "information",
+  "title": "ＢＳコンシェルジュ",
+  "fullTitle": "ＢＳコンシェルジュ「ニッポン知らなかった選手権　実況中！　～清野茂樹～」[字]",
+  "detail": "「ニッポン知らなかった選手権　実況中！」を紹介。ゲストに実況アナウンサーの清野茂樹さんを招き、番組の見どころと実況の魅力を伺う。",
+  "start": 1640062800000,
+  "end": 1640064300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ニッポン知らなかった選手権　実況中！　～清野茂樹～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
