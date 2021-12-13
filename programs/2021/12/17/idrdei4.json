@@ -1,8 +1,8 @@
 {
   "id": "idrdei4",
   "category": "sports",
-  "title": "ＢＯＡＴ　ＲＡＣＥ　プレミア",
-  "fullTitle": "ＢＯＡＴ　ＲＡＣＥ　プレミア",
+  "title": "ＢＯＡＴ　ＲＡＣＥプレミア　ＳＧグランプリ　～４日目トライアル２nd～",
+  "fullTitle": "ＢＯＡＴ　ＲＡＣＥプレミア　ＳＧ第３６回グランプリ　～４日目トライアル２nd～",
   "detail": "",
   "start": 1639738800000,
   "end": 1639742040000,
@@ -18,6 +18,6 @@
     "n": 44
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 36,
   "flags": []
 }
