@@ -1,9 +1,9 @@
 {
   "id": "idp3yc4",
-  "category": "etc",
+  "category": "documentary",
   "title": "名品の来歴",
-  "fullTitle": "名品の来歴",
-  "detail": "",
+  "fullTitle": "名品の来歴「モディリアーニの“裸婦像”」[字][再]",
+  "detail": "名品に来歴あり。世に受け継がれてきた美術品には、人々の心を揺さぶる驚きのドラマが隠されている。今回は、フランスの画家モディリアーニの代表作である裸婦像が主人公。",
   "start": 1639450800000,
   "end": 1639452600000,
   "seconds": 1800,
@@ -17,7 +17,10 @@
     "hasLogoData": true,
     "n": 42
   },
-  "subTitle": "",
+  "subTitle": "モディリアーニの“裸婦像”",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字",
+    "再"
+  ]
 }
