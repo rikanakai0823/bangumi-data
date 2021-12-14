@@ -1,0 +1,23 @@
+{
+  "id": "idy8orm",
+  "category": "anime",
+  "title": "アイカツフレンズ！",
+  "fullTitle": "アイカツフレンズ！#16",
+  "detail": "#16「みお、勇者になる」",
+  "start": 1640138400000,
+  "end": 1640140020000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "みお、勇者になる",
+  "episode": 16,
+  "flags": []
+}

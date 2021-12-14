@@ -1,0 +1,27 @@
+{
+  "id": "idv0cpw",
+  "category": "cinema",
+  "title": "エクスペンダブルズ３　ワールドミッション",
+  "fullTitle": "[映][SS][字]エクスペンダブルズ３　ワールドミッション[吹]",
+  "detail": "オールスターキャストで贈るアクション超大作の第３弾。傭兵軍団エクスペンダブルズと、創設者仲間だった最強の敵の攻防を描く。",
+  "start": 1640184000000,
+  "end": 1640192400000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

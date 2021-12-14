@@ -1,0 +1,25 @@
+{
+  "id": "rks2suh",
+  "category": "music",
+  "title": "スキマスイッチ \"Soundtrack\"",
+  "fullTitle": "[生]スキマスイッチ \"Soundtrack\"",
+  "detail": "2021年12月22日に日本武道館で開催されるスキマスイッチのスペシャルライブを独占生中継！音楽と映像が織りなすスキマスイッチの新たな世界をお見逃しなく！",
+  "start": 1640165400000,
+  "end": 1640173500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

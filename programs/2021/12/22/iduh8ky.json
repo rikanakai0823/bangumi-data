@@ -1,0 +1,27 @@
+{
+  "id": "iduh8ky",
+  "category": "cinema",
+  "title": "陽だまりの彼女",
+  "fullTitle": "[映]陽だまりの彼女[SS][字]",
+  "detail": "中学時代の同級生である２人が、１０年ぶりに再会。一生に一度だけの“初恋”が、かつてない“奇跡”を起こす。松本潤と上野樹里が初共演したファンタジーラブストーリー。",
+  "start": 1640166300000,
+  "end": 1640174400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

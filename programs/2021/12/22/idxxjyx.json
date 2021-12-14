@@ -1,0 +1,25 @@
+{
+  "id": "idxxjyx",
+  "category": "hobby",
+  "title": "こちら東海です。DX 2 メガ盛りタイ",
+  "fullTitle": "[新]こちら東海です。DX 2 メガ盛りタイ",
+  "detail": "今回は三重県迫間浦のメガフロートでメガ盛りを狙う",
+  "start": 1640100600000,
+  "end": 1640102400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

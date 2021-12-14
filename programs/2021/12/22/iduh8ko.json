@@ -1,0 +1,25 @@
+{
+  "id": "iduh8ko",
+  "category": "variety",
+  "title": "［ダイジェスト版］シネマセッション　編",
+  "fullTitle": "[無]［ダイジェスト版］シネマセッション　「五福星」編",
+  "detail": "",
+  "start": 1640102400000,
+  "end": 1640103300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "五福星",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

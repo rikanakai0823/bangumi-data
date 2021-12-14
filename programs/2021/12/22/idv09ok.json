@@ -1,0 +1,26 @@
+{
+  "id": "idv09ok",
+  "category": "cinema",
+  "title": "インシディアス",
+  "fullTitle": "[映][SS]インシディアス[吹]",
+  "detail": "『ソウ』と『パラノーマル・アクティビティ』のスタッフが結集、息子を救おうとする家族の恐怖を描いた衝撃のホラー。",
+  "start": 1640102400000,
+  "end": 1640109000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

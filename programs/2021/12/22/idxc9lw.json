@@ -1,0 +1,23 @@
+{
+  "id": "idxc9lw",
+  "category": "theater",
+  "title": "テレビ独占生中継！演劇調異譚（再）",
+  "fullTitle": "テレビ独占生中継！演劇調異譚「xxxHOLiC」（再）",
+  "detail": "9/17(金)に生中継された『演劇調異譚「xxxHOLiC」』を再放送。※「2週間お試し体験」対象外番組です",
+  "start": 1640178000000,
+  "end": 1640186100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "xxxHOLiC",
+  "episode": null,
+  "flags": []
+}

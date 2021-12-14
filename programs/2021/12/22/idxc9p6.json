@@ -1,0 +1,25 @@
+{
+  "id": "idxc9p6",
+  "category": "hobby",
+  "title": "沖に召すままに！",
+  "fullTitle": "[無]沖に召すままに！ #36",
+  "detail": "「沖に召すままに！」は536CH「パチンコ★パチスロTV」にて隔週木曜22：00から絶賛放送中！",
+  "start": 1640098800000,
+  "end": 1640102400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 36,
+  "flags": [
+    "無"
+  ]
+}
