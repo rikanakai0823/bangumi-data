@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksoko",
-  "category": "music",
-  "title": "紅白カラフルメモリーズ",
-  "fullTitle": "紅白カラフルメモリーズ[字]",
+  "id": "381f5ksq0f",
+  "category": "drama",
+  "title": "年末年始も",
+  "fullTitle": "年末年始も「イッキ見！」[字]",
   "detail": "",
-  "start": 1640000580000,
-  "end": 1640000700000,
-  "seconds": 120,
+  "start": 1639899000000,
+  "end": 1639899300000,
+  "seconds": 300,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "イッキ見！",
   "episode": null,
   "flags": [
     "字"

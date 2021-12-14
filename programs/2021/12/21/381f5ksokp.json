@@ -2,7 +2,7 @@
   "id": "381f5ksokp",
   "category": "music",
   "title": "紅白カラフルメモリーズ",
-  "fullTitle": "紅白カラフルメモリーズ",
+  "fullTitle": "紅白カラフルメモリーズ[字]",
   "detail": "",
   "start": 1640086980000,
   "end": 1640087100000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
