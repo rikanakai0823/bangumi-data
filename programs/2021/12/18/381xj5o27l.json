@@ -1,8 +1,8 @@
 {
   "id": "381xj5o27l",
-  "category": "etc",
-  "title": "調整中＜フジバラナイト　ＦＲＩ＞",
-  "fullTitle": "調整中＜フジバラナイト　ＦＲＩ＞",
+  "category": "drama",
+  "title": "ＳＵＰＥＲ　ＲＩＣＨ＜フジバラナイト　ＦＲＩ＞",
+  "fullTitle": "ＳＵＰＥＲ　ＲＩＣＨ＜フジバラナイト　ＦＲＩ＞　＃１０[再]",
   "detail": "",
   "start": 1639758300000,
   "end": 1639761900000,
@@ -18,6 +18,8 @@
     "n": 29
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 10,
+  "flags": [
+    "再"
+  ]
 }

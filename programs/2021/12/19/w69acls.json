@@ -1,9 +1,9 @@
 {
   "id": "w69acls",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "Living Golf[再]",
+  "detail": "#203 2021年総集編 今年放送した中から印象的なシーンを一挙放送。全米女子プロでメジャー初優勝、東京五輪で金メダルを獲得したネリー・コルダに密着。",
   "start": 1639848600000,
   "end": 1639850400000,
   "seconds": 1800,
@@ -18,7 +18,7 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 203,
   "flags": [
     "再"
   ]
