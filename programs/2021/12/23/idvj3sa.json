@@ -1,0 +1,25 @@
+{
+  "id": "idvj3sa",
+  "category": "anime",
+  "title": "SCARLET NEXUS",
+  "fullTitle": "SCARLET NEXUS[終]＃26",
+  "detail": "",
+  "start": 1640266200000,
+  "end": 1640268000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 26,
+  "flags": [
+    "終"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idskjzu",
+  "category": "etc",
+  "title": "シミュＧＯＬＦ！",
+  "fullTitle": "シミュＧＯＬＦ！[終]",
+  "detail": "",
+  "start": 1640268000000,
+  "end": 1640269800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}

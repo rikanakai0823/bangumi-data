@@ -1,0 +1,25 @@
+{
+  "id": "idtrcpf",
+  "category": "sports",
+  "title": "２０２１有馬記念  公開枠順抽選会",
+  "fullTitle": "[生]２０２１有馬記念  公開枠順抽選会",
+  "detail": "師走恒例のGⅠレース・有馬記念の公開枠順抽選会を生放送に加え、ライブ配信でお届け！",
+  "start": 1640246400000,
+  "end": 1640251800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

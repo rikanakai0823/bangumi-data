@@ -1,0 +1,25 @@
+{
+  "id": "idp42ke",
+  "category": "documentary",
+  "title": "プレミアムカフェ　ハイビジョン特集（老人ホーム）",
+  "fullTitle": "プレミアムカフェ　ハイビジョン特集「残照　フランス　芸術家の家」（老人ホーム）[再]",
+  "detail": "ハイビジョン特集　残照　フランス　芸術家の家（初回放送：２００８年）",
+  "start": 1640270700000,
+  "end": 1640277900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "残照　フランス　芸術家の家",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

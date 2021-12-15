@@ -1,0 +1,25 @@
+{
+  "id": "idvj3sc",
+  "category": "anime",
+  "title": "サクガン　ep12",
+  "fullTitle": "サクガン　ep12[終]",
+  "detail": "",
+  "start": 1640269800000,
+  "end": 1640271600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "終"
+  ]
+}
