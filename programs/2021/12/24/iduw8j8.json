@@ -1,0 +1,26 @@
+{
+  "id": "iduw8j8",
+  "category": "cinema",
+  "title": "ペイン・アンド・グローリー",
+  "fullTitle": "[映][SS]ペイン・アンド・グローリー",
+  "detail": "ペドロ・アルモドバル監督の自伝的人間ドラマ。引退同然の日々を過ごす映画監督が、自身の人生を見つめ直してゆく。［Ｒ１５＋］",
+  "start": 1640347200000,
+  "end": 1640354400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

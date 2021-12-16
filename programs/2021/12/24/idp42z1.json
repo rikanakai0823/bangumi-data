@@ -1,0 +1,25 @@
+{
+  "id": "idp42z1",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「沖縄　コザ」[字]",
+  "detail": "沖縄で、米軍嘉手納基地の門前町として栄えたコザ（現・沖縄市）。基地との共生を強いられながらも、豊かなチャンプルー文化を育んできたコザの風土と暮らしを描く。",
+  "start": 1640347200000,
+  "end": 1640350800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "沖縄　コザ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp42xc",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「忠臣蔵」[字][再]",
+  "detail": "３００年、日本人が愛し続けてきた「忠臣蔵」。北海道の原野、赤穂浪士と縁のない場所になぜか浪士の墓。沖縄には琉球文化に溶け込む忠臣蔵が。（２０１９年放送）",
+  "start": 1640300400000,
+  "end": 1640304000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "忠臣蔵",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

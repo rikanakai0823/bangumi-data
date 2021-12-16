@@ -1,0 +1,25 @@
+{
+  "id": "iducxjk",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４６８",
+  "detail": "最新の洋楽ミュージックビデオを１話あたり３曲ずつ無料放送でお届けします。",
+  "start": 1640277600000,
+  "end": 1640278800000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 468,
+  "flags": [
+    "無"
+  ]
+}
