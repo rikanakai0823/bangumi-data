@@ -1,8 +1,8 @@
 {
   "id": "w67blwg",
   "category": "music",
-  "title": "大人の青春ベストヒッツ",
-  "fullTitle": "大人の青春ベストヒッツ",
+  "title": "GO-BANG'S、JUN SKY WALKER 他/大人の青春ベストヒッツ",
+  "fullTitle": "GO-BANG'S、JUN SKY WALKER(S) 他/大人の青春ベストヒッツ",
   "detail": "今でも語り継がれる往年の名曲や、青春時代を彩ったあのアーティストなど、懐かしいヒットソングを凝縮してお届け。永久不滅のベストヒッツで、青春時代へタイムスリップ！",
   "start": 1640041200000,
   "end": 1640048400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
