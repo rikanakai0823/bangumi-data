@@ -1,0 +1,25 @@
+{
+  "id": "rks7yms",
+  "category": "music",
+  "title": "＜生中継＞The World Standard～坂元葉月卒業ライブ～",
+  "fullTitle": "[生]＜生中継＞【わーすたライブ】The World Standard～坂元葉月卒業ライブ～",
+  "detail": "2015年の結成から一度もメンバーが変わらず駆け抜けてきた『わーすた』から、初めての卒業メンバーとなる坂元葉月。そのメモリアル公演を生中継！\r\n※延長の場合あり",
+  "start": 1640421900000,
+  "end": 1640431800000,
+  "seconds": 9900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "わーすたライブ",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

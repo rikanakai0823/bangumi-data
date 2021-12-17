@@ -1,0 +1,23 @@
+{
+  "id": "rlm69qo",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第101回 天皇杯 準決勝 川崎×大分",
+  "detail": "天皇杯 JFA 第101回全日本サッカー選手権大会 準決勝\r\n川崎フロンターレ×大分トリニータ",
+  "start": 1640365200000,
+  "end": 1640377800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "天皇杯 準決勝 川崎×大分",
+  "episode": 101,
+  "flags": []
+}

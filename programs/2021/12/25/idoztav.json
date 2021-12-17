@@ -1,0 +1,25 @@
+{
+  "id": "idoztav",
+  "category": "sports",
+  "title": "Ｂリーグ２０２１－２２「川崎ブレイブサンダース」対",
+  "fullTitle": "Ｂリーグ２０２１－２２「川崎ブレイブサンダース」対「大阪エヴェッサ」[字]",
+  "detail": "　（試合開始　７：０７）　【解説】倉石平，【アナウンサー】三輪洋雄　～とどろきアリーナから中継～",
+  "start": 1640426400000,
+  "end": 1640433000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "大阪エヴェッサ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

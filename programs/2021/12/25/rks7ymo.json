@@ -1,0 +1,25 @@
+{
+  "id": "rks7ymo",
+  "category": "music",
+  "title": "＜生中継＞The World Standard～わーすたリクエストアワー～",
+  "fullTitle": "[生]＜生中継＞【わーすたライブ】The World Standard～わーすたリクエストアワー～",
+  "detail": "デジタルネイティブ世代アイドル『わーすた』がファン投票で選ばれた楽曲と衣装でパフォーマンス！このスペシャル公演を中野サンプラザホールから生中継！",
+  "start": 1640401200000,
+  "end": 1640406600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "わーすたライブ",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

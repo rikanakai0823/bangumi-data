@@ -1,0 +1,23 @@
+{
+  "id": "w6821em",
+  "category": "anime",
+  "title": "Club AT-X",
+  "fullTitle": "Club AT-X #465",
+  "detail": "「Club AT-X ナローなワイドショー」\r\n情報番組「Club AT-X」がリニューアル！\r\nMC：吉野裕行＆松澤千晶でお送りする新情報バラエティ番組！",
+  "start": 1640383200000,
+  "end": 1640386800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "Club AT-X ナローなワイドショー",
+  "episode": 465,
+  "flags": []
+}

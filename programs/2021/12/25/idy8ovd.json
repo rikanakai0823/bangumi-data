@@ -1,0 +1,25 @@
+{
+  "id": "idy8ovd",
+  "category": "cinema",
+  "title": "カンフー・パンダ3",
+  "fullTitle": "カンフー・パンダ3[二]",
+  "detail": "人気アクションコメディ「カンフー・パンダ」シリーズの第３作。マスター・ファイブと共に平和の谷を守るポーが、生き別れた父親と再会し、故郷のパンダ村へ大冒険！",
+  "start": 1640401200000,
+  "end": 1640407500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "カンフー・パンダ",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}
