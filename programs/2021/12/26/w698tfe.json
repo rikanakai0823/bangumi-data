@@ -1,0 +1,25 @@
+{
+  "id": "w698tfe",
+  "category": "hobby",
+  "title": "クリック：クリスマス・スペシャル",
+  "fullTitle": "クリック：クリスマス・スペシャル(再)",
+  "detail": "「テクノロジー」にまつわるニュースや最新動向をレポートする番組。今回はクリスマス・スペシャルをお送りする。",
+  "start": 1640460600000,
+  "end": 1640462400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "テクノロジー",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

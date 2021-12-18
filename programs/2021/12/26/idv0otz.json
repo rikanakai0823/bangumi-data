@@ -1,0 +1,26 @@
+{
+  "id": "idv0otz",
+  "category": "cinema",
+  "title": "アジャストメント",
+  "fullTitle": "[映][SS]アジャストメント[吹]",
+  "detail": "フィリップ・Ｋ・ディックの短編小説をマット・デイモン主演で映画化したＳＦサスペンス。運命調整局に立ち向かう男を描く。",
+  "start": 1640505300000,
+  "end": 1640512200000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

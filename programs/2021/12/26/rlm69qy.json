@@ -1,0 +1,23 @@
+{
+  "id": "rlm69qy",
+  "category": "sports",
+  "title": "",
+  "fullTitle": "第101回 天皇杯 決勝 浦和×大分",
+  "detail": "天皇杯 JFA 第101回全日本サッカー選手権大会 決勝\r\n浦和レッズ×大分トリニータ",
+  "start": 1640451600000,
+  "end": 1640464200000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "天皇杯 決勝 浦和×大分",
+  "episode": 101,
+  "flags": []
+}

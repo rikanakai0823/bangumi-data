@@ -1,0 +1,26 @@
+{
+  "id": "idvj3v5",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第１部",
+  "detail": "【中山】６Ｒ～７Ｒ，８Ｒ「冬至特別」，９Ｒ「グッドラックハンデキャップ」\r\n【阪神】６Ｒ～８Ｒ，９Ｒ「鳥取特別」",
+  "start": 1640487600000,
+  "end": 1640496600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

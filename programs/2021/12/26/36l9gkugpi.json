@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkugpi",
+  "category": "anime",
+  "title": "ぐんまちゃん",
+  "fullTitle": "ぐんまちゃん　＃１３[終]",
+  "detail": "どこかにある不思議な世界「ぐんま」。ぐんまちゃんは、冒険に出かけたり、お祭りに行ったり、困った時はぐんまパワーで何とかしたり。楽しいことがいっぱいです。",
+  "start": 1640475000000,
+  "end": 1640476800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ぐんま",
+  "episode": 13,
+  "flags": [
+    "終"
+  ]
+}

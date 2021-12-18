@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1y3h",
+  "category": "information",
+  "title": "埼玉ケーブルテレビスペシャル",
+  "fullTitle": "埼玉ケーブルテレビスペシャル[Ｓ]",
+  "detail": "",
+  "start": 1640494800000,
+  "end": 1640497200000,
+  "seconds": 2400,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

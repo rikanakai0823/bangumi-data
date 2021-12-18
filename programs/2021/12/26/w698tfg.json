@@ -1,0 +1,25 @@
+{
+  "id": "w698tfg",
+  "category": "news",
+  "title": "エリザベス女王のクリスマスメッセージ",
+  "fullTitle": "エリザベス女王のクリスマスメッセージ(再)",
+  "detail": "毎年恒例のエリザベス女王のクリスマスメッセージをお送りする。",
+  "start": 1640463600000,
+  "end": 1640464200000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

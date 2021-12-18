@@ -1,0 +1,26 @@
+{
+  "id": "idvj3va",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【阪神】11Ｒ「りんくうステークス」\r\n【中山】12Ｒ「キャンドルライト賞」\r\n【阪神】12Ｒ「猪名川特別」",
+  "start": 1640501400000,
+  "end": 1640507400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}
