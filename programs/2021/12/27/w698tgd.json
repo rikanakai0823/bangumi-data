@@ -1,0 +1,25 @@
+{
+  "id": "w698tgd",
+  "category": "documentary",
+  "title": "ウェザー・ワールド",
+  "fullTitle": "ウェザー・ワールド(再)",
+  "detail": "BBCのサラ・キース・ルーカスとニック・ミラーは、気候変動がスコットランドのスキー業界に与えている影響についてリポートするほか、2021年最大の嵐を振り返る。",
+  "start": 1640615400000,
+  "end": 1640617200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

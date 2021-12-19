@@ -1,0 +1,26 @@
+{
+  "id": "3826py3wuz",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居[再][終]",
+  "detail": "第十一闇「祟り」\r\n第十二闇「糸電話」\r\n第十三闇「寝言」",
+  "start": 1640542260000,
+  "end": 1640543160000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "祟り",
+  "episode": null,
+  "flags": [
+    "再",
+    "終"
+  ]
+}

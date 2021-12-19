@@ -1,0 +1,26 @@
+{
+  "id": "w6821g0",
+  "category": "anime",
+  "title": "SCARLET NEXUS",
+  "fullTitle": "SCARLET NEXUS #26 [終][字]",
+  "detail": "",
+  "start": 1640570400000,
+  "end": 1640572200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 26,
+  "flags": [
+    "終",
+    "字"
+  ]
+}

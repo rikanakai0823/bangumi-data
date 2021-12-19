@@ -1,0 +1,25 @@
+{
+  "id": "idt5q01",
+  "category": "drama",
+  "title": "名建築で昼食を　一挙放送　・２",
+  "fullTitle": "名建築で昼食を　一挙放送　＃１・２[字]",
+  "detail": "第１話「アンスティチュ・フランセ東京」\r\n第２話「自由学園明日館」",
+  "start": 1640562780000,
+  "end": 1640566740000,
+  "seconds": 3960,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "アンスティチュ・フランセ東京",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

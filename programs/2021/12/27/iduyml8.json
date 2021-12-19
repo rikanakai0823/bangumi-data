@@ -1,0 +1,25 @@
+{
+  "id": "iduyml8",
+  "category": "cinema",
+  "title": "サボタージュ（１９３６）",
+  "fullTitle": "[映]サボタージュ（１９３６）",
+  "detail": "アルフレッド・ヒッチコック監督のイギリス時代のサスペンス。夫が破壊工作員であると知った妻の葛藤と爆弾テロの恐怖を描く。",
+  "start": 1640580000000,
+  "end": 1640585400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

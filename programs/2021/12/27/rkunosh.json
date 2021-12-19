@@ -1,0 +1,25 @@
+{
+  "id": "rkunosh",
+  "category": "hobby",
+  "title": "ヘイ！ダギー#96,#97[字/日英]",
+  "fullTitle": "ヘイ！ダギー#96,#97[二][字/日英]",
+  "detail": "#96「ダギーの　コメディバッジ」　#97「ダギーの　うたおうバッジ」",
+  "start": 1640607300000,
+  "end": 1640608200000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ダギーの　コメディバッジ",
+  "episode": 96,
+  "flags": [
+    "二"
+  ]
+}

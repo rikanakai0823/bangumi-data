@@ -1,0 +1,25 @@
+{
+  "id": "iduymhc",
+  "category": "cinema",
+  "title": "三十九夜",
+  "fullTitle": "[映]三十九夜",
+  "detail": "アルフレッド・ヒッチコック監督のイギリス時代のサスペンス。暗殺事件に巻き込まれた男が、逃亡しながら真相に近づいてゆく。",
+  "start": 1640574000000,
+  "end": 1640580000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

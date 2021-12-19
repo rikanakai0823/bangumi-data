@@ -1,0 +1,25 @@
+{
+  "id": "iduf35j",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４６８",
+  "detail": "",
+  "start": 1640575200000,
+  "end": 1640575800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 468,
+  "flags": [
+    "無"
+  ]
+}

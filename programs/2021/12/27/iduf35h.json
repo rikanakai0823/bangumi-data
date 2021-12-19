@@ -1,0 +1,25 @@
+{
+  "id": "iduf35h",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃７０５",
+  "detail": "",
+  "start": 1640567100000,
+  "end": 1640567700000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 705,
+  "flags": [
+    "無"
+  ]
+}

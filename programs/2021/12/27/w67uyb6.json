@@ -1,0 +1,26 @@
+{
+  "id": "w67uyb6",
+  "category": "hobby",
+  "title": "ハピクラタイム Ola! マウリシオ TV -3",
+  "fullTitle": "[新]ハピクラタイム Ola! マウリシオ TV[字] #1-3",
+  "detail": "第１話,２話,３話をお送りします。\r\nブラジルの国民的漫画家マウリシオ・デ・ソウザとキッズステーションが共同で制作する新番組。",
+  "start": 1640556000000,
+  "end": 1640561280000,
+  "seconds": 5280,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}
