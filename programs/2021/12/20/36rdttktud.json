@@ -5,8 +5,8 @@
   "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ",
   "detail": "県内の天気予報",
   "start": 1639930920000,
-  "end": 1639931220000,
-  "seconds": 300,
+  "end": 1639931100000,
+  "seconds": 180,
   "channel": {
     "type": "GR",
     "channel": "31",
