@@ -1,9 +1,9 @@
 {
   "id": "w69acqo",
   "category": "news",
-  "title": "Connect The World",
-  "fullTitle": "Connect The World",
-  "detail": "1日の世界の動きをこの番組でキャッチアップ！CNNインターナショナルきっての女性アンカー、ベッキー・アンダーソンが送る国際ニュース。",
+  "title": "アット・ディスアワー",
+  "fullTitle": "アット・ディスアワー",
+  "detail": "米国の政情を中心に「この時間に」起きていることを徹底解説。CNN特派員や各界の有識者が、米国の視点で世界を見渡します。",
   "start": 1640361600000,
   "end": 1640365200000,
   "seconds": 3600,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "",
+  "subTitle": "この時間に",
   "episode": null,
   "flags": []
 }
