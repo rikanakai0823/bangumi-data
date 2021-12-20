@@ -1,0 +1,25 @@
+{
+  "id": "iduwkk4",
+  "category": "cinema",
+  "title": "ソング・トゥ・ソング",
+  "fullTitle": "[映]ソング・トゥ・ソング【メガヒット９（再）】",
+  "detail": "名匠テレンス・マリックが手掛けた人間ドラマ。音楽の街オースティンを舞台に４人の男女が幸せを模索する姿を描く。［ＰＧ１２］",
+  "start": 1640664000000,
+  "end": 1640672400000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

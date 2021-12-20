@@ -1,0 +1,23 @@
+{
+  "id": "rksa8ts",
+  "category": "anime",
+  "title": "【ドラえもん2000年一挙放送】",
+  "fullTitle": "【ドラえもん2000年一挙放送】",
+  "detail": "#844-846・848\r\n#844「そのうちカエル/スキーははこ庭で」\r\n#845「こうもりキャップ/のび太はニクメない？」ほか",
+  "start": 1640624400000,
+  "end": 1640631600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 844,
+  "flags": []
+}

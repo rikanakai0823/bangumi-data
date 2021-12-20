@@ -1,0 +1,25 @@
+{
+  "id": "idskk92",
+  "category": "drama",
+  "title": "ミステリー・セレクション・スクープ",
+  "fullTitle": "[字]ミステリー・セレクション・スクープ",
+  "detail": "東京の下町を舞台に新聞記者コンビが連続殺人事件の真相解明に挑むサスペンスドラマ。",
+  "start": 1640667300000,
+  "end": 1640674500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

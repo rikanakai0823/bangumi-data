@@ -1,0 +1,25 @@
+{
+  "id": "idozuuk",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「＃ＲＩＰ～安らかに眠れ～」[字]",
+  "detail": "ＳＮＳにあふれる「家族や、友人の死」を知らせるつぶやき。「＃ＲＩＰ」の言葉とともに拡散される情報を手がかりに、短い文面からは予想もつかない人生をたどっていく。",
+  "start": 1640699700000,
+  "end": 1640702700000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "＃ＲＩＰ～安らかに眠れ～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rkunotx",
+  "category": "hobby",
+  "title": "ヘイ！ダギー#99,#1[字/日英]",
+  "fullTitle": "ヘイ！ダギー#99,#1[二][字/日英]",
+  "detail": "#99「ダギーの　パーティーバッジ」　#1「ダギーの　おえかきバッジ」",
+  "start": 1640693700000,
+  "end": 1640694600000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ダギーの　パーティーバッジ",
+  "episode": 99,
+  "flags": [
+    "二"
+  ]
+}

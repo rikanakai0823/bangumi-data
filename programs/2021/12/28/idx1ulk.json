@@ -1,0 +1,25 @@
+{
+  "id": "idx1ulk",
+  "category": "anime",
+  "title": "特:ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "特:[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "★推す！年末年始 気合のアニメ一挙放送★\r\n#501「マッサージの誘惑」の巻／「今年の恩」の巻\r\n#502「まる子、睡眠不足…",
+  "start": 1640638800000,
+  "end": 1640642400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "36l9gkugui",
+  "category": "anime",
+  "title": "トムとジェリー",
+  "fullTitle": "トムとジェリー[終]　第３８回[二]",
+  "detail": "①ジェリーとジャンボ\r\n②銀世界の追跡\r\n③サーフィンに挑戦 \r\n全３８回\r\n",
+  "start": 1640680200000,
+  "end": 1640682000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 38,
+  "flags": [
+    "終",
+    "二"
+  ]
+}
