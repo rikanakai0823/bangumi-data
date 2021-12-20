@@ -1,9 +1,9 @@
 {
   "id": "w66ljig",
   "category": "music",
-  "title": "Zepp Tokyoへきくちから",
-  "fullTitle": "Zepp Tokyoへきくちから",
-  "detail": "▽フジテレビの音楽番組をつくってきた、きくちプロデューサーがお送りする、アーティストとのゆるりとした雑談番組。",
+  "title": "Zepp Tokyoへきくちから！音組がつくった49本のライブを時系列に",
+  "fullTitle": "Zepp Tokyoへきくちから第92回！音組がつくった49本のライブを時系列に",
+  "detail": "『フォーク村』18本『GIRLS'FACTORY』14本『LIVE FACTORY』11本『フォーク・デイズ』2本『僕らの音楽　武部聡志ピアノデイズ』まで全部！",
   "start": 1640257200000,
   "end": 1640260800000,
   "seconds": 3600,
@@ -18,6 +18,6 @@
     "n": 114
   },
   "subTitle": "",
-  "episode": null,
+  "episode": 92,
   "flags": []
 }
