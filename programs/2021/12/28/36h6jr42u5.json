@@ -1,8 +1,8 @@
 {
   "id": "36h6jr42u5",
   "category": "music",
-  "title": "全日本オールスター紅白歌合戦",
-  "fullTitle": "第２３回全日本オールスター紅白歌合戦[Ｓ]",
+  "title": "全日本プロアマ紅白歌合戦",
+  "fullTitle": "全日本プロアマ紅白歌合戦[Ｓ]",
   "detail": "",
   "start": 1640655000000,
   "end": 1640658300000,
@@ -18,6 +18,6 @@
     "n": 13
   },
   "subTitle": "",
-  "episode": 23,
+  "episode": null,
   "flags": []
 }
