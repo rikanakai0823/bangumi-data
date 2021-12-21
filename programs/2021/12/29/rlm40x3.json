@@ -1,0 +1,23 @@
+{
+  "id": "rlm40x3",
+  "category": "sports",
+  "title": "DEEP JEWELS 2020.12.19新宿FACE",
+  "fullTitle": "DEEP JEWELS 2020.12.19新宿FACE",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1640746800000,
+  "end": 1640754000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": null,
+  "flags": []
+}

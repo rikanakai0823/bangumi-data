@@ -1,0 +1,25 @@
+{
+  "id": "idtrdu6",
+  "category": "sports",
+  "title": "東京大賞典2021",
+  "fullTitle": "[生]東京大賞典2021",
+  "detail": "大井競馬場“年末の風物詩”を生中継！！",
+  "start": 1640756700000,
+  "end": 1640766600000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

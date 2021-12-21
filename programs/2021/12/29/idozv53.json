@@ -1,0 +1,25 @@
+{
+  "id": "idozv53",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「原爆初動調査　隠された真実」[字]",
+  "detail": "",
+  "start": 1640775600000,
+  "end": 1640782200000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "原爆初動調査　隠された真実",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

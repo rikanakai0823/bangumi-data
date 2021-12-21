@@ -1,0 +1,25 @@
+{
+  "id": "idxc9tg",
+  "category": "sports",
+  "title": "【PPS】女子プロレス スターダム　21.12.29　東京・両国国技館",
+  "fullTitle": "【PPS】[生]女子プロレス スターダム　21.12.29　東京・両国国技館",
+  "detail": "スターダムのビッグマッチをBSスカパー！生中継！▽赤いベルト10度目の防衛を懸けて21年度女子プロレス大賞・林下とSWA9度目防衛戦の朱里が激突▽ジュリア復帰",
+  "start": 1640763000000,
+  "end": 1640779200000,
+  "seconds": 16200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

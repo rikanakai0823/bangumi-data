@@ -1,0 +1,23 @@
+{
+  "id": "idozz38",
+  "category": "sports",
+  "title": "天皇杯ＪＦＡ　全日本女子サッカー選手権",
+  "fullTitle": "天皇杯ＪＦＡ　第４３回全日本女子サッカー選手権",
+  "detail": "",
+  "start": 1640750400000,
+  "end": 1640757600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 43,
+  "flags": []
+}

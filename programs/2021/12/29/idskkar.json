@@ -1,0 +1,25 @@
+{
+  "id": "idskkar",
+  "category": "etc",
+  "title": "韓国ドラマ・９９億の女",
+  "fullTitle": "[新]韓国ドラマ・９９億の女",
+  "detail": "",
+  "start": 1640728800000,
+  "end": 1640732040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

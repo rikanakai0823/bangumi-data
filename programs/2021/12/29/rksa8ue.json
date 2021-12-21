@@ -1,0 +1,23 @@
+{
+  "id": "rksa8ue",
+  "category": "anime",
+  "title": "【ドラえもん2000年一挙放送】",
+  "fullTitle": "【ドラえもん2000年一挙放送】",
+  "detail": "#849-856\r\n#849「オモイコミミー/アンラッキー・ダイヤ」\r\n#850「おひなさまを探そう！/仙人の虫」ほか",
+  "start": 1640728800000,
+  "end": 1640743200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 849,
+  "flags": []
+}

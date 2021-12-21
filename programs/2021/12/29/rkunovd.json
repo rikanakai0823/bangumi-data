@@ -1,0 +1,25 @@
+{
+  "id": "rkunovd",
+  "category": "hobby",
+  "title": "ヘイ！ダギー#2,#3[字/日英]",
+  "fullTitle": "ヘイ！ダギー#2,#3[二][字/日英]",
+  "detail": "#2「ダギーの　ケーキバッジ」　#3「ダギーの　ヘアバッジ」",
+  "start": 1640780100000,
+  "end": 1640781000000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ダギーの　ケーキバッジ",
+  "episode": 2,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idtrcx0",
+  "category": "sports",
+  "title": "全日本総合バドミントン選手権２０２１　準決勝",
+  "fullTitle": "[生]全日本総合バドミントン選手権２０２１　準決勝",
+  "detail": "バドミントン界日本一を決める特別な大会を、武蔵野の森総合スポーツプラザから生中継！",
+  "start": 1640746800000,
+  "end": 1640756700000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
