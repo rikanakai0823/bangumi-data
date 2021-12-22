@@ -1,9 +1,9 @@
 {
   "id": "idtrdu6",
   "category": "sports",
-  "title": "（番組は未定です）",
-  "fullTitle": "（番組は未定です）",
-  "detail": "",
+  "title": "東京大賞典2021",
+  "fullTitle": "[生]東京大賞典2021",
+  "detail": "大井競馬場“年末の風物詩”を生中継！！",
   "start": 1640756700000,
   "end": 1640766600000,
   "seconds": 9900,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }
