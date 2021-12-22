@@ -1,0 +1,23 @@
+{
+  "id": "idp49s6",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「１月号」",
+  "detail": "",
+  "start": 1640368500000,
+  "end": 1640368800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "１月号",
+  "episode": null,
+  "flags": []
+}
