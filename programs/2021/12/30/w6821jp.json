@@ -1,0 +1,26 @@
+{
+  "id": "w6821jp",
+  "category": "anime",
+  "title": "テスラノート",
+  "fullTitle": "テスラノート #13 [終][字]",
+  "detail": "",
+  "start": 1640867400000,
+  "end": 1640869200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 13,
+  "flags": [
+    "終",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idv11o6",
+  "category": "cinema",
+  "title": "１５ミニッツ・ウォー",
+  "fullTitle": "[映][SS]１５ミニッツ・ウォー[吹]",
+  "detail": "１９７６年に実際に起きたジブチ・バスジャック事件を基に描かれたアクション。伝説的作戦の一部始終が描かれる。［ＰＧ１２］",
+  "start": 1640859000000,
+  "end": 1640865600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

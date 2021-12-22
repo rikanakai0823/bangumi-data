@@ -1,0 +1,25 @@
+{
+  "id": "iduytx6",
+  "category": "cinema",
+  "title": "おかしなおかしな大泥棒",
+  "fullTitle": "[映]おかしなおかしな大泥棒",
+  "detail": "ライアン・オニールが主演の犯罪コメディ。コンピュータ導入による人員削減で会社をクビになった男が、泥棒に転身する姿を描く。",
+  "start": 1640800200000,
+  "end": 1640807100000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "iduf36p",
+  "category": "music",
+  "title": "ビッケブランカ　ＳＵＰＥＲ　ＡＱＵＡＲＩＵＭ　ＬＩＶＥ",
+  "fullTitle": "ビッケブランカ　ＳＵＰＥＲ　ＡＱＵＡＲＩＵＭ　ＬＩＶＥ",
+  "detail": "ビッケブランカのＷＯＷＯＷオリジナルライブ番組をオンエア！アクアミュージアムで行なわれる特別なライブをお届け！",
+  "start": 1640826900000,
+  "end": 1640832300000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

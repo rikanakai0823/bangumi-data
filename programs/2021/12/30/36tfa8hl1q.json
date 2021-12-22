@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8hl1q",
+  "category": "cinema",
+  "title": "映画「ドリームガールズ」",
+  "fullTitle": "映画「ドリームガールズ」[二]",
+  "detail": " ",
+  "start": 1640862000000,
+  "end": 1640868600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

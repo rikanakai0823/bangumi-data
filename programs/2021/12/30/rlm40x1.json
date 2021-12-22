@@ -1,0 +1,23 @@
+{
+  "id": "rlm40x1",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "detail": "開催日：2021年8月20日\r\nマルティネスが8回2失点と好投した一戦。",
+  "start": 1640833200000,
+  "end": 1640847000000,
+  "seconds": 13800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

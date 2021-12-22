@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8hl0q",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「白鳥特別」ほか\n◇出演者\n【MC】\r\n前半：山田桃子\r\n後半：瀬戸山知花\r\n【場内リポート】\r\n前半：芦崎愛\r\n後半：宮脇美咲\r\n【解説】\r\n前半：市川俊吾（日刊競馬）\r\n後半：渡辺敬一（競馬ブック）",
+  "start": 1640836800000,
+  "end": 1640845200000,
+  "seconds": 8400,
+  "description": "「白鳥特別」ほか",
+  "extra": {
+    "出演者": "【MC】\r\n前半：山田桃子\r\n後半：瀬戸山知花\r\n【場内リポート】\r\n前半：芦崎愛\r\n後半：宮脇美咲\r\n【解説】\r\n前半：市川俊吾（日刊競馬）\r\n後半：渡辺敬一（競馬ブック）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "白鳥特別",
+  "episode": null,
+  "flags": []
+}

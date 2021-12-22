@@ -1,0 +1,25 @@
+{
+  "id": "rkunowt",
+  "category": "hobby",
+  "title": "ヘイ！ダギー#4,#5[字/日英]",
+  "fullTitle": "ヘイ！ダギー#4,#5[二][字/日英]",
+  "detail": "#4「ダギーの　なつやすみバッジ」　#5「ダギーの　きゅうじょバッジ」",
+  "start": 1640866500000,
+  "end": 1640867400000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ダギーの　なつやすみバッジ",
+  "episode": 4,
+  "flags": [
+    "二"
+  ]
+}
