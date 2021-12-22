@@ -2,7 +2,7 @@
   "id": "idozzhk",
   "category": "sports",
   "title": "オリンピックストーリーズ",
-  "fullTitle": "オリンピックストーリーズ",
+  "fullTitle": "オリンピックストーリーズ[字]",
   "detail": "",
   "start": 1640609100000,
   "end": 1640609400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
