@@ -1,0 +1,25 @@
+{
+  "id": "iduwrtf",
+  "category": "cinema",
+  "title": "連合艦隊",
+  "fullTitle": "[映]連合艦隊【特集：世界の戦争映画】",
+  "detail": "太平洋戦争を舞台に、開戦から戦艦大和撃沈までの壮絶な戦いの数々と、その時代に生きた人々の葛藤と生き様を描いた戦争大作。",
+  "start": 1640880900000,
+  "end": 1640890800000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "特集：世界の戦争映画",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

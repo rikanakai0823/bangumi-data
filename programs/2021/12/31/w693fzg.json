@@ -1,0 +1,25 @@
+{
+  "id": "w693fzg",
+  "category": "news",
+  "title": "イブニングニュース",
+  "fullTitle": "イブニングニュース[字]",
+  "detail": "◆最新ニュース＆スポーツ＆天気　◆２０２１年に列島各地から届いた話題を一挙放送",
+  "start": 1640934000000,
+  "end": 1640952000000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

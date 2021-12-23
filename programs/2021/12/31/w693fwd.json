@@ -1,0 +1,25 @@
+{
+  "id": "w693fwd",
+  "category": "news",
+  "title": "ウェイクアップニュース",
+  "fullTitle": "ウェイクアップニュース[字]",
+  "detail": "◆最新ニュース＆スポーツ＆天気　◆２０２１年に列島各地から届いた話題を一挙放送",
+  "start": 1640890800000,
+  "end": 1640905200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

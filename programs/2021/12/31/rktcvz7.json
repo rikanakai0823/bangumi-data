@@ -1,0 +1,26 @@
+{
+  "id": "rktcvz7",
+  "category": "variety",
+  "title": "国民トークショー　アンニョンハセヨ セレクト",
+  "fullTitle": "国民トークショー　アンニョンハセヨ セレクト　[字][終]",
+  "detail": "トークバラエティ「国民トークショー　アンニョンハセヨ」に人気アイドルやスターが出演した回をセレクト放送！",
+  "start": 1640878200000,
+  "end": 1640883600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "国民トークショー　アンニョンハセヨ",
+  "episode": null,
+  "flags": [
+    "字",
+    "終"
+  ]
+}

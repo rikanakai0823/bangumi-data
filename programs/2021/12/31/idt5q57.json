@@ -1,0 +1,25 @@
+{
+  "id": "idt5q57",
+  "category": "music",
+  "title": "東急ジルベスターコンサート",
+  "fullTitle": "東急ジルベスターコンサート[SS]",
+  "detail": "27回目を迎える今回は「乗り越えよう、音楽の力で」をテーマに、新しい時代を担う注目の若手アーティストを中心にお送りする。\r\n◇５．１サラウンド",
+  "start": 1640961000000,
+  "end": 1640965500000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "乗り越えよう、音楽の力で",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}
