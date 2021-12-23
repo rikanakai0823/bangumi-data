@@ -1,9 +1,9 @@
 {
   "id": "idskk4p",
-  "category": "etc",
+  "category": "documentary",
   "title": "京都はんなり紀行",
-  "fullTitle": "京都はんなり紀行",
-  "detail": "",
+  "fullTitle": "京都はんなり紀行「うけつぐ」",
+  "detail": "歴史・文化・伝統と魅力あふれる街、京都。番組では毎回テーマを決め、「知っている京都知らない京都」を案内します。第３回は京都のさまざまな「うけつぐ」を紹介します。",
   "start": 1640466000000,
   "end": 1640467800000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "うけつぐ",
+  "episode": 3,
   "flags": []
 }
