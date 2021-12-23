@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksrlr",
-  "category": "documentary",
+  "id": "381f5ksu64",
+  "category": "news",
   "title": "このドキュメンタリーがヤバい！",
-  "fullTitle": "このドキュメンタリーがヤバい！[字]",
+  "fullTitle": "このドキュメンタリーがヤバい！",
   "detail": "",
-  "start": 1640820900000,
-  "end": 1640826000000,
-  "seconds": 5100,
+  "start": 1640368620000,
+  "end": 1640372220000,
+  "seconds": 3600,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
