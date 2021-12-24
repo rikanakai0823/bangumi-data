@@ -1,0 +1,25 @@
+{
+  "id": "idvj423",
+  "category": "cinema",
+  "title": "映画「ノーゲーム・ノーライフ ゼロ」",
+  "fullTitle": "[映]映画「ノーゲーム・ノーライフ ゼロ」",
+  "detail": "《願ったのは、共に生きること―――。》\r\nそれは一切の争いが禁じられ、全てがゲームで決まる《盤上の世界（ディス・ボード）》が創造されるはるか以前の出来事。",
+  "start": 1641034800000,
+  "end": 1641042000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

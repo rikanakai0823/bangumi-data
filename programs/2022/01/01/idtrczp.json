@@ -1,0 +1,25 @@
+{
+  "id": "idtrczp",
+  "category": "cinema",
+  "title": "映画「アマルフィ  女神の報酬」",
+  "fullTitle": "[映]映画「アマルフィ  女神の報酬」",
+  "detail": "日本人少女の失踪から始まったイタリア大規模連鎖テロ！犯人グループの本当の狙いとは・・・真実は、世界で一番美しい町にあった―\r\n",
+  "start": 1641006000000,
+  "end": 1641014700000,
+  "seconds": 8700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

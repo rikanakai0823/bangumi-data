@@ -1,0 +1,25 @@
+{
+  "id": "idx1umi",
+  "category": "anime",
+  "title": "特:ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "特:[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "★推す！年末年始 気合のアニメ一挙放送★\r\n#509「脳みその開発」の巻／「まる子、貝の違いが分からない」の巻\r\n#510「…",
+  "start": 1640984400000,
+  "end": 1640988000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

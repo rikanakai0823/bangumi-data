@@ -1,0 +1,28 @@
+{
+  "id": "iduczdd",
+  "category": "cinema",
+  "title": "散り椿",
+  "fullTitle": "[初][映]散り椿[SS][字]",
+  "detail": "岡田准一、西島秀俊、黒木華ら豪華キャストを迎え、葉室麟の同名小説を木村大作監督が映画化。第４２回モントリオール世界映画祭で審査員特別グランプリに輝いた話題作。",
+  "start": 1641009600000,
+  "end": 1641016800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 42,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

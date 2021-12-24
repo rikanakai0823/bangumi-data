@@ -1,0 +1,27 @@
+{
+  "id": "iduhahu",
+  "category": "cinema",
+  "title": "柘榴坂の仇討",
+  "fullTitle": "[映]柘榴坂の仇討[SS][字]",
+  "detail": "中井貴一と阿部寛共演の時代劇。“桜田門外の変”で主君を死なせてしまった侍と、その主君を斬った一団に加わっていた元侍。２人が明治という新しい世で対峙する。",
+  "start": 1641027300000,
+  "end": 1641034800000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

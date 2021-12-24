@@ -1,0 +1,25 @@
+{
+  "id": "idy8ozy",
+  "category": "cinema",
+  "title": "おさるのジョージ／Curious　George",
+  "fullTitle": "おさるのジョージ／Curious　George[二]",
+  "detail": "好奇心旺盛の小猿のジョージの新しい物語。陽気な性格ゆえ、知り合った仲間に受け入れてもらったジョージは、さらなる冒険に立ち向かう。86分。2006年。",
+  "start": 1640988000000,
+  "end": 1640993400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

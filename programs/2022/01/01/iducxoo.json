@@ -1,0 +1,27 @@
+{
+  "id": "iducxoo",
+  "category": "cinema",
+  "title": "テルマエ・ロマエⅡ",
+  "fullTitle": "[映]テルマエ・ロマエⅡ[SS][字]",
+  "detail": "ローマ時代の浴場設計技師ルシウスは再び“平たい顔族”の世界（現代）にタイムスリップ。戦争勃発の危機を救えるのか。阿部寛と上戸彩が共演したヒットコメディの続編。",
+  "start": 1640970000000,
+  "end": 1640977200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

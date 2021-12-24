@@ -1,0 +1,23 @@
+{
+  "id": "w69adpj",
+  "category": "news",
+  "title": "アット・ディスアワー",
+  "fullTitle": "アット・ディスアワー",
+  "detail": "米国の政情を中心に「この時間に」起きていることを徹底解説。CNN特派員や各界の有識者が、米国の視点で世界を見渡します。",
+  "start": 1640966400000,
+  "end": 1640970000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "この時間に",
+  "episode": null,
+  "flags": []
+}

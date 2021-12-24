@@ -1,0 +1,23 @@
+{
+  "id": "rlm40wb",
+  "category": "sports",
+  "title": "RIZINで逢いましょう",
+  "fullTitle": "RIZINで逢いましょう #3",
+  "detail": "RIZIN.1\r\n（2016年4月17日開催）",
+  "start": 1641047400000,
+  "end": 1641054600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}

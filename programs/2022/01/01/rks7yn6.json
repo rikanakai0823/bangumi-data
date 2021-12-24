@@ -1,0 +1,25 @@
+{
+  "id": "rks7yn6",
+  "category": "variety",
+  "title": "<一挙放送>Play2gether -4",
+  "fullTitle": "[字]<一挙放送>Play2gether #1-4",
+  "detail": "ドラマ「2gether」出演ブライトとウィン中心のトーク番組",
+  "start": 1641038400000,
+  "end": 1641043800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "2gether",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idt5q3t",
+  "category": "music",
+  "title": "ＢＳテレ東歌謡ＦＥＳＴＩＶＡＬ",
+  "fullTitle": "ＢＳテレ東歌謡ＦＥＳＴＩＶＡＬ[字]",
+  "detail": "「あなたに寄り添う名曲」をテーマに名曲ば\r\nかりの３時間！日本のポップス史を作った筒\r\n美京平さんを追悼し、楽曲提供されたアーテ\r\nィストが語り歌うコーナーも！",
+  "start": 1641013200000,
+  "end": 1641024000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "あなたに寄り添う名曲",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

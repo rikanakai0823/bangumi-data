@@ -1,0 +1,26 @@
+{
+  "id": "iduvmll",
+  "category": "cinema",
+  "title": "ＴＥＮＥＴ　テネット",
+  "fullTitle": "[映][SS]ＴＥＮＥＴ　テネット【映画三昧スペシャル　メガヒット１６連発！】",
+  "detail": "クリストファー・ノーラン監督のＳＦスパイアクション。“時間の逆行”をテーマに、世界の破滅を阻止するため闘う男の姿を描く。",
+  "start": 1641048300000,
+  "end": 1641058200000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "映画三昧スペシャル　メガヒット１６連発！",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

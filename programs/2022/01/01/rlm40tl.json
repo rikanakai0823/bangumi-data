@@ -1,0 +1,23 @@
+{
+  "id": "rlm40tl",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第17節 ライプツィヒ×ビーレフェルト",
+  "fullTitle": "21/22 ブンデスリーガ 第17節 ライプツィヒ×ビーレフェルト",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2021年12月18日\r\n会場:レッド ブル アレーナ",
+  "start": 1640978400000,
+  "end": 1640987400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

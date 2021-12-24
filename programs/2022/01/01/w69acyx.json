@@ -1,0 +1,25 @@
+{
+  "id": "w69acyx",
+  "category": "news",
+  "title": "2022年ニューイヤーズ・ライブ特番",
+  "fullTitle": "[二]2022年ニューイヤーズ・ライブ特番",
+  "detail": "全米各地の年越しの模様を生中継。\r\n※緊急編成のため番組や放送内容が急遽変更になることがあります。予めご了承下さい。",
+  "start": 1641002400000,
+  "end": 1641006000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

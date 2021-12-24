@@ -1,0 +1,25 @@
+{
+  "id": "w693g0w",
+  "category": "news",
+  "title": "ナイトニュース",
+  "fullTitle": "ナイトニュース[字]",
+  "detail": "◆最新ニュース＆スポーツ＆天気　◆２０２１年に列島各地から届いた話題を一挙放送",
+  "start": 1641038400000,
+  "end": 1641045600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

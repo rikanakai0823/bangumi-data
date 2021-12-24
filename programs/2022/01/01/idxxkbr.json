@@ -1,0 +1,25 @@
+{
+  "id": "idxxkbr",
+  "category": "hobby",
+  "title": "関西発めちゃめちゃ釣りたい！ 10",
+  "fullTitle": "[新]関西発めちゃめちゃ釣りたい！ 10",
+  "detail": "和歌山県南紀白浜にある、カタタの釣堀からお届けします",
+  "start": 1641018600000,
+  "end": 1641020400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
