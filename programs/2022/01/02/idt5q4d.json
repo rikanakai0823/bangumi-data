@@ -1,0 +1,25 @@
+{
+  "id": "idt5q4d",
+  "category": "music",
+  "title": "演歌の花道　新春スペシャル２０２２",
+  "fullTitle": "演歌の花道　新春スペシャル２０２２[字]",
+  "detail": "石川さゆり、丘みどり、伍代夏子、島津亜矢、辰巳ゆうと、田中あいみ、氷川きよし、細川たかし、八代亜紀、彩青＜語り：杉本るみ＞",
+  "start": 1641124800000,
+  "end": 1641132000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

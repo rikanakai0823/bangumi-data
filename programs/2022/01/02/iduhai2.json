@@ -1,0 +1,27 @@
+{
+  "id": "iduhai2",
+  "category": "cinema",
+  "title": "山桜",
+  "fullTitle": "[映]山桜[SS][字]",
+  "detail": "藤沢周平の短編小説をもとに、嫁ぎ先に恵まれないヒロインが回り道をした末、人生の光明を見いだすまでを描く人情時代劇。時代劇初挑戦だった田中麗奈が東山紀之らと共演。",
+  "start": 1641089700000,
+  "end": 1641096000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

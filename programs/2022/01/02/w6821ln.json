@@ -1,0 +1,25 @@
+{
+  "id": "w6821ln",
+  "category": "anime",
+  "title": "劇場版",
+  "fullTitle": "劇場版「SHIROBAKO」 [字]",
+  "detail": "2020年劇場公開作品",
+  "start": 1641128100000,
+  "end": 1641135600000,
+  "seconds": 7500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "SHIROBAKO",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

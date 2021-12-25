@@ -1,0 +1,27 @@
+{
+  "id": "iducze1",
+  "category": "cinema",
+  "title": "音楽（２０１９）[PG12指定]",
+  "fullTitle": "[映]音楽（２０１９）[PG12指定][SS][字]",
+  "detail": "アニメーション作家・岩井澤健治が初の長編作品として、大橋裕之のカルト漫画を映像化。思い付きでバンドを始めた不良高校生たちのロックな日々を綴った青春音楽アニメ。",
+  "start": 1641110400000,
+  "end": 1641114900000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

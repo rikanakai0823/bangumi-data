@@ -1,0 +1,26 @@
+{
+  "id": "iduhai3",
+  "category": "cinema",
+  "title": "どら平太",
+  "fullTitle": "[映]どら平太[字]",
+  "detail": "原作は山本周五郎。黒澤明、木下惠介、市川崑、小林正樹という４大映画人が結成した《四騎の会》による幻の企画が実現。名優・役所広司が豪快な町奉行を演じる痛快時代劇。",
+  "start": 1641096000000,
+  "end": 1641103200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

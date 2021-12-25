@@ -1,0 +1,26 @@
+{
+  "id": "rkunq78",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#25,#26[字/日英]",
+  "fullTitle": "[無]ちびっこバス　タヨ#25,#26[二][字/日英]",
+  "detail": "#25「初雪が降るよ」　#26「ハナの特別な一日」",
+  "start": 1641105000000,
+  "end": 1641106800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "初雪が降るよ",
+  "episode": 25,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

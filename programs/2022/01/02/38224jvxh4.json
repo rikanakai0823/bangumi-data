@@ -1,0 +1,25 @@
+{
+  "id": "38224jvxh4",
+  "category": "variety",
+  "title": "ナレーションガチャ　～その通りにできるかな？～",
+  "fullTitle": "ナレーションガチャ　～その通りにできるかな？～[字]",
+  "detail": "実験的ロケバラエティ！",
+  "start": 1641050700000,
+  "end": 1641054300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

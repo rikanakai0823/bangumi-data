@@ -1,0 +1,26 @@
+{
+  "id": "iduvpkk",
+  "category": "cinema",
+  "title": "フリー・ガイ",
+  "fullTitle": "[映][SS]フリー・ガイ【新春！映画三昧スペシャル　メガヒット１６連発！】",
+  "detail": "ライアン・レイノルズ主演のアドベンチャーアクション。自分がゲームのキャラクターであることに気づいた主人公が世界を救う。",
+  "start": 1641124800000,
+  "end": 1641132000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "新春！映画三昧スペシャル　メガヒット１６連発！",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
