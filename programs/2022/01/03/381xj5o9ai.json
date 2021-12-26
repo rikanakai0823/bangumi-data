@@ -1,0 +1,27 @@
+{
+  "id": "381xj5o9ai",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n小室瑛莉子（フジテレビアナウンサー）",
+  "start": 1641156900000,
+  "end": 1641157200000,
+  "seconds": 300,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "小室瑛莉子（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

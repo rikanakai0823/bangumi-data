@@ -1,0 +1,26 @@
+{
+  "id": "iduvsi0",
+  "category": "cinema",
+  "title": "ストーリー・オブ・マイライフ／わたしの若草物語",
+  "fullTitle": "[映][SS]ストーリー・オブ・マイライフ／わたしの若草物語",
+  "detail": "【新春！映画三昧スペシャル　メガヒット１６連発！】",
+  "start": 1641200400000,
+  "end": 1641208800000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "新春！映画三昧スペシャル　メガヒット１６連発！",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

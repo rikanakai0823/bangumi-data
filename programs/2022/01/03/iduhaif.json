@@ -1,0 +1,26 @@
+{
+  "id": "iduhaif",
+  "category": "cinema",
+  "title": "五福星（字幕版）",
+  "fullTitle": "[映]五福星（字幕版）[SS]",
+  "detail": "Ｊ・チェン、ユン・ピョウ、サモ・ハン・キンポーという黄金トリオが共演した、アクションコメディ。ジャッキー扮する刑事と元受刑者のドジな５人組が香港マフィアと対決。",
+  "start": 1641168900000,
+  "end": 1641176100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

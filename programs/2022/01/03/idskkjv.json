@@ -1,0 +1,23 @@
+{
+  "id": "idskkjv",
+  "category": "sports",
+  "title": "女子バスケットボールＷリーグ　トヨタ自動車アンテロープス×ENEOSサンフラワーズ",
+  "fullTitle": "女子バスケットボールＷリーグ　トヨタ自動車アンテロープス×ENEOSサンフラワーズ",
+  "detail": "代々木第二体育館から生中継！東京五輪銀メダル、アジアカップ５連覇と注目される日本の女子バスケットボール。国内最高リーグ強豪同士の頂上決戦をお届けする！",
+  "start": 1641203700000,
+  "end": 1641211200000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

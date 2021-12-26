@@ -1,0 +1,27 @@
+{
+  "id": "iduczej",
+  "category": "cinema",
+  "title": "映画　ひみつのアッコちゃん",
+  "fullTitle": "[映]映画　ひみつのアッコちゃん[SS][字]",
+  "detail": "綾瀬はるかと岡田将生の共演で、往年の少女コミックを実写映画化。“魔法のコンパクト”を授かった１０歳の女の子が、２２歳の女子大生に変身し、仕事に恋に大奮闘。",
+  "start": 1641189600000,
+  "end": 1641197700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

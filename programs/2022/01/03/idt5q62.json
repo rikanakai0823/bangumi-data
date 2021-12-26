@@ -1,0 +1,25 @@
+{
+  "id": "idt5q62",
+  "category": "music",
+  "title": "日本歌手協会新春１２時間歌謡祭＜第３部＞",
+  "fullTitle": "日本歌手協会新春１２時間歌謡祭＜第３部＞[字]",
+  "detail": "歌手総勢１３３組、１６０曲以上の名曲の数々を１２時間一挙放送！",
+  "start": 1641200400000,
+  "end": 1641211200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

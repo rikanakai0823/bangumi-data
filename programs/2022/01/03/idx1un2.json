@@ -1,0 +1,25 @@
+{
+  "id": "idx1un2",
+  "category": "anime",
+  "title": "特:ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "特:[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "★推す！年末年始 気合のアニメ一挙放送★\r\n#515「まる子、手作り料理が食べたい」の巻／「みぎわさん、髪型に悩む」の…",
+  "start": 1641157200000,
+  "end": 1641160800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

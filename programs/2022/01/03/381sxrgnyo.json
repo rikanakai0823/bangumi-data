@@ -1,0 +1,25 @@
+{
+  "id": "381sxrgnyo",
+  "category": "news",
+  "title": "ＪＮＮニュース",
+  "fullTitle": "ＪＮＮニュース[字]",
+  "detail": "最新のニュースをお伝えします。",
+  "start": 1641156600000,
+  "end": 1641157200000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

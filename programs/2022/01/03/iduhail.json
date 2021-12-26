@@ -1,0 +1,27 @@
+{
+  "id": "iduhail",
+  "category": "cinema",
+  "title": "プロジェクトＶ（字幕版）",
+  "fullTitle": "[初][映]プロジェクトＶ（字幕版）[SS]",
+  "detail": "ジャッキー・チェンが主演した、世界的スケールの痛快アクション。彼が、一流ボディーガード会社の創設者兼最高司令官に扮し、英国、ドバイ、インドなどで本格ロケを敢行。",
+  "start": 1641211200000,
+  "end": 1641218400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}

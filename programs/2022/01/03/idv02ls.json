@@ -1,0 +1,25 @@
+{
+  "id": "idv02ls",
+  "category": "cinema",
+  "title": "プライベイトスクールゴールデン洋画劇場版",
+  "fullTitle": "[映]プライベイトスクール[吹]ゴールデン洋画劇場版",
+  "detail": "【新春！映画三昧スペシャル　「激レア地上波吹替版」ＰＡＲＴ２】",
+  "start": 1641190800000,
+  "end": 1641196800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "新春！映画三昧スペシャル　「激レア地上波吹替版",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
