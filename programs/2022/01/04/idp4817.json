@@ -1,0 +1,25 @@
+{
+  "id": "idp4817",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「永平寺」[字]",
+  "detail": "福井県にある曹洞宗の大本山、永平寺。深い雪と厳しい寒さの中で修行を続ける僧たちの姿を描き、テレビ番組の国際的な賞である１９７７年のイタリア賞を受賞した。",
+  "start": 1641287400000,
+  "end": 1641290400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "永平寺",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

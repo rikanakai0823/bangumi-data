@@ -1,0 +1,26 @@
+{
+  "id": "idskklm",
+  "category": "cinema",
+  "title": "「００７　ダイヤモンドは永遠に」吹替▽ショーン・コネリー復帰作",
+  "fullTitle": "[字][映]「００７　ダイヤモンドは永遠に」吹替▽ショーン・コネリー復帰作",
+  "detail": "ボンド役にショーン・コネリーが復活したシリーズ第７作。ＢＳ－ＴＢＳでは００７シリーズを連続放送中！",
+  "start": 1641288600000,
+  "end": 1641297240000,
+  "seconds": 8640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字",
+    "映"
+  ]
+}

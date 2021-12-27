@@ -1,0 +1,26 @@
+{
+  "id": "idp3l32",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「雪の夜」[字][再]",
+  "detail": "世界有数の豪雪地帯を抱える日本。雪の夜にはその数だけ営みがある。静寂、恐れ、人恋しさ…。雪に閉ざされた空間で、日本人は何を思い、何を見たのか。（２０１１年放送）",
+  "start": 1641283980000,
+  "end": 1641287400000,
+  "seconds": 3420,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "雪の夜",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

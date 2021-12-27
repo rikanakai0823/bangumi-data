@@ -1,0 +1,25 @@
+{
+  "id": "w67uyf1",
+  "category": "hobby",
+  "title": "うたのじかんライブ",
+  "fullTitle": "[新]うたのじかんライブ #1",
+  "detail": "第１話「どんなふうに」\r\nうたのじかんライブではアーティストが子供たちに向けて楽曲の楽しさや魅力をライブでお届け！",
+  "start": 1641252300000,
+  "end": 1641252600000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "どんなふうに",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

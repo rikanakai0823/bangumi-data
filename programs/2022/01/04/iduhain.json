@@ -1,0 +1,26 @@
+{
+  "id": "iduhain",
+  "category": "cinema",
+  "title": "失楽園[R指定]",
+  "fullTitle": "[映]失楽園[R指定][字]",
+  "detail": "ある大人の男女の“不倫”を真正面から取り上げ、ベストセラーになった渡辺淳一の小説を森田芳光監督が映画化し、不倫ブームが起きた大ヒット作。主演は役所広司、黒木瞳。",
+  "start": 1641223800000,
+  "end": 1641231900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

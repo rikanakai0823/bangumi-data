@@ -1,0 +1,26 @@
+{
+  "id": "iduhaio",
+  "category": "cinema",
+  "title": "チア・アップ！（字幕版）",
+  "fullTitle": "[映]チア・アップ！（字幕版）[SS]",
+  "detail": "名コメディエンヌのＤ・キートンが主演したハートウオーミングコメディ。平均年齢７０歳以上のチアリーディングチームが、周囲の反対をよそに大会出場へ向けて奮闘する。",
+  "start": 1641231900000,
+  "end": 1641238200000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

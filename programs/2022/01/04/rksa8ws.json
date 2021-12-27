@@ -1,0 +1,25 @@
+{
+  "id": "rksa8ws",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2022 1.4 WRESTLE KINGDOM 16 in 東京ドーム",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2022 1.4 WRESTLE KINGDOM 16 in 東京ドーム",
+  "detail": "新日本プロレス５０周年の幕開け！東京ドーム２連戦初日！\r\nＩＷＧＰ世界王者・鷹木とＧ１覇者オカダが頂上決戦！\r\n【三度登場！伯山＆清野ペアの副音声】\r\n※延長の場合あり",
+  "start": 1641282900000,
+  "end": 1641297600000,
+  "seconds": 14700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
