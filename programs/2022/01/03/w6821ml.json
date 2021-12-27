@@ -1,8 +1,8 @@
 {
   "id": "w6821ml",
   "category": "anime",
-  "title": "未定",
-  "fullTitle": "未定",
+  "title": "最果てのパラディン",
+  "fullTitle": "最果てのパラディン #12 [終][字]",
   "detail": "",
   "start": 1641220200000,
   "end": 1641222000000,
@@ -18,6 +18,9 @@
     "n": 130
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 12,
+  "flags": [
+    "終",
+    "字"
+  ]
 }
