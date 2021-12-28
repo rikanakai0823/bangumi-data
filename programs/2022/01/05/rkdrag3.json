@@ -1,0 +1,23 @@
+{
+  "id": "rkdrag3",
+  "category": "information",
+  "title": "ビューティーデイ　ダイジェスト",
+  "fullTitle": "ビューティーデイ　ダイジェスト",
+  "detail": "今日からはじめるキレイ習慣！ ビューティーデイ／２０２２年は、キレイへ一歩前進！本気の誓いを応援する新春・美アイテムが大集合！",
+  "start": 1641387600000,
+  "end": 1641394800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

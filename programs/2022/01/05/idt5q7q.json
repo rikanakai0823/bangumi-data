@@ -1,0 +1,23 @@
+{
+  "id": "idt5q7q",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "【中山】10ＲジュニアＣ（Ｌ）\r\n　　　　11Ｒ中山金杯（ＧⅢ）\r\n【中京】10Ｒ万葉Ｓ\r\n　　　　11Ｒ京都金杯（ＧⅢ）",
+  "start": 1641360600000,
+  "end": 1641366000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "中山",
+  "episode": null,
+  "flags": []
+}

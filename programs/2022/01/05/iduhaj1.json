@@ -1,0 +1,27 @@
+{
+  "id": "iduhaj1",
+  "category": "cinema",
+  "title": "阿修羅のごとく",
+  "fullTitle": "[映]阿修羅のごとく[SS][字]",
+  "detail": "森田芳光監督が、向田邦子が脚本を担当した昭和の名作ドラマを、大竹しのぶら名女優陣の豪華多彩な顔合わせで映画化。第２７回日本アカデミー賞で最優秀監督賞などを受賞。",
+  "start": 1641316500000,
+  "end": 1641325500000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 27,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

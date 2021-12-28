@@ -1,0 +1,26 @@
+{
+  "id": "idp48db",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「新年を祝う　雑煮」[字][再]",
+  "detail": "日本の正月に欠かせない「雑煮」。地域の産物を取り込み、具も汁もさまざま。全国各地の多様な雑煮から、雑煮用の器まで、雑煮の奥深い魅力に迫る！",
+  "start": 1641332700000,
+  "end": 1641334500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "新年を祝う　雑煮",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
