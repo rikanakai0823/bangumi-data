@@ -1,0 +1,26 @@
+{
+  "id": "iduhajm",
+  "category": "cinema",
+  "title": "パリのどこかで、あなたと（字幕版）[PG12指定]",
+  "fullTitle": "[映]パリのどこかで、あなたと（字幕版）[PG12指定][SS]",
+  "detail": "パリの隣近所に住む男女が何度もすれ違いながら各自孤独な日々を送るさまを、Ｃ・クラピッシュ監督がＡ・ジラルド＆Ｆ・シヴィルの共演で切なく描いた異色のラブロマンス。",
+  "start": 1641455100000,
+  "end": 1641462300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

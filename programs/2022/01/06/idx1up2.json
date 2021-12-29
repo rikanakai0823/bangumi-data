@@ -1,0 +1,25 @@
+{
+  "id": "idx1up2",
+  "category": "anime",
+  "title": "あかねさす少女 ,4",
+  "fullTitle": "[字]あかねさす少女 #3,4",
+  "detail": "#3「ウェディング・ベルが鳴る前に ～The bride can't help it～」\r\n#4「荒野の五人、もしくは十一人 ～The magnificen…",
+  "start": 1641434400000,
+  "end": 1641438000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ウェディング・ベルが鳴る前に ～The bride can't help it～",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

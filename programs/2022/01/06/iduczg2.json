@@ -1,0 +1,27 @@
+{
+  "id": "iduczg2",
+  "category": "cinema",
+  "title": "眠れない夜の月",
+  "fullTitle": "[映]眠れない夜の月[SS][字]",
+  "detail": "人形アニメーション作家・八代健志が描くファンタジー。眠れない夜、少年はリスの姿をした月の番人とともに、高い木に引っ掛かってしまった月を外すための冒険に出発する。",
+  "start": 1641394800000,
+  "end": 1641396600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idozyme",
+  "category": "documentary",
+  "title": "関東甲信越推し！　ぐんまスペシャル",
+  "fullTitle": "関東甲信越推し！　ぐんまスペシャル「絹の音」[字]",
+  "detail": "「機の音・製糸の煙・桑の海。」明治の文豪・徳冨蘆花は絹の国・群馬をこう例えた。養蚕・製糸・織物といった今では群馬でしか聞けない、貴重な“絹の音”に耳を傾ける。",
+  "start": 1641397200000,
+  "end": 1641398820000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "絹の音",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp48w9",
+  "category": "hobby",
+  "title": "美の壺",
+  "fullTitle": "美の壺「精進料理」[字][再]",
+  "detail": "仏教の戒律に基づいて作られる、精進料理。永平寺の粥（かゆ）から、中国風精進料理や料理教室まで、精進料理の魅力を紹介！",
+  "start": 1641419100000,
+  "end": 1641420900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "精進料理",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

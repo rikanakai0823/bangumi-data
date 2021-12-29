@@ -1,0 +1,27 @@
+{
+  "id": "iduhajd",
+  "category": "cinema",
+  "title": "僕達急行　Ａ列車で行こう",
+  "fullTitle": "[映]僕達急行　Ａ列車で行こう[SS][字]",
+  "detail": "森田芳光監督の遺作で、松山ケンイチ＆永山瑛太がＷ主演し、互いに無類の鉄道好きとして知り合い、友情を育む青年２人が仕事に恋に悪戦苦闘する姿を軽妙に描いたコメディ。",
+  "start": 1641397500000,
+  "end": 1641404700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
