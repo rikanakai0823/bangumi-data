@@ -1,0 +1,25 @@
+{
+  "id": "idp49gj",
+  "category": "hobby",
+  "title": "美の小壺",
+  "fullTitle": "美の小壺「抹茶」[字]",
+  "detail": "ＢＳプレミアムの人気番組「美の壺」を、“小壺”サイズに仕立てたミニ番組。テーマは「抹茶」。",
+  "start": 1641524100000,
+  "end": 1641524400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "抹茶",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

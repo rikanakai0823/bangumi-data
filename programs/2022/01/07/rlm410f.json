@@ -1,0 +1,23 @@
+{
+  "id": "rlm410f",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.オリックス",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.オリックス",
+  "detail": "開催日：2021年9月3日\r\nマルティネスが7回１失点と好投した一戦。",
+  "start": 1641524400000,
+  "end": 1641539400000,
+  "seconds": 15000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

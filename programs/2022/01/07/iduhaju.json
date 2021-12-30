@@ -1,0 +1,26 @@
+{
+  "id": "iduhaju",
+  "category": "cinema",
+  "title": "ハーフアチャンス（字幕版）",
+  "fullTitle": "[映]ハーフアチャンス（字幕版）[SS]",
+  "detail": "フランスの大物スター、Ａ・ドロンが、もうひとりの大物男優、Ｊ＝Ｐ・ベルモンドと、「ボルサリーノ」以来２８年ぶりに再共演したアクションコメディ。Ｖ・パラディ共演。",
+  "start": 1641506400000,
+  "end": 1641513300000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "ボルサリーノ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

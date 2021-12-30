@@ -1,0 +1,26 @@
+{
+  "id": "iduw55y",
+  "category": "cinema",
+  "title": "それでも夜は明ける",
+  "fullTitle": "[映][SS]それでも夜は明ける",
+  "detail": "アカデミー作品賞受賞作。１９世紀に実在した黒人男性の自伝を基に、奴隷となった男の壮絶な日々を綴る。［ＰＧ１２］",
+  "start": 1641547800000,
+  "end": 1641556800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

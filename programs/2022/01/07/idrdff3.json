@@ -1,0 +1,23 @@
+{
+  "id": "idrdff3",
+  "category": "sports",
+  "title": "ジャパンラグビー　リーグワン２０２２",
+  "fullTitle": "ジャパンラグビー　リーグワン２０２２",
+  "detail": "",
+  "start": 1641549600000,
+  "end": 1641556800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
