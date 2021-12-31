@@ -1,0 +1,26 @@
+{
+  "id": "iduydp0",
+  "category": "cinema",
+  "title": "スーパー！",
+  "fullTitle": "[映][SS]スーパー！",
+  "detail": "ジェームズ・ガン監督のアクションコメディ。妻の愛を取り戻すため正義のヒーローとなり、自警活動に励む男を描く。［Ｒ１５＋］",
+  "start": 1641643200000,
+  "end": 1641649500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

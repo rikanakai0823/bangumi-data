@@ -1,0 +1,26 @@
+{
+  "id": "idozbac",
+  "category": "documentary",
+  "title": "街角ピアノ",
+  "fullTitle": "街角ピアノ「軽井沢」[字][再]",
+  "detail": "日本有数の避暑地・軽井沢。別荘地にある広場に２０２１年秋の期間限定でピアノが置かれた。自然の中で音楽に親しんでもらいたいとリゾート会社が設置した「森のピアノ」。",
+  "start": 1641625200000,
+  "end": 1641628200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "軽井沢",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

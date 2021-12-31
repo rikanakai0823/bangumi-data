@@ -1,0 +1,23 @@
+{
+  "id": "idrdgf3",
+  "category": "news",
+  "title": "皇室日記",
+  "fullTitle": "皇室日記　＃１５",
+  "detail": "12月に誕生日を迎えられた皇后さま、愛子さま、また上皇さまについてお伝えします。",
+  "start": 1641603600000,
+  "end": 1641604500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": 15,
+  "flags": []
+}

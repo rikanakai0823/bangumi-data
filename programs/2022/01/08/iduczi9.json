@@ -1,0 +1,27 @@
+{
+  "id": "iduczi9",
+  "category": "cinema",
+  "title": "スプートニク（字幕版）",
+  "fullTitle": "[初][映]スプートニク（字幕版）[SS]",
+  "detail": "地球に帰還した宇宙飛行士の体内には、未知の生命体が寄生していた。医師のヒロインは、やがて生命体が人間を捕食していると知る。ロシア版「エイリアン」的ＳＦスリラー。",
+  "start": 1641643200000,
+  "end": 1641650400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "エイリアン",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}

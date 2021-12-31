@@ -1,0 +1,26 @@
+{
+  "id": "iduhakb",
+  "category": "cinema",
+  "title": "ペイルライダー（字幕版）",
+  "fullTitle": "[映]ペイルライダー（字幕版）[SS]",
+  "detail": "Ｃ・イーストウッドが主演・監督などを務めたウエスタンムービー。貧しい開拓民たちに力を貸していく孤高のガンマンを描き、西部開拓時代のロマンにオマージュをささげた。",
+  "start": 1641617700000,
+  "end": 1641625200000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

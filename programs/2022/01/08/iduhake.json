@@ -1,0 +1,26 @@
+{
+  "id": "iduhake",
+  "category": "cinema",
+  "title": "最後の決闘裁判（字幕版）[PG12指定]",
+  "fullTitle": "[映]最後の決闘裁判（字幕版）[PG12指定][SS]",
+  "detail": "「グラディエーター」のＲ・スコット監督がＭ・デイモン、Ａ・ドライヴァーら豪華キャスト陣を迎えた歴史ドラマ大作。実話に基づき、１４世紀にあった“決闘裁判”を再現。",
+  "start": 1641639600000,
+  "end": 1641649500000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "グラディエーター",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

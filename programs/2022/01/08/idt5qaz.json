@@ -1,0 +1,25 @@
+{
+  "id": "idt5qaz",
+  "category": "information",
+  "title": "わたしのヒュッゲ",
+  "fullTitle": "わたしのヒュッゲ[字]",
+  "detail": "居心地の良い家時間・ヒュッゲ。それは忙しい日々、置き去りにしてきた自分を再発見する時間。どんなつまみを作り、どう過ごしているのか…ゲストのおうちでの素顔を拝見。",
+  "start": 1641650040000,
+  "end": 1641650400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
