@@ -1,0 +1,25 @@
+{
+  "id": "w67uyky",
+  "category": "etc",
+  "title": "劇場版ポケットモンスター",
+  "fullTitle": "劇場版ポケットモンスター 「ピカチュウのドキドキかくれんぼ」[字]",
+  "detail": "劇場版ポケットモンスター 「ピカチュウのドキドキかくれんぼ」をお送りいたします。",
+  "start": 1641702000000,
+  "end": 1641703920000,
+  "seconds": 1920,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ピカチュウのドキドキかくれんぼ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

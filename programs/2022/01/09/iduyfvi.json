@@ -1,0 +1,26 @@
+{
+  "id": "iduyfvi",
+  "category": "cinema",
+  "title": "ダンサー・イン・ザ・ダーク",
+  "fullTitle": "[映][SS]ダンサー・イン・ザ・ダーク",
+  "detail": "ラース・フォン・トリアー監督×歌手ビョーク。視力を失いつつある中、息子を育てる母親を、過酷な現実が襲う…",
+  "start": 1641684600000,
+  "end": 1641693600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

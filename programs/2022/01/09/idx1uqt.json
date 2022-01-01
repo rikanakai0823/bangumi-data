@@ -1,0 +1,25 @@
+{
+  "id": "idx1uqt",
+  "category": "anime",
+  "title": "キングダム 一挙放送 第1～12話",
+  "fullTitle": "[字]キングダム 一挙放送(1) 第1～12話",
+  "detail": "#1～12\r\n紀元前、中国。西方の国・秦で、戦災孤児として暮らしていた2人の少年、信と漂の夢は、いつか戦で武功を立てて…",
+  "start": 1641654000000,
+  "end": 1641675600000,
+  "seconds": 21600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

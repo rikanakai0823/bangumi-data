@@ -1,0 +1,25 @@
+{
+  "id": "idp25qo",
+  "category": "sports",
+  "title": "大相撲（２０２２年）　初場所",
+  "fullTitle": "大相撲（２０２２年）　初場所[多]",
+  "detail": "",
+  "start": 1641700800000,
+  "end": 1641708300000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

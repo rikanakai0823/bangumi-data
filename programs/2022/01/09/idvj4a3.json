@@ -1,0 +1,25 @@
+{
+  "id": "idvj4a3",
+  "category": "anime",
+  "title": "明日ちゃんのセーラー服",
+  "fullTitle": "[新]明日ちゃんのセーラー服　＃１",
+  "detail": "",
+  "start": 1641655800000,
+  "end": 1641657600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

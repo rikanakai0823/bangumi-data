@@ -1,0 +1,23 @@
+{
+  "id": "idskkuv",
+  "category": "information",
+  "title": "ＢＳ－ＴＢＳ　ショッピングＬＩＶＥ！",
+  "fullTitle": "ＢＳ－ＴＢＳ　ショッピングＬＩＶＥ！",
+  "detail": "大人気商品を月イチの生放送でお届けするショッピング番組の新春ＳＰ！大人気フェイストリートメントとストレッチサポートアイテムを衝撃の半額以下でご紹介します！",
+  "start": 1641690000000,
+  "end": 1641697200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

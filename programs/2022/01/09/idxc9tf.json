@@ -1,0 +1,23 @@
+{
+  "id": "idxc9tf",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "【契】URAWA CHANNEL NEXT #32",
+  "detail": "浦和レッズのクラブ応援番組。今回は、今シーズン限りで退団する槙野智章選手、宇賀神友弥選手へインタビュー。",
+  "start": 1641670200000,
+  "end": 1641672000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 32,
+  "flags": []
+}

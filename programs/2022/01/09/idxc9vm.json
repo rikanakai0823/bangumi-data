@@ -1,0 +1,25 @@
+{
+  "id": "idxc9vm",
+  "category": "drama",
+  "title": "見せます　Mnet　presents",
+  "fullTitle": "[無]第1話見せます　Mnet　presents 「ハイクラス(原題)」",
+  "detail": "2話目以降は CS318/プレミアムサービス658CH Mnetで毎週(金)(土)21:00～放送！",
+  "start": 1641703200000,
+  "end": 1641707700000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "ハイクラス",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

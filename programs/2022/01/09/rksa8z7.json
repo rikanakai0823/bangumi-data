@@ -1,0 +1,25 @@
+{
+  "id": "rksa8z7",
+  "category": "etc",
+  "title": "ラグビーTOP14 ラシン92×クレルモンpresented byヒト・コミュニケーションズ",
+  "fullTitle": "[生]ラグビーTOP14 ラシン92×クレルモンpresented byヒト・コミュニケーションズ",
+  "detail": "ラグビー日本代表の松島幸太朗が移籍し大活躍中のフランスラグビーリーグTOP14。各国のスター選手が集結する世界最高峰リーグの試合を生中継！\r\n※延長の場合あり",
+  "start": 1641671700000,
+  "end": 1641681000000,
+  "seconds": 9300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
