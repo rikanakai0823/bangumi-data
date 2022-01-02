@@ -1,0 +1,23 @@
+{
+  "id": "idrdggz",
+  "category": "sports",
+  "title": "全国高校サッカー選手権大会　決勝直前番組",
+  "fullTitle": "第１００回全国高校サッカー選手権大会　決勝直前番組",
+  "detail": "",
+  "start": 1641740400000,
+  "end": 1641744000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": 100,
+  "flags": []
+}

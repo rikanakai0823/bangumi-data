@@ -1,0 +1,27 @@
+{
+  "id": "iduhakx",
+  "category": "cinema",
+  "title": "彼女は夢で踊る[PG12指定]",
+  "fullTitle": "[映]彼女は夢で踊る[PG12指定][SS][字]",
+  "detail": "実在した広島の伝説的なストリップ劇場を舞台にしたドラマ。社長と踊り子たちの人間模様を、過去と現在を交錯させて描く。加藤雅也を主演に、犬飼貴丈、岡村いずみが共演。",
+  "start": 1641771000000,
+  "end": 1641777300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idt5qjk",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "レース中継を中心に、レース展開には欠かせないパドック情報、競馬界の最新ニュース、さらにインタビューコーナーなど盛りだくさんでお届けする。",
+  "start": 1641794400000,
+  "end": 1641798000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

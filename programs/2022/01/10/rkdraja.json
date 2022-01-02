@@ -1,0 +1,23 @@
+{
+  "id": "rkdraja",
+  "category": "information",
+  "title": "ブラックフォーマルコレクション",
+  "fullTitle": "ブラックフォーマルコレクション",
+  "detail": "フォーマルウェアの上に羽織れるエレガントなコートがお目見え。ロングシーズン活躍します。",
+  "start": 1641780000000,
+  "end": 1641783600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

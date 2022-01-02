@@ -1,0 +1,26 @@
+{
+  "id": "w67uyl6",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST -4",
+  "fullTitle": "[新]鋼の錬金術師 FULLMETAL ALCHEMIST[字] #1-4",
+  "detail": "＃１「鋼の錬金術師」＃２「はじまりの日」＃３「邪教の街」＃４「錬金術師の苦悩」",
+  "start": 1641744000000,
+  "end": 1641751200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "鋼の錬金術師",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}
