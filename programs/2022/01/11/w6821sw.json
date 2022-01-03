@@ -1,0 +1,25 @@
+{
+  "id": "w6821sw",
+  "category": "anime",
+  "title": "テレビアニメ遊郭編",
+  "fullTitle": "テレビアニメ「鬼滅の刃」遊郭編 #05 [字]",
+  "detail": "#05 ド派手に行くぜ!!",
+  "start": 1641898800000,
+  "end": 1641900600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "ド派手に行くぜ!!",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

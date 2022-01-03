@@ -1,0 +1,25 @@
+{
+  "id": "idy8p98",
+  "category": "anime",
+  "title": "へやキャン△ ★チャンネル初放送！",
+  "fullTitle": "[新]へやキャン△ #1★チャンネル初放送！",
+  "detail": "#1「ツナ缶のなぞ」",
+  "start": 1641903900000,
+  "end": 1641904200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ツナ缶のなぞ",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

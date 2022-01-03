@@ -1,0 +1,26 @@
+{
+  "id": "iduwhh4",
+  "category": "cinema",
+  "title": "リトル・シングス",
+  "fullTitle": "[映][SS]リトル・シングス【メガヒット９（再）】",
+  "detail": "デンゼル・ワシントン主演のクライムサスペンス。女性ばかりを狙う連続殺人事件を追う２人の男が、容疑者に翻弄される姿を描く。",
+  "start": 1641877200000,
+  "end": 1641885300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

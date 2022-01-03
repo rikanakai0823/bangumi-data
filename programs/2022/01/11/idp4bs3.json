@@ -1,0 +1,25 @@
+{
+  "id": "idp4bs3",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「京都・表千家　～わび茶の世界～」[字]",
+  "detail": "京都上京の一角に千利休を祖として４００年の歴史をもつ表千家がある。口切りの茶事や元旦の儀式、それを担う茶人や料理人、職人の姿を追いながら、わび茶の神髄に迫る。",
+  "start": 1641892200000,
+  "end": 1641895200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "京都・表千家　～わび茶の世界～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

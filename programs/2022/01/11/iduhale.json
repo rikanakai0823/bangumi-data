@@ -1,0 +1,27 @@
+{
+  "id": "iduhale",
+  "category": "cinema",
+  "title": "トゥルーノース（字幕版）",
+  "fullTitle": "[初][映]トゥルーノース（字幕版）[SS]",
+  "detail": "ある日突然強制収容所へ連行された一家の苦難の日々を通して北朝鮮の実態を描き、ナッシュビル国際映画祭長編アニメーション部門グランプリを受賞した衝撃の３Ｄアニメ。",
+  "start": 1641896100000,
+  "end": 1641902400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}

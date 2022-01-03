@@ -1,0 +1,25 @@
+{
+  "id": "rlm4168",
+  "category": "sports",
+  "title": "鷹酒場",
+  "fullTitle": "[生]鷹酒場 #8",
+  "detail": "今回は永井智浩氏と寺原隼人氏をゲストに招き、現ホークスの話から今だから話せるお二人の思い出話まで語り尽くします！",
+  "start": 1641906000000,
+  "end": 1641909600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm412s",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.ロッテ",
+  "detail": "開催日：2021年9月14日\r\n先発：千賀滉大",
+  "start": 1641890400000,
+  "end": 1641904800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

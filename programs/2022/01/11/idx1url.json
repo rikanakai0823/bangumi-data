@@ -1,0 +1,25 @@
+{
+  "id": "idx1url",
+  "category": "anime",
+  "title": "名探偵コナン 若奥様が消えた秘密 他",
+  "fullTitle": "[字]名探偵コナン 若奥様が消えた秘密 他",
+  "detail": "#762「若奥様が消えた秘密」\r\n下校中、歩美が物音のする真壁邸を見ると、住人の真壁純が毛布に包んだ何かを車に運んで…",
+  "start": 1641855600000,
+  "end": 1641859200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "若奥様が消えた秘密",
+  "episode": 762,
+  "flags": [
+    "字"
+  ]
+}
