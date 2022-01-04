@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks8c6",
+  "category": "news",
+  "title": "ニュース関連",
+  "fullTitle": "ニュース「小笠原諸島で震度５強　津波なし」関連[字]",
+  "detail": "",
+  "start": 1641251700000,
+  "end": 1641252600000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "小笠原諸島で震度５強　津波なし",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
