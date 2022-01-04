@@ -1,0 +1,25 @@
+{
+  "id": "idy8p9t",
+  "category": "hobby",
+  "title": "おさるのジョージ",
+  "fullTitle": "おさるのジョージ#2[二]",
+  "detail": "#2「ハトさんのおうち／数字あわせ」",
+  "start": 1641940200000,
+  "end": 1641942000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ハトさんのおうち／数字あわせ",
+  "episode": 2,
+  "flags": [
+    "二"
+  ]
+}

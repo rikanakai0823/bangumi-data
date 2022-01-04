@@ -1,0 +1,25 @@
+{
+  "id": "idy8pa3",
+  "category": "anime",
+  "title": "チップとデールの大作戦",
+  "fullTitle": "チップとデールの大作戦#2[二]",
+  "detail": "#2「珍鳥の卵をかえせ」",
+  "start": 1641956400000,
+  "end": 1641958200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "珍鳥の卵をかえせ",
+  "episode": 2,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduwkyu",
+  "category": "cinema",
+  "title": "コリーニ事件",
+  "fullTitle": "[映][SS]コリーニ事件",
+  "detail": "国家を揺るがした世界的ベストセラー小説を映画化したサスペンス。ある殺人事件の裁判が、戦後ドイツの不都合な真実を炙り出す。",
+  "start": 1641979800000,
+  "end": 1641987900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

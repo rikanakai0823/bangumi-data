@@ -1,0 +1,25 @@
+{
+  "id": "iduyp98",
+  "category": "cinema",
+  "title": "大頭脳",
+  "fullTitle": "[映]大頭脳",
+  "detail": "デヴィッド・ニーヴンとジャン＝ポール・ベルモンド共演の犯罪コメディ。列車強盗を巡って、男たちがギャグ満載の争奪戦を展開。",
+  "start": 1641938400000,
+  "end": 1641946500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

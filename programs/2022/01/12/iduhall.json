@@ -1,0 +1,26 @@
+{
+  "id": "iduhall",
+  "category": "cinema",
+  "title": "カウントダウン（２０１９）（字幕版）",
+  "fullTitle": "[映]カウントダウン（２０１９）（字幕版）[SS]",
+  "detail": "自分の余命が分かるという恐怖のスマホアプリを題材にしたサスペンスホラー。興味本位でアプリを起動し、余命３日と宣告されてしまったヒロインが死を逃れようと奔走する。",
+  "start": 1641939300000,
+  "end": 1641945000000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
