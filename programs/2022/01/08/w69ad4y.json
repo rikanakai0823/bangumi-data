@@ -1,8 +1,8 @@
 {
   "id": "w69ad4y",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
+  "category": "documentary",
+  "title": "エコ・ソリューションズ",
+  "fullTitle": "エコ・ソリューションズ",
   "detail": "番組内容が決まり次第お知らせします。",
   "start": 1641623400000,
   "end": 1641625200000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "再"
-  ]
+  "flags": []
 }
