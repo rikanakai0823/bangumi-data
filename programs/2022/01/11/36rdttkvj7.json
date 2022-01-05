@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Your Song Saved My Life (From Sing 2)\"U2\r\n\"Soft Landing\"JP SAXE\r\n\"Time After Time\"MABEL\r\n\"Only A Lifetime\"FINNEAS\n◇番組内容２\n\"Leader Of A New RegimeLORDE\r\n\"On The Road\"BRYAN ADAMS\r\n\"I Bet You Think About Me (Taylor’s Version) (From The Vault)\"TAYLOR SWIFT feat. CHRIS STAPLETON",
   "start": 1641826800000,
   "end": 1641828600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Your Song Saved My Life (From Sing 2)\"U2\r\n\"Soft Landing\"JP SAXE\r\n\"Time After Time\"MABEL\r\n\"Only A Lifetime\"FINNEAS",
+    "番組内容２": "\"Leader Of A New RegimeLORDE\r\n\"On The Road\"BRYAN ADAMS\r\n\"I Bet You Think About Me (Taylor’s Version) (From The Vault)\"TAYLOR SWIFT feat. CHRIS STAPLETON"
   },
   "channel": {
     "type": "GR",
