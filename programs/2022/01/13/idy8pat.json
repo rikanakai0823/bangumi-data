@@ -1,0 +1,25 @@
+{
+  "id": "idy8pat",
+  "category": "anime",
+  "title": "ザ・ペンギンズ　from　マダガスカル#59,#60",
+  "fullTitle": "ザ・ペンギンズ　from　マダガスカル#59,#60[二]",
+  "detail": "#59「ストップウォッチ　/　アーカーリスイルスタンの男」　#60「続・ドクター・シオフキーの逆襲　Part1」",
+  "start": 1642003200000,
+  "end": 1642006800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ストップウォッチ　/　アーカーリスイルスタンの男",
+  "episode": 59,
+  "flags": [
+    "二"
+  ]
+}

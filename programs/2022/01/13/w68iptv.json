@@ -1,0 +1,25 @@
+{
+  "id": "w68iptv",
+  "category": "documentary",
+  "title": "【連日放送】ワイルド！フランク：インド1",
+  "fullTitle": "【連日放送】ワイルド！フランク：インド1(二)",
+  "detail": "連日放送\r\nフランクの旅はヒマラヤから始まる。途中、ゾウの群れや猛毒を持つラッセルクサリヘビを発見。ヘビを素手で捕まえようとして…。",
+  "start": 1642053600000,
+  "end": 1642057200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "アニマルプラネット",
+    "id": "f0dx",
+    "sid": 341,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 133
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

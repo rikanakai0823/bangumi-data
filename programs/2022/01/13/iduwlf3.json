@@ -1,0 +1,25 @@
+{
+  "id": "iduwlf3",
+  "category": "drama",
+  "title": "チャペルウェイト　呪われた系譜",
+  "fullTitle": "[SS]チャペルウェイト　呪われた系譜　＃３",
+  "detail": "【独占日本初放送】",
+  "start": 1642000500000,
+  "end": 1642004100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "独占日本初放送",
+  "episode": 3,
+  "flags": [
+    "SS"
+  ]
+}
