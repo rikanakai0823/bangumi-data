@@ -1,9 +1,9 @@
 {
   "id": "idozauq",
   "category": "sports",
-  "title": "大相撲（２０２２年）　初場所",
-  "fullTitle": "大相撲（２０２２年）　初場所[多]",
-  "detail": "",
+  "title": "大相撲（２０２２年）　初場所　四日目",
+  "fullTitle": "大相撲（２０２２年）　初場所　四日目[多]",
+  "detail": "　※副音声は場内音声　【解説】正面（幕下）…阿武松（元大道），向正面（幕下）…虎伏山，正面（十両）…松ヶ根（元玉力道）ほか",
   "start": 1641960000000,
   "end": 1641967800000,
   "seconds": 7800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "解説",
   "episode": null,
   "flags": [
     "多"
