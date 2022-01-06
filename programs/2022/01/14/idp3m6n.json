@@ -1,0 +1,25 @@
+{
+  "id": "idp3m6n",
+  "category": "documentary",
+  "title": "レギュラー番組への道　シリーズ",
+  "fullTitle": "レギュラー番組への道　シリーズ「ワケあって顔出せません」[字]",
+  "detail": "",
+  "start": 1642169700000,
+  "end": 1642171500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ワケあって顔出せません",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

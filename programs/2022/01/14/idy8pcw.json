@@ -1,0 +1,25 @@
+{
+  "id": "idy8pcw",
+  "category": "anime",
+  "title": "ミュータント　タートルズ",
+  "fullTitle": "ミュータント　タートルズ#63[二]",
+  "detail": "#63「ビーバップとロックステディ」",
+  "start": 1642136400000,
+  "end": 1642138200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ビーバップとロックステディ",
+  "episode": 63,
+  "flags": [
+    "二"
+  ]
+}

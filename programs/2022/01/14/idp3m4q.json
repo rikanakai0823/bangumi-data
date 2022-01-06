@@ -1,0 +1,26 @@
+{
+  "id": "idp3m4q",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「北越冬物語」[字][再]",
+  "detail": "新潟県魚沼。ここには、あらがいがたい雪という自然と格闘してきた人々がいる。江戸時代に魚沼の営みを描いた「北越雪譜」に導かれ、魚沼の一冬を追う。（２０１７年放送）",
+  "start": 1642114800000,
+  "end": 1642118400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "北越冬物語",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduf56p",
+  "category": "sports",
+  "title": "スーペルコパ　準決勝　Ａ・マドリードｖｓＡ・ビルバオ",
+  "fullTitle": "[初][生]スーペルコパ　準決勝　Ａ・マドリードｖｓＡ・ビルバオ[二]",
+  "detail": "",
+  "start": 1642099500000,
+  "end": 1642111200000,
+  "seconds": 11700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "生",
+    "二"
+  ]
+}

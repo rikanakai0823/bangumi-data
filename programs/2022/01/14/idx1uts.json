@@ -1,0 +1,25 @@
+{
+  "id": "idx1uts",
+  "category": "anime",
+  "title": "PSYCHO-PASS サイコパス ３",
+  "fullTitle": "[字]PSYCHO-PASS サイコパス ３ #2",
+  "detail": "Episode.2「テウメソスの生贄」\r\n魂を数値化する巨大監視ネットワーク・シビュラシステムが人々の治安を維持している近…",
+  "start": 1642104000000,
+  "end": 1642107600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "テウメソスの生贄",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

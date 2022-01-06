@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8hn1f",
+  "category": "documentary",
+  "title": "日本のチカラ",
+  "fullTitle": "日本のチカラ[字]",
+  "detail": "富山発　冒険に出よう！～活気づけ！じいさんも、ばあさんも、地場産業も～",
+  "start": 1642118400000,
+  "end": 1642120200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
