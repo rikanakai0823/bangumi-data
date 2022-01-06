@@ -1,9 +1,9 @@
 {
   "id": "w69ad5x",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "information",
+  "title": "医療特番：マリファナのを問う",
+  "fullTitle": "医療特番：マリファナの「効能」を問う #6[再]",
+  "detail": "CNN医療担当キャスターのサンジェイ・グプタが、自閉症の子供たちが抱える症状を軽減する効果があるとされる、大麻草から抽出したCDBオイルの効能とリスクを取材。",
   "start": 1641708000000,
   "end": 1641709800000,
   "seconds": 1800,
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "効能",
+  "episode": 6,
   "flags": [
     "再"
   ]
