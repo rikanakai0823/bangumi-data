@@ -1,0 +1,27 @@
+{
+  "id": "iduhan3",
+  "category": "cinema",
+  "title": "詩季織々",
+  "fullTitle": "[初][映]詩季織々[字]",
+  "detail": "「君の名は。」などのコミックス・ウェーブ・フィルムが贈るアンソロジーアニメ。日本と中国、次世代の若手監督が中国の３都市を舞台に、切なくも温かい青春模様を綴る。",
+  "start": 1642250700000,
+  "end": 1642255500000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "君の名は。",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

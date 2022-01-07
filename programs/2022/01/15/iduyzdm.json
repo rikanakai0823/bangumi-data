@@ -1,0 +1,26 @@
+{
+  "id": "iduyzdm",
+  "category": "cinema",
+  "title": "エンプティ・マン",
+  "fullTitle": "[映][SS]エンプティ・マン",
+  "detail": "十代の若者たちの失踪が相次ぐ街で消えた隣家の娘の行方を独自に調査する元警官が、不可解な事態に直面する超常現象ホラー。",
+  "start": 1642228200000,
+  "end": 1642237200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

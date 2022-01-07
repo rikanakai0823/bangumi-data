@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkvs5",
+  "category": "sports",
+  "title": "ラグビー中継",
+  "fullTitle": "ラグビー中継",
+  "detail": "　",
+  "start": 1642240800000,
+  "end": 1642247700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

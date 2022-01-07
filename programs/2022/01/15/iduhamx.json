@@ -1,0 +1,27 @@
+{
+  "id": "iduhamx",
+  "category": "cinema",
+  "title": "ＢＵＲＮ／バーン（字幕版）",
+  "fullTitle": "[初][映]ＢＵＲＮ／バーン（字幕版）[SS]",
+  "detail": "夜のガソリンスタンドに強盗に押し入った男がそこで出会ったのは、心の奥底に爆弾を抱え持つ、彼以上に危険な女性店員だった。オフビートな笑いに満ちたクライムコメディ。",
+  "start": 1642210200000,
+  "end": 1642215600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}

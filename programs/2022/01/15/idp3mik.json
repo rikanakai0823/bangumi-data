@@ -1,0 +1,25 @@
+{
+  "id": "idp3mik",
+  "category": "documentary",
+  "title": "国宝へようこそ",
+  "fullTitle": "国宝へようこそ「鳥獣戯画」[字]",
+  "detail": "最も有名で最も謎に包まれた国宝「鳥獣戯画」の全巻を「８Ｋの眼」で鑑賞する。甲・乙・丙・丁の四巻を、３人の〈見巧者〉の語りとともにドリー映像で堪能する。",
+  "start": 1642230000000,
+  "end": 1642232760000,
+  "seconds": 2760,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "鳥獣戯画",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

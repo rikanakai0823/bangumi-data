@@ -1,0 +1,25 @@
+{
+  "id": "idx1uut",
+  "category": "anime",
+  "title": "テレビアニメ遊郭編",
+  "fullTitle": "[字]テレビアニメ「鬼滅の刃」遊郭編 #4",
+  "detail": "#4\r\n無限列車での任務を終えた炭治郎たちの次なる任務を描く遊郭編。鬼殺隊最高位の剣士《柱》の一人、音柱の宇髄天元…",
+  "start": 1642248000000,
+  "end": 1642249800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "鬼滅の刃",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1uuf",
+  "category": "anime",
+  "title": "PSYCHO-PASS サイコパス ３",
+  "fullTitle": "[字]PSYCHO-PASS サイコパス ３ #3",
+  "detail": "Episode.3「ヘラクレスとセイレーン」\r\n魂を数値化する巨大監視ネットワーク・シビュラシステムが人々の治安を維持して…",
+  "start": 1642176000000,
+  "end": 1642179600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ヘラクレスとセイレーン",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}
