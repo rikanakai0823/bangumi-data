@@ -1,9 +1,9 @@
 {
   "id": "w6821up",
   "category": "anime",
-  "title": "ワッチャプリマジ！",
-  "fullTitle": "ワッチャプリマジ！ #14",
-  "detail": "",
+  "title": "ワッチャプリマジ！ 特番",
+  "fullTitle": "ワッチャプリマジ！ 特番",
+  "detail": "この時間は、特番「マジでわかる！ワッチャプリマジ学園」を放送いたします。",
   "start": 1642041000000,
   "end": 1642042800000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 130
   },
-  "subTitle": "",
-  "episode": 14,
+  "subTitle": "マジでわかる！ワッチャプリマジ学園",
+  "episode": null,
   "flags": []
 }
