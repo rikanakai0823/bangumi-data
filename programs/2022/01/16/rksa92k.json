@@ -1,0 +1,25 @@
+{
+  "id": "rksa92k",
+  "category": "sports",
+  "title": "2022 日本体操祭",
+  "fullTitle": "[生]2022 日本体操祭",
+  "detail": "北海道から鹿児島まで、日本全国の体操チームが集結し演技を披露。\r\n一般体操では日本最大級の祭典。\r\n※お問合せ：0570-0555-77（10時～20時）",
+  "start": 1642298400000,
+  "end": 1642323600000,
+  "seconds": 25200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

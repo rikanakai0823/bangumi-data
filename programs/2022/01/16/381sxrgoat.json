@@ -1,0 +1,31 @@
+{
+  "id": "381sxrgoat",
+  "category": "drama",
+  "title": "日曜劇場",
+  "fullTitle": "[新]日曜劇場「ＤＣＵ」第１話[字][デ]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/DCU_japan/\r\n\r\n◇twitter\r\n@DCU_japan\r\nhttps://twitter.com/DCU_japan/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/DCU_japan/",
+  "start": 1642334400000,
+  "end": 1642339140000,
+  "seconds": 4740,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/DCU_japan/\r\n\r\n◇twitter\r\n@DCU_japan\r\nhttps://twitter.com/DCU_japan/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/DCU_japan/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "ＤＣＵ",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字",
+    "デ"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduhanc",
+  "category": "cinema",
+  "title": "アオラレ（字幕版）[PG12指定]",
+  "fullTitle": "[映]アオラレ（字幕版）[PG12指定][SS]",
+  "detail": "「グラディエーター」の人気ハリウッド男優Ｒ・クロウが悪役を激演したアクションサスペンス。ある母子が乗った車に、謎めいた男は“あおり運転”を繰り返し続けるが……。",
+  "start": 1642297200000,
+  "end": 1642303500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "グラディエーター",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

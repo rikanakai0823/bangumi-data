@@ -1,0 +1,26 @@
+{
+  "id": "idp3pqc",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「秋田・男鹿」[字][再]",
+  "detail": "秋田県の男鹿半島。“神の使者”とされ集落ごとに継承されてきた「なまはげ」。厳冬期の“神の魚”「鰰（ハタハタ）」。畏れと祈りを受け継ぐ男鹿を描く（２０１５年放送）",
+  "start": 1642313400000,
+  "end": 1642316940000,
+  "seconds": 3540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "秋田・男鹿",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "381f5ks9ly",
+  "category": "sports",
+  "title": "全国都道府県対抗女子駅伝",
+  "fullTitle": "第４０回全国都道府県対抗女子駅伝[SS][字][デ]",
+  "detail": "　（スタート　：）　～たけびしスタジアム京都←→京都国際会館から中継～",
+  "start": 1642302900000,
+  "end": 1642313400000,
+  "seconds": 10500,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 40,
+  "flags": [
+    "SS",
+    "字",
+    "デ"
+  ]
+}

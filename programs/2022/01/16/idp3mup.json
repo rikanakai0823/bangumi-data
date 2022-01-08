@@ -1,0 +1,25 @@
+{
+  "id": "idp3mup",
+  "category": "music",
+  "title": "歌える！Ｊ－ＰＯＰ黄金のベストアルバム３０Ｍ",
+  "fullTitle": "歌える！Ｊ－ＰＯＰ黄金のベストアルバム３０Ｍ[字]",
+  "detail": "",
+  "start": 1642341000000,
+  "end": 1642342800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

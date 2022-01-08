@@ -1,0 +1,23 @@
+{
+  "id": "rks7yxf",
+  "category": "theater",
+  "title": "プリンスロードVOL.7 ～生歌スペシャルライブ～",
+  "fullTitle": "プリンスロードVOL.7 ～生歌スペシャルライブ～",
+  "detail": "３時間放送！スペシャルＭＣ：井上芳雄 ＭＣ：小南満佑子\r\n出演：新納慎也・浦井健治・伊礼彼方・佐藤隆紀（ＬＥ ＶＥＬＶＥＴＳ）ほか",
+  "start": 1642302000000,
+  "end": 1642312800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

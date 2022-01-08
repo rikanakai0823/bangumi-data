@@ -1,0 +1,25 @@
+{
+  "id": "w662y5q",
+  "category": "information",
+  "title": "クリック!日テレプラス",
+  "fullTitle": "[無料]クリック!日テレプラス【1月紹介】",
+  "detail": "『日テレプラス@チャンネル』の放送を記念して、収録前のAppare!のみなさんにインタビュー!メンバーそれぞれの自己紹介でハプニング…!?",
+  "start": 1642279800000,
+  "end": 1642280400000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "1月紹介",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}
