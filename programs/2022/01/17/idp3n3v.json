@@ -1,0 +1,25 @@
+{
+  "id": "idp3n3v",
+  "category": "music",
+  "title": "名曲アルバムボロディン作曲",
+  "fullTitle": "名曲アルバム「ノクターン」ボロディン作曲[SS]",
+  "detail": "ロシアの作曲家ボロディンが、妻への愛を託した曲。生まれつき体の弱い妻に寄り添う、夫の慈愛に満ちたまなざしが切々とつづられている。",
+  "start": 1642366500000,
+  "end": 1642366800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ノクターン",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

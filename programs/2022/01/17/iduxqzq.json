@@ -1,0 +1,25 @@
+{
+  "id": "iduxqzq",
+  "category": "cinema",
+  "title": "フォート・サガン",
+  "fullTitle": "[映]フォート・サガン",
+  "detail": "３大スターが共演した歴史ロマン大作。２０世紀初頭のアフリカを舞台に、フランス軍中尉の愛と戦いを壮大なスケールで描く。",
+  "start": 1642395000000,
+  "end": 1642406400000,
+  "seconds": 11400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

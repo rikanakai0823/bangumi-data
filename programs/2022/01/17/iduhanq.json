@@ -1,0 +1,27 @@
+{
+  "id": "iduhanq",
+  "category": "cinema",
+  "title": "哀愁しんでれら",
+  "fullTitle": "[映]哀愁しんでれら[SS][字]",
+  "detail": "土屋太鳳と田中圭がＷ主演した、戦慄のサスペンス。立て続けに不幸に襲われた児童相談所の女性職員は年上の開業医と結婚するが、その先に思いも寄らない運命が待っていた。",
+  "start": 1642399200000,
+  "end": 1642406400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

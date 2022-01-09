@@ -1,0 +1,26 @@
+{
+  "id": "iduhant",
+  "category": "cinema",
+  "title": "晩春",
+  "fullTitle": "[映]晩春[字]",
+  "detail": "小津安二郎監督が、戦前以来久々に脚本家の野田高梧とのコンビを復活させるとともに、名女優・原節子と初めて組み、戦後の小津映画独特の基調を決定付けた記念すべき名作。",
+  "start": 1642413600000,
+  "end": 1642420800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
