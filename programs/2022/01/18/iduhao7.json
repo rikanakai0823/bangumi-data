@@ -1,0 +1,26 @@
+{
+  "id": "iduhao7",
+  "category": "cinema",
+  "title": "麥秋",
+  "fullTitle": "[映]麥秋[字]",
+  "detail": "小津安二郎監督の「晩春」の姉妹編ともいうべき名作。原節子が扮するヒロインの結婚話をめぐって周囲が気をもむ様子を、本作はより多彩な人間関係の中で軽妙洒脱に描いた。",
+  "start": 1642499100000,
+  "end": 1642507200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "晩春",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

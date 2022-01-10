@@ -1,0 +1,27 @@
+{
+  "id": "iducznm",
+  "category": "cinema",
+  "title": "ハチミツとクローバー",
+  "fullTitle": "[映]ハチミツとクローバー[SS][字]",
+  "detail": "累計発行部数が８００万部を超えた人気コミックを実写映画化。５人の美大生がお互いを想いながらすれ違う恋愛群像を描く青春ラブストーリー。櫻井翔、蒼井優らが共演。",
+  "start": 1642483500000,
+  "end": 1642490700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

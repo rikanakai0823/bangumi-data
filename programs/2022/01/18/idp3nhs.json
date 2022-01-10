@@ -1,0 +1,25 @@
+{
+  "id": "idp3nhs",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「ノーサイドの笛は鳴った」[字]",
+  "detail": "ワールドカップの開催で人気が高まるラグビー。かつて日本選手権で連覇を続けた伝説のチームがあった。その新日鉄釜石ラグビー部の一年に密着取材した貴重なドキュメント。",
+  "start": 1642497000000,
+  "end": 1642500000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ノーサイドの笛は鳴った",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

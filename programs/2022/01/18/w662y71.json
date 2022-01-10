@@ -1,0 +1,25 @@
+{
+  "id": "w662y71",
+  "category": "information",
+  "title": "クリック!日テレプラス",
+  "fullTitle": "[無料]クリック!日テレプラス【1月紹介】",
+  "detail": "紅白初出場も決定し、ノリにノッている純烈の独占インタビュー!「クラブ『純烈』へようこそ!」第3弾放送を前に、第1弾、第2弾の番組制作の裏話が満載!",
+  "start": 1642432800000,
+  "end": 1642433400000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "1月紹介",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

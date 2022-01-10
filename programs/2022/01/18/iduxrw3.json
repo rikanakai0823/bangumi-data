@@ -1,0 +1,25 @@
+{
+  "id": "iduxrw3",
+  "category": "cinema",
+  "title": "警部",
+  "fullTitle": "[映]警部",
+  "detail": "ジャン＝ポール・ベルモンド主演のポリスアクション。南フランスの街を舞台に警察と犯罪組織の癒着を暴く敏腕警部の活躍を描く。",
+  "start": 1642436100000,
+  "end": 1642443000000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

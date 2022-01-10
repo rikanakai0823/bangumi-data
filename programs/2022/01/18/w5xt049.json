@@ -1,0 +1,23 @@
+{
+  "id": "w5xt049",
+  "category": "information",
+  "title": "クイックヘアアレンジ",
+  "fullTitle": "クイックヘアアレンジ",
+  "detail": "毎朝のスタイリングをさっと済ませられるウィッグが登場します。",
+  "start": 1642456800000,
+  "end": 1642460400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

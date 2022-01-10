@@ -1,0 +1,27 @@
+{
+  "id": "iduczno",
+  "category": "cinema",
+  "title": "すくってごらん",
+  "fullTitle": "[映]すくってごらん[SS][字]",
+  "detail": "金魚すくいを題材にした大谷紀子の同名コミックを、ミュージカルタッチで映画化した異色のコメディ。都会の銀行マンが、左遷先の町で不思議な女性と金魚すくいに出会う。",
+  "start": 1642497900000,
+  "end": 1642503600000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
