@@ -1,0 +1,25 @@
+{
+  "id": "idp3q2k",
+  "category": "documentary",
+  "title": "吉田類のにっぽん百低山",
+  "fullTitle": "吉田類のにっぽん百低山[字]",
+  "detail": "",
+  "start": 1642586400000,
+  "end": 1642588200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8piy",
+  "category": "anime",
+  "title": "ミッキーマウス！",
+  "fullTitle": "ミッキーマウス！#8[二]",
+  "detail": "#8「耳は貸せない」",
+  "start": 1642568100000,
+  "end": 1642568400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "耳は貸せない",
+  "episode": 8,
+  "flags": [
+    "二"
+  ]
+}

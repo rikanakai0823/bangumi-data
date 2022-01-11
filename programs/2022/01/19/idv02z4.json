@@ -1,0 +1,27 @@
+{
+  "id": "idv02z4",
+  "category": "cinema",
+  "title": "エクスペンダブルズ２",
+  "fullTitle": "[映][SS][字]エクスペンダブルズ２[吹]",
+  "detail": "豪華肉体派スターが一堂に会したアクション大作の第２弾。傭兵軍団がプルトニウムを巡る壮絶な闘いに巻き込まれる！［ＰＧ１２］",
+  "start": 1642590000000,
+  "end": 1642597200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

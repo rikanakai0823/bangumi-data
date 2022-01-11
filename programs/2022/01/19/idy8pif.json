@@ -1,0 +1,25 @@
+{
+  "id": "idy8pif",
+  "category": "anime",
+  "title": "なんだかんだワンダー",
+  "fullTitle": "なんだかんだワンダー#18[二]",
+  "detail": "#18「デート／相棒」",
+  "start": 1642536000000,
+  "end": 1642537800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "デート／相棒",
+  "episode": 18,
+  "flags": [
+    "二"
+  ]
+}

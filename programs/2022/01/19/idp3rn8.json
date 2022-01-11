@@ -1,0 +1,25 @@
+{
+  "id": "idp3rn8",
+  "category": "hobby",
+  "title": "安藤サクラのほんわか旅",
+  "fullTitle": "安藤サクラのほんわか旅「秋田編」[字]",
+  "detail": "２０２２年１月放送開始の地域応援ドラマ「旅屋おかえり」。放送に先立ち、主演の安藤サクラさんとともに、ロケ地となった秋田県内を旅する特別ミニ番組！",
+  "start": 1642600320000,
+  "end": 1642600800000,
+  "seconds": 480,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "秋田編",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

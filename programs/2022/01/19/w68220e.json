@@ -1,0 +1,25 @@
+{
+  "id": "w68220e",
+  "category": "anime",
+  "title": "オンエアできない！",
+  "fullTitle": "[新]オンエアできない！ #01",
+  "detail": "#01 ADはつらいよ",
+  "start": 1642576560000,
+  "end": 1642576920000,
+  "seconds": 360,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "ADはつらいよ",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp3oiv",
+  "category": "drama",
+  "title": "安藤サクラのほんわか旅",
+  "fullTitle": "安藤サクラのほんわか旅[字]",
+  "detail": "２０２２年１月放送開始の地域応援ドラマ「旅屋おかえり」。放送に先立ち、主演の安藤サクラさんとともに、ロケ地となった愛媛県内子町を旅する特別ミニ番組！",
+  "start": 1642558200000,
+  "end": 1642558500000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "旅屋おかえり",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
