@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "にっぽん！歴史鑑定",
   "fullTitle": "[字]にっぽん！歴史鑑定",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1642424400000,
   "end": 1642427640000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
