@@ -2,7 +2,7 @@
   "id": "idtrehs",
   "category": "information",
   "title": "ごちそうさまのカタチ",
-  "fullTitle": "ごちそうさまのカタチ",
+  "fullTitle": "ごちそうさまのカタチ　#42　卓球",
   "detail": "この番組は、スポーツや芸能、芸術など何かに取り組み頑張っている子どもたちにスポットを当てます。",
   "start": 1642596900000,
   "end": 1642597200000,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 56
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "卓球",
+  "episode": 42,
   "flags": []
 }
