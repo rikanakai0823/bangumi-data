@@ -1,0 +1,25 @@
+{
+  "id": "idp3s84",
+  "category": "documentary",
+  "title": "生中継！新春　雅と粋の京都",
+  "fullTitle": "生中継！新春　雅と粋の京都[再]",
+  "detail": "",
+  "start": 1642577460000,
+  "end": 1642583040000,
+  "seconds": 5580,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
