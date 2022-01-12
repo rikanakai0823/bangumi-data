@@ -1,0 +1,25 @@
+{
+  "id": "idp3plq",
+  "category": "documentary",
+  "title": "ハイビジョン動物記",
+  "fullTitle": "ハイビジョン動物記「ホッキョクグマ」[字]",
+  "detail": "▽カナダ・ハドソン川に集まるホッキョクグマの生態",
+  "start": 1642615500000,
+  "end": 1642616100000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ホッキョクグマ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

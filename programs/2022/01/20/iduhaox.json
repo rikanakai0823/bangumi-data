@@ -1,0 +1,27 @@
+{
+  "id": "iduhaox",
+  "category": "cinema",
+  "title": "早春（１９５６）",
+  "fullTitle": "[初][映]早春（１９５６）[字]",
+  "detail": "世界の映画史上に燦然と輝く名作「東京物語」から２年あまり。名匠・小津安二郎監督が、池部良、淡島千景、岸惠子を主役陣に据え、とある夫婦が直面する危機を描いた秀作。",
+  "start": 1642671000000,
+  "end": 1642680000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "東京物語",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

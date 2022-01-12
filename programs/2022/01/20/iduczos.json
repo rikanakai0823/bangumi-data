@@ -1,0 +1,26 @@
+{
+  "id": "iduczos",
+  "category": "cinema",
+  "title": "ドレミファ娘の血は騒ぐ",
+  "fullTitle": "[映]ドレミファ娘の血は騒ぐ[字]",
+  "detail": "東京の某大学を訪れた少女がそこで自ら体験することになったのは、過激でハレンチな実験だった……。黒沢清監督が洞口依子、伊丹十三の共演で放った、いわく付きの問題作。",
+  "start": 1642651200000,
+  "end": 1642656600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

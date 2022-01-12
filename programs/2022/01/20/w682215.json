@@ -1,0 +1,25 @@
+{
+  "id": "w682215",
+  "category": "anime",
+  "title": "CUE!",
+  "fullTitle": "CUE! #02 [字]",
+  "detail": "#02 それぞれの色",
+  "start": 1642636800000,
+  "end": 1642638600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "それぞれの色",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}
