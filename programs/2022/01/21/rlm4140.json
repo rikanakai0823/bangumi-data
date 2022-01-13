@@ -1,0 +1,23 @@
+{
+  "id": "rlm4140",
+  "category": "sports",
+  "title": "新日本プロレス 2021.12.3所沢市民体育館",
+  "fullTitle": "新日本プロレス 2021.12.3所沢市民体育館",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1642698000000,
+  "end": 1642707000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": null,
+  "flags": []
+}

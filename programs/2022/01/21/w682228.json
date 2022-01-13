@@ -1,0 +1,25 @@
+{
+  "id": "w682228",
+  "category": "anime",
+  "title": "錆色のアーマ -黎明-",
+  "fullTitle": "錆色のアーマ -黎明- #02 [字]",
+  "detail": "#02 赤橙の誓い",
+  "start": 1642710600000,
+  "end": 1642712400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "赤橙の誓い",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

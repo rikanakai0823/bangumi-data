@@ -1,0 +1,26 @@
+{
+  "id": "idvj4oe",
+  "category": "news",
+  "title": "報道ライブ インサイドOUT",
+  "fullTitle": "報道ライブ インサイドOUT[Ｎ][デ]",
+  "detail": "",
+  "start": 1642766340000,
+  "end": 1642769640000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "Ｎ",
+    "デ"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "381sxrgof0",
+  "category": "drama",
+  "title": "金曜ドラマ",
+  "fullTitle": "[新]金曜ドラマ「妻、小学生になる。」第１話[字][デ]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/tsuma_sho_tbs/\r\n\r\n◇twitter\r\n@tsumasho_TBS\r\nhttps://twitter.com/tsumasho_TBS",
+  "start": 1642770000000,
+  "end": 1642774500000,
+  "seconds": 4500,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/tsuma_sho_tbs/\r\n\r\n◇twitter\r\n@tsumasho_TBS\r\nhttps://twitter.com/tsumasho_TBS"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "妻、小学生になる。",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字",
+    "デ"
+  ]
+}

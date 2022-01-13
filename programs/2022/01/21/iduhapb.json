@@ -1,0 +1,27 @@
+{
+  "id": "iduhapb",
+  "category": "cinema",
+  "title": "東京暮色",
+  "fullTitle": "[初][映]東京暮色[字]",
+  "detail": "絶えず家族を題材に描き続けた名匠・小津安二郎監督が、本作では、母に家出されたとある一家の悲劇を痛切極まりないタッチで描写。彼の作品群の中でも暗さが際立つ異色作。",
+  "start": 1642757400000,
+  "end": 1642766400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "字"
+  ]
+}

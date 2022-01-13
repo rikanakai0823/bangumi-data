@@ -1,0 +1,25 @@
+{
+  "id": "rktf4j4",
+  "category": "variety",
+  "title": "E'LAST スーパーヒーロー",
+  "fullTitle": "E'LAST スーパーヒーロー #4(終)",
+  "detail": "8人組ボーイズグループ E'LASTの初単独リアリティ番組！\r\n全4回\r\n放送日：(金)22:00～",
+  "start": 1642770000000,
+  "end": 1642773600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": [
+    "終"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvy5e",
+  "category": "cinema",
+  "title": "ストックホルム・ケース",
+  "fullTitle": "[映][SS]ストックホルム・ケース",
+  "detail": "イーサン・ホークの主演のクライムドラマ。“ストックホルム症候群”の語源となった、スウェーデンの歴史的強盗事件を描く。",
+  "start": 1642725000000,
+  "end": 1642731300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

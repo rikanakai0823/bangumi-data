@@ -1,0 +1,25 @@
+{
+  "id": "idvj4ob",
+  "category": "anime",
+  "title": "機動戦士ガンダム",
+  "fullTitle": "機動戦士ガンダム[終]第43話「脱出」",
+  "detail": "連邦軍はモビルスーツ隊をア・バオア・クー内へ進入させようとしていた。ホワイトベースはエンジンに直撃を受けて要塞内で停止し、白兵戦が開始された。",
+  "start": 1642761000000,
+  "end": 1642762800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "脱出",
+  "episode": 43,
+  "flags": [
+    "終"
+  ]
+}
