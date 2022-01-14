@@ -1,9 +1,9 @@
 {
   "id": "idtregc",
   "category": "information",
-  "title": "植野食堂 by dancyu　麻婆茄子",
-  "fullTitle": "植野食堂 by dancyu　麻婆茄子",
-  "detail": "雑誌「dancyu」編集長・植野広生が目指すのは、日本一ふつうで美味しい料理が並ぶ食堂の開店！",
+  "title": "植野食堂 by dancyu",
+  "fullTitle": "植野食堂 by dancyu #157 麻婆なす",
+  "detail": "雑誌「dancyu」編集長・植野広生が目指すのは、日本一ふつうで美味しい料理が並ぶ食堂の開店！本日は東京・蒲田「歓迎」さんの「麻婆なす」を学ぶ。",
   "start": 1642500000000,
   "end": 1642501800000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 56
   },
-  "subTitle": "dancyu",
-  "episode": null,
+  "subTitle": "麻婆なす",
+  "episode": 157,
   "flags": []
 }
