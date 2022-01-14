@@ -1,0 +1,23 @@
+{
+  "id": "idozeu1",
+  "category": "etc",
+  "title": "Ｗｈｅｒｅ　Ｗｅ　Ｃａｌｌ　Ｈｏｍｅ",
+  "fullTitle": "Ｗｈｅｒｅ　Ｗｅ　Ｃａｌｌ　Ｈｏｍｅ",
+  "detail": "",
+  "start": 1642845600000,
+  "end": 1642848600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

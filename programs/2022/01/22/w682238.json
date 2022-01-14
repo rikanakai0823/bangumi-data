@@ -1,0 +1,23 @@
+{
+  "id": "w682238",
+  "category": "anime",
+  "title": "R指定アニメ！",
+  "fullTitle": "R指定アニメ！ #07",
+  "detail": "【再放送】\r\n#07『ARIA』生放送スペシャル",
+  "start": 1642793400000,
+  "end": 1642798800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "再放送",
+  "episode": 7,
+  "flags": []
+}

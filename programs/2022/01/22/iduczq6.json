@@ -1,0 +1,25 @@
+{
+  "id": "iduczq6",
+  "category": "music",
+  "title": "ＹＯＡＳＯＢＩ　Ｌｉｖｅ　Ｓｅｌｅｃｔｉｏｎ",
+  "fullTitle": "[初]ＹＯＡＳＯＢＩ　Ｌｉｖｅ　Ｓｅｌｅｃｔｉｏｎ",
+  "detail": "ＹＯＡＳＯＢＩの過去２回行なわれた無観客生配信ライブから厳選したライブ映像と本人インタビューで構成されるスペシャルな番組を放送！",
+  "start": 1642845600000,
+  "end": 1642849200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

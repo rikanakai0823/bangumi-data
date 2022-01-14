@@ -1,0 +1,27 @@
+{
+  "id": "iduhapn",
+  "category": "cinema",
+  "title": "るろうに剣心　伝説の最期編",
+  "fullTitle": "[映]るろうに剣心　伝説の最期編[SS][字]",
+  "detail": "人気コミック原作の「るろうに剣心」シリーズ第３作で、前作「～京都大火編」にとっては後編にあたる。佐藤健、武井咲、神木隆之介、福山雅治、藤原竜也ら豪華布陣が共演。",
+  "start": 1642840200000,
+  "end": 1642849200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

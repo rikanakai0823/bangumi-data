@@ -1,0 +1,25 @@
+{
+  "id": "w63j34o",
+  "category": "sports",
+  "title": "KOSUKE KITAJIMA CUP 2022 2日目",
+  "fullTitle": "[生]KOSUKE KITAJIMA CUP 2022 2日目(2)",
+  "detail": "～生中継　～東京辰巳国際水泳場\r\n実況：鈴木健　田中毅　加藤暁　筒井大輔　ほか",
+  "start": 1642825800000,
+  "end": 1642831200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv0c2u",
+  "category": "cinema",
+  "title": "サンダーバード６号ＮＨＫ版",
+  "fullTitle": "[映]サンダーバード６号[吹]ＮＨＫ版",
+  "detail": "スーパーマリオネーションによる大ヒットＳＦシリーズ劇場版第２弾。陰謀に巻き込まれた最新飛行船を国際救助隊が救出に向かう。",
+  "start": 1642831800000,
+  "end": 1642837800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

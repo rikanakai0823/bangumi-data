@@ -1,0 +1,25 @@
+{
+  "id": "idy8pmd",
+  "category": "anime",
+  "title": "セイディ・スパークス",
+  "fullTitle": "セイディ・スパークス#17[二]",
+  "detail": "#17「歌姫セイディ／踊って！ルル」",
+  "start": 1642818300000,
+  "end": 1642819800000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "歌姫セイディ／踊って！ルル",
+  "episode": 17,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idvj4p7",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第２部",
+  "fullTitle": "[生][デ]ＢＳイレブン競馬中継　第２部",
+  "detail": "【小倉】１２Ｒ\r\n【中京】１２Ｒ\r\n【中山】１２Ｒ",
+  "start": 1642834800000,
+  "end": 1642840200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "小倉",
+  "episode": null,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}
