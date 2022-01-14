@@ -1,0 +1,25 @@
+{
+  "id": "idp0oow",
+  "category": "documentary",
+  "title": "富士山・雲を生む山",
+  "fullTitle": "富士山・雲を生む山[字]",
+  "detail": "【語り】久保田祐佳",
+  "start": 1642141500000,
+  "end": 1642142400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "語り",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
