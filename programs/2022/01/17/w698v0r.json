@@ -1,0 +1,25 @@
+{
+  "id": "w698v0r",
+  "category": "documentary",
+  "title": "50度の世界",
+  "fullTitle": "50度の世界(再)",
+  "detail": "カナダは昨夏、記録的な熱波と多くの山火事に見舞われた。被災した地域はさらに気温が上昇するとされる不確かな未来にどう備えればいいのだろうか。",
+  "start": 1642365000000,
+  "end": 1642366800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
