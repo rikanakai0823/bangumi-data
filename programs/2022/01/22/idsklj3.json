@@ -3,10 +3,14 @@
   "category": "anime",
   "title": "ＣＵＥ！",
   "fullTitle": "ＣＵＥ！＃３",
-  "detail": "第三話「この出会いは運命」",
+  "detail": "第三話「この出会いは運命」\n◇制作\n2022年",
   "start": 1642786200000,
   "end": 1642788000000,
   "seconds": 1800,
+  "description": "第三話「この出会いは運命」",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
