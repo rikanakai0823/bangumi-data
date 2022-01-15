@@ -1,0 +1,25 @@
+{
+  "id": "idozje6",
+  "category": "news",
+  "title": "四国推し！　とさ金",
+  "fullTitle": "四国推し！　とさ金「あなたの記憶を消させない」[字]",
+  "detail": "",
+  "start": 1642692960000,
+  "end": 1642694580000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "あなたの記憶を消させない",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
