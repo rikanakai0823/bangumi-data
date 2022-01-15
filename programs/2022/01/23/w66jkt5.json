@@ -1,0 +1,25 @@
+{
+  "id": "w66jkt5",
+  "category": "music",
+  "title": "オールナイト声優フジ4夜",
+  "fullTitle": "[生]オールナイト声優フジ4夜",
+  "detail": "番組MCは、大人気声優・森久保祥太郎！\r\n人気若手声優が集結する生放送番組第4弾！フジテレビ本社スタジオから4時間【完全生放送】",
+  "start": 1642863600000,
+  "end": 1642878000000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

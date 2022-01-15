@@ -1,0 +1,26 @@
+{
+  "id": "idp3pqk",
+  "category": "variety",
+  "title": "笑う洋楽展",
+  "fullTitle": "笑う洋楽展「降る降る」[字][再]",
+  "detail": "みうらじゅんと安齋肇の２人が、さまざまな洋楽ビデオを鑑賞しながらトークを繰り広げる洋楽バラエティー番組。今回のテーマは「降る降る」。",
+  "start": 1642870980000,
+  "end": 1642872720000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "降る降る",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

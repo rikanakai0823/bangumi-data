@@ -1,0 +1,26 @@
+{
+  "id": "iduyap2",
+  "category": "cinema",
+  "title": "キャッツ",
+  "fullTitle": "[映][SS]キャッツ",
+  "detail": "大ヒットミュージカルを豪華スターの共演で実写映画化。満月の夜、ロンドンの片隅で個性豊かな猫たちが舞踏会を繰り広げる。",
+  "start": 1642947000000,
+  "end": 1642954200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

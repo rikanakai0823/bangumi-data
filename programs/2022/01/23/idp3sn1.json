@@ -1,0 +1,25 @@
+{
+  "id": "idp3sn1",
+  "category": "music",
+  "title": "世界最高峰に挑む！若きピアニストたちの競演～",
+  "fullTitle": "世界最高峰に挑む！若きピアニストたちの競演～[字]",
+  "detail": "",
+  "start": 1642903200000,
+  "end": 1642910400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

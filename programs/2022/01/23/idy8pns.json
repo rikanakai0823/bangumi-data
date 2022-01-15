@@ -1,0 +1,25 @@
+{
+  "id": "idy8pns",
+  "category": "anime",
+  "title": "バンザイ！キング・ジュリアン",
+  "fullTitle": "バンザイ！キング・ジュリアン#60[二]",
+  "detail": "#60「フォッサの船」",
+  "start": 1642921200000,
+  "end": 1642923000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "フォッサの船",
+  "episode": 60,
+  "flags": [
+    "二"
+  ]
+}

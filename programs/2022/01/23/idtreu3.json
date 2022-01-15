@@ -1,0 +1,25 @@
+{
+  "id": "idtreu3",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　アメリカJCC（GⅡ）　東海S（GⅡ）",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　アメリカJCC（GⅡ）　東海S（GⅡ）",
+  "detail": "アメリカJCC（GⅡ）東海ステークス（GⅡ）小倉：豊前ステークス／解説：横山英二（競馬エイト）ゲスト：横山ルリカ／春GⅠに向けて東西で重要GⅡ",
+  "start": 1642917600000,
+  "end": 1642921200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

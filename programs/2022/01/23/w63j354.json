@@ -1,0 +1,25 @@
+{
+  "id": "w63j354",
+  "category": "sports",
+  "title": "KOSUKE KITAJIMA CUP 2022 3日目",
+  "fullTitle": "[生]KOSUKE KITAJIMA CUP 2022 3日目",
+  "detail": "～生中継　～東京辰巳国際水泳場\r\n解説：松田丈志　実況：鈴木健　田中毅　加藤暁　筒井大輔　ほか　ゲスト：北島康介",
+  "start": 1642919400000,
+  "end": 1642926600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduyabg",
+  "category": "cinema",
+  "title": "マイノリティ・リポート",
+  "fullTitle": "[映][SS]マイノリティ・リポート",
+  "detail": "Ｐ・Ｋ・ディック原作、スピルバーグ×Ｔ・クルーズのＳＦアクション。殺人事件を起こすと予知された犯罪予防局員の逃亡劇。",
+  "start": 1642929600000,
+  "end": 1642939200000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

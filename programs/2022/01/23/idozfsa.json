@@ -1,0 +1,27 @@
+{
+  "id": "idozfsa",
+  "category": "information",
+  "title": "おいしい東京",
+  "fullTitle": "おいしい東京「和のフルーツ」[二][字][再]",
+  "detail": "深い酸味と爽やかな香り「柚子」▽柑橘類の中でも抜群の甘さを誇る「みかん」▽柿渋や柿の葉など果実以外の部分も古から生活に利用されてきた「柿」",
+  "start": 1642896000000,
+  "end": 1642899000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "和のフルーツ",
+  "episode": null,
+  "flags": [
+    "二",
+    "字",
+    "再"
+  ]
+}

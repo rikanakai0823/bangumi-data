@@ -1,0 +1,23 @@
+{
+  "id": "idvj4qk",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "当日の中央競馬レース結果と、ＧⅡ『アメリカＪＣＣ』（中山）とＧⅡ『東海ステークス』（中京）を振り返ります。",
+  "start": 1642946400000,
+  "end": 1642948200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
