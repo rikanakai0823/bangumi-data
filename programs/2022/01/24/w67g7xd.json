@@ -1,0 +1,23 @@
+{
+  "id": "w67g7xd",
+  "category": "music",
+  "title": "東京事変 ビデオ&ライブ特集",
+  "fullTitle": "東京事変 ビデオ&ライブ特集",
+  "detail": "東京事変のミュージックビデオと厳選ライブ映像をお届けする。",
+  "start": 1643018400000,
+  "end": 1643022000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

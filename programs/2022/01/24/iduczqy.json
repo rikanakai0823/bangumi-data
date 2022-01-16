@@ -1,0 +1,27 @@
+{
+  "id": "iduczqy",
+  "category": "cinema",
+  "title": "テルマエ・ロマエ",
+  "fullTitle": "[映]テルマエ・ロマエ[SS][字]",
+  "detail": "古代ローマ人が現代の日本の風呂にタイムスリップし、ローマの風呂に変革をもたらす。阿部寛らがローマ人の役に挑み、大ヒットして続編も作られた話題の奇想天外コメディ。",
+  "start": 1642994400000,
+  "end": 1643001000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduhaqc",
+  "category": "cinema",
+  "title": "黄色い涙",
+  "fullTitle": "[映]黄色い涙[字]",
+  "detail": "人気グループ、嵐の５人がそろって主演した、ヒューマン青春群像劇。１９６３年の東京を舞台に、漫画家になる夢を持つ者など若者５人の交流・友情を描写。監督は犬童一心。",
+  "start": 1642995000000,
+  "end": 1643002800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

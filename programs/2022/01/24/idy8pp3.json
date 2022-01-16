@@ -1,0 +1,25 @@
+{
+  "id": "idy8pp3",
+  "category": "anime",
+  "title": "ダックテイルズ",
+  "fullTitle": "ダックテイルズ#33[二]",
+  "detail": "#33「魔法のランプの伝説！」",
+  "start": 1643004000000,
+  "end": 1643005800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "魔法のランプの伝説！",
+  "episode": 33,
+  "flags": [
+    "二"
+  ]
+}

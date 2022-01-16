@@ -1,0 +1,23 @@
+{
+  "id": "rkdrata",
+  "category": "information",
+  "title": "フレンチの家庭料理ビストロエガリテ",
+  "fullTitle": "フレンチの家庭料理ビストロエガリテ",
+  "detail": "濃厚なモルネーソースが海老やマカロニ、チーズと絡んだ絶品グラタンや本格ハンバーグなど、こだわりグルメをご紹介。デザートも楽しみ♪",
+  "start": 1643025600000,
+  "end": 1643029200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

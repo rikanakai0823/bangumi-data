@@ -1,0 +1,23 @@
+{
+  "id": "rlm41bd",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.楽天",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.楽天",
+  "detail": "開催日：2021年10月6日\r\n先発：マルティネス",
+  "start": 1642993200000,
+  "end": 1643010600000,
+  "seconds": 17400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

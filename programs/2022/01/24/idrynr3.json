@@ -1,0 +1,23 @@
+{
+  "id": "idrynr3",
+  "category": "news",
+  "title": "クロージング",
+  "fullTitle": "クロージング",
+  "detail": "番組の説明はありません",
+  "start": 1642959000000,
+  "end": 1642959060000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
