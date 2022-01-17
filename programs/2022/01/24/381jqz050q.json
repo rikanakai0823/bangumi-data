@@ -2,11 +2,15 @@
   "id": "381jqz050q",
   "category": "information",
   "title": "きょうの料理",
-  "fullTitle": "きょうの料理[字]",
-  "detail": "",
+  "fullTitle": "きょうの料理「白崎裕子のはじめてのパン」[字]",
+  "detail": "【講師】白崎裕子，【司会】廣瀬智美\n◇出演者\n【講師】白崎裕子，【司会】廣瀬智美",
   "start": 1643025600000,
   "end": 1643027100000,
   "seconds": 1500,
+  "description": "【講師】白崎裕子，【司会】廣瀬智美",
+  "extra": {
+    "出演者": "【講師】白崎裕子，【司会】廣瀬智美"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "白崎裕子のはじめてのパン",
   "episode": null,
   "flags": [
     "字"
