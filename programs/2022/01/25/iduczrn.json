@@ -1,0 +1,26 @@
+{
+  "id": "iduczrn",
+  "category": "cinema",
+  "title": "東京公園",
+  "fullTitle": "[映]東京公園[字]",
+  "detail": "作家や舞台の演出家としても活躍する青山真治監督が、三浦春馬、井川遥を筆頭に豪華キャスト陣を得て、小路幸也による同名小説を映画化した、爽やかな青春ラブストーリー。",
+  "start": 1643108400000,
+  "end": 1643115900000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

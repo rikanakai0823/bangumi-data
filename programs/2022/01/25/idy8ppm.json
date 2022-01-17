@@ -1,0 +1,25 @@
+{
+  "id": "idy8ppm",
+  "category": "anime",
+  "title": "ザ・ペンギンズ　from　マダガスカル#67,#68",
+  "fullTitle": "ザ・ペンギンズ　from　マダガスカル#67,#68[二]",
+  "detail": "#67「チームワーク強化週間　/　ムービーデー」　#68「夢のフィロス」",
+  "start": 1643040000000,
+  "end": 1643043600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "チームワーク強化週間　/　ムービーデー",
+  "episode": 67,
+  "flags": [
+    "二"
+  ]
+}

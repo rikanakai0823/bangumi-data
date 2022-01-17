@@ -1,0 +1,23 @@
+{
+  "id": "rlm41bi",
+  "category": "sports",
+  "title": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.オリックス",
+  "fullTitle": "【アンコール】HAWKS プロ野球中継2021 ソフトバンクvs.オリックス",
+  "detail": "開催日：2021年10月10日\r\nデスパイネとリチャードにホームランが飛び出し、先発千賀が8回1失点の好投で8勝目をあげた一戦。",
+  "start": 1643097600000,
+  "end": 1643113800000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

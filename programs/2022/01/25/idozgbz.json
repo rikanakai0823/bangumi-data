@@ -1,0 +1,25 @@
+{
+  "id": "idozgbz",
+  "category": "information",
+  "title": "ＢＳコンシェルジュ",
+  "fullTitle": "ＢＳコンシェルジュ「魔改造の夜　～伊集院光～」[字]",
+  "detail": "【ゲスト】伊集院光，【司会】丘みどり，山田賢治，【語り】安井絵里",
+  "start": 1643086800000,
+  "end": 1643088300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "魔改造の夜　～伊集院光～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
