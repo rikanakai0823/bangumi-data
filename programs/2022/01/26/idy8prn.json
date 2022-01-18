@@ -1,0 +1,25 @@
+{
+  "id": "idy8prn",
+  "category": "anime",
+  "title": "チップとデールの大作戦",
+  "fullTitle": "チップとデールの大作戦#6[二]",
+  "detail": "#6「ヒーローはつらいよ」",
+  "start": 1643166000000,
+  "end": 1643167800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ヒーローはつらいよ",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}

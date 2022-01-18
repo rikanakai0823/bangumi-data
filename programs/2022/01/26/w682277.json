@@ -1,0 +1,25 @@
+{
+  "id": "w682277",
+  "category": "anime",
+  "title": "殺し愛",
+  "fullTitle": "殺し愛 #02 [字]",
+  "detail": "#02 TARGET",
+  "start": 1643182200000,
+  "end": 1643184000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "TARGET",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

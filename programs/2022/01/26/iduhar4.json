@@ -1,0 +1,27 @@
+{
+  "id": "iduhar4",
+  "category": "cinema",
+  "title": "恋空",
+  "fullTitle": "[映]恋空[SS][字]",
+  "detail": "新垣結衣、三浦春馬という当時若手だったスター陣を主演に、過酷な試練に直面する高校生カップルの熱い純愛を描写。ケータイ小説のベストセラーを映画化した人気日本映画。",
+  "start": 1643183100000,
+  "end": 1643190900000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

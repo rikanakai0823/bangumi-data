@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kkec",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「サルビア特別」「第２５回　ＴＣＫ女王盃（ＪｐｎⅢ）」「汐見坂賞」",
+  "start": 1643178000000,
+  "end": 1643184000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "ＴＣＫ女王盃（ＪｐｎⅢ）",
+  "episode": 25,
+  "flags": []
+}

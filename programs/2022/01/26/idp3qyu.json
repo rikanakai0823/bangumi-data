@@ -1,0 +1,26 @@
+{
+  "id": "idp3qyu",
+  "category": "documentary",
+  "title": "歩くひと",
+  "fullTitle": "歩くひと（１１）「足音」[字][再]",
+  "detail": "「男が家を出て、見知らぬ土地に迷い込み、そして家に戻ってくる」だけの異色の“散歩ドラマ”。最後に迷い込んだ場所も明かされます。角を曲がればファンタジー。",
+  "start": 1643206500000,
+  "end": 1643208300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "足音",
+  "episode": 11,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

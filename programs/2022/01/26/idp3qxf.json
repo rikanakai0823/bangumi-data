@@ -1,0 +1,25 @@
+{
+  "id": "idp3qxf",
+  "category": "information",
+  "title": "ＢＳコンシェルジュ",
+  "fullTitle": "ＢＳコンシェルジュ「魔改造の夜　～伊集院光～」[字]",
+  "detail": "超一流のエンジニアたちが極限のアイデアとテクニックを競う技術開発エンタメ番組「魔改造の夜」を紹介。伊集院光さんをゲストに、番組の魅力や最新回の見どころを伺う。",
+  "start": 1643139300000,
+  "end": 1643140800000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "魔改造の夜　～伊集院光～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
