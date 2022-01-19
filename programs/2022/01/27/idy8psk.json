@@ -1,0 +1,25 @@
+{
+  "id": "idy8psk",
+  "category": "anime",
+  "title": "なんだかんだワンダー",
+  "fullTitle": "なんだかんだワンダー#24[二]",
+  "detail": "#24「緊急連絡先／ワンダーボーイ」",
+  "start": 1643227200000,
+  "end": 1643229000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "緊急連絡先／ワンダーボーイ",
+  "episode": 24,
+  "flags": [
+    "二"
+  ]
+}

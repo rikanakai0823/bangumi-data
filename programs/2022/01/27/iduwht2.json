@@ -1,0 +1,26 @@
+{
+  "id": "iduwht2",
+  "category": "cinema",
+  "title": "タイガー・バレット",
+  "fullTitle": "[映][SS]タイガー・バレット",
+  "detail": "インド発の痛快アクション。元恋人から行方不明になった娘の捜索を依頼された男が、警察や軍を巻き込む陰謀に単身立ち向かう。",
+  "start": 1643275800000,
+  "end": 1643284800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

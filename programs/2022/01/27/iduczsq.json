@@ -1,0 +1,26 @@
+{
+  "id": "iduczsq",
+  "category": "cinema",
+  "title": "ミナリ（吹替版）",
+  "fullTitle": "[映]ミナリ（吹替版）[字]",
+  "detail": "第９３回アカデミー賞でユン・ヨジョンが助演女優賞を受賞するなど高い評価を受けたホームドラマ。韓国から米国アーカンソー州に移住した一家とその祖母の喜怒哀楽を描く。",
+  "start": 1643274000000,
+  "end": 1643281200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 93,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

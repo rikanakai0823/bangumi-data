@@ -1,0 +1,23 @@
+{
+  "id": "w698v2c",
+  "category": "news",
+  "title": "コンテキスト",
+  "fullTitle": "コンテキスト",
+  "detail": "クリスチャン・フレイザーが司会を務める新番組。政治的立場の異なるゲストたちが、その日最も重要な国際ニュースについて議論する。",
+  "start": 1643232600000,
+  "end": 1643234400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

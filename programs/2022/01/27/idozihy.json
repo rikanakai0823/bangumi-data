@@ -1,0 +1,26 @@
+{
+  "id": "idozihy",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「霊峰に墜ちたＢ－２９」[字][再]",
+  "detail": "奈良県の霊峰、大峯山からＢ－２９のエンジンが掘り起こされた。山の麓に暮らすアメリカ人青年がその真相を追う。その過程で見えてきた、知られざるＢ－２９の物語。",
+  "start": 1643211600000,
+  "end": 1643214600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "霊峰に墜ちたＢ－２９",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
