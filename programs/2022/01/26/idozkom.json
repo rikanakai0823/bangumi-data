@@ -2,7 +2,7 @@
   "id": "idozkom",
   "category": "sports",
   "title": "もう一度見たい！心ふるわす冬のオリンピック物語",
-  "fullTitle": "もう一度見たい！心ふるわす冬のオリンピック物語",
+  "fullTitle": "もう一度見たい！心ふるわす冬のオリンピック物語[字]",
   "detail": "",
   "start": 1643204400000,
   "end": 1643205000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
