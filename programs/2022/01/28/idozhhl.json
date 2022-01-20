@@ -1,0 +1,26 @@
+{
+  "id": "idozhhl",
+  "category": "documentary",
+  "title": "スポーツ×ヒューマン",
+  "fullTitle": "スポーツ×ヒューマン「１７歳　楽しんで強くなる　モーグル・川村あんり」[字][再]",
+  "detail": "今シーズン、モーグルのワールドカップで初優勝を果たした、川村あんり選手。北京五輪でメダルの期待高まる１７歳だ。",
+  "start": 1643378400000,
+  "end": 1643381100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "１７歳　楽しんで強くなる　モーグル・川村あんり",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduharn",
+  "category": "cinema",
+  "title": "シャフト（字幕版）",
+  "fullTitle": "[映]シャフト（字幕版）[SS]",
+  "detail": "タフな刑事の活躍を描いて公開当時、大ブームを起こした１９７０年代のアクションの快作「黒いジャガー」。それをスタイリッシュな映像でリメイクした、注目の痛快な１本。",
+  "start": 1643302800000,
+  "end": 1643309100000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "黒いジャガー",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

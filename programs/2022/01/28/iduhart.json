@@ -1,0 +1,26 @@
+{
+  "id": "iduhart",
+  "category": "cinema",
+  "title": "スパイ・ウルトラ（字幕版）",
+  "fullTitle": "[映]スパイ・ウルトラ（字幕版）[SS]",
+  "detail": "ゲーム開発者の青年は常夏の国でスパイたちの戦いに巻き込まれ……。米国のスターたちが、メキシコのリゾート地アカプルコに渡って出演した痛快スパイアクションコメディ。",
+  "start": 1643335200000,
+  "end": 1643340600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
