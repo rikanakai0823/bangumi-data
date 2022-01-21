@@ -1,0 +1,25 @@
+{
+  "id": "iduwnzh",
+  "category": "cinema",
+  "title": "無双の鉄拳",
+  "fullTitle": "[映]無双の鉄拳",
+  "detail": "マ・ドンソク主演。誘拐された妻を取り戻すため、拳一つで敵をなぎ倒す無双の男を描く痛快クライム・アクション。",
+  "start": 1643442300000,
+  "end": 1643450400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idrd1wj",
+  "category": "news",
+  "title": "皇室日記",
+  "fullTitle": "皇室日記　＃１６",
+  "detail": "歌会始ほか、皇室の皆さまの新年のご様子をお伝えします。",
+  "start": 1643418000000,
+  "end": 1643418900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": 16,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduhas2",
+  "category": "cinema",
+  "title": "クロスマネー（字幕版）",
+  "fullTitle": "[映]クロスマネー（字幕版）[SS]",
+  "detail": "閉店間際の銀行で強盗事件に巻き込まれたシングルマザー。ＩＱ１６７を誇る彼女は、この状況を脱すべく頭脳をフル回転させる。秀逸なトリックに注目の犯罪アクション。",
+  "start": 1643390100000,
+  "end": 1643397300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

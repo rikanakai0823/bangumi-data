@@ -1,0 +1,23 @@
+{
+  "id": "idp1pdn",
+  "category": "sports",
+  "title": "ジャンプワールドカップ２０２１－２２　混合団体",
+  "fullTitle": "ジャンプワールドカップ２０２１－２２　混合団体",
+  "detail": "",
+  "start": 1643382000000,
+  "end": 1643382600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iducztx",
+  "category": "cinema",
+  "title": "フライト・ゲーム（吹替版）",
+  "fullTitle": "[映]フライト・ゲーム（吹替版）[字]",
+  "detail": "Ｌ・ニーソン主演の航空パニックアクション。大西洋上空の航空機内で航空保安官に脅迫メールが届く。やがて予告通りに連続殺人が起こり、保安官は姿なき犯人を追うが？",
+  "start": 1643423400000,
+  "end": 1643430000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

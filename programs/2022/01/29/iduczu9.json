@@ -1,0 +1,25 @@
+{
+  "id": "iduczu9",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４７２",
+  "detail": "",
+  "start": 1643460300000,
+  "end": 1643461200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 472,
+  "flags": [
+    "無"
+  ]
+}

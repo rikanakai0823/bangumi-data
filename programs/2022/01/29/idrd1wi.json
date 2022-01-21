@@ -1,0 +1,25 @@
+{
+  "id": "idrd1wi",
+  "category": "music",
+  "title": "読響プレミア",
+  "fullTitle": "[SS]読響プレミア",
+  "detail": "",
+  "start": 1643406300000,
+  "end": 1643410800000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}
