@@ -2,11 +2,15 @@
   "id": "idp3rqw",
   "category": "documentary",
   "title": "新日本風土記",
-  "fullTitle": "新日本風土記[字]",
-  "detail": "",
+  "fullTitle": "新日本風土記「山形　庄内」[字]",
+  "detail": "【語り】松たか子，中條誠子，井上二郎\n◇出演者\n【語り】松たか子，中條誠子，井上二郎",
   "start": 1643371200000,
   "end": 1643374800000,
   "seconds": 3600,
+  "description": "【語り】松たか子，中條誠子，井上二郎",
+  "extra": {
+    "出演者": "【語り】松たか子，中條誠子，井上二郎"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS03_1",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 42
   },
-  "subTitle": "",
+  "subTitle": "山形　庄内",
   "episode": null,
   "flags": [
     "字"
