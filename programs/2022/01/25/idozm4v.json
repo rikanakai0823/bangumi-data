@@ -1,0 +1,27 @@
+{
+  "id": "idozm4v",
+  "category": "information",
+  "title": "おいしい東京",
+  "fullTitle": "おいしい東京「発見！ＴＯＫＹＯ産」[二][字][再]",
+  "detail": "もんじゃ焼きの味を決める「ソース」▽江戸前寿司に欠かせない「わさび」▽希少なニホンミツバチの「はちみつ」▽八丈島の珍味「くさや」",
+  "start": 1643083200000,
+  "end": 1643086200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "発見！ＴＯＫＹＯ産",
+  "episode": null,
+  "flags": [
+    "二",
+    "字",
+    "再"
+  ]
+}
