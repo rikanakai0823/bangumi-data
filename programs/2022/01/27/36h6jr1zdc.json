@@ -2,11 +2,15 @@
   "id": "36h6jr1zdc",
   "category": "information",
   "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン",
-  "detail": "",
+  "fullTitle": "ショップジャパン[Ｓ]",
+  "detail": "◇番組内容\nクックフリー　０１２０－４４－００２７",
   "start": 1643261400000,
   "end": 1643263200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "クックフリー　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
