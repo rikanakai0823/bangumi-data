@@ -1,0 +1,25 @@
+{
+  "id": "idtrf2i",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　根岸S（GⅢ）シルクロードS（GⅢ）",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　根岸S（GⅢ）シルクロードS（GⅢ）",
+  "detail": "根岸S（GⅢ）シルクロードS（GⅢ）小倉：巌流島S／ゲスト：山本隆弘（元バレーボール日本代表）解説：沢田知希（競馬エイト）／今週から東京開催\r\n",
+  "start": 1643522400000,
+  "end": 1643526000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

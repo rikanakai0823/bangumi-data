@@ -1,0 +1,25 @@
+{
+  "id": "idsjwpv",
+  "category": "etc",
+  "title": "麺鉄",
+  "fullTitle": "[字]麺鉄",
+  "detail": "",
+  "start": 1643544000000,
+  "end": 1643550840000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

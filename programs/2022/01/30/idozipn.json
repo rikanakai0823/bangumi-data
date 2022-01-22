@@ -1,0 +1,26 @@
+{
+  "id": "idozipn",
+  "category": "information",
+  "title": "おいしい東京",
+  "fullTitle": "おいしい東京「里山の恵み」[二][字]",
+  "detail": "「山菜」「松茸」「筍」「椎茸」「自然薯（山芋）」▽和食に欠かせない食材を紹介",
+  "start": 1643540400000,
+  "end": 1643543400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "里山の恵み",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

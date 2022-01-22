@@ -1,0 +1,25 @@
+{
+  "id": "w65o5ql",
+  "category": "cinema",
+  "title": "ゼロの焦点",
+  "fullTitle": "[HV][映]ゼロの焦点",
+  "detail": "松本清張原作、広末涼子・中谷美紀・木村多江主演のサスペンスミステリー。失踪した夫の行方を妻が追う。出演はほかに杉本哲太、西島秀俊、鹿賀丈史。",
+  "start": 1643508000000,
+  "end": 1643516400000,
+  "seconds": 8400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 102
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

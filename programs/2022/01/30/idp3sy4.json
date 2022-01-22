@@ -1,0 +1,25 @@
+{
+  "id": "idp3sy4",
+  "category": "music",
+  "title": "地球のミライコンサート",
+  "fullTitle": "地球のミライコンサート[SS]",
+  "detail": "未来へ１７ａｃｔｉｏｎ×ＮＨＫ音楽祭。「未来に残したい地球の姿」をテーマに、美しい８Ｋ映像と音楽の力で、持続可能な地球環境を守り、引き継ぐことの大切さを伝える。",
+  "start": 1643472000000,
+  "end": 1643477400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "未来に残したい地球の姿",
+  "episode": null,
+  "flags": [
+    "SS"
+  ]
+}

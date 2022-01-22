@@ -1,0 +1,26 @@
+{
+  "id": "idtrf2b",
+  "category": "anime",
+  "title": "ワンピース",
+  "fullTitle": "[解][字]ワンピース　第761話「刻限迫る　ミンク族と一味の絆！」",
+  "detail": "伝説の秘宝“ワンピース”を求めルフィは仲間と冒険の旅。",
+  "start": 1643506200000,
+  "end": 1643508000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "刻限迫る　ミンク族と一味の絆！",
+  "episode": 761,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

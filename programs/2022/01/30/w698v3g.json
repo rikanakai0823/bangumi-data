@@ -1,0 +1,25 @@
+{
+  "id": "w698v3g",
+  "category": "documentary",
+  "title": "テック・エクスプローラー：日本",
+  "fullTitle": "テック・エクスプローラー：日本(再)",
+  "detail": "テクノロジーと旅行を融合させた新番組。初回は日本から、富士山を訪れる観光客の安全を守るために人工知能がどのように活用されているのか紹介する。",
+  "start": 1643509800000,
+  "end": 1643511600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

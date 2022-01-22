@@ -1,0 +1,25 @@
+{
+  "id": "w681bad",
+  "category": "anime",
+  "title": "錆色のアーマ -黎明-",
+  "fullTitle": "錆色のアーマ -黎明- #03 [字]",
+  "detail": "#03 鉄紺の記憶",
+  "start": 1643499000000,
+  "end": 1643500800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "鉄紺の記憶",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}

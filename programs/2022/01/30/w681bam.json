@@ -1,0 +1,25 @@
+{
+  "id": "w681bam",
+  "category": "anime",
+  "title": "錆色のアーマ -黎明-",
+  "fullTitle": "錆色のアーマ -黎明- #04 [字]",
+  "detail": "",
+  "start": 1643553000000,
+  "end": 1643554800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

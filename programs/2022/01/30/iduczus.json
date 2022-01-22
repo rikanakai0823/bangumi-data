@@ -1,0 +1,27 @@
+{
+  "id": "iduczus",
+  "category": "cinema",
+  "title": "ひるね姫～知らないワタシの物語～",
+  "fullTitle": "[映]ひるね姫～知らないワタシの物語～[SS][字]",
+  "detail": "東京オリンピック開催を間近に控えた２０２０年を舞台に、平凡な高校生の少女が夢と現実を行き来しながら冒険を繰り広げる。神山健治監督によるオリジナル長編アニメ。",
+  "start": 1643533200000,
+  "end": 1643540400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

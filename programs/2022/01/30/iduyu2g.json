@@ -1,0 +1,25 @@
+{
+  "id": "iduyu2g",
+  "category": "cinema",
+  "title": "黒帯ドラゴン",
+  "fullTitle": "[映]黒帯ドラゴン",
+  "detail": "『燃えよドラゴン』のロバート・クローズ監督が手掛けた空手アクション。マフィアから空手道場を守ろうとする、男の戦いを描く。",
+  "start": 1643485200000,
+  "end": 1643490900000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

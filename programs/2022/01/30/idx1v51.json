@@ -1,0 +1,25 @@
+{
+  "id": "idx1v51",
+  "category": "anime",
+  "title": "名探偵コナン 1月号",
+  "fullTitle": "[字]名探偵コナン 1月号",
+  "detail": "#761「ボディーガード　毛利小五郎」\r\n#762「若奥様が消えた秘密」\r\n#763「おしどり夫婦の策略」\r\n#764「夢みる乙女の迷…",
+  "start": 1643508000000,
+  "end": 1643517000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ボディーガード　毛利小五郎",
+  "episode": 761,
+  "flags": [
+    "字"
+  ]
+}

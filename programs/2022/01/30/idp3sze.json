@@ -1,0 +1,27 @@
+{
+  "id": "idp3sze",
+  "category": "drama",
+  "title": "鎌倉殿の１３人",
+  "fullTitle": "鎌倉殿の１３人[解][字][デ]",
+  "detail": "",
+  "start": 1643533200000,
+  "end": 1643535900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字",
+    "デ"
+  ]
+}

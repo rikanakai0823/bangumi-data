@@ -1,0 +1,25 @@
+{
+  "id": "w698v3a",
+  "category": "hobby",
+  "title": "トラベル・ショー",
+  "fullTitle": "トラベル・ショー(再)",
+  "detail": "今回のトラベル・ショーは、隔離生活後に初めて旅に出る不安と闘う女性に密着する。",
+  "start": 1643481000000,
+  "end": 1643482800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm41ed",
+  "category": "sports",
+  "title": "スターダム 2020.7.26後楽園ホール",
+  "fullTitle": "スターダム 2020.7.26後楽園ホール",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1643533200000,
+  "end": 1643540400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": null,
+  "flags": []
+}

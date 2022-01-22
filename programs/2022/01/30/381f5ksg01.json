@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksg01",
+  "category": "sports",
+  "title": "全日本卓球選手権２０２２　決勝▽男女シングルス",
+  "fullTitle": "全日本卓球選手権２０２２　決勝▽男女シングルス[字]",
+  "detail": "～東京体育館から中継～",
+  "start": 1643518200000,
+  "end": 1643526000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

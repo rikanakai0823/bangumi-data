@@ -1,0 +1,23 @@
+{
+  "id": "381sxrgozh",
+  "category": "etc",
+  "title": "番組ナビ",
+  "fullTitle": "番組ナビ",
+  "detail": "",
+  "start": 1643525640000,
+  "end": 1643526000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
