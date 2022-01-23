@@ -1,0 +1,25 @@
+{
+  "id": "rlm41i8",
+  "category": "variety",
+  "title": "Smile again！～人生宝箱～",
+  "fullTitle": "[無]Smile again！～人生宝箱～　#12",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nSmile again！～人生宝箱～　#12",
+  "start": 1643623200000,
+  "end": 1643625900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": [
+    "無"
+  ]
+}

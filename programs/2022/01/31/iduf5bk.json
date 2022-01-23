@@ -1,0 +1,25 @@
+{
+  "id": "iduf5bk",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４７５",
+  "detail": "",
+  "start": 1643620500000,
+  "end": 1643621400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 475,
+  "flags": [
+    "無"
+  ]
+}

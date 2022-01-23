@@ -1,0 +1,25 @@
+{
+  "id": "w681bb8",
+  "category": "anime",
+  "title": "テレビアニメ遊郭編",
+  "fullTitle": "テレビアニメ「鬼滅の刃」遊郭編 #07 [字]",
+  "detail": "#07 変貌",
+  "start": 1643605200000,
+  "end": 1643607000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "変貌",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

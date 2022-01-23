@@ -1,0 +1,26 @@
+{
+  "id": "iduhast",
+  "category": "cinema",
+  "title": "日本統一２２",
+  "fullTitle": "[映]日本統一２２[字]",
+  "detail": "極道界日本統一を目指す男たちのドラマを描く人気シリーズ第２２作。青森で起きた博徒系組織・丸神会と神農系（テキヤ系）組織・極山会との小競り合いが抗争の火種となる。",
+  "start": 1643564700000,
+  "end": 1643570100000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

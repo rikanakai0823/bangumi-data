@@ -1,0 +1,25 @@
+{
+  "id": "idv14a8",
+  "category": "drama",
+  "title": "チャペルウェイト　呪われた系譜",
+  "fullTitle": "[SS]チャペルウェイト　呪われた系譜　＃５[吹]",
+  "detail": "【独占日本初放送】",
+  "start": 1643598000000,
+  "end": 1643601600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "独占日本初放送",
+  "episode": 5,
+  "flags": [
+    "SS"
+  ]
+}

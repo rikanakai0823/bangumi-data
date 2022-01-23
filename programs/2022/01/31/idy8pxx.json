@@ -1,0 +1,25 @@
+{
+  "id": "idy8pxx",
+  "category": "anime",
+  "title": "ウォーリーをさがせ！",
+  "fullTitle": "ウォーリーをさがせ！#10[二]",
+  "detail": "#10「イェップ・ウィー・キャン！」",
+  "start": 1643596200000,
+  "end": 1643597700000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "イェップ・ウィー・キャン！",
+  "episode": 10,
+  "flags": [
+    "二"
+  ]
+}
