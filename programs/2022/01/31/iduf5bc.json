@@ -2,7 +2,7 @@
   "id": "iduf5bc",
   "category": "music",
   "title": "邦楽ＢＲＥＡＫ",
-  "fullTitle": "邦楽ＢＲＥＡＫ　＃７０７",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃７０７",
   "detail": "",
   "start": 1643587200000,
   "end": 1643588100000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 707,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
