@@ -1,0 +1,25 @@
+{
+  "id": "idp3tru",
+  "category": "hobby",
+  "title": "岩合光昭の世界ネコ歩き",
+  "fullTitle": "岩合光昭の世界ネコ歩き「鹿児島」[字]",
+  "detail": "動物写真家・岩合光昭が鹿児島県を訪れる。桜島、知覧茶の農家、芋焼酎の酒蔵、西郷隆盛の墓、篤姫ゆかりの地などで、どんなネコとの出会いが待っているのか？",
+  "start": 1643720400000,
+  "end": 1643724000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "鹿児島",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

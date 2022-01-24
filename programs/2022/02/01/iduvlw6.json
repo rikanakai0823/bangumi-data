@@ -1,0 +1,26 @@
+{
+  "id": "iduvlw6",
+  "category": "cinema",
+  "title": "グッバイ、リチャード！",
+  "fullTitle": "[映][SS]グッバイ、リチャード！【メガヒット９（再）】",
+  "detail": "ジョニー・デップ主演のコメディドラマ。余命宣告を受けた大学教授が、残りの人生を謳歌しようとする姿を描く。［Ｒ１５＋］",
+  "start": 1643693400000,
+  "end": 1643699700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

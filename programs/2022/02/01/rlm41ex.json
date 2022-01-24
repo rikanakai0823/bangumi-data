@@ -1,0 +1,25 @@
+{
+  "id": "rlm41ex",
+  "category": "sports",
+  "title": "俺に言わせぃ！サッカーおやじ会2022",
+  "fullTitle": "[生]俺に言わせぃ！サッカーおやじ会2022 #1",
+  "detail": "ロシアの夏以来の臨時開店？！サッカー日本代表戦の夜に集まるならこの店！カタールへ向けておやじたちがくだを巻く！",
+  "start": 1643718600000,
+  "end": 1643725800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

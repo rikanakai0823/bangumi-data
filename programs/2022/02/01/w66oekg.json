@@ -1,0 +1,26 @@
+{
+  "id": "w66oekg",
+  "category": "cinema",
+  "title": "[5.1]ブラック・ホール",
+  "fullTitle": "[映画][字][5.1]ブラック・ホール",
+  "detail": "2130年。人類が居住可能な惑星を探すため小型宇宙船パロミノ号で宇宙を航行していたデュラン博士ら一行は、史上最大級のブラックホールと遭遇。",
+  "start": 1643697000000,
+  "end": 1643704200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映画",
+    "字"
+  ]
+}
