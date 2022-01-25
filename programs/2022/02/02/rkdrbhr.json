@@ -1,0 +1,23 @@
+{
+  "id": "rkdrbhr",
+  "category": "information",
+  "title": "ゆう屋のこだわり魚頒布会",
+  "fullTitle": "ゆう屋のこだわり魚頒布会",
+  "detail": "大好評の頒布会。１尾ずつ丁寧に下処理をし、魚にあったこだわりの味付けでやわらかく仕上げたお魚料理を、月替わりで召し上がれ。",
+  "start": 1643731560000,
+  "end": 1643734800000,
+  "seconds": 3240,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63j3af",
+  "category": "sports",
+  "title": "巨人春季キャンプ中継 2022",
+  "fullTitle": "[生]巨人春季キャンプ中継 2022",
+  "detail": "～生中継\r\n解説：林昌範\r\n実況：山本健太\r\nインタビュアー：阿出川浩之",
+  "start": 1643767200000,
+  "end": 1643781600000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

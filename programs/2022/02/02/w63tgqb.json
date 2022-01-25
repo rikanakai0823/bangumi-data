@@ -1,0 +1,25 @@
+{
+  "id": "w63tgqb",
+  "category": "sports",
+  "title": "ゴルフサバイバル",
+  "fullTitle": "[初]ゴルフサバイバル ＃２",
+  "detail": "“神スイング”でおなじみの稲村亜美とお笑いコンビ・アンタッチャブルの柴田英嗣がお送りするゴルフ情報番組。",
+  "start": 1643796000000,
+  "end": 1643799600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 99
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "初"
+  ]
+}

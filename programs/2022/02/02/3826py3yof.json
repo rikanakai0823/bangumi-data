@@ -1,0 +1,25 @@
+{
+  "id": "3826py3yof",
+  "category": "sports",
+  "title": "北京オリンピック　ハイライト",
+  "fullTitle": "北京オリンピック　ハイライト[字]",
+  "detail": "2月4日に開会式を迎える北京オリンピック。\r\n注目競技の情報、特集をお届けします！",
+  "start": 1643755800000,
+  "end": 1643756400000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm41ge",
+  "category": "etc",
+  "title": "Bリーグ2021-22 第20節 宇都宮×新潟(2/2)",
+  "fullTitle": "[生]Bリーグ2021-22 第20節 宇都宮×新潟(2/2)",
+  "detail": "Bリーグ 2021-22",
+  "start": 1643797200000,
+  "end": 1643808000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

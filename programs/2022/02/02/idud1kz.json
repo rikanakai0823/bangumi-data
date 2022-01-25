@@ -1,0 +1,27 @@
+{
+  "id": "idud1kz",
+  "category": "cinema",
+  "title": "火天の城",
+  "fullTitle": "[映]火天の城[SS][字]",
+  "detail": "織田信長の厳命を受け、安土城の築城という前代未聞の難事業に取り組むことになった宮大工と、その周囲の人々が織り成す人間模様を、ドラマティックに描いた話題の時代劇。",
+  "start": 1643774400000,
+  "end": 1643783400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

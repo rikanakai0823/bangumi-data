@@ -1,0 +1,23 @@
+{
+  "id": "w662yj6",
+  "category": "variety",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "",
+  "start": 1643731200000,
+  "end": 1643752800000,
+  "seconds": 21600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
