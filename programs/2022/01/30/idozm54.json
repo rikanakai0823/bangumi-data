@@ -2,7 +2,7 @@
   "id": "idozm54",
   "category": "sports",
   "title": "超絶エアトリック！特選スノーボードＷ杯",
-  "fullTitle": "超絶エアトリック！特選スノーボードＷ杯",
+  "fullTitle": "超絶エアトリック！特選スノーボードＷ杯[字]",
   "detail": "",
   "start": 1643551200000,
   "end": 1643553900000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
