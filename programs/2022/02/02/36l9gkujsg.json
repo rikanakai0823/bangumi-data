@@ -1,12 +1,16 @@
 {
   "id": "36l9gkujsg",
   "category": "information",
-  "title": "生活情報",
-  "fullTitle": "生活情報",
-  "detail": " ",
+  "title": "生活情報ラフィーネ-アルファ",
+  "fullTitle": "生活情報【内容】ラフィーネ-アルファ",
+  "detail": "【内容】ラフィーネ-アルファ\r\n【電話】0120-000-698\n◇番組内容\n錆びない人生きらめく人生\r\n【内容】ラフィーネ-アルファ\r\n【電話】0120-000-698",
   "start": 1643765100000,
   "end": 1643766900000,
   "seconds": 1800,
+  "description": "【内容】ラフィーネ-アルファ\r\n【電話】0120-000-698",
+  "extra": {
+    "番組内容": "錆びない人生きらめく人生\r\n【内容】ラフィーネ-アルファ\r\n【電話】0120-000-698"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "内容",
   "episode": null,
   "flags": []
 }
