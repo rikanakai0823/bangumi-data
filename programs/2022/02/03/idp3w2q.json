@@ -1,0 +1,25 @@
+{
+  "id": "idp3w2q",
+  "category": "hobby",
+  "title": "美の小壺",
+  "fullTitle": "美の小壺「刀剣」[字]",
+  "detail": "ＢＳプレミアムの人気番組「美の壺」を、“小壺”サイズに仕立てたミニ番組。武器にとどまらず、芸術品としても時代を超えて愛されてきた「刀剣」の技の魅力に迫る！",
+  "start": 1643878440000,
+  "end": 1643878800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "刀剣",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

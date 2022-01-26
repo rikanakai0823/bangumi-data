@@ -1,0 +1,23 @@
+{
+  "id": "rlm41i6",
+  "category": "sports",
+  "title": "\"RIZIN すべて振り返らせていただきます\"",
+  "fullTitle": "\"RIZIN すべて振り返らせていただきます\" #1",
+  "detail": "RIZIN FIGHTING WORLD GRAND-PRIX 2015 1st ROUND　（SARABAの宴）",
+  "start": 1643878800000,
+  "end": 1643896800000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

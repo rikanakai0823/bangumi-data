@@ -1,0 +1,23 @@
+{
+  "id": "idy8q2o",
+  "category": "anime",
+  "title": "ゆるキャン△",
+  "fullTitle": "ゆるキャン△#2",
+  "detail": "#2「ようこそ野クルへ！」",
+  "start": 1643895000000,
+  "end": 1643896500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ようこそ野クルへ！",
+  "episode": 2,
+  "flags": []
+}

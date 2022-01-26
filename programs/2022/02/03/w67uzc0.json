@@ -1,0 +1,25 @@
+{
+  "id": "w67uzc0",
+  "category": "anime",
+  "title": "おじゃる丸 セレクション ,12",
+  "fullTitle": "おじゃる丸 セレクション[字] #11,12",
+  "detail": "＃１１「本田　きれる」＃１２「牛の牛車はうららんでおじゃる」",
+  "start": 1643841000000,
+  "end": 1643842500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "本田　きれる",
+  "episode": 11,
+  "flags": [
+    "字"
+  ]
+}

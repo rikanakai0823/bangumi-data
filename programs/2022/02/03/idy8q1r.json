@@ -1,0 +1,25 @@
+{
+  "id": "idy8q1r",
+  "category": "anime",
+  "title": "マイリトルポニー　～トモダチは魔法～",
+  "fullTitle": "マイリトルポニー　～トモダチは魔法～#101[二]",
+  "detail": "#101「プリンセススパイク」",
+  "start": 1643839200000,
+  "end": 1643841000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "プリンセススパイク",
+  "episode": 101,
+  "flags": [
+    "二"
+  ]
+}
