@@ -1,0 +1,26 @@
+{
+  "id": "idp3yjc",
+  "category": "documentary",
+  "title": "ハイビジョン動物記",
+  "fullTitle": "ハイビジョン動物記「アメリカイセエビ」[字][再]",
+  "detail": "▽大西洋バハマ諸島の海底に住むアメリカイセエビの大行進等の生態",
+  "start": 1643741100000,
+  "end": 1643741700000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "アメリカイセエビ",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

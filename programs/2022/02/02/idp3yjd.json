@@ -1,0 +1,26 @@
+{
+  "id": "idp3yjd",
+  "category": "documentary",
+  "title": "ハイビジョン動物記",
+  "fullTitle": "ハイビジョン動物記「ワニガメ」[字][再]",
+  "detail": "▽アメリカ南部の湿地帯で魚を襲う巨大ワニの生態",
+  "start": 1643741700000,
+  "end": 1643742300000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ワニガメ",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
