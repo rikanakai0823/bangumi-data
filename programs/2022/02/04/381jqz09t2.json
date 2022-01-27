@@ -1,0 +1,25 @@
+{
+  "id": "381jqz09t2",
+  "category": "sports",
+  "title": "北京オリンピック◇開会式（中継）",
+  "fullTitle": "北京オリンピック◇開会式（中継）[字][手]",
+  "detail": "◇開会式（中継）",
+  "start": 1643976000000,
+  "end": 1643983800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
