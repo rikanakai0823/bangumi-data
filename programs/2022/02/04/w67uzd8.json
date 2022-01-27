@@ -1,0 +1,25 @@
+{
+  "id": "w67uzd8",
+  "category": "anime",
+  "title": "おじゃる丸 セレクション ,16",
+  "fullTitle": "おじゃる丸 セレクション[字] #15,16",
+  "detail": "＃１５「日本茶コーヒー仮面」＃１６「こちカメ　こちトメ」",
+  "start": 1643927400000,
+  "end": 1643928900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "日本茶コーヒー仮面",
+  "episode": 15,
+  "flags": [
+    "字"
+  ]
+}

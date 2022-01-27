@@ -1,0 +1,26 @@
+{
+  "id": "iduvvw4",
+  "category": "cinema",
+  "title": "【最新作】ガンズ・アキンボ",
+  "fullTitle": "【最新作】[映][SS]ガンズ・アキンボ",
+  "detail": "ダニエル・ラドクリフ主演のアクションコメディ。両手に拳銃を固定され、デスゲームに強制参加させられたダメ男の死闘を描く。",
+  "start": 1643976000000,
+  "end": 1643983200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

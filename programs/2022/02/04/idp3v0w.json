@@ -1,0 +1,26 @@
+{
+  "id": "idp3v0w",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「山形　庄内」[字][再]",
+  "detail": "山形・庄内は山と海に囲まれ、広大な平野が広がる米どころ。ここは海の幸、山の幸に恵まれた食材の宝庫だ。郷土の作家の藤沢周平の言葉を道しるべに、庄内の味を巡る。",
+  "start": 1643929200000,
+  "end": 1643932800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "山形　庄内",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

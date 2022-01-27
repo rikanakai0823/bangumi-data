@@ -1,0 +1,25 @@
+{
+  "id": "iduvw1o",
+  "category": "cinema",
+  "title": "地獄のデビル・トラック",
+  "fullTitle": "[映]地獄のデビル・トラック【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "作家スティーヴン・キングが自らの短編を映画化、監督デビューを飾ったホラー。地上のあらゆる機械が人間を襲い始める姿を描く。",
+  "start": 1643983200000,
+  "end": 1643990400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

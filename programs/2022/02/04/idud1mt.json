@@ -1,0 +1,25 @@
+{
+  "id": "idud1mt",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無]邦楽ＢＲＥＡＫ　＃７１２",
+  "detail": "",
+  "start": 1643961000000,
+  "end": 1643961600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 712,
+  "flags": [
+    "無"
+  ]
+}

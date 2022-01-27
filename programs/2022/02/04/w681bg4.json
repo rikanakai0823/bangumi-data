@@ -1,0 +1,25 @@
+{
+  "id": "w681bg4",
+  "category": "anime",
+  "title": "ドールズフロントライン",
+  "fullTitle": "ドールズフロントライン #04 [字]",
+  "detail": "#04 SILENCE01 沈黙01",
+  "start": 1643963400000,
+  "end": 1643965200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "SILENCE01 沈黙01",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

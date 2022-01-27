@@ -1,0 +1,25 @@
+{
+  "id": "3826py3yxn",
+  "category": "variety",
+  "title": "＃ウルトラマワス",
+  "fullTitle": "[新]＃ウルトラマワス",
+  "detail": "＃ウルトラマワス",
+  "start": 1643906400000,
+  "end": 1643908200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

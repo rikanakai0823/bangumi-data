@@ -1,0 +1,25 @@
+{
+  "id": "w67uzd2",
+  "category": "anime",
+  "title": "ハローココモン",
+  "fullTitle": "ハローココモン[終] #25",
+  "detail": "第２５話(終)\r\nココモンといっしょにたのしく英語をまなぼう！",
+  "start": 1643922000000,
+  "end": 1643922900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "",
+  "episode": 25,
+  "flags": [
+    "終"
+  ]
+}

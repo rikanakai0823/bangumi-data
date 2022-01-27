@@ -1,0 +1,25 @@
+{
+  "id": "w67uzdb",
+  "category": "hobby",
+  "title": "うたのじかんライブ",
+  "fullTitle": "うたのじかんライブ[終] #24",
+  "detail": "第２４話「ボヨヨンサンタ」(終)\r\nうたのじかんライブではアーティストが子供たちに向けて楽曲の楽しさや魅力をライブでお届け！",
+  "start": 1643930700000,
+  "end": 1643931000000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ボヨヨンサンタ",
+  "episode": 24,
+  "flags": [
+    "終"
+  ]
+}

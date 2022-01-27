@@ -1,0 +1,27 @@
+{
+  "id": "iduhcqs",
+  "category": "cinema",
+  "title": "きまじめ楽隊のぼんやり戦争",
+  "fullTitle": "[映]きまじめ楽隊のぼんやり戦争[SS][字]",
+  "detail": "町境となる１本の川を挟んで、毎日同じ時間に戦争をする二つの町。この戦争の行方は……。映画・ドラマ・舞台と活躍の場を広げる前原滉が映画初主演をした寓話コメディ。",
+  "start": 1643903400000,
+  "end": 1643910600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
