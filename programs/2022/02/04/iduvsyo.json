@@ -2,7 +2,7 @@
   "id": "iduvsyo",
   "category": "drama",
   "title": "２０３４　今そこにある未来",
-  "fullTitle": "２０３４　今そこにある未来　＃２",
+  "fullTitle": "[SS]２０３４　今そこにある未来　＃２",
   "detail": "【独占日本初放送】",
   "start": 1643900400000,
   "end": 1643905200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "独占日本初放送",
   "episode": 2,
-  "flags": []
+  "flags": [
+    "SS"
+  ]
 }

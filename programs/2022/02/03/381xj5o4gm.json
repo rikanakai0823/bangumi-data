@@ -1,8 +1,8 @@
 {
   "id": "381xj5o4gm",
-  "category": "etc",
-  "title": "調整中＜Ｗナイト＞",
-  "fullTitle": "調整中＜Ｗナイト＞",
+  "category": "drama",
+  "title": "ゴシップ　＃彼女が知りたい本当の〇〇＜Ｗナイト＞",
+  "fullTitle": "ゴシップ　＃彼女が知りたい本当の〇〇＜Ｗナイト＞　＃０４[再][解]",
   "detail": "",
   "start": 1643819400000,
   "end": 1643823000000,
@@ -18,6 +18,9 @@
     "n": 29
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 4,
+  "flags": [
+    "再",
+    "解"
+  ]
 }
