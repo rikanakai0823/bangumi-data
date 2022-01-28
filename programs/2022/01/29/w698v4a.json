@@ -1,0 +1,25 @@
+{
+  "id": "w698v4a",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "今回のクリックは、持続可能で環境に優しい町を作るラスベガスのプロジェクトを取材するほか、リラックスするためのアプリを紹介する。",
+  "start": 1643452200000,
+  "end": 1643454000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

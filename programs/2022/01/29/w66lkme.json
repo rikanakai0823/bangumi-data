@@ -1,12 +1,12 @@
 {
   "id": "w66lkme",
   "category": "sports",
-  "title": "2021-22 Vリーグ DIVISION 1　女子 JT×久光",
-  "fullTitle": "[生]2021-22 Vリーグ DIVISION 1　女子 JT×久光",
-  "detail": "バレーボール　2021-22 Vリーグ DIVISION 1「JTマーヴェラス vs 久光スプリングス」\r\n　＜解説＞横山雅美　＜実況＞田淵裕章\r\n【生中継】",
+  "title": "2021-22 Vリーグ DIVISION 1　女子 JT×日立Astemo",
+  "fullTitle": "2021-22 Vリーグ DIVISION 1　女子 JT×日立Astemo",
+  "detail": "バレーボール　2021-22 Vリーグ DIVISION 1「JTマーヴェラス vs 日立Astemoリヴァーレ」　＜開催＞2022年1月8日（土）【再放送】",
   "start": 1643428500000,
-  "end": 1643439600000,
-  "seconds": 11100,
+  "end": 1643434800000,
+  "seconds": 6300,
   "channel": {
     "type": "CS",
     "channel": "CS20",
@@ -17,9 +17,7 @@
     "hasLogoData": true,
     "n": 114
   },
-  "subTitle": "JTマーヴェラス vs 久光スプリングス",
+  "subTitle": "",
   "episode": null,
-  "flags": [
-    "生"
-  ]
+  "flags": []
 }
