@@ -1,15 +1,16 @@
 {
   "id": "381sxrgoqv",
   "category": "variety",
-  "title": "この歌詞が刺さった！グッとフレーズ",
-  "fullTitle": "この歌詞が刺さった！グッとフレーズ[字]",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/goodphrases/",
+  "title": "この歌詞が刺さった世代別珠玉の名歌詞42連発…嵐・髭男・サザン",
+  "fullTitle": "この歌詞が刺さった「グッとフレーズ」世代別珠玉の名歌詞42連発…嵐・髭男・サザン",
+  "detail": "[字]福山「家族になろうよ」嵐「１００年先も愛を誓うよ」ミスチル・サザン・あいみょん・髭男・ヨアソビ・スピッツ・中島みゆきも！▽遅咲き錦鯉を支えた名曲を号泣告白\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/goodphrases/\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1643968800000,
   "end": 1643979600000,
   "seconds": 10800,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "[字]福山「家族になろうよ」嵐「１００年先も愛を誓うよ」ミスチル・サザン・あいみょん・髭男・ヨアソビ・スピッツ・中島みゆきも！▽遅咲き錦鯉を支えた名曲を号泣告白",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/goodphrases/"
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/goodphrases/",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
   },
   "channel": {
     "type": "GR",
@@ -21,9 +22,7 @@
     "hasLogoData": true,
     "n": 23
   },
-  "subTitle": "",
+  "subTitle": "グッとフレーズ",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
