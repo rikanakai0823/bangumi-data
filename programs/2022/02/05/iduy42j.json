@@ -1,0 +1,25 @@
+{
+  "id": "iduy42j",
+  "category": "cinema",
+  "title": "ひきしお",
+  "fullTitle": "[映]ひきしお",
+  "detail": "カトリーヌ・ドヌーヴ＆マルチェロ・マストロヤンニ共演の恋愛ドラマ。エーゲ海の孤島で、美女と中年男が歪んだ共同生活を送る。",
+  "start": 1644056100000,
+  "end": 1644062400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

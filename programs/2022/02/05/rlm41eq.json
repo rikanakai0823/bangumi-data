@@ -1,0 +1,23 @@
+{
+  "id": "rlm41eq",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第20節 ボーフム×ケルン",
+  "fullTitle": "21/22 ブンデスリーガ 第20節 ボーフム×ケルン",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2022年1月22日\r\n会場:ボノビア ルール シュタディオン",
+  "start": 1643988600000,
+  "end": 1643997600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

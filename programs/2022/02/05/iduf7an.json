@@ -1,0 +1,25 @@
+{
+  "id": "iduf7an",
+  "category": "music",
+  "title": "第十五回　其の弐",
+  "fullTitle": "[初]第十五回「博多・天神落語まつり」　其の弐",
+  "detail": "三遊亭円楽プロデュース。人気落語家たちが博多の街に集結する日本最大の落語フェスティバルの第１５回記念興行の模様をお届けする。",
+  "start": 1644051600000,
+  "end": 1644058800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "博多・天神落語まつり",
+  "episode": 15,
+  "flags": [
+    "初"
+  ]
+}

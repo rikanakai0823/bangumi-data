@@ -1,0 +1,26 @@
+{
+  "id": "iduvz7g",
+  "category": "cinema",
+  "title": "さよなら、僕のマンハッタン",
+  "fullTitle": "[映][SS]さよなら、僕のマンハッタン",
+  "detail": "マーク・ウェブ監督のほろ苦い青春映画。大学を卒業して親元を離れた青年が、父と愛人の密会を目撃。愛人の尾行を開始するが…。",
+  "start": 1644069600000,
+  "end": 1644075900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduy4dn",
+  "category": "cinema",
+  "title": "魅せられて",
+  "fullTitle": "[映][SS]魅せられて",
+  "detail": "ベルナルド・ベルトルッチ監督、リヴ・タイラー主演の青春ドラマ。イタリアを訪れた少女がひと夏の経験を経て大人へと変化する。",
+  "start": 1644070500000,
+  "end": 1644078000000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w6341vc",
+  "category": "sports",
+  "title": "ライジングレディースゴルフTV",
+  "fullTitle": "[初]ライジングレディースゴルフTV【MATCH9-5】",
+  "detail": "MATCH9-5　新武瑠衣プロ VS 井上りこプロ VS 植手桃子プロ VS 三宅百佳プロ",
+  "start": 1644012000000,
+  "end": 1644013800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "MATCH9-5",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

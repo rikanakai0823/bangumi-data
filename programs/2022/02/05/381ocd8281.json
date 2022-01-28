@@ -1,0 +1,25 @@
+{
+  "id": "381ocd8281",
+  "category": "variety",
+  "title": "１番持ち寄りバラエティ",
+  "fullTitle": "１番持ち寄りバラエティ「我がＭＡＸ」[字]",
+  "detail": "",
+  "start": 1644035400000,
+  "end": 1644040800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "我がＭＡＸ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

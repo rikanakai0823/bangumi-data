@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuml1",
+  "category": "sports",
+  "title": "北京オリンピック◇スピードスケート　女子３０００ｍ（中継）",
+  "fullTitle": "北京オリンピック◇スピードスケート　女子３０００ｍ（中継）[字]",
+  "detail": "◇スピードスケート　女子３０００ｍ（中継）",
+  "start": 1644051540000,
+  "end": 1644051900000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
