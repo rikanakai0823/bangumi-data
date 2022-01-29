@@ -1,0 +1,26 @@
+{
+  "id": "idsjx36",
+  "category": "cinema",
+  "title": "「００７／ユア・アイズ・オンリー」",
+  "fullTitle": "[字][映]「００７／ユア・アイズ・オンリー」【吹替】",
+  "detail": "ロジャー・ムーア主演、必見のスキーアクションほかみどころ満載のシリーズ１２作！ＢＳ－ＴＢＳでは００７を連続放送中！",
+  "start": 1644123600000,
+  "end": 1644132600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "字",
+    "映"
+  ]
+}

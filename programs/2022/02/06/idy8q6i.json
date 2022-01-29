@@ -1,0 +1,25 @@
+{
+  "id": "idy8q6i",
+  "category": "anime",
+  "title": "ゆるキャン△",
+  "fullTitle": "[無]ゆるキャン△#8",
+  "detail": "#8「テスト、カリブー、まんじゅううまい」",
+  "start": 1644157800000,
+  "end": 1644159300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "テスト、カリブー、まんじゅううまい",
+  "episode": 8,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idy8q5x",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "[無]ツムツム#34[解]",
+  "detail": "#34「スマホツムツム」",
+  "start": 1644112620000,
+  "end": 1644112800000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "スマホツムツム",
+  "episode": 34,
+  "flags": [
+    "無",
+    "解"
+  ]
+}

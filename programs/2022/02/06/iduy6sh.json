@@ -1,0 +1,26 @@
+{
+  "id": "iduy6sh",
+  "category": "cinema",
+  "title": "ファイト・クラブ",
+  "fullTitle": "[映][SS]ファイト・クラブ",
+  "detail": "ブラッド・ピット主演。格闘同好会を結成した男が、暴力の世界にのめり込んでいく様を描くサスペンス・ドラマ。［ＰＧ－１２］",
+  "start": 1644122700000,
+  "end": 1644131700000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

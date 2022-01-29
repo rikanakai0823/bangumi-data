@@ -1,0 +1,25 @@
+{
+  "id": "idtrfez",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　東京新聞杯（GⅢ）　きさらぎ賞（GⅢ）",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　東京新聞杯（GⅢ）　きさらぎ賞（GⅢ）",
+  "detail": "東京新聞杯（GⅢ）きさらぎ賞（GⅢ）小倉：関門橋ステークス／解説：吉田均（競馬エイト）ゲスト：横山ルリカ／東西でGⅠに向けた重要ステップレース",
+  "start": 1644127200000,
+  "end": 1644130800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

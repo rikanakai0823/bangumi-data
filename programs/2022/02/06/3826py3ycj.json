@@ -1,0 +1,27 @@
+{
+  "id": "3826py3ycj",
+  "category": "information",
+  "title": "買物の時間",
+  "fullTitle": "買物の時間",
+  "detail": "生活に役立つ商品を紹介する通販番組。\n◇お知らせ\n※「北京オリンピック」により、放送時間が変更、または休止の場合があります。",
+  "start": 1644085260000,
+  "end": 1644087060000,
+  "seconds": 1800,
+  "description": "生活に役立つ商品を紹介する通販番組。",
+  "extra": {
+    "お知らせ": "※「北京オリンピック」により、放送時間が変更、または休止の場合があります。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

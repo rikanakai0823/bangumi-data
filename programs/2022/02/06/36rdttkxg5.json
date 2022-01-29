@@ -1,0 +1,25 @@
+{
+  "id": "36rdttkxg5",
+  "category": "sports",
+  "title": "ラグビー中継",
+  "fullTitle": "ラグビー中継「横浜キヤノンイーグルスｖｓクボタスピアーズ船橋・東京ベイ」[多]",
+  "detail": "　",
+  "start": 1644124800000,
+  "end": 1644132600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "横浜キヤノンイーグルスｖｓクボタスピアーズ船橋・東京ベイ",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1v9v",
+  "category": "anime",
+  "title": "映画 すみっコぐらし とびだす絵本とひみつのコ",
+  "fullTitle": "[映]映画 すみっコぐらし とびだす絵本とひみつのコ",
+  "detail": "ある日すみっコたちは、お気に入りのおみせ「喫茶すみっコ」の地下室で、古くなった一冊のとびだす絵本をみつける。絵…",
+  "start": 1644112800000,
+  "end": 1644118200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "喫茶すみっコ",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

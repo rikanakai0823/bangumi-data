@@ -1,0 +1,25 @@
+{
+  "id": "idozlxd",
+  "category": "sports",
+  "title": "北京オリンピック◇フィギュアスケート　団体・予選（中継）",
+  "fullTitle": "北京オリンピック◇フィギュアスケート　団体・予選（中継）[字]",
+  "detail": "◇フィギュアスケート　団体・予選　女子シングル・ショートプログラム、団体・決勝　男子シングル・フリー（中継）",
+  "start": 1644110400000,
+  "end": 1644122400000,
+  "seconds": 12000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

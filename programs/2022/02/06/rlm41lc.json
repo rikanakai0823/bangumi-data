@@ -1,0 +1,25 @@
+{
+  "id": "rlm41lc",
+  "category": "sports",
+  "title": "UFC UNLEASHED",
+  "fullTitle": "[無]UFC UNLEASHED #5",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n名勝負を厳選してお届け！",
+  "start": 1644152400000,
+  "end": 1644156000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": [
+    "無"
+  ]
+}

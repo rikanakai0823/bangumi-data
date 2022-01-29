@@ -1,0 +1,25 @@
+{
+  "id": "idp3zg7",
+  "category": "music",
+  "title": "Ｔｈｅ　Ｃｏｖｅｒｓ",
+  "fullTitle": "Ｔｈｅ　Ｃｏｖｅｒｓ[字]",
+  "detail": "ＭＣ：リリー・フランキー、水原希子",
+  "start": 1644155400000,
+  "end": 1644157200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduf7aw",
+  "category": "sports",
+  "title": "全豪オープンテニス　男子シングルス決勝",
+  "fullTitle": "全豪オープンテニス　男子シングルス決勝[多]",
+  "detail": "男子シングルス決勝　ラファエル・ナダル×ダニール・メドベージェフ",
+  "start": 1644105600000,
+  "end": 1644112800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "多"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idy8q60",
+  "category": "cinema",
+  "title": "ティンカー・ベル",
+  "fullTitle": "[無]ティンカー・ベル[二]",
+  "detail": "ティンカー・ベルは「もの作り」の妖精。人間の世界「メインランド」へ行くことを夢見ますが、もの作りの妖精はメインランドに行けないと知り・・・。78分。2008年。",
+  "start": 1644116400000,
+  "end": 1644121500000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

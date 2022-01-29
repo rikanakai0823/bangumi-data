@@ -1,0 +1,26 @@
+{
+  "id": "rlm41ie",
+  "category": "etc",
+  "title": "Bリーグ2021-22 第21節 川崎×SR渋谷(2/6)",
+  "fullTitle": "[無][生]Bリーグ2021-22 第21節 川崎×SR渋谷(2/6)",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nBリーグ 2021-22",
+  "start": 1644130800000,
+  "end": 1644141600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

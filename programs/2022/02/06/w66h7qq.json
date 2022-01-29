@@ -1,0 +1,25 @@
+{
+  "id": "w66h7qq",
+  "category": "sports",
+  "title": "武豊ＴＶ！２",
+  "fullTitle": "[無料]武豊ＴＶ！２　#126「菊花賞プレイバック」",
+  "detail": "アイビーS、紅葉S、カシオペアS、ファンタジーS、2歳未勝利、2歳新馬、みやこS ほか ▽菊花賞、天皇賞・秋、エリザベス女王杯▽ブリーダーズカップ",
+  "start": 1644100200000,
+  "end": 1644105600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "菊花賞プレイバック",
+  "episode": 126,
+  "flags": [
+    "無"
+  ]
+}
