@@ -1,0 +1,23 @@
+{
+  "id": "rlm41jg",
+  "category": "sports",
+  "title": "大学サッカー応援番組～学生幹事篇～",
+  "fullTitle": "大学サッカー応援番組「レゾンデートル」#7～学生幹事篇～",
+  "detail": "時代と共に変化を続けた大学サッカー。その「今」に迫り、存在意義（レゾンデートル）を明らかにする！第７回目は学生幹事！",
+  "start": 1644228000000,
+  "end": 1644229800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "レゾンデートル",
+  "episode": 7,
+  "flags": []
+}

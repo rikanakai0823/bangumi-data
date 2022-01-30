@@ -1,0 +1,25 @@
+{
+  "id": "iduw563",
+  "category": "information",
+  "title": "情迷香港電影",
+  "fullTitle": "[無]情迷香港電影＃１",
+  "detail": "香港映画にもう一度、日本人は恋をする。スターチャンネルＥＸで配信される古今の香港映画を、香港から解説するオリジナル番組。",
+  "start": 1644226500000,
+  "end": 1644227400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

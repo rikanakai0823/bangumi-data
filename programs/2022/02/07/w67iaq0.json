@@ -1,0 +1,25 @@
+{
+  "id": "w67iaq0",
+  "category": "music",
+  "title": "天使のコーラス",
+  "fullTitle": "[無料]天使のコーラス#402",
+  "detail": "世界でもトップクラスの合唱団の演奏をお送りする番組。",
+  "start": 1644168600000,
+  "end": 1644170400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ミュージック・エア",
+    "id": "f0dg",
+    "sid": 324,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": 402,
+  "flags": [
+    "無"
+  ]
+}

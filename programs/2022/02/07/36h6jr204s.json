@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr204s",
+  "category": "drama",
+  "title": "ドラマ特区",
+  "fullTitle": "ドラマ特区「ホームルーム」[Ｓ][再]",
+  "detail": "",
+  "start": 1644242400000,
+  "end": 1644244200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "ホームルーム",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
