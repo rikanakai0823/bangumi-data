@@ -2,11 +2,15 @@
   "id": "381jqz0avj",
   "category": "documentary",
   "title": "ＦＡＣＥＳ　いじめをこえて　３０ｍｉｎ．",
-  "fullTitle": "ＦＡＣＥＳ　いじめをこえて　３０ｍｉｎ．[字]",
-  "detail": "",
+  "fullTitle": "ＦＡＣＥＳ　いじめをこえて　３０ｍｉｎ．「定時制高校３年　伊勢本旺亮」[字]",
+  "detail": "【出演】伊勢本旺亮，【語り】早見沙織\n◇出演者\n【出演】伊勢本旺亮，【語り】早見沙織",
   "start": 1644125400000,
   "end": 1644127200000,
   "seconds": 1800,
+  "description": "【出演】伊勢本旺亮，【語り】早見沙織",
+  "extra": {
+    "出演者": "【出演】伊勢本旺亮，【語り】早見沙織"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "定時制高校３年　伊勢本旺亮",
   "episode": null,
   "flags": [
     "字"
