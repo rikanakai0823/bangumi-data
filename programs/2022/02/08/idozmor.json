@@ -1,0 +1,25 @@
+{
+  "id": "idozmor",
+  "category": "sports",
+  "title": "北京オリンピック◇フィギュアスケート　男子シングル・ショートプログラム",
+  "fullTitle": "北京オリンピック◇フィギュアスケート　男子シングル・ショートプログラム[字]",
+  "detail": "◇フィギュアスケート　男子シングル・ショートプログラム（中継）",
+  "start": 1644282300000,
+  "end": 1644298200000,
+  "seconds": 15900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

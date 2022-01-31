@@ -1,0 +1,25 @@
+{
+  "id": "iduhcsm",
+  "category": "cinema",
+  "title": "ヤングガン（字幕版）",
+  "fullTitle": "[映]ヤングガン（字幕版）",
+  "detail": "米西部史上で有名なガンマン、ビリー・ザ・キッドとその仲間たちを、当時の若手スターの豪華共演で描いた、アクション満載のウエスタン。続編「ヤングガン２」も作られた。",
+  "start": 1644321600000,
+  "end": 1644328800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "ヤングガン２",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
