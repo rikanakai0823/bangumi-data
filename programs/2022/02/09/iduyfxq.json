@@ -1,0 +1,25 @@
+{
+  "id": "iduyfxq",
+  "category": "cinema",
+  "title": "プリンス・オブ・シティ",
+  "fullTitle": "[映]プリンス・オブ・シティ",
+  "detail": "名匠シドニー・ルメット監督が、汚職が蔓延するニューヨーク市警麻薬調査課の内通者となった警官の苦悩を描く刑事ドラマ。",
+  "start": 1644365400000,
+  "end": 1644375600000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm41ls",
+  "category": "etc",
+  "title": "Bリーグ2021-22 第21節 横浜×北海道(2/6)",
+  "fullTitle": "Bリーグ2021-22 第21節 横浜×北海道(2/6)",
+  "detail": "Bリーグ 2021-22",
+  "start": 1644355800000,
+  "end": 1644364800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

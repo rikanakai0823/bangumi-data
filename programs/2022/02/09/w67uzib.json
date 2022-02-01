@@ -1,0 +1,25 @@
+{
+  "id": "w67uzib",
+  "category": "anime",
+  "title": "おじゃる丸 セレクション ,22",
+  "fullTitle": "おじゃる丸 セレクション[字] #21,22",
+  "detail": "＃２１「ためいきぐも」＃２２「ニューぶき」",
+  "start": 1644359400000,
+  "end": 1644360900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "ためいきぐも",
+  "episode": 21,
+  "flags": [
+    "字"
+  ]
+}

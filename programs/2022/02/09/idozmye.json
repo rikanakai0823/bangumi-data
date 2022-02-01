@@ -1,0 +1,25 @@
+{
+  "id": "idozmye",
+  "category": "sports",
+  "title": "北京オリンピック◇ショートトラック　男子１５００ｍ・決勝（中継）ほか",
+  "fullTitle": "北京オリンピック◇ショートトラック　男子１５００ｍ・決勝（中継）ほか[字]",
+  "detail": "◇ショートトラック　男子１５００ｍ・決勝、女子１０００ｍ・予選、女子３０００ｍリレー・準決勝（中継）",
+  "start": 1644404400000,
+  "end": 1644411000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

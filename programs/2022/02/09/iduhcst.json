@@ -1,0 +1,26 @@
+{
+  "id": "iduhcst",
+  "category": "cinema",
+  "title": "ドラゴン・キングダム（字幕版）",
+  "fullTitle": "[映]ドラゴン・キングダム（字幕版）[SS]",
+  "detail": "２大カンフー・スター、Ｊ・チェンとＪ・リー、待望の初競演。現代の米国人青年が古代の中国に飛び、武術の達人２人とともに邪悪な支配者と戦うアクションアドベンチャー。",
+  "start": 1644365700000,
+  "end": 1644372900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

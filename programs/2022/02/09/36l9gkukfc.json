@@ -1,0 +1,29 @@
+{
+  "id": "36l9gkukfc",
+  "category": "music",
+  "title": "カラオケ大賞　第１９３０回朝花美穂",
+  "fullTitle": "カラオケ大賞[再]　第１９３０回【ゲスト】朝花美穂",
+  "detail": "【ゲスト】朝花美穂\n◇出演者\n【審査員長】伊戸のりお\r\n【司会】吉岡美穂、山口ひろみ",
+  "start": 1644361200000,
+  "end": 1644364500000,
+  "seconds": 3300,
+  "description": "【ゲスト】朝花美穂",
+  "extra": {
+    "出演者": "【審査員長】伊戸のりお\r\n【司会】吉岡美穂、山口ひろみ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "ゲスト",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}

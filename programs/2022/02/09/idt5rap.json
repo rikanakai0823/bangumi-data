@@ -1,0 +1,25 @@
+{
+  "id": "idt5rap",
+  "category": "music",
+  "title": "日本歌手協会・歌の祭典２０２１",
+  "fullTitle": "日本歌手協会・歌の祭典２０２１[字]",
+  "detail": "▼演歌の名曲三昧！山川豊が「夜桜」を熱唱\r\n▼鳥羽一郎「兄弟船」八代亜紀「ともしび」\r\n▼川中美幸「あなたひとすじ」\r\n▼デュエット特集「ヘイ・ポーラ」「麦畑」",
+  "start": 1644397080000,
+  "end": 1644400440000,
+  "seconds": 3360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "夜桜",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
