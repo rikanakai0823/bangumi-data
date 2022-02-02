@@ -1,8 +1,8 @@
 {
   "id": "381f5ksf1u",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース[字]",
+  "title": "ニュースウオッチ９",
+  "fullTitle": "ニュースウオッチ９[二][字]",
   "detail": "",
   "start": 1643974200000,
   "end": 1643975100000,
@@ -20,6 +20,7 @@
   "subTitle": "",
   "episode": null,
   "flags": [
+    "二",
     "字"
   ]
 }
