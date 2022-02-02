@@ -1,0 +1,23 @@
+{
+  "id": "idt5rft",
+  "category": "information",
+  "title": "ワクワクテレショップ",
+  "fullTitle": "ワクワクテレショップ",
+  "detail": "便利な商品をお届け",
+  "start": 1644422340000,
+  "end": 1644424080000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

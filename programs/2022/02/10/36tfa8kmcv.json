@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kmcv",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「梅見月賞」「第４回　雲取賞（ＳⅢ）」「如月賞」",
+  "start": 1644474000000,
+  "end": 1644480000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "雲取賞（ＳⅢ）",
+  "episode": 4,
+  "flags": []
+}

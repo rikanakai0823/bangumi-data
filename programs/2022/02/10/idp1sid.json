@@ -1,0 +1,25 @@
+{
+  "id": "idp1sid",
+  "category": "sports",
+  "title": "北京オリンピック◇スピードスケート　女子５０００ｍ（中継）",
+  "fullTitle": "北京オリンピック◇スピードスケート　女子５０００ｍ（中継）[字]",
+  "detail": "◇スピードスケート　女子５０００ｍ（中継）",
+  "start": 1644497400000,
+  "end": 1644499800000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

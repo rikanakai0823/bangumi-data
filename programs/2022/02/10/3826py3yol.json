@@ -1,0 +1,25 @@
+{
+  "id": "3826py3yol",
+  "category": "sports",
+  "title": "北京オリンピック　ハイライト",
+  "fullTitle": "北京オリンピック　ハイライト[字]",
+  "detail": "連日熱戦が繰り広げられている「北京オリンピック」。競技の結果、注目情報をたっぷりとお伝えします！",
+  "start": 1644447000000,
+  "end": 1644447600000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "北京オリンピック",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

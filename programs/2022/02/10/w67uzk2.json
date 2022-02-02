@@ -1,0 +1,25 @@
+{
+  "id": "w67uzk2",
+  "category": "anime",
+  "title": "おじゃる丸 セレクション ,29",
+  "fullTitle": "おじゃる丸 セレクション[字] #28,29",
+  "detail": "＃２８「タナカコシヨの店」＃２９「ヘソがほしい星野一家」",
+  "start": 1644474600000,
+  "end": 1644476400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "タナカコシヨの店",
+  "episode": 28,
+  "flags": [
+    "字"
+  ]
+}
