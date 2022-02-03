@@ -1,0 +1,26 @@
+{
+  "id": "idy8qd0",
+  "category": "anime",
+  "title": "バンザイ！キング・ジュリアン",
+  "fullTitle": "[無]バンザイ！キング・ジュリアン#24[二]",
+  "detail": "#24「神の正体」",
+  "start": 1644586200000,
+  "end": 1644588000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "神の正体",
+  "episode": 24,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

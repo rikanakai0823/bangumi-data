@@ -1,0 +1,27 @@
+{
+  "id": "rktcwvw",
+  "category": "cinema",
+  "title": "Ｋ－シアター",
+  "fullTitle": "[無]Ｋ－シアター「イルマーレ」[字][再]",
+  "detail": "KBS World初放送！「イカゲーム」のイ・ジョンジェ×チョン・ジヒョンが送る、時空を越えた手紙から始まる男女の恋愛を描いたファンタジーラブロマンス！2000年",
+  "start": 1644590400000,
+  "end": 1644598500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "イルマーレ",
+  "episode": null,
+  "flags": [
+    "無",
+    "字",
+    "再"
+  ]
+}

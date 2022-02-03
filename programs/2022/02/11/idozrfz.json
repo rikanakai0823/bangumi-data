@@ -1,0 +1,26 @@
+{
+  "id": "idozrfz",
+  "category": "documentary",
+  "title": "地球タクシー",
+  "fullTitle": "地球タクシー「ウィーンを走る」[字][再]",
+  "detail": "タクシーは不思議な場所だ。ドライバーの背中越しに世界の様々な都市の魅力、人々の本音に触れる紀行ドキュメント。車窓からの風景とおしゃべりと想像力の旅。ウィーン編。",
+  "start": 1644523200000,
+  "end": 1644526200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ウィーンを走る",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

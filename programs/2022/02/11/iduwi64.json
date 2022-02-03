@@ -1,0 +1,25 @@
+{
+  "id": "iduwi64",
+  "category": "cinema",
+  "title": "ザ・デプス",
+  "fullTitle": "[映]ザ・デプス【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "『１３日の金曜日』の監督による深海ＳＦパニック。海底１万メートルにあるアメリカ軍の秘密基地を謎のモンスターが襲撃する。",
+  "start": 1644588000000,
+  "end": 1644595200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

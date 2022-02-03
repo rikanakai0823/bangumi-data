@@ -1,0 +1,25 @@
+{
+  "id": "rlm41jy",
+  "category": "sports",
+  "title": "Challenge！ Consadole",
+  "fullTitle": "[無]Challenge！ Consadole　#51",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n北海道コンサドーレ札幌のクラブ応援番組。クラブの自主企画・撮影・編集により、クラブの魅力を深く掘り下げる15分番組。",
+  "start": 1644537600000,
+  "end": 1644538500000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 51,
+  "flags": [
+    "無"
+  ]
+}

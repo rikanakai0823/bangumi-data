@@ -1,0 +1,25 @@
+{
+  "id": "rlm41ln",
+  "category": "sports",
+  "title": "サンフレッチェTV",
+  "fullTitle": "[無]サンフレッチェTV #109",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nサンフレッチェ広島のクラブ応援番組。選手の素顔やインタビューなど貴重映像とともにクラブの活動をお届けします。",
+  "start": 1644538500000,
+  "end": 1644539400000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 109,
+  "flags": [
+    "無"
+  ]
+}

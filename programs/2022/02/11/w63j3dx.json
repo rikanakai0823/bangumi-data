@@ -1,0 +1,25 @@
+{
+  "id": "w63j3dx",
+  "category": "sports",
+  "title": "巨人春季キャンプ中継 2022",
+  "fullTitle": "[生]巨人春季キャンプ中継 2022",
+  "detail": "～生中継　～ひなたサンマリンスタジアム宮崎　ほか\r\n解説：村田真一　実況：北脇太基\r\nインタビュアー：阿出川浩之",
+  "start": 1644544800000,
+  "end": 1644559200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

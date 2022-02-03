@@ -1,0 +1,27 @@
+{
+  "id": "iduhctl",
+  "category": "cinema",
+  "title": "世界にひとつの金メダル（字幕版）",
+  "fullTitle": "[初][映]世界にひとつの金メダル（字幕版）[SS]",
+  "detail": "１９８８年のソウル五輪、馬術競技の障害飛越個人で金メダルに輝いたフランス人騎手、Ｐ・デュラン。彼が愛馬と織り成すドラマをＧ・カネの主演・脚本で描いた感動実話。",
+  "start": 1644541200000,
+  "end": 1644549300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}

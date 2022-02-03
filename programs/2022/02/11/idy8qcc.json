@@ -1,0 +1,26 @@
+{
+  "id": "idy8qcc",
+  "category": "hobby",
+  "title": "おさるのジョージ",
+  "fullTitle": "[無]おさるのジョージ#24[二]",
+  "detail": "#24「花はどこへ行った／ここほれワンワン」",
+  "start": 1644532200000,
+  "end": 1644534000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "花はどこへ行った／ここほれワンワン",
+  "episode": 24,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

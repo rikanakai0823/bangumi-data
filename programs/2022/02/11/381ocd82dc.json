@@ -1,0 +1,26 @@
+{
+  "id": "381ocd82dc",
+  "category": "sports",
+  "title": "北京オリンピック",
+  "fullTitle": "北京オリンピック「スキージャンプ　男子個人ラージヒル予選」[字][デ]",
+  "detail": "",
+  "start": 1644573600000,
+  "end": 1644584040000,
+  "seconds": 10440,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "スキージャンプ　男子個人ラージヒル予選",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

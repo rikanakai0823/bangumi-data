@@ -1,0 +1,25 @@
+{
+  "id": "381ocd82d1",
+  "category": "news",
+  "title": "皇室日記特別版",
+  "fullTitle": "皇室日記特別版「令和の象徴として～模索の日々～」[字]",
+  "detail": "",
+  "start": 1644526800000,
+  "end": 1644528600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "令和の象徴として～模索の日々～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idy8qcb",
+  "category": "anime",
+  "title": "マイリトルポニー　～トモダチは魔法～",
+  "fullTitle": "[無]マイリトルポニー　～トモダチは魔法～#107[二]",
+  "detail": "#107「ポニー探偵ラリティ」",
+  "start": 1644530400000,
+  "end": 1644532200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ポニー探偵ラリティ",
+  "episode": 107,
+  "flags": [
+    "無",
+    "二"
+  ]
+}
