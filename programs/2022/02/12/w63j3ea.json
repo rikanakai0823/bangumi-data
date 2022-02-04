@@ -1,0 +1,25 @@
+{
+  "id": "w63j3ea",
+  "category": "sports",
+  "title": "NEXT GENERATION MATCH 2022",
+  "fullTitle": "[生]NEXT GENERATION MATCH 2022「川崎フロンターレU-18×日本高校サッカー選抜」",
+  "detail": "～生中継　～日産スタジアム\r\n*休止の場合、番組変更の可能性あり",
+  "start": 1644628500000,
+  "end": 1644635700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "川崎フロンターレU-18×日本高校サッカー選抜",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

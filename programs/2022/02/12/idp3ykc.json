@@ -1,0 +1,25 @@
+{
+  "id": "idp3ykc",
+  "category": "documentary",
+  "title": "さわやか自然百景",
+  "fullTitle": "さわやか自然百景「紀伊半島　大塔山系」[字]",
+  "detail": "紀伊半島南部、和歌山県の大塔山系。日本有数の雨量が多い地域である。山からは幾筋もの清流が流れ下り、豊かな森が広がる。さまざまな生きものたちが暮らす楽園だ。",
+  "start": 1644615000000,
+  "end": 1644615900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "紀伊半島　大塔山系",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

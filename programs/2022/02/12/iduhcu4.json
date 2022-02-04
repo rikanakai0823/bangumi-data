@@ -1,0 +1,27 @@
+{
+  "id": "iduhcu4",
+  "category": "cinema",
+  "title": "ザ・ファブル",
+  "fullTitle": "[映]ザ・ファブル[SS][字]",
+  "detail": "岡田准一、木村文乃、山本美月らが共演し、南勝久による人気コミックを映画化。普通の暮らしをすることになった殺し屋を描く、痛快なコミカルアクション。後に続編も誕生。",
+  "start": 1644656100000,
+  "end": 1644663600000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

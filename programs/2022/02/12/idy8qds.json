@@ -1,0 +1,26 @@
+{
+  "id": "idy8qds",
+  "category": "information",
+  "title": "マジック　ベイクオフ",
+  "fullTitle": "[無]マジック　ベイクオフ#3[二]",
+  "detail": "#3「モダンプリンセス」",
+  "start": 1644642000000,
+  "end": 1644645600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "モダンプリンセス",
+  "episode": 3,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

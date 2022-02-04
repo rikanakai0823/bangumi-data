@@ -1,0 +1,26 @@
+{
+  "id": "idy8qda",
+  "category": "drama",
+  "title": "グッドラック・チャーリー",
+  "fullTitle": "[無]グッドラック・チャーリー#74[二]",
+  "detail": "#74「フランス風ハロウィーン？」",
+  "start": 1644606000000,
+  "end": 1644607800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "フランス風ハロウィーン？",
+  "episode": 74,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

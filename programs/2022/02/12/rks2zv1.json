@@ -1,0 +1,23 @@
+{
+  "id": "rks2zv1",
+  "category": "music",
+  "title": "TBSch×SBS funE PRESENTS THE SHOW <字幕>",
+  "fullTitle": "TBSch×SBS funE PRESENTS THE SHOW #241<字幕>",
+  "detail": "TBSチャンネルと韓国のSBS funEで放送されるK－POP人気番組『THE SHOW』。【出演】THE BOYZ、Golden Child、CHOCOME、Weki Meki、fromis＿9",
+  "start": 1644598200000,
+  "end": 1644603000000,
+  "seconds": 4800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "出演",
+  "episode": 241,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8qdp",
+  "category": "hobby",
+  "title": "ディズニー365　プラス",
+  "fullTitle": "[無]ディズニー365　プラス#11",
+  "detail": "#11「ディズニー365　プラス」",
+  "start": 1644634200000,
+  "end": 1644634800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ディズニー365　プラス",
+  "episode": 11,
+  "flags": [
+    "無"
+  ]
+}

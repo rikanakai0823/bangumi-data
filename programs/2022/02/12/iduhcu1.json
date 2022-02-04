@@ -1,0 +1,27 @@
+{
+  "id": "iduhcu1",
+  "category": "cinema",
+  "title": "フライ，ダディ，フライ",
+  "fullTitle": "[映]フライ，ダディ，フライ[SS][字]",
+  "detail": "岡田准一と堤真一が共演し、小説「ＧＯ」の作家、金城一紀が原作と脚本を手掛けた痛快編。娘にけがをさせた男に復讐を誓った中年男は、不良高校生からケンカを学ぶが……？",
+  "start": 1644634800000,
+  "end": 1644642300000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "ＧＯ",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

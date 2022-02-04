@@ -1,0 +1,25 @@
+{
+  "id": "idozs1y",
+  "category": "news",
+  "title": "○○推し！",
+  "fullTitle": "○○推し！[字]",
+  "detail": "",
+  "start": 1644592200000,
+  "end": 1644593760000,
+  "seconds": 1560,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

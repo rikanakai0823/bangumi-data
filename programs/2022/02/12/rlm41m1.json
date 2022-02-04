@@ -1,0 +1,25 @@
+{
+  "id": "rlm41m1",
+  "category": "sports",
+  "title": "鷹のミカタ",
+  "fullTitle": "[無]鷹のミカタ #20",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nパンクブーブー黒瀬純とHKT48坂口理子がどこよりもホークスを徹底応援！VTR企画も織り交ぜながら鷹の見方を提案します！",
+  "start": 1644618600000,
+  "end": 1644622200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 20,
+  "flags": [
+    "無"
+  ]
+}

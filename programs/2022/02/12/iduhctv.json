@@ -1,0 +1,26 @@
+{
+  "id": "iduhctv",
+  "category": "cinema",
+  "title": "ＣＵＲＥ",
+  "fullTitle": "[映]ＣＵＲＥ[字]",
+  "detail": "鬼才、黒沢清監督が役所広司を主演に迎えた、日本映画史に残るサイコ・サスペンスの傑作。犠牲者の胸がＸの形に切り裂かれるという、異常な猟奇殺人事件が連続発生し……。",
+  "start": 1644606000000,
+  "end": 1644613200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

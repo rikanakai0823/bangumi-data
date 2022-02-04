@@ -1,0 +1,27 @@
+{
+  "id": "rktcwvx",
+  "category": "music",
+  "title": "ユ・ヒヨルのスケッチブック",
+  "fullTitle": "[無]ユ・ヒヨルのスケッチブック　[字][再]",
+  "detail": "K-POPファン必見！グループトイ（TOY）のユ・ヒヨルがお贈りする、多彩なミュージシャンを迎えての音楽ショー！",
+  "start": 1644598500000,
+  "end": 1644603900000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "字",
+    "再"
+  ]
+}
