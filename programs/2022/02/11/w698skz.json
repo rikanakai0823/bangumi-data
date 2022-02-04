@@ -2,7 +2,7 @@
   "id": "w698skz",
   "category": "news",
   "title": "ニュースデイ",
-  "fullTitle": "[英]ニュースデイ",
+  "fullTitle": "[無][英]ニュースデイ",
   "detail": "BBCシンガポール支局から、アジアと世界の最新情報をお伝えする生放送のニュース番組。",
   "start": 1644541200000,
   "end": 1644543000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
