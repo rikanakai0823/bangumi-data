@@ -2,7 +2,7 @@
   "id": "w66h8fa",
   "category": "sports",
   "title": "プロ野球ニュース 2022",
-  "fullTitle": "プロ野球ニュース 2022",
+  "fullTitle": "[無料]プロ野球ニュース 2022",
   "detail": "＜解説＞谷沢健一　高木豊\r\n＜ＭＣ＞大川立樹\r\n“プロ野球情報満載！”\r\n　【再放送】",
   "start": 1644548400000,
   "end": 1644552000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

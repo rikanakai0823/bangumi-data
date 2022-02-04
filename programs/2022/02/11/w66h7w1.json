@@ -2,7 +2,7 @@
   "id": "w66h7w1",
   "category": "variety",
   "title": "ラーメンWalker TV2",
-  "fullTitle": "ラーメンWalker TV2　#288　大門「チリトマラーメン THANK」",
+  "fullTitle": "[無料]ラーメンWalker TV2　#288",
   "detail": "スーパーフードを練り込んだ世界基準のチリトマラーメン！　大門「チリトマラーメン THANK」\r\n＜出演＞田中貴　日比野芽奈　ブライアン・マクダクストン",
   "start": 1644547200000,
   "end": 1644548400000,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 112
   },
-  "subTitle": "大門",
+  "subTitle": "チリトマラーメン THANK",
   "episode": 288,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "id": "w66jlgb",
   "category": "information",
-  "title": "番組ＰＲ",
-  "fullTitle": "番組ＰＲ【２月】",
+  "title": "番組PR",
+  "fullTitle": "[無料]番組PR【2月】",
   "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
   "start": 1644542400000,
   "end": 1644543000000,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 113
   },
-  "subTitle": "２月",
+  "subTitle": "2月",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
