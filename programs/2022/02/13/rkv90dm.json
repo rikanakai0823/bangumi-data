@@ -1,0 +1,26 @@
+{
+  "id": "rkv90dm",
+  "category": "sports",
+  "title": "千葉ロッテ石垣島キャンプ２０２２",
+  "fullTitle": "[無料][生]千葉ロッテ石垣島キャンプ２０２２",
+  "detail": "～生中継～石垣市中央運動公園野球場\r\n実況：吉田伸男　リポーター：めいちゅん",
+  "start": 1644714000000,
+  "end": 1644723000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

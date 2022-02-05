@@ -1,0 +1,25 @@
+{
+  "id": "w63j3el",
+  "category": "etc",
+  "title": "NFLアーカイブ on 日テレジータススーパーボウル",
+  "fullTitle": "NFLアーカイブ on 日テレジータス(60)第34回スーパーボウル[再]",
+  "detail": "＜99シーズン第34回スーパーボウル＞「ラムズ×タイタンズ」\r\n解説：後藤完夫　　実況：増田隆生",
+  "start": 1644683400000,
+  "end": 1644696000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "ラムズ×タイタンズ",
+  "episode": 34,
+  "flags": [
+    "再"
+  ]
+}

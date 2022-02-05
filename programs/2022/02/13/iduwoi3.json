@@ -1,0 +1,25 @@
+{
+  "id": "iduwoi3",
+  "category": "cinema",
+  "title": "一級機密",
+  "fullTitle": "[映]一級機密",
+  "detail": "キム・サンギョン主演の実録サスペンス。韓国で実際にあった汚職事件をもとに、国家ぐるみの汚職に巻き込まれた男の闘いを描く。",
+  "start": 1644761700000,
+  "end": 1644768900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

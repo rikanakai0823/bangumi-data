@@ -1,0 +1,23 @@
+{
+  "id": "rkdrb64",
+  "category": "information",
+  "title": "リブセトラ　電気圧力鍋",
+  "fullTitle": "リブセトラ　電気圧力鍋",
+  "detail": "火加減調節や時間を計る手間をかけず簡単に調理ができる電気圧力鍋。２～３人用のコンパクトタイプで、白米は３合まで炊けます。",
+  "start": 1644717600000,
+  "end": 1644721200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

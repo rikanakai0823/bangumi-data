@@ -1,0 +1,26 @@
+{
+  "id": "idy8qeo",
+  "category": "anime",
+  "title": "ツムツム",
+  "fullTitle": "[無]ツムツム#36[解]",
+  "detail": "#36「ツムのプレミア試写会」",
+  "start": 1644717420000,
+  "end": 1644717600000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ツムのプレミア試写会",
+  "episode": 36,
+  "flags": [
+    "無",
+    "解"
+  ]
+}

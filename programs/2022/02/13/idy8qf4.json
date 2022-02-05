@@ -1,0 +1,26 @@
+{
+  "id": "idy8qf4",
+  "category": "drama",
+  "title": "キャンプ・キキワカ",
+  "fullTitle": "[無]キャンプ・キキワカ#98[二]",
+  "detail": "#98「リアリティ・ショー」",
+  "start": 1644760800000,
+  "end": 1644762600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "リアリティ・ショー",
+  "episode": 98,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

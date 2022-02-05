@@ -1,0 +1,29 @@
+{
+  "id": "381sxrgoyw",
+  "category": "sports",
+  "title": "全日本実業団山口ハーフマラソン２０２２",
+  "fullTitle": "全日本実業団山口ハーフマラソン２０２２[字]",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/sports/yamaguchi/",
+  "start": 1644728400000,
+  "end": 1644733440000,
+  "seconds": 5040,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/sports/yamaguchi/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

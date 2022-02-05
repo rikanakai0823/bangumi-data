@@ -1,0 +1,26 @@
+{
+  "id": "iduhcug",
+  "category": "cinema",
+  "title": "ゆれる",
+  "fullTitle": "[映]ゆれる[字]",
+  "detail": "山奥で起きた転落死事件。被害者は幼なじみの女性だが、加害者はある兄弟の兄か。弟は兄を守ろうとする。オダギリジョーと香川照之が共演した、西川美和監督のサスペンス。",
+  "start": 1644737400000,
+  "end": 1644745500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

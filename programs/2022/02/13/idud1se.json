@@ -1,0 +1,27 @@
+{
+  "id": "idud1se",
+  "category": "cinema",
+  "title": "日本独立",
+  "fullTitle": "[映]日本独立[SS][字]",
+  "detail": "終戦後、ＧＨＱ占領下の日本で憲法改正が火急の課題となる中、その困難な課題に立ち向かった日本人たちの知られざる苦闘を、浅野忠信ほか豪華出演陣の競演で描いた群像劇。",
+  "start": 1644701400000,
+  "end": 1644709500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

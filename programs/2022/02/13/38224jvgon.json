@@ -1,0 +1,29 @@
+{
+  "id": "38224jvgon",
+  "category": "sports",
+  "title": "速報！北京五輪ハイライト",
+  "fullTitle": "速報！北京五輪ハイライト[字]",
+  "detail": "メダル獲得の瞬間など、ニッポン代表選手の活躍を速報でお届けします！\n◇◇おしらせ\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/beijing2022/",
+  "start": 1644678300000,
+  "end": 1644678900000,
+  "seconds": 600,
+  "description": "メダル獲得の瞬間など、ニッポン代表選手の活躍を速報でお届けします！",
+  "extra": {
+    "◇おしらせ": "☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/beijing2022/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

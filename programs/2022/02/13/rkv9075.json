@@ -1,0 +1,25 @@
+{
+  "id": "rkv9075",
+  "category": "news",
+  "title": "皇室日記特別版",
+  "fullTitle": "[無料]皇室日記特別版　「令和の象徴として～模索の日々～」",
+  "detail": "「令和の象徴として～模索の日々～」",
+  "start": 1644701400000,
+  "end": 1644703200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "令和の象徴として～模索の日々～",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

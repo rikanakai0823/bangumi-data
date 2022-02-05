@@ -1,0 +1,26 @@
+{
+  "id": "idv0xje",
+  "category": "cinema",
+  "title": "サタデー・ナイト・フィーバー",
+  "fullTitle": "[映][SS]サタデー・ナイト・フィーバー[吹]",
+  "detail": "日本でもダンス・ブームを生んだ傑作青春映画。ジョン・トラヴォルタがダンスに情熱を注ぐ若者を熱演！［ＰＧ－１２］",
+  "start": 1644702600000,
+  "end": 1644711000000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

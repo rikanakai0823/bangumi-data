@@ -1,0 +1,25 @@
+{
+  "id": "idv0y1q",
+  "category": "cinema",
+  "title": "ＦＬＵ　運命の３６時間",
+  "fullTitle": "[映]ＦＬＵ　運命の３６時間[吹]",
+  "detail": "韓国で大ヒットを記録したパニック映画。ウィルス感染により封鎖された街を舞台に、救急隊員の決死の戦いを描く。",
+  "start": 1644725400000,
+  "end": 1644733200000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

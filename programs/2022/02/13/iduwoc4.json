@@ -1,0 +1,25 @@
+{
+  "id": "iduwoc4",
+  "category": "anime",
+  "title": "ネビュラ７５",
+  "fullTitle": "[初]ネビュラ７５　＃１[吹]【独占初放送スタート】",
+  "detail": "宇宙船ネビュラ７５のクルーたちの冒険を、「サンダーバード」のパペットや小道具を使って描く新シリーズ。（全１１話）",
+  "start": 1644753600000,
+  "end": 1644755400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "独占初放送スタート",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

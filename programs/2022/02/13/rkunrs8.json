@@ -1,0 +1,26 @@
+{
+  "id": "rkunrs8",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#34,#35[字/日英]",
+  "fullTitle": "[無]ちびっこバス　タヨ#34,#35[二][字/日英]",
+  "detail": "#34「タヨとの約束」　#35「スターになったガニ」",
+  "start": 1644712200000,
+  "end": 1644714000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "タヨとの約束",
+  "episode": 34,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduyslo",
+  "category": "cinema",
+  "title": "ロシュフォールの恋人たち",
+  "fullTitle": "[映]ロシュフォールの恋人たち",
+  "detail": "運命の相手に巡り逢うことを夢見る双子の姉妹の恋愛模様を、ハートフルかつ色彩鮮やかに描いたフレンチ・ミュージカルの傑作。",
+  "start": 1644712800000,
+  "end": 1644721200000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

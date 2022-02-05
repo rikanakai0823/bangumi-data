@@ -1,0 +1,26 @@
+{
+  "id": "idy8qeg",
+  "category": "hobby",
+  "title": "パグ・パグ・アドベンチャー",
+  "fullTitle": "[無]パグ・パグ・アドベンチャー#75[二]",
+  "detail": "#75「いつも　そなえよ！／こうえんの　となりのいえ」",
+  "start": 1644703200000,
+  "end": 1644705000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "いつも　そなえよ！／こうえんの　となりのいえ",
+  "episode": 75,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

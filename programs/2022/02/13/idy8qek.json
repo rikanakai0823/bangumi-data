@@ -1,0 +1,26 @@
+{
+  "id": "idy8qek",
+  "category": "hobby",
+  "title": "おさるのジョージ",
+  "fullTitle": "[無]おさるのジョージ#12[二]",
+  "detail": "#12「ドクター・ジョージ／ガラガラ、ドッカーン」",
+  "start": 1644710400000,
+  "end": 1644712200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ドクター・ジョージ／ガラガラ、ドッカーン",
+  "episode": 12,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxca8i",
+  "category": "drama",
+  "title": "見せます　Mnet　presents",
+  "fullTitle": "[無]第1話見せます　Mnet　presents 「ホームタウン(原題)」",
+  "detail": "2話目以降は CS318/プレミアムサービス658CH Mnetで毎週(月)(火)22:00～放送！",
+  "start": 1644751800000,
+  "end": 1644756300000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "ホームタウン",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

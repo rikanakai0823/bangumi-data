@@ -1,0 +1,27 @@
+{
+  "id": "idud1sn",
+  "category": "cinema",
+  "title": "エリザベス（吹替版）",
+  "fullTitle": "[映]エリザベス（吹替版）[SS][字]",
+  "detail": "新教徒として王室から疎まれながら大英帝国の女王になるエリザベス１世。生涯夫を持たず、後に“バージン・クイーン”と呼ばれた彼女にＣ・ブランシェットが扮した宮廷劇。",
+  "start": 1644724500000,
+  "end": 1644732000000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
