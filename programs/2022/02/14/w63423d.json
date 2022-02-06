@@ -1,0 +1,25 @@
+{
+  "id": "w63423d",
+  "category": "sports",
+  "title": "スポーツクライミング リードジャパンカップ",
+  "fullTitle": "[初]スポーツクライミング 第35回リードジャパンカップ",
+  "detail": "第35回リードジャパンカップ\r\n＜男子・女子 決勝＞\r\n(2022/2/13　松山下公園総合体育館・千葉県)",
+  "start": 1644831000000,
+  "end": 1644845400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": 35,
+  "flags": [
+    "初"
+  ]
+}

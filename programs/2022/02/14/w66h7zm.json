@@ -1,0 +1,25 @@
+{
+  "id": "w66h7zm",
+  "category": "sports",
+  "title": "プロ野球ニュース 2022",
+  "fullTitle": "[生]プロ野球ニュース 2022",
+  "detail": "どこよりも詳しくプロ野球情報をお伝えする野球専門番組。プロ野球ファンの気になるチーム、気になる選手の情報をお届けする！\r\n　【生放送】",
+  "start": 1644847200000,
+  "end": 1644850800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

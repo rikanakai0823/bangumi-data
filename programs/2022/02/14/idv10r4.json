@@ -1,0 +1,25 @@
+{
+  "id": "idv10r4",
+  "category": "cinema",
+  "title": "シェルタリング・スカイ",
+  "fullTitle": "[映]シェルタリング・スカイ[吹]",
+  "detail": "『ラストエンペラー』のベルナルド・ベルトルッチ監督が描く、長年連れ添った夫婦に待ち受ける喪失と虚無を映した大人のドラマ。",
+  "start": 1644790800000,
+  "end": 1644799800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

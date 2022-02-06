@@ -1,0 +1,27 @@
+{
+  "id": "idud1tc",
+  "category": "cinema",
+  "title": "劇場版ポケットモンスター　ココ",
+  "fullTitle": "[映]劇場版ポケットモンスター　ココ[SS][字]",
+  "detail": "ポケモンに育てられた少年ココは、サトシと出会い、初めてニンゲンの存在を知る。ポケモンと人間との絆、そして本当の親子の絆を描く劇場版ポケットモンスター第２３作。",
+  "start": 1644830100000,
+  "end": 1644836400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

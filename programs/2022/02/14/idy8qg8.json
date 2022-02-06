@@ -1,0 +1,25 @@
+{
+  "id": "idy8qg8",
+  "category": "anime",
+  "title": "ゴーストフォース／声：斉藤壮馬ほか★ミラクルタイム",
+  "fullTitle": "ゴーストフォース#3[二]／声：斉藤壮馬ほか★ミラクルタイム",
+  "detail": "#3「ゴーストフォース」",
+  "start": 1644827400000,
+  "end": 1644829200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ゴーストフォース",
+  "episode": 3,
+  "flags": [
+    "二"
+  ]
+}

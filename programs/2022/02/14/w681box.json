@@ -1,0 +1,25 @@
+{
+  "id": "w681box",
+  "category": "anime",
+  "title": "佐々木と宮野",
+  "fullTitle": "佐々木と宮野 #05 [字]",
+  "detail": "#05 いっこずつ。",
+  "start": 1644822000000,
+  "end": 1644823800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "いっこずつ。",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}
