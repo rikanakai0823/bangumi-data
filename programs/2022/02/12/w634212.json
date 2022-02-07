@@ -2,7 +2,7 @@
   "id": "w634212",
   "category": "information",
   "title": "インフォメーション",
-  "fullTitle": "[無料]インフォメーション",
+  "fullTitle": "インフォメーション",
   "detail": "",
   "start": 1644611400000,
   "end": 1644613200000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "無"
-  ]
+  "flags": []
 }
