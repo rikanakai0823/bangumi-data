@@ -1,0 +1,23 @@
+{
+  "id": "w67g86j",
+  "category": "music",
+  "title": "ASTRO ビデオ特集",
+  "fullTitle": "ASTRO ビデオ特集",
+  "detail": "世界中のファンを魅了したASTROのミュージックビデオを特集する。",
+  "start": 1644850800000,
+  "end": 1644854400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

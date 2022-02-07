@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuoz5",
+  "category": "sports",
+  "title": "北京オリンピック",
+  "fullTitle": "北京オリンピック[字]",
+  "detail": "",
+  "start": 1644916200000,
+  "end": 1644918300000,
+  "seconds": 2100,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

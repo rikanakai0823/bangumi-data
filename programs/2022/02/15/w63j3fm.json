@@ -1,0 +1,25 @@
+{
+  "id": "w63j3fm",
+  "category": "sports",
+  "title": "巨人練習試合 2022～那覇～",
+  "fullTitle": "[生]巨人練習試合 2022「巨人×日本ハム」～那覇～",
+  "detail": "～生中継　*雨天の場合、放送休止の可能性あり　*試合終了まで放送",
+  "start": 1644894900000,
+  "end": 1644910200000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×日本ハム",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

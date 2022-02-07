@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuoz4",
+  "category": "sports",
+  "title": "北京オリンピック◇カーリング　女子・予選リーグ（中継）",
+  "fullTitle": "北京オリンピック◇カーリング　女子・予選リーグ「日本×イギリス」（中継）[字]",
+  "detail": "◇カーリング　女子・予選リーグ「日本×イギリス」（中継）",
+  "start": 1644911340000,
+  "end": 1644911700000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "日本×イギリス",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

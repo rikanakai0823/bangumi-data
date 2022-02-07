@@ -1,0 +1,23 @@
+{
+  "id": "w67kiq1",
+  "category": "music",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "放送休止",
+  "start": 1644872400000,
+  "end": 1644876000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
