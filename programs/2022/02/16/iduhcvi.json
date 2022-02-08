@@ -1,0 +1,27 @@
+{
+  "id": "iduhcvi",
+  "category": "cinema",
+  "title": "羅小黒戦記　ぼくが選ぶ未来（吹替版）",
+  "fullTitle": "[映]羅小黒戦記　ぼくが選ぶ未来（吹替版）[SS][字]",
+  "detail": "人間たちの自然破壊で森を追われた黒ネコの妖精シャオヘイが、人間ムゲンとの旅を通じ、人間と妖精の関わりを理解していく。中国発の冒険ファンタジーアニメーション。",
+  "start": 1644984000000,
+  "end": 1644991200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduhcvh",
+  "category": "cinema",
+  "title": "ブレッドウィナー（字幕版）",
+  "fullTitle": "[映]ブレッドウィナー（字幕版）[SS]",
+  "detail": "第９０回アカデミー賞で長編アニメ映画賞にノミネートされた秀作。舞台は２００１年のアフガニスタン。当時のシビアな現実を背景に、ある少女の苦難と奮闘を生々しく描写。",
+  "start": 1644978000000,
+  "end": 1644984000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 90,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

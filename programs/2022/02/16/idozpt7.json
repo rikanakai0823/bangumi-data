@@ -1,0 +1,23 @@
+{
+  "id": "idozpt7",
+  "category": "news",
+  "title": "時論公論",
+  "fullTitle": "時論公論",
+  "detail": "",
+  "start": 1644958200000,
+  "end": 1644958800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

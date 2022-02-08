@@ -1,0 +1,27 @@
+{
+  "id": "iduhcvm",
+  "category": "cinema",
+  "title": "ジャッジ！",
+  "fullTitle": "[映]ジャッジ！[SS][字]",
+  "detail": "世界一のテレビＣＭを決めるサンタモニカ国際広告祭。無理やり参加させられた若き広告代理店社員は奇跡を起こせるか？　妻夫木聡と北川景子共演の広告業界内幕コメディ。",
+  "start": 1645012800000,
+  "end": 1645020000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

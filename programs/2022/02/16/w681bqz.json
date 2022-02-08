@@ -1,0 +1,25 @@
+{
+  "id": "w681bqz",
+  "category": "anime",
+  "title": "殺し愛",
+  "fullTitle": "殺し愛 #05 [字]",
+  "detail": "#05 LIMIT",
+  "start": 1644996600000,
+  "end": 1644998400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "LIMIT",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67uzp6",
+  "category": "anime",
+  "title": "弱虫ペダル ,22",
+  "fullTitle": "弱虫ペダル[字] #21,22",
+  "detail": "＃２１「石道の蛇」＃２２「インターハイ開幕」",
+  "start": 1644944400000,
+  "end": 1644948000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "石道の蛇",
+  "episode": 21,
+  "flags": [
+    "字"
+  ]
+}

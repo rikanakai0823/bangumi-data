@@ -1,0 +1,23 @@
+{
+  "id": "rlm6aqp",
+  "category": "sports",
+  "title": "サンフレッチェTV",
+  "fullTitle": "サンフレッチェTV #113",
+  "detail": "サンフレッチェ広島のクラブ応援番組。選手の素顔やインタビューなど貴重映像とともにクラブの活動をお届けします。",
+  "start": 1644957000000,
+  "end": 1644957900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "",
+  "episode": 113,
+  "flags": []
+}

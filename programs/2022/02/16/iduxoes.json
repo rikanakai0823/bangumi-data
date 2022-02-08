@@ -1,0 +1,25 @@
+{
+  "id": "iduxoes",
+  "category": "cinema",
+  "title": "夜の訪問者",
+  "fullTitle": "[映]夜の訪問者【犯罪ファイル：裏社会の男たち】",
+  "detail": "チャールズ・ブロンソン主演のサスペンススリラー。港町で平和に暮らしている男が突如現れた昔の仲間と対立する運命が描かれる。",
+  "start": 1645012800000,
+  "end": 1645018800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "犯罪ファイル：裏社会の男たち",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
