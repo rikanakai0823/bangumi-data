@@ -1,0 +1,26 @@
+{
+  "id": "iduvm1b",
+  "category": "cinema",
+  "title": "燃えよスーリヤ！！",
+  "fullTitle": "[映][SS]燃えよスーリヤ！！",
+  "detail": "ある青年が、空手やカンフーで敵に立ち向かう姿を、カンフー映画へのオマージュたっぷりに描いたインド製アクション・コメディ。",
+  "start": 1645082100000,
+  "end": 1645091100000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

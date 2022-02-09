@@ -1,0 +1,25 @@
+{
+  "id": "iduzvko",
+  "category": "cinema",
+  "title": "おかしなおかしな大泥棒日曜洋画劇場版",
+  "fullTitle": "[映]おかしなおかしな大泥棒[吹]日曜洋画劇場版",
+  "detail": "ライアン・オニールが主演の犯罪コメディ。コンピュータ導入による人員削減で会社をクビになった男が、泥棒に転身する姿を描く。",
+  "start": 1645045200000,
+  "end": 1645050600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67uzrd",
+  "category": "anime",
+  "title": "弱虫ペダル ,26",
+  "fullTitle": "弱虫ペダル[字] #25,26",
+  "detail": "＃２５「負け」＃２６「空が見える」",
+  "start": 1645099200000,
+  "end": 1645102800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "負け",
+  "episode": 25,
+  "flags": [
+    "字"
+  ]
+}

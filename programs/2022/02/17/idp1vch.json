@@ -1,0 +1,25 @@
+{
+  "id": "idp1vch",
+  "category": "sports",
+  "title": "北京オリンピック◇フィギュアスケート　女子シングル・フリー（中継）",
+  "fullTitle": "北京オリンピック◇フィギュアスケート　女子シングル・フリー（中継）[字]",
+  "detail": "◇フィギュアスケート　女子シングル・フリー（中継）",
+  "start": 1645102200000,
+  "end": 1645105200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

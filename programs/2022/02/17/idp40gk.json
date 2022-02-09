@@ -1,0 +1,26 @@
+{
+  "id": "idp40gk",
+  "category": "hobby",
+  "title": "ニッポンぶらり鉄道旅",
+  "fullTitle": "ニッポンぶらり鉄道旅「ＪＲ常磐線　つなぐ宝物を探して」[解][字]",
+  "detail": "【語り】ＴＡＲＡＫＯ，【リポーター】中山義紘",
+  "start": 1645093800000,
+  "end": 1645095600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ＪＲ常磐線　つなぐ宝物を探して",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

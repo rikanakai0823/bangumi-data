@@ -1,0 +1,25 @@
+{
+  "id": "iduxrq4",
+  "category": "cinema",
+  "title": "大列車強盗団",
+  "fullTitle": "[映]大列車強盗団",
+  "detail": "『ブリット』のピーター・イェーツ監督の傑作犯罪サスペンス。ロンドン郊外で１９６３年に起きた３０億円強奪事件を基に描く。",
+  "start": 1645106400000,
+  "end": 1645113600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

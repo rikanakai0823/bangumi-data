@@ -1,0 +1,23 @@
+{
+  "id": "idrd1x9",
+  "category": "information",
+  "title": "番組ガイド",
+  "fullTitle": "番組ガイド",
+  "detail": "",
+  "start": 1645089900000,
+  "end": 1645090200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
