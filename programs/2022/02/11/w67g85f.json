@@ -2,7 +2,7 @@
   "id": "w67g85f",
   "category": "music",
   "title": "新旧特選ヒッツ▼ペンタトニックス/[Alexandros] ほか",
-  "fullTitle": "新旧特選ヒッツ▼ペンタトニックス/[Alexandros] ほか",
+  "fullTitle": "[無料]新旧特選ヒッツ▼ペンタトニックス/[Alexandros] ほか",
   "detail": "話題のあの曲はここで！音楽ファンを唸らせる注目のミュージックビデオを、MTV独自の選曲でピックアップ！",
   "start": 1644523200000,
   "end": 1644526800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }

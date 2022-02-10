@@ -1,0 +1,25 @@
+{
+  "id": "idozurp",
+  "category": "sports",
+  "title": "北京オリンピック◇アイスホッケー　女子・準々決勝（中継）",
+  "fullTitle": "北京オリンピック◇アイスホッケー　女子・準々決勝「日本×フィンランド」（中継）[字]",
+  "detail": "◇アイスホッケー　女子・準々決勝「日本×フィンランド」（中継）",
+  "start": 1644654900000,
+  "end": 1644663300000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "日本×フィンランド",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

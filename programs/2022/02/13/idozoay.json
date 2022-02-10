@@ -1,0 +1,25 @@
+{
+  "id": "idozoay",
+  "category": "news",
+  "title": "週刊ワールドニュース",
+  "fullTitle": "週刊ワールドニュース[二]",
+  "detail": "緊迫するウクライナ情勢。ドイツのロシアへの対応が弱腰だと評判が悪い。その背景を詳しく解説。感染拡大が続くコロナ禍だが、規制を緩和する国が増えている。その理由は？",
+  "start": 1644679200000,
+  "end": 1644682200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

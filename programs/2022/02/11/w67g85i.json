@@ -2,7 +2,7 @@
   "id": "w67g85i",
   "category": "music",
   "title": "【歌詞付】最新カラオケランキング20▼YOASOBI /King Gnu ほか",
-  "fullTitle": "【歌詞付】最新カラオケランキング20▼YOASOBI /King Gnu ほか",
+  "fullTitle": "[無料]【歌詞付】最新カラオケランキング20▼YOASOBI /King Gnu ほか",
   "detail": "鉄板カラオケソング20曲を全て歌詞付きでオンエア！これであなたのレパートリーも完璧！",
   "start": 1644580800000,
   "end": 1644588000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
