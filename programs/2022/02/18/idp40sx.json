@@ -1,0 +1,26 @@
+{
+  "id": "idp40sx",
+  "category": "documentary",
+  "title": "新日本風土記",
+  "fullTitle": "新日本風土記「北上川」[字][再]",
+  "detail": "岩手から宮城を流れる東北一の大河、北上川。江戸時代は水運の大動脈として暮らしを支え、明治に入ると蒸気船が人や文化を運んだ。流域の絶景や歴史をたどる冬の北上川の旅",
+  "start": 1645138800000,
+  "end": 1645142400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "北上川",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

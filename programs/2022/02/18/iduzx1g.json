@@ -1,0 +1,26 @@
+{
+  "id": "iduzx1g",
+  "category": "cinema",
+  "title": "カジノ",
+  "fullTitle": "[映][SS]カジノ[吹]",
+  "detail": "監督マーティン・スコセッシ、主演ロバート・デ・ニーロによる、７０年代ラスベガスのカジノを巡る人間模様を描く骨太なドラマ。",
+  "start": 1645113600000,
+  "end": 1645125000000,
+  "seconds": 11400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

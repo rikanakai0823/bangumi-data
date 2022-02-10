@@ -1,0 +1,26 @@
+{
+  "id": "rktcwu9",
+  "category": "cinema",
+  "title": "Ｋ－シアター",
+  "fullTitle": "Ｋ－シアター「プリースト 悪魔を葬る者」[字][再]",
+  "detail": "KBS World初放送！カン・ドンウォン×キム・ユンソク主演！2人の司祭が悪魔に立ち向かう韓国観客動員数500万人を突破した異色のホラー・ミステリー！2015年",
+  "start": 1645195200000,
+  "end": 1645203300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "プリースト 悪魔を葬る者",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

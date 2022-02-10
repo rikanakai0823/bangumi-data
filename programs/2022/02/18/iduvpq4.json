@@ -1,0 +1,26 @@
+{
+  "id": "iduvpq4",
+  "category": "cinema",
+  "title": "インシディアス",
+  "fullTitle": "[映][SS]インシディアス【金曜ＨＯＲＲＯＲ穴】",
+  "detail": "『ソウ』と『パラノーマル・アクティビティ』のスタッフが結集、息子を救おうとする家族の恐怖を描いた衝撃のホラー。",
+  "start": 1645192800000,
+  "end": 1645200000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "金曜ＨＯＲＲＯＲ穴",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

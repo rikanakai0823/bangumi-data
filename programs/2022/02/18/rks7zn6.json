@@ -1,0 +1,23 @@
+{
+  "id": "rks7zn6",
+  "category": "anime",
+  "title": "クレヨンしんちゃん",
+  "fullTitle": "クレヨンしんちゃん #509",
+  "detail": "#509「明日からダイエットだゾ／テレビ朝日を見学するゾ」\r\n1992年4月～放映中／原作：臼井儀人",
+  "start": 1645135200000,
+  "end": 1645137000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "明日からダイエットだゾ／テレビ朝日を見学するゾ",
+  "episode": 509,
+  "flags": []
+}

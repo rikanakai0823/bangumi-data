@@ -1,0 +1,25 @@
+{
+  "id": "w681bt9",
+  "category": "anime",
+  "title": "ドールズフロントライン",
+  "fullTitle": "ドールズフロントライン #06 [字]",
+  "detail": "#06 THE MESSAGE01 メッセージ01",
+  "start": 1645173000000,
+  "end": 1645174800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "THE MESSAGE01 メッセージ01",
+  "episode": 6,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvmqb",
+  "category": "cinema",
+  "title": "ソング・トゥ・ソング",
+  "fullTitle": "[映][SS]ソング・トゥ・ソング",
+  "detail": "名匠テレンス・マリックが手掛けた人間ドラマ。音楽の街オースティンを舞台に４人の男女が幸せを模索する姿を描く。［ＰＧ１２］",
+  "start": 1645114500000,
+  "end": 1645123500000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

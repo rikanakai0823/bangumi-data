@@ -1,0 +1,25 @@
+{
+  "id": "idx1vil",
+  "category": "anime",
+  "title": "ベルセルク ,8",
+  "fullTitle": "[字]ベルセルク #7,8",
+  "detail": "#7「黒き魔女」#8「魔窟の再会」\r\nまた“あの夜”がやってくる…。終わりのみえない復讐の旅を続ける“黒い剣士”ガッ…",
+  "start": 1645192800000,
+  "end": 1645196400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "黒き魔女",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idx1vi0",
+  "category": "anime",
+  "title": "ベルセルク ,6",
+  "fullTitle": "[字]ベルセルク #5,6",
+  "detail": "#5「断罪の塔」#6「火あぶりの夜宴」\r\nまた“あの夜”がやってくる…。終わりのみえない復讐の旅を続ける“黒い剣士”…",
+  "start": 1645124400000,
+  "end": 1645128000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "断罪の塔",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}
