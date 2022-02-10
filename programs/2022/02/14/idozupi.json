@@ -1,0 +1,26 @@
+{
+  "id": "idozupi",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「世界の果てに花を生ける」[字][再]",
+  "detail": "上空３万メートル、海底１千メートル。極限の世界に花を生けた時、どんな“命の輝き”を見せるか。フラワーアーティスト・東信の挑戦に密着。４Ｋカメラで記録した映像詩。",
+  "start": 1644766740000,
+  "end": 1644769680000,
+  "seconds": 2940,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "世界の果てに花を生ける",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
