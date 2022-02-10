@@ -2,7 +2,7 @@
   "id": "idp1ycg",
   "category": "sports",
   "title": "北京オリンピック",
-  "fullTitle": "北京オリンピック[字]",
+  "fullTitle": "北京オリンピック",
   "detail": "",
   "start": 1644843000000,
   "end": 1644846000000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }

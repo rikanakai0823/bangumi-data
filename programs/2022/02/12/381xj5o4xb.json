@@ -1,8 +1,8 @@
 {
   "id": "381xj5o4xb",
-  "category": "etc",
-  "title": "土曜ワイド",
-  "fullTitle": "土曜ワイド",
+  "category": "drama",
+  "title": "土曜ワイド・ゴシップ　＃彼女が知りたい本当の〇〇（仮）",
+  "fullTitle": "土曜ワイド・ゴシップ　＃彼女が知りたい本当の〇〇（仮）　＃０６[再][字]",
   "detail": "",
   "start": 1644640200000,
   "end": 1644643500000,
@@ -18,6 +18,9 @@
     "n": 29
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 6,
+  "flags": [
+    "再",
+    "字"
+  ]
 }
