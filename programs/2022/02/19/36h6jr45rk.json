@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr45rk",
+  "category": "sports",
+  "title": "北京オリンピック",
+  "fullTitle": "北京オリンピック「スピードスケート女子／男子マススタート」[Ｓ]",
+  "detail": "",
+  "start": 1645264800000,
+  "end": 1645268400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "スピードスケート女子／男子マススタート",
+  "episode": null,
+  "flags": []
+}

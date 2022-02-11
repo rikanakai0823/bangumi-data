@@ -1,0 +1,23 @@
+{
+  "id": "rktf52a",
+  "category": "music",
+  "title": "Mnetライブ",
+  "fullTitle": "Mnetライブ 【NU'EST】",
+  "detail": "ハイレベルな歌声で変わらぬ人気を誇りつづけるNU'EST！彼らのカリスマあふれるパフォーマンスをまとめてお届け！\r\n2021年\r\n※再放送情報はMnet HPにてご確認ください",
+  "start": 1645212600000,
+  "end": 1645214400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "NU'EST",
+  "episode": null,
+  "flags": []
+}

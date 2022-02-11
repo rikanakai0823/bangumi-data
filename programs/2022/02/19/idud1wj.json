@@ -1,0 +1,27 @@
+{
+  "id": "idud1wj",
+  "category": "cinema",
+  "title": "シルク（字幕版）[PG-12指定]",
+  "fullTitle": "[映]シルク（字幕版）[PG-12指定][SS][字]",
+  "detail": "１９世紀、美しい絹糸を生み出す蚕の卵を求めてフランスから日本に渡った青年は、ある美少女の面影を忘れられず……。役所広司ら世界のスターが豪華競演したラブロマンス。",
+  "start": 1645203600000,
+  "end": 1645210800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idozr8w",
+  "category": "sports",
+  "title": "Ｊリーグ２０２２　開幕節「横浜Ｆ・マリノス」対",
+  "fullTitle": "Ｊリーグ２０２２　開幕節「横浜Ｆ・マリノス」対「セレッソ大阪」[デ]",
+  "detail": "　（試合開始　２：０３）　【解説】福西崇史，【アナウンサー】内山俊哉　～日産スタジアムから中継～",
+  "start": 1645246800000,
+  "end": 1645254000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "セレッソ大阪",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}

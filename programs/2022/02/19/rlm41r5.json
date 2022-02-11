@@ -1,0 +1,25 @@
+{
+  "id": "rlm41r5",
+  "category": "sports",
+  "title": "HAWKS宮崎春季キャンプ中継2022 午後の部 2/19",
+  "fullTitle": "[生]HAWKS宮崎春季キャンプ中継2022 午後の部 2/19",
+  "detail": "出演者：若菜嘉晴/石黒新平\r\n春季キャンプの模様を全日程生中継！",
+  "start": 1645243200000,
+  "end": 1645252200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

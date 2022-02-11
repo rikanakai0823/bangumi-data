@@ -1,0 +1,25 @@
+{
+  "id": "w63j3hg",
+  "category": "sports",
+  "title": "巨人練習試合 2022～那覇～",
+  "fullTitle": "[生]巨人練習試合 2022「巨人×広島」～那覇～",
+  "detail": "～生中継　*雨天の場合放送休止の可能性あり　*延長なし\r\n解説：井端弘和　実況：平松修造",
+  "start": 1645240500000,
+  "end": 1645255800000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×広島",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

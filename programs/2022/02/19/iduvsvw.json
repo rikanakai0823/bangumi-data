@@ -1,0 +1,26 @@
+{
+  "id": "iduvsvw",
+  "category": "cinema",
+  "title": "藁にもすがる獣たち",
+  "fullTitle": "[映][SS]藁にもすがる獣たち",
+  "detail": "曽根圭介の小説を韓国で映画化したクライムサスペンス。欲望に取り憑かれた人間たちによる大金の入ったバッグの争奪戦を描く。",
+  "start": 1645279200000,
+  "end": 1645286400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

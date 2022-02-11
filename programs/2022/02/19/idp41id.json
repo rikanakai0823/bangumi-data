@@ -1,0 +1,25 @@
+{
+  "id": "idp41id",
+  "category": "documentary",
+  "title": "さわやか自然百景",
+  "fullTitle": "さわやか自然百景「長野　戸隠高原　秋から冬」[字]",
+  "detail": "豊かな森が広がる長野県の戸隠高原。秋、高原はたくさんの生きものたちでにぎわう。森の恵みをついばむ鳥たち。澄んだ沢で子孫を残すイワナ。やがて厳しい冬がやってくる。",
+  "start": 1645219800000,
+  "end": 1645220700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "長野　戸隠高原　秋から冬",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

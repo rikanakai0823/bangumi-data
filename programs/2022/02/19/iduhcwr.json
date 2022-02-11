@@ -1,0 +1,27 @@
+{
+  "id": "iduhcwr",
+  "category": "cinema",
+  "title": "カンフー・モンスター（字幕版）",
+  "fullTitle": "[初][映]カンフー・モンスター（字幕版）[SS]",
+  "detail": "明朝の中国を舞台に、殺人兵器として育てられた怪物をめぐり、人間たちの思惑が複雑に絡み合っていく。アンドリュー・ラウ監督が描くコミカルファンタジーアクション。",
+  "start": 1645261200000,
+  "end": 1645267500000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS"
+  ]
+}

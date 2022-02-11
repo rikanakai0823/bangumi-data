@@ -2,7 +2,7 @@
   "id": "w63j3es",
   "category": "etc",
   "title": "NFL on 日テレジータス2021 プロボウル 編集版",
-  "fullTitle": "NFL on 日テレジータス2021 プロボウル 編集版",
+  "fullTitle": "[無料]NFL on 日テレジータス2021 プロボウル 編集版",
   "detail": "プロボウル「AFC×NFC」\r\n2022年2月7日開催\r\n解説：村田斉潔\r\n実況：近藤祐司",
   "start": 1644723000000,
   "end": 1644737400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "AFC×NFC",
   "episode": null,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
