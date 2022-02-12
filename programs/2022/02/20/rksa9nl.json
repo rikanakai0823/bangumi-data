@@ -1,0 +1,25 @@
+{
+  "id": "rksa9nl",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2022 新春黄金シリーズ",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2022 新春黄金シリーズ",
+  "detail": "新日本プロレス５０周年記念・新春黄金シリーズ最終戦は雪の札幌決戦！\r\nメインはIWGP世界ヘビー級王座を懸けて王者オカダと内藤が約２年ぶりに激突！\r\n※延長の場合あり",
+  "start": 1645333200000,
+  "end": 1645344000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

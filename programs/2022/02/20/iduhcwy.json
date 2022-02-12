@@ -1,0 +1,27 @@
+{
+  "id": "iduhcwy",
+  "category": "cinema",
+  "title": "犬部！",
+  "fullTitle": "[映]犬部！[SS][字]",
+  "detail": "青森県の北里大学に実在した動物保護サークルを題材にした青春ストーリー。現役の獣医科大学生たちが、サークル活動を通じて捨て犬や捨て猫を救おうと奮闘する姿を綴る。",
+  "start": 1645304400000,
+  "end": 1645311600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

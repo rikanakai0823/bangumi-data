@@ -1,0 +1,26 @@
+{
+  "id": "381jqz0gpd",
+  "category": "sports",
+  "title": "北京オリンピック◇閉会式（中継）",
+  "fullTitle": "北京オリンピック◇閉会式（中継）[解][字][手]",
+  "detail": "◇閉会式（中継）",
+  "start": 1645358400000,
+  "end": 1645365600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

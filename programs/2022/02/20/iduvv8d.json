@@ -1,0 +1,25 @@
+{
+  "id": "iduvv8d",
+  "category": "cinema",
+  "title": "ボルケーノ・パーク",
+  "fullTitle": "[映]ボルケーノ・パーク",
+  "detail": "サイモン・ウェスト監督が、火山の島を舞台に突如発生した噴火によって大災害が引き起こされるさまを描くパニック・アクション。",
+  "start": 1645328700000,
+  "end": 1645335000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

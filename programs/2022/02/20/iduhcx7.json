@@ -1,0 +1,28 @@
+{
+  "id": "iduhcx7",
+  "category": "cinema",
+  "title": "望み",
+  "fullTitle": "[初][映]望み[SS][字]",
+  "detail": "堤真一、石田ゆり子らの共演で、雫井脩介の小説を堤幸彦監督が映画化したミステリー。失踪した長男が殺人事件に関わっている可能性がある家族。彼らは葛藤にもがき苦しむ。",
+  "start": 1645358400000,
+  "end": 1645365600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv05ei",
+  "category": "cinema",
+  "title": "大頭脳水曜ロードショー版",
+  "fullTitle": "[映]大頭脳[吹]水曜ロードショー版",
+  "detail": "【映画は死なず！４ヵ月連続！「激レア地上波吹替版」ＰＡＲＴ３】",
+  "start": 1645321800000,
+  "end": 1645327800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "映画は死なず！４ヵ月連続！「激レア地上波吹替版",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

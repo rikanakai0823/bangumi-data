@@ -1,0 +1,25 @@
+{
+  "id": "idtrfpi",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　フェブラリーS（GⅠ）　小倉大賞典（GⅢ）",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ　フェブラリーS（GⅠ）　小倉大賞典（GⅢ）",
+  "detail": "東京：フェブラリーS（GⅠ）小倉：小倉大賞典（GⅢ）阪神：大和S／ゲスト：山本昌（元プロ野球選手）解説：沢田知希（競馬エイト）／最強ダートホース決定戦",
+  "start": 1645336800000,
+  "end": 1645340400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idsjxur",
+  "category": "cinema",
+  "title": "「００７／消されたライセンス」",
+  "fullTitle": "[字][映]「００７／消されたライセンス」【吹替】",
+  "detail": "４代目ジェームズ・ボンド、ティモシー・ダルトンの２作目にして最終作であるシリーズ第１６作。悪役に若き日のベニチオ・デル・トロも登場！",
+  "start": 1645338600000,
+  "end": 1645347600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "字",
+    "映"
+  ]
+}

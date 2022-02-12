@@ -1,0 +1,25 @@
+{
+  "id": "rlm41qn",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第23節 ケルン×フランクフルト",
+  "fullTitle": "[生]21/22 ブンデスリーガ 第23節 ケルン×フランクフルト",
+  "detail": "実況:原大悟\r\n開催日:2022年2月19日\r\n会場:ラインエネルギー シュタディオン",
+  "start": 1645291200000,
+  "end": 1645300200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

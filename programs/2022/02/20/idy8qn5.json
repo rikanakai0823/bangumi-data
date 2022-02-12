@@ -1,0 +1,25 @@
+{
+  "id": "idy8qn5",
+  "category": "anime",
+  "title": "三人の騎士の伝説",
+  "fullTitle": "三人の騎士の伝説#2[二]",
+  "detail": "#2「くりかえす歴史」",
+  "start": 1645299000000,
+  "end": 1645300800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "くりかえす歴史",
+  "episode": 2,
+  "flags": [
+    "二"
+  ]
+}
