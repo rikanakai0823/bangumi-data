@@ -1,9 +1,9 @@
 {
   "id": "idozt6p",
   "category": "sports",
-  "title": "北京オリンピック",
-  "fullTitle": "北京オリンピック",
-  "detail": "",
+  "title": "北京オリンピック◇カーリング　女子・予選リーグ（中継）",
+  "fullTitle": "北京オリンピック◇カーリング　女子・予選リーグ「日本×韓国」（中継）[字]",
+  "detail": "◇カーリング　女子・予選リーグ「日本×韓国」（中継）",
   "start": 1644846000000,
   "end": 1644851400000,
   "seconds": 5400,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "日本×韓国",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

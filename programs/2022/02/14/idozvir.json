@@ -1,0 +1,23 @@
+{
+  "id": "idozvir",
+  "category": "sports",
+  "title": "北京オリンピック",
+  "fullTitle": "北京オリンピック",
+  "detail": "",
+  "start": 1644835200000,
+  "end": 1644840000000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
