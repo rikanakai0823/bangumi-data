@@ -2,7 +2,7 @@
   "id": "w65sifx",
   "category": "hobby",
   "title": "第5回三人麻雀GRANDPRIX #6",
-  "fullTitle": "第5回三人麻雀GRANDPRIX #6",
+  "fullTitle": "[無]第5回三人麻雀GRANDPRIX #6",
   "detail": "ＭＯＮＤＯＴＶがお届けする三人麻雀のリーグ戦番組。番組では６人の選抜されたプロ雀士が第５代の三人麻雀王を目指す！\r\n「予選第６回戦」",
   "start": 1644753600000,
   "end": 1644757200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 5,
-  "flags": []
+  "flags": [
+    "無"
+  ]
 }
