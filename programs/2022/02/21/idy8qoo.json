@@ -1,0 +1,25 @@
+{
+  "id": "idy8qoo",
+  "category": "hobby",
+  "title": "ミッキーマウス　ミックス・アドベンチャー",
+  "fullTitle": "ミッキーマウス　ミックス・アドベンチャー#30[二]",
+  "detail": "#30「ゆうえんちがたのしいわけ／おこしちゃダメ！」",
+  "start": 1645401600000,
+  "end": 1645403400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ゆうえんちがたのしいわけ／おこしちゃダメ！",
+  "episode": 30,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp44mm",
+  "category": "documentary",
+  "title": "ハイビジョン動物記",
+  "fullTitle": "ハイビジョン動物記「チーター～タンザニア」[字]",
+  "detail": "▽アフリカ・タンザニアの草原で干ばつと戦いながら生きる親子",
+  "start": 1645383000000,
+  "end": 1645383600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "チーター～タンザニア",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w681bvc",
+  "category": "anime",
+  "title": "テレビアニメ遊郭編",
+  "fullTitle": "テレビアニメ「鬼滅の刃」遊郭編 #10 [字]",
+  "detail": "#10 絶対諦めない",
+  "start": 1645419600000,
+  "end": 1645421400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "絶対諦めない",
+  "episode": 10,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm41rs",
+  "category": "sports",
+  "title": "大学サッカー応援番組～福岡大学篇～",
+  "fullTitle": "大学サッカー応援番組「レゾンデートル」#11～福岡大学篇～",
+  "detail": "九州大学サッカーの２強、福岡大学と鹿屋体育大学。\r\nこの２校の対戦を「九州学生クラシコ」とイベント化しています。",
+  "start": 1645437600000,
+  "end": 1645439400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "レゾンデートル",
+  "episode": 11,
+  "flags": []
+}

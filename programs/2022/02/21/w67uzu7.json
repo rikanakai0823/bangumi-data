@@ -1,0 +1,25 @@
+{
+  "id": "w67uzu7",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST -24",
+  "fullTitle": "鋼の錬金術師 FULLMETAL ALCHEMIST[字] #21-24",
+  "detail": "＃２１「愚者の前進」＃２２「遠くの背中」＃２３「戦場（いくさば）の少女」＃２４「腹の中」",
+  "start": 1645372800000,
+  "end": 1645380000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "愚者の前進",
+  "episode": 21,
+  "flags": [
+    "字"
+  ]
+}

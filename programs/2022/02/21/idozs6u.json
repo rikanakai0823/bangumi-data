@@ -1,0 +1,26 @@
+{
+  "id": "idozs6u",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「ラスト　ドライブ」[字][再]",
+  "detail": "死を前にした人を人生最後に願う場所へと運ぶ「願いの車」プロジェクト。人は人生の最後に何を願うのか。美しい春のドイツを舞台にそれぞれの人生最後の旅を見つめていく。",
+  "start": 1645370160000,
+  "end": 1645376100000,
+  "seconds": 5940,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ラスト　ドライブ",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

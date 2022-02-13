@@ -1,0 +1,25 @@
+{
+  "id": "w698toh",
+  "category": "documentary",
+  "title": "ホワイ・ストーリー",
+  "fullTitle": "ホワイ・ストーリー(再)",
+  "detail": "世界の現状を伝え、問題を提起するドキュメンタリー・シリーズ。世界各地のさまざまな映像制作者が作った作品を取り上げる。",
+  "start": 1645369800000,
+  "end": 1645372800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
