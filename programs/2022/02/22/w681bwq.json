@@ -1,0 +1,26 @@
+{
+  "id": "w681bwq",
+  "category": "anime",
+  "title": "テレビアニメ遊郭編",
+  "fullTitle": "テレビアニメ「鬼滅の刃」遊郭編 #11 [終][字]",
+  "detail": "",
+  "start": 1645527600000,
+  "end": 1645530300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "鬼滅の刃",
+  "episode": 11,
+  "flags": [
+    "終",
+    "字"
+  ]
+}

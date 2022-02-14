@@ -1,0 +1,27 @@
+{
+  "id": "idud1yi",
+  "category": "cinema",
+  "title": "イニシエーション・ラブ",
+  "fullTitle": "[映]イニシエーション・ラブ[SS][字]",
+  "detail": "松田翔太と前田敦子が共演した青春ラブストーリー。奥手な大学生が合コンで出会った歯科助手の女性と付き合う。切ないラブストーリーと思いきや、ラストですべてが覆る？",
+  "start": 1645474800000,
+  "end": 1645482000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

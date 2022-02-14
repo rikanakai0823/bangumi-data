@@ -1,0 +1,27 @@
+{
+  "id": "iduhcxu",
+  "category": "cinema",
+  "title": "ツナグ",
+  "fullTitle": "[映]ツナグ[SS][字]",
+  "detail": "松坂桃李が映画で単独初主演を飾ったファンタジー人間ドラマ。死者との再会を望む人々の願いを叶える仲介者、“ツナグ”。そんな使命を帯びた高校生の葛藤と成長を描く。",
+  "start": 1645502400000,
+  "end": 1645510500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp42u7",
+  "category": "documentary",
+  "title": "歩くひと",
+  "fullTitle": "歩くひと（１２）「早すぎる別れ」[字]",
+  "detail": "男が見知らぬ土地に迷い込み、ひたすら歩き、また家に帰ってくる、だけの“異色の散歩ドラマ”。最後には迷い込んだ場所も明かされます。角をまがればファンタジーです。",
+  "start": 1645500600000,
+  "end": 1645502400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "早すぎる別れ",
+  "episode": 12,
+  "flags": [
+    "字"
+  ]
+}

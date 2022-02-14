@@ -1,0 +1,25 @@
+{
+  "id": "idxcabz",
+  "category": "variety",
+  "title": "Mnet",
+  "fullTitle": "[無]Mnet「STREET DANCE GIRLS FIGHTER」",
+  "detail": "CS318プレミアムサービス658CH Mnetで毎週(木)23:00～放送！",
+  "start": 1645455600000,
+  "end": 1645462800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "STREET DANCE GIRLS FIGHTER",
+  "episode": null,
+  "flags": [
+    "無"
+  ]
+}

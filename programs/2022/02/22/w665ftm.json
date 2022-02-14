@@ -1,0 +1,23 @@
+{
+  "id": "w665ftm",
+  "category": "etc",
+  "title": "インフォメーション",
+  "fullTitle": "インフォメーション",
+  "detail": "番組からのお知らせ",
+  "start": 1645482000000,
+  "end": 1645482900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "エンタメ～テレ",
+    "id": "f0ct",
+    "sid": 301,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 110
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

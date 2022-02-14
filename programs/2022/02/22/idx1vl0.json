@@ -1,0 +1,25 @@
+{
+  "id": "idx1vl0",
+  "category": "anime",
+  "title": "TIGER & BUNNY ,16",
+  "fullTitle": "[字]TIGER & BUNNY #15,16",
+  "detail": "#15「The sky's the limit...（限界は空高くに…）」\r\n#16「Truth lies at the bottom of a well.（真実は井戸の底にあ…",
+  "start": 1645506000000,
+  "end": 1645509600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "The sky's the limit...（限界は空高くに…）",
+  "episode": 15,
+  "flags": [
+    "字"
+  ]
+}
