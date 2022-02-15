@@ -1,0 +1,26 @@
+{
+  "id": "iduhcyd",
+  "category": "cinema",
+  "title": "北斎漫画",
+  "fullTitle": "[映]北斎漫画[字]",
+  "detail": "緒形拳、西田敏行、田中裕子ら共演。新藤兼人監督が江戸時代を代表する天才浮世絵師、葛飾北斎の絵作りに懸けた執念と情熱、波乱の生涯と周囲の人間模様を描いたドラマ。　",
+  "start": 1645625700000,
+  "end": 1645633200000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

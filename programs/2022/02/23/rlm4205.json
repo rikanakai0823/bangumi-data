@@ -1,0 +1,23 @@
+{
+  "id": "rlm4205",
+  "category": "sports",
+  "title": "2022JリーグYBCルヴァンカップ グループステージ第1節 京都×柏",
+  "fullTitle": "2022JリーグYBCルヴァンカップ グループステージ第1節 京都×柏",
+  "detail": "2022JリーグYBCルヴァンカップ",
+  "start": 1645610400000,
+  "end": 1645619400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

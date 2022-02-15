@@ -1,0 +1,25 @@
+{
+  "id": "idy8qr1",
+  "category": "anime",
+  "title": "なんだかんだワンダー",
+  "fullTitle": "なんだかんだワンダー#42[二]",
+  "detail": "#42「ロボメカボタトロン／花」",
+  "start": 1645560000000,
+  "end": 1645561800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ロボメカボタトロン／花",
+  "episode": 42,
+  "flags": [
+    "二"
+  ]
+}

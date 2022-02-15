@@ -1,0 +1,25 @@
+{
+  "id": "idv0eug",
+  "category": "cinema",
+  "title": "新感染半島 ファイナル・ステージ",
+  "fullTitle": "[映]新感染半島 ファイナル・ステージ[吹]",
+  "detail": "ゾンビパニックアクション『新感染　ファイナル・エクスプレス』の続編。無法地帯と化した半島を舞台に決死のサバイバルを描く。",
+  "start": 1645578000000,
+  "end": 1645585200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

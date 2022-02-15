@@ -1,0 +1,26 @@
+{
+  "id": "idy8qr8",
+  "category": "hobby",
+  "title": "かいけつ！チーム・チキン★先行放送！",
+  "fullTitle": "[初]かいけつ！チーム・チキン#3[二]★先行放送！",
+  "detail": "#3「パタパタねつ／ほんもののヒーロー」",
+  "start": 1645572600000,
+  "end": 1645574400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "パタパタねつ／ほんもののヒーロー",
+  "episode": 3,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

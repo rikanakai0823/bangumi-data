@@ -1,0 +1,26 @@
+{
+  "id": "iduw50e",
+  "category": "cinema",
+  "title": "ヒトラーの忘れもの",
+  "fullTitle": "[映][SS]ヒトラーの忘れもの",
+  "detail": "アカデミー外国語映画賞候補となった歴史ドラマ。デンマークの海岸にナチスが埋めた地雷を撤去するドイツ少年兵らの実話を描く。",
+  "start": 1645601400000,
+  "end": 1645608600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

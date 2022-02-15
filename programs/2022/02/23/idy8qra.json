@@ -1,0 +1,26 @@
+{
+  "id": "idy8qra",
+  "category": "hobby",
+  "title": "かいけつ！チーム・チキン★先行放送！",
+  "fullTitle": "[初]かいけつ！チーム・チキン#5[二]★先行放送！",
+  "detail": "#5「ごきんじょのリス／はりこみに　しっぱい！？」",
+  "start": 1645576200000,
+  "end": 1645578000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ごきんじょのリス／はりこみに　しっぱい！？",
+  "episode": 5,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

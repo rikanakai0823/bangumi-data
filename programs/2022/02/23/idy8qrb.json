@@ -1,0 +1,26 @@
+{
+  "id": "idy8qrb",
+  "category": "hobby",
+  "title": "かいけつ！チーム・チキン★先行放送！",
+  "fullTitle": "[初]かいけつ！チーム・チキン#6[二]★先行放送！",
+  "detail": "#6「メリー・チキンマス！／きえた　たべもの」",
+  "start": 1645578000000,
+  "end": 1645579800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "メリー・チキンマス！／きえた　たべもの",
+  "episode": 6,
+  "flags": [
+    "初",
+    "二"
+  ]
+}

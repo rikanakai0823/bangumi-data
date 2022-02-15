@@ -1,0 +1,26 @@
+{
+  "id": "idv0f32",
+  "category": "cinema",
+  "title": "ゼロヴィル：ハリウッドに憑かれた男",
+  "fullTitle": "[映][SS]ゼロヴィル：ハリウッドに憑かれた男[吹]",
+  "detail": "ジェームズ・フランコが監督・主演の異色ドラマ。“映画自閉症”の青年の恋と人生を、様々な映画と現実を交錯させながら描く。",
+  "start": 1645589400000,
+  "end": 1645596000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w662yzy",
+  "category": "theater",
+  "title": "MANKAI STAGE『A3!』Troupe LIVE～WINTER 2022～",
+  "fullTitle": "【生】MANKAI STAGE『A3!』Troupe LIVE～WINTER 2022～",
+  "detail": "エーステ冬組単独LIVE!\r\n【出演】荒牧慶彦　北園 涼　植田圭輔　田中涼星　上田堪大／鯨井康介",
+  "start": 1645610400000,
+  "end": 1645617600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

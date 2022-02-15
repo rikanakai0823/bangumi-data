@@ -1,0 +1,25 @@
+{
+  "id": "idxcam6",
+  "category": "sports",
+  "title": "【PPS】SPASHAN HPS presents RIZIN TRIGGER 2nd",
+  "fullTitle": "【PPS】[生]SPASHAN HPS presents RIZIN TRIGGER 2nd",
+  "detail": "2015年末に誕生した史上最大の格闘技フェデレーション『RIZIN』\r\n激闘が行われる舞台は、静岡・エコパアリーナ。",
+  "start": 1645592400000,
+  "end": 1645617600000,
+  "seconds": 25200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

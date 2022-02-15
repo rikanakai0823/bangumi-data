@@ -1,0 +1,23 @@
+{
+  "id": "w67kitx",
+  "category": "music",
+  "title": "全部見せます! 宇多田ヒカル特集",
+  "fullTitle": "全部見せます! 宇多田ヒカル特集",
+  "detail": "宇多田ヒカルのミュージックビデオ特集をオンエア！",
+  "start": 1645599600000,
+  "end": 1645610400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
