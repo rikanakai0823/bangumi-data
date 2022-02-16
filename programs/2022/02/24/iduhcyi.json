@@ -1,0 +1,26 @@
+{
+  "id": "iduhcyi",
+  "category": "cinema",
+  "title": "ミッション：ポッシブル（字幕版）[PG12指定]",
+  "fullTitle": "[映]ミッション：ポッシブル（字幕版）[PG12指定][SS]",
+  "detail": "キム・ヨングァンとイ・ソンビンが共演したスパイコメディ。お調子者の探偵と、秘密エージェントのヒロインという相性最悪のコンビが、大がかりな武器密輸事件に挑む。",
+  "start": 1645656000000,
+  "end": 1645662600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

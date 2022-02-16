@@ -1,0 +1,25 @@
+{
+  "id": "idoztar",
+  "category": "information",
+  "title": "九州沖縄推し！　ウオカツ！",
+  "fullTitle": "九州沖縄推し！　ウオカツ！「鹿児島湾　魅惑の深海魚」[字]",
+  "detail": "舞台は鹿児島湾。水深２００ｍを超える深海に生息する絶品のエビや、食べればおいしいのに値段が付かず捨てられてきた深海魚の魅力に迫り、鹿児島の漁業を応援する。",
+  "start": 1645629000000,
+  "end": 1645630500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "鹿児島湾　魅惑の深海魚",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

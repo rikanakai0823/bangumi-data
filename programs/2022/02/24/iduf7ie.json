@@ -1,0 +1,25 @@
+{
+  "id": "iduf7ie",
+  "category": "music",
+  "title": "ＣＯＵＮＴＤＯＷＮ　ＪＡＰＡＮ　２１／２２　ＤＡＹ－１",
+  "fullTitle": "[初]ＣＯＵＮＴＤＯＷＮ　ＪＡＰＡＮ　２１／２２　ＤＡＹ－１",
+  "detail": "国内最大級の年末ロックフェスティバルが帰ってきた！！",
+  "start": 1645700400000,
+  "end": 1645705800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初"
+  ]
+}

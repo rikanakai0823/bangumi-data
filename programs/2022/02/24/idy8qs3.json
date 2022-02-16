@@ -1,0 +1,25 @@
+{
+  "id": "idy8qs3",
+  "category": "anime",
+  "title": "なんだかんだワンダー",
+  "fullTitle": "なんだかんだワンダー#43[二]",
+  "detail": "#43「銀河の終わり」",
+  "start": 1645646400000,
+  "end": 1645648200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "銀河の終わり",
+  "episode": 43,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idv0hyu",
+  "category": "cinema",
+  "title": "ザ・シューター／極大射程",
+  "fullTitle": "[映][SS]ザ・シューター／極大射程[吹]",
+  "detail": "ベストセラー小説が原作のマーク・ウォルバーグ主演作。凄腕スナイパーが巨大な陰謀に立ち向かう。［ＰＧ－１２］",
+  "start": 1645663800000,
+  "end": 1645671600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

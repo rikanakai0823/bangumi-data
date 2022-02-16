@@ -1,0 +1,26 @@
+{
+  "id": "iduhcyo",
+  "category": "cinema",
+  "title": "２１ブリッジ（字幕版）",
+  "fullTitle": "[映]２１ブリッジ（字幕版）[SS]",
+  "detail": "逃走中の犯人を捕まえるため、ＮＹマンハッタン島にかかる２１の橋をすべて封鎖せよ。「ブラックパンサー」のＣ・ボーズマンが主演＆共同製作を務めた刑事アクション。",
+  "start": 1645690500000,
+  "end": 1645696800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "ブラックパンサー",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
