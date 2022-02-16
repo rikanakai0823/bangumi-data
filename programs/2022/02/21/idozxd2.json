@@ -1,0 +1,26 @@
+{
+  "id": "idozxd2",
+  "category": "documentary",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル「沖縄　“迷子”の５０年」[字][再]",
+  "detail": "沖縄のお笑いの第一人者・照屋林助の歌から本土復帰後の世相を探りながら、経済と人々の暮らしの変容を描く。アメリカ世から大和世。沖縄の半世紀をたどる。",
+  "start": 1645434000000,
+  "end": 1645437000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "沖縄　“迷子”の５０年",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

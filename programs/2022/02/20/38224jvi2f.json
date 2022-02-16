@@ -1,12 +1,17 @@
 {
   "id": "38224jvi2f",
-  "category": "etc",
-  "title": "番組未定",
-  "fullTitle": "番組未定",
-  "detail": "※番組が決まり次第、お知らせいたします。",
+  "category": "drama",
+  "title": "松本潤主演～突撃となりの長尾くんが魅力を１２０％伝えるＳＰ～",
+  "fullTitle": "松本潤主演「となりのチカラ」～突撃となりの長尾くんが魅力を１２０％伝えるＳＰ～",
+  "detail": "【主演：松本潤×脚本：遊川和彦】\r\n新時代の≪中腰(ちゅうごし)ヒーロー≫が誕生!!\r\n思いやりと人間愛に溢れたちょっぴり“中途半端な男”が織りなす社会派ホームコメディ\n◇◇出演者\n松本潤、上戸彩、小澤征悦、映美くらら、ソニン、清水尋也、長尾謙杜（なにわ男子）、勝地涼（友情出演）、夙川アトム、浅野和之、風吹ジュン、松嶋菜々子\n◇◇おしらせ\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/tonarinotikara/\r\n☆Ｔｗｉｔｔｅｒ\r\n　https://twitter.com/chikara2022_ex\r\n☆Ｉｎｓｔａｇｒａｍ\r\n　https://www.instagram.com/chikara2022_ex/",
   "start": 1645283700000,
   "end": 1645285500000,
   "seconds": 1800,
+  "description": "【主演：松本潤×脚本：遊川和彦】\r\n新時代の≪中腰(ちゅうごし)ヒーロー≫が誕生!!\r\n思いやりと人間愛に溢れたちょっぴり“中途半端な男”が織りなす社会派ホームコメディ",
+  "extra": {
+    "◇出演者": "松本潤、上戸彩、小澤征悦、映美くらら、ソニン、清水尋也、長尾謙杜（なにわ男子）、勝地涼（友情出演）、夙川アトム、浅野和之、風吹ジュン、松嶋菜々子",
+    "◇おしらせ": "☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/tonarinotikara/\r\n☆Ｔｗｉｔｔｅｒ\r\n　https://twitter.com/chikara2022_ex\r\n☆Ｉｎｓｔａｇｒａｍ\r\n　https://www.instagram.com/chikara2022_ex/"
+  },
   "channel": {
     "type": "GR",
     "channel": "24",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 19
   },
-  "subTitle": "",
+  "subTitle": "となりのチカラ",
   "episode": null,
   "flags": []
 }
