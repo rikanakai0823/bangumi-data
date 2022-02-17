@@ -1,0 +1,25 @@
+{
+  "id": "w681c03",
+  "category": "anime",
+  "title": "ドールズフロントライン",
+  "fullTitle": "ドールズフロントライン #07 [字]",
+  "detail": "#07 THE MESSAGE02 メッセージ02",
+  "start": 1645777800000,
+  "end": 1645779600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "THE MESSAGE02 メッセージ02",
+  "episode": 7,
+  "flags": [
+    "字"
+  ]
+}

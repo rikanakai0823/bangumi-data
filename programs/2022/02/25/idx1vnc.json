@@ -1,0 +1,25 @@
+{
+  "id": "idx1vnc",
+  "category": "anime",
+  "title": "TIGER & BUNNY ,22",
+  "fullTitle": "[字]TIGER & BUNNY #21,22",
+  "detail": "#21「Heaven helps those who help themselves.（天は自ら助くる者を助く）」\r\n#22「Bad luck often brings good luck.…",
+  "start": 1645786800000,
+  "end": 1645790400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "Heaven helps those who help themselves.（天は自ら助くる者を助く）",
+  "episode": 21,
+  "flags": [
+    "字"
+  ]
+}

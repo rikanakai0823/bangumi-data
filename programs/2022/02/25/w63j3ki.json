@@ -1,0 +1,25 @@
+{
+  "id": "w63j3ki",
+  "category": "sports",
+  "title": "巨人練習試合 2022～那覇～",
+  "fullTitle": "巨人練習試合 2022「巨人×楽天」～那覇～[再]",
+  "detail": "～2/24開催　*雨天の場合、放送休止の可能性あり\r\n解説：岩隈久志　実況：山本健太",
+  "start": 1645732800000,
+  "end": 1645748100000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×楽天",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
