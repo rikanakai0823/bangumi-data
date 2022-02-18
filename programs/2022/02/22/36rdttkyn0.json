@@ -3,13 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Party, Humo y Alcohol\"CNCO\r\n”Broken\"ALFIE TEMPLEMAN\r\n\"It’s good to be back\"METRONOMY\r\n\"It's good to be back (Pony Studios session)\"\r\nMETRONOMY\r\n\"Things will be fine\"METRONOMY\n◇番組内容２\n”Iffy\"CHRIS BROWN\r\n”The Joker And The Queen\"ED SHEERAN feat.TAYLOR SWIFT",
   "start": 1645455600000,
   "end": 1645457400000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容１": "\"Party, Humo y Alcohol\"CNCO\r\n”Broken\"ALFIE TEMPLEMAN\r\n\"It’s good to be back\"METRONOMY\r\n\"It's good to be back (Pony Studios session)\"\r\nMETRONOMY\r\n\"Things will be fine\"METRONOMY",
+    "番組内容２": "”Iffy\"CHRIS BROWN\r\n”The Joker And The Queen\"ED SHEERAN feat.TAYLOR SWIFT"
   },
   "channel": {
     "type": "GR",
