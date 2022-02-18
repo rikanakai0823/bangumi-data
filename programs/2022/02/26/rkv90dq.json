@@ -1,0 +1,25 @@
+{
+  "id": "rkv90dq",
+  "category": "documentary",
+  "title": "アプレジェンヌ　～日テレ大劇場へようこそ～",
+  "fullTitle": "アプレジェンヌ　～日テレ大劇場へようこそ～[再]",
+  "detail": "第３回ゲスト：野々すみ花さん",
+  "start": 1645873200000,
+  "end": 1645876800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "再"
+  ]
+}

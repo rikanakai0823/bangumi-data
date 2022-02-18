@@ -1,0 +1,25 @@
+{
+  "id": "idozuft",
+  "category": "information",
+  "title": "突撃！ストリートシェフ　＠クラクフ",
+  "fullTitle": "突撃！ストリートシェフ　＠クラクフ「ピッツァ」[字]",
+  "detail": "胃袋から世界を知り尽くすグルメドキュメンタリー。“アウシュビッツ”に近いポーランドの古都クラクフで、大国に翻弄された激動の歴史を激ウマのピッツァにみる！",
+  "start": 1645829100000,
+  "end": 1645829700000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ピッツァ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

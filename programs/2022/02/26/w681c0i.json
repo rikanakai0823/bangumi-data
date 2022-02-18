@@ -1,0 +1,25 @@
+{
+  "id": "w681c0i",
+  "category": "anime",
+  "title": "CUE! #05-#07",
+  "fullTitle": "CUE! #05-#07 [字]",
+  "detail": "#05～#07をまとめて放送！",
+  "start": 1645817400000,
+  "end": 1645822800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

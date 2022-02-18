@@ -1,0 +1,25 @@
+{
+  "id": "idozyj2",
+  "category": "sports",
+  "title": "スポーツ酒場“語り亭”",
+  "fullTitle": "スポーツ酒場“語り亭”[字]",
+  "detail": "",
+  "start": 1645869600000,
+  "end": 1645876200000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0jh5",
+  "category": "music",
+  "title": "そしては生まれた　２",
+  "fullTitle": "そして「みんなのうた」は生まれた　２[字]",
+  "detail": "",
+  "start": 1645883400000,
+  "end": 1645884000000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "みんなのうた",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

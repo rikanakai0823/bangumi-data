@@ -1,0 +1,26 @@
+{
+  "id": "iduwf0c",
+  "category": "cinema",
+  "title": "剣客",
+  "fullTitle": "[映][SS]剣客",
+  "detail": "チャン・ヒョクが最強の剣客を演じた歴史ソードアクション。戦乱真っ只中の朝鮮を舞台に、連れ去られた娘を取り戻す姿を描く。",
+  "start": 1645884000000,
+  "end": 1645891200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

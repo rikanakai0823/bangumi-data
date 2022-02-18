@@ -1,0 +1,25 @@
+{
+  "id": "idp46y6",
+  "category": "documentary",
+  "title": "ハイビジョン動物記",
+  "fullTitle": "ハイビジョン動物記「キングペンギン」[字]",
+  "detail": "",
+  "start": 1645814400000,
+  "end": 1645815000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "キングペンギン",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

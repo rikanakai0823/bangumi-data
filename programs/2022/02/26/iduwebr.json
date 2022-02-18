@@ -1,0 +1,26 @@
+{
+  "id": "iduwebr",
+  "category": "cinema",
+  "title": "君の誕生日",
+  "fullTitle": "[映][SS]君の誕生日",
+  "detail": "ソル・ギョング、チョン・ドヨン共演のヒューマンドラマ。２０１４年に韓国で起きたセウォル号沈没事故を基に家族の再生を描く。",
+  "start": 1645852500000,
+  "end": 1645860600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduyk0k",
+  "category": "cinema",
+  "title": "地中海殺人事件",
+  "fullTitle": "[映]地中海殺人事件【特集：アガサ・クリスティ】",
+  "detail": "アガサ・クリスティ原作、豪華スター共演のミステリー。地中海のリゾートホテルで起きた殺人事件の謎に、名探偵ポアロが挑む。",
+  "start": 1645876800000,
+  "end": 1645884600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "特集：アガサ・クリスティ",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

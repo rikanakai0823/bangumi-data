@@ -1,0 +1,25 @@
+{
+  "id": "idp46y7",
+  "category": "documentary",
+  "title": "ハイビジョン動物記",
+  "fullTitle": "ハイビジョン動物記「ベニザケ」[字]",
+  "detail": "▽カナダ西部フレーザー川に産卵のために遡上する１００万匹の大群",
+  "start": 1645815000000,
+  "end": 1645815600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ベニザケ",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w67v00u",
+  "category": "anime",
+  "title": "マジカパーティ",
+  "fullTitle": "マジカパーティ[字] #42",
+  "detail": "第４２話\r\n「魔力解放～！」でマジンを召喚！",
+  "start": 1645866000000,
+  "end": 1645867800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "",
+  "episode": 42,
+  "flags": [
+    "字"
+  ]
+}
