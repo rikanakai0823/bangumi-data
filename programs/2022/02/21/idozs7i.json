@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "北京オリンピック◇閉会式（録画）",
   "fullTitle": "北京オリンピック◇閉会式（録画）[字]",
-  "detail": "◇閉会式（録画）",
+  "detail": "◇閉会式（録画）　【アナウンサー】廣瀬智美，塚本貴之\n◇出演者\n【アナウンサー】廣瀬智美，塚本貴之",
   "start": 1645401600000,
   "end": 1645408800000,
   "seconds": 7200,
+  "description": "◇閉会式（録画）　【アナウンサー】廣瀬智美，塚本貴之",
+  "extra": {
+    "出演者": "【アナウンサー】廣瀬智美，塚本貴之"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": null,
   "flags": [
     "字"
