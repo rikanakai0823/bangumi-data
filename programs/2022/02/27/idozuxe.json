@@ -1,0 +1,25 @@
+{
+  "id": "idozuxe",
+  "category": "sports",
+  "title": "ランスマ倶楽部",
+  "fullTitle": "ランスマ倶楽部「箱根駅伝スペシャル」[字]",
+  "detail": "箱根駅伝２年ぶり総合優勝、青山学院大学の原晋監督が出演！いまだから話せるレースの裏側を激白！出場経験者、瀬古利彦・金哲彦・藤原新と箱根駅伝をたっぷり語りあう。",
+  "start": 1645948800000,
+  "end": 1645951800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "箱根駅伝スペシャル",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

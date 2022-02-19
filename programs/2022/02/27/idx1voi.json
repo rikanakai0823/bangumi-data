@@ -1,0 +1,25 @@
+{
+  "id": "idx1voi",
+  "category": "anime",
+  "title": "名探偵コナン 2月号",
+  "fullTitle": "[字]名探偵コナン 2月号",
+  "detail": "#766「探偵団の密室推理合戦」#767「1億円を追いかけろ」#768「鳥取砂丘ミステリーツアー（倉吉編）」#769「鳥取砂丘…",
+  "start": 1645927200000,
+  "end": 1645934400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "探偵団の密室推理合戦",
+  "episode": 766,
+  "flags": [
+    "字"
+  ]
+}

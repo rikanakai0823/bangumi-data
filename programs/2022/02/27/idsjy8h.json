@@ -1,0 +1,26 @@
+{
+  "id": "idsjy8h",
+  "category": "cinema",
+  "title": "「カジノロワイヤル（１９６７）」",
+  "fullTitle": "[字][映]「カジノロワイヤル（１９６７）」【吹替】",
+  "detail": "ピーター・セラーズ、オーソン・ウェルズ、デヴィッド・ニーヴン、ウディ・アレンなど超豪華キャスティングによる異色ジェームズ・ボンド映画。",
+  "start": 1645938000000,
+  "end": 1645947000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "字",
+    "映"
+  ]
+}

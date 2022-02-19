@@ -1,0 +1,23 @@
+{
+  "id": "w66h8ux",
+  "category": "sports",
+  "title": "スワローズＴＶ",
+  "fullTitle": "スワローズＴＶ　#3「キャンプSP」",
+  "detail": "東京ヤクルトスワローズ春季キャンプの模様をたっぷりとお届け。ハードな練習の模様に、爆笑選手出演企画なども放送予定！お楽しみに！",
+  "start": 1645959600000,
+  "end": 1645965000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "キャンプSP",
+  "episode": 3,
+  "flags": []
+}

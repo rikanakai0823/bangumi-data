@@ -1,0 +1,25 @@
+{
+  "id": "iduyn6c",
+  "category": "cinema",
+  "title": "プリズン・オン・ファイアー",
+  "fullTitle": "[映]プリズン・オン・ファイアー",
+  "detail": "チョウ・ユンファ主演、リンゴ・ラム監督の監獄アクション映画。服役中の刑務所で、理不尽な看守たちに立ち向かう姿が描かれる。",
+  "start": 1645963200000,
+  "end": 1645969800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

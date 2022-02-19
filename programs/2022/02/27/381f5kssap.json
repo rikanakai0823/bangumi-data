@@ -1,0 +1,26 @@
+{
+  "id": "381f5kssap",
+  "category": "sports",
+  "title": "第１０回大阪マラソン・第７７回びわ湖毎日マラソン統合大会",
+  "fullTitle": "第１０回大阪マラソン・第７７回びわ湖毎日マラソン統合大会[SS][字]",
+  "detail": "（スタート　９：１５）　～大阪府庁前→大阪城公園から中継～",
+  "start": 1645920000000,
+  "end": 1645930440000,
+  "seconds": 10440,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}

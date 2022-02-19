@@ -1,0 +1,26 @@
+{
+  "id": "iduwhnx",
+  "category": "cinema",
+  "title": "リトル・シングス",
+  "fullTitle": "[映][SS]リトル・シングス",
+  "detail": "デンゼル・ワシントン主演のクライムサスペンス。女性ばかりを狙う連続殺人事件を追う２人の男が、容疑者に翻弄される姿を描く。",
+  "start": 1645947900000,
+  "end": 1645956000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w681c19",
+  "category": "anime",
+  "title": "R指定アニメ！ 生放送 第一部",
+  "fullTitle": "R指定アニメ！ 生放送 第一部 #09",
+  "detail": "#09『かげきしょうじょ!!』生放送スペシャル",
+  "start": 1645939500000,
+  "end": 1645939800000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 9,
+  "flags": []
+}

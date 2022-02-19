@@ -1,0 +1,23 @@
+{
+  "id": "idp22k0",
+  "category": "sports",
+  "title": "ジャンプ女子ワールドカップ２０２１－２２",
+  "fullTitle": "ジャンプ女子ワールドカップ２０２１－２２",
+  "detail": "",
+  "start": 1645965600000,
+  "end": 1645966800000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

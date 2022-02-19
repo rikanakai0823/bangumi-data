@@ -1,0 +1,25 @@
+{
+  "id": "idtrfry",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ中山記念GⅡ阪急杯GⅢGⅠ前哨戦",
+  "fullTitle": "[生]ＢＳスーパーＫＥＩＢＡ中山記念GⅡ阪急杯GⅢGⅠ前哨戦",
+  "detail": "中山記念（GⅡ）阪急杯（GⅢ）下関ステークス／解説：吉田均（競馬エイト）ゲスト：山本隆弘（元バレーボール日本代表）／春GⅠへの重要前哨戦",
+  "start": 1645941600000,
+  "end": 1645945200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

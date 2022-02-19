@@ -1,0 +1,23 @@
+{
+  "id": "rksa9qj",
+  "category": "documentary",
+  "title": "東京の空の下",
+  "fullTitle": "東京の空の下 #4",
+  "detail": "「渋谷」\r\n40年以上前の東京上空からの映像。現在では大変貴重となった映像をお送りいたします。",
+  "start": 1645891200000,
+  "end": 1645891500000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "渋谷",
+  "episode": 4,
+  "flags": []
+}
