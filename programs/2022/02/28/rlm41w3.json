@@ -1,0 +1,25 @@
+{
+  "id": "rlm41w3",
+  "category": "sports",
+  "title": "HAWKS宮崎春季キャンプ中継2022 午後の部 2/28",
+  "fullTitle": "[生]HAWKS宮崎春季キャンプ中継2022 午後の部 2/28",
+  "detail": "出演者：坊西浩嗣/大前一樹\r\n春季キャンプ最終日の模様も生中継！",
+  "start": 1646020800000,
+  "end": 1646029800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

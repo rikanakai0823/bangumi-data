@@ -1,0 +1,23 @@
+{
+  "id": "idp482u",
+  "category": "information",
+  "title": "もうすぐＮＨＫ",
+  "fullTitle": "もうすぐＮＨＫ「３月号」",
+  "detail": "",
+  "start": 1646034720000,
+  "end": 1646035200000,
+  "seconds": 480,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "３月号",
+  "episode": null,
+  "flags": []
+}

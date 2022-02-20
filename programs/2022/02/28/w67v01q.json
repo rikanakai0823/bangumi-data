@@ -1,0 +1,25 @@
+{
+  "id": "w67v01q",
+  "category": "anime",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST -28",
+  "fullTitle": "鋼の錬金術師 FULLMETAL ALCHEMIST[字] #25-28",
+  "detail": "＃２５「闇の扉」＃２６「再会」＃２７「狭間の宴」＃２８「おとうさま」",
+  "start": 1645977600000,
+  "end": 1645984800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "闇の扉",
+  "episode": 25,
+  "flags": [
+    "字"
+  ]
+}

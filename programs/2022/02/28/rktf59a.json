@@ -1,0 +1,25 @@
+{
+  "id": "rktf59a",
+  "category": "music",
+  "title": "KCON:TACT HI 5 バックステージビハインド",
+  "fullTitle": "KCON:TACT HI 5 バックステージビハインド #3(終) INI ほか",
+  "detail": "「KCON:TACT HI 5」の裏側を収めたスペシャル番組！\r\n2021年 全3回",
+  "start": 1646031600000,
+  "end": 1646035200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "INI ほか",
+  "episode": 3,
+  "flags": [
+    "終"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm41y4",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT",
+  "fullTitle": "URAWA CHANNEL NEXT #33",
+  "detail": "今回は、新シーズン開幕に伴い、新加入の犬飼智也選手、岩尾憲選手にレッズOBの坪井慶介さんがインタビュー！",
+  "start": 1646006400000,
+  "end": 1646008200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 33,
+  "flags": []
+}

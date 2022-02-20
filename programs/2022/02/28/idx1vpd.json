@@ -1,0 +1,25 @@
+{
+  "id": "idx1vpd",
+  "category": "anime",
+  "title": "TIGER & BUNNY ,24",
+  "fullTitle": "[字]TIGER & BUNNY #23,24",
+  "detail": "#23「Misfortunes never come singly.（不幸は単独では来ない）」\r\n#24「Nothing ventured,nothing gained.（虎穴に入…",
+  "start": 1646046000000,
+  "end": 1646049600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "Misfortunes never come singly.（不幸は単独では来ない）",
+  "episode": 23,
+  "flags": [
+    "字"
+  ]
+}

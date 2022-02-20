@@ -1,0 +1,25 @@
+{
+  "id": "w63j3ms",
+  "category": "sports",
+  "title": "プロ野球オープン戦 2022～那覇～",
+  "fullTitle": "プロ野球オープン戦 2022「巨人×DeNA」～那覇～[再]",
+  "detail": "～2/27開催　*雨天の場合、放送休止の可能性あり",
+  "start": 1645992000000,
+  "end": 1646007300000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×DeNA",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
