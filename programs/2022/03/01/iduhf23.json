@@ -1,0 +1,26 @@
+{
+  "id": "iduhf23",
+  "category": "cinema",
+  "title": "さんかく",
+  "fullTitle": "[映]さんかく[字]",
+  "detail": "３０歳の青年が、同棲中である恋人の中学生の妹に好意を抱いたことからおかしな人間模様が始まる。監督は２０２１年、「空白」「ＢＬＵＥ／ブルー」が絶賛された吉田恵輔。",
+  "start": 1646145900000,
+  "end": 1646152200000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

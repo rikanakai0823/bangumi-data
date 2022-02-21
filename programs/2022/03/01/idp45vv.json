@@ -1,0 +1,25 @@
+{
+  "id": "idp45vv",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「勝負～将棋名人戦より～」[字]",
+  "detail": "藤井聡太竜王の活躍で注目される将棋界。かつて中原名人と挑戦者森八段との間で争われた名人戦に密着し、対局者へのインタビューを交え、知られざる心理戦に迫った。",
+  "start": 1646125800000,
+  "end": 1646128800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "勝負～将棋名人戦より～",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

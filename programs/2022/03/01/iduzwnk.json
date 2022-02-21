@@ -1,0 +1,25 @@
+{
+  "id": "iduzwnk",
+  "category": "cinema",
+  "title": "パーソナル・ショッパー",
+  "fullTitle": "[映]パーソナル・ショッパー[吹]",
+  "detail": "オリヴィエ・アサイヤス監督が贈る異色の心理ミステリー。兄を亡くした喪失感の中で、不可解な出来事に直面するヒロインを描く",
+  "start": 1646132400000,
+  "end": 1646139600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

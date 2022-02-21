@@ -1,0 +1,25 @@
+{
+  "id": "w63thcj",
+  "category": "sports",
+  "title": "スターゴルフマッチ3 （MC：三波豊和）",
+  "fullTitle": "[初]スターゴルフマッチ3 #11（MC：三波豊和）【わくわく！火曜ゴルフ・プレミアム】",
+  "detail": "芸能界・スポーツ界からや男女プロゴルファーをお招きしての真剣ペアマッチ！",
+  "start": 1646137800000,
+  "end": 1646139600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 99
+  },
+  "subTitle": "わくわく！火曜ゴルフ・プレミアム",
+  "episode": 11,
+  "flags": [
+    "初"
+  ]
+}

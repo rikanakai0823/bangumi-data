@@ -1,0 +1,23 @@
+{
+  "id": "rkdrbit",
+  "category": "information",
+  "title": "春いち！大感謝ショップスターバリュースペシャル！",
+  "fullTitle": "春いち！大感謝ショップスターバリュースペシャル！",
+  "detail": "春いち！大感謝ショップスターバリューデイ／開局２５周年アニバーサリーイヤーのラストを飾る、春の祭典が開幕！",
+  "start": 1646121600000,
+  "end": 1646125200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvlvr",
+  "category": "cinema",
+  "title": "モータルコンバット（２０２１）",
+  "fullTitle": "[映][SS]モータルコンバット（２０２１）【メガヒット９（再）】",
+  "detail": "大ヒットゲームを実写映画化したバトルアクション。世界の命運を懸けた格闘大会に出場する戦士コールの活躍を描く。",
+  "start": 1646111700000,
+  "end": 1646118900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９（再）",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

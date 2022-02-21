@@ -1,0 +1,23 @@
+{
+  "id": "w66h8z2",
+  "category": "sports",
+  "title": "ライオンズTV",
+  "fullTitle": "ライオンズTV　#2「キャンプSP」",
+  "detail": "埼玉西武ライオンズ春季キャンプの模様をたっぷりとお届け！ハードな練習の模様や、オフのお宝情報、インタビューなどを放送予定！お楽しみに！",
+  "start": 1646128800000,
+  "end": 1646132400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "キャンプSP",
+  "episode": 2,
+  "flags": []
+}

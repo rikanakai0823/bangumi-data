@@ -1,0 +1,25 @@
+{
+  "id": "idozvlz",
+  "category": "documentary",
+  "title": "街角ピアノ",
+  "fullTitle": "街角ピアノ「軽井沢　ｖｏｌ．３」[字]",
+  "detail": "軽井沢の別荘地にある広場に２０２１年秋の期間限定でピアノが置かれた。自然の中で音楽に親しんでもらいたいと設置された「森のピアノ」だ。どんな思いで曲を弾くのか。",
+  "start": 1646103600000,
+  "end": 1646104500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "軽井沢　ｖｏｌ．３",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

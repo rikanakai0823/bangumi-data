@@ -1,0 +1,25 @@
+{
+  "id": "iduxrkk",
+  "category": "cinema",
+  "title": "ニードフル・シングス",
+  "fullTitle": "[映]ニードフル・シングス",
+  "detail": "スティーヴン・キング原作のホラー。古道具屋を営む謎の老人によって住人たちの間に猜疑心が芽生え、町の平和が崩壊してゆく。",
+  "start": 1646136000000,
+  "end": 1646143800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

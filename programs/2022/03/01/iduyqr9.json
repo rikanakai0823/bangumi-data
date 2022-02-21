@@ -1,0 +1,26 @@
+{
+  "id": "iduyqr9",
+  "category": "cinema",
+  "title": "リオ・ロボ",
+  "fullTitle": "[映][SS]リオ・ロボ",
+  "detail": "ハワード・ホークス監督の遺作となったジョン・ウェイン主演作。裏切り者を探し、無法の町を訪れた男達の復讐を描く。",
+  "start": 1646070300000,
+  "end": 1646077800000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

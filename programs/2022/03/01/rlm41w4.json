@@ -1,0 +1,23 @@
+{
+  "id": "rlm41w4",
+  "category": "sports",
+  "title": "\"RIZIN すべて振り返らせていただきます\"",
+  "fullTitle": "\"RIZIN すべて振り返らせていただきます\" #3",
+  "detail": "RIZIN.1",
+  "start": 1646064000000,
+  "end": 1646084700000,
+  "seconds": 20700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}

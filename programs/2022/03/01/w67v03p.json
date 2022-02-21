@@ -1,0 +1,26 @@
+{
+  "id": "w67v03p",
+  "category": "anime",
+  "title": "怪盗ジョーカー ,2",
+  "fullTitle": "[新]怪盗ジョーカー[字] #1,2",
+  "detail": "＃１「奇跡の怪盗（ミラクルメイカー）あらわる！」＃２「芸術の都（パリ）と百年金庫」",
+  "start": 1646121600000,
+  "end": 1646125200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "奇跡の怪盗（ミラクルメイカー）あらわる！",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}
