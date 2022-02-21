@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "ネクプラ",
   "fullTitle": "ネクプラ「見取り図×ニューヨークのなりたいテレビ」",
-  "detail": "",
+  "detail": "◇出演者\n見取り図、ニューヨーク　ほか",
   "start": 1645803000000,
   "end": 1645804740000,
   "seconds": 1740,
+  "description": "",
+  "extra": {
+    "出演者": "見取り図、ニューヨーク　ほか"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
