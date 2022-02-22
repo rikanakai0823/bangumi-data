@@ -1,0 +1,25 @@
+{
+  "id": "idp483d",
+  "category": "hobby",
+  "title": "美の小壺",
+  "fullTitle": "美の小壺「結城紬（つむぎ）」[字]",
+  "detail": "ＢＳプレミアムの人気番組「美の壺」を、“小壺”サイズに仕立てたミニ番組。テーマは「結城紬（つむぎ）」。",
+  "start": 1646211540000,
+  "end": 1646211840000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "結城紬（つむぎ）",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

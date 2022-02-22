@@ -1,0 +1,26 @@
+{
+  "id": "iduvoew",
+  "category": "cinema",
+  "title": "フラワーショウ！",
+  "fullTitle": "[映][SS]フラワーショウ！",
+  "detail": "さまざまな苦難を乗り越えながら、ガーデニング世界大会での優勝を目指す女性の奮闘を描く実話に基づくサクセスストーリー。",
+  "start": 1646168400000,
+  "end": 1646175600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

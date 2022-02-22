@@ -1,0 +1,23 @@
+{
+  "id": "rkunseq",
+  "category": "hobby",
+  "title": "ロボカーポリー　ソンソン　ミュージアム",
+  "fullTitle": "ロボカーポリー　ソンソン　ミュージアム#10",
+  "detail": "レスキューチームはジェイミーから手紙で船に乗って旅をする歌を聴かせてほしいとリクエストを受け、「ふねをこごう」を聴くことに。",
+  "start": 1646169600000,
+  "end": 1646170200000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ふねをこごう",
+  "episode": 10,
+  "flags": []
+}

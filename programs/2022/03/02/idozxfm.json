@@ -1,0 +1,27 @@
+{
+  "id": "idozxfm",
+  "category": "documentary",
+  "title": "おいしい東京",
+  "fullTitle": "おいしい東京「冬のごちそう　鍋三昧」[二][字][再]",
+  "detail": "冬本番「鍋料理」▽あんこう▽ふぐ▽白菜▽たら▽ねぎ▽大根",
+  "start": 1646211600000,
+  "end": 1646214600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "冬のごちそう　鍋三昧",
+  "episode": null,
+  "flags": [
+    "二",
+    "字",
+    "再"
+  ]
+}

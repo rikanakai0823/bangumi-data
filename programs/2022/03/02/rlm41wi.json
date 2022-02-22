@@ -1,0 +1,25 @@
+{
+  "id": "rlm41wi",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022～オープン戦～ ソフトバンクvs.中日",
+  "fullTitle": "[生]HAWKS プロ野球中継2022～オープン戦～ ソフトバンクvs.中日",
+  "detail": "解説/実況：未定/未定\r\n開催日時：2022年3月2日 (水) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1646211300000,
+  "end": 1646227800000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
