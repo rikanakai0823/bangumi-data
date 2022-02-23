@@ -1,0 +1,26 @@
+{
+  "id": "iduf9le",
+  "category": "music",
+  "title": "邦楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]邦楽ＢＲＥＡＫ　＃７１６",
+  "detail": "",
+  "start": 1646313300000,
+  "end": 1646314200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 716,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

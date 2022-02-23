@@ -1,0 +1,26 @@
+{
+  "id": "iduvsnk",
+  "category": "cinema",
+  "title": "【最新作】異端の鳥",
+  "fullTitle": "【最新作】[映][SS]異端の鳥",
+  "detail": "ポーランドで発禁となった小説を基に描く衝撃の人間ドラマ。孤独な少年が直面する過酷な運命を通じて、戦争と人間の本質に迫る。",
+  "start": 1646305200000,
+  "end": 1646316000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

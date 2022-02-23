@@ -1,0 +1,26 @@
+{
+  "id": "idud3t9",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]洋楽ＢＲＥＡＫ　＃４８２",
+  "detail": "",
+  "start": 1646319000000,
+  "end": 1646319600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 482,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

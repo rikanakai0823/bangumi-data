@@ -1,0 +1,25 @@
+{
+  "id": "idv02z4",
+  "category": "cinema",
+  "title": "否定と肯定",
+  "fullTitle": "[映]否定と肯定[吹]",
+  "detail": "レイチェル・ワイズ主演の実録法廷サスペンス。ホロコーストを巡る歴史の歪曲を法廷で争った歴史学者の闘いを、実話を基に描く。",
+  "start": 1646305200000,
+  "end": 1646312400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
