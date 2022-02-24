@@ -1,0 +1,23 @@
+{
+  "id": "idp012j",
+  "category": "sports",
+  "title": "アニ×パラワールド",
+  "fullTitle": "アニ×パラワールド",
+  "detail": "",
+  "start": 1646271000000,
+  "end": 1646271900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
