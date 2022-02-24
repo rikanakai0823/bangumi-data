@@ -1,0 +1,23 @@
+{
+  "id": "381f5ksr46",
+  "category": "etc",
+  "title": "編成未定枠",
+  "fullTitle": "編成未定枠",
+  "detail": "",
+  "start": 1646391420000,
+  "end": 1646403300000,
+  "seconds": 11880,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

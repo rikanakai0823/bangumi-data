@@ -1,0 +1,25 @@
+{
+  "id": "w67v06t",
+  "category": "anime",
+  "title": "妖怪ウォッチ ,32",
+  "fullTitle": "妖怪ウォッチ[字] #31,32",
+  "detail": "＃３１「妖怪西遊記」＃３２「妖怪万尾獅子／イケてる妖怪対決！　他」",
+  "start": 1646377200000,
+  "end": 1646380800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "キッズステーション",
+    "id": "f0dm",
+    "sid": 330,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 128
+  },
+  "subTitle": "妖怪西遊記",
+  "episode": 31,
+  "flags": [
+    "字"
+  ]
+}

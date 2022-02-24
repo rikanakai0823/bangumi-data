@@ -1,0 +1,25 @@
+{
+  "id": "idp4bu7",
+  "category": "documentary",
+  "title": "イッピン",
+  "fullTitle": "イッピン[字]",
+  "detail": "",
+  "start": 1646389800000,
+  "end": 1646391600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

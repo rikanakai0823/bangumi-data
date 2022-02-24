@@ -1,0 +1,25 @@
+{
+  "id": "w698wql",
+  "category": "hobby",
+  "title": "トラベル・ショー",
+  "fullTitle": "トラベル・ショー(再)",
+  "detail": "世界最高峰のサッカー大会といえるワールドカップ。カタールが中東初の開催に向けて準備する中、ラジャン・ダタルが小さな半島国とそこで暮らす人々の素顔に迫る。",
+  "start": 1646364600000,
+  "end": 1646366400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "再"
+  ]
+}
