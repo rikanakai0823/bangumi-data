@@ -1,9 +1,9 @@
 {
   "id": "w69aecm",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組[再]",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "アフリカ　ビジネス最前線",
+  "fullTitle": "アフリカ　ビジネス最前線[再]",
+  "detail": "#15 アフリカ有数の保険会社、ナイジェリア「コンチネンタル・リインシュアランス」、エジプト電機大手「エルスウェディ・エレクトリック」のトップらにインタビュー。",
   "start": 1645896600000,
   "end": 1645898400000,
   "seconds": 1800,
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "アフリカ有数の保険会社、ナイジェリア",
+  "episode": 15,
   "flags": [
     "再"
   ]

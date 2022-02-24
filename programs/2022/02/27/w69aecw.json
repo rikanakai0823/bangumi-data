@@ -1,9 +1,9 @@
 {
   "id": "w69aecw",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "[二]特別番組",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "sports",
+  "title": "World Sport",
+  "fullTitle": "[二]World Sport[再]",
+  "detail": "日本語同時通訳付。\r\n欧州サッカー、米4大スポーツNFL、MLB、NBA、NHL、ラグビー、ゴルフ、テニスまで、世界のスポーツの最新結果はこの番組でチェック！\r\n",
   "start": 1645927200000,
   "end": 1645930800000,
   "seconds": 3600,
@@ -20,6 +20,7 @@
   "subTitle": "",
   "episode": null,
   "flags": [
-    "二"
+    "二",
+    "再"
   ]
 }
