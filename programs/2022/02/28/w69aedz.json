@@ -1,9 +1,9 @@
 {
   "id": "w69aedz",
-  "category": "sports",
-  "title": "Living Golf",
-  "fullTitle": "[二]Living Golf[再]",
-  "detail": "#205 サウジ・インターナショナルの模様をリポート。注目選手の1人で世界屈指のロングヒッター、ブライソン・デシャンボー、昨年準優勝のトニー・フィナウに密着。",
+  "category": "hobby",
+  "title": "African Voices",
+  "fullTitle": "[二]African Voices[再]",
+  "detail": "日本語同時通訳付。\r\n世界的に活躍するアフリカ各国の話題の人物に、ロング・インタビュー。",
   "start": 1646020800000,
   "end": 1646022600000,
   "seconds": 1800,
@@ -18,7 +18,7 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": 205,
+  "episode": null,
   "flags": [
     "二",
     "再"

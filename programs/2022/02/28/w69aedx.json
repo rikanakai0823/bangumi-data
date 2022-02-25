@@ -1,9 +1,9 @@
 {
   "id": "w69aedx",
   "category": "news",
-  "title": "アフリカ経済ウィークリー Market Place Africa",
-  "fullTitle": "[二]アフリカ経済ウィークリー Market Place Africa[再]",
-  "detail": "日本語同時通訳付。\r\nアフリカ経済の最新トレンド、注目のビジネスを紹介。",
+  "title": "中東経済市場",
+  "fullTitle": "[二]中東経済市場[再]",
+  "detail": "#6 バーレーンが掲げる「経済ビジョン2030」。300億ドル規模のインフラなどへの投資、石油依存からの脱却、経済の多様性と拡大を目指す政府の経済戦略を取材。",
   "start": 1646019000000,
   "end": 1646019900000,
   "seconds": 900,
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "",
-  "episode": null,
+  "subTitle": "バーレーンが掲げる",
+  "episode": 6,
   "flags": [
     "二",
     "再"

@@ -1,9 +1,9 @@
 {
   "id": "w69aedb",
-  "category": "sports",
-  "title": "Living Golf",
-  "fullTitle": "[二]Living Golf[再]",
-  "detail": "#205 サウジ・インターナショナルの模様をリポート。注目選手の1人で世界屈指のロングヒッター、ブライソン・デシャンボー、昨年準優勝のトニー・フィナウに密着。",
+  "category": "news",
+  "title": "ニュー・デイ・サンデー",
+  "fullTitle": "[二]ニュー・デイ・サンデー",
+  "detail": "日本語同時通訳付。\r\nアメリカの「朝」を直送。\r\n最新ニュースを伝えるモーニング・ワイド。",
   "start": 1645959600000,
   "end": 1645961400000,
   "seconds": 1800,
@@ -18,9 +18,8 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": 205,
+  "episode": null,
   "flags": [
-    "二",
-    "再"
+    "二"
   ]
 }
