@@ -1,9 +1,9 @@
 {
   "id": "idp46no",
-  "category": "etc",
+  "category": "hobby",
   "title": "テントを背負って",
-  "fullTitle": "テントを背負って",
-  "detail": "",
+  "fullTitle": "テントを背負って「富士を見に行く」[字]",
+  "detail": "テントを背負って、小さな冒険に出かけよう！空気が澄みきった冬は美しい富士の姿を眺めるには絶好の時期。紅富士や逆さ富士、ダイヤモンド富士まで憧れの富士の姿を堪能！",
   "start": 1646301600000,
   "end": 1646303400000,
   "seconds": 1800,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 42
   },
-  "subTitle": "",
+  "subTitle": "富士を見に行く",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
