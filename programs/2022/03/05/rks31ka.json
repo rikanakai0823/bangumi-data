@@ -1,0 +1,25 @@
+{
+  "id": "rks31ka",
+  "category": "variety",
+  "title": "SKE48 ゼロポジ 生放送SP",
+  "fullTitle": "[生]SKE48 ゼロポジ 生放送SP",
+  "detail": "SKE48の7期生＆ドラフト2期生と8期生がZepp Nagoyaでの単独ライブ開催を懸けて激突する特別企画！最終決戦を生放送SPでお届け！",
+  "start": 1646476200000,
+  "end": 1646481600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

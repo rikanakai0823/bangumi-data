@@ -1,0 +1,25 @@
+{
+  "id": "idv09dg",
+  "category": "cinema",
+  "title": "インサイド・マン",
+  "fullTitle": "[映]インサイド・マン[吹]",
+  "detail": "３人の実力派スターが豪華競演！銀行強盗の現場を舞台に、犯人、警察、弁護士がそれぞれの立場で繰り広げる駆け引きを描き出す。",
+  "start": 1646481600000,
+  "end": 1646490000000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

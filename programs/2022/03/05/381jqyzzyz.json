@@ -1,0 +1,23 @@
+{
+  "id": "381jqyzzyz",
+  "category": "information",
+  "title": "ブレッド図書館",
+  "fullTitle": "ブレッド図書館",
+  "detail": "",
+  "start": 1646463300000,
+  "end": 1646463600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

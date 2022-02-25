@@ -1,0 +1,25 @@
+{
+  "id": "idp48b8",
+  "category": "documentary",
+  "title": "体感！の世界　伊豆・鎌倉",
+  "fullTitle": "体感！「鎌倉殿の１３人」の世界　伊豆・鎌倉[字]",
+  "detail": "",
+  "start": 1646445600000,
+  "end": 1646449200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "鎌倉殿の１３人",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

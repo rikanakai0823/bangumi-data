@@ -1,0 +1,23 @@
+{
+  "id": "idsjykb",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ　オープン戦",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ　オープン戦「日本ハム×巨人」",
+  "detail": "札幌ドームから生中継。午後２時試合開始。\r\n【解説】新井貴浩【実況】初田啓介",
+  "start": 1646456400000,
+  "end": 1646466840000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "日本ハム×巨人",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduvy7c",
+  "category": "cinema",
+  "title": "不夜城の男",
+  "fullTitle": "[映]不夜城の男",
+  "detail": "パク・ヘス主演のクライムドラマ。煌びやかな夜の世界で成り上がった男が、芸能界や裏社会、政財界の巨悪を暴くために暗躍する。",
+  "start": 1646442000000,
+  "end": 1646450100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

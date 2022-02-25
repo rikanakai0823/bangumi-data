@@ -1,0 +1,25 @@
+{
+  "id": "iduvyja",
+  "category": "cinema",
+  "title": "ヨンガシ　変種増殖",
+  "fullTitle": "[映]ヨンガシ　変種増殖",
+  "detail": "韓国で大ヒットを記録したパニックムービー。突然変異し、人間を死に追いやる寄生虫“ヨンガシ（ハリガネムシ）”の恐怖を描く。",
+  "start": 1646458200000,
+  "end": 1646465400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}
