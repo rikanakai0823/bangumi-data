@@ -2,7 +2,7 @@
   "id": "381jqz0pyx",
   "category": "documentary",
   "title": "行くぞ！最果て！秘境×鉄道　１０分ミニ",
-  "fullTitle": "行くぞ！最果て！秘境×鉄道　１０分ミニ",
+  "fullTitle": "行くぞ！最果て！秘境×鉄道　１０分ミニ[字]",
   "detail": "",
   "start": 1646414400000,
   "end": 1646415000000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
