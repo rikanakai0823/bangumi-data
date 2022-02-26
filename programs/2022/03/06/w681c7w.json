@@ -1,0 +1,26 @@
+{
+  "id": "w681c7w",
+  "category": "anime",
+  "title": "錆色のアーマ -黎明-",
+  "fullTitle": "[無]錆色のアーマ -黎明- #08 [字]",
+  "detail": "#08 薄桜の祈望",
+  "start": 1646523000000,
+  "end": 1646524800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "薄桜の祈望",
+  "episode": 8,
+  "flags": [
+    "無",
+    "字"
+  ]
+}

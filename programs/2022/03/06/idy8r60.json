@@ -1,0 +1,26 @@
+{
+  "id": "idy8r60",
+  "category": "anime",
+  "title": "セイディ・スパークス",
+  "fullTitle": "[無]セイディ・スパークス#15[二]",
+  "detail": "#15「オモシロおサル／おやすみハーモニー」",
+  "start": 1646542800000,
+  "end": 1646544600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "オモシロおサル／おやすみハーモニー",
+  "episode": 15,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

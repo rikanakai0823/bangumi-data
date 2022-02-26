@@ -1,0 +1,25 @@
+{
+  "id": "idozy6u",
+  "category": "documentary",
+  "title": "街角ピアノ　２５ｍｉｎ．",
+  "fullTitle": "街角ピアノ　２５ｍｉｎ．[字]",
+  "detail": "",
+  "start": 1646503800000,
+  "end": 1646505300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idozy6t",
+  "category": "documentary",
+  "title": "駅ピアノ　２５ｍｉｎ．",
+  "fullTitle": "駅ピアノ　２５ｍｉｎ．[字]",
+  "detail": "",
+  "start": 1646502300000,
+  "end": 1646503800000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

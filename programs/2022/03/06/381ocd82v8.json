@@ -1,0 +1,26 @@
+{
+  "id": "381ocd82v8",
+  "category": "sports",
+  "title": "東京マラソン２０２１",
+  "fullTitle": "東京マラソン２０２１「～２０２２世界選手権・アジア大会代表選手選考レース～」[字][デ]",
+  "detail": "",
+  "start": 1646524800000,
+  "end": 1646535000000,
+  "seconds": 10200,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "～２０２２世界選手権・アジア大会代表選手選考レース～",
+  "episode": null,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

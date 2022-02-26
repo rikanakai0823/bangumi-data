@@ -1,0 +1,23 @@
+{
+  "id": "idvj60b",
+  "category": "documentary",
+  "title": "サンデーセレクション",
+  "fullTitle": "サンデーセレクション",
+  "detail": "",
+  "start": 1646546400000,
+  "end": 1646548200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

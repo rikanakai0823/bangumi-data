@@ -1,0 +1,25 @@
+{
+  "id": "rlm4237",
+  "category": "sports",
+  "title": "UFC NOW",
+  "fullTitle": "[無]UFC NOW #2",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n名勝負を厳選してお届け！",
+  "start": 1646568000000,
+  "end": 1646571600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "無"
+  ]
+}

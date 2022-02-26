@@ -1,0 +1,26 @@
+{
+  "id": "idud3uv",
+  "category": "cinema",
+  "title": "アクターズ・ショート・フィルム２　（監督：前田敦子）",
+  "fullTitle": "[映]アクターズ・ショート・フィルム２　＃５（監督：前田敦子）[字]",
+  "detail": "",
+  "start": 1646501100000,
+  "end": 1646502600000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

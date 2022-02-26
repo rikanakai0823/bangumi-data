@@ -1,0 +1,25 @@
+{
+  "id": "idozb42",
+  "category": "sports",
+  "title": "ＰＧＡゴルフツアー　アーノルド　パーマー　インビテーショナル",
+  "fullTitle": "ＰＧＡゴルフツアー　アーノルド　パーマー　インビテーショナル「３日目」[二]",
+  "detail": "【解説】佐渡充高，【アナウンサー】田中秀樹　～フロリダ州オーランド　ベイヒル・クラブ＆ロッジから中継～",
+  "start": 1646514000000,
+  "end": 1646521200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "３日目",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

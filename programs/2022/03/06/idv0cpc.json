@@ -1,0 +1,26 @@
+{
+  "id": "idv0cpc",
+  "category": "cinema",
+  "title": "【最新作】ザ・デイ・シャル・カム",
+  "fullTitle": "【最新作】[映][SS]ザ・デイ・シャル・カム[吹]",
+  "detail": "アナ・ケンドリックが出演した実話を基にしたコメディドラマ。教団を率いる妄想的な男と、彼に翻弄されるＦＢＩの捜査を描く。",
+  "start": 1646576400000,
+  "end": 1646582400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

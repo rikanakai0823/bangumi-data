@@ -1,0 +1,26 @@
+{
+  "id": "idud3ut",
+  "category": "cinema",
+  "title": "アクターズ・ショート・フィルム２",
+  "fullTitle": "[映]アクターズ・ショート・フィルム２　＃３　あんた（監督：千葉雄大）[字]",
+  "detail": "",
+  "start": 1646497800000,
+  "end": 1646499600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "あんた（監督：千葉雄大）",
+  "episode": 3,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

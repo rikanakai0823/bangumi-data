@@ -1,0 +1,26 @@
+{
+  "id": "idy8r5y",
+  "category": "anime",
+  "title": "ウォーリーをさがせ！",
+  "fullTitle": "[無]ウォーリーをさがせ！#20[二]",
+  "detail": "#20「クリスマスをすくえ！」",
+  "start": 1646533800000,
+  "end": 1646535600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "クリスマスをすくえ！",
+  "episode": 20,
+  "flags": [
+    "無",
+    "二"
+  ]
+}
