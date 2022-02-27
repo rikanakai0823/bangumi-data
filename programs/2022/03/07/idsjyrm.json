@@ -1,0 +1,25 @@
+{
+  "id": "idsjyrm",
+  "category": "cinema",
+  "title": "「ＴＡＸｉダイヤモンド・ミッション」",
+  "fullTitle": "[映]「ＴＡＸｉダイヤモンド・ミッション」【吹替】",
+  "detail": "",
+  "start": 1646589600000,
+  "end": 1646596440000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

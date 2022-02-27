@@ -1,0 +1,23 @@
+{
+  "id": "w5xt1et",
+  "category": "information",
+  "title": "コードレスバイブレーションモップクリーナ",
+  "fullTitle": "コードレスバイブレーションモップクリーナ",
+  "detail": "高速振動しながら前進する、軽い使い心地のコードレスモップクリーナーです。立ったまま拭き掃除ができるので、腰への負担を軽減します。フローリングにも畳にも使えます。",
+  "start": 1646640000000,
+  "end": 1646643600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

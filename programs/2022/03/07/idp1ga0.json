@@ -1,0 +1,25 @@
+{
+  "id": "idp1ga0",
+  "category": "sports",
+  "title": "ＰＧＡゴルフツアー　アーノルド　パーマー　インビテーショナル",
+  "fullTitle": "ＰＧＡゴルフツアー　アーノルド　パーマー　インビテーショナル「最終日」[二]",
+  "detail": "【解説】佐渡充高，【アナウンサー】田中秀樹　～フロリダ州オーランド　ベイヒル・クラブ＆ロッジから中継～",
+  "start": 1646606940000,
+  "end": 1646607600000,
+  "seconds": 660,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "最終日",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

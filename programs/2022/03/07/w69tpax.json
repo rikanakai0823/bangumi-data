@@ -1,0 +1,23 @@
+{
+  "id": "w69tpax",
+  "category": "hobby",
+  "title": "インフォメーション（CM）",
+  "fullTitle": "インフォメーション（CM）",
+  "detail": "対局日：2015年8月3日",
+  "start": 1646623800000,
+  "end": 1646625600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "囲碁・将棋チャンネル",
+    "id": "f0ej",
+    "sid": 363,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

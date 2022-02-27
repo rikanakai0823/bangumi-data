@@ -1,0 +1,25 @@
+{
+  "id": "idy8r7f",
+  "category": "anime",
+  "title": "ゴーストフォース",
+  "fullTitle": "ゴーストフォース#6[二]",
+  "detail": "#6「ジップザップ／アーティフレーム」",
+  "start": 1646641800000,
+  "end": 1646643600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ジップザップ／アーティフレーム",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}

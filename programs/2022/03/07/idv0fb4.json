@@ -1,0 +1,26 @@
+{
+  "id": "idv0fb4",
+  "category": "cinema",
+  "title": "赤毛のアン（２０１５）",
+  "fullTitle": "[映][SS]赤毛のアン（２０１５）[吹]",
+  "detail": "世界中で愛されるＬ．Ｍ．モンゴメリの小説を実写化したファミリードラマ。想像力豊かな少女アンが巻き起こす騒動と成長を描く。",
+  "start": 1646636400000,
+  "end": 1646642400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

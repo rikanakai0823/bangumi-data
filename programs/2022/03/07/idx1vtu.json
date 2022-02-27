@@ -1,0 +1,25 @@
+{
+  "id": "idx1vtu",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "[字]ちびまる子ちゃん ベストセレクション",
+  "detail": "#512「はちみつの味」の巻／「お花見はつらいよ」の巻\r\n#513「さくら家、クモ騒動」の巻／「初めての手紙」の巻\r\n静岡県…",
+  "start": 1646593200000,
+  "end": 1646596800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "はちみつの味",
+  "episode": 512,
+  "flags": [
+    "字"
+  ]
+}

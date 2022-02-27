@@ -1,0 +1,25 @@
+{
+  "id": "iduw5dv",
+  "category": "cinema",
+  "title": "プッシャー",
+  "fullTitle": "[映]プッシャー",
+  "detail": "デンマーク時代のニコラス・ウィンディング・レフン監督作の英語リメイク版。ドラッグと大金を失った麻薬密売人のピンチを描く。",
+  "start": 1646655300000,
+  "end": 1646661600000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

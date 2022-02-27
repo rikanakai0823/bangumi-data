@@ -1,0 +1,25 @@
+{
+  "id": "iduf9mr",
+  "category": "sports",
+  "title": "ラ・リーガ　第２７節　エルチェｖｓバルセロナ",
+  "fullTitle": "ラ・リーガ　第２７節　エルチェｖｓバルセロナ[二]",
+  "detail": "スペインサッカー　ラ・リーガの２０２１－２０２２シーズン。各国のスター選手が競演する最高峰の戦いを毎節最大５試合生中継する。",
+  "start": 1646645400000,
+  "end": 1646652600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "二"
+  ]
+}

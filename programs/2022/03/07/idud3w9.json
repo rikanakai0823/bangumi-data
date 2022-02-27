@@ -1,0 +1,25 @@
+{
+  "id": "idud3w9",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無]洋楽ＢＲＥＡＫ　＃４８０",
+  "detail": "",
+  "start": 1646664600000,
+  "end": 1646665200000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 480,
+  "flags": [
+    "無"
+  ]
+}

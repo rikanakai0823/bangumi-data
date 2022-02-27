@@ -1,0 +1,26 @@
+{
+  "id": "iduhf47",
+  "category": "cinema",
+  "title": "銀色のシーズン",
+  "fullTitle": "[映]銀色のシーズン[字]",
+  "detail": "永山瑛太、田中麗奈らの共演で、奔放なスキー青年たちとスキーができないヒロインの交流を描く。「ＭＯＺＵ」シリーズの羽住英一郎監督が、今度は雪山で描くスキードラマ。",
+  "start": 1646610600000,
+  "end": 1646617500000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "ＭＯＺＵ",
+  "episode": null,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
