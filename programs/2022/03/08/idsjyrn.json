@@ -1,0 +1,25 @@
+{
+  "id": "idsjyrn",
+  "category": "cinema",
+  "title": "「ブルージャスミン」",
+  "fullTitle": "[映]「ブルージャスミン」【吹替】",
+  "detail": "",
+  "start": 1646676000000,
+  "end": 1646682840000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "吹替",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

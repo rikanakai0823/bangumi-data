@@ -1,0 +1,23 @@
+{
+  "id": "w67g8ft",
+  "category": "music",
+  "title": "AI ビデオ特集",
+  "fullTitle": "AI ビデオ特集",
+  "detail": "第72回NHK紅白歌合戦への出演も話題の、AIのミュージックビデオをお届け。",
+  "start": 1646730000000,
+  "end": 1646733600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "",
+  "episode": 72,
+  "flags": []
+}

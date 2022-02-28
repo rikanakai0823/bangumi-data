@@ -1,0 +1,25 @@
+{
+  "id": "idy8r89",
+  "category": "hobby",
+  "title": "ブルーイ",
+  "fullTitle": "ブルーイ#2[二]",
+  "detail": "#2「おやすみのひ　/　バーベキュー　/　コウモリになりたい」",
+  "start": 1646699400000,
+  "end": 1646701200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "おやすみのひ　/　バーベキュー　/　コウモリになりたい",
+  "episode": 2,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idv0hrw",
+  "category": "cinema",
+  "title": "夜の訪問者水曜ロードショー版",
+  "fullTitle": "[映]夜の訪問者[吹]水曜ロードショー版",
+  "detail": "チャールズ・ブロンソン主演のサスペンススリラー。港町で平和に暮らしている男が突如現れた昔の仲間と対立する運命が描かれる。",
+  "start": 1646690400000,
+  "end": 1646697000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduhf4m",
+  "category": "cinema",
+  "title": "大コメ騒動",
+  "fullTitle": "[映]大コメ騒動[SS][字]",
+  "detail": "舞台は大正時代の富山県。井上真央が子ども３人のおかか（女房）役を熱演した歴史エンターテインメント。米価格の高騰に我慢の限界に達したおかかたちは立ち上がる。",
+  "start": 1646720100000,
+  "end": 1646727300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63j3r1",
+  "category": "sports",
+  "title": "全国高校サッカー選手権　1回戦",
+  "fullTitle": "第100回全国高校サッカー選手権(4)　1回戦(5)[再]",
+  "detail": "「西武台(埼玉)×三重(三重)」\r\n～NACK５スタジアム大宮\r\n解説：福田正博（元日本代表FW）\r\n実況：中久木大力（三重テレビ）",
+  "start": 1646744400000,
+  "end": 1646751600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "西武台(埼玉)×三重(三重)",
+  "episode": 100,
+  "flags": [
+    "再"
+  ]
+}

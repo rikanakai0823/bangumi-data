@@ -1,0 +1,25 @@
+{
+  "id": "idp49d5",
+  "category": "documentary",
+  "title": "ＮＨＫ特集",
+  "fullTitle": "ＮＨＫ特集「奥羽山系　マタギの世界」[字]",
+  "detail": "奥羽の雪深い山中で、ひたすら獲物を追う狩人の集団－マタギ。その伝統を残す秋田県阿仁地方で行われたクマ狩りを取材し、自然とともに生きてきたマタギの世界を伝える。",
+  "start": 1646730600000,
+  "end": 1646733600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "奥羽山系　マタギの世界",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

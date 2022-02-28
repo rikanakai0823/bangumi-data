@@ -1,0 +1,25 @@
+{
+  "id": "w65vwq4",
+  "category": "sports",
+  "title": "プロ野球 2022(オープン戦) DeNA×西武(3/8)",
+  "fullTitle": "[生]プロ野球 2022(オープン戦) DeNA×西武(3/8)",
+  "detail": "横浜DeNAベイスターズ主催のオープン戦を全試合、開始から終了まで生中継！※雨天中止の場合、別番組をお送りします",
+  "start": 1646711700000,
+  "end": 1646726400000,
+  "seconds": 14700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 106
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}
