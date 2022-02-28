@@ -2,7 +2,7 @@
   "id": "381jqyzzz0",
   "category": "information",
   "title": "ブレッド図書館",
-  "fullTitle": "ブレッド図書館",
+  "fullTitle": "ブレッド図書館[字]",
   "detail": "",
   "start": 1646547900000,
   "end": 1646548200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

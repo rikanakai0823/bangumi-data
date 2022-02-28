@@ -2,11 +2,15 @@
   "id": "381jqz0npr",
   "category": "variety",
   "title": "グレーテルのかまど",
-  "fullTitle": "グレーテルのかまど[解][字]",
-  "detail": "",
+  "fullTitle": "グレーテルのかまど「秀吉のうぐいす餅」[解][字]",
+  "detail": "【出演】瀬戸康史，【声】キムラ緑子\n◇出演者\n【出演】瀬戸康史，【声】キムラ緑子",
   "start": 1646658000000,
   "end": 1646659500000,
   "seconds": 1500,
+  "description": "【出演】瀬戸康史，【声】キムラ緑子",
+  "extra": {
+    "出演者": "【出演】瀬戸康史，【声】キムラ緑子"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "秀吉のうぐいす餅",
   "episode": null,
   "flags": [
     "解",

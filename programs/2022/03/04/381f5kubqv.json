@@ -1,0 +1,25 @@
+{
+  "id": "381f5kubqv",
+  "category": "sports",
+  "title": "北京パラリンピック◇開会式（中継）",
+  "fullTitle": "北京パラリンピック◇開会式（中継）[字]",
+  "detail": "◇開会式（中継）",
+  "start": 1646394900000,
+  "end": 1646397600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}
