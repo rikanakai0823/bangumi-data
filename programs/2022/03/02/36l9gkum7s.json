@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２２年３月",
+  "detail": "２０２２年３月\n◇番組内容\n●[Alexandros] / Rock The World\r\n●Novelbright / The Warrior\r\n●ヒロミ / 神様との約束\r\n●桐谷健太 / 遣らずの雨と、光\r\n●竹内唯人 / XX\r\n●SKE48 / 心にFlower\r\n●愛美 / LIGHTS",
   "start": 1646150400000,
   "end": 1646152200000,
   "seconds": 1800,
+  "description": "２０２２年３月",
+  "extra": {
+    "番組内容": "●[Alexandros] / Rock The World\r\n●Novelbright / The Warrior\r\n●ヒロミ / 神様との約束\r\n●桐谷健太 / 遣らずの雨と、光\r\n●竹内唯人 / XX\r\n●SKE48 / 心にFlower\r\n●愛美 / LIGHTS"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
