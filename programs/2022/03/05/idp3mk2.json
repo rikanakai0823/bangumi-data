@@ -1,0 +1,23 @@
+{
+  "id": "idp3mk2",
+  "category": "documentary",
+  "title": "ハイビジョン動物記",
+  "fullTitle": "ハイビジョン動物記「オオカバマダラ」",
+  "detail": "",
+  "start": 1646416200000,
+  "end": 1646416800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "オオカバマダラ",
+  "episode": null,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idp3mkn",
+  "category": "documentary",
+  "title": "ハイビジョン動物記",
+  "fullTitle": "ハイビジョン動物記「イチゴヤドクガエル」",
+  "detail": "",
+  "start": 1646154900000,
+  "end": 1646155500000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "イチゴヤドクガエル",
+  "episode": null,
+  "flags": []
+}
