@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "北京パラリンピック◇開会式（中継）",
   "fullTitle": "北京パラリンピック◇開会式（中継）[字]",
-  "detail": "◇開会式（中継）",
+  "detail": "◇開会式（中継）　【アナウンサー】中野淳，中山果奈\n◇出演者\n【アナウンサー】中野淳，中山果奈",
   "start": 1646394900000,
   "end": 1646397600000,
   "seconds": 2700,
+  "description": "◇開会式（中継）　【アナウンサー】中野淳，中山果奈",
+  "extra": {
+    "出演者": "【アナウンサー】中野淳，中山果奈"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 1
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": null,
   "flags": [
     "字"
