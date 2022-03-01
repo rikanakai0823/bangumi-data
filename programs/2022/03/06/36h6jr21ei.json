@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ウィークエンドニュース　サンデー",
   "fullTitle": "ウィークエンドニュース　サンデー[Ｓ]",
-  "detail": "",
+  "detail": "◇出演者\n荻野仁美（テレ玉アナウンサー）",
   "start": 1646556300000,
   "end": 1646556900000,
   "seconds": 600,
+  "description": "",
+  "extra": {
+    "出演者": "荻野仁美（テレ玉アナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
