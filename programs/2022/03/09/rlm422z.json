@@ -1,0 +1,25 @@
+{
+  "id": "rlm422z",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022～オープン戦～ ソフトバンクvs.巨人",
+  "fullTitle": "[生]HAWKS プロ野球中継2022～オープン戦～ ソフトバンクvs.巨人",
+  "detail": "解説/実況：松中信彦/石黒新平\r\n開催日時：2022年3月9日 (水) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1646816100000,
+  "end": 1646832600000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduygp8",
+  "category": "cinema",
+  "title": "オー！",
+  "fullTitle": "[映]オー！【フランスの至宝　ジャン＝ポール・ベルモンド特集】",
+  "detail": "ジャン＝ポール・ベルモンド主演の青春クライムアクション。ロベール・アンリコ監督が、若きギャングの成功と破滅を鮮烈に描く。",
+  "start": 1646820000000,
+  "end": 1646827200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "フランスの至宝　ジャン＝ポール・ベルモンド特集",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8r99",
+  "category": "hobby",
+  "title": "おさるのジョージ",
+  "fullTitle": "おさるのジョージ#41[二]",
+  "detail": "#41「ゆかいなぼうし／ナイトウォーク」",
+  "start": 1646778600000,
+  "end": 1646780400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ゆかいなぼうし／ナイトウォーク",
+  "episode": 41,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kpxl",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「クラシックトライアル」「第１３回フジノウェーブ記念（ＳⅢ）」「円通寺坂賞」",
+  "start": 1646806800000,
+  "end": 1646812800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 13,
+  "flags": []
+}

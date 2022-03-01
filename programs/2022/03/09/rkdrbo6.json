@@ -1,0 +1,23 @@
+{
+  "id": "rkdrbo6",
+  "category": "information",
+  "title": "シャビージェンティール",
+  "fullTitle": "シャビージェンティール",
+  "detail": "国内外から買付けた商品をご紹介。ここでしか買えないレアなアイテムや、人気ブランドのアイテムなどもバラエティ豊かに登場します！",
+  "start": 1646802000000,
+  "end": 1646809200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

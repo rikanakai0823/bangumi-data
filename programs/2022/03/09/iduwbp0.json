@@ -1,0 +1,26 @@
+{
+  "id": "iduwbp0",
+  "category": "cinema",
+  "title": "【最新作】私は確信する",
+  "fullTitle": "【最新作】[映][SS]私は確信する",
+  "detail": "実際の未解決事件を基にした法廷サスペンス。容疑者の無実を信じるシングルマザーと弁護士が、真実に迫ろうと奔走する姿を描く。",
+  "start": 1646827200000,
+  "end": 1646834400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
