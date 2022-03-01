@@ -1,12 +1,12 @@
 {
-  "id": "381jqz0nmu",
-  "category": "news",
-  "title": "放送休止",
-  "fullTitle": "放送休止",
+  "id": "381jqz019a",
+  "category": "etc",
+  "title": "あの人の極上ハンバーグ",
+  "fullTitle": "あの人の極上ハンバーグ[字]",
   "detail": "",
-  "start": 1646583300000,
-  "end": 1646598600000,
-  "seconds": 15300,
+  "start": 1646582700000,
+  "end": 1646583300000,
+  "seconds": 600,
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
