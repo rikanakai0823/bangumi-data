@@ -1,0 +1,25 @@
+{
+  "id": "w681cbv",
+  "category": "anime",
+  "title": "CUE!",
+  "fullTitle": "CUE! #09 [字]",
+  "detail": "#09 We Can Fly!!!!",
+  "start": 1646870400000,
+  "end": 1646872200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "We Can Fly!!!!",
+  "episode": 9,
+  "flags": [
+    "字"
+  ]
+}

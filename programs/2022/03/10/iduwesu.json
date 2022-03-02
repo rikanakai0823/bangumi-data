@@ -1,0 +1,25 @@
+{
+  "id": "iduwesu",
+  "category": "cinema",
+  "title": "ナイチンゲール",
+  "fullTitle": "[映]ナイチンゲール",
+  "detail": "イギリス植民地時代のオーストラリアを舞台に、夫と子供を奪われた女の復讐劇を描くバイオレントで過激なリベンジ・スリラー。",
+  "start": 1646911800000,
+  "end": 1646920800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

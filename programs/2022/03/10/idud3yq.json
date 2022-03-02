@@ -1,0 +1,26 @@
+{
+  "id": "idud3yq",
+  "category": "music",
+  "title": "洋楽ＢＲＥＡＫ",
+  "fullTitle": "[無][初]洋楽ＢＲＥＡＫ　＃４８３",
+  "detail": "",
+  "start": 1646923800000,
+  "end": 1646924400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 483,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

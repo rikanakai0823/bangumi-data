@@ -1,0 +1,25 @@
+{
+  "id": "idv0p1m",
+  "category": "cinema",
+  "title": "クンドゥン",
+  "fullTitle": "[映]クンドゥン[吹]",
+  "detail": "マーティン・スコセッシ監督がチベットの指導者ダライ・ラマ１４世の波乱の人生を歴史的事実を基に描いた歴史ドラマ。",
+  "start": 1646908200000,
+  "end": 1646917200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rkdrbot",
+  "category": "information",
+  "title": "気持ちいい歯磨き習慣！奇跡の歯ブラシスペシャル",
+  "fullTitle": "気持ちいい歯磨き習慣！奇跡の歯ブラシスペシャル",
+  "detail": "タフトと歯ブラシが一体化！歯の汚れを効率的に落とせるピラミッド型の歯ブラシがスペシャルセットで登場！新しい季節に向けて歯ブラシはこれで決まり。",
+  "start": 1646884800000,
+  "end": 1646888400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

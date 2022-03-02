@@ -1,0 +1,23 @@
+{
+  "id": "w69tpdq",
+  "category": "hobby",
+  "title": "インフォメーション（CM）",
+  "fullTitle": "インフォメーション（CM）",
+  "detail": "対局日：2021年8月19日",
+  "start": 1646881200000,
+  "end": 1646883000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "囲碁・将棋チャンネル",
+    "id": "f0ej",
+    "sid": 363,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}
