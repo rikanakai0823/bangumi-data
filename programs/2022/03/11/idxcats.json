@@ -1,0 +1,25 @@
+{
+  "id": "idxcats",
+  "category": "hobby",
+  "title": "BSスカパー！パチンコパチスロアワー　ベーパチ！",
+  "fullTitle": "[無]BSスカパー！パチンコパチスロアワー　ベーパチ！#11",
+  "detail": "#11　ヒラヤマン＆嵐が超電磁砲（レールガン）で実戦！（前編）",
+  "start": 1647007200000,
+  "end": 1647010800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "ヒラヤマン＆嵐が超電磁砲（レールガン）で実戦！（前編）",
+  "episode": 11,
+  "flags": [
+    "無"
+  ]
+}

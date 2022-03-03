@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0ph2",
+  "category": "hobby",
+  "title": "アクティブ１０　レキデリ",
+  "fullTitle": "アクティブ１０　レキデリ[字]",
+  "detail": "",
+  "start": 1646924400000,
+  "end": 1646925000000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

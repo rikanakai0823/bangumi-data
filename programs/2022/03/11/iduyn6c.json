@@ -1,0 +1,26 @@
+{
+  "id": "iduyn6c",
+  "category": "cinema",
+  "title": "ハーフ・ア・チャンス",
+  "fullTitle": "[映][SS]ハーフ・ア・チャンス【ジャン＝ポール・ベルモンド特集】",
+  "detail": "アラン・ドロンとジャン＝ポール・ベルモンドが共演した娯楽アクション。娘のために体を張る初老の悪党２人の活躍を描く。",
+  "start": 1647000000000,
+  "end": 1647007200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "ジャン＝ポール・ベルモンド特集",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

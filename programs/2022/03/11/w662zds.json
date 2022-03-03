@@ -1,0 +1,23 @@
+{
+  "id": "w662zds",
+  "category": "cinema",
+  "title": "日本アカデミー賞授賞式 直前SP",
+  "fullTitle": "第45回日本アカデミー賞授賞式 直前SP",
+  "detail": "地上波・日テレ系で3/11(金)よる9時から放送「第45回日本アカデミー賞授賞式」の直前スペシャル!",
+  "start": 1646996400000,
+  "end": 1647000000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "第45回日本アカデミー賞授賞式",
+  "episode": 45,
+  "flags": []
+}

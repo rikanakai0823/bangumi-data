@@ -1,0 +1,27 @@
+{
+  "id": "iduhf5g",
+  "category": "cinema",
+  "title": "小川の辺",
+  "fullTitle": "[映]小川の辺[SS][字]",
+  "detail": "「山桜」に続き東山紀之主演、篠原哲雄監督のコンビで藤沢周平の同名小説を映画化。妹の夫でもある親友を斬るという藩命を受けた下級武士が、任務と感情の狭間で苦悩する。",
+  "start": 1646942400000,
+  "end": 1646948700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "山桜",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

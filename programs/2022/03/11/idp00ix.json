@@ -1,0 +1,25 @@
+{
+  "id": "idp00ix",
+  "category": "sports",
+  "title": "北京パラリンピック◇アルペンスキー　女子大回転（中継）ほか",
+  "fullTitle": "北京パラリンピック◇アルペンスキー　女子大回転（中継）ほか[字]",
+  "detail": "◇アルペンスキー　女子大回転（中継）ほか",
+  "start": 1646971200000,
+  "end": 1646985000000,
+  "seconds": 13800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

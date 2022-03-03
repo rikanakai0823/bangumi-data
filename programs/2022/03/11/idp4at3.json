@@ -1,0 +1,26 @@
+{
+  "id": "idp4at3",
+  "category": "documentary",
+  "title": "美の壺　スペシャル",
+  "fullTitle": "美の壺　スペシャル「庭園」[字][再]",
+  "detail": "世界に誇る日本の「庭園」。自然美あふれる名庭から、枯山水、大名庭園、京町家の坪庭、料亭の茶庭、子どもの園庭まで、庭園の魅力を極上の映像で紹介する拡大決定版！",
+  "start": 1646994600000,
+  "end": 1647000000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "庭園",
+  "episode": null,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w681cdf",
+  "category": "anime",
+  "title": "ドールズフロントライン",
+  "fullTitle": "ドールズフロントライン #09 [字]",
+  "detail": "#09 THE KINDLING 02 火種02",
+  "start": 1646987400000,
+  "end": 1646989200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "THE KINDLING 02 火種02",
+  "episode": 9,
+  "flags": [
+    "字"
+  ]
+}

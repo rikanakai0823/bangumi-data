@@ -1,0 +1,25 @@
+{
+  "id": "idp4ata",
+  "category": "documentary",
+  "title": "バスで！列車で！篠山輝信×震災１１年の東北旅",
+  "fullTitle": "バスで！列車で！篠山輝信×震災１１年の東北旅[字]",
+  "detail": "",
+  "start": 1647003600000,
+  "end": 1647007200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idozcsv",
+  "category": "documentary",
+  "title": "Ｄｉｒｅｃｔ　Ｔａｌｋ",
+  "fullTitle": "Ｄｉｒｅｃｔ　Ｔａｌｋ",
+  "detail": "",
+  "start": 1646937900000,
+  "end": 1646938800000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

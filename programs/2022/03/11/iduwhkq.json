@@ -1,0 +1,26 @@
+{
+  "id": "iduwhkq",
+  "category": "cinema",
+  "title": "ハッピー・バースデー　家族のいる時間",
+  "fullTitle": "[映][SS]ハッピー・バースデー　家族のいる時間",
+  "detail": "カトリーヌ・ドヌーヴ主演の家族ドラマ。母親の誕生日、３年ぶりに帰ってきた長女が家族の間に波乱を巻き起こす。［ＰＧ１２］",
+  "start": 1646980200000,
+  "end": 1646987400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
