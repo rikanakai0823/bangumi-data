@@ -4,9 +4,9 @@
   "title": "Lunch　Update",
   "fullTitle": "[無料]Lunch　Update",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Lunch Update」",
-  "start": 1646535600000,
+  "start": 1646539200000,
   "end": 1646542800000,
-  "seconds": 7200,
+  "seconds": 3600,
   "channel": {
     "type": "CS",
     "channel": "CS8",
