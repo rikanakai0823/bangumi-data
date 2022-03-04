@@ -1,0 +1,25 @@
+{
+  "id": "w66llpt",
+  "category": "sports",
+  "title": "2022 FORMULA1 プレシーズンテスト",
+  "fullTitle": "[生]2022 FORMULA1 プレシーズンテスト　#3",
+  "detail": "FORMULA 1 ARAMCO PRE-SEASON TESTING 2022　～バーレーン【生中継】\r\n※第2音声：会場音\r\n※変更の場合あり",
+  "start": 1647084600000,
+  "end": 1647101400000,
+  "seconds": 16800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 114
+  },
+  "subTitle": "生中継",
+  "episode": 3,
+  "flags": [
+    "生"
+  ]
+}

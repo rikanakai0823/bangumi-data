@@ -1,0 +1,25 @@
+{
+  "id": "rkv90i2",
+  "category": "sports",
+  "title": "プロ野球オープン戦2022",
+  "fullTitle": "[生]プロ野球オープン戦2022「千葉ロッテ×西武」",
+  "detail": "～生中継　～ZOZOマリンスタジアム\r\n*早終了及び荒天中止の時、番組変更あり\r\n解説：薮田安彦　実況：吉田伸男",
+  "start": 1647056700000,
+  "end": 1647072000000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "千葉ロッテ×西武",
+  "episode": null,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idp00u9",
+  "category": "sports",
+  "title": "Ｊリーグ２０２２「湘南ベルマーレ」対",
+  "fullTitle": "Ｊリーグ２０２２「湘南ベルマーレ」対「京都サンガ」[デ]",
+  "detail": "　（試合開始　３：０３）　【解説】小島伸幸，【アナウンサー】野地俊二　～レモンガススタジアム平塚から中継～",
+  "start": 1647064800000,
+  "end": 1647072000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "京都サンガ",
+  "episode": null,
+  "flags": [
+    "デ"
+  ]
+}

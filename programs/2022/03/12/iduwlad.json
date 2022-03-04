@@ -1,0 +1,26 @@
+{
+  "id": "iduwlad",
+  "category": "cinema",
+  "title": "運命の門",
+  "fullTitle": "[映][SS]運命の門",
+  "detail": "１９７０年代カンボジアで、革命勢力“クメール・ルージュ”に拉致されたフランス人男性の目を通し当時の状況を綴る実録ドラマ。",
+  "start": 1647092700000,
+  "end": 1647099000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8rds",
+  "category": "anime",
+  "title": "ゴーストフォース",
+  "fullTitle": "ゴーストフォース#4[二]",
+  "detail": "#4「ミズオ／シャークオーク」",
+  "start": 1647068400000,
+  "end": 1647070200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "ミズオ／シャークオーク",
+  "episode": 4,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduyq6z",
+  "category": "cinema",
+  "title": "ブロークン",
+  "fullTitle": "[映]ブロークン",
+  "detail": "ショーン・エリス監督の心理サスペンス。瓜二つの人間の存在に気づいたことで体験する恐怖を独特の映像表現で描く。",
+  "start": 1647080100000,
+  "end": 1647086400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

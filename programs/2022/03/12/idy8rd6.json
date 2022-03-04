@@ -1,0 +1,25 @@
+{
+  "id": "idy8rd6",
+  "category": "drama",
+  "title": "グッドラック・チャーリー",
+  "fullTitle": "グッドラック・チャーリー#91[二]",
+  "detail": "#91「害虫プロム」",
+  "start": 1647025200000,
+  "end": 1647027000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "害虫プロム",
+  "episode": 91,
+  "flags": [
+    "二"
+  ]
+}

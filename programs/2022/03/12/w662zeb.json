@@ -1,0 +1,23 @@
+{
+  "id": "w662zeb",
+  "category": "cinema",
+  "title": "日本アカデミー賞授賞式 地上波版",
+  "fullTitle": "第45回日本アカデミー賞授賞式 地上波版",
+  "detail": "日テレプラスでは、地上波日テレで放送された「地上波版」をプレイバック放送。",
+  "start": 1647086400000,
+  "end": 1647093600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "地上波版",
+  "episode": 45,
+  "flags": []
+}
