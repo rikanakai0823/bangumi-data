@@ -2,7 +2,7 @@
   "id": "idoze8v",
   "category": "documentary",
   "title": "ＣＯＯＬ　ＪＡＰＡＮ　セレクション",
-  "fullTitle": "ＣＯＯＬ　ＪＡＰＡＮ　セレクション",
+  "fullTitle": "ＣＯＯＬ　ＪＡＰＡＮ　セレクション[字]",
   "detail": "",
   "start": 1646882400000,
   "end": 1646882700000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
