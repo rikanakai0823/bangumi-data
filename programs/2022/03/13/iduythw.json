@@ -1,0 +1,25 @@
+{
+  "id": "iduythw",
+  "category": "cinema",
+  "title": "キャリー（１９７６）",
+  "fullTitle": "[映]キャリー（１９７６）",
+  "detail": "スティーヴン・キング原作の伝説的ホラー。超能力を隠し持つ孤独な少女が、哀しくも血塗られた復讐を果たす。［Ｒ１５＋］",
+  "start": 1647172800000,
+  "end": 1647179100000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

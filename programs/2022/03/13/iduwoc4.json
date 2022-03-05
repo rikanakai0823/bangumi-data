@@ -1,0 +1,25 @@
+{
+  "id": "iduwoc4",
+  "category": "anime",
+  "title": "ネビュラ７５",
+  "fullTitle": "[初]ネビュラ７５　＃５[吹]",
+  "detail": "【「サンダーバード」長期徹底特集　『ネビュラ７５』独占初放送】",
+  "start": 1647172800000,
+  "end": 1647174600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "「サンダーバード",
+  "episode": 5,
+  "flags": [
+    "初"
+  ]
+}

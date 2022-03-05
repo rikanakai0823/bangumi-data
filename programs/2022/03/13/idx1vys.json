@@ -1,0 +1,25 @@
+{
+  "id": "idx1vys",
+  "category": "anime",
+  "title": "名探偵コナン 3月号",
+  "fullTitle": "[字]名探偵コナン 3月号",
+  "detail": "#770「火の用心の落とし穴」\r\n#771「腹話術師の錯覚（前編）」\r\n#772「腹話術師の錯覚（後編）」\r\n#773「かまいたちの宿…",
+  "start": 1647178200000,
+  "end": 1647187200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "火の用心の落とし穴",
+  "episode": 770,
+  "flags": [
+    "字"
+  ]
+}

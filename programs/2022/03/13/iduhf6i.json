@@ -1,0 +1,28 @@
+{
+  "id": "iduhf6i",
+  "category": "cinema",
+  "title": "いのちの停車場",
+  "fullTitle": "[初][映]いのちの停車場[SS][字]",
+  "detail": "吉永小百合が初の医師役に挑み、松坂桃李、広瀬すずらと共演したヒューマンドラマ。東京の救命救急センターで働いていた女性医師が故郷に戻り、小さな診療所で再出発する。",
+  "start": 1647172800000,
+  "end": 1647180900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "初",
+    "映",
+    "SS",
+    "字"
+  ]
+}

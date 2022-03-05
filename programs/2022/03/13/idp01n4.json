@@ -1,0 +1,26 @@
+{
+  "id": "idp01n4",
+  "category": "information",
+  "title": "おいしい東京",
+  "fullTitle": "おいしい東京「“ふしぎ”な食材」[二][字]",
+  "detail": "外国人がミステリアスと感じる日本特有の食材を紹介▽「海苔」「寒天」「なまこ」「ごぼう」「こんにゃく」▽先人たちの知恵と工夫の結晶",
+  "start": 1647165600000,
+  "end": 1647168600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "“ふしぎ”な食材",
+  "episode": null,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

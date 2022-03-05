@@ -1,0 +1,25 @@
+{
+  "id": "iduyqtw",
+  "category": "cinema",
+  "title": "魔性の女スパイ",
+  "fullTitle": "[映]魔性の女スパイ",
+  "detail": "シルヴィア・クリステルが伝説の女スパイを演じるラブサスペンス。第一次世界大戦下に実在した女性“マタ・ハリ”の生涯を描く。",
+  "start": 1647110400000,
+  "end": 1647117600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

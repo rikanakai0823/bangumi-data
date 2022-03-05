@@ -1,0 +1,26 @@
+{
+  "id": "w66ofe6",
+  "category": "drama",
+  "title": "グッド・ファイト1",
+  "fullTitle": "[二]グッド・ファイト1#10[終]【スパドラ！イッキ見】",
+  "detail": "#10「混沌」\r\nChaos\r\nダイアンは、サイバー・テロの罪に問われている新しい顧客を獲得するが、事務所は予想だにしない状況に陥ることに……。",
+  "start": 1647115200000,
+  "end": 1647118800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "混沌",
+  "episode": 10,
+  "flags": [
+    "二",
+    "終"
+  ]
+}

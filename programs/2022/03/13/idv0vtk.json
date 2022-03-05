@@ -1,0 +1,26 @@
+{
+  "id": "idv0vtk",
+  "category": "cinema",
+  "title": "アウトブレイク",
+  "fullTitle": "[映][SS]アウトブレイク[吹]",
+  "detail": "致死率１００％という殺人ウィルスへの恐怖からパニックに陥る人々と、その脅威に立ち向かう医師の苦闘を描く。",
+  "start": 1647102000000,
+  "end": 1647110400000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

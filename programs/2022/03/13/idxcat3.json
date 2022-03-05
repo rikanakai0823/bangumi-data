@@ -1,0 +1,25 @@
+{
+  "id": "idxcat3",
+  "category": "hobby",
+  "title": "Osprey’s EYEセレクション",
+  "fullTitle": "[無]Osprey’s EYEセレクション　#4",
+  "detail": "バスフィッシング界のスーパースター、T.NAMIKIこと並木敏成が全国各地のバスフィールドを徹底攻略！",
+  "start": 1647169200000,
+  "end": 1647172800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": [
+    "無"
+  ]
+}

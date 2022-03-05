@@ -1,0 +1,25 @@
+{
+  "id": "idt5sae",
+  "category": "anime",
+  "title": "ポケットモンスター",
+  "fullTitle": "ポケットモンスター【サラバ！さすらいのロケット団！】[字]",
+  "detail": "ある日、活動資金のバイトに嫌気がさしたロケット団。今を自由に暮らすかつての仲間に出会い、それぞれが自分の人生を歩むことに…！？",
+  "start": 1647122400000,
+  "end": 1647124200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "サラバ！さすらいのロケット団！",
+  "episode": null,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rkv90i8",
+  "category": "news",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "",
+  "start": 1647109500000,
+  "end": 1647117000000,
+  "seconds": 7500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

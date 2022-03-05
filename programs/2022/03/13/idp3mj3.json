@@ -1,0 +1,23 @@
+{
+  "id": "idp3mj3",
+  "category": "documentary",
+  "title": "ハイビジョン動物記",
+  "fullTitle": "ハイビジョン動物記「タイワンリス」",
+  "detail": "",
+  "start": 1647108000000,
+  "end": 1647108600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "タイワンリス",
+  "episode": null,
+  "flags": []
+}
