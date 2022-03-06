@@ -1,0 +1,27 @@
+{
+  "id": "idt5sea",
+  "category": "cinema",
+  "title": "シネマクラッシュ",
+  "fullTitle": "シネマクラッシュ[映][字][二]",
+  "detail": "選りすぐりラインナップで映画をお届け！映画史に残る名作から話題作までバラエティに富んだ作品をお送りします！",
+  "start": 1647251640000,
+  "end": 1647258840000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "字",
+    "二"
+  ]
+}

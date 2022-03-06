@@ -1,0 +1,23 @@
+{
+  "id": "rlm4278",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022～オープン戦～ ソフトバンクvs.巨人",
+  "fullTitle": "HAWKS プロ野球中継2022～オープン戦～ ソフトバンクvs.巨人",
+  "detail": "解説/実況：柴原洋/石黒新平\r\n開催日時：2022年3月8日 (火) 13:00\r\n会場：ユーピーアールスタジアム（宇部市野球場）",
+  "start": 1647230400000,
+  "end": 1647246600000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

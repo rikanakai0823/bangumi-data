@@ -1,0 +1,25 @@
+{
+  "id": "rlm427r",
+  "category": "hobby",
+  "title": "パチンコパチスロアワー　ベーパチ！",
+  "fullTitle": "[無]パチンコパチスロアワー　ベーパチ！#3",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n#3　ヒラヤマンが嵐と辻ヤスシと野球練習（前半）",
+  "start": 1647262800000,
+  "end": 1647266400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "無"
+  ]
+}

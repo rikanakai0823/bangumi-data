@@ -1,0 +1,27 @@
+{
+  "id": "iduhf6t",
+  "category": "cinema",
+  "title": "グッド・ストライプス[PG12指定]",
+  "fullTitle": "[映]グッド・ストライプス[PG12指定][SS][字]",
+  "detail": "「あのこは貴族」の岨手由貴子監督によるラブストーリー。交際４年目、マンネリカップルの女性に意外な妊娠が判明。結婚に向け準備をする２人の前に難題が立ちはだかる。",
+  "start": 1647243900000,
+  "end": 1647252000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "あのこは貴族",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

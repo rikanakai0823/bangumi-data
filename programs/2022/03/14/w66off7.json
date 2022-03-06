@@ -1,0 +1,26 @@
+{
+  "id": "w66off7",
+  "category": "drama",
+  "title": "グッド・ファイト1",
+  "fullTitle": "[二]グッド・ファイト1#1[新]【スパドラ！ひるのミステリー(帯)】",
+  "detail": "#1「就任」\r\nInauguration\r\n巨額の金融詐欺によって若き弁護士マイア・リンデルの評判はガタ落ち。",
+  "start": 1647234000000,
+  "end": 1647237600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "就任",
+  "episode": 1,
+  "flags": [
+    "二",
+    "新"
+  ]
+}

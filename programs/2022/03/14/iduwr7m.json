@@ -1,0 +1,26 @@
+{
+  "id": "iduwr7m",
+  "category": "cinema",
+  "title": "僕らをつなぐ歌",
+  "fullTitle": "[映][SS]僕らをつなぐ歌",
+  "detail": "９０年代ロサンゼルスの音楽シーンが舞台の音楽ドラマ。時代に取り残されたロックミュージシャンと若者の間に芽生えた絆を描く。",
+  "start": 1647246600000,
+  "end": 1647252900000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

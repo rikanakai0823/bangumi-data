@@ -1,0 +1,23 @@
+{
+  "id": "idp3mpu",
+  "category": "etc",
+  "title": "４Ｋセレクション",
+  "fullTitle": "４Ｋセレクション",
+  "detail": "",
+  "start": 1647267300000,
+  "end": 1647268860000,
+  "seconds": 1560,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": []
+}

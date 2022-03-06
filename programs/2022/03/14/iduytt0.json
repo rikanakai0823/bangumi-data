@@ -1,0 +1,25 @@
+{
+  "id": "iduytt0",
+  "category": "cinema",
+  "title": "追跡者（１９７１）",
+  "fullTitle": "[映]追跡者（１９７１）",
+  "detail": "バート・ランカスター主演。法律に忠実に生きようとする孤独な法執行官が、その信念のためにある悲劇を引き起こす…。",
+  "start": 1647187200000,
+  "end": 1647193800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": null,
+  "flags": [
+    "映"
+  ]
+}

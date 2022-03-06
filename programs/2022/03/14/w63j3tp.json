@@ -1,0 +1,25 @@
+{
+  "id": "w63j3tp",
+  "category": "sports",
+  "title": "全国高校サッカー選手権　2回戦",
+  "fullTitle": "第100回全国高校サッカー選手権(26)　2回戦(12)[再]",
+  "detail": "「帝京大可児(岐阜)×桐光学園(神奈川)」\r\n～等々力陸上競技場\r\n解説：菊池新吉(元日本代表GK)\r\n実況：根岸佑輔(TVK)",
+  "start": 1647208800000,
+  "end": 1647216000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "帝京大可児(岐阜)×桐光学園(神奈川)",
+  "episode": 100,
+  "flags": [
+    "再"
+  ]
+}
