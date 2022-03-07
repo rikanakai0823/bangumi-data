@@ -1,7 +1,7 @@
 {
   "id": "idtrh3j",
   "category": "information",
-  "title": "🈢ジュエリーナイト１１",
+  "title": "ジュエリーナイト１１",
   "fullTitle": "🈢ジュエリーナイト１１",
   "detail": "世界から良質なダイヤモンドとカラーストーンを集めて、おしゃれに使えるジュエリーをお求め安い価格でご紹介いたします。",
   "start": 1646748000000,
@@ -18,6 +18,8 @@
     "n": 56
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
 }

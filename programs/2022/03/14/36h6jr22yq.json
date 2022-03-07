@@ -1,7 +1,7 @@
 {
   "id": "36h6jr22yq",
   "category": "information",
-  "title": "ショッピング・マイケアテレビショッピング🅂",
+  "title": "ショッピング・マイケアテレビショッピング",
   "fullTitle": "ショッピング・マイケアテレビショッピング🅂",
   "detail": "◇番組内容\n一望百景　０１２０－５４１－１２３",
   "start": 1647219600000,
@@ -22,6 +22,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

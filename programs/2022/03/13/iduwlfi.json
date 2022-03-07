@@ -1,7 +1,7 @@
 {
   "id": "iduwlfi",
   "category": "cinema",
-  "title": "🈙🅍マローボーン家の掟",
+  "title": "マローボーン家の掟",
   "fullTitle": "🈙🅍マローボーン家の掟",
   "detail": "母親の病死後、遺された広い屋敷で生活する４人兄妹が邸宅内に潜む邪悪な存在に翻弄されるサスペンススリラー。",
   "start": 1647099000000,
@@ -18,6 +18,9 @@
     "n": 62
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

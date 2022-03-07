@@ -1,7 +1,7 @@
 {
   "id": "w69aepi",
   "category": "hobby",
-  "title": "🈔African Voices",
+  "title": "African Voices",
   "fullTitle": "🈔African Voices",
   "detail": "日本語同時通訳付。\r\n世界的に活躍するアフリカ各国の話題の人物に、ロング・インタビュー。",
   "start": 1647073800000,
@@ -18,6 +18,8 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
 }

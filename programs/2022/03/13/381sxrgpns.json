@@ -1,7 +1,7 @@
 {
   "id": "381sxrgpns",
   "category": "variety",
-  "title": "バナナマンのせっかくグルメ！！🈑",
+  "title": "バナナマンのせっかくグルメ！！",
   "fullTitle": "バナナマンのせっかくグルメ！！🈑",
   "detail": "地元の人にオススメグルメを聞き込み＆教えてもらったグルメを食べまくり！\r\n\n◇番組内容\n　\n◇出演者\n★MC：バナナマン（設楽統・日村勇紀） \r\n\r\n　\n◇★副音声\n　\n◇公式ページ\n★番組ＨＰ\r\nhttp://www.tbs.co.jp/sekkaku-g/\r\n★公式twitter\r\n@sekkaku_tbs\r\nhttps://twitter.com/sekkaku_tbs/\r\n★youtubeにて予告動画を公開中！\r\n\n◇次回は\n　\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1647165600000,
@@ -27,6 +27,8 @@
     "n": 23
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

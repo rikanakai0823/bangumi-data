@@ -1,7 +1,7 @@
 {
   "id": "36h6jr21jh",
   "category": "variety",
-  "title": "旅猫ロマン🅂",
+  "title": "旅猫ロマン",
   "fullTitle": "旅猫ロマン🅂",
   "detail": "熱海と真鶴半島",
   "start": 1646827200000,
@@ -18,6 +18,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "36h6jr21i9",
   "category": "variety",
-  "title": "Ｃａｒ－Ｘｓ　ｗｉｔｈ　ＮＡＰＡＣ🅂",
+  "title": "Ｃａｒ－Ｘｓ　ｗｉｔｈ　ＮＡＰＡＣ",
   "fullTitle": "Ｃａｒ－Ｘｓ　ｗｉｔｈ　ＮＡＰＡＣ🅂",
   "detail": "楽しい自動車情報満載！",
   "start": 1646751600000,
@@ -18,6 +18,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

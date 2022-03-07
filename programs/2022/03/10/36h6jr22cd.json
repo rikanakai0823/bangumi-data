@@ -1,7 +1,7 @@
 {
   "id": "36h6jr22cd",
   "category": "etc",
-  "title": "ＴＶショッピング・健やかショッピング🅂",
+  "title": "ＴＶショッピング・健やかショッピング",
   "fullTitle": "ＴＶショッピング・健やかショッピング🅂",
   "detail": "",
   "start": 1646845200000,
@@ -18,6 +18,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

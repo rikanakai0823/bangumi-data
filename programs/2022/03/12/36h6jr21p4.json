@@ -1,7 +1,7 @@
 {
   "id": "36h6jr21p4",
   "category": "information",
-  "title": "いまドキッ！埼玉🈐🅂",
+  "title": "いまドキッ！埼玉🈐",
   "fullTitle": "いまドキッ！埼玉🈐🅂",
   "detail": "名勝指定１００年！天覧山紹介・ＨＩＫＩサンド紹介\n◇出演者\nＭＣ：松井咲子　佐々木優太　リポーター：小堺翔太　才木玲佳",
   "start": 1647041400000,
@@ -22,6 +22,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

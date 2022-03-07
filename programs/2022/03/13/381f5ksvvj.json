@@ -1,7 +1,7 @@
 {
   "id": "381f5ksvvj",
   "category": "news",
-  "title": "ＮＨＫニュース　おはよう日本（関東甲信越）🈑",
+  "title": "ＮＨＫニュース　おはよう日本（関東甲信越）",
   "fullTitle": "ＮＨＫニュース　おはよう日本（関東甲信越）🈑",
   "detail": "",
   "start": 1647124800000,
@@ -18,6 +18,8 @@
     "n": 0
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

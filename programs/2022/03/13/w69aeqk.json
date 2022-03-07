@@ -1,7 +1,7 @@
 {
   "id": "w69aeqk",
   "category": "news",
-  "title": "🈔ニュー・デイ・サンデー",
+  "title": "ニュー・デイ・サンデー",
   "fullTitle": "🈔ニュー・デイ・サンデー",
   "detail": "日本語同時通訳付。\r\nアメリカの「朝」を直送。\r\n最新ニュースを伝えるモーニング・ワイド。",
   "start": 1647169200000,
@@ -18,6 +18,8 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "36rdttkzry",
   "category": "news",
-  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「マルタとおどろう！」",
   "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「マルタとおどろう！」",
   "detail": "県内の天気予報",
   "start": 1647035700000,
@@ -18,6 +18,6 @@
     "n": 5
   },
   "subTitle": "マルタとおどろう！",
-  "episode": null,
+  "episode": 1,
   "flags": []
 }

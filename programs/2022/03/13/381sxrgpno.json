@@ -1,7 +1,7 @@
 {
   "id": "381sxrgpno",
   "category": "news",
-  "title": "Ｎスタ🈑",
+  "title": "Ｎスタ",
   "fullTitle": "Ｎスタ🈑",
   "detail": "この日のニュースをまとめてお伝えします。\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1647160200000,
@@ -22,6 +22,8 @@
     "n": 23
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

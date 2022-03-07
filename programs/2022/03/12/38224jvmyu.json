@@ -1,7 +1,7 @@
 {
   "id": "38224jvmyu",
   "category": "information",
-  "title": "朝だ！生です旅サラダ🈑",
+  "title": "朝だ！生です旅サラダ",
   "fullTitle": "朝だ！生です旅サラダ🈑",
   "detail": "一つの国を徹底的に紹介する「海外の旅」や、ゲストが訪ねる「日本の旅」、各地のこだわりの宿等、幅広い旅のスタイルを提案する旅とグルメの情報番組！【司会】神田正輝🈀\n◇◇音楽\n【公式テーマソング】\r\n『君を探しに』Ｆ-ＢＬＯＯＤ（藤井フミヤ＆藤井尚之）\n◇◇おしらせ\n☆番組公式Ｆａｃｅｂｏｏｋ、Ｉｎｓｔａｇｒａｍやってますっ！\r\n【番組ＨＰ】http://www.asahi.co.jp/tsalad/\r\n【Ｆａｃｅｂｏｏｋ】https://www.facebook.com/tabisalad/\r\n【Ｉｎｓｔａｇｒａｍ】https://www.instagram.com/tabisalad/",
   "start": 1647039600000,
@@ -23,6 +23,8 @@
     "n": 19
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

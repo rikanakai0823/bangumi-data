@@ -1,7 +1,7 @@
 {
   "id": "381jqz0pi5",
   "category": "information",
-  "title": "太田光のつぶやき英語🈞",
+  "title": "太田光のつぶやき英語",
   "fullTitle": "太田光のつぶやき英語🈞",
   "detail": "",
   "start": 1646961900000,
@@ -18,6 +18,8 @@
     "n": 2
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
 }

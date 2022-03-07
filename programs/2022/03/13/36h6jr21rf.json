@@ -1,7 +1,7 @@
 {
   "id": "36h6jr21rf",
   "category": "information",
-  "title": "目からうろこ🅂",
+  "title": "目からうろこ",
   "fullTitle": "目からうろこ🅂",
   "detail": "",
   "start": 1647127200000,
@@ -18,6 +18,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

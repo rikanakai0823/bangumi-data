@@ -1,7 +1,7 @@
 {
   "id": "idx1vyk",
   "category": "anime",
-  "title": "🈑名探偵コナンTVSP 歌舞伎十八番ミステリー",
+  "title": "名探偵コナンTVSP 歌舞伎十八番ミステリー",
   "fullTitle": "🈑名探偵コナンTVSP 歌舞伎十八番ミステリー",
   "detail": "『名探偵コナンTVスペシャル コナンと海老蔵 歌舞伎十八番ミステリー』\r\nコナンはブレーキが効かずに暴走した車の事故…",
   "start": 1647147600000,
@@ -18,6 +18,8 @@
     "n": 69
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

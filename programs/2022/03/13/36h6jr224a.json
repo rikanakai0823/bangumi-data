@@ -1,7 +1,7 @@
 {
   "id": "36h6jr224a",
   "category": "information",
-  "title": "ＴＶショッピング・ＲＩＺＡＰテレビショッピング🅂",
+  "title": "ＴＶショッピング・ＲＩＺＡＰテレビショッピング",
   "fullTitle": "ＴＶショッピング・ＲＩＺＡＰテレビショッピング🅂",
   "detail": "◇番組内容\n０１２０－９９１－８４２",
   "start": 1647140400000,
@@ -22,6 +22,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

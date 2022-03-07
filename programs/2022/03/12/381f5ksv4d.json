@@ -1,7 +1,7 @@
 {
   "id": "381f5ksv4d",
   "category": "news",
-  "title": "ニュース🈑",
+  "title": "ニュース",
   "fullTitle": "ニュース🈑",
   "detail": "",
   "start": 1647085500000,
@@ -18,6 +18,8 @@
     "n": 0
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

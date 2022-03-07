@@ -1,7 +1,7 @@
 {
   "id": "iduyivq",
   "category": "cinema",
-  "title": "🈙🅍めまい",
+  "title": "めまい",
   "fullTitle": "🈙🅍めまい",
   "detail": "アルフレッド・ヒッチコック監督による極上サスペンス。高所恐怖症の男が女性の尾行を依頼され、次第に不審な事実へと辿り着く。",
   "start": 1646861400000,
@@ -18,6 +18,9 @@
     "n": 63
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

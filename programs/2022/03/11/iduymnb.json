@@ -1,7 +1,7 @@
 {
   "id": "iduymnb",
   "category": "cinema",
-  "title": "🈙ダメージ",
+  "title": "ダメージ",
   "fullTitle": "🈙ダメージ",
   "detail": "ルイ・マル監督、ジュリエット・ビノシュ主演の愛欲ドラマ。地位も人望もある男が、息子の恋人と禁断の愛に落ちる。［Ｒ－１５］",
   "start": 1646975700000,
@@ -18,6 +18,8 @@
     "n": 63
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
 }

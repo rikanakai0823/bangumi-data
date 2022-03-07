@@ -1,7 +1,7 @@
 {
   "id": "381ocd82zv",
   "category": "variety",
-  "title": "一撃解明バラエティ　ひと目でわかる！！　傑作選🈑",
+  "title": "一撃解明バラエティ　ひと目でわかる！！　傑作選",
   "fullTitle": "一撃解明バラエティ　ひと目でわかる！！　傑作選🈑",
   "detail": "",
   "start": 1647066600000,
@@ -18,6 +18,8 @@
     "n": 16
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

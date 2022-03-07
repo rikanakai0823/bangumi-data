@@ -1,7 +1,7 @@
 {
   "id": "36h6jr22s6",
   "category": "etc",
-  "title": "買物情報・イチおし！Ｓｅｌｅｃｔｉｏｎ🅂",
+  "title": "買物情報・イチおし！Ｓｅｌｅｃｔｉｏｎ",
   "fullTitle": "買物情報・イチおし！Ｓｅｌｅｃｔｉｏｎ🅂",
   "detail": "",
   "start": 1647145800000,
@@ -18,6 +18,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

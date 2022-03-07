@@ -1,7 +1,7 @@
 {
   "id": "381sxrgpo3",
   "category": "information",
-  "title": "超キニナル爆安祭🈖🈑",
+  "title": "超キニナル爆安祭",
   "fullTitle": "超キニナル爆安祭🈖🈑",
   "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://shopping.tbs.co.jp/tbs/shop/tv_top/kininaru",
   "start": 1647068400000,
@@ -22,6 +22,9 @@
     "n": 23
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "idxxoe3",
   "category": "hobby",
-  "title": "🈖Rock'n Fish 61 鹿児島佐多岬ロックゲーム",
+  "title": "Rock'n Fish 61 鹿児島佐多岬ロックゲーム",
   "fullTitle": "🈖Rock'n Fish 61 鹿児島佐多岬ロックゲーム",
   "detail": "ロックフィッシュゲームの奥深さや楽しさを追求していくRock’n Fish。今回のフィールドは九州本島最南端“佐多岬”。ロックゲーム未開拓の地でビッグフィッシュを狙う！",
   "start": 1647068400000,
@@ -18,6 +18,8 @@
     "n": 71
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "解"
+  ]
 }

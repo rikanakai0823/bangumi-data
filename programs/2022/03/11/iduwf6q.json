@@ -1,7 +1,7 @@
 {
   "id": "iduwf6q",
   "category": "cinema",
-  "title": "🈙🅍ＥＸＩＴ",
+  "title": "ＥＸＩＴ",
   "fullTitle": "🈙🅍ＥＸＩＴ",
   "detail": "チョ・ジョンソクと“少女時代”のユナが共演したサバイバルパニック。超高層ビルを舞台に有毒ガスの危機に直面した人々を描く。",
   "start": 1646929800000,
@@ -18,6 +18,9 @@
     "n": 62
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

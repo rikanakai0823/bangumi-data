@@ -1,7 +1,7 @@
 {
   "id": "idvj6da",
   "category": "news",
-  "title": "報道ライブ インサイドOUT 特別編～首都直下地震に備えて～🈓",
+  "title": "報道ライブ インサイドOUT 特別編～首都直下地震に備えて～",
   "fullTitle": "報道ライブ インサイドOUT 特別編～首都直下地震に備えて～🈓",
   "detail": "",
   "start": 1647001800000,
@@ -18,6 +18,8 @@
     "n": 65
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "デ"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "iduwesu",
   "category": "cinema",
-  "title": "🈙🅍ナイチンゲール",
+  "title": "ナイチンゲール",
   "fullTitle": "🈙🅍ナイチンゲール",
   "detail": "イギリス植民地時代のオーストラリアを舞台に、夫と子供を奪われた女の復讐劇を描くバイオレントで過激なリベンジ・スリラー。",
   "start": 1646911800000,
@@ -18,6 +18,9 @@
     "n": 62
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "iduyd5k",
   "category": "cinema",
-  "title": "🈙ジャイアンツ",
+  "title": "ジャイアンツ",
   "fullTitle": "🈙ジャイアンツ",
   "detail": "伝説のスター、ジェームズ・ディーンの遺作となった一大叙事詩。テキサスの牧場を舞台に、３０年に渡る愛憎物語が展開する。",
   "start": 1646715600000,
@@ -18,6 +18,8 @@
     "n": 63
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "w69aemp",
   "category": "news",
-  "title": "🈔グローバル・ブリーフ",
+  "title": "グローバル・ブリーフ",
   "fullTitle": "🈔グローバル・ブリーフ",
   "detail": "日本語同時通訳付。\r\nCNNキャスター、ビアンカ・ノビロがロンドンから世界のトップニュースをお届けする。",
   "start": 1646776800000,
@@ -18,6 +18,8 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "idxxoct",
   "category": "hobby",
-  "title": "🈟Let's try ソルトゲーム 12 志摩沖・タイラバ",
+  "title": "Let's try ソルトゲーム 12 志摩沖・タイラバ",
   "fullTitle": "🈟Let's try ソルトゲーム 12 志摩沖・タイラバ",
   "detail": "ソルトルアーの入門番組が遂にスタート！太田くんと唯ちゃんが、日本全国を舞台に、誰でも簡単に始められる海のルアーゲームを分かりやすく紹介します。",
   "start": 1646928000000,
@@ -18,6 +18,8 @@
     "n": 71
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }

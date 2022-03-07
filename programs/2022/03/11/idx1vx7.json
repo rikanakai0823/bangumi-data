@@ -1,7 +1,7 @@
 {
   "id": "idx1vx7",
   "category": "anime",
-  "title": "🈑ラブライブ！TVアニメ1期",
+  "title": "ラブライブ！TVアニメ1期 #13 END",
   "fullTitle": "🈑ラブライブ！TVアニメ1期 #13 END",
   "detail": "#13「μ’s ミュージックスタート！」END\r\n秋葉原と神田と神保町という3つの街のはざまにある伝統校、音ノ木坂学院は統…",
   "start": 1646974800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "END",
   "episode": 13,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "36h6jr22v5",
   "category": "information",
-  "title": "買物情報・ダイレクトテレショップ🅂",
+  "title": "買物情報・ダイレクトテレショップ",
   "fullTitle": "買物情報・ダイレクトテレショップ🅂",
   "detail": "◇番組内容\nからだの素材　０１２０－４６２－４６９",
   "start": 1647162000000,
@@ -22,6 +22,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

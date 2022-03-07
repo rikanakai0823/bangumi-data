@@ -1,7 +1,7 @@
 {
   "id": "38224jvmsi",
   "category": "drama",
-  "title": "まだ　かりそめ天国🈑",
+  "title": "まだ　かりそめ天国",
   "fullTitle": "まだ　かりそめ天国🈑",
   "detail": "番組に届いた視聴者からの「耳に入れたい話」を肴にマツコ＆有吉が独自の視点で話していくトークバラエティ！\n◇◇おしらせ\n投稿は番組ＨＰから！\r\n\r\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/matsuari/",
   "start": 1646999640000,
@@ -22,6 +22,8 @@
     "n": 19
   },
   "subTitle": "耳に入れたい話",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

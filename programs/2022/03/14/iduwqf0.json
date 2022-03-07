@@ -1,7 +1,7 @@
 {
   "id": "iduwqf0",
   "category": "cinema",
-  "title": "🈙🅍ムスタング",
+  "title": "ムスタング",
   "fullTitle": "🈙🅍ムスタング",
   "detail": "服役囚が野生馬“ムスタング”の調教を通し、自分の中にある人間らしさを再発見する姿を描くドラマ。［ＰＧ１２相当］",
   "start": 1647208800000,
@@ -18,6 +18,9 @@
     "n": 62
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

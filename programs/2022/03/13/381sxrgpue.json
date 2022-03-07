@@ -1,7 +1,7 @@
 {
   "id": "381sxrgpue",
   "category": "variety",
-  "title": "「バナナサンド」傑作選🈑",
+  "title": "「バナナサンド」傑作選",
   "fullTitle": "「バナナサンド」傑作選🈑",
   "detail": "バナナマンとサンドウィッチマンがＭＣとしてタッグを組み、他では見られないゲストの意外な一面を引き出すトークバラエティ。\n◇番組内容\n　\n◇出演者\n【ＭＣ】バナナマン（設楽統　日村勇紀）／サンドウィッチマン（伊達みきお　富澤たけし）\r\n\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/banana-sand/\r\n\r\n◇/twitter\r\n@BananaSand_TBS\r\nhttps://twitter.com/BananaSand_TBS\r\n\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1647151200000,
@@ -25,6 +25,8 @@
     "n": 23
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

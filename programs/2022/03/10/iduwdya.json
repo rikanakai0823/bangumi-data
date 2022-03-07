@@ -1,7 +1,7 @@
 {
   "id": "iduwdya",
   "category": "cinema",
-  "title": "🈙🅍ブリングリング",
+  "title": "ブリングリング",
   "fullTitle": "🈙🅍ブリングリング",
   "detail": "ソフィア・コッポラ監督×エマ・ワトソン主演。実際の事件を基に、“セレブ”宅で窃盗を繰り返す若者たちを描く。［Ｒ１５＋］",
   "start": 1646872200000,
@@ -18,6 +18,9 @@
     "n": 62
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

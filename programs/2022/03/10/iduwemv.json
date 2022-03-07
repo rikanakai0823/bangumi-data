@@ -1,7 +1,7 @@
 {
   "id": "iduwemv",
   "category": "cinema",
-  "title": "🈙🅍燃ゆる女の肖像",
+  "title": "燃ゆる女の肖像",
   "fullTitle": "🈙🅍燃ゆる女の肖像",
   "detail": "カンヌ国際映画祭脚本賞を受賞したセリーヌ・シアマ監督のラブストーリー。肖像画を依頼された女性画家の恋を描く。［ＰＧ１２］",
   "start": 1646903700000,
@@ -18,6 +18,9 @@
     "n": 62
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

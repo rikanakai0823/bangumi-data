@@ -1,7 +1,7 @@
 {
   "id": "iduwhqa",
   "category": "cinema",
-  "title": "🈙権力に告ぐ",
+  "title": "権力に告ぐ",
   "fullTitle": "🈙権力に告ぐ",
   "detail": "チョ・ジヌン主演のクライムサスペンス。韓国で実際に起きた金融スキャンダルを基に、巨大な利権に立ち向かう検事の奮闘を描く。",
   "start": 1646987400000,
@@ -18,6 +18,8 @@
     "n": 62
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
 }

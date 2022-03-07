@@ -1,7 +1,7 @@
 {
   "id": "36h6jr22id",
   "category": "etc",
-  "title": "ＴＶショッピング・ハーブ健康本舗ＴＶショッピング🅂",
+  "title": "ＴＶショッピング・ハーブ健康本舗ＴＶショッピング",
   "fullTitle": "ＴＶショッピング・ハーブ健康本舗ＴＶショッピング🅂",
   "detail": "日本初！年齢シワの改善法！教えます！",
   "start": 1646701200000,
@@ -18,6 +18,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

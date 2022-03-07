@@ -1,7 +1,7 @@
 {
   "id": "rks31pq",
   "category": "drama",
-  "title": "警視庁SP特命係🈑",
+  "title": "警視庁SP特命係",
   "fullTitle": "警視庁SP特命係🈑",
   "detail": "舘ひろし主演でお送りするサスペンス＆ハードボイルドドラマ！かつて鉄壁と呼ばれたSPが、特命の警視庁SPとして女性大臣の警護をすることになり…。",
   "start": 1646776800000,
@@ -18,6 +18,8 @@
     "n": 105
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "381ocd82ys",
   "category": "information",
-  "title": "日テレポシュレ　人気有名人が商品プレゼンしますＳＰ②🈞",
+  "title": "日テレポシュレ　人気有名人が商品プレゼンしますＳＰ②",
   "fullTitle": "日テレポシュレ　人気有名人が商品プレゼンしますＳＰ②🈞",
   "detail": "",
   "start": 1646934000000,
@@ -18,6 +18,8 @@
     "n": 16
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
 }

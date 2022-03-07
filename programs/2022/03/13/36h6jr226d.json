@@ -1,7 +1,7 @@
 {
   "id": "36h6jr226d",
   "category": "variety",
-  "title": "旅猫ロマン🅂",
+  "title": "旅猫ロマン",
   "fullTitle": "旅猫ロマン🅂",
   "detail": "",
   "start": 1647156600000,
@@ -18,6 +18,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "381sxrgpk6",
   "category": "variety",
-  "title": "水曜日のダウンタウン🈑",
+  "title": "水曜日のダウンタウン",
   "fullTitle": "水曜日のダウンタウン🈑",
   "detail": "芸能人が持ち寄った「自らの信じる説」を検証！\n◇番組内容\n　\n◇出演者\n【MC】ダウンタウン(浜田雅功・松本人志）\r\n\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/suiyobinodowntown/\r\n\n◇公式ページ２\n◇twitter\r\n@wed_downtown\r\nhttps://twitter.com/wed_downtown\r\n\n◇スタッフ\n演出:藤井健太郎\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
   "start": 1646830800000,
@@ -27,6 +27,8 @@
     "n": 23
   },
   "subTitle": "自らの信じる説",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

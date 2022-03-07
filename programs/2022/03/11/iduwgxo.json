@@ -1,7 +1,7 @@
 {
   "id": "iduwgxo",
   "category": "cinema",
-  "title": "🈙ファイティン！",
+  "title": "ファイティン！",
   "fullTitle": "🈙ファイティン！",
   "detail": "マ・ドンソク主演のアクションドラマ。八百長疑惑で一度は夢を断たれたアームレスリングの選手が、再起を誓って大会に挑む。",
   "start": 1646949600000,
@@ -18,6 +18,8 @@
     "n": 62
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
 }

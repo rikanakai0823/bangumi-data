@@ -1,7 +1,7 @@
 {
   "id": "idp1hj9",
   "category": "news",
-  "title": "ワールドニュース　アジア🈔",
+  "title": "ワールドニュース　アジア",
   "fullTitle": "ワールドニュース　アジア🈔",
   "detail": "▽韓国・ＫＢＳ，カタール・アルジャジーラ，中国・ＣＣＴＶ　▽アジアの気象",
   "start": 1646976600000,
@@ -18,6 +18,8 @@
     "n": 41
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
 }

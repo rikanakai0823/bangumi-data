@@ -1,7 +1,7 @@
 {
   "id": "w66qus6",
   "category": "hobby",
-  "title": "Strange Tokyo / ストレンジ・トーキョー 🈑",
+  "title": "Strange Tokyo / ストレンジ・トーキョー",
   "fullTitle": "Strange Tokyo / ストレンジ・トーキョー 🈑",
   "detail": "イギリス人＆アメリカ人リポーターが都内各所を探訪するバラエティ番組!! 音声は英語、字幕は英語・日本語の両方でお送りするので、英語学習にも最適！　2020年製作",
   "start": 1647032100000,
@@ -18,6 +18,8 @@
     "n": 116
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

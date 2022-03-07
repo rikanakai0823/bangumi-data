@@ -1,7 +1,7 @@
 {
   "id": "36h6jr22ib",
   "category": "information",
-  "title": "１５分テレショップ・ダイレクトテレショップ🅂",
+  "title": "１５分テレショップ・ダイレクトテレショップ",
   "fullTitle": "１５分テレショップ・ダイレクトテレショップ🅂",
   "detail": "◇番組内容\n萬養生箋　０１２０－４６２－４６９",
   "start": 1647135000000,
@@ -22,6 +22,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

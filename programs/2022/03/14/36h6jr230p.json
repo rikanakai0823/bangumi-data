@@ -1,7 +1,7 @@
 {
   "id": "36h6jr230p",
   "category": "information",
-  "title": "ＴＶショッピング・ダイレクトテレショップ🅂",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
   "fullTitle": "ＴＶショッピング・ダイレクトテレショップ🅂",
   "detail": "◇番組内容\nグラマーシェイプエアーフィット　０１２０－９１９－２３９",
   "start": 1647201600000,
@@ -22,6 +22,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

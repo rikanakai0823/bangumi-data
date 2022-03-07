@@ -1,7 +1,7 @@
 {
   "id": "ieum5qw",
   "category": "cinema",
-  "title": "🈚スターチャンネル加入案内",
+  "title": "スターチャンネル加入案内",
   "fullTitle": "🈚スターチャンネル加入案内",
   "detail": "映画専門スター・チャンネルの加入方法をご案内します。\n◇番組概要\nスターチャンネル加入案内",
   "start": 1646658000000,
@@ -22,6 +22,8 @@
     "n": 85
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "381f5ksusp",
   "category": "news",
-  "title": "首都圏情報ネタドリ！🈑",
+  "title": "首都圏情報ネタドリ！",
   "fullTitle": "首都圏情報ネタドリ！🈑",
   "detail": "【キャスター】松田利仁亜\n◇出演者\n【キャスター】松田利仁亜",
   "start": 1646996400000,
@@ -22,6 +22,8 @@
     "n": 0
   },
   "subTitle": "キャスター",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

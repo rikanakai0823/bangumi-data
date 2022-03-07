@@ -1,7 +1,7 @@
 {
   "id": "381jqz02sy",
   "category": "sports",
-  "title": "北京パラリンピック◇閉会式（中継）🈖🈑🈐",
+  "title": "北京パラリンピック◇閉会式（中継）🈐",
   "fullTitle": "北京パラリンピック◇閉会式（中継）🈖🈑🈐",
   "detail": "◇閉会式（中継）",
   "start": 1647172740000,
@@ -18,6 +18,9 @@
     "n": 2
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
 }

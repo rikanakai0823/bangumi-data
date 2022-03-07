@@ -1,7 +1,7 @@
 {
   "id": "idxcaoa",
   "category": "information",
-  "title": "🈚インフォメーション",
+  "title": "インフォメーション",
   "fullTitle": "🈚インフォメーション",
   "detail": "",
   "start": 1646735400000,
@@ -18,6 +18,8 @@
     "n": 70
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
 }

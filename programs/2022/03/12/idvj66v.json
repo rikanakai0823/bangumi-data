@@ -1,7 +1,7 @@
 {
   "id": "idvj66v",
   "category": "sports",
-  "title": "🈢🈓ＢＳイレブン競馬中継　第２部",
+  "title": "ＢＳイレブン競馬中継　第２部",
   "fullTitle": "🈢🈓ＢＳイレブン競馬中継　第２部",
   "detail": "【中京】１２Ｒ\r\n【阪神】１２Ｒ\r\n【中山】１２Ｒ",
   "start": 1647068400000,
@@ -18,6 +18,9 @@
     "n": 65
   },
   "subTitle": "中京",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "生",
+    "デ"
+  ]
 }

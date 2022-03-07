@@ -1,7 +1,7 @@
 {
   "id": "iduymhc",
   "category": "cinema",
-  "title": "🈙🅍アメリカの友人",
+  "title": "アメリカの友人",
   "fullTitle": "🈙🅍アメリカの友人",
   "detail": "ヴィム・ヴェンダース監督のサスペンスロマン。病に冒された男と、彼を利用しようとする詐欺師の間に生まれる思わぬ友情を描く。",
   "start": 1646967600000,
@@ -18,6 +18,9 @@
     "n": 63
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

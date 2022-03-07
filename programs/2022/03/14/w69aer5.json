@@ -1,7 +1,7 @@
 {
   "id": "w69aer5",
   "category": "news",
-  "title": "🈔アフリカ経済ウィークリー Market Place Africa🈞",
+  "title": "アフリカ経済ウィークリー Market Place Africa",
   "fullTitle": "🈔アフリカ経済ウィークリー Market Place Africa🈞",
   "detail": "日本語同時通訳付。\r\nアフリカ経済の最新トレンド、注目のビジネスを紹介。",
   "start": 1647225900000,
@@ -18,6 +18,9 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "二",
+    "再"
+  ]
 }

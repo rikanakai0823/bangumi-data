@@ -1,7 +1,7 @@
 {
   "id": "iduytx6",
   "category": "cinema",
-  "title": "🈙🅍アポロ１３",
+  "title": "アポロ１３",
   "fullTitle": "🈙🅍アポロ１３",
   "detail": "緊急事態を起こして宇宙をさまようアポロ１３号の地球帰還までの全貌を追いかけた、トム・ハンクス主演による実録ドラマ。",
   "start": 1647193800000,
@@ -18,6 +18,9 @@
     "n": 63
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

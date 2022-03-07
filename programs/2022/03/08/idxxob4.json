@@ -1,7 +1,7 @@
 {
   "id": "idxxob4",
   "category": "hobby",
-  "title": "🈟帰ってきた5L ton 4 眠気伝説後編",
+  "title": "帰ってきた5L ton 4 眠気伝説後編",
   "fullTitle": "🈟帰ってきた5L ton 4 眠気伝説後編",
   "detail": "タク石黒が釣りにまつわる都市伝説を検証。今回は『眠気でウトウトしていると釣れる』伝説",
   "start": 1646735400000,
@@ -18,6 +18,8 @@
     "n": 71
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
 }

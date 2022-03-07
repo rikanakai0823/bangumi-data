@@ -1,7 +1,7 @@
 {
   "id": "w67v0em",
   "category": "anime",
-  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST🈑 -50",
+  "title": "鋼の錬金術師 FULLMETAL ALCHEMIST #39-50",
   "fullTitle": "鋼の錬金術師 FULLMETAL ALCHEMIST🈑 #39-50",
   "detail": "＃３９「白昼の夢」＃４０「フラスコの中の小人（ホムンクルス）」＃４１「奈落」＃４２「反撃の兆し」＃４３「蟻のひと噛み」＃４４「バリンバリンの全開」他",
   "start": 1647093600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "白昼の夢",
   "episode": 39,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }

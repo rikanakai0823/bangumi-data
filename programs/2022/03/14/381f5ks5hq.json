@@ -1,7 +1,7 @@
 {
   "id": "381f5ks5hq",
   "category": "sports",
-  "title": "大相撲（２０２２年）　春場所　二日目🈑",
+  "title": "大相撲（２０２２年）　春場所　二日目",
   "fullTitle": "大相撲（２０２２年）　春場所　二日目🈑",
   "detail": "～大阪府立体育会館から中継～",
   "start": 1647238200000,
@@ -18,6 +18,8 @@
     "n": 0
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

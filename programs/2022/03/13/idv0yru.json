@@ -1,7 +1,7 @@
 {
   "id": "idv0yru",
   "category": "cinema",
-  "title": "🈙🅍ガリー🈥",
+  "title": "ガリー🈥",
   "fullTitle": "🈙🅍ガリー🈥",
   "detail": "『ＷＡＶＥＳ／ウェイブス』のケルヴィン・ハリソン・Ｊｒ．主演の青春ドラマ。過酷な環境で育った少年たちの友情と騒動を描く。",
   "start": 1647179400000,
@@ -18,6 +18,9 @@
     "n": 64
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

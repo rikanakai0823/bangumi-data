@@ -1,7 +1,7 @@
 {
   "id": "381f5ksvvd",
   "category": "information",
-  "title": "ＮＨＫ関東甲信越地方放送番組審議会🈑",
+  "title": "ＮＨＫ関東甲信越地方放送番組審議会「２月の審議から」",
   "fullTitle": "ＮＨＫ関東甲信越地方放送番組審議会「２月の審議から」🈑",
   "detail": "",
   "start": 1647121800000,
@@ -18,6 +18,8 @@
     "n": 0
   },
   "subTitle": "２月の審議から",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

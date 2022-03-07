@@ -1,7 +1,7 @@
 {
   "id": "36h6jr21rn",
   "category": "news",
-  "title": "のびのびシティさいたま市🈐🅂",
+  "title": "のびのびシティさいたま市🈐",
   "fullTitle": "のびのびシティさいたま市🈐🅂",
   "detail": "さいたま市の情報を分かりやすく、楽しくお伝えしています。\n◇出演者\nザ・たっち　yuka",
   "start": 1647135900000,
@@ -22,6 +22,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

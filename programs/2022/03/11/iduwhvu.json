@@ -1,7 +1,7 @@
 {
   "id": "iduwhvu",
   "category": "cinema",
-  "title": "🈙🅍負け犬の美学",
+  "title": "負け犬の美学",
   "fullTitle": "🈙🅍負け犬の美学",
   "detail": "『アメリ』のマチュー・カソヴィッツ主演のボクシングドラマ。家族のために奮闘する落ち目の中年ボクサーの悲哀を描く。",
   "start": 1646994600000,
@@ -18,6 +18,9 @@
     "n": 62
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

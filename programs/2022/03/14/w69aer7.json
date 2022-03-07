@@ -1,7 +1,7 @@
 {
   "id": "w69aer7",
   "category": "documentary",
-  "title": "Inside Africa🈞",
+  "title": "Inside Africa",
   "fullTitle": "Inside Africa🈞",
   "detail": "アフリカ各地の魅力を自然、産業、芸術、文化、人物など、様々な観点から伝える。",
   "start": 1647228600000,
@@ -18,6 +18,8 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
 }

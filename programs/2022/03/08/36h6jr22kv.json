@@ -1,7 +1,7 @@
 {
   "id": "36h6jr22kv",
   "category": "information",
-  "title": "ショッピングタイム・ダイレクトテレショップ🅂",
+  "title": "ショッピングタイム・ダイレクトテレショップ",
   "fullTitle": "ショッピングタイム・ダイレクトテレショップ🅂",
   "detail": "◇番組内容\nサイレントミルサー　０１２０－１３１３－００",
   "start": 1646697600000,
@@ -22,6 +22,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

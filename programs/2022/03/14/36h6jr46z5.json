@@ -1,7 +1,7 @@
 {
   "id": "36h6jr46z5",
   "category": "sports",
-  "title": "浦和競馬中継🅂",
+  "title": "浦和競馬中継",
   "fullTitle": "浦和競馬中継🅂",
   "detail": "",
   "start": 1647240000000,
@@ -18,6 +18,8 @@
     "n": 13
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

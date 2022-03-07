@@ -1,7 +1,7 @@
 {
   "id": "idxxoks",
   "category": "hobby",
-  "title": "【春のオフショアゲーム特集】🈖SALT Dreamer79 五島列島ヒラマサ",
+  "title": "【春のオフショアゲーム特集】SALT Dreamer79 五島列島ヒラマサ",
   "fullTitle": "【春のオフショアゲーム特集】🈖SALT Dreamer79 五島列島ヒラマサ",
   "detail": "プロアングラー鈴木斉が世界を舞台に夢のビッグワンを求める実釣ドキュメンタリー『SALT Dreamer』。今回は長崎県上五島エリアでのヒラマサキャスティングゲーム。",
   "start": 1647266400000,
@@ -18,6 +18,8 @@
     "n": 71
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "解"
+  ]
 }

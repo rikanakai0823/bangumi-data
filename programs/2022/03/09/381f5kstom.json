@@ -1,7 +1,7 @@
 {
   "id": "381f5kstom",
   "category": "sports",
-  "title": "北京パラリンピック　デイリーハイライト🈖🈑",
+  "title": "北京パラリンピック　デイリーハイライト",
   "fullTitle": "北京パラリンピック　デイリーハイライト🈖🈑",
   "detail": "",
   "start": 1646830800000,
@@ -18,6 +18,9 @@
     "n": 0
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
 }

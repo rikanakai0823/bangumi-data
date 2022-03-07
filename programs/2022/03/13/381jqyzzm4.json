@@ -1,7 +1,7 @@
 {
   "id": "381jqyzzm4",
   "category": "theater",
-  "title": "日本の話芸🈖🈑",
+  "title": "日本の話芸",
   "fullTitle": "日本の話芸🈖🈑",
   "detail": "",
   "start": 1647147600000,
@@ -18,6 +18,9 @@
     "n": 2
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
 }

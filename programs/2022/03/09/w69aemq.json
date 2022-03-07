@@ -1,7 +1,7 @@
 {
   "id": "w69aemq",
   "category": "sports",
-  "title": "🈔World Sport",
+  "title": "World Sport",
   "fullTitle": "🈔World Sport",
   "detail": "日本語同時通訳付。\r\n欧州サッカー、米4大スポーツNFL、MLB、NBA、NHL、ラグビー、ゴルフ、テニスまで、世界のスポーツの最新結果はこの番組でチェック！\r\n",
   "start": 1646778600000,
@@ -18,6 +18,8 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
 }

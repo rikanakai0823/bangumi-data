@@ -1,7 +1,7 @@
 {
   "id": "381sxrgpmi",
   "category": "news",
-  "title": "ウィークエンドウェザー🈑",
+  "title": "ウィークエンドウェザー",
   "fullTitle": "ウィークエンドウェザー🈑",
   "detail": "日々の生活に役立つ天気を分かりやすく解説！防災情報もしっかりお伝えします。\n◇番組内容\n日々の生活に役立つ天気を分かりやすく解説！防災情報もしっかりお伝えします。\r\n\n◇解説\n解説\r\n坂本玲奈（気象予報士）\r\n\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/tenki/weekend.html\r\n◇Twitter\r\n＠ｔｂｓ_tenki\r\nhttp://twitter.com/tbs_tenki\r\n\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
   "start": 1647078600000,
@@ -25,6 +25,8 @@
     "n": 23
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

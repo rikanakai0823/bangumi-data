@@ -1,7 +1,7 @@
 {
   "id": "idxxode",
   "category": "hobby",
-  "title": "🈖SALT Dreamer 56 五島列島ヒラスズキ",
+  "title": "SALT Dreamer 56 五島列島ヒラスズキ",
   "fullTitle": "🈖SALT Dreamer 56 五島列島ヒラスズキ",
   "detail": "陸っぱりのシーバスフィッシングからオフショアのビッグゲームまで海のルアーフィッシングをお送りする『SALT Dreamer』。今回の舞台は、長崎県・五島列島、福江島。",
   "start": 1646996400000,
@@ -18,6 +18,8 @@
     "n": 71
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "解"
+  ]
 }

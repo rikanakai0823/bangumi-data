@@ -1,7 +1,7 @@
 {
   "id": "idt5sa2",
   "category": "hobby",
-  "title": "Ｄの旋律～今宵はダンスと音楽と～🈑",
+  "title": "Ｄの旋律～今宵はダンスと音楽と～",
   "fullTitle": "Ｄの旋律～今宵はダンスと音楽と～🈑",
   "detail": "ヴァイオリニスト古澤巖が奏でる名曲にのせて、日本の社交ダンス界のトッププロがダンスを披露する。今宵は「Mr.Lonely　2020」",
   "start": 1647102600000,
@@ -18,6 +18,8 @@
     "n": 53
   },
   "subTitle": "Mr.Lonely　2020",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

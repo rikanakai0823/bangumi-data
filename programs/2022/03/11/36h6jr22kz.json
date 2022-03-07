@@ -1,7 +1,7 @@
 {
   "id": "36h6jr22kz",
   "category": "information",
-  "title": "わくわくショッピング・正直ショッピング🅂",
+  "title": "わくわくショッピング・正直ショッピング",
   "fullTitle": "わくわくショッピング・正直ショッピング🅂",
   "detail": "◇番組内容\nファインコーヒーＷ　グリネル　０１２０－４９７６８８",
   "start": 1646928000000,
@@ -22,6 +22,8 @@
     "n": 12
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "iduyjbk",
   "category": "cinema",
-  "title": "🈙🅍ザ・フライ",
+  "title": "ザ・フライ",
   "fullTitle": "🈙🅍ザ・フライ",
   "detail": "名作『蝿男の恐怖』を、Ｄ・クローネンバーグ監督がリメイク。実験中の事故で蝿と融合してしまった男の運命は…！",
   "start": 1646881200000,
@@ -18,6 +18,9 @@
     "n": 63
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
 }

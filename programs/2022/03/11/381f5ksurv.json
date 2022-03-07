@@ -1,7 +1,7 @@
 {
   "id": "381f5ksurv",
   "category": "information",
-  "title": "きょうの料理🈑",
+  "title": "きょうの料理",
   "fullTitle": "きょうの料理🈑",
   "detail": "",
   "start": 1646968800000,
@@ -18,6 +18,8 @@
     "n": 0
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }

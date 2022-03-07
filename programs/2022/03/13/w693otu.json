@@ -1,7 +1,7 @@
 {
   "id": "w693otu",
   "category": "news",
-  "title": "ストレートニュース🈑",
+  "title": "ストレートニュース",
   "fullTitle": "ストレートニュース🈑",
   "detail": "▽国内外の最新ニュース、注目会見、お天気情報　▽速報は“ブレイキングニュース”",
   "start": 1647126000000,
@@ -18,6 +18,8 @@
     "n": 137
   },
   "subTitle": "",
-  "episode": null,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
 }
