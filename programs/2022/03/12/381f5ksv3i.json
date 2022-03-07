@@ -1,8 +1,8 @@
 {
   "id": "381f5ksv3i",
   "category": "news",
-  "title": "ニュース（関東・山梨・長野）",
-  "fullTitle": "ニュース（関東・山梨・長野）[字]",
+  "title": "ニュース（関東・山梨・長野）🈑",
+  "fullTitle": "ニュース（関東・山梨・長野）🈑",
   "detail": "",
   "start": 1647054600000,
   "end": 1647054900000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }

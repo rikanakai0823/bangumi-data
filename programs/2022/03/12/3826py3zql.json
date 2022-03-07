@@ -1,8 +1,8 @@
 {
   "id": "3826py3zql",
   "category": "news",
-  "title": "ＴＸＮニュース",
-  "fullTitle": "ＴＸＮニュース[字]",
+  "title": "ＴＸＮニュース🈑",
+  "fullTitle": "ＴＸＮニュース🈑",
   "detail": "日本や世界の最新ニュースをコンパクトにお伝えする。\n◇関連情報\n【番組公式HP】www.tv-tokyo.co.jp/txn/",
   "start": 1647073200000,
   "end": 1647073800000,
@@ -23,7 +23,5 @@
   },
   "subTitle": "",
   "episode": null,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }

@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "2021 MAMA ベストパフォーマンス",
   "fullTitle": "2021 MAMA ベストパフォーマンス",
-  "detail": "「2021 MAMA」で披露された超豪華アーティストによるパフォーマンスステージをお届け！\r\n2021年\r\n再：7日(月)19:30～、20日(日)12:00～",
+  "detail": "「2021 MAMA」で披露された超豪華アーティストによるパフォーマンスステージをお届け！\r\n2021年\r\n再：7日(月)19:30～、20日(日)12:00～\n◇出演者\n【出演者(アルファベット⇒カタカナ順)】\r\naespa、ATEEZ、Brave Girls、Dynamicduo、CocaNButter、ENHYPEN、GIRIBOY、Holy Bang、HOOK、INI、ITZY、JANNABI、JO1、JUSTHIS、LACHICA、lIlBOI、NCT 127、NCT DREAM、NCT U、Paloalto、PROWDMON、Stray Kids、TOMORROW X TOGETHER、Wanna One、WANT、WAYB、YGX、イ・ヒョリ、イ・ヨンジ、チョ・グァンイル",
   "start": 1646649000000,
   "end": 1646657100000,
   "seconds": 8100,
+  "description": "「2021 MAMA」で披露された超豪華アーティストによるパフォーマンスステージをお届け！\r\n2021年\r\n再：7日(月)19:30～、20日(日)12:00～",
+  "extra": {
+    "出演者": "【出演者(アルファベット⇒カタカナ順)】\r\naespa、ATEEZ、Brave Girls、Dynamicduo、CocaNButter、ENHYPEN、GIRIBOY、Holy Bang、HOOK、INI、ITZY、JANNABI、JO1、JUSTHIS、LACHICA、lIlBOI、NCT 127、NCT DREAM、NCT U、Paloalto、PROWDMON、Stray Kids、TOMORROW X TOGETHER、Wanna One、WANT、WAYB、YGX、イ・ヒョリ、イ・ヨンジ、チョ・グァンイル"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS8",
