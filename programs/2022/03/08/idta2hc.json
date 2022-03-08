@@ -1,0 +1,23 @@
+{
+  "id": "idta2hc",
+  "category": "hobby",
+  "title": "ＭＹ　ＢＥＳＴ　ＷＡＹ",
+  "fullTitle": "ＭＹ　ＢＥＳＴ　ＷＡＹ",
+  "detail": "毎週、女性タレントがお気に入りのドライブコースを紹介します。旬なドライブスポットやサービスエリアのオススメグルメなど、ドライブに行きたくなる情報をお届けします。",
+  "start": 1646740140000,
+  "end": 1646740440000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
