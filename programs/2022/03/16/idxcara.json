@@ -1,0 +1,25 @@
+{
+  "id": "idxcara",
+  "category": "music",
+  "title": "【生中継】スカパー！アイドルフェス！～Think of SDGs～",
+  "fullTitle": "🈢【生中継】スカパー！アイドルフェス！～Think of SDGs～",
+  "detail": "「スカパー！アイドルフェス！」が、ついに有観客イベントとして開催！アイドルたちと一緒にSDGsを学ぶ、新しい形のアイドルフェスをお届けします。",
+  "start": 1647424800000,
+  "end": 1647432000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "スカパー！アイドルフェス！",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

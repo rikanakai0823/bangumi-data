@@ -1,0 +1,25 @@
+{
+  "id": "w66h9fd",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE　東京ヤクルト×横浜DeNA",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE　東京ヤクルト×横浜DeNA",
+  "detail": "オープン戦「東京ヤクルト vs 横浜DeNA」\r\n＜開催＞2022年3月16日【生中継】～神宮球場\r\n＜解説＞野村弘樹　＜実況＞大川立樹\r\n※変更の場合あり",
+  "start": 1647402600000,
+  "end": 1647417600000,
+  "seconds": 15000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "東京ヤクルト vs 横浜DeNA",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
