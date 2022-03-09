@@ -1,12 +1,16 @@
 {
   "id": "381f5ksv2c",
   "category": "information",
-  "title": "明日へ１ｍｉｎ．",
-  "fullTitle": "明日へ１ｍｉｎ．",
-  "detail": "",
+  "title": "明日へ１ｍｉｎ．　災害食レシピ「おじや風リゾット」",
+  "fullTitle": "明日へ１ｍｉｎ．　災害食レシピ「おじや風リゾット」",
+  "detail": "【語り】池田伸子\n◇出演者\n【語り】池田伸子",
   "start": 1647028740000,
   "end": 1647028800000,
   "seconds": 60,
+  "description": "【語り】池田伸子",
+  "extra": {
+    "出演者": "【語り】池田伸子"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "おじや風リゾット",
   "episode": 1,
   "flags": []
 }

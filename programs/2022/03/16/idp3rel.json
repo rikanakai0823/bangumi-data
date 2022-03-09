@@ -1,0 +1,25 @@
+{
+  "id": "idp3rel",
+  "category": "information",
+  "title": "鹿児島発地域ドラマ　直前情報",
+  "fullTitle": "鹿児島発地域ドラマ　直前情報🈑",
+  "detail": "",
+  "start": 1647435180000,
+  "end": 1647435600000,
+  "seconds": 420,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
