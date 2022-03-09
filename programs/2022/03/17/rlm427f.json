@@ -1,0 +1,23 @@
+{
+  "id": "rlm427f",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022～オープン戦～ ソフトバンクvs.阪神",
+  "fullTitle": "HAWKS プロ野球中継2022～オープン戦～ ソフトバンクvs.阪神",
+  "detail": "解説/実況：池田親興/大前一樹\r\n開催日時：2022年3月16日 (水) 18:00\r\n会場：福岡PayPayドーム",
+  "start": 1647489600000,
+  "end": 1647505800000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

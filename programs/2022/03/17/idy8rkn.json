@@ -1,0 +1,23 @@
+{
+  "id": "idy8rkn",
+  "category": "anime",
+  "title": "ゆるキャン△#11",
+  "fullTitle": "ゆるキャン△#11",
+  "detail": "#11「クリキャン！」",
+  "start": 1647522000000,
+  "end": 1647523500000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "クリキャン！",
+  "episode": 11,
+  "flags": []
+}
