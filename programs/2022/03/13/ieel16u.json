@@ -1,0 +1,27 @@
+{
+  "id": "ieel16u",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「睡眠と健康('21)」\n◇出演者\n中部大学生命健康科学研究所特任教授　宮崎　総一郎\r\n広島大学教授　林　光緒",
+  "start": 1647123300000,
+  "end": 1647124200000,
+  "seconds": 900,
+  "description": "「睡眠と健康('21)」",
+  "extra": {
+    "出演者": "中部大学生命健康科学研究所特任教授　宮崎　総一郎\r\n広島大学教授　林　光緒"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "睡眠と健康('21)",
+  "episode": 1,
+  "flags": []
+}

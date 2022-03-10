@@ -1,0 +1,27 @@
+{
+  "id": "ieel16w",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「NPO・NGOの世界('21)」\n◇出演者\n聖心女子大学教授　大橋　正明\r\n早稲田大学専任講師　利根川　佳子",
+  "start": 1647165600000,
+  "end": 1647166500000,
+  "seconds": 900,
+  "description": "「NPO・NGOの世界('21)」",
+  "extra": {
+    "出演者": "聖心女子大学教授　大橋　正明\r\n早稲田大学専任講師　利根川　佳子"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "NPO・NGOの世界('21)",
+  "episode": 1,
+  "flags": []
+}

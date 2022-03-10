@@ -1,0 +1,27 @@
+{
+  "id": "ieel16s",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「西洋音楽史('21)」\n◇出演者\n成城大学教授　津上　英輔\r\n成城大学准教授　赤塚　健太郎",
+  "start": 1647121500000,
+  "end": 1647122400000,
+  "seconds": 900,
+  "description": "「西洋音楽史('21)」",
+  "extra": {
+    "出演者": "成城大学教授　津上　英輔\r\n成城大学准教授　赤塚　健太郎"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "西洋音楽史('21)",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w63j3vs",
+  "category": "sports",
+  "title": "プロ野球オープン戦 2022「巨人×千葉ロッテ」～東京ドーム～",
+  "fullTitle": "[生]プロ野球オープン戦 2022「巨人×千葉ロッテ」～東京ドーム～",
+  "detail": "～生中継\r\n解説：山本浩二　実況：山本健太",
+  "start": 1647593100000,
+  "end": 1647608400000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×千葉ロッテ",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

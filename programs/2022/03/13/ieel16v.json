@@ -1,0 +1,27 @@
+{
+  "id": "ieel16v",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「日本文学の研究史('21)」\n◇出演者\n放送大学教授　島内　裕子",
+  "start": 1647164700000,
+  "end": 1647165600000,
+  "seconds": 900,
+  "description": "「日本文学の研究史('21)」",
+  "extra": {
+    "出演者": "放送大学教授　島内　裕子"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "日本文学の研究史('21)",
+  "episode": 1,
+  "flags": []
+}

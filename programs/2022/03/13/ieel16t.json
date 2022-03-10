@@ -1,0 +1,27 @@
+{
+  "id": "ieel16t",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「刑法と生命('21)」\n◇出演者\n東京大学教授　和田　俊憲",
+  "start": 1647122400000,
+  "end": 1647123300000,
+  "seconds": 900,
+  "description": "「刑法と生命('21)」",
+  "extra": {
+    "出演者": "東京大学教授　和田　俊憲"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "刑法と生命('21)",
+  "episode": 1,
+  "flags": []
+}

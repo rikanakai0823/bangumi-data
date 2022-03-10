@@ -1,0 +1,23 @@
+{
+  "id": "rkdrbu3",
+  "category": "information",
+  "title": "元町ゼラール",
+  "fullTitle": "元町ゼラール",
+  "detail": "ファッション／オールスターファッションデイ／ファッショニスタを魅了する、春いちばんのおしゃれな１日。心も華やぐ最旬アイテムが、２４時間咲き誇ります！",
+  "start": 1647547200000,
+  "end": 1647550800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
