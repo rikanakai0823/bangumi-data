@@ -1,9 +1,9 @@
 {
   "id": "w69aerq",
   "category": "news",
-  "title": "Quest Means Business",
-  "fullTitle": "Quest Means Business",
-  "detail": "CNN経済の看板番組が「クエスト・ミーンズ・ビジネス」。アンカーのリチャード・クエストが、複雑な経済動向を分かりやすく噛み砕いて伝える。",
+  "title": "ハラ・ゴラーニ・トゥナイト",
+  "fullTitle": "ハラ・ゴラーニ・トゥナイト",
+  "detail": "CNNインターナショナルを代表するアンカー、ハラ・ゴラーニが送る最新国際ニュース。世界の動きはこの番組でチェック！",
   "start": 1647284400000,
   "end": 1647288000000,
   "seconds": 3600,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "クエスト・ミーンズ・ビジネス",
+  "subTitle": "",
   "episode": 1,
   "flags": []
 }

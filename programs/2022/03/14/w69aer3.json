@@ -1,9 +1,9 @@
 {
   "id": "w69aer3",
-  "category": "hobby",
-  "title": "African Voices",
-  "fullTitle": "🈔African Voices🈞",
-  "detail": "日本語同時通訳付。\r\n世界的に活躍するアフリカ各国の話題の人物に、ロング・インタビュー。",
+  "category": "news",
+  "title": "CNNニュースルーム",
+  "fullTitle": "🈔CNNニュースルーム",
+  "detail": "日本語同時通訳付。\r\n専門家の分析を交え世界のニュースを検証。ヘッドラインを飾るニュースと最新情報を、各分野の専門家の分析とともに判りやすく解説する報道・情報番組",
   "start": 1647223200000,
   "end": 1647225000000,
   "seconds": 1800,
@@ -20,7 +20,6 @@
   "subTitle": "",
   "episode": 1,
   "flags": [
-    "二",
-    "再"
+    "二"
   ]
 }
