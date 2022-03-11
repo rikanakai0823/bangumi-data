@@ -1,0 +1,23 @@
+{
+  "id": "idp3spv",
+  "category": "documentary",
+  "title": "ハイビジョン動物記「ゴールデンバンブーレムール」",
+  "fullTitle": "ハイビジョン動物記「ゴールデンバンブーレムール」",
+  "detail": "",
+  "start": 1647537000000,
+  "end": 1647537600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ゴールデンバンブーレムール",
+  "episode": 1,
+  "flags": []
+}

@@ -1,9 +1,9 @@
 {
   "id": "idp3rel",
-  "category": "information",
-  "title": "鹿児島発地域ドラマ　直前情報",
-  "fullTitle": "鹿児島発地域ドラマ　直前情報🈑",
-  "detail": "",
+  "category": "drama",
+  "title": "まもなく放送！鹿児島発地域ドラマ",
+  "fullTitle": "まもなく放送！鹿児島発地域ドラマ🈑",
+  "detail": "このあと午後１０時から放送の「鹿児島発地域ドラマ・この花咲くや」。見どころ情報を７分にギュッと凝縮！出演：小芝風花・吉岡秀隆・永作博美ほか。",
   "start": 1647435180000,
   "end": 1647435600000,
   "seconds": 420,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 42
   },
-  "subTitle": "",
+  "subTitle": "鹿児島発地域ドラマ・この花咲くや",
   "episode": 1,
   "flags": [
     "字"
