@@ -1,0 +1,25 @@
+{
+  "id": "w6344lc",
+  "category": "sports",
+  "title": "2022 Ｔポイント×ENEOS ゴルフトーナメント 第2日",
+  "fullTitle": "[生]2022 Ｔポイント×ENEOS ゴルフトーナメント 第2日",
+  "detail": "生中継　スカイA全力ゴルフ宣言2022 Ｔポイント×ENEOS ゴルフトーナメント＜第2日＞(2022/3/19　鹿児島高牧カントリークラブ・鹿児島県) 解説:山崎千佳代プロ",
+  "start": 1647644400000,
+  "end": 1647662400000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

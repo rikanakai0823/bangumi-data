@@ -1,0 +1,23 @@
+{
+  "id": "idt5sj6",
+  "category": "sports",
+  "title": "ウイニング競馬　～中京・阪神～",
+  "fullTitle": "ウイニング競馬　～中京・阪神～",
+  "detail": "【阪神】10Ｒ淀屋橋ステークス\r\n11Ｒ若葉ステークス（Ｌ）－皐月賞ＴＲ－\r\n【中京】10Ｒ豊橋ステークス\r\n　　　　11Ｒファルコンステークス（ＧⅢ）",
+  "start": 1647667800000,
+  "end": 1647673200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "阪神",
+  "episode": 1,
+  "flags": []
+}

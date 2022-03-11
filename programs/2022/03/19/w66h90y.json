@@ -1,0 +1,25 @@
+{
+  "id": "w66h90y",
+  "category": "sports",
+  "title": "2021-22 Vリーグ DIVISION 1　デンソー×NEC　ほか",
+  "fullTitle": "[生]2021-22 Vリーグ DIVISION 1　デンソー×NEC　ほか",
+  "detail": "女子「デンソーエアリービーズ vs NECレッドロケッツ」\r\n▽15:00開始予定 女子「久光スプリングス vs PFUブルーキャッツ」\r\n【生中継】",
+  "start": 1647658500000,
+  "end": 1647684000000,
+  "seconds": 25500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "デンソーエアリービーズ vs NECレッドロケッツ",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
