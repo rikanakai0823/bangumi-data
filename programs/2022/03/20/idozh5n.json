@@ -1,0 +1,23 @@
+{
+  "id": "idozh5n",
+  "category": "etc",
+  "title": "ＢＳ１スペシャル",
+  "fullTitle": "ＢＳ１スペシャル",
+  "detail": "",
+  "start": 1647781200000,
+  "end": 1647784200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

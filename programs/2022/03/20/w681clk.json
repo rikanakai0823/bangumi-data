@@ -1,0 +1,23 @@
+{
+  "id": "w681clk",
+  "category": "anime",
+  "title": "R指定アニメ！ #09",
+  "fullTitle": "R指定アニメ！ #09",
+  "detail": "【再放送】\r\n#09『かげきしょうじょ!!』特集",
+  "start": 1647718500000,
+  "end": 1647722100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "再放送",
+  "episode": 9,
+  "flags": []
+}

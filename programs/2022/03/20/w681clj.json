@@ -1,0 +1,23 @@
+{
+  "id": "w681clj",
+  "category": "anime",
+  "title": "R指定アニメ！ #08",
+  "fullTitle": "R指定アニメ！ #08",
+  "detail": "【再放送】\r\n#08『ゆるキャン△』生放送スペシャル",
+  "start": 1647714900000,
+  "end": 1647718500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "再放送",
+  "episode": 8,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rks80cz",
+  "category": "sports",
+  "title": "第27回全日本フットサル選手権大会＜準決勝＞",
+  "fullTitle": "[生]第27回全日本フットサル選手権大会＜準決勝＞",
+  "detail": "フットサル日本一を懸け、総勢３２チームが一発勝負の熱き戦いに挑む！\r\n※延長の場合あり",
+  "start": 1647744900000,
+  "end": 1647763200000,
+  "seconds": 18300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": 27,
+  "flags": [
+    "生"
+  ]
+}

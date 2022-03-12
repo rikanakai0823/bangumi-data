@@ -1,0 +1,26 @@
+{
+  "id": "rktcxe8",
+  "category": "music",
+  "title": "ＫＯＲＥＡ　ＯＮ　ＳＴＡＧＥ～南原 広寒楼（ナムウォン クァンハルル）",
+  "fullTitle": "ＫＯＲＥＡ　ＯＮ　ＳＴＡＧＥ～南原 広寒楼（ナムウォン クァンハルル）　[字][新]",
+  "detail": "日本初放送！aespa、Weki Meki、Lyn、Ailee、Dynamicduo、SOLE、キム・ヨンジャ、フォレステラ(FORESTELLA)ら出演のコンサート！開催日：2021年8月12日",
+  "start": 1647765000000,
+  "end": 1647771300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idtrhrf",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　スプリングS（GⅡ）阪神大賞典（GⅡ）",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　スプリングS（GⅡ）阪神大賞典（GⅡ）",
+  "detail": "フジテレビ賞スプリングS（GⅡ）阪神大賞典（GⅡ）／ゲスト：山本隆弘（元バレーボール日本代表）解説：沢田知希（競馬エイト）／東西で超重要GⅡ\r\n",
+  "start": 1647756000000,
+  "end": 1647759600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

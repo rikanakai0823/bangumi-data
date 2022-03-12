@@ -1,0 +1,23 @@
+{
+  "id": "idvj6g7",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "当日の中央競馬レース結果と、ＧⅡ『スプリングステークス』（中山）とＧⅡ『阪神大賞典』（阪神）の振り返り、ＧⅢ『フラワーカップ』（中山）の展望をお伝えします。",
+  "start": 1647784800000,
+  "end": 1647786600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

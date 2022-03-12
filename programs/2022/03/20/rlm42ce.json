@@ -1,0 +1,25 @@
+{
+  "id": "rlm42ce",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022～ファーム～ 3/20 ソフトバンクvs.オリックス",
+  "fullTitle": "🈢HAWKS プロ野球中継2022～ファーム～ 3/20 ソフトバンクvs.オリックス",
+  "detail": "▽3月20日開催\r\n解説/実況：斉藤和巳/久保俊郎\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1647748500000,
+  "end": 1647765000000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

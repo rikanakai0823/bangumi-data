@@ -1,0 +1,23 @@
+{
+  "id": "w67dtz2",
+  "category": "music",
+  "title": "【生放送】SUPER BEAVER「東京」特番",
+  "fullTitle": "【生放送】SUPER BEAVER「東京」特番",
+  "detail": "2/23に新作フルアルバム「東京」をリリースするSUPER BEAVERの特別番組を、120分の生放送でお届けします！",
+  "start": 1647779400000,
+  "end": 1647786600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 123
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
