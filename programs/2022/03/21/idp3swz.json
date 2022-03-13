@@ -1,0 +1,25 @@
+{
+  "id": "idp3swz",
+  "category": "information",
+  "title": "５分でわかる！芋たこなんきん",
+  "fullTitle": "５分でわかる！芋たこなんきん🈑",
+  "detail": "",
+  "start": 1647851040000,
+  "end": 1647851400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm42as",
+  "category": "sports",
+  "title": "UFC NOW #1",
+  "fullTitle": "UFC NOW #1",
+  "detail": "名勝負を厳選してお届け！",
+  "start": 1647817200000,
+  "end": 1647820800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
