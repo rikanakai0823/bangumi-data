@@ -1,0 +1,23 @@
+{
+  "id": "idtvt2q",
+  "category": "information",
+  "title": "トゥーコネクトテレビショッピング",
+  "fullTitle": "トゥーコネクトテレビショッピング",
+  "detail": "",
+  "start": 1647161700000,
+  "end": 1647162000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
