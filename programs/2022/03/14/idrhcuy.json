@@ -1,0 +1,23 @@
+{
+  "id": "idrhcuy",
+  "category": "sports",
+  "title": "SkiTV5",
+  "fullTitle": "SkiTV5",
+  "detail": "最新のウインター情報、冬の旅情報は「SkiTV5」！レジェンドスキーヤー岡部哲也と日本を代表するナショナルデモ・丸山貴雄が送るウインタースポーツ専門番組。",
+  "start": 1647266400000,
+  "end": 1647268200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "SkiTV5",
+  "episode": 1,
+  "flags": []
+}
