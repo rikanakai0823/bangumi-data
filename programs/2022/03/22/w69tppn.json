@@ -1,0 +1,23 @@
+{
+  "id": "w69tppn",
+  "category": "hobby",
+  "title": "インフォメーション（ＣＭ）",
+  "fullTitle": "インフォメーション（ＣＭ）",
+  "detail": "インフォメーション（ＣＭ）",
+  "start": 1647918000000,
+  "end": 1647919800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "囲碁・将棋チャンネル",
+    "id": "f0ej",
+    "sid": 363,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

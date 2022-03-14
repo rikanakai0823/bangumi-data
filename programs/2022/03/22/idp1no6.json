@@ -1,0 +1,23 @@
+{
+  "id": "idp1no6",
+  "category": "sports",
+  "title": "カーリング女子世界選手権２０２２",
+  "fullTitle": "カーリング女子世界選手権２０２２",
+  "detail": "",
+  "start": 1647919500000,
+  "end": 1647925200000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

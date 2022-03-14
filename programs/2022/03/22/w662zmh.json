@@ -1,0 +1,25 @@
+{
+  "id": "w662zmh",
+  "category": "information",
+  "title": "クリック!日テレプラス【4月紹介】",
+  "fullTitle": "[無料]クリック!日テレプラス【4月紹介】",
+  "detail": "日テレプラスの新作・おすすめ・お得な情報をお知らせします!これを見れば日テレプラスからますます目が離せなくなりますよ!では♪番組にクリック!",
+  "start": 1647942600000,
+  "end": 1647943200000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "4月紹介",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
