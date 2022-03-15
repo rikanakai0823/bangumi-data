@@ -1,0 +1,23 @@
+{
+  "id": "idxcaux",
+  "category": "music",
+  "title": "列車で旅する歌謡曲～TRAIN and RAILWAY MUSIC #5",
+  "fullTitle": "列車で旅する歌謡曲～TRAIN and RAILWAY MUSIC #5",
+  "detail": "全国のローカル鉄道に車載カメラを搭載し「前面映像」をメインに収録。昭和を彩ったご当地歌謡曲をＢＧＭにした誰もが楽しめる鉄道ｘ音楽番組です。",
+  "start": 1648024200000,
+  "end": 1648027800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "前面映像",
+  "episode": 5,
+  "flags": []
+}
