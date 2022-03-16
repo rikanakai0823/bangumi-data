@@ -1,0 +1,23 @@
+{
+  "id": "rkdrbyg",
+  "category": "information",
+  "title": "プロヴァンスのティータイム",
+  "fullTitle": "プロヴァンスのティータイム",
+  "detail": "こだわりのオーガニック原料などを使い伝統的なレシピで作ったハーブティーの頒布会。南仏で愛され続ける至高のお茶をぜひこの機会に！",
+  "start": 1648112400000,
+  "end": 1648116000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

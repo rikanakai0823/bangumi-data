@@ -1,0 +1,23 @@
+{
+  "id": "w67g8me",
+  "category": "music",
+  "title": "プラシーボ ライブ in ロンドン",
+  "fullTitle": "プラシーボ ライブ in ロンドン",
+  "detail": "プラシーボが2015年8月にロンドンで行った、MTV伝統のアコースティックライブ「MTV Unplugged」の模様をオンエア！",
+  "start": 1648051200000,
+  "end": 1648054800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "MTV Unplugged",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "381sxriuw5",
+  "category": "news",
+  "title": "ビジネス・クリック",
+  "fullTitle": "ビジネス・クリック",
+  "detail": "最新の金融マーケット情報をＮＹから中継。\r\n注目の経済ニュースも",
+  "start": 1647446100000,
+  "end": 1647446280000,
+  "seconds": 180,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "381f5ksaao",
+  "category": "sports",
+  "title": "第９４回選抜高校野球大会　第７日",
+  "fullTitle": "第９４回選抜高校野球大会　第７日🅍🈑",
+  "detail": "第１試合　～甲子園球場から中継～\n◇番組内容\n［１１：００からＥテレにつづく］",
+  "start": 1648080000000,
+  "end": 1648087200000,
+  "seconds": 7200,
+  "description": "第１試合　～甲子園球場から中継～",
+  "extra": {
+    "番組内容": "［１１：００からＥテレにつづく］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 94,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}
