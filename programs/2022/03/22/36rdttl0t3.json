@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Growing Up\"THE LINDA LINDAS\r\n\"Shmoney\"BOBBY SHMURDA feat.QUAVO & ROWDY REBEL\r\n\"It'll Be Okay\"SHAWN MENDES\r\n\"Take My Breath(Official Lyric Video)\"THE WEEKND\n◇番組内容２\n\"Sacrifice(Official Lyric Video)\"THE WEEKND\r\n\"Save Your Tears (Remix)\"THE WEEKND & ARIANA GRANDE\r\n”Sacrifice (Remix) \"THE WEEKND feat. SWEDISH HOUSE MAFIA",
   "start": 1647874800000,
   "end": 1647876600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Growing Up\"THE LINDA LINDAS\r\n\"Shmoney\"BOBBY SHMURDA feat.QUAVO & ROWDY REBEL\r\n\"It'll Be Okay\"SHAWN MENDES\r\n\"Take My Breath(Official Lyric Video)\"THE WEEKND",
+    "番組内容２": "\"Sacrifice(Official Lyric Video)\"THE WEEKND\r\n\"Save Your Tears (Remix)\"THE WEEKND & ARIANA GRANDE\r\n”Sacrifice (Remix) \"THE WEEKND feat. SWEDISH HOUSE MAFIA"
   },
   "channel": {
     "type": "GR",
