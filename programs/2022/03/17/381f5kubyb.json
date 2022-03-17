@@ -1,0 +1,23 @@
+{
+  "id": "381f5kubyb",
+  "category": "information",
+  "title": "＃ＮＨＫ",
+  "fullTitle": "＃ＮＨＫ",
+  "detail": "【キャスター】林田理沙",
+  "start": 1647517320000,
+  "end": 1647517500000,
+  "seconds": 180,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "キャスター",
+  "episode": 1,
+  "flags": []
+}
