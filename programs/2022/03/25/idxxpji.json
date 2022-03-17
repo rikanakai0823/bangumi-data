@@ -1,0 +1,23 @@
+{
+  "id": "idxxpji",
+  "category": "hobby",
+  "title": "Fun to FlyFishing　湖でのストリーマー",
+  "fullTitle": "Fun to FlyFishing　湖でのストリーマー",
+  "detail": "湖でのフライフィッシング。春の早い時期は水生昆虫のハッチも少なく、ストリーマーと呼ばれる「小魚」を模したフライを、ひたすらに引っ張るというのが基本となる。",
+  "start": 1648191600000,
+  "end": 1648195200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "小魚",
+  "episode": 1,
+  "flags": []
+}

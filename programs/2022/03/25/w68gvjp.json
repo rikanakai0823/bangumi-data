@@ -1,0 +1,25 @@
+{
+  "id": "w68gvjp",
+  "category": "documentary",
+  "title": "【連日放送】スペースタイム・宇宙ガイド：火星への旅",
+  "fullTitle": "【連日放送】スペースタイム・宇宙ガイド：火星への旅(二)",
+  "detail": "連日放送\r\n今まで、いくつもの探査機が火星に送られ写真やデータを集めてきた。人類は今、自ら火星へ向かいその謎を解こうとしている。",
+  "start": 1648200600000,
+  "end": 1648204200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 132
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

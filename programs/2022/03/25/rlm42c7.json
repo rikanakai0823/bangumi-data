@@ -1,0 +1,23 @@
+{
+  "id": "rlm42c7",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022～オープン戦～ ソフトバンクvs.広島",
+  "fullTitle": "HAWKS プロ野球中継2022～オープン戦～ ソフトバンクvs.広島",
+  "detail": "解説/実況：若菜嘉晴/秋山浩志\r\n開催日時：2022年3月19日 (土) 13:00\r\n会場：福岡PayPayドーム",
+  "start": 1648180800000,
+  "end": 1648196100000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
