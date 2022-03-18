@@ -3,10 +3,14 @@
   "category": "information",
   "title": "CSテレ朝ナビ！！",
   "fullTitle": "[無料]CSテレ朝ナビ！！",
-  "detail": "テレビ朝日のCS放送「テレ朝チャンネル１・２」の見どころを紹介します！\r\nTEL:0570-0555-77（10時～20時　年中無休）",
+  "detail": "テレビ朝日のCS放送「テレ朝チャンネル１・２」の見どころを紹介します！\r\nTEL:0570-0555-77（10時～20時　年中無休）\n◇ＨＰ\nテレ朝チャンネル ホームページ\r\nhttps://www.tv-asahi.co.jp/ch/",
   "start": 1647627600000,
   "end": 1647628200000,
   "seconds": 600,
+  "description": "テレビ朝日のCS放送「テレ朝チャンネル１・２」の見どころを紹介します！\r\nTEL:0570-0555-77（10時～20時　年中無休）",
+  "extra": {
+    "ＨＰ": "テレ朝チャンネル ホームページ\r\nhttps://www.tv-asahi.co.jp/ch/"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS2",

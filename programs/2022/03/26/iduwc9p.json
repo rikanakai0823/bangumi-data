@@ -1,0 +1,25 @@
+{
+  "id": "iduwc9p",
+  "category": "cinema",
+  "title": "ブラック・ドッグ",
+  "fullTitle": "🈙ブラック・ドッグ",
+  "detail": "パトリック・スウェイジ主演のカーアクション。家族を守るため、違法な荷物運搬を引き受けたトレーラー運転手が武装集団と対決。",
+  "start": 1648237500000,
+  "end": 1648243800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
