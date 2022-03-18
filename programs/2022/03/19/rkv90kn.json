@@ -4,9 +4,9 @@
   "title": "Late　Afternoon　News",
   "fullTitle": "Late　Afternoon　News",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Late Afternoon News」",
-  "start": 1647679500000,
+  "start": 1647678900000,
   "end": 1647680400000,
-  "seconds": 900,
+  "seconds": 1500,
   "channel": {
     "type": "CS",
     "channel": "CS8",
