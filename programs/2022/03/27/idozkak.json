@@ -1,0 +1,23 @@
+{
+  "id": "idozkak",
+  "category": "sports",
+  "title": "ＷＲＣ世界ラリー選手権２０２２",
+  "fullTitle": "ＷＲＣ世界ラリー選手権２０２２",
+  "detail": "",
+  "start": 1648389600000,
+  "end": 1648395600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w66h9sm",
+  "category": "sports",
+  "title": "アクサレディスゴルフトーナメント in MIYAZAKI 2022 1H",
+  "fullTitle": "[生]アクサレディスゴルフトーナメント in MIYAZAKI 2022 1H",
+  "detail": "決勝ラウンド　1ホール生中継\r\n＜開催＞2022年3月27日（日） 【生中継】　＜解説＞樋口久子プロ（JLPGA顧問）\r\n＜ラウンド解説＞平瀬真由美プロ",
+  "start": 1648341000000,
+  "end": 1648344600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

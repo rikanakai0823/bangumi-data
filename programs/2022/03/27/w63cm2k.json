@@ -1,0 +1,25 @@
+{
+  "id": "w63cm2k",
+  "category": "sports",
+  "title": "[プロ野球]阪神×東京ヤクルト（京セラドーム大阪）",
+  "fullTitle": "[生] [プロ野球]阪神×東京ヤクルト（京セラドーム大阪）",
+  "detail": "（延長時、以降の番組変更繰り下げあり）\r\nGAORAプロ野球中継\r\n「阪神 vs 東京ヤクルト」\r\n\r\n開催：2022年3月27日京セラドーム大阪",
+  "start": 1648356300000,
+  "end": 1648373400000,
+  "seconds": 17100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

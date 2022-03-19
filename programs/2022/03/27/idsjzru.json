@@ -1,0 +1,23 @@
+{
+  "id": "idsjzru",
+  "category": "theater",
+  "title": "落語研究会",
+  "fullTitle": "落語研究会",
+  "detail": "",
+  "start": 1648317600000,
+  "end": 1648324800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

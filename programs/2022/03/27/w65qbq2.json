@@ -1,0 +1,23 @@
+{
+  "id": "w65qbq2",
+  "category": "information",
+  "title": "【無料】インフォメーション",
+  "fullTitle": "【無料】インフォメーション",
+  "detail": "通販情報番組",
+  "start": 1648341000000,
+  "end": 1648342800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ホームドラマＣＨ",
+    "id": "f0cm",
+    "sid": 294,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 103
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

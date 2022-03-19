@@ -1,0 +1,25 @@
+{
+  "id": "idxxpl3",
+  "category": "hobby",
+  "title": "TSURI na KIBUN 23",
+  "fullTitle": "🈠TSURI na KIBUN 23",
+  "detail": "『TSURI na KIBUN』の最終回。番組初回と同じアジ釣りを、はるな愛さんとつ～ちゃんが楽しむ。これまでたくさんのツリジョを増やしてきたつ～ちゃん。",
+  "start": 1648382400000,
+  "end": 1648386000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

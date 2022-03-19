@@ -1,0 +1,25 @@
+{
+  "id": "idrd32d",
+  "category": "variety",
+  "title": "#D4DJ_LIVE_TIME　＃１１",
+  "fullTitle": "#D4DJ_LIVE_TIME🈡　＃１１",
+  "detail": "メディアミックス「D4DJ」のリアルライブの模様をお届けする音楽番組です。",
+  "start": 1648308600000,
+  "end": 1648310400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "D4DJ",
+  "episode": 11,
+  "flags": [
+    "終"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rksaa51",
+  "category": "etc",
+  "title": "ワールドプロレスリングLIVE2022 NEW JAPAN CUP 2022",
+  "fullTitle": "[生]ワールドプロレスリングLIVE2022 NEW JAPAN CUP 2022",
+  "detail": "新日本プロレス５０周年！最強決定トーナメントNEW JAPAN CUP 決勝戦\r\n史上最大４８人エントリーの超大規模トーナメント！最強の栄冠を掴むのは！？\r\n※延長の場合あり",
+  "start": 1648357200000,
+  "end": 1648368000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
