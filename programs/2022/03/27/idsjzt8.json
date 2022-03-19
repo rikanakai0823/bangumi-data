@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "栄光への挑戦～ダカールラリー～",
   "fullTitle": "栄光への挑戦～ダカールラリー～",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1648351800000,
   "end": 1648353600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

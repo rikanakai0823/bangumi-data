@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "京都はんなり紀行",
   "fullTitle": "京都はんなり紀行",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1648328400000,
   "end": 1648330200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
