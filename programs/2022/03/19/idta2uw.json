@@ -1,0 +1,23 @@
+{
+  "id": "idta2uw",
+  "category": "sports",
+  "title": "卓球ジャパン！",
+  "fullTitle": "卓球ジャパン！",
+  "detail": "オリンピック、世界卓球とならぶ国際大会、ＷＴＴシンガポールスマッシュの最新試合を放送！女子ダブルスでは優勝を目指す伊藤美誠・早田ひなペアが登場！",
+  "start": 1647694800000,
+  "end": 1647698040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

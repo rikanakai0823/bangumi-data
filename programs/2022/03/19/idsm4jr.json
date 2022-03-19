@@ -1,0 +1,25 @@
+{
+  "id": "idsm4jr",
+  "category": "etc",
+  "title": "郷愁の街角ラーメン",
+  "fullTitle": "🈑郷愁の街角ラーメン",
+  "detail": "",
+  "start": 1647700200000,
+  "end": 1647702000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
