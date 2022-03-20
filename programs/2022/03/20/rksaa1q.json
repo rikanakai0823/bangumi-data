@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ワールドプロレスリング 完全版 #121",
   "fullTitle": "ワールドプロレスリング 完全版 #121",
-  "detail": "THE NEW BEGINNING in SAPPORO ～復活！雪の札幌決戦～\r\n開催日:2017年2月5日\r\n会場:北海道立総合体育センター 北海きたえーる",
+  "detail": "THE NEW BEGINNING in SAPPORO ～復活！雪の札幌決戦～\r\n開催日:2017年2月5日\r\n会場:北海道立総合体育センター 北海きたえーる\n◇主なカード\n▽IWGPヘビー級選手権試合 \r\n＜第65代チャンピオン＞オカダ・カズチカvs鈴木 みのる＜挑戦者＞\r\n\r\n▽NEVER無差別級選手権試合 \r\n＜第15代チャンピオン＞後藤 洋央紀vsジュース・ロビンソン＜挑戦者＞",
   "start": 1647756000000,
   "end": 1647770400000,
   "seconds": 14400,
+  "description": "THE NEW BEGINNING in SAPPORO ～復活！雪の札幌決戦～\r\n開催日:2017年2月5日\r\n会場:北海道立総合体育センター 北海きたえーる",
+  "extra": {
+    "主なカード": "▽IWGPヘビー級選手権試合 \r\n＜第65代チャンピオン＞オカダ・カズチカvs鈴木 みのる＜挑戦者＞\r\n\r\n▽NEVER無差別級選手権試合 \r\n＜第15代チャンピオン＞後藤 洋央紀vsジュース・ロビンソン＜挑戦者＞"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS2",
