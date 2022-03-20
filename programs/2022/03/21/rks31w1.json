@@ -3,10 +3,16 @@
   "category": "music",
   "title": "TBSch×SBS Medianet PRESENTS THE SHOW #288<字幕>",
   "fullTitle": "TBSch×SBS Medianet PRESENTS THE SHOW #288<字幕>",
-  "detail": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。",
+  "detail": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。\n◇出演者\n【MC】ヨサン(ATEEZ)、キム・ヨハン(WEi)、ジハン(Weeekly)\n◇番組内容\nTBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。\r\nK－POP界をリードするトップアーティストらのカムバックステージは必見！\n◇プロデューサー\nヤン・ジェヨン、矢島公紀",
   "start": 1647792000000,
   "end": 1647796800000,
   "seconds": 4800,
+  "description": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。",
+  "extra": {
+    "出演者": "【MC】ヨサン(ATEEZ)、キム・ヨハン(WEi)、ジハン(Weeekly)",
+    "番組内容": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。\r\nK－POP界をリードするトップアーティストらのカムバックステージは必見！",
+    "プロデューサー": "ヤン・ジェヨン、矢島公紀"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS2",

@@ -1,0 +1,30 @@
+{
+  "id": "idt5ssi",
+  "category": "music",
+  "title": "Ｍidnights",
+  "fullTitle": "Ｍidnights",
+  "detail": "“深夜”をコンセプトにした新しい音楽ライブ番組。次世代の音楽シーンを担うアーティストたちが自ら作成したセットリストでのライブを披露！\n◇番組内容\n“深夜”をテーマにアーティストが自らセットリストを作成したライブを披露。\r\n第4回目のアーティストはDATS\n◇出演者\nDATS/中村ゆりか\n◇監督・演出\nMasaki　Watanabe/阿保哲郎\n◇制作\nmaxilla",
+  "start": 1648395300000,
+  "end": 1648397100000,
+  "seconds": 1800,
+  "description": "“深夜”をコンセプトにした新しい音楽ライブ番組。次世代の音楽シーンを担うアーティストたちが自ら作成したセットリストでのライブを披露！",
+  "extra": {
+    "番組内容": "“深夜”をテーマにアーティストが自らセットリストを作成したライブを披露。\r\n第4回目のアーティストはDATS",
+    "出演者": "DATS/中村ゆりか",
+    "監督・演出": "Masaki　Watanabe/阿保哲郎",
+    "制作": "maxilla"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

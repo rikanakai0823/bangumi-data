@@ -1,0 +1,23 @@
+{
+  "id": "rlm42dv",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022 3/25 ソフトバンクvs.日本ハム",
+  "fullTitle": "HAWKS プロ野球中継2022 3/25 ソフトバンクvs.日本ハム",
+  "detail": "▽3月25日開催\r\n解説/実況：若菜嘉晴/信川竜太\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1648440000000,
+  "end": 1648456200000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

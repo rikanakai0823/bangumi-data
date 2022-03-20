@@ -1,0 +1,23 @@
+{
+  "id": "idozn5f",
+  "category": "information",
+  "title": "４月、新しいＮＨＫ。",
+  "fullTitle": "４月、新しいＮＨＫ。",
+  "detail": "",
+  "start": 1648396500000,
+  "end": 1648396800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
