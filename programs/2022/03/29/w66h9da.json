@@ -1,0 +1,23 @@
+{
+  "id": "w66h9da",
+  "category": "information",
+  "title": "番組ＰＲ【３月】",
+  "fullTitle": "番組ＰＲ【３月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1648522800000,
+  "end": 1648523400000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "３月",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idp3tax",
+  "category": "documentary",
+  "title": "にっぽん縦断　こころ旅　朝版",
+  "fullTitle": "にっぽん縦断　こころ旅　朝版",
+  "detail": "",
+  "start": 1648507500000,
+  "end": 1648508400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w67kj9o",
+  "category": "music",
+  "title": "春うたベストセレクション #2",
+  "fullTitle": "春うたベストセレクション #2",
+  "detail": "春になったら聴きたくなる楽曲を集めてたっぷりとお届けします。",
+  "start": 1648535400000,
+  "end": 1648539000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}

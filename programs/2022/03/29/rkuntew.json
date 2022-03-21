@@ -1,0 +1,25 @@
+{
+  "id": "rkuntew",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#10,#11[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#10,#11[二][字/日英]",
+  "detail": "#10「名探偵ロギ」　#11「ロギの特別なお客さん」",
+  "start": 1648515600000,
+  "end": 1648517400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "名探偵ロギ",
+  "episode": 10,
+  "flags": [
+    "二"
+  ]
+}

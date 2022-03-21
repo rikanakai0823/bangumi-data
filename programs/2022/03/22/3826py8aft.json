@@ -1,0 +1,25 @@
+{
+  "id": "3826py8aft",
+  "category": "anime",
+  "title": "おそ松さん",
+  "fullTitle": "おそ松さん🈞",
+  "detail": "「やれよ」「ピザ」",
+  "start": 1647882000000,
+  "end": 1647883800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
