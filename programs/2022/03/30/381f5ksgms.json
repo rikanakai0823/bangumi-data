@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksgms",
+  "category": "documentary",
+  "title": "５夜連続生放送　春よ、来い！",
+  "fullTitle": "５夜連続生放送　春よ、来い！🈑",
+  "detail": "",
+  "start": 1648645200000,
+  "end": 1648648800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

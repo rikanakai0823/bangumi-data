@@ -1,0 +1,25 @@
+{
+  "id": "iduf9vq",
+  "category": "theater",
+  "title": "ぺこぱ単独ライブ「Ｐ」",
+  "fullTitle": "🈠ぺこぱ単独ライブ「Ｐ」",
+  "detail": "「Ｍ－１グランプリ２０１９」の決勝進出以降、幅広い層から支持を得るぺこぱが、２０２１年１０月に東京・草月ホールで開催した単独ライブを放送・配信！",
+  "start": 1648647000000,
+  "end": 1648653300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "Ｐ",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

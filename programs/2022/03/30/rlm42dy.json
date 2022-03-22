@@ -1,0 +1,23 @@
+{
+  "id": "rlm42dy",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022 3/27 ソフトバンクvs.日本ハム",
+  "fullTitle": "HAWKS プロ野球中継2022 3/27 ソフトバンクvs.日本ハム",
+  "detail": "▽3月27日開催\r\n解説/実況：池田親興/大前一樹\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1648612800000,
+  "end": 1648629000000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
