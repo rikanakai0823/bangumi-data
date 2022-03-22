@@ -1,12 +1,12 @@
 {
   "id": "idozggv",
-  "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！🈑",
-  "detail": "",
+  "category": "variety",
+  "title": "四国推し！　ひめＤＯＮ！「地震への備え　“はじめの一歩”」",
+  "fullTitle": "四国推し！　ひめＤＯＮ！「地震への備え　“はじめの一歩”」🈑",
+  "detail": "もし明日、大地震が起こったら…避難の“はじめの一歩”を踏み出せますか？▽街頭で聞く「地震の備え」に対する愛媛県民の本音▽専門家が示す“オンリーワンの備え”とは？",
   "start": 1648134600000,
-  "end": 1648137600000,
-  "seconds": 3000,
+  "end": 1648136100000,
+  "seconds": 1500,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "地震への備え　“はじめの一歩”",
   "episode": 1,
   "flags": [
     "字"
