@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr6cke",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽今月は３週連続開催！「マチコミ感謝祭」くらづくり本舗編▽おいしさまるごとマイスター▽ソナーレ浦和・出張俳句教室▽クックハンド▽安心安全インフォ▽天気",
+  "start": 1647936000000,
+  "end": 1647938700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉３",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "マチコミ感謝祭",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
