@@ -1,0 +1,25 @@
+{
+  "id": "w63cmrq",
+  "category": "sports",
+  "title": "[高校野球]第94回選抜高等学校野球大会「＜第11日 決勝＞",
+  "fullTitle": "[生] [高校野球]第94回選抜高等学校野球大会「＜第11日 決勝＞",
+  "detail": "（最大延長　１７：５０）\r\n※変更の場合あり\r\n▽12:30\r\n解説：高嶋仁（元 智弁和歌山高監督）、実況：金山泉\r\nゲスト：赤星憲広\r\n",
+  "start": 1648695600000,
+  "end": 1648710000000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 94,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w68gvo2",
+  "category": "hobby",
+  "title": "逃走ドライバー S1：最長ラン",
+  "fullTitle": "逃走ドライバー S1：最長ラン(二)",
+  "detail": "今回は会場で歴史が作られる。あるドライバーが追手からの追撃をかわし、逃走時間で最長記録を作ったのだ。果たして、彼は出口を見つけ、無事脱出できるのか。",
+  "start": 1648681200000,
+  "end": 1648684800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 132
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "38224jzzh2",
+  "category": "information",
+  "title": "お願い！ランキング",
+  "fullTitle": "お願い！ランキング",
+  "detail": "気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！",
+  "start": 1648051200000,
+  "end": 1648053000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
