@@ -1,0 +1,23 @@
+{
+  "id": "idp1tpt",
+  "category": "sports",
+  "title": "カーリング女子世界選手権２０２２　決勝",
+  "fullTitle": "カーリング女子世界選手権２０２２　決勝",
+  "detail": "【解説】佐藤浩，市川美余",
+  "start": 1648432200000,
+  "end": 1648432800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "解説",
+  "episode": 1,
+  "flags": []
+}
