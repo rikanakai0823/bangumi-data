@@ -1,0 +1,25 @@
+{
+  "id": "ids307d",
+  "category": "anime",
+  "title": "ドラえもん　「つかめドリーム！宝星」",
+  "fullTitle": "🈑ドラえもん　「つかめドリーム！宝星」",
+  "detail": "「映画ドラえもん のび太の宇宙小戦争2021」公開記念！「つかめドリーム！宝星」",
+  "start": 1648202400000,
+  "end": 1648204200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "つかめドリーム！宝星",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

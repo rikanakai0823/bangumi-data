@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "不夜城はなぜ回る",
   "fullTitle": "不夜城はなぜ回る🈑",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/fuyajyounazemawaru_20220329/",
   "start": 1648565760000,
   "end": 1648569300000,
   "seconds": 3540,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/fuyajyounazemawaru_20220329/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
