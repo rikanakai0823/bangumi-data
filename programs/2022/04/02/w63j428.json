@@ -1,0 +1,25 @@
+{
+  "id": "w63j428",
+  "category": "etc",
+  "title": "ダイナミックグローブSP(332)",
+  "fullTitle": "[生]ダイナミックグローブSP(332)",
+  "detail": "～生中継　～後楽園ホール\r\n*野球中継延長の場合、18:00、18:15、18:45、19:15、19:45から放送の可能性あり",
+  "start": 1648889100000,
+  "end": 1648904400000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

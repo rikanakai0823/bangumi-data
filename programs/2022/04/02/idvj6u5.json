@@ -1,0 +1,26 @@
+{
+  "id": "idvj6u5",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "🈢🈓ＢＳイレブン競馬中継　第１部",
+  "detail": "【中山】５Ｒ～８Ｒ\r\n【阪神】５Ｒ～７Ｒ,８Ｒ「三木ホースランドパークジャンプステークス」，９Ｒ「アザレア賞」",
+  "start": 1648868400000,
+  "end": 1648877400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

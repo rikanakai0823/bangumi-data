@@ -1,0 +1,26 @@
+{
+  "id": "w66oftp",
+  "category": "cinema",
+  "title": "スター・ファイター",
+  "fullTitle": "[映画][字]スター・ファイター",
+  "detail": "母親とトレーラーハウスで暮らす平凡な高校生アレックス・ローガンの特技はアーケードTVゲームの「スター・ファイター」。",
+  "start": 1648839600000,
+  "end": 1648846800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "スター・ファイター",
+  "episode": 1,
+  "flags": [
+    "映画",
+    "字"
+  ]
+}
