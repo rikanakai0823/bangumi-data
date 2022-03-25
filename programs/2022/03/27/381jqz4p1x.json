@@ -1,0 +1,30 @@
+{
+  "id": "381jqz4p1x",
+  "category": "sports",
+  "title": "第９４回選抜高校野球大会　準々決勝",
+  "fullTitle": "第９４回選抜高校野球大会　準々決勝🅍🈑",
+  "detail": "第２試合　～甲子園球場から中継～\n◇番組内容\n［１：１５から総合テレビにつづく］",
+  "start": 1648353840000,
+  "end": 1648354500000,
+  "seconds": 660,
+  "description": "第２試合　～甲子園球場から中継～",
+  "extra": {
+    "番組内容": "［１：１５から総合テレビにつづく］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": 94,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}
