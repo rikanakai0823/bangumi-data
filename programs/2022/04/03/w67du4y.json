@@ -1,0 +1,23 @@
+{
+  "id": "w67du4y",
+  "category": "music",
+  "title": "アンコールアワー SPACE SHOWER TV \"LIVE with YOU\" Selection Vol.1",
+  "fullTitle": "アンコールアワー SPACE SHOWER TV \"LIVE with YOU\" Selection Vol.1",
+  "detail": "今回のアンコールアワーは...スペースシャワーTVとトップミュージシャンが送るプレミアムライブ番組「SPACE SHOWER TV  \"LIVE with YOU\"  」。",
+  "start": 1648915200000,
+  "end": 1648922400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "スペースシャワーＴＶ",
+    "id": "f0de",
+    "sid": 322,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 123
+  },
+  "subTitle": "SPACE SHOWER TV  \"LIVE with YOU\"",
+  "episode": 1,
+  "flags": []
+}

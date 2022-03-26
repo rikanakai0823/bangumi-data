@@ -1,0 +1,25 @@
+{
+  "id": "rks80sa",
+  "category": "anime",
+  "title": "ドラえもん #101",
+  "fullTitle": "[無料]ドラえもん #101",
+  "detail": "#101「僕の生まれた日」\r\n子どもから大人まで幅広く愛され続けている国民的アニメが登場！",
+  "start": 1648985400000,
+  "end": 1648987200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "僕の生まれた日",
+  "episode": 101,
+  "flags": [
+    "無"
+  ]
+}
