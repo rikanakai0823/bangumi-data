@@ -1,0 +1,23 @@
+{
+  "id": "3826py8alg",
+  "category": "sports",
+  "title": "ウイニング競馬　～中山～",
+  "fullTitle": "ウイニング競馬　～中山～",
+  "detail": "【中山】10Ｒ伏竜S　11Ｒ日経賞（GⅡ）\r\n【阪神】10Ｒ天神橋特別　11Ｒ毎日杯（GⅢ）\r\n【中京】11Ｒ名鉄杯",
+  "start": 1648274400000,
+  "end": 1648278000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
