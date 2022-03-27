@@ -1,0 +1,25 @@
+{
+  "id": "idp3zmi",
+  "category": "information",
+  "title": "５分でわかる！芋たこなんきん",
+  "fullTitle": "５分でわかる！芋たこなんきん🈑",
+  "detail": "３月２８日から月～土の午前７時１５分にＢＳプレミアムで再放送中の連続テレビ小説「芋たこなんきん」。出演者の國村準のインタビューを通じてドラマの魅力に５分で迫る！",
+  "start": 1649063400000,
+  "end": 1649063820000,
+  "seconds": 420,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "芋たこなんきん",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

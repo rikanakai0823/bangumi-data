@@ -1,0 +1,25 @@
+{
+  "id": "rkuntmy",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#18,#19[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#18,#19[二][字/日英]",
+  "detail": "#18「タヨの宇宙大冒険　2」　#19「いいことをするってすごく大変」",
+  "start": 1649034000000,
+  "end": 1649035800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "タヨの宇宙大冒険　2",
+  "episode": 18,
+  "flags": [
+    "二"
+  ]
+}

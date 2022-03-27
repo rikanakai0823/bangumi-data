@@ -1,0 +1,25 @@
+{
+  "id": "w698x2r",
+  "category": "news",
+  "title": "トーキング・ムービーズ：アカデミー賞特集",
+  "fullTitle": "トーキング・ムービーズ：アカデミー賞特集(再)",
+  "detail": "ハリウッド最大の映画の祭典が開かれるロサンゼルスからお送りする。",
+  "start": 1649014200000,
+  "end": 1649016000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w66h9il",
+  "category": "information",
+  "title": "番組PR【4月】",
+  "fullTitle": "[無料]番組PR【4月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1649001000000,
+  "end": 1649001600000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "4月",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

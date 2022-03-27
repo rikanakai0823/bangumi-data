@@ -1,0 +1,23 @@
+{
+  "id": "idtril0",
+  "category": "information",
+  "title": "テレビショッピング",
+  "fullTitle": "テレビショッピング",
+  "detail": "",
+  "start": 1649013900000,
+  "end": 1649015700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
