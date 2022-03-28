@@ -1,0 +1,25 @@
+{
+  "id": "idp41pc",
+  "category": "documentary",
+  "title": "美の壺　８Ｋスペシャル「松」",
+  "fullTitle": "美の壺　８Ｋスペシャル「松」🈑",
+  "detail": "庭木や盆栽として愛され、建材や松明として活用され、門松として敬われる松を大特集。なぜ松は特別なのか？　知られざる日本人と松の関係を解き明かします。",
+  "start": 1648890000000,
+  "end": 1648893600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "松",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
