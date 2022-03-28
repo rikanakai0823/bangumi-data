@@ -1,0 +1,26 @@
+{
+  "id": "iduvyou",
+  "category": "cinema",
+  "title": "【最新作】姉と過ごした最後の夏",
+  "fullTitle": "【最新作】🈙🅍姉と過ごした最後の夏",
+  "detail": "アリシア・ヴィキャンデル主演のミステリアスな人間ドラマ。疎遠だった姉妹が再会し、しがらみや葛藤がほどけてゆく姿を描く。",
+  "start": 1649143800000,
+  "end": 1649151000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

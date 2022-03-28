@@ -1,0 +1,25 @@
+{
+  "id": "idxxq1r",
+  "category": "hobby",
+  "title": "鮎2020 鮎釣りAnthology",
+  "fullTitle": "🈖鮎2020 鮎釣りAnthology",
+  "detail": "これを見れば、鮎の生態、アユ釣りのシーズナルパターン、釣りビジョンの鮎番組が分かる！過去の膨大な番組から選りすぐった映像で鮎釣りを見せていく。",
+  "start": 1649138400000,
+  "end": 1649142000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "解"
+  ]
+}
