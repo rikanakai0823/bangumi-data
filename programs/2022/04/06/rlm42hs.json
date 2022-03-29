@@ -1,0 +1,23 @@
+{
+  "id": "rlm42hs",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第28節 アウクスブルク×ボルフスブルク",
+  "fullTitle": "21/22 ブンデスリーガ 第28節 アウクスブルク×ボルフスブルク",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2022年4月3日\r\n会場:WWK（ベベカ） アレーナ",
+  "start": 1649185200000,
+  "end": 1649194200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
