@@ -3,13 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Dancing Feet\"KYGO feat.DNCE from Singel「Dancing Feet」\r\n\"A Temporary High\"AURORA from Album「The Gods We Can Touch」\r\n\"Where Are You Now\"LOST FREQUENCIES feat.CALUM SCOTT from Single「Where Are You Now」\n◇番組内容２\n\"mona lisa\"mxmtoon from Single「mona lisa」\r\n\"CHICKEN TERIYAKI\"ROSALIA from Album「MOTOMAMI」\n◇番組内容３\n\"Poster Child\"RED HOT CHILI PEPPERS from Album「Unlimited Love」\r\n\"Black Summer\"RED HOT CHILI PEPPERS from Album「Unlimited Love」",
   "start": 1649084400000,
   "end": 1649086200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Dancing Feet\"KYGO feat.DNCE from Singel「Dancing Feet」\r\n\"A Temporary High\"AURORA from Album「The Gods We Can Touch」\r\n\"Where Are You Now\"LOST FREQUENCIES feat.CALUM SCOTT from Single「Where Are You Now」",
+    "番組内容２": "\"mona lisa\"mxmtoon from Single「mona lisa」\r\n\"CHICKEN TERIYAKI\"ROSALIA from Album「MOTOMAMI」",
+    "番組内容３": "\"Poster Child\"RED HOT CHILI PEPPERS from Album「Unlimited Love」\r\n\"Black Summer\"RED HOT CHILI PEPPERS from Album「Unlimited Love」"
   },
   "channel": {
     "type": "GR",
