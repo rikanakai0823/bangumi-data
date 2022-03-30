@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "シェアするラ！",
   "fullTitle": "🈑🈟シェアするラ！",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1649340000000,
   "end": 1649341800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
