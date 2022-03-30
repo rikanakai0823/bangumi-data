@@ -1,0 +1,25 @@
+{
+  "id": "rkuntr4",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#24,#25[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#24,#25[二][字/日英]",
+  "detail": "#24「ナナからの招待」　#25「初雪が降るよ」",
+  "start": 1649293200000,
+  "end": 1649295000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ナナからの招待",
+  "episode": 24,
+  "flags": [
+    "二"
+  ]
+}

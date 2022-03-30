@@ -1,0 +1,23 @@
+{
+  "id": "w681d3a",
+  "category": "anime",
+  "title": "CUE! 特番",
+  "fullTitle": "CUE! 特番",
+  "detail": "この時間は「CUE!」特番を放送いたします",
+  "start": 1649289600000,
+  "end": 1649291400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "CUE!",
+  "episode": 1,
+  "flags": []
+}

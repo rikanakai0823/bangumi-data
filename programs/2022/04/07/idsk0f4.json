@@ -1,0 +1,26 @@
+{
+  "id": "idsk0f4",
+  "category": "etc",
+  "title": "シェアするラ！",
+  "fullTitle": "🈑🈟シェアするラ！",
+  "detail": "",
+  "start": 1649340000000,
+  "end": 1649341800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}

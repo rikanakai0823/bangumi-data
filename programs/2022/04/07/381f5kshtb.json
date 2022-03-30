@@ -1,0 +1,25 @@
+{
+  "id": "381f5kshtb",
+  "category": "etc",
+  "title": "ニッポンぶらり鉄道旅",
+  "fullTitle": "ニッポンぶらり鉄道旅　🈟",
+  "detail": "",
+  "start": 1649307900000,
+  "end": 1649309700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
