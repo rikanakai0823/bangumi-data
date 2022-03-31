@@ -1,0 +1,23 @@
+{
+  "id": "idvj714",
+  "category": "anime",
+  "title": "アニメプラス",
+  "fullTitle": "アニメプラス",
+  "detail": "",
+  "start": 1649412000000,
+  "end": 1649413800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
