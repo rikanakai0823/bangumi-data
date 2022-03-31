@@ -1,0 +1,25 @@
+{
+  "id": "381jqz4j9t",
+  "category": "hobby",
+  "title": "みいつけた！新年度の紹介",
+  "fullTitle": "みいつけた！新年度の紹介🈑",
+  "detail": "４月から夕方の放送時間が変わり、新しいコーナーもいろいろ登場する「みいつけた！」を紹介します。",
+  "start": 1648683600000,
+  "end": 1648683900000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "みいつけた！",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
