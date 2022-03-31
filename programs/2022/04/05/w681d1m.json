@@ -2,7 +2,7 @@
   "id": "w681d1m",
   "category": "anime",
   "title": "CUE! 特番",
-  "fullTitle": "CUE! 特番",
+  "fullTitle": "CUE! 特番 🈑",
   "detail": "この時間は「CUE!」特番を放送いたします",
   "start": 1649160000000,
   "end": 1649161800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "CUE!",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
