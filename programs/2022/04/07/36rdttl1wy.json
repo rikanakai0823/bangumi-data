@@ -1,12 +1,19 @@
 {
   "id": "36rdttl1wy",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "title": "洋楽天国＋▽激シブロック特集",
+  "fullTitle": "洋楽天国＋▽激シブロック特集",
+  "detail": "レジェンド級ロック・アーティスト、バンドを大特集！\n◇番組内容\n素晴らしいキャリアを重ね、長きにわたり第一線で活躍を続けるロック・アーティスト、ロック・バンドのミュージックビデオを紹介！\n◇選曲１\n\"Move\"SANTANA, ROB THOMAS & AMERICAN AUTHORS　ALBUM「Blessings and Miracles」\r\n\"If It's Love\"STING　ALBUM「The Bridge」\r\n\"Everything’s Electric\"LIAM GALLAGHER　ALBUM「C'mon You Know」\n◇選曲２\n\"Rock Believer\"SCORPIONS　ALBUM「Rock Believer」\r\n\"Magnificent Hurt\"ELVIS COSTELLO & THE IMPOSTERS　ALBUM「The Boy Named If」\n◇選曲３\n\"So Happy It Hurts\"BRYAN ADAMS　ALBUM「So Happy It Hurts」\r\n\"Black Summer\"RED HOT CHILI PEPPERS　ALBUM「Unlimited Love」",
   "start": 1649293200000,
   "end": 1649295000000,
   "seconds": 1800,
+  "description": "レジェンド級ロック・アーティスト、バンドを大特集！",
+  "extra": {
+    "番組内容": "素晴らしいキャリアを重ね、長きにわたり第一線で活躍を続けるロック・アーティスト、ロック・バンドのミュージックビデオを紹介！",
+    "選曲１": "\"Move\"SANTANA, ROB THOMAS & AMERICAN AUTHORS　ALBUM「Blessings and Miracles」\r\n\"If It's Love\"STING　ALBUM「The Bridge」\r\n\"Everything’s Electric\"LIAM GALLAGHER　ALBUM「C'mon You Know」",
+    "選曲２": "\"Rock Believer\"SCORPIONS　ALBUM「Rock Believer」\r\n\"Magnificent Hurt\"ELVIS COSTELLO & THE IMPOSTERS　ALBUM「The Boy Named If」",
+    "選曲３": "\"So Happy It Hurts\"BRYAN ADAMS　ALBUM「So Happy It Hurts」\r\n\"Black Summer\"RED HOT CHILI PEPPERS　ALBUM「Unlimited Love」"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
