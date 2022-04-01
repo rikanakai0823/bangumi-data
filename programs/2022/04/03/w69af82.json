@@ -1,12 +1,12 @@
 {
   "id": "w69af82",
-  "category": "sports",
-  "title": "World Sport",
-  "fullTitle": "World Sport",
-  "detail": "欧州サッカー、米4大スポーツのNFL、MLB、NBA、NHLはもちろん、ラグビー、ゴルフ、テニスまで、世界の人気スポーツの最新結果はこの番組でチェック！",
+  "category": "news",
+  "title": "CNNニュースルーム",
+  "fullTitle": "CNNニュースルーム",
+  "detail": "専門家の分析を交え世界のニュースを検証。ヘッドラインを飾るニュースと最新情報を、各分野の専門家の分析とともに判りやすく解説する報道・情報番組",
   "start": 1648933200000,
-  "end": 1648935000000,
-  "seconds": 1800,
+  "end": 1648936800000,
+  "seconds": 3600,
   "channel": {
     "type": "CS",
     "channel": "CS6",

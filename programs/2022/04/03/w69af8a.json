@@ -1,9 +1,9 @@
 {
   "id": "w69af8a",
-  "category": "hobby",
-  "title": "African Voices",
-  "fullTitle": "🈔African Voices🈞",
-  "detail": "日本語同時通訳付。\r\n世界的に活躍するアフリカ各国の話題の人物に、ロング・インタビュー。",
+  "category": "documentary",
+  "title": "アフリカ　ビジネス最前線",
+  "fullTitle": "🈚🈔アフリカ　ビジネス最前線🈞",
+  "detail": "#16 ドバイ万博で注目を集めたビジネス。アフリカ大陸自由貿易圏を背景に、テキスタイルやダイアモンド、物流や食糧など、大陸全土で事業展開をする起業家に取材。",
   "start": 1648953000000,
   "end": 1648954800000,
   "seconds": 1800,
@@ -18,8 +18,9 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": 1,
+  "episode": 16,
   "flags": [
+    "無",
     "二",
     "再"
   ]
