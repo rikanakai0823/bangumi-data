@@ -1,0 +1,23 @@
+{
+  "id": "idp1x4e",
+  "category": "sports",
+  "title": "Ｖリーグ２０２１－２２　男子ファイナル３",
+  "fullTitle": "Ｖリーグ２０２１－２２　男子ファイナル３",
+  "detail": "",
+  "start": 1649494800000,
+  "end": 1649496600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
