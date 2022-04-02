@@ -1,0 +1,26 @@
+{
+  "id": "rktcxqw",
+  "category": "music",
+  "title": "Ｋ－ＰＯＰ　Ｗｏｒｌｄ　Ｆｅｓｔｉｖａｌ　２０２１",
+  "fullTitle": "Ｋ－ＰＯＰ　Ｗｏｒｌｄ　Ｆｅｓｔｉｖａｌ　２０２１　[字][新]",
+  "detail": "日本初放送！MONSTA X、Stray Kids、ATEEZ、THE BOYZら出演！世界各国のK-POPカバーダンスチームがパフォーマンスを披露し、最終決戦を行うK-POPフェスティバル！",
+  "start": 1649579400000,
+  "end": 1649585700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}

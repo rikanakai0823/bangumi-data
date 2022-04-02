@@ -1,0 +1,23 @@
+{
+  "id": "w63cmep",
+  "category": "sports",
+  "title": "[プロ野球]阪神×広島（甲子園）",
+  "fullTitle": "[プロ野球]阪神×広島（甲子園）",
+  "detail": "（延長時、以降の番組変更繰り下げあり）\r\nGAORAプロ野球中継\r\n阪神 vs 広島（4.10）\r\n解説:濱中治\r\n実況:中井雅之\r\nリポーター:村田匡輝",
+  "start": 1649583000000,
+  "end": 1649599200000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
