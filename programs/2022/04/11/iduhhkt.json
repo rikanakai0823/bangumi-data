@@ -1,0 +1,26 @@
+{
+  "id": "iduhhkt",
+  "category": "cinema",
+  "title": "エントラップメント（字幕版）",
+  "fullTitle": "🈙エントラップメント（字幕版）🅍",
+  "detail": "名優Ｓ・コネリーが怪盗老紳士を演じ、人気女優Ｃ・ゼタ＝ジョーンズと共演した犯罪アクション。一流の怪盗と彼を捕らえようとする保険調査員が、息詰まる駆け引きを展開。",
+  "start": 1649678400000,
+  "end": 1649685600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

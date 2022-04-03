@@ -1,0 +1,23 @@
+{
+  "id": "idozu3t",
+  "category": "sports",
+  "title": "カーリング男子世界選手権",
+  "fullTitle": "カーリング男子世界選手権",
+  "detail": "",
+  "start": 1649635200000,
+  "end": 1649641800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

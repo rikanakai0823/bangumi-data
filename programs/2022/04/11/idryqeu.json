@@ -1,0 +1,23 @@
+{
+  "id": "idryqeu",
+  "category": "information",
+  "title": "Ａの伝言　＃128",
+  "fullTitle": "Ａの伝言　＃128",
+  "detail": "今日までの“過去”から明日という“未来”へ向けて…。BS朝日からの未来への伝言。最新のムーブメントや、いま一番注目したいイベント情報などを紹介する。",
+  "start": 1649688840000,
+  "end": 1649689200000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 128,
+  "flags": []
+}

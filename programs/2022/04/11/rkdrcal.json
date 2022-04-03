@@ -1,0 +1,23 @@
+{
+  "id": "rkdrcal",
+  "category": "information",
+  "title": "リストランテアルポルト　片岡宏之シェフ　バラエティ頒布会",
+  "fullTitle": "リストランテアルポルト　片岡宏之シェフ　バラエティ頒布会",
+  "detail": "片岡シェフのこだわりグルメを月替わりで楽しめる初の頒布会。新商品のピラフやハンバーグ、グラタンも要チェック！",
+  "start": 1649631600000,
+  "end": 1649635200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
