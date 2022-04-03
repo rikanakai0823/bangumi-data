@@ -3,10 +3,14 @@
   "category": "music",
   "title": "Hello! Project ひなフェス「つばきファクトリー & BEYOOOOONDS プレミアム」",
   "fullTitle": "[生]Hello! Project ひなフェス「つばきファクトリー & BEYOOOOONDS プレミアム」",
-  "detail": "【ハロプロWEEK】Hello! Project ひなフェス 「つばきファクトリー & BEYOOOOONDS プレミアム」独占生中継\r\n※延長の場合あり\r\n※お問合せ：0570-0555-77（10時～20時）",
+  "detail": "【ハロプロWEEK】Hello! Project ひなフェス 「つばきファクトリー & BEYOOOOONDS プレミアム」独占生中継\r\n※延長の場合あり\r\n※お問合せ：0570-0555-77（10時～20時）\n◇番組内容\n＜CSテレ朝チャンネル×スカパー！ Presents 「ハロー！プロジェクトSpecial Week」＞\r\n\r\n「Hello! Project ひなフェス 2022」から\r\nHello! Project ひなフェス 「つばきファクトリー & BEYOOOOONDS プレミアム」を独占生中継！",
   "start": 1648954800000,
   "end": 1648963800000,
   "seconds": 9000,
+  "description": "【ハロプロWEEK】Hello! Project ひなフェス 「つばきファクトリー & BEYOOOOONDS プレミアム」独占生中継\r\n※延長の場合あり\r\n※お問合せ：0570-0555-77（10時～20時）",
+  "extra": {
+    "番組内容": "＜CSテレ朝チャンネル×スカパー！ Presents 「ハロー！プロジェクトSpecial Week」＞\r\n\r\n「Hello! Project ひなフェス 2022」から\r\nHello! Project ひなフェス 「つばきファクトリー & BEYOOOOONDS プレミアム」を独占生中継！"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS2",
