@@ -1,0 +1,26 @@
+{
+  "id": "3826py65tk",
+  "category": "anime",
+  "title": "おそ松さん",
+  "fullTitle": "おそ松さん🈞🈕",
+  "detail": "「あけおめ松さん」",
+  "start": 1649091600000,
+  "end": 1649093400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "あけおめ松さん",
+  "episode": 1,
+  "flags": [
+    "再",
+    "多"
+  ]
+}
