@@ -1,0 +1,23 @@
+{
+  "id": "w681d7k",
+  "category": "anime",
+  "title": "R指定アニメ！ #10",
+  "fullTitle": "R指定アニメ！ #10",
+  "detail": "【再放送】\r\n#10 『薄桜鬼』シリーズ生放送スペシャル",
+  "start": 1649707200000,
+  "end": 1649710800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "再放送",
+  "episode": 10,
+  "flags": []
+}

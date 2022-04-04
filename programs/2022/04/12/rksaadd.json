@@ -1,0 +1,23 @@
+{
+  "id": "rksaadd",
+  "category": "anime",
+  "title": "【ドラえもん1983-84年一挙放送】",
+  "fullTitle": "【ドラえもん1983-84年一挙放送】",
+  "detail": "#105・106・108-112\r\n#105「恐竜が出た！！（前）／恐竜が出た！！（後）／決心コンクリート」ほか",
+  "start": 1649691000000,
+  "end": 1649703600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 105,
+  "flags": []
+}

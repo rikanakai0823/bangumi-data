@@ -1,0 +1,25 @@
+{
+  "id": "rkuntxs",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#30,#31[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#30,#31[二][字/日英]",
+  "detail": "#30「ぼくだってわかってる」　#31「学校に行く日」",
+  "start": 1649725200000,
+  "end": 1649727000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ぼくだってわかってる",
+  "episode": 30,
+  "flags": [
+    "二"
+  ]
+}

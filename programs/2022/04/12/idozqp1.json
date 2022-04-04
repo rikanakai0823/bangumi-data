@@ -1,0 +1,26 @@
+{
+  "id": "idozqp1",
+  "category": "sports",
+  "title": "プロ野球２０２２「ソフトバンク」対「ロッテ」",
+  "fullTitle": "プロ野球２０２２「ソフトバンク」対「ロッテ」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】藤川球児，【アナウンサー】渡辺憲司　～長崎県営野球場から中継～",
+  "start": 1649754000000,
+  "end": 1649766600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ロッテ",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
