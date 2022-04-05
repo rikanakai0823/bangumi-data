@@ -1,0 +1,23 @@
+{
+  "id": "rlm42m0",
+  "category": "sports",
+  "title": "Jリーグラボ傑作選 #4",
+  "fullTitle": "Jリーグラボ傑作選 #4",
+  "detail": "Jリーグラボ傑作選 #4",
+  "start": 1649842200000,
+  "end": 1649843400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}
