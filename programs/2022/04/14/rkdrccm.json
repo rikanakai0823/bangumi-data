@@ -1,0 +1,23 @@
+{
+  "id": "rkdrccm",
+  "category": "information",
+  "title": "肉の専門店！米久美味しさいっぱい頒布会",
+  "fullTitle": "肉の専門店！米久美味しさいっぱい頒布会",
+  "detail": "「米久」の人気商品を堪能できるスペシャルな頒布会。毎日の食卓にあると嬉しい美味しさ自慢のグルメをこの機会に！",
+  "start": 1649880000000,
+  "end": 1649883600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "米久",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocd83o9",
+  "category": "variety",
+  "title": "日テレ＋「まもなくＤＴ」",
+  "fullTitle": "日テレ＋「まもなくＤＴ」🈑",
+  "detail": "",
+  "start": 1649940840000,
+  "end": 1649941200000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "まもなくＤＴ",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
