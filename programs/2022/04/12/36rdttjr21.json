@@ -3,13 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"West Coast\"ONEREPUBLIC from Singel「West Coast」\r\n\"luv starved\"GAYLE from Album 「a study of the human experience volume one」\r\n\"After You\"GRYFFIN & JASON ROSS feat.CALLE LEHMANN from Singel 「After You」\n◇番組内容２\n\"Let The Grass Grow (Visualizer)\"RUEL from Singel 「Let The Grass Grow」\r\n\"The Most Beautiful Girl In The World\"PRINCE from Album 「The Gold Experience」\n◇番組内容３\n\"The Outside\"twenty one pilots from Album 「Scaled And Icy」",
   "start": 1649689200000,
   "end": 1649691000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"West Coast\"ONEREPUBLIC from Singel「West Coast」\r\n\"luv starved\"GAYLE from Album 「a study of the human experience volume one」\r\n\"After You\"GRYFFIN & JASON ROSS feat.CALLE LEHMANN from Singel 「After You」",
+    "番組内容２": "\"Let The Grass Grow (Visualizer)\"RUEL from Singel 「Let The Grass Grow」\r\n\"The Most Beautiful Girl In The World\"PRINCE from Album 「The Gold Experience」",
+    "番組内容３": "\"The Outside\"twenty one pilots from Album 「Scaled And Icy」"
   },
   "channel": {
     "type": "GR",
