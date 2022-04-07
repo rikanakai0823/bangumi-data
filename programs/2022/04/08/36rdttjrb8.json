@@ -1,12 +1,16 @@
 {
   "id": "36rdttjrb8",
   "category": "music",
-  "title": "音楽缶",
-  "fullTitle": "音楽缶",
-  "detail": "　",
+  "title": "音楽缶▽ｍｉｕ▽Ｙａｆｆｌｅ▽ＢＥＹＯＯＯＯＯＮＤＳ▽水曜日のカンパネラ",
+  "fullTitle": "音楽缶▽ｍｉｕ▽Ｙａｆｆｌｅ▽ＢＥＹＯＯＯＯＯＮＤＳ▽水曜日のカンパネラ",
+  "detail": "最新のミュージックビデオをノーカットで紹介\n◇おしらせ\n詳しくはＨＰをチェック！\r\nhttp://www.tvk-yokohama.com/ongakukan/index2.php",
   "start": 1649388600000,
   "end": 1649390100000,
   "seconds": 1500,
+  "description": "最新のミュージックビデオをノーカットで紹介",
+  "extra": {
+    "おしらせ": "詳しくはＨＰをチェック！\r\nhttp://www.tvk-yokohama.com/ongakukan/index2.php"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",

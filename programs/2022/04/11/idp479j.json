@@ -1,0 +1,23 @@
+{
+  "id": "idp479j",
+  "category": "cinema",
+  "title": "プレミアムシネマ",
+  "fullTitle": "プレミアムシネマ",
+  "detail": "",
+  "start": 1649678400000,
+  "end": 1649685000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
