@@ -1,0 +1,23 @@
+{
+  "id": "w63cmha",
+  "category": "sports",
+  "title": "[ゴルフ]the Golf ザ★ゴルフ #4",
+  "fullTitle": "[ゴルフ]the Golf ザ★ゴルフ #4",
+  "detail": "一味違う新しいゴルフ番組!現在ゴルフをしている人だけでなく、これからゴルフを始めたいと考えている人も必見！",
+  "start": 1649970000000,
+  "end": 1649971800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}

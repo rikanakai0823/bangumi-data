@@ -1,0 +1,25 @@
+{
+  "id": "idryqiz",
+  "category": "anime",
+  "title": "ドラえもん　「いただき小ばん」「どくさいスイッチ」",
+  "fullTitle": "🈑ドラえもん　「いただき小ばん」「どくさいスイッチ」",
+  "detail": "歩かないでもどこでもいける!?「いただき小ばん」じゃま者は消してしまえ!!「どくさいスイッチ」",
+  "start": 1650016800000,
+  "end": 1650018600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "どくさいスイッチ",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

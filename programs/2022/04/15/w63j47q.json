@@ -1,0 +1,23 @@
+{
+  "id": "w63j47q",
+  "category": "sports",
+  "title": "第1回スケートボード日本OPEN",
+  "fullTitle": "第1回スケートボード日本OPEN",
+  "detail": "ストリート・決勝　4月3日開催　～三重県・松阪市総合運動公園スケートパーク\r\nパーク・決勝　4月10日開催　～神奈川県・鵠沼海浜公園スケートパーク",
+  "start": 1650011400000,
+  "end": 1650025800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

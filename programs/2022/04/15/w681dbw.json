@@ -1,0 +1,26 @@
+{
+  "id": "w681dbw",
+  "category": "anime",
+  "title": "東京24区 #12",
+  "fullTitle": "東京24区 #12 🈡🈑",
+  "detail": "",
+  "start": 1650009600000,
+  "end": 1650011400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "🈡🈑",
+  "episode": 12,
+  "flags": [
+    "終",
+    "字"
+  ]
+}
