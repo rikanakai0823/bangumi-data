@@ -1,0 +1,25 @@
+{
+  "id": "w63j47x",
+  "category": "sports",
+  "title": "日テレゴルフ中継 甦る名勝負1987年コニカカップ ワールドレディス",
+  "fullTitle": "日テレゴルフ中継 甦る名勝負(2)1987年コニカカップ ワールドレディス[再]",
+  "detail": "【優勝 岡本綾子】\r\n米国から凱旋帰国した岡本綾子が、貫録のV",
+  "start": 1650052800000,
+  "end": 1650060000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "優勝 岡本綾子",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxcbbb",
+  "category": "sports",
+  "title": "【PPS】SPASHAN presents RIZIN TRIGGER 3rd",
+  "fullTitle": "【PPS】🈢SPASHAN presents RIZIN TRIGGER 3rd",
+  "detail": "2015年末に誕生した史上最大の格闘技フェデレーション『RIZIN』",
+  "start": 1650085200000,
+  "end": 1650114000000,
+  "seconds": 28800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

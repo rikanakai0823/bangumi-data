@@ -1,0 +1,25 @@
+{
+  "id": "rksaagk",
+  "category": "sports",
+  "title": "カーリング グランドスラム Players' Championship 大会4日目",
+  "fullTitle": "[生]カーリング グランドスラム Players' Championship 大会4日目",
+  "detail": "五輪銀メダリストのロコ・ソラーレが参戦！世界トップランクのチームだけが招待されるグランドスラム。その中からロコ・ソラーレの試合を生中継！\r\n※延長の場合あり",
+  "start": 1650067200000,
+  "end": 1650078000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
