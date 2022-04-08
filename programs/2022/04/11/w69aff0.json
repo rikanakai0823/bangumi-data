@@ -1,9 +1,9 @@
 {
   "id": "w69aff0",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組🈞",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "特別番組：ドバイ万博跡地の未来都市",
+  "fullTitle": "特別番組：ドバイ万博跡地の未来都市🈞",
+  "detail": "ドバイ万博会場跡地の設備を再利用した都市開発計画が「District 2020」。スマート化、サステナビリティなどを目的とした未来都市を形づくる最新技術を紹介。",
   "start": 1649626200000,
   "end": 1649628000000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "",
+  "subTitle": "District 2020",
   "episode": 1,
   "flags": [
     "再"
