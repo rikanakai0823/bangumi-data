@@ -1,0 +1,25 @@
+{
+  "id": "idsoath",
+  "category": "news",
+  "title": "Ｂｉｚスクエア",
+  "fullTitle": "🈑Ｂｉｚスクエア",
+  "detail": "エネルギー価格高騰を受けた新電力の破たんは１４件と過去最多に。新電力が直面する問題、破たん新電力と契約する企業の困惑などを緊急取材した。",
+  "start": 1649469600000,
+  "end": 1649472840000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
