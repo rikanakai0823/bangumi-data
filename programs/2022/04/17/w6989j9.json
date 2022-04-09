@@ -1,0 +1,25 @@
+{
+  "id": "w6989j9",
+  "category": "documentary",
+  "title": "ウェザー・ワールド",
+  "fullTitle": "ウェザー・ワールド(再)",
+  "detail": "今回、サラ・キース・ルーカスとニック・ミラーはワイト島を訪れる。2月に3つの暴風雨が相次いでイギリスを襲い、この島では最大風速54メートルの強風が記録された。",
+  "start": 1650180600000,
+  "end": 1650182400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

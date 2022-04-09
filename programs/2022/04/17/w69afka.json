@@ -1,0 +1,25 @@
+{
+  "id": "w69afka",
+  "category": "news",
+  "title": "特別番組",
+  "fullTitle": "特別番組🈞",
+  "detail": "番組内容が決まり次第お知らせします。",
+  "start": 1650171600000,
+  "end": 1650173400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

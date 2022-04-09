@@ -1,0 +1,23 @@
+{
+  "id": "3826py41ox",
+  "category": "information",
+  "title": "テレ東オススメ",
+  "fullTitle": "テレ東オススメ",
+  "detail": "テレビ東京お薦めのエンタメ情報をお届け！映画・イベント・ＤＶＤなどを紹介します！",
+  "start": 1650132600000,
+  "end": 1650132900000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

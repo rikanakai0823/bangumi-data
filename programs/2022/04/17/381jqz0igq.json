@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0igq",
+  "category": "hobby",
+  "title": "将棋フォーカス",
+  "fullTitle": "将棋フォーカス🈑",
+  "detail": "",
+  "start": 1650157200000,
+  "end": 1650159000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

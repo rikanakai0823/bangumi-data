@@ -1,0 +1,23 @@
+{
+  "id": "idozvb6",
+  "category": "sports",
+  "title": "Ｖリーグ２０２１－２２　男子ファイナル第２戦",
+  "fullTitle": "Ｖリーグ２０２１－２２　男子ファイナル第２戦",
+  "detail": "",
+  "start": 1650171600000,
+  "end": 1650180600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

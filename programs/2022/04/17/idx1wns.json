@@ -1,0 +1,23 @@
+{
+  "id": "idx1wns",
+  "category": "music",
+  "title": "あんさんぶるスターズ！Starry Stage 2nd【昼の部】",
+  "fullTitle": "あんさんぶるスターズ！Starry Stage 2nd【昼の部】",
+  "detail": "2019年1月13日に開催された『あんさんぶるスターズ！Starry Stage 2nd ～in 日本武道館～』の“昼の部”の模様を放送…",
+  "start": 1650204000000,
+  "end": 1650216300000,
+  "seconds": 12300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "昼の部",
+  "episode": 1,
+  "flags": []
+}
