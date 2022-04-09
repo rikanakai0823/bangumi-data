@@ -1,0 +1,25 @@
+{
+  "id": "38224jxlep",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "民教協（民間放送教育協会）とは？\r\nテレビドキュメンタリーの意味と今年のスペシャル番組「ハマのドン 最後の闘い」をダイジェスト版で紹介します。",
+  "start": 1649534400000,
+  "end": 1649535600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjt",
+    "sid": 1065,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
