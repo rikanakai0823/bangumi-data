@@ -1,0 +1,25 @@
+{
+  "id": "idp1xr8",
+  "category": "news",
+  "title": "週刊ワールドニュース",
+  "fullTitle": "週刊ワールドニュース🈔",
+  "detail": "戦闘状況、安全保障の枠組みの変化、世界経済への影響。ウクライナ情勢について各国メディアは多様な視点から伝えている。世界の放送局のニュースを基に一週間を振り返る。",
+  "start": 1649515200000,
+  "end": 1649518200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
