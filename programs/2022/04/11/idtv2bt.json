@@ -1,0 +1,23 @@
+{
+  "id": "idtv2bt",
+  "category": "information",
+  "title": "ディレクタステレビショッピング",
+  "fullTitle": "ディレクタステレビショッピング",
+  "detail": "",
+  "start": 1649611800000,
+  "end": 1649613600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
