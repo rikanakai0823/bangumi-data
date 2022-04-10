@@ -1,0 +1,23 @@
+{
+  "id": "idsm5pi",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「日本ハム　ｖｓ　楽天」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「日本ハム　ｖｓ　楽天」",
+  "detail": "札幌から生中継。午後２時試合開始。\r\n【解説】槙原寛己【実況】土井敏之\r\n",
+  "start": 1649566800000,
+  "end": 1649577240000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "日本ハム　ｖｓ　楽天",
+  "episode": 1,
+  "flags": []
+}
