@@ -1,0 +1,25 @@
+{
+  "id": "idp46tj",
+  "category": "documentary",
+  "title": "富士山・幻のオーロラ",
+  "fullTitle": "富士山・幻のオーロラ🈑",
+  "detail": "【語り】久保田祐佳",
+  "start": 1650223500000,
+  "end": 1650223800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "語り",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

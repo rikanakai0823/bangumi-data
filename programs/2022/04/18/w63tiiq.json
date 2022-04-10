@@ -1,0 +1,25 @@
+{
+  "id": "w63tiiq",
+  "category": "sports",
+  "title": "2022 関西オープンゴルフ選手権競技 最終日",
+  "fullTitle": "[初]2022 関西オープンゴルフ選手権競技 最終日",
+  "detail": "日本最古のオープントーナメントである関西オープン選手権。今年で87回目の開催となる。",
+  "start": 1650283200000,
+  "end": 1650290400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 99
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

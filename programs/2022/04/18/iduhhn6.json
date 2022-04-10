@@ -1,0 +1,27 @@
+{
+  "id": "iduhhn6",
+  "category": "cinema",
+  "title": "ゾッキ",
+  "fullTitle": "🈙ゾッキ🅍🈑",
+  "detail": "竹中直人×山田孝之×齊藤工が共同で監督し、吉岡里帆、松田龍平ら豪華出演陣を迎え、大橋裕之のコミックを映画化。メイキングドキュメンタリー「裏ゾッキ」も楽しみたい。",
+  "start": 1650268800000,
+  "end": 1650276000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "裏ゾッキ",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

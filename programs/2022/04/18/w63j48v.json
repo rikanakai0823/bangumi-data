@@ -1,0 +1,25 @@
+{
+  "id": "w63j48v",
+  "category": "sports",
+  "title": "超ジャイアンツ",
+  "fullTitle": "[生]超ジャイアンツ(3)",
+  "detail": "～生放送",
+  "start": 1650279600000,
+  "end": 1650283200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

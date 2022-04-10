@@ -1,0 +1,23 @@
+{
+  "id": "rlm42lh",
+  "category": "sports",
+  "title": "21/22 ドイツ ブンデスリーガ ハイライト #29",
+  "fullTitle": "21/22 ドイツ ブンデスリーガ ハイライト #29",
+  "detail": "その節に行われたブンデスリーガの試合のハイライトを凝縮してお届け！",
+  "start": 1650212400000,
+  "end": 1650216000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 29,
+  "flags": []
+}
