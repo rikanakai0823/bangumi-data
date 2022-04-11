@@ -1,0 +1,23 @@
+{
+  "id": "idp47pc",
+  "category": "drama",
+  "title": "５分でわかる「今度生まれたら」",
+  "fullTitle": "５分でわかる「今度生まれたら」",
+  "detail": "",
+  "start": 1650362100000,
+  "end": 1650362400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "今度生まれたら",
+  "episode": 1,
+  "flags": []
+}

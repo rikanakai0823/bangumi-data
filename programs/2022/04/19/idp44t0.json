@@ -1,0 +1,23 @@
+{
+  "id": "idp44t0",
+  "category": "music",
+  "title": "さわやかウインドー「富士のある風景」",
+  "fullTitle": "さわやかウインドー「富士のある風景」",
+  "detail": "",
+  "start": 1650303000000,
+  "end": 1650304800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "富士のある風景",
+  "episode": 1,
+  "flags": []
+}

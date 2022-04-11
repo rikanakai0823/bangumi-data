@@ -1,0 +1,25 @@
+{
+  "id": "rkunu73",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#40,#41[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#40,#41[二][字/日英]",
+  "detail": "#40「眠れない」　#41「仲良くなりたい」",
+  "start": 1650330000000,
+  "end": 1650331800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "眠れない",
+  "episode": 40,
+  "flags": [
+    "二"
+  ]
+}
