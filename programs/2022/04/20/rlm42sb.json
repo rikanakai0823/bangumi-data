@@ -1,0 +1,23 @@
+{
+  "id": "rlm42sb",
+  "category": "music",
+  "title": "列車で旅する歌謡曲～TRAIN and RAILWAY MUSIC #3",
+  "fullTitle": "列車で旅する歌謡曲～TRAIN and RAILWAY MUSIC #3",
+  "detail": "全国のローカル鉄道に車載カメラを搭載し「前面映像」をメインに収録。昭和を彩ったご当地歌謡曲をＢＧＭにした誰もが楽しめる鉄道ｘ音楽番組です。",
+  "start": 1650391200000,
+  "end": 1650394800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "前面映像",
+  "episode": 3,
+  "flags": []
+}
