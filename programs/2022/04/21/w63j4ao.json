@@ -1,0 +1,25 @@
+{
+  "id": "w63j4ao",
+  "category": "sports",
+  "title": "第4回日本スケートボード選手権大会 BS版",
+  "fullTitle": "第4回日本スケートボード選手権大会 BS版[再]",
+  "detail": "～笠間芸術の森公園内スケートパーク\r\n解説：上田豪（プロスケートボーダー）",
+  "start": 1650502800000,
+  "end": 1650511800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": [
+    "再"
+  ]
+}

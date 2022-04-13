@@ -1,0 +1,23 @@
+{
+  "id": "rkdrchl",
+  "category": "information",
+  "title": "フレア　シアカーデブルゾン",
+  "fullTitle": "フレア　シアカーデブルゾン",
+  "detail": "流行のシア素材を使った新しいタイプのブルゾンが登場。カーディガン感覚で羽織れるので、春夏のお出かけに重宝します。",
+  "start": 1650517200000,
+  "end": 1650520800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w693qao",
+  "category": "news",
+  "title": "TBS NEWSプレミアム",
+  "fullTitle": "TBS NEWSプレミアム🈑",
+  "detail": "ＴＢＳＮＥＷＳのネット向けコンテンツ。「ニュースの新たなカタチ」を４ラインナップで。ＳＨＡＲＥ／ＷＯＲＬＤＮＯＷ／経済の話で困ったときにみるやつ／あかさか実験室",
+  "start": 1650542400000,
+  "end": 1650546000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳ　ＮＥＷＳ",
+    "id": "f0e7",
+    "sid": 351,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "ニュースの新たなカタチ",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
