@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "ＢＥ：ＦＩＲＳＴ　ＴＶ",
   "fullTitle": "ＢＥ：ＦＩＲＳＴ　ＴＶ🈑",
-  "detail": "",
+  "detail": "BE:FIRST初の地上波冠番組！BE:FIRSTがいろんな “１番＝ファースト”の所へ行き、その真髄を学びます！毎回この番組だけのスぺシャルパフォーマンスも！\n◇出演者\nBE:FIRST（SOTA、SHUNTO、MANATO、RYUHEI、JUNON、RYOKI、LEO）\r\n佐藤隆太",
   "start": 1650087000000,
   "end": 1650088800000,
   "seconds": 1800,
+  "description": "BE:FIRST初の地上波冠番組！BE:FIRSTがいろんな “１番＝ファースト”の所へ行き、その真髄を学びます！毎回この番組だけのスぺシャルパフォーマンスも！",
+  "extra": {
+    "出演者": "BE:FIRST（SOTA、SHUNTO、MANATO、RYUHEI、JUNON、RYOKI、LEO）\r\n佐藤隆太"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
