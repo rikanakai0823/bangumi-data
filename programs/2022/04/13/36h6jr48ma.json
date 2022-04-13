@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr48ma",
+  "category": "documentary",
+  "title": "ＭＩＤＴＶ",
+  "fullTitle": "ＭＩＤＴＶ🅂",
+  "detail": "乗馬クラブ（第３回）",
+  "start": 1649853900000,
+  "end": 1649854800000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "S"
+  ]
+}
