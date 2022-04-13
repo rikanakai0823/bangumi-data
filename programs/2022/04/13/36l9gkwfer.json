@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwfer",
+  "category": "information",
+  "title": "生活情報【内容】どろあわわ",
+  "fullTitle": "生活情報【内容】どろあわわ",
+  "detail": "【内容】どろあわわ\r\n【電話】0120-092-828",
+  "start": 1649808000000,
+  "end": 1649809800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
