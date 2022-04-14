@@ -1,12 +1,12 @@
 {
   "id": "w69afkj",
-  "category": "news",
-  "title": "ニュー・デイ・サンデー",
-  "fullTitle": "🈔ニュー・デイ・サンデー",
-  "detail": "日本語同時通訳付。\r\nアメリカの「朝」を直送。\r\n最新ニュースを伝えるモーニング・ワイド。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "🈔Living Golf🈞",
+  "detail": "#207 アフリカ特集。ケニア南東部にある、PGA認定のバオバブコースを紹介。欧州女子ツアーにナイジェリアから初参戦のジョージア・オボにインタビュー。",
   "start": 1650193200000,
-  "end": 1650196800000,
-  "seconds": 3600,
+  "end": 1650195000000,
+  "seconds": 1800,
   "channel": {
     "type": "CS",
     "channel": "CS6",
@@ -18,8 +18,9 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": 1,
+  "episode": 207,
   "flags": [
-    "二"
+    "二",
+    "再"
   ]
 }

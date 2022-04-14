@@ -1,12 +1,12 @@
 {
   "id": "w69afjl",
-  "category": "news",
-  "title": "ニュー・デイ・サタデー",
-  "fullTitle": "🈔ニュー・デイ・サタデー",
-  "detail": "日本語同時通訳付。\r\nアメリカの「朝」を直送。\r\n最新ニュースを伝えるモーニング・ワイド。",
+  "category": "documentary",
+  "title": "クエストの世界都市紀行",
+  "fullTitle": "🈔クエストの世界都市紀行",
+  "detail": "#33 ダラス。米テキサス州の人気都市ダラス。NFLの名門ダラス・カウボーイズの魅力に迫る。畜牛の売上高、全米1位を誇る牧場を訪問。本場のBBQを堪能。",
   "start": 1650110400000,
-  "end": 1650114000000,
-  "seconds": 3600,
+  "end": 1650112200000,
+  "seconds": 1800,
   "channel": {
     "type": "CS",
     "channel": "CS6",
@@ -18,7 +18,7 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": 1,
+  "episode": 33,
   "flags": [
     "二"
   ]
