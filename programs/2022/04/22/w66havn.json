@@ -1,0 +1,25 @@
+{
+  "id": "w66havn",
+  "category": "sports",
+  "title": "40thフジサンケイレディスクラシック　第1日",
+  "fullTitle": "[生]40thフジサンケイレディスクラシック　第1日",
+  "detail": "チャンピオンシップ第1日（予選ラウンド）\r\n＜開催＞2022年4月22日（金）【生中継】\r\n～川奈ホテルゴルフコース　富士コース",
+  "start": 1650603600000,
+  "end": 1650610800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

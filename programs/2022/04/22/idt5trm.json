@@ -1,0 +1,23 @@
+{
+  "id": "idt5trm",
+  "category": "documentary",
+  "title": "Ｂｅｅワールド",
+  "fullTitle": "Ｂｅｅワールド",
+  "detail": "グアテマラ編「マリンバとハリナシバチ」",
+  "start": 1650624840000,
+  "end": 1650625200000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "マリンバとハリナシバチ",
+  "episode": 1,
+  "flags": []
+}
