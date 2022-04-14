@@ -3,13 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Butter x Dynamite\"PENTATONIX\r\n\"dying on the inside\"NESSA BARRETT from Single「dying on the inside」\r\n\"Arya\"NIGO & ASAP ROCKY from Album 「I Know Nigo」\n◇番組内容２\n\"In My Head\"24K GOLDEN & TRAVIS BARKER from Single「In My Head」\r\n\"Eyes Don’t Lie\"TONES AND I from Single 「Eyes Don’t Lie」\n◇番組内容３\n\"Don’t Go Yet\"Camila Cabello from Album 「FAMILIA」\r\n\"Bam Bam feat. Ed Sheeran\"Camila Cabello from Album 「FAMILIA」",
   "start": 1650294000000,
   "end": 1650295800000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Butter x Dynamite\"PENTATONIX\r\n\"dying on the inside\"NESSA BARRETT from Single「dying on the inside」\r\n\"Arya\"NIGO & ASAP ROCKY from Album 「I Know Nigo」",
+    "番組内容２": "\"In My Head\"24K GOLDEN & TRAVIS BARKER from Single「In My Head」\r\n\"Eyes Don’t Lie\"TONES AND I from Single 「Eyes Don’t Lie」",
+    "番組内容３": "\"Don’t Go Yet\"Camila Cabello from Album 「FAMILIA」\r\n\"Bam Bam feat. Ed Sheeran\"Camila Cabello from Album 「FAMILIA」"
   },
   "channel": {
     "type": "GR",
