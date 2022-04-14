@@ -1,0 +1,23 @@
+{
+  "id": "iduffoo",
+  "category": "sports",
+  "title": "グランドスラムテニス★忘れられない瞬間を。　全豪オープンテニス２０２１",
+  "fullTitle": "グランドスラムテニス★忘れられない瞬間を。　全豪オープンテニス２０２１",
+  "detail": "",
+  "start": 1649964300000,
+  "end": 1649965200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
