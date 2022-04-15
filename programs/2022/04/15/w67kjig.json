@@ -3,10 +3,14 @@
   "category": "music",
   "title": "back number MV特集",
   "fullTitle": "back number MV特集",
-  "detail": "back numberのミュージックビデオ特集をオンエア！",
+  "detail": "back numberのミュージックビデオ特集をオンエア！\n◇【番組内容】\n『back number特集』…2011年4月6日にシングル「はなびら」でメジャーデビューし、数々の名曲を生んできたback numberのミュージックビデオ特集をオンエア！▼オンエアリストは「エムオン」で検索！",
   "start": 1650027600000,
   "end": 1650031200000,
   "seconds": 3600,
+  "description": "back numberのミュージックビデオ特集をオンエア！",
+  "extra": {
+    "【番組内容】": "『back number特集』…2011年4月6日にシングル「はなびら」でメジャーデビューし、数々の名曲を生んできたback numberのミュージックビデオ特集をオンエア！▼オンエアリストは「エムオン」で検索！"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS12",

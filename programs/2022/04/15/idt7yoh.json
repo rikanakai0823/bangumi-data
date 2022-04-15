@@ -1,0 +1,23 @@
+{
+  "id": "idt7yoh",
+  "category": "documentary",
+  "title": "Ｂｅｅワールド",
+  "fullTitle": "Ｂｅｅワールド",
+  "detail": "インド篇「壁養蜂」",
+  "start": 1650020040000,
+  "end": 1650020400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 54
+  },
+  "subTitle": "壁養蜂",
+  "episode": 1,
+  "flags": []
+}

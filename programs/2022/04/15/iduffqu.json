@@ -1,0 +1,23 @@
+{
+  "id": "iduffqu",
+  "category": "music",
+  "title": "ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃８",
+  "fullTitle": "ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃８",
+  "detail": "",
+  "start": 1650013800000,
+  "end": 1650014400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": []
+}
