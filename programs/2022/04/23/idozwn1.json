@@ -1,0 +1,23 @@
+{
+  "id": "idozwn1",
+  "category": "sports",
+  "title": "Ｊリーグタイム「Ｊ２第１１節」",
+  "fullTitle": "Ｊリーグタイム「Ｊ２第１１節」",
+  "detail": "【解説】福西崇史，【アナウンサー】早坂隆信，【司会】高階亜理沙",
+  "start": 1650718800000,
+  "end": 1650721200000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "Ｊ２第１１節",
+  "episode": 1,
+  "flags": []
+}

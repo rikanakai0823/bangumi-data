@@ -1,0 +1,23 @@
+{
+  "id": "w67idfb",
+  "category": "music",
+  "title": "ミルバ：ライヴ・イン・スイス1978",
+  "fullTitle": "ミルバ：ライヴ・イン・スイス1978",
+  "detail": "イタリアの歌手ミルバが1978年にスイスのTV番組で行ったスタジオ・ライヴ。",
+  "start": 1650679200000,
+  "end": 1650682800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ミュージック・エア",
+    "id": "f0dg",
+    "sid": 324,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

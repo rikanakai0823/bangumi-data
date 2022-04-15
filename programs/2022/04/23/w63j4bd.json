@@ -1,0 +1,25 @@
+{
+  "id": "w63j4bd",
+  "category": "sports",
+  "title": "2022MotoGP 第5戦ポルトガルGP 予選",
+  "fullTitle": "[生]2022MotoGP 第5戦ポルトガルGP 予選",
+  "detail": "～生中継　～アルガルベ(ポルティマオ)\r\n*X Gamesが延長の場合、20:45、21:00から放送の可能性あり",
+  "start": 1650713400000,
+  "end": 1650728700000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
