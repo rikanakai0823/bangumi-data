@@ -1,0 +1,25 @@
+{
+  "id": "w66ln27",
+  "category": "sports",
+  "title": "2022 FORMULA 1　第4戦 エミリア・ロマーニャGP 決勝",
+  "fullTitle": "[生]2022 FORMULA 1　第4戦 エミリア・ロマーニャGP 決勝",
+  "detail": "＜開催＞２０２２年４月２４日（日）【生中継】\r\n　～イモラサーキット\r\n＜解説＞川井一仁　片山右京\r\n＜実況＞塩原恒夫\r\n※第２音声：会場音\r\n※変更の場合あり",
+  "start": 1650802800000,
+  "end": 1650823200000,
+  "seconds": 20400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 114
+  },
+  "subTitle": "生中継",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

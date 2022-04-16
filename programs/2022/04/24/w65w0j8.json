@@ -1,0 +1,23 @@
+{
+  "id": "w65w0j8",
+  "category": "theater",
+  "title": "落語特選会「つるつる」桂文楽",
+  "fullTitle": "落語特選会「つるつる」桂文楽",
+  "detail": "地上波ＴＢＳで３０年も続いた長寿番組「落語特選会」から選りすぐりのラインアップを紹介する。今回は桂文楽の「つるつる」",
+  "start": 1650747600000,
+  "end": 1650751200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＴＢＳチャンネル２",
+    "id": "f0cp",
+    "sid": 297,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 106
+  },
+  "subTitle": "つるつる",
+  "episode": 1,
+  "flags": []
+}

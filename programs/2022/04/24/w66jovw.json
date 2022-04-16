@@ -1,0 +1,25 @@
+{
+  "id": "w66jovw",
+  "category": "variety",
+  "title": "オールナイト声優フジ5夜",
+  "fullTitle": "[生]オールナイト声優フジ5夜",
+  "detail": "番組MCは、超人気声優・森久保祥太郎！\r\n人気若手声優が集結する生放送番組第5弾！フジテレビ本社スタジオから【4時間完全生放送！】",
+  "start": 1650726000000,
+  "end": 1650740400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w6989ls",
+  "category": "documentary",
+  "title": "メディア・ショー",
+  "fullTitle": "メディア・ショー(再)",
+  "detail": "ソーシャルメディア、アンチソーシャルメディア、ニュース速報、フェイクニュースなど、激変するメディアの“今”をお届けする番組。",
+  "start": 1650727800000,
+  "end": 1650729600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
