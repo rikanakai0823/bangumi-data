@@ -3,10 +3,14 @@
   "category": "anime",
   "title": "名探偵コナン",
   "fullTitle": "名探偵コナン",
-  "detail": "未定",
+  "detail": "未定\n◇番組内容\n未定",
   "start": 1650151800000,
   "end": 1650153600000,
   "seconds": 1800,
+  "description": "未定",
+  "extra": {
+    "番組内容": "未定"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS24",
