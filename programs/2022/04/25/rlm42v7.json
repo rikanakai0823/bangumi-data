@@ -1,0 +1,23 @@
+{
+  "id": "rlm42v7",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第31節 ボルフスブルク×マインツ",
+  "fullTitle": "21/22 ブンデスリーガ 第31節 ボルフスブルク×マインツ",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2022年4月22日\r\n会場:フォルクスワーゲン アレーナ",
+  "start": 1650820800000,
+  "end": 1650829800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
