@@ -1,0 +1,23 @@
+{
+  "id": "idxcbbs",
+  "category": "music",
+  "title": "MTV Unplugged: Nogizaka46",
+  "fullTitle": "MTV Unplugged: Nogizaka46",
+  "detail": "「MTV Unplugged」に乃木坂46が出演。卒業した生田絵梨花を中心に、樋口日奈、久保史緒里、遠藤さくら、賀喜遥香が一夜限りのパフォーマンスをお届け。",
+  "start": 1650976200000,
+  "end": 1650979800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "MTV Unplugged",
+  "episode": 1,
+  "flags": []
+}
