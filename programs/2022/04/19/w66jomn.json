@@ -1,0 +1,27 @@
+{
+  "id": "w66jomn",
+  "category": "information",
+  "title": "番組ＰＲ【４月】",
+  "fullTitle": "番組ＰＲ【４月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp\n◇おしらせ\n＜お問い合わせ＞\r\nフジテレビ有料チャンネルインフォーメーションセンター\r\n０５７０－０８８－８１８\r\n\r\n受付時間 10:00～20:00（年中無休）",
+  "start": 1650376200000,
+  "end": 1650376800000,
+  "seconds": 600,
+  "description": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "extra": {
+    "おしらせ": "＜お問い合わせ＞\r\nフジテレビ有料チャンネルインフォーメーションセンター\r\n０５７０－０８８－８１８\r\n\r\n受付時間 10:00～20:00（年中無休）"
+  },
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "４月",
+  "episode": 1,
+  "flags": []
+}
