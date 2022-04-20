@@ -1,0 +1,25 @@
+{
+  "id": "idufdag",
+  "category": "theater",
+  "title": "バイきんぐ単独ライブ「ぺあ」",
+  "fullTitle": "🈠バイきんぐ単独ライブ「ぺあ」",
+  "detail": "「キングオブコント２０１２」で優勝し、「コントの王様」と呼ばれるバイきんぐが新作コント９本を披露した単独ライブをＷＯＷＯＷで放送・配信！",
+  "start": 1651071600000,
+  "end": 1651075500000,
+  "seconds": 3900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "ぺあ",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

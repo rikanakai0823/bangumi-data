@@ -1,0 +1,25 @@
+{
+  "id": "381ocda8yt",
+  "category": "music",
+  "title": "読響プレミア",
+  "fullTitle": "読響プレミア🅍",
+  "detail": "ガーシュウィン　ピアノ協奏曲　へ長",
+  "start": 1650476100000,
+  "end": 1650479700000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}
