@@ -3,13 +3,17 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Wake Me Up\"FOALS from Album「Life Is Yours」\r\n\"State Bird\"CHRISTIAN LEE HUTSON from Album 「Quitters」\r\n\"CANDY\"ROSALIA from Album 「MOTOMAMI」\n◇番組内容２\n\"MY TIME\"ARIZONA ZERVAS from Single 「MY TIME」\r\n\"MAKING TIME\"Rex Orange County from Album 「WHO CARES?」\r\n\"Naked\"FINNEAS from Single 「Naked」\n◇番組内容３\n\"emo girl\"MACHINE GUN KELLY feat. WILLOW from Album 「Mainstream Sellout」\r\n\"make up sex\"MACHINE GUN KELLY feat. blackbear from Album 「Mainstream Sellout」\n◇番組内容４\n\"maybe\"MACHINE GUN KELLY feat. BRING ME THE HORIZON from Album 「Mainstream Sellout」",
   "start": 1650898800000,
   "end": 1650900600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Wake Me Up\"FOALS from Album「Life Is Yours」\r\n\"State Bird\"CHRISTIAN LEE HUTSON from Album 「Quitters」\r\n\"CANDY\"ROSALIA from Album 「MOTOMAMI」",
+    "番組内容２": "\"MY TIME\"ARIZONA ZERVAS from Single 「MY TIME」\r\n\"MAKING TIME\"Rex Orange County from Album 「WHO CARES?」\r\n\"Naked\"FINNEAS from Single 「Naked」",
+    "番組内容３": "\"emo girl\"MACHINE GUN KELLY feat. WILLOW from Album 「Mainstream Sellout」\r\n\"make up sex\"MACHINE GUN KELLY feat. blackbear from Album 「Mainstream Sellout」",
+    "番組内容４": "\"maybe\"MACHINE GUN KELLY feat. BRING ME THE HORIZON from Album 「Mainstream Sellout」"
   },
   "channel": {
     "type": "GR",
