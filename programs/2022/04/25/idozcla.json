@@ -1,0 +1,25 @@
+{
+  "id": "idozcla",
+  "category": "documentary",
+  "title": "ＣＯＯＬ　ＪＡＰＡＮ　セレクション「干し柿」",
+  "fullTitle": "ＣＯＯＬ　ＪＡＰＡＮ　セレクション「干し柿」🈑",
+  "detail": "外国人が驚く「かっこいいニッポン」を紹介してきたＢＳ１の番組「ＣＯＯＬ　ＪＡＰＡＮ」。そのエッセンスを凝縮して伝えるミニ番組シリーズ。今回のテーマは「干し柿」。",
+  "start": 1650819300000,
+  "end": 1650819600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "干し柿",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
