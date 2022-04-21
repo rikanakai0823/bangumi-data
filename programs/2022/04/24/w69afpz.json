@@ -1,9 +1,9 @@
 {
   "id": "w69afpz",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "🈔特別番組🈞",
-  "detail": "日本語同時通訳付。\r\n番組内容が決まり次第お知らせします。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "🈔Living Golf🈞",
+  "detail": "#207 アフリカ特集。ケニア南東部にある、PGA認定のバオバブコースを紹介。欧州女子ツアーにナイジェリアから初参戦のジョージア・オボにインタビュー。",
   "start": 1650763800000,
   "end": 1650765600000,
   "seconds": 1800,
@@ -18,7 +18,7 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": 1,
+  "episode": 207,
   "flags": [
     "二",
     "再"

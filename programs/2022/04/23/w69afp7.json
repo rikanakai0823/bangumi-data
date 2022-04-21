@@ -1,9 +1,9 @@
 {
   "id": "w69afp7",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組🈞",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "documentary",
+  "title": "クエストの世界都市紀行",
+  "fullTitle": "クエストの世界都市紀行",
+  "detail": "#34 ブエノスアイレス。本場のタンゴを発祥の地で鑑賞。「エビータ」の墓を見学。肉牛牧場でカウボーイを体験、乗馬と名物のバーベキュー料理「アサード」を満喫。",
   "start": 1650691800000,
   "end": 1650693600000,
   "seconds": 1800,
@@ -17,9 +17,7 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "",
-  "episode": 1,
-  "flags": [
-    "再"
-  ]
+  "subTitle": "ブエノスアイレス。本場のタンゴを発祥の地で鑑賞。",
+  "episode": 34,
+  "flags": []
 }
