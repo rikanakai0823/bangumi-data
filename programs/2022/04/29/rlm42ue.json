@@ -1,0 +1,25 @@
+{
+  "id": "rlm42ue",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022～ファーム～ 4/29 ソフトバンクvs.阪神",
+  "fullTitle": "🈢HAWKS プロ野球中継2022～ファーム～ 4/29 ソフトバンクvs.阪神",
+  "detail": "▽4月29日開催\r\n解説/実況：坊西浩嗣/信川竜太\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1651204500000,
+  "end": 1651221000000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

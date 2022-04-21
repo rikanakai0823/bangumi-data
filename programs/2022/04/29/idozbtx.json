@@ -1,0 +1,25 @@
+{
+  "id": "idozbtx",
+  "category": "sports",
+  "title": "令和４年　全日本柔道選手権",
+  "fullTitle": "令和４年　全日本柔道選手権🈑",
+  "detail": "",
+  "start": 1651204800000,
+  "end": 1651215600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

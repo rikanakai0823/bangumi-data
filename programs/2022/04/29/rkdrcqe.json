@@ -1,0 +1,23 @@
+{
+  "id": "rkdrcqe",
+  "category": "information",
+  "title": "ドウシシャ　ＬＥＤサーキュライト",
+  "fullTitle": "ドウシシャ　ＬＥＤサーキュライト",
+  "detail": "扇風機とＬＥＤライトが合体！風量・明るさが調整でき、取り付けも簡単。様々なシーンで大活躍するライトをご案内します。",
+  "start": 1651230000000,
+  "end": 1651233600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
