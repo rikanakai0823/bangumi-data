@@ -1,0 +1,25 @@
+{
+  "id": "rkunum1",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#33,#34[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#33,#34[二][字/日英]",
+  "detail": "#33「シトと一緒に過ごした週末」　#34「タヨとの約束」",
+  "start": 1651275000000,
+  "end": 1651276800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "シトと一緒に過ごした週末",
+  "episode": 33,
+  "flags": [
+    "二"
+  ]
+}
