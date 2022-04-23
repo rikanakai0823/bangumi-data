@@ -1,0 +1,25 @@
+{
+  "id": "idxxrme",
+  "category": "hobby",
+  "title": "勝手に番組ジャック！ 44 うぇ～ぶ＆ジャーニー",
+  "fullTitle": "🈠勝手に番組ジャック！ 44 うぇ～ぶ＆ジャーニー",
+  "detail": "釣り好き芸人・ロンブー亮が釣りビジョンの番組をジャックする！番組スタートから10年を迎え今回は『釣りうぇ～ぶ』と『Seabass Jorney』2番組のジャックを目論む！",
+  "start": 1651406400000,
+  "end": 1651410000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

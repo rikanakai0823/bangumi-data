@@ -1,0 +1,25 @@
+{
+  "id": "idxcber",
+  "category": "sports",
+  "title": "Challenge！ Consadole　#52",
+  "fullTitle": "🈚Challenge！ Consadole　#52",
+  "detail": "今シーズンも北海道コンサドーレ札幌のクラブ応援番組をお届け！今回は大型ストライカー・中島大嘉選手にインタビュー！",
+  "start": 1651365000000,
+  "end": 1651365900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 52,
+  "flags": [
+    "無"
+  ]
+}

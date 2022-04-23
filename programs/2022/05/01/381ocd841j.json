@@ -1,0 +1,25 @@
+{
+  "id": "381ocd841j",
+  "category": "variety",
+  "title": "日テレ＋「一周」",
+  "fullTitle": "日テレ＋「一周」🈑",
+  "detail": "",
+  "start": 1651409640000,
+  "end": 1651410000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "一周",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

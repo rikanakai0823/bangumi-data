@@ -1,0 +1,26 @@
+{
+  "id": "iduvmes",
+  "category": "cinema",
+  "title": "ローグ・ワン／スター・ウォーズ・ストーリー",
+  "fullTitle": "🈙🅍ローグ・ワン／スター・ウォーズ・ストーリー",
+  "detail": "【ＧＷ総力企画：メガヒット２４作品一挙放送！】",
+  "start": 1651406400000,
+  "end": 1651415400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "ＧＷ総力企画：メガヒット２４作品一挙放送！",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
