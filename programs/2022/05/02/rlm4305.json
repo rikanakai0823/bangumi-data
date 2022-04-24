@@ -1,0 +1,25 @@
+{
+  "id": "rlm4305",
+  "category": "hobby",
+  "title": "パチンコパチスロアワー　ベーパチ！#10",
+  "fullTitle": "🈚パチンコパチスロアワー　ベーパチ！#10",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\n#10　ヒラヤマン＆河原みのりが新世紀エヴァンゲリオン～未来への咆哮～に挑む！　後編",
+  "start": 1651496400000,
+  "end": 1651500000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 10,
+  "flags": [
+    "無"
+  ]
+}

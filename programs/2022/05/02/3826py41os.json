@@ -1,0 +1,25 @@
+{
+  "id": "3826py41os",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居🈞",
+  "detail": "第四闇「忠犬」",
+  "start": 1651428300000,
+  "end": 1651428600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "忠犬",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

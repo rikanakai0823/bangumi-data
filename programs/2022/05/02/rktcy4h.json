@@ -1,0 +1,25 @@
+{
+  "id": "rktcy4h",
+  "category": "music",
+  "title": "ミュージックバンクダイジェスト～ＴＷＩＣＥ出演回",
+  "fullTitle": "ミュージックバンクダイジェスト～ＴＷＩＣＥ出演回　[字]",
+  "detail": "TWICEが音楽番組「ミュージックバンク」に出演した回をダイジェストにまとめて放送！",
+  "start": 1651437300000,
+  "end": 1651438800000,
+  "seconds": 1500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "ミュージックバンク",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rks392v",
+  "category": "documentary",
+  "title": "命の星「地球」物語 #3",
+  "fullTitle": "命の星「地球」物語 #3",
+  "detail": "地球上に生きる野生動物の不思議と命の物語を見せる番組。",
+  "start": 1651468200000,
+  "end": 1651471800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "地球",
+  "episode": 3,
+  "flags": []
+}

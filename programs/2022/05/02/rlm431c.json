@@ -1,0 +1,23 @@
+{
+  "id": "rlm431c",
+  "category": "sports",
+  "title": "RIZINで逢いましょう #14",
+  "fullTitle": "RIZINで逢いましょう #14",
+  "detail": "RIZIN.12\r\n（2018年8月12日開催）",
+  "start": 1651500000000,
+  "end": 1651505400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 14,
+  "flags": []
+}
