@@ -3,10 +3,14 @@
   "category": "music",
   "title": "CIX PV特集",
   "fullTitle": "CIX PV特集",
-  "detail": "3/30にアルバム『Pinky Swear』をリリースするCIXのミュージックビデオスペシャルをオンエア！",
+  "detail": "3/30にアルバム『Pinky Swear』をリリースするCIXのミュージックビデオスペシャルをオンエア！\n◇▼プレイリスト\n【CIX スペシャル】\r\nMy New World\r\nRevival\r\nJungle\r\nCinema\r\nAll For You\r\nWAVE\r\nPinky Swear\r\n\r\n※オンエア楽曲は予告なく変更になる場合がございます",
   "start": 1650799800000,
   "end": 1650801600000,
   "seconds": 1800,
+  "description": "3/30にアルバム『Pinky Swear』をリリースするCIXのミュージックビデオスペシャルをオンエア！",
+  "extra": {
+    "▼プレイリスト": "【CIX スペシャル】\r\nMy New World\r\nRevival\r\nJungle\r\nCinema\r\nAll For You\r\nWAVE\r\nPinky Swear\r\n\r\n※オンエア楽曲は予告なく変更になる場合がございます"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS16",
