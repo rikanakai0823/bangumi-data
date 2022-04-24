@@ -1,0 +1,25 @@
+{
+  "id": "ids314k",
+  "category": "music",
+  "title": "題名のない音楽会　「SixTONESとクラシックの音楽会」",
+  "fullTitle": "🈑題名のない音楽会　「SixTONESとクラシックの音楽会」",
+  "detail": "磨き上げたハーモニーと音楽性の高い楽曲で大ヒットを連発し、各方面で大活躍のSixTONESがクラシックとのコラボに初挑戦！ここでしか見られない豪華共演でお届け。",
+  "start": 1650754800000,
+  "end": 1650756600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "SixTONESとクラシックの音楽会",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idsobl5",
+  "category": "etc",
+  "title": "ショップチャンネル　お買い物エンターテインメント",
+  "fullTitle": "ショップチャンネル　お買い物エンターテインメント",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1650754800000,
+  "end": 1650758040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
