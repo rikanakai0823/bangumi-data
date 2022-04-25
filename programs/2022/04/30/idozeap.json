@@ -1,0 +1,23 @@
+{
+  "id": "idozeap",
+  "category": "sports",
+  "title": "２０２２ＭＬＢ　ウイークリー（１）",
+  "fullTitle": "２０２２ＭＬＢ　ウイークリー（１）",
+  "detail": "",
+  "start": 1651250640000,
+  "end": 1651251840000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
