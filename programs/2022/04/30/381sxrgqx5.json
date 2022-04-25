@@ -3,10 +3,14 @@
   "category": "information",
   "title": "タカトシのイチ押しかっ！",
   "fullTitle": "タカトシのイチ押しかっ！🈖🈑",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://shopping.tbs.co.jp/tbs/shop/tv_top/takatoshi",
   "start": 1651302000000,
   "end": 1651305600000,
   "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://shopping.tbs.co.jp/tbs/shop/tv_top/takatoshi"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
