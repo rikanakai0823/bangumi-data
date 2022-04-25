@@ -1,0 +1,25 @@
+{
+  "id": "w63j4ft",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2022「広島×巨人」～マツダ～",
+  "fullTitle": "[生]DRAMATIC BASEBALL2022「広島×巨人」～マツダ～",
+  "detail": "～生中継　*早終了及び荒天中止の場合あり　*試合終了まで放送\r\n解説：野村謙二郎　石原慶幸　　実況：小野宏樹",
+  "start": 1651553100000,
+  "end": 1651568400000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "広島×巨人",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

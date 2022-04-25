@@ -1,0 +1,23 @@
+{
+  "id": "idxcbj6",
+  "category": "music",
+  "title": "ハロプロWEEK開幕特番",
+  "fullTitle": "ハロプロWEEK開幕特番",
+  "detail": "ハロプロ各グループが「今見せたい！MV（ミュージックビデオ）」を楽曲についての思い出トークを交えながら2時間にわたって放送する。",
+  "start": 1651564800000,
+  "end": 1651572000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "今見せたい！MV（ミュージックビデオ）",
+  "episode": 1,
+  "flags": []
+}

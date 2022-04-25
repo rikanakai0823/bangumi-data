@@ -1,0 +1,25 @@
+{
+  "id": "rktcy54",
+  "category": "music",
+  "title": "ミュージックバンクダイジェスト～ＢＴＳ出演回",
+  "fullTitle": "ミュージックバンクダイジェスト～ＢＴＳ出演回　[字]",
+  "detail": "BTSが音楽番組「ミュージックバンク」に出演した回をダイジェストにまとめて放送！",
+  "start": 1651523400000,
+  "end": 1651525200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "ミュージックバンク",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
