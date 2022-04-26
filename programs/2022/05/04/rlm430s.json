@@ -1,0 +1,25 @@
+{
+  "id": "rlm430s",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022 5/4 ソフトバンクvs.オリックス",
+  "fullTitle": "🈢HAWKS プロ野球中継2022 5/4 ソフトバンクvs.オリックス",
+  "detail": "▽5月4日開催\r\n解説/実況：坊西浩嗣/大前一樹\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1651635900000,
+  "end": 1651654800000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

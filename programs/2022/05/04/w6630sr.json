@@ -1,0 +1,23 @@
+{
+  "id": "w6630sr",
+  "category": "music",
+  "title": "The Day.～アーティストたちの特別なあの日～【PRIKIL】",
+  "fullTitle": "The Day.～アーティストたちの特別なあの日～【PRIKIL】",
+  "detail": "5人組ガールズグループPRIKIL!彼女たちのメジャーデビュー日となる5月4日にたっぷり3時間放送!",
+  "start": 1651665600000,
+  "end": 1651676400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "PRIKIL",
+  "episode": 1,
+  "flags": []
+}

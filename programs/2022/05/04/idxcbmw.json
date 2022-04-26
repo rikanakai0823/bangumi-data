@@ -1,0 +1,25 @@
+{
+  "id": "idxcbmw",
+  "category": "information",
+  "title": "本日の番宣スポットすべて見せます",
+  "fullTitle": "🈚本日の番宣スポットすべて見せます",
+  "detail": "",
+  "start": 1651659600000,
+  "end": 1651662000000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
