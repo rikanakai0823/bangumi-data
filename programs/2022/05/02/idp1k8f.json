@@ -1,0 +1,25 @@
+{
+  "id": "idp1k8f",
+  "category": "sports",
+  "title": "ＭＬＢ２０２２",
+  "fullTitle": "ＭＬＢ２０２２🈔",
+  "detail": "",
+  "start": 1651456200000,
+  "end": 1651461900000,
+  "seconds": 5700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
