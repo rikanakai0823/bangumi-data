@@ -1,0 +1,27 @@
+{
+  "id": "idsk1tx",
+  "category": "documentary",
+  "title": "夢の彼方に・海の唄",
+  "fullTitle": "夢の彼方に・海の唄",
+  "detail": "◇制作\n翔テレビジョン",
+  "start": 1651687200000,
+  "end": 1651690800000,
+  "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
