@@ -1,0 +1,25 @@
+{
+  "id": "w63cmvr",
+  "category": "sports",
+  "title": "[プロ野球]ファイターズ試合直前LIVE「5.5札幌ドーム」",
+  "fullTitle": "[生] [プロ野球]ファイターズ試合直前LIVE「5.5札幌ドーム」",
+  "detail": "「5.5札幌ドーム」\r\n試合前に行われる練習の模様を生中継！",
+  "start": 1651710600000,
+  "end": 1651716000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "5.5札幌ドーム",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

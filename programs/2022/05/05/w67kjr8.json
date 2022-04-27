@@ -1,0 +1,23 @@
+{
+  "id": "w67kjr8",
+  "category": "music",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": "番組未定",
+  "start": 1651757400000,
+  "end": 1651761000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

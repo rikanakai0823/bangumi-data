@@ -1,0 +1,23 @@
+{
+  "id": "w63cmvx",
+  "category": "sports",
+  "title": "[プロ野球]阪神×東京ヤクルト（甲子園）",
+  "fullTitle": "[プロ野球]阪神×東京ヤクルト（甲子園）",
+  "detail": "GAORAプロ野球中継\r\n「阪神 vs 東京ヤクルト」\r\n\r\n開催：2022年5月5日/甲子園",
+  "start": 1651743000000,
+  "end": 1651759200000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
