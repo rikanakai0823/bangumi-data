@@ -1,12 +1,12 @@
 {
   "id": "w69afy9",
-  "category": "news",
-  "title": "アフリカ経済ウィークリー Market Place Africa",
-  "fullTitle": "🈔アフリカ経済ウィークリー Market Place Africa🈞",
-  "detail": "日本語同時通訳付。\r\nアフリカ経済の最新トレンド、注目のビジネスを紹介。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "🈔Living Golf🈞",
+  "detail": "#207 アフリカ特集。ケニア南東部にある、PGA認定のバオバブコースを紹介。欧州女子ツアーにナイジェリアから初参戦のジョージア・オボにインタビュー。",
   "start": 1651458600000,
-  "end": 1651459500000,
-  "seconds": 900,
+  "end": 1651460400000,
+  "seconds": 1800,
   "channel": {
     "type": "CS",
     "channel": "CS6",
@@ -18,7 +18,7 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": 1,
+  "episode": 207,
   "flags": [
     "二",
     "再"
