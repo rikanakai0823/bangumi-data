@@ -1,0 +1,23 @@
+{
+  "id": "w67kk60",
+  "category": "music",
+  "title": "M-ON! SPECIAL 「WEi」",
+  "fullTitle": "M-ON! SPECIAL 「WEi」",
+  "detail": "韓国のボーイズグループ、WEi(ウィーアイ)のエムオン!オリジナル番組をオンエア！ミニゲームに挑戦する姿など、この番組でしか見られないWEiの姿をお見逃しなく！",
+  "start": 1651798800000,
+  "end": 1651802400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "WEi",
+  "episode": 1,
+  "flags": []
+}

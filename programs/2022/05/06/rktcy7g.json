@@ -1,0 +1,26 @@
+{
+  "id": "rktcy7g",
+  "category": "music",
+  "title": "【ＢＴＳ出演】ミュージックバンク ｉｎメキシコ",
+  "fullTitle": "【ＢＴＳ出演】ミュージックバンク ｉｎメキシコ　[字][新]",
+  "detail": "ベーシック初放送！BTS、EXO-K、INFINITE、BEAST、B.A.P、Ailee、Girl’s Day出演の音楽イベント！開催日：2014年10月30日",
+  "start": 1651845600000,
+  "end": 1651852800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}
