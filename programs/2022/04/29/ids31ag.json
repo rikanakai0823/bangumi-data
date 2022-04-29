@@ -1,0 +1,25 @@
+{
+  "id": "ids31ag",
+  "category": "sports",
+  "title": "ワールドプロレスリングリターンズ　＃107「2022.3.2 日本武道館」",
+  "fullTitle": "🈑ワールドプロレスリングリターンズ　＃107「2022.3.2 日本武道館」",
+  "detail": "NEW JAPAN CUP 2022 1回戦／オカダ・カズチカ vs エル・デスペラード▽NEW JAPAN CUP 2022 1回戦／内藤哲也 vs 高橋裕二郎",
+  "start": 1651230000000,
+  "end": 1651233240000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "2022.3.2 日本武道館",
+  "episode": 107,
+  "flags": [
+    "字"
+  ]
+}
