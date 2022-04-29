@@ -1,0 +1,25 @@
+{
+  "id": "rktcy7i",
+  "category": "music",
+  "title": "ミュージックバンクダイジェスト～ＢＴＳ出演回 Ｐａｒｔ２",
+  "fullTitle": "ミュージックバンクダイジェスト～ＢＴＳ出演回 Ｐａｒｔ２　[字]",
+  "detail": "BTSスペシャル！BTSが音楽番組「ミュージックバンク」に出演した回をダイジェストにまとめて放送！",
+  "start": 1651869000000,
+  "end": 1651870800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "ミュージックバンク",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
