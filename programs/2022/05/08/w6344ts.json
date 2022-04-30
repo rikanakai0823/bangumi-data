@@ -1,0 +1,25 @@
+{
+  "id": "w6344ts",
+  "category": "sports",
+  "title": "プロ野球 ファーム戦 阪神×中日 5/8",
+  "fullTitle": "[生]プロ野球 ファーム戦 阪神×中日 5/8",
+  "detail": "阪神×中日(5/8試合)\r\n生中継▽甲子園　※雨天中止、時間延長の場合あり\r\n解説：俊介、実況：佐藤修平（ABCテレビアナウンサー）\r\n",
+  "start": 1651979700000,
+  "end": 1651996800000,
+  "seconds": 17100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm431i",
+  "category": "sports",
+  "title": "21/22 ブンデスリーガ 第33節 ヘルタベルリン×マインツ",
+  "fullTitle": "🈢21/22 ブンデスリーガ 第33節 ヘルタベルリン×マインツ",
+  "detail": "この試合は英語コメンタリーのみの中継になります。\r\n開催日:2022年5月7日\r\n会場:オリンピア シュタディオン",
+  "start": 1651940400000,
+  "end": 1651949400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
