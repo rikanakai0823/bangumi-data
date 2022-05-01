@@ -1,0 +1,25 @@
+{
+  "id": "3826py41y6",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居🈞",
+  "detail": "第五闇「張子の虎」",
+  "start": 1652033100000,
+  "end": 1652033400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "張子の虎",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

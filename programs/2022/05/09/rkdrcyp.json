@@ -1,0 +1,23 @@
+{
+  "id": "rkdrcyp",
+  "category": "information",
+  "title": "開店！東急ハンズ　ショップチャンネル店",
+  "fullTitle": "開店！東急ハンズ　ショップチャンネル店",
+  "detail": "ハウスクリーニングの現場で使われている洗剤を家庭用サイズにアレンジした３点セット。お風呂掃除がラクになりそう♪",
+  "start": 1652090400000,
+  "end": 1652094000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
