@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuzxe",
+  "category": "information",
+  "title": "どーも、ＮＨＫ",
+  "fullTitle": "どーも、ＮＨＫ🈑",
+  "detail": "「君の声が聴きたい」プロジェクトが５月からスタート。子どもや若者の声に徹底的に耳を傾け、子どもや若者の幸せについて考えます。▽１週間のおおすすめ番組。",
+  "start": 1651371600000,
+  "end": 1651373580000,
+  "seconds": 1980,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "君の声が聴きたい",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
