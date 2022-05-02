@@ -3,13 +3,15 @@
   "category": "sports",
   "title": "バドミントンアジア選手権２０２２",
   "fullTitle": "バドミントンアジア選手権２０２２",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/asiabadminton/index.html",
+  "detail": "９月に中国・杭州で行われるアジア最大のスポーツの祭典、『アジア大会』の前哨戦！\r\n世界最激戦区アジアの頂点をめざし強豪集結。山口茜と中西・岩永ペアが決勝に挑む！\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/asiabadminton/index.html\n◇対戦\n◆女子シングルス決勝\r\n山口茜vs王祉怡\r\n\r\n◆女子ダブルス決勝\r\n陳清晨・賈一凡vs中西貴映・岩永鈴\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1651942680000,
   "end": 1651949400000,
   "seconds": 6720,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "９月に中国・杭州で行われるアジア最大のスポーツの祭典、『アジア大会』の前哨戦！\r\n世界最激戦区アジアの頂点をめざし強豪集結。山口茜と中西・岩永ペアが決勝に挑む！",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/asiabadminton/index.html"
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/asiabadminton/index.html",
+    "対戦": "◆女子シングルス決勝\r\n山口茜vs王祉怡\r\n\r\n◆女子ダブルス決勝\r\n陳清晨・賈一凡vs中西貴映・岩永鈴",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。"
   },
   "channel": {
     "type": "GR",
