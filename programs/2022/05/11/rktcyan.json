@@ -1,0 +1,25 @@
+{
+  "id": "rktcyan",
+  "category": "drama",
+  "title": "ドラマスペシャル～逃避者たち",
+  "fullTitle": "ドラマスペシャル～逃避者たち　[字]",
+  "detail": "辛すぎる現実を前に、夢の世界に逃避した人々の心理を描くヒューマンストーリー。2018年　全1話",
+  "start": 1652278800000,
+  "end": 1652283000000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
