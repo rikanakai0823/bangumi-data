@@ -1,0 +1,23 @@
+{
+  "id": "idwq9fw",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「国際政治の趨勢と日本の針路」",
+  "start": 1652356800000,
+  "end": 1652359500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "国際政治の趨勢と日本の針路",
+  "episode": 1,
+  "flags": []
+}

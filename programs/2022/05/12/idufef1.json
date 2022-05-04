@@ -1,0 +1,23 @@
+{
+  "id": "idufef1",
+  "category": "sports",
+  "title": "ＵＥＦＡ　ＣＬマガジン　準決勝　Ｒｅｖｉｅｗ",
+  "fullTitle": "ＵＥＦＡ　ＣＬマガジン　準決勝　Ｒｅｖｉｅｗ",
+  "detail": "ＵＥＦＡ公式の情報番組。",
+  "start": 1652285700000,
+  "end": 1652287500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

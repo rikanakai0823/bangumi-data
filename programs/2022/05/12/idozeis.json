@@ -1,0 +1,26 @@
+{
+  "id": "idozeis",
+  "category": "documentary",
+  "title": "Ｃｏｒｅ　Ｋｙｏｔｏ",
+  "fullTitle": "Ｃｏｒｅ　Ｋｙｏｔｏ🈔🈑",
+  "detail": "",
+  "start": 1652336400000,
+  "end": 1652338200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

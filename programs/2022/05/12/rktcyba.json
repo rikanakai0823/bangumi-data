@@ -1,0 +1,25 @@
+{
+  "id": "rktcyba",
+  "category": "drama",
+  "title": "ドラマスペシャル～伝説のシャトル",
+  "fullTitle": "ドラマスペシャル～伝説のシャトル　[字]",
+  "detail": "2016年　全1話",
+  "start": 1652365200000,
+  "end": 1652369400000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
