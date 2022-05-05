@@ -1,0 +1,23 @@
+{
+  "id": "idvj82n",
+  "category": "anime",
+  "title": "サマータイムレンダ　＃05",
+  "fullTitle": "サマータイムレンダ　＃05",
+  "detail": "",
+  "start": 1652367600000,
+  "end": 1652369400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": []
+}

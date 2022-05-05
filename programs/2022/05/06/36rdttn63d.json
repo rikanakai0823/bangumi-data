@@ -1,0 +1,23 @@
+{
+  "id": "36rdttn63d",
+  "category": "music",
+  "title": "１３分のステージ",
+  "fullTitle": "１３分のステージ",
+  "detail": "毎週１組のアーティストをピックアップし、ライブ映像、アーティストからのメッセージをお届け！",
+  "start": 1651763700000,
+  "end": 1651764600000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
