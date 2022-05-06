@@ -1,0 +1,25 @@
+{
+  "id": "w68gwnc",
+  "category": "documentary",
+  "title": "ムーン・ウォーズ",
+  "fullTitle": "ムーン・ウォーズ(字)",
+  "detail": "月は政治的、経済的理由から注目されている。月に投資している投資家もいれば、新たなエネルギー源として月に注目している者もいる。月は新たなる黄金郷なのか。",
+  "start": 1652472000000,
+  "end": 1652475600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 132
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
