@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr4a2d",
+  "category": "sports",
+  "title": "ジャパンラグビーリーグワン中継",
+  "fullTitle": "ジャパンラグビーリーグワン中継",
+  "detail": "埼玉パナソニックワイルドナイツ　ＶＳ　クボタスピアーズ船橋・東京ベイの試合を熊谷ラグビー場から生中継",
+  "start": 1651910400000,
+  "end": 1651917600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
