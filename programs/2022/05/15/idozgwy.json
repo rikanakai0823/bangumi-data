@@ -1,0 +1,23 @@
+{
+  "id": "idozgwy",
+  "category": "sports",
+  "title": "第１００回　全日本ボート選手権大会",
+  "fullTitle": "第１００回　全日本ボート選手権大会",
+  "detail": "",
+  "start": 1652590800000,
+  "end": 1652597700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "全日本ボート選手権大会",
+  "episode": 100,
+  "flags": []
+}

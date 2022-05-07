@@ -1,0 +1,25 @@
+{
+  "id": "w63j4km",
+  "category": "sports",
+  "title": "日本テレビ ゴルフメジャー2021",
+  "fullTitle": "日本テレビ ゴルフメジャー2021[再]",
+  "detail": "日テレ系ゴルフ中継メジャー大会４大会の総集編。\r\n2021年度の名場面をお届けします！",
+  "start": 1652554800000,
+  "end": 1652558400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

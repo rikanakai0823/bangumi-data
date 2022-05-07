@@ -1,0 +1,23 @@
+{
+  "id": "w69agos",
+  "category": "information",
+  "title": "CNNｊからのお知らせ①",
+  "fullTitle": "CNNｊからのお知らせ①",
+  "detail": "この時間は、2022年3月23日に実施されたCNNj番組審議会の模様をお伝えします。",
+  "start": 1652561940000,
+  "end": 1652562000000,
+  "seconds": 60,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
