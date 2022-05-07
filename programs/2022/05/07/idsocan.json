@@ -1,0 +1,25 @@
+{
+  "id": "idsocan",
+  "category": "news",
+  "title": "Ｂｉｚスクエア",
+  "fullTitle": "🈑Ｂｉｚスクエア",
+  "detail": "冷戦終結から３０年が経たったいま、グローバル化時代は終わりを迎えたのか？国際社会が中ロとの相互依存解消に向かう中、新たなパラダイムと日本経済の行方は？",
+  "start": 1651888800000,
+  "end": 1651892040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
