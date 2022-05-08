@@ -1,0 +1,23 @@
+{
+  "id": "rlm43b0",
+  "category": "sports",
+  "title": "プロレスのススメ 特別編 #5",
+  "fullTitle": "プロレスのススメ 特別編 #5",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1652643000000,
+  "end": 1652644800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": 5,
+  "flags": []
+}

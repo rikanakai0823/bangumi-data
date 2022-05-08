@@ -1,0 +1,25 @@
+{
+  "id": "rkv915i",
+  "category": "documentary",
+  "title": "NNNドキュメント'22「ともしび」",
+  "fullTitle": "NNNドキュメント'22「ともしび」[再]",
+  "detail": "「NNNドキュメント」は1970年1月4日にスタートしたドキュメンタリー番組で日本テレビでは3番目の長寿番組です。番組はこれからも、時代を記録しつづけます。",
+  "start": 1652626800000,
+  "end": 1652630400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "ともしび",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

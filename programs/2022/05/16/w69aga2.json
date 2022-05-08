@@ -1,0 +1,26 @@
+{
+  "id": "w69aga2",
+  "category": "hobby",
+  "title": "African Voices",
+  "fullTitle": "🈔African Voices🈞",
+  "detail": "日本語同時通訳付。\r\n世界的に活躍するアフリカ各国の話題の人物に、ロング・インタビュー。",
+  "start": 1652666400000,
+  "end": 1652668200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ＣＮＮｊ",
+    "id": "f0ea",
+    "sid": 354,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 139
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二",
+    "再"
+  ]
+}

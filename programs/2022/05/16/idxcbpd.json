@@ -1,0 +1,25 @@
+{
+  "id": "idxcbpd",
+  "category": "music",
+  "title": "【独占生中継】つばきファクトリー 日本武道館コンサート",
+  "fullTitle": "🈢【独占生中継】つばきファクトリー 日本武道館コンサート",
+  "detail": "つばきファクトリー2度目の日本武道館コンサートを開演前から終演まで完全生中継！",
+  "start": 1652690700000,
+  "end": 1652700600000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
