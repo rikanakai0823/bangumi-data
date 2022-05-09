@@ -3,10 +3,14 @@
   "category": "music",
   "title": "aiko LIVE&MUSIC VIDEOスペシャル",
   "fullTitle": "aiko LIVE&MUSIC VIDEOスペシャル",
-  "detail": "aikoのライブ&ミュージックビデオ特集をオンエア！",
+  "detail": "aikoのライブ&ミュージックビデオ特集をオンエア！\n◇【番組内容】\n『aiko LIVE&MUSIC VIDEOスペシャル』…4/27(水)にシングル「ねがう夜」をリリースするaikoのライブ映像とミュージックビデオをあわせてオンエア！▼オンエアリストは「エムオン」で検索！",
   "start": 1652106600000,
   "end": 1652108400000,
   "seconds": 1800,
+  "description": "aikoのライブ&ミュージックビデオ特集をオンエア！",
+  "extra": {
+    "【番組内容】": "『aiko LIVE&MUSIC VIDEOスペシャル』…4/27(水)にシングル「ねがう夜」をリリースするaikoのライブ映像とミュージックビデオをあわせてオンエア！▼オンエアリストは「エムオン」で検索！"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS12",
