@@ -1,0 +1,23 @@
+{
+  "id": "rkdrd3q",
+  "category": "information",
+  "title": "初ショップスターバリューデイ　スタート！",
+  "fullTitle": "初ショップスターバリューデイ　スタート！",
+  "detail": "初ショップスターバリューデイ／感動とおトクが大行進！新鮮味あふれる注目アイテムが「ショップスターバリュー」で登場！",
+  "start": 1652799600000,
+  "end": 1652806800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "ショップスターバリュー",
+  "episode": 1,
+  "flags": []
+}

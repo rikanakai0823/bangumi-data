@@ -1,0 +1,23 @@
+{
+  "id": "w67ieiw",
+  "category": "music",
+  "title": "ビージーズ：永遠の詩",
+  "fullTitle": "ビージーズ：永遠の詩",
+  "detail": "世界で最も成功した兄弟グループ、ビージーズのドキュメンタリー。",
+  "start": 1652842800000,
+  "end": 1652846400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ミュージック・エア",
+    "id": "f0dg",
+    "sid": 324,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
