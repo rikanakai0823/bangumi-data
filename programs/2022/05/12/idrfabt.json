@@ -1,0 +1,23 @@
+{
+  "id": "idrfabt",
+  "category": "anime",
+  "title": "アニメ　アイドルマスター シンデレラガールズ",
+  "fullTitle": "アニメ　アイドルマスター シンデレラガールズ",
+  "detail": "第12話 The magic needed for a flower to bloom.",
+  "start": 1652284800000,
+  "end": 1652286600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": []
+}

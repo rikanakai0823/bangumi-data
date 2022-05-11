@@ -1,0 +1,29 @@
+{
+  "id": "idsk2n5",
+  "category": "hobby",
+  "title": "釣り百景",
+  "fullTitle": "🈑釣り百景",
+  "detail": "◇制作\n2022年",
+  "start": 1652965200000,
+  "end": 1652968440000,
+  "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

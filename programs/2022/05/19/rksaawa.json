@@ -1,0 +1,23 @@
+{
+  "id": "rksaawa",
+  "category": "anime",
+  "title": "【ドラえもん2001年一挙放送】",
+  "fullTitle": "【ドラえもん2001年一挙放送】",
+  "detail": "#910-916\r\n#910「天使のラッパ/スベールガス」\r\n#911「ユメコーダー/パパのおみやげ」\r\nほか",
+  "start": 1652887800000,
+  "end": 1652900400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 910,
+  "flags": []
+}
