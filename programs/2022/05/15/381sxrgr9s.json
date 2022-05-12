@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "「行列ゲット１０００人旅」ナビ",
   "fullTitle": "「行列ゲット１０００人旅」ナビ🈑",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/program/gyoretsuget_20220519/",
   "start": 1652594400000,
   "end": 1652596200000,
   "seconds": 1800,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/program/gyoretsuget_20220519/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
