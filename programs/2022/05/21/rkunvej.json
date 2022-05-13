@@ -1,0 +1,25 @@
+{
+  "id": "rkunvej",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#43,#44[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#43,#44[二][字/日英]",
+  "detail": "#43「ぼくたちは、はたらくくるまサーカス団」　#44「最高の整備士」",
+  "start": 1653089400000,
+  "end": 1653091200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ぼくたちは、はたらくくるまサーカス団",
+  "episode": 43,
+  "flags": [
+    "二"
+  ]
+}

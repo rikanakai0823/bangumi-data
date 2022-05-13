@@ -1,0 +1,23 @@
+{
+  "id": "w63cn51",
+  "category": "sports",
+  "title": "[プロ野球]阪神×巨人（甲子園）",
+  "fullTitle": "[プロ野球]阪神×巨人（甲子園）",
+  "detail": "GAORAプロ野球中継\r\n「阪神 vs 巨人」\r\n\r\n開催：2022年5月21日/甲子園",
+  "start": 1653141600000,
+  "end": 1653157800000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

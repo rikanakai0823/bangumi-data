@@ -1,0 +1,26 @@
+{
+  "id": "iduvymh",
+  "category": "cinema",
+  "title": "スター・ウォーズ／最後のジェダイ",
+  "fullTitle": "🈙🅍スター・ウォーズ／最後のジェダイ",
+  "detail": "映画史に残る人気ＳＦシリーズの新たな３部作の第２弾。ルークと出会ったレイを待ち受ける運命とレジスタンスの戦いを描く。",
+  "start": 1653115500000,
+  "end": 1653125400000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
