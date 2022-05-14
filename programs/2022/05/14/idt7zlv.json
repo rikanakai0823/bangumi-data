@@ -1,0 +1,23 @@
+{
+  "id": "idt7zlv",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10Ｒ緑風Ｓ、\r\n　　　　11Ｒ京王杯スプリングＣ（ＧⅡ）\r\n【中京】10Ｒ三河Ｓ、11Ｒ都大路Ｓ（Ｌ）\r\n【新潟】11Ｒ邁進特別",
+  "start": 1652506200000,
+  "end": 1652511600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 54
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
