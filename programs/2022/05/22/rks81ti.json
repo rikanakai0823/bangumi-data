@@ -1,0 +1,25 @@
+{
+  "id": "rks81ti",
+  "category": "music",
+  "title": "まねきケチャJAPAN TOUR 2022『招かれロード～東京FINAL公演～』",
+  "fullTitle": "[生]まねきケチャJAPAN TOUR 2022『招かれロード～東京FINAL公演～』",
+  "detail": "卒業する深瀬美桜のラストステージでもある『まねきケチャ』ツアーファイナル、豊洲PIT公演を独占生中継！\r\n※延長の場合あり\r\n※お問合せ：0570-0555-77（10時～20時）",
+  "start": 1653209100000,
+  "end": 1653215400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

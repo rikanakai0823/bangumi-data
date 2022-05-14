@@ -1,0 +1,25 @@
+{
+  "id": "rkv917x",
+  "category": "sports",
+  "title": "第101回関東インカレ陸上 ハーフマラソン",
+  "fullTitle": "[生]第101回関東インカレ陸上 ハーフマラソン",
+  "detail": "～生中継",
+  "start": 1653174000000,
+  "end": 1653183900000,
+  "seconds": 9900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": 101,
+  "flags": [
+    "生"
+  ]
+}

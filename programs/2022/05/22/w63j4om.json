@@ -1,0 +1,25 @@
+{
+  "id": "w63j4om",
+  "category": "sports",
+  "title": "ブリヂストンレディスオープン2022 最終日 1番ホール",
+  "fullTitle": "[生]ブリヂストンレディスオープン2022 最終日 1番ホール",
+  "detail": "～生放送　袖ヶ浦カンツリークラブ・袖ヶ浦コース",
+  "start": 1653171300000,
+  "end": 1653182100000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
