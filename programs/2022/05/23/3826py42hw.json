@@ -1,0 +1,25 @@
+{
+  "id": "3826py42hw",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居🈞",
+  "detail": "第七闇「ニワトリ君」",
+  "start": 1653242700000,
+  "end": 1653243000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "ニワトリ君",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

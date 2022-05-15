@@ -1,0 +1,23 @@
+{
+  "id": "idozmuy",
+  "category": "sports",
+  "title": "カーリング日本選手権２０２２　女子・予選リーグ",
+  "fullTitle": "カーリング日本選手権２０２２　女子・予選リーグ",
+  "detail": "",
+  "start": 1653280200000,
+  "end": 1653288600000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

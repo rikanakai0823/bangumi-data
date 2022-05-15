@@ -1,0 +1,29 @@
+{
+  "id": "36h6jr25xz",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ🅂",
+  "detail": "特集\n◇出演者\n堂前英男",
+  "start": 1653312600000,
+  "end": 1653314400000,
+  "seconds": 1800,
+  "description": "特集",
+  "extra": {
+    "出演者": "堂前英男"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

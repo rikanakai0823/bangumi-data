@@ -1,0 +1,23 @@
+{
+  "id": "w67kk6i",
+  "category": "music",
+  "title": "BE:FIRST特集",
+  "fullTitle": "BE:FIRST特集",
+  "detail": "BE:FIRSTのミュージックビデオ特集をオンエア！",
+  "start": 1653314400000,
+  "end": 1653316200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

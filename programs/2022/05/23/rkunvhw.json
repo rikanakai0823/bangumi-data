@@ -1,0 +1,25 @@
+{
+  "id": "rkunvhw",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#31,#32[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#31,#32[二][字/日英]",
+  "detail": "#31「学校に行く日」　#32「がんばって！フランク！」",
+  "start": 1653307200000,
+  "end": 1653309000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "学校に行く日",
+  "episode": 31,
+  "flags": [
+    "二"
+  ]
+}
