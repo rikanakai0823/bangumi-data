@@ -1,0 +1,25 @@
+{
+  "id": "3826py67dv",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居🈞",
+  "detail": "第六闇「精霊牛」",
+  "start": 1652637900000,
+  "end": 1652638200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "精霊牛",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
