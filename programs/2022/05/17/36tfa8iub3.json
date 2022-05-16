@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8iub3",
+  "category": "information",
+  "title": "ごちそうリクエスト　いまコレ食べたい！",
+  "fullTitle": "ごちそうリクエスト　いまコレ食べたい！",
+  "detail": "昔ながらのパエジャを食べたい！",
+  "start": 1652718000000,
+  "end": 1652718900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rktf6zk",
+  "category": "music",
+  "title": "New Clip",
+  "fullTitle": "New Clip",
+  "detail": "最新K-POPのMusic Videoをいち早くオンエア◆曲目リストはMnet HPをご覧ください\r\n再放送：23日(月)23:15～、24日(火)10:15～",
+  "start": 1653354900000,
+  "end": 1653355800000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
