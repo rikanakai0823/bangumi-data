@@ -1,15 +1,17 @@
 {
   "id": "idsk2p1",
-  "category": "etc",
-  "title": "ＣＵＥ！",
-  "fullTitle": "ＣＵＥ！",
-  "detail": "◇制作\n2022年",
+  "category": "anime",
+  "title": "ＣＵＥ！＃１９",
+  "fullTitle": "ＣＵＥ！＃１９",
+  "detail": "第十九話「３びきのこぶた」\n◇制作\n2022年\n◇出演者\n■\n◇番組内容\n■",
   "start": 1653067800000,
   "end": 1653069600000,
   "seconds": 1800,
-  "description": "",
+  "description": "第十九話「３びきのこぶた」",
   "extra": {
-    "制作": "2022年"
+    "制作": "2022年",
+    "出演者": "■",
+    "番組内容": "■"
   },
   "channel": {
     "type": "BS",
@@ -21,7 +23,7 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "３びきのこぶた",
+  "episode": 19,
   "flags": []
 }
