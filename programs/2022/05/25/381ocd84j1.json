@@ -1,0 +1,25 @@
+{
+  "id": "381ocd84j1",
+  "category": "information",
+  "title": "ボテロ展ＢＥ：ＦＩＲＳＴ編",
+  "fullTitle": "ボテロ展ＢＥ：ＦＩＲＳＴ編🈞",
+  "detail": "",
+  "start": 1653419340000,
+  "end": 1653419640000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

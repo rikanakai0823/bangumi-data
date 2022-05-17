@@ -1,0 +1,23 @@
+{
+  "id": "idozofm",
+  "category": "sports",
+  "title": "Ｊリーグタイム「Ｊ１第１５節」",
+  "fullTitle": "Ｊリーグタイム「Ｊ１第１５節」",
+  "detail": "【解説】森岡隆三，【アナウンサー】小宮山晃義，【司会】高階亜理沙",
+  "start": 1653480600000,
+  "end": 1653483000000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "Ｊ１第１５節",
+  "episode": 1,
+  "flags": []
+}
