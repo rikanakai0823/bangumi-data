@@ -1,0 +1,25 @@
+{
+  "id": "ids329w",
+  "category": "documentary",
+  "title": "J-WAVE SELECTION GENERATION TO GENERATION～STORIES OF OKINAWA～",
+  "fullTitle": "🈑J-WAVE SELECTION GENERATION TO GENERATION～STORIES OF OKINAWA～",
+  "detail": "2019年6月23日沖縄「慰霊の日」にJ-WAVEで放送され、ギャラクシー賞などを受賞したラジオ番組に、イメージ映像を加えて放送。川平朝清が息子ジョン・カビラに語る沖縄とは",
+  "start": 1652882400000,
+  "end": 1652886000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "慰霊の日",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
