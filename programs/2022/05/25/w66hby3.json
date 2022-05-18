@@ -2,7 +2,7 @@
   "id": "w66hby3",
   "category": "sports",
   "title": "SWALLOWS BASEBALL L!VE　東京ヤクルト×北海道日本ハム",
-  "fullTitle": "SWALLOWS BASEBALL L!VE　東京ヤクルト×北海道日本ハム",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE　東京ヤクルト×北海道日本ハム",
   "detail": "セ・パ交流戦「東京ヤクルト vs 北海道日本ハム」【生中継】\r\n＜解説＞荒木大輔　大矢明彦　＜実況＞黒瀬翔生\r\n▽副音声あり（一部プラットホームでは主音声のみ）",
   "start": 1653468600000,
   "end": 1653487200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }
