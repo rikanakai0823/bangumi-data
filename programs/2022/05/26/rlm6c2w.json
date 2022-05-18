@@ -1,0 +1,23 @@
+{
+  "id": "rlm6c2w",
+  "category": "sports",
+  "title": "サンフレッチェTV #114",
+  "fullTitle": "サンフレッチェTV #114",
+  "detail": "今シーズンもサンフレッチェ広島のクラブ応援番組をお届け！今回はスキッべ新監督が描く「即時奪回」の攻撃スタイルに迫る。",
+  "start": 1653514200000,
+  "end": 1653515100000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "即時奪回",
+  "episode": 114,
+  "flags": []
+}

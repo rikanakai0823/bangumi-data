@@ -1,0 +1,23 @@
+{
+  "id": "idxcbrz",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2022～ファーム～　5/25 西武vs.ロッテ",
+  "fullTitle": "LIONS プロ野球中継2022～ファーム～　5/25 西武vs.ロッテ",
+  "detail": "▽５月２５日開催\r\n実況：足立清紀",
+  "start": 1653517800000,
+  "end": 1653532200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
