@@ -1,0 +1,23 @@
+{
+  "id": "w67g9dt",
+  "category": "music",
+  "title": "レキシ ビデオ特集",
+  "fullTitle": "レキシ ビデオ特集",
+  "detail": "4月20日にニューアルバム『レキシチ』をリリースした、レキシのミュージックビデオをお届け。",
+  "start": 1653638400000,
+  "end": 1653642000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 124
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

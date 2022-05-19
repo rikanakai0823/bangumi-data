@@ -1,0 +1,25 @@
+{
+  "id": "iduwhv0",
+  "category": "cinema",
+  "title": "スペーストラベラーズ",
+  "fullTitle": "🈙スペーストラベラーズ",
+  "detail": "金城武主演の群像コメディ。銀行強盗を決行した３人の若者と、彼らの人質となった人々の大騒動がユーモアたっぷりに描かれる。",
+  "start": 1653645600000,
+  "end": 1653653700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

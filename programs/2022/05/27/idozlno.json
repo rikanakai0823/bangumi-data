@@ -1,0 +1,26 @@
+{
+  "id": "idozlno",
+  "category": "sports",
+  "title": "プロ野球２０２２「ロッテ」対「阪神」",
+  "fullTitle": "プロ野球２０２２「ロッテ」対「阪神」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】伊東勤，【アナウンサー】冨坂和男　～ＺＯＺＯマリンスタジアムから中継～",
+  "start": 1653642000000,
+  "end": 1653654600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "阪神",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
