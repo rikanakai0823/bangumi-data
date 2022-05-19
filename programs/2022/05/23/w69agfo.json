@@ -1,9 +1,9 @@
 {
   "id": "w69agfo",
-  "category": "news",
-  "title": "ヨーロッパ経済市場",
-  "fullTitle": "ヨーロッパ経済市場🈞",
-  "detail": "#11 高級ブランド。欧州各国で行動制限が緩和、観光客の往来が再開し、売上回復を目指す高級ブランド。スイス高級腕時計ブランド幹部らに、今後の戦略を取材。",
+  "category": "sports",
+  "title": "World Sport",
+  "fullTitle": "World Sport",
+  "detail": "欧州サッカー、米4大スポーツNFL、MLB、NBA、NHL、ラグビー、ゴルフ、テニスまで、世界のスポーツの最新結果はこの番組でチェック！\r\n",
   "start": 1653238800000,
   "end": 1653239700000,
   "seconds": 900,
@@ -18,8 +18,6 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": 11,
-  "flags": [
-    "再"
-  ]
+  "episode": 1,
+  "flags": []
 }
