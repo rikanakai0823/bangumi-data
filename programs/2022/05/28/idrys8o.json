@@ -1,0 +1,23 @@
+{
+  "id": "idrys8o",
+  "category": "information",
+  "title": "今度ナニ観る!?～BS朝日イベント検索TV～　「BBC特集」",
+  "fullTitle": "今度ナニ観る!?～BS朝日イベント検索TV～　「BBC特集」",
+  "detail": "英国発世界最大級のクラシック・ミュージックフェス「BBC Proms JAPAN」を特集。さらにBBCが制作した映画を映画評論家・松崎健夫が紹介！",
+  "start": 1653665400000,
+  "end": 1653667200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "BBC特集",
+  "episode": 1,
+  "flags": []
+}

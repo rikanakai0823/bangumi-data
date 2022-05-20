@@ -1,0 +1,23 @@
+{
+  "id": "w66312n",
+  "category": "theater",
+  "title": "舞台『刀剣乱舞』慈伝 日日の葉よ散るらむ",
+  "fullTitle": "舞台『刀剣乱舞』慈伝 日日の葉よ散るらむ",
+  "detail": "【出演】荒牧慶彦 和田雅成 梅津瑞樹 蒼木 陣 ほか",
+  "start": 1653665400000,
+  "end": 1653675000000,
+  "seconds": 9600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "出演",
+  "episode": 1,
+  "flags": []
+}
