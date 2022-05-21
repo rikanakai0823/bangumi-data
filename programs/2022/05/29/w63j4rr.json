@@ -1,0 +1,25 @@
+{
+  "id": "w63j4rr",
+  "category": "sports",
+  "title": "2022MotoGP 第8戦イタリアGP 決勝",
+  "fullTitle": "[生]2022MotoGP 第8戦イタリアGP 決勝",
+  "detail": "～生中継　～ムジェロ\r\n解説：原田哲也　青木拓磨　坂田和人\r\n実況：伊藤大海　藤田大介　田辺大智\r\n\r\n▽レーススタート予定(日本時間)\r\nMoto3 18:00\r\nMoto2 19:20\r\nMotoGP 21:00",
+  "start": 1653813900000,
+  "end": 1653832800000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

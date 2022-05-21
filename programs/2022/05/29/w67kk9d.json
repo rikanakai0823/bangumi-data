@@ -1,0 +1,23 @@
+{
+  "id": "w67kk9d",
+  "category": "music",
+  "title": "テレビ最速放送! METROCK 2022",
+  "fullTitle": "テレビ最速放送! METROCK 2022",
+  "detail": "大阪と東京で5月に開催される都市型野外ロックフェス「METROCK 2022」。日本のロックシーンを牽引するアーティストが集結するこのフェスの模様をテレビ最速放送!",
+  "start": 1653809400000,
+  "end": 1653814800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "METROCK 2022",
+  "episode": 1,
+  "flags": []
+}

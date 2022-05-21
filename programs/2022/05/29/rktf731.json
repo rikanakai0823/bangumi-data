@@ -1,0 +1,25 @@
+{
+  "id": "rktf731",
+  "category": "music",
+  "title": "KCON:TACT HI 5 バックステージビハインド #3 INI、ITZY、THE BOYZ ほか",
+  "fullTitle": "KCON:TACT HI 5 バックステージビハインド #3(終) INI、ITZY、THE BOYZ ほか",
+  "detail": "「KCON:TACT HI 5」の裏側を収めたスペシャル番組！\r\n2021年 全3回\r\n再：31日(火)19:00～20:00",
+  "start": 1653753600000,
+  "end": 1653757200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "INI、ITZY、THE BOYZ ほか",
+  "episode": 3,
+  "flags": [
+    "終"
+  ]
+}

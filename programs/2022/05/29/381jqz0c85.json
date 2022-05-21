@@ -1,0 +1,27 @@
+{
+  "id": "381jqz0c85",
+  "category": "sports",
+  "title": "東京六大学野球「慶応」対「早稲田」",
+  "fullTitle": "東京六大学野球「慶応」対「早稲田」",
+  "detail": "◇番組内容\n［延伸のとき　Ｅテレ３で放送継続］",
+  "start": 1653800400000,
+  "end": 1653807600000,
+  "seconds": 7200,
+  "description": "",
+  "extra": {
+    "番組内容": "［延伸のとき　Ｅテレ３で放送継続］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "早稲田",
+  "episode": 1,
+  "flags": []
+}

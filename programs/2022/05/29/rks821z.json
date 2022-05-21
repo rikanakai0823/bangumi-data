@@ -1,0 +1,25 @@
+{
+  "id": "rks821z",
+  "category": "music",
+  "title": "＜独占生中継＞ラストアイドル ラストライブ LAST DANCE",
+  "fullTitle": "[生]＜独占生中継＞ラストアイドル ラストライブ LAST DANCE",
+  "detail": "2022年5月31日をもって活動を終了する『ラストアイドル』のラストライブ昼公演。昼夜2公演で、これまでにリリースされた全楽曲をパフォーマンス！\r\n※延長の場合あり",
+  "start": 1653793200000,
+  "end": 1653804000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

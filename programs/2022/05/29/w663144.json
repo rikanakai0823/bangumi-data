@@ -1,0 +1,23 @@
+{
+  "id": "w663144",
+  "category": "music",
+  "title": "World Musical Show Times",
+  "fullTitle": "World Musical Show Times",
+  "detail": "【出演】小野田龍之介、甲斐翔真、三浦宏規(五十音順)\r\n【会場】Billboard Live TOKYO",
+  "start": 1653809400000,
+  "end": 1653814800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 109
+  },
+  "subTitle": "出演",
+  "episode": 1,
+  "flags": []
+}

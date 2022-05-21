@@ -1,0 +1,26 @@
+{
+  "id": "iduwnwp",
+  "category": "cinema",
+  "title": "ハン・ソロ／スター・ウォーズ・ストーリー",
+  "fullTitle": "🈙🅍ハン・ソロ／スター・ウォーズ・ストーリー",
+  "detail": "『スター・ウォーズ』シリーズの知られざる物語を描くアナザーストーリー第２弾。若きハン・ソロが、自由を求めて銀河へ旅立つ。",
+  "start": 1653806700000,
+  "end": 1653815700000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
