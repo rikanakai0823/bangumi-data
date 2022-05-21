@@ -1,0 +1,23 @@
+{
+  "id": "idtv4mo",
+  "category": "information",
+  "title": "ＪＣクリエイティブショッピング",
+  "fullTitle": "ＪＣクリエイティブショッピング",
+  "detail": "",
+  "start": 1653105300000,
+  "end": 1653105600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
