@@ -1,0 +1,23 @@
+{
+  "id": "idrhg0g",
+  "category": "information",
+  "title": "ショップジャパン",
+  "fullTitle": "ショップジャパン",
+  "detail": "",
+  "start": 1653251400000,
+  "end": 1653253200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
