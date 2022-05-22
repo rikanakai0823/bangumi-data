@@ -1,0 +1,26 @@
+{
+  "id": "idtsxp1",
+  "category": "cinema",
+  "title": "＜４Ｋシアター＞映画「スタンド・バイ・ミー」",
+  "fullTitle": "🈙🈔＜４Ｋシアター＞映画「スタンド・バイ・ミー」",
+  "detail": "12才の夏、誰も大人になんかなりたくなかった・・・・・・。",
+  "start": 1653213600000,
+  "end": 1653220500000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 57
+  },
+  "subTitle": "スタンド・バイ・ミー",
+  "episode": 1,
+  "flags": [
+    "映",
+    "二"
+  ]
+}
