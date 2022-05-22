@@ -1,0 +1,23 @@
+{
+  "id": "w63cnaj",
+  "category": "sports",
+  "title": "[プロ野球]阪神×中日（鳴尾）～ファーム～",
+  "fullTitle": "[プロ野球]阪神×中日（鳴尾）～ファーム～",
+  "detail": "GAORAプロ野球中継～ファーム～\r\n阪神 vs 中日（5.27鳴尾浜）\r\n解説：井川慶\r\n実況：大村浩士",
+  "start": 1653883200000,
+  "end": 1653897600000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
