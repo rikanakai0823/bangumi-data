@@ -1,0 +1,23 @@
+{
+  "id": "rks820p",
+  "category": "anime",
+  "title": "美味しんぼ #38",
+  "fullTitle": "美味しんぼ #38",
+  "detail": "#38「ビールと枝豆」\r\n1988年10月～1992年3月放映\r\n作：雁屋哲　画：花咲アキラ",
+  "start": 1653984000000,
+  "end": 1653985800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "ビールと枝豆",
+  "episode": 38,
+  "flags": []
+}

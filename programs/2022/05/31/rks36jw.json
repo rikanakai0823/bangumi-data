@@ -1,0 +1,23 @@
+{
+  "id": "rks36jw",
+  "category": "cinema",
+  "title": "映画「プラチナデータ」",
+  "fullTitle": "映画「プラチナデータ」",
+  "detail": "二宮和也主演のサスペンス大作。原作は作家・東野圭吾の傑作ミステリー。豪華俳優陣が集結し、近未来の世界観をスタイリッシュかつスリリングに描く。",
+  "start": 1653998400000,
+  "end": 1654006800000,
+  "seconds": 8400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
