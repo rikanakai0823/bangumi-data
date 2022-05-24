@@ -5,8 +5,8 @@
   "fullTitle": "Evening　News",
   "detail": "最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Evening News」",
   "start": 1653732000000,
-  "end": 1653739200000,
-  "seconds": 7200,
+  "end": 1653735600000,
+  "seconds": 3600,
   "channel": {
     "type": "CS",
     "channel": "CS8",
