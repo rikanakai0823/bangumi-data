@@ -1,0 +1,29 @@
+{
+  "id": "idsk3cc",
+  "category": "etc",
+  "title": "ねこ自慢",
+  "fullTitle": "🈑ねこ自慢",
+  "detail": "◇制作\n2022年",
+  "start": 1654092000000,
+  "end": 1654095240000,
+  "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
