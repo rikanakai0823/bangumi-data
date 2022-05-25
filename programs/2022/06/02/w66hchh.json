@@ -1,0 +1,25 @@
+{
+  "id": "w66hchh",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE　東京ヤクルト×千葉ロッテ",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE　東京ヤクルト×千葉ロッテ",
+  "detail": "セ・パ交流戦「東京ヤクルト vs 千葉ロッテ」\r\n＜開催＞2022年6月2日（木）【生中継】～神宮球場\r\n＜解説＞松中信彦　＜実況＞酒主義久",
+  "start": 1654159800000,
+  "end": 1654178400000,
+  "seconds": 18600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "東京ヤクルト vs 千葉ロッテ",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

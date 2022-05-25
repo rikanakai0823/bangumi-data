@@ -1,0 +1,25 @@
+{
+  "id": "iduvpdh",
+  "category": "cinema",
+  "title": "クィーン【英国王室特集】",
+  "fullTitle": "🈙クィーン【英国王室特集】",
+  "detail": "ヘレン・ミレンがアカデミー主演女優賞に輝いた人間ドラマ。ダイアナ元皇太子妃の死に接した女王エリザベス２世の苦悩を描く。",
+  "start": 1654163100000,
+  "end": 1654170300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "英国王室特集",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
