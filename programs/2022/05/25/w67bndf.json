@@ -3,10 +3,14 @@
   "category": "music",
   "title": "Hello! Project PV特集",
   "fullTitle": "Hello! Project PV特集",
-  "detail": "Hello! Projectのミュージックビデオスペシャルをオンエア！",
+  "detail": "Hello! Projectのミュージックビデオスペシャルをオンエア！\n◇▼プレイリスト\n【Hello! Project スペシャル】\r\n「愛・魔性」アンジュルム\r\n「Future Smile」Juice=Juice\r\n「ハムカツ黙示録」BEYOOOOONDS\r\n「ハデにやっちゃいな！」アンジュルム\r\n「涙のヒロイン降板劇」つばきファクトリー\r\n「ビートの惑星」モーニング娘。'21\r\n「愛すべきべきHuman Life」アンジュルム\r\n\r\n※オンエア楽曲は予告なく変更になる場合がございます",
   "start": 1653485400000,
   "end": 1653487200000,
   "seconds": 1800,
+  "description": "Hello! Projectのミュージックビデオスペシャルをオンエア！",
+  "extra": {
+    "▼プレイリスト": "【Hello! Project スペシャル】\r\n「愛・魔性」アンジュルム\r\n「Future Smile」Juice=Juice\r\n「ハムカツ黙示録」BEYOOOOONDS\r\n「ハデにやっちゃいな！」アンジュルム\r\n「涙のヒロイン降板劇」つばきファクトリー\r\n「ビートの惑星」モーニング娘。'21\r\n「愛すべきべきHuman Life」アンジュルム\r\n\r\n※オンエア楽曲は予告なく変更になる場合がございます"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS16",
