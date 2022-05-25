@@ -1,0 +1,23 @@
+{
+  "id": "ids0xbv",
+  "category": "sports",
+  "title": "スーパーベースボール2022　阪神×楽天",
+  "fullTitle": "スーパーベースボール2022　阪神×楽天",
+  "detail": "5月の月間打率3割越えと好調な阪神・近本。頼れる選手会長の一打に期待！好調楽天は、西川・浅村・島内ら実績十分の強打者たちに注目！試合終了まで生中継。",
+  "start": 1653469200000,
+  "end": 1653480000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
