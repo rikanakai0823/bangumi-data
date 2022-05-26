@@ -1,9 +1,9 @@
 {
   "id": "w69agk2",
-  "category": "documentary",
-  "title": "Inside Africa",
-  "fullTitle": "Inside Africa",
-  "detail": "アフリカ各地の魅力を自然、産業、芸術、文化、人物など、様々な観点から伝える。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "Living Golf🈞",
+  "detail": "#208 東南アジア特集。ベトナムの海岸沿いのコース、バンコク郊外の世界の名門コースを模したコースを訪問。アジアンミックスカップ会場でアジアツアーCEOを取材。",
   "start": 1653712200000,
   "end": 1653714000000,
   "seconds": 1800,
@@ -18,6 +18,8 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": 1,
-  "flags": []
+  "episode": 208,
+  "flags": [
+    "再"
+  ]
 }
