@@ -1,0 +1,25 @@
+{
+  "id": "w66hcid",
+  "category": "sports",
+  "title": "SWALLOWS BASEBALL L!VE　東京ヤクルト×埼玉西武",
+  "fullTitle": "[生]SWALLOWS BASEBALL L!VE　東京ヤクルト×埼玉西武",
+  "detail": "セ・パ交流戦「東京ヤクルト vs 埼玉西武」　～神宮球場\r\n＜解説＞館山昌平　＜実況＞田淵裕章\r\n▽副音声あり（一部プラットホームでは主音声のみ）\r\n【生中継】",
+  "start": 1654246200000,
+  "end": 1654264800000,
+  "seconds": 18600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "東京ヤクルト vs 埼玉西武",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
