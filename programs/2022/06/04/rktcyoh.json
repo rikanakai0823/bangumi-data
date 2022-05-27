@@ -1,0 +1,26 @@
+{
+  "id": "rktcyoh",
+  "category": "music",
+  "title": "【ＢＴＳ出演】２０１５ ＫＢＳ歌謡祭",
+  "fullTitle": "【ＢＴＳ出演】２０１５ ＫＢＳ歌謡祭　[字][新]",
+  "detail": "【BTS出演】BTS、SHINee、EXO、CNBLUE、INFINITE、少女時代、GOT7、Red Velvetなど人気K-POPアイドルが総出演！歌謡祭ならではのスペシャルステージも必見！",
+  "start": 1654277700000,
+  "end": 1654290000000,
+  "seconds": 12300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "BTS出演",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "38224k009l",
+  "category": "news",
+  "title": "朝まで生テレビ！",
+  "fullTitle": "朝まで生テレビ！",
+  "detail": "36年目に入った深夜討論番組。今月は「激論！～若者世代の本音 ド～する？！ニッポン～」をお送りします。",
+  "start": 1653668700000,
+  "end": 1653679500000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "激論！～若者世代の本音 ド～する？！ニッポン～",
+  "episode": 1,
+  "flags": []
+}

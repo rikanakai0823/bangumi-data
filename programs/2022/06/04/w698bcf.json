@@ -1,0 +1,25 @@
+{
+  "id": "w698bcf",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "BBCは100年の歴史において、放送業界を変えた多くの技術を開発してきた。番組ではBBCの技術の歴史をひも解くほか、未来への展望を考える。",
+  "start": 1654302600000,
+  "end": 1654304400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
