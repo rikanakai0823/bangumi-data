@@ -3,13 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"That's Hilarious\"CHARLIE PUTH from Single 「That's Hilarious」\r\n\"Speed Dial\"HUNNY from EP 「Homesick」 7月22日\r\n\"Me, Myself & I\"5 SECONDS OF SUMMER from Album 「5SOS5」 9月23日\n◇番組内容２\n\"Ur Mum\"WET LEG from Album 「Wet Leg」\r\n\"Wet Dream\"WET LEG from Album 「Wet Leg」\r\n\"Too Late Now\"WET LEG from Album 「Wet Leg」\n◇番組内容３\n\"Cate's Brother\"MAISIE PETERS from Single 「Cate's Brother」\r\n\"2Step\"ED SHEERAN feat. LIL BABY from Single 「2Step」",
   "start": 1653922800000,
   "end": 1653924600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"That's Hilarious\"CHARLIE PUTH from Single 「That's Hilarious」\r\n\"Speed Dial\"HUNNY from EP 「Homesick」 7月22日\r\n\"Me, Myself & I\"5 SECONDS OF SUMMER from Album 「5SOS5」 9月23日",
+    "番組内容２": "\"Ur Mum\"WET LEG from Album 「Wet Leg」\r\n\"Wet Dream\"WET LEG from Album 「Wet Leg」\r\n\"Too Late Now\"WET LEG from Album 「Wet Leg」",
+    "番組内容３": "\"Cate's Brother\"MAISIE PETERS from Single 「Cate's Brother」\r\n\"2Step\"ED SHEERAN feat. LIL BABY from Single 「2Step」"
   },
   "channel": {
     "type": "GR",
