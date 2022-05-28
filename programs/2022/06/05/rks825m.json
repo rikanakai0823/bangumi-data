@@ -1,0 +1,25 @@
+{
+  "id": "rks825m",
+  "category": "variety",
+  "title": "ネタポン #1-9",
+  "fullTitle": "[無料]ネタポン #1-9",
+  "detail": "ランダムで放送される１組３分のネタ番組『ネタポン』\r\n正統派漫才師からエッジのきいた地下芸人までブレイク必至の芸人たちが集結！いったいどんなネタが見れるのか！？",
+  "start": 1654395300000,
+  "end": 1654398000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

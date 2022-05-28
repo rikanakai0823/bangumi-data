@@ -1,0 +1,26 @@
+{
+  "id": "idvj8s2",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "🈢🈓ＢＳイレブン競馬中継　第１部",
+  "detail": "【東京】５Ｒ～８Ｒ，９Ｒ「ホンコンジョッキークラブトロフィー」\r\n【中京】５Ｒ～８Ｒ,９Ｒ「一宮特別」，10Ｒ「高山ステークス」",
+  "start": 1654398000000,
+  "end": 1654408800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

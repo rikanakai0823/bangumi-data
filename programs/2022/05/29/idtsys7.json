@@ -1,0 +1,23 @@
+{
+  "id": "idtsys7",
+  "category": "information",
+  "title": "ニューウェルブランズ・ジャパンTVショッピング",
+  "fullTitle": "ニューウェルブランズ・ジャパンTVショッピング",
+  "detail": "",
+  "start": 1653756900000,
+  "end": 1653757200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
