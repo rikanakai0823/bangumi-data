@@ -1,0 +1,25 @@
+{
+  "id": "381jqz2gk4",
+  "category": "hobby",
+  "title": "おかあさんといっしょ「大阪２」",
+  "fullTitle": "おかあさんといっしょ「大阪２」🈑",
+  "detail": "２～４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！",
+  "start": 1653724800000,
+  "end": 1653726240000,
+  "seconds": 1440,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "大阪２",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
