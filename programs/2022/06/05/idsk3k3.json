@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "噂の！東京マガジン",
   "fullTitle": "噂の！東京マガジン",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1654401600000,
   "end": 1654404840000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
