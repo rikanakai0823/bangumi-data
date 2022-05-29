@@ -3,10 +3,14 @@
   "category": "music",
   "title": "デビュー30周年記念! Mr.Children特集",
   "fullTitle": "デビュー30周年記念! Mr.Children特集",
-  "detail": "Mr.Childrenのミュージックビデオ特集をオンエア！",
+  "detail": "Mr.Childrenのミュージックビデオ特集をオンエア！\n◇【番組内容】\n『デビュー30周年記念! Mr.Children特集』…5/10(火)でデビュー30周年を迎えるMr.Childrenのミュージックビデオ特集をオンエア！▼オンエアリストは「エムオン」で検索！",
   "start": 1653814800000,
   "end": 1653820200000,
   "seconds": 5400,
+  "description": "Mr.Childrenのミュージックビデオ特集をオンエア！",
+  "extra": {
+    "【番組内容】": "『デビュー30周年記念! Mr.Children特集』…5/10(火)でデビュー30周年を迎えるMr.Childrenのミュージックビデオ特集をオンエア！▼オンエアリストは「エムオン」で検索！"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS12",
