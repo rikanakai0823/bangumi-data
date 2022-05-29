@@ -1,0 +1,27 @@
+{
+  "id": "idsk3mg",
+  "category": "hobby",
+  "title": "魔法のワンプレート",
+  "fullTitle": "魔法のワンプレート",
+  "detail": "◇制作\n2022年",
+  "start": 1654498500000,
+  "end": 1654498800000,
+  "seconds": 300,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

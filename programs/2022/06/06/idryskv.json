@@ -1,0 +1,23 @@
+{
+  "id": "idryskv",
+  "category": "information",
+  "title": "Ａの伝言　＃136",
+  "fullTitle": "Ａの伝言　＃136",
+  "detail": "今日までの“過去”から明日という“未来”へ向けて…。BS朝日からの未来への伝言。最新のムーブメントや、いま一番注目したいイベント情報などを紹介する。",
+  "start": 1654527240000,
+  "end": 1654527600000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 136,
+  "flags": []
+}
