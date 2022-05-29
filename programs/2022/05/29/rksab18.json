@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ワールドプロレスリング 完全版 #194",
   "fullTitle": "ワールドプロレスリング 完全版 #194",
-  "detail": "「NEW JAPAN CUP 2022」\r\n日時：2022年3月27日\r\n会場：大阪・大阪城ホール",
+  "detail": "「NEW JAPAN CUP 2022」\r\n日時：2022年3月27日\r\n会場：大阪・大阪城ホール\n◇主な対戦カード\n▽時間無制限1本勝負\r\n『NEW JAPAN CUP 2022』決勝戦\r\n内藤 哲也 vs ザック・セイバーJr.",
   "start": 1653811200000,
   "end": 1653825600000,
   "seconds": 14400,
+  "description": "「NEW JAPAN CUP 2022」\r\n日時：2022年3月27日\r\n会場：大阪・大阪城ホール",
+  "extra": {
+    "主な対戦カード": "▽時間無制限1本勝負\r\n『NEW JAPAN CUP 2022』決勝戦\r\n内藤 哲也 vs ザック・セイバーJr."
+  },
   "channel": {
     "type": "CS",
     "channel": "CS2",
