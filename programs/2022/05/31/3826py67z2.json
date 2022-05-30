@@ -1,0 +1,25 @@
+{
+  "id": "3826py67z2",
+  "category": "anime",
+  "title": "おそ松さん",
+  "fullTitle": "おそ松さん🈞",
+  "detail": "「いいのかな」\r\n「楽屋」\r\n「トトデレラ」",
+  "start": 1653930000000,
+  "end": 1653931800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "いいのかな",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
