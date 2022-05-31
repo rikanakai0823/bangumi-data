@@ -1,0 +1,26 @@
+{
+  "id": "idozrmr",
+  "category": "sports",
+  "title": "プロ野球２０２２「ソフトバンク」対「阪神」",
+  "fullTitle": "プロ野球２０２２「ソフトバンク」対「阪神」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】伊東勤，【アナウンサー】池野健　～ＰａｙＰａｙドームから中継～",
+  "start": 1654678800000,
+  "end": 1654691400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "阪神",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

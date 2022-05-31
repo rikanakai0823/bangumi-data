@@ -1,0 +1,26 @@
+{
+  "id": "idudb8c",
+  "category": "cinema",
+  "title": "毎日かあさん",
+  "fullTitle": "🈙毎日かあさん🈑",
+  "detail": "人気漫画家・西原理恵子のエッセイ漫画を基に、元気すぎる子どもたちと子どものような夫に振り回されるヒロインの深い愛情を綴る。小泉今日子と永瀬正敏の元夫婦が共演。",
+  "start": 1654630200000,
+  "end": 1654637400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

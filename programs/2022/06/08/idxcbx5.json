@@ -1,0 +1,25 @@
+{
+  "id": "idxcbx5",
+  "category": "information",
+  "title": "インフォメーション",
+  "fullTitle": "🈚インフォメーション",
+  "detail": "",
+  "start": 1654693200000,
+  "end": 1654695000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

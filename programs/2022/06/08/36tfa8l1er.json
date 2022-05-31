@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l1er",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「キャンサー賞」「若竹賞」「第６８回東京ダービー（ＳⅠ）（クリソベリル賞）」",
+  "start": 1654669200000,
+  "end": 1654689600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 68,
+  "flags": []
+}

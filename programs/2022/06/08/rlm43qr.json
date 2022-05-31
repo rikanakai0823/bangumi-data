@@ -1,0 +1,23 @@
+{
+  "id": "rlm43qr",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022 6/7 ソフトバンクvs.阪神",
+  "fullTitle": "HAWKS プロ野球中継2022 6/7 ソフトバンクvs.阪神",
+  "detail": "▽6月7日開催\r\n解説/実況：斉藤和巳/信川竜太\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1654659000000,
+  "end": 1654677000000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idxcbxx",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2022～ファーム～　5/30 西武vs.楽天",
+  "fullTitle": "LIONS プロ野球中継2022～ファーム～　5/30 西武vs.楽天",
+  "detail": "▽５月３０日開催\r\n実況：北野文啓",
+  "start": 1654642800000,
+  "end": 1654657200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
