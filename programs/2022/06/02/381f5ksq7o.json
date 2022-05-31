@@ -3,10 +3,14 @@
   "category": "drama",
   "title": "「正直不動産」主題歌",
   "fullTitle": "「正直不動産」主題歌",
-  "detail": "",
+  "detail": "ドラマ１０「正直不動産」の主題歌を紹介します！\n◇番組内容\nドラマ１０「正直不動産」の主題歌を紹介します！",
   "start": 1654106520000,
   "end": 1654106640000,
   "seconds": 120,
+  "description": "ドラマ１０「正直不動産」の主題歌を紹介します！",
+  "extra": {
+    "番組内容": "ドラマ１０「正直不動産」の主題歌を紹介します！"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "正直不動産",
   "episode": 1,
   "flags": []
 }
