@@ -1,0 +1,25 @@
+{
+  "id": "w63cnhd",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×横浜DeNA～ファーム～（鎌スタ）",
+  "fullTitle": "[生] [プロ野球]北海道日本ハム×横浜DeNA～ファーム～（鎌スタ）",
+  "detail": "（最大延長　１７：５０）\r\nGAORAプロ野球中継～ファーム～\r\n「北海道日本ハム vs 横浜DeNA」\r\n\r\n解説：田中幸雄\r\n実況：中野玄\r\n\r\n開催日：2022年6月9日\r\n球場：鎌スタ",
+  "start": 1654746900000,
+  "end": 1654763400000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
