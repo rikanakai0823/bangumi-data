@@ -1,0 +1,23 @@
+{
+  "id": "36rdttlwnh",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽Ｂｉｇ－Ａインフォメーション▽天気▽新型コロナ対策▽メッセージテーマ「わたしのエコ活動」",
+  "start": 1654068600000,
+  "end": 1654070400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "わたしのエコ活動",
+  "episode": 1,
+  "flags": []
+}
