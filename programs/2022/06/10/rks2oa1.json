@@ -1,0 +1,23 @@
+{
+  "id": "rks2oa1",
+  "category": "information",
+  "title": "【無料】インフォメーション2022年6月",
+  "fullTitle": "【無料】インフォメーション2022年6月",
+  "detail": "TBSチャンネルのオススメ番組を紹介！カスタマーセンター TEL：0570－666－296（年中無休10－20時）",
+  "start": 1654858200000,
+  "end": 1654858800000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

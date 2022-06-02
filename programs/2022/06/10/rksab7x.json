@@ -1,0 +1,25 @@
+{
+  "id": "rksab7x",
+  "category": "sports",
+  "title": "サッカー U-16インターナショナルドリームカップ2022",
+  "fullTitle": "[生]サッカー U-16インターナショナルドリームカップ2022",
+  "detail": "U-16日本代表×U-16ウルグアイ代表\r\n\r\n※延長の場合あり\r\n※お問合せ：0570-0555-77（10時～20時）",
+  "start": 1654851300000,
+  "end": 1654859400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

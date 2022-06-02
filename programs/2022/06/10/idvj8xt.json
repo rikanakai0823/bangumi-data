@@ -1,0 +1,25 @@
+{
+  "id": "idvj8xt",
+  "category": "sports",
+  "title": "ＢＳイレブン住之江ボートレース中継",
+  "fullTitle": "🈢ＢＳイレブン住之江ボートレース中継",
+  "detail": "『ＧⅠ太閤賞競走開設66周年記念』優勝戦のの模様を、実況生中継！\r\n企画も盛りだくさんに、ボートレースの楽しさを発信します！",
+  "start": 1654858800000,
+  "end": 1654862280000,
+  "seconds": 3480,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
