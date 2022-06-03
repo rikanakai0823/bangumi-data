@@ -1,0 +1,25 @@
+{
+  "id": "rlm43qx",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022 6/11 ソフトバンクvs.ヤクルト",
+  "fullTitle": "🈢HAWKS プロ野球中継2022 6/11 ソフトバンクvs.ヤクルト",
+  "detail": "▽6月11日開催\r\n解説/実況：坊西浩嗣/秋山浩志 (副音声あり)\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1654922700000,
+  "end": 1654941600000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

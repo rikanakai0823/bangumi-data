@@ -1,0 +1,23 @@
+{
+  "id": "idxcbyl",
+  "category": "sports",
+  "title": "サンフレッチェTV #115",
+  "fullTitle": "【契】サンフレッチェTV #115",
+  "detail": "サンフレッチェ広島のクラブ応援番組。今回は、4月を公式戦無敗で終えた好調の要因を森崎浩司アンバサダーが解説する。",
+  "start": 1654885800000,
+  "end": 1654886700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 115,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idp43fb",
+  "category": "music",
+  "title": "さわやかウインドー「富士山点描」",
+  "fullTitle": "さわやかウインドー「富士山点描」",
+  "detail": "",
+  "start": 1654885800000,
+  "end": 1654887600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "富士山点描",
+  "episode": 1,
+  "flags": []
+}
