@@ -1,0 +1,23 @@
+{
+  "id": "w698bei",
+  "category": "news",
+  "title": "BBCワールドニュース",
+  "fullTitle": "BBCワールドニュース",
+  "detail": "世界の最新ニュースをお送りする。",
+  "start": 1654351200000,
+  "end": 1654351800000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
