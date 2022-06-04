@@ -1,0 +1,23 @@
+{
+  "id": "3826py8daf",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10Ｒ由比ヶ浜特別\r\n　　　　11Ｒアハルテケステークス\r\n【中京】10Ｒ中京スポニチ賞\r\n　　　　11Ｒ鳴尾記念（ＧⅢ）",
+  "start": 1654322400000,
+  "end": 1654326000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
