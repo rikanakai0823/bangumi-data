@@ -1,0 +1,25 @@
+{
+  "id": "w68gx9k",
+  "category": "documentary",
+  "title": "火星への旅 完全ガイド",
+  "fullTitle": "火星への旅 完全ガイド(字)",
+  "detail": "最近の調査により、火星について様々なことが分かってきた。火星は死んだ星ではなかったのだ。この驚くべき星の、今まで見たことのないツアーにご案内しよう。",
+  "start": 1654963200000,
+  "end": 1654966800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS6",
+    "name": "ディスカバリー",
+    "id": "f0dw",
+    "sid": 340,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 132
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

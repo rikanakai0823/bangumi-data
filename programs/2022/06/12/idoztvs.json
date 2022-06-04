@@ -1,0 +1,23 @@
+{
+  "id": "idoztvs",
+  "category": "sports",
+  "title": "第７１回全日本大学野球選手権　決勝",
+  "fullTitle": "第７１回全日本大学野球選手権　決勝",
+  "detail": "",
+  "start": 1655006400000,
+  "end": 1655015400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 71,
+  "flags": []
+}

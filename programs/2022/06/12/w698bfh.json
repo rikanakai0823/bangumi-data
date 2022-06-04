@@ -1,0 +1,25 @@
+{
+  "id": "w698bfh",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "番組は脳の修復のために開発されている新たな治療法を調査するほか、空の旅の未来も探る。",
+  "start": 1655004600000,
+  "end": 1655006400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rktcytc",
+  "category": "variety",
+  "title": "Ｇｕｉｄｅ ｍａｐ Ｋ－ＲＯＡＤ シーズン２",
+  "fullTitle": "Ｇｕｉｄｅ ｍａｐ Ｋ－ＲＯＡＤ シーズン２　[字][終]",
+  "detail": "日本初放送！XIA (JUNSU)＆ソン・ジュノ＆イム・ジフンやCLCのスンヒ＆SORNなど韓国のスターたちが韓国の各地の名所を紹介するKBS Worldオリジナル旅行バラエティ！2021年",
+  "start": 1655026500000,
+  "end": 1655031000000,
+  "seconds": 4500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "終"
+  ]
+}

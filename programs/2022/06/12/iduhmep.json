@@ -1,0 +1,26 @@
+{
+  "id": "iduhmep",
+  "category": "cinema",
+  "title": "瞬　またたき",
+  "fullTitle": "🈙瞬　またたき🈑",
+  "detail": "北川景子の主演で河原れんの同名小説を映画化したラブストーリー。事故で恋人を失い、自分だけが生き残ったヒロイン。彼女が真実と向き合いながら再生していく姿を綴った。",
+  "start": 1655004600000,
+  "end": 1655011800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

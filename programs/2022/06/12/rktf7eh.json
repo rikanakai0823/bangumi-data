@@ -1,0 +1,23 @@
+{
+  "id": "rktf7eh",
+  "category": "music",
+  "title": "M COUNTDOWN バックステージ",
+  "fullTitle": "M COUNTDOWN バックステージ",
+  "detail": "出演：カン・ダニエル、ASTRO、AB6IX、ONEUS、TNX、Ciipher\r\n【2022年5月26日M COUNTDOWN】\r\n再：(月)12:00（木)17:00（土)深4:00",
+  "start": 1655042400000,
+  "end": 1655046000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
