@@ -1,0 +1,26 @@
+{
+  "id": "idv0xks",
+  "category": "cinema",
+  "title": "クラウド　アトラス🈥",
+  "fullTitle": "🈙🅍クラウド　アトラス🈥",
+  "detail": "トム・ハンクス、ハル・ベリーら豪華スター出演。時代も場所も違う６つの物語が、壮大な叙事詩を紡ぎ出す。［ＰＧ１２］",
+  "start": 1655071200000,
+  "end": 1655082000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

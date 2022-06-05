@@ -1,0 +1,27 @@
+{
+  "id": "idsk40z",
+  "category": "etc",
+  "title": "住まいの参観日",
+  "fullTitle": "住まいの参観日",
+  "detail": "◇制作\n2022年",
+  "start": 1655121240000,
+  "end": 1655121600000,
+  "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

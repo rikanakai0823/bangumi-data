@@ -1,0 +1,27 @@
+{
+  "id": "idudbce",
+  "category": "cinema",
+  "title": "ＵＤＯＮ",
+  "fullTitle": "🈙ＵＤＯＮ🅍🈑",
+  "detail": "「踊る大捜査線」シリーズの本広克行監督によるフードエンターテインメント映画。香川県のソウルフード、讃岐うどんをめぐって大騒動が展開。ユースケ・サンタマリア主演。",
+  "start": 1655109000000,
+  "end": 1655118000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 59
+  },
+  "subTitle": "踊る大捜査線",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

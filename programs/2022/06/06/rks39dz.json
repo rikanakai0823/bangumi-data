@@ -3,10 +3,16 @@
   "category": "music",
   "title": "【無料】TBSch×SBS Medianet PRESENTS THE SHOW #298<字幕>",
   "fullTitle": "【無料】TBSch×SBS Medianet PRESENTS THE SHOW #298<字幕>",
-  "detail": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。\r\n【出演】ASTRO、LE SSERAFIM、イェリン、チョン・セウン、AB6IX 他",
+  "detail": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。\r\n【出演】ASTRO、LE SSERAFIM、イェリン、チョン・セウン、AB6IX 他\n◇出演者\nASTRO、LE SSERAFIM、イェリン、チョン・セウン、AB6IX、ONEUS、DKB、TNX、スングギ、T1419、Ciipher、CLASS：y、Walking After U、SEMA\r\n【MC】ヨサン(ATEEZ)、ミンヒ(CRAVITY)、キム・チェヒョン(Kep1er)\n◇番組内容\nTBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。\r\nK－POP界をリードするトップアーティストらのカムバックステージは必見！\r\nASTRO、LE SSERAFIM、イェリン、チョン・セウン、AB6IX、ONEUS、DKB、TNX、スングギ、T1419、Ciipher、CLASS：y、Walking After U、SEMA\n◇プロデューサー\nヤン・ジェヨン、矢島公紀",
   "start": 1654444800000,
   "end": 1654449600000,
   "seconds": 4800,
+  "description": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。\r\n【出演】ASTRO、LE SSERAFIM、イェリン、チョン・セウン、AB6IX 他",
+  "extra": {
+    "出演者": "ASTRO、LE SSERAFIM、イェリン、チョン・セウン、AB6IX、ONEUS、DKB、TNX、スングギ、T1419、Ciipher、CLASS：y、Walking After U、SEMA\r\n【MC】ヨサン(ATEEZ)、ミンヒ(CRAVITY)、キム・チェヒョン(Kep1er)",
+    "番組内容": "TBSチャンネルと韓国のSBS Medianetで放送されるK－POP人気番組『THE SHOW』。\r\nK－POP界をリードするトップアーティストらのカムバックステージは必見！\r\nASTRO、LE SSERAFIM、イェリン、チョン・セウン、AB6IX、ONEUS、DKB、TNX、スングギ、T1419、Ciipher、CLASS：y、Walking After U、SEMA",
+    "プロデューサー": "ヤン・ジェヨン、矢島公紀"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS2",
