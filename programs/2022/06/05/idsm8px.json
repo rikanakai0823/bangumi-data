@@ -1,0 +1,23 @@
+{
+  "id": "idsm8px",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　楽天」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　楽天」",
+  "detail": "横浜から生中継。午後２時試合開始。\r\n【解説】槙原寛己【実況】小笠原亘",
+  "start": 1654405200000,
+  "end": 1654415640000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　楽天",
+  "episode": 1,
+  "flags": []
+}
