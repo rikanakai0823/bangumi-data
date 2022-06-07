@@ -1,0 +1,25 @@
+{
+  "id": "rktf7g9",
+  "category": "music",
+  "title": "2021 Mnet Japan Fan's Choice Awards #2",
+  "fullTitle": "2021 Mnet Japan Fan's Choice Awards #2(終)",
+  "detail": "K-POPファン必見！MnetファンによるMnetファンのための授賞式！\r\n再：28日(火)19:00～20:00",
+  "start": 1655233200000,
+  "end": 1655236800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "終"
+  ]
+}

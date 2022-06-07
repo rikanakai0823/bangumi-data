@@ -1,0 +1,27 @@
+{
+  "id": "rktcyvp",
+  "category": "music",
+  "title": "ミュージックバンク ｉｎブラジル",
+  "fullTitle": "ミュージックバンク ｉｎブラジル　[字][再][新]",
+  "detail": "SHINee、CNBLUE、INFINITE、MBLAQ、B.A.Pら出演の音楽イベント！開催日：2014年6月7日",
+  "start": 1655278200000,
+  "end": 1655284200000,
+  "seconds": 6000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再",
+    "新"
+  ]
+}

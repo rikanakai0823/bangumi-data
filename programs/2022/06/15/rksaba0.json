@@ -1,0 +1,23 @@
+{
+  "id": "rksaba0",
+  "category": "anime",
+  "title": "【ドラえもん1985年一挙放送】",
+  "fullTitle": "【ドラえもん1985年一挙放送】",
+  "detail": "#163-169\r\n#163「自動返送荷札／ドライライト」\r\n#164「友だちの輪／必中けん賞はがき」ほか",
+  "start": 1655220600000,
+  "end": 1655233200000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 163,
+  "flags": []
+}

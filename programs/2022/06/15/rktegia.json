@@ -1,0 +1,23 @@
+{
+  "id": "rktegia",
+  "category": "variety",
+  "title": "DKBユナイテッド #1",
+  "fullTitle": "DKBユナイテッド #1",
+  "detail": "9人組ボーイズグループ DKBの初単独リアリティ番組！\r\n放送日：(月)22:00～\r\n再：(水)14:30～",
+  "start": 1655271000000,
+  "end": 1655274600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

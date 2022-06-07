@@ -1,0 +1,26 @@
+{
+  "id": "iduhmfs",
+  "category": "cinema",
+  "title": "キングコングの逆襲",
+  "fullTitle": "🈙キングコングの逆襲🈑",
+  "detail": "米国の人気怪獣キングコングを、「ゴジラ」シリーズで知られる日本の東宝が「キングコング対ゴジラ」に続いて題材にした第２作。コングは巨大ロボ“メカニコング”と戦う。",
+  "start": 1655279100000,
+  "end": 1655286300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
