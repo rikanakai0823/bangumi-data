@@ -1,0 +1,26 @@
+{
+  "id": "iduvj72",
+  "category": "cinema",
+  "title": "ボヘミアン・ラプソディ",
+  "fullTitle": "🈙🅍ボヘミアン・ラプソディ",
+  "detail": "伝説のバンド「クイーン」の栄光と、ヴォーカルのフレディ・マーキュリーの苦悩を描く音楽伝記映画。アカデミー賞４部門受賞。",
+  "start": 1655379000000,
+  "end": 1655388000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "クイーン",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

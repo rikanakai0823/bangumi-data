@@ -1,0 +1,25 @@
+{
+  "id": "w66ohc6",
+  "category": "drama",
+  "title": "サンダーバード ARE GO 3#4",
+  "fullTitle": "[二]サンダーバード ARE GO 3(帯)#4",
+  "detail": "#4「水星の夜明け」\r\nNIGHT AND DAY\r\n水星でハウスマン＆グレイ採掘のクローラーが打ち上げようとした鉱物カプセルが爆発。",
+  "start": 1655328600000,
+  "end": 1655330400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "水星の夜明け",
+  "episode": 4,
+  "flags": [
+    "二"
+  ]
+}
