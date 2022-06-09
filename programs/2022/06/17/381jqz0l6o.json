@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0l6o",
+  "category": "theater",
+  "title": "新・にっぽんの芸能",
+  "fullTitle": "新・にっぽんの芸能🈑",
+  "detail": "",
+  "start": 1655468700000,
+  "end": 1655470800000,
+  "seconds": 2100,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

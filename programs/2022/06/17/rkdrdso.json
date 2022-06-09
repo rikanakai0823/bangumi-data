@@ -1,0 +1,23 @@
+{
+  "id": "rkdrdso",
+  "category": "information",
+  "title": "プロヴァンスのティータイム",
+  "fullTitle": "プロヴァンスのティータイム",
+  "detail": "こだわりのオーガニック原料と伝統的なレシピで作られたハーブティーが登場。初夏のティータイムにぜひ！",
+  "start": 1655445600000,
+  "end": 1655449200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

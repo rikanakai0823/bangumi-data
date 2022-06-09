@@ -1,0 +1,26 @@
+{
+  "id": "idp46ej",
+  "category": "documentary",
+  "title": "新日本風土記「気仙沼」",
+  "fullTitle": "新日本風土記「気仙沼」🈑🈞",
+  "detail": "カツオ水揚げ日本一の気仙沼。昔も今も魚を追って日本中の漁船が集まる。近年は男女問わず都会からの移住者も多い。様々な人を受け入れてきた港町と、海に生きる人々の物語",
+  "start": 1655420400000,
+  "end": 1655424000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "気仙沼",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

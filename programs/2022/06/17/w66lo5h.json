@@ -1,0 +1,25 @@
+{
+  "id": "w66lo5h",
+  "category": "sports",
+  "title": "プロ野球中継2022　中日×巨人",
+  "fullTitle": "[生]プロ野球中継2022　中日×巨人",
+  "detail": "「中日 vs 巨人」\r\n＜開催＞2022年6月17日（金）【生中継】\r\n　～バンテリンドーム\r\n＜解説＞権藤博　＜実況＞加藤暁\r\n※変更の場合あり",
+  "start": 1655455800000,
+  "end": 1655478000000,
+  "seconds": 22200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 114
+  },
+  "subTitle": "中日 vs 巨人",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

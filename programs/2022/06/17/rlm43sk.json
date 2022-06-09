@@ -1,0 +1,23 @@
+{
+  "id": "rlm43sk",
+  "category": "sports",
+  "title": "新日本プロレス大作戦DX #207",
+  "fullTitle": "新日本プロレス大作戦DX #207",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1655401800000,
+  "end": 1655403600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "サムライTV",
+  "episode": 207,
+  "flags": []
+}
