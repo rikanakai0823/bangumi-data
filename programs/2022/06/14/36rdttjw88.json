@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Footloose\"KENNY LOGGINS\r\n\"Danger Zone\"KENNY LOGGINS\r\nKENNY LOGGINSインタビュー\r\n\"Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")\"LADY GAGA\n◇番組内容２\n\"Growing Up\"THE LINDA LINDAS\r\n\"BEESWAX\"EASY LIFE\r\n\"The Funeral\"YUNGBLUD\r\n\"Sweetest Pie\"MEGAN THEE STALLION & DUA LIPA\r\n\"Cooped Up feat.RODDY RICCH\"POST MALONE",
   "start": 1655132400000,
   "end": 1655134200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Footloose\"KENNY LOGGINS\r\n\"Danger Zone\"KENNY LOGGINS\r\nKENNY LOGGINSインタビュー\r\n\"Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")\"LADY GAGA",
+    "番組内容２": "\"Growing Up\"THE LINDA LINDAS\r\n\"BEESWAX\"EASY LIFE\r\n\"The Funeral\"YUNGBLUD\r\n\"Sweetest Pie\"MEGAN THEE STALLION & DUA LIPA\r\n\"Cooped Up feat.RODDY RICCH\"POST MALONE"
   },
   "channel": {
     "type": "GR",
