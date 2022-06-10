@@ -1,0 +1,23 @@
+{
+  "id": "idta5k3",
+  "category": "news",
+  "title": "モーサテ",
+  "fullTitle": "モーサテ",
+  "detail": "世界の経済ニュースやマーケットの情報をいち早くお伝えします！",
+  "start": 1654807500000,
+  "end": 1654812300000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
