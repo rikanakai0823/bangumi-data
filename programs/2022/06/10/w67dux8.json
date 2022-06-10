@@ -3,10 +3,14 @@
   "category": "music",
   "title": "超特急特集",
   "fullTitle": "超特急特集",
-  "detail": "昨年結成10周年を迎え、6/10がCDデビュー記念日となる超特急のミュージックビデオスペシャルをオンエア！",
+  "detail": "昨年結成10周年を迎え、6/10がCDデビュー記念日となる超特急のミュージックビデオスペシャルをオンエア！\n◇▼プレイリスト\n【超特急 MUSIC VIDEO SPECIAL】\r\nRevival Love\r\nAsayake\r\nCARNAVAL\r\nカチカジャ\r\nドーブリジェン\r\nDance Dance Dancing！\r\nクレッシェンド\r\n\r\n※オンエア楽曲は予告なく変更になる場合がございます",
   "start": 1654862400000,
   "end": 1654864200000,
   "seconds": 1800,
+  "description": "昨年結成10周年を迎え、6/10がCDデビュー記念日となる超特急のミュージックビデオスペシャルをオンエア！",
+  "extra": {
+    "▼プレイリスト": "【超特急 MUSIC VIDEO SPECIAL】\r\nRevival Love\r\nAsayake\r\nCARNAVAL\r\nカチカジャ\r\nドーブリジェン\r\nDance Dance Dancing！\r\nクレッシェンド\r\n\r\n※オンエア楽曲は予告なく変更になる場合がございます"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS20",
