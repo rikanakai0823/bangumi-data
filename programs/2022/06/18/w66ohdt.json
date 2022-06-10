@@ -1,0 +1,25 @@
+{
+  "id": "w66ohdt",
+  "category": "drama",
+  "title": "サンダーバード ARE GO 3#8",
+  "fullTitle": "[二]サンダーバード ARE GO 3(帯)#8",
+  "detail": "#8「宇宙船衝突」\r\nCRASH COURSE\r\n宇宙で2隻の貨物船が互いに進路を譲らず衝突事故を起こし、動けなくなる。",
+  "start": 1655501400000,
+  "end": 1655503200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "スーパー！ドラマＴＶ",
+    "id": "f0d2",
+    "sid": 310,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 115
+  },
+  "subTitle": "宇宙船衝突",
+  "episode": 8,
+  "flags": [
+    "二"
+  ]
+}

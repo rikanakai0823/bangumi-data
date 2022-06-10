@@ -1,0 +1,25 @@
+{
+  "id": "w67kkiu",
+  "category": "music",
+  "title": "独占生中継! M-ON! LIVE 寺島拓篤",
+  "fullTitle": "🈢独占生中継! M-ON! LIVE 寺島拓篤",
+  "detail": "「10th ANNIVERSARY TAKUMA TERASHIMA LIVE 2022 EX STAGE -LAYERING-」より、神奈川県民ホール 大ホールで開催する＜side EAST＞公演の模様を独占生中継！",
+  "start": 1655539200000,
+  "end": 1655550000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "10th ANNIVERSARY TAKUMA TERASHIMA LIVE 2022 EX STAGE -LAYERING-",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

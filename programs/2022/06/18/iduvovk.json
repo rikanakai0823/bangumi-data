@@ -1,0 +1,26 @@
+{
+  "id": "iduvovk",
+  "category": "cinema",
+  "title": "ローグ・ワン／スター・ウォーズ・ストーリー",
+  "fullTitle": "🈙🅍ローグ・ワン／スター・ウォーズ・ストーリー",
+  "detail": "『スター・ウォーズ　エピソード４／新たなる希望』の直前を描くアナザーストーリー。反乱軍兵がデス・スター設計図奪取に挑む。",
+  "start": 1655521200000,
+  "end": 1655530200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

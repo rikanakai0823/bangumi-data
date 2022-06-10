@@ -1,0 +1,25 @@
+{
+  "id": "w63j507",
+  "category": "sports",
+  "title": "2022MotoGP 第10戦ドイツGP 予選",
+  "fullTitle": "[生]2022MotoGP 第10戦ドイツGP 予選",
+  "detail": "～生中継　～ザクセンリンク\r\n解説：青木宣篤　上田昇　尾野弘樹\r\n実況：町田浩徳　安藤翔　平松修造",
+  "start": 1655548200000,
+  "end": 1655563500000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

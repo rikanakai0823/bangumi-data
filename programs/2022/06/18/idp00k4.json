@@ -1,0 +1,26 @@
+{
+  "id": "idp00k4",
+  "category": "documentary",
+  "title": "街角ピアノ「渋谷」",
+  "fullTitle": "街角ピアノ「渋谷」🈑🈞",
+  "detail": "東京・渋谷の駅ビル４階広場に置かれた１台のピアノ。「コロナ禍を音楽で乗り越えよう」と２０２１年１０月、設置された。訪れた人々は、どんな思いでピアノを弾くのか。",
+  "start": 1655512500000,
+  "end": 1655515200000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "渋谷",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

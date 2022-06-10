@@ -1,0 +1,25 @@
+{
+  "id": "rks82ps",
+  "category": "music",
+  "title": "＜独占生中継＞緑黄色社会 全国ホールツアー「Actor tour 2022」",
+  "fullTitle": "[生]＜独占生中継＞緑黄色社会 全国ホールツアー「Actor tour 2022」",
+  "detail": "“緑黄色社会”の全国ホールツアー「Actor tour 2022」からツアーファイナルをテレ朝チャンネルで生中継！\r\n※延長の場合あり\r\n※お問合せ：0570-0555-77（10時～20時）",
+  "start": 1655542800000,
+  "end": 1655551800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 107
+  },
+  "subTitle": "Actor tour 2022",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

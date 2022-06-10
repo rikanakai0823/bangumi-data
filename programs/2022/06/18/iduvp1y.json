@@ -1,0 +1,25 @@
+{
+  "id": "iduvp1y",
+  "category": "cinema",
+  "title": "国際諜報局【スパイ映画特集】",
+  "fullTitle": "🈙国際諜報局【スパイ映画特集】",
+  "detail": "マイケル・ケイン主演、シニカルなイギリス人スパイが活躍するシリーズ第一弾。東西冷戦下で、パーマーが科学者誘拐事件に挑む。",
+  "start": 1655530200000,
+  "end": 1655537400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "スパイ映画特集",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

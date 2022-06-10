@@ -1,0 +1,23 @@
+{
+  "id": "rktegj9",
+  "category": "music",
+  "title": "Mnetライブ BTS ベストパフォーマンスSP",
+  "fullTitle": "Mnetライブ BTS ベストパフォーマンスSP",
+  "detail": "人気アーティストたちのライブステージを堪能できる人気音楽番組「Mnetライブ」！\r\n再：30日(木)14:15～17:00",
+  "start": 1655559000000,
+  "end": 1655568900000,
+  "seconds": 9900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "Mnetライブ",
+  "episode": 1,
+  "flags": []
+}

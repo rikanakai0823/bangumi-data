@@ -1,0 +1,25 @@
+{
+  "id": "rksabbr",
+  "category": "music",
+  "title": "＜独占生中継＞ゲスの極み乙女。結成10周年記念公演「解体」",
+  "fullTitle": "[生]＜独占生中継＞ゲスの極み乙女。結成10周年記念公演「解体」",
+  "detail": "川谷絵音（Vo/Gt）休日課長（Ba）ちゃんMARI（Key）ほな・いこか（Dr）「ゲスの極み乙女。」結成10周年記念公演を幕張メッセ幕張イベントホールから独占生中継！",
+  "start": 1655539200000,
+  "end": 1655550000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "解体",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

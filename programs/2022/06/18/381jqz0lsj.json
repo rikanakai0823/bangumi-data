@@ -1,0 +1,27 @@
+{
+  "id": "381jqz0lsj",
+  "category": "sports",
+  "title": "ラグビー「日本」対「ウルグアイ」",
+  "fullTitle": "ラグビー「日本」対「ウルグアイ」",
+  "detail": "～秩父宮ラグビー場から中継～\n◇番組内容\n［延伸のとき　Ｅテレ３で放送継続］",
+  "start": 1655531700000,
+  "end": 1655539200000,
+  "seconds": 7500,
+  "description": "～秩父宮ラグビー場から中継～",
+  "extra": {
+    "番組内容": "［延伸のとき　Ｅテレ３で放送継続］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "ウルグアイ",
+  "episode": 1,
+  "flags": []
+}
