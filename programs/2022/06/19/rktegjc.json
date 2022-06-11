@@ -1,0 +1,23 @@
+{
+  "id": "rktegjc",
+  "category": "music",
+  "title": "Mnetライブ 【MAMAMOO】",
+  "fullTitle": "Mnetライブ 【MAMAMOO】",
+  "detail": "圧倒的な歌声で人々を虜にするMAMAMOO！そんな彼女たちのライブパフォーマンスをまとめてお届け！\r\n2019年\r\n※再放送情報はMnet HPにてご確認ください",
+  "start": 1655569800000,
+  "end": 1655571600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "MAMAMOO",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvsiu",
+  "category": "cinema",
+  "title": "レッド・スパロー【スパイ映画特集】",
+  "fullTitle": "🈙🅍レッド・スパロー【スパイ映画特集】",
+  "detail": "ジェニファー・ローレンス主演のサスペンスドラマ。誘惑と心理戦を武器にする女スパイが仕掛ける危険な罠を描く。［Ｒ１５＋］",
+  "start": 1655631000000,
+  "end": 1655640000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "スパイ映画特集",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

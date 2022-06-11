@@ -1,0 +1,25 @@
+{
+  "id": "iduvs7b",
+  "category": "cinema",
+  "title": "スパイ・バウンド【スパイ映画特集】",
+  "fullTitle": "🈙スパイ・バウンド【スパイ映画特集】",
+  "detail": "モニカ・ベルッチ主演のスパイサスペンス。実際に起こったスパイ事件に基づき、諜報員ゆえに非情な運命を辿る男女の葛藤を描く。",
+  "start": 1655615700000,
+  "end": 1655622900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "スパイ映画特集",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

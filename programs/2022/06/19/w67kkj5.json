@@ -1,0 +1,23 @@
+{
+  "id": "w67kkj5",
+  "category": "music",
+  "title": "テレビ最速放送! 28TH DREAM CONCERT",
+  "fullTitle": "テレビ最速放送! 28TH DREAM CONCERT",
+  "detail": "出演：Golden Child、DRIPPIN、DREAMCATCHER、LABOUM、LIGHTSUM、Red Velvet、VICTON、STAYC、IVE、AB6IX、NCT DREAM、NMIXX、ALICE、OH MY GIRL 他",
+  "start": 1655625600000,
+  "end": 1655641800000,
+  "seconds": 16200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
