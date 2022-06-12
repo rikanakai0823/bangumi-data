@@ -1,0 +1,23 @@
+{
+  "id": "ids0xxc",
+  "category": "sports",
+  "title": "スーパーベースボール2022　楽天×巨人",
+  "fullTitle": "スーパーベースボール2022　楽天×巨人",
+  "detail": "パリーグ首位争いを演じる楽天は、交流戦ラストカードを勝利で飾れるか!?対する巨人は丸佳浩・岡本和真・ウォーカーら強力打線に注目！試合終了まで生中継。",
+  "start": 1655006400000,
+  "end": 1655017200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
