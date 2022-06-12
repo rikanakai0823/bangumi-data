@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwkr3",
+  "category": "information",
+  "title": "生活情報【内容】エポプレミアムヘマチン",
+  "fullTitle": "生活情報【内容】エポプレミアムヘマチン",
+  "detail": "【内容】エポプレミアムヘマチン\r\n【電話】0120-209-204",
+  "start": 1655049600000,
+  "end": 1655051400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}

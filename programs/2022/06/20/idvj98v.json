@@ -1,0 +1,25 @@
+{
+  "id": "idvj98v",
+  "category": "anime",
+  "title": "ヒーラー・ガール歌唱12",
+  "fullTitle": "ヒーラー・ガール🈡歌唱12",
+  "detail": "",
+  "start": 1655733600000,
+  "end": 1655735400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "終"
+  ]
+}

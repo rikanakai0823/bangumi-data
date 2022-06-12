@@ -1,0 +1,23 @@
+{
+  "id": "idvj97w",
+  "category": "etc",
+  "title": "ＺＥＲＯ　ＨＯＵＲ",
+  "fullTitle": "ＺＥＲＯ　ＨＯＵＲ",
+  "detail": "",
+  "start": 1655657400000,
+  "end": 1655658000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
