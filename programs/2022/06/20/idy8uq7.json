@@ -1,0 +1,25 @@
+{
+  "id": "idy8uq7",
+  "category": "anime",
+  "title": "ミッキーマウス！#21",
+  "fullTitle": "ミッキーマウス！#21🈔",
+  "detail": "#21「火事だ！」",
+  "start": 1655654100000,
+  "end": 1655654400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_2",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "火事だ！",
+  "episode": 21,
+  "flags": [
+    "二"
+  ]
+}
