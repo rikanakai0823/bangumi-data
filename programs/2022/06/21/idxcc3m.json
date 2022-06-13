@@ -1,0 +1,23 @@
+{
+  "id": "idxcc3m",
+  "category": "sports",
+  "title": "煌めく☆まるごとスターダム ＃7",
+  "fullTitle": "煌めく☆まるごとスターダム ＃7",
+  "detail": "プロレス格闘技専門チャンネル「FIGHTING TV サムライ」の中から、毎週厳選した番組をお届け。",
+  "start": 1655816400000,
+  "end": 1655820000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "FIGHTING TV サムライ",
+  "episode": 7,
+  "flags": []
+}

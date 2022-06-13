@@ -1,0 +1,25 @@
+{
+  "id": "rkunwlm",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#6,#7[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#6,#7[二][字/日英]",
+  "detail": "#6「遊び場ができたよ！」　#7「ナナの都市見物」",
+  "start": 1655812800000,
+  "end": 1655814600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "遊び場ができたよ！",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}

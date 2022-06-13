@@ -1,0 +1,25 @@
+{
+  "id": "3826py68hi",
+  "category": "anime",
+  "title": "おそ松さん",
+  "fullTitle": "おそ松さん🈞",
+  "detail": "「契約更改」\r\n「買い出し」\r\n「友」",
+  "start": 1655139600000,
+  "end": 1655141400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "契約更改",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w5xt4au",
+  "category": "information",
+  "title": "ドライボス コードレス小型除湿器",
+  "fullTitle": "ドライボス コードレス小型除湿器",
+  "detail": "",
+  "start": 1655762400000,
+  "end": 1655766000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 90
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
