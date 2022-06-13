@@ -3,10 +3,15 @@
   "category": "sports",
   "title": "ブレイクタイム",
   "fullTitle": "ブレイクタイム",
-  "detail": "この時間は放送を休止しております。\r\n\r\n番組に関する情報は、ホームページまで！\r\nGAORAホームページ：www.gaora.co.jp",
+  "detail": "この時間は放送を休止しております。\r\n\r\n番組に関する情報は、ホームページまで！\r\nGAORAホームページ：www.gaora.co.jp\n◇番組内容\nこの時間は放送を休止しております。\r\n\r\n番組に関する情報は、ホームページまで！\r\nGAORAホームページ：www.gaora.co.jp\n◇放送局\nとことんスポーツ満載365日！\r\nGAORA SPORTS\r\nhttp://www.gaora.co.jp/\r\n\r\n番組詳細やプレゼントなどHPには情報満載！他にもfacebookやTwitter公式アカウントで番組情報を発信中！",
   "start": 1655136000000,
   "end": 1655154000000,
   "seconds": 18000,
+  "description": "この時間は放送を休止しております。\r\n\r\n番組に関する情報は、ホームページまで！\r\nGAORAホームページ：www.gaora.co.jp",
+  "extra": {
+    "番組内容": "この時間は放送を休止しております。\r\n\r\n番組に関する情報は、ホームページまで！\r\nGAORAホームページ：www.gaora.co.jp",
+    "放送局": "とことんスポーツ満載365日！\r\nGAORA SPORTS\r\nhttp://www.gaora.co.jp/\r\n\r\n番組詳細やプレゼントなどHPには情報満載！他にもfacebookやTwitter公式アカウントで番組情報を発信中！"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS12",
