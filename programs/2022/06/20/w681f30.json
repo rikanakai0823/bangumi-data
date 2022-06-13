@@ -2,8 +2,8 @@
   "id": "w681f30",
   "category": "anime",
   "title": "八十亀ちゃんかんさつにっき 4さつめ #10",
-  "fullTitle": "八十亀ちゃんかんさつにっき 4さつめ #10",
-  "detail": "",
+  "fullTitle": "八十亀ちゃんかんさつにっき 4さつめ #10 🈡",
+  "detail": "【全10話】2022年放送作品\r\n＜スタッフ＞\r\n原作：『八十亀ちゃんかんさつにっき』（「月刊 ComicREX」連載）",
   "start": 1655686800000,
   "end": 1655687100000,
   "seconds": 300,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 130
   },
-  "subTitle": "",
+  "subTitle": "🈡",
   "episode": 10,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }

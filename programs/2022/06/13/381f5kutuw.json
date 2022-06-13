@@ -1,0 +1,23 @@
+{
+  "id": "381f5kutuw",
+  "category": "information",
+  "title": "＃ＮＨＫ　番組のお知らせ",
+  "fullTitle": "＃ＮＨＫ　番組のお知らせ",
+  "detail": "【キャスター】高瀬耕造",
+  "start": 1655120520000,
+  "end": 1655120700000,
+  "seconds": 180,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "キャスター",
+  "episode": 1,
+  "flags": []
+}
