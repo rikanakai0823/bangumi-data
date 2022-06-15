@@ -1,9 +1,9 @@
 {
   "id": "w69ah5l",
-  "category": "news",
-  "title": "特別番組",
-  "fullTitle": "特別番組🈞",
-  "detail": "番組内容が決まり次第お知らせします。",
+  "category": "sports",
+  "title": "Living Golf",
+  "fullTitle": "Living Golf🈞",
+  "detail": "#209 スウェーデン特集。6月開催の欧州ツアー男女混合大会、「スカンジナビア・ミックス」の主催者で、スウェーデンのスター、ヘンリク・ステンソンにインタビュー。",
   "start": 1655674200000,
   "end": 1655676000000,
   "seconds": 1800,
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "スウェーデン特集。6月開催の欧州ツアー男女混合大会、",
+  "episode": 209,
   "flags": [
     "再"
   ]
