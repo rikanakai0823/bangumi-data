@@ -1,0 +1,23 @@
+{
+  "id": "w67kkl7",
+  "category": "music",
+  "title": "SBS人気歌謡",
+  "fullTitle": "SBS人気歌謡",
+  "detail": "韓国の地上波放送局SBSで放送中の音楽番組「SBS人気歌謡」がエムオン!で放送スタート！人気のK-POPアーティストたちが続々登場！日本語字幕入りでお楽しみください！",
+  "start": 1655969400000,
+  "end": 1655974800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "SBS人気歌謡",
+  "episode": 1,
+  "flags": []
+}
