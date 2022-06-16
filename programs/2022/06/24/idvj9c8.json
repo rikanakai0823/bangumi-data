@@ -1,0 +1,23 @@
+{
+  "id": "idvj9c8",
+  "category": "anime",
+  "title": "サマータイムレンダ　＃11",
+  "fullTitle": "サマータイムレンダ　＃11",
+  "detail": "",
+  "start": 1655996400000,
+  "end": 1655998200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 11,
+  "flags": []
+}

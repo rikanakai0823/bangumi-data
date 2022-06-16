@@ -1,0 +1,23 @@
+{
+  "id": "rksaben",
+  "category": "anime",
+  "title": "【ドラえもん2002年一挙放送】",
+  "fullTitle": "【ドラえもん2002年一挙放送】",
+  "detail": "#945-951\r\n#945「ハートすっきりシート/サンタイン」\r\n#946「根も葉もあるウワサ/かんこうりょこう窓」ほか",
+  "start": 1655998200000,
+  "end": 1656010800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 945,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm43wa",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2022～ファーム～　6/24 西武vs.ヤクルト",
+  "fullTitle": "🈢LIONS プロ野球中継2022～ファーム～　6/24 西武vs.ヤクルト",
+  "detail": "▽６月２４日開催\r\n実況：深澤慶\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1656042900000,
+  "end": 1656059400000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
