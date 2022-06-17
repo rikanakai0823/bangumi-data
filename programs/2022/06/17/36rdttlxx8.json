@@ -1,0 +1,23 @@
+{
+  "id": "36rdttlxx8",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "▽「テレ玉感謝祭」開催中！マチコミ・スペシャル企画「ほぼ全コーナーからプレゼント」▽「ご当地中継６３」加須市からお届け！▽天気",
+  "start": 1655451000000,
+  "end": 1655452800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
