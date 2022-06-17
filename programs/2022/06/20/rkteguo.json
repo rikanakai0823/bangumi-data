@@ -1,0 +1,25 @@
+{
+  "id": "rkteguo",
+  "category": "music",
+  "title": "Kep1er DOUBLAST On Air",
+  "fullTitle": "[生]Kep1er DOUBLAST On Air",
+  "detail": "2nd Mini Album「DOUBLAST」でカムバックを果たすKep1er！\r\nこれを記念して彼女らのカムバックスペシャル番組を日韓同時放送でお届け！",
+  "start": 1655722800000,
+  "end": 1655728200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "DOUBLAST",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
