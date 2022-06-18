@@ -1,0 +1,25 @@
+{
+  "id": "w63j536",
+  "category": "etc",
+  "title": "KO Boxer's file",
+  "fullTitle": "KO Boxer's file(2)[再]",
+  "detail": "鈴木悟　ほか",
+  "start": 1656172800000,
+  "end": 1656176400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idvj9f6",
+  "category": "documentary",
+  "title": "ジャパングレイスからのお知らせ",
+  "fullTitle": "ジャパングレイスからのお知らせ",
+  "detail": "",
+  "start": 1656223200000,
+  "end": 1656225000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
