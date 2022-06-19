@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwlav",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "春風亭柳橋「たらちね」・宮田陽・昇・桂文治「扇の的」",
+  "start": 1655629500000,
+  "end": 1655632800000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
