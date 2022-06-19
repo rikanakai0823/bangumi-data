@@ -1,0 +1,25 @@
+{
+  "id": "idvj9fk",
+  "category": "anime",
+  "title": "このヒーラー、めんどくさい＃12",
+  "fullTitle": "このヒーラー、めんどくさい🈡＃12",
+  "detail": "",
+  "start": 1656257400000,
+  "end": 1656259200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": [
+    "終"
+  ]
+}

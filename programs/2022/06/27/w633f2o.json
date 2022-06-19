@@ -1,0 +1,25 @@
+{
+  "id": "w633f2o",
+  "category": "sports",
+  "title": "ライジングレディースゴルフTV【MATCH12-4】",
+  "fullTitle": "[初]ライジングレディースゴルフTV【MATCH12-4】",
+  "detail": "【MATCH12-4】ライジングレディースゴルフTVの新しい番組・プロアマチーム対決。「伏尾ゴルフクラブ」を舞台に3対3チーム対決で真剣勝負を行います。",
+  "start": 1656336600000,
+  "end": 1656338400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "MATCH12-4",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

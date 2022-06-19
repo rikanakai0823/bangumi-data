@@ -1,0 +1,25 @@
+{
+  "id": "w63j53l",
+  "category": "etc",
+  "title": "KO Boxer's file",
+  "fullTitle": "KO Boxer's file(5)[再]",
+  "detail": "粟生隆寛　ほか",
+  "start": 1656255600000,
+  "end": 1656259200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

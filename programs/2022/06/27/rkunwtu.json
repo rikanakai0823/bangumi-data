@@ -1,0 +1,25 @@
+{
+  "id": "rkunwtu",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#14,#15[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#14,#15[二][字/日英]",
+  "detail": "#14「プリンセスになりたい」　#15「大人になりたい」",
+  "start": 1656331200000,
+  "end": 1656333000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "プリンセスになりたい",
+  "episode": 14,
+  "flags": [
+    "二"
+  ]
+}

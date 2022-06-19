@@ -1,0 +1,23 @@
+{
+  "id": "rks39fj",
+  "category": "music",
+  "title": "TBSch×SBS funE PRESENTS THE SHOW #175<字幕>",
+  "fullTitle": "TBSch×SBS funE PRESENTS THE SHOW #175<字幕>",
+  "detail": "TBSチャンネルと韓国のSBS funEで放送されるK－POP人気番組『THE SHOW』。【出演】ASTRO、宇宙少女、South Club、ノ・テヒョン、NATURE、KNK、IMFACT",
+  "start": 1656259200000,
+  "end": 1656264000000,
+  "seconds": 4800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "出演",
+  "episode": 175,
+  "flags": []
+}

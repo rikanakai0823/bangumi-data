@@ -1,0 +1,23 @@
+{
+  "id": "idvj9fl",
+  "category": "anime",
+  "title": "新番組『森のくまさん、冬眠中。』特番",
+  "fullTitle": "新番組『森のくまさん、冬眠中。』特番",
+  "detail": "～冬眠明けから初出し映像!?解禁SP～",
+  "start": 1656259200000,
+  "end": 1656259500000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

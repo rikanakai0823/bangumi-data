@@ -1,0 +1,25 @@
+{
+  "id": "rlm43za",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022 6/27 ソフトバンクvs.ロッテ",
+  "fullTitle": "🈢HAWKS プロ野球中継2022 6/27 ソフトバンクvs.ロッテ",
+  "detail": "▽6月27日開催\r\n解説/実況：松中信彦/加藤暁 (副音声あり)\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1656319500000,
+  "end": 1656338400000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
