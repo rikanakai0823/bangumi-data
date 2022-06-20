@@ -1,0 +1,29 @@
+{
+  "id": "381f5ks64d",
+  "category": "sports",
+  "title": "ウィンブルドン２０２２　１回戦",
+  "fullTitle": "ウィンブルドン２０２２　１回戦🈔",
+  "detail": "～イギリス・ウィンブルドン～\n◇番組内容\n［延伸のとき　Ｅテレで放送継続］",
+  "start": 1656343500000,
+  "end": 1656356400000,
+  "seconds": 12900,
+  "description": "～イギリス・ウィンブルドン～",
+  "extra": {
+    "番組内容": "［延伸のとき　Ｅテレで放送継続］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

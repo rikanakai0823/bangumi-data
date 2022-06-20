@@ -1,0 +1,26 @@
+{
+  "id": "idp01ic",
+  "category": "sports",
+  "title": "プロ野球２０２２「西武」対「日本ハム」",
+  "fullTitle": "プロ野球２０２２「西武」対「日本ハム」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】今中慎二，【アナウンサー】塚本貴之　～ベルーナドームから中継～",
+  "start": 1656406800000,
+  "end": 1656419400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "日本ハム",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

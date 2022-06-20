@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l3vl",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「フォーチュネイトあじさい特別」「第１２回優駿スプリント（ＳⅡ）」「風待月賞」",
+  "start": 1656397200000,
+  "end": 1656417600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": []
+}
