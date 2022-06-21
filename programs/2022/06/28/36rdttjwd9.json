@@ -3,10 +3,14 @@
   "category": "music",
   "title": "音楽缶",
   "fullTitle": "音楽缶",
-  "detail": "　",
+  "detail": "最新のミュージックビデオをノーカットで紹介\n◇おしらせ\n詳しくはＨＰをチェック！\r\nhttp://www.tvk-yokohama.com/ongakukan/index2.php",
   "start": 1656347400000,
   "end": 1656348900000,
   "seconds": 1500,
+  "description": "最新のミュージックビデオをノーカットで紹介",
+  "extra": {
+    "おしらせ": "詳しくはＨＰをチェック！\r\nhttp://www.tvk-yokohama.com/ongakukan/index2.php"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
