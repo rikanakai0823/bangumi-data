@@ -1,0 +1,23 @@
+{
+  "id": "rkngnad",
+  "category": "variety",
+  "title": "ピンスポ!",
+  "fullTitle": "ピンスポ!",
+  "detail": "東映チャンネルが注目する人や話題に迫る情報番組。",
+  "start": 1656514200000,
+  "end": 1656514800000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "東映チャンネル",
+    "id": "cv4q",
+    "sid": 218,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 91
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

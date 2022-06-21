@@ -1,0 +1,23 @@
+{
+  "id": "3826py43wd",
+  "category": "music",
+  "title": "ミュージックブレイク",
+  "fullTitle": "ミュージックブレイク",
+  "detail": "この番組では、サーキットイベント「TOKYO　CALLING」を中心とした音楽フェスの魅力に迫ります！思わずフェスに行きたくなること間違いなしです！",
+  "start": 1656440400000,
+  "end": 1656440700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "TOKYO　CALLING",
+  "episode": 1,
+  "flags": []
+}

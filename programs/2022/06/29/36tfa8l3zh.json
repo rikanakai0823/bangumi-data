@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l3zh",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「夏椿特別」「第４５回　帝王賞（ＪｐｎⅠ）」「秋葉原賞」",
+  "start": 1656483600000,
+  "end": 1656504000000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "帝王賞（ＪｐｎⅠ）",
+  "episode": 45,
+  "flags": []
+}

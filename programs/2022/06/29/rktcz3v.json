@@ -1,0 +1,27 @@
+{
+  "id": "rktcz3v",
+  "category": "music",
+  "title": "ＳＴＡＧＥ Ｗ",
+  "fullTitle": "ＳＴＡＧＥ Ｗ　[字][再][新]",
+  "detail": "日本初放送!THE BOYZ,N.Flying,Billlie出演!アーティストたちの華麗なステージ＆インタビューをお届けするKBS Worldオリジナル番組!MCとしてベンベン(GOT7)が登場!2021年",
+  "start": 1656467400000,
+  "end": 1656471600000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再",
+    "新"
+  ]
+}

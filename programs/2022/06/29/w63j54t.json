@@ -1,0 +1,25 @@
+{
+  "id": "w63j54t",
+  "category": "information",
+  "title": "ジータスショッピング",
+  "fullTitle": "[無料]ジータスショッピング",
+  "detail": "*放送時間変更の場合あり\r\n各種インフォメーションをお届けしております",
+  "start": 1656507600000,
+  "end": 1656509400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

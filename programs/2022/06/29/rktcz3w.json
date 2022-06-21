@@ -1,0 +1,25 @@
+{
+  "id": "rktcz3w",
+  "category": "music",
+  "title": "ミュージックバンクダイジェスト～ＴＨＥ ＢＯＹＺ出演回",
+  "fullTitle": "ミュージックバンクダイジェスト～ＴＨＥ ＢＯＹＺ出演回　[字]",
+  "detail": "THE BOYZが音楽番組「ミュージックバンク」に出演した回をダイジェストにまとめて放送！",
+  "start": 1656471600000,
+  "end": 1656473400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "ミュージックバンク",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
