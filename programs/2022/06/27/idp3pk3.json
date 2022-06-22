@@ -1,0 +1,23 @@
+{
+  "id": "idp3pk3",
+  "category": "music",
+  "title": "さわやかウインドー「島根半島縦断の旅」",
+  "fullTitle": "さわやかウインドー「島根半島縦断の旅」",
+  "detail": "",
+  "start": 1656271800000,
+  "end": 1656273600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "島根半島縦断の旅",
+  "episode": 1,
+  "flags": []
+}
