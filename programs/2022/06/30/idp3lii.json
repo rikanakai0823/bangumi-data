@@ -1,0 +1,23 @@
+{
+  "id": "idp3lii",
+  "category": "documentary",
+  "title": "ハイビジョン動物記「ハヌマンラングール」",
+  "fullTitle": "ハイビジョン動物記「ハヌマンラングール」",
+  "detail": "",
+  "start": 1656520800000,
+  "end": 1656521400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ハヌマンラングール",
+  "episode": 1,
+  "flags": []
+}

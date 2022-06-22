@@ -1,0 +1,23 @@
+{
+  "id": "idwqbhs",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「利休の逸話「茶話指月集」を読む」",
+  "start": 1656590400000,
+  "end": 1656593100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "利休の逸話「茶話指月集",
+  "episode": 1,
+  "flags": []
+}

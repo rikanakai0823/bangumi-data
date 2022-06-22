@@ -1,0 +1,25 @@
+{
+  "id": "rkunwy0",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#20,#21[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#20,#21[二][字/日英]",
+  "detail": "#20「ガニのプレゼント」　#21「勇敢なヘリコプター、エア」",
+  "start": 1656590400000,
+  "end": 1656592200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ガニのプレゼント",
+  "episode": 20,
+  "flags": [
+    "二"
+  ]
+}
