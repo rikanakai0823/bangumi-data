@@ -1,0 +1,23 @@
+{
+  "id": "w67kkoo",
+  "category": "music",
+  "title": "M-ON! SPECIAL 「22/7」",
+  "fullTitle": "M-ON! SPECIAL 「22/7」",
+  "detail": "さらにパワーアップした彼女たちに密着したエムオン!オリジナル番組を放送！独占ドキュメンタリー映像にライブ映像を交えて、“ナナニジ”の魅力を60分たっぷりお届け！",
+  "start": 1656601200000,
+  "end": 1656604800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 126
+  },
+  "subTitle": "22/7",
+  "episode": 1,
+  "flags": []
+}

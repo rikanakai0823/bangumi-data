@@ -1,0 +1,25 @@
+{
+  "id": "rkunwyj",
+  "category": "hobby",
+  "title": "ペッパピッグ#5[字/日英]",
+  "fullTitle": "ペッパピッグ#5[二][字/日英]",
+  "detail": "ジョージのお気に入りのオモチャは「ダイナソー」。いつものように放り投げて遊んでいるとダイナソーが行方不明になってしまう。",
+  "start": 1656623400000,
+  "end": 1656624000000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ダイナソー",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}

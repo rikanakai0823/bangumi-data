@@ -1,0 +1,25 @@
+{
+  "id": "rkunwze",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#22,#23[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#22,#23[二][字/日英]",
+  "detail": "#22「いたずら電話大騒動」　#23「真夜中の幽霊騒ぎ」",
+  "start": 1656676800000,
+  "end": 1656678600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "いたずら電話大騒動",
+  "episode": 22,
+  "flags": [
+    "二"
+  ]
+}

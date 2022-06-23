@@ -1,0 +1,23 @@
+{
+  "id": "w681fed",
+  "category": "anime",
+  "title": "AT-X特番『異世界おじさん』ちゃんねる",
+  "fullTitle": "AT-X特番『異世界おじさん』ちゃんねる",
+  "detail": "＜出演＞\r\n子安武人（おじさん役）\r\n福山潤(たかふみ役)",
+  "start": 1656633600000,
+  "end": 1656637200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
