@@ -1,0 +1,23 @@
+{
+  "id": "idp3qyi",
+  "category": "information",
+  "title": "朝ごはんＬａｂ．",
+  "fullTitle": "朝ごはんＬａｂ．",
+  "detail": "",
+  "start": 1656627240000,
+  "end": 1656627300000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
