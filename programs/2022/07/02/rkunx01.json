@@ -1,0 +1,25 @@
+{
+  "id": "rkunx01",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#69,#70[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#69,#70[二][字/日英]",
+  "detail": "#69「田舎に行ったタヨ」　#70「警察になったタヨ」",
+  "start": 1656718200000,
+  "end": 1656720000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "田舎に行ったタヨ",
+  "episode": 69,
+  "flags": [
+    "二"
+  ]
+}

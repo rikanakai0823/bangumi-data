@@ -1,0 +1,23 @@
+{
+  "id": "w65lqa2",
+  "category": "drama",
+  "title": "【無料】インフォメーション",
+  "fullTitle": "【無料】インフォメーション",
+  "detail": "時代劇専門チャンネルからのお知らせ",
+  "start": 1656703920000,
+  "end": 1656705600000,
+  "seconds": 1680,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "時代劇専門ｃｈ",
+    "id": "f0ck",
+    "sid": 292,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 101
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
