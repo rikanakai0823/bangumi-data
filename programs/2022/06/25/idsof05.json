@@ -1,0 +1,25 @@
+{
+  "id": "idsof05",
+  "category": "news",
+  "title": "Ｂｉｚスクエア",
+  "fullTitle": "🈑Ｂｉｚスクエア",
+  "detail": "脱炭素で注目の木造高層ビルを特集。高さ４４ｍ１１階建ての「純木造の高層ビル」を実現した、耐震性や耐火性を確保する最新技術とは？",
+  "start": 1656122400000,
+  "end": 1656125640000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "純木造の高層ビル",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
