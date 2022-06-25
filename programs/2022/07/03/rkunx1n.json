@@ -1,0 +1,26 @@
+{
+  "id": "rkunx1n",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#64,#65[字/日英]",
+  "fullTitle": "[無]ちびっこバス　タヨ#64,#65[二][字/日英]",
+  "detail": "#64「ブーバーとの一日」　#65「新しい救急センター」",
+  "start": 1656822600000,
+  "end": 1656824400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "ブーバーとの一日",
+  "episode": 64,
+  "flags": [
+    "無",
+    "二"
+  ]
+}

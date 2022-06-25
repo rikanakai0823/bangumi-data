@@ -1,0 +1,26 @@
+{
+  "id": "rkunx1d",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#71,#72[字/日英]",
+  "fullTitle": "[無]ちびっこバス　タヨ#71,#72[二][字/日英]",
+  "detail": "#71「シトの秘密の公園」　#72「最高の名探偵」",
+  "start": 1656804600000,
+  "end": 1656806400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "シトの秘密の公園",
+  "episode": 71,
+  "flags": [
+    "無",
+    "二"
+  ]
+}
