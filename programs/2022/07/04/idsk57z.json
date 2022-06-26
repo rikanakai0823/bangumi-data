@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "住まいの参観日",
   "fullTitle": "住まいの参観日",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1656935640000,
   "end": 1656936000000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
