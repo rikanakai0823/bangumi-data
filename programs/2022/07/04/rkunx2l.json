@@ -1,0 +1,25 @@
+{
+  "id": "rkunx2l",
+  "category": "hobby",
+  "title": "ペッパピッグ#6[字/日英]",
+  "fullTitle": "ペッパピッグ#6[二][字/日英]",
+  "detail": "ペッパと家族がスーパーにお買い物へ。買物リストにある品物をペッパがひとつずつ探してカートへ入れてゆく。",
+  "start": 1656882600000,
+  "end": 1656883200000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "",
+  "episode": 6,
+  "flags": [
+    "二"
+  ]
+}
