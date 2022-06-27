@@ -1,0 +1,25 @@
+{
+  "id": "iduvwa0",
+  "category": "cinema",
+  "title": "ドント・ウォーリー",
+  "fullTitle": "🈙ドント・ウォーリー",
+  "detail": "ホアキン・フェニックス主演の人間ドラマ。事故で車椅子生活を送る男性が、風刺漫画家として生きる力を取り戻してゆく姿を描く。",
+  "start": 1656954000000,
+  "end": 1656961200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
