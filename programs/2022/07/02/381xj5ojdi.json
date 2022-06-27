@@ -1,9 +1,9 @@
 {
   "id": "381xj5ojdi",
-  "category": "etc",
-  "title": "調整中",
-  "fullTitle": "調整中",
-  "detail": "",
+  "category": "variety",
+  "title": "月曜よる７時から　ボカーン！",
+  "fullTitle": "月曜よる７時から　ボカーン！🈑",
+  "detail": "来週月曜よる７時から「夏の番組対抗　タイムリミットバトル　ボカーン！」中居正広司会！坂口健太郎・小池栄子・中島裕翔・吉川愛・佐藤隆太ら豪華芸能人が激突！",
   "start": 1656739800000,
   "end": 1656741600000,
   "seconds": 1800,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 29
   },
-  "subTitle": "",
+  "subTitle": "夏の番組対抗　タイムリミットバトル　ボカーン！",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
