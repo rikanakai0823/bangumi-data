@@ -1,12 +1,12 @@
 {
   "id": "idozc5j",
-  "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！🈑",
-  "detail": "",
+  "category": "documentary",
+  "title": "四国推し！　あわとく「目一杯生きろ～野田知佑のメッセージ～」",
+  "fullTitle": "四国推し！　あわとく「目一杯生きろ～野田知佑のメッセージ～」🈑",
+  "detail": "今年３月、世界的カヌーイスト・野田知佑（のだ・ともすけ）さんが亡くなった。「フルライフ」を生ききった８４年の人生を、膨大な資料から読み解いていく。",
   "start": 1656687600000,
-  "end": 1656690600000,
-  "seconds": 3000,
+  "end": 1656689100000,
+  "seconds": 1500,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "目一杯生きろ～野田知佑のメッセージ～",
   "episode": 1,
   "flags": [
     "字"
