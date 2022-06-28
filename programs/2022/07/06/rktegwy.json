@@ -1,0 +1,25 @@
+{
+  "id": "rktegwy",
+  "category": "variety",
+  "title": "DKBユナイテッド #4",
+  "fullTitle": "DKBユナイテッド #4(終)",
+  "detail": "9人組ボーイズグループ DKBの初単独リアリティ番組！\r\n放送日：(月)22:00～\r\n再：(水)14:30～",
+  "start": 1657085400000,
+  "end": 1657089000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 121
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": [
+    "終"
+  ]
+}

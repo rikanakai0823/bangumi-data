@@ -1,0 +1,23 @@
+{
+  "id": "rks2on5",
+  "category": "anime",
+  "title": "ぐでたま #5",
+  "fullTitle": "ぐでたま #5",
+  "detail": "TBS朝の情報番組で放送されたショートアニメ「ぐでたま」が登場！「だりぃ～」「めんどくせぇ」などやる気の無い言動がキュート！",
+  "start": 1657064400000,
+  "end": 1657064700000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ＴＢＳチャンネル１",
+    "id": "cv6w",
+    "sid": 296,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 105
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": []
+}
