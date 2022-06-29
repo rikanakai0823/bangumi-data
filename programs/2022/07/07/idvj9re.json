@@ -1,0 +1,23 @@
+{
+  "id": "idvj9re",
+  "category": "anime",
+  "title": "TVアニメ『はたらく魔王さま！！』放送直前特別番組！！",
+  "fullTitle": "TVアニメ『はたらく魔王さま！！』放送直前特別番組！！",
+  "detail": "地上波！ただいま、魔王さま～！",
+  "start": 1657204200000,
+  "end": 1657206000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
