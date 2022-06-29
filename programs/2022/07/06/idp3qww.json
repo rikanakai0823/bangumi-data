@@ -1,9 +1,9 @@
 {
   "id": "idp3qww",
-  "category": "etc",
-  "title": "世界遺産　時を刻む",
-  "fullTitle": "世界遺産　時を刻む",
-  "detail": "",
+  "category": "documentary",
+  "title": "世界遺産　時を刻む　選「祭～夢をつなぐ仮面～」",
+  "fullTitle": "世界遺産　時を刻む　選「祭～夢をつなぐ仮面～」🈑",
+  "detail": "ベルギー・バンシュの春祭りは、同じ仮面をかぶった大勢の男たちが１６時間も踊り続ける不思議なカーニバル。仮面を使う祭りは世界中にある。人々は祭りに何を託すのか。",
   "start": 1657098240000,
   "end": 1657101600000,
   "seconds": 3360,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 42
   },
-  "subTitle": "",
+  "subTitle": "祭～夢をつなぐ仮面～",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
