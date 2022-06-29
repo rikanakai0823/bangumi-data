@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Vegas (From  The Original Motion Picture Soundtrack ELVIS)\"DOJA CAT\r\n\"Spiral\"RY X\r\n\"Your Love\"RY X\r\n\"Let You Go\"RY X\n◇番組内容２\n\"West Coast\"ONEREPUBLIC\r\n\"You Were Loved\"GRYFFIN & ONEREPUBLIC\r\n\"I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")\"ONEREPUBLIC",
   "start": 1656946800000,
   "end": 1656948600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Vegas (From  The Original Motion Picture Soundtrack ELVIS)\"DOJA CAT\r\n\"Spiral\"RY X\r\n\"Your Love\"RY X\r\n\"Let You Go\"RY X",
+    "番組内容２": "\"West Coast\"ONEREPUBLIC\r\n\"You Were Loved\"GRYFFIN & ONEREPUBLIC\r\n\"I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")\"ONEREPUBLIC"
   },
   "channel": {
     "type": "GR",
