@@ -1,9 +1,9 @@
 {
   "id": "w69ahid",
   "category": "news",
-  "title": "アフリカ経済ウィークリー Market Place Africa",
-  "fullTitle": "アフリカ経済ウィークリー Market Place Africa🈞",
-  "detail": "アフリカ経済の最新トレンド、注目のビジネスを紹介。",
+  "title": "中東経済市場",
+  "fullTitle": "中東経済市場",
+  "detail": "#9 水不足が深刻な中東。石油は豊富だが、今後は水資源がより価値を増すとされる。水資源の確保や農業に適した土地作りなど、水不足問題への取り組みを取材。",
   "start": 1656744300000,
   "end": 1656745200000,
   "seconds": 900,
@@ -18,8 +18,6 @@
     "n": 139
   },
   "subTitle": "",
-  "episode": 1,
-  "flags": [
-    "再"
-  ]
+  "episode": 9,
+  "flags": []
 }
