@@ -2,11 +2,11 @@
   "id": "w693b38",
   "category": "news",
   "title": "ミッドナイトニュース",
-  "fullTitle": "ミッドナイトニュース🈑",
+  "fullTitle": "ミッドナイトニュース",
   "detail": "▽国内外の最新ニュース、トピックスやトレンド、お天気情報　▽速報は“ブレイキングニュース”",
   "start": 1657029600000,
-  "end": 1657047300000,
-  "seconds": 17700,
+  "end": 1657047600000,
+  "seconds": 18000,
   "channel": {
     "type": "CS",
     "channel": "CS22",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
