@@ -1,0 +1,25 @@
+{
+  "id": "w63j59e",
+  "category": "sports",
+  "title": "DRAMATIC BASEBALL2022「巨人×DeNA」～東京ドーム～",
+  "fullTitle": "[生]DRAMATIC BASEBALL2022「巨人×DeNA」～東京ドーム～",
+  "detail": "～生中継　*試合終了まで放送\r\n解説：中畑清　井端弘和　　実況：安藤翔",
+  "start": 1657341900000,
+  "end": 1657357200000,
+  "seconds": 15300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "巨人×DeNA",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

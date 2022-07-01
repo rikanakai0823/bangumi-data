@@ -1,0 +1,23 @@
+{
+  "id": "w698a8r",
+  "category": "news",
+  "title": "BBCワールドニュース・アメリカ",
+  "fullTitle": "[英]BBCワールドニュース・アメリカ",
+  "detail": "ワシントンからアメリカのニュースを中心に、世界の最新ニュース、マーケット状況、スポーツの結果などを、お届けする。",
+  "start": 1657314000000,
+  "end": 1657315800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 138
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm6d0i",
+  "category": "information",
+  "title": "番組案内[R15＋]",
+  "fullTitle": "番組案内[R15＋]",
+  "detail": "本番組はR15＋（15歳以上視聴可）に該当する番組です。ＣＨ等ご契約者は無料でご覧頂けます。",
+  "start": 1657308600000,
+  "end": 1657308900000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

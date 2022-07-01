@@ -1,0 +1,25 @@
+{
+  "id": "rkv91s8",
+  "category": "documentary",
+  "title": "アプレジェンヌ　～日テレ大劇場へようこそ～",
+  "fullTitle": "アプレジェンヌ　～日テレ大劇場へようこそ～[再]",
+  "detail": "第７回ゲスト：安蘭けいさん",
+  "start": 1657364400000,
+  "end": 1657368000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": [
+    "再"
+  ]
+}
