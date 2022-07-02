@@ -1,0 +1,23 @@
+{
+  "id": "rkdrea4",
+  "category": "information",
+  "title": "ドウシシャ　ＬＥＤサーキュライト",
+  "fullTitle": "ドウシシャ　ＬＥＤサーキュライト",
+  "detail": "扇風機とライトの１台２役！電球ソケットに取り付けるだけ！その日の気温や環境に合わせて風量が調節でき、夏場のトイレや玄関先など、様々なシーンで活躍します。",
+  "start": 1657414800000,
+  "end": 1657418400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 88
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

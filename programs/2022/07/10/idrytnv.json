@@ -1,0 +1,23 @@
+{
+  "id": "idrytnv",
+  "category": "music",
+  "title": "暦に集う　「てるてる坊主」",
+  "fullTitle": "暦に集う　「てるてる坊主」",
+  "detail": "奈良県南西部の五條市に、千二百年の歴史を誇る古刹、生蓮寺があります。その名の通り、境内には美しい蓮が咲いています。ここに集っていたのは、てるてる坊主です。",
+  "start": 1657454040000,
+  "end": 1657454400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 47
+  },
+  "subTitle": "てるてる坊主",
+  "episode": 1,
+  "flags": []
+}
