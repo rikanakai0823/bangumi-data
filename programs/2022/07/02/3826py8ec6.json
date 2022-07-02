@@ -1,0 +1,23 @@
+{
+  "id": "3826py8ec6",
+  "category": "sports",
+  "title": "ウイニング競馬～福島～",
+  "fullTitle": "ウイニング競馬～福島～",
+  "detail": "【福島】10Ｒ松島特別、11ＲＴＵＦ杯\r\n【小倉】10Ｒ彦島特別、11Ｒ九州スポーツ杯\r\n【函館】11ＲＴＶｈ杯",
+  "start": 1656741600000,
+  "end": 1656745200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "福島",
+  "episode": 1,
+  "flags": []
+}
