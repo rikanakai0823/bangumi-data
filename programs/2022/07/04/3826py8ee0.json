@@ -1,0 +1,26 @@
+{
+  "id": "3826py8ee0",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居🈞🈡",
+  "detail": "第十三闇「猫年」",
+  "start": 1656871500000,
+  "end": 1656871800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "猫年",
+  "episode": 1,
+  "flags": [
+    "再",
+    "終"
+  ]
+}
