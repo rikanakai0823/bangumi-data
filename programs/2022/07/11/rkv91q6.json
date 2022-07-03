@@ -1,0 +1,23 @@
+{
+  "id": "rkv91q6",
+  "category": "news",
+  "title": "日テレNEWS24 参議院選挙2022 第3部",
+  "fullTitle": "日テレNEWS24 参議院選挙2022 第3部",
+  "detail": "開票速報",
+  "start": 1657472400000,
+  "end": 1657481400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 136
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

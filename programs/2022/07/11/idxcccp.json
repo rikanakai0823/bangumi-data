@@ -1,0 +1,23 @@
+{
+  "id": "idxcccp",
+  "category": "music",
+  "title": "スカパー! アイドルフェス！～2021 クリスマス～",
+  "fullTitle": "スカパー! アイドルフェス！～2021 クリスマス～",
+  "detail": "スカパー! がアイドルファンに贈るフェス！第4弾！\r\n2021年のクリスマスシーズンに開催した模様を再放送！",
+  "start": 1657531800000,
+  "end": 1657542600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

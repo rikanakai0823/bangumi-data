@@ -1,0 +1,23 @@
+{
+  "id": "rlm449z",
+  "category": "sports",
+  "title": "RIZINで逢いましょう #11",
+  "fullTitle": "RIZINで逢いましょう #11",
+  "detail": "RIZIN FIGHTING WORLD GRAND-PRIX 2017 バンタム級トーナメント＆女子スーパーアトム級トーナメントFinal ROUND (RIZIN.9)",
+  "start": 1657548000000,
+  "end": 1657555200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 11,
+  "flags": []
+}

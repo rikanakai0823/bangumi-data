@@ -1,0 +1,23 @@
+{
+  "id": "rksabms",
+  "category": "anime",
+  "title": "【ドラえもん1985年一挙放送】",
+  "fullTitle": "【ドラえもん1985年一挙放送】",
+  "detail": "#177-183\r\n#177「ネンドロイド／のび太の魚つり」\r\n#178「シズメバチの巣／じつぶつベニヤ」ほか",
+  "start": 1657467000000,
+  "end": 1657479600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 177,
+  "flags": []
+}

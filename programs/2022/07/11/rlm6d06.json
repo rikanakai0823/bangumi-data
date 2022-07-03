@@ -1,0 +1,23 @@
+{
+  "id": "rlm6d06",
+  "category": "sports",
+  "title": "第102回 天皇杯 3回戦 鹿島×大宮",
+  "fullTitle": "第102回 天皇杯 3回戦 鹿島×大宮",
+  "detail": "天皇杯 JFA 第102回全日本サッカー選手権大会 3回戦\r\n鹿島アントラーズ×大宮アルディージャ",
+  "start": 1657472400000,
+  "end": 1657481400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スカチャン１",
+    "id": "cvkx",
+    "sid": 801,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 142
+  },
+  "subTitle": "天皇杯 3回戦 鹿島×大宮",
+  "episode": 102,
+  "flags": []
+}
