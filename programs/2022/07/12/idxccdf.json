@@ -1,0 +1,25 @@
+{
+  "id": "idxccdf",
+  "category": "information",
+  "title": "番組案内",
+  "fullTitle": "🈚番組案内",
+  "detail": "",
+  "start": 1657628700000,
+  "end": 1657629000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

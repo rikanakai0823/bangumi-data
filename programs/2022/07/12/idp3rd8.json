@@ -1,0 +1,25 @@
+{
+  "id": "idp3rd8",
+  "category": "documentary",
+  "title": "晴れ、ときどきファーム！",
+  "fullTitle": "晴れ、ときどきファーム！🈑",
+  "detail": "",
+  "start": 1657621800000,
+  "end": 1657623600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
