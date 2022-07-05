@@ -1,0 +1,25 @@
+{
+  "id": "iduwo10",
+  "category": "cinema",
+  "title": "キックボクサー　ザ・リベンジ",
+  "fullTitle": "🈙キックボクサー　ザ・リベンジ",
+  "detail": "ジャン＝クロード・ヴァン・ダムが出演するアクション第７弾。妻を人質にとられた格闘技界の王者が、新たな危機に立ち向かう！",
+  "start": 1657699200000,
+  "end": 1657706400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm44cj",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022 7/13 ソフトバンクvsオリックス",
+  "fullTitle": "🈢HAWKS プロ野球中継2022 7/13 ソフトバンクvsオリックス",
+  "detail": "▽7月13日開催\r\n解説/実況：松中信彦/大前一樹 (副音声あり)\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1657701900000,
+  "end": 1657720800000,
+  "seconds": 18900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

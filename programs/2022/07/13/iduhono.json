@@ -1,0 +1,26 @@
+{
+  "id": "iduhono",
+  "category": "cinema",
+  "title": "インナースペース（字幕版）",
+  "fullTitle": "🈙インナースペース（字幕版）🅍",
+  "detail": "Ｓ・スピルバーグ製作総指揮のＳＦアクションコメディ。人間縮小技術をめぐって、人間の体の内部、そして外部で大冒険が展開する。第６０回アカデミー賞視覚効果賞受賞。",
+  "start": 1657692000000,
+  "end": 1657700100000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 60,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
