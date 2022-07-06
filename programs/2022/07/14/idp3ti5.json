@@ -1,0 +1,23 @@
+{
+  "id": "idp3ti5",
+  "category": "documentary",
+  "title": "ハイビジョン動物記「ヨシゴイ」",
+  "fullTitle": "ハイビジョン動物記「ヨシゴイ」",
+  "detail": "",
+  "start": 1657731000000,
+  "end": 1657731600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "ヨシゴイ",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm44db",
+  "category": "sports",
+  "title": "第102回 天皇杯 ラウンド16 神戸×柏",
+  "fullTitle": "第102回 天皇杯 ラウンド16 神戸×柏",
+  "detail": "天皇杯 JFA 第102回全日本サッカー選手権大会 ラウンド16\r\nヴィッセル神戸×柏レイソル",
+  "start": 1657724400000,
+  "end": 1657737000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 141
+  },
+  "subTitle": "天皇杯 ラウンド16 神戸×柏",
+  "episode": 102,
+  "flags": []
+}
