@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Just Friends\"WHY DON'T WE\r\n\"Girls Make Me Wanna Die\"THE ACES\r\n\"sun keeps on shining\"almost monday\n◇番組内容２\n\"Fire It Up\"DEF LEPPARD\r\n\"Kick\"DEF LEPPARD\r\n\"Fragile\"Laufey\r\n\"Hasta Los Dientes\"CAMILA CABELLO feat. MARIA BECERRA",
   "start": 1657551600000,
   "end": 1657553400000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Just Friends\"WHY DON'T WE\r\n\"Girls Make Me Wanna Die\"THE ACES\r\n\"sun keeps on shining\"almost monday",
+    "番組内容２": "\"Fire It Up\"DEF LEPPARD\r\n\"Kick\"DEF LEPPARD\r\n\"Fragile\"Laufey\r\n\"Hasta Los Dientes\"CAMILA CABELLO feat. MARIA BECERRA"
   },
   "channel": {
     "type": "GR",
