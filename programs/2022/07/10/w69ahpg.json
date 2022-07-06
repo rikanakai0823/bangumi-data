@@ -1,12 +1,12 @@
 {
   "id": "w69ahpg",
   "category": "news",
-  "title": "特別番組",
-  "fullTitle": "🈔特別番組🈞",
-  "detail": "日本語同時通訳付。\r\n番組内容が決まり次第お知らせします。",
+  "title": "アジア経済市場",
+  "fullTitle": "🈔アジア経済市場🈞",
+  "detail": "#13入国規制を緩和したシンガポール。航空業、観光業、旅行業の復活に向けた取組みを紹介。配車サービス大手で東南アジアを席巻するスーパーアプリ「Grab」を取材。",
   "start": 1657447200000,
-  "end": 1657449000000,
-  "seconds": 1800,
+  "end": 1657448100000,
+  "seconds": 900,
   "channel": {
     "type": "CS",
     "channel": "CS6",
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 139
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "Grab",
+  "episode": 13,
   "flags": [
     "二",
     "再"
