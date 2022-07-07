@@ -1,0 +1,25 @@
+{
+  "id": "rkunxho",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#77,#78[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#77,#78[二][字/日英]",
+  "detail": "#77「キンダーの遠足」　#78「ちびっこバスたちの演劇公演」",
+  "start": 1657857600000,
+  "end": 1657859400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 131
+  },
+  "subTitle": "キンダーの遠足",
+  "episode": 77,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rksabp8",
+  "category": "sports",
+  "title": "The Taiso #8",
+  "fullTitle": "The Taiso #8",
+  "detail": "日本体操協会が作成した「The Taiso」。\r\n世代や体力等の状況を問わず、短い時間で楽しく手軽にできる体操です。月曜日から日曜日まで毎朝放送。",
+  "start": 1657835700000,
+  "end": 1657836000000,
+  "seconds": 300,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル２",
+    "id": "cv6z",
+    "sid": 299,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "The Taiso",
+  "episode": 8,
+  "flags": []
+}

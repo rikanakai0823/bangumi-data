@@ -1,0 +1,25 @@
+{
+  "id": "3826py44iw",
+  "category": "news",
+  "title": "秒でNEWS180",
+  "fullTitle": "秒でNEWS180🈑",
+  "detail": "学校に行く前に！隙間時間に！社会、国際、経済、科学、カルチャー、エンタメ等が分かる“ジュニア向けNEWSショー”放送＋配信で、月曜日から金曜日３分＝180秒でお届け",
+  "start": 1657837800000,
+  "end": 1657838100000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

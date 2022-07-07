@@ -1,0 +1,25 @@
+{
+  "id": "w63co4m",
+  "category": "sports",
+  "title": "[プロ野球]阪神×中日（阪神甲子園球場）",
+  "fullTitle": "[生] [プロ野球]阪神×中日（阪神甲子園球場）",
+  "detail": "（延長時、以降の番組変更繰り下げあり）\r\nGAORAプロ野球中継\r\n「阪神 vs 中日」（7.15甲子園）\r\n解説:岩田稔\r\n実況:寺西裕一\r\nリポーター:三宅秀一郎",
+  "start": 1657874700000,
+  "end": 1657891800000,
+  "seconds": 17100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
