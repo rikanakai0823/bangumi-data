@@ -1,0 +1,25 @@
+{
+  "id": "381xj5qolt",
+  "category": "news",
+  "title": "ＦＮＮ緊急特報",
+  "fullTitle": "ＦＮＮ緊急特報🈑",
+  "detail": "　",
+  "start": 1657274400000,
+  "end": 1657285080000,
+  "seconds": 10680,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597dt",
+    "sid": 1057,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 30
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
