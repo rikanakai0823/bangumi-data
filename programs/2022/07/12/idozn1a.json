@@ -1,0 +1,23 @@
+{
+  "id": "idozn1a",
+  "category": "sports",
+  "title": "スケートボードＴＶ",
+  "fullTitle": "スケートボードＴＶ",
+  "detail": "",
+  "start": 1657630500000,
+  "end": 1657630800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
