@@ -1,0 +1,23 @@
+{
+  "id": "rlm448m",
+  "category": "sports",
+  "title": "URAWA CHANNEL NEXT #34",
+  "fullTitle": "URAWA CHANNEL NEXT #34",
+  "detail": "今季も浦和レッズのクラブ応援番組をお届け！新コーナー『大原アフタートーク』に西川周作選手、岩尾憲選手、安居海渡選手が登場",
+  "start": 1657926000000,
+  "end": 1657927800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 34,
+  "flags": []
+}

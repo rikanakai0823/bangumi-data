@@ -1,0 +1,23 @@
+{
+  "id": "rkdree1",
+  "category": "information",
+  "title": "ＯＬＩＴＡＴＡ",
+  "fullTitle": "ＯＬＩＴＡＴＡ",
+  "detail": "ファッション／24時間まるごと！真夏の大特価市／おトクが弾ける、夏のスペシャル企画！ファッションアイテムが驚きのお値段で大集合！",
+  "start": 1657908000000,
+  "end": 1657911600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 87
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "パーフェクトボウリング(2020)ROKKO QUEEN'S Encore! CRYSTAL CUP",
   "fullTitle": "パーフェクトボウリング(2020)ROKKO QUEEN'S Encore! CRYSTAL CUP(3)",
-  "detail": "CRYSTAL CUP(3)\r\n決勝トーナメント1・2回戦 \r\n(2020/10/11　神戸六甲ボウル・兵庫県)",
+  "detail": "CRYSTAL CUP(3)\r\n決勝トーナメント1・2回戦 \r\n(2020/10/11　神戸六甲ボウル・兵庫県)\n◇番組内容\nCRYSTAL CUP(3)\r\n決勝トーナメント1・2回戦 \r\n(2020/10/11　神戸六甲ボウル・兵庫県)",
   "start": 1657296000000,
   "end": 1657301400000,
   "seconds": 5400,
+  "description": "CRYSTAL CUP(3)\r\n決勝トーナメント1・2回戦 \r\n(2020/10/11　神戸六甲ボウル・兵庫県)",
+  "extra": {
+    "番組内容": "CRYSTAL CUP(3)\r\n決勝トーナメント1・2回戦 \r\n(2020/10/11　神戸六甲ボウル・兵庫県)"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS4",
@@ -15,7 +19,7 @@
     "sid": 250,
     "nid": 7,
     "hasLogoData": true,
-    "n": 96
+    "n": 95
   },
   "subTitle": "",
   "episode": 1,

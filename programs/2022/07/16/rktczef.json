@@ -1,0 +1,26 @@
+{
+  "id": "rktczef",
+  "category": "music",
+  "title": "ミュージックバンク ｉｎハノイ",
+  "fullTitle": "ミュージックバンク ｉｎハノイ　[字][新]",
+  "detail": "KBS World初放送！SHINee、EXO、GOT7、TEEN TOP、Block B、SISTAR、Apink出演の音楽イベント！開催日：2015年3月28日",
+  "start": 1657899600000,
+  "end": 1657906500000,
+  "seconds": 6900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}

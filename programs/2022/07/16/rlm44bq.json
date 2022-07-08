@@ -1,0 +1,23 @@
+{
+  "id": "rlm44bq",
+  "category": "sports",
+  "title": "プロレスレンダー #2",
+  "fullTitle": "プロレスレンダー #2",
+  "detail": "プロレスラー田村ハヤトが往年のヒット曲に合わせてダンスエクササイズ！",
+  "start": 1657940400000,
+  "end": 1657941300000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}
