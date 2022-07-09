@@ -1,0 +1,26 @@
+{
+  "id": "rktczeu",
+  "category": "music",
+  "title": "【ＢＴＳ出演】２０１６ ＫＢＳ歌謡祭",
+  "fullTitle": "【ＢＴＳ出演】２０１６ ＫＢＳ歌謡祭　[字][新]",
+  "detail": "【BTS出演】2016年の歌謡祭には、BTS、SHINee、EXO、SEVENTEEN、CNBLUE、TWICEなど豪華K-POPスターが勢ぞろい！",
+  "start": 1657984200000,
+  "end": 1657998000000,
+  "seconds": 13800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 119
+  },
+  "subTitle": "BTS出演",
+  "episode": 1,
+  "flags": [
+    "字",
+    "新"
+  ]
+}
