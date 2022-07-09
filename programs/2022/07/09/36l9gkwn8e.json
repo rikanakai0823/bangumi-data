@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwn8e",
+  "category": "sports",
+  "title": "夏の高校野球千葉大会",
+  "fullTitle": "夏の高校野球千葉大会",
+  "detail": "【第１試合】四街道　対　千葉東　【球場】ZOZOマリンスタジアム",
+  "start": 1657339200000,
+  "end": 1657346400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
