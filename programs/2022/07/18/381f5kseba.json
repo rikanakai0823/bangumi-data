@@ -1,0 +1,25 @@
+{
+  "id": "381f5kseba",
+  "category": "information",
+  "title": "うまいッ！",
+  "fullTitle": "うまいッ！🈑",
+  "detail": "",
+  "start": 1658114100000,
+  "end": 1658115480000,
+  "seconds": 1380,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
