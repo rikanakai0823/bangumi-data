@@ -1,0 +1,25 @@
+{
+  "id": "idozoay",
+  "category": "sports",
+  "title": "ＭＬＢ２０２２",
+  "fullTitle": "ＭＬＢ２０２２🈔",
+  "detail": "",
+  "start": 1657767000000,
+  "end": 1657770540000,
+  "seconds": 3540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

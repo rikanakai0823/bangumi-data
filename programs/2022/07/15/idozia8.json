@@ -1,12 +1,12 @@
 {
   "id": "idozia8",
-  "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！🈑",
-  "detail": "",
+  "category": "information",
+  "title": "九州沖縄推し！　きんくる～沖縄金曜クルーズ～「＃復帰検定」",
+  "fullTitle": "九州沖縄推し！　きんくる～沖縄金曜クルーズ～「＃復帰検定」🈑",
+  "detail": "５０年前の本土復帰に関する記憶を次世代に伝えるため、ＮＨＫ沖縄と沖縄タイムスの若手が取り組んできたクイズ形式の「＃復帰検定」。集大成として記憶の継承に取り組む。",
   "start": 1657810800000,
-  "end": 1657813800000,
-  "seconds": 3000,
+  "end": 1657813500000,
+  "seconds": 2700,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "＃復帰検定",
   "episode": 1,
   "flags": [
     "字"

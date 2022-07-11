@@ -1,0 +1,23 @@
+{
+  "id": "idtt27y",
+  "category": "information",
+  "title": "えがおテレビショッピング",
+  "fullTitle": "えがおテレビショッピング",
+  "detail": "",
+  "start": 1657520880000,
+  "end": 1657522800000,
+  "seconds": 1920,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
