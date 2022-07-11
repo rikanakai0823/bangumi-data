@@ -1,15 +1,18 @@
 {
   "id": "381sxrgsu2",
   "category": "music",
-  "title": "もうすぐ音楽の日",
-  "fullTitle": "もうすぐ音楽の日🈑🈓",
-  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/ongakunohi/",
+  "title": "今日は「音楽の日」…豪華アーティストたちが熱い歌声を届ける！",
+  "fullTitle": "今日は「音楽の日」…豪華アーティストたちが熱い歌声を届ける！🈑🈓",
+  "detail": "和田アキ子、郷ひろみ、西川貴教、三浦大知、NEWS、Hey! Say! JUMP、Sexy Zoneらが出演！\n◇公式ページ\n◇『音楽の日』公式サイト　\r\nhttps://www.tbs.co.jp/ongakunohi/\n◇見どころ\n◆午後２時からの『音楽の日2022』に先駆け、ひる１２時４４分から、豪華アーティストたちが歌のエールを届ける！…出演者は家入レオ、STU48、郷ひろみ、Sexy Zone、西川貴教、NEWS、BREAKERZ、Hey! Say! JUMP、三浦大知、リトルブラックドレス、和田アキ子（50音順）\n◇公式ＳＮＳ\n◇『音楽の日』公式 Twitter　@TBS_awards\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1657943040000,
   "end": 1657947600000,
   "seconds": 4560,
-  "description": "番組情報決定までしばらくお待ち下さい。",
+  "description": "和田アキ子、郷ひろみ、西川貴教、三浦大知、NEWS、Hey! Say! JUMP、Sexy Zoneらが出演！",
   "extra": {
-    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/ongakunohi/\r\n"
+    "公式ページ": "◇『音楽の日』公式サイト　\r\nhttps://www.tbs.co.jp/ongakunohi/",
+    "見どころ": "◆午後２時からの『音楽の日2022』に先駆け、ひる１２時４４分から、豪華アーティストたちが歌のエールを届ける！…出演者は家入レオ、STU48、郷ひろみ、Sexy Zone、西川貴教、NEWS、BREAKERZ、Hey! Say! JUMP、三浦大知、リトルブラックドレス、和田アキ子（50音順）",
+    "公式ＳＮＳ": "◇『音楽の日』公式 Twitter　@TBS_awards",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +24,7 @@
     "hasLogoData": true,
     "n": 23
   },
-  "subTitle": "",
+  "subTitle": "音楽の日",
   "episode": 1,
   "flags": [
     "字",
