@@ -1,0 +1,25 @@
+{
+  "id": "rlm44co",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022～ファーム～ 7/19 ソフトバンクvs.広島",
+  "fullTitle": "🈢HAWKS プロ野球中継2022～ファーム～ 7/19 ソフトバンクvs.広島",
+  "detail": "▽7月19日開催\r\n解説/実況：柴原洋/四家秀治\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1658220900000,
+  "end": 1658237400000,
+  "seconds": 16500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

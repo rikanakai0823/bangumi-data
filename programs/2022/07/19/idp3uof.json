@@ -1,0 +1,25 @@
+{
+  "id": "idp3uof",
+  "category": "documentary",
+  "title": "ＮＨＫ特集「椎葉・山物語」",
+  "fullTitle": "ＮＨＫ特集「椎葉・山物語」🈑",
+  "detail": "九州山地の真ん中にある宮崎県椎葉村。険しい山並みに隔絶され、イノシシ狩りや焼畑、夜神楽など独特の文化を生み、山に生きる人々に長く受け継がれてきた暮らしを描く。",
+  "start": 1658221800000,
+  "end": 1658224440000,
+  "seconds": 2640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "椎葉・山物語",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

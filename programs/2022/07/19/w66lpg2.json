@@ -1,0 +1,25 @@
+{
+  "id": "w66lpg2",
+  "category": "sports",
+  "title": "FIBAバスケットボール男子アジアカップ2022　準々決勝進出決定試合",
+  "fullTitle": "[生]FIBAバスケットボール男子アジアカップ2022　準々決勝進出決定試合",
+  "detail": "準々決勝進出決定試合\r\n※日本戦の場合のみ生中継予定",
+  "start": 1658235000000,
+  "end": 1658244600000,
+  "seconds": 9600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
