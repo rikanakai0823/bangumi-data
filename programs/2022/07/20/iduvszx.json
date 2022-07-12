@@ -1,0 +1,26 @@
+{
+  "id": "iduvszx",
+  "category": "cinema",
+  "title": "メイズ・ランナー【シリーズ一挙放送】",
+  "fullTitle": "🈙🅍メイズ・ランナー【シリーズ一挙放送】",
+  "detail": "ベストセラー小説を映画化したＳＦサバイバルアクション第１弾。謎の巨大迷路に送り込まれた少年たちの壮絶な脱出劇を描く。",
+  "start": 1658245500000,
+  "end": 1658252700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "シリーズ一挙放送",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
