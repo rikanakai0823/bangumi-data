@@ -1,0 +1,25 @@
+{
+  "id": "rktehfg",
+  "category": "music",
+  "title": "ITZY COMEBACK SPECIAL 'CHECKMATE'",
+  "fullTitle": "[生]ITZY COMEBACK SPECIAL 'CHECKMATE'",
+  "detail": "5th Mini Album「CHECKMATE」で待望のカムバックを果たすITZY！\r\nこれを記念して彼女たちのカムバックスペシャル番組を日韓同時放送でお届け！",
+  "start": 1657879200000,
+  "end": 1657884600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "CHECKMATE",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
