@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Just Us Two\"STEVE AOKI & TAKING BACK SUNDAY\r\n\"Getting Better (Alternate Version)\"NEW HOPE CLUB\r\n\"Girl Who Does Both\"NEW HOPE CLUB\r\nNEW HOPE CLUBインタビュー\r\n\"Getting Better\"NEW HOPE CLUB\n◇番組内容２\n\"No Gold Teeth\"DANGER MOUSE & BLACK THOUGHT\r\n\"Left And Right\"CHARLIE PUTH feat. Jung Kook of BTS",
   "start": 1658239200000,
   "end": 1658241000000,
   "seconds": 1800,
+  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "extra": {
+    "番組内容１": "\"Just Us Two\"STEVE AOKI & TAKING BACK SUNDAY\r\n\"Getting Better (Alternate Version)\"NEW HOPE CLUB\r\n\"Girl Who Does Both\"NEW HOPE CLUB\r\nNEW HOPE CLUBインタビュー\r\n\"Getting Better\"NEW HOPE CLUB",
+    "番組内容２": "\"No Gold Teeth\"DANGER MOUSE & BLACK THOUGHT\r\n\"Left And Right\"CHARLIE PUTH feat. Jung Kook of BTS"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",

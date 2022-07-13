@@ -3,10 +3,14 @@
   "category": "music",
   "title": "クロークス：ライヴ・イン・バーゼル",
   "fullTitle": "クロークス：ライヴ・イン・バーゼル",
-  "detail": "スイスの英雄的存在のハード・ロック・バンド、クロークスがスイス・バーゼルで行ったライヴ。",
+  "detail": "スイスの英雄的存在のハード・ロック・バンド、クロークスがスイス・バーゼルで行ったライヴ。\n◇番組内容\n《曲目》「Rock 'n' Roll Tonight」　「Tokyo Nights」　「Hoodoo Woman」　「Fire」　「Bedside Radio」　「Rockin' in the Free World」　「Easy Rocker」　「Heatstrokes」　「Drum Solo」　「Screaming in the Night」　「Quinn the Eskimo (Mighty Quinn)」",
   "start": 1657706160000,
   "end": 1657710000000,
   "seconds": 3840,
+  "description": "スイスの英雄的存在のハード・ロック・バンド、クロークスがスイス・バーゼルで行ったライヴ。",
+  "extra": {
+    "番組内容": "《曲目》「Rock 'n' Roll Tonight」　「Tokyo Nights」　「Hoodoo Woman」　「Fire」　「Bedside Radio」　「Rockin' in the Free World」　「Easy Rocker」　「Heatstrokes」　「Drum Solo」　「Screaming in the Night」　「Quinn the Eskimo (Mighty Quinn)」"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS6",
