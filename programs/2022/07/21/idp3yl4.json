@@ -1,0 +1,23 @@
+{
+  "id": "idp3yl4",
+  "category": "music",
+  "title": "さわやかウインドー「奥土佐紀行」",
+  "fullTitle": "さわやかウインドー「奥土佐紀行」",
+  "detail": "",
+  "start": 1658338200000,
+  "end": 1658340000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "奥土佐紀行",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w66lp4y",
+  "category": "sports",
+  "title": "FIBAバスケットボール男子アジアカップ2022　準々決勝",
+  "fullTitle": "[生]FIBAバスケットボール男子アジアカップ2022　準々決勝",
+  "detail": "準々決勝\r\n※日本戦の場合のみ生中継予定",
+  "start": 1658398800000,
+  "end": 1658407800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 114
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxccf3",
+  "category": "variety",
+  "title": "第1話見せます Mnet presents「今週の呑み仲間」",
+  "fullTitle": "🈚第1話見せます Mnet presents「今週の呑み仲間」",
+  "detail": "CS318プレミアムサービス658CH Mnetで毎週(月)22:00～放送！",
+  "start": 1658410200000,
+  "end": 1658415000000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "今週の呑み仲間",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
