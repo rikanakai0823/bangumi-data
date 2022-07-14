@@ -1,0 +1,23 @@
+{
+  "id": "w6632ip",
+  "category": "drama",
+  "title": "コントが始まる #2",
+  "fullTitle": "コントが始まる #2",
+  "detail": "出演:菅田将暉、有村架純、仲野大賀、古川琴音、神木隆之介\r\n\r\n地上波放送:2021年4月17日～6月19日",
+  "start": 1658466000000,
+  "end": 1658469600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}
