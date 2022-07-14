@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr6gee",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽「第１０４回全国高校野球選手権大会埼玉大会」テレ玉アプリで応援しよう！▽クックハンド▽漢方納得相談▽さいたま市インフォ▽竹本ファーマーズmini",
+  "start": 1657785600000,
+  "end": 1657788300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉３",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "第１０４回全国高校野球選手権大会埼玉大会",
+  "episode": 104,
+  "flags": [
+    "S"
+  ]
+}
