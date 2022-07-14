@@ -1,0 +1,25 @@
+{
+  "id": "idp408n",
+  "category": "information",
+  "title": "「赤ひげシリーズ」５分ＰＲ",
+  "fullTitle": "「赤ひげシリーズ」５分ＰＲ🈑",
+  "detail": "",
+  "start": 1658249700000,
+  "end": 1658250000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
