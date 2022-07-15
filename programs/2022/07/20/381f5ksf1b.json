@@ -1,15 +1,15 @@
 {
   "id": "381f5ksf1b",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "【キャスター】高瀬耕造\n◇出演者\n【キャスター】高瀬耕造",
+  "title": "＃ＮＨＫ　岡山局の取り組み「まちチェン」",
+  "fullTitle": "＃ＮＨＫ　岡山局の取り組み「まちチェン」",
+  "detail": "【キャスター】片山千恵子\n◇出演者\n【キャスター】片山千恵子",
   "start": 1658317320000,
   "end": 1658317500000,
   "seconds": 180,
-  "description": "【キャスター】高瀬耕造",
+  "description": "【キャスター】片山千恵子",
   "extra": {
-    "出演者": "【キャスター】高瀬耕造"
+    "出演者": "【キャスター】片山千恵子"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "キャスター",
+  "subTitle": "まちチェン",
   "episode": 1,
   "flags": []
 }
