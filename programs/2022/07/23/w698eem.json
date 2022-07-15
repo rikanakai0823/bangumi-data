@@ -1,0 +1,25 @@
+{
+  "id": "w698eem",
+  "category": "hobby",
+  "title": "トラベル・ショー",
+  "fullTitle": "トラベル・ショー(再)",
+  "detail": "カルメン・ロバーツは、スキューバダイバーとなってベネチアの運河を清掃するゴンドラの船頭に会いに行く。",
+  "start": 1658547000000,
+  "end": 1658548800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

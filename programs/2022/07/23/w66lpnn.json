@@ -1,0 +1,25 @@
+{
+  "id": "w66lpnn",
+  "category": "sports",
+  "title": "2022 FORMULA 1　第12戦 フランスGP 予選",
+  "fullTitle": "[生]2022 FORMULA 1　第12戦 フランスGP 予選",
+  "detail": "＜開催＞2022年7月23日【生中継】～ポール・リカール・サーキット\r\n＜解説＞川井一仁　山本雅史\r\n＜実況＞塩原恒夫\r\n※第2音声：会場音\r\n※変更の場合あり",
+  "start": 1658584200000,
+  "end": 1658599200000,
+  "seconds": 15000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "生中継",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

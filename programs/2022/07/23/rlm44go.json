@@ -1,0 +1,23 @@
+{
+  "id": "rlm44go",
+  "category": "sports",
+  "title": "鷹のミカタ #25",
+  "fullTitle": "鷹のミカタ #25",
+  "detail": "パンクブーブー黒瀬純とHKT48坂口理子がどこよりもホークスを徹底応援！VTR企画も織り交ぜながら鷹の見方を提案します！",
+  "start": 1658538000000,
+  "end": 1658541600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 25,
+  "flags": []
+}

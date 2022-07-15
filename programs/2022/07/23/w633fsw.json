@@ -1,0 +1,25 @@
+{
+  "id": "w633fsw",
+  "category": "sports",
+  "title": "プロ野球 阪神×横浜DeNA 7/23",
+  "fullTitle": "[生]プロ野球 阪神×横浜DeNA 7/23",
+  "detail": "阪神×横浜DeNA(7/23試合)\r\n生中継▽甲子園　※雨天中止、時間延長の場合あり\r\n解説：湯舟敏郎／実況：中井雅之／リポーター：山本大喜",
+  "start": 1658565900000,
+  "end": 1658583000000,
+  "seconds": 17100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 95
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
