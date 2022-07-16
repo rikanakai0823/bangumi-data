@@ -3,10 +3,14 @@
   "category": "music",
   "title": "チック・コリア：ピアノ・ソロ・ライヴ1982",
   "fullTitle": "チック・コリア：ピアノ・ソロ・ライヴ1982",
-  "detail": "“ジャズ・ピアノの神様” チック・コリアが1982年に行ったソロ・ライヴ。",
+  "detail": "“ジャズ・ピアノの神様” チック・コリアが1982年に行ったソロ・ライヴ。\n◇番組内容\n《曲目》「Variation on \"Round Midnight\"」　「Variation II」　「Variation III」　「Variation IV」",
   "start": 1657967400000,
   "end": 1657970700000,
   "seconds": 3300,
+  "description": "“ジャズ・ピアノの神様” チック・コリアが1982年に行ったソロ・ライヴ。",
+  "extra": {
+    "番組内容": "《曲目》「Variation on \"Round Midnight\"」　「Variation II」　「Variation III」　「Variation IV」"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS6",

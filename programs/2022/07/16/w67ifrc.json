@@ -3,10 +3,14 @@
   "category": "music",
   "title": "チック・コリア：ピアノ・ソロ・ライヴ1983",
   "fullTitle": "チック・コリア：ピアノ・ソロ・ライヴ1983",
-  "detail": "“ジャズ・ピアノの神様” チック・コリアが1983年に行ったソロ・ライヴ。",
+  "detail": "“ジャズ・ピアノの神様” チック・コリアが1983年に行ったソロ・ライヴ。\n◇番組内容\n《曲目》「Space Defined」　「North Brazil」　「My One and Only Love」　「Present Time」　「Oblivion」　「Prelude Op. 11, No. 2」　「Crepuscule with Nellie」　「Round Midnight」　「Trinkle Tinkle」",
   "start": 1657974300000,
   "end": 1657977300000,
   "seconds": 3000,
+  "description": "“ジャズ・ピアノの神様” チック・コリアが1983年に行ったソロ・ライヴ。",
+  "extra": {
+    "番組内容": "《曲目》「Space Defined」　「North Brazil」　「My One and Only Love」　「Present Time」　「Oblivion」　「Prelude Op. 11, No. 2」　「Crepuscule with Nellie」　「Round Midnight」　「Trinkle Tinkle」"
+  },
   "channel": {
     "type": "CS",
     "channel": "CS6",
