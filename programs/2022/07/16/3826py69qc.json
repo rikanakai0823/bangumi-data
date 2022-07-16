@@ -1,0 +1,23 @@
+{
+  "id": "3826py69qc",
+  "category": "sports",
+  "title": "ウイニング競馬～福島～",
+  "fullTitle": "ウイニング競馬～福島～",
+  "detail": "【福島】10Ｒいわき特別、11ＲバーデンバーデンＣ【小倉】10Ｒ糸島特別、11Ｒ西部日刊スポーツ杯【函館】11Ｒ函館２歳Ｓ（ＧⅢ）",
+  "start": 1657951200000,
+  "end": 1657954800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
