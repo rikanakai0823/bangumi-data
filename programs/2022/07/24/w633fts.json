@@ -1,0 +1,25 @@
+{
+  "id": "w633fts",
+  "category": "sports",
+  "title": "プロ野球 阪神×横浜DeNA 7/24",
+  "fullTitle": "[生]プロ野球 阪神×横浜DeNA 7/24",
+  "detail": "阪神×横浜DeNA(7/24試合)\r\n生中継▽甲子園　※雨天中止、時間延長の場合あり\r\n解説：狩野恵輔／実況：寺西裕一／リポーター：村田匡輝",
+  "start": 1658652300000,
+  "end": 1658669400000,
+  "seconds": 17100,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 95
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idxcch6",
+  "category": "music",
+  "title": "ひなフェス 2022「アンジュルム プレミアム」",
+  "fullTitle": "ひなフェス 2022「アンジュルム プレミアム」",
+  "detail": "ハロプロ各グループが集結したコンサート・ひなフェス2022の中からアンジュルムプレミアムを放送！",
+  "start": 1658645100000,
+  "end": 1658650500000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "アンジュルム プレミアム",
+  "episode": 1,
+  "flags": []
+}
