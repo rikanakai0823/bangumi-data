@@ -1,0 +1,23 @@
+{
+  "id": "w66j5mq",
+  "category": "information",
+  "title": "おトクな時間",
+  "fullTitle": "おトクな時間",
+  "detail": "生活を彩るおトクな情報をお届けします！",
+  "start": 1658694600000,
+  "end": 1658696400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

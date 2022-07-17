@@ -1,0 +1,25 @@
+{
+  "id": "idp1sfo",
+  "category": "sports",
+  "title": "ＰＧＡゴルフツアー２０２１－２０２２　３Мオープン「最終日」",
+  "fullTitle": "ＰＧＡゴルフツアー２０２１－２０２２　３Мオープン「最終日」🈔",
+  "detail": "【解説】佐渡充高，【アナウンサー】工藤三郎　～ミネソタ州ブレイン　ＴＰＣ・ツインシティズから中継～",
+  "start": 1658696400000,
+  "end": 1658700000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "最終日",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
