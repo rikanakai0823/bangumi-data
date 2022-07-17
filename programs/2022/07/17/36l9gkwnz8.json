@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwnz8",
+  "category": "sports",
+  "title": "夏の高校野球千葉大会",
+  "fullTitle": "夏の高校野球千葉大会",
+  "detail": "【第１試合】東金　対　銚子商業\r\n【第２試合】西武台千葉　対　安房　\r\n【第３試合】流山おおたかの森　対　安房拓心\r\n【球場】千葉県総合ＳＣ野球場",
+  "start": 1658016000000,
+  "end": 1658043000000,
+  "seconds": 27000,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "第１試合",
+  "episode": 1,
+  "flags": []
+}
