@@ -1,0 +1,25 @@
+{
+  "id": "w66he0r",
+  "category": "sports",
+  "title": "プロ野球ニュース 2022",
+  "fullTitle": "[生]プロ野球ニュース 2022",
+  "detail": "＜解説＞高木豊　池田親興\r\n＜ＭＣ＞大久保博元　山田幸美\r\n▽プロ野球の試合結果をお届け！\r\n　【生放送】",
+  "start": 1658844000000,
+  "end": 1658847600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 111
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
