@@ -1,0 +1,23 @@
+{
+  "id": "rlm44is",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022 7/20 ソフトバンクvs.楽天",
+  "fullTitle": "HAWKS プロ野球中継2022 7/20 ソフトバンクvs.楽天",
+  "detail": "▽7月20日開催\r\n解説/実況：若菜嘉晴/山下末則\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1658892600000,
+  "end": 1658910600000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
