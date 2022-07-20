@@ -3,13 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"G Love\"CRAIG DAVID feat.NIPPA\r\n\"Then It All Goes Away\"DAYGLOW\n◇番組内容２\n\"Love's Disease (Just Can't Get Enough)\"PJ MORTON\r\n\"Biggest Mistake\"PJ MORTON\r\n\"Please Don't Walk Away\"PJ MORTON\r\n\"A Lil Too Heavy\"PJ MORTON\n◇番組内容３\n\"ONE IN A MILLION\"Rex Orange County\r\n\"Dope\"JOHN LEGEND feat. JID",
   "start": 1658761200000,
   "end": 1658763000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"G Love\"CRAIG DAVID feat.NIPPA\r\n\"Then It All Goes Away\"DAYGLOW",
+    "番組内容２": "\"Love's Disease (Just Can't Get Enough)\"PJ MORTON\r\n\"Biggest Mistake\"PJ MORTON\r\n\"Please Don't Walk Away\"PJ MORTON\r\n\"A Lil Too Heavy\"PJ MORTON",
+    "番組内容３": "\"ONE IN A MILLION\"Rex Orange County\r\n\"Dope\"JOHN LEGEND feat. JID"
   },
   "channel": {
     "type": "GR",
