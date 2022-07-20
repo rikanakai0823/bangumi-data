@@ -1,0 +1,23 @@
+{
+  "id": "rlm44kg",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022 7/21 ソフトバンクvs.楽天",
+  "fullTitle": "HAWKS プロ野球中継2022 7/21 ソフトバンクvs.楽天",
+  "detail": "▽7月21日開催\r\n解説/実況：斉藤和巳/四家秀治\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1658979000000,
+  "end": 1658997000000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

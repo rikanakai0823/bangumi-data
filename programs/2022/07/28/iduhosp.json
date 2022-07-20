@@ -1,0 +1,27 @@
+{
+  "id": "iduhosp",
+  "category": "cinema",
+  "title": "チーム・バチスタの栄光",
+  "fullTitle": "🈙チーム・バチスタの栄光🅍🈑",
+  "detail": "竹内結子＆阿部寛の主演で海堂尊の同名ベストセラー小説を映画化。エリート手術チームによる意外な連続術中死の原因究明に乗り出した珍コンビの活躍を描く娯楽サスペンス。",
+  "start": 1658957400000,
+  "end": 1658964600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

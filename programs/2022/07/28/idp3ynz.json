@@ -1,0 +1,23 @@
+{
+  "id": "idp3ynz",
+  "category": "music",
+  "title": "さわやかウインドー「紀州　熊野の夏」",
+  "fullTitle": "さわやかウインドー「紀州　熊野の夏」",
+  "detail": "",
+  "start": 1658943000000,
+  "end": 1658944800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 42
+  },
+  "subTitle": "紀州　熊野の夏",
+  "episode": 1,
+  "flags": []
+}

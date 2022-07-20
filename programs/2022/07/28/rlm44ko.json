@@ -1,0 +1,23 @@
+{
+  "id": "rlm44ko",
+  "category": "sports",
+  "title": "21/22ドイツブンデスリーガ Summer Break #3",
+  "fullTitle": "21/22ドイツブンデスリーガ Summer Break #3",
+  "detail": "ドイツブンデスリーガ21/22シーズンをテーマごとに深く分析",
+  "start": 1658948400000,
+  "end": 1658950200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}

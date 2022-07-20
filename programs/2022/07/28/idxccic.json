@@ -1,0 +1,23 @@
+{
+  "id": "idxccic",
+  "category": "sports",
+  "title": "サンフレッチェTV #117",
+  "fullTitle": "【契】サンフレッチェTV #117",
+  "detail": "サンフレッチェ広島のクラブ応援番組。この番組でしか見られない、選手の素顔やインタビューなど貴重映像とともにクラブの活動をお届けします。",
+  "start": 1659003300000,
+  "end": 1659004200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 117,
+  "flags": []
+}
