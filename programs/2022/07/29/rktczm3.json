@@ -1,0 +1,27 @@
+{
+  "id": "rktczm3",
+  "category": "drama",
+  "title": "タルジャの春　#1",
+  "fullTitle": "タルジャの春　#1　[字][再][初]",
+  "detail": "2007年 全22話",
+  "start": 1659031800000,
+  "end": 1659036000000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再",
+    "初"
+  ]
+}

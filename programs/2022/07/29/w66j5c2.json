@@ -1,0 +1,23 @@
+{
+  "id": "w66j5c2",
+  "category": "information",
+  "title": "番組ＰＲ【７月】",
+  "fullTitle": "番組ＰＲ【７月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1659081000000,
+  "end": 1659081600000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "７月",
+  "episode": 1,
+  "flags": []
+}

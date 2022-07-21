@@ -1,0 +1,23 @@
+{
+  "id": "w67ga67",
+  "category": "music",
+  "title": "OWV ビデオ特集",
+  "fullTitle": "OWV ビデオ特集",
+  "detail": "7月27日にニューシングル「Time Jackerz」をリリースした、OWVのミュージックビデオをお届け。",
+  "start": 1659085200000,
+  "end": 1659087000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "ＭＴＶ",
+    "id": "f0df",
+    "sid": 323,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 123
+  },
+  "subTitle": "Time Jackerz",
+  "episode": 1,
+  "flags": []
+}

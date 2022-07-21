@@ -1,0 +1,23 @@
+{
+  "id": "rktehex",
+  "category": "variety",
+  "title": "ユ・クイズ ON THE BLOCK #150",
+  "fullTitle": "ユ・クイズ ON THE BLOCK #150",
+  "detail": "ヒューマントークショー「ユ・クイズ ON THE BLOCK」！\r\n再：(水)深3:00～",
+  "start": 1659063600000,
+  "end": 1659069000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "ユ・クイズ ON THE BLOCK",
+  "episode": 150,
+  "flags": []
+}

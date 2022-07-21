@@ -1,0 +1,23 @@
+{
+  "id": "w681g56",
+  "category": "anime",
+  "title": "R指定アニメ！ #13",
+  "fullTitle": "R指定アニメ！ #13",
+  "detail": "【再放送】\r\n#13『オーバーロード』生放送スペシャル！",
+  "start": 1659031200000,
+  "end": 1659034800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＡＴ－Ｘ",
+    "id": "f0dp",
+    "sid": 333,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 129
+  },
+  "subTitle": "再放送",
+  "episode": 13,
+  "flags": []
+}
