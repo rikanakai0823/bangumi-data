@@ -1,0 +1,25 @@
+{
+  "id": "w698egx",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック(再)",
+  "detail": "今回は、新しいテクノロジーが私たちを取り巻く世界を探索するのにいかに役立つかを調べる。",
+  "start": 1659162600000,
+  "end": 1659164400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rlm44hg",
+  "category": "sports",
+  "title": "サンフレッチェTV #116",
+  "fullTitle": "サンフレッチェTV #116",
+  "detail": "サンフレッチェ広島のクラブ応援番組。今回は、広島OBにして現在はスペインで活動する丹羽大輝さんの広島訪問の様子をお届け！",
+  "start": 1659132900000,
+  "end": 1659133800000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 116,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idsk6mz",
+  "category": "sports",
+  "title": "ゴルフＯＮＥ",
+  "fullTitle": "ゴルフＯＮＥ",
+  "detail": "◇制作\n2022年",
+  "start": 1659168000000,
+  "end": 1659169800000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

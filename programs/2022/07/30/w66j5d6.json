@@ -1,0 +1,23 @@
+{
+  "id": "w66j5d6",
+  "category": "music",
+  "title": "INIスペシャル",
+  "fullTitle": "INIスペシャル",
+  "detail": "INIのMV特集\r\n「CALL119」「We Are」「Rocketter」「Brighter」",
+  "start": 1659175200000,
+  "end": 1659176400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

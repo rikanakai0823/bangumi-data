@@ -1,0 +1,25 @@
+{
+  "id": "rkv923i",
+  "category": "documentary",
+  "title": "アプレジェンヌ　～日テレ大劇場へようこそ～",
+  "fullTitle": "アプレジェンヌ　～日テレ大劇場へようこそ～[再]",
+  "detail": "第８回ゲスト：珠城りょうさん",
+  "start": 1659189600000,
+  "end": 1659193200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "日テレＮＥＷＳ２４",
+    "id": "cv8d",
+    "sid": 349,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 135
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": [
+    "再"
+  ]
+}

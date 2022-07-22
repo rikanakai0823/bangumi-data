@@ -1,0 +1,25 @@
+{
+  "id": "rkuny1r",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#75,#76[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#75,#76[二][字/日英]",
+  "detail": "#75「トラミーの初運行」　#76「トラミーの秘密」",
+  "start": 1659155400000,
+  "end": 1659157200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "トラミーの初運行",
+  "episode": 75,
+  "flags": [
+    "二"
+  ]
+}

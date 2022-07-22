@@ -1,0 +1,25 @@
+{
+  "id": "rlm44hi",
+  "category": "sports",
+  "title": "滝川英治のスポーツダイアリー　#3",
+  "fullTitle": "🈚滝川英治のスポーツダイアリー　#3",
+  "detail": "無料放送。どなたでもご覧頂けます。\r\nアスリートや、スポーツ界に通じる裏方などをゲストに招き、今だから言えるスポーツの裏話を聞いていくスポーツトーク番組。",
+  "start": 1659137400000,
+  "end": 1659139200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "無"
+  ]
+}

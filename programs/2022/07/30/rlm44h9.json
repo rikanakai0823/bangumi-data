@@ -1,0 +1,23 @@
+{
+  "id": "rlm44h9",
+  "category": "sports",
+  "title": "Challenge！ Consadole　#54",
+  "fullTitle": "Challenge！ Consadole　#54",
+  "detail": "北海道コンサドーレ札幌のクラブ応援番組。今回は今シーズン立正大学から特別指定を経て加入した田中宏武選手にインタビュー！",
+  "start": 1659132000000,
+  "end": 1659132900000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 54,
+  "flags": []
+}
