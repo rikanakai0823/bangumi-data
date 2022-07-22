@@ -1,0 +1,25 @@
+{
+  "id": "381jqz2foo",
+  "category": "hobby",
+  "title": "ＮＨＫ高校講座　ビジネス基礎「銀行」",
+  "fullTitle": "ＮＨＫ高校講座　ビジネス基礎「銀行」🈑",
+  "detail": "高校講座「ビジネス基礎」第８回は、「銀行」について学びます。出演は前野朋哉さんと濱尾咲綺さんです。",
+  "start": 1658456400000,
+  "end": 1658457000000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "銀行",
+  "episode": 8,
+  "flags": [
+    "字"
+  ]
+}

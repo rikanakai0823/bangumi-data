@@ -1,0 +1,23 @@
+{
+  "id": "w698efx",
+  "category": "news",
+  "title": "米議会襲撃 公聴会生中継",
+  "fullTitle": "米議会襲撃 公聴会生中継",
+  "detail": "米連邦議会議事堂襲撃の公聴会の模様を、ワシントンDCから生中継でお送りする。",
+  "start": 1658455200000,
+  "end": 1658457000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
