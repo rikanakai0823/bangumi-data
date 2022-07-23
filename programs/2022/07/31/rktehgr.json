@@ -1,0 +1,23 @@
+{
+  "id": "rktehgr",
+  "category": "music",
+  "title": "Mnetライブ 【SOMI】",
+  "fullTitle": "Mnetライブ 【SOMI】",
+  "detail": "圧倒的な歌声とビジュアルで人々を虜にするSOMI！そんな彼女のライブパフォーマンスをまとめてお届け！\r\n2022年\r\n※再放送情報はMnet HPにてご確認ください",
+  "start": 1659267900000,
+  "end": 1659268800000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "SOMI",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rlm44hh",
+  "category": "sports",
+  "title": "ドイツ スーパーカップ 2022 ライプツィヒ×バイエルン",
+  "fullTitle": "🈢ドイツ スーパーカップ 2022 ライプツィヒ×バイエルン",
+  "detail": "リーグ10連覇を達成した王者バイエルンに、ポカールを初制覇したライプツィヒが挑む！",
+  "start": 1659205200000,
+  "end": 1659217800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

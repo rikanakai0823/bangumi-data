@@ -1,0 +1,23 @@
+{
+  "id": "rkdreoe",
+  "category": "information",
+  "title": "ファッションスペシャル！",
+  "fullTitle": "ファッションスペシャル！",
+  "detail": "ファッション／真夏の大特価市パート1 ／おトクが弾ける、夏のスペシャル企画！ファッションアイテムが驚きのお値段で大集合！",
+  "start": 1659214800000,
+  "end": 1659218400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "ショップチャンネル",
+    "id": "cv07",
+    "sid": 55,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 87
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

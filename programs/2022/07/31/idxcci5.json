@@ -1,0 +1,23 @@
+{
+  "id": "idxcci5",
+  "category": "sports",
+  "title": "月刊 格闘無双 #68",
+  "fullTitle": "月刊 格闘無双 #68",
+  "detail": "プロレス格闘技専門チャンネル「FIGHTING TV サムライ」の中から、毎週厳選した試合をお届け。",
+  "start": 1659229200000,
+  "end": 1659236400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "FIGHTING TV サムライ",
+  "episode": 68,
+  "flags": []
+}
