@@ -1,0 +1,23 @@
+{
+  "id": "ids0z8a",
+  "category": "information",
+  "title": "新4K8KBS衛星放送でみようよ！真夏のリレー1週間",
+  "fullTitle": "新4K8KBS衛星放送でみようよ！真夏のリレー1週間",
+  "detail": "7月25日から31日まで毎日1番組、BS民放5社とNHK BS4K・8K各局がリレー形式で珠玉の番組群を放送。ご期待ください。",
+  "start": 1658534400000,
+  "end": 1658535300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_0",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
