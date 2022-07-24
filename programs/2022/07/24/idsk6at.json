@@ -1,8 +1,8 @@
 {
   "id": "idsk6at",
   "category": "information",
-  "title": "情報セレクト【番組休止の場合あり】",
-  "fullTitle": "情報セレクト【番組休止の場合あり】",
+  "title": "情報セレクト",
+  "fullTitle": "情報セレクト",
   "detail": "選りすぐりの商品をご紹介！\n◇番組内容\n通販各社のＴＶショッピングを曜日ごとに内容を変えてお届けします。",
   "start": 1658656440000,
   "end": 1658656800000,
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 50
   },
-  "subTitle": "番組休止の場合あり",
+  "subTitle": "",
   "episode": 1,
   "flags": []
 }
