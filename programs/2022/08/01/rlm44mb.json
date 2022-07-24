@@ -1,0 +1,23 @@
+{
+  "id": "rlm44mb",
+  "category": "sports",
+  "title": "HAWKS プロ野球中継2022 7/31 ソフトバンクvs.西武",
+  "fullTitle": "HAWKS プロ野球中継2022 7/31 ソフトバンクvs.西武",
+  "detail": "▽7月31日開催\r\n解説/実況：松中信彦/信川竜太\r\n※試合状況により番組内容が変更になる可能性がございます。",
+  "start": 1659324600000,
+  "end": 1659342600000,
+  "seconds": 18000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
