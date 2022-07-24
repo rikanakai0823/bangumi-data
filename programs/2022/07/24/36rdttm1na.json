@@ -1,0 +1,23 @@
+{
+  "id": "36rdttm1na",
+  "category": "sports",
+  "title": "都市対抗野球ダイジェスト",
+  "fullTitle": "都市対抗野球ダイジェスト",
+  "detail": "社会人野球の最高峰・都市対抗野球大会。その日に行われた全試合をダイジェストで振り返ります。",
+  "start": 1658673000000,
+  "end": 1658674800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
