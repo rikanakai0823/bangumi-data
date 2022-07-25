@@ -1,0 +1,23 @@
+{
+  "id": "rktehi1",
+  "category": "music",
+  "title": "Mnetライブ 【SM所属アーティストSP】",
+  "fullTitle": "Mnetライブ 【SM所属アーティストSP】",
+  "detail": "【EXO、aespa、Red Velvet、GOT the best】SM所属アーティストのライブパフォーマンスをお届け！\r\n2022年\r\n※再放送情報はMnet HPにてご確認ください",
+  "start": 1659404700000,
+  "end": 1659405600000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "SM所属アーティストSP",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvp14",
+  "category": "cinema",
+  "title": "コンティニュー【メガヒット９（再）】",
+  "fullTitle": "🈙🅍コンティニュー【メガヒット９（再）】",
+  "detail": "フランク・グリロ、メル・ギブソン、ナオミ・ワッツ共演によるＳＦアクション。死のループに陥った男の奮闘を描く。",
+  "start": 1659416400000,
+  "end": 1659423600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "メガヒット９（再）",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

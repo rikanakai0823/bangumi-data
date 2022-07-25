@@ -1,0 +1,27 @@
+{
+  "id": "idsk6rm",
+  "category": "documentary",
+  "title": "夢の彼方に・ＦＲＡＮＣＥ・ＩＴＡＬＹ",
+  "fullTitle": "夢の彼方に・ＦＲＡＮＣＥ・ＩＴＡＬＹ",
+  "detail": "◇制作\n翔テレビジョン",
+  "start": 1659376800000,
+  "end": 1659380400000,
+  "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

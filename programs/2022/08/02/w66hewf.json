@@ -1,0 +1,25 @@
+{
+  "id": "w66hewf",
+  "category": "sports",
+  "title": "プロ野球ニュース 2022",
+  "fullTitle": "[生]プロ野球ニュース 2022",
+  "detail": "▽プロ野球の試合結果をお届け！\r\n　【生放送】",
+  "start": 1659448800000,
+  "end": 1659452400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＯＮＥ",
+    "id": "f0cz",
+    "sid": 307,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 111
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
