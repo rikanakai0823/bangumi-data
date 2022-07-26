@@ -1,0 +1,25 @@
+{
+  "id": "3826py8faq",
+  "category": "news",
+  "title": "ゆうがたサテライト【新型コロナ最新感染情報】",
+  "fullTitle": "ゆうがたサテライト【新型コロナ最新感染情報】🈑",
+  "detail": "新型コロナウイルスの感染拡大が収まらない東京都の最新感染情報ほか",
+  "start": 1658822040000,
+  "end": 1658822400000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "新型コロナ最新感染情報",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idtt32i",
+  "category": "information",
+  "title": "やずやＴＶショッピング",
+  "fullTitle": "やずやＴＶショッピング",
+  "detail": "",
+  "start": 1658816880000,
+  "end": 1658818800000,
+  "seconds": 1920,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
