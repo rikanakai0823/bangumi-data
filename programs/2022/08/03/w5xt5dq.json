@@ -1,0 +1,23 @@
+{
+  "id": "w5xt5dq",
+  "category": "information",
+  "title": "エアーヨーン 自動で膨らむエアーベッド",
+  "fullTitle": "エアーヨーン 自動で膨らむエアーベッド",
+  "detail": "",
+  "start": 1659481200000,
+  "end": 1659484800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 89
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

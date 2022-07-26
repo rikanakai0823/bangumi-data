@@ -1,0 +1,25 @@
+{
+  "id": "rktczpe",
+  "category": "drama",
+  "title": "タルジャの春　#4",
+  "fullTitle": "タルジャの春　#4　[字]",
+  "detail": "2007年 全22話",
+  "start": 1659520800000,
+  "end": 1659525300000,
+  "seconds": 4500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}

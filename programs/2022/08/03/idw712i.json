@@ -1,0 +1,25 @@
+{
+  "id": "idw712i",
+  "category": "music",
+  "title": "午前３時の音楽会 ＃１",
+  "fullTitle": "🈟午前３時の音楽会 ＃１",
+  "detail": "「カラフルパレット」Yu-ki・あきひろが、ナビゲートする音楽情報番組。毎回ゲストを迎えてのトークや最新情報を通して、国内外の音楽を幅広くお届けします。",
+  "start": 1659463200000,
+  "end": 1659465000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_2",
+    "name": "ＢＳ１２トゥエルビ",
+    "id": "8kta",
+    "sid": 222,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "カラフルパレット",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
