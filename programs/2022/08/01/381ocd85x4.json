@@ -3,10 +3,15 @@
   "category": "information",
   "title": "イントロ",
   "fullTitle": "イントロ",
-  "detail": "",
+  "detail": "佐藤真知子アナがゲストを招く番宣トーク番組。今夜のゲストは土曜ドラマ「初恋の悪魔」のテーマ曲を担当されているSOIL＆“PIMP” SESSIONS！\n◇出演者\nＭＣ　佐藤真知子（日テレアナウンサー）\r\n\r\nゲスト　SOIL＆“PIMP” SESSIONS\r\n         社長\r\n         タブゾンビ\n◇番組内容\nジャズバンドSOIL＆“PIMP” SESSIONSの社長さんとタブゾンビさんをゲストに迎えて、台本を読んで作り上げたという土曜ドラマ「初恋の悪魔」のテーマ曲についてお話を伺います！！",
   "start": 1659285000000,
   "end": 1659286200000,
   "seconds": 1200,
+  "description": "佐藤真知子アナがゲストを招く番宣トーク番組。今夜のゲストは土曜ドラマ「初恋の悪魔」のテーマ曲を担当されているSOIL＆“PIMP” SESSIONS！",
+  "extra": {
+    "出演者": "ＭＣ　佐藤真知子（日テレアナウンサー）\r\n\r\nゲスト　SOIL＆“PIMP” SESSIONS\r\n         社長\r\n         タブゾンビ",
+    "番組内容": "ジャズバンドSOIL＆“PIMP” SESSIONSの社長さんとタブゾンビさんをゲストに迎えて、台本を読んで作り上げたという土曜ドラマ「初恋の悪魔」のテーマ曲についてお話を伺います！！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
+  "subTitle": "初恋の悪魔",
   "episode": 1,
   "flags": []
 }
