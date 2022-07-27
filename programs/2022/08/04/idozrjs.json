@@ -1,0 +1,26 @@
+{
+  "id": "idozrjs",
+  "category": "sports",
+  "title": "プロ野球２０２２「ＤｅＮＡ」対「広島」",
+  "fullTitle": "プロ野球２０２２「ＤｅＮＡ」対「広島」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　５：４５）　【解説】藤川球児，【アナウンサー】飯塚洋介　～横浜スタジアムから中継～",
+  "start": 1659601800000,
+  "end": 1659616200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "広島",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

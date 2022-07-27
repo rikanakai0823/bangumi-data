@@ -1,0 +1,26 @@
+{
+  "id": "rktczpl",
+  "category": "drama",
+  "title": "タルジャの春　#2",
+  "fullTitle": "タルジャの春　#2　[字][再]",
+  "detail": "2007年 全22話",
+  "start": 1659550200000,
+  "end": 1659554400000,
+  "seconds": 4200,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

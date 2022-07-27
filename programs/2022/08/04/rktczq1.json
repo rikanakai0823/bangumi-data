@@ -1,0 +1,25 @@
+{
+  "id": "rktczq1",
+  "category": "drama",
+  "title": "タルジャの春　#5",
+  "fullTitle": "タルジャの春　#5　[字]",
+  "detail": "2007年 全22話",
+  "start": 1659607200000,
+  "end": 1659611700000,
+  "seconds": 4500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rktczpn",
+  "category": "music",
+  "title": "Ｖｉｒｔｕａｌ歌謡トップ１０",
+  "fullTitle": "Ｖｉｒｔｕａｌ歌謡トップ１０　[字][再][新]",
+  "detail": "日本初放送!Stray Kids、CRAVITYら出演!韓国の伝説の番組'歌謡トップ10'がグローバルチャートを基盤としたワールドワイドなKBS Worldオリジナル音楽番組として復活!2022年",
+  "start": 1659556800000,
+  "end": 1659560400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再",
+    "新"
+  ]
+}
