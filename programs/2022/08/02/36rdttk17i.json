@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"What’s Going On\"MARVIN GAYE\r\n\"Can’t Help Falling In Love (From The Original Motion Picture Soundtrack ELVIS)\"KACEY MUSGRAVES\r\n\"Breathe\"JULIAN LENNON\r\n\"Biutyful\"COLDPLAY\n◇番組内容２\n\"Places\"THE DRIVER ERA\r\n\"Heaven Angel\"THE DRIVER ERA\r\n\"Take Me Away\"THE DRIVER ERA",
   "start": 1659366000000,
   "end": 1659367800000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"What’s Going On\"MARVIN GAYE\r\n\"Can’t Help Falling In Love (From The Original Motion Picture Soundtrack ELVIS)\"KACEY MUSGRAVES\r\n\"Breathe\"JULIAN LENNON\r\n\"Biutyful\"COLDPLAY",
+    "番組内容２": "\"Places\"THE DRIVER ERA\r\n\"Heaven Angel\"THE DRIVER ERA\r\n\"Take Me Away\"THE DRIVER ERA"
   },
   "channel": {
     "type": "GR",
