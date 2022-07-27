@@ -1,12 +1,12 @@
 {
   "id": "36l9gkwowv",
-  "category": "etc",
-  "title": "この時間は０３１ｃｈをご覧ください。",
-  "fullTitle": "この時間は０３１ｃｈをご覧ください。",
-  "detail": "録画は０３１ｃｈで行ってください。",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "▽マチコミワンニャン部特別編▽天気▽高校生応援企画「＃アオハルのむこうがわ」常盤高校編▽マチコミ感謝祭",
   "start": 1658907000000,
-  "end": 1658907300000,
-  "seconds": 300,
+  "end": 1658908800000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 10
   },
-  "subTitle": "",
+  "subTitle": "＃アオハルのむこうがわ",
   "episode": 1,
   "flags": []
 }
