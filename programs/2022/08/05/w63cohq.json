@@ -1,0 +1,23 @@
+{
+  "id": "w63cohq",
+  "category": "sports",
+  "title": "[プロ野球]北海道日本ハム×楽天～ファーム～（鎌スタ）",
+  "fullTitle": "[プロ野球]北海道日本ハム×楽天～ファーム～（鎌スタ）",
+  "detail": "GAORAプロ野球中継～ファーム～\r\n北海道日本ハム×楽天\r\n解説：荒木大輔\r\n実況：中野玄\r\n開催日：2022年8月5日\r\n球場：鎌スタ",
+  "start": 1659690000000,
+  "end": 1659704400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "ＧＡＯＲＡ",
+    "id": "f0bi",
+    "sid": 254,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 96
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

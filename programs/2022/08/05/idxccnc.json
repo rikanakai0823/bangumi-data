@@ -1,0 +1,23 @@
+{
+  "id": "idxccnc",
+  "category": "sports",
+  "title": "LIONS プロ野球中継2022～ファーム～　8/4 西武vs.ロッテ",
+  "fullTitle": "LIONS プロ野球中継2022～ファーム～　8/4 西武vs.ロッテ",
+  "detail": "▽８月４日開催\r\n実況：西達彦",
+  "start": 1659664800000,
+  "end": 1659679200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

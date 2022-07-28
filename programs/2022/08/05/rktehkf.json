@@ -1,0 +1,23 @@
+{
+  "id": "rktehkf",
+  "category": "music",
+  "title": "KCON:TACT 4 U バックステージビハインド #1",
+  "fullTitle": "KCON:TACT 4 U バックステージビハインド #1",
+  "detail": "「KCON:TACT 4 U」の裏側を収めたスペシャル番組！\r\n再：(金)21:45～22:45 ※#1のみ(金)23:00～深0:00",
+  "start": 1659708000000,
+  "end": 1659711600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "KCON:TACT 4 U",
+  "episode": 1,
+  "flags": []
+}

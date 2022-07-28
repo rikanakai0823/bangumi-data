@@ -1,0 +1,25 @@
+{
+  "id": "rks83i4",
+  "category": "drama",
+  "title": "タイドラマ「Astrophile」 #5",
+  "fullTitle": "[字]タイドラマ「Astrophile」 #5",
+  "detail": "ナブダオを守ろうとするテーンクン。オーナーは別の考えのようで…。そんな中、ナブダオをおとし入れようとする強敵が現れる。",
+  "start": 1659675600000,
+  "end": 1659678600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "テレ朝チャンネル１",
+    "id": "cv6y",
+    "sid": 298,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 106
+  },
+  "subTitle": "Astrophile",
+  "episode": 5,
+  "flags": [
+    "字"
+  ]
+}

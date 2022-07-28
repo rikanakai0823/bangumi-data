@@ -1,0 +1,25 @@
+{
+  "id": "rkuny9q",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#56,#57[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#56,#57[二][字/日英]",
+  "detail": "#56「勇気をください」　#57「はじめまして、ピーナッツ」",
+  "start": 1659668400000,
+  "end": 1659670200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "勇気をください",
+  "episode": 56,
+  "flags": [
+    "二"
+  ]
+}
