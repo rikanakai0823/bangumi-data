@@ -1,0 +1,23 @@
+{
+  "id": "38224k00gw",
+  "category": "information",
+  "title": "イベ検",
+  "fullTitle": "イベ検",
+  "detail": "テレビ朝日がオススメするイベント情報！\r\nイベントの詳しい情報は『テレビ朝日　イベント』で検索‼",
+  "start": 1659033960000,
+  "end": 1659034800000,
+  "seconds": 840,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
