@@ -1,0 +1,23 @@
+{
+  "id": "w698eif",
+  "category": "hobby",
+  "title": "クリック",
+  "fullTitle": "クリック",
+  "detail": "今回のクリックはゲーム音楽が演奏されるBBCプロムスのリハーサルを取材するほか、ビニール盤（レコード）の復活や夏の最新グッズを紹介する。",
+  "start": 1659745800000,
+  "end": 1659747600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS16",
+    "name": "ＢＢＣワールド",
+    "id": "f0e9",
+    "sid": 353,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 137
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

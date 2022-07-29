@@ -1,0 +1,25 @@
+{
+  "id": "idozx8z",
+  "category": "documentary",
+  "title": "Ｗｉｌｄ　Ｈｏｋｋａｉｄｏ！「ニセコ　夏」",
+  "fullTitle": "Ｗｉｌｄ　Ｈｏｋｋａｉｄｏ！「ニセコ　夏」🈞",
+  "detail": "北海道の大自然と観光情報を伝えるＮＨＫワールドＪＡＰＡＮの番組！国内向けに日本語字幕付きで放送します！",
+  "start": 1659715200000,
+  "end": 1659716100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ニセコ　夏",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

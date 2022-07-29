@@ -1,0 +1,25 @@
+{
+  "id": "w63j5ld",
+  "category": "sports",
+  "title": "日本プロゴルフ選手権 2022 3日目 1番・9番ホール",
+  "fullTitle": "[生]日本プロゴルフ選手権 2022 3日目 1番・9番ホール",
+  "detail": "～生中継　～グランフィールズカントリークラブ",
+  "start": 1659744000000,
+  "end": 1659765600000,
+  "seconds": 21600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレジータス",
+    "id": "f0bl",
+    "sid": 257,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 97
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
