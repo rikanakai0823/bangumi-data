@@ -1,0 +1,25 @@
+{
+  "id": "idxccnn",
+  "category": "sports",
+  "title": "Challenge！ Consadole　#55",
+  "fullTitle": "🈚Challenge！ Consadole　#55",
+  "detail": "北海道コンサドーレ札幌のクラブ応援番組。新コーナー『大森健作のアイツをケンサク！』では中村桐耶選手にインタビュー！",
+  "start": 1659868200000,
+  "end": 1659869100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 55,
+  "flags": [
+    "無"
+  ]
+}

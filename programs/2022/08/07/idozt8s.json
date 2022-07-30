@@ -1,0 +1,26 @@
+{
+  "id": "idozt8s",
+  "category": "sports",
+  "title": "プロ野球２０２２「中日」対「ＤｅＮＡ」",
+  "fullTitle": "プロ野球２０２２「中日」対「ＤｅＮＡ」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　２：００）　【解説】宮本慎也，【アナウンサー】別井敬之　～バンテリンドームから中継～",
+  "start": 1659848400000,
+  "end": 1659861000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "ＤｅＮＡ",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

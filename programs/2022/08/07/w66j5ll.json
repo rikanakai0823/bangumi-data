@@ -1,0 +1,25 @@
+{
+  "id": "w66j5ll",
+  "category": "information",
+  "title": "番組PR【8月】",
+  "fullTitle": "[無料]番組PR【8月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1659822600000,
+  "end": 1659823200000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＴＷＯ",
+    "id": "f0d0",
+    "sid": 308,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 112
+  },
+  "subTitle": "8月",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

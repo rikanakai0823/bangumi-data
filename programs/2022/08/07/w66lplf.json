@@ -1,0 +1,25 @@
+{
+  "id": "w66lplf",
+  "category": "information",
+  "title": "番組PR【8月】",
+  "fullTitle": "[無料]番組PR【8月】",
+  "detail": "＜番組に関する情報は・・・＞\r\nhttps://otn.fujitv.co.jp",
+  "start": 1659843600000,
+  "end": 1659844200000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS20",
+    "name": "フジテレビＮＥＸＴ",
+    "id": "f0d1",
+    "sid": 309,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 113
+  },
+  "subTitle": "8月",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
