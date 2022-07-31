@@ -1,0 +1,25 @@
+{
+  "id": "rkunydd",
+  "category": "hobby",
+  "title": "ペッパピッグ#30[字/日英]",
+  "fullTitle": "ペッパピッグ#30[二][字/日英]",
+  "detail": "ペッパとジョージは凧揚げに挑戦するが、凧が木に引っかかってしまう。ダディが木に登って凧をとってくれたものの、そのまま泥の水たまりに落下。",
+  "start": 1659906600000,
+  "end": 1659907200000,
+  "seconds": 600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "",
+  "episode": 30,
+  "flags": [
+    "二"
+  ]
+}

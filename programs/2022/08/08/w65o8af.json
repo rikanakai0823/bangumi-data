@@ -1,0 +1,23 @@
+{
+  "id": "w65o8af",
+  "category": "etc",
+  "title": "生活お役立ち情報",
+  "fullTitle": "生活お役立ち情報",
+  "detail": "この時間は生活に役立つお得なテレビショッピングをお届けします。",
+  "start": 1659913200000,
+  "end": 1659915000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS14",
+    "name": "ファミリー劇場",
+    "id": "f0cl",
+    "sid": 293,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 101
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

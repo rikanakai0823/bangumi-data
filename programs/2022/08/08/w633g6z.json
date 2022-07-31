@@ -1,0 +1,25 @@
+{
+  "id": "w633g6z",
+  "category": "sports",
+  "title": "ライジングレディースゴルフTV【MATCH13-1】",
+  "fullTitle": "[初]ライジングレディースゴルフTV【MATCH13-1】",
+  "detail": "【MATCH13-1】荒川侑奈選手＆幡野夏生選手vs土方優花選手＆鵜飼桃選手",
+  "start": 1659945600000,
+  "end": 1659949200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS4",
+    "name": "スカイＡ",
+    "id": "f0be",
+    "sid": 250,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 95
+  },
+  "subTitle": "MATCH13-1",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

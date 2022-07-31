@@ -1,0 +1,23 @@
+{
+  "id": "w67kl5x",
+  "category": "music",
+  "title": "BTS MV特集",
+  "fullTitle": "BTS MV特集",
+  "detail": "BTSのミュージックビデオ特集をオンエア！",
+  "start": 1659967200000,
+  "end": 1659970800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS12",
+    "name": "エムオン！",
+    "id": "f0dh",
+    "sid": 325,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 125
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
