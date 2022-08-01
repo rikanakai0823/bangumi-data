@@ -1,0 +1,23 @@
+{
+  "id": "iduflol",
+  "category": "music",
+  "title": "ＧＲＥＥＮＲＯＯＭ　ＦＥＳＴＩＶＡＬ'２２　ＤＡＹ－２",
+  "fullTitle": "ＧＲＥＥＮＲＯＯＭ　ＦＥＳＴＩＶＡＬ'２２　ＤＡＹ－２",
+  "detail": "サーフカルチャー、ビーチカルチャーをバックボーンに持つ、ミュージックとアートのカルチャーフェスティバル。",
+  "start": 1660039200000,
+  "end": 1660046400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_0",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

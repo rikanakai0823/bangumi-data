@@ -1,0 +1,23 @@
+{
+  "id": "w63tkvq",
+  "category": "sports",
+  "title": "スターゴルフマッチ3 #22（MC：三波豊和）",
+  "fullTitle": "スターゴルフマッチ3 #22（MC：三波豊和）",
+  "detail": "芸能界・スポーツ界からや男女プロゴルファーをお招きしての真剣ペアマッチ！",
+  "start": 1660048200000,
+  "end": 1660050000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS18",
+    "name": "ゴルフネットワーク",
+    "id": "f0bq",
+    "sid": 262,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 98
+  },
+  "subTitle": "",
+  "episode": 22,
+  "flags": []
+}
