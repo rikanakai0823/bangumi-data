@@ -1,9 +1,9 @@
 {
   "id": "idozsmn",
   "category": "sports",
-  "title": "Ｊリーグタイム",
-  "fullTitle": "Ｊリーグタイム",
-  "detail": "",
+  "title": "Ｊリーグタイム「Ｊ１第２４節」",
+  "fullTitle": "Ｊリーグタイム「Ｊ１第２４節」",
+  "detail": "【解説】播戸竜二，【アナウンサー】内山俊哉，【司会】高階亜理沙",
   "start": 1659790800000,
   "end": 1659793200000,
   "seconds": 2400,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 40
   },
-  "subTitle": "",
+  "subTitle": "Ｊ１第２４節",
   "episode": 1,
   "flags": []
 }
