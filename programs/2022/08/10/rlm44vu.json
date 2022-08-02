@@ -1,0 +1,25 @@
+{
+  "id": "rlm44vu",
+  "category": "sports",
+  "title": "新日本プロレス 2022.8.10広島サンプラザホール",
+  "fullTitle": "🈢新日本プロレス 2022.8.10広島サンプラザホール",
+  "detail": "24時間プロレス・格闘技専門チャンネル「サムライTV」から厳選された番組をお届けします！",
+  "start": 1660123800000,
+  "end": 1660136400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "スポーツライブ＋",
+    "id": "cvkw",
+    "sid": 800,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 140
+  },
+  "subTitle": "サムライTV",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

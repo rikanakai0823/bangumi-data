@@ -1,0 +1,26 @@
+{
+  "id": "idozuib",
+  "category": "sports",
+  "title": "プロ野球２０２２「ＤｅＮＡ」対「阪神」",
+  "fullTitle": "プロ野球２０２２「ＤｅＮＡ」対「阪神」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】和田一浩，【アナウンサー】星野圭介　～横浜スタジアムから中継～",
+  "start": 1660122000000,
+  "end": 1660134600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "阪神",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

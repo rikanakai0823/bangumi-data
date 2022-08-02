@@ -1,0 +1,25 @@
+{
+  "id": "rktcztm",
+  "category": "drama",
+  "title": "タルジャの春　#6",
+  "fullTitle": "タルジャの春　#6　[字]",
+  "detail": "2007年 全22話",
+  "start": 1660125600000,
+  "end": 1660130100000,
+  "seconds": 4500,
+  "channel": {
+    "type": "CS",
+    "channel": "CS10",
+    "name": "ＫＢＳ　Ｗｏｒｌｄ",
+    "id": "cv7h",
+    "sid": 317,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 119
+  },
+  "subTitle": "",
+  "episode": 6,
+  "flags": [
+    "字"
+  ]
+}

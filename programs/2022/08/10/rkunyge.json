@@ -1,0 +1,25 @@
+{
+  "id": "rkunyge",
+  "category": "hobby",
+  "title": "ちびっこバス　タヨ#68,#69[字/日英]",
+  "fullTitle": "ちびっこバス　タヨ#68,#69[二][字/日英]",
+  "detail": "#68「本物のタヨはどっち？」　#69「田舎に行ったタヨ」",
+  "start": 1660100400000,
+  "end": 1660102200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "CS",
+    "channel": "CS2",
+    "name": "ディズニージュニア",
+    "id": "cv83",
+    "sid": 339,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 130
+  },
+  "subTitle": "本物のタヨはどっち？",
+  "episode": 68,
+  "flags": [
+    "二"
+  ]
+}

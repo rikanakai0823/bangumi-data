@@ -1,0 +1,23 @@
+{
+  "id": "idozx99",
+  "category": "etc",
+  "title": "ＢＳセレクション",
+  "fullTitle": "ＢＳセレクション",
+  "detail": "",
+  "start": 1660101300000,
+  "end": 1660101900000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 40
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

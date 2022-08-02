@@ -1,0 +1,23 @@
+{
+  "id": "idrd9e5",
+  "category": "music",
+  "title": "歌謡プレミアム　アンコール",
+  "fullTitle": "歌謡プレミアム　アンコール",
+  "detail": "誰もが知る名曲「翼をください」\r\n民謡として愛された「竹田の子守唄」\r\nＰＰＭメドレー「レモン・トゥリー～悲惨な戦争～パフ～天使のハンマー」\r\n代表曲「冬が来る前に」",
+  "start": 1660125600000,
+  "end": 1660128840000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 44
+  },
+  "subTitle": "翼をください",
+  "episode": 1,
+  "flags": []
+}

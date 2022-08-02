@@ -1,0 +1,23 @@
+{
+  "id": "w5xt5im",
+  "category": "information",
+  "title": "ELLE PARIS セール",
+  "fullTitle": "ELLE PARIS セール",
+  "detail": "1945年にフランスで創刊されたモード雑誌「ELLE」がもたらすパリの洗練。モードな雰囲気のアイテムをお届けします。",
+  "start": 1660114800000,
+  "end": 1660118400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "CS",
+    "channel": "CS22",
+    "name": "ＱＶＣ",
+    "id": "f08x",
+    "sid": 161,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 89
+  },
+  "subTitle": "ELLE",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "w6632x3",
+  "category": "music",
+  "title": "DIVAチャン！～アイドルで一番歌がウマいのは誰？～",
+  "fullTitle": "【生】DIVAチャン！～アイドルで一番歌がウマいのは誰？～",
+  "detail": "「アイドル歌唱力No.1」を決めるべく、“歌うまアイドル”が大集結しガチンコ対決する大会の模様を生中継！\r\n果たして栄冠は誰の手に！？",
+  "start": 1660118400000,
+  "end": 1660132800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "CS",
+    "channel": "CS24",
+    "name": "日テレプラス",
+    "id": "f0cs",
+    "sid": 300,
+    "nid": 7,
+    "hasLogoData": true,
+    "n": 108
+  },
+  "subTitle": "アイドル歌唱力No.1",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

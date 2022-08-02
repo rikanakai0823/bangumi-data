@@ -1,0 +1,23 @@
+{
+  "id": "rktehns",
+  "category": "music",
+  "title": "Mnetライブ 【iKON】",
+  "fullTitle": "Mnetライブ 【iKON】",
+  "detail": "一度見れば夢中になるiKON！カリスマ性あふれる彼らのライブパフォーマンスをまとめてお届け！\r\n2022年\r\n※再放送情報はMnet HPにてご確認ください",
+  "start": 1660117500000,
+  "end": 1660118400000,
+  "seconds": 900,
+  "channel": {
+    "type": "CS",
+    "channel": "CS8",
+    "name": "Ｍｎｅｔ",
+    "id": "cv7i",
+    "sid": 318,
+    "nid": 6,
+    "hasLogoData": true,
+    "n": 120
+  },
+  "subTitle": "iKON",
+  "episode": 1,
+  "flags": []
+}
