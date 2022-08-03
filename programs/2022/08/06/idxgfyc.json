@@ -1,0 +1,25 @@
+{
+  "id": "idxgfyc",
+  "category": "sports",
+  "title": "プロ野球2022 中日×横浜DeNA(8/6)",
+  "fullTitle": "[生]プロ野球2022 中日×横浜DeNA(8/6)",
+  "detail": "J SPORTS STADIUM2022\r\n中日ドラゴンズ×横浜DeNAベイスターズ\r\n\r\n開催日：2022年8月6日\r\n球場：バンテリンドーム ナゴヤ",
+  "start": 1659761700000,
+  "end": 1659776400000,
+  "seconds": 14700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

@@ -9,13 +9,13 @@
   "seconds": 7200,
   "channel": {
     "type": "BS",
-    "channel": "BS01_0",
+    "channel": "BS01_3",
     "name": "ＢＳ朝日１",
     "id": "8krb",
     "sid": 151,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 47
+    "hasLogoData": false,
+    "n": 46
   },
   "subTitle": "神戸～九州大分、逃げた花嫁!!引き出しの中の脅迫者が父娘を狙う!!疑惑の乗客に死者からのアリバイ電話!?",
   "episode": 1,

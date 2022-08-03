@@ -9,13 +9,13 @@
   "seconds": 7200,
   "channel": {
     "type": "BS",
-    "channel": "BS01_0",
+    "channel": "BS01_3",
     "name": "ＢＳ朝日１",
     "id": "8krb",
     "sid": 151,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 47
+    "hasLogoData": false,
+    "n": 46
   },
   "subTitle": "刑務所に緊急出動！余命1週間の脱走犯の狙いはケーキ!?親子の絆を引き裂いた、2台の救急車!!",
   "episode": 1,

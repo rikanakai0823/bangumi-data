@@ -9,13 +9,13 @@
   "seconds": 7200,
   "channel": {
     "type": "BS",
-    "channel": "BS01_0",
+    "channel": "BS01_3",
     "name": "ＢＳ朝日１",
     "id": "8krb",
     "sid": 151,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 47
+    "hasLogoData": false,
+    "n": 46
   },
   "subTitle": "天女伝説殺人事件！鶴巻の元恋人に、殺人容疑…ルームサービスの死角に謎が！",
   "episode": 1,

@@ -1,9 +1,9 @@
 {
   "id": "idrd9b8",
   "category": "music",
-  "title": "音楽のある風景",
-  "fullTitle": "音楽のある風景",
-  "detail": "",
+  "title": "音楽のある風景　青春歌白書",
+  "fullTitle": "音楽のある風景　青春歌白書",
+  "detail": "懐かしい青春期の歌を集めた名曲の数々。時代を彩った青春の歌をお届けします。",
   "start": 1659981600000,
   "end": 1659983400000,
   "seconds": 1800,
@@ -14,8 +14,8 @@
     "id": "8kr1",
     "sid": 141,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 44
+    "hasLogoData": false,
+    "n": 43
   },
   "subTitle": "",
   "episode": 1,

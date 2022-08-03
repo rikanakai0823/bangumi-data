@@ -3,15 +3,10 @@
   "category": "anime",
   "title": "BLEACH ANIMATION BEST　＃６",
   "fullTitle": "BLEACH ANIMATION BEST　＃６",
-  "detail": "◇番組内容\n2022年10月からテレビ東京系にて始まるシリーズ最終章“千年血戦篇”のアニメプロジェクトTVアニメ『BLEACH 千年血戦篇』の放送を記念して、2004年10月から2012年３月に放送されたTVアニメ『BLEACH』原作エピソードの中から、ユーザー投票にて厳選されたエピソードをセレクション放送いたします。\n◇おしらせ\nBS11公式WEBサイトでは、みなさまからのメッセージを受け付け、公開しております。番組への率直ご意見やご感想など、どしどしお寄せ下さい。お待ちしております！\r\nhttps://www.bs11.jp/anime/bleach-best/",
+  "detail": "",
   "start": 1659879000000,
   "end": 1659880800000,
   "seconds": 1800,
-  "description": "",
-  "extra": {
-    "番組内容": "2022年10月からテレビ東京系にて始まるシリーズ最終章“千年血戦篇”のアニメプロジェクトTVアニメ『BLEACH 千年血戦篇』の放送を記念して、2004年10月から2012年３月に放送されたTVアニメ『BLEACH』原作エピソードの中から、ユーザー投票にて厳選されたエピソードをセレクション放送いたします。",
-    "おしらせ": "BS11公式WEBサイトでは、みなさまからのメッセージを受け付け、公開しております。番組への率直ご意見やご感想など、どしどしお寄せ下さい。お待ちしております！\r\nhttps://www.bs11.jp/anime/bleach-best/"
-  },
   "channel": {
     "type": "BS",
     "channel": "BS09_0",
@@ -19,8 +14,8 @@
     "id": "8ksz",
     "sid": 211,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 65
+    "hasLogoData": false,
+    "n": 64
   },
   "subTitle": "",
   "episode": 6,

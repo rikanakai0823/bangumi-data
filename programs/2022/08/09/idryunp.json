@@ -9,13 +9,13 @@
   "seconds": 6840,
   "channel": {
     "type": "BS",
-    "channel": "BS01_0",
+    "channel": "BS01_3",
     "name": "ＢＳ朝日１",
     "id": "8krb",
     "sid": 151,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 47
+    "hasLogoData": false,
+    "n": 46
   },
   "subTitle": "予告された連続殺人 刑務所の中からの告発 無実の人間が殺される 京都の街を殺意で結ぶ五本線の罠",
   "episode": 1,

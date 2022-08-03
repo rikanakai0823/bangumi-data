@@ -1,0 +1,23 @@
+{
+  "id": "idyrpag",
+  "category": "theater",
+  "title": "【よしもとプレミアムアワー】花月爆笑劇場 雀のお宿",
+  "fullTitle": "【よしもとプレミアムアワー】花月爆笑劇場 雀のお宿",
+  "detail": "「うめだ花月」の吉本新喜劇をお届け！",
+  "start": 1659834000000,
+  "end": 1659837300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 81
+  },
+  "subTitle": "うめだ花月",
+  "episode": 1,
+  "flags": []
+}

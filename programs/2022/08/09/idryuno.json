@@ -9,13 +9,13 @@
   "seconds": 7200,
   "channel": {
     "type": "BS",
-    "channel": "BS01_0",
+    "channel": "BS01_3",
     "name": "ＢＳ朝日１",
     "id": "8krb",
     "sid": 151,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 47
+    "hasLogoData": false,
+    "n": 46
   },
   "subTitle": "いきなりキスする死体の謎？女医の息子が殺人容疑者に…爪の模様と固まらない血液が完全犯罪を暴く！",
   "episode": 1,

@@ -3,15 +3,10 @@
   "category": "music",
   "title": "ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３４",
   "fullTitle": "🈚ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３４",
-  "detail": "◇番組名\nＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３４\n◇番組内容\n気になるニューカマーアーティストのＭＶと最新ＭＶをお届け！",
+  "detail": "",
   "start": 1659538200000,
   "end": 1659538800000,
   "seconds": 600,
-  "description": "",
-  "extra": {
-    "番組名": "ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３４",
-    "番組内容": "気になるニューカマーアーティストのＭＶと最新ＭＶをお届け！"
-  },
   "channel": {
     "type": "BS",
     "channel": "BS03_0",
@@ -19,8 +14,8 @@
     "id": "8ksf",
     "sid": 191,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 59
+    "hasLogoData": false,
+    "n": 58
   },
   "subTitle": "",
   "episode": 34,

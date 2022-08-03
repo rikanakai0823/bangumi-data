@@ -9,13 +9,13 @@
   "seconds": 1800,
   "channel": {
     "type": "BS",
-    "channel": "BS01_0",
+    "channel": "BS01_3",
     "name": "ＢＳ朝日１",
     "id": "8krb",
     "sid": 151,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 47
+    "hasLogoData": false,
+    "n": 46
   },
   "subTitle": "間口一間半 奥行き五間　廊下まである建築家夫婦の家",
   "episode": 1,
