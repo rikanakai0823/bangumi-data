@@ -2,7 +2,7 @@
   "id": "36h6jr2asq",
   "category": "etc",
   "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
+  "fullTitle": "ＴＶショッピング",
   "detail": "",
   "start": 1660132500000,
   "end": 1660132800000,
@@ -15,11 +15,9 @@
     "sid": 29752,
     "nid": 32295,
     "hasLogoData": true,
-    "n": 12
+    "n": 13
   },
   "subTitle": "",
   "episode": 1,
-  "flags": [
-    "S"
-  ]
+  "flags": []
 }

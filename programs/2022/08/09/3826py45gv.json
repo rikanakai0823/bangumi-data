@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "Ｄｒｅａｍｅｒ　乙　▼ＭＣ:小森隼、陣",
   "fullTitle": "Ｄｒｅａｍｅｒ　乙　▼ＭＣ:小森隼、陣🈑",
-  "detail": "DreamerZと連動＆iCONZ応援番組！GENERATIONS　from　EXILE　TRIBEやTHE　RAMPAGE　from　EXILE　TRIBEの超貴重オーディション映像も盛り沢山！",
+  "detail": "「iCONZ」男性部門でグランプリを獲得したLIL　LEAGUEが登場！\r\nスマホの勝負写真でトーク力を学ぼう！\n◇出演者\n小森隼（GENERATIONS　from　EXILE　TRIBE）\r\n岩谷翔吾（THE　RAMPAGE　from　EXILE　TRIBE）\r\nLIL　LEAGUE",
   "start": 1659972600000,
   "end": 1659974400000,
   "seconds": 1800,
+  "description": "「iCONZ」男性部門でグランプリを獲得したLIL　LEAGUEが登場！\r\nスマホの勝負写真でトーク力を学ぼう！",
+  "extra": {
+    "出演者": "小森隼（GENERATIONS　from　EXILE　TRIBE）\r\n岩谷翔吾（THE　RAMPAGE　from　EXILE　TRIBE）\r\nLIL　LEAGUE"
+  },
   "channel": {
     "type": "GR",
     "channel": "23",
@@ -15,9 +19,9 @@
     "sid": 1072,
     "nid": 32742,
     "hasLogoData": true,
-    "n": 26
+    "n": 27
   },
-  "subTitle": "",
+  "subTitle": "iCONZ",
   "episode": 1,
   "flags": [
     "字"

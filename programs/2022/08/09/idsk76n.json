@@ -3,14 +3,10 @@
   "category": "etc",
   "title": "町中華で飲ろうぜ",
   "fullTitle": "町中華で飲ろうぜ",
-  "detail": "◇制作\n2022年",
+  "detail": "",
   "start": 1660050000000,
   "end": 1660053600000,
   "seconds": 3600,
-  "description": "",
-  "extra": {
-    "制作": "2022年"
-  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
@@ -18,8 +14,8 @@
     "id": "8krl",
     "sid": 161,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 50
+    "hasLogoData": false,
+    "n": 51
   },
   "subTitle": "",
   "episode": 1,

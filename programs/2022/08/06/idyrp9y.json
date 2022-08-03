@@ -1,0 +1,23 @@
+{
+  "id": "idyrp9y",
+  "category": "variety",
+  "title": "新宿音響ラボ #4",
+  "fullTitle": "新宿音響ラボ #4",
+  "detail": "スペシャ×よしもと音楽部門が送る歌ネタ芸人の音楽番組。",
+  "start": 1659789000000,
+  "end": 1659790800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}

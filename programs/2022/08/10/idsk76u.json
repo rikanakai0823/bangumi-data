@@ -3,14 +3,10 @@
   "category": "documentary",
   "title": "夢の彼方に・ＨＡＷＡＩＩ",
   "fullTitle": "夢の彼方に・ＨＡＷＡＩＩ",
-  "detail": "◇制作\n2013年",
+  "detail": "",
   "start": 1660068000000,
   "end": 1660071600000,
   "seconds": 3600,
-  "description": "",
-  "extra": {
-    "制作": "2013年"
-  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
@@ -18,8 +14,8 @@
     "id": "8krl",
     "sid": 161,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 50
+    "hasLogoData": false,
+    "n": 51
   },
   "subTitle": "",
   "episode": 1,

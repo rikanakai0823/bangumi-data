@@ -3,16 +3,10 @@
   "category": "anime",
   "title": "それでも歩は寄せてくる",
   "fullTitle": "それでも歩は寄せてくる",
-  "detail": "この想い、一手ずつ\n◇原作\n山本崇一朗（講談社「週刊少年マガジン」連\n◇監督・演出\n湊　未来\n◇制作\n2022年",
+  "detail": "この想い、一手ずつ",
   "start": 1659805200000,
   "end": 1659807000000,
   "seconds": 1800,
-  "description": "この想い、一手ずつ",
-  "extra": {
-    "原作": "山本崇一朗（講談社「週刊少年マガジン」連",
-    "監督・演出": "湊　未来",
-    "制作": "2022年"
-  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
@@ -20,8 +14,8 @@
     "id": "8krl",
     "sid": 161,
     "nid": 4,
-    "hasLogoData": true,
-    "n": 50
+    "hasLogoData": false,
+    "n": 51
   },
   "subTitle": "",
   "episode": 1,
