@@ -5,8 +5,8 @@
   "fullTitle": "ニュース🈑",
   "detail": "",
   "start": 1659548400000,
-  "end": 1659548700000,
-  "seconds": 300,
+  "end": 1659548400001,
+  "seconds": 0.001,
   "channel": {
     "type": "GR",
     "channel": "27",
