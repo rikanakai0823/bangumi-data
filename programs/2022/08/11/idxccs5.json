@@ -1,0 +1,23 @@
+{
+  "id": "idxccs5",
+  "category": "information",
+  "title": "番組案内",
+  "fullTitle": "番組案内",
+  "detail": "",
+  "start": 1660147200000,
+  "end": 1660149000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
