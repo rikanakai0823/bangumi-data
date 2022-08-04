@@ -1,9 +1,9 @@
 {
   "id": "idwxogt",
   "category": "sports",
-  "title": "ザ・馬券DUEL #30",
-  "fullTitle": "ザ・馬券DUEL #30🈑🈡",
-  "detail": "決勝　徳井健太×山本昌(2)",
+  "title": "2022ジャックルマロワ賞参考レース",
+  "fullTitle": "🈚2022ジャックルマロワ賞参考レース",
+  "detail": "ジャックルマロワ賞出走予定馬の参考レースを紹介！",
   "start": 1660134600000,
   "end": 1660136400000,
   "seconds": 1800,
@@ -18,9 +18,8 @@
     "n": 70
   },
   "subTitle": "",
-  "episode": 30,
+  "episode": 1,
   "flags": [
-    "字",
-    "終"
+    "無"
   ]
 }
