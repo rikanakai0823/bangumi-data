@@ -1,0 +1,26 @@
+{
+  "id": "idwxoid",
+  "category": "sports",
+  "title": "ザ・馬券DUEL #30",
+  "fullTitle": "ザ・馬券DUEL #30🈑🈡",
+  "detail": "決勝　徳井健太×山本昌(2)",
+  "start": 1660311000000,
+  "end": 1660312800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 30,
+  "flags": [
+    "字",
+    "終"
+  ]
+}

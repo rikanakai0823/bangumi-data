@@ -1,0 +1,25 @@
+{
+  "id": "idp45qt",
+  "category": "documentary",
+  "title": "最後の○○～日本のレッドデータ～",
+  "fullTitle": "最後の○○～日本のレッドデータ～🈑",
+  "detail": "",
+  "start": 1660309200000,
+  "end": 1660312800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
