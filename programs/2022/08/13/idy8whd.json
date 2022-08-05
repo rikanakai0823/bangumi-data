@@ -1,0 +1,23 @@
+{
+  "id": "idy8whd",
+  "category": "hobby",
+  "title": "ディズニー365　プラス#23",
+  "fullTitle": "ディズニー365　プラス#23",
+  "detail": "#23「ディズニー365　プラス」",
+  "start": 1660318200000,
+  "end": 1660320000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 80
+  },
+  "subTitle": "ディズニー365　プラス",
+  "episode": 23,
+  "flags": []
+}
