@@ -1,0 +1,26 @@
+{
+  "id": "idtt3ax",
+  "category": "sports",
+  "title": "ＢＳフジＬＩＶＥプロ野球２０２２　ヤクルト×巨人（神宮）",
+  "fullTitle": "🈢🈕ＢＳフジＬＩＶＥプロ野球２０２２　ヤクルト×巨人（神宮）",
+  "detail": "東京ヤクルトスワローズと読売ジャイアンツの熱い試合を、明治神宮野球場から生中継！",
+  "start": 1659776400000,
+  "end": 1659786900000,
+  "seconds": 10500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生",
+    "多"
+  ]
+}
