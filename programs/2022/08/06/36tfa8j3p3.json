@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8j3p3",
+  "category": "information",
+  "title": "シネマラテ",
+  "fullTitle": "シネマラテ",
+  "detail": "夏休みに上映される注目作品をピックアップ。出演者のインタビューや舞台挨拶の様子などを交え、見どころを紹介する。",
+  "start": 1659788100000,
+  "end": 1659789000000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
