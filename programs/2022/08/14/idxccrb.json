@@ -1,0 +1,23 @@
+{
+  "id": "idxccrb",
+  "category": "sports",
+  "title": "サンフレッチェTV #117",
+  "fullTitle": "【契】サンフレッチェTV #117",
+  "detail": "サンフレッチェ広島のクラブ応援番組。今回は3年ぶりのプライムステージ進出を決めた２０２２Ｊリーグルヴァンカップを特集！",
+  "start": 1660426200000,
+  "end": 1660427100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": 117,
+  "flags": []
+}
