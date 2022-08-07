@@ -1,0 +1,25 @@
+{
+  "id": "idtt2km",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　レパードS（GⅢ）エルムS（GⅢ）夏競馬",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　レパードS（GⅢ）エルムS（GⅢ）夏競馬",
+  "detail": "新潟：レパードステークス（GⅢ）札幌：エルムステークス（GⅢ）／ゲスト：鈴木淑子、解説：沢田知希（競馬エイト）／今後のダート戦線を占うダブルダート重賞",
+  "start": 1659852000000,
+  "end": 1659855600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
