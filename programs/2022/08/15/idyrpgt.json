@@ -1,0 +1,23 @@
+{
+  "id": "idyrpgt",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと(8/15)",
+  "fullTitle": "競輪LIVE！チャリロトよしもと(8/15)",
+  "detail": "本日はミッドナイト競輪・松阪初日を生中継！※放送内容・出演者が変更になる可能性有。",
+  "start": 1660568400000,
+  "end": 1660572000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

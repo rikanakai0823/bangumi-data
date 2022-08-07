@@ -1,0 +1,26 @@
+{
+  "id": "idudg49",
+  "category": "cinema",
+  "title": "かもめ食堂",
+  "fullTitle": "🈙かもめ食堂🈑",
+  "detail": "小林聡美が主演し、荻上直子監督が全編フィンランド・ロケを敢行。同地に食堂をオープンさせた日本人女性たちのささやかな日常をほのぼのと綴った、オフビートコメディ。",
+  "start": 1660562100000,
+  "end": 1660568400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
