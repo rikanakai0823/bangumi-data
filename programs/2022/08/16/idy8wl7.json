@@ -1,0 +1,23 @@
+{
+  "id": "idy8wl7",
+  "category": "anime",
+  "title": "モラン #173★夏休み特別放送",
+  "fullTitle": "モラン #173★夏休み特別放送",
+  "detail": "#173「チェリー」",
+  "start": 1660620240000,
+  "end": 1660620600000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 80
+  },
+  "subTitle": "チェリー",
+  "episode": 173,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvia5",
+  "category": "cinema",
+  "title": "シェイプ・オブ・ウォーター",
+  "fullTitle": "🈙🅍シェイプ・オブ・ウォーター",
+  "detail": "ギレルモ・デル・トロ監督によるファンタジーロマンス。声が出せない女性と不思議な生きものの愛の行方を描く。［Ｒ１５＋］",
+  "start": 1660607100000,
+  "end": 1660615200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

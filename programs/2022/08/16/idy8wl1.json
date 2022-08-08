@@ -1,0 +1,25 @@
+{
+  "id": "idy8wl1",
+  "category": "hobby",
+  "title": "ブルーイ #23★夏休み特別放送",
+  "fullTitle": "ブルーイ #23🈔★夏休み特別放送",
+  "detail": "#23「こんぽうざい　/　じょうおうさまごっこ　/　でんしゃごっこ」",
+  "start": 1660604400000,
+  "end": 1660606200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 80
+  },
+  "subTitle": "こんぽうざい　/　じょうおうさまごっこ　/　でんしゃごっこ",
+  "episode": 23,
+  "flags": [
+    "二"
+  ]
+}

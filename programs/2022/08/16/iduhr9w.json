@@ -1,0 +1,26 @@
+{
+  "id": "iduhr9w",
+  "category": "cinema",
+  "title": "青葉家のテーブル",
+  "fullTitle": "🈙青葉家のテーブル🈑",
+  "detail": "ウェブ配信された短編ドラマをもとに、オリジナルストーリーで長編化した群像ドラマ。“青葉家”で共同生活を送る大人たちと子どもたち、それぞれの悩みや成長を綴る。",
+  "start": 1660633500000,
+  "end": 1660640100000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
