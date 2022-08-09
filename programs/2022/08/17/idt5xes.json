@@ -1,0 +1,23 @@
+{
+  "id": "idt5xes",
+  "category": "information",
+  "title": "ＢＳテレ東　オススメ",
+  "fullTitle": "ＢＳテレ東　オススメ",
+  "detail": "ＢＳテレ東のオススメ番組をご紹介します",
+  "start": 1660730040000,
+  "end": 1660730400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

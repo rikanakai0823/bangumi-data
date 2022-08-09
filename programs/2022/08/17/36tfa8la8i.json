@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8la8i",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「星月夜特別」「第５６回　黒潮盃（ＳⅡ）」「葉月賞」",
+  "start": 1660717200000,
+  "end": 1660737600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "黒潮盃（ＳⅡ）",
+  "episode": 56,
+  "flags": []
+}
