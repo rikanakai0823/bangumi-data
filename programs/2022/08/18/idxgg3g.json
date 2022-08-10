@@ -1,0 +1,25 @@
+{
+  "id": "idxgg3g",
+  "category": "sports",
+  "title": "サッカーニュースFoot！THURSDAY(8/18)",
+  "fullTitle": "[初]サッカーニュースFoot！THURSDAY(8/18)",
+  "detail": "木曜日は高校年代のサッカー！",
+  "start": 1660827600000,
+  "end": 1660829400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}
