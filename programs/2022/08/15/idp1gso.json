@@ -1,9 +1,9 @@
 {
   "id": "idp1gso",
   "category": "sports",
-  "title": "ＭＬＢ２０２２",
-  "fullTitle": "ＭＬＢ２０２２🈔",
-  "detail": "",
+  "title": "大谷出場予定　ＭＬＢ２０２２「ツインズ」対「エンジェルス」",
+  "fullTitle": "大谷出場予定　ＭＬＢ２０２２「ツインズ」対「エンジェルス」",
+  "detail": "▽大谷出場予定　【解説】今中慎二，【アナウンサー】吉田賢　～エンジェルスタジアム～",
   "start": 1660531800000,
   "end": 1660533900000,
   "seconds": 2100,
@@ -17,9 +17,7 @@
     "hasLogoData": false,
     "n": 42
   },
-  "subTitle": "",
+  "subTitle": "エンジェルス",
   "episode": 1,
-  "flags": [
-    "二"
-  ]
+  "flags": []
 }
