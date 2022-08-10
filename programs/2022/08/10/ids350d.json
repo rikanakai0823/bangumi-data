@@ -1,0 +1,23 @@
+{
+  "id": "ids350d",
+  "category": "music",
+  "title": "Welcomeクラシック",
+  "fullTitle": "Welcomeクラシック",
+  "detail": "今回は、作曲家ベートーヴェンの交響曲第4番を指揮者ピエタリ・インキネンが紹介する。ベートーヴェンの才能が冒頭から感じられるという交響曲第4番の魅力について語る。",
+  "start": 1660139640000,
+  "end": 1660140000000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
