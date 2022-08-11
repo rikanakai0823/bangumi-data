@@ -1,0 +1,25 @@
+{
+  "id": "38224jzqsf",
+  "category": "sports",
+  "title": "熱闘甲子園",
+  "fullTitle": "熱闘甲子園🈑",
+  "detail": "今年も変わらず、球児の熱いプレー、熱い表情、熱い涙をお伝えします！\r\nグラウンドの選手も、スタンドで応援する人も「みんなが主役！」\r\nそんな魅力を伝えていきます！",
+  "start": 1660227000000,
+  "end": 1660228800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
