@@ -1,0 +1,25 @@
+{
+  "id": "idxe8ci",
+  "category": "sports",
+  "title": "MLBミュージック #36",
+  "fullTitle": "[初]MLBミュージック #36",
+  "detail": "出演：AKI猪瀬、オカモト\"MOBY\"タクヤ（SCOOBIE DO）",
+  "start": 1660917600000,
+  "end": 1660918500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 36,
+  "flags": [
+    "初"
+  ]
+}

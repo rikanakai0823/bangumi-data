@@ -1,0 +1,23 @@
+{
+  "id": "idy8wo1",
+  "category": "anime",
+  "title": "モラン #176★夏休み特別放送",
+  "fullTitle": "モラン #176★夏休み特別放送",
+  "detail": "#176「熱気球」",
+  "start": 1660879440000,
+  "end": 1660879800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 80
+  },
+  "subTitle": "熱気球",
+  "episode": 176,
+  "flags": []
+}
