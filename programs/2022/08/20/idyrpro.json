@@ -1,0 +1,23 @@
+{
+  "id": "idyrpro",
+  "category": "variety",
+  "title": "LIVE STAND特番！～BSもLaughにいこうぜ！～",
+  "fullTitle": "LIVE STAND特番！～BSもLaughにいこうぜ！～",
+  "detail": "日本最大級のお笑いフェス「LIVE STAND」の会場の熱気をお届け！MCはニューヨークが担当し、ステージ出演芸人が続々入れ替わり登場しながら様々な企画で盛り上がります！",
+  "start": 1660960800000,
+  "end": 1660968000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 83
+  },
+  "subTitle": "LIVE STAND",
+  "episode": 1,
+  "flags": []
+}

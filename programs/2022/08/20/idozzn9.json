@@ -1,0 +1,23 @@
+{
+  "id": "idozzn9",
+  "category": "sports",
+  "title": "Ｊリーグタイム「Ｊ１第２６節」",
+  "fullTitle": "Ｊリーグタイム「Ｊ１第２６節」",
+  "detail": "【解説】山本昌邦，【アナウンサー】横井健吉，【司会】高階亜理沙",
+  "start": 1661000400000,
+  "end": 1661002800000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "Ｊ１第２６節",
+  "episode": 1,
+  "flags": []
+}

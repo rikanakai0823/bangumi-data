@@ -1,0 +1,23 @@
+{
+  "id": "idyg6rw",
+  "category": "sports",
+  "title": "ゴルフＷ　＃１８",
+  "fullTitle": "ゴルフＷ　＃１８",
+  "detail": "",
+  "start": 1660996800000,
+  "end": 1661000400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 18,
+  "flags": []
+}

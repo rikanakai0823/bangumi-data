@@ -1,0 +1,23 @@
+{
+  "id": "idwqcot",
+  "category": "hobby",
+  "title": "データサイエンスの技術",
+  "fullTitle": "データサイエンスの技術",
+  "detail": "「機械学習概論Ⅰ　第3回　正則化と交差検証」",
+  "start": 1660986000000,
+  "end": 1660988700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 68
+  },
+  "subTitle": "正則化と交差検証",
+  "episode": 3,
+  "flags": []
+}
