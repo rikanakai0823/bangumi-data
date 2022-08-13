@@ -1,0 +1,25 @@
+{
+  "id": "idy8wqc",
+  "category": "hobby",
+  "title": "ディズニー365 プラス #24★日本初放送",
+  "fullTitle": "[初]ディズニー365 プラス #24★日本初放送",
+  "detail": "#24「ディズニー365　プラス」",
+  "start": 1661059800000,
+  "end": 1661061600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 80
+  },
+  "subTitle": "ディズニー365　プラス",
+  "episode": 24,
+  "flags": [
+    "初"
+  ]
+}
