@@ -1,0 +1,27 @@
+{
+  "id": "idymqef",
+  "category": "information",
+  "title": "ジャパ得",
+  "fullTitle": "ジャパ得",
+  "detail": "◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
+  "start": 1661247000000,
+  "end": 1661248800000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
