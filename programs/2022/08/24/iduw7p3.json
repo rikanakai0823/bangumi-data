@@ -1,0 +1,26 @@
+{
+  "id": "iduw7p3",
+  "category": "cinema",
+  "title": "スター・ウォーズ／フォースの覚醒",
+  "fullTitle": "🈙🅍スター・ウォーズ／フォースの覚醒",
+  "detail": "『スター・ウォーズ　エピソード６／ジェダイの帰還』の約３０年後を舞台にした、新たな３部作の幕開けとなる第１弾。",
+  "start": 1661303700000,
+  "end": 1661312700000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
