@@ -1,0 +1,26 @@
+{
+  "id": "iduyg9e",
+  "category": "cinema",
+  "title": "デイズ・オブ・サンダー",
+  "fullTitle": "🈙🅍デイズ・オブ・サンダー",
+  "detail": "トム・クルーズが原案、主演を務めたカーレース作品。野心と才能にあふれた若きドライバーの栄光と挫折、再起までが描かれる。",
+  "start": 1661401800000,
+  "end": 1661408400000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

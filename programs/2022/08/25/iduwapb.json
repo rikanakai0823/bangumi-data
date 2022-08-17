@@ -1,0 +1,26 @@
+{
+  "id": "iduwapb",
+  "category": "cinema",
+  "title": "キング・オブ・シーヴズ",
+  "fullTitle": "🈙🅍キング・オブ・シーヴズ",
+  "detail": "マイケル・ケイン主演、実話を基にしたクライムサスペンス。平均年齢６０歳を超える老人集団による史上空前の窃盗事件を描く。",
+  "start": 1661382900000,
+  "end": 1661390100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
