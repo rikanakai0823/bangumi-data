@@ -1,9 +1,9 @@
 {
   "id": "36l9gkwqze",
-  "category": "etc",
-  "title": "この時間は０３１ｃｈをご覧ください。",
-  "fullTitle": "この時間は０３１ｃｈをご覧ください。",
-  "detail": "録画は０３１ｃｈで行ってください。",
+  "category": "information",
+  "title": "生活情報【内容】毎日骨ケアＭＢＰ",
+  "fullTitle": "生活情報【内容】毎日骨ケアＭＢＰ",
+  "detail": "【内容】毎日骨ケアＭＢＰ\r\n【電話】0120-41-5252",
   "start": 1660785900000,
   "end": 1660787700000,
   "seconds": 1800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
+  "subTitle": "内容",
   "episode": 1,
   "flags": []
 }
