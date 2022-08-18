@@ -1,0 +1,25 @@
+{
+  "id": "idxe8fn",
+  "category": "sports",
+  "title": "インフォメーション",
+  "fullTitle": "[無料]インフォメーション",
+  "detail": "暮らしに役立つ情報番組",
+  "start": 1661521500000,
+  "end": 1661522400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
