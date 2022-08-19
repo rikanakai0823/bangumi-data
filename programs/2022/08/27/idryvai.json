@@ -1,0 +1,23 @@
+{
+  "id": "idryvai",
+  "category": "hobby",
+  "title": "飛鳥物語　「食彩の1日」",
+  "fullTitle": "飛鳥物語　「食彩の1日」",
+  "detail": "朝食から夕食まで、広島県や和歌山県をはじめとした瀬戸内地方にゆかりのある食材を中心に取り入れ食で寄港地の魅力を紹介。生産者も乗船しクルーと盛り上げた様子をお伝え",
+  "start": 1661561700000,
+  "end": 1661562000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 48
+  },
+  "subTitle": "食彩の1日",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idozckh",
+  "category": "sports",
+  "title": "プロ野球２０２２「オリックス」対「西武」",
+  "fullTitle": "プロ野球２０２２「オリックス」対「西武」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　２：００）　【解説】藤川球児，【アナウンサー】坂梨哲士　～京セラドームから中継～",
+  "start": 1661576400000,
+  "end": 1661589000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 41
+  },
+  "subTitle": "西武",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
