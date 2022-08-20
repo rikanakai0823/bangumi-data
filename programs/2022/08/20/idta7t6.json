@@ -1,0 +1,23 @@
+{
+  "id": "idta7t6",
+  "category": "sports",
+  "title": "ファンケルクラシック【生放送】",
+  "fullTitle": "ファンケルクラシック【生放送】",
+  "detail": "今季から参戦したシニアルーキー横田真一が首位から2打差と初Vへ好発進！上位に実力者が揃い優勝争いも大混戦！熱戦の模様を生放送！",
+  "start": 1660964400000,
+  "end": 1660973400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "生放送",
+  "episode": 1,
+  "flags": []
+}
