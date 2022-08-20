@@ -1,0 +1,26 @@
+{
+  "id": "idp1i2b",
+  "category": "sports",
+  "title": "プロ野球２０２２「ＤｅＮＡ」対「ヤクルト」",
+  "fullTitle": "プロ野球２０２２「ＤｅＮＡ」対「ヤクルト」🈕🈑",
+  "detail": "　※副音声は球場音声　【解説】小早川毅彦，【アナウンサー】横山哲也　～横浜スタジアムから中継～",
+  "start": 1661687400000,
+  "end": 1661689800000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "ヤクルト",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
