@@ -1,0 +1,25 @@
+{
+  "id": "38224jxnl1",
+  "category": "information",
+  "title": "はい！テレビ朝日です🈐",
+  "fullTitle": "はい！テレビ朝日です🈐🈑",
+  "detail": "テレビ朝日が取り組む「災害報道」とその訓練。\r\nいつ起こるかわからない災害。速やかに詳細情報を視聴者に届けるため、テレビ朝日が備えていることとは？",
+  "start": 1661025600000,
+  "end": 1661026800000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjt",
+    "sid": 1065,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "災害報道",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
