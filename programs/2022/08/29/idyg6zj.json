@@ -1,0 +1,23 @@
+{
+  "id": "idyg6zj",
+  "category": "information",
+  "title": "エンタメ情報ステーションミニ　＃２２",
+  "fullTitle": "エンタメ情報ステーションミニ　＃２２",
+  "detail": "BS松竹東急がお届けするエンタメ情報番組「土曜のトオルとカヲル」のダイジェスト放送",
+  "start": 1661779440000,
+  "end": 1661779800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 81
+  },
+  "subTitle": "土曜のトオルとカヲル",
+  "episode": 22,
+  "flags": []
+}
