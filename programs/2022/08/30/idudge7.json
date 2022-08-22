@@ -1,0 +1,25 @@
+{
+  "id": "idudge7",
+  "category": "sports",
+  "title": "リーガダイジェスト！　第３節",
+  "fullTitle": "🈠リーガダイジェスト！　第３節",
+  "detail": "サッカーファン必見のラ・リーガ情報番組。週末開催の全試合全ゴールに加えて、貴重な選手インタビューやオリジナル企画など、これを見ればリーガがもっと楽しくなる！",
+  "start": 1661785200000,
+  "end": 1661787900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

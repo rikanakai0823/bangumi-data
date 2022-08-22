@@ -1,0 +1,25 @@
+{
+  "id": "idxe8hj",
+  "category": "sports",
+  "title": "第46回全日本クラブ野球選手権大会 準決勝-1",
+  "fullTitle": "[初]第46回全日本クラブ野球選手権大会 準決勝-1",
+  "detail": "開催日：2022年8月28日\r\n球場：等々力球場, 神奈川県川崎市",
+  "start": 1661864400000,
+  "end": 1661875200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 46,
+  "flags": [
+    "初"
+  ]
+}
