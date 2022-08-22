@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ライオンズアワー・千葉ロッテ×埼玉西武",
   "fullTitle": "ライオンズアワー・千葉ロッテ×埼玉西武🅂",
-  "detail": "",
+  "detail": "◇出演者\n解説：薮田安彦　実況：小笠原聖",
   "start": 1661332500000,
   "end": 1661335200000,
   "seconds": 2700,
+  "description": "",
+  "extra": {
+    "出演者": "解説：薮田安彦　実況：小笠原聖"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
