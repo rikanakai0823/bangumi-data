@@ -1,12 +1,12 @@
 {
   "id": "idozcv2",
-  "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！🈑",
-  "detail": "",
+  "category": "variety",
+  "title": "東北推し！　みちたん～ああ！すばらしきセカイ～「汗だくで４３回目」",
+  "fullTitle": "東北推し！　みちたん～ああ！すばらしきセカイ～「汗だくで４３回目」🈑",
+  "detail": "東北のディープな魅力を探す紀行番組▽山形・夏限定の冷やしシャンプーを体験▽青森・巨大朝市のグロテスクな名物▽ＳＮＳで話題！東北弁・東北なまりを翻訳するプロ集団",
   "start": 1661614200000,
-  "end": 1661617200000,
-  "seconds": 3000,
+  "end": 1661615820000,
+  "seconds": 1620,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": false,
     "n": 41
   },
-  "subTitle": "",
+  "subTitle": "汗だくで４３回目",
   "episode": 1,
   "flags": [
     "字"
