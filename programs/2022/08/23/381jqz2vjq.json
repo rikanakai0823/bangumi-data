@@ -1,0 +1,23 @@
+{
+  "id": "381jqz2vjq",
+  "category": "sports",
+  "title": "全国中学体育大会　相撲",
+  "fullTitle": "全国中学体育大会　相撲",
+  "detail": "相撲に励む中学生の全国大会。今年は千代の山、千代の富士のふるさと、北海道・福島町で８月２０、２１日に行われた。３人１チームの学校対抗戦の団体戦と個人戦を放送。",
+  "start": 1661234400000,
+  "end": 1661238000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

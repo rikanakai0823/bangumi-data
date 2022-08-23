@@ -3,10 +3,14 @@
   "category": "information",
   "title": "Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・健康家族ＴＶショッピング",
   "fullTitle": "Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・健康家族ＴＶショッピング🅂",
-  "detail": "",
+  "detail": "◇番組内容\n伝統にんにく卵黄極",
   "start": 1661572800000,
   "end": 1661574600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "伝統にんにく卵黄極"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

@@ -1,0 +1,23 @@
+{
+  "id": "36rdttm45e",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽埼玉県内の商店街を元気に！「商店街からこんにちは」▽天気▽火曜限定プレゼント「火曜で賞」",
+  "start": 1661239800000,
+  "end": 1661241600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
