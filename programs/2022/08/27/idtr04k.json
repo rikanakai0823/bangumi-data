@@ -1,0 +1,23 @@
+{
+  "id": "idtr04k",
+  "category": "information",
+  "title": "日本通販グループＴＶショッピング",
+  "fullTitle": "日本通販グループＴＶショッピング",
+  "detail": "",
+  "start": 1661553000000,
+  "end": 1661554800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
