@@ -4,8 +4,8 @@
   "title": "ＧＣ番宣・ロゴ・カラーバー",
   "fullTitle": "ＧＣ番宣・ロゴ・カラーバー",
   "detail": "",
-  "start": 1661716800000,
-  "end": 1661718600000,
+  "start": 1661718600000,
+  "end": 1661720400000,
   "seconds": 1800,
   "channel": {
     "type": "BS",
@@ -14,7 +14,7 @@
     "id": "8ktm",
     "sid": 234,
     "nid": 4,
-    "hasLogoData": false,
+    "hasLogoData": true,
     "n": 70
   },
   "subTitle": "",
