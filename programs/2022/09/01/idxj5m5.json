@@ -1,0 +1,25 @@
+{
+  "id": "idxj5m5",
+  "category": "sports",
+  "title": "バドミントン ジャパンオープン2022 2回戦",
+  "fullTitle": "[生]バドミントン ジャパンオープン2022 2回戦",
+  "detail": "開催日：2022年9月1日\r\n会場：丸善インテックアリーナ大阪",
+  "start": 1661993400000,
+  "end": 1662030000000,
+  "seconds": 36600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
