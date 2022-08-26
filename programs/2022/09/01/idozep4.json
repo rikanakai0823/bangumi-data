@@ -1,9 +1,9 @@
 {
   "id": "idozep4",
   "category": "sports",
-  "title": "プロ野球２０２２",
-  "fullTitle": "プロ野球２０２２🈕🈑",
-  "detail": "",
+  "title": "プロ野球２０２２「阪神」対「広島」",
+  "fullTitle": "プロ野球２０２２「阪神」対「広島」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】梨田昌孝，【アナウンサー】坂梨哲士　～甲子園球場から中継～",
   "start": 1662022800000,
   "end": 1662035400000,
   "seconds": 12600,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 41
   },
-  "subTitle": "",
+  "subTitle": "広島",
   "episode": 1,
   "flags": [
     "多",

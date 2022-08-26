@@ -3,14 +3,10 @@
   "category": "information",
   "title": "ジャパ得",
   "fullTitle": "ジャパ得",
-  "detail": "◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
+  "detail": "",
   "start": 1661484300000,
   "end": 1661484600000,
   "seconds": 300,
-  "description": "",
-  "extra": {
-    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
-  },
   "channel": {
     "type": "BS",
     "channel": "BS23_2",
