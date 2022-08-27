@@ -1,0 +1,23 @@
+{
+  "id": "idyrrdl",
+  "category": "cinema",
+  "title": "【よしもとMOVIES】アクガル",
+  "fullTitle": "【よしもとMOVIES】アクガル",
+  "detail": "親の転勤で東京に引っ越してきた女子高生。",
+  "start": 1662217800000,
+  "end": 1662219900000,
+  "seconds": 2100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
