@@ -1,0 +1,23 @@
+{
+  "id": "idta811",
+  "category": "information",
+  "title": "健康マニア倶楽部",
+  "fullTitle": "健康マニア倶楽部",
+  "detail": "便利な商品をお届け",
+  "start": 1661635800000,
+  "end": 1661637600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
