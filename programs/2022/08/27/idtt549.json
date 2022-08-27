@@ -1,0 +1,23 @@
+{
+  "id": "idtt549",
+  "category": "information",
+  "title": "フォーマルクラインＴＶショッピング",
+  "fullTitle": "フォーマルクラインＴＶショッピング",
+  "detail": "",
+  "start": 1661590500000,
+  "end": 1661590800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
