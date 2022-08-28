@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夕焼け酒場",
   "fullTitle": "夕焼け酒場",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1662195600000,
   "end": 1662197400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

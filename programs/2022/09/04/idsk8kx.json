@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ｄａｉ－ｄｏｃｏｒｏ☆ベジタ",
   "fullTitle": "ｄａｉ－ｄｏｃｏｒｏ☆ベジタ",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1662267240000,
   "end": 1662267600000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

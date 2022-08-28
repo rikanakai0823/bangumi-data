@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "令和にっぽん！演歌の夢まつり２０２２",
   "fullTitle": "令和にっぽん！演歌の夢まつり２０２２",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1662120000000,
   "end": 1662126840000,
   "seconds": 6840,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
