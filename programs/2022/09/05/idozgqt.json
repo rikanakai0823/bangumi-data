@@ -1,0 +1,23 @@
+{
+  "id": "idozgqt",
+  "category": "etc",
+  "title": "国際放送セレクション",
+  "fullTitle": "国際放送セレクション",
+  "detail": "",
+  "start": 1662346800000,
+  "end": 1662347700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
