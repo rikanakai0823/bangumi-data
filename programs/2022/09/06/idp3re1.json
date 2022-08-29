@@ -1,0 +1,25 @@
+{
+  "id": "idp3re1",
+  "category": "documentary",
+  "title": "ＮＨＫ特集「京都　冷泉家」",
+  "fullTitle": "ＮＨＫ特集「京都　冷泉家」🈑",
+  "detail": "藤原鎌足に始まる名家、京都の冷泉家。歌聖・藤原定家の自筆日記「明月記」など貴重な古文書を収蔵する御文庫や王朝文化を今に伝える華やかな年中行事の数々を描く。",
+  "start": 1662455400000,
+  "end": 1662458400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "京都　冷泉家",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
