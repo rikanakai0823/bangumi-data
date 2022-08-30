@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lcw8",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「雁来紅賞」「第５９回　東京記念（ＳⅠ）」「セプテンバー賞」",
+  "start": 1662531600000,
+  "end": 1662552000000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "東京記念（ＳⅠ）",
+  "episode": 59,
+  "flags": []
+}
