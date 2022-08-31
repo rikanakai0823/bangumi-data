@@ -1,15 +1,17 @@
 {
   "id": "36l9gkunla",
   "category": "hobby",
-  "title": "週刊バイクＴＶ　＃９６１",
-  "fullTitle": "週刊バイクＴＶ　＃９６１",
-  "detail": "◇出演者      \nREI",
+  "title": "週刊バイクＴＶ▽ゆるふわバイク情報２０２２",
+  "fullTitle": "週刊バイクＴＶ▽ゆるふわバイク情報２０２２",
+  "detail": "今回は、チバテレ会議室からお送りする「ゆるふわバイク情報」！2022年の前半に発表されたバイク情報やレース情報を、ゆるーくお送りします。\n◇出演者      \nREI\n◇番組内容\nバイク本来の持っている自由な楽しさや素晴らしさを、ライダーだけでなく、バイクに乗ったことない方にもお伝えするバイク情報番組。https://www.youtube.com/channel/UCqdy2xfQdahkp5JkhFqIXRQ/featured\n◇出演者\nＲＥＩ　木村亜美　葉月美優",
   "start": 1662557400000,
   "end": 1662559200000,
   "seconds": 1800,
-  "description": " ",
+  "description": "今回は、チバテレ会議室からお送りする「ゆるふわバイク情報」！2022年の前半に発表されたバイク情報やレース情報を、ゆるーくお送りします。",
   "extra": {
-    "出演者      ": "REI"
+    "出演者      ": "REI",
+    "番組内容": "バイク本来の持っている自由な楽しさや素晴らしさを、ライダーだけでなく、バイクに乗ったことない方にもお伝えするバイク情報番組。https://www.youtube.com/channel/UCqdy2xfQdahkp5JkhFqIXRQ/featured",
+    "出演者": "ＲＥＩ　木村亜美　葉月美優"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +23,7 @@
     "hasLogoData": true,
     "n": 10
   },
-  "subTitle": "",
-  "episode": 961,
+  "subTitle": "ゆるふわバイク情報",
+  "episode": 1,
   "flags": []
 }
