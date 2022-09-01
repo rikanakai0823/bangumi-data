@@ -1,0 +1,23 @@
+{
+  "id": "idxcd35",
+  "category": "sports",
+  "title": "FREEDOMS 2022.7.10後楽園ホール",
+  "fullTitle": "FREEDOMS 2022.7.10後楽園ホール",
+  "detail": "プロレス格闘技専門チャンネル「FIGHTING TV サムライ」の中から、毎週厳選した試合をお届け。",
+  "start": 1662732000000,
+  "end": 1662739200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "FIGHTING TV サムライ",
+  "episode": 1,
+  "flags": []
+}

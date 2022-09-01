@@ -1,0 +1,25 @@
+{
+  "id": "idp3wdq",
+  "category": "information",
+  "title": "「本日も晴天なり」見どころナビ",
+  "fullTitle": "「本日も晴天なり」見どころナビ🈑",
+  "detail": "１９日（月）午前７時１５分からＢＳプレミアムで再放送される連続テレビ小説「本日も晴天なり」。主演の原日出子のインタビューなどを通じてドラマの魅力に迫る！",
+  "start": 1662708120000,
+  "end": 1662708420000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "本日も晴天なり",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idwxp19",
+  "category": "sports",
+  "title": "M's TV #144",
+  "fullTitle": "M's TV #144",
+  "detail": "岩手競馬の様々な情報をお届け！展望レース：青藍賞",
+  "start": 1662656400000,
+  "end": 1662658200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 144,
+  "flags": []
+}
