@@ -1,0 +1,23 @@
+{
+  "id": "idyrrui",
+  "category": "cinema",
+  "title": "【よしもとMOVIES】人生サイコウ！",
+  "fullTitle": "【よしもとMOVIES】人生サイコウ！",
+  "detail": "引きこもりの主人公が余命１年と宣告されるがそれは母の嘘だった！",
+  "start": 1662818400000,
+  "end": 1662820800000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

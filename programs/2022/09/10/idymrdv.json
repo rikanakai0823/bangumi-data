@@ -1,0 +1,23 @@
+{
+  "id": "idymrdv",
+  "category": "sports",
+  "title": "All！V・ファーレン　#23",
+  "fullTitle": "All！V・ファーレン　#23",
+  "detail": "J2 V・ファーレン長崎を応援する番組。",
+  "start": 1662778800000,
+  "end": 1662780600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 23,
+  "flags": []
+}
