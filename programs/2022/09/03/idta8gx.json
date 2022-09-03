@@ -1,0 +1,23 @@
+{
+  "id": "idta8gx",
+  "category": "sports",
+  "title": "ゴルフ５レディス【生中継】",
+  "fullTitle": "ゴルフ５レディス【生中継】",
+  "detail": "大会コースレコードをマークした勝みなみが単独トップ！先週の雪辱に燃える原英莉花も3位と好発進。奇才が設計した難コースを制するのは？熱戦の模様を生中継！",
+  "start": 1662188400000,
+  "end": 1662192000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "生中継",
+  "episode": 1,
+  "flags": []
+}
