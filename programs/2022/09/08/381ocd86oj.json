@@ -3,10 +3,14 @@
   "category": "cinema",
   "title": "ついに激突！！『ＨｉＧＨ＆ＬＯＷ　ＴＨＥ　ＷＯＲＳＴ　Ｘ』公開記念スペシャル",
   "fullTitle": "ついに激突！！『ＨｉＧＨ＆ＬＯＷ　ＴＨＥ　ＷＯＲＳＴ　Ｘ』公開記念スペシャル",
-  "detail": "",
+  "detail": "人気バトルアクションシリーズ「HiGH&LOW」待望の最新作『HiGH&LOW THE WORST X 』の公開に先駆けお届けするスペシャルコンテンツ。\n◇番組内容\nTHE RAMPAGEの川村壱馬・吉野北人、NCT127のYUTA、BE:FIRSTのRYOKIという、超人気アーティストであり俳優でもある4人による夢のコラボトークが実現。４人が映画への思いを語る。さらに大盛りあがりのキックオフイベント、完成披露試写会＆PREMIUM LIVE SHOWの模様、キャスト達のスペシャルコメントなど、HiGH&LOWファン必見の映像が盛りだくさん。９月９日公開！",
   "start": 1662566340000,
   "end": 1662568140000,
   "seconds": 1800,
+  "description": "人気バトルアクションシリーズ「HiGH&LOW」待望の最新作『HiGH&LOW THE WORST X 』の公開に先駆けお届けするスペシャルコンテンツ。",
+  "extra": {
+    "番組内容": "THE RAMPAGEの川村壱馬・吉野北人、NCT127のYUTA、BE:FIRSTのRYOKIという、超人気アーティストであり俳優でもある4人による夢のコラボトークが実現。４人が映画への思いを語る。さらに大盛りあがりのキックオフイベント、完成披露試写会＆PREMIUM LIVE SHOWの模様、キャスト達のスペシャルコメントなど、HiGH&LOWファン必見の映像が盛りだくさん。９月９日公開！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
+  "subTitle": "HiGH&LOW",
   "episode": 1,
   "flags": []
 }
