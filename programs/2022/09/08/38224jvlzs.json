@@ -3,14 +3,17 @@
   "category": "music",
   "title": "Ｂｒｅａｋ　Ｏｕｔ",
   "fullTitle": "Ｂｒｅａｋ　Ｏｕｔ",
-  "detail": "様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。\n◇◇音楽\n【OP】\r\n【ED】\n◇◇おしらせ\n☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/",
+  "detail": "様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。\n◇◇音楽\n【OP】岩田剛典「Ready?」\r\n【ED】HAZUKI「七夕乃雷 -Shichiseki no rai-」\n◇◇おしらせ\n☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/\n◇◇番組内容\nダンスボーカル戦国時代到来！JO1、INI、BE:FIRSTに続き大規模オーディションを経て頂点を目指すグループは！？多彩なスキルと個性を武器にした「WATWING」＆元練習生がまさかの大逆転でデビューを果たした「円神」。彼らの本音を紐解く！\n◇◇番組内容２\n▼Candy Boyから芝居と歌とダンスで綴る７周年スペシャル公演のお知らせ\r\n▼メンバー全員がメインボーカルのコーラスグループ「DEEP SQUAD」からメッセージ。最もハイテンションな新作＆ライブ情報も！\n◇◇出演者\nゲスト：WATWING、円神\r\nDEEP SQUAD　ほか",
   "start": 1662567960000,
   "end": 1662569760000,
   "seconds": 1800,
   "description": "様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。",
   "extra": {
-    "◇音楽": "【OP】\r\n【ED】",
-    "◇おしらせ": "☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/"
+    "◇音楽": "【OP】岩田剛典「Ready?」\r\n【ED】HAZUKI「七夕乃雷 -Shichiseki no rai-」",
+    "◇おしらせ": "☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/",
+    "◇番組内容": "ダンスボーカル戦国時代到来！JO1、INI、BE:FIRSTに続き大規模オーディションを経て頂点を目指すグループは！？多彩なスキルと個性を武器にした「WATWING」＆元練習生がまさかの大逆転でデビューを果たした「円神」。彼らの本音を紐解く！",
+    "◇番組内容２": "▼Candy Boyから芝居と歌とダンスで綴る７周年スペシャル公演のお知らせ\r\n▼メンバー全員がメインボーカルのコーラスグループ「DEEP SQUAD」からメッセージ。最もハイテンションな新作＆ライブ情報も！",
+    "◇出演者": "ゲスト：WATWING、円神\r\nDEEP SQUAD　ほか"
   },
   "channel": {
     "type": "GR",
