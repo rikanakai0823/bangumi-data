@@ -1,12 +1,12 @@
 {
   "id": "381f5ksc6b",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報🈑",
-  "detail": "",
+  "title": "ニュース「中継・参議院議院運営委員会」",
+  "fullTitle": "ニュース「中継・参議院議院運営委員会」🈑",
+  "detail": "参院議院運営委員会▽安倍元首相国葬めぐり閉会中審査で各党質疑▽実施の理由・費用など岸田首相の説明は",
   "start": 1662616800000,
-  "end": 1662617220000,
-  "seconds": 420,
+  "end": 1662622200000,
+  "seconds": 5400,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "中継・参議院議院運営委員会",
   "episode": 1,
   "flags": [
     "字"
