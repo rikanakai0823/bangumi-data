@@ -1,0 +1,23 @@
+{
+  "id": "ids10tn",
+  "category": "music",
+  "title": "Welcomeクラシック",
+  "fullTitle": "Welcomeクラシック",
+  "detail": "今回は、作曲家ベートーヴェンの交響曲第4番を指揮者ピエタリ・インキネンが紹介する。ベートーヴェンの交響曲第4番に合わせたオーケストラの古典的な配置について語る。",
+  "start": 1662558840000,
+  "end": 1662559200000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
