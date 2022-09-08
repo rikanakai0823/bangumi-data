@@ -1,0 +1,23 @@
+{
+  "id": "idvjbvd",
+  "category": "anime",
+  "title": "サマータイムレンダ　＃23",
+  "fullTitle": "サマータイムレンダ　＃23",
+  "detail": "",
+  "start": 1663254000000,
+  "end": 1663255800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 23,
+  "flags": []
+}

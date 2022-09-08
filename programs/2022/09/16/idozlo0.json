@@ -1,0 +1,23 @@
+{
+  "id": "idozlo0",
+  "category": "sports",
+  "title": "日本シニアオープンゴルフ２０２２",
+  "fullTitle": "日本シニアオープンゴルフ２０２２",
+  "detail": "",
+  "start": 1663304400000,
+  "end": 1663315200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
