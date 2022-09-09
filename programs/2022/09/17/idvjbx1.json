@@ -1,0 +1,26 @@
+{
+  "id": "idvjbx1",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "🈢🈓ＢＳイレブン競馬中継　第１部",
+  "detail": "【中山】５Ｒ～８Ｒ\r\n【中京】５Ｒ～７Ｒ，８Ｒ「阪神ジャンプステークス」（Ｊ・ＧⅢ），９Ｒ「ききょうステークス」",
+  "start": 1663383600000,
+  "end": 1663392600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}
