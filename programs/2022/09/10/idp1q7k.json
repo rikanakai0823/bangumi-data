@@ -1,0 +1,25 @@
+{
+  "id": "idp1q7k",
+  "category": "news",
+  "title": "週刊ワールドニュース",
+  "fullTitle": "週刊ワールドニュース🈔",
+  "detail": "世界の放送局のニュースを基に、一週間を振り返る。ロシアは兵員や装備品の損失が深刻化しているとみられ、イランや北朝鮮から兵器の調達を進めているとも指摘されている。",
+  "start": 1662764400000,
+  "end": 1662767400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
