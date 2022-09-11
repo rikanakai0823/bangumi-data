@@ -1,0 +1,23 @@
+{
+  "id": "idvjclm",
+  "category": "sports",
+  "title": "WBSC U-18 ベースボールワールドカップ2022",
+  "fullTitle": "WBSC U-18 ベースボールワールドカップ2022",
+  "detail": "アメリカ・フロリダ州で開催される「WBSC U-18 ベースボールワールドカップ」決勝戦を放送。（※日本の勝ち上がりに応じて３位決定戦を放送する場合もあります）",
+  "start": 1663581780000,
+  "end": 1663588680000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "WBSC U-18 ベースボールワールドカップ",
+  "episode": 1,
+  "flags": []
+}

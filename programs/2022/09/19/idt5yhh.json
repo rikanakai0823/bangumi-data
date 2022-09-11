@@ -1,0 +1,23 @@
+{
+  "id": "idt5yhh",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "【中山】10Ｒ2002メモリアルシンボリクリスエスＣ、11Ｒセントライト記念（ＧⅡ）\r\n【中京】10Ｒ2012メモリアルジェンティルドンナC、11ＲJRAアニバーサリーステークス",
+  "start": 1663567200000,
+  "end": 1663570800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
