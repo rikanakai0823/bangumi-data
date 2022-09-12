@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwt8m",
+  "category": "variety",
+  "title": "ローモバチャレンジＴＶ",
+  "fullTitle": "ローモバチャレンジＴＶ",
+  "detail": "チバテレでの冠番組をかけ、人気タレント5人がロードモバイルのギルド共闘戦の結果でバトル！！",
+  "start": 1662983700000,
+  "end": 1662984000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
