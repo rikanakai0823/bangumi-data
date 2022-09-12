@@ -1,0 +1,23 @@
+{
+  "id": "idyrs87",
+  "category": "variety",
+  "title": "ビタペディア #12",
+  "fullTitle": "ビタペディア #12",
+  "detail": "ビタミンＳが番組ＨＰに寄せられた情報をもとに関西各地を訪れます。",
+  "start": 1663624800000,
+  "end": 1663626600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": []
+}

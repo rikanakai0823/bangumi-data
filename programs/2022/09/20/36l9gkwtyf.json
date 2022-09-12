@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwtyf",
+  "category": "sports",
+  "title": "千葉県ボーイズリーグダイジェスト２０２２・夏",
+  "fullTitle": "千葉県ボーイズリーグダイジェスト２０２２・夏🈞",
+  "detail": "第53回日本少年野球選手権大会千葉県予選の準決勝と決勝の試合をダイジェストで放送します。",
+  "start": 1663661100000,
+  "end": 1663664400000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 53,
+  "flags": [
+    "再"
+  ]
+}
