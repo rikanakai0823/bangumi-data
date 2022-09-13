@@ -1,15 +1,16 @@
 {
   "id": "381sxrgue0",
-  "category": "variety",
-  "title": "「ニュースそこだけファイル」ナビ",
-  "fullTitle": "「ニュースそこだけファイル」ナビ🈑",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/news_sokodakefile_20220921/",
+  "category": "news",
+  "title": "「ニュースそこだけファイル」ナビ　２１日（水）よる８時から２時間SP",
+  "fullTitle": "「ニュースそこだけファイル」ナビ🈑　２１日（水）よる８時から２時間SP",
+  "detail": "２１日（水）よる８時から２時間SP！MCはかまいたち＆ホラン千秋\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/news_sokodakefile_20220921/\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1663398000000,
   "end": 1663401600000,
   "seconds": 3600,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "２１日（水）よる８時から２時間SP！MCはかまいたち＆ホラン千秋",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/news_sokodakefile_20220921/"
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/news_sokodakefile_20220921/",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。\r\n"
   },
   "channel": {
     "type": "GR",
