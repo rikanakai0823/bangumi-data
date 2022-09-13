@@ -1,0 +1,23 @@
+{
+  "id": "idwsj0z",
+  "category": "hobby",
+  "title": "学習センターめぐり",
+  "fullTitle": "学習センターめぐり",
+  "detail": "「大分学習センター」",
+  "start": 1663714800000,
+  "end": 1663715700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "大分学習センター",
+  "episode": 1,
+  "flags": []
+}

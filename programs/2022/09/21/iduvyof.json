@@ -1,0 +1,25 @@
+{
+  "id": "iduvyof",
+  "category": "cinema",
+  "title": "ドラゴン×マッハ！",
+  "fullTitle": "🈙ドラゴン×マッハ！",
+  "detail": "トニー・ジャーとウー・ジンが共演したバトルアクション。捕らわれた潜入捜査官と刑務所看守が、熱き拳で繰り広げる死闘を描く。",
+  "start": 1663744500000,
+  "end": 1663752600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
