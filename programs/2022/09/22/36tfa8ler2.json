@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ler2",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「おひつじ座特別」「第３回ゴールドジュニア（ＳⅢ）」「ミザール賞」",
+  "start": 1663827600000,
+  "end": 1663848000000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}
