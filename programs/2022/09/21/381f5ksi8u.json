@@ -1,12 +1,16 @@
 {
   "id": "381f5ksi8u",
   "category": "hobby",
-  "title": "ＮＡＢＥ",
-  "fullTitle": "ＮＡＢＥ🈑",
-  "detail": "",
+  "title": "ＮＡＢＥ（１９）",
+  "fullTitle": "ＮＡＢＥ（１９）🈑",
+  "detail": "【出演】細田佳央太，ｅｉｌｌ，小澤杏子，カモシダせぶん\n◇出演者\n【出演】細田佳央太，ｅｉｌｌ，小澤杏子，カモシダせぶん",
   "start": 1663687500000,
   "end": 1663687800000,
   "seconds": 300,
+  "description": "【出演】細田佳央太，ｅｉｌｌ，小澤杏子，カモシダせぶん",
+  "extra": {
+    "出演者": "【出演】細田佳央太，ｅｉｌｌ，小澤杏子，カモシダせぶん"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,8 +21,8 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "出演",
+  "episode": 19,
   "flags": [
     "字"
   ]
