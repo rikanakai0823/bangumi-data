@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Just Us Two\"STEVE AOKI & TAKING BACK SUNDAY\r\n\"Ultimate\"STEVE AOKI & SANTA FE KLAN feat.SNOW THA PRODUCT\r\n\"I'm A Man\"MICHELLE BRANCH\n◇番組内容２\n\"Hear My Dear\"TEDESCHI TRUCKS BAND\r\n\"Playing With My Emotions\"TEDESCHI TRUCKS BAND\r\n\"Take Me As I Am\"TEDESCHI TRUCKS BAND\r\n\"Soul Sweet Song\"TEDESCHI TRUCKS BAND",
   "start": 1663599600000,
   "end": 1663601400000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Just Us Two\"STEVE AOKI & TAKING BACK SUNDAY\r\n\"Ultimate\"STEVE AOKI & SANTA FE KLAN feat.SNOW THA PRODUCT\r\n\"I'm A Man\"MICHELLE BRANCH",
+    "番組内容２": "\"Hear My Dear\"TEDESCHI TRUCKS BAND\r\n\"Playing With My Emotions\"TEDESCHI TRUCKS BAND\r\n\"Take Me As I Am\"TEDESCHI TRUCKS BAND\r\n\"Soul Sweet Song\"TEDESCHI TRUCKS BAND"
   },
   "channel": {
     "type": "GR",
