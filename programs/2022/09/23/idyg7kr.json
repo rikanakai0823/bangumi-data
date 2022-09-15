@@ -1,0 +1,23 @@
+{
+  "id": "idyg7kr",
+  "category": "cinema",
+  "title": "短編映画劇場　5m 80cm",
+  "fullTitle": "短編映画劇場　5m 80cm",
+  "detail": "",
+  "start": 1663937820000,
+  "end": 1663938180000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
