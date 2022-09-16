@@ -1,0 +1,23 @@
+{
+  "id": "idryw8n",
+  "category": "news",
+  "title": "Ｎｅｗｓ　Ａｃｃｅｓｓ",
+  "fullTitle": "Ｎｅｗｓ　Ａｃｃｅｓｓ",
+  "detail": "最新ニュース",
+  "start": 1664002440000,
+  "end": 1664002800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

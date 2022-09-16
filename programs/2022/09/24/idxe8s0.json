@@ -1,0 +1,23 @@
+{
+  "id": "idxe8s0",
+  "category": "sports",
+  "title": "This Week in WWE #712",
+  "fullTitle": "This Week in WWE #712",
+  "detail": "WWEの看板番組である「ロウ」「スマックダウン」の情報を中心に1週間のストーリーを凝縮した30分のダイジェスト番組。",
+  "start": 1663959600000,
+  "end": 1663961400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 712,
+  "flags": []
+}
