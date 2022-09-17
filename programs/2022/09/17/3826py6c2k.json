@@ -1,0 +1,23 @@
+{
+  "id": "3826py6c2k",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ御宿特別\r\n　　　　11Ｒ初風ステークス\r\n【中京】10Ｒ大府特別\r\n　　　　11Ｒケフェウスステークス",
+  "start": 1663394400000,
+  "end": 1663398000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
