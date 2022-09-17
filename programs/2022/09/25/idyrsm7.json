@@ -1,0 +1,23 @@
+{
+  "id": "idyrsm7",
+  "category": "variety",
+  "title": "東京早咲き祭",
+  "fullTitle": "東京早咲き祭",
+  "detail": "東京早咲き祭",
+  "start": 1664100000000,
+  "end": 1664103600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

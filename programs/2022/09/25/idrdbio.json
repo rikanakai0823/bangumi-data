@@ -1,0 +1,23 @@
+{
+  "id": "idrdbio",
+  "category": "cinema",
+  "title": "日曜ロードショー　映画「スーパーマン」（日本語字幕）",
+  "fullTitle": "日曜ロードショー　映画「スーパーマン」（日本語字幕）",
+  "detail": "驚異的な興行収入とアカデミー受賞の快挙で最高傑作の名を欲しいままにした『スーパーマン』！超豪華キャストで贈る超大作！",
+  "start": 1664101800000,
+  "end": 1664110440000,
+  "seconds": 8640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "スーパーマン",
+  "episode": 1,
+  "flags": []
+}

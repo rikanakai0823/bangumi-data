@@ -1,0 +1,23 @@
+{
+  "id": "iduecrv",
+  "category": "music",
+  "title": "ｓｕｍｉｋａ　Ｌｉｖｅ　Ｔｏｕｒ　２０２１「花鳥風月」",
+  "fullTitle": "ｓｕｍｉｋａ　Ｌｉｖｅ　Ｔｏｕｒ　２０２１「花鳥風月」",
+  "detail": "４人組バンド、ｓｕｍｉｋａ。待望のツアーからファイナルのさいたまスーパーアリーナ公演の模様をお届け！",
+  "start": 1664053200000,
+  "end": 1664060400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "花鳥風月",
+  "episode": 1,
+  "flags": []
+}
