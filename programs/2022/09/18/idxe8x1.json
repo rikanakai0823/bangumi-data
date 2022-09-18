@@ -1,0 +1,23 @@
+{
+  "id": "idxe8x1",
+  "category": "sports",
+  "title": "MLBミュージック #36",
+  "fullTitle": "MLBミュージック #36",
+  "detail": "※プロ野球「広島×中日(09/18)」は台風接近により中止になりました。\r\nこの時間は予定を変更してお送りします。",
+  "start": 1663504800000,
+  "end": 1663506000000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "広島×中日(09/18)",
+  "episode": 36,
+  "flags": []
+}
