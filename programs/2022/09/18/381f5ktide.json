@@ -1,12 +1,12 @@
 {
-  "id": "381f5ksoq8",
+  "id": "381f5ktide",
   "category": "news",
   "title": "ニュース",
   "fullTitle": "ニュース🈑",
-  "detail": "",
-  "start": 1663484400000,
-  "end": 1663485600000,
-  "seconds": 1200,
+  "detail": "ニュース",
+  "start": 1663484289000,
+  "end": 1663484289001,
+  "seconds": 0.001,
   "channel": {
     "type": "GR",
     "channel": "27",
