@@ -1,0 +1,25 @@
+{
+  "id": "idyrsmj",
+  "category": "variety",
+  "title": "京上ル下ル #11",
+  "fullTitle": "🈡京上ル下ル #11",
+  "detail": "京都市内の様々なスポットをお散歩。",
+  "start": 1664143200000,
+  "end": 1664145000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 11,
+  "flags": [
+    "終"
+  ]
+}

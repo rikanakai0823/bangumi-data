@@ -1,0 +1,23 @@
+{
+  "id": "ieeldxl",
+  "category": "etc",
+  "title": "授業科目案内～大学の窓",
+  "fullTitle": "授業科目案内～大学の窓",
+  "detail": "「情報学の技術('18)」",
+  "start": 1663733700000,
+  "end": 1663734600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 84
+  },
+  "subTitle": "情報学の技術('18)",
+  "episode": 1,
+  "flags": []
+}

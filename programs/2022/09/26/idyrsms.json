@@ -1,0 +1,23 @@
+{
+  "id": "idyrsms",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと(9/26)",
+  "fullTitle": "競輪LIVE！チャリロトよしもと(9/26)",
+  "detail": "本日はミッドナイト競輪・高松最終日を生中継！来週からシーズン３開始！今週もガチ予想！※放送内容・出演者が変更の可能性有。\r\n出演者：相席スタート山添、島袋香菜　ほか",
+  "start": 1664197200000,
+  "end": 1664200800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
