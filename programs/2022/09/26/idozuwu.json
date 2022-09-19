@@ -1,0 +1,23 @@
+{
+  "id": "idozuwu",
+  "category": "sports",
+  "title": "ＢＳ１バスケ開幕キャンペーン",
+  "fullTitle": "ＢＳ１バスケ開幕キャンペーン",
+  "detail": "バスケシーズン到来！ＮＨＫでは、女子バスケＷ杯をはじめ、７季目を迎えるＢリーグの熱戦を生中継します。「熱血バスケ」も再開。存分にバスケをお楽しみください！",
+  "start": 1664189340000,
+  "end": 1664189400000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "熱血バスケ",
+  "episode": 1,
+  "flags": []
+}
