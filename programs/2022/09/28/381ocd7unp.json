@@ -3,10 +3,15 @@
   "category": "cinema",
   "title": "ついに激突！！『ＨｉＧＨ＆ＬＯＷ　ＴＨＥ　ＷＯＲＳＴ　Ｘ』公開記念ＳＰ（後編）",
   "fullTitle": "ついに激突！！『ＨｉＧＨ＆ＬＯＷ　ＴＨＥ　ＷＯＲＳＴ　Ｘ』公開記念ＳＰ（後編）",
-  "detail": "",
+  "detail": "人気バトルアクションシリーズ「HiGH&LOW」待望の最新作『HiGH&LOW THE WORST X 』の公開記念スペシャルコンテンツ。\n◇出演者\n川村壱馬、吉野北人（THE RAMPAGE）\r\n中本悠太（NCT）三山凌輝（RYOKI）ほか\n◇番組内容\nTHE RAMPAGEの川村壱馬・吉野北人、NCT127のYUTA、BE:FIRSTのRYOKIという、超人気アーティストであり俳優でもある4人による夢のコラボトークが実現。HiGH&LOW THE WORST Xが音楽の目線で楽しめる、公開記念特番のアーティスト編。THE RAMPAGEの主題歌「THE POWER」や、この４人の奇跡のコラボにより実現した劇中歌「Wings」の貴重映像も！",
   "start": 1664297940000,
   "end": 1664299740000,
   "seconds": 1800,
+  "description": "人気バトルアクションシリーズ「HiGH&LOW」待望の最新作『HiGH&LOW THE WORST X 』の公開記念スペシャルコンテンツ。",
+  "extra": {
+    "出演者": "川村壱馬、吉野北人（THE RAMPAGE）\r\n中本悠太（NCT）三山凌輝（RYOKI）ほか",
+    "番組内容": "THE RAMPAGEの川村壱馬・吉野北人、NCT127のYUTA、BE:FIRSTのRYOKIという、超人気アーティストであり俳優でもある4人による夢のコラボトークが実現。HiGH&LOW THE WORST Xが音楽の目線で楽しめる、公開記念特番のアーティスト編。THE RAMPAGEの主題歌「THE POWER」や、この４人の奇跡のコラボにより実現した劇中歌「Wings」の貴重映像も！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
+  "subTitle": "HiGH&LOW",
   "episode": 1,
   "flags": []
 }
