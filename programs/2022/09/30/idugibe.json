@@ -1,0 +1,27 @@
+{
+  "id": "idugibe",
+  "category": "cinema",
+  "title": "不能犯[PG12指定]",
+  "fullTitle": "🈙不能犯[PG12指定]🅍🈑",
+  "detail": "松坂桃李が人間の心を操るダークヒーローを演じるスリラーエンターテインメント。ある電話ボックスを介した殺人依頼に応える黒スーツの男。果たして彼は天使か？　悪魔か？",
+  "start": 1664496000000,
+  "end": 1664503200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idvjcbm",
+  "category": "anime",
+  "title": "アニナビ☆イレブン！",
+  "fullTitle": "アニナビ☆イレブン！",
+  "detail": "2022年10月からBS11が放送する秋アニメを一挙にご紹介！ナビゲーターは「アニゲー☆イレブン！」からジェしかが担当！",
+  "start": 1664467200000,
+  "end": 1664469000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "アニゲー☆イレブン！",
+  "episode": 1,
+  "flags": []
+}
