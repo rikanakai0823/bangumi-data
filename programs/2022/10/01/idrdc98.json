@@ -1,0 +1,23 @@
+{
+  "id": "idrdc98",
+  "category": "news",
+  "title": "皇室日記　＃２４",
+  "fullTitle": "皇室日記　＃２４",
+  "detail": "エリザベス女王の死去をうけ、皇室とエリザベス女王の交流について特集いたします。",
+  "start": 1664586000000,
+  "end": 1664586900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 24,
+  "flags": []
+}

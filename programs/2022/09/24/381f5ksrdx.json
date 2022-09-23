@@ -1,12 +1,16 @@
 {
   "id": "381f5ksrdx",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース",
-  "detail": "",
-  "start": 1663949160000,
-  "end": 1663949460000,
-  "seconds": 300,
+  "title": "ニュース「台風１５号」関連",
+  "fullTitle": "ニュース「台風１５号」関連",
+  "detail": "▽最新情報　▽台風進路図\n◇おしらせ\nきょう放送予定の「ワルイコあつまれ」はお休みにします",
+  "start": 1663947300000,
+  "end": 1663960500000,
+  "seconds": 13200,
+  "description": "　▽最新情報　▽台風進路図",
+  "extra": {
+    "おしらせ": "きょう放送予定の「ワルイコあつまれ」はお休みにします"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "台風１５号",
   "episode": 1,
   "flags": []
 }
