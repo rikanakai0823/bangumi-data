@@ -1,0 +1,25 @@
+{
+  "id": "38224jzzgx",
+  "category": "news",
+  "title": "報道ステーション",
+  "fullTitle": "報道ステーション🈑",
+  "detail": "３連休また台風直撃か…太平洋側で大雨に警戒▽安倍元総理「国葬」…都内は厳戒態勢▽西九州新幹線が開業…沿線では“温度差”も▽中日・福留孝介引退試合🈀",
+  "start": 1663937640000,
+  "end": 1663942200000,
+  "seconds": 4560,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "国葬",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
