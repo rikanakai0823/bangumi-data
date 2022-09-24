@@ -1,0 +1,25 @@
+{
+  "id": "idtvaio",
+  "category": "sports",
+  "title": "ＢＯＡＴＲＡＣＥプレミアプレミアムGⅠ第9回ヤングダービー　～準優勝戦～",
+  "fullTitle": "🈢ＢＯＡＴＲＡＣＥプレミアプレミアムGⅠ第9回ヤングダービー　～準優勝戦～",
+  "detail": "20代最強レーサーを決める戦い！プレミアムGⅠ第9回ヤングダービーの準優勝戦を生中継！",
+  "start": 1664002800000,
+  "end": 1664006100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 9,
+  "flags": [
+    "生"
+  ]
+}

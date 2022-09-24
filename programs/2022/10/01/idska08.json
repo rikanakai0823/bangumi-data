@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ＢＳ－ＴＢＳ　ショッピングＬＩＶＥ！",
   "fullTitle": "ＢＳ－ＴＢＳ　ショッピングＬＩＶＥ！",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1664596800000,
   "end": 1664604000000,
   "seconds": 7200,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
