@@ -1,0 +1,23 @@
+{
+  "id": "3826py8hhg",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ九十九里特別\r\n　　　　11Ｒながつきステークス\r\n【中京】10Ｒ夕月特別\r\n　　　　11Ｒ豊明ステークス",
+  "start": 1663999200000,
+  "end": 1664002800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
