@@ -1,0 +1,27 @@
+{
+  "id": "381jqz0iau",
+  "category": "music",
+  "title": "第８９回ＮＨＫ全国学校音楽コンクール",
+  "fullTitle": "第８９回ＮＨＫ全国学校音楽コンクール",
+  "detail": "◇おしらせ\n※各地域のＮＨＫ全国音楽コンクールの場合あり",
+  "start": 1664686800000,
+  "end": 1664697600000,
+  "seconds": 10800,
+  "description": "",
+  "extra": {
+    "おしらせ": "※各地域のＮＨＫ全国音楽コンクールの場合あり"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 89,
+  "flags": []
+}

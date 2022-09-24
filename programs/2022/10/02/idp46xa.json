@@ -1,0 +1,25 @@
+{
+  "id": "idp46xa",
+  "category": "documentary",
+  "title": "にっぽん憧れの絶景",
+  "fullTitle": "にっぽん憧れの絶景🈑",
+  "detail": "",
+  "start": 1664679600000,
+  "end": 1664685000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
