@@ -3,10 +3,15 @@
   "category": "music",
   "title": "岡本知高～響きの狂宴～",
   "fullTitle": "岡本知高～響きの狂宴～",
-  "detail": "ソプラニスタ岡本知高の世界",
+  "detail": "ソプラニスタ岡本知高の世界\n◇番組内容\n岡本知高のインタビューを最新MV「World In Union」とともにお送りする。\n◇出演者\n岡本知高",
   "start": 1664200500000,
   "end": 1664200800000,
   "seconds": 300,
+  "description": "ソプラニスタ岡本知高の世界",
+  "extra": {
+    "番組内容": "岡本知高のインタビューを最新MV「World In Union」とともにお送りする。",
+    "出演者": "岡本知高"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_1",
