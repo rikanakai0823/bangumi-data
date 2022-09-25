@@ -1,0 +1,23 @@
+{
+  "id": "idp4761",
+  "category": "information",
+  "title": "ＮＨＫ発！鉄道１５０年（２）",
+  "fullTitle": "ＮＨＫ発！鉄道１５０年（２）",
+  "detail": "",
+  "start": 1664785740000,
+  "end": 1664785800000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}

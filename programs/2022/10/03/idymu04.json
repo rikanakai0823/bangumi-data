@@ -1,0 +1,23 @@
+{
+  "id": "idymu04",
+  "category": "information",
+  "title": "ジャパ得",
+  "fullTitle": "ジャパ得",
+  "detail": "",
+  "start": 1664728200000,
+  "end": 1664730000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
