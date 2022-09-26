@@ -1,0 +1,25 @@
+{
+  "id": "idrywk5",
+  "category": "documentary",
+  "title": "コドモミライ",
+  "fullTitle": "🈟コドモミライ",
+  "detail": "新ドキュメンタリー番組がスタート！",
+  "start": 1664884440000,
+  "end": 1664884800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

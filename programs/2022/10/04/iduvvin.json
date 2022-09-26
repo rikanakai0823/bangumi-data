@@ -1,0 +1,26 @@
+{
+  "id": "iduvvin",
+  "category": "cinema",
+  "title": "ゴーストバスターズ（２０１６）［エクステンデッド版］",
+  "fullTitle": "🈙🅍ゴーストバスターズ（２０１６）［エクステンデッド版］",
+  "detail": "【シリーズ全４作一挙放送スペシャル！】",
+  "start": 1664867700000,
+  "end": 1664876700000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "シリーズ全４作一挙放送スペシャル！",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
