@@ -1,0 +1,23 @@
+{
+  "id": "idyg7vr",
+  "category": "information",
+  "title": "エンタメ情報ステーションミニ　＃２７",
+  "fullTitle": "エンタメ情報ステーションミニ　＃２７",
+  "detail": "",
+  "start": 1665046800000,
+  "end": 1665047160000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 27,
+  "flags": []
+}
