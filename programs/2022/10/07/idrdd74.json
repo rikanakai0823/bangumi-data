@@ -1,0 +1,25 @@
+{
+  "id": "idrdd74",
+  "category": "anime",
+  "title": "アニメ　VAZZROCK THE ANIMATION　#01",
+  "fullTitle": "アニメ　VAZZROCK THE ANIMATION🈞　#01",
+  "detail": "#01 Joyous・前",
+  "start": 1665153000000,
+  "end": 1665154800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "Joyous・前",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

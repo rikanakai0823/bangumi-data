@@ -1,0 +1,23 @@
+{
+  "id": "idyrt7u",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと(10/7)",
+  "fullTitle": "競輪LIVE！チャリロトよしもと(10/7)",
+  "detail": "本日はミッドナイト競輪・青森２日目を生中継！※放送内容・出演者変更の可能性有。",
+  "start": 1665147600000,
+  "end": 1665151200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
