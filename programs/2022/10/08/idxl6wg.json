@@ -1,0 +1,25 @@
+{
+  "id": "idxl6wg",
+  "category": "sports",
+  "title": "イル・ロンバルディア2022 Cycle*",
+  "fullTitle": "[生]イル・ロンバルディア2022 Cycle*",
+  "detail": "開催日：2022年10月8日(現地)",
+  "start": 1665230400000,
+  "end": 1665244800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
