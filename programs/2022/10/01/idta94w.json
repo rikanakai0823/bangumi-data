@@ -1,0 +1,25 @@
+{
+  "id": "idta94w",
+  "category": "music",
+  "title": "サブちゃんと歌仲間",
+  "fullTitle": "サブちゃんと歌仲間🈑",
+  "detail": "北島三郎を慕う、歌仲間が集います。心に沁みる歌、楽しい歌、悲しい歌、元気づけられる歌、人生の応援歌などをお届けします。",
+  "start": 1664569800000,
+  "end": 1664571600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
