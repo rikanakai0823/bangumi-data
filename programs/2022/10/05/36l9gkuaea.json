@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２２年１０月",
+  "detail": "２０２２年１０月\n◇番組内容\n●KOH+/ ヒトツボシ\r\n●J-JUN with 中島美嘉 / One Heart\r\n●SKE48 / 絶対インスピレーション\r\n●植田真梨恵 / ”シグナルはノー”\r\n●上坂すみれ / 筐体哀歌\r\n●BLACKPINK / Shut Down\r\n●ヨルシカ / チノカテ\r\n●King & Prince / TraceTrace",
   "start": 1664899200000,
   "end": 1664901000000,
   "seconds": 1800,
+  "description": "２０２２年１０月",
+  "extra": {
+    "番組内容": "●KOH+/ ヒトツボシ\r\n●J-JUN with 中島美嘉 / One Heart\r\n●SKE48 / 絶対インスピレーション\r\n●植田真梨恵 / ”シグナルはノー”\r\n●上坂すみれ / 筐体哀歌\r\n●BLACKPINK / Shut Down\r\n●ヨルシカ / チノカテ\r\n●King & Prince / TraceTrace"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
