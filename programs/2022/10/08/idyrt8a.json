@@ -1,9 +1,9 @@
 {
   "id": "idyrt8a",
   "category": "variety",
-  "title": "未定",
-  "fullTitle": "未定",
-  "detail": "未定",
+  "title": "すゑひろがりずのあっぱれふるさと珍道中 #1",
+  "fullTitle": "🈟すゑひろがりずのあっぱれふるさと珍道中 #1",
+  "detail": "道の駅やサービスエリアなどを訪れ地域の魅力をお届けする番組です。",
   "start": 1665190800000,
   "end": 1665192600000,
   "seconds": 1800,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "新"
+  ]
 }
