@@ -1,0 +1,23 @@
+{
+  "id": "3826py6cl6",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ勝浦特別、\r\n　　　　11Ｒ秋風Ｓ\r\n【中京】10Ｒ関ケ原Ｓ、\r\n　　　　11ＲシリウスＳ（ＧⅢ）",
+  "start": 1664604000000,
+  "end": 1664607600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
