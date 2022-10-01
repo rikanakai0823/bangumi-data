@@ -1,0 +1,25 @@
+{
+  "id": "idvjck2",
+  "category": "anime",
+  "title": "ぼっち・ざ・ろっく！　＃１",
+  "fullTitle": "🈟ぼっち・ざ・ろっく！　＃１",
+  "detail": "",
+  "start": 1665241200000,
+  "end": 1665243000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

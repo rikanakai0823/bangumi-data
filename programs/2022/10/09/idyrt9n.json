@@ -1,0 +1,28 @@
+{
+  "id": "idyrt9n",
+  "category": "variety",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": "番組が決まり次第更新致します。\n◇【番組内容】\n番組が決まり次第更新致します。\n◇【お知らせ】\nBSよしもとの番組情報はコチラから！\r\n◆BSよしもとWebサイト\r\nhttps://bsy.co.jp/\r\n◆BSよしもとTwitter\r\n@bsyoshimoto",
+  "start": 1665320400000,
+  "end": 1665324000000,
+  "seconds": 3600,
+  "description": "番組が決まり次第更新致します。",
+  "extra": {
+    "【番組内容】": "番組が決まり次第更新致します。",
+    "【お知らせ】": "BSよしもとの番組情報はコチラから！\r\n◆BSよしもとWebサイト\r\nhttps://bsy.co.jp/\r\n◆BSよしもとTwitter\r\n@bsyoshimoto"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
