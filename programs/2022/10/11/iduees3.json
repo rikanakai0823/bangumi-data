@@ -1,0 +1,23 @@
+{
+  "id": "iduees3",
+  "category": "sports",
+  "title": "週刊テニスワールド　＃３０",
+  "fullTitle": "週刊テニスワールド　＃３０",
+  "detail": "世界のテニスの情報はもちろん、テニスをいろいろな視点から楽しめる週１情報番組。",
+  "start": 1665495000000,
+  "end": 1665496800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 30,
+  "flags": []
+}

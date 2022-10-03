@@ -1,0 +1,23 @@
+{
+  "id": "idwxpnb",
+  "category": "sports",
+  "title": "ザ・パトロールビデオ（場別） #715",
+  "fullTitle": "ザ・パトロールビデオ（場別） #715",
+  "detail": "「第4回東京競馬第1・2・3日、第4回阪神競馬第1・2・3日」",
+  "start": 1665482400000,
+  "end": 1665493200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "第4回東京競馬第1・2・3日、第4回阪神競馬第1・2・3日",
+  "episode": 715,
+  "flags": []
+}
