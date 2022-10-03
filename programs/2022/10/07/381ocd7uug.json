@@ -1,12 +1,16 @@
 {
   "id": "381ocd7uug",
   "category": "documentary",
-  "title": "アナザースカイ",
-  "fullTitle": "🈟アナザースカイ🈑",
-  "detail": "",
+  "title": "アナザースカイ～１年ぶりに復活～",
+  "fullTitle": "🈟アナザースカイ～１年ぶりに復活～🈑",
+  "detail": "◇出演者\nＭＣ：今田耕司、中条あやみ\r\nゲスト：ＵＴＡ",
   "start": 1665151200000,
   "end": 1665153000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "ＭＣ：今田耕司、中条あやみ\r\nゲスト：ＵＴＡ"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
