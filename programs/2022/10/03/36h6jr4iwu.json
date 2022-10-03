@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr4iwu",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽クックハンド▽おいしさまるごとマイスター▽今週土日は【浦和大学】学園祭「しらさぎ祭」▽テレ玉くん天気予報▽毎週のお楽しみ！「月曜で賞」プレゼントも！",
+  "start": 1664784000000,
+  "end": 1664786700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
