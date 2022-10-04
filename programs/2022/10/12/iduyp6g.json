@@ -1,0 +1,25 @@
+{
+  "id": "iduyp6g",
+  "category": "cinema",
+  "title": "ダンケルク（１９６４）",
+  "fullTitle": "🈙ダンケルク（１９６４）",
+  "detail": "ジャン＝ポール・ベルモンド主演。第二次世界大戦下、ドイツ軍に追い詰められた英仏連合軍の救出劇をフランス側の視点から描く。",
+  "start": 1665522000000,
+  "end": 1665530400000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

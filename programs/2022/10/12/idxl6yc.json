@@ -1,0 +1,25 @@
+{
+  "id": "idxl6yc",
+  "category": "sports",
+  "title": "MLB中継2022 ディビジョンシリーズ (10/11)",
+  "fullTitle": "[生]MLB中継2022 ディビジョンシリーズ (10/11)",
+  "detail": "開催日：2022年10月11日(現地)",
+  "start": 1665504000000,
+  "end": 1665529200000,
+  "seconds": 25200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
