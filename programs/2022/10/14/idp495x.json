@@ -1,0 +1,26 @@
+{
+  "id": "idp495x",
+  "category": "documentary",
+  "title": "新日本風土記「松江」",
+  "fullTitle": "新日本風土記「松江」🈑🈞",
+  "detail": "水の都、松江。お堀に浮かぶ遊覧船で歴史の町を巡る旅へ。神話の地・出雲ならではの信仰から、江戸時代の武家文化、小泉八雲の怪談まで。情緒漂う古都と伝統守る人々の物語",
+  "start": 1665702000000,
+  "end": 1665705600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "松江",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
