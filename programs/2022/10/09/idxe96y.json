@@ -1,0 +1,25 @@
+{
+  "id": "idxe96y",
+  "category": "sports",
+  "title": "MLB中継2022 NLワイルドカード第2戦 メッツ×パドレス(10/8)",
+  "fullTitle": "[生]MLB中継2022 NLワイルドカード第2戦 メッツ×パドレス(10/8)",
+  "detail": "【ナショナルリーグ 第2戦】\r\nニューヨーク・メッツ×サンディエゴ・パドレス\r\n\r\n解説：森繁和、AKI猪瀬\r\n実況：足立清紀\r\n開催日：2022年10月8日(現地)",
+  "start": 1665271800000,
+  "end": 1665286200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "ナショナルリーグ 第2戦",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

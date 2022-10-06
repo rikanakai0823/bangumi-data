@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Her\"MEGAN THEE STALLION\r\n\"Movie Star\"STEVE AOKI feat.MOD SUN & GLOBAL DAN\r\n\"Growing Up\"THE LINDA LINDAS\r\n\"Talking To Myself\"THE LINDA LINDAS\n◇番組内容２\n\"All She Wanna Do\"JOHN LEGEND feat.SAWEETIE\r\n\"Shut Down\"BLACKPINK",
   "start": 1665414000000,
   "end": 1665415800000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Her\"MEGAN THEE STALLION\r\n\"Movie Star\"STEVE AOKI feat.MOD SUN & GLOBAL DAN\r\n\"Growing Up\"THE LINDA LINDAS\r\n\"Talking To Myself\"THE LINDA LINDAS",
+    "番組内容２": "\"All She Wanna Do\"JOHN LEGEND feat.SAWEETIE\r\n\"Shut Down\"BLACKPINK"
   },
   "channel": {
     "type": "GR",
