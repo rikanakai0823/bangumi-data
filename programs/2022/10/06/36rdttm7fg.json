@@ -1,0 +1,23 @@
+{
+  "id": "36rdttm7fg",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽イオンレイクタウン茨木フェア▽天気▽毎週のお楽しみ！「木曜で賞」プレゼントも！",
+  "start": 1665041400000,
+  "end": 1665043200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "木曜で賞",
+  "episode": 1,
+  "flags": []
+}
