@@ -1,0 +1,23 @@
+{
+  "id": "idyg83i",
+  "category": "sports",
+  "title": "ゴルフＷ　＃２６",
+  "fullTitle": "ゴルフＷ　＃２６",
+  "detail": "",
+  "start": 1665835200000,
+  "end": 1665838800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 26,
+  "flags": []
+}

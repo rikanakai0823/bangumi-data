@@ -1,0 +1,23 @@
+{
+  "id": "idyg83f",
+  "category": "information",
+  "title": "エンタメ情報ステーション　土曜のトオルとカヲル　＃２９",
+  "fullTitle": "エンタメ情報ステーション　土曜のトオルとカヲル　＃２９",
+  "detail": "",
+  "start": 1665824400000,
+  "end": 1665826200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 29,
+  "flags": []
+}
