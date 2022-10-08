@@ -1,0 +1,27 @@
+{
+  "id": "idugkbd",
+  "category": "cinema",
+  "title": "ロボジー",
+  "fullTitle": "🈙ロボジー🅍🈑",
+  "detail": "完成したはずのロボットの中身は偏屈な老人？「ウォーターボーイズ」など常にユニークな題材を取り上げ、独自のユニークな視線で笑わせる矢口史靖監督による爆笑コメディ。",
+  "start": 1665882000000,
+  "end": 1665889200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "ウォーターボーイズ",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
