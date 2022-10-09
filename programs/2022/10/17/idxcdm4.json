@@ -1,0 +1,25 @@
+{
+  "id": "idxcdm4",
+  "category": "variety",
+  "title": "第1話見せます Mnet presents「Love N Friends」",
+  "fullTitle": "🈚第1話見せます Mnet presents「Love N Friends」",
+  "detail": "CS318プレミアムサービス658CH Mnetで毎週(木)22:00～放送！",
+  "start": 1666017000000,
+  "end": 1666023000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "Love N Friends",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

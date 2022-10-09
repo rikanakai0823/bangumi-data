@@ -1,0 +1,23 @@
+{
+  "id": "idueeu9",
+  "category": "variety",
+  "title": "超特急　ＢＵＬＬＥＴ　ＴＲＡＩＮ「ゴリゴリ超特急」　＃１",
+  "fullTitle": "超特急　ＢＵＬＬＥＴ　ＴＲＡＩＮ「ゴリゴリ超特急」　＃１",
+  "detail": "超特急のオリジナルバラエティ番組を放送。バラエティ番組にも活躍の場を広げる超特急のお笑いセンスに迫る。",
+  "start": 1665954900000,
+  "end": 1665956700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "ゴリゴリ超特急",
+  "episode": 1,
+  "flags": []
+}
