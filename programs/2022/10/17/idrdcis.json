@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "速報！ＭｏｔｏＧＰ",
   "fullTitle": "🈕速報！ＭｏｔｏＧＰ",
-  "detail": "",
+  "detail": "◇ホームページ\nhttps://www.bs4.jp/motorsports/",
   "start": 1665932400000,
   "end": 1665936000000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://www.bs4.jp/motorsports/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",

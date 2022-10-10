@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "ＮＮＮドキュメント’２２",
   "fullTitle": "ＮＮＮドキュメント’２２",
-  "detail": "",
+  "detail": "◇ホームページ\nhttps://www.ntv.co.jp/document/",
   "start": 1665874800000,
   "end": 1665876600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://www.ntv.co.jp/document/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",
