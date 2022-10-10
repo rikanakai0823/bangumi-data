@@ -1,0 +1,23 @@
+{
+  "id": "idyrtnj",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと(10/18)",
+  "fullTitle": "競輪LIVE！チャリロトよしもと(10/18)",
+  "detail": "本日はミッドナイト競輪がお休みのため特別企画をお送りします！※放送内容・出演者が変更になる可能性有。",
+  "start": 1666098000000,
+  "end": 1666101600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
