@@ -3,10 +3,14 @@
   "category": "hobby",
   "title": "旬旅にっぽん",
   "fullTitle": "旬旅にっぽん",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1665910800000,
   "end": 1665914040000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
