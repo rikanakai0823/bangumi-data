@@ -1,0 +1,23 @@
+{
+  "id": "idyru8j",
+  "category": "information",
+  "title": "よしもと INFORMATION",
+  "fullTitle": "よしもと INFORMATION",
+  "detail": "おすすめ番組やイベント情報、イチオシのMVをご紹介！",
+  "start": 1665936900000,
+  "end": 1665937800000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
