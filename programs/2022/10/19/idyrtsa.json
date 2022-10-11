@@ -1,0 +1,23 @@
+{
+  "id": "idyrtsa",
+  "category": "variety",
+  "title": "ミキBASE～いいね！で応援～ #30",
+  "fullTitle": "ミキBASE～いいね！で応援～ #30",
+  "detail": "頑張る人を応援する番組です。",
+  "start": 1666144800000,
+  "end": 1666146600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 30,
+  "flags": []
+}

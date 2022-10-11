@@ -1,0 +1,23 @@
+{
+  "id": "idyrts2",
+  "category": "news",
+  "title": "ウェザーニュースLiVE",
+  "fullTitle": "ウェザーニュースLiVE",
+  "detail": "日本国内各地の天候状況を随時お届け！",
+  "start": 1666128600000,
+  "end": 1666130400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
