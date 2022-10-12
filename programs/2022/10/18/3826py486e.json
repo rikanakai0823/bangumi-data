@@ -3,13 +3,13 @@
   "category": "music",
   "title": "プレミアＭｅｌｏｄｉＸ！",
   "fullTitle": "プレミアＭｅｌｏｄｉＸ！",
-  "detail": "【ナビゲーター】南海キャンディーズ\n◇番組内容\n【ナビゲーター】南海キャンディーズ\n◇関連情報\n【番組公式ホームページ】\r\n◆https://www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆https://twitter.com/tx_melodix\r\n番組情報や収録の様子などをお知らせします♪",
+  "detail": "【ゲスト】SKE48・Anonymouz\r\n・高嶺のなでしこ・FIVE　NEW　OLD\r\n【ナビゲーター】南海キャンディーズ\n◇番組内容\n【ゲスト】\r\nSKE48♪絶対インスピレーション\r\nAnonymouz♪Ladder\r\n高嶺のなでしこ♪アンチファン\r\nFIVE　NEW　OLD♪Trickster\r\n\r\n【ナビゲーター】\r\n南海キャンディーズ\n◇関連情報\n【番組公式ホームページ】\r\n◆https://www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆https://twitter.com/tx_melodix\r\n番組情報や収録の様子などをお知らせします♪",
   "start": 1666028100000,
   "end": 1666029900000,
   "seconds": 1800,
-  "description": "【ナビゲーター】南海キャンディーズ",
+  "description": "【ゲスト】SKE48・Anonymouz\r\n・高嶺のなでしこ・FIVE　NEW　OLD\r\n【ナビゲーター】南海キャンディーズ",
   "extra": {
-    "番組内容": "【ナビゲーター】南海キャンディーズ",
+    "番組内容": "【ゲスト】\r\nSKE48♪絶対インスピレーション\r\nAnonymouz♪Ladder\r\n高嶺のなでしこ♪アンチファン\r\nFIVE　NEW　OLD♪Trickster\r\n\r\n【ナビゲーター】\r\n南海キャンディーズ",
     "関連情報": "【番組公式ホームページ】\r\n◆https://www.tv-tokyo.co.jp/melodix_premium/\r\n【番組公式Twitter】\r\n◆https://twitter.com/tx_melodix\r\n番組情報や収録の様子などをお知らせします♪"
   },
   "channel": {
@@ -22,7 +22,7 @@
     "hasLogoData": true,
     "n": 27
   },
-  "subTitle": "ナビゲーター",
+  "subTitle": "ゲスト",
   "episode": 1,
   "flags": []
 }
