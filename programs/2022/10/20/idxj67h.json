@@ -1,0 +1,25 @@
+{
+  "id": "idxj67h",
+  "category": "sports",
+  "title": "MLB中継2022 リーグチャンピオンシップシリーズ (10/19)",
+  "fullTitle": "[生]MLB中継2022 リーグチャンピオンシップシリーズ (10/19)",
+  "detail": "開催日：2022年10月19日(現地)",
+  "start": 1666220400000,
+  "end": 1666242000000,
+  "seconds": 21600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
