@@ -1,9 +1,9 @@
 {
   "id": "idyg86u",
   "category": "drama",
-  "title": "未定",
-  "fullTitle": "未定",
-  "detail": "",
+  "title": "鬼平犯科帳ドラマスペシャル　「泥鰌の和助始末」",
+  "fullTitle": "鬼平犯科帳ドラマスペシャル　「泥鰌の和助始末」🈑",
+  "detail": "平蔵と和助の30年前の因縁とは？！人情深い人間模様が、見る者の心を打つ。",
   "start": 1666177200000,
   "end": 1666184400000,
   "seconds": 7200,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 81
   },
-  "subTitle": "",
+  "subTitle": "泥鰌の和助始末",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
