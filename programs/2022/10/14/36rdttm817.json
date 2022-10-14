@@ -1,0 +1,23 @@
+{
+  "id": "36rdttm817",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽ご当地中継６３＠川越市▽天気▽メッセージテーマ「運動会エピソード」",
+  "start": 1665732600000,
+  "end": 1665734400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "運動会エピソード",
+  "episode": 1,
+  "flags": []
+}
