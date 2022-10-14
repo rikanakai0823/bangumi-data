@@ -1,0 +1,27 @@
+{
+  "id": "idugkdl",
+  "category": "cinema",
+  "title": "ホノカアボーイ",
+  "fullTitle": "🈙ホノカアボーイ🅍🈑",
+  "detail": "ハワイ島の小村ホノカアを舞台に、映画館の映写技師見習いとして働く日本人青年の日常を綴るハートウォーミングドラマ。岡田将生と「ＰＬＡＮ　７５」の倍賞千恵子が共演。",
+  "start": 1666380600000,
+  "end": 1666387800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "ＰＬＡＮ　７５",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
