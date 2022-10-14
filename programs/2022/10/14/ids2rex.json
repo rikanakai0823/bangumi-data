@@ -1,0 +1,25 @@
+{
+  "id": "ids2rex",
+  "category": "sports",
+  "title": "ワールドプロレスリングリターンズ　＃130「8.16日本武道館 G1 CLIMAX 32 Part.6」",
+  "fullTitle": "🈑ワールドプロレスリングリターンズ　＃130「8.16日本武道館 G1 CLIMAX 32 Part.6」",
+  "detail": "Aブロック公式戦／オカダ・カズチカ vs ランス・アーチャー▽Bブロック公式戦／タマ・トンガ vs ジェイ・ホワイト▽Cブロック公式戦／内藤哲也 vs ザック・セイバーJr. 🈀",
+  "start": 1665745200000,
+  "end": 1665748440000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "8.16日本武道館 G1 CLIMAX 32 Part.6",
+  "episode": 130,
+  "flags": [
+    "字"
+  ]
+}

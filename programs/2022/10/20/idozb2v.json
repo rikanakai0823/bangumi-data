@@ -4,9 +4,9 @@
   "title": "ＢＳセレクション",
   "fullTitle": "ＢＳセレクション",
   "detail": "",
-  "start": 1666256400000,
+  "start": 1666257000000,
   "end": 1666260000000,
-  "seconds": 3600,
+  "seconds": 3000,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
