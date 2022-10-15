@@ -3,10 +3,15 @@
   "category": "music",
   "title": "LIVE ON TV－瀬戸かずやTalk＆Live＠HANEDA",
   "fullTitle": "LIVE ON TV－瀬戸かずやTalk＆Live＠HANEDA",
-  "detail": "充実のライブエンタメを紹介する音楽番組。",
+  "detail": "充実のライブエンタメを紹介する音楽番組。\n◇番組内容\n充実のライブエンタメを紹介する音楽番組。\r\n今回は羽田空港 LDH kitchen THE TOKYO HANEDAから瀬戸かずや出演のTalk&Liveをお届けする。\n◇出演者\n瀬戸かずや",
   "start": 1666281600000,
   "end": 1666281900000,
   "seconds": 300,
+  "description": "充実のライブエンタメを紹介する音楽番組。",
+  "extra": {
+    "番組内容": "充実のライブエンタメを紹介する音楽番組。\r\n今回は羽田空港 LDH kitchen THE TOKYO HANEDAから瀬戸かずや出演のTalk&Liveをお届けする。",
+    "出演者": "瀬戸かずや"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_1",
