@@ -1,0 +1,25 @@
+{
+  "id": "idxcdrv",
+  "category": "sports",
+  "title": "【PPS】湘南美容クリニック presents RIZIN.39",
+  "fullTitle": "【PPS】🈢湘南美容クリニック presents RIZIN.39",
+  "detail": "10月23日(日)にマリンメッセ福岡 A館にて開催される『湘南美容クリニック presents RIZIN.39』",
+  "start": 1666501200000,
+  "end": 1666526400000,
+  "seconds": 25200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idyrua1",
+  "category": "information",
+  "title": "47ランキンLIVE！(10/23)",
+  "fullTitle": "47ランキンLIVE！(10/23)",
+  "detail": "ニッポンのトレンドを語り合う 60 分！",
+  "start": 1666497600000,
+  "end": 1666501200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

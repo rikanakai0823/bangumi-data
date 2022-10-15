@@ -1,0 +1,23 @@
+{
+  "id": "idyg8ae",
+  "category": "variety",
+  "title": "Show_Tik",
+  "fullTitle": "Show_Tik",
+  "detail": "",
+  "start": 1666533360000,
+  "end": 1666533600000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
