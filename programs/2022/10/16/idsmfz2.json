@@ -1,0 +1,23 @@
+{
+  "id": "idsmfz2",
+  "category": "sports",
+  "title": "東京レガシーハーフマラソン",
+  "fullTitle": "東京レガシーハーフマラソン",
+  "detail": "国立競技場をスタート・フィニッシュとした記念すべき第１回ハーフマラソン大会を生中継。世界陸上日本代表選手など多くの男女トップランナーが東京を疾走します！",
+  "start": 1665874740000,
+  "end": 1665881100000,
+  "seconds": 6360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
