@@ -1,0 +1,23 @@
+{
+  "id": "idymul1",
+  "category": "anime",
+  "title": "スポンジ・ボブ　＃２１",
+  "fullTitle": "スポンジ・ボブ　＃２１",
+  "detail": "",
+  "start": 1666683000000,
+  "end": 1666684800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 21,
+  "flags": []
+}

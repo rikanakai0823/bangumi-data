@@ -1,0 +1,23 @@
+{
+  "id": "idxj6aj",
+  "category": "sports",
+  "title": "This Week in WWE #716",
+  "fullTitle": "This Week in WWE #716",
+  "detail": "WWEの情報を網羅した30分番組。",
+  "start": 1666647000000,
+  "end": 1666648800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 716,
+  "flags": []
+}

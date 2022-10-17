@@ -1,0 +1,25 @@
+{
+  "id": "idugket",
+  "category": "cinema",
+  "title": "いぬ（字幕版）",
+  "fullTitle": "🈙いぬ（字幕版）",
+  "detail": "ギャング同士の血塗られた抗争、男の友情と裏切りをスタイリッシュに描写。Ｊ＝Ｐ・ベルモンドが主演した、Ｊ＝Ｐ・メルヴィル監督による傑作フランス産フィルムノワール。",
+  "start": 1666663200000,
+  "end": 1666670400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
