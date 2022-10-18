@@ -1,0 +1,23 @@
+{
+  "id": "idyrugv",
+  "category": "news",
+  "title": "ワシんとこ・ポスト(10/26)",
+  "fullTitle": "ワシんとこ・ポスト(10/26)",
+  "detail": "地方と人々を大切にする生ニュースショー。",
+  "start": 1666778400000,
+  "end": 1666785600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

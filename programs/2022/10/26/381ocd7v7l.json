@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7v7l",
+  "category": "drama",
+  "title": "ぴーすおぶけーき",
+  "fullTitle": "🈟ぴーすおぶけーき",
+  "detail": "",
+  "start": 1666715340000,
+  "end": 1666717140000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
