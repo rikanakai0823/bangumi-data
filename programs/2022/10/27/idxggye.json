@@ -1,0 +1,25 @@
+{
+  "id": "idxggye",
+  "category": "sports",
+  "title": "MLB中継2022 ALCS 第7戦 アストロズ×ヤンキース(10/26)",
+  "fullTitle": "[生]MLB中継2022 ALCS 第7戦 アストロズ×ヤンキース(10/26)",
+  "detail": "【リーグチャンピオンシップシリーズ】\r\n～アメリカンリーグ 第7戦～\r\n\r\nアストロズ×ヤンキース\r\n\r\n解説：AKI猪瀬\r\n実況：石原敬士",
+  "start": 1666827000000,
+  "end": 1666841400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "リーグチャンピオンシップシリーズ",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
