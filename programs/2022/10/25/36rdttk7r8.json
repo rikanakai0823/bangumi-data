@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Bad Omens\"5 SECONDS OF SUMMER\r\n\"BLENDER\"5 SECONDS OF SUMMER\r\n\"2 Be Loved  (Am I Ready)\"LIZZO\n◇番組内容２\n\"Talking To Yourself (Official Visual)\"CARLY RAE JEPSEN\r\n\"Beach House\"CARLY RAE JEPSEN\r\n\"The Loneliest Time\"CARLY RAE JEPSEN feat.RUFUS WAINWRIGHT",
   "start": 1666623600000,
   "end": 1666625400000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Bad Omens\"5 SECONDS OF SUMMER\r\n\"BLENDER\"5 SECONDS OF SUMMER\r\n\"2 Be Loved  (Am I Ready)\"LIZZO",
+    "番組内容２": "\"Talking To Yourself (Official Visual)\"CARLY RAE JEPSEN\r\n\"Beach House\"CARLY RAE JEPSEN\r\n\"The Loneliest Time\"CARLY RAE JEPSEN feat.RUFUS WAINWRIGHT"
   },
   "channel": {
     "type": "GR",
