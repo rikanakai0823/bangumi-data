@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwgx4",
+  "category": "information",
+  "title": "生活情報【内容】オメガエイド",
+  "fullTitle": "生活情報【内容】オメガエイド",
+  "detail": "【内容】オメガエイド\r\n【電話】0120-005-005",
+  "start": 1666240200000,
+  "end": 1666242000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
