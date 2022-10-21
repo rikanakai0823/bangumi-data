@@ -1,0 +1,26 @@
+{
+  "id": "idta9ss",
+  "category": "music",
+  "title": "ＢＳ演歌の花道",
+  "fullTitle": "ＢＳ演歌の花道🈞🈑",
+  "detail": "1978年の番組開始から22年にわたりレギュラー番組として放送した伝説の番組「演歌の花道」が復活！日本を代表する歌手の皆さんの熱き歌声をお届けします！",
+  "start": 1666342800000,
+  "end": 1666344600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "演歌の花道",
+  "episode": 1,
+  "flags": [
+    "再",
+    "字"
+  ]
+}
