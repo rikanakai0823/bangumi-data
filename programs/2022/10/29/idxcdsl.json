@@ -1,0 +1,23 @@
+{
+  "id": "idxcdsl",
+  "category": "music",
+  "title": "ひなフェス 2022「Juice=Juice プレミアム」",
+  "fullTitle": "ひなフェス 2022「Juice=Juice プレミアム」",
+  "detail": "ハロプロ各グループが集結したコンサート・ひなフェス2022の中からJuice=Juiceプレミアムを放送！",
+  "start": 1666981800000,
+  "end": 1666987200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_0",
+    "name": "ＢＳスカパー！",
+    "id": "8ktt",
+    "sid": 241,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 72
+  },
+  "subTitle": "Juice=Juice プレミアム",
+  "episode": 1,
+  "flags": []
+}

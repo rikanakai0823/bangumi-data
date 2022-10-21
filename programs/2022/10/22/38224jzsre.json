@@ -1,0 +1,23 @@
+{
+  "id": "38224jzsre",
+  "category": "news",
+  "title": "朝まで生テレビ！",
+  "fullTitle": "朝まで生テレビ！",
+  "detail": "1987年スタートの深夜討論番組。今月は「激論！～ジャーナリスト大集合！これでいいのか？！日本の政治～」",
+  "start": 1666369500000,
+  "end": 1666380300000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "激論！～ジャーナリスト大集合！これでいいのか？！日本の政治～",
+  "episode": 1,
+  "flags": []
+}

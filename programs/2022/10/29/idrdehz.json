@@ -1,0 +1,23 @@
+{
+  "id": "idrdehz",
+  "category": "news",
+  "title": "皇室日記　＃２５",
+  "fullTitle": "皇室日記　＃２５",
+  "detail": "米寿を迎えられた上皇后さまを特集でお伝えします。",
+  "start": 1667005200000,
+  "end": 1667006100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 25,
+  "flags": []
+}
