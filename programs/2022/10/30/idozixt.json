@@ -1,0 +1,23 @@
+{
+  "id": "idozixt",
+  "category": "sports",
+  "title": "第６４回ＮＨＫ杯ジャンプ　男女ラージヒル",
+  "fullTitle": "第６４回ＮＨＫ杯ジャンプ　男女ラージヒル",
+  "detail": "冬のシーズン幕開けとなるＮＨＫ杯。北京五輪ノーマルヒル金メダル小林陵侑がビックジャンプで連覇を目指す。現役続行を宣言した髙梨沙羅は７回目の優勝に挑む！",
+  "start": 1667106000000,
+  "end": 1667113200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 64,
+  "flags": []
+}

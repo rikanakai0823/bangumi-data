@@ -1,0 +1,26 @@
+{
+  "id": "iduc9hu",
+  "category": "cinema",
+  "title": "ハチ公物語",
+  "fullTitle": "🈙ハチ公物語🈑",
+  "detail": "渋谷駅の前で帰らぬ主人を待ち続けた忠犬ハチ公の物語を、仲代達矢、八千草薫の名優共演で映画化した感動作。「ＨＡＣＨＩ　約束の犬」としてハリウッドでリメイクされた。",
+  "start": 1667084400000,
+  "end": 1667091600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "ＨＡＣＨＩ　約束の犬",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
