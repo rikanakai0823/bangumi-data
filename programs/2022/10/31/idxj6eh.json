@@ -1,0 +1,23 @@
+{
+  "id": "idxj6eh",
+  "category": "sports",
+  "title": "This Week in WWE #717",
+  "fullTitle": "This Week in WWE #717",
+  "detail": "WWEの情報を網羅した30分番組。",
+  "start": 1667224800000,
+  "end": 1667226600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 717,
+  "flags": []
+}
