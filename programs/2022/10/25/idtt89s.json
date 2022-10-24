@@ -1,0 +1,23 @@
+{
+  "id": "idtt89s",
+  "category": "music",
+  "title": "Musical TV－サテンドールミュージカルシリーズ",
+  "fullTitle": "Musical TV－サテンドールミュージカルシリーズ",
+  "detail": "ミュージカル楽曲をライブ映像を通じて紹介する音楽番組。",
+  "start": 1666627200000,
+  "end": 1666627500000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

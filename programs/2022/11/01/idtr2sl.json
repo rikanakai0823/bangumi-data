@@ -1,0 +1,23 @@
+{
+  "id": "idtr2sl",
+  "category": "music",
+  "title": "Musical TV－石井一孝ミュージカルトレジャーズ　＃３",
+  "fullTitle": "Musical TV－石井一孝ミュージカルトレジャーズ　＃３",
+  "detail": "ミュージカル楽曲をライブ映像で紹介する音楽番組。",
+  "start": 1667232000000,
+  "end": 1667232300000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}
