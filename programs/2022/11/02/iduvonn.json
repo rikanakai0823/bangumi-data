@@ -1,0 +1,25 @@
+{
+  "id": "iduvonn",
+  "category": "cinema",
+  "title": "タイガーハンター　水滸外伝",
+  "fullTitle": "🈙タイガーハンター　水滸外伝",
+  "detail": "中国の古典「水滸伝」に登場する酒好きの豪傑・武松が、人食い虎を退治するエピソードをモチーフに映画化した武侠アクション。",
+  "start": 1667348100000,
+  "end": 1667354400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "水滸伝",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
