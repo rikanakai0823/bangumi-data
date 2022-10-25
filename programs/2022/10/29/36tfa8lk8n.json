@@ -1,12 +1,16 @@
 {
   "id": "36tfa8lk8n",
   "category": "information",
-  "title": "美腸大学",
-  "fullTitle": "美腸大学",
-  "detail": " ",
+  "title": "美腸大学　＃２",
+  "fullTitle": "美腸大学　＃２",
+  "detail": "腸にまつわるお得な情報を一挙公開！\n◇出演者\n【出演】\r\n田中律子、スギちゃん、河邑ミク",
   "start": 1667032200000,
   "end": 1667034000000,
   "seconds": 1800,
+  "description": "腸にまつわるお得な情報を一挙公開！",
+  "extra": {
+    "出演者": "【出演】\r\n田中律子、スギちゃん、河邑ミク"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -18,6 +22,6 @@
     "n": 36
   },
   "subTitle": "",
-  "episode": 1,
+  "episode": 2,
   "flags": []
 }
