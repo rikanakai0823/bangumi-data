@@ -1,0 +1,25 @@
+{
+  "id": "idwxq2p",
+  "category": "sports",
+  "title": "M's TV #152",
+  "fullTitle": "🈢M's TV #152",
+  "detail": "岩手競馬の様々な情報をお届け！回顧レース：JBC他",
+  "start": 1667476800000,
+  "end": 1667478600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 152,
+  "flags": [
+    "生"
+  ]
+}

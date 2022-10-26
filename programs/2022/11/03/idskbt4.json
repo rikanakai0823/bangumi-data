@@ -1,0 +1,25 @@
+{
+  "id": "idskbt4",
+  "category": "etc",
+  "title": "木曜ドラマ２３・帰らないおじさん",
+  "fullTitle": "🈑木曜ドラマ２３・帰らないおじさん",
+  "detail": "",
+  "start": 1667484000000,
+  "end": 1667485800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

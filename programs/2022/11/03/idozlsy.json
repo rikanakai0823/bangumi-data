@@ -1,0 +1,25 @@
+{
+  "id": "idozlsy",
+  "category": "sports",
+  "title": "第７０回全日本剣道選手権",
+  "fullTitle": "第７０回全日本剣道選手権🈑",
+  "detail": "",
+  "start": 1667448000000,
+  "end": 1667455500000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 70,
+  "flags": [
+    "字"
+  ]
+}
