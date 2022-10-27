@@ -1,0 +1,23 @@
+{
+  "id": "36rdttm8zq",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "▽テレ玉ＳＤＧｓウィーク▽美味しい山形▽グランディハウスが提案するハイグレード物件▽天気▽毎週のお楽しみ！「木曜で賞」プレゼントも！",
+  "start": 1666855800000,
+  "end": 1666857600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "木曜で賞",
+  "episode": 1,
+  "flags": []
+}
