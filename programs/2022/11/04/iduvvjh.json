@@ -1,0 +1,26 @@
+{
+  "id": "iduvvjh",
+  "category": "cinema",
+  "title": "スクールガールズ",
+  "fullTitle": "🈙🅍スクールガールズ",
+  "detail": "ゴヤ賞４冠を獲得した青春ドラマ。１９９２年のスペインを舞台に、友人との新たな経験を通じて思春期の扉を開く少女の姿を描く。",
+  "start": 1667547900000,
+  "end": 1667555100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
