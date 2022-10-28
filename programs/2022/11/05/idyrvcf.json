@@ -1,0 +1,23 @@
+{
+  "id": "idyrvcf",
+  "category": "cinema",
+  "title": "【よしもとMOVIES】ただいま！",
+  "fullTitle": "【よしもとMOVIES】ただいま！",
+  "detail": "芸人の純平はコンビ解散をきっかけに故郷へ戻るが…。",
+  "start": 1667659200000,
+  "end": 1667663100000,
+  "seconds": 3900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

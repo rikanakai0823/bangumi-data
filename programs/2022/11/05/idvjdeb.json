@@ -1,0 +1,25 @@
+{
+  "id": "idvjdeb",
+  "category": "anime",
+  "title": "TV放送版『羅小黒戦記 ぼくが選ぶ未来』＃５",
+  "fullTitle": "TV放送版『羅小黒戦記 ぼくが選ぶ未来』🈡＃５",
+  "detail": "",
+  "start": 1667574000000,
+  "end": 1667575800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": [
+    "終"
+  ]
+}
