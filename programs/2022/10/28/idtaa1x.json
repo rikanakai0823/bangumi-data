@@ -1,0 +1,23 @@
+{
+  "id": "idtaa1x",
+  "category": "documentary",
+  "title": "Ｂｅｅワールド",
+  "fullTitle": "Ｂｅｅワールド",
+  "detail": "ブルガリア篇「ブルガリアの甘露蜜」",
+  "start": 1666954440000,
+  "end": 1666954800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "ブルガリアの甘露蜜",
+  "episode": 1,
+  "flags": []
+}

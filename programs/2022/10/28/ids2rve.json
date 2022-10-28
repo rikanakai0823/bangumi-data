@@ -1,0 +1,25 @@
+{
+  "id": "ids2rve",
+  "category": "sports",
+  "title": "ワールドプロレスリングリターンズ　＃132「8.18日本武道館 G1 CLIMAX 32 Part.8」",
+  "fullTitle": "🈑ワールドプロレスリングリターンズ　＃132「8.18日本武道館 G1 CLIMAX 32 Part.8」",
+  "detail": "G1 CLIMAX 32 ファイナルトーナメント決勝戦／オカダ・カズチカ vs ウィル・オスプレイ",
+  "start": 1666954800000,
+  "end": 1666958040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "8.18日本武道館 G1 CLIMAX 32 Part.8",
+  "episode": 132,
+  "flags": [
+    "字"
+  ]
+}
