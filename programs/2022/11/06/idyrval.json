@@ -1,0 +1,23 @@
+{
+  "id": "idyrval",
+  "category": "variety",
+  "title": "THE 10ミニッツ！",
+  "fullTitle": "THE 10ミニッツ！",
+  "detail": "MCはブラマヨ・小杉と麒麟・川島。豪華メンバーが、全組10分以上の本気ネタを披露！",
+  "start": 1667723400000,
+  "end": 1667734200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
