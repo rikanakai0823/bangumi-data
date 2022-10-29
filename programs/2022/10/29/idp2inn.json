@@ -1,12 +1,12 @@
 {
-  "id": "idp2imw",
+  "id": "idp2inn",
   "category": "etc",
   "title": "（この時間帯は１０１ｃｈをご覧ください）",
   "fullTitle": "（この時間帯は１０１ｃｈをご覧ください）",
   "detail": "",
-  "start": 1667038800000,
-  "end": 1667048400000,
-  "seconds": 9600,
+  "start": 1667050740000,
+  "end": 1667050800000,
+  "seconds": 60,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
