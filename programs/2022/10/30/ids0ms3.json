@@ -1,0 +1,23 @@
+{
+  "id": "ids0ms3",
+  "category": "sports",
+  "title": "HEIWA・PGM CHAMPIONSHIP　決勝ラウンド 最終日",
+  "fullTitle": "HEIWA・PGM CHAMPIONSHIP　決勝ラウンド 最終日",
+  "detail": "3年ぶりに開催される今大会。帝王、ジャック・ニクラウスが設計した茨城県「PGM石岡ゴルフクラブ」を舞台に、男子トッププロが熱き戦いを繰り広げる。※最大延長…16:55",
+  "start": 1667102400000,
+  "end": 1667109600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "PGM石岡ゴルフクラブ",
+  "episode": 1,
+  "flags": []
+}
