@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr6pp2",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽テレ玉感謝祭ＷＥＥＫ！マチコミは「全コーナーからプレゼント企画」実施中！▽クックハンド▽おいしさまるごとマイスター▽リバーインフォメーション",
+  "start": 1667203200000,
+  "end": 1667205900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉３",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "全コーナーからプレゼント企画",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
