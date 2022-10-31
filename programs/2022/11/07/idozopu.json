@@ -1,0 +1,25 @@
+{
+  "id": "idozopu",
+  "category": "news",
+  "title": "会長ラジオ",
+  "fullTitle": "会長ラジオ🈑",
+  "detail": "日々ＮＨＫに寄せられる視聴者の声にしっかり向き合い、これからのＮＨＫについての思いを、前田会長がみなさんに伝えます。テーマは、「新しい営業」について。",
+  "start": 1667790000000,
+  "end": 1667790900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "新しい営業",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
