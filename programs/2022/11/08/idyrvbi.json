@@ -1,0 +1,23 @@
+{
+  "id": "idyrvbi",
+  "category": "information",
+  "title": "レッツゴー！まちっぷちゃん",
+  "fullTitle": "レッツゴー！まちっぷちゃん",
+  "detail": "「信越自然郷」の情報番組。地元で人気の郷土料理やお店などをリポート！",
+  "start": 1667836800000,
+  "end": 1667838600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "信越自然郷",
+  "episode": 1,
+  "flags": []
+}
