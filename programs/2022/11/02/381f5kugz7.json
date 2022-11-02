@@ -1,0 +1,25 @@
+{
+  "id": "381f5kugz7",
+  "category": "news",
+  "title": "ニュースＬＩＶＥ！ゆう５時",
+  "fullTitle": "ニュースＬＩＶＥ！ゆう５時🈑",
+  "detail": "▽死亡１５０人超・ソウル繁華街事故続報　▽自動運転の最新技術は　▽「１５０年後の国宝」東京国立博物館から中継",
+  "start": 1667376000000,
+  "end": 1667379600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "１５０年後の国宝",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
