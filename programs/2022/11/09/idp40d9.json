@@ -1,0 +1,25 @@
+{
+  "id": "idp40d9",
+  "category": "hobby",
+  "title": "美の小壺「丹後ちりめん」",
+  "fullTitle": "美の小壺「丹後ちりめん」🈑",
+  "detail": "ＢＳプレミアムの人気番組「美の壺」を、“小壺”サイズに仕立てたミニ番組。今回のテーマは「丹後ちりめん」。",
+  "start": 1667984100000,
+  "end": 1667984460000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "丹後ちりめん",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
