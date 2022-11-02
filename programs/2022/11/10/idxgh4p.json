@@ -1,0 +1,25 @@
+{
+  "id": "idxgh4p",
+  "category": "sports",
+  "title": "第18回 関東地区大学野球選手権大会 決勝",
+  "fullTitle": "[生]第18回 関東地区大学野球選手権大会 決勝",
+  "detail": "実況：中田浩光\r\n開催日：2022年11月10日\r\n球場：横浜スタジアム",
+  "start": 1668050400000,
+  "end": 1668065400000,
+  "seconds": 15000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "関東地区大学野球選手権大会 決勝",
+  "episode": 18,
+  "flags": [
+    "生"
+  ]
+}
