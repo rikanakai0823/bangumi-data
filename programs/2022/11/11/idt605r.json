@@ -1,0 +1,23 @@
+{
+  "id": "idt605r",
+  "category": "documentary",
+  "title": "Ｂｅｅワールド",
+  "fullTitle": "Ｂｅｅワールド",
+  "detail": "フランス篇「ブレンド蜂蜜」",
+  "start": 1668164040000,
+  "end": 1668164400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "ブレンド蜂蜜",
+  "episode": 1,
+  "flags": []
+}

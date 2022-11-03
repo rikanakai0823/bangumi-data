@@ -1,0 +1,23 @@
+{
+  "id": "idxj6kc",
+  "category": "sports",
+  "title": "This Week in WWE #719",
+  "fullTitle": "This Week in WWE #719",
+  "detail": "WWEの情報を網羅した30分番組。",
+  "start": 1668162600000,
+  "end": 1668164400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 719,
+  "flags": []
+}
