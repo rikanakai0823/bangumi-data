@@ -1,0 +1,25 @@
+{
+  "id": "idrfiki",
+  "category": "anime",
+  "title": "アニメ　VAZZROCK THE ANIMATION　#05",
+  "fullTitle": "アニメ　VAZZROCK THE ANIMATION🈞　#05",
+  "detail": "#05 Wonder・前",
+  "start": 1667572200000,
+  "end": 1667574000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "Wonder・前",
+  "episode": 5,
+  "flags": [
+    "再"
+  ]
+}
