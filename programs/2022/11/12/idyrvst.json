@@ -1,0 +1,23 @@
+{
+  "id": "idyrvst",
+  "category": "cinema",
+  "title": "【よしもとMOVIES】レスラーハンター",
+  "fullTitle": "【よしもとMOVIES】レスラーハンター",
+  "detail": "トータルテンボス大村監督作品。",
+  "start": 1668261600000,
+  "end": 1668263700000,
+  "seconds": 2100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

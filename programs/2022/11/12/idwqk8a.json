@@ -1,0 +1,23 @@
+{
+  "id": "idwqk8a",
+  "category": "hobby",
+  "title": "サイバーセキュリティⅡ",
+  "fullTitle": "サイバーセキュリティⅡ",
+  "detail": "「第1回　進化する情報セキュリティ」",
+  "start": 1668262500000,
+  "end": 1668265200000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "進化する情報セキュリティ",
+  "episode": 1,
+  "flags": []
+}
