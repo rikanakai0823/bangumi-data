@@ -1,0 +1,27 @@
+{
+  "id": "idugmgn",
+  "category": "cinema",
+  "title": "サムライマラソン[PG12指定]",
+  "fullTitle": "🈙サムライマラソン[PG12指定]🅍🈑",
+  "detail": "佐藤健の主演で土橋章宏の小説を映画化した、日英合作の時代劇。幕末の安中藩で行われる遠足（マラソン）大会。大混乱の中、奮闘する藩士たちの遠足大会の行方や、いかに？",
+  "start": 1668492000000,
+  "end": 1668499200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idttab4",
+  "category": "music",
+  "title": "Musical TV－石井一孝ミュージカルトレジャーズ　#５",
+  "fullTitle": "Musical TV－石井一孝ミュージカルトレジャーズ　#５",
+  "detail": "ミュージカル楽曲をライブ映像で紹介する音楽番組。",
+  "start": 1667836800000,
+  "end": 1667837100000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": []
+}
