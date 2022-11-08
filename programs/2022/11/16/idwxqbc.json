@@ -1,0 +1,23 @@
+{
+  "id": "idwxqbc",
+  "category": "sports",
+  "title": "ケイバどーも！ #197",
+  "fullTitle": "ケイバどーも！ #197",
+  "detail": "「マイルチャンピオンシップ！」",
+  "start": 1668582000000,
+  "end": 1668585600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "マイルチャンピオンシップ！",
+  "episode": 197,
+  "flags": []
+}
