@@ -1,0 +1,23 @@
+{
+  "id": "idwspjs",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「放送授業（ラジオ科目）の魅力」",
+  "start": 1668810600000,
+  "end": 1668812400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "放送授業（ラジオ科目）の魅力",
+  "episode": 1,
+  "flags": []
+}

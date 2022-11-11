@@ -1,0 +1,26 @@
+{
+  "id": "iduvs26",
+  "category": "cinema",
+  "title": "ローグ・ワン／スター・ウォーズ・ストーリー",
+  "fullTitle": "🈙🅍ローグ・ワン／スター・ウォーズ・ストーリー",
+  "detail": "【ＨＡＰＰＹ　ＢＩＲＴＨＤＡＹ！マッツ・ミケルセン特集】",
+  "start": 1668828600000,
+  "end": 1668837600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "ＨＡＰＰＹ　ＢＩＲＴＨＤＡＹ！マッツ・ミケルセン特集",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
