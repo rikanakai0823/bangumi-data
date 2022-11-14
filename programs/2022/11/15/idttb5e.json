@@ -1,0 +1,23 @@
+{
+  "id": "idttb5e",
+  "category": "music",
+  "title": "Musical TV－サテンドールミュージカルシリーズ　#2",
+  "fullTitle": "Musical TV－サテンドールミュージカルシリーズ　#2",
+  "detail": "ミュージカル楽曲をライブ映像を通じて紹介する音楽番組。",
+  "start": 1668441600000,
+  "end": 1668441900000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}

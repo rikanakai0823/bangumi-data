@@ -1,0 +1,23 @@
+{
+  "id": "idwxqfj",
+  "category": "sports",
+  "title": "ケイバどーも！ #198",
+  "fullTitle": "ケイバどーも！ #198",
+  "detail": "「ジャパンカップ！」",
+  "start": 1669122000000,
+  "end": 1669125600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "ジャパンカップ！",
+  "episode": 198,
+  "flags": []
+}
