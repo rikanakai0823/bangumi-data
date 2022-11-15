@@ -1,0 +1,23 @@
+{
+  "id": "idtvgb7",
+  "category": "music",
+  "title": "Musical TV－サテンドールミュージカルシリーズ　#3",
+  "fullTitle": "Musical TV－サテンドールミュージカルシリーズ　#3",
+  "detail": "ミュージカル楽曲をライブ映像を通じて紹介する音楽番組。",
+  "start": 1668528000000,
+  "end": 1668528300000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}
