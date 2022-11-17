@@ -1,0 +1,26 @@
+{
+  "id": "iduygyt",
+  "category": "cinema",
+  "title": "ネバーランド",
+  "fullTitle": "🈙🅍ネバーランド",
+  "detail": "児童文学の名作「ピーター・パン」が生まれるきっかけとなった劇作家とピーター少年の出会いと交流を描いたファンタジードラマ。",
+  "start": 1669383900000,
+  "end": 1669390800000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "ピーター・パン",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
