@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Kick Ass\"BRYAN ADAMS\r\n\"Don't Lie To Me (Acoustic Version)\"LENA\r\n\"life was a beach feat.CHRIS HART\"LENA\r\n\"Looking For Love\"LENA\n◇番組内容２\n\"Make You Say\"ZEDD, MAREN MORRIS & BEAUZ\r\n\"American Psycho\"MARSHMELLO, MAE MULLER, TRIPPIE REDD",
   "start": 1669042800000,
   "end": 1669044600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Kick Ass\"BRYAN ADAMS\r\n\"Don't Lie To Me (Acoustic Version)\"LENA\r\n\"life was a beach feat.CHRIS HART\"LENA\r\n\"Looking For Love\"LENA",
+    "番組内容２": "\"Make You Say\"ZEDD, MAREN MORRIS & BEAUZ\r\n\"American Psycho\"MARSHMELLO, MAE MULLER, TRIPPIE REDD"
   },
   "channel": {
     "type": "GR",
