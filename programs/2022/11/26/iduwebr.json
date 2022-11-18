@@ -1,0 +1,26 @@
+{
+  "id": "iduwebr",
+  "category": "cinema",
+  "title": "ゴッドファーザーＰＡＲＴ II【シリーズ一挙放送】",
+  "fullTitle": "🈙🅍ゴッドファーザーＰＡＲＴ II【シリーズ一挙放送】",
+  "detail": "アカデミー賞６部門に輝いた続編。二代目ドンの座に就いたマイケルの苦悩と、一大勢力を築き上げてゆく父ビトの若き日の物語。",
+  "start": 1669439700000,
+  "end": 1669453200000,
+  "seconds": 13500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "シリーズ一挙放送",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

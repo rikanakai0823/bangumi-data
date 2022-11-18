@@ -1,0 +1,23 @@
+{
+  "id": "381xj5omtk",
+  "category": "etc",
+  "title": "土曜ワイド",
+  "fullTitle": "土曜ワイド",
+  "detail": "",
+  "start": 1669440600000,
+  "end": 1669444200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 30
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

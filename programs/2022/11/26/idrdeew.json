@@ -1,0 +1,23 @@
+{
+  "id": "idrdeew",
+  "category": "cinema",
+  "title": "土曜７時の洋画館　映画「Ｇ．Ｉ．ジョー」",
+  "fullTitle": "土曜７時の洋画館　映画「Ｇ．Ｉ．ジョー」",
+  "detail": "",
+  "start": 1669456800000,
+  "end": 1669463640000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "Ｇ．Ｉ．ジョー",
+  "episode": 1,
+  "flags": []
+}
