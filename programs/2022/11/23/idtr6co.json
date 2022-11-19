@@ -3,10 +3,15 @@
   "category": "music",
   "title": "LIVE ON TV－彩凪＆天真Talk＆Live＠HANEDA",
   "fullTitle": "LIVE ON TV－彩凪＆天真Talk＆Live＠HANEDA",
-  "detail": "充実のライブエンタメを紹介する音楽番組。",
+  "detail": "充実のライブエンタメを紹介する音楽番組。\n◇番組内容\n2022年10月15日にLDH kitchen THE TOKYO HANEDAで行われたライブのダイジェスト番組。\r\nポップス、ミュージカルといった幅広い珠玉のナンバーからお届け。ライブエンタテインメントをお楽しみに！\n◇出演者\n彩凪翔、天真みちる",
   "start": 1669132800000,
   "end": 1669133100000,
   "seconds": 300,
+  "description": "充実のライブエンタメを紹介する音楽番組。",
+  "extra": {
+    "番組内容": "2022年10月15日にLDH kitchen THE TOKYO HANEDAで行われたライブのダイジェスト番組。\r\nポップス、ミュージカルといった幅広い珠玉のナンバーからお届け。ライブエンタテインメントをお楽しみに！",
+    "出演者": "彩凪翔、天真みちる"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_1",
