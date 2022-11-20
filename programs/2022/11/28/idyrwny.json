@@ -1,0 +1,23 @@
+{
+  "id": "idyrwny",
+  "category": "information",
+  "title": "よしもと INFORMATION",
+  "fullTitle": "よしもと INFORMATION",
+  "detail": "BSよしもとで放送中のおすすめ番組や、よしもとのイベント情報、そしてイチオシのミュージックビデオをご紹介！",
+  "start": 1669565400000,
+  "end": 1669566600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

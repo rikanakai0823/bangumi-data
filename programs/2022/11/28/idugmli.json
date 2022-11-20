@@ -1,0 +1,26 @@
+{
+  "id": "idugmli",
+  "category": "cinema",
+  "title": "アルプスの若大将",
+  "fullTitle": "🈙アルプスの若大将🈑",
+  "detail": "東宝名物、加山雄三主演“若大将”シリーズ第７作。アルプスに歌声が響き渡りローマやウィーンで恋の花が咲く。若大将はヨーロッパ行きを懸けた大学スキー選手権に挑む。",
+  "start": 1669611900000,
+  "end": 1669617900000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
