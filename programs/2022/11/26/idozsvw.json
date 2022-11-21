@@ -1,12 +1,12 @@
 {
   "id": "idozsvw",
-  "category": "news",
-  "title": "○○推し！",
-  "fullTitle": "○○推し！🈑",
-  "detail": "",
+  "category": "documentary",
+  "title": "四国推し！　あわとく「ふなっしー×高校生　徳島県の魅力って何だろう」",
+  "fullTitle": "四国推し！　あわとく「ふなっしー×高校生　徳島県の魅力って何だろう」🈑",
+  "detail": "「ＡＷＡラウンドテーブル」第３弾は高校生とご当地キャラクター・ふなっしーが徳島の魅力について話し合う特別編。魅力度ランキングで低迷する徳島県を救うため語り合う。",
   "start": 1669388400000,
-  "end": 1669391400000,
-  "seconds": 3000,
+  "end": 1669389900000,
+  "seconds": 1500,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 41
   },
-  "subTitle": "",
+  "subTitle": "ふなっしー×高校生　徳島県の魅力って何だろう",
   "episode": 1,
   "flags": [
     "字"
