@@ -1,0 +1,23 @@
+{
+  "id": "idxl7my",
+  "category": "sports",
+  "title": "ラグビー わんだほー！～ラグビー情報番組～ #26",
+  "fullTitle": "ラグビー わんだほー！～ラグビー情報番組～ #26",
+  "detail": "ゲスト：堀越正己",
+  "start": 1669676400000,
+  "end": 1669680000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 26,
+  "flags": []
+}
