@@ -1,0 +1,25 @@
+{
+  "id": "idtt99w",
+  "category": "sports",
+  "title": "ＢＯＡＴＲＡＣＥプレミア　SG第25回チャレンジカップ　～ドリーム戦～",
+  "fullTitle": "🈢ＢＯＡＴＲＡＣＥプレミア　SG第25回チャレンジカップ　～ドリーム戦～",
+  "detail": "グランプリをかけた最終決戦！SG第25回チャレンジカップのドリーム戦を生中継！",
+  "start": 1669100400000,
+  "end": 1669103700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 25,
+  "flags": [
+    "生"
+  ]
+}
