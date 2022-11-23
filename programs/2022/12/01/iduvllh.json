@@ -1,0 +1,25 @@
+{
+  "id": "iduvllh",
+  "category": "cinema",
+  "title": "レディ・ソルジャー",
+  "fullTitle": "🈙レディ・ソルジャー",
+  "detail": "クリステン・スチュアート主演の人間ドラマ。米軍グアンタナモ収容キャンプに勤務する新人女性兵士と、ある収容者の交流を描く。",
+  "start": 1669859100000,
+  "end": 1669867200000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

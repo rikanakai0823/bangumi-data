@@ -1,0 +1,27 @@
+{
+  "id": "iducd31",
+  "category": "cinema",
+  "title": "マイ・ダディ",
+  "fullTitle": "🈙マイ・ダディ🅍🈑",
+  "detail": "人気バイプレーヤーのムロツヨシが映画初主演を果たしたヒューマンドラマ。妻に先立たれたシングルファーザーが、白血病を発症した中学生の娘を救うため尽力する姿を綴る。",
+  "start": 1669855500000,
+  "end": 1669862700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
