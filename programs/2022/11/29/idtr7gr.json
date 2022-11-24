@@ -1,0 +1,23 @@
+{
+  "id": "idtr7gr",
+  "category": "music",
+  "title": "Musical TV－サテンドールミュージカルシリーズ　#4",
+  "fullTitle": "Musical TV－サテンドールミュージカルシリーズ　#4",
+  "detail": "ミュージカル楽曲をライブ映像を通じて紹介する音楽番組。",
+  "start": 1669651200000,
+  "end": 1669651500000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}

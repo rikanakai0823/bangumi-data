@@ -1,0 +1,25 @@
+{
+  "id": "idozzsf",
+  "category": "sports",
+  "title": "選手紹介　ワールドカップ（２）",
+  "fullTitle": "選手紹介　ワールドカップ（２）🈑",
+  "detail": "",
+  "start": 1669366920000,
+  "end": 1669366980000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}
