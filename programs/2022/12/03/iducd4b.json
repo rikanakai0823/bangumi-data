@@ -1,0 +1,26 @@
+{
+  "id": "iducd4b",
+  "category": "cinema",
+  "title": "セブン（字幕版）",
+  "fullTitle": "🈙セブン（字幕版）🅍",
+  "detail": "人気男優Ｂ・ピットが主演し、シリアル・サイコキラーの恐怖をスリリングに描写。全米で４週連続Ｎｏ．１ヒットを記録し、わが国でも大ヒットした傑作サスペンススリラー。",
+  "start": 1669993200000,
+  "end": 1670002200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

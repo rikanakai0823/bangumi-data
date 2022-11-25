@@ -1,0 +1,25 @@
+{
+  "id": "idyg9b1",
+  "category": "theater",
+  "title": "土曜ゴールデンシアター　ＮＥＷシネマ歌舞伎「三人吉三」",
+  "fullTitle": "土曜ゴールデンシアター　ＮＥＷシネマ歌舞伎「三人吉三」[SS]",
+  "detail": "",
+  "start": 1670059800000,
+  "end": 1670068800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "三人吉三",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}
