@@ -1,0 +1,23 @@
+{
+  "id": "idp1xm5",
+  "category": "news",
+  "title": "ＢＳニュース４Ｋ＋ふるさと",
+  "fullTitle": "ＢＳニュース４Ｋ＋ふるさと",
+  "detail": "全国各地で取材した「ふるさと」を感じさせるニュースやリポート、季節の映像をお届けします。また気になる「明日の天気」も詳しくお伝えします。",
+  "start": 1669387200000,
+  "end": 1669388400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
