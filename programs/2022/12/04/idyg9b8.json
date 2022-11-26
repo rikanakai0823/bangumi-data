@@ -1,0 +1,23 @@
+{
+  "id": "idyg9b8",
+  "category": "theater",
+  "title": "週末ミライシアター　TRASHMASTERS「黄色い叫び」",
+  "fullTitle": "週末ミライシアター　TRASHMASTERS「黄色い叫び」",
+  "detail": "",
+  "start": 1670081400000,
+  "end": 1670089620000,
+  "seconds": 8220,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "黄色い叫び",
+  "episode": 1,
+  "flags": []
+}
