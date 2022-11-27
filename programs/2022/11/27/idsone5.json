@@ -1,0 +1,25 @@
+{
+  "id": "idsone5",
+  "category": "cinema",
+  "title": "「ビバリーヒルズ・コップ３」【吹替】",
+  "fullTitle": "🈙「ビバリーヒルズ・コップ３」【吹替】",
+  "detail": "ジョージ・ルーカス、ジョー・ダンテら、有名監督が多数カメオ出演！巨大アミューズメントパークを舞台にしたシリーズ第３弾！！",
+  "start": 1669532400000,
+  "end": 1669539600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "吹替",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

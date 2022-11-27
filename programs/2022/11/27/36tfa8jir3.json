@@ -1,21 +1,21 @@
 {
-  "id": "36tfa8heb5",
+  "id": "36tfa8jir3",
   "category": "information",
   "title": "ＭＸショッピング",
   "fullTitle": "ＭＸショッピング",
   "detail": " ",
-  "start": 1669937400000,
-  "end": 1669940700000,
-  "seconds": 3300,
+  "start": 1669530600000,
+  "end": 1669532340000,
+  "seconds": 1740,
   "channel": {
     "type": "GR",
     "channel": "16",
     "name": "ＴＯＫＹＯ　ＭＸ１",
-    "id": "1hkhnrs",
-    "sid": 23608,
+    "id": "1hkhnrt",
+    "sid": 23609,
     "nid": 32391,
     "hasLogoData": true,
-    "n": 34
+    "n": 35
   },
   "subTitle": "",
   "episode": 1,
