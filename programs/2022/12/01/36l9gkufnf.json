@@ -3,10 +3,14 @@
   "category": "news",
   "title": "テレビ傍聴席🈐",
   "fullTitle": "テレビ傍聴席🈐",
-  "detail": "令和４年１２月定例県議会",
+  "detail": "令和４年１２月定例県議会\n◇番組内容\n立憲民主・千葉民主の会",
   "start": 1669867200000,
   "end": 1669875300000,
   "seconds": 8100,
+  "description": "令和４年１２月定例県議会",
+  "extra": {
+    "番組内容": "立憲民主・千葉民主の会"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
