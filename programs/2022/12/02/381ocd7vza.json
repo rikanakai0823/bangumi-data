@@ -1,12 +1,17 @@
 {
   "id": "381ocd7vza",
   "category": "music",
-  "title": "今週はベストアーティスト",
-  "fullTitle": "今週はベストアーティスト🈑",
-  "detail": "",
+  "title": "明日は豪華アーティストが総出演！ベストアーティスト",
+  "fullTitle": "明日は豪華アーティストが総出演！ベストアーティスト🈑",
+  "detail": "明日はベストアーティスト！全曲が話題曲▼MISIAとミッキーマウスが夢の競演▼ブラックビスケッツが20年ぶり復活▼キンプリ・NiziU・福山雅治…生出演\n◇出演者\n櫻井翔、羽鳥慎一、市來玲奈アナ\r\n\r\n当日出演アーティスト①(50音順)\r\nAdo、AKB48、STU48、A.B.C-Z、＆TEAM、KAT-TUN、Gaho、\r\n関ジャニ∞、Kis-My-Ft2、King & Prince、KinKi Kids、King Gnu、櫻坂46、THE RAMPAGE、ジェジュン、Stray Kids、SixTONES、SEKAI NO OWARI\n◇番組内容\n当日出演アーティスト②(50音順)\r\nSexy Zone、SEVENTEEN、Da-iCE、中島美嘉、なにわ男子、NiziU、乃木坂46、Perfume、THE BEAT GARDEN、日向坂46、BE:FIRST、FANTASTICS、福山雅治、ブラックビスケッツ、Hey! Say! JUMP、ポルノグラフィティ、MISIA、宮本浩次、ゆず、緑黄色社会、LE SSERAFIM",
   "start": 1669982040000,
   "end": 1669982400000,
   "seconds": 360,
+  "description": "明日はベストアーティスト！全曲が話題曲▼MISIAとミッキーマウスが夢の競演▼ブラックビスケッツが20年ぶり復活▼キンプリ・NiziU・福山雅治…生出演",
+  "extra": {
+    "出演者": "櫻井翔、羽鳥慎一、市來玲奈アナ\r\n\r\n当日出演アーティスト①(50音順)\r\nAdo、AKB48、STU48、A.B.C-Z、＆TEAM、KAT-TUN、Gaho、\r\n関ジャニ∞、Kis-My-Ft2、King & Prince、KinKi Kids、King Gnu、櫻坂46、THE RAMPAGE、ジェジュン、Stray Kids、SixTONES、SEKAI NO OWARI",
+    "番組内容": "当日出演アーティスト②(50音順)\r\nSexy Zone、SEVENTEEN、Da-iCE、中島美嘉、なにわ男子、NiziU、乃木坂46、Perfume、THE BEAT GARDEN、日向坂46、BE:FIRST、FANTASTICS、福山雅治、ブラックビスケッツ、Hey! Say! JUMP、ポルノグラフィティ、MISIA、宮本浩次、ゆず、緑黄色社会、LE SSERAFIM"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
