@@ -1,12 +1,16 @@
 {
   "id": "36tfa8heu1",
   "category": "news",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
-  "detail": " ",
+  "title": "都議会の焦点",
+  "fullTitle": "都議会の焦点",
+  "detail": "「令和４年第４回定例会」\n◇出演者\n【解説】大屋雄裕（慶應義塾大学 教授）\r\n【司会】二階堂絵美",
   "start": 1670319000000,
   "end": 1670320800000,
   "seconds": 1800,
+  "description": "「令和４年第４回定例会」",
+  "extra": {
+    "出演者": "【解説】大屋雄裕（慶應義塾大学 教授）\r\n【司会】二階堂絵美\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "令和４年第４回定例会",
+  "episode": 4,
   "flags": []
 }
