@@ -1,0 +1,25 @@
+{
+  "id": "idvjeg0",
+  "category": "anime",
+  "title": "「艦これ」いつかあの海で＃３",
+  "fullTitle": "「艦これ」いつかあの海で🈞＃３",
+  "detail": "",
+  "start": 1670513400000,
+  "end": 1670515200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "再"
+  ]
+}

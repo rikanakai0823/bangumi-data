@@ -1,0 +1,25 @@
+{
+  "id": "idrdf2d",
+  "category": "variety",
+  "title": "アニメ　VAZZROCK THE ANIMATION　#10",
+  "fullTitle": "アニメ　VAZZROCK THE ANIMATION🈞　#10",
+  "detail": "#10 Lucida・後",
+  "start": 1670596200000,
+  "end": 1670598000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "Lucida・後",
+  "episode": 10,
+  "flags": [
+    "再"
+  ]
+}
