@@ -1,0 +1,25 @@
+{
+  "id": "ids2syw",
+  "category": "hobby",
+  "title": "カーグラフィックＴＶ　「カーオブザイヤー」",
+  "fullTitle": "🈑カーグラフィックＴＶ　「カーオブザイヤー」",
+  "detail": "今年の1台を決める“クルマの賞典”テン・ベスト・試乗会！日本カー・オブ・ザ・イヤーが創設されたのは1980年。",
+  "start": 1669899600000,
+  "end": 1669901400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "カーオブザイヤー",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
