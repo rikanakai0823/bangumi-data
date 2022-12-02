@@ -1,0 +1,25 @@
+{
+  "id": "idxifwe",
+  "category": "sports",
+  "title": "第74回全日本大学バスケットボール選手権 男子準決勝",
+  "fullTitle": "[生]第74回全日本大学バスケットボール選手権 男子準決勝",
+  "detail": "■準決勝-1\r\n■準決勝-2",
+  "start": 1670651700000,
+  "end": 1670666400000,
+  "seconds": 14700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 74,
+  "flags": [
+    "生"
+  ]
+}
