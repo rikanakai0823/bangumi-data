@@ -1,0 +1,23 @@
+{
+  "id": "idsmijq",
+  "category": "information",
+  "title": "ＢＳ－ＴＢＳ　ショッピングＬＩＶＥ！",
+  "fullTitle": "ＢＳ－ＴＢＳ　ショッピングＬＩＶＥ！",
+  "detail": "大ヒットアイテムを生放送で紹介する話題のショッピング番組。年末大セール！大人気ブランドの美容ローラー＆太ももに挟むことでスタイルアップが目指せる振動マシンが登場",
+  "start": 1670040000000,
+  "end": 1670047200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
