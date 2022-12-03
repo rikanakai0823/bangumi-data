@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8hfgv",
+  "category": "news",
+  "title": "ＭＸ　ｎｅｗｓ　ＦＬＡＧ",
+  "fullTitle": "ＭＸ　ｎｅｗｓ　ＦＬＡＧ",
+  "detail": "東京の、各地のニュース・天気情報など詳しくお伝えします。\n◇出演者      \n【キャスター】伊藤洋平、山崎彩紗",
+  "start": 1670749200000,
+  "end": 1670751000000,
+  "seconds": 1800,
+  "description": "東京の、各地のニュース・天気情報など詳しくお伝えします。",
+  "extra": {
+    "出演者      ": "【キャスター】伊藤洋平、山崎彩紗"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3826py6f9o",
+  "category": "information",
+  "title": "テレ東オススメ",
+  "fullTitle": "テレ東オススメ",
+  "detail": "テレ東のオススメ番組をご紹介します！",
+  "start": 1670089200000,
+  "end": 1670089500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
