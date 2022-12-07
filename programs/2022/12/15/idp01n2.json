@@ -1,0 +1,23 @@
+{
+  "id": "idp01n2",
+  "category": "news",
+  "title": "国際報道２０２２",
+  "fullTitle": "国際報道２０２２",
+  "detail": "【キャスター】油井秀樹，角谷直也，酒井美帆",
+  "start": 1671109200000,
+  "end": 1671111600000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "キャスター",
+  "episode": 1,
+  "flags": []
+}

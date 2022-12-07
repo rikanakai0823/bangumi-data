@@ -1,0 +1,26 @@
+{
+  "id": "iducdd1",
+  "category": "cinema",
+  "title": "江ノ島プリズム",
+  "fullTitle": "🈙江ノ島プリズム🈑",
+  "detail": "福士蒼汰と野村周平、本田翼共演のＳＦ青春ファンタジー。時間移動＝タイムリープができる不思議な時計を手に入れた青年が、親友が亡くなった過去を変えるため奔走する。",
+  "start": 1671045300000,
+  "end": 1671051600000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
