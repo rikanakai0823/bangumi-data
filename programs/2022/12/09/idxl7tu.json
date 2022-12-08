@@ -2,7 +2,7 @@
   "id": "idxl7tu",
   "category": "sports",
   "title": "J SPORTS HOOP!2022 ～学生バスケ情報番組～ #11",
-  "fullTitle": "J SPORTS HOOP!2022 ～学生バスケ情報番組～ #11",
+  "fullTitle": "[解]J SPORTS HOOP!2022 ～学生バスケ情報番組～ #11",
   "detail": "ウインターカップやインターハイ、大学バスケなど学生バスケットボール情報をお届けする「J SPORTS HOOP！」",
   "start": 1670567400000,
   "end": 1670569200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "J SPORTS HOOP！",
   "episode": 11,
-  "flags": []
+  "flags": [
+    "解"
+  ]
 }
