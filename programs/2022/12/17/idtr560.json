@@ -1,0 +1,25 @@
+{
+  "id": "idtr560",
+  "category": "sports",
+  "title": "ＢＯＡＴＲＡＣＥプレミア　ＳＧ　第37回グランプリ　～トライアル2nd　3日目～",
+  "fullTitle": "🈢ＢＯＡＴＲＡＣＥプレミア　ＳＧ　第37回グランプリ　～トライアル2nd　3日目～",
+  "detail": "ボートレース界最高峰の戦い！SG第37回グランプリを生中継！",
+  "start": 1671274800000,
+  "end": 1671278100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 37,
+  "flags": [
+    "生"
+  ]
+}

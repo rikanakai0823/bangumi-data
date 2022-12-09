@@ -1,0 +1,23 @@
+{
+  "id": "idwql1s",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「２０２３年４月入学生募集」",
+  "start": 1671243300000,
+  "end": 1671245100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "２０２３年４月入学生募集",
+  "episode": 1,
+  "flags": []
+}
