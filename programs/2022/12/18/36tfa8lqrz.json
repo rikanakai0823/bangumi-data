@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8lqrz",
+  "category": "cinema",
+  "title": "映画『ターミナル』",
+  "fullTitle": "映画『ターミナル』🈔",
+  "detail": " ",
+  "start": 1671355800000,
+  "end": 1671363600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
