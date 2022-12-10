@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "サンド伊達のコロッケあがってます",
   "fullTitle": "サンド伊達のコロッケあがってます",
-  "detail": "",
+  "detail": "◇制作\n2022年",
   "start": 1671274800000,
   "end": 1671278040000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2022年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
