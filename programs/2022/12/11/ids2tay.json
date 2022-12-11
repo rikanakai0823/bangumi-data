@@ -1,0 +1,23 @@
+{
+  "id": "ids2tay",
+  "category": "music",
+  "title": "暦に集う　「芋煮会」",
+  "fullTitle": "暦に集う　「芋煮会」",
+  "detail": "11月下旬の日曜日、茨城県・常陸大宮市の河川敷に巨大な鍋が設置され、調理が始まりました。集っているのは、地元の食材。「芋煮会」です。今年は4年ぶりの開催でした。",
+  "start": 1670759640000,
+  "end": 1670760000000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "芋煮会",
+  "episode": 1,
+  "flags": []
+}
