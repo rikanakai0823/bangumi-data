@@ -1,15 +1,16 @@
 {
   "id": "3826py4any",
   "category": "anime",
-  "title": "Ｌａｒｖａ",
-  "fullTitle": "Ｌａｒｖａ",
-  "detail": "コミカルな2匹のかわいくて笑える虫がお送りする。ノンバーバル物語\r\n世界中で大人気のキャラクターLarva（ラーバ）と愉快な仲間達のお話\n◇ホームページ\nhttps://www.tv-tokyo.co.jp/anime/larva/",
+  "title": "Ｌａｒｖａ「コンサート」",
+  "fullTitle": "Ｌａｒｖａ「コンサート」",
+  "detail": "コミカルな2匹のかわいくて笑える虫がお送りする。ノンバーバル物語\r\n世界中で大人気のキャラクターLarva（ラーバ）と愉快な仲間達のお話\n◇ホームページ\nhttps://www.tv-tokyo.co.jp/anime/larva/\n◇番組内容\n２匹の芋虫レッドとイエロー。\r\n２匹は下水道の中でエレクトーンを見つける。\r\nそして始まるコンサート。\r\nその最中、突然割り込む大きな...",
   "start": 1671227640000,
   "end": 1671228000000,
   "seconds": 360,
   "description": "コミカルな2匹のかわいくて笑える虫がお送りする。ノンバーバル物語\r\n世界中で大人気のキャラクターLarva（ラーバ）と愉快な仲間達のお話",
   "extra": {
-    "ホームページ": "https://www.tv-tokyo.co.jp/anime/larva/"
+    "ホームページ": "https://www.tv-tokyo.co.jp/anime/larva/",
+    "番組内容": "２匹の芋虫レッドとイエロー。\r\n２匹は下水道の中でエレクトーンを見つける。\r\nそして始まるコンサート。\r\nその最中、突然割り込む大きな..."
   },
   "channel": {
     "type": "GR",
@@ -21,7 +22,7 @@
     "hasLogoData": true,
     "n": 27
   },
-  "subTitle": "",
+  "subTitle": "コンサート",
   "episode": 1,
   "flags": []
 }
