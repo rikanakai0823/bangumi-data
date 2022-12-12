@@ -1,0 +1,27 @@
+{
+  "id": "38224jvi1x",
+  "category": "music",
+  "title": "テレビ朝日ドリームフェスティバル２０２２",
+  "fullTitle": "テレビ朝日ドリームフェスティバル２０２２",
+  "detail": "毎年豪華アーティストが出演する「テレビ朝日ドリームフェスティバル」！\n◇◇おしらせ\n☆『テレビ朝日ドリームフェスティバル』公式ＨＰ\r\n　http://dreamfestival.jp/",
+  "start": 1671472800000,
+  "end": 1671476400000,
+  "seconds": 3600,
+  "description": "毎年豪華アーティストが出演する「テレビ朝日ドリームフェスティバル」！",
+  "extra": {
+    "◇おしらせ": "☆『テレビ朝日ドリームフェスティバル』公式ＨＰ\r\n　http://dreamfestival.jp/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "テレビ朝日ドリームフェスティバル",
+  "episode": 1,
+  "flags": []
+}
