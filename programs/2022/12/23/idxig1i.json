@@ -1,0 +1,25 @@
+{
+  "id": "idxig1i",
+  "category": "sports",
+  "title": "高校バスケ ウインターカップ2022(Cコート)男子1回戦",
+  "fullTitle": "[生]高校バスケ ウインターカップ2022(Cコート)男子1回戦",
+  "detail": "■#3 羽黒×メリノール学院\r\n■#7 長崎工業×國學院久我山",
+  "start": 1671777300000,
+  "end": 1671791400000,
+  "seconds": 14100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "羽黒×メリノール学院",
+  "episode": 3,
+  "flags": [
+    "生"
+  ]
+}
