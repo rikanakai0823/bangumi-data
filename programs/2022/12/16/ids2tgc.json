@@ -1,0 +1,23 @@
+{
+  "id": "ids2tgc",
+  "category": "sports",
+  "title": "BOAT RACEプレミア　SG第37回グランプリ～トライアル2nd 2日目～",
+  "fullTitle": "BOAT RACEプレミア　SG第37回グランプリ～トライアル2nd 2日目～",
+  "detail": "「4日目・トライアル2nd2日目」～BOAT RACE大村",
+  "start": 1671188400000,
+  "end": 1671191640000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "4日目・トライアル2nd2日目",
+  "episode": 37,
+  "flags": []
+}
