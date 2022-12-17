@@ -1,0 +1,23 @@
+{
+  "id": "idsoog9",
+  "category": "music",
+  "title": "Ｓｏｕｎｄ　Ｉｎｎ“Ｓ”クリスマススペシャル",
+  "fullTitle": "Ｓｏｕｎｄ　Ｉｎｎ“Ｓ”クリスマススペシャル",
+  "detail": "１２月は毎年恒例クリスマススペシャル。野口五郎、松崎しげる、森山良子、八神純子（五十音順）と豪華メンバーでお送りします。",
+  "start": 1671271200000,
+  "end": 1671274800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
