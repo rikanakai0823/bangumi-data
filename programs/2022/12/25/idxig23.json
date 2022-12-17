@@ -1,0 +1,25 @@
+{
+  "id": "idxig23",
+  "category": "sports",
+  "title": "ドキュメンタリー The REAL 【サーフィン特集】～氷の波を求める 双子の兄弟～",
+  "fullTitle": "[初]ドキュメンタリー The REAL 【サーフィン特集】～氷の波を求める 双子の兄弟～",
+  "detail": "凍った海の中で波を求める双子の兄弟。",
+  "start": 1671931800000,
+  "end": 1671935400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "サーフィン特集",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}
