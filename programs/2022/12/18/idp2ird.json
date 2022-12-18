@@ -1,0 +1,23 @@
+{
+  "id": "idp2ird",
+  "category": "sports",
+  "title": "第７７回甲子園ボウル「関西学院大」対「早稲田大」",
+  "fullTitle": "第７７回甲子園ボウル「関西学院大」対「早稲田大」",
+  "detail": "大学アメリカンフットボール日本一を決める甲子園ボウル。５連覇を狙う関西学院大と、初優勝を目指す早稲田大が対戦。",
+  "start": 1671346800000,
+  "end": 1671347820000,
+  "seconds": 1020,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "早稲田大",
+  "episode": 77,
+  "flags": []
+}
