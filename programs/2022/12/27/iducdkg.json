@@ -1,0 +1,26 @@
+{
+  "id": "iducdkg",
+  "category": "cinema",
+  "title": "遠き落日",
+  "fullTitle": "🈙遠き落日🈑",
+  "detail": "貧しい農家に生まれ育ち、苦学を積み重ねた末、細菌学の世界的な権威となった野口英世。彼の波乱に満ちた生涯を、母親シカとの固い絆を主軸に綴った感動の伝記映画。",
+  "start": 1672066800000,
+  "end": 1672074000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
