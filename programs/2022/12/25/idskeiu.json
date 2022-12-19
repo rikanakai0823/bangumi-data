@@ -1,9 +1,9 @@
 {
   "id": "idskeiu",
-  "category": "etc",
-  "title": "京都はんなり紀行",
-  "fullTitle": "🈑京都はんなり紀行",
-  "detail": "",
+  "category": "documentary",
+  "title": "京都はんなり紀行「里山」",
+  "fullTitle": "🈑京都はんなり紀行「里山」",
+  "detail": "歴史・文化・伝統と魅力あふれる街、京都。番組では毎回テーマを決め「知っている京都、知らない京都」を案内します。第１３回のテーマは「里山」。",
   "start": 1671915600000,
   "end": 1671917400000,
   "seconds": 1800,
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 51
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "里山",
+  "episode": 13,
   "flags": [
     "字"
   ]
