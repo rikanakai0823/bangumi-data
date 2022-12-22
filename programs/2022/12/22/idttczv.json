@@ -1,0 +1,25 @@
+{
+  "id": "idttczv",
+  "category": "sports",
+  "title": "２０２２有馬記念  公開枠順抽選会",
+  "fullTitle": "🈢２０２２有馬記念  公開枠順抽選会",
+  "detail": "師走恒例のGⅠレース・有馬記念の公開枠順抽選会を生放送に加え、ライブ配信でお届け！さらにSPゲストとして長澤まさみ・佐々木蔵之介が登場！",
+  "start": 1671696000000,
+  "end": 1671701400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
