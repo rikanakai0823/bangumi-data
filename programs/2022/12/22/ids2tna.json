@@ -1,0 +1,25 @@
+{
+  "id": "ids2tna",
+  "category": "hobby",
+  "title": "カーグラフィックＴＶ　「WRC特集」",
+  "fullTitle": "🈑カーグラフィックＴＶ　「WRC特集」",
+  "detail": "12年ぶりの日本開催！50回目のシーズンを迎え、トップカテゴリーはハイブリッドマシーンで争われるようになった世界ラリー選手権。最終戦は日本の「ラリー・ジャパン」。",
+  "start": 1671714000000,
+  "end": 1671715800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "WRC特集",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
