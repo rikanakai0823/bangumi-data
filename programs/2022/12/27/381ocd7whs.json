@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "見取り図×ニューヨークのなりたいテレビ",
   "fullTitle": "見取り図×ニューヨークのなりたいテレビ🈑",
-  "detail": "",
+  "detail": "◇出演者\n【ＭＣ】見取り図、ニューヨーク\r\n【ゲスト】王林",
   "start": 1672153140000,
   "end": 1672156440000,
   "seconds": 3300,
+  "description": "",
+  "extra": {
+    "出演者": "【ＭＣ】見取り図、ニューヨーク\r\n【ゲスト】王林"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
