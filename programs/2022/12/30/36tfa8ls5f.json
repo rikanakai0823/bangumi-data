@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ls5f",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「白鳥特別」「第１６回東京シンデレラマイル（ＳⅢ）」「乃木坂賞」",
+  "start": 1672381800000,
+  "end": 1672390800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 16,
+  "flags": []
+}

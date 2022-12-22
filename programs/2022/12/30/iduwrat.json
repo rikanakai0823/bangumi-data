@@ -1,0 +1,26 @@
+{
+  "id": "iduwrat",
+  "category": "cinema",
+  "title": "ゴーストバスターズ／アフターライフ",
+  "fullTitle": "🈙🅍ゴーストバスターズ／アフターライフ",
+  "detail": "【年末年始スペシャル：メガヒット映画４０作品一挙放送！】",
+  "start": 1672393500000,
+  "end": 1672401600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "年末年始スペシャル：メガヒット映画４０作品一挙放送！",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
