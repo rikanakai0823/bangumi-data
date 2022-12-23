@@ -1,0 +1,25 @@
+{
+  "id": "idx1ant",
+  "category": "anime",
+  "title": "特:僕のヒーローアカデミア アニメオリジナル",
+  "fullTitle": "特:🈑僕のヒーローアカデミア アニメオリジナル",
+  "detail": "★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★\r\n『僕のヒーローアカデミア』アニメオリジナルエピ…",
+  "start": 1672462800000,
+  "end": 1672473600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "ANIME GRAND SLAM！(グランドスラム)",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

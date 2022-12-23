@@ -1,0 +1,25 @@
+{
+  "id": "idx1ano",
+  "category": "anime",
+  "title": "特:銀魂 THE FINAL",
+  "fullTitle": "特:🈙銀魂 THE FINAL",
+  "detail": "★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★\r\n地球滅亡のカウントダウンが迫る中、かつての盟友…",
+  "start": 1672426500000,
+  "end": 1672434000000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "ANIME GRAND SLAM！(グランドスラム)",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

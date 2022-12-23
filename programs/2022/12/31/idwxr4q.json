@@ -1,0 +1,25 @@
+{
+  "id": "idwxr4q",
+  "category": "sports",
+  "title": "ザ・馬券DUEL一挙放送#1～15",
+  "fullTitle": "ザ・馬券DUEL一挙放送#1～15🈑",
+  "detail": "ザ・馬券DUELの＃１～１５までを一挙に放送",
+  "start": 1672448400000,
+  "end": 1672475400000,
+  "seconds": 27000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

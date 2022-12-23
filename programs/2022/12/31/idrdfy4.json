@@ -1,0 +1,23 @@
+{
+  "id": "idrdfy4",
+  "category": "news",
+  "title": "皇室日記　＃２７",
+  "fullTitle": "皇室日記　＃２７",
+  "detail": "１２月に誕生日を迎えられた皇室の皆さまのご様子をお伝えします。",
+  "start": 1672448400000,
+  "end": 1672449300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 27,
+  "flags": []
+}
