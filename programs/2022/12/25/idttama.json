@@ -1,0 +1,23 @@
+{
+  "id": "idttama",
+  "category": "music",
+  "title": "＜MUSIC:S＞FUJI-YAMA MID-NIGHT-FISHING　＃25",
+  "fullTitle": "＜MUSIC:S＞FUJI-YAMA MID-NIGHT-FISHING　＃25",
+  "detail": "藤原ヒロシとサカナクション山口一郎による\r\n番組「FUJI-YAMA」第25弾！",
+  "start": 1671897600000,
+  "end": 1671900900000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 25,
+  "flags": []
+}
