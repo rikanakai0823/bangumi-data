@@ -1,0 +1,23 @@
+{
+  "id": "idyryke",
+  "category": "theater",
+  "title": "吉本劇場 本公演中継 新年スペシャル！～なんばグランド花月＆祇園花月～",
+  "fullTitle": "吉本劇場 本公演中継 新年スペシャル！～なんばグランド花月＆祇園花月～",
+  "detail": "なんばグランド花月とよしもと祇園花月で収録した寄席の模様をご覧いただけます！\r\nどうぞお楽しみに！",
+  "start": 1672653600000,
+  "end": 1672660800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
