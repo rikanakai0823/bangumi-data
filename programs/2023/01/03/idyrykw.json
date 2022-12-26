@@ -1,0 +1,23 @@
+{
+  "id": "idyrykw",
+  "category": "theater",
+  "title": "BSよしもと新春落語の会",
+  "fullTitle": "BSよしもと新春落語の会",
+  "detail": "ＢＳよしもとに出演している落語家たちが、寄席に登場！お客様と一体となった寄席独特の空気を、是非お茶の間でお楽しみください。\r\n",
+  "start": 1672740000000,
+  "end": 1672747200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idozmaq",
+  "category": "documentary",
+  "title": "駅ピアノ　２５ｍｉｎ．「神戸」",
+  "fullTitle": "駅ピアノ　２５ｍｉｎ．「神戸」🈑🈞",
+  "detail": "港街、神戸のベッドタウンにある西神中央駅。構内に閉園した幼稚園から譲り受けたグランドピアノが置かれ、人々が自由に音を紡いでいく。どんな思いで曲を弾くのか。",
+  "start": 1672680600000,
+  "end": 1672682100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "神戸",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
