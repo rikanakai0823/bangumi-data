@@ -1,0 +1,23 @@
+{
+  "id": "ids2tus",
+  "category": "sports",
+  "title": "高校バスケ SoftBank ウインターカップ2022　女子決勝　京都精華学園×札幌山の手",
+  "fullTitle": "高校バスケ SoftBank ウインターカップ2022　女子決勝　京都精華学園×札幌山の手",
+  "detail": "高校バスケ、冬の祭典。未来の日本女子バスケットボール界を担う若き才能がしのぎを削る！各都道府県の代表60チームの頂点に輝くのは!?女子決勝を生中継 ※最大延長…14:25",
+  "start": 1672196400000,
+  "end": 1672203600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
