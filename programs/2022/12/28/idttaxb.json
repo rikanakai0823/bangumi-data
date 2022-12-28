@@ -1,0 +1,23 @@
+{
+  "id": "idttaxb",
+  "category": "music",
+  "title": "シティポップカレンダー’81",
+  "fullTitle": "シティポップカレンダー’81",
+  "detail": "シティポップが広く浸透しはじめた1981年をカレンダー形式で深堀りする音楽番組！1981年にいったい何が起きたのか？",
+  "start": 1672228800000,
+  "end": 1672235700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
