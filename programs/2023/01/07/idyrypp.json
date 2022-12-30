@@ -1,0 +1,23 @@
+{
+  "id": "idyrypp",
+  "category": "cinema",
+  "title": "【よしもとMOVIES】桜と印籠",
+  "fullTitle": "【よしもとMOVIES】桜と印籠",
+  "detail": "クリエーター大宮エリー監督。",
+  "start": 1673031600000,
+  "end": 1673034000000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

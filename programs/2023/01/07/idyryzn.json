@@ -1,0 +1,23 @@
+{
+  "id": "idyryzn",
+  "category": "variety",
+  "title": "新番組",
+  "fullTitle": "新番組",
+  "detail": "新番組",
+  "start": 1673100900000,
+  "end": 1673103600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

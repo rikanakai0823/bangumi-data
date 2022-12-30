@@ -1,0 +1,23 @@
+{
+  "id": "idyryz3",
+  "category": "variety",
+  "title": "墨田区広報番組「ウィークリーすみだ」特別号",
+  "fullTitle": "墨田区広報番組「ウィークリーすみだ」特別号",
+  "detail": "墨田区広報番組の新春特別号をＢＳよしもととの特別コラボでお届け！",
+  "start": 1673048700000,
+  "end": 1673049600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "ウィークリーすみだ",
+  "episode": 1,
+  "flags": []
+}
