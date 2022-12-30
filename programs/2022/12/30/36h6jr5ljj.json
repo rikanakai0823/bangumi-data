@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr5ljj",
+  "category": "information",
+  "title": "埼玉ケーブルテレビスペシャル",
+  "fullTitle": "埼玉ケーブルテレビスペシャル",
+  "detail": "本庄ケーブルテレビ「本庄発！！鉄道情報局」",
+  "start": 1672389900000,
+  "end": 1672390800000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉３",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "本庄発！！鉄道情報局",
+  "episode": 1,
+  "flags": []
+}
