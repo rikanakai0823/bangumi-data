@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwnps",
+  "category": "hobby",
+  "title": "ヤツルギステーション！",
+  "fullTitle": "ヤツルギステーション！🈡",
+  "detail": " ",
+  "start": 1672439400000,
+  "end": 1672441200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "終"
+  ]
+}
