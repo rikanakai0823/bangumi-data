@@ -1,0 +1,23 @@
+{
+  "id": "idryjuf",
+  "category": "music",
+  "title": "暦に集う　「巨大朝市」",
+  "fullTitle": "暦に集う　「巨大朝市」",
+  "detail": "青森県八戸市では、毎週日曜日の早朝、巨大な朝市が出現します。館鼻岸壁（たてはながんぺき）朝市、およそ三百の店が集います。寒さに負けない、熱い朝市です。",
+  "start": 1673178840000,
+  "end": 1673179200000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "巨大朝市",
+  "episode": 1,
+  "flags": []
+}

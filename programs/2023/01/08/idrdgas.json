@@ -1,0 +1,27 @@
+{
+  "id": "idrdgas",
+  "category": "information",
+  "title": "汐留ＴＶ！～こちら、汐テレ★さきどり女子部～",
+  "fullTitle": "汐留ＴＶ！～こちら、汐テレ★さきどり女子部～",
+  "detail": "◇ホームページ\nhttps://www.bs4.jp/shiotere/",
+  "start": 1673186040000,
+  "end": 1673186400000,
+  "seconds": 360,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://www.bs4.jp/shiotere/"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
