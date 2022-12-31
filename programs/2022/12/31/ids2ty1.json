@@ -1,0 +1,23 @@
+{
+  "id": "ids2ty1",
+  "category": "sports",
+  "title": "WCTジャパン ニューイヤーカーリング in 御代田",
+  "fullTitle": "WCTジャパン ニューイヤーカーリング in 御代田",
+  "detail": "日本女子カーリングチームのさらなる強化を目的とし、海外から有力チームを招致。国内外のトップチームが集結する注目の大会。その記念すべき第1回大会を2日連続放送！",
+  "start": 1672462800000,
+  "end": 1672469640000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
