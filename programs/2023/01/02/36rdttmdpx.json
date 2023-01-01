@@ -5,8 +5,8 @@
   "fullTitle": "川崎競馬中継",
   "detail": "川崎競馬場からレースの模様を生中継！",
   "start": 1672639200000,
-  "end": 1672650000000,
-  "seconds": 10800,
+  "end": 1672648200000,
+  "seconds": 9000,
   "channel": {
     "type": "GR",
     "channel": "31",
