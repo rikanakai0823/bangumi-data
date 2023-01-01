@@ -1,0 +1,23 @@
+{
+  "id": "idt622o",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "【中山】10Ｒ迎春Ｓ、\r\n　　　　11ＲフェアリーＳ（ＧⅢ）\r\n【中京】10Ｒ雅Ｓ、11Ｒ淀短距離Ｓ（Ｌ）",
+  "start": 1673244000000,
+  "end": 1673247600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
