@@ -1,0 +1,25 @@
+{
+  "id": "idx1at9",
+  "category": "anime",
+  "title": "ウマ娘 プリティーダービー #3",
+  "fullTitle": "🈑ウマ娘 プリティーダービー #3",
+  "detail": "第３Ｒ「初めての大一番」\r\nこれは異世界から受け継いだ輝かしい名前と競走能力を持つ“ウマ娘”が遠い昔から人類と共存…",
+  "start": 1673326800000,
+  "end": 1673328600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "初めての大一番",
+  "episode": 3,
+  "flags": [
+    "字"
+  ]
+}
