@@ -1,12 +1,18 @@
 {
   "id": "36tfa8hjcn",
   "category": "variety",
-  "title": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ",
-  "fullTitle": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ",
-  "detail": " ",
+  "title": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ　＃４３",
+  "fullTitle": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ　＃４３",
+  "detail": "今回お送りするのは、２０２３年２月２３日に有明アリーナで開催されるビッグイベント「ＤＲＥＡＭ　ＭＡＴＣＨ」出演予定の豪華ゲストを迎えて徹底的に深堀り！\n◇番組内容\n今回お送りするのは、2023年2月23日に有明アリーナで開催されるビッグイベント「DREAM MATCH」の徹底深堀りスペシャル！\r\nゲームフェス・音楽ライブ・お笑いコンテストが楽しめるイベント内容を、出演予定の豪華ゲストを迎えて徹底的に深堀します！\n◇出演者\n【番組MC】\r\nELLY（三代目 J SOUL BROTHERS from EXILE TRIBE）、AKI、西村歩乃果（タレント）\n◇お知らせ\n番組連動のプロゲーミングチームGHS Professional始動！\r\nhttps://e-elements.jp/campaign/GHS_pro/",
   "start": 1673282100000,
   "end": 1673283900000,
   "seconds": 1800,
+  "description": "今回お送りするのは、２０２３年２月２３日に有明アリーナで開催されるビッグイベント「ＤＲＥＡＭ　ＭＡＴＣＨ」出演予定の豪華ゲストを迎えて徹底的に深堀り！",
+  "extra": {
+    "番組内容": "今回お送りするのは、2023年2月23日に有明アリーナで開催されるビッグイベント「DREAM MATCH」の徹底深堀りスペシャル！\r\nゲームフェス・音楽ライブ・お笑いコンテストが楽しめるイベント内容を、出演予定の豪華ゲストを迎えて徹底的に深堀します！",
+    "出演者": "【番組MC】\r\nELLY（三代目 J SOUL BROTHERS from EXILE TRIBE）、AKI、西村歩乃果（タレント）",
+    "お知らせ": "番組連動のプロゲーミングチームGHS Professional始動！\r\nhttps://e-elements.jp/campaign/GHS_pro/"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "ＤＲＥＡＭ　ＭＡＴＣＨ",
+  "episode": 43,
   "flags": []
 }
