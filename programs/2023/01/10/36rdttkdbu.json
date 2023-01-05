@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Never Gonna Not Dance Again\"PINK\r\n\"Wishful Drinking\"INGRID ANDRESS & SUM HUNT\r\n\"Turn Back The Hands Of Time\"BRUCE SPRINGSTEEN\n◇番組内容２\n\"SUNSHINE\"steve lacy\r\n\"Under The Influence\"CHRIS BROWN\r\n\"Music For The Sushi Restrant\"HARRY STYLES\r\n\"Simply The Best\"BLACK EYED PEAS",
   "start": 1673276400000,
   "end": 1673278200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Never Gonna Not Dance Again\"PINK\r\n\"Wishful Drinking\"INGRID ANDRESS & SUM HUNT\r\n\"Turn Back The Hands Of Time\"BRUCE SPRINGSTEEN",
+    "番組内容２": "\"SUNSHINE\"steve lacy\r\n\"Under The Influence\"CHRIS BROWN\r\n\"Music For The Sushi Restrant\"HARRY STYLES\r\n\"Simply The Best\"BLACK EYED PEAS"
   },
   "channel": {
     "type": "GR",

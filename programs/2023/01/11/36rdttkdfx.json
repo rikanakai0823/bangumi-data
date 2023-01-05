@@ -1,12 +1,18 @@
 {
   "id": "36rdttkdfx",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "title": "洋楽天国＋▽プレイリスト２０２２　その１",
+  "fullTitle": "洋楽天国＋▽プレイリスト２０２２　その１",
+  "detail": "洋楽天国＋が選ぶ２０２２年のプレイリスト！\n◇番組内容\n２０２２年に洋楽天国＋で紹介したアーティストから印象深いミュージックビデオを厳選！その１ではインタビューを紹介したアーティストのミュージックビデオを紹介！\n◇選曲１\n\"Getting Better\"NEW HOPE CLUB\r\n\"Talking To Myself\"THE LINDA LINDAS\r\n\"Disaster\"CONAN GRAY\r\n\"Scarlett\"HOLLY HUMBERSTONE\n◇選曲２\n\"cough drops\"almost monday\r\n\"Always Be There\"JONAS BLUE & LOUISA JOHNSON\r\n\"Don't Feel Like Feeling Sad Today\"YUNGBLUD\r\n\"The Loneliest Time \"CARLY RAE JEPSEN feat.RUFUS WAINWRIGHT",
   "start": 1673406000000,
   "end": 1673407800000,
   "seconds": 1800,
+  "description": "洋楽天国＋が選ぶ２０２２年のプレイリスト！",
+  "extra": {
+    "番組内容": "２０２２年に洋楽天国＋で紹介したアーティストから印象深いミュージックビデオを厳選！その１ではインタビューを紹介したアーティストのミュージックビデオを紹介！",
+    "選曲１": "\"Getting Better\"NEW HOPE CLUB\r\n\"Talking To Myself\"THE LINDA LINDAS\r\n\"Disaster\"CONAN GRAY\r\n\"Scarlett\"HOLLY HUMBERSTONE",
+    "選曲２": "\"cough drops\"almost monday\r\n\"Always Be There\"JONAS BLUE & LOUISA JOHNSON\r\n\"Don't Feel Like Feeling Sad Today\"YUNGBLUD\r\n\"The Loneliest Time \"CARLY RAE JEPSEN feat.RUFUS WAINWRIGHT"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
