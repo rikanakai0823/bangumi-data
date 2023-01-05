@@ -1,0 +1,26 @@
+{
+  "id": "iduwnwa",
+  "category": "cinema",
+  "title": "ブラッド・ブレイド",
+  "fullTitle": "🈙🅍ブラッド・ブレイド",
+  "detail": "シッチェス国際映画祭などで話題を呼んだサバイバルアクション。謎のウイルスから生き延びた最強戦士たちとゾンビの戦いを描く。",
+  "start": 1673591400000,
+  "end": 1673598000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
