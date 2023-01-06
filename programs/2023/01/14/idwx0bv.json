@@ -1,0 +1,23 @@
+{
+  "id": "idwx0bv",
+  "category": "sports",
+  "title": "今週の調教 #730",
+  "fullTitle": "今週の調教 #730",
+  "detail": "「日経新春杯、京成杯、愛知杯他」",
+  "start": 1673625600000,
+  "end": 1673629200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "日経新春杯、京成杯、愛知杯他",
+  "episode": 730,
+  "flags": []
+}

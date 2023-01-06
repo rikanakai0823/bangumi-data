@@ -1,0 +1,25 @@
+{
+  "id": "idxigcg",
+  "category": "sports",
+  "title": "Bリーグ ALL-STAR GAME 2023 B.BLACK×B.WHITE(1/14)",
+  "fullTitle": "[生]Bリーグ ALL-STAR GAME 2023 B.BLACK×B.WHITE(1/14)",
+  "detail": "B.BLACK×B.WHITE\r\n\r\n開催日：2023年1月14日\r\n会場：アダストリアみとアリーナ",
+  "start": 1673686800000,
+  "end": 1673701200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
