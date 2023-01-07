@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "月刊プロ野球！さまぁ～ずスタジアム",
   "fullTitle": "月刊プロ野球！さまぁ～ずスタジアム",
-  "detail": "",
+  "detail": "◇ホームページ\nhttps://www.bs4.jp/summers/",
   "start": 1673701200000,
   "end": 1673704440000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://www.bs4.jp/summers/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",
