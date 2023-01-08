@@ -1,0 +1,23 @@
+{
+  "id": "idymzna",
+  "category": "sports",
+  "title": "PGAハイライト in Hawaii　＃２",
+  "fullTitle": "PGAハイライト in Hawaii　＃２",
+  "detail": "2日間にわたって放送した中継映像をメインMC・ゲストを交えながらお送りします。",
+  "start": 1673870400000,
+  "end": 1673872200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}
