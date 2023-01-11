@@ -1,0 +1,23 @@
+{
+  "id": "iduel4v",
+  "category": "sports",
+  "title": "リーガダイジェスト！　第１７節",
+  "fullTitle": "リーガダイジェスト！　第１７節",
+  "detail": "サッカーファン必見のラ・リーガ情報番組。週末開催の全試合全ゴールに加えて、貴重な選手インタビューやオリジナル企画など、これを見ればリーガがもっと楽しくなる！",
+  "start": 1674082800000,
+  "end": 1674085800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

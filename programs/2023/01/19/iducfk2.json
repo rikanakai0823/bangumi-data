@@ -1,0 +1,26 @@
+{
+  "id": "iducfk2",
+  "category": "cinema",
+  "title": "阿弥陀堂だより",
+  "fullTitle": "🈙阿弥陀堂だより🈑",
+  "detail": "東京から信州に移り住んだ１組の夫婦が、美しい自然と村の人々の生活に触れて心癒されていく様子を、四季折々の風景を織り込みながら、丹念にじっくりと綴った感動ドラマ。",
+  "start": 1674093000000,
+  "end": 1674100800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
