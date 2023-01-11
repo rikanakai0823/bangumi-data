@@ -3,10 +3,14 @@
   "category": "hobby",
   "title": "魔法のワンプレート",
   "fullTitle": "魔法のワンプレート",
-  "detail": "",
+  "detail": "◇制作\nワイズプロジェクト",
   "start": 1673852100000,
   "end": 1673852400000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "制作": "ワイズプロジェクト"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

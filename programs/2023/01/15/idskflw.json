@@ -3,10 +3,14 @@
   "category": "information",
   "title": "噂の！東京マガジン",
   "fullTitle": "噂の！東京マガジン",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1673755200000,
   "end": 1673758440000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
