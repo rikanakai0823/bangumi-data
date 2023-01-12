@@ -1,0 +1,25 @@
+{
+  "id": "idxeagl",
+  "category": "sports",
+  "title": "スキー＆スノーボード日本代表番組 SNOW JAPAN TV 2022/23 #9",
+  "fullTitle": "[初]スキー＆スノーボード日本代表番組 SNOW JAPAN TV 2022/23 #9",
+  "detail": "SNOW JAPANが活躍するFISワールドカップのハイライトを中心に、選手情報など様々なトピックを扱う15分番組。",
+  "start": 1674223200000,
+  "end": 1674224100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 9,
+  "flags": [
+    "初"
+  ]
+}
