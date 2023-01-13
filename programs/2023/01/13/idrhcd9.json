@@ -1,0 +1,23 @@
+{
+  "id": "idrhcd9",
+  "category": "etc",
+  "title": "コーポレートファイル　ＳＤＧｓ特別編",
+  "fullTitle": "コーポレートファイル　ＳＤＧｓ特別編",
+  "detail": "「ＢＳ日テレ SDGsWEEK」の実施にあわせて、毎週土曜22時54分から放送中の番組「コーポレートファイル」のSDGs特別編を放送します。",
+  "start": 1673610840000,
+  "end": 1673611200000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
