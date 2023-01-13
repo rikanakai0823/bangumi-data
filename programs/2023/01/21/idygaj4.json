@@ -1,0 +1,23 @@
+{
+  "id": "idygaj4",
+  "category": "theater",
+  "title": "土曜ゴールデンシアター　歌舞伎「上州土産百両首」",
+  "fullTitle": "土曜ゴールデンシアター　歌舞伎「上州土産百両首」",
+  "detail": "",
+  "start": 1674294300000,
+  "end": 1674302400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "上州土産百両首",
+  "episode": 1,
+  "flags": []
+}
