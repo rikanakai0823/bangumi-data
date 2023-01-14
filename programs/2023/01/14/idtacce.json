@@ -1,0 +1,23 @@
+{
+  "id": "idtacce",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10ＲアレキサンドライトＳ、11ＲカーバンクルＳ\r\n【中京】10Ｒ遠江Ｓ、11Ｒ愛知杯(ＧⅢ)\r\n【小倉】11Ｒ壇之浦Ｓ",
+  "start": 1673674200000,
+  "end": 1673679600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
