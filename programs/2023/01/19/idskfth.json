@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "和心百景",
   "fullTitle": "🈑🈖和心百景",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1674132840000,
   "end": 1674133200000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
