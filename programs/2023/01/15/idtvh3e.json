@@ -1,0 +1,25 @@
+{
+  "id": "idtvh3e",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　日経新春杯（GⅡ）京成杯（GⅢ）",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　日経新春杯（GⅡ）京成杯（GⅢ）",
+  "detail": "日経新春杯（GⅡ）京成杯（GⅢ）門司ステークス／ゲスト：山本昌（元プロ野球選手）解説：横山英二（競馬エイト）／2023年も毎週放送！",
+  "start": 1673762400000,
+  "end": 1673766000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
