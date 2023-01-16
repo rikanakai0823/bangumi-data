@@ -1,0 +1,25 @@
+{
+  "id": "idygalq",
+  "category": "cinema",
+  "title": "よる８銀座シネマ　ナイト・オン・ザ・プラネット（字幕版）",
+  "fullTitle": "よる８銀座シネマ　ナイト・オン・ザ・プラネット（字幕版）🈑",
+  "detail": "5つの都市におけるタクシー運転手と乗客の人間模様。ノーカット放送。",
+  "start": 1674558000000,
+  "end": 1674567000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
