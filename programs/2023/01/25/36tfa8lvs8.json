@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lvs8",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「サルビア特別」「第２６回ＴＣＫ女王盃（ＪｐｎⅢ）」「初富士賞」",
+  "start": 1674627600000,
+  "end": 1674635400000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 26,
+  "flags": []
+}

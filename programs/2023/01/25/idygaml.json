@@ -1,0 +1,25 @@
+{
+  "id": "idygaml",
+  "category": "cinema",
+  "title": "よる８銀座シネマ　アラビアの女王 愛と宿命の日々（字幕版）",
+  "fullTitle": "よる８銀座シネマ　アラビアの女王 愛と宿命の日々（字幕版）🈑",
+  "detail": "Ｎ・キッドマン主演・女性版『アラビアのロレンス』！ノーカット放送。",
+  "start": 1674644400000,
+  "end": 1674653400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
