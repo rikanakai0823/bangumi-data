@@ -1,0 +1,23 @@
+{
+  "id": "iduel6w",
+  "category": "theater",
+  "title": "宝塚プルミエール　花組「うたかたの恋」",
+  "fullTitle": "宝塚プルミエール　花組「うたかたの恋」",
+  "detail": "",
+  "start": 1674759600000,
+  "end": 1674761400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "うたかたの恋",
+  "episode": 1,
+  "flags": []
+}
