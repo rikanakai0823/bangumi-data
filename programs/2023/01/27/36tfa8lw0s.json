@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「おおいぬ座特別」「睦月賞」「新助坂賞」",
+  "detail": "「おおいぬ座特別」「睦月賞」「新助坂賞」\n◇出演者\n【MC】\r\n飯野詩帆\r\n【解説】\r\n《9R～12R》藤田裕之（ケイシュウNEWS）",
   "start": 1674800400000,
   "end": 1674808200000,
   "seconds": 7800,
+  "description": "「おおいぬ座特別」「睦月賞」「新助坂賞」",
+  "extra": {
+    "出演者": "【MC】\r\n飯野詩帆\r\n【解説】\r\n《9R～12R》藤田裕之（ケイシュウNEWS）"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
