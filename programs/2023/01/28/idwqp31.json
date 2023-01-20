@@ -1,0 +1,23 @@
+{
+  "id": "idwqp31",
+  "category": "hobby",
+  "title": "特別番組",
+  "fullTitle": "特別番組",
+  "detail": "「データサイエンス　番組活用ガイド2022」",
+  "start": 1674899100000,
+  "end": 1674900900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "データサイエンス　番組活用ガイド2022",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idrykhc",
+  "category": "sports",
+  "title": "サンキュー！バッセン",
+  "fullTitle": "🈑サンキュー！バッセン",
+  "detail": "昭和から続く、野球人たちの社交の場「バッティングセンター」。野球人たちは親しみを込めて「バッセン」と呼ぶ。個性豊かなバッセンをティモンディの二人が訪れる！",
+  "start": 1674916200000,
+  "end": 1674918000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
