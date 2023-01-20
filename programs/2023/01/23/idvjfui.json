@@ -3,10 +3,16 @@
   "category": "anime",
   "title": "アイドリッシュセブン Vibrato　Ep5-6",
   "fullTitle": "アイドリッシュセブン Vibrato　Ep5-6",
-  "detail": "「PARTY TIME TOGETHER」",
+  "detail": "◇今回の番組内容\n「PARTY TIME TOGETHER」\r\n明日はIDOLiSH7メンバー全員がオフ。ナギは皆で何かをしようと瞳を輝かせるが、結論は持ち越しになる。翌日、一織と環を学校へ送り出して一息ついた頃、休日をどう過ごすのか話し合うが、予定はなかなか決まらない…。\n◇番組内容\nスピンオフシリーズ「アイドリッシュセブン Vibrato」TV初放送！\n◇おしらせ\nBS11公式WEBサイトでは、みなさまからのメッセージを受け付け、公開しております。番組への率直ご意見やご感想など、どしどしお寄せ下さい。お待ちしております！\r\nhttps://www.bs11.jp/anime/idolish7-vibrato/",
   "start": 1674399600000,
   "end": 1674401400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "今回の番組内容": "「PARTY TIME TOGETHER」\r\n明日はIDOLiSH7メンバー全員がオフ。ナギは皆で何かをしようと瞳を輝かせるが、結論は持ち越しになる。翌日、一織と環を学校へ送り出して一息ついた頃、休日をどう過ごすのか話し合うが、予定はなかなか決まらない…。",
+    "番組内容": "スピンオフシリーズ「アイドリッシュセブン Vibrato」TV初放送！",
+    "おしらせ": "BS11公式WEBサイトでは、みなさまからのメッセージを受け付け、公開しております。番組への率直ご意見やご感想など、どしどしお寄せ下さい。お待ちしております！\r\nhttps://www.bs11.jp/anime/idolish7-vibrato/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS09_0",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 66
   },
-  "subTitle": "PARTY TIME TOGETHER",
+  "subTitle": "",
   "episode": 1,
   "flags": []
 }
