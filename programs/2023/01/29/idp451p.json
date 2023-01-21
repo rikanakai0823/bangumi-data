@@ -1,0 +1,25 @@
+{
+  "id": "idp451p",
+  "category": "documentary",
+  "title": "グレートネイチャー　５ｍｉｎ．",
+  "fullTitle": "グレートネイチャー　５ｍｉｎ．🈑",
+  "detail": "",
+  "start": 1674939600000,
+  "end": 1674939900000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
