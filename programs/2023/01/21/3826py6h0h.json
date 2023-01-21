@@ -1,0 +1,23 @@
+{
+  "id": "3826py6h0h",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ東雲賞、11Ｒ初富士Ｓ\r\n【中京】10Ｒ若駒Ｓ（Ｌ）、11Ｒ睦月Ｓ\r\n【小倉】11Ｒ小倉城特別",
+  "start": 1674280800000,
+  "end": 1674284400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
