@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8jqh0",
+  "category": "information",
+  "title": "ウマ飯！",
+  "fullTitle": "ウマ飯！",
+  "detail": "お子様ランチ＆焼きうどん",
+  "start": 1674417600000,
+  "end": 1674418500000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
