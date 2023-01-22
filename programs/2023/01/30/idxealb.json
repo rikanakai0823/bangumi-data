@@ -1,0 +1,26 @@
+{
+  "id": "idxealb",
+  "category": "sports",
+  "title": "ラグビー わんだほー！～ラグビー情報番組～ #33",
+  "fullTitle": "[無料][初]ラグビー わんだほー！～ラグビー情報番組～ #33",
+  "detail": "コメンテーター：村上晃一、谷口廣明\r\nＭＣ：浅野杏奈",
+  "start": 1675083600000,
+  "end": 1675086900000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 33,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

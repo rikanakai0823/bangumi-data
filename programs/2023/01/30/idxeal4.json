@@ -1,0 +1,25 @@
+{
+  "id": "idxeal4",
+  "category": "sports",
+  "title": "結束！侍ジャパン #92",
+  "fullTitle": "[初]結束！侍ジャパン #92",
+  "detail": "昨年の各世代の侍ジャパンのワールドカップ振り返りと、WBCメンバー発表をお届け！",
+  "start": 1675071000000,
+  "end": 1675072800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 92,
+  "flags": [
+    "初"
+  ]
+}

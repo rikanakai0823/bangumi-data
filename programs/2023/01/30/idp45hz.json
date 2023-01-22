@@ -1,0 +1,23 @@
+{
+  "id": "idp45hz",
+  "category": "documentary",
+  "title": "ハイビジョン動物記「ヨダレカケ」",
+  "fullTitle": "ハイビジョン動物記「ヨダレカケ」",
+  "detail": "",
+  "start": 1675020000000,
+  "end": 1675020600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "ヨダレカケ",
+  "episode": 1,
+  "flags": []
+}
