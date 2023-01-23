@@ -2,11 +2,15 @@
   "id": "36tfa8hlg8",
   "category": "variety",
   "title": "神激に会ってみませんか！？",
-  "fullTitle": "神激に会ってみませんか！？",
-  "detail": " ",
+  "fullTitle": "🈟神激に会ってみませんか！？",
+  "detail": "神使轟く、激情の如く。が遂に地上波初レギュラーで登場！ゲストにＲａｙｃｈｅｌｌを迎え豪華布陣でお送りします。\n◇出演者\n【出演】\r\n神使轟く、激情のごく。／COWCOW善し／Raychell",
   "start": 1674579900000,
   "end": 1674581640000,
   "seconds": 1740,
+  "description": "神使轟く、激情の如く。が遂に地上波初レギュラーで登場！ゲストにＲａｙｃｈｅｌｌを迎え豪華布陣でお送りします。",
+  "extra": {
+    "出演者": "【出演】\r\n神使轟く、激情のごく。／COWCOW善し／Raychell"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "新"
+  ]
 }
