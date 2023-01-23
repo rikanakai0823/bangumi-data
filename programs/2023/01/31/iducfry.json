@@ -1,0 +1,26 @@
+{
+  "id": "iducfry",
+  "category": "cinema",
+  "title": "パレード",
+  "fullTitle": "🈙パレード🈑",
+  "detail": "人気作家・吉田修一の同名作を映画化。マンションの一室で共同生活を送る若者らを主人公に、彼らの日常がいつしかゆがんでいく様を藤原竜也、香里奈ら豪華キャストで描く。",
+  "start": 1675145700000,
+  "end": 1675152900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
