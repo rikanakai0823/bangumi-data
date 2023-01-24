@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwpr6",
+  "category": "information",
+  "title": "生活情報【内容】ロコモア／オメガエイド",
+  "fullTitle": "生活情報【内容】ロコモア／オメガエイド",
+  "detail": "【内容】ロコモア／オメガエイド\r\n【電話】0120-215-215\r\n",
+  "start": 1674558000000,
+  "end": 1674559800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
