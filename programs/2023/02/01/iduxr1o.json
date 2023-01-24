@@ -1,0 +1,25 @@
+{
+  "id": "iduxr1o",
+  "category": "cinema",
+  "title": "ストレンジャー・ザン・パラダイス",
+  "fullTitle": "🈙ストレンジャー・ザン・パラダイス",
+  "detail": "ジム・ジャームッシュ監督のロードムービー。ハンガリーから移住したギャンブラーが、従妹の少女、友人と共に旅をする",
+  "start": 1675228800000,
+  "end": 1675234800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

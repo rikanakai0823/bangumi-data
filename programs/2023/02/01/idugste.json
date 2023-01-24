@@ -1,0 +1,27 @@
+{
+  "id": "idugste",
+  "category": "cinema",
+  "title": "ホームレス中学生",
+  "fullTitle": "🈙ホームレス中学生🅍🈑",
+  "detail": "人気お笑いコンビ麒麟の田村裕が、少年時代の体験を描いた大ベストセラーを映画化。小池徹平を主演に、ホームレス生活を余儀なくされた少年がたくましく生きる姿を綴った。",
+  "start": 1675252800000,
+  "end": 1675260000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
