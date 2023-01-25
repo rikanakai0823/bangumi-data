@@ -1,0 +1,23 @@
+{
+  "id": "idp00bt",
+  "category": "documentary",
+  "title": "ＢＳ１特集",
+  "fullTitle": "ＢＳ１特集",
+  "detail": "",
+  "start": 1675342200000,
+  "end": 1675342500000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
