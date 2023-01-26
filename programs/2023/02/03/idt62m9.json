@@ -1,0 +1,23 @@
+{
+  "id": "idt62m9",
+  "category": "documentary",
+  "title": "Ｂｅｅワールド",
+  "fullTitle": "Ｂｅｅワールド",
+  "detail": "ニュージーランド篇「タワリ蜂蜜」",
+  "start": 1675414560000,
+  "end": 1675414800000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "タワリ蜂蜜",
+  "episode": 1,
+  "flags": []
+}
