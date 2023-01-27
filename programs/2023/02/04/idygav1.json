@@ -1,0 +1,26 @@
+{
+  "id": "idygav1",
+  "category": "theater",
+  "title": "落語「文七元結」／シネマ歌舞伎「人情噺 文七元結」",
+  "fullTitle": "🈞落語「文七元結」／シネマ歌舞伎「人情噺 文七元結」[SS]",
+  "detail": "土曜ゴールデンシアター傑作選！\r\n\r\n落語「文七元結」／シネマ歌舞伎「人情噺 文七元結」\r\n\r\nシネマ歌舞伎「人情噺 文七元結」のみ、5.1chでお送りします。",
+  "start": 1675479600000,
+  "end": 1675488600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "人情噺 文七元結",
+  "episode": 1,
+  "flags": [
+    "SS",
+    "再"
+  ]
+}
