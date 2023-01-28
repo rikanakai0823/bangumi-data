@@ -1,0 +1,23 @@
+{
+  "id": "idp482z",
+  "category": "theater",
+  "title": "プレミアムステージ",
+  "fullTitle": "プレミアムステージ",
+  "detail": "",
+  "start": 1675606800000,
+  "end": 1675623600000,
+  "seconds": 16800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

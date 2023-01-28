@@ -1,0 +1,23 @@
+{
+  "id": "idp4a25",
+  "category": "music",
+  "title": "さわやかウインドー「雪の大地　十勝平野」",
+  "fullTitle": "さわやかウインドー「雪の大地　十勝平野」",
+  "detail": "",
+  "start": 1675540800000,
+  "end": 1675542600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "雪の大地　十勝平野",
+  "episode": 1,
+  "flags": []
+}
