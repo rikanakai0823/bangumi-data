@@ -1,0 +1,25 @@
+{
+  "id": "idp48vd",
+  "category": "documentary",
+  "title": "ＮＨＫ特集「樹氷誕生」",
+  "fullTitle": "ＮＨＫ特集「樹氷誕生」🈑",
+  "detail": "蔵王連峰に林立する樹氷は、アイスモンスターとも呼ばれ、世界にも珍しい氷の造形である。樹氷はどうして出来るのか。夜、吹雪の中で誕生する樹氷のメカニズムを追う。",
+  "start": 1675761000000,
+  "end": 1675764000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "樹氷誕生",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

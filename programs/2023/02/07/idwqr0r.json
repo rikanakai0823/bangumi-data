@@ -1,0 +1,23 @@
+{
+  "id": "idwqr0r",
+  "category": "hobby",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "「放送休止」",
+  "start": 1675696500000,
+  "end": 1675698300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "放送休止",
+  "episode": 1,
+  "flags": []
+}
