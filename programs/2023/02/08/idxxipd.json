@@ -1,0 +1,23 @@
+{
+  "id": "idxxipd",
+  "category": "etc",
+  "title": "試験放送",
+  "fullTitle": "試験放送",
+  "detail": "試験放送",
+  "start": 1675785600000,
+  "end": 1675807200000,
+  "seconds": 21600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
