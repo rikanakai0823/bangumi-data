@@ -1,0 +1,25 @@
+{
+  "id": "iduchsh",
+  "category": "variety",
+  "title": "オンデマンドＮＡＶＩ　いつでもどこでもＷＯＷＯＷ　＃２０",
+  "fullTitle": "🈚オンデマンドＮＡＶＩ　いつでもどこでもＷＯＷＯＷ　＃２０",
+  "detail": "ＷＯＷＯＷオンデマンドのおすすめ番組や活用方法を、ＷＯＷＯＷアナウンサーが月ごとに紹介する宣伝番組。",
+  "start": 1675946400000,
+  "end": 1675947600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 20,
+  "flags": [
+    "無"
+  ]
+}
