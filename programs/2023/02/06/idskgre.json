@@ -3,10 +3,14 @@
   "category": "hobby",
   "title": "住まいの参観日",
   "fullTitle": "住まいの参観日",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1675684440000,
   "end": 1675684800000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
