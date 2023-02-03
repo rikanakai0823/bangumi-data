@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwqn6",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜東京１１Ｒ　東京新聞杯（ＧⅢ）　他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜東京１１Ｒ　東京新聞杯（ＧⅢ）　他",
+  "detail": "日曜東京11R　東京新聞杯（GⅢ）　日曜中京11R　きさらぎ賞（GⅢ）　土曜東京11R　早春ステークス　土曜中京11R　アルデバランステークス",
+  "start": 1675425600000,
+  "end": 1675427400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

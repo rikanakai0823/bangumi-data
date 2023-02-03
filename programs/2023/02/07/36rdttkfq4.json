@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Is It Any Wonder\"FLAWES\r\n\"Miss You\"OLIVER TREE & ROBIN SCHULZ\r\n\"LOVE YOU BETTER\"FUTURE\r\n\"Heyy\"LIL BABY\n◇番組内容２\n\"Lionheart (Fearless)\"JOEL CORRY & TOM GRENNAN\r\n\"Betty (Get Money)\"YUNG GRAVY\r\n\"Can We Pretend That We're Good?\"DANIEL SEAVEY\r\n\"2nd Time Around\"TUXEDO",
   "start": 1675695600000,
   "end": 1675697400000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Is It Any Wonder\"FLAWES\r\n\"Miss You\"OLIVER TREE & ROBIN SCHULZ\r\n\"LOVE YOU BETTER\"FUTURE\r\n\"Heyy\"LIL BABY",
+    "番組内容２": "\"Lionheart (Fearless)\"JOEL CORRY & TOM GRENNAN\r\n\"Betty (Get Money)\"YUNG GRAVY\r\n\"Can We Pretend That We're Good?\"DANIEL SEAVEY\r\n\"2nd Time Around\"TUXEDO"
   },
   "channel": {
     "type": "GR",
