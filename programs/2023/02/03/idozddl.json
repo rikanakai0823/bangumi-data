@@ -1,0 +1,26 @@
+{
+  "id": "idozddl",
+  "category": "sports",
+  "title": "スポヂカラ！　１０ｍｉｎ",
+  "fullTitle": "スポヂカラ！　１０ｍｉｎ🈑🈞",
+  "detail": "ロンブー淳がＭＣを務める「スポヂカラ」を１０分間に凝縮！Ｂリーグ１部秋田ノーザンハピネッツにはファンの間で親しまれている、ある歌があった。感動の秘話！",
+  "start": 1675410600000,
+  "end": 1675411200000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "スポヂカラ",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
