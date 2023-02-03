@@ -1,0 +1,23 @@
+{
+  "id": "idp00ek",
+  "category": "sports",
+  "title": "ジャンプ女子ワールドカップ２０２２－２３",
+  "fullTitle": "ジャンプ女子ワールドカップ２０２２－２３",
+  "detail": "",
+  "start": 1676102400000,
+  "end": 1676106000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

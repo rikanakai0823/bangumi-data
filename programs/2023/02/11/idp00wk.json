@@ -1,0 +1,23 @@
+{
+  "id": "idp00wk",
+  "category": "sports",
+  "title": "アルペン世界選手権２０２３「女子滑降」",
+  "fullTitle": "アルペン世界選手権２０２３「女子滑降」",
+  "detail": "【解説】山川純子，【アナウンサー】松野靖彦　～フランス・メリベル～",
+  "start": 1676127000000,
+  "end": 1676134200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "女子滑降",
+  "episode": 1,
+  "flags": []
+}

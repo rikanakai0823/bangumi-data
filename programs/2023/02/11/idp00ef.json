@@ -1,0 +1,25 @@
+{
+  "id": "idp00ef",
+  "category": "sports",
+  "title": "Ｂリーグ２０２２－２３「秋田ノーザンハピネッツ」対「仙台８９ＥＲＳ」",
+  "fullTitle": "Ｂリーグ２０２２－２３「秋田ノーザンハピネッツ」対「仙台８９ＥＲＳ」🈑",
+  "detail": "　（試合開始　２：０７）　～ＣＮＡアリーナ☆あきたから中継～",
+  "start": 1676091600000,
+  "end": 1676098800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "仙台８９ＥＲＳ",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
