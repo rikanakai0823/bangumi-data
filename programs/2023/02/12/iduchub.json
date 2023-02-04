@@ -1,0 +1,27 @@
+{
+  "id": "iduchub",
+  "category": "cinema",
+  "title": "パディントン（吹替版）",
+  "fullTitle": "🈙パディントン（吹替版）🅍🈑",
+  "detail": "Ｍ・ボンドの名作児童小説を実写映画化したファミリーコメディ。南米ペルーからやって来た言葉を話すクマのパディントンが、大都会ロンドンで大騒動を巻き起こす。",
+  "start": 1676144700000,
+  "end": 1676151000000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

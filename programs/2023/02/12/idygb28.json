@@ -1,0 +1,25 @@
+{
+  "id": "idygb28",
+  "category": "variety",
+  "title": "Show_Tik　＃４",
+  "fullTitle": "🈞Show_Tik　＃４",
+  "detail": "松竹芸能所属芸人が繰り広げるネタ番組",
+  "start": 1676210160000,
+  "end": 1676210400000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": [
+    "再"
+  ]
+}
