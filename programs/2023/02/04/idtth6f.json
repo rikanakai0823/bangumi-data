@@ -1,0 +1,23 @@
+{
+  "id": "idtth6f",
+  "category": "information",
+  "title": "バルコスＴＶショッピング",
+  "fullTitle": "バルコスＴＶショッピング",
+  "detail": "",
+  "start": 1675468800000,
+  "end": 1675470600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
