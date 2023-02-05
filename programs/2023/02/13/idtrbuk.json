@@ -1,0 +1,23 @@
+{
+  "id": "idtrbuk",
+  "category": "information",
+  "title": "リモートシェフ",
+  "fullTitle": "リモートシェフ",
+  "detail": "料理の腕前ではなく、伝える力を競う新時代の料理番組！トップシェフ達は言葉による指示だけでどんな料理を完成させるのか！？",
+  "start": 1676224800000,
+  "end": 1676228100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

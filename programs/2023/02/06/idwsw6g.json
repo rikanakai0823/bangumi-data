@@ -1,0 +1,23 @@
+{
+  "id": "idwsw6g",
+  "category": "hobby",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "「放送休止」",
+  "start": 1675620000000,
+  "end": 1675622700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｏｎ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "放送休止",
+  "episode": 1,
+  "flags": []
+}
