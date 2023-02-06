@@ -1,0 +1,23 @@
+{
+  "id": "iduenhp",
+  "category": "sports",
+  "title": "リーガダイジェスト！　第２１節",
+  "fullTitle": "リーガダイジェスト！　第２１節",
+  "detail": "",
+  "start": 1676327400000,
+  "end": 1676330100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

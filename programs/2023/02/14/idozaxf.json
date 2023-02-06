@@ -1,0 +1,23 @@
+{
+  "id": "idozaxf",
+  "category": "sports",
+  "title": "アルペン世界選手権２０２３「団体」",
+  "fullTitle": "アルペン世界選手権２０２３「団体」",
+  "detail": "【解説】吉岡大輔，清澤恵美子，【アナウンサー】横山哲也　～フランス・メリベルから中継～",
+  "start": 1676372400000,
+  "end": 1676379600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "団体",
+  "episode": 1,
+  "flags": []
+}

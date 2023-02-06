@@ -1,0 +1,23 @@
+{
+  "id": "idxgia7",
+  "category": "sports",
+  "title": "サッカーニュースFoot！MONDAY(2/13)",
+  "fullTitle": "サッカーニュースFoot！MONDAY(2/13)",
+  "detail": "週末の国内外のサッカー情報をレビュー。",
+  "start": 1676306700000,
+  "end": 1676309400000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
