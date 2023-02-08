@@ -1,0 +1,26 @@
+{
+  "id": "iduvih8",
+  "category": "cinema",
+  "title": "アリス・イン・ワンダーランド",
+  "fullTitle": "🈙🅍アリス・イン・ワンダーランド",
+  "detail": "ルイス・キャロルのファンタジー小説を、ティム・バートン監督とジョニー・デップ主演で映画化したファンタジーアドベンチャー。",
+  "start": 1676512800000,
+  "end": 1676520000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
