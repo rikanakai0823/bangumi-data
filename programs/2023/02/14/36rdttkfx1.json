@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Nonsense\"SABRINA CARPENTER\r\n\"Tell Somebody\"YOUNG FATHERS\r\n\"There’d Better Be A Mirrorball\"ARCTIC MONKEYS\r\n\"Body Paint\"ARCTIC MONKEYS\r\n\"I Ain't Quite Where I Think I Am\"ARCTIC MONKEYS\n◇番組内容２\n\"Gimme\"SAM SMITH feat.KOFFEE & JESSIE REYEZ\r\n\"Flowers\"MILEY CYRUS",
   "start": 1676300400000,
   "end": 1676302200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Nonsense\"SABRINA CARPENTER\r\n\"Tell Somebody\"YOUNG FATHERS\r\n\"There’d Better Be A Mirrorball\"ARCTIC MONKEYS\r\n\"Body Paint\"ARCTIC MONKEYS\r\n\"I Ain't Quite Where I Think I Am\"ARCTIC MONKEYS",
+    "番組内容２": "\"Gimme\"SAM SMITH feat.KOFFEE & JESSIE REYEZ\r\n\"Flowers\"MILEY CYRUS"
   },
   "channel": {
     "type": "GR",
