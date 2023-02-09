@@ -1,0 +1,23 @@
+{
+  "id": "idt631j",
+  "category": "documentary",
+  "title": "Ｂｅｅワールド",
+  "fullTitle": "Ｂｅｅワールド",
+  "detail": "ニュージーランド篇「カヌカ蜂蜜」",
+  "start": 1676631240000,
+  "end": 1676631600000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "カヌカ蜂蜜",
+  "episode": 1,
+  "flags": []
+}

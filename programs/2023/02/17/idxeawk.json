@@ -1,0 +1,23 @@
+{
+  "id": "idxeawk",
+  "category": "sports",
+  "title": "ドキュメンタリー The REAL (2/12)",
+  "fullTitle": "ドキュメンタリー The REAL (2/12)",
+  "detail": "J SPORTSオリジナルのドキュメンタリー番組や、世界のスポーツドキュメンタリーからJ SPORTSがセレクトして紹介する「ドキュメンタリー ～The REAL～」。",
+  "start": 1676570400000,
+  "end": 1676574000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "ドキュメンタリー ～The REAL～",
+  "episode": 1,
+  "flags": []
+}

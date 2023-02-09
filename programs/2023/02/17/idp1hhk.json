@@ -1,0 +1,23 @@
+{
+  "id": "idp1hhk",
+  "category": "sports",
+  "title": "アルペン世界選手権２０２３「男子大回転」",
+  "fullTitle": "アルペン世界選手権２０２３「男子大回転」",
+  "detail": "【解説】吉岡大輔，【アナウンサー】小宮山晃義　～フランス・クールシュベル～",
+  "start": 1676635200000,
+  "end": 1676642400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "男子大回転",
+  "episode": 1,
+  "flags": []
+}

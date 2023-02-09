@@ -1,0 +1,23 @@
+{
+  "id": "idwx0yn",
+  "category": "sports",
+  "title": "トレセンまるごと情報局 #424",
+  "fullTitle": "トレセンまるごと情報局 #424",
+  "detail": "東西トレセンのHOTな情報！",
+  "start": 1676570400000,
+  "end": 1676574000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 424,
+  "flags": []
+}
