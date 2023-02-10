@@ -1,0 +1,25 @@
+{
+  "id": "idygb7d",
+  "category": "theater",
+  "title": "土曜ゴールデンシアター　ブロードウェイミュージカル「42ndストリート」（字幕)",
+  "fullTitle": "土曜ゴールデンシアター　ブロードウェイミュージカル「42ndストリート」[SS]（字幕)",
+  "detail": "",
+  "start": 1676712600000,
+  "end": 1676721240000,
+  "seconds": 8640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "42ndストリート",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}
