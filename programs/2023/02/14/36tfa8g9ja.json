@@ -1,12 +1,18 @@
 {
   "id": "36tfa8g9ja",
   "category": "variety",
-  "title": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ",
-  "fullTitle": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ",
-  "detail": " ",
+  "title": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ　＃４４",
+  "fullTitle": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ　＃４４",
+  "detail": "2月23日に有明アリーナで開催されるビッグイベント「DREAM MATCH」で行われる「第二回APE-1グランプリ」を深掘りします！APEX大好き芸人たちが渾身のネタを披露！\n◇番組内容\n2月23日に開催されるビッグイベント「DREAM MATCH」の徹底深掘りスペシャルを前回に引き続きお届け！\r\nイベント中に行われるAPEX LEGENDS限定のお笑いコンテスト「第二回APE-1グランプリ」を深掘りします！\r\nAPEX大好き芸人たちが渾身のネタを披露！\n◇出演者\n【番組MC】\r\nELLY（三代目 J SOUL BROTHERS from EXILE TRIBE）、AKI、西村歩乃果（タレント）\n◇おしらせ\n番組連動のプロゲーミングチームGHS Professional始動！\r\nhttps://e-elements.jp/campaign/ghs_pro/",
   "start": 1676306100000,
   "end": 1676307900000,
   "seconds": 1800,
+  "description": "2月23日に有明アリーナで開催されるビッグイベント「DREAM MATCH」で行われる「第二回APE-1グランプリ」を深掘りします！APEX大好き芸人たちが渾身のネタを披露！",
+  "extra": {
+    "番組内容": "2月23日に開催されるビッグイベント「DREAM MATCH」の徹底深掘りスペシャルを前回に引き続きお届け！\r\nイベント中に行われるAPEX LEGENDS限定のお笑いコンテスト「第二回APE-1グランプリ」を深掘りします！\r\nAPEX大好き芸人たちが渾身のネタを披露！",
+    "出演者": "【番組MC】\r\nELLY（三代目 J SOUL BROTHERS from EXILE TRIBE）、AKI、西村歩乃果（タレント）",
+    "おしらせ": "番組連動のプロゲーミングチームGHS Professional始動！\r\nhttps://e-elements.jp/campaign/ghs_pro/"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -18,6 +24,6 @@
     "n": 34
   },
   "subTitle": "",
-  "episode": 1,
+  "episode": 44,
   "flags": []
 }
