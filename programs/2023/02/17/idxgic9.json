@@ -1,8 +1,8 @@
 {
   "id": "idxgic9",
   "category": "sports",
-  "title": "［解］J SPORTS HOOP!2023 ～学生バスケ情報番組～ #1",
-  "fullTitle": "［解］J SPORTS HOOP!2023 ～学生バスケ情報番組～ #1",
+  "title": "J SPORTS HOOP!2023 ～学生バスケ情報番組～ #1",
+  "fullTitle": "[解]J SPORTS HOOP!2023 ～学生バスケ情報番組～ #1",
   "detail": "【ウインターカップ無限トーク】\r\n\r\nゲスト：井手口孝監督(福岡第一バスケットボール部)、片峯聡太監督(福大大濠バスケットボール部)\r\nMC：塚本清彦",
   "start": 1676632800000,
   "end": 1676635200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "ウインターカップ無限トーク",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "解"
+  ]
 }
