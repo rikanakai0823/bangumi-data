@@ -1,0 +1,23 @@
+{
+  "id": "idsmm6i",
+  "category": "information",
+  "title": "ＢＳ－ＴＢＳ　ショッピングＬＩＶＥ！",
+  "fullTitle": "ＢＳ－ＴＢＳ　ショッピングＬＩＶＥ！",
+  "detail": "話題の商品を紹介する生放送・ショッピング番組！主婦のカリスマ北斗晶監修の大人気コスメ＆大ヒット振動マシンの最新モデルが爆安価格で初登場！",
+  "start": 1676088000000,
+  "end": 1676095200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
