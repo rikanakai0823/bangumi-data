@@ -1,0 +1,23 @@
+{
+  "id": "idskhg6",
+  "category": "sports",
+  "title": "北九州マラソン２０２３",
+  "fullTitle": "北九州マラソン２０２３",
+  "detail": "３年ぶりに開催される北九州マラソンには全国から１万人以上が集います。風光明媚なコースを走る市民ランナーたちを北九州の魅力とともに生中継でお伝えします。",
+  "start": 1676779140000,
+  "end": 1676784240000,
+  "seconds": 5100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

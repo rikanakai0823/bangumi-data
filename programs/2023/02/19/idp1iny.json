@@ -1,0 +1,23 @@
+{
+  "id": "idp1iny",
+  "category": "sports",
+  "title": "アルペン世界選手権２０２３「男子回転」",
+  "fullTitle": "アルペン世界選手権２０２３「男子回転」",
+  "detail": "【解説】湯浅直樹，【アナウンサー】小宮山晃義　～フランス・クールシュベル～",
+  "start": 1676811000000,
+  "end": 1676814600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "男子回転",
+  "episode": 1,
+  "flags": []
+}
