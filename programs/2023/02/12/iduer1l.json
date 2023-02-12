@@ -1,0 +1,23 @@
+{
+  "id": "iduer1l",
+  "category": "variety",
+  "title": "オンデマンドＮＡＶＩ　いつでもどこでもＷＯＷＯＷ　＃２０",
+  "fullTitle": "オンデマンドＮＡＶＩ　いつでもどこでもＷＯＷＯＷ　＃２０",
+  "detail": "",
+  "start": 1676185800000,
+  "end": 1676186400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 20,
+  "flags": []
+}
