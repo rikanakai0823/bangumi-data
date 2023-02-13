@@ -1,0 +1,25 @@
+{
+  "id": "idxl8kw",
+  "category": "sports",
+  "title": "ISUスケーティングアワード2023",
+  "fullTitle": "[初]ISUスケーティングアワード2023",
+  "detail": "開催日：2023年2月5日（現地）\r\n開催地：ハレンスタジアム・アリーナ,チューリッヒ,スイス",
+  "start": 1676775000000,
+  "end": 1676782200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

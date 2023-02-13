@@ -1,0 +1,29 @@
+{
+  "id": "36h6jr1ejb",
+  "category": "information",
+  "title": "ＴＶショッピング・ショップジャパン",
+  "fullTitle": "ＴＶショッピング・ショップジャパン🅂",
+  "detail": "◇番組内容\nナイスデイ　０１２０－４４－００２７／リッチ　０１２０－１６－００７９",
+  "start": 1676788200000,
+  "end": 1676791500000,
+  "seconds": 3300,
+  "description": "",
+  "extra": {
+    "番組内容": "ナイスデイ　０１２０－４４－００２７／リッチ　０１２０－１６－００７９"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
