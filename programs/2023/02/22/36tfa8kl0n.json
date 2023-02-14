@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kl0n",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「日向坂賞」「第６７回金盃（ＳＩＩ）」「大黒坂賞」",
+  "start": 1677046800000,
+  "end": 1677054600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 67,
+  "flags": []
+}
