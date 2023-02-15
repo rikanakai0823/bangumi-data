@@ -1,0 +1,25 @@
+{
+  "id": "iduci2d",
+  "category": "cinema",
+  "title": "水滸英雄伝（字幕版）",
+  "fullTitle": "🈙水滸英雄伝（字幕版）",
+  "detail": "中国四大奇書の一つ「水滸伝」を下敷きに、やりの名手である英雄・林冲（りんちゅう）を主人公にしたアクション。林冲は腐敗した皇帝側近の陰謀により、窮地に立たされる。",
+  "start": 1677089700000,
+  "end": 1677095100000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "水滸伝",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
