@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Toast 2 Us\"TUXEDO feat.BENNY SINGS\r\n\"Losing You\"FLO\r\n\"Winter Solstice\"PHOENIX\r\n\"Tonight feat.EZRA KOENIG\"PHOENIX\n◇番組内容２\n\"Running A Family Farm Is More Rock Than Playing Rock’n’Roll Music\"THE INSPECTOR CLUZO\r\n\"You Only Love Me\"RITA ORA\r\n\"Lavender Haze\"TAYLOR SWIFT",
   "start": 1676905200000,
   "end": 1676907000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Toast 2 Us\"TUXEDO feat.BENNY SINGS\r\n\"Losing You\"FLO\r\n\"Winter Solstice\"PHOENIX\r\n\"Tonight feat.EZRA KOENIG\"PHOENIX",
+    "番組内容２": "\"Running A Family Farm Is More Rock Than Playing Rock’n’Roll Music\"THE INSPECTOR CLUZO\r\n\"You Only Love Me\"RITA ORA\r\n\"Lavender Haze\"TAYLOR SWIFT"
   },
   "channel": {
     "type": "GR",
