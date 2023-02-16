@@ -1,15 +1,16 @@
 {
   "id": "3826py4cy9",
   "category": "anime",
-  "title": "Ｌａｒｖａ",
-  "fullTitle": "Ｌａｒｖａ",
-  "detail": "コミカルな2匹のかわいくて笑える虫がお送りする。ノンバーバル物語\r\n世界中で大人気のキャラクターLarva（ラーバ）と愉快な仲間達のお話\n◇ホームページ\nhttps://www.tv-tokyo.co.jp/anime/larva/",
+  "title": "Ｌａｒｖａ「おなら」",
+  "fullTitle": "Ｌａｒｖａ「おなら」",
+  "detail": "コミカルな2匹のかわいくて笑える虫がお送りする。ノンバーバル物語\r\n世界中で大人気のキャラクターLarva（ラーバ）と愉快な仲間達のお話\n◇ホームページ\nhttps://www.tv-tokyo.co.jp/anime/larva/\n◇番組内容\nおならが止まらないイエロー。みんなの前でも、一人の時でも、\r\n自分のおならが大変な事態を巻き起こすことを知る由も無いイエロー。",
   "start": 1676670840000,
   "end": 1676671200000,
   "seconds": 360,
   "description": "コミカルな2匹のかわいくて笑える虫がお送りする。ノンバーバル物語\r\n世界中で大人気のキャラクターLarva（ラーバ）と愉快な仲間達のお話",
   "extra": {
-    "ホームページ": "https://www.tv-tokyo.co.jp/anime/larva/"
+    "ホームページ": "https://www.tv-tokyo.co.jp/anime/larva/",
+    "番組内容": "おならが止まらないイエロー。みんなの前でも、一人の時でも、\r\n自分のおならが大変な事態を巻き起こすことを知る由も無いイエロー。"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +22,7 @@
     "hasLogoData": true,
     "n": 27
   },
-  "subTitle": "",
+  "subTitle": "おなら",
   "episode": 1,
   "flags": []
 }
