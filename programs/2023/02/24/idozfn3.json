@@ -1,0 +1,25 @@
+{
+  "id": "idozfn3",
+  "category": "news",
+  "title": "○○推し！　北海道推し！",
+  "fullTitle": "○○推し！　北海道推し！🈑",
+  "detail": "",
+  "start": 1677164400000,
+  "end": 1677167100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
