@@ -1,0 +1,25 @@
+{
+  "id": "idxgiem",
+  "category": "sports",
+  "title": "FIA フォーミュラE世界選手権 2023 第5戦・予選 ケープタウン",
+  "fullTitle": "[生]FIA フォーミュラE世界選手権 2023 第5戦・予選 ケープタウン",
+  "detail": "【第5戦・予選】\r\n～ケープタウン(南アフリカ)～\r\n\r\nゲスト：宮田莉朋\r\n解説：由良拓也、川崎亮輔\r\n実況：サッシャ\r\n開催日：2023年2月25日(現地)",
+  "start": 1677317100000,
+  "end": 1677324600000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "第5戦・予選",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
