@@ -1,0 +1,25 @@
+{
+  "id": "idxzyba",
+  "category": "cinema",
+  "title": "サブウェイ１２３　激突",
+  "fullTitle": "🈙サブウェイ１２３　激突",
+  "detail": "過去に2度映画化されたジョン・ゴーディの犯罪小説『サブウェイ・パニック』をデンゼル・ワシントン、ジョン・トラヴォルタ主演で再映画化。監督はトニー・スコット。",
+  "start": 1677405600000,
+  "end": 1677412800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

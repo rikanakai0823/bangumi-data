@@ -1,0 +1,23 @@
+{
+  "id": "idys10i",
+  "category": "sports",
+  "title": "SG第36回全日本選抜オートレース中継",
+  "fullTitle": "SG第36回全日本選抜オートレース中継",
+  "detail": "ＳＧ全日本選抜オートレースの優勝戦を中継！\r\n浜松オートレース場にて開催中のＳＧ第３６回全日本選抜オートレースの優勝戦の模様を生\r\n中継でお届けします！",
+  "start": 1677394800000,
+  "end": 1677398400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 36,
+  "flags": []
+}
