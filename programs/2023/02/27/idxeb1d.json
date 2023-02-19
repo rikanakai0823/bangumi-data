@@ -1,0 +1,25 @@
+{
+  "id": "idxeb1d",
+  "category": "sports",
+  "title": "結束！侍ジャパン #93",
+  "fullTitle": "[初]結束！侍ジャパン #93",
+  "detail": "WBC過去4大会の侍ジャパンの熱戦を振り返る！",
+  "start": 1677490200000,
+  "end": 1677492000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 93,
+  "flags": [
+    "初"
+  ]
+}

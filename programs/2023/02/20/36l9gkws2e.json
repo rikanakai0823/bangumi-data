@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkws2e",
+  "category": "variety",
+  "title": "ミクチャTV「芸人#0」",
+  "fullTitle": "ミクチャTV「芸人#0」",
+  "detail": "ライブ配信アプリ「ミクチャ」をテレビでも楽しめるミクチャTV！ライブ配信連動の地上波番組や出演イベントを勝ち抜いたライバーがテレビ出演も？",
+  "start": 1676818800000,
+  "end": 1676820600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "芸人#0",
+  "episode": 0,
+  "flags": []
+}
