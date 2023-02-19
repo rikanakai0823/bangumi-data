@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmhbg",
+  "category": "music",
+  "title": "みんなの音楽会ＴＶ",
+  "fullTitle": "みんなの音楽会ＴＶ",
+  "detail": "地域で活躍する音楽家の活動紹介（ソロ・ジョイントリサイタル・コンサート・オペラ）や、地元地域のコンサートを紹介します。",
+  "start": 1676768400000,
+  "end": 1676769300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
