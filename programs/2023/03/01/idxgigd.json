@@ -1,0 +1,23 @@
+{
+  "id": "idxgigd",
+  "category": "sports",
+  "title": "FIMスーパースポーツ世界選手権2023 第1戦 オーストラリア",
+  "fullTitle": "FIMスーパースポーツ世界選手権2023 第1戦 オーストラリア",
+  "detail": "第1戦 フィリップアイランド(オーストラリア)\r\n\r\n開催日：2023年2月25-26日(現地)",
+  "start": 1677600000000,
+  "end": 1677607200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
