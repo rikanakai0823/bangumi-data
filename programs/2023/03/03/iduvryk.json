@@ -1,0 +1,26 @@
+{
+  "id": "iduvryk",
+  "category": "cinema",
+  "title": "アリス・イン・ワンダーランド／時間の旅",
+  "fullTitle": "🈙🅍アリス・イン・ワンダーランド／時間の旅",
+  "detail": "ジョニー・デップ主演の大ヒットファンタジーの続編。マッドハッターを救うため、アリスが時間を遡って過去への冒険に旅立つ。",
+  "start": 1677808800000,
+  "end": 1677816000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduck0g",
+  "category": "cinema",
+  "title": "ラブ×ドック",
+  "fullTitle": "🈙ラブ×ドック🅍🈑",
+  "detail": "吉田羊の映画単独初主演で、今を生きる女性の本音を炸裂させた大人のラブコメディ。恋がままならぬアラフォー独身女性が駆け込んだのは異色の恋愛専門クリニックで……。",
+  "start": 1677830400000,
+  "end": 1677837600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

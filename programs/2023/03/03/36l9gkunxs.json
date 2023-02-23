@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkunxs",
+  "category": "music",
+  "title": "ＯＮＧＡＸ",
+  "fullTitle": "ＯＮＧＡＸ",
+  "detail": "２０２３年３月",
+  "start": 1677832200000,
+  "end": 1677833100000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
