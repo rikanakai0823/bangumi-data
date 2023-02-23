@@ -1,0 +1,23 @@
+{
+  "id": "iduerb2",
+  "category": "music",
+  "title": "ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃８６",
+  "fullTitle": "ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃８６",
+  "detail": "",
+  "start": 1677149400000,
+  "end": 1677150000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 86,
+  "flags": []
+}
