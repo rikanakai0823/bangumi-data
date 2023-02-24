@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Silent Running\"GORILLAZ feat. ADELEYE OMOTAYO\r\n\"You And Me On The Rock\"BRANDI CARLILE feat.LUCIUS\n◇番組内容２\n\"Doom And Gloom\"THE ROLLING STONES\r\n\"Happy\"THE ROLLING STONES\r\n\"Wild Horses\"THE ROLLING STONES\r\n\"It’s Only Rock ‘n’ Roll (But I Like It)\"THE ROLLING STONES",
   "start": 1677510000000,
   "end": 1677511800000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Silent Running\"GORILLAZ feat. ADELEYE OMOTAYO\r\n\"You And Me On The Rock\"BRANDI CARLILE feat.LUCIUS",
+    "番組内容２": "\"Doom And Gloom\"THE ROLLING STONES\r\n\"Happy\"THE ROLLING STONES\r\n\"Wild Horses\"THE ROLLING STONES\r\n\"It’s Only Rock ‘n’ Roll (But I Like It)\"THE ROLLING STONES"
   },
   "channel": {
     "type": "GR",
