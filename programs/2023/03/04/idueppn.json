@@ -1,0 +1,23 @@
+{
+  "id": "idueppn",
+  "category": "variety",
+  "title": "錦鯉　独演会「こんにちわ」",
+  "fullTitle": "錦鯉　独演会「こんにちわ」",
+  "detail": "「Ｍ－１グランプリ２０２１」を制し、今勢いに乗る錦鯉の初単独ライブを放送・配信！",
+  "start": 1677861000000,
+  "end": 1677866400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "こんにちわ",
+  "episode": 1,
+  "flags": []
+}

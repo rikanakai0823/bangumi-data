@@ -1,0 +1,23 @@
+{
+  "id": "38224jxo6y",
+  "category": "news",
+  "title": "朝まで生テレビ！",
+  "fullTitle": "朝まで生テレビ！",
+  "detail": "1987年スタートの深夜討論番組。今月は「激論！～ド～する？！原発とエネルギー危機～」をお送りします。",
+  "start": 1677255900000,
+  "end": 1677266700000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjt",
+    "sid": 1065,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "激論！～ド～する？！原発とエネルギー危機～",
+  "episode": 1,
+  "flags": []
+}
