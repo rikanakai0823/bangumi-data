@@ -1,15 +1,15 @@
 {
   "id": "381f5kscra",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "【キャスター】高瀬耕造\n◇出演者\n【キャスター】高瀬耕造",
+  "title": "＃ＮＨＫ「南海トラフ巨大地震」　番組＋情報サイトのご紹介",
+  "fullTitle": "＃ＮＨＫ「南海トラフ巨大地震」　番組＋情報サイトのご紹介",
+  "detail": "【キャスター】片山千恵子\n◇出演者\n【キャスター】片山千恵子",
   "start": 1677757320000,
   "end": 1677757500000,
   "seconds": 180,
-  "description": "【キャスター】高瀬耕造",
+  "description": "【キャスター】片山千恵子",
   "extra": {
-    "出演者": "【キャスター】高瀬耕造"
+    "出演者": "【キャスター】片山千恵子"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "キャスター",
+  "subTitle": "南海トラフ巨大地震",
   "episode": 1,
   "flags": []
 }
