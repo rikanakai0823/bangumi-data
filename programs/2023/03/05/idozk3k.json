@@ -1,0 +1,23 @@
+{
+  "id": "idozk3k",
+  "category": "sports",
+  "title": "Ｊリーグタイム「Ｊ１第３節」",
+  "fullTitle": "Ｊリーグタイム「Ｊ１第３節」",
+  "detail": "【解説】宮澤ミシェル，【キャスター】小宮山晃義，高階亜理沙",
+  "start": 1678024800000,
+  "end": 1678027200000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "Ｊ１第３節",
+  "episode": 1,
+  "flags": []
+}

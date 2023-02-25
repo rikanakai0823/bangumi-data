@@ -1,0 +1,23 @@
+{
+  "id": "idtracz",
+  "category": "music",
+  "title": "＜ＭＵＳＩＣ：Ｓ＞KANDYTOWN 　LIFE",
+  "fullTitle": "＜ＭＵＳＩＣ：Ｓ＞KANDYTOWN 　LIFE",
+  "detail": "",
+  "start": 1677945600000,
+  "end": 1677949200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
