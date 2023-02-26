@@ -1,0 +1,25 @@
+{
+  "id": "idxl8nh",
+  "category": "sports",
+  "title": "2023ワールド ベースボールクラシック(WBC) ナビ",
+  "fullTitle": "[無料]2023ワールド ベースボールクラシック(WBC) ナビ",
+  "detail": "3/8(水)開幕！2023 WORLD BASEBALL CLASSIC\r\nを1次ラウンド～準々決勝までの39試合は生中継！侍ジャパン戦と準決勝・決勝は4月に録画放送",
+  "start": 1678034400000,
+  "end": 1678035600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

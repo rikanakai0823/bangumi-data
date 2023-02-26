@@ -1,0 +1,23 @@
+{
+  "id": "381ocda2vu",
+  "category": "information",
+  "title": "イントロ",
+  "fullTitle": "イントロ",
+  "detail": "佐藤真知子アナがゲストを招く番宣トーク番組。3月2日（木）よる7時から放送の「熱唱！ミリオンシンガー」をご紹介！",
+  "start": 1677428700000,
+  "end": 1677429900000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "熱唱！ミリオンシンガー",
+  "episode": 1,
+  "flags": []
+}
