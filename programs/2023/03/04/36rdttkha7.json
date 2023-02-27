@@ -1,12 +1,17 @@
 {
   "id": "36rdttkha7",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "title": "洋楽天国＋▽カルチャー・クラブ特集",
+  "fullTitle": "洋楽天国＋▽カルチャー・クラブ特集",
+  "detail": "デビューから４０年！カルチャー・クラブのミュージックビデオを特集！\n◇番組内容\n永遠のポップ・バンド！カルチャー・クラブのデビュー40周年を記念してリリースされたベスト盤から、本国イギリスをはじめ世界規模で大ヒットした楽曲のミュージックビデオを紹介！美しい世界観のミュージックビデオは必見！\n◇選曲\n\"Time (Clock Of The Heart)\"CULTURE CLUB\r\n\"It's A Miracle\"CULTURE CLUB \r\n\"Do You Really Want To Hurt Me\"CULTURE CLUB \r\n\"Victims\"CULTURE CLUB\r\n\"Miss Me Blind\"CULTURE CLUB\r\n\"Karma Chameleon\"CULTURE CLUB",
   "start": 1677941700000,
   "end": 1677943500000,
   "seconds": 1800,
+  "description": "デビューから４０年！カルチャー・クラブのミュージックビデオを特集！",
+  "extra": {
+    "番組内容": "永遠のポップ・バンド！カルチャー・クラブのデビュー40周年を記念してリリースされたベスト盤から、本国イギリスをはじめ世界規模で大ヒットした楽曲のミュージックビデオを紹介！美しい世界観のミュージックビデオは必見！",
+    "選曲": "\"Time (Clock Of The Heart)\"CULTURE CLUB\r\n\"It's A Miracle\"CULTURE CLUB \r\n\"Do You Really Want To Hurt Me\"CULTURE CLUB \r\n\"Victims\"CULTURE CLUB\r\n\"Miss Me Blind\"CULTURE CLUB\r\n\"Karma Chameleon\"CULTURE CLUB"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
