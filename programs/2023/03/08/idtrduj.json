@@ -1,0 +1,23 @@
+{
+  "id": "idtrduj",
+  "category": "information",
+  "title": "プライムダイレクトテレビショッピング",
+  "fullTitle": "プライムダイレクトテレビショッピング",
+  "detail": "",
+  "start": 1678210320000,
+  "end": 1678212060000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
