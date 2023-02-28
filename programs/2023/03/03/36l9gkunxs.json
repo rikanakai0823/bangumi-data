@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２３年３月",
+  "detail": "２０２３年３月\n◇番組内容\n●いちごみるく色に染まりたい。６周年SPライブ特集\r\n●the shes gone / 春よ、恋\r\n●めいちゃん / スクワッド！\r\n●チュロス / Take it easy\r\n●ヨルシカ / テレパス",
   "start": 1677832200000,
   "end": 1677833100000,
   "seconds": 900,
+  "description": "２０２３年３月",
+  "extra": {
+    "番組内容": "●いちごみるく色に染まりたい。６周年SPライブ特集\r\n●the shes gone / 春よ、恋\r\n●めいちゃん / スクワッド！\r\n●チュロス / Take it easy\r\n●ヨルシカ / テレパス"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
