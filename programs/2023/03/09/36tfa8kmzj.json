@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kmzj",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「円通寺坂賞」「第１４回フジノウェーブ記念（ＳＩＩＩ）」「アクアマリン賞」",
+  "start": 1678342800000,
+  "end": 1678350600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 14,
+  "flags": []
+}

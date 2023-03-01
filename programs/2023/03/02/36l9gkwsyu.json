@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwsyu",
+  "category": "information",
+  "title": "生活情報【内容】ラークセブン",
+  "fullTitle": "生活情報【内容】ラークセブン",
+  "detail": "【内容】ラークセブン\r\n【電話】0120-894-701\r\n",
+  "start": 1677700800000,
+  "end": 1677702600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
