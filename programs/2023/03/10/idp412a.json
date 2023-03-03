@@ -1,0 +1,23 @@
+{
+  "id": "idp412a",
+  "category": "documentary",
+  "title": "ハイビジョン動物記「コディアックベア」",
+  "fullTitle": "ハイビジョン動物記「コディアックベア」",
+  "detail": "",
+  "start": 1678379700000,
+  "end": 1678380300000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "コディアックベア",
+  "episode": 1,
+  "flags": []
+}
