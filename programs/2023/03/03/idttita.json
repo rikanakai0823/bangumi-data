@@ -1,0 +1,23 @@
+{
+  "id": "idttita",
+  "category": "music",
+  "title": "THE WORLD STAGE",
+  "fullTitle": "THE WORLD STAGE",
+  "detail": "日本のエンターテインメント界から世界の舞台に挑戦する若手アーティストに密着。",
+  "start": 1677848100000,
+  "end": 1677848400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
