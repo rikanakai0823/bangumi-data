@@ -1,0 +1,23 @@
+{
+  "id": "idp412h",
+  "category": "documentary",
+  "title": "ハイビジョン動物記「ミズダコ」",
+  "fullTitle": "ハイビジョン動物記「ミズダコ」",
+  "detail": "",
+  "start": 1678471500000,
+  "end": 1678472100000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "ミズダコ",
+  "episode": 1,
+  "flags": []
+}

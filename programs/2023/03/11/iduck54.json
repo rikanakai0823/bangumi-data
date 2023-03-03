@@ -1,0 +1,27 @@
+{
+  "id": "iduck54",
+  "category": "cinema",
+  "title": "ＳＩＮＧ／シング（吹替版）",
+  "fullTitle": "🈙ＳＩＮＧ／シング（吹替版）🅍🈑",
+  "detail": "フライデーミッドナイトシアター：山里亮太が映画好きゲストとオススメ映画について深掘りトーク！３月は声優の宮野真守がゲストに登場！",
+  "start": 1678460400000,
+  "end": 1678467600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idp3x36",
+  "category": "music",
+  "title": "Ｊ－ＭＥＬＯ",
+  "fullTitle": "Ｊ－ＭＥＬＯ",
+  "detail": "",
+  "start": 1678469580000,
+  "end": 1678471320000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
