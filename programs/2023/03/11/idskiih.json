@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "砂漠の冒険～Ｄａｋａｒ　Ｒａｌｌｙ　２０２３～",
   "fullTitle": "砂漠の冒険～Ｄａｋａｒ　Ｒａｌｌｙ　２０２３～",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1678507200000,
   "end": 1678509000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
