@@ -1,0 +1,25 @@
+{
+  "id": "idskikt",
+  "category": "etc",
+  "title": "あぐり百景",
+  "fullTitle": "🈟あぐり百景",
+  "detail": "",
+  "start": 1678622040000,
+  "end": 1678622400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

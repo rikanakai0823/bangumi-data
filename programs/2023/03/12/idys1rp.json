@@ -1,0 +1,23 @@
+{
+  "id": "idys1rp",
+  "category": "cinema",
+  "title": "【よしもとMOVIES】シルバーホストG",
+  "fullTitle": "【よしもとMOVIES】シルバーホストG",
+  "detail": "サラリーマンを退職しホストとして生きると決めた源太郎。",
+  "start": 1678552500000,
+  "end": 1678554900000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
