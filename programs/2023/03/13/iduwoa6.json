@@ -1,0 +1,26 @@
+{
+  "id": "iduwoa6",
+  "category": "cinema",
+  "title": "アメイジング・スパイダーマンＴＭ",
+  "fullTitle": "🈙🅍アメイジング・スパイダーマンＴＭ",
+  "detail": "アンドリュー・ガーフィールド主演、マーク・ウェブ監督による『スパイダーマン』シリーズの第１弾。",
+  "start": 1678707000000,
+  "end": 1678716000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

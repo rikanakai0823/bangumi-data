@@ -1,0 +1,25 @@
+{
+  "id": "idp3zff",
+  "category": "documentary",
+  "title": "プレミアムカフェ",
+  "fullTitle": "プレミアムカフェ🈑",
+  "detail": "",
+  "start": 1678665600000,
+  "end": 1678671780000,
+  "seconds": 6180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
