@@ -1,12 +1,18 @@
 {
   "id": "3826py4dra",
   "category": "information",
-  "title": "よるパ！",
-  "fullTitle": "よるパ！",
-  "detail": "",
+  "title": "ひるパ！キスマイ宮田＆岡田結実＋瀬戸利樹",
+  "fullTitle": "ひるパ！キスマイ宮田＆岡田結実＋瀬戸利樹🈑",
+  "detail": "MC宮田俊哉＆岡田結実とゲストが土曜のお昼からゆるっとホームパーティーを開催！放送・配信・イベント・映画・アニメなどテレビ東京の最新エンタメ情報もお届け！\n◇出演者\n【ＭＣ】宮田俊哉（Kis-My-Ft2）岡田結実\r\n【ゲスト】瀬戸利樹\r\n\r\n「サンドナイツがプロ野球選手だけの居酒屋はじめました」https://www.tv-tokyo.co.jp/sandknights/\n◇ナナパ！\n【ドラマ「全力で、愛していいかな？」】\r\nhttps://www.tv-tokyo.co.jp/zenryokuai/　小田井涼平\r\n\r\n【～夢のオーディションバラエティー～DreamerZ】https://www.tv-tokyo.co.jp/dreamer_z/　キッドフェノメノン\n◇ナナパ！ＢＳ\n【武田鉄矢の昭和は輝いていた】https://www.bs-tvtokyo.co.jp/showa/　武田鉄矢",
   "start": 1678500180000,
   "end": 1678503600000,
   "seconds": 3420,
+  "description": "MC宮田俊哉＆岡田結実とゲストが土曜のお昼からゆるっとホームパーティーを開催！放送・配信・イベント・映画・アニメなどテレビ東京の最新エンタメ情報もお届け！",
+  "extra": {
+    "出演者": "【ＭＣ】宮田俊哉（Kis-My-Ft2）岡田結実\r\n【ゲスト】瀬戸利樹\r\n\r\n「サンドナイツがプロ野球選手だけの居酒屋はじめました」https://www.tv-tokyo.co.jp/sandknights/",
+    "ナナパ！": "【ドラマ「全力で、愛していいかな？」】\r\nhttps://www.tv-tokyo.co.jp/zenryokuai/　小田井涼平\r\n\r\n【～夢のオーディションバラエティー～DreamerZ】https://www.tv-tokyo.co.jp/dreamer_z/　キッドフェノメノン",
+    "ナナパ！ＢＳ": "【武田鉄矢の昭和は輝いていた】https://www.bs-tvtokyo.co.jp/showa/　武田鉄矢"
+  },
   "channel": {
     "type": "GR",
     "channel": "23",
@@ -19,5 +25,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
