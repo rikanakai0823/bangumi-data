@@ -1,0 +1,23 @@
+{
+  "id": "iducoge",
+  "category": "variety",
+  "title": "オンデマンドＮＡＶＩ　いつでもどこでもＷＯＷＯＷ　＃２１",
+  "fullTitle": "オンデマンドＮＡＶＩ　いつでもどこでもＷＯＷＯＷ　＃２１",
+  "detail": "",
+  "start": 1678229100000,
+  "end": 1678230000000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 21,
+  "flags": []
+}
