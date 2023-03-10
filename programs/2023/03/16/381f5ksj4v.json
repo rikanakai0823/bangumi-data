@@ -1,15 +1,15 @@
 {
   "id": "381f5ksj4v",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "【キャスター】高瀬耕造\n◇出演者\n【キャスター】高瀬耕造",
+  "title": "＃ＮＨＫ　映像でたどる故郷の風景　ＮＨＫ仙台「映像アルバム」",
+  "fullTitle": "＃ＮＨＫ　映像でたどる故郷の風景　ＮＨＫ仙台「映像アルバム」",
+  "detail": "【キャスター】井上裕貴\n◇出演者\n【キャスター】井上裕貴",
   "start": 1678966920000,
   "end": 1678967100000,
   "seconds": 180,
-  "description": "【キャスター】高瀬耕造",
+  "description": "【キャスター】井上裕貴",
   "extra": {
-    "出演者": "【キャスター】高瀬耕造"
+    "出演者": "【キャスター】井上裕貴"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "キャスター",
+  "subTitle": "映像アルバム",
   "episode": 1,
   "flags": []
 }
