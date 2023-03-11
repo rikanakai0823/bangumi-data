@@ -1,0 +1,29 @@
+{
+  "id": "idxgin9",
+  "category": "sports",
+  "title": "3月番組情報",
+  "fullTitle": "[無料]3月番組情報",
+  "detail": "番組に関する詳細は下記ホームページまで\r\nhttp://www.jsports.co.jp\n◇お知らせ\nこの番組は2Kで制作されたものです",
+  "start": 1679212200000,
+  "end": 1679212800000,
+  "seconds": 600,
+  "description": "番組に関する詳細は下記ホームページまで\r\nhttp://www.jsports.co.jp",
+  "extra": {
+    "お知らせ": "この番組は2Kで制作されたものです"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
