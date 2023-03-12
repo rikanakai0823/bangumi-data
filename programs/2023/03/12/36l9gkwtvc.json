@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwtvc",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "古今亭文菊「色事根問」、春風亭三朝「悋気の独楽」、風藤松原、五明楼玉の輔「都々逸親子」",
+  "start": 1678611900000,
+  "end": 1678615200000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
