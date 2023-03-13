@@ -1,0 +1,23 @@
+{
+  "id": "idozrbb",
+  "category": "sports",
+  "title": "２０２３全日本綱引選手権",
+  "fullTitle": "２０２３全日本綱引選手権",
+  "detail": "綱引の日本一を決める大会。新型コロナの影響での休止から４年ぶりに開催。全国から男子３６チーム、女子１６チームが参加。",
+  "start": 1679364000000,
+  "end": 1679367000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
