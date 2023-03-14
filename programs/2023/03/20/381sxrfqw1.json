@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "推しが我が家にやってくる！",
   "fullTitle": "推しが我が家にやってくる！🈑",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.mbs.jp/oshiwaga/",
   "start": 1679317200000,
   "end": 1679320620000,
   "seconds": 3420,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.mbs.jp/oshiwaga/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
