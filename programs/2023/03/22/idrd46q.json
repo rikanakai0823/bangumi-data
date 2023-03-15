@@ -3,10 +3,15 @@
   "category": "sports",
   "title": "プロ野球　オープン戦　巨人×阪神　～東京ドーム",
   "fullTitle": "プロ野球　オープン戦　巨人×阪神　～東京ドーム",
-  "detail": "",
+  "detail": "◇出演者\n【解説】江川卓　鳥谷敬\r\n【実況】山本健太\n◇ホームページ\nhttps://www.bs4.jp/baseball2023/",
   "start": 1679475600000,
   "end": 1679486040000,
   "seconds": 10440,
+  "description": "",
+  "extra": {
+    "出演者": "【解説】江川卓　鳥谷敬\r\n【実況】山本健太",
+    "ホームページ": "https://www.bs4.jp/baseball2023/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",
