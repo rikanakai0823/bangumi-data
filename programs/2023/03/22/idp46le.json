@@ -1,0 +1,25 @@
+{
+  "id": "idp46le",
+  "category": "information",
+  "title": "大河ドラマ「篤姫」５分ＰＲ",
+  "fullTitle": "大河ドラマ「篤姫」５分ＰＲ🈑",
+  "detail": "",
+  "start": 1679451000000,
+  "end": 1679451300000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "篤姫",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
