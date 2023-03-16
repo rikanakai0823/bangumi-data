@@ -1,0 +1,23 @@
+{
+  "id": "idxzyjv",
+  "category": "etc",
+  "title": "番組紹介",
+  "fullTitle": "番組紹介",
+  "detail": "WOWOWプラスのおすすめ番組を紹介。",
+  "start": 1679646000000,
+  "end": 1679646600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
