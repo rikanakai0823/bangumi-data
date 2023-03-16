@@ -1,0 +1,23 @@
+{
+  "id": "iducot1",
+  "category": "sports",
+  "title": "ＨＩ－ＦＩＶＥ　ＴＵＢＥセレクション　＃４",
+  "fullTitle": "ＨＩ－ＦＩＶＥ　ＴＵＢＥセレクション　＃４",
+  "detail": "",
+  "start": 1678920000000,
+  "end": 1678920900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}
