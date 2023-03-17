@@ -3,10 +3,15 @@
   "category": "sports",
   "title": "プロ野球　オープン戦　巨人×楽天　～東京ドーム",
   "fullTitle": "プロ野球　オープン戦　巨人×楽天　～東京ドーム",
-  "detail": "",
+  "detail": "◇出演者\n【解説】岩隈久志\r\n【実況】平川健太郎\n◇ホームページ\nhttps://www.bs4.jp/baseball2023/",
   "start": 1679648400000,
   "end": 1679658840000,
   "seconds": 10440,
+  "description": "",
+  "extra": {
+    "出演者": "【解説】岩隈久志\r\n【実況】平川健太郎",
+    "ホームページ": "https://www.bs4.jp/baseball2023/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",
