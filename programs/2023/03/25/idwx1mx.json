@@ -1,0 +1,25 @@
+{
+  "id": "idwx1mx",
+  "category": "sports",
+  "title": "トラックマンTV #586",
+  "fullTitle": "🈞トラックマンTV #586",
+  "detail": "「高松宮記念（Ｇ１）、日経賞（Ｇ２）、毎日杯（Ｇ３）、鈴鹿Ｓ 他　展望」",
+  "start": 1679697000000,
+  "end": 1679702400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "高松宮記念（Ｇ１）、日経賞（Ｇ２）、毎日杯（Ｇ３）、鈴鹿Ｓ 他　展望",
+  "episode": 586,
+  "flags": [
+    "再"
+  ]
+}
