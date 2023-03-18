@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ヒポクラテスの誓い",
   "fullTitle": "ヒポクラテスの誓い",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1679716800000,
   "end": 1679720400000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
