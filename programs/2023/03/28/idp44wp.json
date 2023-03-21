@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "ヒューマニエンス　４０億年のたくらみ",
   "fullTitle": "ヒューマニエンス　４０億年のたくらみ🈑",
-  "detail": "",
+  "detail": "◇おしらせ\n濱﨑洋子さんの「濱」の字は正しくは異体字です。",
   "start": 1680008400000,
   "end": 1680012000000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "おしらせ": "濱﨑洋子さんの「濱」の字は正しくは異体字です。"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS03_1",
