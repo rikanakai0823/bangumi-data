@@ -1,15 +1,17 @@
 {
   "id": "381sxrfr3n",
   "category": "sports",
-  "title": "マスターズ魂",
-  "fullTitle": "マスターズ魂",
-  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇TBSゴルフTwitter\r\nhttps://twitter.com/GolfTbs",
+  "title": "マスターズゴルフ４月６日開幕",
+  "fullTitle": "マスターズゴルフ４月６日開幕",
+  "detail": "すべてのゴルファーが憧れる世界最高の夢舞台、マスターズ。\r\n２年前アジア勢として初めてマスターズを制した松山英樹が２度目の制覇へ挑む！\r\n松山に独占INTV！\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Twitter\r\nhttps://twitter.com/GolfTbs\n◇番組内容\nすべてのゴルファーが憧れる世界最高の夢舞台マスターズ。\r\n松山英樹が我々だけに語ったディフェンディング王者として挑んだ昨年大会。\r\n前回王者の特権、怪我、そして２度目の大会制覇への秘策とは…\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1680020880000,
   "end": 1680021000000,
   "seconds": 120,
-  "description": "番組情報決定までしばらくお待ち下さい。",
+  "description": "すべてのゴルファーが憧れる世界最高の夢舞台、マスターズ。\r\n２年前アジア勢として初めてマスターズを制した松山英樹が２度目の制覇へ挑む！\r\n松山に独占INTV！",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇TBSゴルフTwitter\r\nhttps://twitter.com/GolfTbs"
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Twitter\r\nhttps://twitter.com/GolfTbs",
+    "番組内容": "すべてのゴルファーが憧れる世界最高の夢舞台マスターズ。\r\n松山英樹が我々だけに語ったディフェンディング王者として挑んだ昨年大会。\r\n前回王者の特権、怪我、そして２度目の大会制覇への秘策とは…",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
   },
   "channel": {
     "type": "GR",
