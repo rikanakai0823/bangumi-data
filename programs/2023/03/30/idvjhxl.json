@@ -1,0 +1,25 @@
+{
+  "id": "idvjhxl",
+  "category": "anime",
+  "title": "クールドジ男子＃24",
+  "fullTitle": "クールドジ男子🈡＃24",
+  "detail": "",
+  "start": 1680186600000,
+  "end": 1680187500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 24,
+  "flags": [
+    "終"
+  ]
+}

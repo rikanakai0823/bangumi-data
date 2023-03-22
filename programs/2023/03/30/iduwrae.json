@@ -1,0 +1,26 @@
+{
+  "id": "iduwrae",
+  "category": "cinema",
+  "title": "さよなら、私のロンリー",
+  "fullTitle": "🈙🅍さよなら、私のロンリー",
+  "detail": "ドラマ「ウエストワールド」のエヴァン・レイチェル・ウッド主演のコメディ。詐欺師に育てられた女性が人生を見つめ直す姿を描く",
+  "start": 1680168600000,
+  "end": 1680175800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "ウエストワールド",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
