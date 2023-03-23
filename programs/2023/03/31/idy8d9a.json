@@ -1,0 +1,23 @@
+{
+  "id": "idy8d9a",
+  "category": "anime",
+  "title": "ミッキーマウス！#5 ★春休み特別放送！",
+  "fullTitle": "ミッキーマウス！#5 ★春休み特別放送！",
+  "detail": "#5「トーキョーでゴー！」",
+  "start": 1680215100000,
+  "end": 1680215400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "★春休み特別放送！",
+  "episode": 5,
+  "flags": []
+}

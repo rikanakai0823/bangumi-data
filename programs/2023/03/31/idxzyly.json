@@ -1,0 +1,25 @@
+{
+  "id": "idxzyly",
+  "category": "cinema",
+  "title": "ロビンとマリアン",
+  "fullTitle": "🈙ロビンとマリアン",
+  "detail": "ショーン・コネリーとオードリー・ヘプバーンが共演したラブ・ストーリー。悪徳代官に立ち向うロビン・フッドの戦いと、恋人マリアンとの恋の行方をロマンチックに描く。",
+  "start": 1680199200000,
+  "end": 1680206100000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

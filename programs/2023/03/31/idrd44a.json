@@ -1,0 +1,25 @@
+{
+  "id": "idrd44a",
+  "category": "anime",
+  "title": "アニメ　D4DJ All Mix",
+  "fullTitle": "アニメ　D4DJ All Mix🈡",
+  "detail": "",
+  "start": 1680271200000,
+  "end": 1680273000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "終"
+  ]
+}
