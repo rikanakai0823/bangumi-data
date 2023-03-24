@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Tears Won't Show\"FLAWES\r\n\"Running Out Of Time\"PARAMORE\r\n\"We Go Down Together\"DOVE CAMERON & KHALID\r\n\"Heart Wants What It Wants\"BEBE REXHA\n◇番組内容２\n\"I Feel Like Dancing\"JASON MRAZ\r\n\"Lay Low\"TIESTO\r\n\"Heartbreak Feels So Good\"FALL OUT BOY",
   "start": 1679929200000,
   "end": 1679931000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Tears Won't Show\"FLAWES\r\n\"Running Out Of Time\"PARAMORE\r\n\"We Go Down Together\"DOVE CAMERON & KHALID\r\n\"Heart Wants What It Wants\"BEBE REXHA",
+    "番組内容２": "\"I Feel Like Dancing\"JASON MRAZ\r\n\"Lay Low\"TIESTO\r\n\"Heartbreak Feels So Good\"FALL OUT BOY"
   },
   "channel": {
     "type": "GR",
