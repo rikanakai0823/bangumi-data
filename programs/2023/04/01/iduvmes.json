@@ -1,0 +1,26 @@
+{
+  "id": "iduvmes",
+  "category": "cinema",
+  "title": "【最新作】カモン　カモン【メガヒット９】",
+  "fullTitle": "【最新作】🈙🅍カモン　カモン【メガヒット９】",
+  "detail": "ホアキン・フェニックス主演のハートウォーミングドラマ。独身男性が、９歳の甥に振り回されながらも心を通わせてゆく姿を描く。",
+  "start": 1680350400000,
+  "end": 1680357600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "メガヒット９",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

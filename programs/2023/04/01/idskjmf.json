@@ -1,0 +1,23 @@
+{
+  "id": "idskjmf",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「西武　ｖｓ　オリックス」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「西武　ｖｓ　オリックス」",
+  "detail": "ベルーナドーム（埼玉県所沢市）から生中継。午後２時試合開始。\r\n【解説】飯田哲也、【実況】熊崎風斗",
+  "start": 1680325200000,
+  "end": 1680335640000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "西武　ｖｓ　オリックス",
+  "episode": 1,
+  "flags": []
+}

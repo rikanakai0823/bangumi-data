@@ -1,0 +1,23 @@
+{
+  "id": "idrd4a0",
+  "category": "news",
+  "title": "皇室日記　＃３０",
+  "fullTitle": "皇室日記　＃３０",
+  "detail": "皇室の皆さまの春のご様子をお伝えします。",
+  "start": 1680310800000,
+  "end": 1680311700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 30,
+  "flags": []
+}
