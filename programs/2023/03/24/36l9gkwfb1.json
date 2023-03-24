@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwfb1",
+  "category": "information",
+  "title": "生活情報",
+  "fullTitle": "生活情報",
+  "detail": "日本一のメイク艶クッションコンパクトで日本全国若見え計画",
+  "start": 1679616000000,
+  "end": 1679617800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
