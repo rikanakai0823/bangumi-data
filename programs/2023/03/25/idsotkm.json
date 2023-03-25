@@ -1,0 +1,25 @@
+{
+  "id": "idsotkm",
+  "category": "news",
+  "title": "Ｂｉｚスクエア",
+  "fullTitle": "🈑Ｂｉｚスクエア",
+  "detail": "半導体特需に沸く熊本・菊陽町はいま？",
+  "start": 1679709600000,
+  "end": 1679712840000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
