@@ -1,12 +1,16 @@
 {
   "id": "38224jvpre",
-  "category": "etc",
-  "title": "（番組未定）",
-  "fullTitle": "（番組未定）",
-  "detail": "※番組が決まり次第、お知らせいたします。",
+  "category": "drama",
+  "title": "今夜９時放送！「キッチン革命　第２夜」みどころ",
+  "fullTitle": "今夜９時放送！「キッチン革命　第２夜」みどころ",
+  "detail": "『２夜連続スペシャルドラマ　キッチン革命』今夜９時放送！ダイニングキッチン誕生の物語‼伊藤沙莉、成田凌、北村一輝、薬師丸ひろ子ほか…豪華キャストがパワフル熱演‼\n◇◇おしらせ\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/kitchen_kakumei/\r\n☆Ｔｗｉｔｔｅｒ\r\n　https://twitter.com/kitchen_kakumei\r\n☆Ｉｎｓｔａｇｒａｍ\r\n　https://www.instagram.com/kitchen_kakumei/",
   "start": 1679806500000,
   "end": 1679806800000,
   "seconds": 300,
+  "description": "『２夜連続スペシャルドラマ　キッチン革命』今夜９時放送！ダイニングキッチン誕生の物語‼伊藤沙莉、成田凌、北村一輝、薬師丸ひろ子ほか…豪華キャストがパワフル熱演‼",
+  "extra": {
+    "◇おしらせ": "☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/kitchen_kakumei/\r\n☆Ｔｗｉｔｔｅｒ\r\n　https://twitter.com/kitchen_kakumei\r\n☆Ｉｎｓｔａｇｒａｍ\r\n　https://www.instagram.com/kitchen_kakumei/"
+  },
   "channel": {
     "type": "GR",
     "channel": "24",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 20
   },
-  "subTitle": "",
+  "subTitle": "キッチン革命　第２夜",
   "episode": 1,
   "flags": []
 }
