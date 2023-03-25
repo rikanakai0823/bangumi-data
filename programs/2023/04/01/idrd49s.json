@@ -3,10 +3,14 @@
   "category": "music",
   "title": "読響プレミア",
   "fullTitle": "🅍読響プレミア",
-  "detail": "",
+  "detail": "◇ホームページ\nhttps://www.bs4.jp/yomikyo/",
   "start": 1680300000000,
   "end": 1680306000000,
   "seconds": 6000,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://www.bs4.jp/yomikyo/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",
