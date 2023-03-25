@@ -1,0 +1,26 @@
+{
+  "id": "iduxuvw",
+  "category": "cinema",
+  "title": "フランケンフッカー",
+  "fullTitle": "🈙🅍フランケンフッカー",
+  "detail": "カルトホラー『バスケットケース』のフランク・ヘネンロッター監督が、事故死した恋人を蘇らせようとする医学生を描いたホラー。",
+  "start": 1680444000000,
+  "end": 1680450000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxebi0",
+  "category": "sports",
+  "title": "バドミントン 大阪インターナショナルチャレンジ2023 決勝",
+  "fullTitle": "[生]バドミントン 大阪インターナショナルチャレンジ2023 決勝",
+  "detail": "開催日：2023年4月2日\r\n会場：守口市民体育館",
+  "start": 1680400200000,
+  "end": 1680426000000,
+  "seconds": 25800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
