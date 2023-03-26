@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwfib",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "笑福亭羽光「関西人のはらわた」、いなせ家半七「京の茶漬け」、三遊亭圓歌「やかん工事中」",
+  "start": 1679821500000,
+  "end": 1679824800000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
