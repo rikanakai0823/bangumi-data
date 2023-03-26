@@ -1,0 +1,25 @@
+{
+  "id": "iduvs7b",
+  "category": "cinema",
+  "title": "トム・アット・ザ・ファーム",
+  "fullTitle": "🈙トム・アット・ザ・ファーム",
+  "detail": "グザヴィエ・ドラン監督・主演のサスペンスドラマ。恋人の葬儀に参列するため実家を訪れた主人公が、差別と偏見にさらされる。",
+  "start": 1680498900000,
+  "end": 1680506100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

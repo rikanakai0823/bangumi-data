@@ -1,0 +1,23 @@
+{
+  "id": "idt64fr",
+  "category": "news",
+  "title": "日経ニュース　プラス９　日経記者がニュースを解説　マーケットもわかる！",
+  "fullTitle": "日経ニュース　プラス９　日経記者がニュースを解説　マーケットもわかる！",
+  "detail": "深く考え、伝えるオンリーワンの経済報道番組。最新ニュースの深層に鋭く切り込みます。月曜は今週の注目日程・データを「Thisweek」で先読みします。◆４Ｋ制作",
+  "start": 1680522840000,
+  "end": 1680526440000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "Thisweek",
+  "episode": 1,
+  "flags": []
+}
