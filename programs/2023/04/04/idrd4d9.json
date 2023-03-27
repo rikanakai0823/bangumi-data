@@ -3,10 +3,14 @@
   "category": "music",
   "title": "音楽のある風景",
   "fullTitle": "音楽のある風景",
-  "detail": "",
+  "detail": "◇ホームページ\nhttps://www.bs4.jp/uni_music/",
   "start": 1680544800000,
   "end": 1680546600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://www.bs4.jp/uni_music/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",
