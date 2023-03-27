@@ -1,0 +1,23 @@
+{
+  "id": "idskjsa",
+  "category": "music",
+  "title": "うた恋！音楽会▼レコード大賞特集",
+  "fullTitle": "うた恋！音楽会▼レコード大賞特集",
+  "detail": "これまで放送してきた「うた恋！音楽会」をいろいろなカテゴリーに分けて特集する１５分番組",
+  "start": 1680615000000,
+  "end": 1680615900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "うた恋！音楽会",
+  "episode": 1,
+  "flags": []
+}
