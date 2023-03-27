@@ -4,9 +4,9 @@
   "title": "試験電波",
   "fullTitle": "試験電波",
   "detail": " ",
-  "start": 1680285900000,
+  "start": 1680284100000,
   "end": 1680292500000,
-  "seconds": 6600,
+  "seconds": 8400,
   "channel": {
     "type": "GR",
     "channel": "30",
