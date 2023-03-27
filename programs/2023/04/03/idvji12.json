@@ -1,9 +1,9 @@
 {
   "id": "idvji12",
   "category": "variety",
-  "title": "プラモにめされて",
-  "fullTitle": "プラモにめされて",
-  "detail": "",
+  "title": "プラモにめされて＃12「HYPER　PLAMO　Fes.2023」",
+  "fullTitle": "プラモにめされて🈡＃12「HYPER　PLAMO　Fes.2023」",
+  "detail": "リンプラ×なすなかにし！街の模型店を愛でる「街プラ」番組！「HYPER　PLAMO　Fes.2023」での最後のプラ友作りをお届け！メガサイズ量産型ザクは完成するのか…!?",
   "start": 1680449400000,
   "end": 1680451200000,
   "seconds": 1800,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 66
   },
-  "subTitle": "",
-  "episode": 1,
-  "flags": []
+  "subTitle": "HYPER　PLAMO　Fes.2023",
+  "episode": 12,
+  "flags": [
+    "終"
+  ]
 }
