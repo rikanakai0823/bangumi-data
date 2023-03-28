@@ -4,9 +4,9 @@
   "title": "放送休止",
   "fullTitle": "放送休止",
   "detail": "",
-  "start": 1680195000000,
+  "start": 1680195600000,
   "end": 1680207000000,
-  "seconds": 12000,
+  "seconds": 11400,
   "channel": {
     "type": "GR",
     "channel": "26",
