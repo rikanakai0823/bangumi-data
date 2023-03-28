@@ -1,0 +1,25 @@
+{
+  "id": "idvji4b",
+  "category": "news",
+  "title": "NEXT company",
+  "fullTitle": "🈑NEXT company",
+  "detail": "",
+  "start": 1680703200000,
+  "end": 1680706440000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
