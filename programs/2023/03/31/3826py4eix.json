@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ミュージックブレイク",
   "fullTitle": "ミュージックブレイク",
-  "detail": "老舗ライブハウス新宿LOFTで開催した注目必至なニューカマーが出演する「LOFT　Rendezvous　LIVE」の映像をお届けする番組「LOFT　THE　COMMUNICATION　TV」。",
+  "detail": "老舗ライブハウス新宿LOFTで開催した注目必至なニューカマーが出演する「LOFT　Rendezvous　LIVE」の映像をお届けする番組「LOFT　THE　COMMUNICATION　TV」。\n◇お知らせ\n「エスコンＦ開幕戦　日本ハムＶＳ楽天」中継のため、放送時間変更の可能性があります。",
   "start": 1680201300000,
   "end": 1680201600000,
   "seconds": 300,
+  "description": "老舗ライブハウス新宿LOFTで開催した注目必至なニューカマーが出演する「LOFT　Rendezvous　LIVE」の映像をお届けする番組「LOFT　THE　COMMUNICATION　TV」。",
+  "extra": {
+    "お知らせ": "「エスコンＦ開幕戦　日本ハムＶＳ楽天」中継のため、放送時間変更の可能性があります。"
+  },
   "channel": {
     "type": "GR",
     "channel": "23",
