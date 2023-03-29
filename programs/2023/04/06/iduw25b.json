@@ -1,0 +1,26 @@
+{
+  "id": "iduw25b",
+  "category": "cinema",
+  "title": "スター・ウォーズ／最後のジェダイ",
+  "fullTitle": "🈙🅍スター・ウォーズ／最後のジェダイ",
+  "detail": "【『スター・ウォーズ』エピソード４～９＋アナザーストーリー一挙放送】",
+  "start": 1680779700000,
+  "end": 1680789600000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "『スター・ウォーズ』エピソード４～９＋アナザーストーリー一挙放送",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

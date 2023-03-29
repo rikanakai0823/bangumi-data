@@ -1,0 +1,23 @@
+{
+  "id": "idrd5ks",
+  "category": "cinema",
+  "title": "映画「ウエスタン」",
+  "fullTitle": "映画「ウエスタン」",
+  "detail": "殺された農場主の妻が、流れ者のガンマンの手を借りて、鉄道会社の陰謀と戦う。\r\nヘンリー・フォンダが冷酷なガンマンを演じる西部劇。",
+  "start": 1680778800000,
+  "end": 1680791040000,
+  "seconds": 12240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
