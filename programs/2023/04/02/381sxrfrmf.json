@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "「ＴＨＥ神業チャレンジ」ナビ",
   "fullTitle": "「ＴＨＥ神業チャレンジ」ナビ🈑",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/kamiwazachallenge_tbs/",
   "start": 1680409800000,
   "end": 1680411600000,
   "seconds": 1800,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/kamiwazachallenge_tbs/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
