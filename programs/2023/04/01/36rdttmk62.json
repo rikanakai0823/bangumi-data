@@ -3,10 +3,16 @@
   "category": "documentary",
   "title": "テレビ富士山",
   "fullTitle": "テレビ富士山",
-  "detail": "神奈川からの「富士山」をリアルにお届けします！",
+  "detail": "神奈川からの「富士山」をリアルにお届けします！\n◇選曲１\nNORAH JONES（ノラ・ジョーンズ）/Sunrise\r\nKACEY MUSGRAVES（ケイシー・マスグレイヴス）/Rainbow\r\nJOSHUA BASSETT（ジョシュア・バセット）/Smoke Slow\n◇選曲２\nGEORGE EZRA（ジョージ・エズラ）/Pretty Shining People\r\nDAN + SHAY（ダン・アンド・シェイ）/Glad You Exist\r\nBLAKE SHELTON & GWEN STEFANI（ブレイク・シェルトン＆グウェン・ステファニー）/Nobody But You\n◇選曲３\nPJ MORTON（PJモートン）/Love's Disease (Just Can't Get Enough)\r\nSAMARA JOY（サマラ・ジョイ）/Can't Get Out Of This Mood\r\nKSI/Holiday\r\nTHE BEACH BOYS（ザ・ビーチ・ボーイズ）/Wouldn't It Be Nice",
   "start": 1680296100000,
   "end": 1680297900000,
   "seconds": 1800,
+  "description": "神奈川からの「富士山」をリアルにお届けします！",
+  "extra": {
+    "選曲１": "NORAH JONES（ノラ・ジョーンズ）/Sunrise\r\nKACEY MUSGRAVES（ケイシー・マスグレイヴス）/Rainbow\r\nJOSHUA BASSETT（ジョシュア・バセット）/Smoke Slow",
+    "選曲２": "GEORGE EZRA（ジョージ・エズラ）/Pretty Shining People\r\nDAN + SHAY（ダン・アンド・シェイ）/Glad You Exist\r\nBLAKE SHELTON & GWEN STEFANI（ブレイク・シェルトン＆グウェン・ステファニー）/Nobody But You",
+    "選曲３": "PJ MORTON（PJモートン）/Love's Disease (Just Can't Get Enough)\r\nSAMARA JOY（サマラ・ジョイ）/Can't Get Out Of This Mood\r\nKSI/Holiday\r\nTHE BEACH BOYS（ザ・ビーチ・ボーイズ）/Wouldn't It Be Nice"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
