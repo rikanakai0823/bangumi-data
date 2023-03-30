@@ -3,13 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Seven Nation Army\"THE WHITE STRIPES\r\n\"I Can't Go Back To The Way It Was (Intro)\"THE KID LAROI\n◇番組内容２\n\"Whatever\"NEW HOPE CLUB\r\n\"Call Me A Quitter\"NEW HOPE CLUB\r\n\"Don't Go Wasting Time\"NEW HOPE CLUB\r\n\"Walk It Out\"NEW HOPE CLUB\n◇番組内容３\n\"Steal The Show\"SHAUN x JEFF SATUR\r\n\"Stay\"ALICIA KEYS feat.LUCKY DAYE",
   "start": 1680534000000,
   "end": 1680535800000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Seven Nation Army\"THE WHITE STRIPES\r\n\"I Can't Go Back To The Way It Was (Intro)\"THE KID LAROI",
+    "番組内容２": "\"Whatever\"NEW HOPE CLUB\r\n\"Call Me A Quitter\"NEW HOPE CLUB\r\n\"Don't Go Wasting Time\"NEW HOPE CLUB\r\n\"Walk It Out\"NEW HOPE CLUB",
+    "番組内容３": "\"Steal The Show\"SHAUN x JEFF SATUR\r\n\"Stay\"ALICIA KEYS feat.LUCKY DAYE"
   },
   "channel": {
     "type": "GR",
