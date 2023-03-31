@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２３年４月",
+  "detail": "２０２３年４月\n◇番組内容\n●ペルシカリア / 煙\r\n●岡田優菜 / LOVE\r\n●the dadadadys / あっ！\r\n●MACK JACK / マイメン\r\n●tonari no Hanako / ぜんぶ忘れてしまうって",
   "start": 1680527700000,
   "end": 1680528600000,
   "seconds": 900,
+  "description": "２０２３年４月",
+  "extra": {
+    "番組内容": "●ペルシカリア / 煙\r\n●岡田優菜 / LOVE\r\n●the dadadadys / あっ！\r\n●MACK JACK / マイメン\r\n●tonari no Hanako / ぜんぶ忘れてしまうって"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
