@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ニュース５４５",
   "fullTitle": "ニュース５４５🅂",
-  "detail": "県内ニュースを詳しく▽特集▽あすの天気",
+  "detail": "【特集】県議選　候補者を追う①南２区（川口市）\n◇出演者\n塩原桜( テレ玉アナウンサー)",
   "start": 1680770700000,
   "end": 1680772500000,
   "seconds": 1800,
+  "description": "【特集】県議選　候補者を追う①南２区（川口市）",
+  "extra": {
+    "出演者": "塩原桜( テレ玉アナウンサー)"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 13
   },
-  "subTitle": "",
+  "subTitle": "特集",
   "episode": 1,
   "flags": [
     "S"
