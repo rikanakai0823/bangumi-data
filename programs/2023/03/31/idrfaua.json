@@ -1,0 +1,29 @@
+{
+  "id": "idrfaua",
+  "category": "sports",
+  "title": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２３",
+  "fullTitle": "🈓ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２３",
+  "detail": "◇ホームページ\nhttps://www.bs4.jp/baseball/",
+  "start": 1680265260000,
+  "end": 1680271200000,
+  "seconds": 5940,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://www.bs4.jp/baseball/"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "デ"
+  ]
+}
