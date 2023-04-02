@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lub8",
+  "category": "etc",
+  "title": "ＭＵＸ－ＳＤ３",
+  "fullTitle": "ＭＵＸ－ＳＤ３",
+  "detail": "",
+  "start": 1680459180000,
+  "end": 1680459300000,
+  "seconds": 120,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
