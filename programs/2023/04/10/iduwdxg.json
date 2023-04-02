@@ -1,0 +1,26 @@
+{
+  "id": "iduwdxg",
+  "category": "cinema",
+  "title": "エージェント：ライアン",
+  "fullTitle": "🈙🅍エージェント：ライアン",
+  "detail": "Ｃ・パイン、Ｋ・コスナーら豪華キャスト共演。人気スパイ映画のヒーロー“ジャック・ライアン”の若き日を描く。",
+  "start": 1681084800000,
+  "end": 1681092000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iducms6",
+  "category": "cinema",
+  "title": "ヴァイラル（字幕版）",
+  "fullTitle": "🈙ヴァイラル（字幕版）🅍",
+  "detail": "米映画界のホラー＆サスペンス方面で人気の“ブラムハウス”などが製作したパンデミックパニックサスペンス。世界中で突然、人間がモンスターと化す非常事態が発生し……。",
+  "start": 1681092000000,
+  "end": 1681097400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

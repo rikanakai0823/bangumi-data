@@ -1,0 +1,23 @@
+{
+  "id": "idtrct3",
+  "category": "information",
+  "title": "ごちそうさまのカタチ　#105　体操",
+  "fullTitle": "ごちそうさまのカタチ　#105　体操",
+  "detail": "この番組は、スポーツや芸能、芸術など何かに取り組み頑張っている子どもたちにスポットを当てます。",
+  "start": 1681134900000,
+  "end": 1681135200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "体操",
+  "episode": 105,
+  "flags": []
+}
