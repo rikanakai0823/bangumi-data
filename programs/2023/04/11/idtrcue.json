@@ -1,0 +1,25 @@
+{
+  "id": "idtrcue",
+  "category": "music",
+  "title": "LE VELVETS MidNight Concert",
+  "fullTitle": "🈟LE VELVETS MidNight Concert",
+  "detail": "「LE VELVETS CONCERT TOUR 2022 ? Eternal ?」より珠玉の楽曲をお届け！",
+  "start": 1681221300000,
+  "end": 1681221600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "LE VELVETS CONCERT TOUR 2022 ? Eternal ?",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

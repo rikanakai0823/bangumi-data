@@ -1,0 +1,26 @@
+{
+  "id": "iduwfe8",
+  "category": "cinema",
+  "title": "カンフー・ジャングル",
+  "fullTitle": "🈙🅍カンフー・ジャングル",
+  "detail": "ハリウッドでも活躍するドニー・イェン主演のカンフーアクション。武術界のチャンピオン連続殺人事件と激闘を描く。［ＰＧ１２］",
+  "start": 1681153200000,
+  "end": 1681160400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
