@@ -1,0 +1,25 @@
+{
+  "id": "idxgiy7",
+  "category": "sports",
+  "title": "4月番組情報",
+  "fullTitle": "[無料]4月番組情報",
+  "detail": "★番組に関する詳細は下記ホームページまで→http://www.jsports.co.jp",
+  "start": 1681289100000,
+  "end": 1681289700000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

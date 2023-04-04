@@ -1,0 +1,27 @@
+{
+  "id": "iducmto",
+  "category": "cinema",
+  "title": "トイレのピエタ",
+  "fullTitle": "🈙トイレのピエタ🅍🈑",
+  "detail": "人気バンドＲＡＤＷＩＭＰＳの野田洋次郎が映画初出演にして初主演を飾った青春ラブストーリー。余命３カ月を宣告された青年と、勝ち気な女子高校生の心の触れ合いを綴る。",
+  "start": 1681264200000,
+  "end": 1681272000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

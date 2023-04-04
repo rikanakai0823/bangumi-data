@@ -1,0 +1,23 @@
+{
+  "id": "idxihei",
+  "category": "sports",
+  "title": "モータースポーツマガジン Mobil 1 The Grid 2023 #2",
+  "fullTitle": "モータースポーツマガジン Mobil 1 The Grid 2023 #2",
+  "detail": "モータースポーツ情報満載の30分番組。",
+  "start": 1681282800000,
+  "end": 1681284600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}
