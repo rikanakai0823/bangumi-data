@@ -1,0 +1,23 @@
+{
+  "id": "idsmp1u",
+  "category": "sports",
+  "title": "マスターズゴルフ２０２３　パー３コンテスト",
+  "fullTitle": "マスターズゴルフ２０２３　パー３コンテスト",
+  "detail": "パー３専用コースで行われる大会。超一流ゴルファーたちが家族たちと一緒に楽しむ。レジェンドや超一流ゴルファーによるホールインワンが魅力！",
+  "start": 1680732000000,
+  "end": 1680735600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
