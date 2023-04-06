@@ -1,0 +1,23 @@
+{
+  "id": "idxebnj",
+  "category": "sports",
+  "title": "パリ マラソン2023",
+  "fullTitle": "パリ マラソン2023",
+  "detail": "解説：千葉真子\r\n実況：深澤慶\r\n開催日：2023年4月2日(現地)",
+  "start": 1681420800000,
+  "end": 1681432200000,
+  "seconds": 11400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
