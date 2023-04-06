@@ -1,16 +1,17 @@
 {
   "id": "3826py4f07",
   "category": "information",
-  "title": "よるパ！",
-  "fullTitle": "よるパ！",
-  "detail": "放送・配信・イベント・映画・アニメなどテレビ東京の最新エンタメ情報をお届け！\n◇番組概要\n毎週土曜日のお昼にお届けしている「ひるパ！」の兄弟番組！\r\nテレビ東京が手掛ける映画・ドラマ・アニメ・イベントなど、あらゆるジャンルの最新エンターテインメント情報をポップでカラフルなパーティー気分でワイワイと賑やかにお届けします！\n◇ホームページ\nhttps://www.tv-tokyo.co.jp/yorupa/",
+  "title": "よるパ！【Coca-Cola　STAGE:0】",
+  "fullTitle": "よるパ！【Coca-Cola　STAGE:0】",
+  "detail": "現役高校生たちが、ゲームの腕を競い合う、e-sportsのイベント！「Coca-Cola　STAGE:0　eSPORTS　High-School　Championship　2023」をご紹介します！！\n◇番組概要\n毎週土曜日のお昼にお届けしている「ひるパ！」の兄弟番組！\r\nテレビ東京が手掛ける映画・ドラマ・アニメ・イベントなど、あらゆるジャンルの最新エンターテインメント情報をポップでカラフルなパーティー気分でワイワイと賑やかにお届けします！\n◇ホームページ\nhttps://www.tv-tokyo.co.jp/yorupa/\n◇出演者\n東京ホテイソン（たける・ショーゴ）\r\n立川周（テレビ東京アナウンサー）",
   "start": 1681236300000,
   "end": 1681237200000,
   "seconds": 900,
-  "description": "放送・配信・イベント・映画・アニメなどテレビ東京の最新エンタメ情報をお届け！",
+  "description": "現役高校生たちが、ゲームの腕を競い合う、e-sportsのイベント！「Coca-Cola　STAGE:0　eSPORTS　High-School　Championship　2023」をご紹介します！！",
   "extra": {
     "番組概要": "毎週土曜日のお昼にお届けしている「ひるパ！」の兄弟番組！\r\nテレビ東京が手掛ける映画・ドラマ・アニメ・イベントなど、あらゆるジャンルの最新エンターテインメント情報をポップでカラフルなパーティー気分でワイワイと賑やかにお届けします！",
-    "ホームページ": "https://www.tv-tokyo.co.jp/yorupa/"
+    "ホームページ": "https://www.tv-tokyo.co.jp/yorupa/",
+    "出演者": "東京ホテイソン（たける・ショーゴ）\r\n立川周（テレビ東京アナウンサー）"
   },
   "channel": {
     "type": "GR",
@@ -22,7 +23,7 @@
     "hasLogoData": true,
     "n": 27
   },
-  "subTitle": "",
+  "subTitle": "Coca-Cola　STAGE:0",
   "episode": 1,
   "flags": []
 }
