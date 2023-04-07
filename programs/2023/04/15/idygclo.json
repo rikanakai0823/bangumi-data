@@ -1,0 +1,23 @@
+{
+  "id": "idygclo",
+  "category": "cinema",
+  "title": "土曜ゴールデンシアター　ポネット（字幕版）",
+  "fullTitle": "土曜ゴールデンシアター　ポネット（字幕版）",
+  "detail": "２ヶ月連続企画「Bunkamuraル・シネマ」セレクション▽ノーカット放送。",
+  "start": 1681560000000,
+  "end": 1681566660000,
+  "seconds": 6660,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "Bunkamuraル・シネマ",
+  "episode": 1,
+  "flags": []
+}
