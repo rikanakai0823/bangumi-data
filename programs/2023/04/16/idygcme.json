@@ -1,0 +1,23 @@
+{
+  "id": "idygcme",
+  "category": "theater",
+  "title": "日曜ゴールデンシアター　アジアの女",
+  "fullTitle": "日曜ゴールデンシアター　アジアの女",
+  "detail": "作 長塚圭史 × 演出＆出演 吉田鋼太郎 × 主演 石原さとみ",
+  "start": 1681637400000,
+  "end": 1681646040000,
+  "seconds": 8640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

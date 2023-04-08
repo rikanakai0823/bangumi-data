@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8ghs9",
+  "category": "cinema",
+  "title": "映画『ゴーストバスターズ２』",
+  "fullTitle": "映画『ゴーストバスターズ２』🈔",
+  "detail": " ",
+  "start": 1681639200000,
+  "end": 1681644900000,
+  "seconds": 5700,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

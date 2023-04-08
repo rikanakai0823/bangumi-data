@@ -1,0 +1,23 @@
+{
+  "id": "idtrg2g",
+  "category": "information",
+  "title": "世田谷自然食品ＴＶショッピング",
+  "fullTitle": "世田谷自然食品ＴＶショッピング",
+  "detail": "",
+  "start": 1681612140000,
+  "end": 1681614000000,
+  "seconds": 1860,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
