@@ -2,8 +2,8 @@
   "id": "idxgiyn",
   "category": "sports",
   "title": "サッカーニュースFoot！THURSDAY(4/13)",
-  "fullTitle": "サッカーニュースFoot！THURSDAY(4/13)",
-  "detail": "木曜日は高校年代のサッカー！",
+  "fullTitle": "[初]サッカーニュースFoot！THURSDAY(4/13)",
+  "detail": "コメンテーター：名良橋晃\r\nMC：原大悟\r\n\r\n▽高円宮杯プレミアリーグ第2節ハイライト",
   "start": 1681390800000,
   "end": 1681393500000,
   "seconds": 2700,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "初"
+  ]
 }

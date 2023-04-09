@@ -1,0 +1,25 @@
+{
+  "id": "381sxrhwko",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「広島×巨人」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「広島×巨人」🈑",
+  "detail": "日本プロ野球も熱い！ＷＢＣの熱狂そのままに、侍戦士たちが躍動！野球中継を地上波放送で観ようぜ！",
+  "start": 1681016400000,
+  "end": 1681023240000,
+  "seconds": 6840,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "広島×巨人",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
