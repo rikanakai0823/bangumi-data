@@ -1,0 +1,25 @@
+{
+  "id": "iduvjv8",
+  "category": "cinema",
+  "title": "ミッドナイト・アサシンズ",
+  "fullTitle": "🈙ミッドナイト・アサシンズ",
+  "detail": "フィリピン製作のクライムドラマ。麻薬戦争が続くマニラのスラムを舞台に、ストリートチルドレンの少年と殺し屋の女との絆を描く",
+  "start": 1681675200000,
+  "end": 1681682400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
