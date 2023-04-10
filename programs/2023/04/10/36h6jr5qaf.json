@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5qaf",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽テレ玉くん天気予報▽きゅうりの季節がやってきた！今年も大盤振る舞い▽「マチコミワンニャン部」かわいいワンちゃん・猫ちゃんに癒されたい",
+  "start": 1681111800000,
+  "end": 1681113600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉３",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "マチコミワンニャン部",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
