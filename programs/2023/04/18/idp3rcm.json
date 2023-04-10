@@ -1,0 +1,25 @@
+{
+  "id": "idp3rcm",
+  "category": "drama",
+  "title": "５分でわかる！大河ドラマ「篤姫」",
+  "fullTitle": "５分でわかる！大河ドラマ「篤姫」🈑",
+  "detail": "ＢＳ４Ｋで再放送中の宮﨑あおいさん主演作品、大河ドラマ「篤姫」。主演の宮﨑あおいさんのインタビューを通じて、ドラマの魅力に５分で迫る！",
+  "start": 1681804500000,
+  "end": 1681804800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "篤姫",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

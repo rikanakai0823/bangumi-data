@@ -1,0 +1,26 @@
+{
+  "id": "idoze6d",
+  "category": "sports",
+  "title": "プロ野球２０２３「ヤクルト」対「中日」",
+  "fullTitle": "プロ野球２０２３「ヤクルト」対「中日」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】宮本慎也，【アナウンサー】冨坂和男　～坊っちゃんスタジアムから中継～",
+  "start": 1681808400000,
+  "end": 1681821000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "中日",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
