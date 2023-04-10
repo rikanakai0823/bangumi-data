@@ -1,0 +1,25 @@
+{
+  "id": "idsoufm",
+  "category": "anime",
+  "title": "江戸前エルフ＃１",
+  "fullTitle": "🈟江戸前エルフ＃１",
+  "detail": "第１話\r\n「東京のエルフのはなし」",
+  "start": 1681151400000,
+  "end": 1681153200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
