@@ -1,0 +1,26 @@
+{
+  "id": "iduvut8",
+  "category": "cinema",
+  "title": "スーパーティーチャー　熱血格闘",
+  "fullTitle": "🈙🅍スーパーティーチャー　熱血格闘",
+  "detail": "ドニー・イェン主演の学園アクション。元アメリカ海兵隊出身の男が問題児だらけの学校の教師となり、学園に革命を起こしていく。",
+  "start": 1681941600000,
+  "end": 1681948800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
