@@ -1,0 +1,25 @@
+{
+  "id": "ids2xcm",
+  "category": "music",
+  "title": "ベストヒットＵＳＡ　「U2特集」",
+  "fullTitle": "🈑ベストヒットＵＳＡ　「U2特集」",
+  "detail": "結成45年！今もなお第一線で活躍しているU2を大特集！1983年に番組初出演したアーカイブ映像も交えて、彼らのこれまでの足跡を振り返る！名曲にまつわる秘話も必見！",
+  "start": 1681484400000,
+  "end": 1681486200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "U2特集",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
