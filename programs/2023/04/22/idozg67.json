@@ -1,0 +1,23 @@
+{
+  "id": "idozg67",
+  "category": "sports",
+  "title": "Ｖリーグ２０２２－２３　女子ファイナル",
+  "fullTitle": "Ｖリーグ２０２２－２３　女子ファイナル",
+  "detail": "",
+  "start": 1682139600000,
+  "end": 1682148600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
