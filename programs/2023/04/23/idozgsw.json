@@ -1,0 +1,23 @@
+{
+  "id": "idozgsw",
+  "category": "sports",
+  "title": "Ｖリーグ２０２２－２３　男子ファイナル",
+  "fullTitle": "Ｖリーグ２０２２－２３　男子ファイナル",
+  "detail": "",
+  "start": 1682226000000,
+  "end": 1682235000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
