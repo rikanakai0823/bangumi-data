@@ -1,0 +1,25 @@
+{
+  "id": "idp3rlp",
+  "category": "documentary",
+  "title": "ＮＨＫ特集　富山湾　不思議の海をさぐる",
+  "fullTitle": "ＮＨＫ特集　富山湾　不思議の海をさぐる🈑",
+  "detail": "しん気楼や海中埋没林、夜に光を放って押し寄せるホタルイカなど、不思議な現象が多い富山湾。海岸から一気に千メートルの深さに達する海底を調査し、その謎を探る。",
+  "start": 1682327400000,
+  "end": 1682330400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
