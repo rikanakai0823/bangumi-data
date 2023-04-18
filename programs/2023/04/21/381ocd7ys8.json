@@ -1,12 +1,17 @@
 {
   "id": "381ocd7ys8",
   "category": "variety",
-  "title": "Ｚ　ＳＴＵＤＩＯ　ＳＥＮＳＯＲＳ",
-  "fullTitle": "Ｚ　ＳＴＵＤＩＯ　ＳＥＮＳＯＲＳ",
-  "detail": "",
+  "title": "Z STUDIO SENSORS#1【エンタメ・クリエイティブの最先端番組】",
+  "fullTitle": "Z STUDIO SENSORS#1【エンタメ・クリエイティブの最先端番組】",
+  "detail": "最先端のクリエイティブ、エンタメビジネスを世界に発信するSENSORS。第１回のテーマはジェネラティブNFT！ナビゲーターは水曜日のカンパネラ・詩羽！\n◇出演者\n水曜日のカンパネラ・詩羽 /\r\nSILENT SIRENすぅ / Fuhua /\r\n草野絵美 / うじゅうな / NIKO24 / paji\n◇番組内容\n第1回のテーマは、ジェネラティブNFT！\r\nクリエイターの新たな活躍場所になっている「ジェネラティブNFTとコミュニティ」をテーマに、「ジェネラティブNFTの魅力」「Discordコミュニティとは何なのか？」「SILENT SIRENすぅプロデュースの新アイドルプロジェクト「NFT IDOL HOUSE」とは？」などNFT業界の最前線に切り込みます！\r\nさらにNFT界のトップランナー４名によるトーク！",
   "start": 1682008140000,
   "end": 1682009940000,
   "seconds": 1800,
+  "description": "最先端のクリエイティブ、エンタメビジネスを世界に発信するSENSORS。第１回のテーマはジェネラティブNFT！ナビゲーターは水曜日のカンパネラ・詩羽！",
+  "extra": {
+    "出演者": "水曜日のカンパネラ・詩羽 /\r\nSILENT SIRENすぅ / Fuhua /\r\n草野絵美 / うじゅうな / NIKO24 / paji",
+    "番組内容": "第1回のテーマは、ジェネラティブNFT！\r\nクリエイターの新たな活躍場所になっている「ジェネラティブNFTとコミュニティ」をテーマに、「ジェネラティブNFTの魅力」「Discordコミュニティとは何なのか？」「SILENT SIRENすぅプロデュースの新アイドルプロジェクト「NFT IDOL HOUSE」とは？」などNFT業界の最前線に切り込みます！\r\nさらにNFT界のトップランナー４名によるトーク！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
+  "subTitle": "エンタメ・クリエイティブの最先端番組",
   "episode": 1,
   "flags": []
 }
