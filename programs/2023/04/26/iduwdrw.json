@@ -1,0 +1,26 @@
+{
+  "id": "iduwdrw",
+  "category": "cinema",
+  "title": "ベイビー・ドライバー",
+  "fullTitle": "🈙🅍ベイビー・ドライバー",
+  "detail": "エドガー・ライト監督のクライムアクション。裏社会から足を洗おうとする天才ドライバーの運命を怒濤のカーチェイスと共に描く。",
+  "start": 1682460000000,
+  "end": 1682467200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

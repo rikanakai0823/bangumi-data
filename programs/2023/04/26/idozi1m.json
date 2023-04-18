@@ -1,0 +1,26 @@
+{
+  "id": "idozi1m",
+  "category": "sports",
+  "title": "プロ野球２０２３「ＤｅＮＡ」対「ヤクルト」",
+  "fullTitle": "プロ野球２０２３「ＤｅＮＡ」対「ヤクルト」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　５：４５）　【解説】藤川球児，【アナウンサー】浅井僚馬　～横浜スタジアムから中継～",
+  "start": 1682498700000,
+  "end": 1682512200000,
+  "seconds": 13500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ヤクルト",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
