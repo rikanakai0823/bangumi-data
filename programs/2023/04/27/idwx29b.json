@@ -1,0 +1,23 @@
+{
+  "id": "idwx29b",
+  "category": "sports",
+  "title": "今日の調教 #721",
+  "fullTitle": "今日の調教 #721",
+  "detail": "「天皇賞（春）、青葉賞　他」",
+  "start": 1682530200000,
+  "end": 1682532000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "天皇賞（春）、青葉賞　他",
+  "episode": 721,
+  "flags": []
+}
