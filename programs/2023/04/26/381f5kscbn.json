@@ -1,12 +1,16 @@
 {
   "id": "381f5kscbn",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　地域の魅力を発掘！　仙台局「映像アルバム」仙台編・秋田編",
+  "fullTitle": "＃ＮＨＫ　地域の魅力を発掘！　仙台局「映像アルバム」仙台編・秋田編",
+  "detail": "【キャスター】二宮直輝\n◇出演者\n【キャスター】二宮直輝",
   "start": 1682509320000,
   "end": 1682509500000,
   "seconds": 180,
+  "description": "【キャスター】二宮直輝",
+  "extra": {
+    "出演者": "【キャスター】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "映像アルバム",
   "episode": 1,
   "flags": []
 }
