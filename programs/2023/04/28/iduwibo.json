@@ -1,0 +1,26 @@
+{
+  "id": "iduwibo",
+  "category": "cinema",
+  "title": "マティアス＆マキシム",
+  "fullTitle": "🈙🅍マティアス＆マキシム",
+  "detail": "グザヴィエ・ドラン監督による純愛ドラマ。ドラン自身も出演し、友情と恋の狭間で揺れる２人の青年の戸惑いを描く。［ＰＧ１２］",
+  "start": 1682611200000,
+  "end": 1682619300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
