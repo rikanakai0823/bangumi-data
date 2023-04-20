@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Fly Girl\"FLO feat.MISSY ELLIOTT\r\n\"Never A Good Time\"NOTD & THE BAND CAMINO\r\n\"Up Song\"BLACK COUNTRY, NEW ROAD\n◇番組内容２\n\"Across The Pond Friend\"BLACK COUNTRY, NEW ROAD\r\n\"The Next Episode\"DR.DRE feat.SNOOP DOGG, KURUPT & NATE DOGG",
   "start": 1682348400000,
   "end": 1682350200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Fly Girl\"FLO feat.MISSY ELLIOTT\r\n\"Never A Good Time\"NOTD & THE BAND CAMINO\r\n\"Up Song\"BLACK COUNTRY, NEW ROAD",
+    "番組内容２": "\"Across The Pond Friend\"BLACK COUNTRY, NEW ROAD\r\n\"The Next Episode\"DR.DRE feat.SNOOP DOGG, KURUPT & NATE DOGG"
   },
   "channel": {
     "type": "GR",
