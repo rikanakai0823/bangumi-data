@@ -1,0 +1,23 @@
+{
+  "id": "36rdttoves",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽埼玉県内のマチを元気に！「ご当地中継６３」春日部市から中継▽天気▽豪華プレゼントがあたる！金曜で賞",
+  "start": 1682062200000,
+  "end": 1682064000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ３",
+    "id": "1hjjdzu",
+    "sid": 24634,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 7
+  },
+  "subTitle": "ご当地中継６３",
+  "episode": 1,
+  "flags": []
+}
