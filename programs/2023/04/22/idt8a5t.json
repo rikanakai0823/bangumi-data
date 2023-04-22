@@ -1,0 +1,23 @@
+{
+  "id": "idt8a5t",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10Ｒ晩春Ｓ、11ＲオアシスＳ（Ｌ）\r\n【京都】10Ｒ栞Ｓ、11Ｒ京都競馬場グランドオープン記念\r\n【福島】11Ｒ福島牝馬Ｓ（ＧⅢ）",
+  "start": 1682141400000,
+  "end": 1682146800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
