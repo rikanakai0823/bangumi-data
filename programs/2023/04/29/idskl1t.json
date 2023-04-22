@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "魔法少女マジカルデストロイヤーズ",
   "fullTitle": "魔法少女マジカルデストロイヤーズ",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1682703000000,
   "end": 1682704800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
