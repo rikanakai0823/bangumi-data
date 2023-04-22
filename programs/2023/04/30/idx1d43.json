@@ -1,0 +1,23 @@
+{
+  "id": "idx1d43",
+  "category": "anime",
+  "title": "特:UniteUp! 一挙放送",
+  "fullTitle": "特:UniteUp! 一挙放送",
+  "detail": "★アニマックス ゴールデンウィーク「ANIME GRAND SLAM！(グランドスラム)」★\r\n歌が大好きな高校生・清瀬明良。彼の歌…",
+  "start": 1682843400000,
+  "end": 1682865000000,
+  "seconds": 21600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "ANIME GRAND SLAM！(グランドスラム)",
+  "episode": 1,
+  "flags": []
+}
