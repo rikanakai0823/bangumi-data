@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "J SPORTS セレクション",
   "fullTitle": "J SPORTS セレクション",
-  "detail": "【J SPORTS セレクション】\r\n放送内容は未定です。",
+  "detail": "【J SPORTS セレクション】\r\n放送内容は未定です。\n◇お知らせ\nこの番組は2Kで制作されたものです",
   "start": 1682845200000,
   "end": 1682870400000,
   "seconds": 25200,
+  "description": "【J SPORTS セレクション】\r\n放送内容は未定です。",
+  "extra": {
+    "お知らせ": "この番組は2Kで制作されたものです"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS19_2",
