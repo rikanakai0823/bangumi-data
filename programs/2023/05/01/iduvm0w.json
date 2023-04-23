@@ -1,0 +1,26 @@
+{
+  "id": "iduvm0w",
+  "category": "cinema",
+  "title": "レッド・ファミリー",
+  "fullTitle": "🈙🅍レッド・ファミリー",
+  "detail": "韓国の鬼才キム・ギドク監督のサスペンスドラマ。韓国で幸せな家族を装う北朝鮮工作員たちと隣人家族の運命をスリリングに描く。",
+  "start": 1682924400000,
+  "end": 1682930700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
