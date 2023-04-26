@@ -1,0 +1,26 @@
+{
+  "id": "iduvvtr",
+  "category": "cinema",
+  "title": "スター・ウォーズ　エピソード５／帝国の逆襲",
+  "fullTitle": "🈙🅍スター・ウォーズ　エピソード５／帝国の逆襲",
+  "detail": "【ＧＷスペシャル！メガヒット映画２５本一挙放送！】",
+  "start": 1683198900000,
+  "end": 1683207000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "ＧＷスペシャル！メガヒット映画２５本一挙放送！",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

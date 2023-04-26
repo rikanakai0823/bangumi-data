@@ -1,0 +1,26 @@
+{
+  "id": "iduvuys",
+  "category": "cinema",
+  "title": "グレイテスト・ショーマン",
+  "fullTitle": "🈙🅍グレイテスト・ショーマン",
+  "detail": "ヒュー・ジャックマン主演のミュージカルエンターテインメント。型破りなショーを手掛けた興行師の波瀾万丈の人生を描く感動作。",
+  "start": 1683158400000,
+  "end": 1683165600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
