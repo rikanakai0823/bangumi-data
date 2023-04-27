@@ -1,0 +1,27 @@
+{
+  "id": "36l9gkwj6k",
+  "category": "hobby",
+  "title": "チバミライチャンネル▽高文連放送コンテスト",
+  "fullTitle": "チバミライチャンネル▽高文連放送コンテスト",
+  "detail": "東葛飾高校「愛の呼びかけ放送中」\n◇番組内容①\nちばの民話\r\n忠犬小金丸(松戸市)",
+  "start": 1683236700000,
+  "end": 1683237900000,
+  "seconds": 1200,
+  "description": "東葛飾高校「愛の呼びかけ放送中」",
+  "extra": {
+    "番組内容①": "ちばの民話\r\n忠犬小金丸(松戸市)"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "愛の呼びかけ放送中",
+  "episode": 1,
+  "flags": []
+}
