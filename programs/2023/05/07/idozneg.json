@@ -1,0 +1,23 @@
+{
+  "id": "idozneg",
+  "category": "sports",
+  "title": "Ｊリーグタイム「Ｊ１第１２節」",
+  "fullTitle": "Ｊリーグタイム「Ｊ１第１２節」",
+  "detail": "日曜午後１０時５０分は「Ｊリーグタイム」▼Ｊ１第１１節の全ゴール＆第１２節の全試合・全ゴールをたっぷりお届け▼小島伸幸の徹底解説▼ＡＣＬ決勝の行方は▼Ｊ３０周年",
+  "start": 1683467400000,
+  "end": 1683469800000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "Ｊ１第１２節",
+  "episode": 1,
+  "flags": []
+}
