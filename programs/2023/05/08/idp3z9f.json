@@ -1,0 +1,23 @@
+{
+  "id": "idp3z9f",
+  "category": "music",
+  "title": "さわやかウインドー「坂の町　尾道」",
+  "fullTitle": "さわやかウインドー「坂の町　尾道」",
+  "detail": "",
+  "start": 1683480600000,
+  "end": 1683482400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "坂の町　尾道",
+  "episode": 1,
+  "flags": []
+}
