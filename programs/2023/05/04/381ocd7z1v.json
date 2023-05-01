@@ -3,10 +3,15 @@
   "category": "variety",
   "title": "ＢＥ：ＦＩＲＳＴ　ＴＶ　Ｓｅａｓｏｎ２",
   "fullTitle": "ＢＥ：ＦＩＲＳＴ　ＴＶ　Ｓｅａｓｏｎ２",
-  "detail": "",
+  "detail": "BE:FIRSTの地上波冠番組第2弾！”1番のサプライズを起こす”というテーマで、BE:FIRSTが愛知県西尾抹茶を盛り上げる！楽曲「Spin!」もTV初披露！\n◇出演者\nBE:FIRST （SOTA、SHUNTO、MANATO、RYUHEI、JUNON、RYOKI、LEO）\r\n佐藤隆太\n◇番組内容\n第5回はMANATO、RYUHEIが、視聴者からの依頼を受け、西尾抹茶を盛り上げるべく愛知県の西尾市へ！抹茶好き2人が和装姿で西尾抹茶のPR旅！西尾の抹茶や絶品抹茶スイーツを堪能！食リポ中、スタッフから無茶振りでMANATO＆RYUHEIの更なる才能が開花！？人生初のアポなし撮影交渉も！果たして結果は・・・番組最後には、RYOKI、SOTA、SHUNTOの3人による楽曲「Spin!」をTV初披露！",
   "start": 1683129540000,
   "end": 1683131340000,
   "seconds": 1800,
+  "description": "BE:FIRSTの地上波冠番組第2弾！”1番のサプライズを起こす”というテーマで、BE:FIRSTが愛知県西尾抹茶を盛り上げる！楽曲「Spin!」もTV初披露！",
+  "extra": {
+    "出演者": "BE:FIRST （SOTA、SHUNTO、MANATO、RYUHEI、JUNON、RYOKI、LEO）\r\n佐藤隆太",
+    "番組内容": "第5回はMANATO、RYUHEIが、視聴者からの依頼を受け、西尾抹茶を盛り上げるべく愛知県の西尾市へ！抹茶好き2人が和装姿で西尾抹茶のPR旅！西尾の抹茶や絶品抹茶スイーツを堪能！食リポ中、スタッフから無茶振りでMANATO＆RYUHEIの更なる才能が開花！？人生初のアポなし撮影交渉も！果たして結果は・・・番組最後には、RYOKI、SOTA、SHUNTOの3人による楽曲「Spin!」をTV初披露！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
+  "subTitle": "Spin!",
   "episode": 1,
   "flags": []
 }
