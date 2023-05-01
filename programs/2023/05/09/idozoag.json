@@ -1,0 +1,26 @@
+{
+  "id": "idozoag",
+  "category": "sports",
+  "title": "プロ野球２０２３「中日」対「広島」",
+  "fullTitle": "プロ野球２０２３「中日」対「広島」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】大野豊，【アナウンサー】高瀬登志彦　～岐阜・長良川球場から中継～",
+  "start": 1683622800000,
+  "end": 1683635400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "広島",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
