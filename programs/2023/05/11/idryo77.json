@@ -1,0 +1,29 @@
+{
+  "id": "idryo77",
+  "category": "sports",
+  "title": "スーパーベースボール2023　西武×ロッテ",
+  "fullTitle": "スーパーベースボール2023　西武×ロッテ",
+  "detail": "ベルーナドームで行われる西武×ロッテを生中継。※最大延長…21:54\n◇解説・実況\n【解説】辻発彦\r\n【実況】清水俊輔（テレビ朝日アナウンサー）\n◇会場\nベルーナドーム\n◇番組ホームページ\n＜番組ホームページはこちら！＞\r\nwww.bs-asahi.co.jp/superbaseball/",
+  "start": 1683795600000,
+  "end": 1683806040000,
+  "seconds": 10440,
+  "description": "ベルーナドームで行われる西武×ロッテを生中継。※最大延長…21:54",
+  "extra": {
+    "解説・実況": "【解説】辻発彦\r\n【実況】清水俊輔（テレビ朝日アナウンサー）",
+    "会場": "ベルーナドーム",
+    "番組ホームページ": "＜番組ホームページはこちら！＞\r\nwww.bs-asahi.co.jp/superbaseball/"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
