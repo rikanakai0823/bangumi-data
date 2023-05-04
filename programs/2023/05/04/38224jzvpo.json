@@ -1,0 +1,25 @@
+{
+  "id": "38224jzvpo",
+  "category": "news",
+  "title": "スーパーＪチャンネル",
+  "fullTitle": "スーパーＪチャンネル🈑",
+  "detail": "視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。",
+  "start": 1683186300000,
+  "end": 1683194400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
