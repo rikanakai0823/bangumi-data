@@ -1,0 +1,23 @@
+{
+  "id": "idrhgnm",
+  "category": "cinema",
+  "title": "映画「００７／ドクター・ノオ」",
+  "fullTitle": "映画「００７／ドクター・ノオ」",
+  "detail": "007シリーズ第1弾。ジェームズ・ボンドが初登場！\r\nこの作品から伝説は始まった！！",
+  "start": 1683201600000,
+  "end": 1683209700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
