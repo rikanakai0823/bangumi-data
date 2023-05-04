@@ -1,0 +1,25 @@
+{
+  "id": "idwx2k8",
+  "category": "sports",
+  "title": "トラックマンTV #593",
+  "fullTitle": "🈢トラックマンTV #593",
+  "detail": "「ヴィクトリアマイル（Ｇ１）、京王杯スプリングカップ（Ｇ２）他　展望」",
+  "start": 1683885600000,
+  "end": 1683891000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "ヴィクトリアマイル（Ｇ１）、京王杯スプリングカップ（Ｇ２）他　展望",
+  "episode": 593,
+  "flags": [
+    "生"
+  ]
+}

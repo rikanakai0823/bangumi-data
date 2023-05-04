@@ -1,0 +1,25 @@
+{
+  "id": "idoztcv",
+  "category": "sports",
+  "title": "ＭＬＢ２０２３「レイズ」対「ヤンキース」",
+  "fullTitle": "ＭＬＢ２０２３「レイズ」対「ヤンキース」🈔",
+  "detail": "　（試合開始　日本時間　８：０５）　【解説】小早川毅彦，【アナウンサー】曽根優　～ヤンキースタジアムから中継～",
+  "start": 1683846000000,
+  "end": 1683856200000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ヤンキース",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

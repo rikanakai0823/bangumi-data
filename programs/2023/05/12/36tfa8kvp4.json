@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8kvp4",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「たて座特別」「エメラルド賞」「トーラス賞」\n◇出演者\n【MC】\r\n前半：堀江舞\r\n後半：山田かれん\r\n【解説】\r\n《9R～12R》大木尚文(競馬ブック)",
+  "start": 1683872400000,
+  "end": 1683892800000,
+  "seconds": 20400,
+  "description": "「たて座特別」「エメラルド賞」「トーラス賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：堀江舞\r\n後半：山田かれん\r\n【解説】\r\n《9R～12R》大木尚文(競馬ブック)"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

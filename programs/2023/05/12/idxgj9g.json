@@ -1,0 +1,25 @@
+{
+  "id": "idxgj9g",
+  "category": "sports",
+  "title": "Bリーグ 2022-23 チャンピオンシップ 準々決勝 第1戦",
+  "fullTitle": "[生]Bリーグ 2022-23 チャンピオンシップ 準々決勝 第1戦",
+  "detail": "開催日：2023年5月12日\r\n会場：",
+  "start": 1683885600000,
+  "end": 1683898200000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
