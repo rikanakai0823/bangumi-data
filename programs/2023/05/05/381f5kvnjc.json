@@ -2,8 +2,8 @@
   "id": "381f5kvnjc",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース",
-  "detail": "",
+  "fullTitle": "ニュース🈑",
+  "detail": "ニュース",
   "start": 1683265783000,
   "end": 1683265783001,
   "seconds": 0.001,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
