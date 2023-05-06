@@ -1,0 +1,25 @@
+{
+  "id": "idxihr4",
+  "category": "sports",
+  "title": "ル・マン ザ・フィルム 2022",
+  "fullTitle": "[初]ル・マン ザ・フィルム 2022",
+  "detail": "アマチュア、プロを問わず186人のドライバーが挑み激闘を繰り広げた第90回ル・マン24時間レース。その24時間のドラマを記録。",
+  "start": 1684051200000,
+  "end": 1684056600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 90,
+  "flags": [
+    "初"
+  ]
+}

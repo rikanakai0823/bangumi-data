@@ -1,0 +1,25 @@
+{
+  "id": "idtreqy",
+  "category": "sports",
+  "title": "ＢＯＡＴ  ＲＡＣＥ  プレミア　ハートビートボート＋　～平和島G1・児島G1",
+  "fullTitle": "🈢ＢＯＡＴ  ＲＡＣＥ  プレミア　ハートビートボート＋　～平和島G1・児島G1",
+  "detail": "平和島G1初日ドリーム戦と、児島G1優勝戦の模様を生中継！ボートレース情報も盛りだくさん！　MC：磯山さやか　ゲスト：豊ノ島\r\n",
+  "start": 1684047600000,
+  "end": 1684050960000,
+  "seconds": 3360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
