@@ -1,0 +1,23 @@
+{
+  "id": "idsmqoa",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日　ｖｓ　巨人」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日　ｖｓ　巨人」",
+  "detail": "バンテリンドームから生中継。午後２時試合開始。最大延長午後５時５４分\r\n【解説】森繁和、【実況】高田寛之（ＣＢＣアナウンサー）",
+  "start": 1683435600000,
+  "end": 1683446040000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "中日　ｖｓ　巨人",
+  "episode": 1,
+  "flags": []
+}

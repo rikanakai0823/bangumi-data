@@ -1,0 +1,25 @@
+{
+  "id": "idttjgx",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　NHKマイルC（GⅠ）　新潟大賞典（GⅢ）",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　NHKマイルC（GⅠ）　新潟大賞典（GⅢ）",
+  "detail": "東京：NHKマイルカップ（GⅠ）新潟：新潟大賞典（GⅢ）京都：鞍馬S／解説：佐藤ゆきあき（競馬エイト）ゲスト：ほのか／大本命不在の3歳マイル王決定戦",
+  "start": 1683439200000,
+  "end": 1683442800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
