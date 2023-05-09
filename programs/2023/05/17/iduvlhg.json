@@ -1,0 +1,26 @@
+{
+  "id": "iduvlhg",
+  "category": "cinema",
+  "title": "オフィシャル・シークレット",
+  "fullTitle": "🈙🅍オフィシャル・シークレット",
+  "detail": "キーラ・ナイトレイ主演のポリティカルサスペンス。イラク戦争を阻止すべく、国家機密をリークした実在の英国諜報職員を描く。",
+  "start": 1684281600000,
+  "end": 1684288800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

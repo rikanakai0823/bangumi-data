@@ -1,0 +1,25 @@
+{
+  "id": "iduxoti",
+  "category": "cinema",
+  "title": "赤と黒（１９５４）",
+  "fullTitle": "🈙赤と黒（１９５４）",
+  "detail": "ジェラール・フィリップ主演でスタンダールの同名小説を映画化した古典ドラマ。野心を抱く青年のロマンスと数奇な運命を描く。",
+  "start": 1684258200000,
+  "end": 1684270200000,
+  "seconds": 12000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
