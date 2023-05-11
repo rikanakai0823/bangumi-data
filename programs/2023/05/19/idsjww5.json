@@ -1,0 +1,23 @@
+{
+  "id": "idsjww5",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　ヤクルト」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　ヤクルト」",
+  "detail": "横浜から生中継。よる６時試合開始。\r\n【解説】佐々木主浩、【実況】小笠原亘",
+  "start": 1684486800000,
+  "end": 1684497240000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　ヤクルト",
+  "episode": 1,
+  "flags": []
+}
