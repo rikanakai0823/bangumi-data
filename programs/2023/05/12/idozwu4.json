@@ -1,0 +1,23 @@
+{
+  "id": "idozwu4",
+  "category": "sports",
+  "title": "Ｂリーグ２０２２－２３",
+  "fullTitle": "Ｂリーグ２０２２－２３",
+  "detail": "",
+  "start": 1683881340000,
+  "end": 1683881400000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
