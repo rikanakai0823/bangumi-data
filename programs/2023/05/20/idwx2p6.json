@@ -1,0 +1,23 @@
+{
+  "id": "idwx2p6",
+  "category": "sports",
+  "title": "トレセンまるごと情報局 #437",
+  "fullTitle": "トレセンまるごと情報局 #437",
+  "detail": "東西トレーニングセンターのHOTな情報！オークス！",
+  "start": 1684531800000,
+  "end": 1684535400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 437,
+  "flags": []
+}
