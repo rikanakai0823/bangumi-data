@@ -1,0 +1,23 @@
+{
+  "id": "381jqz0j7z",
+  "category": "sports",
+  "title": "ボウリング２０２３",
+  "fullTitle": "ボウリング２０２３",
+  "detail": "",
+  "start": 1684650600000,
+  "end": 1684656000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

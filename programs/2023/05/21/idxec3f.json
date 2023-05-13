@@ -1,0 +1,25 @@
+{
+  "id": "idxec3f",
+  "category": "sports",
+  "title": "Bリーグ 2022-23 チャンピオンシップ 準決勝 第2戦",
+  "fullTitle": "[初]Bリーグ 2022-23 チャンピオンシップ 準決勝 第2戦",
+  "detail": "開催日：2023年5月19-23日\r\n会場：",
+  "start": 1684678500000,
+  "end": 1684687500000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}
