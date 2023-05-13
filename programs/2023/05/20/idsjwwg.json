@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "江戸前エルフ",
   "fullTitle": "江戸前エルフ",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1684519200000,
   "end": 1684521000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
