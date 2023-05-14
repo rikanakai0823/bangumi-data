@@ -1,0 +1,25 @@
+{
+  "id": "idxihui",
+  "category": "sports",
+  "title": "Bリーグ 2022-23 チャンピオンシップ 準決勝 第3戦",
+  "fullTitle": "[初]Bリーグ 2022-23 チャンピオンシップ 準決勝 第3戦",
+  "detail": "開催日：2023年5月19-23日\r\n会場：",
+  "start": 1684765800000,
+  "end": 1684774800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

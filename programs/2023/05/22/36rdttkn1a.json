@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkn1a",
+  "category": "news",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「かながわＭＩＲＡＩストリート」",
+  "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「かながわＭＩＲＡＩストリート」",
+  "detail": "県内の天気予報",
+  "start": 1684752900000,
+  "end": 1684753200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "かながわＭＩＲＡＩストリート",
+  "episode": 1,
+  "flags": []
+}

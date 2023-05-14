@@ -1,0 +1,25 @@
+{
+  "id": "idxihub",
+  "category": "sports",
+  "title": "メジャーリーグ中継2023 エンジェルス×ツインズ(5/21)",
+  "fullTitle": "[生]メジャーリーグ中継2023 エンジェルス×ツインズ(5/21)",
+  "detail": "ロサンゼルス・エンジェルス（大谷翔平 所属）×ミネソタ・ツインズ（前田健太 所属）\r\n\r\n解説：前田幸長\r\n実況：加藤暁",
+  "start": 1684699200000,
+  "end": 1684713600000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
