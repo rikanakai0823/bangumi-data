@@ -1,0 +1,25 @@
+{
+  "id": "idxec52",
+  "category": "sports",
+  "title": "プロ野球2023 広島×中日(5/23)",
+  "fullTitle": "[生]プロ野球2023 広島×中日(5/23)",
+  "detail": "J SPORTS STADIUM2023\r\n広島東洋カープ×中日ドラゴンズ\r\n\r\n特別解説：黒田博樹\r\n解説：野村謙二郎\r\n実況：小野宏樹（HTV）\r\n開催日：2023年5月23日",
+  "start": 1684832100000,
+  "end": 1684846800000,
+  "seconds": 14700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
