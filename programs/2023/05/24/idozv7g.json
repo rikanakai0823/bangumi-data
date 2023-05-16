@@ -1,0 +1,26 @@
+{
+  "id": "idozv7g",
+  "category": "sports",
+  "title": "プロ野球２０２３「巨人」対「ＤｅＮＡ」",
+  "fullTitle": "プロ野球２０２３「巨人」対「ＤｅＮＡ」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】伊東勤，藤川球児，【アナウンサー】早瀬雄一　～東京ドームから中継～",
+  "start": 1684918800000,
+  "end": 1684931400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ＤｅＮＡ",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

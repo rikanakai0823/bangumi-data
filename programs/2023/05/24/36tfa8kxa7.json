@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kxa7",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「桂坂賞」「第６８回大井記念（ＳⅠ）」「新緑賞」",
+  "start": 1684909200000,
+  "end": 1684929600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 68,
+  "flags": []
+}
