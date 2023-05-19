@@ -1,12 +1,16 @@
 {
   "id": "381f5kspwd",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ「Ｊリーグと私　３０年の物語」　ヴァンラーレ八戸編",
+  "fullTitle": "＃ＮＨＫ「Ｊリーグと私　３０年の物語」　ヴァンラーレ八戸編",
+  "detail": "【キャスター】守本奈実\n◇出演者\n【キャスター】守本奈実",
   "start": 1685014920000,
   "end": 1685015100000,
   "seconds": 180,
+  "description": "【キャスター】守本奈実",
+  "extra": {
+    "出演者": "【キャスター】守本奈実"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "Ｊリーグと私　３０年の物語",
   "episode": 1,
   "flags": []
 }
