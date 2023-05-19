@@ -1,0 +1,26 @@
+{
+  "id": "iduwhv0",
+  "category": "cinema",
+  "title": "グロリア　永遠の青春",
+  "fullTitle": "🈙🅍グロリア　永遠の青春",
+  "detail": "ジュリアン・ムーア主演のラブストーリー。結婚と子育て、そして離婚を経て自由を手に入れたアラフィフ女性の等身大の姿を描く。",
+  "start": 1685181600000,
+  "end": 1685188800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
