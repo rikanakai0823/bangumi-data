@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・イギリス編",
   "fullTitle": "夢の彼方に・イギリス編",
-  "detail": "",
+  "detail": "◇制作\nＴＢＳ－Ｖ",
   "start": 1684605600000,
   "end": 1684612800000,
   "seconds": 7200,
+  "description": "",
+  "extra": {
+    "制作": "ＴＢＳ－Ｖ"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

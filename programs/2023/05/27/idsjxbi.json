@@ -3,10 +3,14 @@
   "category": "music",
   "title": "親鸞聖人御誕生８５０年記念コンサート",
   "fullTitle": "親鸞聖人御誕生８５０年記念コンサート",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1685160000000,
   "end": 1685163600000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
