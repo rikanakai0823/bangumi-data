@@ -1,0 +1,23 @@
+{
+  "id": "ids2ytm",
+  "category": "sports",
+  "title": "第2回 ACNチャレンジレディスゴルフカップ",
+  "fullTitle": "第2回 ACNチャレンジレディスゴルフカップ",
+  "detail": "ツアーでの活躍を目指す女子ゴルファー40名が集結、18ホールストロークプレーによる短期決戦で頂点を目指す。激戦の模様をダイジェストで放送。",
+  "start": 1684555200000,
+  "end": 1684558800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "ACNチャレンジレディスゴルフカップ",
+  "episode": 2,
+  "flags": []
+}
