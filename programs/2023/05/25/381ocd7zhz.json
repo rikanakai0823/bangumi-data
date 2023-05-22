@@ -3,10 +3,15 @@
   "category": "variety",
   "title": "ＢＥ：ＦＩＲＳＴ　ＴＶ　Ｓｅａｓｏｎ２",
   "fullTitle": "ＢＥ：ＦＩＲＳＴ　ＴＶ　Ｓｅａｓｏｎ２",
-  "detail": "",
+  "detail": "BE:FIRSTの地上波冠番組第2弾！”1番のサプライズを起こす”というテーマで、BE:FIRSTが水族館を盛り上げる！「Message」のフルサイズTV初披露\n◇出演者\nBE:FIRST （SOTA、SHUNTO、MANATO、RYUHEI、JUNON、RYOKI、LEO）\r\n佐藤隆太\n◇番組内容\n第8回はSOTA、SHUNTO、JUNONが八景島シーパラダイスを盛り上げる・後編！水族館にいる生き物や飼育員、お客さんの笑顔を集めて、Smile AgainのSPバージョンを作る！イルカとふれあい、そして一緒にパフォーマンスまで！スタジオクイズでは、メンバーがイルカになりきって回答！？メンバーの可愛い姿に注目！番組後半に「Message」をフルサイズTV初披露！番組最後にハッピーなサプライズも！",
   "start": 1684943940000,
   "end": 1684945740000,
   "seconds": 1800,
+  "description": "BE:FIRSTの地上波冠番組第2弾！”1番のサプライズを起こす”というテーマで、BE:FIRSTが水族館を盛り上げる！「Message」のフルサイズTV初披露",
+  "extra": {
+    "出演者": "BE:FIRST （SOTA、SHUNTO、MANATO、RYUHEI、JUNON、RYOKI、LEO）\r\n佐藤隆太",
+    "番組内容": "第8回はSOTA、SHUNTO、JUNONが八景島シーパラダイスを盛り上げる・後編！水族館にいる生き物や飼育員、お客さんの笑顔を集めて、Smile AgainのSPバージョンを作る！イルカとふれあい、そして一緒にパフォーマンスまで！スタジオクイズでは、メンバーがイルカになりきって回答！？メンバーの可愛い姿に注目！番組後半に「Message」をフルサイズTV初披露！番組最後にハッピーなサプライズも！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
+  "subTitle": "Message",
   "episode": 1,
   "flags": []
 }
