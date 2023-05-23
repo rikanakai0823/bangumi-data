@@ -1,0 +1,23 @@
+{
+  "id": "idtv23y",
+  "category": "information",
+  "title": "ドクターリセラテレビショッピング",
+  "fullTitle": "ドクターリセラテレビショッピング",
+  "detail": "",
+  "start": 1684794600000,
+  "end": 1684796340000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
