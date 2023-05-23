@@ -1,0 +1,26 @@
+{
+  "id": "iduwtot",
+  "category": "cinema",
+  "title": "がんばれ！チョルス",
+  "fullTitle": "🈙🅍がんばれ！チョルス",
+  "detail": "チャ・スンウォンが主演したハートフルコメディ。頭脳は幼いままのイケメン男子と大人びた難病の少女が繰り広げる珍道中を描く。",
+  "start": 1685490300000,
+  "end": 1685497500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
