@@ -1,0 +1,25 @@
+{
+  "id": "idp490s",
+  "category": "music",
+  "title": "名曲アルバム「夕焼小焼」",
+  "fullTitle": "名曲アルバム「夕焼小焼」🅍",
+  "detail": "【合唱】ＮＨＫ東京児童合唱団，【管弦楽】東京フィルハーモニー交響楽団，【指揮】円光寺雅彦，【編曲】上柴はじめ",
+  "start": 1685566500000,
+  "end": 1685566800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "夕焼小焼",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}
