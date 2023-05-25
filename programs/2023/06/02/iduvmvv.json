@@ -1,0 +1,26 @@
+{
+  "id": "iduvmvv",
+  "category": "cinema",
+  "title": "スピリットウォーカー",
+  "fullTitle": "🈙🅍スピリットウォーカー",
+  "detail": "ユン・ゲサン主演のＳＦアクション。１２時間ごとに別の人間の体に乗り移る記憶喪失の男が、真相を突き止めようとする姿を描く。",
+  "start": 1685643300000,
+  "end": 1685650500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
