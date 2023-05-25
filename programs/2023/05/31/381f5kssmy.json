@@ -1,12 +1,16 @@
 {
   "id": "381f5kssmy",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　ＮＨＫ新人アナウンサー（１）研修・ニュース原稿を読む",
+  "fullTitle": "＃ＮＨＫ　ＮＨＫ新人アナウンサー（１）研修・ニュース原稿を読む",
+  "detail": "【キャスター】小田切千\n◇出演者\n【キャスター】小田切千",
   "start": 1685533320000,
   "end": 1685533500000,
   "seconds": 180,
+  "description": "【キャスター】小田切千",
+  "extra": {
+    "出演者": "【キャスター】小田切千"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": 1,
   "flags": []
 }

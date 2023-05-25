@@ -1,12 +1,16 @@
 {
   "id": "381f5kss9z",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　リスナーとつくるラジオ番組「梶裕貴のラジオ劇場」",
+  "fullTitle": "＃ＮＨＫ　リスナーとつくるラジオ番組「梶裕貴のラジオ劇場」",
+  "detail": "【キャスター】小田切千\n◇出演者\n【キャスター】小田切千",
   "start": 1685446920000,
   "end": 1685447100000,
   "seconds": 180,
+  "description": "【キャスター】小田切千",
+  "extra": {
+    "出演者": "【キャスター】小田切千"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "梶裕貴のラジオ劇場",
   "episode": 1,
   "flags": []
 }
