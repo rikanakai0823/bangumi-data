@@ -1,0 +1,25 @@
+{
+  "id": "idxgjj2",
+  "category": "sports",
+  "title": "サッカーFIFA U-20 W杯2023 #46 準々決勝",
+  "fullTitle": "[生]サッカーFIFA U-20 W杯2023 #46 準々決勝",
+  "detail": "FIFA U-20 ワールドカップ アルゼンチン 2023\r\n準々決勝\r\n\r\n開催日：2023年6月3日(現地)",
+  "start": 1685812500000,
+  "end": 1685822400000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "準々決勝",
+  "episode": 46,
+  "flags": [
+    "生"
+  ]
+}
