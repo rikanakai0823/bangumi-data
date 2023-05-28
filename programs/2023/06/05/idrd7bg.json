@@ -1,0 +1,23 @@
+{
+  "id": "idrd7bg",
+  "category": "information",
+  "title": "ショッピングＱ",
+  "fullTitle": "ショッピングＱ",
+  "detail": "",
+  "start": 1685916000000,
+  "end": 1685919600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
