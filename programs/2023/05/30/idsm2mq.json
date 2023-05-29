@@ -1,0 +1,23 @@
+{
+  "id": "idsm2mq",
+  "category": "music",
+  "title": "おはよう日本の歌魂▼火・角川博編",
+  "fullTitle": "おはよう日本の歌魂▼火・角川博編",
+  "detail": "【出演】（月）天童よしみ　（火）角川博　（水）市川由紀乃　（木）三山ひろし　（金）辰巳ゆうと",
+  "start": 1685389500000,
+  "end": 1685390040000,
+  "seconds": 540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "出演",
+  "episode": 1,
+  "flags": []
+}
