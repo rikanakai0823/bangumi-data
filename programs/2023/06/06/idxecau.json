@@ -1,0 +1,25 @@
+{
+  "id": "idxecau",
+  "category": "sports",
+  "title": "第72回 全日本大学野球選手権 1回戦/2回戦 ～神宮球場～",
+  "fullTitle": "[生]第72回 全日本大学野球選手権 1回戦/2回戦 ～神宮球場～",
+  "detail": "1回戦\r\n■桐蔭横浜大学 vs. 仙台大学\r\n■東京農業大学北海道オホーツク vs. 日本体育大学\r\n2回戦\r\n■第12試合",
+  "start": 1686009000000,
+  "end": 1686043800000,
+  "seconds": 34800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "全日本大学野球選手権 1回戦/2回戦 ～神宮球場～",
+  "episode": 72,
+  "flags": [
+    "生"
+  ]
+}
