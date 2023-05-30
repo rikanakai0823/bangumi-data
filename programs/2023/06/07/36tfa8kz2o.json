@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kz2o",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「へび座特別」「第６９回東京ダービー（ＳⅠ）（クリソベリル賞）」「夏木立賞」",
+  "start": 1686118800000,
+  "end": 1686139200000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 69,
+  "flags": []
+}

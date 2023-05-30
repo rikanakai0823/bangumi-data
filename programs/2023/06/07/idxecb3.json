@@ -1,0 +1,25 @@
+{
+  "id": "idxecb3",
+  "category": "sports",
+  "title": "第72回 全日本大学野球選手権 2回戦 ～神宮球場～",
+  "fullTitle": "[生]第72回 全日本大学野球選手権 2回戦 ～神宮球場～",
+  "detail": "■#13\r\n■#14\r\n■#15\r\n\r\n開催日：2023年6月7日\r\n球場：明治神宮野球場",
+  "start": 1686095400000,
+  "end": 1686130200000,
+  "seconds": 34800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "全日本大学野球選手権 2回戦 ～神宮球場～",
+  "episode": 72,
+  "flags": [
+    "生"
+  ]
+}
