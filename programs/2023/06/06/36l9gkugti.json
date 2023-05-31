@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２３年６月",
+  "detail": "２０２３年６月\n◇番組内容\n●BRADIO / 69 Party\r\n●Age Factory / Party night in summer dream\r\n●miao / エゴイスティックdeケット・シー\r\n●新しい学校のリーダーズ / Suki Lie\r\n●AMEFURASSHI / Love is love",
   "start": 1685981700000,
   "end": 1685982600000,
   "seconds": 900,
+  "description": "２０２３年６月",
+  "extra": {
+    "番組内容": "●BRADIO / 69 Party\r\n●Age Factory / Party night in summer dream\r\n●miao / エゴイスティックdeケット・シー\r\n●新しい学校のリーダーズ / Suki Lie\r\n●AMEFURASSHI / Love is love"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
