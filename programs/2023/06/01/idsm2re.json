@@ -1,0 +1,23 @@
+{
+  "id": "idsm2re",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「西武　ｖｓ　阪神」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「西武　ｖｓ　阪神」",
+  "detail": "ベルーナドーム（埼玉県所沢市）から生中継。よる６時試合開始。\r\n【解説】工藤公康、【実況】土井敏之",
+  "start": 1685610000000,
+  "end": 1685620440000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "西武　ｖｓ　阪神",
+  "episode": 1,
+  "flags": []
+}
