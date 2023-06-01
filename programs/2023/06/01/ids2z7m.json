@@ -1,0 +1,25 @@
+{
+  "id": "ids2z7m",
+  "category": "hobby",
+  "title": "カーグラフィックＴＶ　「スーパーミュージアム Part.1」",
+  "fullTitle": "🈑カーグラフィックＴＶ　「スーパーミュージアム Part.1」",
+  "detail": "古いクルマの走るイベント第1回「スーパーミュージアム」。主催者である堺正章氏にお越しいただき、お話を伺ってみることにする。",
+  "start": 1685626800000,
+  "end": 1685628600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "スーパーミュージアム",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

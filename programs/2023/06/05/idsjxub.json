@@ -3,10 +3,14 @@
   "category": "information",
   "title": "魔法のワンプレート",
   "fullTitle": "魔法のワンプレート",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1685948100000,
   "end": 1685948400000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
