@@ -3,10 +3,15 @@
   "category": "information",
   "title": "シアワセリフォーム",
   "fullTitle": "シアワセリフォーム",
-  "detail": "",
+  "detail": "◇出演者\n勝俣州和　はしのえみ\n◇ホームーページ\nhttps://www.bsfuji.tv/shiawaserifo-mu/",
   "start": 1685854800000,
   "end": 1685858400000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "勝俣州和　はしのえみ",
+    "ホームーページ": "https://www.bsfuji.tv/shiawaserifo-mu/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_1",

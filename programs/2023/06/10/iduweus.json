@@ -1,0 +1,26 @@
+{
+  "id": "iduweus",
+  "category": "cinema",
+  "title": "【最新作】オールド【メガヒット９】",
+  "fullTitle": "【最新作】🈙🅍オールド【メガヒット９】",
+  "detail": "М．ナイト・シャマラン監督によるスリラー。異常な速さで時間が過ぎるビーチを舞台に、数組の家族を待ち受ける謎と恐怖を描く。",
+  "start": 1686398400000,
+  "end": 1686405600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "メガヒット９",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
