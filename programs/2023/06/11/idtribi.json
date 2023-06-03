@@ -1,0 +1,23 @@
+{
+  "id": "idtribi",
+  "category": "music",
+  "title": "バーボンストリート",
+  "fullTitle": "バーボンストリート",
+  "detail": "ハマ・オカモト(OKAMOTO‘S)をMCに、プロの音楽プレイヤーにスポットを当てる音楽番組！音楽通による音楽通のための、トーク&ライブセッション！",
+  "start": 1686412800000,
+  "end": 1686416400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

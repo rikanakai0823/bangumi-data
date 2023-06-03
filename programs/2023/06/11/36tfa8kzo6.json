@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kzo6",
+  "category": "cinema",
+  "title": "映画『アラン・ドロンのゾロ』",
+  "fullTitle": "映画『アラン・ドロンのゾロ』",
+  "detail": " ",
+  "start": 1686475800000,
+  "end": 1686483300000,
+  "seconds": 7500,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

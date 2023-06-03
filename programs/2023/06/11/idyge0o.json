@@ -1,0 +1,23 @@
+{
+  "id": "idyge0o",
+  "category": "theater",
+  "title": "日曜ゴールデンシアター　地球ゴージャス「X day」",
+  "fullTitle": "日曜ゴールデンシアター　地球ゴージャス「X day」",
+  "detail": "",
+  "start": 1686475800000,
+  "end": 1686484440000,
+  "seconds": 8640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "X day",
+  "episode": 1,
+  "flags": []
+}

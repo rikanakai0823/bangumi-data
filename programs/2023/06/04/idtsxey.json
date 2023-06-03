@@ -1,0 +1,23 @@
+{
+  "id": "idtsxey",
+  "category": "music",
+  "title": "夢劇場音楽堂",
+  "fullTitle": "夢劇場音楽堂",
+  "detail": "4月に行われた「夢劇場歌謡フェスティバルinYOKOHAMA」の公演の模様を余すことなくお届けします。素敵な歌と社交ダンスの競演をお楽しみ下さい。\r\n",
+  "start": 1685818800000,
+  "end": 1685822400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "夢劇場歌謡フェスティバルinYOKOHAMA",
+  "episode": 1,
+  "flags": []
+}
