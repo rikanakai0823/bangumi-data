@@ -1,0 +1,23 @@
+{
+  "id": "idrfcf8",
+  "category": "cinema",
+  "title": "映画「裸の銃（ガン）を持つ男」",
+  "fullTitle": "映画「裸の銃（ガン）を持つ男」",
+  "detail": "",
+  "start": 1685786400000,
+  "end": 1685792400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
