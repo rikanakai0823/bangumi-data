@@ -1,0 +1,23 @@
+{
+  "id": "ids2zbc",
+  "category": "information",
+  "title": "ジャパネットたかた テレビショッピング",
+  "fullTitle": "ジャパネットたかた テレビショッピング",
+  "detail": "佐世保の自社スタジオから生放送でお届けするテレビショッピング！今だけの期間限定商品をお得に手にする大チャンス！さらに生放送だから紹介できる旬な商品も！",
+  "start": 1685844000000,
+  "end": 1685847360000,
+  "seconds": 3360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
