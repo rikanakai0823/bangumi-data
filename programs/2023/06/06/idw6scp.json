@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＱＶＣ　avex for health",
   "fullTitle": "ＱＶＣ　avex for health",
-  "detail": "楽しみながら健康を考えるブランド「avex for health」から、エイベックスのこだわりが詰まったとっておきのアイテムをお届けします。",
+  "detail": "楽しみながら健康を考えるブランド「avex for health」から、エイベックスのこだわりが詰まったとっておきのアイテムをお届けします。\n◇番組内容\n※番組の内容や放送日時は、変更となる場合がございます。",
   "start": 1685980800000,
   "end": 1685984400000,
   "seconds": 3600,
+  "description": "楽しみながら健康を考えるブランド「avex for health」から、エイベックスのこだわりが詰まったとっておきのアイテムをお届けします。",
+  "extra": {
+    "番組内容": "※番組の内容や放送日時は、変更となる場合がございます。"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS09_2",
