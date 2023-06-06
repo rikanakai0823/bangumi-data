@@ -1,0 +1,23 @@
+{
+  "id": "idp3rp2",
+  "category": "music",
+  "title": "さわやかウインドー「優駿の里　日高」",
+  "fullTitle": "さわやかウインドー「優駿の里　日高」",
+  "detail": "",
+  "start": 1686675600000,
+  "end": 1686677400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "優駿の里　日高",
+  "episode": 1,
+  "flags": []
+}
