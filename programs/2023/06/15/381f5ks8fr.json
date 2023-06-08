@@ -1,12 +1,16 @@
 {
   "id": "381f5ks8fr",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　リスナーと作るラジオ番組「梶裕貴のラジオ劇場」",
+  "fullTitle": "＃ＮＨＫ　リスナーと作るラジオ番組「梶裕貴のラジオ劇場」",
+  "detail": "【キャスター】守本奈実\n◇出演者\n【キャスター】守本奈実",
   "start": 1686829320000,
   "end": 1686829500000,
   "seconds": 180,
+  "description": "【キャスター】守本奈実",
+  "extra": {
+    "出演者": "【キャスター】守本奈実"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "梶裕貴のラジオ劇場",
   "episode": 1,
   "flags": []
 }
