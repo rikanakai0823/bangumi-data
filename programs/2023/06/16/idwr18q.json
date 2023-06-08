@@ -1,0 +1,23 @@
+{
+  "id": "idwr18q",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「生命と環境の倫理('10)第１２回・１３回」",
+  "start": 1686911400000,
+  "end": 1686916800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "生命と環境の倫理('10)第１２回・１３回",
+  "episode": 12,
+  "flags": []
+}
