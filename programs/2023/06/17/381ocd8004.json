@@ -1,0 +1,25 @@
+{
+  "id": "381ocd8004",
+  "category": "variety",
+  "title": "ヒルナンデス！特別編",
+  "fullTitle": "ヒルナンデス！特別編🈑",
+  "detail": "",
+  "start": 1686976200000,
+  "end": 1686979800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
