@@ -1,0 +1,23 @@
+{
+  "id": "idyge6f",
+  "category": "theater",
+  "title": "日曜ゴールデンシアター　シネマ歌舞伎『女殺油地獄』",
+  "fullTitle": "日曜ゴールデンシアター　シネマ歌舞伎『女殺油地獄』",
+  "detail": "",
+  "start": 1687082100000,
+  "end": 1687089600000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

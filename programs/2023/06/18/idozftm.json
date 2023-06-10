@@ -1,0 +1,23 @@
+{
+  "id": "idozftm",
+  "category": "sports",
+  "title": "Ｊリーグタイム「Ｊ２第２１節」",
+  "fullTitle": "Ｊリーグタイム「Ｊ２第２１節」",
+  "detail": "【解説】槙野智章，【キャスター】横井健吉，高階亜理沙",
+  "start": 1687096200000,
+  "end": 1687098600000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "Ｊ２第２１節",
+  "episode": 1,
+  "flags": []
+}

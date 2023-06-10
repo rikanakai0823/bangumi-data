@@ -1,0 +1,23 @@
+{
+  "id": "idt66zs",
+  "category": "sports",
+  "title": "スターツシニアゴルフトーナメント",
+  "fullTitle": "スターツシニアゴルフトーナメント",
+  "detail": "シニアデビュー戦となる片山晋呉、昨年王者の藤田寛之をはじめ歴代王者の尾崎直道、倉本昌弘、中嶋常幸、谷口徹などスター選手達が競演！熱戦の最終日を生中継！",
+  "start": 1687060800000,
+  "end": 1687066200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
