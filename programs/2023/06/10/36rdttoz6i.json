@@ -1,0 +1,23 @@
+{
+  "id": "36rdttoz6i",
+  "category": "information",
+  "title": "医ＴＶ",
+  "fullTitle": "医ＴＶ",
+  "detail": "この番組は３回シリーズで感染症法上５類に移行した新型コロナ感染症についてスポットをあてています。第２回となる今回はワクチンのメカニズムと効果について解説します。",
+  "start": 1686369300000,
+  "end": 1686369600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ３",
+    "id": "1hjjdzu",
+    "sid": 24634,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 7
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}
