@@ -3,10 +3,14 @@
   "category": "information",
   "title": "オトナを楽しもう　ＢＳ－ＴＢＳナビ",
   "fullTitle": "オトナを楽しもう　ＢＳ－ＴＢＳナビ",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1687011300000,
   "end": 1687011840000,
   "seconds": 540,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
