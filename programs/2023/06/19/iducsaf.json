@@ -1,0 +1,26 @@
+{
+  "id": "iducsaf",
+  "category": "cinema",
+  "title": "必殺始末人",
+  "fullTitle": "🈙必殺始末人🈑",
+  "detail": "１９９６年、映画「必殺！主水死す」でいったん幕を閉じた人気の「必殺」シリーズ。翌年、当時まだアイドルだった田原俊彦を主役に迎えて誕生した同シリーズの新生第１作。",
+  "start": 1687119900000,
+  "end": 1687125300000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
