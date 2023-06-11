@@ -1,0 +1,23 @@
+{
+  "id": "ids0udy",
+  "category": "information",
+  "title": "医TV",
+  "fullTitle": "医TV　",
+  "detail": "今年5月に感染症法上、5類感染症に移行した新型コロナウイルス感染症について3回シリーズで放送。第2回はワクチンのメカニズムと効果について解説する。",
+  "start": 1686441300000,
+  "end": 1686441600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}
