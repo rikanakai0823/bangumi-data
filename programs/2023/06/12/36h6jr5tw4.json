@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5tw4",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽そうだ！柴田院長に聞いてみよう▽クックハンド▽おいしさまるごとマイスター▽ＪＰＣＡ  Ｓｈｏｗ２０２３▽「テレ玉くん天気予報」桶川べに花畑から中継！",
+  "start": 1686556800000,
+  "end": 1686559500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉３",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "テレ玉くん天気予報",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
