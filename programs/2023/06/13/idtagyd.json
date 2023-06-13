@@ -1,0 +1,25 @@
+{
+  "id": "idtagyd",
+  "category": "music",
+  "title": "日本歌手協会・歌の祭典２０２３",
+  "fullTitle": "日本歌手協会・歌の祭典２０２３🈑",
+  "detail": "今年４月に「東京・なかのZERO大ホール」で行われた、創立60周年を迎えた日本歌手協会のコンサートを二夜連続でお届けします。",
+  "start": 1686646680000,
+  "end": 1686657240000,
+  "seconds": 10560,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "東京・なかのZERO大ホール",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
