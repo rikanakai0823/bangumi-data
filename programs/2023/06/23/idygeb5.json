@@ -1,0 +1,23 @@
+{
+  "id": "idygeb5",
+  "category": "information",
+  "title": "映画「大名倒産」公開記念特番",
+  "fullTitle": "映画「大名倒産」公開記念特番",
+  "detail": "本日全国公開の映画「大名倒産」の公開を記念して、映画の見どころを紹介",
+  "start": 1687525200000,
+  "end": 1687527000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "大名倒産",
+  "episode": 1,
+  "flags": []
+}

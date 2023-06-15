@@ -1,0 +1,25 @@
+{
+  "id": "idx1e5q",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "🈑ちびまる子ちゃん ベストセレクション",
+  "detail": "#522「楽しい歯みがき」の巻／「ファッションモデルになろう！」の巻\r\n#523「おはしで四苦八苦」の巻／「砂時計を作ろ…",
+  "start": 1687492800000,
+  "end": 1687496400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "楽しい歯みがき",
+  "episode": 522,
+  "flags": [
+    "字"
+  ]
+}
