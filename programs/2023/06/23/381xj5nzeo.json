@@ -1,12 +1,16 @@
 {
   "id": "381xj5nzeo",
-  "category": "etc",
-  "title": "調整中＜ノイタミナ＞",
-  "fullTitle": "調整中＜ノイタミナ＞",
-  "detail": "",
+  "category": "anime",
+  "title": "王様ランキング特別番組　勇気の記念碑＜ノイタミナ＞",
+  "fullTitle": "王様ランキング特別番組　勇気の記念碑＜ノイタミナ＞",
+  "detail": "◇番組内容",
   "start": 1687449300000,
   "end": 1687451100000,
   "seconds": 1800,
+  "description": "　",
+  "extra": {
+    "番組内容": "　"
+  },
   "channel": {
     "type": "GR",
     "channel": "21",
