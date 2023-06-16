@@ -1,0 +1,23 @@
+{
+  "id": "idtv24a",
+  "category": "documentary",
+  "title": "鎮守の森の物語",
+  "fullTitle": "鎮守の森の物語",
+  "detail": "",
+  "start": 1686920100000,
+  "end": 1686920400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
