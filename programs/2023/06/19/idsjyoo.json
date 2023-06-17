@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ビヨンドモビリティ～移動の自由を～",
   "fullTitle": "ビヨンドモビリティ～移動の自由を～",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1687175640000,
   "end": 1687176000000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
