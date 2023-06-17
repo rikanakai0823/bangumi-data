@@ -1,0 +1,25 @@
+{
+  "id": "idxeci6",
+  "category": "sports",
+  "title": "プロ野球2023 広島×巨人(6/25)",
+  "fullTitle": "[生]プロ野球2023 広島×巨人(6/25)",
+  "detail": "J SPORTS STADIUM2023\r\n広島東洋カープ×読売ジャイアンツ\r\n\r\n解説：達川光男、安部友裕\r\n実況：足立清紀\r\nリポーター：佐久間むつみ",
+  "start": 1687666500000,
+  "end": 1687681800000,
+  "seconds": 15300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
