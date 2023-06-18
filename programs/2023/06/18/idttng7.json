@@ -1,0 +1,25 @@
+{
+  "id": "idttng7",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　ユニコーンS（GⅢ）　マーメイドS（GⅢ）",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　ユニコーンS（GⅢ）　マーメイドS（GⅢ）",
+  "detail": "東京：ユニコーンS（GⅢ）阪神：マーメイドS（GⅢ）函館：UHB杯／解説：椋木宏（競馬エイト）ゲスト：松田丈志（元競泳日本代表）／名馬を輩出する出世レース",
+  "start": 1687068000000,
+  "end": 1687071600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
