@@ -1,0 +1,23 @@
+{
+  "id": "36rdttozu4",
+  "category": "information",
+  "title": "医ＴＶ",
+  "fullTitle": "医ＴＶ",
+  "detail": "この番組は３回シリーズで感染症法上５類に移行した新型コロナ感染症についてスポットをあてています。第３回はワクチン接種の対象と感染予防について解説します。",
+  "start": 1687060500000,
+  "end": 1687060800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ３",
+    "id": "1hjjdzu",
+    "sid": 24634,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 7
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": []
+}
