@@ -1,8 +1,8 @@
 {
   "id": "idvjksi",
   "category": "information",
-  "title": "ビックカメラ　コジマ　メガセール",
-  "fullTitle": "ビックカメラ　コジマ　メガセール",
+  "title": "ビックカメラLIVEショッピング",
+  "fullTitle": "🈢ビックカメラLIVEショッピング",
   "detail": "ビックカメラ　コジマ　メガセール！大人気商品を生放送で実演紹介！耳より情報も満載！",
   "start": 1687584600000,
   "end": 1687586400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }
