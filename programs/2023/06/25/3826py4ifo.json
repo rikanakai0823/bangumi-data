@@ -1,9 +1,9 @@
 {
   "id": "3826py4ifo",
-  "category": "information",
-  "title": "番組未定",
-  "fullTitle": "番組未定",
-  "detail": "",
+  "category": "music",
+  "title": "テレ東音楽祭　予習復習スぺシャル",
+  "fullTitle": "テレ東音楽祭　予習復習スぺシャル🈑",
+  "detail": "６／２８(水)生放送の「テレ東音楽祭２０２３夏～思わず歌いたくなる最強ヒットソング１００連発～」その前に、過去の見どころを一挙に大放出！",
   "start": 1687676400000,
   "end": 1687678200000,
   "seconds": 1800,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 27
   },
-  "subTitle": "",
+  "subTitle": "テレ東音楽祭２０２３夏～思わず歌いたくなる最強ヒットソング１００連発～",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
