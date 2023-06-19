@@ -1,0 +1,23 @@
+{
+  "id": "idwr6rk",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「放送大学大学院ガイド」",
+  "start": 1687834800000,
+  "end": 1687836600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ｅｘ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "放送大学大学院ガイド",
+  "episode": 1,
+  "flags": []
+}
