@@ -1,12 +1,12 @@
 {
   "id": "36l9gkuiv2",
-  "category": "etc",
+  "category": "news",
   "title": "試験電波",
   "fullTitle": "試験電波",
   "detail": " ",
-  "start": 1687628100000,
+  "start": 1687629900000,
   "end": 1687636500000,
-  "seconds": 8400,
+  "seconds": 6600,
   "channel": {
     "type": "GR",
     "channel": "30",
