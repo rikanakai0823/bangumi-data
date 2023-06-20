@@ -1,0 +1,25 @@
+{
+  "id": "idtvssp",
+  "category": "sports",
+  "title": "ＢＯＡＴＲＡＣＥプレミア　SG第33回グランドチャンピオン　～ドリーム戦～徳山",
+  "fullTitle": "🈢ＢＯＡＴＲＡＣＥプレミア　SG第33回グランドチャンピオン　～ドリーム戦～徳山",
+  "detail": "SGで活躍した選手が顔を揃える、SGの中でも特にレベルが高い“SGの中のSG”レース！第33回グランドチャンピオン～ドリーム戦を徳山から生中継！",
+  "start": 1687244400000,
+  "end": 1687247700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 33,
+  "flags": [
+    "生"
+  ]
+}
