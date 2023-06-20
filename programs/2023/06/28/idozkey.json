@@ -1,0 +1,26 @@
+{
+  "id": "idozkey",
+  "category": "documentary",
+  "title": "街角ピアノ「鹿児島」",
+  "fullTitle": "街角ピアノ「鹿児島」🈑🈞",
+  "detail": "鹿児島市の一番街商店街に置かれたピアノ。日本で最初のストリートピアノといわれる。清掃会社の男性、デート中のカップル、９０歳の元教師…どんな思いで曲を弾くのか",
+  "start": 1687932000000,
+  "end": 1687934700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "鹿児島",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8geb",
+  "category": "drama",
+  "title": "シェキラ！#10",
+  "fullTitle": "シェキラ！#10🈔",
+  "detail": "#10「恋人紹介します！」",
+  "start": 1687890600000,
+  "end": 1687892400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "恋人紹介します！",
+  "episode": 10,
+  "flags": [
+    "二"
+  ]
+}
