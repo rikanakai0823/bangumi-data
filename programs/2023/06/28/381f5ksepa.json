@@ -1,12 +1,16 @@
 {
   "id": "381f5ksepa",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　地域局発　水害防止キャンペーン（１）熊本局",
+  "fullTitle": "＃ＮＨＫ　地域局発　水害防止キャンペーン（１）熊本局",
+  "detail": "【キャスター】二宮直輝\n◇出演者\n【キャスター】二宮直輝",
   "start": 1687952520000,
   "end": 1687952700000,
   "seconds": 180,
+  "description": "【キャスター】二宮直輝",
+  "extra": {
+    "出演者": "【キャスター】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": 1,
   "flags": []
 }
