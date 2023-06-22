@@ -1,12 +1,16 @@
 {
   "id": "36l9gkuivg",
   "category": "sports",
-  "title": "ＣＨＩＢＡ　ＦＯＯＴＢＡＬＬ　ＴＯＵＲＮＡＭＥＮＴ　２０２３",
-  "fullTitle": "ＣＨＩＢＡ　ＦＯＯＴＢＡＬＬ　ＴＯＵＲＮＡＭＥＮＴ　２０２３",
-  "detail": "～コロナに負けないジュニアサッカー大会～",
+  "title": "CHIBA FOOTBALL TOURNAMENT 2023～コロナに負けないジュニアサッカー大会～",
+  "fullTitle": "CHIBA FOOTBALL TOURNAMENT 2023～コロナに負けないジュニアサッカー大会～",
+  "detail": "鴨川市で開催された少年サッカー大会「CHIBA FOOTBALL TOURNAMENT 2023」。大会の様子を振り返ります！\n◇番組内容\n鴨川市で開催された少年サッカー大会「CHIBA FOOTBALL TOURNAMENT 2023」。これまでのコロナ禍で県大会などが中止となったことを受けて、千葉市のチームが中心となり、去年から開催しています。決勝戦は手に汗握る展開に！大会アンバサダーを務めるのは元日本代表で千葉市出身の羽生直剛さん。羽生さんが子どもたちに伝えたいこととは？",
   "start": 1687689900000,
   "end": 1687690800000,
   "seconds": 900,
+  "description": "鴨川市で開催された少年サッカー大会「CHIBA FOOTBALL TOURNAMENT 2023」。大会の様子を振り返ります！",
+  "extra": {
+    "番組内容": "鴨川市で開催された少年サッカー大会「CHIBA FOOTBALL TOURNAMENT 2023」。これまでのコロナ禍で県大会などが中止となったことを受けて、千葉市のチームが中心となり、去年から開催しています。決勝戦は手に汗握る展開に！大会アンバサダーを務めるのは元日本代表で千葉市出身の羽生直剛さん。羽生さんが子どもたちに伝えたいこととは？"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 10
   },
-  "subTitle": "",
+  "subTitle": "CHIBA FOOTBALL TOURNAMENT 2023",
   "episode": 1,
   "flags": []
 }
