@@ -1,0 +1,25 @@
+{
+  "id": "idx1eax",
+  "category": "anime",
+  "title": "ちびまる子ちゃん ベストセレクション",
+  "fullTitle": "🈑ちびまる子ちゃん ベストセレクション",
+  "detail": "#532「夏のかるた」の巻／「ハートのアップリケ」の巻\r\n#533「真夏の枕」の巻／「備えあれば憂いなし」の巻\r\n静岡県清水…",
+  "start": 1688097600000,
+  "end": 1688101200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "夏のかるた",
+  "episode": 532,
+  "flags": [
+    "字"
+  ]
+}
