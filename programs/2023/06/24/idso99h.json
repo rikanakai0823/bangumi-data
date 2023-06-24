@@ -1,0 +1,23 @@
+{
+  "id": "idso99h",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　阪神」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　阪神」",
+  "detail": "横浜から生中継。ごご２時試合開始。\r\n【解説】工藤公康、【実況】佐藤文康",
+  "start": 1687582800000,
+  "end": 1687593240000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　阪神",
+  "episode": 1,
+  "flags": []
+}
