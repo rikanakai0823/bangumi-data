@@ -1,0 +1,23 @@
+{
+  "id": "idygeio",
+  "category": "theater",
+  "title": "週末ミライシアター　劇団時間制作「迷子」",
+  "fullTitle": "週末ミライシアター　劇団時間制作「迷子」",
+  "detail": "",
+  "start": 1688225400000,
+  "end": 1688232480000,
+  "seconds": 7080,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "迷子",
+  "episode": 1,
+  "flags": []
+}
