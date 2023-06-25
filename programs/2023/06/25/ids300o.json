@@ -1,0 +1,23 @@
+{
+  "id": "ids300o",
+  "category": "music",
+  "title": "暦に集う　「ウミネコ」",
+  "fullTitle": "暦に集う　「ウミネコ」",
+  "detail": "青森県八戸市の蕪島に、春から夏にかけて集ってくる鳥がいます。ネコのような鳴き声が特徴のウミネコです。全国に生息する鳥ですが、これほど集うのは珍しい光景です。",
+  "start": 1687694040000,
+  "end": 1687694400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "ウミネコ",
+  "episode": 1,
+  "flags": []
+}
