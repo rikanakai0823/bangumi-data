@@ -1,0 +1,25 @@
+{
+  "id": "idtahaz",
+  "category": "anime",
+  "title": "ＢＩＲＤＩＥ　ＷＩＮＧ＃２５「蘇る約束」",
+  "fullTitle": "ＢＩＲＤＩＥ　ＷＩＮＧ🈡＃２５「蘇る約束」",
+  "detail": "「もう一度、ゴルフで勝負したい」\r\n葵との約束を果たすため、ヨーロッパの一国、ナフレスから日本にやって来たイヴ。\r\nSeason2、いよいよ開幕！",
+  "start": 1687707300000,
+  "end": 1687709100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "蘇る約束",
+  "episode": 25,
+  "flags": [
+    "終"
+  ]
+}
