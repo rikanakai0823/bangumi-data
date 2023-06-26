@@ -1,0 +1,25 @@
+{
+  "id": "idwx3je",
+  "category": "sports",
+  "title": "ALL IN LINE ！2023～世界の競馬～(愛ダービー中継） #74",
+  "fullTitle": "🈞ALL IN LINE ！2023～世界の競馬～(愛ダービー中継） #74",
+  "detail": "愛ダービー中継",
+  "start": 1688400000000,
+  "end": 1688403600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 74,
+  "flags": [
+    "再"
+  ]
+}

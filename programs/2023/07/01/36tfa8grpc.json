@@ -3,10 +3,17 @@
   "category": "music",
   "title": "アニメノウタ　スペシャル　★３ＤＣＧバーチャル音楽ライブ番組",
   "fullTitle": "アニメノウタ　スペシャル　★３ＤＣＧバーチャル音楽ライブ番組",
-  "detail": " ",
+  "detail": "人気ＶＴｕｂｅｒの樋口楓がＭＣを務め、アニメカルチャーで活躍するアーティストのパフォーマンスをバーチャルライブでお届けする音楽番組「アニメノウタ」。\n◇番組内容①\nアニメカルチャーで活躍するアーティストのパフォーマンスをバーチャルライブでお届けする音楽ライブ番組。毎回、ゲストアーティストによる3DCGバーチャルライブは必見。▽今までの「アニメノウタ」出演アーティストのライブを再放送！総勢8組のアーティストが3DCGバーチャルライブを披露！▽人気ＶＴｕｂｅｒ、樋口楓がMCを担当！\n◇番組内容②\n【ゲストアーティスト】\r\n▽ラックライフ「しるし」\r\n▽森久保祥太郎「HYSTERIC CARAVAN」\r\n▽TRUE「rebind」\r\n▽鈴木愛奈「Dash and Go!」\r\n▽SERRA「Always and Forever」\r\n▽堀内まり菜「Just a little bit」\r\n▽MindaRyn「SURVIVE」\r\n▽来栖りん「I wish」\n◇出演者\n【MC】樋口楓\r\n【ゲストアーティスト】ラックライフ、森久保祥太郎、TRUE、鈴木愛奈、SERRA、堀内まり菜、MindaRyn、来栖りん\n◇おしらせ\n【Twitter】@animeno_uta",
   "start": 1688139000000,
   "end": 1688140800000,
   "seconds": 1800,
+  "description": "人気ＶＴｕｂｅｒの樋口楓がＭＣを務め、アニメカルチャーで活躍するアーティストのパフォーマンスをバーチャルライブでお届けする音楽番組「アニメノウタ」。",
+  "extra": {
+    "番組内容①": "アニメカルチャーで活躍するアーティストのパフォーマンスをバーチャルライブでお届けする音楽ライブ番組。毎回、ゲストアーティストによる3DCGバーチャルライブは必見。▽今までの「アニメノウタ」出演アーティストのライブを再放送！総勢8組のアーティストが3DCGバーチャルライブを披露！▽人気ＶＴｕｂｅｒ、樋口楓がMCを担当！",
+    "番組内容②": "【ゲストアーティスト】\r\n▽ラックライフ「しるし」\r\n▽森久保祥太郎「HYSTERIC CARAVAN」\r\n▽TRUE「rebind」\r\n▽鈴木愛奈「Dash and Go!」\r\n▽SERRA「Always and Forever」\r\n▽堀内まり菜「Just a little bit」\r\n▽MindaRyn「SURVIVE」\r\n▽来栖りん「I wish」",
+    "出演者": "【MC】樋口楓\r\n【ゲストアーティスト】ラックライフ、森久保祥太郎、TRUE、鈴木愛奈、SERRA、堀内まり菜、MindaRyn、来栖りん",
+    "おしらせ": "【Twitter】@animeno_uta\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +24,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "アニメノウタ",
   "episode": 1,
   "flags": []
 }

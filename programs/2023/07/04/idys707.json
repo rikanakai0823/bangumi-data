@@ -1,0 +1,23 @@
+{
+  "id": "idys707",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと #335",
+  "fullTitle": "競輪LIVE！チャリロトよしもと #335",
+  "detail": "競輪LIVE！チャリロトよしもと #335",
+  "start": 1688475600000,
+  "end": 1688479200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 335,
+  "flags": []
+}
