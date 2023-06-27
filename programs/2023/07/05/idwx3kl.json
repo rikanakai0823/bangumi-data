@@ -1,0 +1,23 @@
+{
+  "id": "idwx3kl",
+  "category": "sports",
+  "title": "競馬ブロス #14",
+  "fullTitle": "競馬ブロス #14",
+  "detail": "馬好きブラザーズと石神深一騎手の夜な夜な競馬談義",
+  "start": 1688540400000,
+  "end": 1688544000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 14,
+  "flags": []
+}
