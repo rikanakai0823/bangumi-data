@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２３年７月",
+  "detail": "２０２３年７月\n◇番組内容\n●Honey Parasol / ギュッとそっと\r\n●Asilo / Melody\r\n●Petit Brabancom / 孤動\r\n●Raon / NEON\r\n●YABACUE IDOL /ヤバヤバナイト",
   "start": 1688400900000,
   "end": 1688401800000,
   "seconds": 900,
+  "description": "２０２３年７月",
+  "extra": {
+    "番組内容": "●Honey Parasol / ギュッとそっと\r\n●Asilo / Melody\r\n●Petit Brabancom / 孤動\r\n●Raon / NEON\r\n●YABACUE IDOL /ヤバヤバナイト"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
