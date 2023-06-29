@@ -1,0 +1,25 @@
+{
+  "id": "idozqrv",
+  "category": "sports",
+  "title": "クライミングワールドカップ",
+  "fullTitle": "クライミングワールドカップ🈑",
+  "detail": "",
+  "start": 1688739600000,
+  "end": 1688742600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

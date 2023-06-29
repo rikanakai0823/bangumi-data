@@ -1,0 +1,25 @@
+{
+  "id": "idxzzhg",
+  "category": "cinema",
+  "title": "ブラック・シー",
+  "fullTitle": "🈙ブラック・シー",
+  "detail": "ジュード・ロウ主演の深海サスペンスアドベンチャー。黒海の底に沈むUボートには莫大な金塊が積まれていた。男たちは一獲千金を夢見て老朽化した潜水艦に乗り込むが……?",
+  "start": 1688657400000,
+  "end": 1688664600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
