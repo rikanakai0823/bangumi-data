@@ -1,9 +1,9 @@
 {
   "id": "idymke7",
-  "category": "etc",
-  "title": "番組未定",
-  "fullTitle": "番組未定",
-  "detail": "",
+  "category": "hobby",
+  "title": "～MリーグNo.1への道～BEAST ROAD　＃１",
+  "fullTitle": "🈟～MリーグNo.1への道～BEAST ROAD　＃１",
+  "detail": "MリーグにBSJapanextが参戦！\r\nその名は「BEAST Japanext」\r\nチームの裏側や、Mリーグを駆け上がっていく軌跡を追いかけます！",
   "start": 1688562000000,
   "end": 1688565600000,
   "seconds": 3600,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "新"
+  ]
 }
