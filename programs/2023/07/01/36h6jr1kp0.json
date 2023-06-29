@@ -3,10 +3,14 @@
   "category": "information",
   "title": "いまドキッ！埼玉🈐",
   "fullTitle": "いまドキッ！埼玉🈐🅂",
-  "detail": "",
+  "detail": "変わり色野菜を特産品に！▽伝統と思いを繋ぐ「茅の輪」\n◇出演者\n司会：松井咲子　リポーター：カナイ　才木玲佳　ナレーター：明坂聡美",
   "start": 1688167800000,
   "end": 1688169600000,
   "seconds": 1800,
+  "description": "変わり色野菜を特産品に！▽伝統と思いを繋ぐ「茅の輪」",
+  "extra": {
+    "出演者": "司会：松井咲子　リポーター：カナイ　才木玲佳　ナレーター：明坂聡美"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 13
   },
-  "subTitle": "",
+  "subTitle": "茅の輪",
   "episode": 1,
   "flags": [
     "S"
