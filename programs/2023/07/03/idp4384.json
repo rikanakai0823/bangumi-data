@@ -1,0 +1,23 @@
+{
+  "id": "idp4384",
+  "category": "information",
+  "title": "４Ｋ視聴方法",
+  "fullTitle": "４Ｋ視聴方法",
+  "detail": "【出演】二宮直輝",
+  "start": 1688352000000,
+  "end": 1688352300000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "出演",
+  "episode": 1,
+  "flags": []
+}
