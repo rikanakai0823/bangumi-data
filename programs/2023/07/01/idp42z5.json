@@ -1,0 +1,23 @@
+{
+  "id": "idp42z5",
+  "category": "information",
+  "title": "４Ｋ視聴方法",
+  "fullTitle": "４Ｋ視聴方法",
+  "detail": "",
+  "start": 1688178300000,
+  "end": 1688178600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
