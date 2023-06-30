@@ -1,12 +1,16 @@
 {
   "id": "381f5ksisl",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　今夜と週末のおすすめ番組",
+  "fullTitle": "＃ＮＨＫ　今夜と週末のおすすめ番組",
+  "detail": "【キャスター】守本奈実\n◇出演者\n【キャスター】守本奈実",
   "start": 1688730120000,
   "end": 1688730300000,
   "seconds": 180,
+  "description": "【キャスター】守本奈実",
+  "extra": {
+    "出演者": "【キャスター】守本奈実"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": 1,
   "flags": []
 }
