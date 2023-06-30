@@ -1,0 +1,23 @@
+{
+  "id": "idyrg89",
+  "category": "cinema",
+  "title": "【よしもとMOVIES】HERO",
+  "fullTitle": "【よしもとMOVIES】HERO",
+  "detail": "自分をヒーローであると信じているサラリーマンが、地球制服を狙う悪に立ち上がろうとする物語。",
+  "start": 1688778000000,
+  "end": 1688779800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

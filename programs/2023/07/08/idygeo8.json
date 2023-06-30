@@ -1,0 +1,23 @@
+{
+  "id": "idygeo8",
+  "category": "theater",
+  "title": "松竹新喜劇傑作選「初午の日に」",
+  "fullTitle": "松竹新喜劇傑作選「初午の日に」",
+  "detail": "",
+  "start": 1688788800000,
+  "end": 1688794200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "初午の日に",
+  "episode": 1,
+  "flags": []
+}

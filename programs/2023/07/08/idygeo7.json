@@ -1,0 +1,23 @@
+{
+  "id": "idygeo7",
+  "category": "theater",
+  "title": "特選落語　瀧川鯉昇「馬のす」「宿屋の富」",
+  "fullTitle": "特選落語　瀧川鯉昇「馬のす」「宿屋の富」",
+  "detail": "",
+  "start": 1688785200000,
+  "end": 1688788800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "宿屋の富",
+  "episode": 1,
+  "flags": []
+}

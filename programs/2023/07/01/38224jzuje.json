@@ -1,0 +1,23 @@
+{
+  "id": "38224jzuje",
+  "category": "news",
+  "title": "朝まで生テレビ！",
+  "fullTitle": "朝まで生テレビ！",
+  "detail": "1987年スタートの深夜討論番組。今月は「検証激論！岸田政権　ここがイイ！ここがダメ！」をお送りします。",
+  "start": 1688142300000,
+  "end": 1688153100000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "検証激論！岸田政権　ここがイイ！ここがダメ！",
+  "episode": 1,
+  "flags": []
+}
