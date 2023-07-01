@@ -1,0 +1,26 @@
+{
+  "id": "iducuc1",
+  "category": "cinema",
+  "title": "木村家の人びと",
+  "fullTitle": "🈙木村家の人びと🈑",
+  "detail": "バブル時代の日本を舞台に、家族一丸となってひたすら小金をためることに励む奇妙な一家の日常を、皮肉と風刺を交えながら明るくユーモラスに描いた異色のホームコメディ。",
+  "start": 1688882400000,
+  "end": 1688889600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
