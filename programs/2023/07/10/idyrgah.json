@@ -1,0 +1,23 @@
+{
+  "id": "idyrgah",
+  "category": "sports",
+  "title": "未定",
+  "fullTitle": "未定",
+  "detail": "未定",
+  "start": 1688979600000,
+  "end": 1688992200000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
