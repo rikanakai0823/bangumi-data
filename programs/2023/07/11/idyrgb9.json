@@ -1,0 +1,23 @@
+{
+  "id": "idyrgb9",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと #340",
+  "fullTitle": "競輪LIVE！チャリロトよしもと #340",
+  "detail": "競輪LIVE！チャリロトよしもと #340",
+  "start": 1689080400000,
+  "end": 1689084000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 340,
+  "flags": []
+}
