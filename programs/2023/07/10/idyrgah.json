@@ -1,9 +1,9 @@
 {
   "id": "idyrgah",
   "category": "sports",
-  "title": "未定",
-  "fullTitle": "未定",
-  "detail": "未定",
+  "title": "よしもとBASEBALL LIVE 福岡ソフトバンク vs 埼玉西武(7/10)",
+  "fullTitle": "[生]よしもとBASEBALL LIVE 福岡ソフトバンク vs 埼玉西武(7/10)",
+  "detail": "鷹の祭典 2023 in 大阪を開催する福岡ソフトバンクと、下位からの浮上を目指す埼玉西武の試合をBSよしもとでお届け！\r\n解説：牧田和久／実況：ＤＪケチャップ",
   "start": 1688979600000,
   "end": 1688992200000,
   "seconds": 12600,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }
