@@ -1,12 +1,18 @@
 {
   "id": "36tfa8gt74",
   "category": "variety",
-  "title": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ",
-  "fullTitle": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ",
-  "detail": " ",
+  "title": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ　＃４９",
+  "fullTitle": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ　＃４９",
+  "detail": "GHSプロフェッショナルのストリーマーやVTuberたちが毎週土曜に熱いバトルを繰り広げる、番組連動生配信企画「SATURDAY NIGHT MATCH」！今回のゲームは「VALORANT」！\n◇番組内容\nGHSプロフェッショナルのストリーマーやVTuberたちが毎週土曜に熱いバトルを繰り広げる、番組連動生配信企画「SATURDAY NIGHT MATCH」！\r\n今回のゲームは「VALORANT」！\r\nそれぞれのベストプレイ動画や、「VALORANT検定」など盛りだくさんの内容でお届け！\n◇出演者\n【番組MC】\r\nELLY（三代目 J SOUL BROTHERS）、長谷川忍（シソンヌ）、西村歩乃果（タレント）\n◇お知らせ\n番組連動のプロゲーミングチームGHS Professional指導！\r\nhttps://e-elements.jp/campaign/GHS_pro/",
   "start": 1689006900000,
   "end": 1689008700000,
   "seconds": 1800,
+  "description": "GHSプロフェッショナルのストリーマーやVTuberたちが毎週土曜に熱いバトルを繰り広げる、番組連動生配信企画「SATURDAY NIGHT MATCH」！今回のゲームは「VALORANT」！",
+  "extra": {
+    "番組内容": "GHSプロフェッショナルのストリーマーやVTuberたちが毎週土曜に熱いバトルを繰り広げる、番組連動生配信企画「SATURDAY NIGHT MATCH」！\r\n今回のゲームは「VALORANT」！\r\nそれぞれのベストプレイ動画や、「VALORANT検定」など盛りだくさんの内容でお届け！",
+    "出演者": "【番組MC】\r\nELLY（三代目 J SOUL BROTHERS）、長谷川忍（シソンヌ）、西村歩乃果（タレント）",
+    "お知らせ": "番組連動のプロゲーミングチームGHS Professional指導！\r\nhttps://e-elements.jp/campaign/GHS_pro/"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -18,6 +24,6 @@
     "n": 34
   },
   "subTitle": "",
-  "episode": 1,
+  "episode": 49,
   "flags": []
 }
