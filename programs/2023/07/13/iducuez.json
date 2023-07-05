@@ -1,0 +1,26 @@
+{
+  "id": "iducuez",
+  "category": "cinema",
+  "title": "信虎[PG12指定]",
+  "fullTitle": "🈙信虎[PG12指定]🈑",
+  "detail": "戦国時代を代表する武将のひとり、武田信玄の生誕５００周年を記念して生み出された時代劇。信玄の急死を受け、武田家存続のために知略を巡らす老父・信虎の姿を綴る。",
+  "start": 1689237600000,
+  "end": 1689246000000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

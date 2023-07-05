@@ -1,0 +1,23 @@
+{
+  "id": "idxiif5",
+  "category": "sports",
+  "title": "メジャーリーグ中継2023 オールスターゲーム(7/11)",
+  "fullTitle": "メジャーリーグ中継2023 オールスターゲーム(7/11)",
+  "detail": "アメリカンリーグ×ナショナルリーグ\r\n\r\n解説：多村仁志、AKI猪瀬\r\n実況：節丸裕一\r\n開催日：2023年7月11日(現地)\r\n球場：T-モバイル・パーク",
+  "start": 1689210000000,
+  "end": 1689228000000,
+  "seconds": 18000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

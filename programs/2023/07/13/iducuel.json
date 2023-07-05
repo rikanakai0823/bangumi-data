@@ -1,0 +1,26 @@
+{
+  "id": "iducuel",
+  "category": "cinema",
+  "title": "キル・ゲーム（吹替版）",
+  "fullTitle": "🈙キル・ゲーム（吹替版）🈑",
+  "detail": "Ｂ・ウィリス主演のＳＦサバイバルアクション。富裕層の娯楽である近未来の人間狩りゲームに、獲物として参加させられた主人公が、やがて狩る側に転じて反撃を開始する。",
+  "start": 1689183900000,
+  "end": 1689190200000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
