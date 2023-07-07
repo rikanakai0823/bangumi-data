@@ -1,12 +1,16 @@
 {
   "id": "381f5ksl5a",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　プロジェクト「みんなの選挙」Ｅテレ・手話同時通訳の取り組み",
+  "fullTitle": "＃ＮＨＫ　プロジェクト「みんなの選挙」Ｅテレ・手話同時通訳の取り組み",
+  "detail": "【キャスター】二宮直輝\n◇出演者\n【キャスター】二宮直輝",
   "start": 1689162120000,
   "end": 1689162300000,
   "seconds": 180,
+  "description": "【キャスター】二宮直輝",
+  "extra": {
+    "出演者": "【キャスター】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "みんなの選挙",
   "episode": 1,
   "flags": []
 }
