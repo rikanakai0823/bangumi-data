@@ -1,0 +1,23 @@
+{
+  "id": "idsk04u",
+  "category": "etc",
+  "title": "４Ｋ生中継！伊勢神宮奉納花火２０２３",
+  "fullTitle": "４Ｋ生中継！伊勢神宮奉納花火２０２３",
+  "detail": "",
+  "start": 1689415200000,
+  "end": 1689423300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
