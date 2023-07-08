@@ -1,0 +1,25 @@
+{
+  "id": "38224jzwhx",
+  "category": "news",
+  "title": "週刊ニュースリーダー",
+  "fullTitle": "週刊ニュースリーダー🈑",
+  "detail": "「今週のニュース」①札幌・首切断遺体で新たな足取りが？②大谷翔平オールスター打者専念で本塁打は？トラウト離脱の影響は？",
+  "start": 1688763600000,
+  "end": 1688770800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "今週のニュース",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
