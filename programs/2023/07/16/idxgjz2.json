@@ -1,0 +1,25 @@
+{
+  "id": "idxgjz2",
+  "category": "sports",
+  "title": "第94回 都市対抗野球大会 第3日 1回戦",
+  "fullTitle": "[生]第94回 都市対抗野球大会 第3日 1回戦",
+  "detail": "■SUBARU×JFE西日本\r\n■西部ガス×明治安田生命\r\n■三菱重工West×JR東日本",
+  "start": 1689468900000,
+  "end": 1689512400000,
+  "seconds": 43500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "都市対抗野球大会 第3日 1回戦",
+  "episode": 94,
+  "flags": [
+    "生"
+  ]
+}

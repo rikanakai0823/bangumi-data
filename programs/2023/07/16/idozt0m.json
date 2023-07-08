@@ -1,0 +1,25 @@
+{
+  "id": "idozt0m",
+  "category": "information",
+  "title": "Ｄｉｇ　Ｍｏｒｅ　Ｊａｐａｎ　地域に根ざす",
+  "fullTitle": "Ｄｉｇ　Ｍｏｒｅ　Ｊａｐａｎ　地域に根ざす🈑",
+  "detail": "日本を深堀りするＤｉｇ　Ｍｏｒｅ　Ｊａｐａｎ。ＮＨＫワールドジャパンの様々な番組をギュギュッと凝縮して紹介します。今日のテーマは「地域に根ざす」です。",
+  "start": 1689514800000,
+  "end": 1689515400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "地域に根ざす",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
