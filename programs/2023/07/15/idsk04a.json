@@ -3,10 +3,14 @@
   "category": "news",
   "title": "勇壮！博多祇園山笠２０２３",
   "fullTitle": "勇壮！博多祇園山笠２０２３",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1689362400000,
   "end": 1689367800000,
   "seconds": 5400,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "４Ｋ生中継！伊勢神宮奉納花火２０２３",
   "fullTitle": "４Ｋ生中継！伊勢神宮奉納花火２０２３",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1689415200000,
   "end": 1689423300000,
   "seconds": 8100,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
