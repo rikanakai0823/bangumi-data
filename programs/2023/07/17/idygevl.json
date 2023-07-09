@@ -1,0 +1,23 @@
+{
+  "id": "idygevl",
+  "category": "cinema",
+  "title": "書くが、まま",
+  "fullTitle": "書くが、まま",
+  "detail": "月曜ドラマ「カメラ、はじめてもいいですか？」上村奈帆監督作品「書くが、まま」",
+  "start": 1689523200000,
+  "end": 1689527940000,
+  "seconds": 4740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

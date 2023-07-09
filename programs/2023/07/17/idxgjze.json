@@ -1,0 +1,25 @@
+{
+  "id": "idxgjze",
+  "category": "sports",
+  "title": "第94回 都市対抗野球大会 第4日 1回戦",
+  "fullTitle": "[生]第94回 都市対抗野球大会 第4日 1回戦",
+  "detail": "■JR四国×東京ガス\r\n■JR東日本東北×日本生命\r\n■日本通運×ミキハウス",
+  "start": 1689555300000,
+  "end": 1689598800000,
+  "seconds": 43500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "都市対抗野球大会 第4日 1回戦",
+  "episode": 94,
+  "flags": [
+    "生"
+  ]
+}
