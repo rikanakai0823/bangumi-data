@@ -1,0 +1,25 @@
+{
+  "id": "idoztsm",
+  "category": "sports",
+  "title": "大相撲（２０２３年）　名古屋場所　十日目",
+  "fullTitle": "大相撲（２０２３年）　名古屋場所　十日目🈕",
+  "detail": "　※副音声は場内音声　【解説】正面（幕下）…松ヶ根（元玉力道），向正面（幕下）…虎伏山，正面（十両）…桐山（元旭日松）ほか",
+  "start": 1689652800000,
+  "end": 1689660600000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "解説",
+  "episode": 1,
+  "flags": [
+    "多"
+  ]
+}

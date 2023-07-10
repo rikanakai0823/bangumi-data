@@ -1,0 +1,23 @@
+{
+  "id": "idyrgtr",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと #346",
+  "fullTitle": "競輪LIVE！チャリロトよしもと #346",
+  "detail": "競輪LIVE！チャリロトよしもと #346",
+  "start": 1689685200000,
+  "end": 1689688800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 346,
+  "flags": []
+}

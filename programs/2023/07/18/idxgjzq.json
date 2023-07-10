@@ -1,0 +1,25 @@
+{
+  "id": "idxgjzq",
+  "category": "sports",
+  "title": "第94回 都市対抗野球大会 第5日 1回戦",
+  "fullTitle": "[生]第94回 都市対抗野球大会 第5日 1回戦",
+  "detail": "■日本製鉄鹿島×ヤマハ\r\n■東海理化×日本製鉄かずさマジック\r\n■東芝×七十七銀行",
+  "start": 1689641700000,
+  "end": 1689685200000,
+  "seconds": 43500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "都市対抗野球大会 第5日 1回戦",
+  "episode": 94,
+  "flags": [
+    "生"
+  ]
+}
