@@ -1,0 +1,23 @@
+{
+  "id": "idxecsd",
+  "category": "sports",
+  "title": "メジャーリーグ中継2023 エンジェルス×ヤンキース(7/18)",
+  "fullTitle": "メジャーリーグ中継2023 エンジェルス×ヤンキース(7/18)",
+  "detail": "ロサンゼルス・エンジェルス（大谷翔平 所属）×ニューヨーク・ヤンキース\r\n\r\n解説：藪恵壹、AKI猪瀬\r\n実況：近藤祐司\r\n開催日：2023年7月18日(現地)",
+  "start": 1689760800000,
+  "end": 1689771600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
