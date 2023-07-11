@@ -1,0 +1,23 @@
+{
+  "id": "ids0vde",
+  "category": "news",
+  "title": "Ｗｅａｔｈｅｒ　Ａｃｃｅｓｓ",
+  "fullTitle": "Ｗｅａｔｈｅｒ　Ａｃｃｅｓｓ",
+  "detail": "この時間の天気",
+  "start": 1689026100000,
+  "end": 1689026400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
