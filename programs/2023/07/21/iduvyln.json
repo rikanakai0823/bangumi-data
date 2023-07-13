@@ -1,0 +1,26 @@
+{
+  "id": "iduvyln",
+  "category": "cinema",
+  "title": "エンド・オブ・キングダム",
+  "fullTitle": "🈙🅍エンド・オブ・キングダム",
+  "detail": "ジェラルド・バトラー主演、大ヒットアクションの続編。ロンドンでテロリストの標的となったアメリカ大統領を護るべく奔走する。",
+  "start": 1689920100000,
+  "end": 1689926400000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

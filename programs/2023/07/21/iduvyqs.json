@@ -1,0 +1,26 @@
+{
+  "id": "iduvyqs",
+  "category": "cinema",
+  "title": "エンド・オブ・ステイツ",
+  "fullTitle": "🈙🅍エンド・オブ・ステイツ",
+  "detail": "ジェラルド・バトラー主演、大ヒットアクションの第３弾。大統領暗殺未遂の容疑をかけられたシークレットサービスの戦いを描く。",
+  "start": 1689926400000,
+  "end": 1689934500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
