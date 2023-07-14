@@ -1,0 +1,25 @@
+{
+  "id": "idxgk15",
+  "category": "sports",
+  "title": "第94回 都市対抗野球大会 第9日 2回戦／準々決勝",
+  "fullTitle": "[生]第94回 都市対抗野球大会 第9日 2回戦／準々決勝",
+  "detail": "開催日：2023年7月22日\r\n球場：東京ドーム",
+  "start": 1689987300000,
+  "end": 1690030800000,
+  "seconds": 43500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "都市対抗野球大会 第9日 2回戦／準々決勝",
+  "episode": 94,
+  "flags": [
+    "生"
+  ]
+}
