@@ -1,0 +1,23 @@
+{
+  "id": "idozzpt",
+  "category": "sports",
+  "title": "ＦＩＦＡ女子ワールドカップ２０２３",
+  "fullTitle": "ＦＩＦＡ女子ワールドカップ２０２３",
+  "detail": "",
+  "start": 1689836100000,
+  "end": 1689843900000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
