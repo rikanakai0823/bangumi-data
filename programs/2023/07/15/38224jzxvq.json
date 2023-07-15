@@ -1,0 +1,25 @@
+{
+  "id": "38224jzxvq",
+  "category": "news",
+  "title": "週刊ニュースリーダー",
+  "fullTitle": "週刊ニュースリーダー🈑",
+  "detail": "「今週のニュース」①大谷翔平の前半戦 総決算！投手＆打者＆珍プレーたっぷり公開　②最新情報 東北は大雨…関東・東海は危険な暑さ 要警戒",
+  "start": 1689368400000,
+  "end": 1689375600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "今週のニュース",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
