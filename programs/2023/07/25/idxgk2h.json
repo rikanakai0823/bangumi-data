@@ -1,0 +1,25 @@
+{
+  "id": "idxgk2h",
+  "category": "sports",
+  "title": "第94回 都市対抗野球大会 決勝",
+  "fullTitle": "[初]第94回 都市対抗野球大会 決勝",
+  "detail": "解説：仲沢伸一(元東京ガス監督)\r\n実況：矢野吉彦\r\n開催日：2023年7月25日\r\n球場：東京ドーム",
+  "start": 1690290000000,
+  "end": 1690304400000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "都市対抗野球大会 決勝",
+  "episode": 94,
+  "flags": [
+    "初"
+  ]
+}
