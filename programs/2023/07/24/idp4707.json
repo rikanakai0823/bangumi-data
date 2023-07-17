@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "ＮＨＫ特集　阿波踊り　天水たちの夏",
   "fullTitle": "ＮＨＫ特集　阿波踊り　天水たちの夏🈑",
-  "detail": "【語り】横山義恭",
+  "detail": "【語り】横山義恭\n◇出演者\n【語り】横山義恭",
   "start": 1690189800000,
   "end": 1690192800000,
   "seconds": 3000,
+  "description": "【語り】横山義恭",
+  "extra": {
+    "出演者": "【語り】横山義恭"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS03_1",
