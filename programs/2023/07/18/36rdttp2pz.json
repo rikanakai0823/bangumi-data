@@ -1,0 +1,23 @@
+{
+  "id": "36rdttp2pz",
+  "category": "sports",
+  "title": "高校野球ニュース",
+  "fullTitle": "高校野球ニュース",
+  "detail": "第１０５回全国高等学校野球選手権記念神奈川大会▽熱戦の模様や注目校の特集などを試合開催日に毎日お届けします。",
+  "start": 1689684000000,
+  "end": 1689685200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ３",
+    "id": "1hjjdzu",
+    "sid": 24634,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 7
+  },
+  "subTitle": "",
+  "episode": 105,
+  "flags": []
+}
