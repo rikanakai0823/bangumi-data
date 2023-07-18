@@ -1,12 +1,16 @@
 {
   "id": "36h6jr4eqo",
-  "category": "etc",
-  "title": "ダイレクトテレショップ",
-  "fullTitle": "ダイレクトテレショップ",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
+  "fullTitle": "ＴＶショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nドゥーアクティブ　０１２０－４１４１－８１",
   "start": 1689665400000,
   "end": 1689667200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ドゥーアクティブ　０１２０－４１４１－８１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }

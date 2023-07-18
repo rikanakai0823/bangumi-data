@@ -1,12 +1,16 @@
 {
   "id": "36h6jr2cdj",
-  "category": "etc",
-  "title": "ダイレクトテレショップ",
-  "fullTitle": "ダイレクトテレショップ",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
+  "fullTitle": "ＴＶショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nラボーノビストロ　０１２０－９１９－２３９",
   "start": 1689662700000,
   "end": 1689664500000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ラボーノビストロ　０１２０－９１９－２３９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
