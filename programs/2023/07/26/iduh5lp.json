@@ -1,0 +1,25 @@
+{
+  "id": "iduh5lp",
+  "category": "cinema",
+  "title": "ＢＩＲＤ（字幕版）",
+  "fullTitle": "🈙ＢＩＲＤ（字幕版）",
+  "detail": "",
+  "start": 1690324200000,
+  "end": 1690325400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
