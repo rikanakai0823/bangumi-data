@@ -3,10 +3,14 @@
   "category": "information",
   "title": "どーも、ＮＨＫ",
   "fullTitle": "どーも、ＮＨＫ🈑",
-  "detail": "",
+  "detail": "【司会】小林千恵，【語り】久嶋志帆\n◇出演者\n【司会】小林千恵，【語り】久嶋志帆",
   "start": 1690078800000,
   "end": 1690080840000,
   "seconds": 2040,
+  "description": "【司会】小林千恵，【語り】久嶋志帆",
+  "extra": {
+    "出演者": "【司会】小林千恵，【語り】久嶋志帆"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
