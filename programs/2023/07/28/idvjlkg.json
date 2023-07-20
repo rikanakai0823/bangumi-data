@@ -1,0 +1,25 @@
+{
+  "id": "idvjlkg",
+  "category": "anime",
+  "title": "アークナイツ 黎明前奏　＃４「契約 Loyalty」",
+  "fullTitle": "🅍アークナイツ 黎明前奏　＃４「契約 Loyalty」",
+  "detail": "ロドスはBSWのフランカ、リスカムの協力を得て、次にレユニオンが侵攻を目論む龍門へ向かう。龍門近衛局の隊長・チェンの迎えを受け、龍門総督・ウェイが待つ…。",
+  "start": 1690552800000,
+  "end": 1690554600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "契約 Loyalty",
+  "episode": 4,
+  "flags": [
+    "SS"
+  ]
+}
