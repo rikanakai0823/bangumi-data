@@ -1,0 +1,23 @@
+{
+  "id": "idozzt0",
+  "category": "sports",
+  "title": "Ｊリーグタイム「Ｊ２スペシャル」",
+  "fullTitle": "Ｊリーグタイム「Ｊ２スペシャル」",
+  "detail": "日曜午後１０時５０分「Ｊリーグタイム」▼Ｊ２第２８節全試合・全ゴール見せます▼森岡隆三注目のＪ２選手は▼Ｊ１昇格へ激熱プレーを徹底解説▼Ｊ３０周年",
+  "start": 1690725000000,
+  "end": 1690727400000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "Ｊ２スペシャル",
+  "episode": 1,
+  "flags": []
+}

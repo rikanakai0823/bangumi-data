@@ -1,0 +1,25 @@
+{
+  "id": "idxecw5",
+  "category": "sports",
+  "title": "インターハイ2023 バスケットボール競技 女子決勝",
+  "fullTitle": "[初]インターハイ2023 バスケットボール競技 女子決勝",
+  "detail": "開催日：2023年7月30日\r\n会場：北海きたえーる, 札幌市",
+  "start": 1690701300000,
+  "end": 1690708500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idozzsk",
+  "category": "sports",
+  "title": "プロ野球２０２３「巨人」対「中日」",
+  "fullTitle": "プロ野球２０２３「巨人」対「中日」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　２：００）　【解説】小早川毅彦，伊東勤，【アナウンサー】星野圭介　～東京ドームから中継～",
+  "start": 1690693200000,
+  "end": 1690705800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "中日",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
