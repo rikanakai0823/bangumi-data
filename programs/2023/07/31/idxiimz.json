@@ -1,0 +1,23 @@
+{
+  "id": "idxiimz",
+  "category": "sports",
+  "title": "インターハイ2023 バスケットボール競技 男子決勝",
+  "fullTitle": "インターハイ2023 バスケットボール競技 男子決勝",
+  "detail": "開催日：2023年7月30日\r\n会場：北海きたえーる, 札幌市",
+  "start": 1690768800000,
+  "end": 1690776000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
