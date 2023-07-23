@@ -1,0 +1,25 @@
+{
+  "id": "idxiipv",
+  "category": "sports",
+  "title": "メジャーリーグ中継2023 ツインズ×マリナーズ(7/24)",
+  "fullTitle": "[生]メジャーリーグ中継2023 ツインズ×マリナーズ(7/24)",
+  "detail": "ミネソタ・ツインズ×シアトル・マリナーズ\r\n\r\n開催日：2023年7月24日(現地)",
+  "start": 1690241700000,
+  "end": 1690255800000,
+  "seconds": 14100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
