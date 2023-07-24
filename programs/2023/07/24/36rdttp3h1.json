@@ -1,0 +1,23 @@
+{
+  "id": "36rdttp3h1",
+  "category": "sports",
+  "title": "都市対抗野球ダイジェスト",
+  "fullTitle": "都市対抗野球ダイジェスト",
+  "detail": "社会人野球の最高峰・都市対抗野球大会。その日に行われた全試合をダイジェストで振り返ります。",
+  "start": 1690207200000,
+  "end": 1690209000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ３",
+    "id": "1hjjdzu",
+    "sid": 24634,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 7
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
