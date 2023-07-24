@@ -1,0 +1,23 @@
+{
+  "id": "idyri20",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと #356",
+  "fullTitle": "競輪LIVE！チャリロトよしもと #356",
+  "detail": "競輪LIVE！チャリロトよしもと #356",
+  "start": 1690894800000,
+  "end": 1690898400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 356,
+  "flags": []
+}
