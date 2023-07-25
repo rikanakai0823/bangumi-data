@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l6gq",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「フォーチュネイトひまわり特別」「第４４回サンタアニタトロフィー（ＳⅢ）」「ムーンビーチ賞」",
+  "start": 1690957200000,
+  "end": 1690977600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 44,
+  "flags": []
+}
