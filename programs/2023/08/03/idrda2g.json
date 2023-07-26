@@ -1,0 +1,23 @@
+{
+  "id": "idrda2g",
+  "category": "cinema",
+  "title": "映画「ネバーセイ・ネバーアゲイン」",
+  "fullTitle": "映画「ネバーセイ・ネバーアゲイン」",
+  "detail": "ショーン・コネリーが華麗に“ボンド復活”を遂げた幻の＜007番外編＞",
+  "start": 1691064000000,
+  "end": 1691073000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
