@@ -1,0 +1,25 @@
+{
+  "id": "381jqz03am",
+  "category": "sports",
+  "title": "第１０５回全国高校野球選手権大会　埼玉大会・決勝",
+  "fullTitle": "第１０５回全国高校野球選手権大会　埼玉大会・決勝🈑",
+  "detail": "　（試合開始　１０：００）　～県営大宮公園野球場から中継～　［総合テレビで放送継続］",
+  "start": 1690506000000,
+  "end": 1690508700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 105,
+  "flags": [
+    "字"
+  ]
+}
