@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Valentina\"DANIEL CAESAR\r\n\"The Loneliest Time\"CARLY RAE JEPSEN feat.RUFUS WAINWRIGHT\r\n\"Shy Boy (Official Visualizer)\"CARLY RAE JEPSEN\n◇番組内容２\n\"Surrender My Heart\"CARLY RAE JEPSEN feat.RUFUS WAINWRIGHT\r\n\"Love And Hate In A Different Time (Live on Later)\"GABRIELS",
   "start": 1690815600000,
   "end": 1690817400000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Valentina\"DANIEL CAESAR\r\n\"The Loneliest Time\"CARLY RAE JEPSEN feat.RUFUS WAINWRIGHT\r\n\"Shy Boy (Official Visualizer)\"CARLY RAE JEPSEN",
+    "番組内容２": "\"Surrender My Heart\"CARLY RAE JEPSEN feat.RUFUS WAINWRIGHT\r\n\"Love And Hate In A Different Time (Live on Later)\"GABRIELS"
   },
   "channel": {
     "type": "GR",
