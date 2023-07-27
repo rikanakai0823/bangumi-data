@@ -1,0 +1,23 @@
+{
+  "id": "idxecyd",
+  "category": "sports",
+  "title": "メジャーリーグ中継2023 エンジェルス×マリナーズ(8/3)",
+  "fullTitle": "メジャーリーグ中継2023 エンジェルス×マリナーズ(8/3)",
+  "detail": "ロサンゼルス・エンジェルス（大谷翔平 所属）×シアトル・マリナーズ\r\n\r\n解説：森繁和\r\n実況：近藤祐司\r\n開催日：2023年8月3日(現地)",
+  "start": 1691157600000,
+  "end": 1691168400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
