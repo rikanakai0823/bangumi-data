@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwr0r",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜新潟１１Ｒ　アイビスサマーダッシュ（ＧⅢ）　他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜新潟１１Ｒ　アイビスサマーダッシュ（ＧⅢ）　他",
+  "detail": "日曜新潟11R　アイビスサマーダッシュ（GⅢ）　日曜札幌11R　クイーンステークス（GⅢ）　土曜新潟11R　関越ステークス　土曜札幌11R　STV賞",
+  "start": 1690545600000,
+  "end": 1690547400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
