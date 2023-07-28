@@ -1,0 +1,23 @@
+{
+  "id": "idp3puj",
+  "category": "music",
+  "title": "さわやかウインドー「湯けむりの町　別府」",
+  "fullTitle": "さわやかウインドー「湯けむりの町　別府」",
+  "detail": "",
+  "start": 1690914600000,
+  "end": 1690916400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "湯けむりの町　別府",
+  "episode": 1,
+  "flags": []
+}
