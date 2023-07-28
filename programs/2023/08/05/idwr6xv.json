@@ -1,0 +1,23 @@
+{
+  "id": "idwr6xv",
+  "category": "hobby",
+  "title": "学習センターめぐり",
+  "fullTitle": "学習センターめぐり",
+  "detail": "「福岡学習センター」",
+  "start": 1691241300000,
+  "end": 1691242200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "福岡学習センター",
+  "episode": 1,
+  "flags": []
+}

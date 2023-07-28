@@ -1,0 +1,23 @@
+{
+  "id": "idyrial",
+  "category": "sports",
+  "title": "北陸オープンゴルフトーナメント2023 予選ラウンド",
+  "fullTitle": "北陸オープンゴルフトーナメント2023 予選ラウンド",
+  "detail": "真夏の呉羽カントリークラブで開催される2日間の決戦に国内トッププロと北陸のトップアマが集結！",
+  "start": 1691197200000,
+  "end": 1691204400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

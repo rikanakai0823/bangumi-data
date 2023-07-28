@@ -1,0 +1,25 @@
+{
+  "id": "idyrib1",
+  "category": "variety",
+  "title": "向井長田のくるま温泉ちゃんねる #3",
+  "fullTitle": "[再]向井長田のくるま温泉ちゃんねる #3",
+  "detail": "ドライブ・温泉・グルメを気ままに楽しむ！\r\nプライベート感満載のゆる旅番組です！",
+  "start": 1691236800000,
+  "end": 1691238600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "再"
+  ]
+}
