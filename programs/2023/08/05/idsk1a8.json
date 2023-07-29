@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "生中継！青森ねぶた祭で飲ろうぜ",
   "fullTitle": "生中継！青森ねぶた祭で飲ろうぜ",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1691229600000,
   "end": 1691236440000,
   "seconds": 6840,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
