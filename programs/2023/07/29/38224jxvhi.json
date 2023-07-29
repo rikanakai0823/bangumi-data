@@ -1,0 +1,25 @@
+{
+  "id": "38224jxvhi",
+  "category": "news",
+  "title": "週刊ニュースリーダー",
+  "fullTitle": "週刊ニュースリーダー🈑",
+  "detail": "「今週のニュース」①大谷が歴史的快挙　初完封＆本塁打を連発　トレード消滅　②最新情報…ビッグモーター・頭部切断事件",
+  "start": 1690578000000,
+  "end": 1690585200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjt",
+    "sid": 1065,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "今週のニュース",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
