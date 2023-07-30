@@ -1,0 +1,25 @@
+{
+  "id": "idtsyb1",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　新潟：アイビスSD　札幌：クイーンS",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　新潟：アイビスSD　札幌：クイーンS",
+  "detail": "新潟：アイビスサマーダッシュ（GⅢ）札幌：クイーンS（GⅢ）／解説：高尾幸司（競馬エイト）ゲスト：ほのか／夏の新潟開幕週を彩る国内唯一の芝直線1000m重賞",
+  "start": 1690696800000,
+  "end": 1690700400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
