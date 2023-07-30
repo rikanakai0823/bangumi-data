@@ -1,0 +1,23 @@
+{
+  "id": "idxiiq1",
+  "category": "sports",
+  "title": "スケートボード UPRISING TOKYO 男女決勝",
+  "fullTitle": "スケートボード UPRISING TOKYO 男女決勝",
+  "detail": "開催日：2023年5月28日\r\n会場：有明アリーナ",
+  "start": 1691355600000,
+  "end": 1691366400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idwr703",
+  "category": "hobby",
+  "title": "データサイエンスの技術",
+  "fullTitle": "データサイエンスの技術",
+  "detail": "「ニューラルネットワーク概論　第1回　ニューラルネットワークの基本概念」",
+  "start": 1691398800000,
+  "end": 1691401500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "ニューラルネットワークの基本概念",
+  "episode": 1,
+  "flags": []
+}
