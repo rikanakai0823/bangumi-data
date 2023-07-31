@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＱＶＣ　究極の純プラチナジュエリー",
   "fullTitle": "ＱＶＣ　究極の純プラチナジュエリー",
-  "detail": "",
+  "detail": "◇番組内容\n※番組の内容や放送日時は、変更となる場合がございます。",
   "start": 1690815600000,
   "end": 1690819200000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "番組内容": "※番組の内容や放送日時は、変更となる場合がございます。"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS09_2",
