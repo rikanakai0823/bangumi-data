@@ -1,0 +1,25 @@
+{
+  "id": "381jqz2ujm",
+  "category": "hobby",
+  "title": "美麗ＡＳＩＡ",
+  "fullTitle": "美麗ＡＳＩＡ🈑",
+  "detail": "アジア各地の美しいものをご覧いただく新番組！赤い湖！食べる花のゼリー、豪華花火も！中継で結びクイズを出題。ＩＫＫＯさん、ＥＸＩＬＥケンチ、ふなっしーが奮闘！",
+  "start": 1690797600000,
+  "end": 1690801200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

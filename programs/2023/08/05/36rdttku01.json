@@ -3,13 +3,15 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\n。",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\n。\n◇番組内容１\nDIZZY MIZZ LIZZY / The Middle\r\nTHE DEFIANTS / 19 Summertime\r\nART NATION / Brutal & Beautiful\n◇番組内容２\nAEROSMITH / Mama Kin(Live At The Summit, Houston, TX, June 25, 1977)\r\nAEROSMITH /Draw the Line(Live Texxas Jam '78)",
   "start": 1691245500000,
   "end": 1691247300000,
   "seconds": 1800,
   "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
   "extra": {
-    "番組内容": "。"
+    "番組内容": "。",
+    "番組内容１": "DIZZY MIZZ LIZZY / The Middle\r\nTHE DEFIANTS / 19 Summertime\r\nART NATION / Brutal & Beautiful",
+    "番組内容２": "AEROSMITH / Mama Kin(Live At The Summit, Houston, TX, June 25, 1977)\r\nAEROSMITH /Draw the Line(Live Texxas Jam '78)"
   },
   "channel": {
     "type": "GR",
