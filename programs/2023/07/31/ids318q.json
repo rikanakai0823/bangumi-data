@@ -1,0 +1,23 @@
+{
+  "id": "ids318q",
+  "category": "information",
+  "title": "ハッピーライフセレクション",
+  "fullTitle": "ハッピーライフセレクション",
+  "detail": "テレビショッピング",
+  "start": 1690758000000,
+  "end": 1690759800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
