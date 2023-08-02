@@ -1,0 +1,26 @@
+{
+  "id": "iduwcbn",
+  "category": "cinema",
+  "title": "帰ってきたヒトラー",
+  "fullTitle": "🈙🅍帰ってきたヒトラー",
+  "detail": "現代のドイツにタイムスリップしたアドルフ・ヒトラーが、モノマネ芸人として人気者となってゆく姿を描いたブラックコメディ。",
+  "start": 1691612100000,
+  "end": 1691619300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
