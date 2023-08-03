@@ -1,0 +1,25 @@
+{
+  "id": "idvjm0f",
+  "category": "hobby",
+  "title": "生中継　第１回ぎふ長良川花火大会",
+  "fullTitle": "🈢生中継　第１回ぎふ長良川花火大会",
+  "detail": "岐阜市の夏の夜空を彩る「第１回ぎふ長良川花火大会」の模様を、BS11と岐阜放送の共同制作による同時生中継！",
+  "start": 1691748000000,
+  "end": 1691751600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "第１回ぎふ長良川花火大会",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

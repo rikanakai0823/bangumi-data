@@ -1,0 +1,23 @@
+{
+  "id": "idozi6a",
+  "category": "sports",
+  "title": "スポーツクライミング２０２３　世界選手権２０２３",
+  "fullTitle": "スポーツクライミング２０２３　世界選手権２０２３",
+  "detail": "",
+  "start": 1691726400000,
+  "end": 1691731200000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
