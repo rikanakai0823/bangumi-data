@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Penge\"PUBLIC IMAGE LIMITED\r\n\"Hawaii\"PUBLIC IMAGE LIMITED\r\n\"Car Chase\"PUBLIC IMAGE LIMITED\n◇番組内容２\n\"Don't Say Love\"Leigh-Anne\r\n\"One and Only\"Pokemon X ENHYPEN\r\n\"Everything's Electric\"LIAM GALLAGHER\r\n\"St. Charles Square\"BLUR",
   "start": 1691420400000,
   "end": 1691422200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Penge\"PUBLIC IMAGE LIMITED\r\n\"Hawaii\"PUBLIC IMAGE LIMITED\r\n\"Car Chase\"PUBLIC IMAGE LIMITED",
+    "番組内容２": "\"Don't Say Love\"Leigh-Anne\r\n\"One and Only\"Pokemon X ENHYPEN\r\n\"Everything's Electric\"LIAM GALLAGHER\r\n\"St. Charles Square\"BLUR"
   },
   "channel": {
     "type": "GR",
