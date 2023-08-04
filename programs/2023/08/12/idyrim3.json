@@ -1,0 +1,23 @@
+{
+  "id": "idyrim3",
+  "category": "cinema",
+  "title": "【よしもとMOVIES】ただいま！",
+  "fullTitle": "【よしもとMOVIES】ただいま！",
+  "detail": "芸人の純平はコンビ解散をきっかけに故郷へ戻るが、定職に就かず放浪するばかり。見兼ねた周囲の人たちが純平に提案したのは…。\r\n出演者：元木行哉、山口あゆみ、渡辺熱　他",
+  "start": 1691802000000,
+  "end": 1691805600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

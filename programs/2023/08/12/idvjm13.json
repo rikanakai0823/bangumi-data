@@ -1,0 +1,25 @@
+{
+  "id": "idvjm13",
+  "category": "information",
+  "title": "ショップチャンネル　ファッションスペシャル！",
+  "fullTitle": "🈢ショップチャンネル　ファッションスペシャル！",
+  "detail": "ファッション／24時間まるごと！真夏の大特価市／おトクが輝く、夏のスペシャル企画！多彩なファッションアイテムが感動のお値段で大集合！",
+  "start": 1691791200000,
+  "end": 1691794800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
