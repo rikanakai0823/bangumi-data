@@ -1,0 +1,23 @@
+{
+  "id": "ids31f4",
+  "category": "sports",
+  "title": "横浜ミナト Championship ～Fujiki Centennial～ 第3日",
+  "fullTitle": "横浜ミナト Championship ～Fujiki Centennial～ 第3日",
+  "detail": "新規大会「横浜ミナト Championship～Fujiki Centennial～」。名門・横浜カントリークラブを舞台に、男子トッププロたちが熱き戦いを繰り広げる！ 第3日を生中継。",
+  "start": 1691208000000,
+  "end": 1691215200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "横浜ミナト Championship～Fujiki Centennial～",
+  "episode": 1,
+  "flags": []
+}
