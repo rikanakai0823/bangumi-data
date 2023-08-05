@@ -1,0 +1,23 @@
+{
+  "id": "381f5kuj6d",
+  "category": "news",
+  "title": "ニュース「台風６号」関連",
+  "fullTitle": "ニュース「台風６号」関連",
+  "detail": "",
+  "start": 1691252280000,
+  "end": 1691263200000,
+  "seconds": 10920,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "台風６号",
+  "episode": 1,
+  "flags": []
+}
