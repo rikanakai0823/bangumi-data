@@ -1,0 +1,23 @@
+{
+  "id": "idtaiie",
+  "category": "sports",
+  "title": "ウイニング競馬～新潟～",
+  "fullTitle": "ウイニング競馬～新潟～",
+  "detail": "【新潟】10Ｒ柳都Ｓ、11Ｒ新潟日報賞\r\n【札幌】10Ｒ桑園特別、11Ｒ札幌日経ОＰ（Ｌ）",
+  "start": 1691213400000,
+  "end": 1691218800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "新潟",
+  "episode": 1,
+  "flags": []
+}
