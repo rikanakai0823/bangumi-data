@@ -1,0 +1,25 @@
+{
+  "id": "idtsyvy",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　新潟：レパードS　札幌：エルムS　夏競馬",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　新潟：レパードS　札幌：エルムS　夏競馬",
+  "detail": "新潟：レパードS（GⅢ）札幌：エルムS（GⅢ）／ゲスト：山本昌（元プロ野球選手）解説：椋木宏（競馬エイト）／今後のダート戦線を占うダブルダート重賞　夏競馬",
+  "start": 1691301600000,
+  "end": 1691305200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
