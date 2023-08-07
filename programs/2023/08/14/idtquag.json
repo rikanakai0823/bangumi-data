@@ -1,9 +1,9 @@
 {
   "id": "idtquag",
   "category": "information",
-  "title": "ごちそうさまのカタチ",
-  "fullTitle": "ごちそうさまのカタチ",
-  "detail": "",
+  "title": "ごちそうさまのカタチ　#123　フラメンコ",
+  "fullTitle": "ごちそうさまのカタチ　#123　フラメンコ",
+  "detail": "この番組は、スポーツや芸能、芸術など何かに取り組み頑張っている子どもたちにスポットを当てます。",
   "start": 1692021300000,
   "end": 1692021600000,
   "seconds": 300,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 57
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "フラメンコ",
+  "episode": 123,
   "flags": []
 }
