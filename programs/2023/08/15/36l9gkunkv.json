@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkunkv",
+  "category": "sports",
+  "title": "第２７回オートレースグランプリ",
+  "fullTitle": "第２７回オートレースグランプリ",
+  "detail": " ",
+  "start": 1692097200000,
+  "end": 1692100800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 27,
+  "flags": []
+}
