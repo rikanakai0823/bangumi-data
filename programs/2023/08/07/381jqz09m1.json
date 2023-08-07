@@ -1,0 +1,23 @@
+{
+  "id": "381jqz09m1",
+  "category": "etc",
+  "title": "（編成未定枠）",
+  "fullTitle": "（編成未定枠）",
+  "detail": "",
+  "start": 1691409600000,
+  "end": 1691410800000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
