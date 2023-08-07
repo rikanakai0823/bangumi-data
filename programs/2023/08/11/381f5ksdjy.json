@@ -1,12 +1,16 @@
 {
   "id": "381f5ksdjy",
   "category": "sports",
-  "title": "ＦＩＦＡ女子ワールドカップ２０２３　準々決勝",
-  "fullTitle": "ＦＩＦＡ女子ワールドカップ２０２３　準々決勝🈑",
-  "detail": "",
+  "title": "ＦＩＦＡ女子ワールドカップ２０２３　準々決勝「日本×スウェーデン」",
+  "fullTitle": "ＦＩＦＡ女子ワールドカップ２０２３　準々決勝「日本×スウェーデン」🈑",
+  "detail": "◇番組内容\n（試合開始　日本時間　４：３０）",
   "start": 1691737800000,
   "end": 1691747100000,
   "seconds": 9300,
+  "description": "",
+  "extra": {
+    "番組内容": "（試合開始　日本時間　４：３０）"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "日本×スウェーデン",
   "episode": 1,
   "flags": [
     "字"
