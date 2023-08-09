@@ -1,0 +1,23 @@
+{
+  "id": "idwtc5x",
+  "category": "hobby",
+  "title": "データサイエンスの技術",
+  "fullTitle": "データサイエンスの技術",
+  "detail": "「ニューラルネットワーク概論　第3回　深層学習へのアプローチ（１）」",
+  "start": 1691571600000,
+  "end": 1691574300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "深層学習へのアプローチ（１）",
+  "episode": 3,
+  "flags": []
+}

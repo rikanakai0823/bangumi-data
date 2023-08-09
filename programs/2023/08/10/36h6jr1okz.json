@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン",
   "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン🅂",
-  "detail": "",
+  "detail": "◇番組内容\nアクティブスレンダー　０１２０－５５－７８２７",
   "start": 1691596800000,
   "end": 1691598600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "アクティブスレンダー　０１２０－５５－７８２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
