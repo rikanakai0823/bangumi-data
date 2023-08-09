@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8l8ky",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「オーガスト賞」「ペルセウス座特別」\n◇出演者\n【MC】\r\n前半：山田桃子\r\n後半：堀江舞\r\n【解説】\r\n《8R～11R》豊岡加奈子(勝馬)",
+  "start": 1692253200000,
+  "end": 1692273600000,
+  "seconds": 20400,
+  "description": "「オーガスト賞」「ペルセウス座特別」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：山田桃子\r\n後半：堀江舞\r\n【解説】\r\n《8R～11R》豊岡加奈子(勝馬)"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
