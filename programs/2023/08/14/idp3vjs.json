@@ -3,10 +3,15 @@
   "category": "music",
   "title": "さわやかウインドー「甲州　ワインの香る里」",
   "fullTitle": "さわやかウインドー「甲州　ワインの香る里」",
-  "detail": "",
+  "detail": "◇キーワード1\n山梨\n◇キーワード2\n甲斐",
   "start": 1691946000000,
   "end": 1691947800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "キーワード1": "山梨",
+    "キーワード2": "甲斐"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS03_1",
