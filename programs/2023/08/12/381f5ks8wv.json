@@ -1,12 +1,16 @@
 {
   "id": "381f5ks8wv",
   "category": "information",
-  "title": "明日へ１ｍｉｎ．",
-  "fullTitle": "明日へ１ｍｉｎ．",
-  "detail": "",
+  "title": "明日へ１ｍｉｎ．　防災の知恵「冠水している時の歩き方」",
+  "fullTitle": "明日へ１ｍｉｎ．　防災の知恵「冠水している時の歩き方」",
+  "detail": "【語り】川﨑理加\n◇出演者\n【語り】川﨑理加",
   "start": 1691848440000,
   "end": 1691848500000,
   "seconds": 60,
+  "description": "【語り】川﨑理加",
+  "extra": {
+    "出演者": "【語り】川﨑理加"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "冠水している時の歩き方",
   "episode": 1,
   "flags": []
 }
