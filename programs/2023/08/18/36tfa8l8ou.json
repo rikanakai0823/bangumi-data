@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8l8ou",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「カシオペア座特別」「鐙坂賞」「サマーメモリー賞」\n◇出演者\n【MC】\r\n前半：堀江舞\r\n後半：砂岡春奈\r\n【解説】\r\n《7R～10R》藤田裕之(ケイシュウNEWS)",
+  "start": 1692339600000,
+  "end": 1692360000000,
+  "seconds": 20400,
+  "description": "「カシオペア座特別」「鐙坂賞」「サマーメモリー賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：堀江舞\r\n後半：砂岡春奈\r\n【解説】\r\n《7R～10R》藤田裕之(ケイシュウNEWS)\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

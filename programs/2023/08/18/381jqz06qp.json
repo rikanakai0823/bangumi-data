@@ -1,0 +1,30 @@
+{
+  "id": "381jqz06qp",
+  "category": "sports",
+  "title": "第１０５回全国高校野球選手権大会　準々決勝",
+  "fullTitle": "第１０５回全国高校野球選手権大会　準々決勝🅍🈑",
+  "detail": "第２試合　～甲子園球場から中継～\n◇番組内容\n［総合テレビで放送継続］",
+  "start": 1692327240000,
+  "end": 1692331500000,
+  "seconds": 4260,
+  "description": "第２試合　～甲子園球場から中継～",
+  "extra": {
+    "番組内容": "［総合テレビで放送継続］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 105,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}
