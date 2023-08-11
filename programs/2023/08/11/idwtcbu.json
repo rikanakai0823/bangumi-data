@@ -1,0 +1,23 @@
+{
+  "id": "idwtcbu",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「金融と社会・現代の会計」",
+  "start": 1691726400000,
+  "end": 1691727300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "金融と社会・現代の会計",
+  "episode": 1,
+  "flags": []
+}
