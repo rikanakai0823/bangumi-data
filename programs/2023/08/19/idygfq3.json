@@ -1,0 +1,25 @@
+{
+  "id": "idygfq3",
+  "category": "information",
+  "title": "エンタメ情報ステーション　土曜のトオルとカヲル　＃６７",
+  "fullTitle": "エンタメ情報ステーション　土曜のトオルとカヲル　＃６７🈞",
+  "detail": "BS松竹東急がおすすめするエンタメ情報満載の情報番組。映画、演劇、カルチャー、街ネタなど盛りだくさんの３０分。",
+  "start": 1692435600000,
+  "end": 1692437400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 67,
+  "flags": [
+    "再"
+  ]
+}

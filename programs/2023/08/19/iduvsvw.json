@@ -1,0 +1,26 @@
+{
+  "id": "iduvsvw",
+  "category": "cinema",
+  "title": "すべてが変わった日",
+  "fullTitle": "🈙🅍すべてが変わった日",
+  "detail": "ダイアン・レインとケヴィン・コスナー共演のサイコサスペンス。ＤＶ家族の元から幼い孫を奪還しようとする祖父母の姿を描く。",
+  "start": 1692453600000,
+  "end": 1692460800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

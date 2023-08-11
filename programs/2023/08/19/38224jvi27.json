@@ -1,0 +1,27 @@
+{
+  "id": "38224jvi27",
+  "category": "information",
+  "title": "テレ朝番組みどころナビ",
+  "fullTitle": "テレ朝番組みどころナビ",
+  "detail": "テレビ朝日のおすすめ番組をご紹介！\n◇◇おしらせ\n☆『テレビ朝日』公式ＨＰ\r\n　https://www.tv-asahi.co.jp/",
+  "start": 1692453240000,
+  "end": 1692453600000,
+  "seconds": 360,
+  "description": "テレビ朝日のおすすめ番組をご紹介！",
+  "extra": {
+    "◇おしらせ": "☆『テレビ朝日』公式ＨＰ\r\n　https://www.tv-asahi.co.jp/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
