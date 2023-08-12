@@ -1,0 +1,23 @@
+{
+  "id": "idwtc4t",
+  "category": "hobby",
+  "title": "学習センターめぐり",
+  "fullTitle": "学習センターめぐり",
+  "detail": "「神奈川学習センター」",
+  "start": 1691835300000,
+  "end": 1691836200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "神奈川学習センター",
+  "episode": 1,
+  "flags": []
+}
