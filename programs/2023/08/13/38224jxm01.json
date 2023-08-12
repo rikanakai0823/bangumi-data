@@ -1,0 +1,25 @@
+{
+  "id": "38224jxm01",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "現在開催中の「テレビ朝日・六本木ヒルズ 夏祭り SUMMER STATION」について詳しくお伝えします。",
+  "start": 1691870400000,
+  "end": 1691871600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjt",
+    "sid": 1065,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "テレビ朝日・六本木ヒルズ 夏祭り SUMMER STATION",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
