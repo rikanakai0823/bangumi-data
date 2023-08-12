@@ -1,0 +1,23 @@
+{
+  "id": "idwtc21",
+  "category": "hobby",
+  "title": "データサイエンスの技術",
+  "fullTitle": "データサイエンスの技術",
+  "detail": "「機械学習概論Ⅰ　第2回　回帰問題とモデル選択」",
+  "start": 1691830800000,
+  "end": 1691833500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "回帰問題とモデル選択",
+  "episode": 2,
+  "flags": []
+}
