@@ -1,0 +1,23 @@
+{
+  "id": "idrdbgy",
+  "category": "cinema",
+  "title": "映画「ターミネーター２」",
+  "fullTitle": "映画「ターミネーター２」",
+  "detail": "人類と機械の戦争が続く近未来からそれぞれの勢力が現代へ送り込んだアンドロイドと、戦争を回避すべく奮闘する人間達が繰り広げる死闘を描く人気シリーズの第二作！",
+  "start": 1692523800000,
+  "end": 1692532800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

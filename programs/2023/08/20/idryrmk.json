@@ -1,0 +1,23 @@
+{
+  "id": "idryrmk",
+  "category": "information",
+  "title": "健康情報ＴＶ",
+  "fullTitle": "健康情報ＴＶ",
+  "detail": "テレビショッピング",
+  "start": 1692480600000,
+  "end": 1692482400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

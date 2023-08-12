@@ -1,0 +1,26 @@
+{
+  "id": "idvjm9t",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "🈢🈓ＢＳイレブン競馬中継　第１部",
+  "detail": "【新潟】５Ｒ～８Ｒ，９Ｒ「閃光特別」\r\n【小倉】５Ｒ～８Ｒ，９Ｒ「西部スポニチ賞」，10Ｒ「薩摩ステークス」\r\n【札幌】８Ｒ「クローバー賞」",
+  "start": 1692500400000,
+  "end": 1692511200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

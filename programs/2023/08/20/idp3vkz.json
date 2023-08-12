@@ -1,0 +1,25 @@
+{
+  "id": "idp3vkz",
+  "category": "documentary",
+  "title": "ハイビジョン動物記「イトウ」",
+  "fullTitle": "ハイビジョン動物記「イトウ」🈑",
+  "detail": "",
+  "start": 1692465600000,
+  "end": 1692466200000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "イトウ",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

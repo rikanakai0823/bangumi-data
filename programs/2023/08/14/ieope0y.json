@@ -1,0 +1,23 @@
+{
+  "id": "ieope0y",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース",
+  "detail": "いつでも見ることができるＮＨＫの最新のニュース",
+  "start": 1691938800000,
+  "end": 1692025200000,
+  "seconds": 86400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫデータ２",
+    "id": "8l6l",
+    "sid": 701,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 86
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

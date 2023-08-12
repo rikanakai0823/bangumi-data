@@ -1,0 +1,23 @@
+{
+  "id": "idozizm",
+  "category": "sports",
+  "title": "ＦＩＦＡ女子ワールドカップ２０２３　決勝",
+  "fullTitle": "ＦＩＦＡ女子ワールドカップ２０２３　決勝",
+  "detail": "　（試合開始　日本時間　７：００）　【アナウンサー】酒井博司",
+  "start": 1692525000000,
+  "end": 1692532800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "アナウンサー",
+  "episode": 1,
+  "flags": []
+}
