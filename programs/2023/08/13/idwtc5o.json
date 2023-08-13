@@ -1,0 +1,23 @@
+{
+  "id": "idwtc5o",
+  "category": "hobby",
+  "title": "“科学”からの招待状",
+  "fullTitle": "“科学”からの招待状",
+  "detail": "「大統合自然史　第5回　生命の起源と進化」",
+  "start": 1691922600000,
+  "end": 1691925300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "生命の起源と進化",
+  "episode": 5,
+  "flags": []
+}

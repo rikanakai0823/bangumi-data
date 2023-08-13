@@ -1,0 +1,23 @@
+{
+  "id": "idwtc4x",
+  "category": "hobby",
+  "title": "特別番組",
+  "fullTitle": "特別番組",
+  "detail": "「コース別ガイド　②」",
+  "start": 1691919900000,
+  "end": 1691922600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "コース別ガイド　②",
+  "episode": 1,
+  "flags": []
+}
