@@ -1,0 +1,31 @@
+{
+  "id": "idt68ov",
+  "category": "cinema",
+  "title": "シネマクラッシュ",
+  "fullTitle": "シネマクラッシュ🈙🈑🈔",
+  "detail": "選りすぐりラインナップで映画をお届け！映画史に残る名作から話題作までバラエティに富んだ作品をお送りします！\n◇関連情報\n【ＢＳテレ東映画情報ホームページ】\r\nhttps://www.bs-tvtokyo.co.jp/cinema/",
+  "start": 1692612000000,
+  "end": 1692618840000,
+  "seconds": 6840,
+  "description": "選りすぐりラインナップで映画をお届け！映画史に残る名作から話題作までバラエティに富んだ作品をお送りします！",
+  "extra": {
+    "関連情報": "【ＢＳテレ東映画情報ホームページ】\r\nhttps://www.bs-tvtokyo.co.jp/cinema/"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字",
+    "二"
+  ]
+}
