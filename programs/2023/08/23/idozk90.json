@@ -1,0 +1,25 @@
+{
+  "id": "idozk90",
+  "category": "documentary",
+  "title": "ドキュメント２０ｍｉｎ．",
+  "fullTitle": "ドキュメント２０ｍｉｎ．🈑",
+  "detail": "",
+  "start": 1692779400000,
+  "end": 1692780600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

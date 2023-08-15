@@ -1,0 +1,23 @@
+{
+  "id": "idrdb0b",
+  "category": "anime",
+  "title": "アニメ　蒼穹のファフナー THE BEYOND (TV Edition)",
+  "fullTitle": "アニメ　蒼穹のファフナー THE BEYOND (TV Edition)",
+  "detail": "ここにいると定められたのなら僕はその運命に抗う",
+  "start": 1692801000000,
+  "end": 1692802800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
