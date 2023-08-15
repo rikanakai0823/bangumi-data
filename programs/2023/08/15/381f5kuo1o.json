@@ -1,0 +1,23 @@
+{
+  "id": "381f5kuo1o",
+  "category": "news",
+  "title": "ニュース「台風７号」関連",
+  "fullTitle": "ニュース「台風７号」関連",
+  "detail": "",
+  "start": 1692111000000,
+  "end": 1692111000001,
+  "seconds": 0.001,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "台風７号",
+  "episode": 1,
+  "flags": []
+}
