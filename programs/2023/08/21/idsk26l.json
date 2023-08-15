@@ -3,10 +3,14 @@
   "category": "information",
   "title": "吉田類の酒場放浪記",
   "fullTitle": "🈑吉田類の酒場放浪記",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1692619200000,
   "end": 1692622800000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

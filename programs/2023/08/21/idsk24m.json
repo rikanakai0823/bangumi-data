@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・ＥＵＲＯＰＥ",
   "fullTitle": "夢の彼方に・ＥＵＲＯＰＥ",
-  "detail": "",
+  "detail": "◇制作\n翔テレビジョン",
   "start": 1692554400000,
   "end": 1692558000000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
