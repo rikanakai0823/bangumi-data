@@ -4,9 +4,9 @@
   "title": "休止",
   "fullTitle": "休止",
   "detail": "この時間は放送を休止しています。\r\n\r\n番組に関する詳細は下記ホームページまで\r\nwww.jsports.co.jp",
-  "start": 1692214200000,
+  "start": 1692214800000,
   "end": 1692219600000,
-  "seconds": 5400,
+  "seconds": 4800,
   "channel": {
     "type": "BS",
     "channel": "BS19_1",
