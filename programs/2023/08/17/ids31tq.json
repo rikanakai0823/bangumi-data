@@ -1,0 +1,23 @@
+{
+  "id": "ids31tq",
+  "category": "music",
+  "title": "音楽のある風景　「青春歌白書」",
+  "fullTitle": "音楽のある風景　「青春歌白書」",
+  "detail": "懐かしい青春期の歌を集めた名曲の数々。時代を彩った青春の歌をお届けします。",
+  "start": 1692214200000,
+  "end": 1692216000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "青春歌白書",
+  "episode": 1,
+  "flags": []
+}
