@@ -1,0 +1,23 @@
+{
+  "id": "idsoc7k",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日　ｖｓ　巨人」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日　ｖｓ　巨人」",
+  "detail": "バンテリンドームナゴヤから生中継。よる６時試合開始。最大延長よる９時５４分。\r\n【解説】牛島和彦、【実況】水分貴雅（ＣＢＣアナウンサー）",
+  "start": 1692176400000,
+  "end": 1692187740000,
+  "seconds": 11340,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "中日　ｖｓ　巨人",
+  "episode": 1,
+  "flags": []
+}
