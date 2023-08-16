@@ -1,0 +1,26 @@
+{
+  "id": "iduw7px",
+  "category": "cinema",
+  "title": "スノーホワイト（２０１２）",
+  "fullTitle": "🈙🅍スノーホワイト（２０１２）",
+  "detail": "「白雪姫」を原作に、クリスティン・スチュアートが闘う白雪姫、継母にシャーリーズ・セロンが扮したダークファンタジー。",
+  "start": 1692841500000,
+  "end": 1692849600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "白雪姫",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

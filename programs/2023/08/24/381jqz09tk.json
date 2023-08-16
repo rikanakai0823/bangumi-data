@@ -1,0 +1,23 @@
+{
+  "id": "381jqz09tk",
+  "category": "sports",
+  "title": "全国中学校体育大会２０２３　サッカー",
+  "fullTitle": "全国中学校体育大会２０２３　サッカー",
+  "detail": "～香川県・Ｐｉｋａｒａスタジアムから中継～",
+  "start": 1692838800000,
+  "end": 1692843600000,
+  "seconds": 4800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
