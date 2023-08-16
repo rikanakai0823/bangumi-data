@@ -1,13 +1,13 @@
 {
   "id": "idsk244",
-  "category": "etc",
-  "title": "噂の！東京マガジン",
-  "fullTitle": "噂の！東京マガジン",
-  "detail": "◇制作\n2023年",
+  "category": "information",
+  "title": "噂の！東京マガジン▼新コーナー「噂のあの人」",
+  "fullTitle": "噂の！東京マガジン▼新コーナー「噂のあの人」",
+  "detail": "新コーナーはじまります！！【噂のあの人】\n◇制作\n2023年",
   "start": 1692504000000,
   "end": 1692507240000,
   "seconds": 3240,
-  "description": "",
+  "description": "新コーナーはじまります！！【噂のあの人】",
   "extra": {
     "制作": "2023年"
   },
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 51
   },
-  "subTitle": "",
+  "subTitle": "噂のあの人",
   "episode": 1,
   "flags": []
 }
