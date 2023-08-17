@@ -1,0 +1,27 @@
+{
+  "id": "381jqz0agu",
+  "category": "sports",
+  "title": "全国中学校体育大会２０２３　陸上",
+  "fullTitle": "全国中学校体育大会２０２３　陸上",
+  "detail": "～愛媛県・ニンジニアスタジアムから中継～\n◇番組内容\n［延伸のとき　Ｅテレ３で放送継続］",
+  "start": 1692940200000,
+  "end": 1692946500000,
+  "seconds": 6300,
+  "description": "～愛媛県・ニンジニアスタジアムから中継～",
+  "extra": {
+    "番組内容": "［延伸のとき　Ｅテレ３で放送継続］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

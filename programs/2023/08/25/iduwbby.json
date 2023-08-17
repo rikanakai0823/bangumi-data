@@ -1,0 +1,26 @@
+{
+  "id": "iduwbby",
+  "category": "cinema",
+  "title": "スター・ウォーズ　エピソード４／新たなる希望",
+  "fullTitle": "🈙🅍スター・ウォーズ　エピソード４／新たなる希望",
+  "detail": "『スター・ウォーズ』旧３部作第１作。銀河の存亡を賭けた戦いの中、青年ルーク・スカイウォーカーの旅立ちを描く。",
+  "start": 1692948600000,
+  "end": 1692956700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

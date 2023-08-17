@@ -1,0 +1,23 @@
+{
+  "id": "idwr774",
+  "category": "hobby",
+  "title": "授業科目案内～大学の窓",
+  "fullTitle": "授業科目案内～大学の窓",
+  "detail": "「物理の世界」",
+  "start": 1692957600000,
+  "end": 1692958500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "物理の世界",
+  "episode": 1,
+  "flags": []
+}

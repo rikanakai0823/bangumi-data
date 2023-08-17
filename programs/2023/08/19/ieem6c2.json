@@ -1,0 +1,23 @@
+{
+  "id": "ieem6c2",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「イノベーション・マネジメント('23)」",
+  "start": 1692425700000,
+  "end": 1692426600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 84
+  },
+  "subTitle": "イノベーション・マネジメント('23)",
+  "episode": 1,
+  "flags": []
+}
