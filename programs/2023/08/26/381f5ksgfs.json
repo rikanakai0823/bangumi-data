@@ -1,0 +1,30 @@
+{
+  "id": "381f5ksgfs",
+  "category": "sports",
+  "title": "プロ野球２０２３「巨人」対「阪神」",
+  "fullTitle": "プロ野球２０２３「巨人」対「阪神」🅍🈑",
+  "detail": "～東京ドームから中継～\n◇番組内容\n［延伸のとき　総合２で放送継続］",
+  "start": 1693045800000,
+  "end": 1693050600000,
+  "seconds": 4800,
+  "description": "～東京ドームから中継～",
+  "extra": {
+    "番組内容": "［延伸のとき　総合２で放送継続］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "阪神",
+  "episode": 1,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}

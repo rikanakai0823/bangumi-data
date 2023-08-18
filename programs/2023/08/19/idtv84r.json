@@ -1,0 +1,23 @@
+{
+  "id": "idtv84r",
+  "category": "information",
+  "title": "自然食研テレビショッピング",
+  "fullTitle": "自然食研テレビショッピング",
+  "detail": "",
+  "start": 1692383400000,
+  "end": 1692385200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

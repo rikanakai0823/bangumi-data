@@ -1,0 +1,23 @@
+{
+  "id": "38224jzs62",
+  "category": "news",
+  "title": "朝まで生テレビ！",
+  "fullTitle": "朝まで生テレビ！",
+  "detail": "1987年スタートの深夜討論番組。今月は「激論！～令和５年“夏”　終戦記念日と今の私～」をお送りします。",
+  "start": 1692375900000,
+  "end": 1692386700000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "激論！～令和５年“夏”　終戦記念日と今の私～",
+  "episode": 1,
+  "flags": []
+}
