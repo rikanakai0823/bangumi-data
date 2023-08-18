@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwsy9",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜札幌１１Ｒ　札幌記念（ＧⅡ）　他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜札幌１１Ｒ　札幌記念（ＧⅡ）　他",
+  "detail": "日曜札幌11R　札幌記念（GⅡ）　日曜小倉11R　北九州記念（GⅢ）　土曜新潟11R　日本海ステークス　土曜札幌11R　札幌日刊スポーツ杯",
+  "start": 1692360000000,
+  "end": 1692361800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
