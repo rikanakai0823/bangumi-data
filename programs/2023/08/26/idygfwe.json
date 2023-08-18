@@ -1,0 +1,23 @@
+{
+  "id": "idygfwe",
+  "category": "cinema",
+  "title": "短編映画劇場　BILLY THE BAKER",
+  "fullTitle": "短編映画劇場　BILLY THE BAKER",
+  "detail": "世界中から選りすぐりの短編映画をお届け！",
+  "start": 1693058160000,
+  "end": 1693058400000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
