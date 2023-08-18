@@ -1,0 +1,26 @@
+{
+  "id": "idozpup",
+  "category": "sports",
+  "title": "スポヂカラ！　１０ｍｉｎ",
+  "fullTitle": "スポヂカラ！　１０ｍｉｎ🈑🈞",
+  "detail": "これまで放送したスポヂカラ！を１０分に凝縮した「１０ｍｉｎ．」。今回は、田村淳さんも驚いた伝統の「乙亥大相撲」のチカラに迫る。ウクライナの相撲選手たちとの絆とは",
+  "start": 1692360000000,
+  "end": 1692360600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

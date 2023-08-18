@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3smx",
+  "category": "sports",
+  "title": "オレアル",
+  "fullTitle": "オレアル🅂",
+  "detail": "室井選手のプロ初ゴールで掴んだ勝ち点１。",
+  "start": 1692363600000,
+  "end": 1692364500000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
