@@ -1,0 +1,23 @@
+{
+  "id": "idwtc3o",
+  "category": "hobby",
+  "title": "学習センターめぐり",
+  "fullTitle": "学習センターめぐり",
+  "detail": "「長野学習センター」",
+  "start": 1692453600000,
+  "end": 1692454500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "長野学習センター",
+  "episode": 1,
+  "flags": []
+}
