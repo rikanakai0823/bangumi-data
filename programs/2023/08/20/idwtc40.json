@@ -1,0 +1,23 @@
+{
+  "id": "idwtc40",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「安全・安心と地域マネジメント('14)第１４回・１５回」",
+  "start": 1692478800000,
+  "end": 1692484200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "安全・安心と地域マネジメント('14)第１４回・１５回",
+  "episode": 14,
+  "flags": []
+}
