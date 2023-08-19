@@ -1,0 +1,23 @@
+{
+  "id": "ids31wn",
+  "category": "information",
+  "title": "これなら満足！快適ショッピング",
+  "fullTitle": "これなら満足！快適ショッピング",
+  "detail": "テレビショッピング",
+  "start": 1692396000000,
+  "end": 1692399300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
