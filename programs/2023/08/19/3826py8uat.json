@@ -1,0 +1,23 @@
+{
+  "id": "3826py8uat",
+  "category": "sports",
+  "title": "ウイニング競馬～新潟～",
+  "fullTitle": "ウイニング競馬～新潟～",
+  "detail": "【新潟】10Ｒ上越Ｓ、11Ｒ日本海Ｓ\r\n【小倉】10Ｒ不知火特別、11Ｒ佐世保Ｓ\r\n【札幌】11Ｒ札幌日刊スポーツ杯",
+  "start": 1692424800000,
+  "end": 1692428400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "新潟",
+  "episode": 1,
+  "flags": []
+}
