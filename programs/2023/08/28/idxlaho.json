@@ -1,0 +1,23 @@
+{
+  "id": "idxlaho",
+  "category": "sports",
+  "title": "SUPER GT 2023 第5戦 鈴鹿サーキット・決勝",
+  "fullTitle": "SUPER GT 2023 第5戦 鈴鹿サーキット・決勝",
+  "detail": "開催日：2023年8月27日\r\n会場：鈴鹿サーキット，三重県鈴鹿市",
+  "start": 1693187700000,
+  "end": 1693202100000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

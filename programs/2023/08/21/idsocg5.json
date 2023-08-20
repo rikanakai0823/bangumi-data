@@ -1,0 +1,23 @@
+{
+  "id": "idsocg5",
+  "category": "information",
+  "title": "買物大冒険",
+  "fullTitle": "買物大冒険",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1692552600000,
+  "end": 1692554400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

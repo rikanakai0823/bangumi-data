@@ -1,0 +1,23 @@
+{
+  "id": "idw6ue1",
+  "category": "information",
+  "title": "ＱＶＣ　いつでもランプtsuita停電しても消えない",
+  "fullTitle": "ＱＶＣ　いつでもランプtsuita停電しても消えない",
+  "detail": "停電しても消えない！？バッテリー内蔵のLED電球。停電になると自動で点灯するので慌てることなく対応できます。",
+  "start": 1693227600000,
+  "end": 1693231200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_2",
+    "name": "ＢＳ１２トゥエルビ",
+    "id": "8kta",
+    "sid": 222,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
