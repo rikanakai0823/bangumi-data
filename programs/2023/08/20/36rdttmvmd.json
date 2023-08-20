@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmvmd",
+  "category": "sports",
+  "title": "ＪＲＡ競馬中継",
+  "fullTitle": "ＪＲＡ競馬中継",
+  "detail": "中央競馬のレースを実況中継！▽パドック、返し馬、レースの模様をお昼からお届け。競馬のダイナミックさを臨場感を持ってお伝えします。",
+  "start": 1692507600000,
+  "end": 1692511200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
