@@ -1,0 +1,23 @@
+{
+  "id": "idsm7a0",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　阪神」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　阪神」",
+  "detail": "横浜から生中継。ごご５時試合開始。\r\n【解説】内川聖一、【実況】小笠原亘",
+  "start": 1692518400000,
+  "end": 1692528840000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　阪神",
+  "episode": 1,
+  "flags": []
+}
