@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "ふるさとに連れて行って！",
   "fullTitle": "ふるさとに連れて行って！🈑",
-  "detail": "【語り】柳葉敏郎",
+  "detail": "【語り】柳葉敏郎\n◇出演者\n【語り】柳葉敏郎",
   "start": 1693216800000,
   "end": 1693218600000,
   "seconds": 1800,
+  "description": "【語り】柳葉敏郎",
+  "extra": {
+    "出演者": "【語り】柳葉敏郎"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS03_1",
