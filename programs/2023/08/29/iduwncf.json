@@ -1,0 +1,26 @@
+{
+  "id": "iduwncf",
+  "category": "cinema",
+  "title": "アリータ：バトル・エンジェル",
+  "fullTitle": "🈙🅍アリータ：バトル・エンジェル",
+  "detail": "日本のコミック「銃夢」を実写映画化したＳＦアクション。記憶を失ったサイボーグ少女が、自らの運命に立ち向かう。［ＰＧ１２］",
+  "start": 1693264500000,
+  "end": 1693272600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "銃夢",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
