@@ -1,0 +1,25 @@
+{
+  "id": "idxgkh6",
+  "category": "sports",
+  "title": "【GAME2】メジャーリーグ中継2023 エンジェルス×レッズ(8/23)",
+  "fullTitle": "[生]【GAME2】メジャーリーグ中継2023 エンジェルス×レッズ(8/23)",
+  "detail": "ロサンゼルス・エンジェルス（大谷翔平 所属）×シンシナティ・レッズ\r\n\r\n解説：野口寿浩\r\n実況：大前一樹\r\n開催日：2023年8月23日(現地)",
+  "start": 1692840600000,
+  "end": 1692855000000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
