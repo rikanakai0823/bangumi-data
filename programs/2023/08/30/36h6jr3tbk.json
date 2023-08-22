@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3tbk",
+  "category": "sports",
+  "title": "浦和競馬中継",
+  "fullTitle": "浦和競馬中継🅂",
+  "detail": "",
+  "start": 1693378200000,
+  "end": 1693389000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

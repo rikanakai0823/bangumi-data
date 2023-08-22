@@ -1,0 +1,25 @@
+{
+  "id": "idvjmkh",
+  "category": "information",
+  "title": "ショップチャンネル　プロヴァンスのティータイム",
+  "fullTitle": "🈢ショップチャンネル　プロヴァンスのティータイム",
+  "detail": "バラエティ／市場ではあまり見かけないレアなアイテムや、匠の技が光るこだわりの逸品など、コレクターでなくても欲しくなる商品をご紹介。",
+  "start": 1693342800000,
+  "end": 1693346400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
