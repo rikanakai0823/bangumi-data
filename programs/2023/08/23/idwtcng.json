@@ -1,0 +1,23 @@
+{
+  "id": "idwtcng",
+  "category": "hobby",
+  "title": "特別番組",
+  "fullTitle": "特別番組",
+  "detail": "「大学案内2023」",
+  "start": 1692784800000,
+  "end": 1692785700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "大学案内2023",
+  "episode": 1,
+  "flags": []
+}

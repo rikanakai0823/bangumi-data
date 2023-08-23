@@ -1,0 +1,23 @@
+{
+  "id": "idwtcni",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「空間と政治・情報セキュリティ概論」",
+  "start": 1692785700000,
+  "end": 1692786600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "空間と政治・情報セキュリティ概論",
+  "episode": 1,
+  "flags": []
+}
