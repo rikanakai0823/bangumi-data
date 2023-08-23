@@ -1,0 +1,23 @@
+{
+  "id": "idtv8o1",
+  "category": "information",
+  "title": "ＳＨＯＰ　ＪＡＰＡＮ",
+  "fullTitle": "ＳＨＯＰ　ＪＡＰＡＮ",
+  "detail": "",
+  "start": 1692737940000,
+  "end": 1692739920000,
+  "seconds": 1980,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
