@@ -1,0 +1,23 @@
+{
+  "id": "idrdbfz",
+  "category": "cinema",
+  "title": "映画「００７／ゴールデンアイ」",
+  "fullTitle": "映画「００７／ゴールデンアイ」",
+  "detail": "007シリーズ第17弾。ピアース・ブロスナンが5代目ボンドとして華麗に登場！",
+  "start": 1693483200000,
+  "end": 1693492200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

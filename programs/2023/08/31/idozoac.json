@@ -1,0 +1,25 @@
+{
+  "id": "idozoac",
+  "category": "news",
+  "title": "ワールドニュース　▽アメリカ▽アジア",
+  "fullTitle": "ワールドニュース　▽アメリカ▽アジア🈔",
+  "detail": "▽アメリカ・ＰＢＳニュースアワー，韓国・ＫＢＳ，カタール・アルジャジーラ，中国・ＣＣＴＶ　▽世界の気象",
+  "start": 1693458000000,
+  "end": 1693461000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

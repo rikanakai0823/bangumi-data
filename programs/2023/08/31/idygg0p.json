@@ -1,0 +1,23 @@
+{
+  "id": "idygg0p",
+  "category": "information",
+  "title": "エンタメ情報ステーションミニ　＃６８",
+  "fullTitle": "エンタメ情報ステーションミニ　＃６８",
+  "detail": "BS松竹東急がおすすめするエンタメ情報満載の情報番組。映画、演劇、カルチャー、街ネタなど盛りだくさん！",
+  "start": 1693472400000,
+  "end": 1693472760000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 68,
+  "flags": []
+}
