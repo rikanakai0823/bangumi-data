@@ -1,12 +1,12 @@
 {
   "id": "381jqz09sj",
   "category": "news",
-  "title": "放送休止",
-  "fullTitle": "放送休止",
+  "title": "ニュース",
+  "fullTitle": "ニュース",
   "detail": "",
   "start": 1692806400000,
-  "end": 1692822600000,
-  "seconds": 16200,
+  "end": 1692806400001,
+  "seconds": 0.001,
   "channel": {
     "type": "GR",
     "channel": "26",
