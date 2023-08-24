@@ -1,0 +1,23 @@
+{
+  "id": "idwr7id",
+  "category": "hobby",
+  "title": "学習センターめぐり",
+  "fullTitle": "学習センターめぐり",
+  "detail": "「宮城学習センター」",
+  "start": 1693563300000,
+  "end": 1693564200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "宮城学習センター",
+  "episode": 1,
+  "flags": []
+}

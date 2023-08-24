@@ -1,0 +1,25 @@
+{
+  "id": "idvjmn4",
+  "category": "information",
+  "title": "宝くじドリームサテライト",
+  "fullTitle": "🈓宝くじドリームサテライト",
+  "detail": "当日に抽せんが行われたロト７、ロト６、ミニロト、ナンバーズ３、ナンバーズ４、ビンゴ５の抽せん結果をお伝えします。\r\nさらに、宝くじ関連の最新情報も！",
+  "start": 1693569480000,
+  "end": 1693569600000,
+  "seconds": 120,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "デ"
+  ]
+}

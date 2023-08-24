@@ -1,0 +1,23 @@
+{
+  "id": "idygg1p",
+  "category": "information",
+  "title": "映画『こんにちは、母さん』公開記念特番",
+  "fullTitle": "映画『こんにちは、母さん』公開記念特番",
+  "detail": "本日公開の映画『こんにちは、母さん』の見どころを紹介します。",
+  "start": 1693576800000,
+  "end": 1693578600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
