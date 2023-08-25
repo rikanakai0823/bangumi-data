@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "まだまだオモウマい店",
   "fullTitle": "まだまだオモウマい店🈑",
-  "detail": "",
+  "detail": "【群馬】踊るたこ焼きサンバ ほか\n◇出演者\n【ＭＣ】ヒロミ【進行】小峠英二【ゲスト】向井慧（パンサー）、井上咲楽",
   "start": 1693306440000,
   "end": 1693306800000,
   "seconds": 360,
+  "description": "【群馬】踊るたこ焼きサンバ ほか",
+  "extra": {
+    "出演者": "【ＭＣ】ヒロミ【進行】小峠英二【ゲスト】向井慧（パンサー）、井上咲楽"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
+  "subTitle": "群馬",
   "episode": 1,
   "flags": [
     "字"
