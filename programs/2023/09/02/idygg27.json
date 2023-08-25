@@ -1,0 +1,23 @@
+{
+  "id": "idygg27",
+  "category": "theater",
+  "title": "特選落語　桂雀々「田楽喰い」「蛸芝居」",
+  "fullTitle": "特選落語　桂雀々「田楽喰い」「蛸芝居」",
+  "detail": "",
+  "start": 1693623600000,
+  "end": 1693627200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "蛸芝居",
+  "episode": 1,
+  "flags": []
+}

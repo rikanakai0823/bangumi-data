@@ -1,0 +1,23 @@
+{
+  "id": "idwq1fo",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「ファイナンス入門・新時代の生徒指導」",
+  "start": 1693627200000,
+  "end": 1693628100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "ファイナンス入門・新時代の生徒指導",
+  "episode": 1,
+  "flags": []
+}

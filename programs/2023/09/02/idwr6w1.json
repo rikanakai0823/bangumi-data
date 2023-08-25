@@ -1,0 +1,23 @@
+{
+  "id": "idwr6w1",
+  "category": "hobby",
+  "title": "データサイエンスの技術",
+  "fullTitle": "データサイエンスの技術",
+  "detail": "「機械学習概論Ⅰ　第4回　スパースモデリング」",
+  "start": 1693623600000,
+  "end": 1693626300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "スパースモデリング",
+  "episode": 4,
+  "flags": []
+}
