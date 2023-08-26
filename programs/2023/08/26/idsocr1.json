@@ -1,0 +1,23 @@
+{
+  "id": "idsocr1",
+  "category": "sports",
+  "title": "世界陸上ブダペスト　ハイライト",
+  "fullTitle": "世界陸上ブダペスト　ハイライト",
+  "detail": "女子やり投げ決勝（北口）、男子４＊１００ｍリレー予選（日本）、女子マラソン（松田、加世田、佐藤）、男子２００ｍ決勝、女子２００ｍ決勝、女子三段跳び決勝等",
+  "start": 1693051200000,
+  "end": 1693061640000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
