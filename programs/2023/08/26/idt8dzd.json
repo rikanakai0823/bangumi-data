@@ -1,0 +1,23 @@
+{
+  "id": "idt8dzd",
+  "category": "sports",
+  "title": "ウイニング競馬～新潟～",
+  "fullTitle": "ウイニング競馬～新潟～",
+  "detail": "【新潟】10Ｒ長岡Ｓ、11ＲＢＳＮ賞（Ｌ）\r\n【小倉】10Ｒ西海賞、11Ｒ釜山Ｓ\r\n【札幌】10Ｒ2023ＷＡＳＪ第１戦、\r\n　　　　11Ｒ2023ＷＡＳＪ第２戦",
+  "start": 1693027800000,
+  "end": 1693033200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "新潟",
+  "episode": 1,
+  "flags": []
+}
