@@ -1,0 +1,25 @@
+{
+  "id": "idtqvul",
+  "category": "sports",
+  "title": "ＢＯＡＴ  ＲＡＣＥ  プレミア　ハートビートボート＋",
+  "fullTitle": "🈢ＢＯＡＴ  ＲＡＣＥ  プレミア　ハートビートボート＋",
+  "detail": "レースの模様はもちろん、ボートレースをより楽しむための情報を発信する！JOY、レッツゴーよしまさがゲスト登場！3場中継！予想バトル！！",
+  "start": 1693724400000,
+  "end": 1693727760000,
+  "seconds": 3360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

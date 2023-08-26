@@ -1,0 +1,23 @@
+{
+  "id": "idp42wl",
+  "category": "music",
+  "title": "さわやかウインドー「東京下町散策」",
+  "fullTitle": "さわやかウインドー「東京下町散策」",
+  "detail": "",
+  "start": 1693677600000,
+  "end": 1693679400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "東京下町散策",
+  "episode": 1,
+  "flags": []
+}

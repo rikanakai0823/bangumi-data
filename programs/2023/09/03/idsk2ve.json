@@ -1,0 +1,23 @@
+{
+  "id": "idsk2ve",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　巨人」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　巨人」",
+  "detail": "横浜から生中継。ごご５時試合開始。最大延長よる８時５４分。\r\n【解説】工藤公康、【実況】土井敏之",
+  "start": 1693728000000,
+  "end": 1693738440000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　巨人",
+  "episode": 1,
+  "flags": []
+}
