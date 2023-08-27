@@ -1,0 +1,23 @@
+{
+  "id": "idt8e03",
+  "category": "news",
+  "title": "ＢＳテレ東　ＥＹＥ",
+  "fullTitle": "ＢＳテレ東　ＥＹＥ",
+  "detail": "ＢＳテレビ東京自身が自局の放送番組を検証し、放送番組審議会の様子を取り上げる。視聴者との信頼関係をより強くするためにＢＳテレビ東京自身を映す番組。",
+  "start": 1693087140000,
+  "end": 1693087200000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
