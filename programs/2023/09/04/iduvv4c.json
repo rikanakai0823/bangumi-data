@@ -1,0 +1,26 @@
+{
+  "id": "iduvv4c",
+  "category": "cinema",
+  "title": "キャメラを止めるな！",
+  "fullTitle": "🈙🅍キャメラを止めるな！",
+  "detail": "社会現象となった『カメラを止めるな！』のフランス版リメイク。ゾンビ映画の撮影に挑む監督やスタッフ、キャストの運命を描く。",
+  "start": 1693792800000,
+  "end": 1693800000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

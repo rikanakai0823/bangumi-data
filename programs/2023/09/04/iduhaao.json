@@ -1,0 +1,26 @@
+{
+  "id": "iduhaao",
+  "category": "cinema",
+  "title": "日本統一４７",
+  "fullTitle": "🈙日本統一４７🈑",
+  "detail": "極道の世界に生きる人間たちの壮大なドラマを描いた「日本統一」シリーズ、いよいよ関東を舞台にした新展開が始まる第４７作。八王子で新たな抗争の火種が持ち上がる。",
+  "start": 1693782900000,
+  "end": 1693787400000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "日本統一",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
