@@ -1,0 +1,23 @@
+{
+  "id": "idtaj6a",
+  "category": "information",
+  "title": "グット　モット　プライス　テレビショッピング",
+  "fullTitle": "グット　モット　プライス　テレビショッピング",
+  "detail": "便利な商品をお届け",
+  "start": 1693125000000,
+  "end": 1693127700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
