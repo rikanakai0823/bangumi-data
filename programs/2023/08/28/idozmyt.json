@@ -1,0 +1,23 @@
+{
+  "id": "idozmyt",
+  "category": "documentary",
+  "title": "風景映像「沖縄　西表島」",
+  "fullTitle": "風景映像「沖縄　西表島」",
+  "detail": "～沖縄県・西表島～",
+  "start": 1693162800000,
+  "end": 1693164600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "沖縄　西表島",
+  "episode": 1,
+  "flags": []
+}
