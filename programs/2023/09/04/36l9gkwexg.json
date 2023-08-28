@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwexg",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃２４９",
-  "fullTitle": "チバミライチャンネル　＃２４９",
-  "detail": " ",
+  "title": "チバミライチャンネル　みんなで防災～やさしい日本語",
+  "fullTitle": "チバミライチャンネル　みんなで防災～やさしい日本語",
+  "detail": "地震が発生したら\n◇番組内容\nnewsチバ特集①\r\n経営者は学生！千葉商科大学に学食ＯＰ",
   "start": 1693777500000,
   "end": 1693778400000,
   "seconds": 900,
+  "description": "地震が発生したら",
+  "extra": {
+    "番組内容": "newsチバ特集①\r\n経営者は学生！千葉商科大学に学食ＯＰ"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 11
   },
   "subTitle": "",
-  "episode": 249,
+  "episode": 1,
   "flags": []
 }
