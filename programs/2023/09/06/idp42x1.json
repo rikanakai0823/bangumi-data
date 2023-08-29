@@ -1,0 +1,23 @@
+{
+  "id": "idp42x1",
+  "category": "music",
+  "title": "さわやかウインドー「夏山紀行　中央アルプス」",
+  "fullTitle": "さわやかウインドー「夏山紀行　中央アルプス」",
+  "detail": "",
+  "start": 1693933200000,
+  "end": 1693935000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "夏山紀行　中央アルプス",
+  "episode": 1,
+  "flags": []
+}
