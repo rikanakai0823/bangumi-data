@@ -1,13 +1,13 @@
 {
   "id": "idsk2rk",
   "category": "anime",
-  "title": "ＡＩの遺電子",
-  "fullTitle": "ＡＩの遺電子",
-  "detail": "◇制作\n2023年",
+  "title": "ＡＩの遺電子＃０８",
+  "fullTitle": "ＡＩの遺電子＃０８",
+  "detail": "＃０８「告白」\n◇制作\n2023年",
   "start": 1693589400000,
   "end": 1693591200000,
   "seconds": 1800,
-  "description": "",
+  "description": "＃０８「告白」",
   "extra": {
     "制作": "2023年"
   },
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 51
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "告白",
+  "episode": 8,
   "flags": []
 }
