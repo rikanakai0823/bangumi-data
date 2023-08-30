@@ -1,0 +1,27 @@
+{
+  "id": "iduhabo",
+  "category": "cinema",
+  "title": "２０歳のソウル",
+  "fullTitle": "🈙２０歳のソウル🅍🈑",
+  "detail": "神尾楓珠が主演した音楽青春ドラマ。実話に基づき、市立船橋高校で代々受け継がれている応援歌「市船ｓｏｕｌ」を作曲しながら、２０歳の若さでこの世を去った青年を描く。",
+  "start": 1694025000000,
+  "end": 1694034000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "市船ｓｏｕｌ",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

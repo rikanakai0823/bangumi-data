@@ -1,0 +1,25 @@
+{
+  "id": "idxij2d",
+  "category": "sports",
+  "title": "9月番組情報",
+  "fullTitle": "[無料]9月番組情報",
+  "detail": "【9月番組情報】\r\n番組に関する詳細は下記ホームページまで\r\nwww.jsports.co.jp",
+  "start": 1694075100000,
+  "end": 1694075400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "9月番組情報",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
