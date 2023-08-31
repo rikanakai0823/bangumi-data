@@ -1,0 +1,23 @@
+{
+  "id": "idsm7vf",
+  "category": "information",
+  "title": "トクトク買物便",
+  "fullTitle": "トクトク買物便",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1693504800000,
+  "end": 1693506600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
