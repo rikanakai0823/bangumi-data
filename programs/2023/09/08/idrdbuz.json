@@ -1,0 +1,23 @@
+{
+  "id": "idrdbuz",
+  "category": "information",
+  "title": "おはよう日テレポシュレＢＳ店",
+  "fullTitle": "おはよう日テレポシュレＢＳ店",
+  "detail": "",
+  "start": 1694127600000,
+  "end": 1694129400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduhac6",
+  "category": "cinema",
+  "title": "言の葉の庭",
+  "fullTitle": "🈙言の葉の庭🅍🈑",
+  "detail": "「天気の子」の新海誠監督が描く、万葉集の一編から始まる“孤悲（こい）”の物語。靴職人を目指す男子高校生と、年上の女性との淡い恋や心の揺らぎを、雨に重ねて描いた。",
+  "start": 1694148300000,
+  "end": 1694151900000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "天気の子",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

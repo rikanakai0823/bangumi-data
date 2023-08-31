@@ -1,0 +1,27 @@
+{
+  "id": "iduhac5",
+  "category": "cinema",
+  "title": "星を追う子ども",
+  "fullTitle": "🈙星を追う子ども🅍🈑",
+  "detail": "「天気の子」の新海誠監督が贈る本格ジュブナイルファンタジーアニメーション。地下世界アガルタへの冒険に旅立った少年少女と教師を待ち受ける運命を描く。",
+  "start": 1694141100000,
+  "end": 1694148300000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "天気の子",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

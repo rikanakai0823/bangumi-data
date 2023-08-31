@@ -1,0 +1,25 @@
+{
+  "id": "idy001p",
+  "category": "cinema",
+  "title": "ジョン・ウィック：パラベラム",
+  "fullTitle": "🈙ジョン・ウィック：パラベラム",
+  "detail": "キアヌ・リーヴス主演のアクションシリーズの第3作。元殺し屋ジョンは殺し屋業界全体に命を狙われ、次から次へと現われる刺客を迎え撃つ。",
+  "start": 1694122200000,
+  "end": 1694131200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
