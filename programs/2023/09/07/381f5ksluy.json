@@ -1,12 +1,16 @@
 {
   "id": "381f5ksluy",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　おすすめ番組ご紹介　＋　受信料値下げのお知らせ",
+  "fullTitle": "＃ＮＨＫ　おすすめ番組ご紹介　＋　受信料値下げのお知らせ",
+  "detail": "【キャスター】二宮直輝\n◇出演者\n【キャスター】二宮直輝",
   "start": 1694086920000,
   "end": 1694087100000,
   "seconds": 180,
+  "description": "【キャスター】二宮直輝",
+  "extra": {
+    "出演者": "【キャスター】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": 1,
   "flags": []
 }
