@@ -1,0 +1,23 @@
+{
+  "id": "idt8e6k",
+  "category": "sports",
+  "title": "ウイニング競馬～新潟～",
+  "fullTitle": "ウイニング競馬～新潟～",
+  "detail": "【新潟】10Ｒ赤倉特別、11Ｒ古町Ｓ\r\n【小倉】10Ｒ筑後川特別、11ＲテレＱ杯\r\n【札幌】11Ｒ札幌２歳Ｓ（ＧⅢ）",
+  "start": 1693632600000,
+  "end": 1693638000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "新潟",
+  "episode": 1,
+  "flags": []
+}
