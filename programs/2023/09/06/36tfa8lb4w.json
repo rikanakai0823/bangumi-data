@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": " ",
+  "detail": "「三河島賞」「第６０回　東京記念（ＳⅠ）」「永代橋賞」\n◇出演者\n【MC】\r\n前半：山田桃子\r\n後半：堀江舞\r\n【場内リポート】\r\n前半：芦崎愛\r\n後半：山田かれん\r\n【解説】\r\n《1R～6R》長尾基弘（勝馬）\r\n《7R～12R》藤田裕之（ケイシュウNEWS）",
   "start": 1693981200000,
   "end": 1694001600000,
   "seconds": 20400,
+  "description": "「三河島賞」「第６０回　東京記念（ＳⅠ）」「永代橋賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：山田桃子\r\n後半：堀江舞\r\n【場内リポート】\r\n前半：芦崎愛\r\n後半：山田かれん\r\n【解説】\r\n《1R～6R》長尾基弘（勝馬）\r\n《7R～12R》藤田裕之（ケイシュウNEWS）\r\n\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 36
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "東京記念（ＳⅠ）",
+  "episode": 60,
   "flags": []
 }
