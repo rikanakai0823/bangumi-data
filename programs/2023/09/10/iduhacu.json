@@ -1,0 +1,26 @@
+{
+  "id": "iduhacu",
+  "category": "cinema",
+  "title": "アンノウン（字幕版）",
+  "fullTitle": "🈙アンノウン（字幕版）🅍",
+  "detail": "交通事故に遭遇した主人公は、妻から忘れられるなど自分がいなかったかのように扱われ……。「９６時間」のＬ・ニーソンが主演したノンストップ・アクション・サスペンス。",
+  "start": 1694316600000,
+  "end": 1694323800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "９６時間",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

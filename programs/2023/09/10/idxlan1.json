@@ -1,0 +1,25 @@
+{
+  "id": "idxlan1",
+  "category": "sports",
+  "title": "FIMスーパースポーツ世界選手権2023 第9戦 フランス【レース2】",
+  "fullTitle": "[生]FIMスーパースポーツ世界選手権2023 第9戦 フランス【レース2】",
+  "detail": "第9戦 マニクール(フランス)\r\n【決勝レース2】\r\n\r\n開催日：2023年9月10日(現地)",
+  "start": 1694340900000,
+  "end": 1694346300000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "レース2",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

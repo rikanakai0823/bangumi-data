@@ -1,0 +1,23 @@
+{
+  "id": "381f5kusss",
+  "category": "sports",
+  "title": "サッカー国際親善試合「日本」対「ドイツ」",
+  "fullTitle": "サッカー国際親善試合「日本」対「ドイツ」",
+  "detail": "～ドイツ・フォルクスワーゲン・アレーナから中継～",
+  "start": 1694292540000,
+  "end": 1694293200000,
+  "seconds": 660,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "ドイツ",
+  "episode": 1,
+  "flags": []
+}

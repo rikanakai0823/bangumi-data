@@ -1,0 +1,23 @@
+{
+  "id": "idwq1h1",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「メディア論・世界文学への招待」",
+  "start": 1694318400000,
+  "end": 1694319300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "メディア論・世界文学への招待",
+  "episode": 1,
+  "flags": []
+}
