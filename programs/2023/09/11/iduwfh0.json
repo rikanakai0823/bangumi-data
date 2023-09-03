@@ -1,0 +1,26 @@
+{
+  "id": "iduwfh0",
+  "category": "cinema",
+  "title": "アメリカン・ユートピア",
+  "fullTitle": "🈙🅍アメリカン・ユートピア",
+  "detail": "元トーキング・ヘッズのデヴィッド・バーンによって行われたブロードウェイでのコンサートの模様をスパイク・リー監督が映画化。",
+  "start": 1694376000000,
+  "end": 1694383200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxeddt",
+  "category": "sports",
+  "title": "ラグビー わんだほー！～ラグビー情報番組～ #51",
+  "fullTitle": "[初]ラグビー わんだほー！～ラグビー情報番組～ #51",
+  "detail": "コメンテーター：谷口廣明\r\nMC：浅野杏奈(J SPORTSラグビーアンバサダー)\r\n\r\nラグビーワールドカップ期間はウィークリーで日本代表情報など盛りだくさんでお届け！",
+  "start": 1694437200000,
+  "end": 1694440800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 51,
+  "flags": [
+    "初"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1ouj",
+  "category": "sports",
+  "title": "ＬＩＯＮＳ　ＣＨＡＮＮＥＬ",
+  "fullTitle": "ＬＩＯＮＳ　ＣＨＡＮＮＥＬ🅂",
+  "detail": "",
+  "start": 1694437200000,
+  "end": 1694439000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
