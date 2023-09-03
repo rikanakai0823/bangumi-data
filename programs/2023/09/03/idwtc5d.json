@@ -1,0 +1,23 @@
+{
+  "id": "idwtc5d",
+  "category": "hobby",
+  "title": "数理・データサイエンス・ＡＩ　応用基礎講座",
+  "fullTitle": "数理・データサイエンス・ＡＩ　応用基礎講座",
+  "detail": "「データエンジニアリング基礎　第5回　データ加工」",
+  "start": 1693699200000,
+  "end": 1693701900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "データ加工",
+  "episode": 5,
+  "flags": []
+}
