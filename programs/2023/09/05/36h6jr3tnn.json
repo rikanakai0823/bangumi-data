@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3tnn",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ🅂",
+  "detail": "「川口オート」",
+  "start": 1693920600000,
+  "end": 1693922400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "川口オート",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
