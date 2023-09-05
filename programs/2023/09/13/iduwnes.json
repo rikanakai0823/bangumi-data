@@ -1,0 +1,25 @@
+{
+  "id": "iduwnes",
+  "category": "documentary",
+  "title": "オードリー・ヘプバーン",
+  "fullTitle": "🅍オードリー・ヘプバーン",
+  "detail": "ハリウッド黄金期の映画スター、オードリー・ヘプバーンのドキュメンタリー。名声の裏に隠された１人の女性としての素顔に迫る。",
+  "start": 1694563200000,
+  "end": 1694570400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

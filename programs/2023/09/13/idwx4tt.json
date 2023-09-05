@@ -1,0 +1,25 @@
+{
+  "id": "idwx4tt",
+  "category": "sports",
+  "title": "BAR ヒデ to KEIBA #11",
+  "fullTitle": "BAR ヒデ to KEIBA #11🈑",
+  "detail": "ゲストは渡辺明さん(1)",
+  "start": 1694599200000,
+  "end": 1694601000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 11,
+  "flags": [
+    "字"
+  ]
+}
