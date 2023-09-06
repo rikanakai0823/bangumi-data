@@ -1,0 +1,23 @@
+{
+  "id": "idp48dw",
+  "category": "music",
+  "title": "さわやかウインドー「潮騒　三浦半島」",
+  "fullTitle": "さわやかウインドー「潮騒　三浦半島」",
+  "detail": "",
+  "start": 1694624400000,
+  "end": 1694626200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "潮騒　三浦半島",
+  "episode": 1,
+  "flags": []
+}

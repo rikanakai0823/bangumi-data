@@ -1,0 +1,25 @@
+{
+  "id": "idozux4",
+  "category": "news",
+  "title": "クローズアップ現代",
+  "fullTitle": "クローズアップ現代🈑",
+  "detail": "",
+  "start": 1694637000000,
+  "end": 1694638740000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

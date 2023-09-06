@@ -1,0 +1,26 @@
+{
+  "id": "iduwoyc",
+  "category": "cinema",
+  "title": "ナイト　ミュージアム",
+  "fullTitle": "🈙🅍ナイト　ミュージアム",
+  "detail": "夜になると展示物が一斉に動き出す？！そんな博物館のガードマンをするハメになった男の姿を描いたファンタジーアドベンチャー。",
+  "start": 1694635200000,
+  "end": 1694642400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduhae1",
+  "category": "cinema",
+  "title": "家族ごっこ",
+  "fullTitle": "🈙家族ごっこ🈑",
+  "detail": "気鋭監督・内田英治と人気作家・木下半太がメガホンを取り、どこか奇妙な家族を描き出すオムニバスムービー。赤の他人がニセ家族を演じる「鈴木ごっこ」など５編を収録。",
+  "start": 1694622000000,
+  "end": 1694628300000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "鈴木ごっこ",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

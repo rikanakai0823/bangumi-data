@@ -1,0 +1,23 @@
+{
+  "id": "idyggda",
+  "category": "information",
+  "title": "エンタメ情報ステーションミニ　＃６９",
+  "fullTitle": "エンタメ情報ステーションミニ　＃６９",
+  "detail": "BS松竹東急がおすすめするエンタメ情報満載の情報番組。映画、演劇、カルチャー、街ネタなど盛りだくさん！",
+  "start": 1694682000000,
+  "end": 1694682360000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 69,
+  "flags": []
+}
