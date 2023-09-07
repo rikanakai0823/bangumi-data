@@ -1,0 +1,23 @@
+{
+  "id": "idsk3iv",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日　ｖｓ　巨人」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日　ｖｓ　巨人」",
+  "detail": "バンテリンドームナゴヤから生中継。よる６時試合開始。最大延長よる９時５４分。\r\n【解説】平田良介、【実況】榊原悠介（ＣＢＣアナウンサー）",
+  "start": 1694768400000,
+  "end": 1694778840000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "中日　ｖｓ　巨人",
+  "episode": 1,
+  "flags": []
+}
