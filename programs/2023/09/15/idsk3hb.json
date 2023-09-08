@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・ＪＡＭＡＩＣＡ・ＭＥＸＩＣＯ",
   "fullTitle": "夢の彼方に・ＪＡＭＡＩＣＡ・ＭＥＸＩＣＯ",
-  "detail": "",
+  "detail": "◇制作\n翔テレビジョン",
   "start": 1694716200000,
   "end": 1694718000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
