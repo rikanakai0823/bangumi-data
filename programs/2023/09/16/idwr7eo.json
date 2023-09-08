@@ -1,0 +1,23 @@
+{
+  "id": "idwr7eo",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「音楽・情報・脳('13)第１０回・１１回・１２回」",
+  "start": 1694846700000,
+  "end": 1694854800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "音楽・情報・脳('13)第１０回・１１回・１２回",
+  "episode": 10,
+  "flags": []
+}

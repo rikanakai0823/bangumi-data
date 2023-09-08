@@ -1,0 +1,25 @@
+{
+  "id": "iduxnf8",
+  "category": "cinema",
+  "title": "マリリンとアインシュタイン",
+  "fullTitle": "🈙マリリンとアインシュタイン",
+  "detail": "ニコラス・ローグ監督の異色会話劇。マリリン・モンロー、アインシュタインなどを想起させる４人が多様な議論を闘わせる！",
+  "start": 1694820000000,
+  "end": 1694827200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

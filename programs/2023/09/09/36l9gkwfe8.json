@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwfe8",
+  "category": "etc",
+  "title": "試験電波",
+  "fullTitle": "試験電波",
+  "detail": " ",
+  "start": 1694194500000,
+  "end": 1694202900000,
+  "seconds": 8400,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
