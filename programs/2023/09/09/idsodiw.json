@@ -1,0 +1,25 @@
+{
+  "id": "idsodiw",
+  "category": "cinema",
+  "title": "土曜映画デラックス「アトミック・ブロンド」【吹替】",
+  "fullTitle": "🈙土曜映画デラックス「アトミック・ブロンド」【吹替】",
+  "detail": "シャーリーズ・セロン主演、スタイリッシュ・スパイアクション",
+  "start": 1694260800000,
+  "end": 1694267640000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "吹替",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
