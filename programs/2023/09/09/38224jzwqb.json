@@ -1,0 +1,23 @@
+{
+  "id": "38224jzwqb",
+  "category": "drama",
+  "title": "テレ朝番組みどころナビ",
+  "fullTitle": "テレ朝番組みどころナビ",
+  "detail": "テレビ朝日のおすすめ番組をご紹介！",
+  "start": 1694244300000,
+  "end": 1694244600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
