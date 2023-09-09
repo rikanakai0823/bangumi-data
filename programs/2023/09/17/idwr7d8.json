@@ -1,0 +1,23 @@
+{
+  "id": "idwr7d8",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「河川の水質調査が語るもの」",
+  "start": 1694946600000,
+  "end": 1694949300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "河川の水質調査が語るもの",
+  "episode": 1,
+  "flags": []
+}

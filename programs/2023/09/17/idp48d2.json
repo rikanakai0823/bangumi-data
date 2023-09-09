@@ -1,0 +1,23 @@
+{
+  "id": "idp48d2",
+  "category": "music",
+  "title": "さわやかウインドー「柳川　どんこ舟」",
+  "fullTitle": "さわやかウインドー「柳川　どんこ舟」",
+  "detail": "",
+  "start": 1694885400000,
+  "end": 1694887200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "柳川　どんこ舟",
+  "episode": 1,
+  "flags": []
+}

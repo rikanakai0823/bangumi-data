@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1p5z",
+  "category": "music",
+  "title": "みんなの音楽会ＴＶ",
+  "fullTitle": "みんなの音楽会ＴＶ",
+  "detail": "",
+  "start": 1694913300000,
+  "end": 1694914200000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

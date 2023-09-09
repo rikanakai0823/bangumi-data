@@ -1,0 +1,25 @@
+{
+  "id": "idp46wx",
+  "category": "music",
+  "title": "プレミアムシアター",
+  "fullTitle": "プレミアムシアター🅍",
+  "detail": "",
+  "start": 1694960400000,
+  "end": 1694976720000,
+  "seconds": 16320,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

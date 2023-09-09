@@ -1,0 +1,26 @@
+{
+  "id": "iduvltt",
+  "category": "cinema",
+  "title": "ワイルド・スピード／ジェットブレイク",
+  "fullTitle": "🈙🅍ワイルド・スピード／ジェットブレイク",
+  "detail": "大ヒットカーアクションシリーズの第９弾。新たな敵としてドミニクの実弟が登場し、世界の命運をかけたバトルが繰り広げられる！",
+  "start": 1694925900000,
+  "end": 1694934900000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
