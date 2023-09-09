@@ -1,0 +1,23 @@
+{
+  "id": "idsoeer",
+  "category": "etc",
+  "title": "試験電波発射中",
+  "fullTitle": "試験電波発射中",
+  "detail": "",
+  "start": 1694285700000,
+  "end": 1694286000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

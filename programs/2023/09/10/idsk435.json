@@ -1,0 +1,23 @@
+{
+  "id": "idsk435",
+  "category": "etc",
+  "title": "試験電波発射中（１６１・１６３）",
+  "fullTitle": "試験電波発射中（１６１・１６３）",
+  "detail": "",
+  "start": 1694285400000,
+  "end": 1694285700000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

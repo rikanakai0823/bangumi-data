@@ -1,0 +1,23 @@
+{
+  "id": "idsm98y",
+  "category": "etc",
+  "title": "試験電波発射中（１６２）",
+  "fullTitle": "試験電波発射中（１６２）",
+  "detail": "",
+  "start": 1694285400000,
+  "end": 1694285700000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 162,
+  "flags": []
+}
