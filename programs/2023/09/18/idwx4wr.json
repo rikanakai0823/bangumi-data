@@ -1,0 +1,23 @@
+{
+  "id": "idwx4wr",
+  "category": "sports",
+  "title": "先週のレースリプレイ（場別）",
+  "fullTitle": "先週のレースリプレイ（場別）",
+  "detail": "「第４回中山競馬第３・4・5日、第４回阪神競馬第３・4・5日」",
+  "start": 1695034800000,
+  "end": 1695045600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "第４回中山競馬第３・4・5日、第４回阪神競馬第３・4・5日",
+  "episode": 4,
+  "flags": []
+}

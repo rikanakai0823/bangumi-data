@@ -1,0 +1,23 @@
+{
+  "id": "idxlaqi",
+  "category": "sports",
+  "title": "サッカーニュースFoot！THURSDAY(9/14)",
+  "fullTitle": "サッカーニュースFoot！THURSDAY(9/14)",
+  "detail": "木曜日は高校年代のサッカー！",
+  "start": 1694998800000,
+  "end": 1695001800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
