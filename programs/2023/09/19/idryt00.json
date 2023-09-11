@@ -1,0 +1,23 @@
+{
+  "id": "idryt00",
+  "category": "news",
+  "title": "天気予報",
+  "fullTitle": "天気予報",
+  "detail": "天気予報",
+  "start": 1695088680000,
+  "end": 1695088800000,
+  "seconds": 120,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "381sxrfvts",
+  "category": "drama",
+  "title": "ドラマストリームナビ",
+  "fullTitle": "ドラマストリームナビ",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/kiminai_tbs/",
+  "start": 1695055200000,
+  "end": 1695057000000,
+  "seconds": 1800,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/kiminai_tbs/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
