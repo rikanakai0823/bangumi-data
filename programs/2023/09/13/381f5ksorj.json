@@ -1,12 +1,12 @@
 {
   "id": "381f5ksorj",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース🈑",
+  "title": "ニュース「岸田内閣改造」",
+  "fullTitle": "ニュース「岸田内閣改造」🈑",
   "detail": "",
   "start": 1694577600000,
-  "end": 1694577900000,
-  "seconds": 300,
+  "end": 1694580000000,
+  "seconds": 2400,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "岸田内閣改造",
   "episode": 1,
   "flags": [
     "字"
