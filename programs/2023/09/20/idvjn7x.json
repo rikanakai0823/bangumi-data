@@ -1,0 +1,23 @@
+{
+  "id": "idvjn7x",
+  "category": "news",
+  "title": "リベラルタイム",
+  "fullTitle": "リベラルタイム",
+  "detail": "",
+  "start": 1695218400000,
+  "end": 1695221640000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
