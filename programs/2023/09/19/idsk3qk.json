@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "名曲をあなたに　うた恋！音楽会",
   "fullTitle": "名曲をあなたに　うた恋！音楽会",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1695124800000,
   "end": 1695131640000,
   "seconds": 6840,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
