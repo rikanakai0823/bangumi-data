@@ -1,0 +1,25 @@
+{
+  "id": "idwx4yu",
+  "category": "sports",
+  "title": "ＧＣ地方競馬中継(ヤングジョッキーズシリーズトライアルラウンド名古屋）",
+  "fullTitle": "🈢ＧＣ地方競馬中継(ヤングジョッキーズシリーズトライアルラウンド名古屋）",
+  "detail": "ヤングジョッキーズシリーズトライアルラウンド名古屋",
+  "start": 1695277800000,
+  "end": 1695285000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idyggjo",
+  "category": "information",
+  "title": "テレビショッピング",
+  "fullTitle": "テレビショッピング",
+  "detail": "",
+  "start": 1695279600000,
+  "end": 1695281400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

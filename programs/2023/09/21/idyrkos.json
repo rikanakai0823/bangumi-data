@@ -1,0 +1,25 @@
+{
+  "id": "idyrkos",
+  "category": "sports",
+  "title": "よしもとBASEBALL LIVE 福岡ソフトバンク vs 千葉ロッテ(9/21)",
+  "fullTitle": "[生]よしもとBASEBALL LIVE 福岡ソフトバンク vs 千葉ロッテ(9/21)",
+  "detail": "クライマックスシリーズの行方を占う福岡ソフトバンクと千葉ロッテが激突する終盤戦の熱い試合をお届け！\r\n解説：森繁和／実況：近藤祐司",
+  "start": 1695285900000,
+  "end": 1695299400000,
+  "seconds": 13500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
