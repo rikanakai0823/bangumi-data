@@ -1,12 +1,16 @@
 {
   "id": "381f5ksryi",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　１．５℃の約束―いますぐ動こう、気温上昇を止めるために。",
+  "fullTitle": "＃ＮＨＫ　１．５℃の約束―いますぐ動こう、気温上昇を止めるために。",
+  "detail": "【キャスター】片山千恵子\n◇出演者\n【キャスター】片山千恵子",
   "start": 1695210120000,
   "end": 1695210300000,
   "seconds": 180,
+  "description": "【キャスター】片山千恵子",
+  "extra": {
+    "出演者": "【キャスター】片山千恵子"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "キャスター",
   "episode": 1,
   "flags": []
 }
