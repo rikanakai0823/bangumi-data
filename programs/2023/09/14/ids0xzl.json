@@ -1,0 +1,25 @@
+{
+  "id": "ids0xzl",
+  "category": "hobby",
+  "title": "カーグラフィックＴＶ　「メモワール マセラティMC12」",
+  "fullTitle": "🈑カーグラフィックＴＶ　「メモワール マセラティMC12」",
+  "detail": "マセラティ90周年。レースに帰ってきたMC12。",
+  "start": 1694699400000,
+  "end": 1694701200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "メモワール マセラティMC12",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
