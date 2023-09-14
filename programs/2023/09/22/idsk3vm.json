@@ -1,0 +1,23 @@
+{
+  "id": "idsk3vm",
+  "category": "etc",
+  "title": "三山ひろしの夢一番星",
+  "fullTitle": "三山ひろしの夢一番星",
+  "detail": "",
+  "start": 1695366000000,
+  "end": 1695369600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0nmj",
+  "category": "welfare",
+  "title": "ＮＨＫみんなの手話🈐",
+  "fullTitle": "ＮＨＫみんなの手話🈑🈐",
+  "detail": "",
+  "start": 1695349800000,
+  "end": 1695351300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
