@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ＬＩＯＮＳ　ＣＨＡＮＮＥＬ",
   "fullTitle": "ＬＩＯＮＳ　ＣＨＡＮＮＥＬ🅂",
-  "detail": "",
+  "detail": "試合ハイライト◇選手インタビュー　他\n◇出演者\n堀口文宏　山口清香",
   "start": 1695042000000,
   "end": 1695043800000,
   "seconds": 1800,
+  "description": "試合ハイライト◇選手インタビュー　他",
+  "extra": {
+    "出演者": "堀口文宏　山口清香"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
