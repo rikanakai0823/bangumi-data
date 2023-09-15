@@ -1,0 +1,25 @@
+{
+  "id": "idv0eug",
+  "category": "cinema",
+  "title": "さよならゲーム🈥機内上映（津嘉山正種）版",
+  "fullTitle": "🈙さよならゲーム🈥機内上映（津嘉山正種）版",
+  "detail": "ケヴィン・コスナー主演のスポーツ・ドラマ。マイナーリーグでメジャー入りを夢見る男女３人の奮闘をロマンスを交えて描く。",
+  "start": 1695430800000,
+  "end": 1695438000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

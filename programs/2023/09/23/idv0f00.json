@@ -1,0 +1,25 @@
+{
+  "id": "idv0f00",
+  "category": "cinema",
+  "title": "メリー・ポピンズ🈥",
+  "fullTitle": "🈙メリー・ポピンズ🈥",
+  "detail": "ジュリー・アンドリュース主演、ウォルト・ディズニー製作の名作ミュージカル。不思議な力を持つ乳母と子供たちの交流を描く。",
+  "start": 1695438000000,
+  "end": 1695447000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idsk3xb",
+  "category": "variety",
+  "title": "ヒカリ☆ラボ",
+  "fullTitle": "ヒカリ☆ラボ",
+  "detail": "",
+  "start": 1695445200000,
+  "end": 1695448440000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idxedit",
+  "category": "sports",
+  "title": "FIMスーパースポーツ世界選手権2023 第9戦 フランス",
+  "fullTitle": "FIMスーパースポーツ世界選手権2023 第9戦 フランス",
+  "detail": "第9戦 マニクール(フランス)\r\n\r\n解説：宇井陽一\r\n実況：木幡ケンヂ\r\n開催日：2023年9月9-10日(現地)",
+  "start": 1695420000000,
+  "end": 1695430800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
