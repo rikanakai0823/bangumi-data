@@ -1,0 +1,23 @@
+{
+  "id": "idsoeqn",
+  "category": "etc",
+  "title": "試験電波１６１　１６２　１６３",
+  "fullTitle": "試験電波１６１　１６２　１６３",
+  "detail": "",
+  "start": 1694891700000,
+  "end": 1694892000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
