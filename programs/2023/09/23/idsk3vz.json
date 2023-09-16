@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・ヨーロッパの街角",
   "fullTitle": "夢の彼方に・ヨーロッパの街角",
-  "detail": "",
+  "detail": "◇制作\n翔テレビジョン",
   "start": 1695407400000,
   "end": 1695409200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

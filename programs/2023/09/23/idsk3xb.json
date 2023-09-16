@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "ヒカリ☆ラボ",
   "fullTitle": "ヒカリ☆ラボ",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1695445200000,
   "end": 1695448440000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
