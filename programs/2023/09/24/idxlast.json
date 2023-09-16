@@ -1,0 +1,23 @@
+{
+  "id": "idxlast",
+  "category": "sports",
+  "title": "モータースポーツマガジン Mobil 1 The Grid 2023 #7",
+  "fullTitle": "モータースポーツマガジン Mobil 1 The Grid 2023 #7",
+  "detail": "トップドライバーによる名コースのドライビング解説や、トップチームがレースに挑むまでのドキュメント、決勝レース当日の裏側など、情報満載の30分。",
+  "start": 1695486600000,
+  "end": 1695488400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": []
+}
