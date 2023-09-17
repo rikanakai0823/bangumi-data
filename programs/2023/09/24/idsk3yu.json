@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "京都はんなり紀行",
   "fullTitle": "🈑京都はんなり紀行",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1695502800000,
   "end": 1695504600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

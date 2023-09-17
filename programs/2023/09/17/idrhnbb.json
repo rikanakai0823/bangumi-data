@@ -1,0 +1,23 @@
+{
+  "id": "idrhnbb",
+  "category": "cinema",
+  "title": "日曜ロードショー　映画「Ｍ：Ｉ－２」",
+  "fullTitle": "日曜ロードショー　映画「Ｍ：Ｉ－２」",
+  "detail": "トム演じる主人公のイーサン・ハントが２丁拳銃を手に空を舞うなど、前作とは一味違ったジョン・ウー監督による独自のアクション・シーンが満載！",
+  "start": 1694946600000,
+  "end": 1694955600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "Ｍ：Ｉ－２",
+  "episode": 1,
+  "flags": []
+}
