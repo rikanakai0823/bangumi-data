@@ -1,0 +1,23 @@
+{
+  "id": "idxxxkk",
+  "category": "hobby",
+  "title": "【リクエスト】ぶらりバスの旅 11 九州NEVER ENDING JOURNEY",
+  "fullTitle": "【リクエスト】ぶらりバスの旅 11 九州NEVER ENDING JOURNEY",
+  "detail": "電車を乗り継ぎバスに揺られ、全国各地をぶらりするバス番組。その名も『ぶらりバスの旅』。旅をするのは、釣りニンジャことセンドウタカシ。旅の楽しさも釣りの楽しみ！",
+  "start": 1695621600000,
+  "end": 1695625200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
