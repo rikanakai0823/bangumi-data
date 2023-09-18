@@ -1,0 +1,25 @@
+{
+  "id": "idxxxlg",
+  "category": "hobby",
+  "title": "B-SNIPER 2 兵庫県加古川",
+  "fullTitle": "🈟B-SNIPER 2 兵庫県加古川",
+  "detail": "かつて、関西屈指のメジャーリバーとして名を馳せた兵庫県・加古川。しかし、度重なる災害の影響でバスは姿を消したとも噂される。そんな加古川に、敢えて赤松は挑む。",
+  "start": 1695729600000,
+  "end": 1695733200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

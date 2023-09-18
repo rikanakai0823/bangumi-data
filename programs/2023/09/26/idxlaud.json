@@ -1,0 +1,23 @@
+{
+  "id": "idxlaud",
+  "category": "sports",
+  "title": "【デイリーハイライト】ツール・ド・フランス2023 第19ステージ Cycle*",
+  "fullTitle": "【デイリーハイライト】ツール・ド・フランス2023 第19ステージ Cycle*",
+  "detail": "開催日：2023年7月21日(現地)",
+  "start": 1695728700000,
+  "end": 1695729600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxijaf",
+  "category": "sports",
+  "title": "FIMスーパースポーツ世界選手権2023 第10戦 アラゴン",
+  "fullTitle": "[初]FIMスーパースポーツ世界選手権2023 第10戦 アラゴン",
+  "detail": "第10戦 アラゴン(スペイン)\r\n\r\n解説：渡辺一樹(EWC2023参戦ライダー)\r\n実況：MCコウゼン\r\n開催日：2023年9月23-24日(現地)",
+  "start": 1695654000000,
+  "end": 1695664800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}
