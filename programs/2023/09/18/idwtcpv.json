@@ -1,0 +1,23 @@
+{
+  "id": "idwtcpv",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「マーケティング・遠隔学習のためのパソコン活用」",
+  "start": 1695030300000,
+  "end": 1695031200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "マーケティング・遠隔学習のためのパソコン活用",
+  "episode": 1,
+  "flags": []
+}
