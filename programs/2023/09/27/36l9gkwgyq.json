@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwgyq",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "チャリティー音楽祭スーパーライブ２０２２　③",
+  "start": 1695803400000,
+  "end": 1695804900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

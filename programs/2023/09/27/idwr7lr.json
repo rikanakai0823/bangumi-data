@@ -1,0 +1,23 @@
+{
+  "id": "idwr7lr",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「世界の中の日本外交・正多面体と素数」",
+  "start": 1695807900000,
+  "end": 1695808800000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "世界の中の日本外交・正多面体と素数",
+  "episode": 1,
+  "flags": []
+}
