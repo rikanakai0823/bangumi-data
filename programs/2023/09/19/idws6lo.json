@@ -1,0 +1,23 @@
+{
+  "id": "idws6lo",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「放送大学エキスパート(福祉コーディネータプラン)」",
+  "start": 1695095100000,
+  "end": 1695096900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "放送大学エキスパート(福祉コーディネータプラン)",
+  "episode": 1,
+  "flags": []
+}
