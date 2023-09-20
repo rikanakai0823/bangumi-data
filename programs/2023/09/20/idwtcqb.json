@@ -1,0 +1,23 @@
+{
+  "id": "idwtcqb",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「食の安全・疾病の回復を促進する薬」",
+  "start": 1695181500000,
+  "end": 1695182400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "食の安全・疾病の回復を促進する薬",
+  "episode": 1,
+  "flags": []
+}
