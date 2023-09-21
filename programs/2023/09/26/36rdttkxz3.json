@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Until I Found You\"STEPHEN SANCHEZ\r\n\"Strongly Worded Letter (official visualizer)\"salem ilese\r\n\"PainHub (official visualizer)\"salem ilese\r\n\"Team Sport (official visualizer)\"salem ilese\n◇番組内容２\n\"don’t shop when ur hungry !! (official visualizer)\"salem ilese feat. vaultboy\r\n\"Goodbye Never Felt So Bad\"JAMES BAY\r\n\"Notes From A Wrist\"d4vd",
   "start": 1695654000000,
   "end": 1695655800000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Until I Found You\"STEPHEN SANCHEZ\r\n\"Strongly Worded Letter (official visualizer)\"salem ilese\r\n\"PainHub (official visualizer)\"salem ilese\r\n\"Team Sport (official visualizer)\"salem ilese",
+    "番組内容２": "\"don’t shop when ur hungry !! (official visualizer)\"salem ilese feat. vaultboy\r\n\"Goodbye Never Felt So Bad\"JAMES BAY\r\n\"Notes From A Wrist\"d4vd"
   },
   "channel": {
     "type": "GR",
