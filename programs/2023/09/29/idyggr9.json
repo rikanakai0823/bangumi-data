@@ -1,0 +1,23 @@
+{
+  "id": "idyggr9",
+  "category": "cinema",
+  "title": "短編映画劇場　Airborne（字幕版）",
+  "fullTitle": "短編映画劇場　Airborne（字幕版）",
+  "detail": "世界中から選りすぐりの短編映画をお届け！",
+  "start": 1695993720000,
+  "end": 1695994200000,
+  "seconds": 480,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
