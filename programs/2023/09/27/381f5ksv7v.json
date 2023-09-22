@@ -1,12 +1,16 @@
 {
   "id": "381f5ksv7v",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ「災害対策訓練」（２）　小型中継車の活用",
+  "fullTitle": "＃ＮＨＫ「災害対策訓練」（２）　小型中継車の活用",
+  "detail": "【キャスター】二宮直輝\n◇出演者\n【キャスター】二宮直輝",
   "start": 1695814920000,
   "end": 1695815100000,
   "seconds": 180,
+  "description": "【キャスター】二宮直輝",
+  "extra": {
+    "出演者": "【キャスター】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "災害対策訓練",
+  "episode": 2,
   "flags": []
 }

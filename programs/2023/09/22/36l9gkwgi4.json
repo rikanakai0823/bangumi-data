@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwgi4",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜中山１１Ｒ　オールカマー（ＧⅡ）",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜中山１１Ｒ　オールカマー（ＧⅡ）",
+  "detail": "日曜中山11R　オールカマー（GⅡ）　日曜阪神11R　神戸新聞杯（ＧⅡ）　土曜中山11R　ながつきステークス　土曜中山11R　大阪スポーツ杯",
+  "start": 1695384000000,
+  "end": 1695385800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
