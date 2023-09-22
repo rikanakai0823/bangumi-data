@@ -1,0 +1,23 @@
+{
+  "id": "idx1gc2",
+  "category": "variety",
+  "title": "[生中継]Paradox Live THE ANIMATION SP StartEvent",
+  "fullTitle": "[生中継]Paradox Live THE ANIMATION SP StartEvent",
+  "detail": "TVアニメ「Paradox Live THE ANIMATION」の先行上映イベントをウェスタ川越 大ホールより生中継！キャスト陣と共に、…",
+  "start": 1696065000000,
+  "end": 1696073400000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "Paradox Live THE ANIMATION",
+  "episode": 1,
+  "flags": []
+}

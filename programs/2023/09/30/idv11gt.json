@@ -1,0 +1,27 @@
+{
+  "id": "idv11gt",
+  "category": "cinema",
+  "title": "スカイスクレイパー🈥",
+  "fullTitle": "🈙🅍🈑スカイスクレイパー🈥",
+  "detail": "ドウェイン・ジョンソン主演のアクション。超高層ビルを舞台に、武装集団が起こした火災から家族を救うべく奮闘する父親を描く。",
+  "start": 1696059900000,
+  "end": 1696067100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

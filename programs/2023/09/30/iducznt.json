@@ -1,0 +1,26 @@
+{
+  "id": "iducznt",
+  "category": "cinema",
+  "title": "白夜行",
+  "fullTitle": "🈙白夜行🈑",
+  "detail": "２０１１年１月に公開されたＷＯＷＯＷ　ＦＩＬＭＳ作品。東野圭吾の同名ベストセラーを、堀北真希、高良健吾、船越英一郎の競演でスリリングに映画化した人間ミステリー。",
+  "start": 1696047300000,
+  "end": 1696057200000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
