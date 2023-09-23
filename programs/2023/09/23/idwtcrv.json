@@ -1,0 +1,23 @@
+{
+  "id": "idwtcrv",
+  "category": "hobby",
+  "title": "学習センターめぐり",
+  "fullTitle": "学習センターめぐり",
+  "detail": "「和歌山学習センター」",
+  "start": 1695474900000,
+  "end": 1695475800000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "和歌山学習センター",
+  "episode": 1,
+  "flags": []
+}
