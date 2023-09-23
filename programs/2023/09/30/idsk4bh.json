@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "タカトシのイチ押しかっ！",
   "fullTitle": "タカトシのイチ押しかっ！",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1696050000000,
   "end": 1696053240000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
