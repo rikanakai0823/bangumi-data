@@ -1,0 +1,23 @@
+{
+  "id": "381xj5qblu",
+  "category": "information",
+  "title": "フジナビ！",
+  "fullTitle": "フジナビ！",
+  "detail": "フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。\r\n見逃せない番組の見どころを紹介しちゃいます！",
+  "start": 1695447000000,
+  "end": 1695447300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597dt",
+    "sid": 1057,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 31
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
