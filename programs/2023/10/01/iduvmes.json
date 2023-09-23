@@ -1,0 +1,26 @@
+{
+  "id": "iduvmes",
+  "category": "cinema",
+  "title": "【最新作】炎のデス・ポリス",
+  "fullTitle": "【最新作】🈙🅍炎のデス・ポリス",
+  "detail": "ジェラルド・バトラー主演のバイオレンスアクション。砂漠地帯の小さな警察署を舞台に、ワケあり男女４人の壮絶なバトルを描く。",
+  "start": 1696161600000,
+  "end": 1696168800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

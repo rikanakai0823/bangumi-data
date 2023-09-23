@@ -1,0 +1,23 @@
+{
+  "id": "idp3m6p",
+  "category": "music",
+  "title": "さわやかウインドー「沖縄　サンゴ礁」",
+  "fullTitle": "さわやかウインドー「沖縄　サンゴ礁」",
+  "detail": "",
+  "start": 1696095000000,
+  "end": 1696096800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "沖縄　サンゴ礁",
+  "episode": 1,
+  "flags": []
+}

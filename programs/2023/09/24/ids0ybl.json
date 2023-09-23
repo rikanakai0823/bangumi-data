@@ -1,0 +1,23 @@
+{
+  "id": "ids0ybl",
+  "category": "sports",
+  "title": "フィギュアスケート ジュニアグランプリシリーズ",
+  "fullTitle": "フィギュアスケート ジュニアグランプリシリーズ",
+  "detail": "五輪メダリストへの登竜門！次世代のスター候補が集結し、しのぎを削るISUジュニアグランプリシリーズ。第3戦「トルコ大会」第4戦「日本大会」をダイジェストで放送。",
+  "start": 1695488400000,
+  "end": 1695495600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
