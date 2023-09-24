@@ -1,0 +1,23 @@
+{
+  "id": "idrfi5q",
+  "category": "cinema",
+  "title": "日曜ロードショー　映画「Ｍ：i：Ⅲ」",
+  "fullTitle": "日曜ロードショー　映画「Ｍ：i：Ⅲ」",
+  "detail": "トム・クルーズ主演の大ヒット・スパイアクション・シリーズの第３弾。",
+  "start": 1695551400000,
+  "end": 1695560400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "Ｍ：i：Ⅲ",
+  "episode": 1,
+  "flags": []
+}
