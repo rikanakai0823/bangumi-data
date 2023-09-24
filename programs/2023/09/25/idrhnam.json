@@ -1,0 +1,25 @@
+{
+  "id": "idrhnam",
+  "category": "sports",
+  "title": "速報！ＭｏｔｏＧＰ",
+  "fullTitle": "🈕速報！ＭｏｔｏＧＰ",
+  "detail": "マルティンの圧勝で終わったサンマリノ。ＭｏｔｏＧＰ初開催となるインドではどんな結果が待っているのか？そして次戦はいよいよ日本グランプリ！",
+  "start": 1695567600000,
+  "end": 1695571200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "多"
+  ]
+}
