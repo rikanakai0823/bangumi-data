@@ -1,9 +1,9 @@
 {
   "id": "idymnzf",
-  "category": "etc",
-  "title": "番組未定",
-  "fullTitle": "番組未定",
-  "detail": "",
+  "category": "sports",
+  "title": "松山英樹出場！2023PGAツアー傑作選　ソニーオープン ３日目",
+  "fullTitle": "松山英樹出場！2023PGAツアー傑作選　ソニーオープン ３日目🈞",
+  "detail": "熱戦再び！前年覇者ー松山英樹のほかに、中島啓太、蝉川泰果、比嘉一貴ら日本勢が多数出場となったソニーオープンの様子をゲストに「世界のアオキ」をお迎えしてお届け！",
   "start": 1696111200000,
   "end": 1696119900000,
   "seconds": 8700,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 82
   },
-  "subTitle": "",
+  "subTitle": "世界のアオキ",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "再"
+  ]
 }
