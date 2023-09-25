@@ -1,0 +1,25 @@
+{
+  "id": "idp25cy",
+  "category": "news",
+  "title": "ワールドニュース",
+  "fullTitle": "ワールドニュース🈔",
+  "detail": "▽ドイツ・ＺＤＦ，フランス・Ｆ２，スペイン・ＴＶＥ，カタール・アルジャジーラ，シンガポール・ＣＮＡ，香港・ＴＶＢ，インド・ＮＤＴＶ，オーストラリア・ＡＢＣ",
+  "start": 1695592800000,
+  "end": 1695595800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
