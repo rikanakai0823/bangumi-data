@@ -1,12 +1,17 @@
 {
   "id": "381ocd8272",
   "category": "variety",
-  "title": "ＯＵＴ　ＯＦ　４８",
-  "fullTitle": "ＯＵＴ　ＯＦ　４８",
-  "detail": "",
+  "title": "ＯＵＴ　ＯＦ　４８　＃２４【UNLAME】TGCお披露目の舞台裏に密着！",
+  "fullTitle": "ＯＵＴ　ＯＦ　４８　＃２４【UNLAME】TGCお披露目の舞台裏に密着！",
+  "detail": "オーディション「OUT OF 48」によって選び抜かれた７人組ガールズグループ「UNLAME」初の地上波番組。いよいよTGC本番！お披露目の舞台裏に密着！\n◇出演者\n柏木由紀・UNLAME（HINANO／HIYUKA／NARUMI／SAE／SUZUKA／YUI／YUKA）\n◇番組内容\nAKB48と数千人の一般応募者が競い合ったオーディション「OUT　OF　 48」によって選び抜かれた7人組ガールズグループ「UNLAME（アンレイム）」初の地上波番組▽東京ガールズコレクションでのお披露目の舞台裏に密着！▽プレデビュー曲「Iam I」・「Prismatic...」の２曲をお客さんの前で初披露！",
   "start": 1695920940000,
   "end": 1695922740000,
   "seconds": 1800,
+  "description": "オーディション「OUT OF 48」によって選び抜かれた７人組ガールズグループ「UNLAME」初の地上波番組。いよいよTGC本番！お披露目の舞台裏に密着！",
+  "extra": {
+    "出演者": "柏木由紀・UNLAME（HINANO／HIYUKA／NARUMI／SAE／SUZUKA／YUI／YUKA）",
+    "番組内容": "AKB48と数千人の一般応募者が競い合ったオーディション「OUT　OF　 48」によって選び抜かれた7人組ガールズグループ「UNLAME（アンレイム）」初の地上波番組▽東京ガールズコレクションでのお披露目の舞台裏に密着！▽プレデビュー曲「Iam I」・「Prismatic...」の２曲をお客さんの前で初披露！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "UNLAME",
+  "episode": 24,
   "flags": []
 }
