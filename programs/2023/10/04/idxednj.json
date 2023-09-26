@@ -1,0 +1,23 @@
+{
+  "id": "idxednj",
+  "category": "sports",
+  "title": "ラグビー わんだほー！～ラグビー情報番組～ #54",
+  "fullTitle": "ラグビー わんだほー！～ラグビー情報番組～ #54",
+  "detail": "リーグワンオフ期間はラグビーワールドカップや日本代表情報など盛りだくさんでお届け！",
+  "start": 1696354200000,
+  "end": 1696357800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 54,
+  "flags": []
+}

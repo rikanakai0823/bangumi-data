@@ -1,0 +1,23 @@
+{
+  "id": "idxxxw1",
+  "category": "hobby",
+  "title": "じょんのび釣り女子 佐渡の旅",
+  "fullTitle": "じょんのび釣り女子 佐渡の旅",
+  "detail": "お魚パラダイス佐渡でのんびりと釣りを楽しむ番組。出演は「J LAND」で釣りにハマっている釣りガール・みのりと美女アングラー・マリリン。サポートでダウザーが登場する",
+  "start": 1696392000000,
+  "end": 1696395600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "J LAND",
+  "episode": 1,
+  "flags": []
+}

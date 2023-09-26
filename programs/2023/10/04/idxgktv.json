@@ -1,0 +1,25 @@
+{
+  "id": "idxgktv",
+  "category": "sports",
+  "title": "MLB中継2023 ワイルドカードシリーズ (10/3)",
+  "fullTitle": "[生]MLB中継2023 ワイルドカードシリーズ (10/3)",
+  "detail": "開催日：2023年10月3日(現地)",
+  "start": 1696377600000,
+  "end": 1696399200000,
+  "seconds": 21600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

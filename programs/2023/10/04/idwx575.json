@@ -1,0 +1,23 @@
+{
+  "id": "idwx575",
+  "category": "sports",
+  "title": "カラーバー・ＧＣロゴ",
+  "fullTitle": "カラーバー・ＧＣロゴ",
+  "detail": "",
+  "start": 1696368600000,
+  "end": 1696370400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
