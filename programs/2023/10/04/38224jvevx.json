@@ -3,13 +3,14 @@
   "category": "variety",
   "title": "妄想ハナコ",
   "fullTitle": "妄想ハナコ",
-  "detail": "※詳細が決まり次第、お知らせいたします。\n◇◇おしらせ\n☆『バラバラ大作戦』ＨＰ\r\n　https://www.tv-asahi.co.jp/barabara/",
+  "detail": "ハナコとゲストが圧倒的な熱量で「イケナイ妄想」を繰り広げる禁断バラエティ\r\nコント師ハナコの妄想力が大暴走！\n◇◇おしらせ\n☆『バラバラ大作戦』ＨＰ\r\n　https://www.tv-asahi.co.jp/barabara/\n◇◇出演者\nハナコ（菊田竜大・秋山寛貴・岡部大）",
   "start": 1696352160000,
   "end": 1696353180000,
   "seconds": 1020,
-  "description": "※詳細が決まり次第、お知らせいたします。",
+  "description": "ハナコとゲストが圧倒的な熱量で「イケナイ妄想」を繰り広げる禁断バラエティ\r\nコント師ハナコの妄想力が大暴走！",
   "extra": {
-    "◇おしらせ": "☆『バラバラ大作戦』ＨＰ\r\n　https://www.tv-asahi.co.jp/barabara/"
+    "◇おしらせ": "☆『バラバラ大作戦』ＨＰ\r\n　https://www.tv-asahi.co.jp/barabara/",
+    "◇出演者": "ハナコ（菊田竜大・秋山寛貴・岡部大）"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +22,7 @@
     "hasLogoData": true,
     "n": 20
   },
-  "subTitle": "",
+  "subTitle": "イケナイ妄想",
   "episode": 1,
   "flags": []
 }

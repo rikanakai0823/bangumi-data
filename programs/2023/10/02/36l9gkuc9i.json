@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２３年１０月",
+  "detail": "２０２３年１０月\n◇番組内容\n●けいちゃん / 馬の耳ドロップ feat.majiko\r\n●Wisteria / インベーダー\r\n●fuzzy knot / 時の旅人\r\n●純烈 / だってめぐり逢えたんだ\r\n●O2 / ブルーバード ～冒険者達へ～\r\n●犬塚ヒカリ / Flow Out",
   "start": 1696252500000,
   "end": 1696253400000,
   "seconds": 900,
+  "description": "２０２３年１０月",
+  "extra": {
+    "番組内容": "●けいちゃん / 馬の耳ドロップ feat.majiko\r\n●Wisteria / インベーダー\r\n●fuzzy knot / 時の旅人\r\n●純烈 / だってめぐり逢えたんだ\r\n●O2 / ブルーバード ～冒険者達へ～\r\n●犬塚ヒカリ / Flow Out"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",

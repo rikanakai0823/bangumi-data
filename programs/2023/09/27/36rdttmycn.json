@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmycn",
+  "category": "news",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「くらしの友」",
+  "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「くらしの友」",
+  "detail": "県内の天気予報",
+  "start": 1695797700000,
+  "end": 1695798000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "くらしの友",
+  "episode": 1,
+  "flags": []
+}
