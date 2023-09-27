@@ -1,0 +1,23 @@
+{
+  "id": "idxxxwt",
+  "category": "hobby",
+  "title": "海釣りギャラリー 海上釣堀攻略",
+  "fullTitle": "海釣りギャラリー 海上釣堀攻略",
+  "detail": "旬の海の釣りを紹介する『海釣りギャラリー』。今回はお手軽に釣りが楽しめるという、南紀白浜の「カタタの釣堀」が舞台。大物や高級魚を相手に一日を大満喫。",
+  "start": 1696478400000,
+  "end": 1696482000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "カタタの釣堀",
+  "episode": 1,
+  "flags": []
+}

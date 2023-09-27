@@ -1,0 +1,23 @@
+{
+  "id": "idxijea",
+  "category": "sports",
+  "title": "MLB中継2023 ワイルドカードシリーズ (10/4)",
+  "fullTitle": "MLB中継2023 ワイルドカードシリーズ (10/4)",
+  "detail": "開催日：2023年10月4日(現地)",
+  "start": 1696492800000,
+  "end": 1696505400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduhckv",
+  "category": "cinema",
+  "title": "映画　ビリギャル",
+  "fullTitle": "🈙映画　ビリギャル🅍🈑",
+  "detail": "「ストロボ・エッジ」の有村架純主演の大ヒット青春ドラマ。高校２年の夏に学年ビリの成績だった女子高生が、個性的な塾講師との出会いを機に慶應義塾大学の入試に挑む。",
+  "start": 1696500000000,
+  "end": 1696507200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "ストロボ・エッジ",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
