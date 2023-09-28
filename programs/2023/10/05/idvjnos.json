@@ -1,9 +1,9 @@
 {
   "id": "idvjnos",
   "category": "anime",
-  "title": "Dr.STONE　第11話「奇跡はこの掌で」",
-  "fullTitle": "🈕Dr.STONE　第11話「奇跡はこの掌で」",
-  "detail": "『Dr.STONE NEW WORLD』第１クール11話オーディオコメンタリー付き再放送\r\n第２クール放送前に是非ご覧ください!!",
+  "title": "Dr.STONE NEW WORLD　第11話",
+  "fullTitle": "🈕Dr.STONE NEW WORLD　第11話🈞",
+  "detail": "石器時代から現代文明まで、科学史200万年を駆け上がる！前代未聞のクラフト冒険譚、ここに開幕！",
   "start": 1696516200000,
   "end": 1696518000000,
   "seconds": 1800,
@@ -17,9 +17,10 @@
     "hasLogoData": true,
     "n": 66
   },
-  "subTitle": "奇跡はこの掌で",
+  "subTitle": "",
   "episode": 11,
   "flags": [
-    "多"
+    "多",
+    "再"
   ]
 }
