@@ -1,0 +1,23 @@
+{
+  "id": "idsoeji",
+  "category": "information",
+  "title": "情報セレクト",
+  "fullTitle": "情報セレクト",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1695912840000,
+  "end": 1695913200000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
