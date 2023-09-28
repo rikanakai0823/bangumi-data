@@ -1,0 +1,25 @@
+{
+  "id": "idy00an",
+  "category": "cinema",
+  "title": "パニック・ルーム",
+  "fullTitle": "🈙パニック・ルーム",
+  "detail": "ジョディ・フォスターの鬼気迫る熱演に息詰まるサスペンス。娘役は『トワイライト』シリーズのクリステン・スチュワート、監督は『セブン』のデヴィッド・フィンチャー。",
+  "start": 1696586400000,
+  "end": 1696593600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

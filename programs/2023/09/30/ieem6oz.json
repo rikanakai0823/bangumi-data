@@ -1,0 +1,23 @@
+{
+  "id": "ieem6oz",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「音楽・情報・脳('23)」",
+  "start": 1696060800000,
+  "end": 1696061700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 84
+  },
+  "subTitle": "音楽・情報・脳('23)",
+  "episode": 1,
+  "flags": []
+}

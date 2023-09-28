@@ -1,0 +1,25 @@
+{
+  "id": "idozfi8",
+  "category": "sports",
+  "title": "武井壮のスポーツ　プラネット",
+  "fullTitle": "武井壮のスポーツ　プラネット🈑",
+  "detail": "",
+  "start": 1696602000000,
+  "end": 1696605000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

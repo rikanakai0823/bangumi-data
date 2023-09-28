@@ -1,0 +1,25 @@
+{
+  "id": "idp3opt",
+  "category": "documentary",
+  "title": "中国名園紀行「拙政園」",
+  "fullTitle": "中国名園紀行「拙政園」🈑",
+  "detail": "中国、上海の西、蘇州にある古典庭園、拙政園（せっせいえん）。造園芸林の傑作といわれる。広さは５ヘクタール。庭の中心には大きな池も広がり、島も浮かんでいる。",
+  "start": 1696524300000,
+  "end": 1696525200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "拙政園",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

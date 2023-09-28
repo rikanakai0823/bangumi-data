@@ -1,0 +1,26 @@
+{
+  "id": "idxxxxr",
+  "category": "hobby",
+  "title": "釣りうぇ～ぶ 211 秋ソルト・サワラ＆タチウオ",
+  "fullTitle": "🈚🈟釣りうぇ～ぶ 211 秋ソルト・サワラ＆タチウオ",
+  "detail": "【Fishing】ヨッシーのソルトフィッシングアカデミー。1キャスティング＆ジギングでサワラ／2ジギング＆テンヤでタチウオ【土8】ぶらバス",
+  "start": 1696593600000,
+  "end": 1696597200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無",
+    "新"
+  ]
+}
