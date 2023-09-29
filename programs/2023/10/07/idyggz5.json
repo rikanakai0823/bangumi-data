@@ -1,0 +1,23 @@
+{
+  "id": "idyggz5",
+  "category": "theater",
+  "title": "劇団新派「お嬢さん乾杯」",
+  "fullTitle": "劇団新派「お嬢さん乾杯」",
+  "detail": "",
+  "start": 1696650000000,
+  "end": 1696656600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "お嬢さん乾杯",
+  "episode": 1,
+  "flags": []
+}

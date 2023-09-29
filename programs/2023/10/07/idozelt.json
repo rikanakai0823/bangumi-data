@@ -1,0 +1,26 @@
+{
+  "id": "idozelt",
+  "category": "documentary",
+  "title": "ＣＹＣＬＥ　ＡＲＯＵＮＤ　ＪＡＰＡＮ　宝の島　佐渡",
+  "fullTitle": "ＣＹＣＬＥ　ＡＲＯＵＮＤ　ＪＡＰＡＮ　宝の島　佐渡🈔🈑",
+  "detail": "旅の舞台は日本海の佐渡島。かつて金山で栄え、豊かな自然が残る。旅人は、海岸線の絶景を堪能しつつ、伝統文化や自然に新たな魅力を与える人々に出会う。",
+  "start": 1696668000000,
+  "end": 1696671000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

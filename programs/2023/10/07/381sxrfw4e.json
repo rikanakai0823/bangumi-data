@@ -1,0 +1,27 @@
+{
+  "id": "381sxrfw4e",
+  "category": "information",
+  "title": "番組ナビ",
+  "fullTitle": "番組ナビ",
+  "detail": "◇おことわり\nアジア大会　中国・杭州　バスケットボール男子決勝ほかにより、放送時間が変更になる可能性がございます。",
+  "start": 1696615080000,
+  "end": 1696615200000,
+  "seconds": 120,
+  "description": "",
+  "extra": {
+    "おことわり": "アジア大会　中国・杭州　バスケットボール男子決勝ほかにより、放送時間が変更になる可能性がございます。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "38224k00nt",
+  "category": "news",
+  "title": "朝まで生テレビ！",
+  "fullTitle": "朝まで生テレビ！",
+  "detail": "1987年スタートの深夜討論番組。今月は「激論！ド～する？！物価高騰と国民生活」をお送りします。",
+  "start": 1696004700000,
+  "end": 1696015500000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "激論！ド～する？！物価高騰と国民生活",
+  "episode": 1,
+  "flags": []
+}
