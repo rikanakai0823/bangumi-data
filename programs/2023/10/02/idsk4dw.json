@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・ＡＭＥＲＩＣＡ",
   "fullTitle": "夢の彼方に・ＡＭＥＲＩＣＡ",
-  "detail": "",
+  "detail": "◇制作\n翔テレビジョン",
   "start": 1696183200000,
   "end": 1696186800000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "試験放送１－６・夢の彼方に・ＪＡＭＡＩＣＡ・ＭＥＸＩＣＯ",
   "fullTitle": "試験放送１－６・夢の彼方に・ＪＡＭＡＩＣＡ・ＭＥＸＩＣＯ",
-  "detail": "",
+  "detail": "◇制作\n翔テレビジョン",
   "start": 1696013700000,
   "end": 1696013940000,
   "seconds": 240,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

@@ -3,10 +3,14 @@
   "category": "information",
   "title": "奈良ふしぎ旅図鑑",
   "fullTitle": "奈良ふしぎ旅図鑑",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1696420440000,
   "end": 1696420800000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
