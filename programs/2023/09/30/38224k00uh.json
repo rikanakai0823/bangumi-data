@@ -1,0 +1,25 @@
+{
+  "id": "38224k00uh",
+  "category": "music",
+  "title": "題名のない音楽会",
+  "fullTitle": "題名のない音楽会🈑",
+  "detail": "「名前を覚えてもらえない作曲家の音楽会」…「超有名曲を作ったのに名前を覚えてもらえない」そんなちょっとお気の毒な作曲家にスポットを当てます。",
+  "start": 1696035600000,
+  "end": 1696037400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
