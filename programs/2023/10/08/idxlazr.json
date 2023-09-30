@@ -1,0 +1,25 @@
+{
+  "id": "idxlazr",
+  "category": "sports",
+  "title": "MLB中継2023 ディビジョンシリーズ (10/7)",
+  "fullTitle": "[生]MLB中継2023 ディビジョンシリーズ (10/7)",
+  "detail": "開催日：2023年10月7日(現地)",
+  "start": 1696723200000,
+  "end": 1696744800000,
+  "seconds": 21600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

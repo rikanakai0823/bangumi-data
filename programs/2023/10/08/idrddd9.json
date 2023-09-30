@@ -1,0 +1,23 @@
+{
+  "id": "idrddd9",
+  "category": "information",
+  "title": "ジャパ得！生放送スペシャル！",
+  "fullTitle": "ジャパ得！生放送スペシャル！",
+  "detail": "ジャパネットたかたテレビショッピング！今だけの期間限定商品をお得に手にする大チャンス！さらに旬な商品もご紹介します！ジャパネットテレビショッピングをお楽しみに！",
+  "start": 1696734000000,
+  "end": 1696741200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
