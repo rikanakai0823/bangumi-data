@@ -3,10 +3,14 @@
   "category": "news",
   "title": "Ｔｏｇｅｔｈｅｒ",
   "fullTitle": "Ｔｏｇｅｔｈｅｒ",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1696687200000,
   "end": 1696690800000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
