@@ -3,10 +3,15 @@
   "category": "information",
   "title": "ＹＡＭＡＤＡテレビショッピング店",
   "fullTitle": "ＹＡＭＡＤＡテレビショッピング店",
-  "detail": "",
+  "detail": "◇出演者\n■\n◇制作\n2023年",
   "start": 1696721400000,
   "end": 1696723200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "■",
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
