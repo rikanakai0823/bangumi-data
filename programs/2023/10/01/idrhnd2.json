@@ -1,0 +1,23 @@
+{
+  "id": "idrhnd2",
+  "category": "sports",
+  "title": "速報！ＭｏｔｏＧＰ",
+  "fullTitle": "速報！ＭｏｔｏＧＰ",
+  "detail": "日本人ライダーたちの活躍に大いに期待しよう！ＭｏｔｏＧＰ第14戦・日本グランプリを、栃木県・モビリティリゾートもてぎから生中継！",
+  "start": 1696138200000,
+  "end": 1696143600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
