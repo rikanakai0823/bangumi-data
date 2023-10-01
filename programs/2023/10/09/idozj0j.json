@@ -1,0 +1,26 @@
+{
+  "id": "idozj0j",
+  "category": "sports",
+  "title": "プロ野球２０２３",
+  "fullTitle": "プロ野球２０２３🈕🈑",
+  "detail": "",
+  "start": 1696827600000,
+  "end": 1696840200000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
