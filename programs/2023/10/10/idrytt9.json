@@ -1,0 +1,25 @@
+{
+  "id": "idrytt9",
+  "category": "hobby",
+  "title": "Mリーグ2023-24～白熱の戦い～",
+  "fullTitle": "🈑Mリーグ2023-24～白熱の戦い～",
+  "detail": "麻雀界最高峰の戦いMリーグ！直近のリーグ戦で最も盛り上がった1試合をダイジェストでたっぷりとお届け！雀士の一打にかける想い、駆け引きの妙などを熱く伝える。",
+  "start": 1696946400000,
+  "end": 1696950000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduwete",
+  "category": "cinema",
+  "title": "リディック：ギャラクシー・バトル【ＳＦ特集】",
+  "fullTitle": "🈙🅍リディック：ギャラクシー・バトル【ＳＦ特集】",
+  "detail": "ヴィン・ディーゼル主演の人気シリーズ第３弾。未知の惑星で闘うダークヒーローの活躍を描く。［Ｒ１５＋］",
+  "start": 1696938600000,
+  "end": 1696946100000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "ＳＦ特集",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

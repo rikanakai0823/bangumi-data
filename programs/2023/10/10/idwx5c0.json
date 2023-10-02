@@ -1,0 +1,23 @@
+{
+  "id": "idwx5c0",
+  "category": "sports",
+  "title": "競馬ブロス #28",
+  "fullTitle": "競馬ブロス #28",
+  "detail": "馬好きブラザーズと大久保洋吉元調教師の夜な夜な競馬談義",
+  "start": 1696942800000,
+  "end": 1696946400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 28,
+  "flags": []
+}

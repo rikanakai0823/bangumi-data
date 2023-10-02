@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkucz2",
+  "category": "hobby",
+  "title": "みんなで防災～もしもにソナエル～",
+  "fullTitle": "みんなで防災～もしもにソナエル～",
+  "detail": "火災を防ぐ初期消火",
+  "start": 1696946100000,
+  "end": 1696946400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

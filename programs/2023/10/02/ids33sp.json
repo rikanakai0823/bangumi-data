@@ -1,0 +1,23 @@
+{
+  "id": "ids33sp",
+  "category": "information",
+  "title": "Ａの伝言　＃204",
+  "fullTitle": "Ａの伝言　＃204",
+  "detail": "今日までの“過去”から明日という“未来”へ向けて…。BS朝日からの未来への伝言。最新のムーブメントや、いま一番注目したいイベント情報などを紹介する。",
+  "start": 1696258440000,
+  "end": 1696258800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 204,
+  "flags": []
+}
