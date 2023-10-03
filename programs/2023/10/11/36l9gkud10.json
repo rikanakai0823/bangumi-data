@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkud10",
+  "category": "news",
+  "title": "天気予報",
+  "fullTitle": "天気予報",
+  "detail": " ",
+  "start": 1696992900000,
+  "end": 1696993200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
