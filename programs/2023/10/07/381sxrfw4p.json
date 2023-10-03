@@ -1,12 +1,20 @@
 {
   "id": "381sxrfw4p",
   "category": "information",
-  "title": "シナモンと安田顕のゆるドキ☆クッキング",
-  "fullTitle": "🈟シナモンと安田顕のゆるドキ☆クッキング🈑",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "title": "シナモンと安田顕のゆるドキ☆クッキング　第１話",
+  "fullTitle": "🈟シナモンと安田顕のゆるドキ☆クッキング　第１話🈑",
+  "detail": "「I.CINNAMOROLL」のシナモンと安田顕がお送りする、新感覚のご自愛お料理番組！\n◇番組内容\n記念すべき第1回目のお料理は「ロールキャベツ」。さっそくクッキングしはじめる安田に対し、シナモンはなにか引っかかるようで…\n◇キャスト\n○キャスト\r\nシナモン\r\n安田顕\n◇公式ページ\n○番組公式サイト：https://www.tbs.co.jp/yurudoki_cooking\r\n○公式X（旧 Twitter）：https://twitter.com/i_cn_official\n◇スタッフ\n○スタッフ\r\n監督：松田礼人ほか\r\nシリーズ構成：吉田恵里香\r\nアニメーション制作：J.C.STAFF\r\n実写部分制作：TBSスパークル\r\n\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1696638300000,
   "end": 1696638600000,
   "seconds": 300,
+  "description": "「I.CINNAMOROLL」のシナモンと安田顕がお送りする、新感覚のご自愛お料理番組！",
+  "extra": {
+    "番組内容": "記念すべき第1回目のお料理は「ロールキャベツ」。さっそくクッキングしはじめる安田に対し、シナモンはなにか引っかかるようで…",
+    "キャスト": "○キャスト\r\nシナモン\r\n安田顕",
+    "公式ページ": "○番組公式サイト：https://www.tbs.co.jp/yurudoki_cooking\r\n○公式X（旧 Twitter）：https://twitter.com/i_cn_official",
+    "スタッフ": "○スタッフ\r\n監督：松田礼人ほか\r\nシリーズ構成：吉田恵里香\r\nアニメーション制作：J.C.STAFF\r\n実写部分制作：TBSスパークル\r\n",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -17,7 +25,7 @@
     "hasLogoData": true,
     "n": 24
   },
-  "subTitle": "",
+  "subTitle": "I.CINNAMOROLL",
   "episode": 1,
   "flags": [
     "新",
