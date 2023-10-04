@@ -1,0 +1,27 @@
+{
+  "id": "idrddkf",
+  "category": "information",
+  "title": "ＢＳ日テレ Ｓｈｏｐｐｉｎｇ",
+  "fullTitle": "ＢＳ日テレ Ｓｈｏｐｐｉｎｇ",
+  "detail": "◇ホームページ\nhttps://shop.bs4.jp/",
+  "start": 1697045400000,
+  "end": 1697047200000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://shop.bs4.jp/"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
