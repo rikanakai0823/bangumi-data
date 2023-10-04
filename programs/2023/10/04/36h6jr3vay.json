@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3vay",
+  "category": "news",
+  "title": "ニュース９３０",
+  "fullTitle": "ニュース９３０🅂",
+  "detail": "県内ニュース▽あすの天気",
+  "start": 1696422600000,
+  "end": 1696423500000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
