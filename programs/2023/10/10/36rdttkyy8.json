@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"My Favourite Stranger\"DEPECHE MODE\r\n\"Not The 1975 (Official Visualizer)\"KNOX\r\n\"Bebiendo Sola\"CAMILO & MYKE TOWERS\r\n\"Aeropuerto\"CAMILO\r\n\"Ambulancia\"CAMILO & CAMILA CABELLO\n◇番組内容２\n\"ONE MORE TIME\"blink-182\r\n\"Live Again\"THE CHEMICAL BROTHERS feat.HALO MAUD",
   "start": 1696863600000,
   "end": 1696865400000,
   "seconds": 1800,
+  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "extra": {
+    "番組内容１": "\"My Favourite Stranger\"DEPECHE MODE\r\n\"Not The 1975 (Official Visualizer)\"KNOX\r\n\"Bebiendo Sola\"CAMILO & MYKE TOWERS\r\n\"Aeropuerto\"CAMILO\r\n\"Ambulancia\"CAMILO & CAMILA CABELLO",
+    "番組内容２": "\"ONE MORE TIME\"blink-182\r\n\"Live Again\"THE CHEMICAL BROTHERS feat.HALO MAUD"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
