@@ -1,0 +1,25 @@
+{
+  "id": "idx1gha",
+  "category": "anime",
+  "title": "ウマ娘 プリティーダービー 一挙放送 #8-EXTRA R",
+  "fullTitle": "🈑ウマ娘 プリティーダービー 一挙放送 #8-EXTRA R",
+  "detail": "第8～EXTRA R　END\r\nこれは異世界から受け継いだ輝かしい名前と競走能力を持つ“ウマ娘”が遠い昔から人類と共存してき…",
+  "start": 1697261400000,
+  "end": 1697272200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": 8,
+  "flags": [
+    "字"
+  ]
+}

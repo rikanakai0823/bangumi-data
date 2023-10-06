@@ -1,0 +1,23 @@
+{
+  "id": "idvjnz2",
+  "category": "information",
+  "title": "ショッピング情報",
+  "fullTitle": "ショッピング情報",
+  "detail": "テレビショッピング",
+  "start": 1697261400000,
+  "end": 1697263200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

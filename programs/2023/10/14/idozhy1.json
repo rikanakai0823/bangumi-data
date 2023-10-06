@@ -1,0 +1,23 @@
+{
+  "id": "idozhy1",
+  "category": "documentary",
+  "title": "北アルプス「北アルプス空中散歩」",
+  "fullTitle": "北アルプス「北アルプス空中散歩」",
+  "detail": "北アルプスの山々をヘリコプターから撮影した、空中散歩。",
+  "start": 1697220000000,
+  "end": 1697223600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "北アルプス空中散歩",
+  "episode": 1,
+  "flags": []
+}
