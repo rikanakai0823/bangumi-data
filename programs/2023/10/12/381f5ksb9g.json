@@ -1,12 +1,16 @@
 {
   "id": "381f5ksb9g",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　イベント「Ｒｅ－Ｎコン」　大阪局の取り組み",
+  "fullTitle": "＃ＮＨＫ　イベント「Ｒｅ－Ｎコン」　大阪局の取り組み",
+  "detail": "【キャスター】二宮直輝\n◇出演者\n【キャスター】二宮直輝",
   "start": 1697110920000,
   "end": 1697111100000,
   "seconds": 180,
+  "description": "【キャスター】二宮直輝",
+  "extra": {
+    "出演者": "【キャスター】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "Ｒｅ－Ｎコン",
   "episode": 1,
   "flags": []
 }
