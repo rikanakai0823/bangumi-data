@@ -1,0 +1,26 @@
+{
+  "id": "iduwuno",
+  "category": "cinema",
+  "title": "【最新作】ドリーム・ホース",
+  "fullTitle": "【最新作】🈙🅍ドリーム・ホース",
+  "detail": "ウェールズで起こった奇跡の実話を映画化した感動ドラマ。小さなコミュニティで育てた競争馬が最高峰のレースに挑むまでを描く。",
+  "start": 1697371200000,
+  "end": 1697379300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

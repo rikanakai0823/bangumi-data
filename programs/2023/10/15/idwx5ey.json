@@ -1,0 +1,25 @@
+{
+  "id": "idwx5ey",
+  "category": "sports",
+  "title": "ＧＣ地方競馬中継（若駒賞）（MRO金賞）（佐賀オータムスプリント）",
+  "fullTitle": "🈢ＧＣ地方競馬中継（若駒賞）（MRO金賞）（佐賀オータムスプリント）",
+  "detail": "佐賀オータムスプリント(佐賀),MRO金賞(金沢),若駒賞(M2盛岡)",
+  "start": 1697356800000,
+  "end": 1697362200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

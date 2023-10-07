@@ -1,0 +1,23 @@
+{
+  "id": "idozima",
+  "category": "sports",
+  "title": "ワースポ×ＭＬＢサンデー",
+  "fullTitle": "ワースポ×ＭＬＢサンデー",
+  "detail": "▽日本選手の最新情報　【解説】小早川毅彦，【キャスター】菊池柚花",
+  "start": 1697371200000,
+  "end": 1697374200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

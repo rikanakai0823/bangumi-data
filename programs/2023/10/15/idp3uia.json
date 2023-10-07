@@ -1,0 +1,23 @@
+{
+  "id": "idp3uia",
+  "category": "music",
+  "title": "映像散歩「グリーンランド」",
+  "fullTitle": "映像散歩「グリーンランド」",
+  "detail": "",
+  "start": 1697304600000,
+  "end": 1697306400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "グリーンランド",
+  "episode": 1,
+  "flags": []
+}
