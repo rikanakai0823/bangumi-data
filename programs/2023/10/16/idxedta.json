@@ -1,0 +1,25 @@
+{
+  "id": "idxedta",
+  "category": "sports",
+  "title": "ラグビー わんだほー！～ラグビー情報番組～ #56",
+  "fullTitle": "[初]ラグビー わんだほー！～ラグビー情報番組～ #56",
+  "detail": "リーグワンオフ期間はラグビーワールドカップや日本代表情報など盛りだくさんでお届け！\r\nコメンテーター：村上晃一\r\nMC：浅野杏奈、中野玄",
+  "start": 1697461200000,
+  "end": 1697464800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 56,
+  "flags": [
+    "初"
+  ]
+}
