@@ -1,0 +1,23 @@
+{
+  "id": "idwq1c9",
+  "category": "hobby",
+  "title": "あなたの知りたい放送大学",
+  "fullTitle": "あなたの知りたい放送大学",
+  "detail": "「～大学院ガイド～」",
+  "start": 1697535900000,
+  "end": 1697537700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "～大学院ガイド～",
+  "episode": 1,
+  "flags": []
+}
