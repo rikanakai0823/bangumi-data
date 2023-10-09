@@ -1,0 +1,23 @@
+{
+  "id": "idt8fl6",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "【東京】10Ｒ六社Ｓ\r\n　　　　11ＲグリーンチャンネルＣ（L）\r\n【京都】10Ｒ大山崎Ｓ\r\n　　　　11Ｒ京都大賞典【ＧⅡ】",
+  "start": 1696831200000,
+  "end": 1696834800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
