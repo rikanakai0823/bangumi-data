@@ -1,0 +1,23 @@
+{
+  "id": "idxgl03",
+  "category": "sports",
+  "title": "MLB中継2023 リーグチャンピオンシップシリーズ (10/17)",
+  "fullTitle": "MLB中継2023 リーグチャンピオンシップシリーズ (10/17)",
+  "detail": "【リーグチャンピオンシップシリーズ】\r\n\r\n開催日：2023年10月17日(現地)",
+  "start": 1697621400000,
+  "end": 1697634000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "リーグチャンピオンシップシリーズ",
+  "episode": 1,
+  "flags": []
+}

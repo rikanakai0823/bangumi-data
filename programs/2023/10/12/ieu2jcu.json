@@ -1,0 +1,23 @@
+{
+  "id": "ieu2jcu",
+  "category": "etc",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "ただいま設備のメンテナンスのため放送を休止しています。放送開始は午前７時からとなります。",
+  "start": 1697050800000,
+  "end": 1697061600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ご案内チャンネル",
+    "id": "8l93",
+    "sid": 791,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 94
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
