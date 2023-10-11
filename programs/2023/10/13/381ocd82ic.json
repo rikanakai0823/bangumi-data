@@ -1,12 +1,17 @@
 {
   "id": "381ocd82ic",
   "category": "variety",
-  "title": "日テレ＋「まだまだ小５クイズ」",
-  "fullTitle": "日テレ＋「まだまだ小５クイズ」🈑",
-  "detail": "",
+  "title": "まだまだ小５クイズ！",
+  "fullTitle": "まだまだ小５クイズ！🈑",
+  "detail": "リベンジSPで紹介しきれなかったクイズを特別公開！\n◇出演者\n【MC】劇団ひとり、佐藤隆太\r\n【挑戦者】福本大晴（Aぇ! group）\n◇番組内容\nリベンジSPで紹介しきれなかったクイズを特別公開！",
   "start": 1697198040000,
   "end": 1697198400000,
   "seconds": 360,
+  "description": "リベンジSPで紹介しきれなかったクイズを特別公開！",
+  "extra": {
+    "出演者": "【MC】劇団ひとり、佐藤隆太\r\n【挑戦者】福本大晴（Aぇ! group）",
+    "番組内容": "リベンジSPで紹介しきれなかったクイズを特別公開！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "まだまだ小５クイズ",
+  "subTitle": "",
   "episode": 1,
   "flags": [
     "字"
