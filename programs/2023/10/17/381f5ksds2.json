@@ -1,12 +1,16 @@
 {
   "id": "381f5ksds2",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　地域の魅力を発信！甲府局・高松局の番組から",
+  "fullTitle": "＃ＮＨＫ　地域の魅力を発信！甲府局・高松局の番組から",
+  "detail": "【出演】小田切千\n◇出演者\n【出演】小田切千",
   "start": 1697542920000,
   "end": 1697543100000,
   "seconds": 180,
+  "description": "【出演】小田切千",
+  "extra": {
+    "出演者": "【出演】小田切千"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "出演",
   "episode": 1,
   "flags": []
 }

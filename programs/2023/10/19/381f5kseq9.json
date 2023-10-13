@@ -1,12 +1,16 @@
 {
   "id": "381f5kseq9",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　連続テレビ小説「ブギウギ」エンド写真　募集のお知らせ",
+  "fullTitle": "＃ＮＨＫ　連続テレビ小説「ブギウギ」エンド写真　募集のお知らせ",
+  "detail": "【出演】二宮直輝\n◇出演者\n【出演】二宮直輝",
   "start": 1697715720000,
   "end": 1697715900000,
   "seconds": 180,
+  "description": "【出演】二宮直輝",
+  "extra": {
+    "出演者": "【出演】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "ブギウギ",
   "episode": 1,
   "flags": []
 }
