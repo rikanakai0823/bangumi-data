@@ -1,0 +1,23 @@
+{
+  "id": "idozpgh",
+  "category": "sports",
+  "title": "第３０回全日本スピードスケート距離別選手権",
+  "fullTitle": "第３０回全日本スピードスケート距離別選手権",
+  "detail": "",
+  "start": 1697860500000,
+  "end": 1697863800000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 30,
+  "flags": []
+}

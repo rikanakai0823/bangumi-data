@@ -1,0 +1,28 @@
+{
+  "id": "38224jvi8n",
+  "category": "news",
+  "title": "朝まで生テレビ！",
+  "fullTitle": "朝まで生テレビ！",
+  "detail": "深夜番組に革命を起こした、1987年スタートのテレビ界を代表する討論番組。四半世紀以上、様々なテーマで日本・日本人を論じています。\n◇◇出演者\n【司会】田原総一朗\n◇◇おしらせ\n☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/asanama/",
+  "start": 1697819400000,
+  "end": 1697829900000,
+  "seconds": 10500,
+  "description": "深夜番組に革命を起こした、1987年スタートのテレビ界を代表する討論番組。四半世紀以上、様々なテーマで日本・日本人を論じています。",
+  "extra": {
+    "◇出演者": "【司会】田原総一朗",
+    "◇おしらせ": "☆番組ＨＰ\r\n　https://www.tv-asahi.co.jp/asanama/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
