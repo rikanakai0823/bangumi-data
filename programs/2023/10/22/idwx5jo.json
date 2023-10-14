@@ -1,0 +1,23 @@
+{
+  "id": "idwx5jo",
+  "category": "sports",
+  "title": "今日のレースリプレイ",
+  "fullTitle": "今日のレースリプレイ",
+  "detail": "「第４回東京競馬第７日・第２回京都競馬第７日・第４回新潟競馬第４日」",
+  "start": 1697967000000,
+  "end": 1697972400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "第４回東京競馬第７日・第２回京都競馬第７日・第４回新潟競馬第４日",
+  "episode": 4,
+  "flags": []
+}
