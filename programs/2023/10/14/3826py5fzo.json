@@ -1,0 +1,23 @@
+{
+  "id": "3826py5fzo",
+  "category": "sports",
+  "title": "サタデーナイトＪ",
+  "fullTitle": "サタデーナイトＪ",
+  "detail": "毎週土曜日にＪリーグの試合や情報をバーチャルスタジオからお届けするサッカー番組！名物コーナー「マッチオブザＪ」ではその日の好ゲームをＷ解説で深掘りします！",
+  "start": 1697293800000,
+  "end": 1697295600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "マッチオブザＪ",
+  "episode": 1,
+  "flags": []
+}

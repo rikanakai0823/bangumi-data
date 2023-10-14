@@ -1,0 +1,25 @@
+{
+  "id": "idsofgu",
+  "category": "cinema",
+  "title": "土曜映画デラックス「トランスポーター２」【吹替】",
+  "fullTitle": "🈙土曜映画デラックス「トランスポーター２」【吹替】",
+  "detail": "ジェイソン・ステイサム主演「トランスポーター」シリーズを連続放送中！",
+  "start": 1697284800000,
+  "end": 1697291640000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "吹替",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
