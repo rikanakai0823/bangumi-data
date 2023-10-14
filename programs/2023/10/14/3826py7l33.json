@@ -1,0 +1,23 @@
+{
+  "id": "3826py7l33",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10Ｒ白秋Ｓ、\r\n11ＲアイルランドＴ府中牝馬Ｓ（ＧⅡ）\r\n【京都】10Ｒ北野特別、11Ｒ太秦Ｓ\r\n【新潟】11Ｒ飛翼特別",
+  "start": 1697263200000,
+  "end": 1697266800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
