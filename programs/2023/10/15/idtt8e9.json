@@ -1,0 +1,23 @@
+{
+  "id": "idtt8e9",
+  "category": "information",
+  "title": "りらいぶテレビショッピング",
+  "fullTitle": "りらいぶテレビショッピング",
+  "detail": "",
+  "start": 1697336940000,
+  "end": 1697338800000,
+  "seconds": 1860,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
