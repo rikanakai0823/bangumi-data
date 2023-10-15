@@ -1,0 +1,23 @@
+{
+  "id": "idwq1ax",
+  "category": "hobby",
+  "title": "放送大学40周年記念番組",
+  "fullTitle": "放送大学40周年記念番組",
+  "detail": "「見えない友と共にまなぶ」",
+  "start": 1698054300000,
+  "end": 1698055200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "見えない友と共にまなぶ",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduhcr0",
+  "category": "cinema",
+  "title": "ヤマトタケル",
+  "fullTitle": "🈙ヤマトタケル🈑",
+  "detail": "特撮映画に定評のある東宝が、日本神話で知られるヤマトタケルを題材にしたＳＦアドベンチャー。古代の王子は邪悪な神の化身の成敗へ。主演は髙嶋政宏と沢口靖子。",
+  "start": 1698062400000,
+  "end": 1698069600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
