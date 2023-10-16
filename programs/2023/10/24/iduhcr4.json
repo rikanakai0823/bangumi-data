@@ -1,0 +1,27 @@
+{
+  "id": "iduhcr4",
+  "category": "cinema",
+  "title": "ローレライ",
+  "fullTitle": "🈙ローレライ🅍🈑",
+  "detail": "福井晴敏の「終戦のローレライ」を映画化。太平洋戦争末期、ある秘密装置を積んだ潜水艦が特別任務へ。役所広司、妻夫木聡ら豪華布陣が共演した戦争大作。監督は樋口真嗣。",
+  "start": 1698090300000,
+  "end": 1698098400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "終戦のローレライ",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

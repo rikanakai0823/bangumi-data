@@ -1,0 +1,25 @@
+{
+  "id": "idy8k1j",
+  "category": "anime",
+  "title": "ミッキーマウス！#68",
+  "fullTitle": "ミッキーマウス！#68🈔",
+  "detail": "#68「戌年」",
+  "start": 1698123300000,
+  "end": 1698123600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "戌年",
+  "episode": 68,
+  "flags": [
+    "二"
+  ]
+}
