@@ -1,0 +1,23 @@
+{
+  "id": "idryuba",
+  "category": "music",
+  "title": "Welcomeクラシック",
+  "fullTitle": "Welcomeクラシック",
+  "detail": "今回紹介するのは、モーツァルト作曲のセレナード第13番＜アイネ・クライネ・ナハトムジーク＞K.525。指揮者・山田和樹が、アイネ・クライネ・ナハトムジークの意味を語る",
+  "start": 1698242040000,
+  "end": 1698242400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
