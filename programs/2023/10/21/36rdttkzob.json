@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Single Soon\"SELENA GOMEZ\r\n\"Crush\"BELLA POARCH feat.LAUV\r\n\"I'm Done\"BAKAR\r\n\"City Of Dreams\"TYLA YAWEH feat.CHRIS BROWN\r\n\"Lil Boo Thang\"PAUL RUSSELL\r\n\"Anywhere\"JP SAXE\n◇番組内容２\n\"My Love\"LEIGH-ANNE feat.AYRA STARR\r\n\"GUARANTEE\"BLACK EYED PEAS feat.J. REY SOUL",
   "start": 1697900100000,
   "end": 1697901900000,
   "seconds": 1800,
+  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "extra": {
+    "番組内容１": "\"Single Soon\"SELENA GOMEZ\r\n\"Crush\"BELLA POARCH feat.LAUV\r\n\"I'm Done\"BAKAR\r\n\"City Of Dreams\"TYLA YAWEH feat.CHRIS BROWN\r\n\"Lil Boo Thang\"PAUL RUSSELL\r\n\"Anywhere\"JP SAXE",
+    "番組内容２": "\"My Love\"LEIGH-ANNE feat.AYRA STARR\r\n\"GUARANTEE\"BLACK EYED PEAS feat.J. REY SOUL"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
