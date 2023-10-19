@@ -3,10 +3,14 @@
   "category": "information",
   "title": "土曜日のご馳走ご褒美グルメ",
   "fullTitle": "土曜日のご馳走ご褒美グルメ🈑",
-  "detail": "おすすめの商品をお届けします！",
+  "detail": "おすすめの商品をお届けします！\n◇出演者\n荒木由美子\r\n宍戸開\r\n須田亜香里\r\n富永美樹",
   "start": 1697874900000,
   "end": 1697876100000,
   "seconds": 1200,
+  "description": "おすすめの商品をお届けします！",
+  "extra": {
+    "出演者": "荒木由美子\r\n宍戸開\r\n須田亜香里\r\n富永美樹"
+  },
   "channel": {
     "type": "GR",
     "channel": "23",
