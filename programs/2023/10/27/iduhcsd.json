@@ -1,0 +1,27 @@
+{
+  "id": "iduhcsd",
+  "category": "cinema",
+  "title": "バッテリー",
+  "fullTitle": "🈙バッテリー🅍🈑",
+  "detail": "「おくりびと」の滝田洋二郎監督が、少年文学のベストセラーを映画化。ピッチャーの才能を持った少年と、彼の相棒となったキャッチャーの少年。彼らの友情と成長を描く。",
+  "start": 1698386400000,
+  "end": 1698394500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "おくりびと",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

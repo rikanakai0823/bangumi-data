@@ -1,0 +1,23 @@
+{
+  "id": "idozo9v",
+  "category": "news",
+  "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+  "fullTitle": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+  "detail": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+  "start": 1698367800000,
+  "end": 1698368400000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
