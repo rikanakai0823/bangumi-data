@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＢＳ日テレ Ｓｈｏｐｐｉｎｇ",
   "fullTitle": "ＢＳ日テレ Ｓｈｏｐｐｉｎｇ",
-  "detail": "",
+  "detail": "◇ホームページ\nhttps://www.bs4.jp/tvshop/",
   "start": 1698258600000,
   "end": 1698260400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://www.bs4.jp/tvshop/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",
