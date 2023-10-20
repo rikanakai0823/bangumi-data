@@ -1,0 +1,23 @@
+{
+  "id": "idozozc",
+  "category": "sports",
+  "title": "ワースポ×ＭＬＢ",
+  "fullTitle": "ワースポ×ＭＬＢ",
+  "detail": "▽日本選手の最新情報　【解説】五十嵐亮太，【キャスター】菊池柚花",
+  "start": 1698498000000,
+  "end": 1698500400000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

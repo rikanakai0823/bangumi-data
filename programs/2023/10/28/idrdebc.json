@@ -1,0 +1,23 @@
+{
+  "id": "idrdebc",
+  "category": "information",
+  "title": "テレビショッピング",
+  "fullTitle": "テレビショッピング",
+  "detail": "",
+  "start": 1698435000000,
+  "end": 1698436800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

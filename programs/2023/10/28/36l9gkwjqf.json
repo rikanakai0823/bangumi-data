@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwjqf",
+  "category": "sports",
+  "title": "Ｂリーグ中継▽千葉ジェッツ×ファイティングイーグルス名古屋",
+  "fullTitle": "Ｂリーグ中継▽千葉ジェッツ×ファイティングイーグルス名古屋",
+  "detail": "【会場】船橋アリーナ",
+  "start": 1698480000000,
+  "end": 1698490800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "会場",
+  "episode": 1,
+  "flags": []
+}

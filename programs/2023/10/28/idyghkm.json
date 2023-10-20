@@ -1,0 +1,23 @@
+{
+  "id": "idyghkm",
+  "category": "theater",
+  "title": "演劇セレクション　東京ヴォードヴィルショー「トノに降る雨」",
+  "fullTitle": "演劇セレクション　東京ヴォードヴィルショー「トノに降る雨」",
+  "detail": "",
+  "start": 1698462000000,
+  "end": 1698471000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "トノに降る雨",
+  "episode": 1,
+  "flags": []
+}

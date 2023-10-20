@@ -1,0 +1,25 @@
+{
+  "id": "idwx5nq",
+  "category": "sports",
+  "title": "トラックマンTV #617",
+  "fullTitle": "🈞トラックマンTV #617",
+  "detail": "「天皇賞（秋）（Ｇ１）、スワンＳ（Ｇ２）、アルテミスＳ（Ｇ３）他　展望」",
+  "start": 1698429600000,
+  "end": 1698435000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "天皇賞（秋）（Ｇ１）、スワンＳ（Ｇ２）、アルテミスＳ（Ｇ３）他　展望",
+  "episode": 617,
+  "flags": [
+    "再"
+  ]
+}

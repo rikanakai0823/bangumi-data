@@ -1,0 +1,25 @@
+{
+  "id": "idxgl50",
+  "category": "sports",
+  "title": "MLB中継2023 ワールドシリーズ 第1戦 (10/27)",
+  "fullTitle": "[初]MLB中継2023 ワールドシリーズ 第1戦 (10/27)",
+  "detail": "【ワールドシリーズ 第1戦】\r\n\r\n開催日：2023年10月27日(現地)",
+  "start": 1698483600000,
+  "end": 1698501600000,
+  "seconds": 18000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "ワールドシリーズ 第1戦",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}
