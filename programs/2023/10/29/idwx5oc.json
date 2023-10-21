@@ -1,0 +1,25 @@
+{
+  "id": "idwx5oc",
+  "category": "sports",
+  "title": "ＧＣ地方競馬中継（プリンセスカップ・盛岡）（ネクストスター高知・高知）",
+  "fullTitle": "🈢ＧＣ地方競馬中継（プリンセスカップ・盛岡）（ネクストスター高知・高知）",
+  "detail": "プリンセスカップ(M1・盛岡)、ネクストスター高知(高知)",
+  "start": 1698566400000,
+  "end": 1698571800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

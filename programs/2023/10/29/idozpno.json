@@ -1,0 +1,23 @@
+{
+  "id": "idozpno",
+  "category": "sports",
+  "title": "ジャンプ２０２３",
+  "fullTitle": "ジャンプ２０２３",
+  "detail": "",
+  "start": 1698542700000,
+  "end": 1698550200000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
