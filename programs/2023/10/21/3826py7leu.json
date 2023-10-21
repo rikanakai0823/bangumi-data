@@ -1,0 +1,23 @@
+{
+  "id": "3826py7leu",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10Ｒ神無月Ｓ、11Ｒ富士Ｓ（ＧⅡ）\r\n【京都】10Ｒ鳴滝特別\r\n　　　　11ＲオータムリーフＳ\r\n【新潟】11Ｒ北陸Ｓ",
+  "start": 1697868000000,
+  "end": 1697871600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
