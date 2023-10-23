@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwjz6",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃２６６",
-  "fullTitle": "チバミライチャンネル　＃２６６",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "明治安田生命「ストレスとの上手な付き合い方」\n◇番組内容\nnewsチバ特集\r\n旭の書道家　平山爆風",
   "start": 1698653700000,
   "end": 1698656100000,
   "seconds": 2400,
+  "description": "明治安田生命「ストレスとの上手な付き合い方」",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n旭の書道家　平山爆風"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 11
   },
-  "subTitle": "",
-  "episode": 266,
+  "subTitle": "ストレスとの上手な付き合い方",
+  "episode": 1,
   "flags": []
 }
