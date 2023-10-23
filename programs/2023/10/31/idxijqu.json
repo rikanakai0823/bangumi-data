@@ -1,0 +1,25 @@
+{
+  "id": "idxijqu",
+  "category": "sports",
+  "title": "MLB中継2023 ワールドシリーズ 第2戦 (10/30)",
+  "fullTitle": "[初]MLB中継2023 ワールドシリーズ 第2戦 (10/30)",
+  "detail": "【ワールドシリーズ 第3戦】\r\n\r\n開催日：2023年10月30日(現地)",
+  "start": 1698742800000,
+  "end": 1698760800000,
+  "seconds": 18000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "ワールドシリーズ 第3戦",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

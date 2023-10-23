@@ -1,0 +1,23 @@
+{
+  "id": "idyrmkt",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと(10/31)",
+  "fullTitle": "競輪LIVE！チャリロトよしもと(10/31)",
+  "detail": "本日はミッドナイト競輪・豊橋最終日を生中継！新チームで予想バトル！\r\n※放送内容・出演者が変更の可能性有。\r\n出演者：レインボー、谷川愛梨 ほか",
+  "start": 1698757200000,
+  "end": 1698760800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
