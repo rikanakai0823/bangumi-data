@@ -1,0 +1,23 @@
+{
+  "id": "3826py3bj4",
+  "category": "music",
+  "title": "ミュージックブレイク",
+  "fullTitle": "ミュージックブレイク",
+  "detail": "番組が自信を持ってオススメする楽曲を、１日１本ミュージックビデオをOAして紹介していきます。楽曲にまつわる情報も含め、最新のレコメンドチューンをお届けします！",
+  "start": 1698776400000,
+  "end": 1698776700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

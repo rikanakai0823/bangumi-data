@@ -1,0 +1,27 @@
+{
+  "id": "iduherp",
+  "category": "cinema",
+  "title": "放課後アングラーライフ",
+  "fullTitle": "🈙放課後アングラーライフ🅍🈑",
+  "detail": "井上かえるの小説を、実力派監督の城定秀夫が映画化した青春ストーリー。いじめに遭っていた女子高校生が、転校先で同級生から誘われた釣りを通じて周囲と打ち解けていく。",
+  "start": 1698821100000,
+  "end": 1698826500000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

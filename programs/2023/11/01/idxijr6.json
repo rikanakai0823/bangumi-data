@@ -1,0 +1,25 @@
+{
+  "id": "idxijr6",
+  "category": "sports",
+  "title": "MLB中継2023 ワールドシリーズ 第4戦 (10/31)",
+  "fullTitle": "[初]MLB中継2023 ワールドシリーズ 第4戦 (10/31)",
+  "detail": "【ワールドシリーズ 第4戦】\r\n\r\n開催日：2023年10月31日(現地)",
+  "start": 1698829200000,
+  "end": 1698847200000,
+  "seconds": 18000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "ワールドシリーズ 第4戦",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}
