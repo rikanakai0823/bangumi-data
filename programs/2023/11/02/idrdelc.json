@@ -1,0 +1,23 @@
+{
+  "id": "idrdelc",
+  "category": "music",
+  "title": "歌謡プレミアム　アンコール",
+  "fullTitle": "歌謡プレミアム　アンコール",
+  "detail": "大ヒットした代表曲「珍島物語」\r\n憧れ美空ひばりの名曲「悲しい酒」\r\n親友・野口五郎の曲を初歌唱「私鉄沿線」\r\n人気アニメ主題歌「大ちゃん数え唄」\r\n最新曲「日の出前」",
+  "start": 1698922800000,
+  "end": 1698926040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "珍島物語",
+  "episode": 1,
+  "flags": []
+}

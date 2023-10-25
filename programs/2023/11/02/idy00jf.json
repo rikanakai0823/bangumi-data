@@ -1,0 +1,23 @@
+{
+  "id": "idy00jf",
+  "category": "sports",
+  "title": "エキサイトマッチ～世界プロボクシング I・バロッソvsR・ロメロ",
+  "fullTitle": "エキサイトマッチ～世界プロボクシング I・バロッソvsR・ロメロ",
+  "detail": "ボクシング主要4団体のタイトルマッチやビッグマッチを中心に、世界最高レベルの戦いを放送。",
+  "start": 1698919200000,
+  "end": 1698926400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
