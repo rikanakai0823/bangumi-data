@@ -1,0 +1,23 @@
+{
+  "id": "idws682",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「日本語からたどる文化('11)第１０回・１１回・１２回」",
+  "start": 1698229800000,
+  "end": 1698237900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "日本語からたどる文化('11)第１０回・１１回・１２回",
+  "episode": 10,
+  "flags": []
+}
