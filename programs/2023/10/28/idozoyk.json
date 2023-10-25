@@ -1,12 +1,12 @@
 {
   "id": "idozoyk",
   "category": "etc",
-  "title": "国際放送セレクション",
-  "fullTitle": "国際放送セレクション",
+  "title": "ＢＳセレクション",
+  "fullTitle": "ＢＳセレクション",
   "detail": "",
   "start": 1698444000000,
-  "end": 1698447000000,
-  "seconds": 3000,
+  "end": 1698446400000,
+  "seconds": 2400,
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
