@@ -3,10 +3,14 @@
   "category": "information",
   "title": "いまドキッ！埼玉🈐",
   "fullTitle": "いまドキッ！埼玉🈐🅂",
-  "detail": "",
+  "detail": "絶品！県産食材で卵かけごはん▽日本一の読書のまち「三郷」\n◇出演者\n司会：松井咲子　リポーター：才木玲佳　小堺翔太　ナレーター：岡本寛志",
   "start": 1698449400000,
   "end": 1698451200000,
   "seconds": 1800,
+  "description": "絶品！県産食材で卵かけごはん▽日本一の読書のまち「三郷」",
+  "extra": {
+    "出演者": "司会：松井咲子　リポーター：才木玲佳　小堺翔太　ナレーター：岡本寛志"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 13
   },
-  "subTitle": "",
+  "subTitle": "三郷",
   "episode": 1,
   "flags": [
     "S"
