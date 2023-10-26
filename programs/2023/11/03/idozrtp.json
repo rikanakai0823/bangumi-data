@@ -1,0 +1,23 @@
+{
+  "id": "idozrtp",
+  "category": "documentary",
+  "title": "ＤＥＥＰＥＲ　ＬＯＯＫ",
+  "fullTitle": "ＤＥＥＰＥＲ　ＬＯＯＫ",
+  "detail": "",
+  "start": 1698954300000,
+  "end": 1698955200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

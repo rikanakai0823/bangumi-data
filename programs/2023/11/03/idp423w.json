@@ -1,0 +1,23 @@
+{
+  "id": "idp423w",
+  "category": "etc",
+  "title": "にっぽんカメラアイ",
+  "fullTitle": "にっぽんカメラアイ",
+  "detail": "",
+  "start": 1698971100000,
+  "end": 1698971400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
