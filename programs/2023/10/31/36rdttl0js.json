@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Better Place(Lyric Video)\"*NSYNC\r\n\"Children Of The Sky (a Starfield song)\"IMAGINE DRAGONS\r\n\"A Man Like Me\"JOHNNY ORLANDO\r\n\"My Love Mine All Mine\"MITSKI\n◇番組内容２\n\"El Jefe\"SHAKIRA x FUERZA REGIDA\r\n\"Pretty Girl\"ICE SPICE feat.REMA\r\n\"TOO MUCH\"THE KID LAROI x JUNG KOOK x CENTRAL CEE\r\n\"Angry\"THE ROLLING STONES",
   "start": 1698678000000,
   "end": 1698679800000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Better Place(Lyric Video)\"*NSYNC\r\n\"Children Of The Sky (a Starfield song)\"IMAGINE DRAGONS\r\n\"A Man Like Me\"JOHNNY ORLANDO\r\n\"My Love Mine All Mine\"MITSKI",
+    "番組内容２": "\"El Jefe\"SHAKIRA x FUERZA REGIDA\r\n\"Pretty Girl\"ICE SPICE feat.REMA\r\n\"TOO MUCH\"THE KID LAROI x JUNG KOOK x CENTRAL CEE\r\n\"Angry\"THE ROLLING STONES"
   },
   "channel": {
     "type": "GR",

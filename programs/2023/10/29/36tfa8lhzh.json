@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": " ",
+  "detail": "「オフト大郷賞」「ポルックス賞」\n◇出演者\n【MC】\r\n前半：瀬戸山知花\r\n後半：山田かれん\r\n【解説】\r\n《7R～10R》中石雄三（勝馬）",
   "start": 1698560400000,
   "end": 1698580800000,
   "seconds": 20400,
+  "description": "「オフト大郷賞」「ポルックス賞」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：瀬戸山知花\r\n後半：山田かれん\r\n【解説】\r\n《7R～10R》中石雄三（勝馬）\r\n\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
