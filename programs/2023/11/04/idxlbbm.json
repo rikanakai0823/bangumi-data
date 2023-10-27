@@ -1,0 +1,25 @@
+{
+  "id": "idxlbbm",
+  "category": "sports",
+  "title": "J:COM presents 2023ツール・ド・フランス さいたまクリテリウム前夜祭 Cycle*",
+  "fullTitle": "[生]J:COM presents 2023ツール・ド・フランス さいたまクリテリウム前夜祭 Cycle*",
+  "detail": "出演：タデイ・ポガチャル、セップ・クス、マーク・カヴェンディッシュ、ペーター・サガン\r\nイベント進行：栗村修、長澤洋明\r\n開催日：2023年11月4日",
+  "start": 1699099200000,
+  "end": 1699102800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

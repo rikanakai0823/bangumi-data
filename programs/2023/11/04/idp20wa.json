@@ -1,0 +1,23 @@
+{
+  "id": "idp20wa",
+  "category": "sports",
+  "title": "テニス２０２３　第９８回全日本テニス選手権",
+  "fullTitle": "テニス２０２３　第９８回全日本テニス選手権",
+  "detail": "",
+  "start": 1699063200000,
+  "end": 1699070400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 98,
+  "flags": []
+}
