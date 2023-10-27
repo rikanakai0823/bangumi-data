@@ -1,12 +1,12 @@
 {
   "id": "idyrmpg",
-  "category": "hobby",
-  "title": "東西南北よしもと麻雀リーグ #17",
-  "fullTitle": "東西南北よしもと麻雀リーグ #17",
-  "detail": "吉本の麻雀大好き芸人が４つのチームに分かれてリーグ戦を開催！\r\nこの番組でしかありえない『トークも楽しめる麻雀』を制して優勝するのはどのチームだ！？",
+  "category": "variety",
+  "title": "WHO AM I ～Road to Vxer～ #1",
+  "fullTitle": "WHO AM I ～Road to Vxer～ #1",
+  "detail": "まだ誰でもないVxer(＝ベクサー：リアルとバーチャルの境界を超えて活躍する人間)を作り上げる新番組！\r\n見事Vxerに命を吹き込むのは一体誰なのか！？",
   "start": 1699020000000,
-  "end": 1699023600000,
-  "seconds": 3600,
+  "end": 1699021800000,
+  "seconds": 1800,
   "channel": {
     "type": "BS",
     "channel": "BS23_1",
@@ -18,6 +18,6 @@
     "n": 83
   },
   "subTitle": "",
-  "episode": 17,
+  "episode": 1,
   "flags": []
 }
