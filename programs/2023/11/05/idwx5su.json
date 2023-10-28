@@ -1,0 +1,23 @@
+{
+  "id": "idwx5su",
+  "category": "sports",
+  "title": "今日のレースリプレイ",
+  "fullTitle": "今日のレースリプレイ",
+  "detail": "「第５回東京競馬第２日・第３回京都競馬第２日・第３回福島競馬第２日」",
+  "start": 1699176600000,
+  "end": 1699182000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "第５回東京競馬第２日・第３回京都競馬第２日・第３回福島競馬第２日",
+  "episode": 5,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvygx",
+  "category": "cinema",
+  "title": "【無料】Ｇｉｒｌ／ガール",
+  "fullTitle": "【無料】🈙🅍Ｇｉｒｌ／ガール",
+  "detail": "【『ＣＬＯＳＥ／クロース』独占プレミア放送記念！無料放送】",
+  "start": 1699159500000,
+  "end": 1699166700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "『ＣＬＯＳＥ／クロース』独占プレミア放送記念！無料放送",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
