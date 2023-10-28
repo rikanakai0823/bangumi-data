@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・海底楽園",
   "fullTitle": "夢の彼方に・海底楽園",
-  "detail": "",
+  "detail": "◇制作\n2013年",
   "start": 1699036200000,
   "end": 1699038000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2013年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
