@@ -1,0 +1,23 @@
+{
+  "id": "idtt8vj",
+  "category": "information",
+  "title": "ＢＳフジ　ビジネスボード",
+  "fullTitle": "ＢＳフジ　ビジネスボード",
+  "detail": "",
+  "start": 1698566160000,
+  "end": 1698566400000,
+  "seconds": 240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
