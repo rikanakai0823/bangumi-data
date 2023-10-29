@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "グリーン★一番星",
   "fullTitle": "グリーン★一番星",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1699160040000,
   "end": 1699160400000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
