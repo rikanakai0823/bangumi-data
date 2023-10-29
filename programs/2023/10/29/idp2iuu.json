@@ -1,0 +1,23 @@
+{
+  "id": "idp2iuu",
+  "category": "sports",
+  "title": "第６５回ＮＨＫ杯ジャンプ",
+  "fullTitle": "第６５回ＮＨＫ杯ジャンプ",
+  "detail": "日本のトップジャンパーが集うＮＨＫ杯ジャンプ。北京五輪金の小林陵侑や日本女子をけん引する髙梨沙羅が出場。今季Ｗ杯’２６冬季五輪に向けニューヒーローの出現に期待",
+  "start": 1698552000000,
+  "end": 1698562800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 65,
+  "flags": []
+}
