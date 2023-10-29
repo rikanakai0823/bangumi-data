@@ -1,0 +1,23 @@
+{
+  "id": "idy8khe",
+  "category": "anime",
+  "title": "ミッキーマウス！#75",
+  "fullTitle": "ミッキーマウス！#75",
+  "detail": "#75「春の訪れ」",
+  "start": 1699246500000,
+  "end": 1699246800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "春の訪れ",
+  "episode": 75,
+  "flags": []
+}

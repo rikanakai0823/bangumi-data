@@ -1,0 +1,23 @@
+{
+  "id": "idtal5u",
+  "category": "information",
+  "title": "テレビショッピング",
+  "fullTitle": "テレビショッピング",
+  "detail": "便利な商品をお届け",
+  "start": 1698593700000,
+  "end": 1698595500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
