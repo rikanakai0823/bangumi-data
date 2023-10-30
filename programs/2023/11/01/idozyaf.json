@@ -1,0 +1,25 @@
+{
+  "id": "idozyaf",
+  "category": "news",
+  "title": "みみより！くらし解説",
+  "fullTitle": "みみより！くらし解説🈑",
+  "detail": "",
+  "start": 1698792600000,
+  "end": 1698793200000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
