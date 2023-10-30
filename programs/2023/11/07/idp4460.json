@@ -1,0 +1,25 @@
+{
+  "id": "idp4460",
+  "category": "hobby",
+  "title": "世界ふれあい街歩き",
+  "fullTitle": "世界ふれあい街歩き🈑",
+  "detail": "",
+  "start": 1699353000000,
+  "end": 1699358400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

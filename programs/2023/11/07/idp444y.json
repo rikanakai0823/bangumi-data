@@ -1,0 +1,23 @@
+{
+  "id": "idp444y",
+  "category": "music",
+  "title": "さわやかウインドー「秋色　箱根路」",
+  "fullTitle": "さわやかウインドー「秋色　箱根路」",
+  "detail": "",
+  "start": 1699290000000,
+  "end": 1699291800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "秋色　箱根路",
+  "episode": 1,
+  "flags": []
+}
