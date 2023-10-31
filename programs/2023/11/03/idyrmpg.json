@@ -1,9 +1,9 @@
 {
   "id": "idyrmpg",
   "category": "variety",
-  "title": "WHO AM I ～Road to Vxer～ #1",
-  "fullTitle": "WHO AM I ～Road to Vxer～ #1",
-  "detail": "まだ誰でもないVxer(＝ベクサー：リアルとバーチャルの境界を超えて活躍する人間)を作り上げる新番組！\r\n見事Vxerに命を吹き込むのは一体誰なのか！？",
+  "title": "WHO AM I ～Road to VXer～ #1",
+  "fullTitle": "🈟WHO AM I ～Road to VXer～ #1",
+  "detail": "まだ誰でもないVXer(＝ベクサー：リアルとバーチャルの境界を超えて活躍する人間)を作り上げる新番組！\r\n見事VXerに命を吹き込むのは一体誰なのか！？",
   "start": 1699020000000,
   "end": 1699021800000,
   "seconds": 1800,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "新"
+  ]
 }
