@@ -1,0 +1,23 @@
+{
+  "id": "36rdttn0ti",
+  "category": "music",
+  "title": "ＰＰＶ",
+  "fullTitle": "ＰＰＶ",
+  "detail": "最新のミュージックビデオを紹介",
+  "start": 1698720900000,
+  "end": 1698721140000,
+  "seconds": 240,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
