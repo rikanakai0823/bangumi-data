@@ -3,10 +3,14 @@
   "category": "music",
   "title": "音楽のある風景　ほろ酔い歌",
   "fullTitle": "音楽のある風景　ほろ酔い歌",
-  "detail": "ほろ酔い気分で聴きたい歌、口ずさみたい歌、心にしみる名曲の数々をお届けします。",
+  "detail": "ほろ酔い気分で聴きたい歌、口ずさみたい歌、心にしみる名曲の数々をお届けします。\n◇ホームページ\nhttps://www.bs4.jp/uni_music/",
   "start": 1699290000000,
   "end": 1699291800000,
   "seconds": 1800,
+  "description": "ほろ酔い気分で聴きたい歌、口ずさみたい歌、心にしみる名曲の数々をお届けします。",
+  "extra": {
+    "ホームページ": "https://www.bs4.jp/uni_music/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",

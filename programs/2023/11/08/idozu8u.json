@@ -1,0 +1,25 @@
+{
+  "id": "idozu8u",
+  "category": "sports",
+  "title": "Ｂリーグ２０２３－２４　Ｂ１",
+  "fullTitle": "Ｂリーグ２０２３－２４　Ｂ１🈑",
+  "detail": "",
+  "start": 1699437600000,
+  "end": 1699444800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

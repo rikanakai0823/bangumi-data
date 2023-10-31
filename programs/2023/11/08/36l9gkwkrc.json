@@ -1,0 +1,27 @@
+{
+  "id": "36l9gkwkrc",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "チャリティー音楽祭スーパーライブ2022\n◇番組内容\nnewsチバ特集\r\n「カキ殻の再生」",
+  "start": 1699430400000,
+  "end": 1699433700000,
+  "seconds": 3300,
+  "description": "チャリティー音楽祭スーパーライブ2022",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n「カキ殻の再生」"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
