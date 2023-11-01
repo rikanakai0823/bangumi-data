@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3wvf",
+  "category": "documentary",
+  "title": "ＭＩＤＴＶ",
+  "fullTitle": "ＭＩＤＴＶ🅂",
+  "detail": "角川武蔵野ミュージアム（第３回）",
+  "start": 1698842700000,
+  "end": 1698843600000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "S"
+  ]
+}
