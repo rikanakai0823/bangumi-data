@@ -1,0 +1,23 @@
+{
+  "id": "idrdext",
+  "category": "music",
+  "title": "歌謡プレミアム　アンコール",
+  "fullTitle": "歌謡プレミアム　アンコール",
+  "detail": "最新曲「白山雪舞い」\r\n中村美律子の代表曲カバー「河内おとこ節」\r\n話題の配信ライブ映像中森明菜カバー「難破船」\r\n亡き母を想い涙の熱唱「何度も何度も～母への想い～」",
+  "start": 1699527600000,
+  "end": 1699530840000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "白山雪舞い",
+  "episode": 1,
+  "flags": []
+}

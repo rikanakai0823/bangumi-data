@@ -1,0 +1,23 @@
+{
+  "id": "idozys4",
+  "category": "information",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "放送設備の整備のため放送を休止します　ＥＰＧ（電子番組表）とデータ放送も一部の時間でご利用できません。",
+  "start": 1699466400000,
+  "end": 1699470000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
