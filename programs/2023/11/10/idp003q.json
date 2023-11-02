@@ -1,0 +1,26 @@
+{
+  "id": "idp003q",
+  "category": "documentary",
+  "title": "街角ピアノ「旭川」",
+  "fullTitle": "街角ピアノ「旭川」🈑🈞",
+  "detail": "北海道中央部のターミナル、旭川駅に置かれたピアノが舞台。サイクリング中の男性、テニス部の練習帰りの高校生、出勤途中のスナックのオーナー。どんな思いで曲を弾くのか",
+  "start": 1699574700000,
+  "end": 1699577400000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "旭川",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduweus",
+  "category": "cinema",
+  "title": "【最新作】アントラーズ",
+  "fullTitle": "【最新作】🈙🅍アントラーズ",
+  "detail": "ギレルモ・デル・トロが製作を務めたホラー。アメリカ先住民族に伝わる怪物伝説をモチーフに、寂れた町で起きた惨劇の謎を描く。",
+  "start": 1699617600000,
+  "end": 1699624800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
