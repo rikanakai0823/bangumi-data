@@ -1,0 +1,25 @@
+{
+  "id": "idsmbge",
+  "category": "information",
+  "title": "おんな酒場放浪記▼東十条「酒だる」",
+  "fullTitle": "🈑おんな酒場放浪記▼東十条「酒だる」",
+  "detail": "ご夫婦が営み３２年。豊洲市場で働いていた大将が仕入れる、新鮮な魚料理が自慢。ご常連おすすめは馬刺し。大将いわく日本一という霜降り馬刺しのボリュームに驚愕した。",
+  "start": 1699020000000,
+  "end": 1699023600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "酒だる",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
