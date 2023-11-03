@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwl0m",
+  "category": "sports",
+  "title": "Ｂリーグ中継▽千葉ジェッツ×佐賀バルーナーズ",
+  "fullTitle": "Ｂリーグ中継▽千葉ジェッツ×佐賀バルーナーズ",
+  "detail": " ",
+  "start": 1699696800000,
+  "end": 1699707600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

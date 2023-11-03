@@ -1,0 +1,25 @@
+{
+  "id": "36rdttl196",
+  "category": "sports",
+  "title": "ＷＥリーグ中継",
+  "fullTitle": "ＷＥリーグ中継🈕",
+  "detail": "　",
+  "start": 1699678800000,
+  "end": 1699686000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "多"
+  ]
+}

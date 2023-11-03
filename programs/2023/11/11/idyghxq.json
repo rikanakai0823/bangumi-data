@@ -1,0 +1,25 @@
+{
+  "id": "idyghxq",
+  "category": "sports",
+  "title": "ANAウインドサーフィンワールドカップ『がむしゃら』特別編",
+  "fullTitle": "🈢ANAウインドサーフィンワールドカップ『がむしゃら』特別編",
+  "detail": "２０２３年１１月１０日から開催されるANAウインドサーフィンワールドカップ横須賀・三浦大会。レースの模様や現地の様子など魅力満載の生放送。",
+  "start": 1699671600000,
+  "end": 1699675200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

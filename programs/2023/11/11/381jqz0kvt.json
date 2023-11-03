@@ -1,0 +1,23 @@
+{
+  "id": "381jqz0kvt",
+  "category": "news",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "",
+  "start": 1699635300000,
+  "end": 1699648200000,
+  "seconds": 12900,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

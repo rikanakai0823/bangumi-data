@@ -1,0 +1,25 @@
+{
+  "id": "idyghy1",
+  "category": "cinema",
+  "title": "土曜ゴールデンシアター　家族ゲーム",
+  "fullTitle": "土曜ゴールデンシアター　家族ゲーム🈑",
+  "detail": "監督・森田芳光＆主演・松田優作がおくる、ブラック・ユーモア溢れる異色ホームドラマ！ 由紀さおり、宮川一朗太、伊丹十三共演▽ノーカット放送",
+  "start": 1699704000000,
+  "end": 1699711200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

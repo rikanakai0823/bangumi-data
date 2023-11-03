@@ -1,0 +1,25 @@
+{
+  "id": "idy8koa",
+  "category": "cinema",
+  "title": "インサイド・ヘッド",
+  "fullTitle": "インサイド・ヘッド🈔",
+  "detail": "１１才の少女ライリーは、遠い街への引越しで不安を抱える。彼女の頭の中にいる５つの感情たち―ヨロコビ、イカリ、ムカムカ、ビビリ、カナシミ　にも事件が起きて・・・。",
+  "start": 1699698600000,
+  "end": 1699705800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
