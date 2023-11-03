@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwkba",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜東京１１Ｒ　アルゼンチン共和国杯（ＧⅡ）　他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜東京１１Ｒ　アルゼンチン共和国杯（ＧⅡ）　他",
+  "detail": "日曜東京11R　アルゼンチン共和国杯（GⅡ）、日曜京都11R　みやこS（GⅢ）、土曜東京11R　京王杯2歳S（GⅡ）、土曜京都11R　KBSファンタジーS（GⅢ）",
+  "start": 1699012800000,
+  "end": 1699014600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
