@@ -1,0 +1,25 @@
+{
+  "id": "idtt7rp",
+  "category": "sports",
+  "title": "ダート競馬の祭典JBC2023　大井＆門別競馬場からJBCクラシック等生中継",
+  "fullTitle": "🈢ダート競馬の祭典JBC2023　大井＆門別競馬場からJBCクラシック等生中継",
+  "detail": "今年で23回目を迎えるダート競馬の祭典「JBC2023」を大井＆門別競馬場から完全生中継！JBCクラシック・JBCスプリント・JBCレディスクラシックほか",
+  "start": 1698990300000,
+  "end": 1699002000000,
+  "seconds": 11700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "JBC2023",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
