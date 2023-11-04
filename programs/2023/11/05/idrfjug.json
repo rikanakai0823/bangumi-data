@@ -1,0 +1,23 @@
+{
+  "id": "idrfjug",
+  "category": "information",
+  "title": "ＢＳ日テレ Ｓｈｏｐｐｉｎｇ",
+  "fullTitle": "ＢＳ日テレ Ｓｈｏｐｐｉｎｇ",
+  "detail": "魅力的で希少なダイヤモンドをご紹介するジュエリー番組",
+  "start": 1699120800000,
+  "end": 1699122600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
