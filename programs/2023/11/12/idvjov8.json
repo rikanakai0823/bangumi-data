@@ -1,0 +1,26 @@
+{
+  "id": "idvjov8",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "🈢🈓ＢＳイレブン競馬中継　第１部",
+  "detail": "【東京】５Ｒ～８Ｒ，９Ｒ「銀嶺ステークス」，10Ｒ「ユートピアステークス」\r\n【京都】５Ｒ～８Ｒ，９Ｒ「黄菊賞」",
+  "start": 1699758000000,
+  "end": 1699768800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idyghyu",
+  "category": "theater",
+  "title": "日曜ゴールデンシアター　こまつ座「てんぷくトリオのコント」",
+  "fullTitle": "日曜ゴールデンシアター　こまつ座「てんぷくトリオのコント」",
+  "detail": "活気溢れる昭和の笑いを牽引したてんぷくトリオのコントが\r\nお笑いトリオ「我が家」の熱演で現代によみがえる！",
+  "start": 1699783200000,
+  "end": 1699790400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "てんぷくトリオのコント",
+  "episode": 1,
+  "flags": []
+}

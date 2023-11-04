@@ -1,0 +1,23 @@
+{
+  "id": "idwq1jd",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「心理学と脳科学から人の生涯発達を学ぶ」",
+  "start": 1699787700000,
+  "end": 1699790400000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "心理学と脳科学から人の生涯発達を学ぶ",
+  "episode": 1,
+  "flags": []
+}

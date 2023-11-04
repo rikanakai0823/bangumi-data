@@ -1,0 +1,23 @@
+{
+  "id": "idxee52",
+  "category": "sports",
+  "title": "J SPORTS セレクション",
+  "fullTitle": "J SPORTS セレクション",
+  "detail": "【J SPORTS セレクション】\r\n放送内容は未定です。",
+  "start": 1699790400000,
+  "end": 1699797600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "J SPORTS セレクション",
+  "episode": 1,
+  "flags": []
+}

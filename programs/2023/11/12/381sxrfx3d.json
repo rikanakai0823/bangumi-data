@@ -1,0 +1,29 @@
+{
+  "id": "381sxrfx3d",
+  "category": "news",
+  "title": "ＴＢＳニュース",
+  "fullTitle": "ＴＢＳニュース🈑",
+  "detail": "最新のニュースをお伝えします。\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
+  "start": 1699768440000,
+  "end": 1699768800000,
+  "seconds": 360,
+  "description": "最新のニュースをお伝えします。",
+  "extra": {
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
