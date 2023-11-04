@@ -1,0 +1,23 @@
+{
+  "id": "381jqz2mif",
+  "category": "sports",
+  "title": "第１０１回全国学生相撲選手権",
+  "fullTitle": "第１０１回全国学生相撲選手権",
+  "detail": "「学生横綱」を決める全国学生相撲選手権個人戦の模様を大阪府堺市大浜公園相撲場から生中継。",
+  "start": 1699081200000,
+  "end": 1699084800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "学生横綱",
+  "episode": 101,
+  "flags": []
+}
