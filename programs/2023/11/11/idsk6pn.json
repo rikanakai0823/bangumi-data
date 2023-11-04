@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・ＦＲＡＮＣＥ・ＩＴＡＬＹ",
   "fullTitle": "夢の彼方に・ＦＲＡＮＣＥ・ＩＴＡＬＹ",
-  "detail": "",
+  "detail": "◇制作\n翔テレビジョン",
   "start": 1699641000000,
   "end": 1699642800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

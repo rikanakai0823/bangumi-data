@@ -1,0 +1,25 @@
+{
+  "id": "idsognq",
+  "category": "news",
+  "title": "Ｂｉｚスクエア",
+  "fullTitle": "🈑Ｂｉｚスクエア",
+  "detail": "空前の町中華ブームの舞台裏を特集。",
+  "start": 1699063200000,
+  "end": 1699066440000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
