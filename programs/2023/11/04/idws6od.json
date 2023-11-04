@@ -1,0 +1,23 @@
+{
+  "id": "idws6od",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「暮らしの中の「面積」と数学」",
+  "start": 1699101900000,
+  "end": 1699104600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "暮らしの中の「面積",
+  "episode": 1,
+  "flags": []
+}
