@@ -1,0 +1,25 @@
+{
+  "id": "idrdf27",
+  "category": "sports",
+  "title": "速報！ＭｏｔｏＧＰ",
+  "fullTitle": "🈕速報！ＭｏｔｏＧＰ",
+  "detail": "チャンピオン争いは再び勢いを取り戻したマルティンと、冷静に戦いを消化していくように見えるバニャイアの二人に絞られたか？今シーズンは残すところ３戦。",
+  "start": 1699801200000,
+  "end": 1699804800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "多"
+  ]
+}

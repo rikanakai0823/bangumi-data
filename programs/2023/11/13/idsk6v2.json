@@ -1,0 +1,25 @@
+{
+  "id": "idsk6v2",
+  "category": "information",
+  "title": "吉田類の酒場放浪記",
+  "fullTitle": "🈑吉田類の酒場放浪記",
+  "detail": "",
+  "start": 1699876800000,
+  "end": 1699880400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

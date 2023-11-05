@@ -1,0 +1,25 @@
+{
+  "id": "idy8kqc",
+  "category": "anime",
+  "title": "ミッキーマウス！#81",
+  "fullTitle": "ミッキーマウス！#81🈔",
+  "detail": "#81「僕の帽子」",
+  "start": 1699851300000,
+  "end": 1699851600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "僕の帽子",
+  "episode": 81,
+  "flags": [
+    "二"
+  ]
+}
