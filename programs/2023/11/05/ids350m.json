@@ -1,0 +1,25 @@
+{
+  "id": "ids350m",
+  "category": "news",
+  "title": "BS朝日 日曜スクープ",
+  "fullTitle": "🈢BS朝日 日曜スクープ",
+  "detail": "イスラエル軍「地上作戦」　ガザ市を包囲完了…市街戦に突入か　難民キャンプ空爆で“非難”相次ぐ／ウクライナ反転攻勢　総司令官が消耗戦に危機感　ロシア軍は“肉弾戦”",
+  "start": 1699178400000,
+  "end": 1699185240000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "地上作戦",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
