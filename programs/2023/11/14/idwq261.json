@@ -1,0 +1,23 @@
+{
+  "id": "idwq261",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「はじめての気象学・雇用社会と法」",
+  "start": 1699904700000,
+  "end": 1699905600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "はじめての気象学・雇用社会と法",
+  "episode": 1,
+  "flags": []
+}
