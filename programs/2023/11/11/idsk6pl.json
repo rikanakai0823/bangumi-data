@@ -1,13 +1,13 @@
 {
   "id": "idsk6pl",
   "category": "anime",
-  "title": "はめつのおうこく",
-  "fullTitle": "はめつのおうこく",
-  "detail": "◇制作\n2023年",
+  "title": "はめつのおうこく＃０６",
+  "fullTitle": "はめつのおうこく＃０６",
+  "detail": "＃０６「魔女ドロカ」\n◇制作\n2023年",
   "start": 1699637400000,
   "end": 1699639200000,
   "seconds": 1800,
-  "description": "",
+  "description": "＃０６「魔女ドロカ」",
   "extra": {
     "制作": "2023年"
   },
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 51
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "魔女ドロカ",
+  "episode": 6,
   "flags": []
 }
