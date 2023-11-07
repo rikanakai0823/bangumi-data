@@ -1,0 +1,23 @@
+{
+  "id": "idp4adj",
+  "category": "information",
+  "title": "４ＫＰＲミニ",
+  "fullTitle": "４ＫＰＲミニ",
+  "detail": "",
+  "start": 1700041980000,
+  "end": 1700042400000,
+  "seconds": 420,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
