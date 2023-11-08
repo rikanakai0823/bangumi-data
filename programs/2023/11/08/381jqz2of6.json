@@ -1,0 +1,25 @@
+{
+  "id": "381jqz2of6",
+  "category": "hobby",
+  "title": "おかあさんといっしょ　水曜日",
+  "fullTitle": "おかあさんといっしょ　水曜日🈑",
+  "detail": "２～４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！",
+  "start": 1699434000000,
+  "end": 1699435440000,
+  "seconds": 1440,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
