@@ -1,0 +1,23 @@
+{
+  "id": "idwr8ml",
+  "category": "hobby",
+  "title": "はじめての気象学　第7回",
+  "fullTitle": "はじめての気象学　第7回",
+  "detail": "「雲と降水」",
+  "start": 1700144100000,
+  "end": 1700146800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "雲と降水",
+  "episode": 7,
+  "flags": []
+}

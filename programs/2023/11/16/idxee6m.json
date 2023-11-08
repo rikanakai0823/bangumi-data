@@ -1,0 +1,25 @@
+{
+  "id": "idxee6m",
+  "category": "sports",
+  "title": "アジアプロ野球チャンピオンシップ2023 韓国×オーストラリア",
+  "fullTitle": "[生]アジアプロ野球チャンピオンシップ2023 韓国×オーストラリア",
+  "detail": "韓国×オーストラリア\r\n\r\n開催日：2023年11月16日\r\n会場：東京ドーム",
+  "start": 1700103000000,
+  "end": 1700118000000,
+  "seconds": 15000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

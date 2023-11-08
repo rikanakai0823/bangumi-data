@@ -1,0 +1,25 @@
+{
+  "id": "idozyep",
+  "category": "sports",
+  "title": "大相撲（２０２３年）　九州場所",
+  "fullTitle": "大相撲（２０２３年）　九州場所🈕",
+  "detail": "",
+  "start": 1700107200000,
+  "end": 1700115000000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "多"
+  ]
+}

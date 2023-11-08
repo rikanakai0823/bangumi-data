@@ -1,0 +1,25 @@
+{
+  "id": "idozye2",
+  "category": "news",
+  "title": "ワールドニュース",
+  "fullTitle": "ワールドニュース🈔",
+  "detail": "▽ドイツ・ＺＤＦ，フランス・Ｆ２，カタール・アルジャジーラ，オーストラリア・ＡＢＣ，シンガポール・ＣＮＡ，インド・ＮＤＴＶ，タイ・ＭＣＯＴ",
+  "start": 1700085600000,
+  "end": 1700088600000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
