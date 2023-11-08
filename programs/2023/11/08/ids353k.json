@@ -1,0 +1,23 @@
+{
+  "id": "ids353k",
+  "category": "information",
+  "title": "美と健康のショッピング",
+  "fullTitle": "美と健康のショッピング",
+  "detail": "テレビショッピング",
+  "start": 1699394400000,
+  "end": 1699396200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
