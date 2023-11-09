@@ -1,0 +1,23 @@
+{
+  "id": "idsk72r",
+  "category": "etc",
+  "title": "おはよう！情報館",
+  "fullTitle": "おはよう！情報館",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1700166600000,
+  "end": 1700168400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
