@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwlgh",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃２７４",
-  "fullTitle": "チバミライチャンネル　＃２７４",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "チャリティー音楽祭スーパーライブ2022\n◇番組内容\nnewsチバ特集\r\n「カキ殻の再生」",
   "start": 1700035200000,
   "end": 1700038500000,
   "seconds": 3300,
+  "description": "チャリティー音楽祭スーパーライブ2022",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n「カキ殻の再生」"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 11
   },
   "subTitle": "",
-  "episode": 274,
+  "episode": 1,
   "flags": []
 }
