@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "元気の守り神",
   "fullTitle": "元気の守り神",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1700135640000,
   "end": 1700136000000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
