@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwkwa",
+  "category": "information",
+  "title": "生活情報【内容】ととのうぐらす",
+  "fullTitle": "生活情報【内容】ととのうぐらす",
+  "detail": "【内容】ととのうぐらす\r\n【電話】0120-103-080",
+  "start": 1699639200000,
+  "end": 1699641000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
