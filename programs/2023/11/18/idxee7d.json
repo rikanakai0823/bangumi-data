@@ -1,0 +1,25 @@
+{
+  "id": "idxee7d",
+  "category": "sports",
+  "title": "11月番組情報",
+  "fullTitle": "[無料]11月番組情報",
+  "detail": "★番組に関する詳細は下記ホームページ\r\n→http://www.jsports.co.jp",
+  "start": 1700289900000,
+  "end": 1700290200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
