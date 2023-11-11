@@ -1,0 +1,23 @@
+{
+  "id": "3826py5h2k",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】11Ｒ武蔵野Ｓ（ＧⅢ）\r\n【京都】10Ｒ観月橋Ｓ、11Ｒデイリー杯２歳Ｓ（ＧⅡ）\r\n【福島】11Ｒ奥羽Ｓ、12Ｒ３歳以上１勝Ｃ",
+  "start": 1699682400000,
+  "end": 1699686000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}

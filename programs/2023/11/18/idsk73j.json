@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "はめつのおうこく",
   "fullTitle": "はめつのおうこく",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1700242200000,
   "end": 1700244000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
