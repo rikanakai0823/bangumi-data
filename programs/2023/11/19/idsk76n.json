@@ -1,0 +1,23 @@
+{
+  "id": "idsk76n",
+  "category": "etc",
+  "title": "オープニング",
+  "fullTitle": "オープニング",
+  "detail": "",
+  "start": 1700337540000,
+  "end": 1700337600000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

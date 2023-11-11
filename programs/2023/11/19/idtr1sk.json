@@ -1,0 +1,25 @@
+{
+  "id": "idtr1sk",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　京都：マイルCS　福島：福島民友C　東京：霜月S",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　京都：マイルCS　福島：福島民友C　東京：霜月S",
+  "detail": "京都：マイルCS（GⅠ）福島：福島民友カップ（L）東京：霜月ステークス／解説：吉田均（競馬エイト）ゲスト：鈴木淑子／史上7頭目の連覇か？新王者誕生か？",
+  "start": 1700373600000,
+  "end": 1700377200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

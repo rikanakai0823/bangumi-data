@@ -1,0 +1,23 @@
+{
+  "id": "idygi5g",
+  "category": "theater",
+  "title": "日曜ゴールデンシアター",
+  "fullTitle": "日曜ゴールデンシアター",
+  "detail": "歌舞伎「義経千本桜　道行初音旅」「恋飛脚大和往来　封印切」",
+  "start": 1700386200000,
+  "end": 1700395200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
