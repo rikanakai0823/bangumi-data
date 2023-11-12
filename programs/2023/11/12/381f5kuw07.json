@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuw07",
+  "category": "information",
+  "title": "どーも、ＮＨＫ",
+  "fullTitle": "どーも、ＮＨＫ🈑",
+  "detail": "特集は街の風景などをＣＧで再現、アバターと呼ばれるキャラクターで動き回ったり、話したりできる「バーチャル空間」を活用した番組づくりについて紹介します。",
+  "start": 1699755600000,
+  "end": 1699757640000,
+  "seconds": 2040,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "バーチャル空間",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
