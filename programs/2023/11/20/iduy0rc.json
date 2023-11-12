@@ -1,0 +1,26 @@
+{
+  "id": "iduy0rc",
+  "category": "cinema",
+  "title": "ファイヤーボール（１９７９）",
+  "fullTitle": "🈙🅍ファイヤーボール（１９７９）",
+  "detail": "デヴィッド・クローネンバーグ監督、異色のカーレース映画。追放された人気レーサーが、妨害にも屈せず再起を懸けて奮闘する。",
+  "start": 1700468400000,
+  "end": 1700474400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
