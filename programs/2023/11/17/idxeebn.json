@@ -1,0 +1,23 @@
+{
+  "id": "idxeebn",
+  "category": "sports",
+  "title": "結束！侍ジャパン #101",
+  "fullTitle": "結束！侍ジャパン #101",
+  "detail": "",
+  "start": 1700179200000,
+  "end": 1700181000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 101,
+  "flags": []
+}
