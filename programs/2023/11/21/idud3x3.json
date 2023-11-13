@@ -1,0 +1,27 @@
+{
+  "id": "idud3x3",
+  "category": "cinema",
+  "title": "ピンポン",
+  "fullTitle": "🈙ピンポン🅍🈑",
+  "detail": "卓球に青春を懸ける高校生たちが、友情とライバル心が織り成す熱い青春ドラマを展開。松本大洋の同名コミックを当時の若手俳優陣の競演で映画化した、人気スポーツ群像劇。",
+  "start": 1700564400000,
+  "end": 1700571600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

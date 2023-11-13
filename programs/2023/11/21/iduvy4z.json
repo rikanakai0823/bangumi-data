@@ -1,0 +1,26 @@
+{
+  "id": "iduvy4z",
+  "category": "cinema",
+  "title": "ザ・シークレットマン",
+  "fullTitle": "🈙🅍ザ・シークレットマン",
+  "detail": "リーアム・ニーソン主演の社会派ドラマ。元ＦＢＩ副長官マーク・フェルトの自伝を基に、“ウォーターゲート事件”の内幕を描く。",
+  "start": 1700525700000,
+  "end": 1700532600000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxee96",
+  "category": "sports",
+  "title": "サッカーFIFA U-17 W杯2023 ラウンド16-5",
+  "fullTitle": "[生]サッカーFIFA U-17 W杯2023 ラウンド16-5",
+  "detail": "FIFA U-17 ワールドカップ インドネシア 2023\r\nラウンド16-5",
+  "start": 1700567100000,
+  "end": 1700577900000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
