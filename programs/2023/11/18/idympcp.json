@@ -2,7 +2,7 @@
   "id": "idympcp",
   "category": "information",
   "title": "諭吉の食卓　＃５",
-  "fullTitle": "諭吉の食卓　＃５",
+  "fullTitle": "諭吉の食卓　＃５🈑",
   "detail": "金融の基礎知識を、他番組にはない切り口『面白く楽しく学ぶ』をコンセプトに学びます。",
   "start": 1700285400000,
   "end": 1700287200000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 5,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
