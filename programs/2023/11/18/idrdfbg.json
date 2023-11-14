@@ -3,10 +3,14 @@
   "category": "news",
   "title": "日テレＮＥＷＳ２４",
   "fullTitle": "日テレＮＥＷＳ２４",
-  "detail": "ニュースをまとめてお伝えします▽気になる気象情報も。",
+  "detail": "ニュースをまとめてお伝えします▽気になる気象情報も。\n◇ホームページ\nhttps://news.ntv.co.jp/",
   "start": 1700245800000,
   "end": 1700247600000,
   "seconds": 1800,
+  "description": "ニュースをまとめてお伝えします▽気になる気象情報も。",
+  "extra": {
+    "ホームページ": "https://news.ntv.co.jp/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",

@@ -1,0 +1,23 @@
+{
+  "id": "idp2iwc",
+  "category": "etc",
+  "title": "（この時間帯は１０１ｃｈをご覧ください）",
+  "fullTitle": "（この時間帯は１０１ｃｈをご覧ください）",
+  "detail": "",
+  "start": 1700632140000,
+  "end": 1700633400000,
+  "seconds": 1260,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

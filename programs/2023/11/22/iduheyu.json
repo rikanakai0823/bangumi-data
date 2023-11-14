@@ -1,0 +1,26 @@
+{
+  "id": "iduheyu",
+  "category": "cinema",
+  "title": "ニューオーダー（字幕版）[PG12指定]",
+  "fullTitle": "🈙ニューオーダー（字幕版）[PG12指定]🅍",
+  "detail": "メキシコの俊英Ｍ・フランコ監督が、今そこにある危機を観客に冷酷に突きつけて第７７回ヴェネチア国際映画祭で審査員大賞に輝く一方、各国で物議を醸した衝撃の問題作。",
+  "start": 1700627400000,
+  "end": 1700632800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 77,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
