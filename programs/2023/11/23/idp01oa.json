@@ -1,0 +1,23 @@
+{
+  "id": "idp01oa",
+  "category": "documentary",
+  "title": "日本の名峰「南アルプス　八ヶ岳」",
+  "fullTitle": "日本の名峰「南アルプス　八ヶ岳」",
+  "detail": "",
+  "start": 1700672400000,
+  "end": 1700676000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "南アルプス　八ヶ岳",
+  "episode": 1,
+  "flags": []
+}

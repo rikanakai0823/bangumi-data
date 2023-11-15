@@ -1,0 +1,23 @@
+{
+  "id": "idwq1i3",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「諸橋大漢和辞典の六十年('87)」",
+  "start": 1700740800000,
+  "end": 1700743500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "諸橋大漢和辞典の六十年('87)",
+  "episode": 1,
+  "flags": []
+}
