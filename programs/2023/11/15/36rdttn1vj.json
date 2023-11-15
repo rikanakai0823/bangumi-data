@@ -1,0 +1,23 @@
+{
+  "id": "36rdttn1vj",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽「全コーナーからプレゼント企画」開催中！▽あなたにエールを！星座占い▽【中継】角川武蔵野ミュージアム▽天気",
+  "start": 1700033400000,
+  "end": 1700035200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
