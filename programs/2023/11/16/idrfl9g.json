@@ -1,0 +1,23 @@
+{
+  "id": "idrfl9g",
+  "category": "information",
+  "title": "ＢＳ日テレ Ｓｈｏｐｐｉｎｇ",
+  "fullTitle": "ＢＳ日テレ Ｓｈｏｐｐｉｎｇ",
+  "detail": "",
+  "start": 1700095500000,
+  "end": 1700096400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

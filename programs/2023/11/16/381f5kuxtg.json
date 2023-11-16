@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuxtg",
+  "category": "news",
+  "title": "ひるまえほっと",
+  "fullTitle": "ひるまえほっと🈑",
+  "detail": "▽宇都宮局「野州路を行くケニア出身ランナー」▽水戸局「ひたちなか市の旅」▽かんたんごはん「おいしく減塩！白身魚とたまねぎのマリネ」",
+  "start": 1700101800000,
+  "end": 1700103240000,
+  "seconds": 1440,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
