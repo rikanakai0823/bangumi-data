@@ -1,0 +1,23 @@
+{
+  "id": "idt8gk2",
+  "category": "news",
+  "title": "モーサテ【原油価格から見える世界経済】",
+  "fullTitle": "モーサテ【原油価格から見える世界経済】",
+  "detail": "世界の経済ニュースやマーケットの情報をいち早くお伝えします！",
+  "start": 1700081100000,
+  "end": 1700085900000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "原油価格から見える世界経済",
+  "episode": 1,
+  "flags": []
+}
