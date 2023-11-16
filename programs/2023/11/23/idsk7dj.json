@@ -3,10 +3,14 @@
   "category": "theater",
   "title": "落語研究会",
   "fullTitle": "落語研究会",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1700676000000,
   "end": 1700679600000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
