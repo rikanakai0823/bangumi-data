@@ -1,0 +1,25 @@
+{
+  "id": "idxeeam",
+  "category": "sports",
+  "title": "スキーノルディック複合FIS W杯23/24 ルカ(11/24) 男子LH／7.5km",
+  "fullTitle": "[生]スキーノルディック複合FIS W杯23/24 ルカ(11/24) 男子LH／7.5km",
+  "detail": "【男子 ラージヒル／7.5km】\r\nルカ／フィンランド(11/24)\r\n\r\n開催日：2023年11月24日(現地)\r\n開催地：ルカ, フィンランド",
+  "start": 1700829900000,
+  "end": 1700839800000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "男子 ラージヒル／7.5km",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
