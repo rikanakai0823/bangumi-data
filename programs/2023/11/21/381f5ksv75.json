@@ -1,12 +1,16 @@
 {
   "id": "381f5ksv75",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ「ＮＨＫ地域づくりアーカイブス」のご紹介",
+  "fullTitle": "＃ＮＨＫ「ＮＨＫ地域づくりアーカイブス」のご紹介",
+  "detail": "【出演】守本奈実\n◇出演者\n【出演】守本奈実",
   "start": 1700566920000,
   "end": 1700567100000,
   "seconds": 180,
+  "description": "【出演】守本奈実",
+  "extra": {
+    "出演者": "【出演】守本奈実"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "ＮＨＫ地域づくりアーカイブス",
   "episode": 1,
   "flags": []
 }
