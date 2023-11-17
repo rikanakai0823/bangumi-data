@@ -1,0 +1,25 @@
+{
+  "id": "idxlbjr",
+  "category": "sports",
+  "title": "J SPORTS HOOP!2023 ～学生バスケ情報番組～ #10",
+  "fullTitle": "[解]J SPORTS HOOP!2023 ～学生バスケ情報番組～ #10",
+  "detail": "ウインターカップやインターハイ、大学バスケなど学生バスケットボール情報をお届けする「J SPORTS HOOP！」",
+  "start": 1700884800000,
+  "end": 1700886600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "J SPORTS HOOP！",
+  "episode": 10,
+  "flags": [
+    "解"
+  ]
+}

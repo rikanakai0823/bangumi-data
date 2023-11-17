@@ -1,0 +1,26 @@
+{
+  "id": "idt6bon",
+  "category": "information",
+  "title": "ファッション通信",
+  "fullTitle": "ファッション通信🈑🈓",
+  "detail": "パリ・ミラノ・ニューヨークそして東京…世界各国のファッション都市から刻々と発信される最新情報をどこよりも早く、リアリティー溢れる映像レポートで紹介します。",
+  "start": 1700920800000,
+  "end": 1700922600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

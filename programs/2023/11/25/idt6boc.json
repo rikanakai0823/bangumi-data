@@ -1,0 +1,23 @@
+{
+  "id": "idt6boc",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】11ＲキャピタルＳ（L）\r\n【京都】10Ｒ花園Ｓ\r\n　　　　11Ｒ京都２歳Ｓ【ＧⅢ】",
+  "start": 1700890200000,
+  "end": 1700895600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}

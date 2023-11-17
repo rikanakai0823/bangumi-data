@@ -1,0 +1,23 @@
+{
+  "id": "idygias",
+  "category": "sports",
+  "title": "ANAウインドサーフィンワールドカップ　ダイジェスト",
+  "fullTitle": "ANAウインドサーフィンワールドカップ　ダイジェスト",
+  "detail": "今年で５回目の開催となる横須賀・三浦大会！世界各国から一流選手が集まり、トッププロたちが世界一をかけて争う！この５日間の熱い戦いをダイジェストで放送！",
+  "start": 1700906400000,
+  "end": 1700910000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
