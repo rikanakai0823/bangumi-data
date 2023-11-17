@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "２０２３カシオワールドオープンゴルフ▼第２日",
   "fullTitle": "２０２３カシオワールドオープンゴルフ▼第２日",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1700827200000,
   "end": 1700834040000,
   "seconds": 6840,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
