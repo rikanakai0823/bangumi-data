@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "11月番組情報",
   "fullTitle": "[無料]11月番組情報",
-  "detail": "★番組に関する詳細は下記ホームページ\r\n→http://www.jsports.co.jp",
+  "detail": "★番組に関する詳細は下記ホームページ\r\n→http://www.jsports.co.jp\n◇お知らせ\n★J SPORTSについてのお問い合わせは、\r\nJ SPORTSカスタマーセンターまで\r\nTEL.03-5500-3488(10:00～18:00/毎日)このHVAHは2Kで制作されたものです",
   "start": 1700829000000,
   "end": 1700829300000,
   "seconds": 300,
+  "description": "★番組に関する詳細は下記ホームページ\r\n→http://www.jsports.co.jp",
+  "extra": {
+    "お知らせ": "★J SPORTSについてのお問い合わせは、\r\nJ SPORTSカスタマーセンターまで\r\nTEL.03-5500-3488(10:00～18:00/毎日)このHVAHは2Kで制作されたものです"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS19_1",

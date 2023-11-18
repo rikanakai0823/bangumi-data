@@ -3,10 +3,15 @@
   "category": "sports",
   "title": "J SPORTS HOOP!2023 ～学生バスケ情報番組～ #10",
   "fullTitle": "[解]J SPORTS HOOP!2023 ～学生バスケ情報番組～ #10",
-  "detail": "ウインターカップやインターハイ、大学バスケなど学生バスケットボール情報をお届けする「J SPORTS HOOP！」",
+  "detail": "ウインターカップやインターハイ、大学バスケなど学生バスケットボール情報をお届けする「J SPORTS HOOP！」\n◇番組内容\n【J SPORTS公式HP】\r\nhttp://www.jsports.co.jp/basketball/\n◇お知らせ\nこの番組は2Kで制作されたものです",
   "start": 1700537400000,
   "end": 1700539200000,
   "seconds": 1800,
+  "description": "ウインターカップやインターハイ、大学バスケなど学生バスケットボール情報をお届けする「J SPORTS HOOP！」",
+  "extra": {
+    "番組内容": "【J SPORTS公式HP】\r\nhttp://www.jsports.co.jp/basketball/",
+    "お知らせ": "この番組は2Kで制作されたものです"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS19_2",

@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "休止",
   "fullTitle": "休止",
-  "detail": "この時間は放送を休止しています。\r\n\r\n番組に関する詳細は下記ホームページまで\r\nwww.jsports.co.jp",
+  "detail": "この時間は放送を休止しています。\r\n\r\n番組に関する詳細は下記ホームページまで\r\nwww.jsports.co.jp\n◇お知らせ\nこの番組は2Kで制作されたものです",
   "start": 1700679600000,
   "end": 1700686800000,
   "seconds": 7200,
+  "description": "この時間は放送を休止しています。\r\n\r\n番組に関する詳細は下記ホームページまで\r\nwww.jsports.co.jp",
+  "extra": {
+    "お知らせ": "この番組は2Kで制作されたものです"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS19_2",
