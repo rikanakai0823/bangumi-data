@@ -1,0 +1,23 @@
+{
+  "id": "idws6pj",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「実例に基づく画像情報応用の可能性」",
+  "start": 1700306100000,
+  "end": 1700308800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "実例に基づく画像情報応用の可能性",
+  "episode": 1,
+  "flags": []
+}
