@@ -1,0 +1,23 @@
+{
+  "id": "idyrnt1",
+  "category": "news",
+  "title": "ウェザーニュースLiVE",
+  "fullTitle": "ウェザーニュースLiVE",
+  "detail": "最新の気象現況・今後の予報見解を随時お届け！",
+  "start": 1700947800000,
+  "end": 1700949600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

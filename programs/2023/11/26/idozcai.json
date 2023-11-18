@@ -1,0 +1,23 @@
+{
+  "id": "idozcai",
+  "category": "sports",
+  "title": "Ｊリーグタイム「Ｊ１第３３節」",
+  "fullTitle": "Ｊリーグタイム「Ｊ１第３３節」",
+  "detail": "【解説】小島伸幸，【キャスター】中村泰人，高階亜理沙",
+  "start": 1701006600000,
+  "end": 1701009000000,
+  "seconds": 2400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "Ｊ１第３３節",
+  "episode": 1,
+  "flags": []
+}

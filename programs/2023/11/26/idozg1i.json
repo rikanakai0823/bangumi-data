@@ -1,0 +1,23 @@
+{
+  "id": "idozg1i",
+  "category": "sports",
+  "title": "第４０回全日本総合エアロビック選手権",
+  "fullTitle": "第４０回全日本総合エアロビック選手権",
+  "detail": "",
+  "start": 1700964000000,
+  "end": 1700970000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 40,
+  "flags": []
+}
