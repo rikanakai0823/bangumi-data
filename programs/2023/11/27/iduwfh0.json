@@ -1,0 +1,25 @@
+{
+  "id": "iduwfh0",
+  "category": "cinema",
+  "title": "ジャンルだけロマンス",
+  "fullTitle": "🈙ジャンルだけロマンス",
+  "detail": "リュ・スンリョン主演の群像ラブコメディ。スランプ中の作家を中心に、彼を取り巻く様々な人々の錯綜する恋愛模様を描く。",
+  "start": 1701028800000,
+  "end": 1701036000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

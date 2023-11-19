@@ -1,0 +1,26 @@
+{
+  "id": "idp3n3l",
+  "category": "documentary",
+  "title": "ニッポンぶらり鉄道旅",
+  "fullTitle": "ニッポンぶらり鉄道旅🈖🈑",
+  "detail": "",
+  "start": 1701086400000,
+  "end": 1701090000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
+}

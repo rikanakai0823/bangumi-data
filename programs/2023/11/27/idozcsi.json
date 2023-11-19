@@ -1,0 +1,25 @@
+{
+  "id": "idozcsi",
+  "category": "news",
+  "title": "ワールドニュース",
+  "fullTitle": "ワールドニュース🈔",
+  "detail": "▽イギリス・ＢＢＣ，ドイツ・ＺＤＦ，フランス・Ｆ２，カタール・アルジャジーラ，シンガポール・ＣＮＡ，香港・ＴＶＢ，オーストラリア・ＡＢＣ",
+  "start": 1701036000000,
+  "end": 1701039000000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
