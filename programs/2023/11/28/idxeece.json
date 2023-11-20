@@ -1,0 +1,25 @@
+{
+  "id": "idxeece",
+  "category": "sports",
+  "title": "NPB AWARDS 2023 ～第一部～",
+  "fullTitle": "[生]NPB AWARDS 2023 ～第一部～",
+  "detail": "NPB AWARDS 2023\r\n～第一部～\r\n\r\n開催日：2023年11月28日",
+  "start": 1701141900000,
+  "end": 1701149100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
