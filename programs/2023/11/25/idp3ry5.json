@@ -1,0 +1,23 @@
+{
+  "id": "idp3ry5",
+  "category": "information",
+  "title": "「篤姫」ＮＨＫ　ＢＳ再放送ＰＲ",
+  "fullTitle": "「篤姫」ＮＨＫ　ＢＳ再放送ＰＲ",
+  "detail": "波乱と苦難の運命を生きる。あの「篤姫」を新しいＮＨＫ　ＢＳでも放送します。時代に翻弄されながらも力強く生き抜いた篤姫の一生を描く。魅力を１分でお届けします。",
+  "start": 1700924340000,
+  "end": 1700924400000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "篤姫",
+  "episode": 1,
+  "flags": []
+}
