@@ -1,0 +1,23 @@
+{
+  "id": "idtr2u1",
+  "category": "information",
+  "title": "ごちそうさまのカタチ",
+  "fullTitle": "ごちそうさまのカタチ",
+  "detail": "この番組は、スポーツや芸能、芸術など何かに取り組み頑張っている子どもたちにスポットを当てます。",
+  "start": 1701262500000,
+  "end": 1701262800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

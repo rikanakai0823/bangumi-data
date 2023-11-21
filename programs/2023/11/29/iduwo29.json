@@ -1,0 +1,26 @@
+{
+  "id": "iduwo29",
+  "category": "cinema",
+  "title": "ウォール・ストリート",
+  "fullTitle": "🈙🅍ウォール・ストリート",
+  "detail": "マイケル・ダグラスがアカデミー主演男優賞を受賞した『ウォール街』のゴードン・ゲッコーを再び主人公にした２３年ぶりの続編。",
+  "start": 1701247500000,
+  "end": 1701256500000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

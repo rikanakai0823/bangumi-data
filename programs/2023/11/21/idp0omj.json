@@ -1,0 +1,25 @@
+{
+  "id": "idp0omj",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース🈑",
+  "detail": "ニュース",
+  "start": 1700577000000,
+  "end": 1700578860000,
+  "seconds": 1860,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

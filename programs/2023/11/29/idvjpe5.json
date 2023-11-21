@@ -1,0 +1,25 @@
+{
+  "id": "idvjpe5",
+  "category": "information",
+  "title": "ショップチャンネル　期待のニュースターデイ　ダイジェスト",
+  "fullTitle": "🈢ショップチャンネル　期待のニュースターデイ　ダイジェスト",
+  "detail": "期待のニュースターデイ／旬の輝きを放つスターブランドにフォーカス。期待に胸がおどる充実した24時間をお見逃しなく！",
+  "start": 1701262800000,
+  "end": 1701266400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

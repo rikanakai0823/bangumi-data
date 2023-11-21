@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "月刊ゴールキーパー　～Ｒｏａｄ　ｔｏ　２０５０～",
   "fullTitle": "月刊ゴールキーパー　～Ｒｏａｄ　ｔｏ　２０５０～",
-  "detail": "",
+  "detail": "◇ホームページ\nhttps://www.bs4.jp/GK/",
   "start": 1701176040000,
   "end": 1701176400000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://www.bs4.jp/GK/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",

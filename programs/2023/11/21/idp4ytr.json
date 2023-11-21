@@ -1,0 +1,26 @@
+{
+  "id": "idp4ytr",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース🈔🈑",
+  "detail": "ニュース",
+  "start": 1700576414000,
+  "end": 1700577000000,
+  "seconds": 586,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫＢＳプレミアム",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二",
+    "字"
+  ]
+}
