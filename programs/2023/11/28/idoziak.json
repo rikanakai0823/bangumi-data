@@ -1,0 +1,25 @@
+{
+  "id": "idoziak",
+  "category": "documentary",
+  "title": "空港ピアノ　２５ｍｉｎ．「オスロ」",
+  "fullTitle": "空港ピアノ　２５ｍｉｎ．「オスロ」🈞",
+  "detail": "オスロ国際空港に置かれたピアノ。遠距離恋愛中の高校生、そり競技のルーマニア代表、ジャズ好きの大学教授、ビートルズを愛するチリ人…それぞれが心の音楽を奏でる。",
+  "start": 1701136800000,
+  "end": 1701138300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "オスロ",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
