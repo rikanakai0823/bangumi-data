@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "町中華で飲ろうぜ",
   "fullTitle": "町中華で飲ろうぜ",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1701090000000,
   "end": 1701093600000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "ねこ自慢",
   "fullTitle": "🈑ねこ自慢",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1701266400000,
   "end": 1701269640000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
