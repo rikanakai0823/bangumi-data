@@ -1,0 +1,25 @@
+{
+  "id": "idwx6ax",
+  "category": "sports",
+  "title": "トラックマンTV #622",
+  "fullTitle": "🈢トラックマンTV #622",
+  "detail": "「チャンピオンズカップ（Ｇ１）、ステイヤーズＳ、チャレンジカップ他　展望」",
+  "start": 1701424800000,
+  "end": 1701430200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "チャンピオンズカップ（Ｇ１）、ステイヤーズＳ、チャレンジカップ他　展望",
+  "episode": 622,
+  "flags": [
+    "生"
+  ]
+}
