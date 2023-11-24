@@ -1,0 +1,26 @@
+{
+  "id": "3826py5hlp",
+  "category": "music",
+  "title": "歌のサンセット",
+  "fullTitle": "歌のサンセット🈑🈖",
+  "detail": "最新曲と様々な情報をお届けする夕方の音楽情報番組！【ゲスト】花耶、KID　PHENOMENON、木村徹二、中村美律子、七海ひろき、浜博也",
+  "start": 1700814600000,
+  "end": 1700816100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "ゲスト",
+  "episode": 1,
+  "flags": [
+    "字",
+    "解"
+  ]
+}
