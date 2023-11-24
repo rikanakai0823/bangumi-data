@@ -1,0 +1,25 @@
+{
+  "id": "idozevu",
+  "category": "news",
+  "title": "ワールドニュース",
+  "fullTitle": "ワールドニュース🈔",
+  "detail": "▽イギリス・ＢＢＣ，ドイツ・ＺＤＦ，フランス・Ｆ２，カタール・アルジャジーラ，韓国・ＫＢＳ，香港・ＴＶＢ，シンガポール・ＣＮＡ，トルコ・ＴＲＴ，",
+  "start": 1701464400000,
+  "end": 1701468900000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "idt6bw0",
+  "category": "cinema",
+  "title": "土曜は寅さん！",
+  "fullTitle": "土曜は寅さん！🈙🈑",
+  "detail": "鮮やかな映像で寅さんとマドンナ達が土曜の夜に帰ってくる！\n◇出演\n渥美清（車寅次郎）\n◇関連情報\n【ＢＳテレ東映画情報】\r\nhttps://www.bs-tvtokyo.co.jp/cinema/",
+  "start": 1701509400000,
+  "end": 1701518040000,
+  "seconds": 8640,
+  "description": "鮮やかな映像で寅さんとマドンナ達が土曜の夜に帰ってくる！",
+  "extra": {
+    "出演": "渥美清（車寅次郎）",
+    "関連情報": "【ＢＳテレ東映画情報】\r\nhttps://www.bs-tvtokyo.co.jp/cinema/"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

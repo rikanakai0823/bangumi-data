@@ -1,0 +1,23 @@
+{
+  "id": "idwq1y6",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「1910年ハレー彗星接近と青森ゆかりの天文学者の観測」",
+  "start": 1701513000000,
+  "end": 1701515700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "1910年ハレー彗星接近と青森ゆかりの天文学者の観測",
+  "episode": 1,
+  "flags": []
+}

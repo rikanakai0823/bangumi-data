@@ -1,0 +1,23 @@
+{
+  "id": "3826py3ddv",
+  "category": "information",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": "番組調整中です。",
+  "start": 1701447780000,
+  "end": 1701449580000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
