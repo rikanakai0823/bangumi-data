@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n特集　Sury Su スー・ルイチー\r\n\"月神 Artemis\"ほか\n◇番組内容２\n\"One Of Your Girls\"TROYE SIVAN\r\n\"Spend The Night\"BJ THE CHICAGO KID & COCO JONES\r\n\"Houdini\"DUA LIPA",
   "start": 1701097200000,
   "end": 1701099000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "特集　Sury Su スー・ルイチー\r\n\"月神 Artemis\"ほか",
+    "番組内容２": "\"One Of Your Girls\"TROYE SIVAN\r\n\"Spend The Night\"BJ THE CHICAGO KID & COCO JONES\r\n\"Houdini\"DUA LIPA"
   },
   "channel": {
     "type": "GR",
