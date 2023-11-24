@@ -1,0 +1,23 @@
+{
+  "id": "idttbkz",
+  "category": "information",
+  "title": "ＳＨＯＰ　ＪＡＰＡＮ",
+  "fullTitle": "ＳＨＯＰ　ＪＡＰＡＮ",
+  "detail": "",
+  "start": 1700773140000,
+  "end": 1700775120000,
+  "seconds": 1980,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
