@@ -3,10 +3,14 @@
   "category": "drama",
   "title": "天狗の台所",
   "fullTitle": "🈑天狗の台所🈞",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1701505800000,
   "end": 1701507600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

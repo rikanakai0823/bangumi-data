@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "トレンドクリップ",
   "fullTitle": "トレンドクリップ",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1701485640000,
   "end": 1701486000000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
