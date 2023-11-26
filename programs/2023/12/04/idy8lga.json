@@ -1,0 +1,25 @@
+{
+  "id": "idy8lga",
+  "category": "anime",
+  "title": "なんだかんだワンダー#12",
+  "fullTitle": "なんだかんだワンダー#12🈔",
+  "detail": "#12「昼／夜」",
+  "start": 1701630000000,
+  "end": 1701631800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "昼／夜",
+  "episode": 12,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idt6bxh",
+  "category": "cinema",
+  "title": "シネマ・アディクト",
+  "fullTitle": "シネマ・アディクト",
+  "detail": "観れば必ず映画が観たくなる！\r\n映画には一家言あるシネマ・アディクトたちが名作映画の魅力を語り尽くす、映画ファン必見の深掘り映画トーク番組。",
+  "start": 1701626100000,
+  "end": 1701626400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
