@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "アスリート夢共演",
   "fullTitle": "アスリート夢共演",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1701572400000,
   "end": 1701574200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
