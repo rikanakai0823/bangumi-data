@@ -1,0 +1,23 @@
+{
+  "id": "idws6qb",
+  "category": "hobby",
+  "title": "特別講義",
+  "fullTitle": "特別講義",
+  "detail": "「エンジニアが映像で挑む！～トップアスリート強化～」",
+  "start": 1700994600000,
+  "end": 1700997300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "エンジニアが映像で挑む！～トップアスリート強化～",
+  "episode": 1,
+  "flags": []
+}
