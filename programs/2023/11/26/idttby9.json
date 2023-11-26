@@ -1,0 +1,23 @@
+{
+  "id": "idttby9",
+  "category": "information",
+  "title": "ヤーマンＴＶショッピング",
+  "fullTitle": "ヤーマンＴＶショッピング",
+  "detail": "",
+  "start": 1700965740000,
+  "end": 1700967600000,
+  "seconds": 1860,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
