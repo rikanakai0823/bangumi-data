@@ -1,0 +1,25 @@
+{
+  "id": "idozggl",
+  "category": "news",
+  "title": "ワールドニュース",
+  "fullTitle": "ワールドニュース🈔",
+  "detail": "▽イギリス・ＢＢＣ，シンガポール・ＣＮＡ，韓国・ＫＢＳ，中国・ＣＣＴＶ，上海・東方衛視，香港・ＴＶＢ，タイ・ＭＣＯＴ，ベトナム・ＶＴＶ，オーストラリア・ＡＢＣ，",
+  "start": 1701723600000,
+  "end": 1701728100000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

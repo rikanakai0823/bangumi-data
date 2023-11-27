@@ -1,0 +1,25 @@
+{
+  "id": "idxeefs",
+  "category": "sports",
+  "title": "第30回 BFAアジア野球選手権 #1 日本×パキスタン",
+  "fullTitle": "[初]第30回 BFAアジア野球選手権 #1 日本×パキスタン",
+  "detail": "【オープニングラウンド】\r\n日本×パキスタン\r\n\r\n開催日：2023年12月4日\r\n球場：台北ドーム",
+  "start": 1701770400000,
+  "end": 1701783000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "BFAアジア野球選手権 #1 日本×パキスタン",
+  "episode": 30,
+  "flags": [
+    "初"
+  ]
+}
