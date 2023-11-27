@@ -1,0 +1,23 @@
+{
+  "id": "36rdttn2op",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "▽あなたにエールを！星座占い▽テレ玉くん天気予報▽おとな散歩▽青森県産米「青天の霹靂」フェア▽マチコミ感謝祭▽豪華プレゼントがあたる！月曜で賞",
+  "start": 1701070200000,
+  "end": 1701072000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "青天の霹靂",
+  "episode": 1,
+  "flags": []
+}
