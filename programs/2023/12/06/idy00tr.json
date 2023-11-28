@@ -1,0 +1,25 @@
+{
+  "id": "idy00tr",
+  "category": "cinema",
+  "title": "シルバラード",
+  "fullTitle": "🈙シルバラード",
+  "detail": "ケヴィン・コスナー、スコット・グレン、ケヴィン・クラインら豪華スター競演で贈る正統派西部劇。正義のガンマンたちが町の平和を守るため、悪の一味の成敗に挑む。",
+  "start": 1701792900000,
+  "end": 1701801900000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

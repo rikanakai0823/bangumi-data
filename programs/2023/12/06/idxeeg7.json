@@ -1,0 +1,25 @@
+{
+  "id": "idxeeg7",
+  "category": "sports",
+  "title": "第30回 BFAアジア野球選手権 #2 タイ×日本",
+  "fullTitle": "[初]第30回 BFAアジア野球選手権 #2 タイ×日本",
+  "detail": "【オープニングラウンド】\r\nタイ×日本\r\n\r\n開催日：2023年12月5日\r\n球場：台北ドーム",
+  "start": 1701856800000,
+  "end": 1701869400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "BFAアジア野球選手権 #2 タイ×日本",
+  "episode": 30,
+  "flags": [
+    "初"
+  ]
+}
