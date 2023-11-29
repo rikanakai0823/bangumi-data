@@ -1,0 +1,23 @@
+{
+  "id": "idrdgap",
+  "category": "cinema",
+  "title": "映画「００７／ダイヤモンドは永遠に」",
+  "fullTitle": "映画「００７／ダイヤモンドは永遠に」",
+  "detail": "【日本語吹替版】\r\n007シリーズ第7弾。\r\nカムバックしたショーン・コネリーがボンドを演じた最後の作品！",
+  "start": 1701950400000,
+  "end": 1701959040000,
+  "seconds": 8640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "日本語吹替版",
+  "episode": 1,
+  "flags": []
+}

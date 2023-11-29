@@ -1,0 +1,25 @@
+{
+  "id": "idxeego",
+  "category": "sports",
+  "title": "第30回 BFAアジア野球選手権 #3 日本×フィリピン",
+  "fullTitle": "[初]第30回 BFAアジア野球選手権 #3 日本×フィリピン",
+  "detail": "【オープニングラウンド】\r\n日本×フィリピン\r\n\r\n開催日：2023年12月6日\r\n球場：台北ドーム",
+  "start": 1701943200000,
+  "end": 1701955800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "BFAアジア野球選手権 #3 日本×フィリピン",
+  "episode": 30,
+  "flags": [
+    "初"
+  ]
+}
