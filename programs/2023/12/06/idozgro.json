@@ -3,10 +3,14 @@
   "category": "news",
   "title": "クローズアップ現代",
   "fullTitle": "クローズアップ現代",
-  "detail": "【キャスター】桑子真帆",
+  "detail": "【キャスター】桑子真帆\n◇出演者\n【キャスター】桑子真帆",
   "start": 1701802800000,
   "end": 1701804480000,
   "seconds": 1680,
+  "description": "【キャスター】桑子真帆",
+  "extra": {
+    "出演者": "【キャスター】桑子真帆"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS15_0",
