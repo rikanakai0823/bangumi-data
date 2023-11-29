@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２３年１２月",
+  "detail": "２０２３年１２月\n◇番組内容\n●白風珈琲 / 題名のない展示会 feat.Sou, 雨歌エル\r\n●Age Factory / Blood in blue\r\n●peamut butters / スイカP\r\n●X-BORDER / Wild Party!!\r\n●けいちゃん / 愛葬 feat. majiko",
   "start": 1701695700000,
   "end": 1701696600000,
   "seconds": 900,
+  "description": "２０２３年１２月",
+  "extra": {
+    "番組内容": "●白風珈琲 / 題名のない展示会 feat.Sou, 雨歌エル\r\n●Age Factory / Blood in blue\r\n●peamut butters / スイカP\r\n●X-BORDER / Wild Party!!\r\n●けいちゃん / 愛葬 feat. majiko"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
