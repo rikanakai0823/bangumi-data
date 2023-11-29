@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3gcj",
+  "category": "news",
+  "title": "お天気マップ",
+  "fullTitle": "お天気マップ🅂",
+  "detail": "",
+  "start": 1701285000000,
+  "end": 1701285300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
