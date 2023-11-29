@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwn4z",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃２８２",
-  "fullTitle": "チバミライチャンネル　＃２８２",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "日本バトン協会関東支部大会\r\n団体の部\n◇番組内容\nnewsチバ特集\r\n・鎌ヶ谷西高校で乳児とふれあい\r\n・千葉市美術館テオヤンセン展",
   "start": 1701677700000,
   "end": 1701679800000,
   "seconds": 2100,
+  "description": "日本バトン協会関東支部大会\r\n団体の部",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n・鎌ヶ谷西高校で乳児とふれあい\r\n・千葉市美術館テオヤンセン展"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 11
   },
   "subTitle": "",
-  "episode": 282,
+  "episode": 1,
   "flags": []
 }

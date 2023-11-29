@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwn8f",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃２８３",
-  "fullTitle": "チバミライチャンネル　＃２８３",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "日本バトン協会関東支部大会\r\n団体の部\n◇番組内容\nnewsチバ特集\r\n・東金商業バスツアー",
   "start": 1701764100000,
   "end": 1701766200000,
   "seconds": 2100,
+  "description": "日本バトン協会関東支部大会\r\n団体の部",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n・東金商業バスツアー"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 11
   },
   "subTitle": "",
-  "episode": 283,
+  "episode": 1,
   "flags": []
 }
