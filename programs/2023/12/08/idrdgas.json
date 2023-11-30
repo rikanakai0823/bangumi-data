@@ -1,0 +1,23 @@
+{
+  "id": "idrdgas",
+  "category": "anime",
+  "title": "アニメ　BanG Dream! It's MyGO!!!!!　＃１０",
+  "fullTitle": "アニメ　BanG Dream! It's MyGO!!!!!　＃１０",
+  "detail": "＃１０　ずっと迷子",
+  "start": 1701961200000,
+  "end": 1701963000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "ずっと迷子",
+  "episode": 10,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduhh2u",
+  "category": "cinema",
+  "title": "七つの会議",
+  "fullTitle": "🈙七つの会議🅍🈑",
+  "detail": "野村萬斎、香川照之ほか、そうそうたる豪華キャストが集結した社会派エンターテインメント。２０年間、グータラ社員と言われた元エリートの、積年の倍返しが始まる。",
+  "start": 1702023300000,
+  "end": 1702030500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

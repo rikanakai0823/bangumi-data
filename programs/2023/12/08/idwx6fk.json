@@ -1,0 +1,25 @@
+{
+  "id": "idwx6fk",
+  "category": "sports",
+  "title": "トラックマンTV #623",
+  "fullTitle": "🈞トラックマンTV #623",
+  "detail": "「阪神ＪＦ（Ｇ１）、中日新聞杯（Ｇ３）、リゲルＳ、常総Ｓ他　展望」",
+  "start": 1702045800000,
+  "end": 1702051200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "阪神ＪＦ（Ｇ１）、中日新聞杯（Ｇ３）、リゲルＳ、常総Ｓ他　展望",
+  "episode": 623,
+  "flags": [
+    "再"
+  ]
+}

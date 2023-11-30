@@ -1,0 +1,25 @@
+{
+  "id": "idozhsx",
+  "category": "sports",
+  "title": "ブレイキン　ＢＣ　Ｏｎｅ",
+  "fullTitle": "ブレイキン　ＢＣ　Ｏｎｅ🈑",
+  "detail": "",
+  "start": 1702045800000,
+  "end": 1702049400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idxgll5",
+  "category": "sports",
+  "title": "サッカーニュースFoot！THURSDAY(12/7)",
+  "fullTitle": "サッカーニュースFoot！THURSDAY(12/7)",
+  "detail": "木曜日は高校年代のサッカー！",
+  "start": 1701963900000,
+  "end": 1701966600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
