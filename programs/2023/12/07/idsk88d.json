@@ -3,10 +3,14 @@
   "category": "music",
   "title": "銀座カセットソング",
   "fullTitle": "銀座カセットソング",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1701959400000,
   "end": 1701961200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
