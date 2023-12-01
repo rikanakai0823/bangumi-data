@@ -1,12 +1,16 @@
 {
   "id": "381f5ksard",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　ＢＳのおすすめ番組をご紹介",
+  "fullTitle": "＃ＮＨＫ　ＢＳのおすすめ番組をご紹介",
+  "detail": "【出演】小田切千\n◇出演者\n【出演】小田切千",
   "start": 1701776520000,
   "end": 1701776700000,
   "seconds": 180,
+  "description": "【出演】小田切千",
+  "extra": {
+    "出演者": "【出演】小田切千"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "出演",
   "episode": 1,
   "flags": []
 }
