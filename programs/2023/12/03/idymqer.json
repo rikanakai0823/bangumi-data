@@ -1,9 +1,9 @@
 {
   "id": "idymqer",
-  "category": "sports",
-  "title": "ゴルフダンジョン　＃１４",
-  "fullTitle": "ゴルフダンジョン　＃１４🈑",
-  "detail": "難攻不落なゴルフミッションに挑戦！プロゴルファーからアマチュアまでゴルフの猛者たちが3人1組になって前代未聞のゴルフダンジョンに挑戦！",
+  "category": "information",
+  "title": "快適ショッピングスタジオDX　リピート放送",
+  "fullTitle": "快適ショッピングスタジオDX　リピート放送",
+  "detail": "",
   "start": 1701590400000,
   "end": 1701594000000,
   "seconds": 3600,
@@ -18,8 +18,6 @@
     "n": 82
   },
   "subTitle": "",
-  "episode": 14,
-  "flags": [
-    "字"
-  ]
+  "episode": 1,
+  "flags": []
 }
