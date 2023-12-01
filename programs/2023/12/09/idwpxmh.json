@@ -1,0 +1,23 @@
+{
+  "id": "idwpxmh",
+  "category": "hobby",
+  "title": "身近なネットワークサービス　第10回",
+  "fullTitle": "身近なネットワークサービス　第10回",
+  "detail": "「近距離無線通信」",
+  "start": 1702128600000,
+  "end": 1702131300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "近距離無線通信",
+  "episode": 10,
+  "flags": []
+}

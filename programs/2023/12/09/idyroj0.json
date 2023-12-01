@@ -1,0 +1,23 @@
+{
+  "id": "idyroj0",
+  "category": "music",
+  "title": "おはよう歌謡曲 #36",
+  "fullTitle": "おはよう歌謡曲 #36",
+  "detail": "この時間は厳選した歌謡曲をラインナップ！",
+  "start": 1702069200000,
+  "end": 1702071000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 36,
+  "flags": []
+}

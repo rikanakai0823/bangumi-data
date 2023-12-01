@@ -1,0 +1,23 @@
+{
+  "id": "36rdttjro8",
+  "category": "music",
+  "title": "Ｂテレ",
+  "fullTitle": "Ｂテレ",
+  "detail": "「実験的テレビ番組を作ろう！」がコンセプトの不定期放送番組",
+  "start": 1702056600000,
+  "end": 1702057500000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "実験的テレビ番組を作ろう！",
+  "episode": 1,
+  "flags": []
+}

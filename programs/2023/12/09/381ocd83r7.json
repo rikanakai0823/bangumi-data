@@ -1,0 +1,23 @@
+{
+  "id": "381ocd83r7",
+  "category": "cinema",
+  "title": "５分でわかる「きみセカ」",
+  "fullTitle": "５分でわかる「きみセカ」",
+  "detail": "",
+  "start": 1702067040000,
+  "end": 1702067340000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "きみセカ",
+  "episode": 1,
+  "flags": []
+}
