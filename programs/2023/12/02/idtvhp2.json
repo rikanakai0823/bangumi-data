@@ -1,0 +1,23 @@
+{
+  "id": "idtvhp2",
+  "category": "information",
+  "title": "ヤーマンＴＶショッピング",
+  "fullTitle": "ヤーマンＴＶショッピング",
+  "detail": "",
+  "start": 1701468000000,
+  "end": 1701469740000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
