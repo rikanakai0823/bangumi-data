@@ -1,0 +1,23 @@
+{
+  "id": "idws7dd",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「創立40周年記念式典」",
+  "start": 1701486000000,
+  "end": 1701487800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "創立40周年記念式典",
+  "episode": 1,
+  "flags": []
+}
