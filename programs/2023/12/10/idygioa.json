@@ -1,0 +1,23 @@
+{
+  "id": "idygioa",
+  "category": "cinema",
+  "title": "短編映画劇場　Snowman",
+  "fullTitle": "短編映画劇場　Snowman",
+  "detail": "世界中から選りすぐりの短編映画をお届け！",
+  "start": 1702178400000,
+  "end": 1702178940000,
+  "seconds": 540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

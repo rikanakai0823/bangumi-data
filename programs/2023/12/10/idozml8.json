@@ -1,0 +1,25 @@
+{
+  "id": "idozml8",
+  "category": "etc",
+  "title": "決戦！大坂の陣",
+  "fullTitle": "決戦！大坂の陣🈞",
+  "detail": "",
+  "start": 1702175400000,
+  "end": 1702182600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫＢＳ１",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

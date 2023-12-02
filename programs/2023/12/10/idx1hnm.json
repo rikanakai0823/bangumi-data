@@ -1,0 +1,23 @@
+{
+  "id": "idx1hnm",
+  "category": "music",
+  "title": "BanG Dream! 12th☆LIVE DAY1 ： Poppin'Party",
+  "fullTitle": "BanG Dream! 12th☆LIVE DAY1 ： Poppin'Party",
+  "detail": "【アニマックス独占放送】\r\n2023年11月3日～5日に東京ガーデンシアターで開催されたBanG Dream!プロジェクトのLIVEを最…",
+  "start": 1702213200000,
+  "end": 1702223400000,
+  "seconds": 10200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "アニマックス独占放送",
+  "episode": 1,
+  "flags": []
+}
