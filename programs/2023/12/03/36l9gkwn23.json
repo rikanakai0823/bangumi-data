@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwn23",
+  "category": "sports",
+  "title": "ＪＲＡ競馬中継",
+  "fullTitle": "ＪＲＡ競馬中継",
+  "detail": "中央競馬のレースを実況生中継！パドック、返し馬の模様も！競馬のダイナミックさを臨場感タップリにお伝えします。",
+  "start": 1701579600000,
+  "end": 1701583200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
