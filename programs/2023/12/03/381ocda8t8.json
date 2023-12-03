@@ -1,0 +1,23 @@
+{
+  "id": "381ocda8t8",
+  "category": "variety",
+  "title": "日テレ＋「明日はまる見え」",
+  "fullTitle": "日テレ＋「明日はまる見え」",
+  "detail": "",
+  "start": 1701608040000,
+  "end": 1701608400000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "明日はまる見え",
+  "episode": 1,
+  "flags": []
+}
