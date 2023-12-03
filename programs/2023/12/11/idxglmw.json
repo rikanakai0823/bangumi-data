@@ -1,0 +1,25 @@
+{
+  "id": "idxglmw",
+  "category": "sports",
+  "title": "第30回 BFAアジア野球選手権",
+  "fullTitle": "[初]第30回 BFAアジア野球選手権",
+  "detail": "【侍ジャパン社会人代表出場！】",
+  "start": 1702288800000,
+  "end": 1702301400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "BFAアジア野球選手権",
+  "episode": 30,
+  "flags": [
+    "初"
+  ]
+}
