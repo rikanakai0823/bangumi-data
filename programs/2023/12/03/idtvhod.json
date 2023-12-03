@@ -1,0 +1,23 @@
+{
+  "id": "idtvhod",
+  "category": "information",
+  "title": "ベルーナＴＶショッピング",
+  "fullTitle": "ベルーナＴＶショッピング",
+  "detail": "",
+  "start": 1701564900000,
+  "end": 1701565200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
