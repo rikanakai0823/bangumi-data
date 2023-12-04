@@ -1,12 +1,18 @@
 {
   "id": "36rdttjrr0",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "title": "洋楽天国＋▽ポスト・マローン特集",
+  "fullTitle": "洋楽天国＋▽ポスト・マローン特集",
+  "detail": "５作目となるスタジオ・アルバム「オースティン」をリリースしたポスト・マローンを特集！\n◇番組内容\n昨年８月サマーソニックのヘッドライナーを務めたポスト・マローンが５作目となるスタジオ・アルバム「オースティン」をリリース！ニュー・アルバムからの楽曲に加え、過去のヒット曲のミュージックビデオを紹介！！\n◇選曲１\n\"Circles\"POST MALONE\r\n\"Congratulations\"POST MALONE feat.QUAVO\r\n\"Cooped Up\"POST MALONE feat.RODDY RICCH\r\n\"I Like You (A Happier Song)\"POST MALONE feat.DOJA CAT\r\n\"Motley Crew\"POST MALONE\n◇選曲２\n\"Overdrive (Official Live Performance)\"POST MALONE\r\n\"Mourning\"POST MALONE\r\n\"Chemical\"POST MALONE",
   "start": 1702173600000,
   "end": 1702175400000,
   "seconds": 1800,
+  "description": "５作目となるスタジオ・アルバム「オースティン」をリリースしたポスト・マローンを特集！",
+  "extra": {
+    "番組内容": "昨年８月サマーソニックのヘッドライナーを務めたポスト・マローンが５作目となるスタジオ・アルバム「オースティン」をリリース！ニュー・アルバムからの楽曲に加え、過去のヒット曲のミュージックビデオを紹介！！",
+    "選曲１": "\"Circles\"POST MALONE\r\n\"Congratulations\"POST MALONE feat.QUAVO\r\n\"Cooped Up\"POST MALONE feat.RODDY RICCH\r\n\"I Like You (A Happier Song)\"POST MALONE feat.DOJA CAT\r\n\"Motley Crew\"POST MALONE",
+    "選曲２": "\"Overdrive (Official Live Performance)\"POST MALONE\r\n\"Mourning\"POST MALONE\r\n\"Chemical\"POST MALONE"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 5
   },
-  "subTitle": "",
+  "subTitle": "オースティン",
   "episode": 1,
   "flags": []
 }
