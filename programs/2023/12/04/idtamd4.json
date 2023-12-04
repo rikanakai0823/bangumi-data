@@ -1,0 +1,25 @@
+{
+  "id": "idtamd4",
+  "category": "information",
+  "title": "ミライの歩き方　１１０番映像通報システム",
+  "fullTitle": "ミライの歩き方　１１０番映像通報システム🈑",
+  "detail": "事件や事故を目撃した際にスマホで撮影しながら警察に伝えられるのが「110番映像通報システム」。予め撮影した映像も送れたり、GPSで位置まで伝えて迅速な事件解決！",
+  "start": 1701694440000,
+  "end": 1701694800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "110番映像通報システム",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
