@@ -3,10 +3,14 @@
   "category": "information",
   "title": "チョコプラの超ヒット商品研究所",
   "fullTitle": "チョコプラの超ヒット商品研究所🈖🈑",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://shopping.tbs.co.jp/tbs/shop/tv_top/chocoken",
   "start": 1702189800000,
   "end": 1702193400000,
   "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://shopping.tbs.co.jp/tbs/shop/tv_top/chocoken"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
