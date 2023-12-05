@@ -1,12 +1,17 @@
 {
   "id": "381ocd83qa",
   "category": "music",
-  "title": "Ｍｕｓｉｃ　ＦＲＯＮＴＩＥＲ",
-  "fullTitle": "Ｍｕｓｉｃ　ＦＲＯＮＴＩＥＲ",
-  "detail": "",
+  "title": "Ｍｕｓｉｃ　ＦＲＯＮＴＩＥＲ▼JO1がWOW WAR TONIGHTのカバー密着",
+  "fullTitle": "Ｍｕｓｉｃ　ＦＲＯＮＴＩＥＲ▼JO1がWOW WAR TONIGHTのカバー密着",
+  "detail": "人気アーティストＪＯ１が95年のＷミリオンのヒット曲「WOW WAR TONIGHT」をカバー！レコーディング・ダンス制作・べストアーティストでの初披露を密着！\n◇出演者\nJO1\r\n浜田雅功\r\nKep1er\n◇番組内容\n「アーティスト」と「番組」がダッグを組み、新たな音楽を開拓！生み出してゆく！スピリッツ溢れる音楽番組MUSIC FRONTIER\r\n\r\nJO1を主人公に「WOW WAR TONIGHT～時には起こせよムーヴメント」をカバー！JO1らしさを取り入れ「新たな振り付け」「新たなラップ」サウンド面や視覚的要素も含め「JO1版WOW WAR TONIGHT」を生み出す舞台裏をお届けします！",
   "start": 1701964740000,
   "end": 1701966540000,
   "seconds": 1800,
+  "description": "人気アーティストＪＯ１が95年のＷミリオンのヒット曲「WOW WAR TONIGHT」をカバー！レコーディング・ダンス制作・べストアーティストでの初披露を密着！",
+  "extra": {
+    "出演者": "JO1\r\n浜田雅功\r\nKep1er",
+    "番組内容": "「アーティスト」と「番組」がダッグを組み、新たな音楽を開拓！生み出してゆく！スピリッツ溢れる音楽番組MUSIC FRONTIER\r\n\r\nJO1を主人公に「WOW WAR TONIGHT～時には起こせよムーヴメント」をカバー！JO1らしさを取り入れ「新たな振り付け」「新たなラップ」サウンド面や視覚的要素も含め「JO1版WOW WAR TONIGHT」を生み出す舞台裏をお届けします！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
+  "subTitle": "WOW WAR TONIGHT",
   "episode": 1,
   "flags": []
 }
