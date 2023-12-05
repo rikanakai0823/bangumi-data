@@ -3,10 +3,14 @@
   "category": "information",
   "title": "いまドキッ！埼玉🈐",
   "fullTitle": "いまドキッ！埼玉🈐🅂",
-  "detail": "",
+  "detail": "狩猟でつなぐ  狩猟がつながるin横瀬▽埼玉のスゴ腕職人「竹細工職人」\n◇出演者\n司会：松井咲子　リポーター：カナイ　才木玲佳　ナレーター：岡本寛志",
   "start": 1702078200000,
   "end": 1702080000000,
   "seconds": 1800,
+  "description": "狩猟でつなぐ  狩猟がつながるin横瀬▽埼玉のスゴ腕職人「竹細工職人」",
+  "extra": {
+    "出演者": "司会：松井咲子　リポーター：カナイ　才木玲佳　ナレーター：岡本寛志"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 13
   },
-  "subTitle": "",
+  "subTitle": "竹細工職人",
   "episode": 1,
   "flags": [
     "S"
