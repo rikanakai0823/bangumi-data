@@ -1,0 +1,25 @@
+{
+  "id": "idsk8ki",
+  "category": "hobby",
+  "title": "美しい日本に出会う旅",
+  "fullTitle": "🈑美しい日本に出会う旅",
+  "detail": "",
+  "start": 1702468800000,
+  "end": 1702472040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idw6ww6",
+  "category": "information",
+  "title": "ＢＳ１２ガイド",
+  "fullTitle": "ＢＳ１２ガイド",
+  "detail": "１２月のおすすめ番組をご紹介！",
+  "start": 1702418040000,
+  "end": 1702418400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_2",
+    "name": "ＢＳ１２トゥエルビ",
+    "id": "8kta",
+    "sid": 222,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
