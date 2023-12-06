@@ -1,0 +1,23 @@
+{
+  "id": "idtamei",
+  "category": "news",
+  "title": "モーサテ【相場サイクルを読み解く】",
+  "fullTitle": "モーサテ【相場サイクルを読み解く】",
+  "detail": "世界の経済ニュースやマーケットの情報をいち早くお伝えします！",
+  "start": 1701809100000,
+  "end": 1701813900000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "相場サイクルを読み解く",
+  "episode": 1,
+  "flags": []
+}
