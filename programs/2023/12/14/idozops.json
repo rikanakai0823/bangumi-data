@@ -1,0 +1,25 @@
+{
+  "id": "idozops",
+  "category": "information",
+  "title": "Ｄｉｇ　Ｍｏｒｅ　Ｊａｐａｎ　土地が育む食文化",
+  "fullTitle": "Ｄｉｇ　Ｍｏｒｅ　Ｊａｐａｎ　土地が育む食文化🈑",
+  "detail": "日本を深堀りするＤｉｇ　Ｍｏｒｅ　Ｊａｐａｎ。ＮＨＫワールドジャパンの様々な番組をギュギュッと凝縮して紹介します。今回のテーマは「土地が育む食文化」です。",
+  "start": 1702535700000,
+  "end": 1702536300000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "土地が育む食文化",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

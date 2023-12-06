@@ -1,0 +1,23 @@
+{
+  "id": "idy00wm",
+  "category": "sports",
+  "title": "エキサイトマッチ～世界プロボクシング C・アダメスvsJ・ウィリアムス",
+  "fullTitle": "エキサイトマッチ～世界プロボクシング C・アダメスvsJ・ウィリアムス",
+  "detail": "ボクシング主要4団体のタイトルマッチやビッグマッチを中心に、世界最高レベルの戦いを放送。",
+  "start": 1702548000000,
+  "end": 1702555200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

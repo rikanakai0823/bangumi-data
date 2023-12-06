@@ -1,0 +1,25 @@
+{
+  "id": "idy8luk",
+  "category": "anime",
+  "title": "アウルハウス#42",
+  "fullTitle": "アウルハウス#42🈔",
+  "detail": "#42「未来のために」",
+  "start": 1702549800000,
+  "end": 1702553400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "未来のために",
+  "episode": 42,
+  "flags": [
+    "二"
+  ]
+}

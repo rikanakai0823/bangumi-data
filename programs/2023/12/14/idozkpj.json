@@ -1,0 +1,23 @@
+{
+  "id": "idozkpj",
+  "category": "etc",
+  "title": "世界ふれあい街歩き選",
+  "fullTitle": "世界ふれあい街歩き選",
+  "detail": "",
+  "start": 1702544400000,
+  "end": 1702548000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

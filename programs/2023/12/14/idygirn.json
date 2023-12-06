@@ -1,0 +1,23 @@
+{
+  "id": "idygirn",
+  "category": "information",
+  "title": "ＱＶＣショッピング",
+  "fullTitle": "ＱＶＣショッピング",
+  "detail": "ときめきとワクワクに満ちあふれた、魅力的なお買い物体験をご一緒に。",
+  "start": 1702486800000,
+  "end": 1702490400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

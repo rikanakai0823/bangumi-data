@@ -1,0 +1,25 @@
+{
+  "id": "idy8ltg",
+  "category": "anime",
+  "title": "アウルハウス#5",
+  "fullTitle": "アウルハウス#5🈔",
+  "detail": "#5「魔法団の大会」",
+  "start": 1702483200000,
+  "end": 1702485000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "魔法団の大会",
+  "episode": 5,
+  "flags": [
+    "二"
+  ]
+}
