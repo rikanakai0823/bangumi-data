@@ -1,0 +1,23 @@
+{
+  "id": "36rdttn35l",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽あなたにエールを！星座占い▽話題の分譲物件・グランディハウス▽祭物語▽天気▽今週のテーマ「私の今年の漢字」",
+  "start": 1701847800000,
+  "end": 1701849600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "私の今年の漢字",
+  "episode": 1,
+  "flags": []
+}
