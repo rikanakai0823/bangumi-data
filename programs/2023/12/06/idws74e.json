@@ -1,0 +1,23 @@
+{
+  "id": "idws74e",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「生活知と科学知('09)第１３回・１４回・１５回」",
+  "start": 1701858600000,
+  "end": 1701866700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "生活知と科学知('09)第１３回・１４回・１５回",
+  "episode": 13,
+  "flags": []
+}
