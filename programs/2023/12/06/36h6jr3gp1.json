@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3gp1",
+  "category": "documentary",
+  "title": "ＭＩＤＴＶ",
+  "fullTitle": "ＭＩＤＴＶ🅂",
+  "detail": "ジョンソンタウン（第３回）",
+  "start": 1701866700000,
+  "end": 1701867600000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "S"
+  ]
+}
