@@ -1,0 +1,23 @@
+{
+  "id": "idwte5m",
+  "category": "hobby",
+  "title": "はじめての気象学　第10回",
+  "fullTitle": "はじめての気象学　第10回",
+  "detail": "「積乱雲の起こす嵐」",
+  "start": 1701958500000,
+  "end": 1701961200000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "積乱雲の起こす嵐",
+  "episode": 10,
+  "flags": []
+}
