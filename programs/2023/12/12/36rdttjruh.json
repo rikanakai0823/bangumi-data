@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Ballad Of A Misspent Youth\"TUK SMITH & THE RESTLESS HEARTS\r\n\"I'm So Sorry\"KITTY, DAISY & LEWIS\r\n\"Baby Bye Bye\"KITTY, DAISY & LEWIS\r\n\"Down On My Knees\"KITTY, DAISY & LEWIS\n◇番組内容２\n\"Death Wobbles\"CODY JON\r\n\"VALENTINE\"MANESKIN",
   "start": 1702306800000,
   "end": 1702308600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Ballad Of A Misspent Youth\"TUK SMITH & THE RESTLESS HEARTS\r\n\"I'm So Sorry\"KITTY, DAISY & LEWIS\r\n\"Baby Bye Bye\"KITTY, DAISY & LEWIS\r\n\"Down On My Knees\"KITTY, DAISY & LEWIS",
+    "番組内容２": "\"Death Wobbles\"CODY JON\r\n\"VALENTINE\"MANESKIN"
   },
   "channel": {
     "type": "GR",
