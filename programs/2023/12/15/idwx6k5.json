@@ -1,0 +1,25 @@
+{
+  "id": "idwx6k5",
+  "category": "sports",
+  "title": "トラックマンTV #624",
+  "fullTitle": "🈞トラックマンTV #624",
+  "detail": "「朝日杯ＦＳ（Ｇ１）、ターコイズＳ（Ｇ３）、タンザナイトＳ、他　展望」",
+  "start": 1702650600000,
+  "end": 1702656000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "朝日杯ＦＳ（Ｇ１）、ターコイズＳ（Ｇ３）、タンザナイトＳ、他　展望",
+  "episode": 624,
+  "flags": [
+    "再"
+  ]
+}
