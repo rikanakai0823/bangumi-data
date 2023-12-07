@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksje1",
+  "category": "news",
+  "title": "国会中継",
+  "fullTitle": "国会中継🈑",
+  "detail": "",
+  "start": 1701993600000,
+  "end": 1702004040000,
+  "seconds": 10440,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
