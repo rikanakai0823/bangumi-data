@@ -1,0 +1,25 @@
+{
+  "id": "3826py3dah",
+  "category": "anime",
+  "title": "ヴァンガード　特番",
+  "fullTitle": "ヴァンガード　特番🈑",
+  "detail": "特番を放送します。",
+  "start": 1702681200000,
+  "end": 1702683000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idozljr",
+  "category": "documentary",
+  "title": "究極ガイド　２時間でまわる国立科学博物館",
+  "fullTitle": "究極ガイド　２時間でまわる国立科学博物館🅍🅂🈑",
+  "detail": "今回は国立科学博物館。恐竜から宇宙船まで、生命の進化や科学技術に関する展示が２万点。科学の殿堂を２時間で味わい尽くす。【語り】田中直樹・木村文乃",
+  "start": 1702728000000,
+  "end": 1702735200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "語り",
+  "episode": 1,
+  "flags": [
+    "SS",
+    "S",
+    "字"
+  ]
+}
