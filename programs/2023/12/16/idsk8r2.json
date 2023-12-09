@@ -3,10 +3,14 @@
   "category": "information",
   "title": "デジタル一番星＋",
   "fullTitle": "デジタル一番星＋",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1702734840000,
   "end": 1702735200000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

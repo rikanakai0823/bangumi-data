@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ＮＨＫ・民放５局　１２月は４Ｋ８Ｋ衛星放送　開局５周年キャンペーン",
   "fullTitle": "🈑ＮＨＫ・民放５局　１２月は４Ｋ８Ｋ衛星放送　開局５周年キャンペーン",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1702715400000,
   "end": 1702716300000,
   "seconds": 900,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
