@@ -1,0 +1,23 @@
+{
+  "id": "3826py5i6y",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10ＲアクアラインＳ、11Ｒ常総Ｓ\r\n【阪神】10Ｒ赤穂特別、11ＲリゲルＳ（L）\r\n【中京】11Ｒ中日新聞杯（ＧⅢ）",
+  "start": 1702101600000,
+  "end": 1702105200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
