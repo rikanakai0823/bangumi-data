@@ -1,0 +1,26 @@
+{
+  "id": "iduvmkr",
+  "category": "cinema",
+  "title": "【最新作】ニューオーダー",
+  "fullTitle": "【最新作】🈙🅍ニューオーダー",
+  "detail": "ヴェネチア国際映画祭審査員大賞に輝いたディストピアスリラー。貧富の格差に対する抗議運動が、社会秩序の崩壊を引き起こす。",
+  "start": 1702822500000,
+  "end": 1702828800000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

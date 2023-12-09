@@ -1,0 +1,26 @@
+{
+  "id": "iduvm7p",
+  "category": "cinema",
+  "title": "ライダーズ・オブ・ジャスティス",
+  "fullTitle": "🈙🅍ライダーズ・オブ・ジャスティス",
+  "detail": "マッツ・ミケルセン主演のアクションサスペンス。妻を失った軍人が、事件の真相を知る数学者の協力を得て犯罪組織に復讐を挑む。",
+  "start": 1702806300000,
+  "end": 1702814400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

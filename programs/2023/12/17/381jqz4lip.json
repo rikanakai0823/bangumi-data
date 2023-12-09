@@ -1,0 +1,23 @@
+{
+  "id": "381jqz4lip",
+  "category": "sports",
+  "title": "第７５回日本ハンドボール選手権",
+  "fullTitle": "第７５回日本ハンドボール選手権",
+  "detail": "男子決勝　～宮城県・仙台市から中継～",
+  "start": 1702792740000,
+  "end": 1702795200000,
+  "seconds": 2460,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": 75,
+  "flags": []
+}

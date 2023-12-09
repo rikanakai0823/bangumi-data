@@ -1,0 +1,23 @@
+{
+  "id": "idp1rc5",
+  "category": "sports",
+  "title": "第７８回甲子園ボウル",
+  "fullTitle": "第７８回甲子園ボウル",
+  "detail": "",
+  "start": 1702792800000,
+  "end": 1702796400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 78,
+  "flags": []
+}
