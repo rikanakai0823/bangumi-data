@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "アスリートＤａｙｓ",
   "fullTitle": "アスリートＤａｙｓ",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1702782000000,
   "end": 1702783800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
