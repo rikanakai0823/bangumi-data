@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8loms",
+  "category": "news",
+  "title": "ヒーリングタイム＆ヘッドラインニュース",
+  "fullTitle": "ヒーリングタイム＆ヘッドラインニュース",
+  "detail": "ミュージアムクルーズ２",
+  "start": 1702920900000,
+  "end": 1702922400000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

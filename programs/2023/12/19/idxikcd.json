@@ -1,0 +1,25 @@
+{
+  "id": "idxikcd",
+  "category": "sports",
+  "title": "バドミントン ワールドツアー ファイナルズ2023 準決勝",
+  "fullTitle": "[初]バドミントン ワールドツアー ファイナルズ2023 準決勝",
+  "detail": "開催日：2023年12月16日(現地)\r\n会場：杭州市，中国",
+  "start": 1702962000000,
+  "end": 1702990800000,
+  "seconds": 28800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}
