@@ -1,0 +1,25 @@
+{
+  "id": "3826py3ebu",
+  "category": "information",
+  "title": "テレ東エンタメ情報",
+  "fullTitle": "テレ東エンタメ情報🈑",
+  "detail": "とっておきの情報をお届け！",
+  "start": 1702713300000,
+  "end": 1702714500000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
