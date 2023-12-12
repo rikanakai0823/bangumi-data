@@ -1,0 +1,25 @@
+{
+  "id": "381f5kujby",
+  "category": "news",
+  "title": "ひるまえほっと",
+  "fullTitle": "ひるまえほっと🈑",
+  "detail": "▽横浜局「世界の音を奏でるＳａｉｇｅｎｊｉさん」▽さいたま局「“浦和画家”とは？知られざる芸術の街をめぐる」▽千葉局「ねっとりあま～い香取のさつまいも」",
+  "start": 1702348200000,
+  "end": 1702349640000,
+  "seconds": 1440,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
