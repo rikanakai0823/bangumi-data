@@ -1,0 +1,23 @@
+{
+  "id": "idwx6o2",
+  "category": "sports",
+  "title": "今日の調教 #755",
+  "fullTitle": "今日の調教 #755",
+  "detail": "「有馬記念、阪神Ｃ　他」",
+  "start": 1703077200000,
+  "end": 1703079000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "有馬記念、阪神Ｃ　他",
+  "episode": 755,
+  "flags": []
+}

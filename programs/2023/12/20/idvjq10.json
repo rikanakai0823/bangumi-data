@@ -1,0 +1,25 @@
+{
+  "id": "idvjq10",
+  "category": "sports",
+  "title": "ＢＳイレブン住之江ボートレース中継",
+  "fullTitle": "🈢ＢＳイレブン住之江ボートレース中継",
+  "detail": "『SG第38回グランプリ』２日目のレース模様を、実況生中継！\r\n企画も盛りだくさんに、ボートレースの楽しさを発信します！",
+  "start": 1703070000000,
+  "end": 1703073480000,
+  "seconds": 3480,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 38,
+  "flags": [
+    "生"
+  ]
+}

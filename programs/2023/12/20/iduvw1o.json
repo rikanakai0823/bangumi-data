@@ -1,0 +1,25 @@
+{
+  "id": "iduvw1o",
+  "category": "drama",
+  "title": "ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃１",
+  "fullTitle": "🅍ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃１",
+  "detail": "【ＳＴＡＲ　ＤＲＡＭＡ　１１】【レギュラー放送スタート】",
+  "start": 1703080800000,
+  "end": 1703084400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

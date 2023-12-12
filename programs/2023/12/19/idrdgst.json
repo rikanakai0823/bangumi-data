@@ -3,10 +3,16 @@
   "category": "music",
   "title": "新・３人の歌仲間 with DAM CHANNEL 演歌",
   "fullTitle": "新・３人の歌仲間 with DAM CHANNEL 演歌",
-  "detail": "",
+  "detail": "◇番組内容\n毎月開催されるコンサート「３人の歌仲間」とカラオケDAMで配信中の「DAM CHANNEL 演歌」がコラボした番組です。最新の音楽情報とライブショーをお楽しみください！\n◇出演者\n岩佐美咲　ほか\n◇ホームページ\nhttps://www.bs4.jp/damchannel/",
   "start": 1702929600000,
   "end": 1702931400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "毎月開催されるコンサート「３人の歌仲間」とカラオケDAMで配信中の「DAM CHANNEL 演歌」がコラボした番組です。最新の音楽情報とライブショーをお楽しみください！",
+    "出演者": "岩佐美咲　ほか",
+    "ホームページ": "https://www.bs4.jp/damchannel/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",

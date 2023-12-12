@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwomf",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "西武台千葉高校演劇部\r\n「演と円」\r\n「赤ずきん」",
+  "start": 1703060100000,
+  "end": 1703062200000,
+  "seconds": 2100,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
