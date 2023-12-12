@@ -1,0 +1,23 @@
+{
+  "id": "idws2tk",
+  "category": "hobby",
+  "title": "情報セキュリティ概論　第11回",
+  "fullTitle": "情報セキュリティ概論　第11回",
+  "detail": "「インターネットでのトラブル」",
+  "start": 1702336500000,
+  "end": 1702339200000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "インターネットでのトラブル",
+  "episode": 11,
+  "flags": []
+}
