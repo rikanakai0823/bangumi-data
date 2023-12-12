@@ -1,12 +1,17 @@
 {
   "id": "381ocd83vm",
   "category": "variety",
-  "title": "ＯＵＴ　ＯＦ　４８",
-  "fullTitle": "ＯＵＴ　ＯＦ　４８",
-  "detail": "",
+  "title": "ＯＵＴ　ＯＦ　４８　＃３５UNLAME　チャレンジ企画「踊ってみた」",
+  "fullTitle": "ＯＵＴ　ＯＦ　４８　＃３５UNLAME　チャレンジ企画「踊ってみた」",
+  "detail": "オーディション「OUT OF 48」で選ばれた７人組ガールズグループ「UNLAME」初の地上波番組。チャレンジ企画「踊ってみた」！hanaからの課題曲に挑戦！\n◇出演者\nUNLAME（HINANO／HIYUKA／NARUMI／SAE／SUZUKA／YUI／YUKA）\n◇番組内容\nAKB48と数千人の一般応募者が競い合ったオーディション「OUT　OF　 48」によって選び抜かれた7人組ガールズグループ「UNLAME（アンレイム）」初の地上波番組▽hanaが基礎からダンスレッスン▽チャレンジ企画「踊ってみた」！▽hanaからの課題曲「I love My Body(HWASA)」！難曲に挑戦！▽",
   "start": 1702571340000,
   "end": 1702573140000,
   "seconds": 1800,
+  "description": "オーディション「OUT OF 48」で選ばれた７人組ガールズグループ「UNLAME」初の地上波番組。チャレンジ企画「踊ってみた」！hanaからの課題曲に挑戦！",
+  "extra": {
+    "出演者": "UNLAME（HINANO／HIYUKA／NARUMI／SAE／SUZUKA／YUI／YUKA）",
+    "番組内容": "AKB48と数千人の一般応募者が競い合ったオーディション「OUT　OF　 48」によって選び抜かれた7人組ガールズグループ「UNLAME（アンレイム）」初の地上波番組▽hanaが基礎からダンスレッスン▽チャレンジ企画「踊ってみた」！▽hanaからの課題曲「I love My Body(HWASA)」！難曲に挑戦！▽"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "踊ってみた",
+  "episode": 35,
   "flags": []
 }
