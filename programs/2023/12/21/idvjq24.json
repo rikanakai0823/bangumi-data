@@ -1,0 +1,27 @@
+{
+  "id": "idvjq24",
+  "category": "news",
+  "title": "報道ライブ インサイドOUT",
+  "fullTitle": "🈢報道ライブ インサイドOUT🄽🈓",
+  "detail": "国内外の政治・経済や医療・健康・スポーツなどをテーマに、「いま知りたいこと」を「より分かりやすく」お伝えします。",
+  "start": 1703160000000,
+  "end": 1703163240000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生",
+    "N",
+    "デ"
+  ]
+}

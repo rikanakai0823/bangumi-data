@@ -1,0 +1,23 @@
+{
+  "id": "idxglqs",
+  "category": "sports",
+  "title": "第75回全日本大学バスケットボール選手権 男子決勝",
+  "fullTitle": "第75回全日本大学バスケットボール選手権 男子決勝",
+  "detail": "開催日：2023年12月17日\r\n会場：太田市総合体育館",
+  "start": 1703149200000,
+  "end": 1703156400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 75,
+  "flags": []
+}
