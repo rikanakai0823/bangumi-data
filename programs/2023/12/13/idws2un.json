@@ -1,0 +1,23 @@
+{
+  "id": "idws2un",
+  "category": "hobby",
+  "title": "教育のためのICT活用　第11回",
+  "fullTitle": "教育のためのICT活用　第11回",
+  "detail": "「放送大学・インターネット大学」",
+  "start": 1702474200000,
+  "end": 1702476900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "放送大学・インターネット大学",
+  "episode": 11,
+  "flags": []
+}
