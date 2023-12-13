@@ -3,10 +3,14 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ🈞",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\nJUDAS PRIEST /Trial By Fire\r\nHOT MILKインタビュー\r\nHOT MILK / Horror Show\r\nHOT MILK /Glass Spiders\r\nBLIND CHANNEL /Die Another Day(feat. RORY)",
   "start": 1702915200000,
   "end": 1702917000000,
   "seconds": 1800,
+  "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "extra": {
+    "番組内容": "JUDAS PRIEST /Trial By Fire\r\nHOT MILKインタビュー\r\nHOT MILK / Horror Show\r\nHOT MILK /Glass Spiders\r\nBLIND CHANNEL /Die Another Day(feat. RORY)"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
