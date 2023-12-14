@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容１\n\"Always On The Road\"Sury Su  スー・ルイチー\r\n\"orbit\"HENRY MOODIE\r\n\"You\"LOLA BROOKE feat.BRYSON TILLER\r\n\"Hop Out The Van\"OFFSET\n◇番組内容２\n\"8am In Charlotte\"DRAKE\r\n\"Sand\"DOVE CAMERON\r\n\"Is It Over Now? (Taylor's Version) (From The Vault) (Lyric Video)\"TAYLOR SWIFT",
   "start": 1702911600000,
   "end": 1702913400000,
   "seconds": 1800,
+  "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
+  "extra": {
+    "番組内容１": "\"Always On The Road\"Sury Su  スー・ルイチー\r\n\"orbit\"HENRY MOODIE\r\n\"You\"LOLA BROOKE feat.BRYSON TILLER\r\n\"Hop Out The Van\"OFFSET",
+    "番組内容２": "\"8am In Charlotte\"DRAKE\r\n\"Sand\"DOVE CAMERON\r\n\"Is It Over Now? (Taylor's Version) (From The Vault) (Lyric Video)\"TAYLOR SWIFT"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
