@@ -1,0 +1,31 @@
+{
+  "id": "38224jvinc",
+  "category": "music",
+  "title": "ミュージックステーション　ＳＵＰＥＲ　ＬＩＶＥ　２０２３",
+  "fullTitle": "ミュージックステーション　ＳＵＰＥＲ　ＬＩＶＥ　２０２３🈓🈑",
+  "detail": "４時間超の生放送！\n◇◇司会\n【MC】タモリ\r\n【サブMC】鈴木新彩（テレビ朝日アナウンサー）\n◇◇おしらせ\n☆Ｘ（旧Twitter）、Instagramにも新情報＆SP動画が続々！「Ｍステ」で検索！\r\n\r\n☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/music/",
+  "start": 1703237400000,
+  "end": 1703254200000,
+  "seconds": 16800,
+  "description": "４時間超の生放送！",
+  "extra": {
+    "◇司会": "【MC】タモリ\r\n【サブMC】鈴木新彩（テレビ朝日アナウンサー）",
+    "◇おしらせ": "☆Ｘ（旧Twitter）、Instagramにも新情報＆SP動画が続々！「Ｍステ」で検索！\r\n\r\n☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/music/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "デ",
+    "字"
+  ]
+}

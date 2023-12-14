@@ -1,0 +1,28 @@
+{
+  "id": "36rdttjsok",
+  "category": "news",
+  "title": "ｔｖｋニュースハーバー",
+  "fullTitle": "ｔｖｋニュースハーバー",
+  "detail": "▽ｔｖｋニュース▽あすの天気予報\r\n【キャスター】増田美香（ｔｖｋアナウンサー）\n◇特集１\n。\n◇特集２\n。",
+  "start": 1703235600000,
+  "end": 1703237400000,
+  "seconds": 1800,
+  "description": "▽ｔｖｋニュース▽あすの天気予報\r\n【キャスター】増田美香（ｔｖｋアナウンサー）",
+  "extra": {
+    "特集１": "。",
+    "特集２": "。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
