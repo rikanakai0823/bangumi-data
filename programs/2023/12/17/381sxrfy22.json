@@ -1,12 +1,17 @@
 {
   "id": "381sxrfy22",
   "category": "variety",
-  "title": "「爆笑！明石家さんまのご長寿グランプリ２０２３」ナビ",
-  "fullTitle": "「爆笑！明石家さんまのご長寿グランプリ２０２３」ナビ🈑",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "title": "２２日（金）よる６時半からは「爆笑！明石家さんまのご長寿グランプリ２０２３」",
+  "fullTitle": "２２日（金）よる６時半からは「爆笑！明石家さんまのご長寿グランプリ２０２３」🈑",
+  "detail": "今年もご長寿早押しクイズで笑い納め！爆笑連発の地方予選＆最強ご長寿５人で頂上決戦▽過去の自分に贈るご長寿ビデオレター！深～い名言の数々に感動\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/gochouju_20201227/\r\n◇公式Twitter\r\n@sanma_gochouju\r\nhttps://twitter.com/sanma_gochouju\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1702787400000,
   "end": 1702790640000,
   "seconds": 3240,
+  "description": "今年もご長寿早押しクイズで笑い納め！爆笑連発の地方予選＆最強ご長寿５人で頂上決戦▽過去の自分に贈るご長寿ビデオレター！深～い名言の数々に感動",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/gochouju_20201227/\r\n◇公式Twitter\r\n@sanma_gochouju\r\nhttps://twitter.com/sanma_gochouju",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 24
   },
-  "subTitle": "",
+  "subTitle": "爆笑！明石家さんまのご長寿グランプリ２０２３",
   "episode": 1,
   "flags": [
     "字"
