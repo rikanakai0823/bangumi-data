@@ -1,0 +1,25 @@
+{
+  "id": "idskacs",
+  "category": "information",
+  "title": "郷愁の街角ラーメン▽京都・四条烏丸「萬福」",
+  "fullTitle": "🈑郷愁の街角ラーメン▽京都・四条烏丸「萬福」",
+  "detail": "古い木造２階建ての一軒家。うどんや丼物などを出す食堂だがラーメンが人気。４代目は元フレンチの料理人としての経験を生かし、昭和初期から続くラーメンを一新した。",
+  "start": 1703341800000,
+  "end": 1703342700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "萬福",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

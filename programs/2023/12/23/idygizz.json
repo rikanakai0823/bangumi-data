@@ -1,0 +1,23 @@
+{
+  "id": "idygizz",
+  "category": "theater",
+  "title": "歌舞伎傑作選「寿曽我対面」「女暫」",
+  "fullTitle": "歌舞伎傑作選「寿曽我対面」「女暫」",
+  "detail": "",
+  "start": 1703264400000,
+  "end": 1703271600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "女暫",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idozs1b",
+  "category": "music",
+  "title": "さわやかウインドー「幻想　白川郷」",
+  "fullTitle": "さわやかウインドー「幻想　白川郷」",
+  "detail": "",
+  "start": 1703266200000,
+  "end": 1703268000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "幻想　白川郷",
+  "episode": 1,
+  "flags": []
+}
