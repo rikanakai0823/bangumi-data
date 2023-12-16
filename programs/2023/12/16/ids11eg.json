@@ -1,0 +1,25 @@
+{
+  "id": "ids11eg",
+  "category": "information",
+  "title": "NHK・民放5局 12月は4K8K衛星放送 開局5周年キャンペーン",
+  "fullTitle": "🈑NHK・民放5局 12月は4K8K衛星放送 開局5周年キャンペーン",
+  "detail": "12月は民放5社とNHKがタッグを組んでBS4K8Kの開局5周年を記念したキャンペーンを開催中！4K8Kの魅力や各局が誇る珠玉のラインアップを一挙に紹介する！",
+  "start": 1702684800000,
+  "end": 1702685700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
