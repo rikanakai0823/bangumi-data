@@ -1,0 +1,23 @@
+{
+  "id": "idwq205",
+  "category": "hobby",
+  "title": "日本語基礎A",
+  "fullTitle": "日本語基礎A",
+  "detail": "「第１３回　東京の水道－水を安全に届ける－」",
+  "start": 1703400300000,
+  "end": 1703403000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "東京の水道－水を安全に届ける－",
+  "episode": 13,
+  "flags": []
+}

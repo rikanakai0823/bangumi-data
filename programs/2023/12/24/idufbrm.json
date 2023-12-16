@@ -1,0 +1,25 @@
+{
+  "id": "idufbrm",
+  "category": "sports",
+  "title": "ＵＥＦＡ　ＣＬ　Ｍａｔｃｈｄａｙ　５",
+  "fullTitle": "ＵＥＦＡ　ＣＬ　Ｍａｔｃｈｄａｙ　５🈔",
+  "detail": "欧州Ｎｏ．１サッカークラブを決める大会のグループステージから決勝までを独占生放送＆ライブ配信！強豪クラブ同士によって争われる世界最高峰の戦いを見逃すな！",
+  "start": 1703397600000,
+  "end": 1703404800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwozh",
+  "category": "music",
+  "title": "とうきゅうクリスマスコンサート",
+  "fullTitle": "とうきゅうクリスマスコンサート🈞",
+  "detail": " ",
+  "start": 1703394000000,
+  "end": 1703397300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
