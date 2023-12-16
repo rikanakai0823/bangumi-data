@@ -3,10 +3,15 @@
   "category": "information",
   "title": "よしもと INFORMATION",
   "fullTitle": "よしもと INFORMATION",
-  "detail": "BSよしもとで放送中のおすすめ番組や、よしもとのイベント情報、そしてイチオシのミュージックビデオをご紹介！",
+  "detail": "BSよしもとで放送中のおすすめ番組や、よしもとのイベント情報、そしてイチオシのミュージックビデオをご紹介！\n◇【番組内容】\nBSよしもとで放送中のおすすめ番組や、よしもとのイベント情報、そしてイチオシのミュージックビデオをご紹介！\n◇【お知らせ】\nBSよしもとの番組情報はコチラから！\r\n◆BSよしもとWebサイト\r\nhttps://bsy.co.jp/\r\n◆BSよしもとTwitter\r\n@bsyoshimoto\r\n◆BSよしもとYouTube\r\nhttps://www.youtube.com/@bsyoshimoto/videos",
   "start": 1703343000000,
   "end": 1703343600000,
   "seconds": 600,
+  "description": "BSよしもとで放送中のおすすめ番組や、よしもとのイベント情報、そしてイチオシのミュージックビデオをご紹介！",
+  "extra": {
+    "【番組内容】": "BSよしもとで放送中のおすすめ番組や、よしもとのイベント情報、そしてイチオシのミュージックビデオをご紹介！",
+    "【お知らせ】": "BSよしもとの番組情報はコチラから！\r\n◆BSよしもとWebサイト\r\nhttps://bsy.co.jp/\r\n◆BSよしもとTwitter\r\n@bsyoshimoto\r\n◆BSよしもとYouTube\r\nhttps://www.youtube.com/@bsyoshimoto/videos"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS23_1",
