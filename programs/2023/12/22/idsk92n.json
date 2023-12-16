@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "世界の窓",
   "fullTitle": "世界の窓",
-  "detail": "",
+  "detail": "◇制作\nＴＢＳビジョン",
   "start": 1703253240000,
   "end": 1703253600000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "ＴＢＳビジョン"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
