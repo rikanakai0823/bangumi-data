@@ -1,0 +1,25 @@
+{
+  "id": "idxikf3",
+  "category": "sports",
+  "title": "高校バスケ ウインターカップ2023(Cコート)男子2回戦",
+  "fullTitle": "[生]高校バスケ ウインターカップ2023(Cコート)男子2回戦",
+  "detail": "開催日：2023年12月25日\r\n会場：東京体育館",
+  "start": 1703474100000,
+  "end": 1703500200000,
+  "seconds": 26100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

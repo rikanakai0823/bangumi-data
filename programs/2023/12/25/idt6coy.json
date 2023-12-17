@@ -1,0 +1,23 @@
+{
+  "id": "idt6coy",
+  "category": "information",
+  "title": "ガイド",
+  "fullTitle": "ガイド",
+  "detail": "",
+  "start": 1703512500000,
+  "end": 1703512800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
