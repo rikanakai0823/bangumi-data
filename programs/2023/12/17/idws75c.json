@@ -1,0 +1,23 @@
+{
+  "id": "idws75c",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「宇宙線・年輪・Ｃ１４」",
+  "start": 1702790100000,
+  "end": 1702792800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "宇宙線・年輪・Ｃ１４",
+  "episode": 1,
+  "flags": []
+}
