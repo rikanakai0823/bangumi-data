@@ -1,0 +1,23 @@
+{
+  "id": "381ocd843y",
+  "category": "sports",
+  "title": "夜な夜な箱根駅伝",
+  "fullTitle": "夜な夜な箱根駅伝",
+  "detail": "",
+  "start": 1703519640000,
+  "end": 1703519940000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

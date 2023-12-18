@@ -1,0 +1,26 @@
+{
+  "id": "iduwehb",
+  "category": "cinema",
+  "title": "ベルファスト【メガヒット９（再）】",
+  "fullTitle": "🈙🅍ベルファスト【メガヒット９（再）】",
+  "detail": "ケネス・ブラナーが自身の幼少期を投影した自伝的ドラマ。故郷のベルファストを舞台に、９歳の少年の目を通した家族の絆を描く。",
+  "start": 1703574900000,
+  "end": 1703582100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "メガヒット９（再）",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
