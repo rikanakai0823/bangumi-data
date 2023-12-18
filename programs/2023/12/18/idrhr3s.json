@@ -1,0 +1,25 @@
+{
+  "id": "idrhr3s",
+  "category": "music",
+  "title": "ＢＳ日本・こころの歌",
+  "fullTitle": "🈑ＢＳ日本・こころの歌",
+  "detail": "浜口庫之助、平尾昌晃、三木たかしの世界▽曲目：夜霧よ今夜も有難う、渚のセニョリーナ、つぐない、バラが咲いた、涙くんさよなら　ほか",
+  "start": 1702897200000,
+  "end": 1702900440000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

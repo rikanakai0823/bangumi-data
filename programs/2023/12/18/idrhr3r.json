@@ -1,0 +1,23 @@
+{
+  "id": "idrhr3r",
+  "category": "information",
+  "title": "お得α",
+  "fullTitle": "お得α",
+  "detail": "",
+  "start": 1702896900000,
+  "end": 1702897200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
