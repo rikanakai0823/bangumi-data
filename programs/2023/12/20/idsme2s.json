@@ -1,0 +1,23 @@
+{
+  "id": "idsme2s",
+  "category": "documentary",
+  "title": "夢の彼方に・海の唄",
+  "fullTitle": "夢の彼方に・海の唄",
+  "detail": "",
+  "start": 1703008800000,
+  "end": 1703012400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

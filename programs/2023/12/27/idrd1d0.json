@@ -1,0 +1,28 @@
+{
+  "id": "idrd1d0",
+  "category": "music",
+  "title": "令和歌謡塾",
+  "fullTitle": "令和歌謡塾",
+  "detail": "◇番組内容\n毎回、３人の演歌・歌謡ゲストをスタジオに迎え、新曲を披露いただきます。歌い手直伝の、歌唱ワンポイントレッスンが受けられるので、みなさんもぜひ実践してみてください。\n◇ホームページ\nhttps://www.bs4.jp/kayoujuku/",
+  "start": 1703620800000,
+  "end": 1703622600000,
+  "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "毎回、３人の演歌・歌謡ゲストをスタジオに迎え、新曲を披露いただきます。歌い手直伝の、歌唱ワンポイントレッスンが受けられるので、みなさんもぜひ実践してみてください。",
+    "ホームページ": "https://www.bs4.jp/kayoujuku/"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
