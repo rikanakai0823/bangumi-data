@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1cla",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・大塚製薬ＴＶショッピング",
+  "fullTitle": "ＴＶショッピング・大塚製薬ＴＶショッピング🅂",
+  "detail": "大塚製薬ＴＶショッピング\n◇番組内容\nリジュブネイトエキス１４日分お試しセット　０１２０－１０７３９０",
   "start": 1703448000000,
   "end": 1703449800000,
   "seconds": 1800,
+  "description": "大塚製薬ＴＶショッピング",
+  "extra": {
+    "番組内容": "リジュブネイトエキス１４日分お試しセット　０１２０－１０７３９０"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
