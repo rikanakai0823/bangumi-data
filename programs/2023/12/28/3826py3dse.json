@@ -1,0 +1,23 @@
+{
+  "id": "3826py3dse",
+  "category": "news",
+  "title": "Ｍナビ",
+  "fullTitle": "Ｍナビ",
+  "detail": "午前９時から取引が開始される東京株式市場。取引開始から３０分間が１日のマーケットの動きを方向づける大切な時間です。この時間の株価の動きをお伝えします。",
+  "start": 1703722860000,
+  "end": 1703723160000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

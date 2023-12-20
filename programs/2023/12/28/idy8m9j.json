@@ -1,0 +1,25 @@
+{
+  "id": "idy8m9j",
+  "category": "cinema",
+  "title": "リロ＆スティッチ２★冬休み特別放送",
+  "fullTitle": "リロ＆スティッチ２🈔★冬休み特別放送",
+  "detail": "リロはスティッチと一緒にコンテスト出場の準備を始めるが、突然スティッチが「悪い子」になってしまい・・・。2005年。68分。",
+  "start": 1703759400000,
+  "end": 1703764800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "悪い子",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
