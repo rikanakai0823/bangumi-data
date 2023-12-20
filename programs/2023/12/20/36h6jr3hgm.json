@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3hgm",
+  "category": "documentary",
+  "title": "ＭＩＤＴＶ",
+  "fullTitle": "ＭＩＤＴＶ🅂",
+  "detail": "鉄道博物館（第２回）",
+  "start": 1703076300000,
+  "end": 1703077200000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "S"
+  ]
+}
