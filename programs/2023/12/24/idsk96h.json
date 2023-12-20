@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ＪＵＪＵ　Ｘｍａｓ　ｂｏｘ－２０　ＹＥＡＲＳ　ＳＴＯＲＹ－",
   "fullTitle": "ＪＵＪＵ　Ｘｍａｓ　ｂｏｘ－２０　ＹＥＡＲＳ　ＳＴＯＲＹ－",
-  "detail": "",
+  "detail": "◇制作\n2023年",
   "start": 1703419200000,
   "end": 1703426040000,
   "seconds": 6840,
+  "description": "",
+  "extra": {
+    "制作": "2023年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
