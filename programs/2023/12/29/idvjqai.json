@@ -1,0 +1,25 @@
+{
+  "id": "idvjqai",
+  "category": "information",
+  "title": "ショップチャンネル　ファッションスペシャル",
+  "fullTitle": "🈢ショップチャンネル　ファッションスペシャル",
+  "detail": "ファッション／年末大特価市／１年分の感謝を込めた年末恒例のスペシャル企画！特別アイテムをそろえ、驚きのお値段で大放出！今年最後のチャンスをお見逃しなく！",
+  "start": 1703797200000,
+  "end": 1703800800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

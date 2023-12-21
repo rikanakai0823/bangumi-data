@@ -1,0 +1,25 @@
+{
+  "id": "idozrce",
+  "category": "music",
+  "title": "演歌フェス２０２３",
+  "fullTitle": "演歌フェス２０２３🈑",
+  "detail": "演歌・歌謡曲だけの夢の祭典を２年ぶりに開催！演歌界を代表する歌手３３人が大集合。誰もが聞いたことのあるヒット曲や最新曲、貴重なコラボレーションなど見所満載！",
+  "start": 1703831400000,
+  "end": 1703845800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
