@@ -1,0 +1,25 @@
+{
+  "id": "idtveyd",
+  "category": "sports",
+  "title": "２０２３有馬記念  公開枠順抽選会",
+  "fullTitle": "🈢２０２３有馬記念  公開枠順抽選会",
+  "detail": "師走恒例のGⅠレース・有馬記念の公開枠順抽選会を生放送に加え、ライブ配信でお届け！さらにSPゲストとして見上愛・佐々木蔵之介が登場！",
+  "start": 1703145600000,
+  "end": 1703151000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
