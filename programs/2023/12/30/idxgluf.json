@@ -1,0 +1,25 @@
+{
+  "id": "idxgluf",
+  "category": "sports",
+  "title": "第103回全国高校ラグビー 2回戦 第2グラウンド(12/30)",
+  "fullTitle": "[生]第103回全国高校ラグビー 2回戦 第2グラウンド(12/30)",
+  "detail": "開催日：2023年12月30日\r\n会場：東大阪市花園ラグビー場 第2グラウンド",
+  "start": 1703895900000,
+  "end": 1703919600000,
+  "seconds": 23700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 103,
+  "flags": [
+    "生"
+  ]
+}

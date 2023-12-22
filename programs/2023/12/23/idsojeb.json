@@ -1,0 +1,25 @@
+{
+  "id": "idsojeb",
+  "category": "anime",
+  "title": "はめつのおうこく▼＃１２",
+  "fullTitle": "はめつのおうこく🈡▼＃１２",
+  "detail": "＃１２「愛と復讐」",
+  "start": 1703266200000,
+  "end": 1703268000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "愛と復讐",
+  "episode": 12,
+  "flags": [
+    "終"
+  ]
+}
