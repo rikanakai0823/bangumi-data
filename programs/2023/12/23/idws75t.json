@@ -1,0 +1,23 @@
+{
+  "id": "idws75t",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「日本の高等教育を展望する('86)」",
+  "start": 1703289600000,
+  "end": 1703292300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "日本の高等教育を展望する('86)",
+  "episode": 1,
+  "flags": []
+}
