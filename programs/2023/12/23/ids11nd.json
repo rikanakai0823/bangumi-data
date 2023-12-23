@@ -1,0 +1,23 @@
+{
+  "id": "ids11nd",
+  "category": "sports",
+  "title": "ペコちゃんポコちゃんチャリティゴルフマッチ",
+  "fullTitle": "ペコちゃんポコちゃんチャリティゴルフマッチ",
+  "detail": "ゴルフを通じジュニアゴルファーの未来を応援するチャリティー大会、ペコちゃんポコちゃんチャリティゴルフマッチ。大会の模様をお届けする。",
+  "start": 1703318400000,
+  "end": 1703321700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
