@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0hej",
+  "category": "music",
+  "title": "Ｎ響第９演奏会",
+  "fullTitle": "Ｎ響第９演奏会🅍",
+  "detail": "",
+  "start": 1704020400000,
+  "end": 1704025800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

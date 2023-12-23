@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8hgvz",
+  "category": "variety",
+  "title": "鉄道ひとり旅",
+  "fullTitle": "鉄道ひとり旅",
+  "detail": "東京モノレール編",
+  "start": 1703984400000,
+  "end": 1703986200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
