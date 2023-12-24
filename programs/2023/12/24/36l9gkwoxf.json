@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwoxf",
+  "category": "information",
+  "title": "生活情報　【内容】Ａｉｒｄｏｇ",
+  "fullTitle": "生活情報　【内容】Ａｉｒｄｏｇ",
+  "detail": "【内容】Airdog\r\n【電話】0120-064-789 ",
+  "start": 1703372400000,
+  "end": 1703374200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
