@@ -1,0 +1,23 @@
+{
+  "id": "idttckt",
+  "category": "sports",
+  "title": "Volleyball Channel（バレーボールチャンネル）",
+  "fullTitle": "Volleyball Channel（バレーボールチャンネル）",
+  "detail": "12月の番組ナビゲーターは福澤達哉▼春校バレー注目カード紹介▼天皇杯・皇后杯＆全日本インカレ▼石川祐希＆髙橋藍のセリエA情報▼番組からクリスマスプレゼント！",
+  "start": 1703394000000,
+  "end": 1703397300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
