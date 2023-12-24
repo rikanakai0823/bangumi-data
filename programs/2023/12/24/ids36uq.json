@@ -1,0 +1,23 @@
+{
+  "id": "ids36uq",
+  "category": "music",
+  "title": "暦に集う　「湘南の宝石」",
+  "fullTitle": "暦に集う　「湘南の宝石」",
+  "detail": "冬晴れの湘南・江の島。夕暮れを前に多くの人が集い始めました。午後5時になると、イルミネーションが点灯しました。「湘南の宝石」と名付けられたイベントです。",
+  "start": 1703426040000,
+  "end": 1703426400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "湘南の宝石",
+  "episode": 1,
+  "flags": []
+}
