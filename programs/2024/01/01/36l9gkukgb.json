@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkukgb",
+  "category": "news",
+  "title": "テレビ年賀状",
+  "fullTitle": "テレビ年賀状",
+  "detail": " ",
+  "start": 1704084000000,
+  "end": 1704084300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

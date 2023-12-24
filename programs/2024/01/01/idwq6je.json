@@ -1,0 +1,23 @@
+{
+  "id": "idwq6je",
+  "category": "hobby",
+  "title": "授業科目案内～大学の窓",
+  "fullTitle": "授業科目案内～大学の窓",
+  "detail": "「生物環境の科学」",
+  "start": 1704102300000,
+  "end": 1704103200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "生物環境の科学",
+  "episode": 1,
+  "flags": []
+}
