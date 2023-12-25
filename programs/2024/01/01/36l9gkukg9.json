@@ -1,12 +1,16 @@
 {
   "id": "36l9gkukg9",
   "category": "news",
-  "title": "テレビ年賀状",
-  "fullTitle": "テレビ年賀状",
-  "detail": " ",
+  "title": "テレビ年賀状　門松",
+  "fullTitle": "テレビ年賀状　門松",
+  "detail": "◇番組内容\n門松",
   "start": 1704065100000,
   "end": 1704065400000,
   "seconds": 300,
+  "description": " ",
+  "extra": {
+    "番組内容": "門松"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",

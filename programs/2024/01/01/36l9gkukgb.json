@@ -1,12 +1,16 @@
 {
   "id": "36l9gkukgb",
   "category": "news",
-  "title": "テレビ年賀状",
-  "fullTitle": "テレビ年賀状",
-  "detail": " ",
+  "title": "テレビ年賀状　かるた",
+  "fullTitle": "テレビ年賀状　かるた",
+  "detail": "◇番組内容\nかるた",
   "start": 1704084000000,
   "end": 1704084300000,
   "seconds": 300,
+  "description": " ",
+  "extra": {
+    "番組内容": "かるた"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",

@@ -1,12 +1,16 @@
 {
   "id": "36l9gkukgd",
   "category": "news",
-  "title": "テレビ年賀状",
-  "fullTitle": "テレビ年賀状",
-  "detail": " ",
+  "title": "テレビ年賀状　鯛",
+  "fullTitle": "テレビ年賀状　鯛",
+  "detail": "◇番組内容\n鯛",
   "start": 1704095400000,
   "end": 1704095700000,
   "seconds": 300,
+  "description": " ",
+  "extra": {
+    "番組内容": "鯛"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
