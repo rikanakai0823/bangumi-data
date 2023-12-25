@@ -1,0 +1,23 @@
+{
+  "id": "idymr0s",
+  "category": "etc",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": "",
+  "start": 1704128400000,
+  "end": 1704132000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

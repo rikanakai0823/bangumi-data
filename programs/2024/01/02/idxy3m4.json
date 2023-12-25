@@ -1,0 +1,23 @@
+{
+  "id": "idxy3m4",
+  "category": "hobby",
+  "title": "【リクエスト】ぶらりバスの旅 2 初夏のYAMANAKA HAPPY DAY’S",
+  "fullTitle": "【リクエスト】ぶらりバスの旅 2 初夏のYAMANAKA HAPPY DAY’S",
+  "detail": "電車を乗り継ぎ、バスに揺られ、全国各地をぶらりと巡るバス番組。その名も『ぶらりバスの旅』。車に乗って移動なんて事は期待しちゃあいけません。今回の行き先は山梨県。",
+  "start": 1704175200000,
+  "end": 1704178800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

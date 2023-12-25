@@ -1,0 +1,25 @@
+{
+  "id": "idwx75p",
+  "category": "sports",
+  "title": "BAR ヒデ to KEIBA一挙放送 #1～#13",
+  "fullTitle": "BAR ヒデ to KEIBA一挙放送 #1～#13🈑",
+  "detail": "BAR ヒデ to KEIBA　一挙放送",
+  "start": 1704191400000,
+  "end": 1704214800000,
+  "seconds": 23400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

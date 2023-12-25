@@ -1,0 +1,23 @@
+{
+  "id": "idymr3i",
+  "category": "information",
+  "title": "BSJapanextからのお知らせ",
+  "fullTitle": "BSJapanextからのお知らせ",
+  "detail": "",
+  "start": 1704168000000,
+  "end": 1704168600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

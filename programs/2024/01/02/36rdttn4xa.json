@@ -1,0 +1,27 @@
+{
+  "id": "36rdttn4xa",
+  "category": "documentary",
+  "title": "テレビ富士山",
+  "fullTitle": "テレビ富士山",
+  "detail": "神奈川からの「富士山」をリアルにお届けします！\n◇【ＢＧＭ】\n「はじまりの朝」　ピアノ演奏：松尾咲希",
+  "start": 1704144600000,
+  "end": 1704148200000,
+  "seconds": 3600,
+  "description": "神奈川からの「富士山」をリアルにお届けします！",
+  "extra": {
+    "【ＢＧＭ】": "「はじまりの朝」　ピアノ演奏：松尾咲希"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "富士山",
+  "episode": 1,
+  "flags": []
+}

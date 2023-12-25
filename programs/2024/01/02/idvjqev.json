@@ -1,0 +1,25 @@
+{
+  "id": "idvjqev",
+  "category": "sports",
+  "title": "ＢＳイレブン住之江ボートレース中継",
+  "fullTitle": "🈢ＢＳイレブン住之江ボートレース中継",
+  "detail": "『第62回全大阪王将戦』初日のレース模様を、実況生中継！\r\n企画も盛りだくさんに、ボートレースの楽しさを発信します！",
+  "start": 1704178800000,
+  "end": 1704182100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 62,
+  "flags": [
+    "生"
+  ]
+}
