@@ -1,9 +1,9 @@
 {
   "id": "idrd1ii",
   "category": "news",
-  "title": "皇室日記",
-  "fullTitle": "🈑皇室日記",
-  "detail": "皇室のみなさまの最新の動静・皇室の歴史や文化などの特集をお伝えします。",
+  "title": "皇室日記　＃３９",
+  "fullTitle": "🈑皇室日記　＃３９",
+  "detail": "「上皇さま９０歳・卒寿に」を特集でお伝えします。",
   "start": 1703898000000,
   "end": 1703898900000,
   "seconds": 900,
@@ -17,8 +17,8 @@
     "hasLogoData": true,
     "n": 45
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "上皇さま９０歳・卒寿に",
+  "episode": 39,
   "flags": [
     "字"
   ]

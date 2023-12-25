@@ -1,0 +1,23 @@
+{
+  "id": "idttd7l",
+  "category": "information",
+  "title": "テレビショッピング研究所ＴＶショッピング",
+  "fullTitle": "テレビショッピング研究所ＴＶショッピング",
+  "detail": "",
+  "start": 1703485680000,
+  "end": 1703487600000,
+  "seconds": 1920,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
