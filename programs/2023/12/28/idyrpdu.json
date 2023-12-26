@@ -2,7 +2,7 @@
   "id": "idyrpdu",
   "category": "variety",
   "title": "祇園花月presents 吉本新喜劇 #24",
-  "fullTitle": "祇園花月presents 吉本新喜劇 #24",
+  "fullTitle": "🈑祇園花月presents 吉本新喜劇 #24",
   "detail": "「恋のドロボーすんのかい！」\r\n舞台は豪邸。豪邸に忍び込む吉田。が、まさかの吉田の彼女の自宅！？\r\n果たしてこの状況をどう切り抜けるのか！？",
   "start": 1703764800000,
   "end": 1703768400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "恋のドロボーすんのかい！",
   "episode": 24,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
