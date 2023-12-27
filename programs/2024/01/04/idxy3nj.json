@@ -1,0 +1,23 @@
+{
+  "id": "idxy3nj",
+  "category": "hobby",
+  "title": "【リクエスト】ぶらりバスの旅 4 真冬の徳島 LONG WALK DAY’S",
+  "fullTitle": "【リクエスト】ぶらりバスの旅 4 真冬の徳島 LONG WALK DAY’S",
+  "detail": "電車を乗り継ぎ、バスに揺られ、全国各地をぶらりするバス番組。その名も『ぶらりバスの旅』。車に乗って移動なんて事は期待しちゃあいけません。",
+  "start": 1704348000000,
+  "end": 1704351600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

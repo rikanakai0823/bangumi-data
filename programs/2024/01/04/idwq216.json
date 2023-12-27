@@ -1,0 +1,23 @@
+{
+  "id": "idwq216",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「「生・老・死」；日本人の人生観　～内からの眼・外からの眼～('99)」",
+  "start": 1704366900000,
+  "end": 1704372300000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "「生・老・死",
+  "episode": 1,
+  "flags": []
+}

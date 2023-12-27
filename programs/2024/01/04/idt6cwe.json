@@ -1,0 +1,23 @@
+{
+  "id": "idt6cwe",
+  "category": "news",
+  "title": "ＷＢＳ",
+  "fullTitle": "ＷＢＳ",
+  "detail": "35周年を迎えたWBS。「あなたと世界を経済でつなぐ」経済ニュース番組として豊富なデータとわかりやすい解説で明日からの仕事や生活に役立つニュースをお伝えします。",
+  "start": 1704376800000,
+  "end": 1704380400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "あなたと世界を経済でつなぐ",
+  "episode": 1,
+  "flags": []
+}
