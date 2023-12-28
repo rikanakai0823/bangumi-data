@@ -1,0 +1,23 @@
+{
+  "id": "idsmekh",
+  "category": "music",
+  "title": "銀座カセットソング ＃１１",
+  "fullTitle": "銀座カセットソング ＃１１",
+  "detail": "今年歌った全７６曲の中から選りすぐりの「２０２３カセソンスーパーメドレー集」",
+  "start": 1703773800000,
+  "end": 1703775600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "２０２３カセソンスーパーメドレー集",
+  "episode": 11,
+  "flags": []
+}
