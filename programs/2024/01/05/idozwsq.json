@@ -1,0 +1,23 @@
+{
+  "id": "idozwsq",
+  "category": "documentary",
+  "title": "北アルプス「北アルプスの四季」",
+  "fullTitle": "北アルプス「北アルプスの四季」",
+  "detail": "北アルプスの山々の四季",
+  "start": 1704392400000,
+  "end": 1704396000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "北アルプスの四季",
+  "episode": 1,
+  "flags": []
+}

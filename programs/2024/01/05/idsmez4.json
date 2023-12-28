@@ -1,0 +1,23 @@
+{
+  "id": "idsmez4",
+  "category": "etc",
+  "title": "Ｓｏｕｎｄ　Ｓｈｏｗｅｒ",
+  "fullTitle": "Ｓｏｕｎｄ　Ｓｈｏｗｅｒ",
+  "detail": "",
+  "start": 1704419940000,
+  "end": 1704423600000,
+  "seconds": 3660,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

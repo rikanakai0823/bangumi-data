@@ -1,0 +1,25 @@
+{
+  "id": "idxeew1",
+  "category": "sports",
+  "title": "第103回全国高校ラグビー 準決勝(1/5)",
+  "fullTitle": "[生]第103回全国高校ラグビー 準決勝(1/5)",
+  "detail": "開催日：2024年1月5日\r\n会場：東大阪市花園ラグビー場",
+  "start": 1704419700000,
+  "end": 1704438000000,
+  "seconds": 18300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 103,
+  "flags": [
+    "生"
+  ]
+}

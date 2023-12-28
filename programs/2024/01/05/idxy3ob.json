@@ -1,0 +1,25 @@
+{
+  "id": "idxy3ob",
+  "category": "hobby",
+  "title": "【リクエスト】ぶらりバスの旅 5 淀川OSAKA HAPPY DAY’S",
+  "fullTitle": "【リクエスト】🈖ぶらりバスの旅 5 淀川OSAKA HAPPY DAY’S",
+  "detail": "電車を乗り継ぎバスに揺られ、全国各地をぶらりするバス番組。その名も『ぶらりバスの旅』。旅をするのは、釣りニンジャこと、センドウタカシ。旅の楽しさも釣りの楽しみ！",
+  "start": 1704434400000,
+  "end": 1704438000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "解"
+  ]
+}
