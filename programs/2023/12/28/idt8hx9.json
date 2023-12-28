@@ -1,0 +1,23 @@
+{
+  "id": "idt8hx9",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "【中山】10Rベストウィッシュカップ\r\n　　　　11RホープフルＳ（ＧⅠ）\r\n【阪神】11RベテルギウスＳ（L）",
+  "start": 1703743200000,
+  "end": 1703746800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
