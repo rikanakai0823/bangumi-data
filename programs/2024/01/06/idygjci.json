@@ -1,0 +1,23 @@
+{
+  "id": "idygjci",
+  "category": "theater",
+  "title": "音楽朗読劇 READING HIGH「El Galleon ～エルガレオン～」",
+  "fullTitle": "音楽朗読劇 READING HIGH「El Galleon ～エルガレオン～」",
+  "detail": "",
+  "start": 1704510900000,
+  "end": 1704519000000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "El Galleon ～エルガレオン～",
+  "episode": 1,
+  "flags": []
+}
