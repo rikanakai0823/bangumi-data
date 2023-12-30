@@ -1,0 +1,23 @@
+{
+  "id": "idttc1b",
+  "category": "sports",
+  "title": "42nd平尾昌晃チャリティゴルフトーナメント",
+  "fullTitle": "42nd平尾昌晃チャリティゴルフトーナメント",
+  "detail": "歴史あるチャリティーゴルフ大会に芸能人、女子選手が集結し自慢の腕を振るい優勝を目指します！",
+  "start": 1703923200000,
+  "end": 1703926800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

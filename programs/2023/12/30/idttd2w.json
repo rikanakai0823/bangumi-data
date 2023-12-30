@@ -1,0 +1,25 @@
+{
+  "id": "idttd2w",
+  "category": "sports",
+  "title": "全日本総合バドミントン選手権２０２３　決勝",
+  "fullTitle": "🈢全日本総合バドミントン選手権２０２３　決勝",
+  "detail": "日本代表集結！バドミントン界の日本一を決める特別な大会を、武蔵野の森総合スポーツプラザから生中継！\r\n",
+  "start": 1703919600000,
+  "end": 1703923200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
