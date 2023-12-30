@@ -1,0 +1,23 @@
+{
+  "id": "idygjdk",
+  "category": "theater",
+  "title": "日曜ゴールデンシアター 松竹新喜劇「えくぼ」「大当り高津の富くじ」",
+  "fullTitle": "日曜ゴールデンシアター 松竹新喜劇「えくぼ」「大当り高津の富くじ」",
+  "detail": "",
+  "start": 1704619800000,
+  "end": 1704628800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "大当り高津の富くじ",
+  "episode": 1,
+  "flags": []
+}

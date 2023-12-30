@@ -1,0 +1,26 @@
+{
+  "id": "ids0m2q",
+  "category": "anime",
+  "title": "アニメA・僕らの雨いろプロトコル　＃12「約束－Protocol－」",
+  "fullTitle": "🈑アニメA・僕らの雨いろプロトコル🈡　＃12「約束－Protocol－」",
+  "detail": "各々の譲れないものを持つ少年少女たち。「Team FOX ONE」は強豪「スリーピングアウル」に挑む。美桜と聡美、「FOX ONE」の皆が見守る激闘の最中、一つの奇跡が起きる。",
+  "start": 1703952000000,
+  "end": 1703953800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "約束－Protocol－",
+  "episode": 12,
+  "flags": [
+    "字",
+    "終"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "iep293i",
+  "category": "etc",
+  "title": "ヘルプチャンネル",
+  "fullTitle": "ヘルプチャンネル",
+  "detail": "デジタル放送のコピー制御（著作権保護）システムとＢ－ＣＡＳカードなどについての説明と問い合わせなど",
+  "start": 1704034800000,
+  "end": 1704121200000,
+  "seconds": 86400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "７０７チャンネル",
+    "id": "8l6r",
+    "sid": 707,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 87
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
