@@ -1,0 +1,23 @@
+{
+  "id": "idrd1x1",
+  "category": "information",
+  "title": "ヤマダ・テレビショッピング店ＬＩＦＥＳＥＬＥＣＴ",
+  "fullTitle": "ヤマダ・テレビショッピング店ＬＩＦＥＳＥＬＥＣＴ",
+  "detail": "家電量販店最大手ヤマダデンキのTVショッピング！\r\n価格に応える！品質に応える！アフターケアに応える！\r\n家電と住まいのヤマダテレビショッピング！",
+  "start": 1704697200000,
+  "end": 1704700800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

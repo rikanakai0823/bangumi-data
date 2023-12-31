@@ -1,0 +1,23 @@
+{
+  "id": "idryh5k",
+  "category": "news",
+  "title": "ＢＳＡオープニング",
+  "fullTitle": "ＢＳＡオープニング",
+  "detail": "番組の説明はありません",
+  "start": 1704660300000,
+  "end": 1704660900000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

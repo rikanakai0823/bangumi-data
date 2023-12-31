@@ -1,0 +1,25 @@
+{
+  "id": "idxiklb",
+  "category": "sports",
+  "title": "MOTOR GAMES #510",
+  "fullTitle": "[初]MOTOR GAMES #510",
+  "detail": "車＆バイクによる複合型モータースポーツイベント「MOTOR GAMES」と連動した情報をお届けする番組！",
+  "start": 1704715200000,
+  "end": 1704717000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "MOTOR GAMES",
+  "episode": 510,
+  "flags": [
+    "初"
+  ]
+}
