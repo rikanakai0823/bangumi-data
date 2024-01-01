@@ -1,0 +1,26 @@
+{
+  "id": "idp4yuj",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース🈔🈑",
+  "detail": "ニュース",
+  "start": 1704095666000,
+  "end": 1704110400000,
+  "seconds": 14734,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫ",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二",
+    "字"
+  ]
+}
