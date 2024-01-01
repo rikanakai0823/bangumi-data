@@ -1,0 +1,23 @@
+{
+  "id": "381xj5qmrp",
+  "category": "theater",
+  "title": "伊勢神宮舞楽",
+  "fullTitle": "伊勢神宮舞楽",
+  "detail": "年始恒例の伊勢神宮・正月初神楽。令和６年の舞楽は「貴徳（きとく）」。",
+  "start": 1704141600000,
+  "end": 1704142500000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597dt",
+    "sid": 1057,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 31
+  },
+  "subTitle": "貴徳（きとく）",
+  "episode": 1,
+  "flags": []
+}
