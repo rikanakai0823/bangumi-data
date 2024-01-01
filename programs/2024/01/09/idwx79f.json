@@ -1,0 +1,23 @@
+{
+  "id": "idwx79f",
+  "category": "sports",
+  "title": "Ｇｒｅｅｎ　Ｈｅａｌｉｎｇ",
+  "fullTitle": "Ｇｒｅｅｎ　Ｈｅａｌｉｎｇ",
+  "detail": "大自然の中でのびのびと過ごす馬の姿をお届けします。",
+  "start": 1704781800000,
+  "end": 1704783600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

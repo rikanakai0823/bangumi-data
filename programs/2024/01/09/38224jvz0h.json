@@ -1,0 +1,34 @@
+{
+  "id": "38224jvz0h",
+  "category": "variety",
+  "title": "ロンドンハーツ＆テレビ千鳥　３時間ＳＰ",
+  "fullTitle": "ロンドンハーツ＆テレビ千鳥　３時間ＳＰ🈑",
+  "detail": "『ロンドンハーツ』\r\n『テレビ千鳥』\n◇◇番組内容１\n『ロンドンハーツ』\n◇◇出演者１\nロンドンブーツ１号２号\n◇◇おしらせ１\n☆公式ホームページ\r\n　→https://www.tv-asahi.co.jp/londonhearts/\n◇◇番組内容３\n『テレビ千鳥』\n◇◇出演者２\n千鳥（ノブ・大悟）\n◇◇おしらせ２\n☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/tvchidori/",
+  "start": 1704794400000,
+  "end": 1704804480000,
+  "seconds": 10080,
+  "description": "『ロンドンハーツ』\r\n『テレビ千鳥』",
+  "extra": {
+    "◇番組内容１": "『ロンドンハーツ』",
+    "◇出演者１": "ロンドンブーツ１号２号",
+    "◇おしらせ１": "☆公式ホームページ\r\n　→https://www.tv-asahi.co.jp/londonhearts/",
+    "◇番組内容３": "『テレビ千鳥』",
+    "◇出演者２": "千鳥（ノブ・大悟）",
+    "◇おしらせ２": "☆番組ＨＰ\r\n　http://www.tv-asahi.co.jp/tvchidori/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
