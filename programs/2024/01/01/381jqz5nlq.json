@@ -2,8 +2,8 @@
   "id": "381jqz5nlq",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース🈔🈑",
-  "detail": "ニュース",
+  "fullTitle": "ニュース",
+  "detail": "",
   "start": 1704095610000,
   "end": 1704095610001,
   "seconds": 0.001,
@@ -19,8 +19,5 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": [
-    "二",
-    "字"
-  ]
+  "flags": []
 }
