@@ -1,0 +1,25 @@
+{
+  "id": "ids2rai",
+  "category": "documentary",
+  "title": "4K DEEP BREATH mini　＃1「Bonfire EDIT」",
+  "fullTitle": "🈑4K DEEP BREATH mini　＃1「Bonfire EDIT」",
+  "detail": "清流の近く、深い自然の中でひたすら焚き火の炎を見つめる。川の音・鳥の声・焚き火の音と共に、ゆったりと整う時間をお楽しみに。",
+  "start": 1704144300000,
+  "end": 1704146100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "Bonfire EDIT",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
