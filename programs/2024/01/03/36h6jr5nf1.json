@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5nf1",
+  "category": "information",
+  "title": "買物情報・ダイレクトテレショップ",
+  "fullTitle": "買物情報・ダイレクトテレショップ🅂",
+  "detail": "",
+  "start": 1704225600000,
+  "end": 1704227400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
