@@ -1,0 +1,23 @@
+{
+  "id": "ids2raw",
+  "category": "music",
+  "title": "葉加瀬太郎コンサート～お正月はBS朝日でNH＆K TRIOスペシャル～",
+  "fullTitle": "葉加瀬太郎コンサート～お正月はBS朝日でNH＆K TRIOスペシャル～",
+  "detail": "2023年春に実施されたコンサート「葉加瀬太郎 コンサートツアー2023 NH＆K TRIO スーパーチェンバーミュージック ～Adagio～」の演奏をお届け。",
+  "start": 1704178800000,
+  "end": 1704186000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "葉加瀬太郎 コンサートツアー2023 NH＆K TRIO スーパーチェンバーミュージック ～Adagio～",
+  "episode": 1,
+  "flags": []
+}
