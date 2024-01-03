@@ -1,0 +1,26 @@
+{
+  "id": "idufdsm",
+  "category": "cinema",
+  "title": "スピード（字幕版）",
+  "fullTitle": "🈙スピード（字幕版）🅍",
+  "detail": "そのバスはスピードが落ちると爆発する！　青年警官と爆弾魔の速度無制限一本勝負を描き、バス版「ダイ・ハード」とも呼ばれて大ヒットした怒涛のノンストップアクション！",
+  "start": 1704956400000,
+  "end": 1704963600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "ダイ・ハード",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
