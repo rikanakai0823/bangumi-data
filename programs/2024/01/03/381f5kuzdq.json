@@ -1,5 +1,5 @@
 {
-  "id": "381f5ksu7y",
+  "id": "381f5kuzdq",
   "category": "news",
   "title": "ニュース",
   "fullTitle": "ニュース🈑",
@@ -10,12 +10,12 @@
   "channel": {
     "type": "GR",
     "channel": "27",
-    "name": "ＮＨＫ総合１・東京",
-    "id": "1i50mps",
-    "sid": 1024,
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
     "nid": 32736,
     "hasLogoData": true,
-    "n": 0
+    "n": 1
   },
   "subTitle": "",
   "episode": 1,
