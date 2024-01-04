@@ -1,0 +1,25 @@
+{
+  "id": "38224jvynq",
+  "category": "news",
+  "title": "サンデーステーション",
+  "fullTitle": "サンデーステーション🈑",
+  "detail": "",
+  "start": 1704628800000,
+  "end": 1704632400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
