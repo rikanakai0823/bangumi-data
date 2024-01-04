@@ -1,0 +1,25 @@
+{
+  "id": "idxeezd",
+  "category": "sports",
+  "title": "ラグビー わんだほー！～ラグビー情報番組～ #62",
+  "fullTitle": "[無料]ラグビー わんだほー！～ラグビー情報番組～ #62",
+  "detail": "リーグワン開催期間はウイークリーで、リーグ情報を盛りだくさんでお届け！\r\n\r\nコメンテーター：村上晃一、谷口廣明\r\nMC：浅野杏奈",
+  "start": 1705050000000,
+  "end": 1705053600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 62,
+  "flags": [
+    "無"
+  ]
+}
