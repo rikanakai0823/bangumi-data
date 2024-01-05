@@ -1,0 +1,23 @@
+{
+  "id": "idvjqrd",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "当日の中央競馬レース結果と、ＧⅢ『京成杯』（中山）、ＧⅡ『日経新春杯』（京都）の展望をお伝えします。",
+  "start": 1705152600000,
+  "end": 1705154400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
