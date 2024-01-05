@@ -2,8 +2,8 @@
   "id": "idymrzr",
   "category": "hobby",
   "title": "田中律子の旅するSUP　Season.4　＃８",
-  "fullTitle": "田中律子の旅するSUP　Season.4　＃８",
-  "detail": "田中律子さんが、SUPでクルージング！いつもよりちょっとだけ時間がゆっくり流れる癒しの番組です。今回は宮城県 松島・馬の背を旅SUPします。",
+  "fullTitle": "田中律子の旅するSUP　Season.4　＃８🈑",
+  "detail": "田中律子さんが、SUPでクルージング！今回は宮城県 松島・馬の背を旅SUPします。",
   "start": 1705012200000,
   "end": 1705014000000,
   "seconds": 1800,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 8,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
