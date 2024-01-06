@@ -1,0 +1,23 @@
+{
+  "id": "3826py5j67",
+  "category": "information",
+  "title": "エンタメアプリ",
+  "fullTitle": "エンタメアプリ",
+  "detail": "今知りたいエンタメ情報をお届けします！",
+  "start": 1704572400000,
+  "end": 1704573000000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
