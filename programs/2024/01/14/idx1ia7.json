@@ -1,0 +1,25 @@
+{
+  "id": "idx1ia7",
+  "category": "anime",
+  "title": "名探偵コナン 1月号",
+  "fullTitle": "🈑名探偵コナン 1月号",
+  "detail": "#856「幕末維新ミステリーツアー（山口編）」#857「幕末維新ミステリーツアー（萩編）」#858「星付きレストランの謎」…",
+  "start": 1705230000000,
+  "end": 1705235400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "幕末維新ミステリーツアー（山口編）",
+  "episode": 856,
+  "flags": [
+    "字"
+  ]
+}

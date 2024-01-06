@@ -1,0 +1,23 @@
+{
+  "id": "idwx7cf",
+  "category": "sports",
+  "title": "今日のレースリプレイ",
+  "fullTitle": "今日のレースリプレイ",
+  "detail": "「第１回中山競馬第４日・第１回京都競馬第４日・第１回小倉競馬第１日」",
+  "start": 1705163400000,
+  "end": 1705168800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "第１回中山競馬第４日・第１回京都競馬第４日・第１回小倉競馬第１日",
+  "episode": 1,
+  "flags": []
+}
