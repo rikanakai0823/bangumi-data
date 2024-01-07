@@ -1,0 +1,23 @@
+{
+  "id": "idwsbs5",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「社会教育・生涯学習入門」",
+  "start": 1704628800000,
+  "end": 1704631500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "社会教育・生涯学習入門",
+  "episode": 1,
+  "flags": []
+}
