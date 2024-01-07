@@ -1,0 +1,28 @@
+{
+  "id": "idryhfc",
+  "category": "information",
+  "title": "Ａの伝言　＃218",
+  "fullTitle": "Ａの伝言　＃218",
+  "detail": "最新ムーブメントやイベント情報を紹介。\n◇番組ホームページ\n＜番組ホームページはこちら！＞\r\nwww.bs-asahi.co.jp/dengon/\n◇制作\nBS朝日、JCTV",
+  "start": 1705330440000,
+  "end": 1705330800000,
+  "seconds": 360,
+  "description": "最新ムーブメントやイベント情報を紹介。",
+  "extra": {
+    "番組ホームページ": "＜番組ホームページはこちら！＞\r\nwww.bs-asahi.co.jp/dengon/",
+    "制作": "BS朝日、JCTV"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 218,
+  "flags": []
+}

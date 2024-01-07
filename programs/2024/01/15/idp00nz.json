@@ -1,0 +1,25 @@
+{
+  "id": "idp00nz",
+  "category": "documentary",
+  "title": "ハイビジョン動物記「ヒョウ」",
+  "fullTitle": "ハイビジョン動物記「ヒョウ」🈑",
+  "detail": "",
+  "start": 1705261200000,
+  "end": 1705261800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ヒョウ",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
