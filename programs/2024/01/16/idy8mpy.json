@@ -1,0 +1,25 @@
+{
+  "id": "idy8mpy",
+  "category": "drama",
+  "title": "ジェシー！#69",
+  "fullTitle": "ジェシー！#69🈔",
+  "detail": "#69「朝は大忙し」",
+  "start": 1705345200000,
+  "end": 1705347000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "朝は大忙し",
+  "episode": 69,
+  "flags": [
+    "二"
+  ]
+}

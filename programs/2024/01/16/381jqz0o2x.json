@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0o2x",
+  "category": "hobby",
+  "title": "テレどーも！",
+  "fullTitle": "テレどーも！🈑",
+  "detail": "",
+  "start": 1705389000000,
+  "end": 1705390800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
