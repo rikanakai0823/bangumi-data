@@ -1,0 +1,23 @@
+{
+  "id": "idp3lub",
+  "category": "etc",
+  "title": "ＢＳプレミアムの番組は、１０１チャンネル（ＮＨＫＢＳ）でご覧いただけます。",
+  "fullTitle": "ＢＳプレミアムの番組は、１０１チャンネル（ＮＨＫＢＳ）でご覧いただけます。",
+  "detail": "",
+  "start": 1704810900000,
+  "end": 1704817740000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫ",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

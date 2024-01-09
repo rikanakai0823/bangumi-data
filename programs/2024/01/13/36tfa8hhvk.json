@@ -1,12 +1,18 @@
 {
   "id": "36tfa8hhvk",
   "category": "variety",
-  "title": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ",
-  "fullTitle": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ",
-  "detail": " ",
+  "title": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ　＃５５",
+  "fullTitle": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ　＃５５",
+  "detail": "ALGS Year4 SP1順位予想スペシャル！Apex Legendsのプロリーグが1月20日に開幕！「APAC-North」の中から世界大会出場の切符をつかむ上位8チームをガチ予想！\n◇番組内容\n今回は、ALGS Year4 SP1の順位予想スペシャル！Apex Legendsのプロリーグが1月20日に開幕！「APAC-North」の中から世界大会出場の切符をつかむ上位8チームはどこになるのか、APEX界の有識者5名を招いてガチ予想しちゃいます！\n◇出演者\n【番組MC】\r\nELLY（三代目 J SOUL BROTHERS）、長谷川忍（シソンヌ）、西村歩乃果（タレント）\r\n\n◇おしらせ\n番組連動のプロゲーミングチームGHS Professional始動！\r\nhttps://e-elements.jp/campaign/GHS_pro/",
   "start": 1705079100000,
   "end": 1705080840000,
   "seconds": 1740,
+  "description": "ALGS Year4 SP1順位予想スペシャル！Apex Legendsのプロリーグが1月20日に開幕！「APAC-North」の中から世界大会出場の切符をつかむ上位8チームをガチ予想！",
+  "extra": {
+    "番組内容": "今回は、ALGS Year4 SP1の順位予想スペシャル！Apex Legendsのプロリーグが1月20日に開幕！「APAC-North」の中から世界大会出場の切符をつかむ上位8チームはどこになるのか、APEX界の有識者5名を招いてガチ予想しちゃいます！",
+    "出演者": "【番組MC】\r\nELLY（三代目 J SOUL BROTHERS）、長谷川忍（シソンヌ）、西村歩乃果（タレント）\r\n",
+    "おしらせ": "番組連動のプロゲーミングチームGHS Professional始動！\r\nhttps://e-elements.jp/campaign/GHS_pro/"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "APAC-North",
+  "episode": 55,
   "flags": []
 }
