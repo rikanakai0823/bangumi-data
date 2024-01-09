@@ -1,0 +1,23 @@
+{
+  "id": "iduffet",
+  "category": "variety",
+  "title": "スニーカータイムズ　～Ｓｎｅａｋｅｒ　Ｔｉｍｅｚ～　＃５",
+  "fullTitle": "スニーカータイムズ　～Ｓｎｅａｋｅｒ　Ｔｉｍｅｚ～　＃５",
+  "detail": "",
+  "start": 1704801600000,
+  "end": 1704803400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": []
+}
