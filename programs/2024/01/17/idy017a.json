@@ -1,0 +1,25 @@
+{
+  "id": "idy017a",
+  "category": "cinema",
+  "title": "イコライザー",
+  "fullTitle": "🈙イコライザー",
+  "detail": "デンゼル・ワシントンがアントワーン・フークア監督とタッグを組んだアクション大作。昼はホームセンターで働き、夜は請負人として世の不正を抹消している男の活躍を描く。",
+  "start": 1705465800000,
+  "end": 1705474800000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

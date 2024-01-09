@@ -1,0 +1,25 @@
+{
+  "id": "iduvm43",
+  "category": "cinema",
+  "title": "ワーロック（１９５９）",
+  "fullTitle": "🈙ワーロック（１９５９）",
+  "detail": "【西部劇】無法者に荒らされた町で、町民に招かれた保安官と賭博師、町に尽くすならず者の間に複雑な人間模様が展開する。",
+  "start": 1705479300000,
+  "end": 1705486800000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "西部劇",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
