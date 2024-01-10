@@ -1,0 +1,23 @@
+{
+  "id": "idwx7fv",
+  "category": "sports",
+  "title": "競馬ブロス #40",
+  "fullTitle": "競馬ブロス #40",
+  "detail": "馬好きブラザーズ（兄弟）と田中博康調教師の夜な夜な競馬談義",
+  "start": 1705564800000,
+  "end": 1705568400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 40,
+  "flags": []
+}

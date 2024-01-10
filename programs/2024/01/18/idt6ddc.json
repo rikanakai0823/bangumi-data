@@ -1,0 +1,25 @@
+{
+  "id": "idt6ddc",
+  "category": "information",
+  "title": "あの本、読みました？",
+  "fullTitle": "あの本、読みました？🈑",
+  "detail": "読書好きの鈴木保奈美とともに次に読みたい一冊を見つける読書エンターテインメント！編集者や書店員など本のスペシャリストたちが様々な切り口でおすすめ本を厳選！",
+  "start": 1705582800000,
+  "end": 1705586100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

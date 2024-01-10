@@ -1,0 +1,23 @@
+{
+  "id": "ieel2k7",
+  "category": "hobby",
+  "title": "特別講義",
+  "fullTitle": "特別講義",
+  "detail": "「終活学　満足して人生を終える」",
+  "start": 1705185000000,
+  "end": 1705187700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 84
+  },
+  "subTitle": "終活学　満足して人生を終える",
+  "episode": 1,
+  "flags": []
+}
