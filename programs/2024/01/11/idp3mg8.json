@@ -1,0 +1,23 @@
+{
+  "id": "idp3mg8",
+  "category": "news",
+  "title": "令和６年能登半島地震関連情報",
+  "fullTitle": "令和６年能登半島地震関連情報",
+  "detail": "この時間は能登半島地震の最新情報を含むニュース・ライフライン情報などをお伝えします",
+  "start": 1704945900000,
+  "end": 1704948900000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫ",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
