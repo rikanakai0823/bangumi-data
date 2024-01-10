@@ -1,0 +1,23 @@
+{
+  "id": "idp3me1",
+  "category": "news",
+  "title": "令和６年能登半島地震関連情報",
+  "fullTitle": "令和６年能登半島地震関連情報",
+  "detail": "",
+  "start": 1704935100000,
+  "end": 1704938100000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫ",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
