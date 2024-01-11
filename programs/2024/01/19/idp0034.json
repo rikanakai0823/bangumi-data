@@ -1,0 +1,23 @@
+{
+  "id": "idp0034",
+  "category": "sports",
+  "title": "ジャンプ２０２３－２４　ジャンプ女子ワールドカップ",
+  "fullTitle": "ジャンプ２０２３－２４　ジャンプ女子ワールドカップ",
+  "detail": "",
+  "start": 1705648800000,
+  "end": 1705654800000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduvryk",
+  "category": "cinema",
+  "title": "呪呪呪／死者をあやつるもの",
+  "fullTitle": "🈙🅍呪呪呪／死者をあやつるもの",
+  "detail": "人気ドラマ「謗法～運命を変える方法～」の続編となる劇場版。ジャーナリストと呪術師の少女が怪事件に挑む。",
+  "start": 1705629600000,
+  "end": 1705636800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "謗法～運命を変える方法～",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
