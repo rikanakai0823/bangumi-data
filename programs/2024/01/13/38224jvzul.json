@@ -1,0 +1,25 @@
+{
+  "id": "38224jvzul",
+  "category": "news",
+  "title": "サタデーステーション",
+  "fullTitle": "サタデーステーション🈑",
+  "detail": "",
+  "start": 1705146840000,
+  "end": 1705150440000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
