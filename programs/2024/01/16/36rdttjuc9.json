@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Glass Spiders\"HOT MILK\r\n\"Hard To Love\"SAM FISCHER\r\n\"Black Moonlight\"DURAN DURAN\r\n\"Girls On The East Side Of Town\"TUK SMITH & THE RESTLESS HEARTS\n◇番組内容２\n\"These Four Walls\"KHAMARI\r\n\"Cobra\"MEGAN THEE STALLION\r\n\"Polar Opposites\"DRAKE",
   "start": 1705330800000,
   "end": 1705332600000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Glass Spiders\"HOT MILK\r\n\"Hard To Love\"SAM FISCHER\r\n\"Black Moonlight\"DURAN DURAN\r\n\"Girls On The East Side Of Town\"TUK SMITH & THE RESTLESS HEARTS",
+    "番組内容２": "\"These Four Walls\"KHAMARI\r\n\"Cobra\"MEGAN THEE STALLION\r\n\"Polar Opposites\"DRAKE"
   },
   "channel": {
     "type": "GR",
