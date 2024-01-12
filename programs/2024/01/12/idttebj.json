@@ -1,0 +1,23 @@
+{
+  "id": "idttebj",
+  "category": "information",
+  "title": "ルアンテレビショッピング",
+  "fullTitle": "ルアンテレビショッピング",
+  "detail": "",
+  "start": 1705015680000,
+  "end": 1705017600000,
+  "seconds": 1920,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
