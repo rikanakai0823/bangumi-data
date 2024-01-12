@@ -1,0 +1,23 @@
+{
+  "id": "3826py3ejg",
+  "category": "information",
+  "title": "サタデーテレショップ",
+  "fullTitle": "サタデーテレショップ",
+  "detail": "土曜日の朝に送る情報番組。話題の商品情報をお届けします。",
+  "start": 1705699800000,
+  "end": 1705701600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

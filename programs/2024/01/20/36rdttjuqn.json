@@ -1,0 +1,23 @@
+{
+  "id": "36rdttjuqn",
+  "category": "information",
+  "title": "ハマナビ",
+  "fullTitle": "ハマナビ",
+  "detail": "横浜をマナビ、横浜をナビゲート！横浜の観光情報、グルメ、地元に密着した情報をお届け。旬の横浜の魅力をお伝えします。",
+  "start": 1705741200000,
+  "end": 1705743000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
