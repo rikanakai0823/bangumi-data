@@ -1,0 +1,23 @@
+{
+  "id": "idygjql",
+  "category": "theater",
+  "title": "日曜ゴールデンシアター　歌舞伎「御存 鈴ヶ森」「権三と助十」",
+  "fullTitle": "日曜ゴールデンシアター　歌舞伎「御存 鈴ヶ森」「権三と助十」",
+  "detail": "",
+  "start": 1705829400000,
+  "end": 1705838400000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "権三と助十",
+  "episode": 1,
+  "flags": []
+}
