@@ -1,0 +1,25 @@
+{
+  "id": "38224jy4yz",
+  "category": "news",
+  "title": "週刊ニュースリーダー",
+  "fullTitle": "週刊ニュースリーダー🈑",
+  "detail": "「今週のニュース」①能登半島地震…長引く避難生活・被災地で再び大雨・雪も　②大谷翔平高額年俸後払いに会計監査官が待った",
+  "start": 1705093200000,
+  "end": 1705100400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjt",
+    "sid": 1065,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "今週のニュース",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
