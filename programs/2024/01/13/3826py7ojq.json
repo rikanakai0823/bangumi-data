@@ -1,0 +1,23 @@
+{
+  "id": "3826py7ojq",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ初春Ｓ、11ＲニューイヤーＳ（L）\r\n【京都】10Ｒ紅梅Ｓ（L）、11Ｒ淀短距離Ｓ（L）【小倉】11Ｒ愛知杯（ＧⅢ）",
+  "start": 1705125600000,
+  "end": 1705129200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
