@@ -1,0 +1,23 @@
+{
+  "id": "idwsbrt",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「場と時間空間の物理・コミュニティがつなぐ安全・安心」",
+  "start": 1705116600000,
+  "end": 1705117500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "場と時間空間の物理・コミュニティがつなぐ安全・安心",
+  "episode": 1,
+  "flags": []
+}
