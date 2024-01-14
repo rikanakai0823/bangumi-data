@@ -1,0 +1,25 @@
+{
+  "id": "381xj5sm6p",
+  "category": "information",
+  "title": "めざましテレビ全部見せ",
+  "fullTitle": "めざましテレビ全部見せ🈓",
+  "detail": "きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い",
+  "start": 1705262100000,
+  "end": 1705263900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597du",
+    "sid": 1058,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 32
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "デ"
+  ]
+}
