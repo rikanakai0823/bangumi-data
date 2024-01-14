@@ -1,0 +1,23 @@
+{
+  "id": "idwsbss",
+  "category": "hobby",
+  "title": "サイバーセキュリティⅡ",
+  "fullTitle": "サイバーセキュリティⅡ",
+  "detail": "「第5回　スタートアップ！情報セキュリティ」",
+  "start": 1705217400000,
+  "end": 1705220100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "スタートアップ！情報セキュリティ",
+  "episode": 5,
+  "flags": []
+}
