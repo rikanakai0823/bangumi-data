@@ -1,0 +1,23 @@
+{
+  "id": "ids0ml4",
+  "category": "information",
+  "title": "Ａの伝言　＃218",
+  "fullTitle": "Ａの伝言　＃218",
+  "detail": "最新ムーブメントやイベント情報を紹介。",
+  "start": 1705330440000,
+  "end": 1705330800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 218,
+  "flags": []
+}
