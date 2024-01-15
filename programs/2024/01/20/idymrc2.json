@@ -2,7 +2,7 @@
   "id": "idymrc2",
   "category": "information",
   "title": "諭吉の食卓　＃１４",
-  "fullTitle": "諭吉の食卓　＃１４",
+  "fullTitle": "諭吉の食卓　＃１４🈑",
   "detail": "金融の基礎知識を、他番組にはない切り口『面白く楽しく学ぶ』をコンセプトに学びます。",
   "start": 1705743000000,
   "end": 1705744800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 14,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
