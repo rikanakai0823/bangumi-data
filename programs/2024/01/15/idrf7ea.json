@@ -1,0 +1,25 @@
+{
+  "id": "idrf7ea",
+  "category": "music",
+  "title": "ＢＳ日本・こころの歌",
+  "fullTitle": "🈑ＢＳ日本・こころの歌",
+  "detail": "銀幕歌謡～名場面に流れたメロディと共に～▽曲目：懐しのブルース、新妻鏡、伊豆の踊り子、ギターを持った渡り鳥、霧笛が俺を呼んでいる　ほか",
+  "start": 1705316400000,
+  "end": 1705319640000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
