@@ -1,0 +1,23 @@
+{
+  "id": "ieu2kg6",
+  "category": "etc",
+  "title": "ＷＯＷＯＷご案内チャンネル！",
+  "fullTitle": "ＷＯＷＯＷご案内チャンネル！",
+  "detail": "WOWOWご案内チャンネル！\r\n映画・音楽・スポーツ等のWOWOW最新番組をご紹介！\r\nご加入のお申込みもリモコン・QRコードで簡単にできます！",
+  "start": 1705518000000,
+  "end": 1705528800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ご案内チャンネル",
+    "id": "8l93",
+    "sid": 791,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 94
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
