@@ -1,0 +1,23 @@
+{
+  "id": "idwx7kh",
+  "category": "sports",
+  "title": "競馬ブロス #41",
+  "fullTitle": "競馬ブロス #41",
+  "detail": "馬好きブラザーズ（兄弟）と藤岡佑介騎手の夜な夜な競馬談義",
+  "start": 1706169600000,
+  "end": 1706173200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 41,
+  "flags": []
+}

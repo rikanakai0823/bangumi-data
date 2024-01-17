@@ -1,0 +1,23 @@
+{
+  "id": "idt6dk8",
+  "category": "information",
+  "title": "ＢＳテレ東Ｓｈｏｐ",
+  "fullTitle": "ＢＳテレ東Ｓｈｏｐ",
+  "detail": "便利な商品をお届け",
+  "start": 1706127600000,
+  "end": 1706129100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
