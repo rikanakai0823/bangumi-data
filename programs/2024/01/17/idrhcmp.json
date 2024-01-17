@@ -1,0 +1,23 @@
+{
+  "id": "idrhcmp",
+  "category": "information",
+  "title": "健康物語",
+  "fullTitle": "健康物語",
+  "detail": "",
+  "start": 1705451400000,
+  "end": 1705453200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
