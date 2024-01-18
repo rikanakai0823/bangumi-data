@@ -3,10 +3,14 @@
   "category": "information",
   "title": "いまドキッ！埼玉🈐",
   "fullTitle": "いまドキッ！埼玉🈐🅂",
-  "detail": "",
+  "detail": "新競技「ベースボール５」に挑戦！▽目指せ！手すき和紙職人\n◇出演者\n司会：松井咲子　リポーター：才木玲佳　小堺翔太　ナレーター：岡本寛志",
   "start": 1705707000000,
   "end": 1705708800000,
   "seconds": 1800,
+  "description": "新競技「ベースボール５」に挑戦！▽目指せ！手すき和紙職人",
+  "extra": {
+    "出演者": "司会：松井咲子　リポーター：才木玲佳　小堺翔太　ナレーター：岡本寛志"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 13
   },
-  "subTitle": "",
+  "subTitle": "ベースボール５",
   "episode": 1,
   "flags": [
     "S"
