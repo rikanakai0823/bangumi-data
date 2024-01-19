@@ -1,12 +1,16 @@
 {
   "id": "381jqz00ps",
   "category": "documentary",
-  "title": "ウチのどうぶつえん",
-  "fullTitle": "ウチのどうぶつえん🈖🈑",
-  "detail": "",
+  "title": "ウチのどうぶつえん　沖縄特集！水族館＆動物園",
+  "fullTitle": "ウチのどうぶつえん　沖縄特集！水族館＆動物園🈖🈑",
+  "detail": "【語り】森下絵理香，中谷文彦\n◇出演者\n【語り】森下絵理香，中谷文彦",
   "start": 1706264700000,
   "end": 1706266500000,
   "seconds": 1800,
+  "description": "【語り】森下絵理香，中谷文彦",
+  "extra": {
+    "出演者": "【語り】森下絵理香，中谷文彦"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "語り",
   "episode": 1,
   "flags": [
     "解",
