@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＢＳ日テレジュエリー",
   "fullTitle": "ＢＳ日テレジュエリー",
-  "detail": "",
+  "detail": "◇ホームページ\nhttps://shop.bs4.jp/",
   "start": 1706036100000,
   "end": 1706036400000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "ホームページ": "https://shop.bs4.jp/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",
