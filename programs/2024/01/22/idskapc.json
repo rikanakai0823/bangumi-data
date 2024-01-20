@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・北の大地",
   "fullTitle": "夢の彼方に・北の大地",
-  "detail": "",
+  "detail": "◇制作\n翔テレビジョン",
   "start": 1705860000000,
   "end": 1705863600000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
