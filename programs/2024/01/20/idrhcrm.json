@@ -1,0 +1,23 @@
+{
+  "id": "idrhcrm",
+  "category": "music",
+  "title": "音楽のある風景　ホーム・ミュージック大全集",
+  "fullTitle": "音楽のある風景　ホーム・ミュージック大全集",
+  "detail": "日々の生活の中で聴きたい「ホーム・ミュージック」。クラシックの名曲の数々をお楽しみください",
+  "start": 1705696200000,
+  "end": 1705698000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "ホーム・ミュージック",
+  "episode": 1,
+  "flags": []
+}
