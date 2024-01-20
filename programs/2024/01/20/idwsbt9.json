@@ -1,0 +1,23 @@
+{
+  "id": "idwsbt9",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「サツマイモは世界を救う」",
+  "start": 1705757400000,
+  "end": 1705760100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "サツマイモは世界を救う",
+  "episode": 1,
+  "flags": []
+}
