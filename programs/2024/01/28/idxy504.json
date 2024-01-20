@@ -1,0 +1,23 @@
+{
+  "id": "idxy504",
+  "category": "hobby",
+  "title": "【真冬のバス攻略特集】BLACKBASSTAR 8 真冬の霞ヶ浦",
+  "fullTitle": "【真冬のバス攻略特集】BLACKBASSTAR 8 真冬の霞ヶ浦",
+  "detail": "バスフィッシングのブラックスター・吉田遊が「釣りは遊びだ！」をテーマに、ボートやオカッパリで全国のフィールドを駆け巡る、お笑い満載のエンターテインメント番組。",
+  "start": 1706450400000,
+  "end": 1706454000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "釣りは遊びだ！",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idp1hua",
+  "category": "sports",
+  "title": "大相撲（２０２４年）　初場所　千秋楽",
+  "fullTitle": "大相撲（２０２４年）　初場所　千秋楽🈕🈑",
+  "detail": "　※副音声は場内音声　【解説】正面（十両）…湊（元湊富士），【アナウンサー】正面（十両）…小林陽広　～国技館から中継～",
+  "start": 1706421900000,
+  "end": 1706423400000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
