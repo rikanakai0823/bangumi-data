@@ -1,0 +1,23 @@
+{
+  "id": "idryhx1",
+  "category": "information",
+  "title": "Ａの伝言　＃220",
+  "fullTitle": "Ａの伝言　＃220",
+  "detail": "最新のムーブメントや、いま一番注目したいイベント情報などを紹介。",
+  "start": 1706540040000,
+  "end": 1706540400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 220,
+  "flags": []
+}
