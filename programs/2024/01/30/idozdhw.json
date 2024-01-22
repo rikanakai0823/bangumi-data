@@ -1,0 +1,25 @@
+{
+  "id": "idozdhw",
+  "category": "music",
+  "title": "名曲アルバム　美しく青きドナウ　ヨハン・シュトラウス作曲",
+  "fullTitle": "名曲アルバム　美しく青きドナウ　ヨハン・シュトラウス作曲🅍",
+  "detail": "管弦楽：東京フィルハーモニー交響楽団　指揮：阪　哲朗　【ロケ地】ヴァッハウ渓谷、ウィーン（オーストリア）",
+  "start": 1706561700000,
+  "end": 1706562000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ロケ地",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

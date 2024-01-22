@@ -1,0 +1,25 @@
+{
+  "id": "idozdio",
+  "category": "documentary",
+  "title": "新日本風土記「焼き肉」",
+  "fullTitle": "新日本風土記「焼き肉」🈑",
+  "detail": "戦後、在日朝鮮の人々から広がり、今や外国人旅行客にも大人気の「焼き肉」。漁師町のホルモン、大阪の焼きトン、信州のジビエ、ブラジル流…。日本各地、焼き肉の旅へ。",
+  "start": 1706616000000,
+  "end": 1706619600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "焼き肉",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
