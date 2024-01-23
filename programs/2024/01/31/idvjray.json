@@ -1,0 +1,25 @@
+{
+  "id": "idvjray",
+  "category": "cinema",
+  "title": "映画「種まく旅人～みのりの茶～」",
+  "fullTitle": "🈙映画「種まく旅人～みのりの茶～」",
+  "detail": "おおらかな人間模様に笑い、美しい夕日に泣き、鑑賞後はふと自分の足元を見つめ直したくなる、新しいオーガニック・シネマ！",
+  "start": 1706695200000,
+  "end": 1706702280000,
+  "seconds": 7080,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "種まく旅人～みのりの茶～",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

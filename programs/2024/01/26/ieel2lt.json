@@ -1,0 +1,23 @@
+{
+  "id": "ieel2lt",
+  "category": "etc",
+  "title": "特別講義",
+  "fullTitle": "特別講義",
+  "detail": "「研究不正と研究倫理」",
+  "start": 1706259600000,
+  "end": 1706262300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 84
+  },
+  "subTitle": "研究不正と研究倫理",
+  "episode": 1,
+  "flags": []
+}
