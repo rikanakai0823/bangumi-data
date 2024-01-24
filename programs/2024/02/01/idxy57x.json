@@ -1,0 +1,23 @@
+{
+  "id": "idxy57x",
+  "category": "hobby",
+  "title": "【リクエスト】ぶらりバスの旅 9 伊香保・榛名湖 HAPPY HOLIDAY",
+  "fullTitle": "【リクエスト】ぶらりバスの旅 9 伊香保・榛名湖 HAPPY HOLIDAY",
+  "detail": "電車を乗り継ぎバスに揺られ、全国各地をぶらりするバス番組。その名も『ぶらりバスの旅』。旅をするのは、釣りニンジャことセンドウタカシ。旅の楽しさも釣りの楽しみ！",
+  "start": 1706767200000,
+  "end": 1706770800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idy5hk5",
+  "category": "hobby",
+  "title": "【無料】生活情報の時間",
+  "fullTitle": "【無料】生活情報の時間",
+  "detail": "この時間は、ショッピング情報をお送りしております。",
+  "start": 1706751600000,
+  "end": 1706753400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_1",
+    "name": "日本映画専門ｃｈ",
+    "id": "8ku7",
+    "sid": 255,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 79
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
