@@ -1,9 +1,9 @@
 {
   "id": "36h6jr1ej5",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "オリバイショッピング・オリエンタルバイオ　テレビショッピング",
+  "fullTitle": "オリバイショッピング・オリエンタルバイオ　テレビショッピング🅂",
+  "detail": "知られざる血管リスクに立ち向かう！～人生を輝かせる、私の健康習慣～",
   "start": 1706745600000,
   "end": 1706747400000,
   "seconds": 1800,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
