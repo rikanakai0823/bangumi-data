@@ -1,0 +1,23 @@
+{
+  "id": "idozifr",
+  "category": "music",
+  "title": "さわやかウインドー「鎌倉散歩」",
+  "fullTitle": "さわやかウインドー「鎌倉散歩」",
+  "detail": "",
+  "start": 1706635800000,
+  "end": 1706637600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "鎌倉散歩",
+  "episode": 1,
+  "flags": []
+}
