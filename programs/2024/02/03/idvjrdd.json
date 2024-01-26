@@ -1,0 +1,25 @@
+{
+  "id": "idvjrdd",
+  "category": "information",
+  "title": "ショップチャンネル　ビューティー特集",
+  "fullTitle": "🈢ショップチャンネル　ビューティー特集",
+  "detail": "コスメ／憧れの海外コスメブランドや、こだわり素材のスキンケア、メイク用品、話題の美容器具などビューティーアイテムをご紹介。プロのテクニックも見逃せません。",
+  "start": 1706893200000,
+  "end": 1706896800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

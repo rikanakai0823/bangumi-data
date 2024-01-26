@@ -1,0 +1,25 @@
+{
+  "id": "idxklf1",
+  "category": "sports",
+  "title": "野球好き楽天キャンプin金武(2/3)",
+  "fullTitle": "[生]野球好き楽天キャンプin金武(2/3)",
+  "detail": "楽天キャンプの模様を連日生中継！\r\n\r\n解説：川崎憲次郎\r\n実況：熊谷龍一\r\n開催日：２０２４年２月３日",
+  "start": 1706923800000,
+  "end": 1706928600000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
