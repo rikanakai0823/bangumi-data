@@ -1,0 +1,23 @@
+{
+  "id": "idwsbty",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「これからの日本農業を考える－農業経営研究の視点から－」",
+  "start": 1706362200000,
+  "end": 1706364900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "これからの日本農業を考える－農業経営研究の視点から－",
+  "episode": 1,
+  "flags": []
+}
