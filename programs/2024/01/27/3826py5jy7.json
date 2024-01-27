@@ -1,0 +1,23 @@
+{
+  "id": "3826py5jy7",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10ＲクロッカスＳ（L）\r\n　　　　11Ｒ白富士Ｓ（L）\r\n【京都】10Ｒ許波多特別、11Ｒ舞鶴Ｓ\r\n【小倉】11Ｒ周防灘特別",
+  "start": 1706335200000,
+  "end": 1706338800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
