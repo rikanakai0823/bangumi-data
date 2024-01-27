@@ -1,0 +1,25 @@
+{
+  "id": "idxklep",
+  "category": "sports",
+  "title": "UCI世界選手権大会2024 男子エリート シクロクロス Cycle*",
+  "fullTitle": "[生]UCI世界選手権大会2024 男子エリート シクロクロス Cycle*",
+  "detail": "解説：辻啓\r\n実況：足立清紀\r\n開催日：2024年2月4日(現地)",
+  "start": 1707053400000,
+  "end": 1707060600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

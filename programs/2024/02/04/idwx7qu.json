@@ -1,0 +1,23 @@
+{
+  "id": "idwx7qu",
+  "category": "sports",
+  "title": "今日のレースリプレイ",
+  "fullTitle": "今日のレースリプレイ",
+  "detail": "「第１回東京競馬第３日・第２回京都競馬第３日・第１回小倉競馬第７日」",
+  "start": 1706977800000,
+  "end": 1706983200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "第１回東京競馬第３日・第２回京都競馬第３日・第１回小倉競馬第７日",
+  "episode": 1,
+  "flags": []
+}

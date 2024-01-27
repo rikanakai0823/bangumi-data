@@ -1,0 +1,25 @@
+{
+  "id": "idxil2k",
+  "category": "sports",
+  "title": "スキージャンプ FIS W杯23/24 ビリンゲン(2/4)【男子LH】",
+  "fullTitle": "[生]スキージャンプ FIS W杯23/24 ビリンゲン(2/4)【男子LH】",
+  "detail": "【男子 ラージヒル(HS 147)】\r\nビリンゲン／ドイツ(2/4)\r\n\r\n解説：竹内元康\r\n実況：谷口廣明\r\n開催日：2024年2月4日(現地)",
+  "start": 1707058500000,
+  "end": 1707069600000,
+  "seconds": 11100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "男子LH",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

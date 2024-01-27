@@ -1,0 +1,23 @@
+{
+  "id": "idt6e5j",
+  "category": "information",
+  "title": "お買い物エンターテインメント",
+  "fullTitle": "お買い物エンターテインメント",
+  "detail": "国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！",
+  "start": 1707015600000,
+  "end": 1707019200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
