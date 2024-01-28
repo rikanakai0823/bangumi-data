@@ -1,0 +1,25 @@
+{
+  "id": "idtvhsr",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　東京：根岸S　京都：シルクロードS",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　東京：根岸S　京都：シルクロードS",
+  "detail": "東京：根岸S（GⅢ）京都：シルクロードS（GⅢ）小倉：巌流島S／解説：佐藤圭（競馬エイト）ゲスト：ほのか／今週から東京開催がスタート！フェブラリーS前哨戦",
+  "start": 1706421600000,
+  "end": 1706425200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
