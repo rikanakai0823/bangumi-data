@@ -1,0 +1,25 @@
+{
+  "id": "idymsc9",
+  "category": "anime",
+  "title": "ダイヤのA　＃２０",
+  "fullTitle": "ダイヤのA　＃２０🈑",
+  "detail": "歯車",
+  "start": 1707206400000,
+  "end": 1707208200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 20,
+  "flags": [
+    "字"
+  ]
+}
