@@ -1,0 +1,23 @@
+{
+  "id": "idttgeh",
+  "category": "information",
+  "title": "エバーライフＴＶショッピング",
+  "fullTitle": "エバーライフＴＶショッピング",
+  "detail": "",
+  "start": 1706484480000,
+  "end": 1706486400000,
+  "seconds": 1920,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
