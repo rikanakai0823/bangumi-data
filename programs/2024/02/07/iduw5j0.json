@@ -1,0 +1,25 @@
+{
+  "id": "iduw5j0",
+  "category": "drama",
+  "title": "ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃７",
+  "fullTitle": "🅍ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃７",
+  "detail": "【ＳＴＡＲ　ＤＲＡＭＡ　１１】",
+  "start": 1707314400000,
+  "end": 1707317400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "ＳＴＡＲ　ＤＲＡＭＡ　１１",
+  "episode": 7,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381jqz09kp",
+  "category": "information",
+  "title": "ようこそ認知症世界へ",
+  "fullTitle": "ようこそ認知症世界へ🈑",
+  "detail": "",
+  "start": 1707313800000,
+  "end": 1707314400000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
