@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ere",
   "category": "information",
-  "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン",
+  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン🅂",
+  "detail": "◇番組内容\nソイリッチ　０１２０－４４－００２７",
   "start": 1707217200000,
   "end": 1707219000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ソイリッチ　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

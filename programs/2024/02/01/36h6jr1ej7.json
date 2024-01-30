@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ej7",
-  "category": "etc",
-  "title": "Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ",
-  "fullTitle": "Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・トゥーコネクトテレビショッピング",
+  "fullTitle": "ＴＶショッピング・トゥーコネクトテレビショッピング🅂",
+  "detail": "◇番組内容\n０１２０－０６４－７８９",
   "start": 1706749200000,
   "end": 1706751000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "０１２０－０６４－７８９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }

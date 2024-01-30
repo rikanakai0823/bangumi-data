@@ -1,9 +1,9 @@
 {
   "id": "idxefga",
   "category": "sports",
-  "title": "フリースタイルスキーFIS W杯23/24【男女MO/DM】ディアバレー(2/1-3)",
-  "fullTitle": "フリースタイルスキーFIS W杯23/24【男女MO/DM】ディアバレー(2/1-3)",
-  "detail": "【男女 モーグル／デュアルモーグル】\r\nディアバレー／アメリカ(2/1-3)\r\n\r\n解説：原大智\r\n実況：谷口廣明",
+  "title": "フリースタイルスキーFIS W杯23/24【男女DM】ディアバレー(2/3)",
+  "fullTitle": "フリースタイルスキーFIS W杯23/24【男女DM】ディアバレー(2/3)",
+  "detail": "【男女 デュアルモーグル】\r\nディアバレー／アメリカ(2/3)\r\n\r\n解説：原大智\r\n実況：谷口廣明",
   "start": 1707082200000,
   "end": 1707093000000,
   "seconds": 10800,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 73
   },
-  "subTitle": "男女MO/DM",
+  "subTitle": "男女DM",
   "episode": 1,
   "flags": []
 }
