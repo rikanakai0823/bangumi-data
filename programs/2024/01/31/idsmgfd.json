@@ -1,0 +1,23 @@
+{
+  "id": "idsmgfd",
+  "category": "information",
+  "title": "ＢＳ－ＴＢＳ　プレミアムカイモノラボ",
+  "fullTitle": "ＢＳ－ＴＢＳ　プレミアムカイモノラボ",
+  "detail": "選りすぐりの商品をご紹介するショッピング番組です。",
+  "start": 1706655600000,
+  "end": 1706657400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
