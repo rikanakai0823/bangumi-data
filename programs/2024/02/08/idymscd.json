@@ -1,0 +1,25 @@
+{
+  "id": "idymscd",
+  "category": "anime",
+  "title": "ダイヤのA　＃２４",
+  "fullTitle": "ダイヤのA　＃２４🈑",
+  "detail": "精密機械",
+  "start": 1707379200000,
+  "end": 1707381000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 24,
+  "flags": [
+    "字"
+  ]
+}
