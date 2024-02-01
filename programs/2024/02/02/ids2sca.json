@@ -1,0 +1,23 @@
+{
+  "id": "ids2sca",
+  "category": "variety",
+  "title": "おはよう！ももクロChan　＃69",
+  "fullTitle": "おはよう！ももクロChan　＃69",
+  "detail": "「年跨ぎ！コタツでまったりゲーム」続編！あーりん＆れに ネコになっても以心伝心!?「ももクリ2023」定点観測！クリスマスに浮かれるプリンセスが登場！",
+  "start": 1706817600000,
+  "end": 1706819100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 69,
+  "flags": []
+}
