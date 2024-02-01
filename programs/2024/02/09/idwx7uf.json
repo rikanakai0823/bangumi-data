@@ -1,0 +1,23 @@
+{
+  "id": "idwx7uf",
+  "category": "sports",
+  "title": "トレセンまるごと情報局 #465",
+  "fullTitle": "トレセンまるごと情報局 #465",
+  "detail": "東西トレセンのHOTな情報！",
+  "start": 1707420600000,
+  "end": 1707424200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 465,
+  "flags": []
+}

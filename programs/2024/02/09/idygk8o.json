@@ -1,0 +1,23 @@
+{
+  "id": "idygk8o",
+  "category": "documentary",
+  "title": "旅するシネマ",
+  "fullTitle": "旅するシネマ",
+  "detail": "",
+  "start": 1707485040000,
+  "end": 1707485400000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
