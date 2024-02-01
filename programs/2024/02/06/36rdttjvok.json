@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Not My Fault\"RENEE RAPP & MEGAN THEE STALLION\r\n\"Hated\"YUNGBLUD\r\n\"Happier\"YUNGBLUD feat.OLI SYKES of BRING ME \r\n THE HORIZON\n◇番組内容２\n\"When We Die (Can We Still Get High?)\"YUNGBLUD feat.LIL YACHTY\r\n\"The Conflict Of The Mind\"AURORA",
   "start": 1707145200000,
   "end": 1707147000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Not My Fault\"RENEE RAPP & MEGAN THEE STALLION\r\n\"Hated\"YUNGBLUD\r\n\"Happier\"YUNGBLUD feat.OLI SYKES of BRING ME \r\n THE HORIZON",
+    "番組内容２": "\"When We Die (Can We Still Get High?)\"YUNGBLUD feat.LIL YACHTY\r\n\"The Conflict Of The Mind\"AURORA"
   },
   "channel": {
     "type": "GR",
