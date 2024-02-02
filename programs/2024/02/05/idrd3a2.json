@@ -3,10 +3,14 @@
   "category": "information",
   "title": "日テレポシュレＢＳ店",
   "fullTitle": "日テレポシュレＢＳ店",
-  "detail": "「ポシュレだから買える」お得な商品をご紹介します！",
+  "detail": "「ポシュレだから買える」お得な商品をご紹介します！\n◇ホームページ\nhttps://www.bs4.jp/bsntv_poshlet/",
   "start": 1707058800000,
   "end": 1707060600000,
   "seconds": 1800,
+  "description": "「ポシュレだから買える」お得な商品をご紹介します！",
+  "extra": {
+    "ホームページ": "https://www.bs4.jp/bsntv_poshlet/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",
