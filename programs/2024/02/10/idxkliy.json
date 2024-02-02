@@ -1,0 +1,25 @@
+{
+  "id": "idxkliy",
+  "category": "sports",
+  "title": "野球好き楽天キャンプin金武(2/10)",
+  "fullTitle": "[生]野球好き楽天キャンプin金武(2/10)",
+  "detail": "楽天キャンプの模様を連日生中継！\r\n\r\n解説：高橋雅裕\r\n実況：中田浩光\r\n開催日：２０２４年２月１０日",
+  "start": 1707528600000,
+  "end": 1707534000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

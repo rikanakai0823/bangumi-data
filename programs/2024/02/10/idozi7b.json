@@ -1,0 +1,25 @@
+{
+  "id": "idozi7b",
+  "category": "news",
+  "title": "ワールドニュース",
+  "fullTitle": "ワールドニュース🈔",
+  "detail": "▽イギリス・ＢＢＣ，シンガポール・ＣＮＡ，韓国・ＫＢＳ，中国・ＣＣＴＶ，上海・東方衛視，香港・ＴＶＢ，タイ・ＭＣＯＴ，ブラジル・バンデランテス",
+  "start": 1707508800000,
+  "end": 1707511800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
