@@ -1,8 +1,8 @@
 {
   "id": "idyrqxv",
   "category": "variety",
-  "title": "【よしもとDVDコレクション】THE NEW YORK～Love＆Peace～ベスト・オブ・ニューヨーク",
-  "fullTitle": "【よしもとDVDコレクション】THE NEW YORK～Love＆Peace～ベスト・オブ・ニューヨーク",
+  "title": "THE NEW YORK～Love＆Peace～  ベスト・オブ・ニューヨーク Part1",
+  "fullTitle": "🈑THE NEW YORK～Love＆Peace～  ベスト・オブ・ニューヨーク Part1",
   "detail": "今や人気絶頂の実力派芸人ニューヨークが、2015年にルミネtheよしもとで行った「THE NEW YORK～Love～」のDVDをお届け！\r\n出演者：ニューヨーク",
   "start": 1706965200000,
   "end": 1706971500000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "THE NEW YORK～Love～",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
