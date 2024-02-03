@@ -1,0 +1,23 @@
+{
+  "id": "idwsbum",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「数学の不思議('89)」",
+  "start": 1706969700000,
+  "end": 1706972400000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "数学の不思議('89)",
+  "episode": 1,
+  "flags": []
+}
