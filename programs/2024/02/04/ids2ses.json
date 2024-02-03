@@ -1,0 +1,25 @@
+{
+  "id": "ids2ses",
+  "category": "anime",
+  "title": "アニメA・僕の心のヤバイやつ　karte16「山田は僕を」",
+  "fullTitle": "🈑アニメA・僕の心のヤバイやつ　karte16「山田は僕を」",
+  "detail": "バレンタイン、山田は友チョコを集めて回ったり、萌子手作りのチョコを市川から横取りしたり変な様子。放課後、そんな山田が手に持つ袋の中にはあるものが隠されていた…。",
+  "start": 1706976000000,
+  "end": 1706977800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "山田は僕を",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idozip7",
+  "category": "information",
+  "title": "きょうのＢＳおススメ！１分ＰＲ",
+  "fullTitle": "きょうのＢＳおススメ！１分ＰＲ",
+  "detail": "ＢＳのきょうの番組のみどころをコンパクトに伝えるミニ番組。２月１１日放送分を紹介。",
+  "start": 1707607140000,
+  "end": 1707607200000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

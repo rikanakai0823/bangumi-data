@@ -1,0 +1,26 @@
+{
+  "id": "idozkrs",
+  "category": "documentary",
+  "title": "決戦！戦国　ＶＲ関ヶ原・大坂の陣",
+  "fullTitle": "決戦！戦国　ＶＲ関ヶ原・大坂の陣🈑🈞",
+  "detail": "もしも、戦国の合戦を体験することができるとしたら！？関ヶ原の戦いと大坂の陣をＶＲでよみがえらせる歴史プロジェクト。徳川家康や真田信繁、誰も知らない戦国を目撃する",
+  "start": 1707620400000,
+  "end": 1707627600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
