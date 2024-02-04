@@ -1,0 +1,23 @@
+{
+  "id": "idwsbut",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「和歌文学の世界('14)第８回・９回」",
+  "start": 1707042600000,
+  "end": 1707048000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "和歌文学の世界('14)第８回・９回",
+  "episode": 8,
+  "flags": []
+}
