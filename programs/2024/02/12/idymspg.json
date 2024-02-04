@@ -1,0 +1,23 @@
+{
+  "id": "idymspg",
+  "category": "sports",
+  "title": "PGAハイライト",
+  "fullTitle": "PGAハイライト",
+  "detail": "2日間にわたって放送した中継映像をメインMC・ゲストを交えながらお送りします。",
+  "start": 1707739200000,
+  "end": 1707742800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "idxefmb",
+  "category": "sports",
+  "title": "ラグビー わんだほー！～ラグビー情報番組～ #66",
+  "fullTitle": "[無料][初]ラグビー わんだほー！～ラグビー情報番組～ #66",
+  "detail": "ゲスト：田邊淳（クボタスピアーズアシスタントコーチ）\r\nコメンテーター：村上晃一、谷口廣明\r\nMC：浅野杏奈",
+  "start": 1707742800000,
+  "end": 1707746400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 66,
+  "flags": [
+    "無",
+    "初"
+  ]
+}

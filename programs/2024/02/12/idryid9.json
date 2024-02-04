@@ -1,0 +1,25 @@
+{
+  "id": "idryid9",
+  "category": "hobby",
+  "title": "京の絶景 mini　＃4「京の四季」",
+  "fullTitle": "🈑京の絶景 mini　＃4「京の四季」",
+  "detail": "春夏秋冬の京都の絶景。春は桜の仁和寺や醍醐寺。夏は日本三景としても知られる天橋立。秋は東福寺や二尊院の紅葉。冬は大原三千院の雪景色など。四季折々の京の美しさ…。",
+  "start": 1707670800000,
+  "end": 1707672600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "京の四季",
+  "episode": 4,
+  "flags": [
+    "字"
+  ]
+}
