@@ -1,0 +1,23 @@
+{
+  "id": "idwx7yi",
+  "category": "sports",
+  "title": "ダート競馬JAPAN #36",
+  "fullTitle": "ダート競馬JAPAN #36",
+  "detail": "「日本全国のダート競馬展望番組」",
+  "start": 1707793200000,
+  "end": 1707795000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "日本全国のダート競馬展望番組",
+  "episode": 36,
+  "flags": []
+}
