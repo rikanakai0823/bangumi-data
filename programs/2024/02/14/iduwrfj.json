@@ -1,0 +1,26 @@
+{
+  "id": "iduwrfj",
+  "category": "cinema",
+  "title": "ナイトメア・アリー",
+  "fullTitle": "🈙🅍ナイトメア・アリー",
+  "detail": "ギレルモ・デル・トロ監督のサスペンススリラー。ショービジネスの成功者となった男が、恐るべき闇に飲み込まれてゆく姿を描く。",
+  "start": 1707909300000,
+  "end": 1707919200000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
