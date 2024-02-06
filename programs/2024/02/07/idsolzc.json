@@ -1,0 +1,23 @@
+{
+  "id": "idsolzc",
+  "category": "etc",
+  "title": "おはよう！情報館",
+  "fullTitle": "おはよう！情報館",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1707251400000,
+  "end": 1707253200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
