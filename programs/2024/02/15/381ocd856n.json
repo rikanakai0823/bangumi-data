@@ -3,10 +3,15 @@
   "category": "variety",
   "title": "Ｄａ－ｉＣＥ　Ｌａｂ",
   "fullTitle": "Ｄａ－ｉＣＥ　Ｌａｂ",
-  "detail": "",
+  "detail": "Da-iCEの冠番組第二弾！毎回1つのキーワードについてトークし、Da-iCEにインストール！番組ならではのパフォーマンスも！\n◇出演者\nDa-iCE（工藤大輝・岩岡徹・大野雄大・花村想太・和田颯）\r\nNAOTO（EXILE/三代目 J SOUL BROTHERS）\r\n中務裕太（GENERATIONS）\r\n世界（EXILE/FANTASTICS）\n◇制作\nウィレッジ",
   "start": 1707926340000,
   "end": 1707928140000,
   "seconds": 1800,
+  "description": "Da-iCEの冠番組第二弾！毎回1つのキーワードについてトークし、Da-iCEにインストール！番組ならではのパフォーマンスも！",
+  "extra": {
+    "出演者": "Da-iCE（工藤大輝・岩岡徹・大野雄大・花村想太・和田颯）\r\nNAOTO（EXILE/三代目 J SOUL BROTHERS）\r\n中務裕太（GENERATIONS）\r\n世界（EXILE/FANTASTICS）",
+    "制作": "ウィレッジ"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
