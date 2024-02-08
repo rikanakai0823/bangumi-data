@@ -3,10 +3,15 @@
   "category": "variety",
   "title": "ＢＵＺＺ　ＴＶ　＆ＴＥＡＭ学園　２学期",
   "fullTitle": "ＢＵＺＺ　ＴＶ　＆ＴＥＡＭ学園　２学期🈑",
-  "detail": "",
+  "detail": "グローバルグループ・&TEAMの冠番組・第2弾！いろんな豪華ゲストとともに様々なことを体験して「縁」を結びます！多様な9人が等身大の魅力を伝えるバラエティー番組\n◇出演者\n&TEAM\r\n【ゲスト】\r\nENHYPEN\r\nLE SSERAFIM\r\nBOYNEXTDOOR\n◇番組内容\n世界で活躍するBTSの後輩「&TEAM」の冠番組・第2弾！ENHYPEN先輩と決めポーズで止まるゲーム「マネキンさんが転んだ」で対決！２組のカッコ良すぎる＆かわいすぎるキメ顔は必見！BEAT AXでのLE SSERAFIMの「Perfect Night」のパフォーマンスも！さらに！大注目の新星・BOYNEXTDOORが日本のバラエティ番組初出演！東京タワーの最新・e-sports施設でゲーム対決！",
   "start": 1707543000000,
   "end": 1707544800000,
   "seconds": 1800,
+  "description": "グローバルグループ・&TEAMの冠番組・第2弾！いろんな豪華ゲストとともに様々なことを体験して「縁」を結びます！多様な9人が等身大の魅力を伝えるバラエティー番組",
+  "extra": {
+    "出演者": "&TEAM\r\n【ゲスト】\r\nENHYPEN\r\nLE SSERAFIM\r\nBOYNEXTDOOR",
+    "番組内容": "世界で活躍するBTSの後輩「&TEAM」の冠番組・第2弾！ENHYPEN先輩と決めポーズで止まるゲーム「マネキンさんが転んだ」で対決！２組のカッコ良すぎる＆かわいすぎるキメ顔は必見！BEAT AXでのLE SSERAFIMの「Perfect Night」のパフォーマンスも！さらに！大注目の新星・BOYNEXTDOORが日本のバラエティ番組初出演！東京タワーの最新・e-sports施設でゲーム対決！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
+  "subTitle": "縁",
   "episode": 1,
   "flags": [
     "字"
