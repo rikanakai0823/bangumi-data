@@ -1,0 +1,25 @@
+{
+  "id": "idxklnc",
+  "category": "sports",
+  "title": "野球好き楽天キャンプin金武(2/16)",
+  "fullTitle": "[生]野球好き楽天キャンプin金武(2/16)",
+  "detail": "楽天キャンプの模様を連日生中継！\r\n\r\n解説：野口寿浩\r\n実況：中田浩光\r\n開催日：２０２４年２月１６日",
+  "start": 1708048800000,
+  "end": 1708059600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
