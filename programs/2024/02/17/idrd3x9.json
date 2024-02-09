@@ -1,0 +1,23 @@
+{
+  "id": "idrd3x9",
+  "category": "cinema",
+  "title": "映画「必殺！Ⅲ裏か表か」",
+  "fullTitle": "映画「必殺！Ⅲ裏か表か」",
+  "detail": "人が人を殺す。だが今は、金が人を殺す。",
+  "start": 1708164000000,
+  "end": 1708172640000,
+  "seconds": 8640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
