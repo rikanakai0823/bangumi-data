@@ -3,10 +3,14 @@
   "category": "hobby",
   "title": "釣り百景",
   "fullTitle": "🈑釣り百景",
-  "detail": "",
+  "detail": "◇制作\n2024年",
   "start": 1708002000000,
   "end": 1708005240000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2024年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
