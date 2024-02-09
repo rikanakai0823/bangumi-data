@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「如月賞」「エリダヌス座特別」",
+  "detail": "「如月賞」「エリダヌス座特別」\n◇出演者      \n【MC】\r\n山田かれん\r\n【解説】\r\n《8R～11R》大木尚文（競馬ブック）",
   "start": 1708064400000,
   "end": 1708072200000,
   "seconds": 7800,
+  "description": "「如月賞」「エリダヌス座特別」",
+  "extra": {
+    "出演者      ": "【MC】\r\n山田かれん\r\n【解説】\r\n《8R～11R》大木尚文（競馬ブック）\r\n\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

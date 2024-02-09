@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「クロッカス特別」「梅見月賞」「日向坂賞」",
+  "detail": "「クロッカス特別」「梅見月賞」「日向坂賞」\n◇出演者\n【MC】\r\n砂岡春奈\r\n【解説】\r\n《9R～12R》藤田裕之（ケイシュウNEWS）",
   "start": 1707978000000,
   "end": 1707985800000,
   "seconds": 7800,
+  "description": "「クロッカス特別」「梅見月賞」「日向坂賞」",
+  "extra": {
+    "出演者": "【MC】\r\n砂岡春奈\r\n【解説】\r\n《9R～12R》藤田裕之（ケイシュウNEWS）\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
