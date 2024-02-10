@@ -1,0 +1,23 @@
+{
+  "id": "idp3w8l",
+  "category": "news",
+  "title": "総合テレビ（石川県内）同時放送",
+  "fullTitle": "総合テレビ（石川県内）同時放送",
+  "detail": "被災された方々に向け、総合テレビ（石川県内）のニュース・番組を放送しています",
+  "start": 1708209600000,
+  "end": 1708225200000,
+  "seconds": 15600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫ",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

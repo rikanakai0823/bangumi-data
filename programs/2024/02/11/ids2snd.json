@@ -1,0 +1,25 @@
+{
+  "id": "ids2snd",
+  "category": "anime",
+  "title": "アニメA・僕の心のヤバイやつ　karte17「僕は知りたい」",
+  "fullTitle": "🈑アニメA・僕の心のヤバイやつ　karte17「僕は知りたい」",
+  "detail": "放課後、映画へ行くことになった市川と山田。映画が始まり尊敬する事務所の先輩の演技を真剣に見つめる山田を目にした市川は、自分の知らない山田をもっと知りたいと思う。",
+  "start": 1707580800000,
+  "end": 1707582600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "僕は知りたい",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

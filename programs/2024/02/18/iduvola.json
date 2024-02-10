@@ -1,0 +1,26 @@
+{
+  "id": "iduvola",
+  "category": "cinema",
+  "title": "サイレント・ナイト",
+  "fullTitle": "🈙🅍サイレント・ナイト",
+  "detail": "キーラ・ナイトレイ主演のブラックコメディ。猛毒のガスがまん延した世界で最後の聖夜を過ごすために集まった人々の運命を描く。",
+  "start": 1708212600000,
+  "end": 1708218600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
