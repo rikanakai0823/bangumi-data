@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ゴルフＯＮＥ",
   "fullTitle": "ゴルフＯＮＥ",
-  "detail": "",
+  "detail": "◇制作\n2024年",
   "start": 1708156800000,
   "end": 1708158600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2024年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
