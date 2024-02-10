@@ -1,0 +1,23 @@
+{
+  "id": "38224jzqlo",
+  "category": "information",
+  "title": "ＣＳテレ朝ナビ‼",
+  "fullTitle": "ＣＳテレ朝ナビ‼",
+  "detail": "テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！",
+  "start": 1707593400000,
+  "end": 1707593700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "ドラえもん",
+  "episode": 1,
+  "flags": []
+}
