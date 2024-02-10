@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "前人未答！ドキドキアドベンチャー　どうなるでＳＨＯＷ",
   "fullTitle": "前人未答！ドキドキアドベンチャー　どうなるでＳＨＯＷ🈑",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ https://www.tbs.co.jp/program/dounarudeshow/",
   "start": 1708081200000,
   "end": 1708088400000,
   "seconds": 7200,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ https://www.tbs.co.jp/program/dounarudeshow/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
