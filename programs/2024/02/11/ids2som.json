@@ -1,0 +1,23 @@
+{
+  "id": "ids2som",
+  "category": "music",
+  "title": "暦に集う　「おんだ祭」",
+  "fullTitle": "暦に集う　「おんだ祭」",
+  "detail": "歴史の里・奈良県明日香村にある飛鳥坐（あすかにいます）神社に、2月4日の朝、多くの人が集っていました。伝統の「おんだ祭」です。天狗が参拝者のお尻を叩いています。",
+  "start": 1707652440000,
+  "end": 1707652800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "おんだ祭",
+  "episode": 1,
+  "flags": []
+}

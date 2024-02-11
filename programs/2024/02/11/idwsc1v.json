@@ -1,0 +1,23 @@
+{
+  "id": "idwsc1v",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「和歌文学の世界('14)第１０回・１１回・１２回」",
+  "start": 1707647400000,
+  "end": 1707655500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "和歌文学の世界('14)第１０回・１１回・１２回",
+  "episode": 10,
+  "flags": []
+}
