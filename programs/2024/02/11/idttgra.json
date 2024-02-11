@@ -1,0 +1,23 @@
+{
+  "id": "idttgra",
+  "category": "sports",
+  "title": "フィギュアスケートＴＶ！　第98回",
+  "fullTitle": "フィギュアスケートＴＶ！　第98回",
+  "detail": "1月に日本各地で実施された大会の模様を中心にお届け！",
+  "start": 1707638400000,
+  "end": 1707641700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 98,
+  "flags": []
+}
