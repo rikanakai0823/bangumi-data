@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1fdv",
-  "category": "etc",
-  "title": "ショッピングタイム",
-  "fullTitle": "ショッピングタイム",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
+  "fullTitle": "ＴＶショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nスライヴプレミアムスウィッチ　０１２０－８８８－６５４",
   "start": 1708387200000,
   "end": 1708389000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "スライヴプレミアムスウィッチ　０１２０－８８８－６５４"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
