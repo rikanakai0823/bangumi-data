@@ -1,0 +1,23 @@
+{
+  "id": "idygkjs",
+  "category": "documentary",
+  "title": "旅するシネマ 茅ヶ崎・鎌倉編",
+  "fullTitle": "旅するシネマ 茅ヶ崎・鎌倉編",
+  "detail": "映画にゆかりのある地を巡り、紹介。",
+  "start": 1708522080000,
+  "end": 1708522200000,
+  "seconds": 120,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

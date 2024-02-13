@@ -1,0 +1,27 @@
+{
+  "id": "idudanu",
+  "category": "cinema",
+  "title": "めんたいぴりり",
+  "fullTitle": "🈙めんたいぴりり🅍🈑",
+  "detail": "辛子めんたいこの老舗、“ふくや”の創業者である川原俊夫の伝記をもとにした人情ドラマ。博多華丸が、ＴＶドラマ版、舞台版に続いて主人公役を熱演。後に続編も作られた。",
+  "start": 1708493400000,
+  "end": 1708500600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
