@@ -1,8 +1,8 @@
 {
   "id": "idymspk",
   "category": "sports",
-  "title": "PGAハイライト　＃７",
-  "fullTitle": "PGAハイライト　＃７",
+  "title": "PGAハイライト in ザ・ジェネシス招待",
+  "fullTitle": "PGAハイライト in ザ・ジェネシス招待🈞",
   "detail": "2日間にわたって放送した中継映像をメインMC・ゲストを交えながらお送りします。",
   "start": 1708491600000,
   "end": 1708495200000,
@@ -18,6 +18,8 @@
     "n": 82
   },
   "subTitle": "",
-  "episode": 7,
-  "flags": []
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
 }
