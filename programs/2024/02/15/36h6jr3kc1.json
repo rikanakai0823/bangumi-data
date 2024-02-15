@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3kc1",
+  "category": "news",
+  "title": "松乃井リゾート天気予報",
+  "fullTitle": "松乃井リゾート天気予報🅂",
+  "detail": "",
+  "start": 1708003740000,
+  "end": 1708003800000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
