@@ -1,0 +1,25 @@
+{
+  "id": "idozrb2",
+  "category": "sports",
+  "title": "サッカーの園～究極のワンプレー～",
+  "fullTitle": "サッカーの園～究極のワンプレー～🈑",
+  "detail": "",
+  "start": 1708675500000,
+  "end": 1708678500000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
