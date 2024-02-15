@@ -1,0 +1,25 @@
+{
+  "id": "381f5kujto",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース🈑",
+  "detail": "【キャスター】糸井羊司",
+  "start": 1707966000000,
+  "end": 1707967200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "キャスター",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
