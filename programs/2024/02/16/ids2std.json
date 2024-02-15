@@ -1,0 +1,23 @@
+{
+  "id": "ids2std",
+  "category": "variety",
+  "title": "おはよう！ももクロChan　＃71",
+  "fullTitle": "おはよう！ももクロChan　＃71",
+  "detail": "「第7回ももいろ歌合戦定点観測」！おなじみの大物からフレッシュな若手まで、超豪華出演者がももクロChanの定点カメラに大集合！ステージの裏話が盛りだくさん!?",
+  "start": 1708027200000,
+  "end": 1708028700000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "第7回ももいろ歌合戦定点観測",
+  "episode": 71,
+  "flags": []
+}
