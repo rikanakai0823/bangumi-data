@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5phh",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽あなたにエールを！星座占い▽天気▽竹本ファーマーズ▽たけもっと～メッセージ▽メッセージテーマ「ちょっとこれムリ！」",
+  "start": 1707982200000,
+  "end": 1707984000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "ちょっとこれムリ！",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
