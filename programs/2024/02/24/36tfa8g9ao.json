@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8g9ao",
+  "category": "news",
+  "title": "ＴＯＫＹＯ　ＭＸ　ｎｅｗｓ　ＦＬＡＧ",
+  "fullTitle": "ＴＯＫＹＯ　ＭＸ　ｎｅｗｓ　ＦＬＡＧ",
+  "detail": "東京の様々なニュースをお伝えします。\n◇出演者      \n【キャスター】木村カレン",
+  "start": 1708766700000,
+  "end": 1708767000000,
+  "seconds": 300,
+  "description": "東京の様々なニュースをお伝えします。",
+  "extra": {
+    "出演者      ": "【キャスター】木村カレン"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
