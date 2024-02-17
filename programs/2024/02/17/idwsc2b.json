@@ -1,0 +1,23 @@
+{
+  "id": "idwsc2b",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「民謡の伝播と変容('92)」",
+  "start": 1708179300000,
+  "end": 1708182000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "民謡の伝播と変容('92)",
+  "episode": 1,
+  "flags": []
+}
