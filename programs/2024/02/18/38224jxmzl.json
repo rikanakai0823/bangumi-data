@@ -1,0 +1,25 @@
+{
+  "id": "38224jxmzl",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "「GET SPORTS」放送２５周年・出演者とスタッフが語る（後編）\r\nスポーツの舞台裏をとことん追求してきた「GET SPORTS」の魅力とは？",
+  "start": 1708200000000,
+  "end": 1708201200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjt",
+    "sid": 1065,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "GET SPORTS",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
