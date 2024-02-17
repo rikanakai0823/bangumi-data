@@ -1,0 +1,23 @@
+{
+  "id": "idozp2c",
+  "category": "sports",
+  "title": "Ｊリーグタイム「Ｊ１開幕節」",
+  "fullTitle": "Ｊリーグタイム「Ｊ１開幕節」",
+  "detail": "日曜夜は「Ｊリーグタイム」▼シーズン開幕Ｊ１全１０試合・全ゴール！▼新スタジアムで広島×浦和▼国立競技場で東京Ｖ×横浜ＦＭ・Ｊ開幕カード再び▼福西崇史＆今井美桜",
+  "start": 1708870800000,
+  "end": 1708873500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "Ｊ１開幕節",
+  "episode": 1,
+  "flags": []
+}

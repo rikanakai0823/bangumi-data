@@ -1,0 +1,27 @@
+{
+  "id": "idskco4",
+  "category": "etc",
+  "title": "グリーン★一番星",
+  "fullTitle": "グリーン★一番星",
+  "detail": "◇制作\n2024年",
+  "start": 1708836840000,
+  "end": 1708837200000,
+  "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2024年"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "idskcnx",
+  "category": "information",
+  "title": "情報セレクト",
+  "fullTitle": "情報セレクト",
+  "detail": "選りすぐりの商品をご紹介！\n◇番組内容\n通販各社のＴＶショッピングを曜日ごとに内容を変えてお届けします。",
+  "start": 1708826040000,
+  "end": 1708826400000,
+  "seconds": 360,
+  "description": "選りすぐりの商品をご紹介！",
+  "extra": {
+    "番組内容": "通販各社のＴＶショッピングを曜日ごとに内容を変えてお届けします。"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

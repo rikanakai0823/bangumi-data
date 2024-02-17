@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kjs8",
+  "category": "sports",
+  "title": "川口オート　ＳＧ全日本選抜オートレース中継",
+  "fullTitle": "川口オート　ＳＧ全日本選抜オートレース中継",
+  "detail": " ",
+  "start": 1708846200000,
+  "end": 1708849800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

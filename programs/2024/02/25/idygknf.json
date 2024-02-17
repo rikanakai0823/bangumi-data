@@ -1,0 +1,23 @@
+{
+  "id": "idygknf",
+  "category": "music",
+  "title": "LUNA SEA MUSIC VIDEO SELECTION",
+  "fullTitle": "LUNA SEA MUSIC VIDEO SELECTION",
+  "detail": "LUNA SEA結成35周年を祝して、本日夜7時からLUNA SEAのライブをお届けします！",
+  "start": 1708853400000,
+  "end": 1708855200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
