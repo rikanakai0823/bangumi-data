@@ -1,0 +1,23 @@
+{
+  "id": "idwsc2i",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「和歌文学の世界('14)第１３回・１４回・１５回」",
+  "start": 1708252200000,
+  "end": 1708260300000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "和歌文学の世界('14)第１３回・１４回・１５回",
+  "episode": 13,
+  "flags": []
+}
