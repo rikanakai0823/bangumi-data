@@ -1,0 +1,26 @@
+{
+  "id": "idudar1",
+  "category": "cinema",
+  "title": "ハンナ（字幕版）",
+  "fullTitle": "🈙ハンナ（字幕版）🅍",
+  "detail": "「つぐない」のＪ・ライト監督とＳ・ローナンが再びコンビを組んだサスペンスアクション。子役から女優へと成長したローナンが、非情な暗殺者の美少女を熱演する。",
+  "start": 1708908300000,
+  "end": 1708915500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "つぐない",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

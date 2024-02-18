@@ -1,0 +1,23 @@
+{
+  "id": "idygkog",
+  "category": "information",
+  "title": "ＢＳ松竹東急お得情報",
+  "fullTitle": "ＢＳ松竹東急お得情報",
+  "detail": "多慶屋の新館「ＴＡＫＥＹＡ１」",
+  "start": 1708938000000,
+  "end": 1708938360000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "ＴＡＫＥＹＡ１",
+  "episode": 1,
+  "flags": []
+}
