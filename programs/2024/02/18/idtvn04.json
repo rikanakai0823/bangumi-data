@@ -1,0 +1,23 @@
+{
+  "id": "idtvn04",
+  "category": "information",
+  "title": "トライステージＴＶショッピング",
+  "fullTitle": "トライステージＴＶショッピング",
+  "detail": "",
+  "start": 1708217700000,
+  "end": 1708218000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
