@@ -1,0 +1,25 @@
+{
+  "id": "idx1j5z",
+  "category": "anime",
+  "title": "ウマ娘 プリティーダービー #1,2",
+  "fullTitle": "🈑ウマ娘 プリティーダービー #1,2",
+  "detail": "第１Ｒ「夢のゲートっ！」\r\n第２Ｒ「いきなりのデビュー戦」\r\nこれは異世界から受け継いだ輝かしい名前と競走能力を持つ“ウ…",
+  "start": 1709017200000,
+  "end": 1709020800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "夢のゲートっ！",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

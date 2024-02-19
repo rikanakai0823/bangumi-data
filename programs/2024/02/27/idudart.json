@@ -1,0 +1,26 @@
+{
+  "id": "idudart",
+  "category": "cinema",
+  "title": "ＴＡＲ／ター（字幕版）",
+  "fullTitle": "🈙ＴＡＲ／ター（字幕版）🅍",
+  "detail": "Ｃ・ブランシェットが、クラシック音楽界の頂点に立つ天才指揮者に扮して圧巻の演技を披露。数々の映画賞に輝き、世界中の映画ファンを震撼させた衝撃のサスペンスドラマ。",
+  "start": 1709006400000,
+  "end": 1709016300000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
