@@ -1,0 +1,23 @@
+{
+  "id": "idsmhig",
+  "category": "information",
+  "title": "ビバ！ショッピング",
+  "fullTitle": "ビバ！ショッピング",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1708327800000,
+  "end": 1708329540000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
