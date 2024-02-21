@@ -1,0 +1,25 @@
+{
+  "id": "idozujo",
+  "category": "documentary",
+  "title": "空港ピアノ「仙台」",
+  "fullTitle": "空港ピアノ「仙台」🈑",
+  "detail": "東日本大震災から１０年。仙台空港に期間限定で設置された「復興ピアノ」。津波をかぶり、がれきの中からよみがえったピアノだ。訪れた人々はどんな思いで曲を弾くのか。",
+  "start": 1708968960000,
+  "end": 1708971660000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "仙台",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
