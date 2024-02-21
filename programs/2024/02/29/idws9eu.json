@@ -1,0 +1,23 @@
+{
+  "id": "idws9eu",
+  "category": "hobby",
+  "title": "はじめての気象学　第1回",
+  "fullTitle": "はじめての気象学　第1回",
+  "detail": "「地球大気の歴史」",
+  "start": 1709162100000,
+  "end": 1709164800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "地球大気の歴史",
+  "episode": 1,
+  "flags": []
+}
