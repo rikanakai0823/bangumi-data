@@ -2,7 +2,7 @@
   "id": "idymsg3",
   "category": "sports",
   "title": "GOLF JOKER　＃６０",
-  "fullTitle": "GOLF JOKER　＃６０",
+  "fullTitle": "GOLF JOKER　＃６０🈑",
   "detail": "優勝賞金100万円を懸けて行われる唯一無二の女子ゴルフ9ホールマッチプレートーナメント！8名の参加選手の中に2名のジョーカーが参戦、若手選手の行く手を阻みます！",
   "start": 1708776000000,
   "end": 1708779600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 60,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
