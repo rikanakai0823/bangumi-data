@@ -1,9 +1,9 @@
 {
   "id": "idyrsqr",
-  "category": "music",
-  "title": "let me Know K-POP #1 Kep1er",
-  "fullTitle": "🈟let me Know K-POP #1 Kep1er",
-  "detail": "世界中のファンたちの投票で結成したKep1erが多彩な魅力を大放出！ライブステージでは、「Giddy」「I do! Do you?」「Dreams」を披露。",
+  "category": "variety",
+  "title": "Y-Tube大賞(2/20)",
+  "fullTitle": "🈑Y-Tube大賞(2/20)",
+  "detail": "よしもと芸人のYouTubeチャンネルの中から、おもしろ動画を紹介していくY-Tube大賞！MCと一緒に動画を見て楽しめます！お気に入りの動画にも出会えるかも！",
   "start": 1708984800000,
   "end": 1708988400000,
   "seconds": 3600,
@@ -17,9 +17,9 @@
     "hasLogoData": true,
     "n": 83
   },
-  "subTitle": "Kep1er",
+  "subTitle": "",
   "episode": 1,
   "flags": [
-    "新"
+    "字"
   ]
 }
