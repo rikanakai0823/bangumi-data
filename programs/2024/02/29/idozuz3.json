@@ -1,0 +1,23 @@
+{
+  "id": "idozuz3",
+  "category": "news",
+  "title": "クローズアップ現代",
+  "fullTitle": "クローズアップ現代",
+  "detail": "",
+  "start": 1709146800000,
+  "end": 1709148420000,
+  "seconds": 1620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

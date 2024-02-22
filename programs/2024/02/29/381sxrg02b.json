@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "笑える！泣ける！動物スクープ１００連発",
   "fullTitle": "笑える！泣ける！動物スクープ１００連発🈑",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ https://www.tbs.co.jp/program/doubutuscoop/",
   "start": 1709204400000,
   "end": 1709211600000,
   "seconds": 7200,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ https://www.tbs.co.jp/program/doubutuscoop/\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
