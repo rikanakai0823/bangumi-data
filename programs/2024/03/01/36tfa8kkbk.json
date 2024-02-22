@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8kkbk",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ムスカリ特別」「オフト汐留賞」「弥生賞」\n◇出演者      \n【MC】\r\n芦崎愛\r\n【解説】\r\n《9R～12R》市川俊吾（日刊競馬）",
+  "start": 1709274000000,
+  "end": 1709281800000,
+  "seconds": 7800,
+  "description": "「ムスカリ特別」「オフト汐留賞」「弥生賞」",
+  "extra": {
+    "出演者      ": "【MC】\r\n芦崎愛\r\n【解説】\r\n《9R～12R》市川俊吾（日刊競馬）\r\n\r\n\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

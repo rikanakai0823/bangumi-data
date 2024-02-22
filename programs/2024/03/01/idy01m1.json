@@ -1,0 +1,25 @@
+{
+  "id": "idy01m1",
+  "category": "cinema",
+  "title": "ブラック・スキャンダル",
+  "fullTitle": "🈙ブラック・スキャンダル",
+  "detail": "ジョニー・デップ、ベネディクト・カンバーバッチらが共演した実話犯罪劇。デップはFBIに最重要指名手配を掛けられた実在のギャング役。",
+  "start": 1709269200000,
+  "end": 1709278200000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_0",
+    "name": "ＷＯＷＯＷプラス",
+    "id": "8ku4",
+    "sid": 252,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 78
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
