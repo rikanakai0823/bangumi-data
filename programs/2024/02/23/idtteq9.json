@@ -1,0 +1,23 @@
+{
+  "id": "idtteq9",
+  "category": "information",
+  "title": "今夜のオススメ",
+  "fullTitle": "今夜のオススメ",
+  "detail": "",
+  "start": 1708680600000,
+  "end": 1708680900000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
