@@ -1,0 +1,23 @@
+{
+  "id": "ieel5vb",
+  "category": "etc",
+  "title": "放送休止",
+  "fullTitle": "放送休止",
+  "detail": "",
+  "start": 1708852500000,
+  "end": 1708853400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 84
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

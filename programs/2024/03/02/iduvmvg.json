@@ -1,0 +1,26 @@
+{
+  "id": "iduvmvg",
+  "category": "cinema",
+  "title": "パリ１３区［Ｒ１５＋指定版］",
+  "fullTitle": "🈙🅍パリ１３区［Ｒ１５＋指定版］",
+  "detail": "ジャック・オーディアール監督がモノクロ映像で綴る群像劇。パリの再開発地区を舞台に、そこで生きる男女４人の恋愛模様を描く。",
+  "start": 1709316000000,
+  "end": 1709323200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idwq6xr",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「五十音図の歴史('95)」",
+  "start": 1709388900000,
+  "end": 1709391600000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "五十音図の歴史('95)",
+  "episode": 1,
+  "flags": []
+}

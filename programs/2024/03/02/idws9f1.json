@@ -1,0 +1,23 @@
+{
+  "id": "idws9f1",
+  "category": "hobby",
+  "title": "はじめての気象学　第8回",
+  "fullTitle": "はじめての気象学　第8回",
+  "detail": "「温帯低気圧」",
+  "start": 1709337600000,
+  "end": 1709340300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "温帯低気圧",
+  "episode": 8,
+  "flags": []
+}

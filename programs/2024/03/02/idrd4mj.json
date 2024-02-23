@@ -1,0 +1,23 @@
+{
+  "id": "idrd4mj",
+  "category": "sports",
+  "title": "ジャパンラグビー　リーグワン２０２４",
+  "fullTitle": "ジャパンラグビー　リーグワン２０２４",
+  "detail": "",
+  "start": 1709355600000,
+  "end": 1709362800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
