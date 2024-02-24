@@ -1,0 +1,23 @@
+{
+  "id": "idyrtan",
+  "category": "variety",
+  "title": "ひらめきの時 #23",
+  "fullTitle": "ひらめきの時 #23",
+  "detail": "この番組を観て頭の中もリフレッシュしてください。",
+  "start": 1709438100000,
+  "end": 1709438400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 23,
+  "flags": []
+}

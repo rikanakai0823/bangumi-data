@@ -1,0 +1,23 @@
+{
+  "id": "idskd29",
+  "category": "sports",
+  "title": "アスリート夢共演",
+  "fullTitle": "アスリート夢共演",
+  "detail": "",
+  "start": 1709434800000,
+  "end": 1709436600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
