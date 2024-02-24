@@ -1,0 +1,23 @@
+{
+  "id": "idsmioc",
+  "category": "music",
+  "title": "銀座カセットソング＃１７",
+  "fullTitle": "銀座カセットソング＃１７",
+  "detail": "昭和が生んだスーパーアイドル「小泉今日子メドレー」",
+  "start": 1708785000000,
+  "end": 1708786800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "小泉今日子メドレー",
+  "episode": 17,
+  "flags": []
+}
