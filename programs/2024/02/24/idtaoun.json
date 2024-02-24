@@ -1,0 +1,23 @@
+{
+  "id": "idtaoun",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ富里特別、11Ｒ幕張Ｓ\r\n【阪神】10Ｒ伊丹Ｓ、11Ｒ仁川Ｓ（L）\r\n【小倉】11Ｒ八代特別",
+  "start": 1708752600000,
+  "end": 1708758000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
