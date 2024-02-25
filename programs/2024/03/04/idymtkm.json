@@ -1,0 +1,23 @@
+{
+  "id": "idymtkm",
+  "category": "sports",
+  "title": "PGAハイライト in コグニザントクラシック",
+  "fullTitle": "PGAハイライト in コグニザントクラシック",
+  "detail": "2日間にわたって放送した中継映像をメインMC・ゲストを交えながらお送りします。",
+  "start": 1709553600000,
+  "end": 1709557200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
