@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr3ktz",
+  "category": "sports",
+  "title": "川口オート中継　オッズパークｐｒｅｓｅｎｔｓ",
+  "fullTitle": "川口オート中継　オッズパークｐｒｅｓｅｎｔｓ",
+  "detail": "ＳＧ全日本選抜オートレース",
+  "start": 1708844400000,
+  "end": 1708849800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
