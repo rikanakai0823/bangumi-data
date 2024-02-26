@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２４年３月",
+  "detail": "２０２４年３月\n◇番組内容\n●ARCANA PROJECT / アイレ\r\n●Payrin？s / オルタネイト\r\n●虹色の飛行少女 / 君を謳え\r\n●EASTOKLAB / Dawn for Lovers\r\n●ニノミヤユイ / 今世大革命",
   "start": 1709558100000,
   "end": 1709559000000,
   "seconds": 900,
+  "description": "２０２４年３月",
+  "extra": {
+    "番組内容": "●ARCANA PROJECT / アイレ\r\n●Payrin？s / オルタネイト\r\n●虹色の飛行少女 / 君を謳え\r\n●EASTOKLAB / Dawn for Lovers\r\n●ニノミヤユイ / 今世大革命"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",

@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ほっと！ヒット！歌謡曲",
   "fullTitle": "ほっと！ヒット！歌謡曲",
-  "detail": "２０２４年３月",
+  "detail": "２０２４年３月\n◇番組内容\n山内惠介 / 紅の蝶\r\nTJ(椿Japan) / MORE MORE, I LOVE YOU\r\n水森かおり / 三陸挽歌\r\n丘みどり / 涙唄",
   "start": 1709336700000,
   "end": 1709337600000,
   "seconds": 900,
+  "description": "２０２４年３月",
+  "extra": {
+    "番組内容": "山内惠介 / 紅の蝶\r\nTJ(椿Japan) / MORE MORE, I LOVE YOU\r\n水森かおり / 三陸挽歌\r\n丘みどり / 涙唄"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
