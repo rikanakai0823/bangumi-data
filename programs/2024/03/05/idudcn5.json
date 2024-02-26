@@ -1,0 +1,27 @@
+{
+  "id": "idudcn5",
+  "category": "cinema",
+  "title": "旅猫リポート",
+  "fullTitle": "🈙旅猫リポート🅍🈑",
+  "detail": "有川浩のベストセラー小説を、福士蒼汰主演で映画化したロードムービー。家族同然に過ごしてきた猫を友人に託す旅をする青年。だが、彼には明かせない秘密があった。",
+  "start": 1709622900000,
+  "end": 1709630100000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
