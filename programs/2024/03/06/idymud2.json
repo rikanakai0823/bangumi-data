@@ -1,0 +1,23 @@
+{
+  "id": "idymud2",
+  "category": "drama",
+  "title": "わが町Ⅶ",
+  "fullTitle": "わが町Ⅶ",
+  "detail": "爆発事件で恋人を殺された刑事が復讐に燃え、犯人の命をねらう!",
+  "start": 1709679600000,
+  "end": 1709686500000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

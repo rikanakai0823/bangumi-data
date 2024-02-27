@@ -1,0 +1,23 @@
+{
+  "id": "idxxg6y",
+  "category": "hobby",
+  "title": "J LAND 3",
+  "fullTitle": "J LAND 3",
+  "detail": "さまざまな“釣り遊び”を紹介するバラエティ番組。MCはダンス＆ボーカルグループ「Da-iCE」の大野雄大。",
+  "start": 1709658000000,
+  "end": 1709659800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "Da-iCE",
+  "episode": 1,
+  "flags": []
+}
