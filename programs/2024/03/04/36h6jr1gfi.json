@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "輝く応援ｄａａａａａａｎ！",
   "fullTitle": "輝く応援ｄａａａａａａｎ！🅂🈟",
-  "detail": "",
+  "detail": "◇出演者\n土屋炎伽（タレント・チアリーダー）",
   "start": 1709554800000,
   "end": 1709555400000,
   "seconds": 600,
+  "description": "",
+  "extra": {
+    "出演者": "土屋炎伽（タレント・チアリーダー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
