@@ -1,0 +1,23 @@
+{
+  "id": "idson5c",
+  "category": "information",
+  "title": "おめざめショッピング",
+  "fullTitle": "おめざめショッピング",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1709069400000,
+  "end": 1709071200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
