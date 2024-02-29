@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Heaven\"CALUM SCOTT\r\n\"Lighthouse (Lyric Video)\"CALUM SCOTT\r\n\"Rise\"CALUM SCOTT\r\n\"Beautiful Things\"BENSON BOONE\n◇番組内容２\n\"Just Another Rainbow\"LIAM GALLAGHER & JOHN SQUIRE\r\n\"Waiting On A Twist Of Fate\"SUM41\r\n\"Don't Call Me White\"NOFX",
   "start": 1709564400000,
   "end": 1709566200000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Heaven\"CALUM SCOTT\r\n\"Lighthouse (Lyric Video)\"CALUM SCOTT\r\n\"Rise\"CALUM SCOTT\r\n\"Beautiful Things\"BENSON BOONE",
+    "番組内容２": "\"Just Another Rainbow\"LIAM GALLAGHER & JOHN SQUIRE\r\n\"Waiting On A Twist Of Fate\"SUM41\r\n\"Don't Call Me White\"NOFX"
   },
   "channel": {
     "type": "GR",
