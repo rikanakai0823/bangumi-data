@@ -1,0 +1,26 @@
+{
+  "id": "iduhntz",
+  "category": "cinema",
+  "title": "ＪＳＡ（字幕版）",
+  "fullTitle": "🈙ＪＳＡ（字幕版）🅍",
+  "detail": "韓国と北朝鮮を分かつ国境線を舞台とし、韓国で大ヒットした、サスペンスフルな戦場ドラマ。ソン・ガンホ、イ・ビョンホンら出演。監督は「別れる決心」のパク・チャヌク。",
+  "start": 1709856000000,
+  "end": 1709863200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "別れる決心",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idwx8fg",
+  "category": "sports",
+  "title": "グリーンチャンネル地方競馬中継(レディスジョッキーズシリーズ笠松・笠松）",
+  "fullTitle": "🈢グリーンチャンネル地方競馬中継(レディスジョッキーズシリーズ笠松・笠松）",
+  "detail": "レディスジョッキーズシリーズ笠松(笠松)",
+  "start": 1709875800000,
+  "end": 1709883000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
