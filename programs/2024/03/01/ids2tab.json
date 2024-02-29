@@ -1,0 +1,23 @@
+{
+  "id": "ids2tab",
+  "category": "variety",
+  "title": "おはよう！ももクロChan　＃73",
+  "fullTitle": "おはよう！ももクロChan　＃73",
+  "detail": "「新春ももクロChanカルタ」続編！前代未聞！高城がクレームでまさかの出禁騒動に!?レベルアップした百田は一味違う!?新春カルタで一致ポーカーを開催！",
+  "start": 1709236800000,
+  "end": 1709238300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "新春ももクロChanカルタ",
+  "episode": 73,
+  "flags": []
+}
