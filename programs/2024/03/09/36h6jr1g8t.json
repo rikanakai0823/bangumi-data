@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1g8t",
+  "category": "sports",
+  "title": "ＲＥＤＳ　ＴＶ　ＧＧＲ",
+  "fullTitle": "ＲＥＤＳ　ＴＶ　ＧＧＲ🅂",
+  "detail": "",
+  "start": 1709937000000,
+  "end": 1709938800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

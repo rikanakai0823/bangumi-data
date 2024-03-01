@@ -1,0 +1,23 @@
+{
+  "id": "idt6ezf",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10RアクアマリンＳ\r\n　　　　11R中山牝馬Ｓ（ＧⅢ）\r\n【阪神】10R難波Ｓ、11RコーラルＳ（L）\r\n【中京】11R中京スポーツ杯",
+  "start": 1709962200000,
+  "end": 1709967600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}

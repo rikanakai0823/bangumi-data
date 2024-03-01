@@ -1,0 +1,26 @@
+{
+  "id": "iduwbp0",
+  "category": "cinema",
+  "title": "【最新作】非常宣言【メガヒット９】",
+  "fullTitle": "【最新作】🈙🅍非常宣言【メガヒット９】",
+  "detail": "ソン・ガンホ、イ・ビョンホン共演のパニックサスペンス。バイオテロが発生し、着陸もできない極限状態に陥った旅客機を描く。",
+  "start": 1709985600000,
+  "end": 1709994600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "メガヒット９",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

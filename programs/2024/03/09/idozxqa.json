@@ -1,0 +1,23 @@
+{
+  "id": "idozxqa",
+  "category": "sports",
+  "title": "熱戦凝縮！",
+  "fullTitle": "熱戦凝縮！",
+  "detail": "",
+  "start": 1709957400000,
+  "end": 1709960400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
