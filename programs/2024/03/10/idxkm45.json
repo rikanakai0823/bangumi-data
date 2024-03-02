@@ -1,0 +1,25 @@
+{
+  "id": "idxkm45",
+  "category": "sports",
+  "title": "スーパーフォーミュラ2024 第1戦 鈴鹿サーキット・決勝",
+  "fullTitle": "[生]スーパーフォーミュラ2024 第1戦 鈴鹿サーキット・決勝",
+  "detail": "スーパーフォーミュラ 2024\r\n第1戦 鈴鹿サーキット・決勝\r\n\r\n開催日：2024年3月10日",
+  "start": 1710043200000,
+  "end": 1710057600000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
