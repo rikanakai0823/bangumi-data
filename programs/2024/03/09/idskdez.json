@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ・オープン戦「オリックス　ｖｓ　巨人」",
   "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ・オープン戦「オリックス　ｖｓ　巨人」",
-  "detail": "",
+  "detail": "◇制作\n2024年",
   "start": 1709967000000,
   "end": 1709967240000,
   "seconds": 240,
+  "description": "",
+  "extra": {
+    "制作": "2024年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
