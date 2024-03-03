@@ -1,0 +1,23 @@
+{
+  "id": "idwscjv",
+  "category": "hobby",
+  "title": "特別番組",
+  "fullTitle": "特別番組",
+  "detail": "「放送大学附属図書館ガイド」",
+  "start": 1709459100000,
+  "end": 1709461800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "放送大学附属図書館ガイド",
+  "episode": 1,
+  "flags": []
+}
