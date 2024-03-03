@@ -1,0 +1,26 @@
+{
+  "id": "iduhnut",
+  "category": "cinema",
+  "title": "セッション（字幕版）",
+  "fullTitle": "🈙セッション（字幕版）🅍",
+  "detail": "プロのドラマーを目指す若き主人公は、まるで悪魔のような鬼教師と出会う。第８７回アカデミー賞で助演男優賞など３部門を受賞。監督は「ラ・ラ・ランド」のＤ・チャゼル。",
+  "start": 1710087300000,
+  "end": 1710094500000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "ラ・ラ・ランド",
+  "episode": 87,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

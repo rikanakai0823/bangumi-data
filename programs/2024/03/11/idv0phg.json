@@ -1,0 +1,23 @@
+{
+  "id": "idv0phg",
+  "category": "etc",
+  "title": "放送設備定期点検のため放送を休止致します",
+  "fullTitle": "放送設備定期点検のため放送を休止致します",
+  "detail": "放送設備定期点検のため放送を休止致します。",
+  "start": 1710086400000,
+  "end": 1710086700000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル３",
+    "id": "8ksq",
+    "sid": 202,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 65
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

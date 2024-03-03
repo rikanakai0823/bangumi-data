@@ -1,0 +1,26 @@
+{
+  "id": "idxegay",
+  "category": "sports",
+  "title": "ラグビー わんだほー！～ラグビー情報番組～ #70",
+  "fullTitle": "[無料][初]ラグビー わんだほー！～ラグビー情報番組～ #70",
+  "detail": "コメンテーター：村上晃一、谷口廣明\r\nMC：浅野杏奈",
+  "start": 1710162000000,
+  "end": 1710165600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 70,
+  "flags": [
+    "無",
+    "初"
+  ]
+}
