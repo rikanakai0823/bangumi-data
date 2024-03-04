@@ -1,12 +1,18 @@
 {
   "id": "36tfa8gb0e",
   "category": "variety",
-  "title": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ",
-  "fullTitle": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ",
-  "detail": " ",
+  "title": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ　 ＃５７",
+  "fullTitle": "ＧＡＭＩＮＧ　ＨＯＵＳＥ　ＳＱＵＡＤ　 ＃５７",
+  "detail": "今回は、配信番組「ゲームの学校」からMCのOooDa、伊織もえを迎えてeスポーツ番組MC・プライドバトルを実施！ゲームの知識やスキル、MC同士の互いの理解度を競います！\n◇番組内容\n今回は、YouTubeで配信中の番組「ゲームの学校」からMCのOooDa、伊織もえを迎えてeスポーツ番組MC・プライドバトルを実施！チームGHSとチームゲームの学校に分かれてゲームの知識やスキル、MC同士の互いの理解度を競います！\n◇出演者\n＜番組MC＞\r\nELLY（三代目 J SOUL BROTHERS）、長谷川忍（シソンヌ）、西村歩乃果（タレント）\n◇おしらせ\n番組連動のプロゲーミングチームGHS Professional始動！\r\nhttps://e-elements.jp/campaign/GHS_pro/",
   "start": 1709917500000,
   "end": 1709919240000,
   "seconds": 1740,
+  "description": "今回は、配信番組「ゲームの学校」からMCのOooDa、伊織もえを迎えてeスポーツ番組MC・プライドバトルを実施！ゲームの知識やスキル、MC同士の互いの理解度を競います！",
+  "extra": {
+    "番組内容": "今回は、YouTubeで配信中の番組「ゲームの学校」からMCのOooDa、伊織もえを迎えてeスポーツ番組MC・プライドバトルを実施！チームGHSとチームゲームの学校に分かれてゲームの知識やスキル、MC同士の互いの理解度を競います！",
+    "出演者": "＜番組MC＞\r\nELLY（三代目 J SOUL BROTHERS）、長谷川忍（シソンヌ）、西村歩乃果（タレント）",
+    "おしらせ": "番組連動のプロゲーミングチームGHS Professional始動！\r\nhttps://e-elements.jp/campaign/GHS_pro/"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "ゲームの学校",
+  "episode": 57,
   "flags": []
 }

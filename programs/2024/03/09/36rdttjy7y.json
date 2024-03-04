@@ -3,10 +3,14 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\nDRAGONFORCE / Power Of The Triforce\r\nJUDAS PRIEST/ROB HALFORD インタビュー Part.2\r\nJUDAS PRIEST / Crown Of Horns\r\nTHE HALO EFFECT / Become Surrender",
   "start": 1709994300000,
   "end": 1709996100000,
   "seconds": 1800,
+  "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "extra": {
+    "番組内容": "DRAGONFORCE / Power Of The Triforce\r\nJUDAS PRIEST/ROB HALFORD インタビュー Part.2\r\nJUDAS PRIEST / Crown Of Horns\r\nTHE HALO EFFECT / Become Surrender"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
