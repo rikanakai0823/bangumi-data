@@ -1,0 +1,25 @@
+{
+  "id": "idrhf1a",
+  "category": "music",
+  "title": "ＢＳ日本・こころの歌",
+  "fullTitle": "🈑ＢＳ日本・こころの歌",
+  "detail": "毎年恒例！視聴者の皆様から届いたリクエスト曲を一挙放送！FORESTAメンバーが皆様からのお便りも紹介▽曲目：とうだいもり、浜辺の歌、ローレライ、とんがり帽子　ほか",
+  "start": 1709550000000,
+  "end": 1709553240000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
