@@ -1,0 +1,27 @@
+{
+  "id": "idudcs4",
+  "category": "cinema",
+  "title": "間宮兄弟",
+  "fullTitle": "🈙間宮兄弟🅍🈑",
+  "detail": "森田芳光監督が佐々木蔵之介、塚地武雅らをキャストに迎えて独自のユーモアを発揮。３０代になっても独身のまま、まだ仲良く同居生活を続ける兄弟のささやかな日常を描く。",
+  "start": 1710230400000,
+  "end": 1710237600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

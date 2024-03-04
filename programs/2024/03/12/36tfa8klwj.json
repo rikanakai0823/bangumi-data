@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8klwj",
+  "category": "news",
+  "title": "東京都議会中継🈐",
+  "fullTitle": "東京都議会中継🈐",
+  "detail": " ",
+  "start": 1710237600000,
+  "end": 1710255600000,
+  "seconds": 18000,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
