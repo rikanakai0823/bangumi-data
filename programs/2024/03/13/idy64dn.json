@@ -1,0 +1,23 @@
+{
+  "id": "idy64dn",
+  "category": "etc",
+  "title": "メンテナンスのため休止",
+  "fullTitle": "メンテナンスのため休止",
+  "detail": "",
+  "start": 1710268200000,
+  "end": 1710279000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_1",
+    "name": "日本映画専門ｃｈ",
+    "id": "8ku7",
+    "sid": 255,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 79
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
