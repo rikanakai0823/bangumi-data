@@ -1,0 +1,23 @@
+{
+  "id": "idwsck2",
+  "category": "hobby",
+  "title": "筋トレ　アカデミア",
+  "fullTitle": "筋トレ　アカデミア",
+  "detail": "「第12回　手足のばし」",
+  "start": 1709633700000,
+  "end": 1709634600000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "手足のばし",
+  "episode": 12,
+  "flags": []
+}
