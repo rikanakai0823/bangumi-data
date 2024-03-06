@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "２０２４　ＭｏｔｏＧＰ開幕戦・カタールＧＰ",
   "fullTitle": "２０２４　ＭｏｔｏＧＰ開幕戦・カタールＧＰ",
-  "detail": "",
+  "detail": "◇出演者\n福田充徳 （チュートリアル）、中野真矢",
   "start": 1710089400000,
   "end": 1710093600000,
   "seconds": 4200,
+  "description": "",
+  "extra": {
+    "出演者": "福田充徳 （チュートリアル）、中野真矢"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
