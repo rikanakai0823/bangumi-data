@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n\"Meant To Be\"WILCO\r\n\"So Close\"NOTD & FELIX JAEHN feat.GEORGIA KU & CAPTAIN CUTS\r\n\"Hold On Me\"NOTD feat. EMEI\r\n\"AM:PM (Acoustic)\"NOTD, MAIA WRIGHT\n◇番組内容２\n\"You Love Who You Love\"ZARA LARSSON\r\n\"Before We Drown\"DEPECHE MODE",
   "start": 1710169200000,
   "end": 1710171000000,
   "seconds": 1800,
   "description": "最新ミュージック・ビデオをはじめ話題の作品など、ノンジャンルで洋楽ミュージック・ビデオを紹介。またアーティストからのコメントや来日公演の映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "\"Meant To Be\"WILCO\r\n\"So Close\"NOTD & FELIX JAEHN feat.GEORGIA KU & CAPTAIN CUTS\r\n\"Hold On Me\"NOTD feat. EMEI\r\n\"AM:PM (Acoustic)\"NOTD, MAIA WRIGHT",
+    "番組内容２": "\"You Love Who You Love\"ZARA LARSSON\r\n\"Before We Drown\"DEPECHE MODE"
   },
   "channel": {
     "type": "GR",
