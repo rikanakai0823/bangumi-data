@@ -1,0 +1,23 @@
+{
+  "id": "ids2tkn",
+  "category": "sports",
+  "title": "野球・侍ジャパン強化試合　日本×欧州代表",
+  "fullTitle": "野球・侍ジャパン強化試合　日本×欧州代表",
+  "detail": "村上宗隆、源田壮亮、近藤健介らWBCメンバーも参戦！侍ジャパン世界一への再出発！試合終了まで生中継。",
+  "start": 1709812800000,
+  "end": 1709816040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
