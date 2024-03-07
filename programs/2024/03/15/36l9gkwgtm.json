@@ -1,0 +1,28 @@
+{
+  "id": "36l9gkwgtm",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "海の民話\r\n「雪どけ塚の白ヘビ」\n◇番組内容１\n光英VERITAS中学・高校「マーチングバンド部」\n◇番組内容２\nnewsチバ特集\r\n『児童虐待防止絵本』",
+  "start": 1710490200000,
+  "end": 1710492600000,
+  "seconds": 2400,
+  "description": "海の民話\r\n「雪どけ塚の白ヘビ」",
+  "extra": {
+    "番組内容１": "光英VERITAS中学・高校「マーチングバンド部」",
+    "番組内容２": "newsチバ特集\r\n『児童虐待防止絵本』"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idryjip",
+  "category": "news",
+  "title": "Ｗｅａｔｈｅｒ　Ａｃｃｅｓｓ",
+  "fullTitle": "Ｗｅａｔｈｅｒ　Ａｃｃｅｓｓ",
+  "detail": "この時間の天気",
+  "start": 1710453300000,
+  "end": 1710453600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

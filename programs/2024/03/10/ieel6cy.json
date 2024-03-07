@@ -1,0 +1,23 @@
+{
+  "id": "ieel6cy",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「グローバル時代の英語('22)」",
+  "start": 1710050400000,
+  "end": 1710051300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 84
+  },
+  "subTitle": "グローバル時代の英語('22)",
+  "episode": 1,
+  "flags": []
+}
