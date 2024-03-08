@@ -1,0 +1,23 @@
+{
+  "id": "idyrump",
+  "category": "variety",
+  "title": "ワクワク！やまが旅 #97",
+  "fullTitle": "ワクワク！やまが旅 #97",
+  "detail": "ソラシドの２人が山形の魅力を発信します！",
+  "start": 1710545400000,
+  "end": 1710546300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 97,
+  "flags": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "381sxrg0gd",
+  "category": "news",
+  "title": "ＪＮＮニュース🈐",
+  "fullTitle": "ＪＮＮニュース🈐🈑",
+  "detail": "最新のニュースをお送りします。\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
+  "start": 1710534600000,
+  "end": 1710535500000,
+  "seconds": 900,
+  "description": "最新のニュースをお送りします。",
+  "extra": {
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

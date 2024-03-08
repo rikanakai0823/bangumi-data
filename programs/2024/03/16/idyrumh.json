@@ -1,0 +1,23 @@
+{
+  "id": "idyrumh",
+  "category": "anime",
+  "title": "美祢線12駅物語",
+  "fullTitle": "美祢線12駅物語",
+  "detail": "JR美祢線100周年を記念して、美祢線の魅力を伝えるために快盗スズメとウッチィが制作したオリジナル番組です。",
+  "start": 1710532800000,
+  "end": 1710534600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
