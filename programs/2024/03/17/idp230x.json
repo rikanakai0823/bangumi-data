@@ -1,0 +1,25 @@
+{
+  "id": "idp230x",
+  "category": "sports",
+  "title": "大相撲（２０２４年）　春場所　八日目",
+  "fullTitle": "大相撲（２０２４年）　春場所　八日目🈕",
+  "detail": "　※副音声は場内音声　【ゲスト】亀井貴司（元希善龍），【解説】正面（幕下）…北陣（元天鎧鵬），正面（十両）…待乳山（元武州山）ほか",
+  "start": 1710648000000,
+  "end": 1710655500000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "多"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idyrunc",
+  "category": "cinema",
+  "title": "【よしもとMOVIES】ニライの丘～A Song of Gondola～",
+  "fullTitle": "【よしもとMOVIES】ニライの丘～A Song of Gondola～",
+  "detail": "よしもと芸人が出演する映画をお届け！\r\n普段テレビではあまりお目にかかれない数々の作品をお楽しみください。\r\n出演者：河本準一(次長課長)、石田靖 ほか",
+  "start": 1710601200000,
+  "end": 1710607800000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

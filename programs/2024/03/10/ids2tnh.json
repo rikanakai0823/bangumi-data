@@ -1,0 +1,25 @@
+{
+  "id": "ids2tnh",
+  "category": "anime",
+  "title": "アニメA・僕の心のヤバイやつ　karte21「僕らは約束した」",
+  "fullTitle": "🈑アニメA・僕の心のヤバイやつ　karte21「僕らは約束した」",
+  "detail": "山田が市川家で撮った写真をSNSに載せ、リプ欄には彼氏の存在を疑う粘着質なファンが！心配になる市川。さらに追い打ちをかけるように山田と電話が突然途絶えてしまって!?",
+  "start": 1710000000000,
+  "end": 1710001800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "僕らは約束した",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
