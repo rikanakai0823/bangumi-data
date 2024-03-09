@@ -1,0 +1,23 @@
+{
+  "id": "idsmikp",
+  "category": "information",
+  "title": "ＹＡＭＡＤＡテレビショッピング店",
+  "fullTitle": "ＹＡＭＡＤＡテレビショッピング店",
+  "detail": "家電量販店最大手ヤマダデンキのＴＶショッピング！価格に応える！品質に応える！アフターケアに応える！家電と住まいのヤマダテレビショッピング！",
+  "start": 1709956800000,
+  "end": 1709960400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
