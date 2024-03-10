@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5ri3",
+  "category": "cinema",
+  "title": "映画版「マメシバ一郎」",
+  "fullTitle": "映画版「マメシバ一郎」🅂",
+  "detail": "",
+  "start": 1710064800000,
+  "end": 1710069300000,
+  "seconds": 4500,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "マメシバ一郎",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
