@@ -1,0 +1,23 @@
+{
+  "id": "idtaphg",
+  "category": "news",
+  "title": "モーサテ【米大統領選挙と金融市場のアノマリー】",
+  "fullTitle": "モーサテ【米大統領選挙と金融市場のアノマリー】",
+  "detail": "世界の経済ニュースやマーケットの情報をいち早くお伝えします！",
+  "start": 1710103500000,
+  "end": 1710108300000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "米大統領選挙と金融市場のアノマリー",
+  "episode": 1,
+  "flags": []
+}
