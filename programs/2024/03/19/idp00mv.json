@@ -1,0 +1,25 @@
+{
+  "id": "idp00mv",
+  "category": "sports",
+  "title": "ミュージック×ＭＬＢ　２０２３　＃１　ドジャース「Ｉ　ＬＯＶＥ　ＬＡ」",
+  "fullTitle": "ミュージック×ＭＬＢ　２０２３　＃１　ドジャース「Ｉ　ＬＯＶＥ　ＬＡ」🈑",
+  "detail": "【語り】オカモト“ＭＯＢＹ”タクヤ",
+  "start": 1710780300000,
+  "end": 1710780600000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ドジャース",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
