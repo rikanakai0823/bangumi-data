@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1gqb",
   "category": "information",
-  "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン",
+  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン🅂",
+  "detail": "◇番組内容\nインビクタスワン　０１２０－４４－００２７",
   "start": 1710846000000,
   "end": 1710847800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "インビクタスワン　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
