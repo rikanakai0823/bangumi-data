@@ -1,0 +1,23 @@
+{
+  "id": "idozyur",
+  "category": "sports",
+  "title": "柔道２０２４　第４６回全国高校柔道選手権",
+  "fullTitle": "柔道２０２４　第４６回全国高校柔道選手権",
+  "detail": "",
+  "start": 1710918000000,
+  "end": 1710921600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 46,
+  "flags": []
+}

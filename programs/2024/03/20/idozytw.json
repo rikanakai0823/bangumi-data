@@ -1,0 +1,23 @@
+{
+  "id": "idozytw",
+  "category": "sports",
+  "title": "カーリング女子世界選手権２０２４　予選リーグ「日本」対「エストニア」",
+  "fullTitle": "カーリング女子世界選手権２０２４　予選リーグ「日本」対「エストニア」",
+  "detail": "日本代表ＳＣ軽井沢クラブが世界の強豪と戦う！日本戦全試合放送",
+  "start": 1710867600000,
+  "end": 1710878400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "エストニア",
+  "episode": 1,
+  "flags": []
+}
