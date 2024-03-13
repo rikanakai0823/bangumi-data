@@ -1,0 +1,23 @@
+{
+  "id": "idx1jnj",
+  "category": "information",
+  "title": "情報",
+  "fullTitle": "情報",
+  "detail": "この時間は情報番組をお送りしております。",
+  "start": 1710999000000,
+  "end": 1711000800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_2",
+    "name": "ＢＳアニマックス",
+    "id": "8kto",
+    "sid": 236,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 71
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idp014m",
+  "category": "sports",
+  "title": "ワースポ×ＭＬＢ　ソウル開幕スペシャル",
+  "fullTitle": "ワースポ×ＭＬＢ　ソウル開幕スペシャル",
+  "detail": "【キャスター】菊池柚花，【解説】小早川毅彦，岩村明憲，井口資仁",
+  "start": 1711011600000,
+  "end": 1711014300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

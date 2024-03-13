@@ -1,0 +1,23 @@
+{
+  "id": "381ocd85xv",
+  "category": "sports",
+  "title": "日テレ＋「明日はサッカーＵ２３」",
+  "fullTitle": "日テレ＋「明日はサッカーＵ２３」",
+  "detail": "",
+  "start": 1711023840000,
+  "end": 1711024200000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "明日はサッカーＵ２３",
+  "episode": 1,
+  "flags": []
+}
