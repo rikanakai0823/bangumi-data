@@ -1,12 +1,16 @@
 {
   "id": "381f5kst3h",
   "category": "documentary",
-  "title": "にっぽん百低山",
-  "fullTitle": "にっぽん百低山🈑",
-  "detail": "",
+  "title": "にっぽん百低山　ほろ酔いで語ろう低山の魅力「低山って面白い」",
+  "fullTitle": "にっぽん百低山　ほろ酔いで語ろう低山の魅力「低山って面白い」🈑",
+  "detail": "【出演】吉田類，大内征\n◇出演者\n【出演】吉田類，大内征",
   "start": 1710904500000,
   "end": 1710906000000,
   "seconds": 1500,
+  "description": "【出演】吉田類，大内征",
+  "extra": {
+    "出演者": "【出演】吉田類，大内征"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "低山って面白い",
   "episode": 1,
   "flags": [
     "字"
