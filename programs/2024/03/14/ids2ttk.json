@@ -1,0 +1,23 @@
+{
+  "id": "ids2ttk",
+  "category": "information",
+  "title": "５フォーイット！ショッピング",
+  "fullTitle": "５フォーイット！ショッピング",
+  "detail": "テレビショッピング",
+  "start": 1710399360000,
+  "end": 1710401100000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
