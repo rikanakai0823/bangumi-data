@@ -1,0 +1,25 @@
+{
+  "id": "idozznn",
+  "category": "music",
+  "title": "名曲アルバム　シェルブールの雨傘　ミシェル・ルグラン作曲",
+  "fullTitle": "名曲アルバム　シェルブールの雨傘　ミシェル・ルグラン作曲🅍",
+  "detail": "ソプラノ：幸田　浩子　バリトン：坂下　忠弘　管弦楽：東京フィルハーモニー交響楽団　指揮：阪　哲朗　【ロケ地】シェルブール（フランス）",
+  "start": 1711054500000,
+  "end": 1711054800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ロケ地",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}
