@@ -1,0 +1,25 @@
+{
+  "id": "idp005x",
+  "category": "news",
+  "title": "ワールドニュース",
+  "fullTitle": "ワールドニュース🈔",
+  "detail": "▽英ＢＢＣ，独ＺＤＦ，仏Ｆ２，カタール・アルジャジーラ，韓国ＫＢＳ，香港ＴＶＢ，シンガポールＣＮＡ，トルコＴＲＴ，豪ＡＢＣ，ブラジル・バンデランテス",
+  "start": 1711141200000,
+  "end": 1711145640000,
+  "seconds": 4440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
