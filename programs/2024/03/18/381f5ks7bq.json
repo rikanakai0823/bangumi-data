@@ -1,12 +1,16 @@
 {
   "id": "381f5ks7bq",
-  "category": "etc",
-  "title": "放送１００年プロジェクト　脳内プロジェクター企画　第１弾",
-  "fullTitle": "放送１００年プロジェクト　脳内プロジェクター企画　第１弾",
-  "detail": "",
+  "category": "information",
+  "title": "放送１００年プロジェクト　ＮＨＫと私　吉高由里子（１）「大河の主役となって」編",
+  "fullTitle": "放送１００年プロジェクト　ＮＨＫと私　吉高由里子（１）「大河の主役となって」編",
+  "detail": "【出演】吉高由里子\n◇出演者\n【出演】吉高由里子",
   "start": 1710719640000,
   "end": 1710719700000,
   "seconds": 60,
+  "description": "【出演】吉高由里子",
+  "extra": {
+    "出演者": "【出演】吉高由里子"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "大河の主役となって",
   "episode": 1,
   "flags": []
 }
