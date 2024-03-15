@@ -1,0 +1,23 @@
+{
+  "id": "idtvouz",
+  "category": "information",
+  "title": "やずやＴＶショッピング",
+  "fullTitle": "やずやＴＶショッピング",
+  "detail": "",
+  "start": 1710484080000,
+  "end": 1710486000000,
+  "seconds": 1920,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
