@@ -1,0 +1,23 @@
+{
+  "id": "idtvpcs",
+  "category": "information",
+  "title": "Ｏｎショッピング倶楽部",
+  "fullTitle": "Ｏｎショッピング倶楽部",
+  "detail": "",
+  "start": 1710482340000,
+  "end": 1710484080000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
