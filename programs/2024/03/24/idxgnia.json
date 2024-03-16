@@ -1,0 +1,25 @@
+{
+  "id": "idxgnia",
+  "category": "sports",
+  "title": "スキージャンプ FIS W杯23/24 プラニツァ(3/24)【男子FH】",
+  "fullTitle": "[生]スキージャンプ FIS W杯23/24 プラニツァ(3/24)【男子FH】",
+  "detail": "【男子 フライングヒル(HS 240)】\r\nプラニツァ／スロベニア(03/24)\r\n\r\nゲスト：葛西紀明\r\n解説：竹内元康\r\n実況：谷口廣明\r\n開催日：2024年3月24日(現地)",
+  "start": 1711268100000,
+  "end": 1711279800000,
+  "seconds": 11700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "男子FH",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

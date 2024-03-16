@@ -1,0 +1,23 @@
+{
+  "id": "idp00pb",
+  "category": "sports",
+  "title": "カーリング女子世界選手権２０２４　準決勝",
+  "fullTitle": "カーリング女子世界選手権２０２４　準決勝",
+  "detail": "【解説】市川美余，【アナウンサー】田中秀樹　～カナダ・シドニーから中継～",
+  "start": 1711224000000,
+  "end": 1711227600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

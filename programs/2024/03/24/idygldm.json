@@ -1,0 +1,23 @@
+{
+  "id": "idygldm",
+  "category": "theater",
+  "title": "開局２周年　ゴールデンシアターSP　歌舞伎「門出二人桃太郎」",
+  "fullTitle": "開局２周年　ゴールデンシアターSP　歌舞伎「門出二人桃太郎」",
+  "detail": "",
+  "start": 1711249200000,
+  "end": 1711252200000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "門出二人桃太郎",
+  "episode": 1,
+  "flags": []
+}

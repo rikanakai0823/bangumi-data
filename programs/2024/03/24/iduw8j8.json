@@ -1,0 +1,26 @@
+{
+  "id": "iduw8j8",
+  "category": "cinema",
+  "title": "探偵マーロウ",
+  "fullTitle": "🈙🅍探偵マーロウ",
+  "detail": "リーアム・ニーソンが「私立探偵フィリップ・マーロウ」を演じたハードボイルドミステリー。今作では“ハリウッドの闇”に迫る。",
+  "start": 1711281600000,
+  "end": 1711288800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "私立探偵フィリップ・マーロウ",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

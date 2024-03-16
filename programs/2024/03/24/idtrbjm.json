@@ -1,0 +1,25 @@
+{
+  "id": "idtrbjm",
+  "category": "sports",
+  "title": "ＢＯＡＴ  ＲＡＣＥ  プレミア　ハートビートボート＋",
+  "fullTitle": "🈢ＢＯＡＴ  ＲＡＣＥ  プレミア　ハートビートボート＋",
+  "detail": "住之江　GⅠ　3R＆4R・初日／浜名湖　11R準優勝戦・5日目／椿鬼奴と山崎裕太がゲスト出演！",
+  "start": 1711263600000,
+  "end": 1711266960000,
+  "seconds": 3360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

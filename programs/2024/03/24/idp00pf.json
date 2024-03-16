@@ -1,0 +1,23 @@
+{
+  "id": "idp00pf",
+  "category": "information",
+  "title": "きょうのＢＳおススメ！１分ＰＲ",
+  "fullTitle": "きょうのＢＳおススメ！１分ＰＲ",
+  "detail": "ＢＳのきょうの番組のみどころをコンパクトに伝えるミニ番組。３月２４日放送分を紹介。",
+  "start": 1711232940000,
+  "end": 1711233000000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduhnzb",
+  "category": "cinema",
+  "title": "サマーウォーズ",
+  "fullTitle": "🈙サマーウォーズ🅍🈑",
+  "detail": "気弱な高校生がある夏、ひょんな事からインターネット上の仮想世界で激闘へ……。２００６年のアニメ映画版「時をかける少女」の細田守監督によるＳＦ青春アドベンチャー。",
+  "start": 1711244700000,
+  "end": 1711251900000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "時をかける少女",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

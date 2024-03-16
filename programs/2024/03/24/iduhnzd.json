@@ -1,0 +1,27 @@
+{
+  "id": "iduhnzd",
+  "category": "cinema",
+  "title": "バケモノの子",
+  "fullTitle": "🈙バケモノの子🅍🈑",
+  "detail": "「竜とそばかすの姫」の細田守監督による長編アニメーション映画。渋谷とバケモノの世界の二つを軸に、ひとりぼっちの少年と暴れん坊のバケモノの成長と絆を描く。",
+  "start": 1711259100000,
+  "end": 1711266600000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "竜とそばかすの姫",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
