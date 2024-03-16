@@ -3,10 +3,15 @@
   "category": "information",
   "title": "テレビショッピング / チーキーズ ストア",
   "fullTitle": "テレビショッピング / チーキーズ ストア",
-  "detail": "【テレビショッピング】または【チーキーズ ストア】をお送りします。",
+  "detail": "【テレビショッピング】または【チーキーズ ストア】をお送りします。\n◇【番組内容】\n【テレビショッピング】\r\n今、欲しいが見つかる、お得なショッピング情報をお届け。\r\n\r\n【チーキーズ ストア】\r\n日本各地の素晴らしい逸品を、吉本芸人が笑いを交えて紹介！\r\n軽妙なトークで名品の魅力が楽しくわかるお笑い通販番組。\n◇【お知らせ】\nBSよしもとの番組情報はコチラから！\r\n◆BSよしもとWebサイト\r\nhttps://bsy.co.jp/\r\n◆BSよしもとX(旧Twitter)\r\n@bsyoshimoto\r\n◆BSよしもとYouTube\r\nhttps://www.youtube.com/@bsyoshimoto/videos",
   "start": 1710993600000,
   "end": 1710995400000,
   "seconds": 1800,
+  "description": "【テレビショッピング】または【チーキーズ ストア】をお送りします。",
+  "extra": {
+    "【番組内容】": "【テレビショッピング】\r\n今、欲しいが見つかる、お得なショッピング情報をお届け。\r\n\r\n【チーキーズ ストア】\r\n日本各地の素晴らしい逸品を、吉本芸人が笑いを交えて紹介！\r\n軽妙なトークで名品の魅力が楽しくわかるお笑い通販番組。",
+    "【お知らせ】": "BSよしもとの番組情報はコチラから！\r\n◆BSよしもとWebサイト\r\nhttps://bsy.co.jp/\r\n◆BSよしもとX(旧Twitter)\r\n@bsyoshimoto\r\n◆BSよしもとYouTube\r\nhttps://www.youtube.com/@bsyoshimoto/videos"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS23_1",
