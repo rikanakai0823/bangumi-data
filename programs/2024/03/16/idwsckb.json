@@ -1,0 +1,23 @@
+{
+  "id": "idwsckb",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「学力と学習支援の心理学('14)第４集（第１０回～第１２回）」",
+  "start": 1710571500000,
+  "end": 1710579600000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "学力と学習支援の心理学('14)第４集（第１０回～第１２回）",
+  "episode": 10,
+  "flags": []
+}
