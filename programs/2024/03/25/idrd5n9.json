@@ -1,0 +1,25 @@
+{
+  "id": "idrd5n9",
+  "category": "music",
+  "title": "ＢＳ日本・こころの歌",
+  "fullTitle": "🈑ＢＳ日本・こころの歌",
+  "detail": "今週は「故郷」をテーマにFORESTAが様々な曲を歌唱▽曲目：異国の丘、思えば遠くへ来たもんだ、サライ、赤い夕陽の故郷、津軽のふるさと　ほか",
+  "start": 1711364400000,
+  "end": 1711367640000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "故郷",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

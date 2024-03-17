@@ -1,0 +1,23 @@
+{
+  "id": "idy8p0p",
+  "category": "anime",
+  "title": "ミッキーマウス！ #75★春休み特別放送！",
+  "fullTitle": "ミッキーマウス！ #75★春休み特別放送！",
+  "detail": "#75「春の訪れ」",
+  "start": 1711342500000,
+  "end": 1711342800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "春の訪れ",
+  "episode": 75,
+  "flags": []
+}

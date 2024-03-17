@@ -1,0 +1,25 @@
+{
+  "id": "idtvmet",
+  "category": "documentary",
+  "title": "ワールドツアー　香港",
+  "fullTitle": "🈑ワールドツアー　香港",
+  "detail": "香港の旅情報をご紹介！",
+  "start": 1710687600000,
+  "end": 1710689100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
