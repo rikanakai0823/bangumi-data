@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwh1b",
+  "category": "information",
+  "title": "生活情報【内容】ロコモプロ",
+  "fullTitle": "生活情報【内容】ロコモプロ",
+  "detail": "【内容】ロコモプロ\r\n【電話】0120-661-331",
+  "start": 1710716400000,
+  "end": 1710718200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
