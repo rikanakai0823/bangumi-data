@@ -1,12 +1,17 @@
 {
   "id": "381ocd85y2",
   "category": "variety",
-  "title": "ＺＳＴＵＤＩＯ　ＳＥＮＳＯＲＳ",
-  "fullTitle": "ＺＳＴＵＤＩＯ　ＳＥＮＳＯＲＳ",
-  "detail": "",
+  "title": "Z STUDIO SENSORS#12【エンタメ・クリエイティブの最先端番組】",
+  "fullTitle": "Z STUDIO SENSORS#12【エンタメ・クリエイティブの最先端番組】",
+  "detail": "最先端のクリエイティブ、エンタメビジネスを世界に発信するSENSORS。第12回のテーマはJAPAN VERTICAL MV CONTEST！\n◇出演者\n水曜日のカンパネラ・詩羽 /\r\n上田慎一郎 / 関和亮 / 中島信也 / 岡本俊太郎\n◇番組内容\n第12回のテーマは、「JAPAN VERTICAL MV CONTEST」。\r\nクリエーターエコノミーが拡大する今、それを後押しする新たな縦型動画コンテスト「JAPAN VERTICAL MV CONTEST 2023」が開催！500件を超える応募作品の中から注目作品を水曜日のカンパネラ・詩羽と共に一挙チェック！さらに、コンテスト審査員たちが縦型動画の未来について語らうトークセッションも！",
   "start": 1711040340000,
   "end": 1711042140000,
   "seconds": 1800,
+  "description": "最先端のクリエイティブ、エンタメビジネスを世界に発信するSENSORS。第12回のテーマはJAPAN VERTICAL MV CONTEST！",
+  "extra": {
+    "出演者": "水曜日のカンパネラ・詩羽 /\r\n上田慎一郎 / 関和亮 / 中島信也 / 岡本俊太郎",
+    "番組内容": "第12回のテーマは、「JAPAN VERTICAL MV CONTEST」。\r\nクリエーターエコノミーが拡大する今、それを後押しする新たな縦型動画コンテスト「JAPAN VERTICAL MV CONTEST 2023」が開催！500件を超える応募作品の中から注目作品を水曜日のカンパネラ・詩羽と共に一挙チェック！さらに、コンテスト審査員たちが縦型動画の未来について語らうトークセッションも！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "エンタメ・クリエイティブの最先端番組",
+  "episode": 12,
   "flags": []
 }
