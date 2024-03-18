@@ -1,0 +1,25 @@
+{
+  "id": "idp01jc",
+  "category": "documentary",
+  "title": "新日本風土記「太宰府」",
+  "fullTitle": "新日本風土記「太宰府」🈑",
+  "detail": "学問の神様・福岡県の太宰府天満宮は、京から左遷され非業の死を遂げた菅原道真の墓所。今も道真ゆかりの人々が支える。千百年間、道真を慕い仕えてきた人々の町の物語。",
+  "start": 1711454400000,
+  "end": 1711458000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "太宰府",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

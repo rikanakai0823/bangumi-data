@@ -1,0 +1,30 @@
+{
+  "id": "381f5ksvr9",
+  "category": "sports",
+  "title": "第９６回選抜高校野球大会　準々決勝",
+  "fullTitle": "第９６回選抜高校野球大会　準々決勝🅍🈑",
+  "detail": "第１試合　第２試合　～甲子園球場から中継～\n◇番組内容\n［Ｅテレで放送継続］",
+  "start": 1711408500000,
+  "end": 1711421640000,
+  "seconds": 13140,
+  "description": "第１試合　第２試合　～甲子園球場から中継～",
+  "extra": {
+    "番組内容": "［Ｅテレで放送継続］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 96,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}
