@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwh4p",
+  "category": "information",
+  "title": "生活情報",
+  "fullTitle": "生活情報",
+  "detail": " ",
+  "start": 1710806400000,
+  "end": 1710808200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
