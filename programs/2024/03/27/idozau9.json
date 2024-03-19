@@ -1,0 +1,25 @@
+{
+  "id": "idozau9",
+  "category": "documentary",
+  "title": "フロンティア",
+  "fullTitle": "フロンティア🈑",
+  "detail": "",
+  "start": 1711540800000,
+  "end": 1711544400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

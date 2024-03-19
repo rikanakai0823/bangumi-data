@@ -1,0 +1,25 @@
+{
+  "id": "idozc06",
+  "category": "documentary",
+  "title": "ザ・ヒューマン",
+  "fullTitle": "ザ・ヒューマン🈑",
+  "detail": "",
+  "start": 1711465800000,
+  "end": 1711468800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
