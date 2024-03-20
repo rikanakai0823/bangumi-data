@@ -1,0 +1,25 @@
+{
+  "id": "idximds",
+  "category": "sports",
+  "title": "World of Freesports #3【トレイルランニング】5 Peaks in a day",
+  "fullTitle": "[初]World of Freesports #3【トレイルランニング】5 Peaks in a day",
+  "detail": "スイスのツェルマットからザースフェーまで4000m級の山を5つ超え30.66kmを走り抜ける。多くの登山家が困難だと口を揃えるコースに挑むアルピニストに迫る。",
+  "start": 1711634400000,
+  "end": 1711636200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "トレイルランニング",
+  "episode": 3,
+  "flags": [
+    "初"
+  ]
+}
