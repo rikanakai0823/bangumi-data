@@ -2,7 +2,7 @@
   "id": "idtrbun",
   "category": "documentary",
   "title": "FISHING in my life",
-  "fullTitle": "FISHING in my life",
+  "fullTitle": "FISHING in my life🈡",
   "detail": "毎回登場する出演者たちが、釣りをしながら、これまでの人生においての出会いやターニングポイント、そして、釣りと自分との関わりなどを語る5分間のヒューマンストーリー",
   "start": 1711630500000,
   "end": 1711630800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "終"
+  ]
 }

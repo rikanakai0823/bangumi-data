@@ -3,10 +3,14 @@
   "category": "music",
   "title": "Ｖ－Ｃｌｉｐｓ",
   "fullTitle": "Ｖ－Ｃｌｉｐｓ🈑🅂",
-  "detail": "",
+  "detail": "◇出演者\nＧＬＡＳＧＯＷ・水曜日のカンパネラ・クボタカイ・礼賛",
   "start": 1711474500000,
   "end": 1711475100000,
   "seconds": 600,
+  "description": "",
+  "extra": {
+    "出演者": "ＧＬＡＳＧＯＷ・水曜日のカンパネラ・クボタカイ・礼賛"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
