@@ -1,0 +1,23 @@
+{
+  "id": "idtaptx",
+  "category": "information",
+  "title": "快適ＳＳ　ＤＸ",
+  "fullTitle": "快適ＳＳ　ＤＸ",
+  "detail": "ジャパネットたかたのテレビショッピング！毎週土曜早朝4時～5時半にレギュラー番組でお届け！ジャパネットならではの大特価商品が登場？お見逃しなく！",
+  "start": 1711134000000,
+  "end": 1711139400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
