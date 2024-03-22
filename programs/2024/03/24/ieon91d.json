@@ -1,0 +1,23 @@
+{
+  "id": "ieon91d",
+  "category": "news",
+  "title": "気象情報",
+  "fullTitle": "気象情報",
+  "detail": "お住まいの地域の詳しい気象情報、全国の天気ほか",
+  "start": 1711206000000,
+  "end": 1711292400000,
+  "seconds": 86400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫデータ１",
+    "id": "8l6k",
+    "sid": 700,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 85
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

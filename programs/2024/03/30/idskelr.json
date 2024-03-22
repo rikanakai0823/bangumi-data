@@ -1,0 +1,25 @@
+{
+  "id": "idskelr",
+  "category": "cinema",
+  "title": "土曜映画デラックス「ジェントルメン」【吹替】",
+  "fullTitle": "🈙土曜映画デラックス「ジェントルメン」【吹替】",
+  "detail": "一流の、紳士（ワル）たち。クセ者たちの裏切り、駆け引き、騙し合いをスリリングに描く、痛快クライム・サスペンス",
+  "start": 1711800000000,
+  "end": 1711806840000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "吹替",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

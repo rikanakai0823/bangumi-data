@@ -1,0 +1,23 @@
+{
+  "id": "idyglir",
+  "category": "sports",
+  "title": "2024 アジアオープンダンス選手権大会",
+  "fullTitle": "2024 アジアオープンダンス選手権大会",
+  "detail": "世界最高レベルのダンサーが集う日本最大の国際大会",
+  "start": 1711735200000,
+  "end": 1711738800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

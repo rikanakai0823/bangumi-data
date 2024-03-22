@@ -1,0 +1,25 @@
+{
+  "id": "idwx8zs",
+  "category": "sports",
+  "title": "トラックマンTV #639",
+  "fullTitle": "🈞トラックマンTV #639",
+  "detail": "「大阪杯（Ｇ１）、ダービー卿チャレンジＴ（Ｇ３）、ポラリスＳ他　展望」",
+  "start": 1711738800000,
+  "end": 1711744200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "大阪杯（Ｇ１）、ダービー卿チャレンジＴ（Ｇ３）、ポラリスＳ他　展望",
+  "episode": 639,
+  "flags": [
+    "再"
+  ]
+}
