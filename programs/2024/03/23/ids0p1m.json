@@ -1,0 +1,23 @@
+{
+  "id": "ids0p1m",
+  "category": "sports",
+  "title": "SMBCカップ 第20回全国小学生タグラグビー大会",
+  "fullTitle": "SMBCカップ 第20回全国小学生タグラグビー大会",
+  "detail": "ラグビーからコンタクトを除いたタグラグビー。2月24日、25日に熊谷スポーツ文化公園ラグビー場で行われた小学生の全国大会の模様をダイジェストにしてお送りする。",
+  "start": 1711166400000,
+  "end": 1711168200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 20,
+  "flags": []
+}
