@@ -3,10 +3,15 @@
   "category": "news",
   "title": "ウェザーニュースLiVE",
   "fullTitle": "ウェザーニュースLiVE",
-  "detail": "気象現況・今後の予報見解を随時お届け！",
+  "detail": "気象現況・今後の予報見解を随時お届け！\n◇【番組内容】\nスマホアプリ「ウェザーニュース」登録者から寄せられたウェザーリポート(投稿者周辺の気象現況と画像・動画)の紹介や、日本国内各地に設置したライブカメラでの天候状況、最新の気象現況・今後の予報見解を随時お届け！\n◇【お知らせ】\nBSよしもとの番組情報はコチラから！\r\n◆BSよしもとWebサイト\r\nhttps://bsy.co.jp/\r\n◆BSよしもとX(旧Twitter)\r\n@bsyoshimoto\r\n◆BSよしもとYouTube\r\nhttps://www.youtube.com/@bsyoshimoto/videos",
   "start": 1711747800000,
   "end": 1711749600000,
   "seconds": 1800,
+  "description": "気象現況・今後の予報見解を随時お届け！",
+  "extra": {
+    "【番組内容】": "スマホアプリ「ウェザーニュース」登録者から寄せられたウェザーリポート(投稿者周辺の気象現況と画像・動画)の紹介や、日本国内各地に設置したライブカメラでの天候状況、最新の気象現況・今後の予報見解を随時お届け！",
+    "【お知らせ】": "BSよしもとの番組情報はコチラから！\r\n◆BSよしもとWebサイト\r\nhttps://bsy.co.jp/\r\n◆BSよしもとX(旧Twitter)\r\n@bsyoshimoto\r\n◆BSよしもとYouTube\r\nhttps://www.youtube.com/@bsyoshimoto/videos"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS23_1",
