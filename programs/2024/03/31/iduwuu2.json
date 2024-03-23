@@ -1,0 +1,26 @@
+{
+  "id": "iduwuu2",
+  "category": "cinema",
+  "title": "スター・ウォーズ　エピソード２／クローンの攻撃",
+  "fullTitle": "🈙🅍スター・ウォーズ　エピソード２／クローンの攻撃",
+  "detail": "『スター・ウォーズ』序章３部作の２作目。銀河帝国を誕生させたクローン戦争の幕開けと、成長したアナキンの恋を描く。",
+  "start": 1711895400000,
+  "end": 1711905000000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

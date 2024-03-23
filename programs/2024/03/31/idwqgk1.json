@@ -1,0 +1,23 @@
+{
+  "id": "idwqgk1",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「くすりの開発の歴史」",
+  "start": 1711889100000,
+  "end": 1711891800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "くすりの開発の歴史",
+  "episode": 1,
+  "flags": []
+}

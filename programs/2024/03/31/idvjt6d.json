@@ -1,0 +1,26 @@
+{
+  "id": "idvjt6d",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "🈢🈓ＢＳイレブン競馬中継　第１部",
+  "detail": "【中山】５Ｒ～８Ｒ，９Ｒ「安房特別」，10Ｒ「アリエスステークス」\r\n【阪神】５Ｒ～８Ｒ，９Ｒ「バイオレットステークス」",
+  "start": 1711854000000,
+  "end": 1711864800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

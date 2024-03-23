@@ -1,0 +1,23 @@
+{
+  "id": "idwq7c5",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「瀬戸内寂聴が語る　待賢門院と西行('01)」",
+  "start": 1711851300000,
+  "end": 1711854000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "瀬戸内寂聴が語る　待賢門院と西行('01)",
+  "episode": 1,
+  "flags": []
+}

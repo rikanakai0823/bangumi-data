@@ -1,0 +1,23 @@
+{
+  "id": "idozeel",
+  "category": "sports",
+  "title": "Ｖリーグ２０２３－２４",
+  "fullTitle": "Ｖリーグ２０２３－２４",
+  "detail": "",
+  "start": 1711861200000,
+  "end": 1711871100000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

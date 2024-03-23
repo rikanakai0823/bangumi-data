@@ -1,0 +1,26 @@
+{
+  "id": "idp1jkc",
+  "category": "sports",
+  "title": "プロ野球２０２４「楽天」対「西武」",
+  "fullTitle": "プロ野球２０２４「楽天」対「西武」🈕🈑",
+  "detail": "　※副音声は球場音声　【解説】宮本慎也，【アナウンサー】小野卓哉　～楽天モバイルパーク宮城から中継～",
+  "start": 1711861200000,
+  "end": 1711871100000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "西武",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

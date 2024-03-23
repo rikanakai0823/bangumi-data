@@ -1,0 +1,23 @@
+{
+  "id": "idxegqj",
+  "category": "sports",
+  "title": "メジャーリーグ中継2024 (3/30)",
+  "fullTitle": "メジャーリーグ中継2024 (3/30)",
+  "detail": "\r\n開催日：2024年3月30日(現地)",
+  "start": 1711882800000,
+  "end": 1711893600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
