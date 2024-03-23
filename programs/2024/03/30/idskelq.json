@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "あれから１０年　これから１０年",
   "fullTitle": "あれから１０年　これから１０年",
-  "detail": "",
+  "detail": "◇制作\n2024年",
   "start": 1711799640000,
   "end": 1711800000000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "制作": "2024年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
