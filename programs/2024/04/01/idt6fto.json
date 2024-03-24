@@ -1,0 +1,25 @@
+{
+  "id": "idt6fto",
+  "category": "news",
+  "title": "マネーのまなび",
+  "fullTitle": "マネーのまなび🈑",
+  "detail": "新ＮＩＳＡをきっかけに投資を始めた皆さんに役立つ情報満載のマネー情報番組。元財務官僚でニュースキャスターの村尾信尚が、資産運用に関する疑問を解決します。",
+  "start": 1711976400000,
+  "end": 1711979700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idwx901",
+  "category": "sports",
+  "title": "ダート競馬JAPAN(60分拡大版) #43",
+  "fullTitle": "ダート競馬JAPAN(60分拡大版) #43",
+  "detail": "「日本全国のダート競馬展望番組」",
+  "start": 1711981800000,
+  "end": 1711985400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "日本全国のダート競馬展望番組",
+  "episode": 43,
+  "flags": []
+}
