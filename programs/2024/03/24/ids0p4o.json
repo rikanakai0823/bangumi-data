@@ -1,0 +1,23 @@
+{
+  "id": "ids0p4o",
+  "category": "information",
+  "title": "Ａタイム　ＢＳ朝日のオススメ番組を紹介！",
+  "fullTitle": "Ａタイム　ＢＳ朝日のオススメ番組を紹介！",
+  "detail": "ドキュメンタリー、映画、ドラマ、スポーツなど、豊富なラインナップでお送りするBS朝日のプロクラムから、イチオシの番組を厳選してご紹介します！",
+  "start": 1711288440000,
+  "end": 1711288800000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
