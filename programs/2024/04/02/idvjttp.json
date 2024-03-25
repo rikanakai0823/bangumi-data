@@ -1,0 +1,25 @@
+{
+  "id": "idvjttp",
+  "category": "information",
+  "title": "お買い物チャンネル　ＱＶＣ「CARRIERE（キャリール）」",
+  "fullTitle": "🈢お買い物チャンネル　ＱＶＣ「CARRIERE（キャリール）」",
+  "detail": "オフィスをはじめ、セレモニーやパーティー等でも大活躍。着回し、機能性、らくちんケアをキーワードに、キレイめアイテムを展開するQVCオリジナルブランドです。",
+  "start": 1712044800000,
+  "end": 1712048400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "CARRIERE（キャリール）",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
