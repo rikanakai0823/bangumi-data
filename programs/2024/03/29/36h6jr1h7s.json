@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1h7s",
   "category": "information",
-  "title": "宝くじ特番（仮）",
-  "fullTitle": "宝くじ特番（仮）🅂",
-  "detail": "",
+  "title": "宝くじドカーンと１５００万円スペシャル～さいたま版～",
+  "fullTitle": "宝くじドカーンと１５００万円スペシャル～さいたま版～",
+  "detail": "◇番組概要\n第２６４５回関東・中部・東🅂",
   "start": 1711703700000,
   "end": 1711707000000,
   "seconds": 3300,
+  "description": "",
+  "extra": {
+    "番組概要": "第２６４５回関東・中部・東🅂"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,7 +23,5 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": [
-    "S"
-  ]
+  "flags": []
 }
