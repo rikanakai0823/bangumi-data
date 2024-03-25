@@ -1,0 +1,23 @@
+{
+  "id": "ids2ubs",
+  "category": "music",
+  "title": "音楽のある風景　「青春グラフィティ」",
+  "fullTitle": "音楽のある風景　「青春グラフィティ」",
+  "detail": "1950年代60年代の懐かしい洋楽ヒット。オールディーズと呼ばれる古きよき時代の、今なお輝き続ける名曲をお届けします。",
+  "start": 1711395000000,
+  "end": 1711396800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "青春グラフィティ",
+  "episode": 1,
+  "flags": []
+}
