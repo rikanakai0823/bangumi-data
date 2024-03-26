@@ -1,0 +1,25 @@
+{
+  "id": "iduxv5c",
+  "category": "cinema",
+  "title": "５時から７時までのクレオ",
+  "fullTitle": "🈙５時から７時までのクレオ",
+  "detail": "アニエス・ヴァルダ監督の実験的手法の人間ドラマ。癌の診断結果を待つ女性歌手の５時から７時までを、ほぼリアルタイムで描く。",
+  "start": 1712079600000,
+  "end": 1712085600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

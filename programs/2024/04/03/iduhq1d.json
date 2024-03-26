@@ -1,0 +1,26 @@
+{
+  "id": "iduhq1d",
+  "category": "cinema",
+  "title": "オマージュ（字幕版）",
+  "fullTitle": "🈙オマージュ（字幕版）🅍",
+  "detail": "韓国を代表する名バイプレーヤー、イ・ジョンウン主演のヒューマンドラマ。発掘された映画の失われた音声の修復を頼まれた女性映画監督は、その映画にまつわる歴史を知る。",
+  "start": 1712088000000,
+  "end": 1712095200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

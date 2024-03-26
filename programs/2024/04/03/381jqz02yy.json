@@ -1,0 +1,26 @@
+{
+  "id": "381jqz02yy",
+  "category": "hobby",
+  "title": "社会にドキリ",
+  "fullTitle": "社会にドキリ🈖🈑",
+  "detail": "",
+  "start": 1712104800000,
+  "end": 1712105400000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
