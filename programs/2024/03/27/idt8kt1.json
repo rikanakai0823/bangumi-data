@@ -1,0 +1,23 @@
+{
+  "id": "idt8kt1",
+  "category": "information",
+  "title": "ショップジャパン",
+  "fullTitle": "ショップジャパン",
+  "detail": "便利な商品をお届け",
+  "start": 1711479180000,
+  "end": 1711480920000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

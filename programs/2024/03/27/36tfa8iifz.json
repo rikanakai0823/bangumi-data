@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8iifz",
+  "category": "music",
+  "title": "うたなび！",
+  "fullTitle": "うたなび！🈡",
+  "detail": " ",
+  "start": 1711481400000,
+  "end": 1711483200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "終"
+  ]
+}
