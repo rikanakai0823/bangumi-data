@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwhqz",
+  "category": "information",
+  "title": "生活情報【内容】ナリピタン／モレナクト",
+  "fullTitle": "生活情報【内容】ナリピタン／モレナクト",
+  "detail": "【内容】ナリピタン／モレナクト\r\n【電話】0120-825-884",
+  "start": 1711400400000,
+  "end": 1711402200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
