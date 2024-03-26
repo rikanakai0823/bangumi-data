@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1hcd",
-  "category": "etc",
-  "title": "ショッピングインフォ",
-  "fullTitle": "ショッピングインフォ",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピングインフォ・イイものショッピングゥ～！",
+  "fullTitle": "ショッピングインフォ・イイものショッピングゥ～！🅂",
+  "detail": "◇番組内容\nＺＵＴＴＯ排水管　０１２０－２１０－６２２",
   "start": 1711938300000,
   "end": 1711940100000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ＺＵＴＴＯ排水管　０１２０－２１０－６２２"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }

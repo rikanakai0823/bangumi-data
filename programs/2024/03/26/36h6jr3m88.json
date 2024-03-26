@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3m88",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "マチコミクイズ５０１▽クックハンド傑作選▽「三井アウトレットパーク入間」マル秘キャンペーン▽すいーつ図鑑▽来てみて！福井市▽安心安全インフォ▽天気",
+  "start": 1711440000000,
+  "end": 1711442700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "三井アウトレットパーク入間",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
