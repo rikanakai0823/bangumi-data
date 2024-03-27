@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwhyz",
+  "category": "news",
+  "title": "ＢＢＣニュース",
+  "fullTitle": "ＢＢＣニュース🈔",
+  "detail": "BBCのロンドンスタジオから、BBCを代表するキャスターのマシュー・アムロリワラが、世界各地で取材する特派員とともにその日の世界のトップニュースをお伝えします。",
+  "start": 1711571400000,
+  "end": 1711573200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
