@@ -1,0 +1,26 @@
+{
+  "id": "idt6fwf",
+  "category": "information",
+  "title": "あの本、読みました？",
+  "fullTitle": "🈟あの本、読みました？🈑",
+  "detail": "読書好き俳優・鈴木保奈美がおくる読書エンターテインメント番組！人気作家をゲストに招いたり鈴木保奈美が本屋に放たれたり、とにかく「本」との出会いにあふれた１時間！",
+  "start": 1712235600000,
+  "end": 1712238900000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "本",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}

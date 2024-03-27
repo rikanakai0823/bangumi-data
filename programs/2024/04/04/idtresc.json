@@ -1,0 +1,25 @@
+{
+  "id": "idtresc",
+  "category": "information",
+  "title": "みんなでＳＤＧｓ　#1",
+  "fullTitle": "🈟みんなでＳＤＧｓ　#1",
+  "detail": "番組ナビゲーターの皆藤愛子がSDGsに関わる取り組みを、月毎にテーマをかえて、わかりやすくお伝えします。また、すぐにできそうなSDGsについてのアクションもご提案！",
+  "start": 1712238900000,
+  "end": 1712239200000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

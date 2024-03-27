@@ -1,0 +1,26 @@
+{
+  "id": "idozejd",
+  "category": "sports",
+  "title": "プロ野球２０２４「広島」対「ヤクルト」",
+  "fullTitle": "プロ野球２０２４「広島」対「ヤクルト」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】大野豊，小早川毅彦，【アナウンサー】武本大樹　～マツダスタジアムから中継～",
+  "start": 1712221200000,
+  "end": 1712232000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ヤクルト",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

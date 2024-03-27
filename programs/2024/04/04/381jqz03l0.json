@@ -1,0 +1,25 @@
+{
+  "id": "381jqz03l0",
+  "category": "hobby",
+  "title": "漢字ふむふむ",
+  "fullTitle": "漢字ふむふむ🈑",
+  "detail": "",
+  "start": 1712242200000,
+  "end": 1712242500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
