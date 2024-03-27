@@ -1,0 +1,25 @@
+{
+  "id": "idp1iib",
+  "category": "news",
+  "title": "ワールドニュース　▽アメリカ▽アジア",
+  "fullTitle": "ワールドニュース　▽アメリカ▽アジア🈔",
+  "detail": "▽アメリカ・ＡＢＣ「ジス・ウイーク」，アメリカ・ＡＢＣ，韓国・ＫＢＳ，カタール・アルジャジーラ，中国・ＣＣＴＶ　▽世界の気象",
+  "start": 1711954800000,
+  "end": 1711958340000,
+  "seconds": 3540,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "ジス・ウイーク",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
