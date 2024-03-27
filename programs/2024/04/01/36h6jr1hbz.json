@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＴＶショッピング・りらいぶテレビショッピング",
   "fullTitle": "ＴＶショッピング・りらいぶテレビショッピング🅂",
-  "detail": "",
+  "detail": "◇番組内容\nリライブシャツ、リライブスパッツ",
   "start": 1711915200000,
   "end": 1711917000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "リライブシャツ、リライブスパッツ"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
