@@ -1,0 +1,26 @@
+{
+  "id": "idozfaa",
+  "category": "sports",
+  "title": "プロ野球２０２４「日本ハム」対「西武」",
+  "fullTitle": "プロ野球２０２４「日本ハム」対「西武」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】田中賢介，【アナウンサー】筒井亮太郎　～エスコンフィールド北海道から中継～",
+  "start": 1712307600000,
+  "end": 1712318400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "西武",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

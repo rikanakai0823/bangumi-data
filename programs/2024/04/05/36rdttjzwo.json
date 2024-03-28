@@ -1,0 +1,23 @@
+{
+  "id": "36rdttjzwo",
+  "category": "news",
+  "title": "ｔｖｋニュースハーバー",
+  "fullTitle": "ｔｖｋニュースハーバー",
+  "detail": "▽ｔｖｋニュース▽あすの天気予報",
+  "start": 1712307600000,
+  "end": 1712309400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
