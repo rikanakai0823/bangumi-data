@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr5rh2",
+  "category": "documentary",
+  "title": "知事定例記者会見",
+  "fullTitle": "知事定例記者会見",
+  "detail": "県庁で行われている知事会見の模様を生中継でお送りいたします。",
+  "start": 1711601940000,
+  "end": 1711603800000,
+  "seconds": 1860,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
