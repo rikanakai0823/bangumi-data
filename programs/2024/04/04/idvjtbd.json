@@ -1,9 +1,9 @@
 {
   "id": "idvjtbd",
   "category": "sports",
-  "title": "スポーツ番組",
-  "fullTitle": "スポーツ番組",
-  "detail": "",
+  "title": "ワールド ファイトCLIP！魔裟斗登場！PFL注目選手渡辺華奈の次戦見どころも",
+  "fullTitle": "🈟🈓ワールド ファイトCLIP！魔裟斗登場！PFL注目選手渡辺華奈の次戦見どころも",
+  "detail": "「ONE Friday Fights 56」、上西勇弥選手、丸山智也選手などの試合を中心に“反逆のカリスマ”こと元世界王者の魔裟斗さんが詳しく解説します。",
   "start": 1712239200000,
   "end": 1712241000000,
   "seconds": 1800,
@@ -17,7 +17,10 @@
     "hasLogoData": true,
     "n": 66
   },
-  "subTitle": "",
+  "subTitle": "ONE Friday Fights 56",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "新",
+    "デ"
+  ]
 }
