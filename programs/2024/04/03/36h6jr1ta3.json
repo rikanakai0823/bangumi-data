@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ta3",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピングタイム・ダイレクトテレショップ",
+  "fullTitle": "ショッピングタイム・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nシュワっとパンチ　０１２０－４１４１－８１",
   "start": 1712122200000,
   "end": 1712124000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "シュワっとパンチ　０１２０－４１４１－８１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
