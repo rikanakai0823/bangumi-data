@@ -1,0 +1,25 @@
+{
+  "id": "idozkn0",
+  "category": "etc",
+  "title": "（にっぽんトレッキング１００）",
+  "fullTitle": "（にっぽんトレッキング１００）🈞",
+  "detail": "",
+  "start": 1712368800000,
+  "end": 1712372400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduw1v1",
+  "category": "cinema",
+  "title": "ＦＡＬＬ／フォール",
+  "fullTitle": "🈙🅍ＦＡＬＬ／フォール",
+  "detail": "『海底４７ｍ』シリーズ製作陣による戦慄のサバイバルスリラー。地上６００ｍのテレビ塔の頂上で孤立した女性２人の運命を描く。",
+  "start": 1712389500000,
+  "end": 1712396700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

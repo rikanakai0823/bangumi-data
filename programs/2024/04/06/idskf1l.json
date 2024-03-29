@@ -1,0 +1,26 @@
+{
+  "id": "idskf1l",
+  "category": "drama",
+  "title": "ドラマ・御社の乱れ正します！",
+  "fullTitle": "🈑ドラマ・御社の乱れ正します！🈞",
+  "detail": "",
+  "start": 1712390400000,
+  "end": 1712392200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
