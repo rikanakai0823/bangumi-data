@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・ビバ！イタリア",
   "fullTitle": "夢の彼方に・ビバ！イタリア",
-  "detail": "",
+  "detail": "◇制作\n翔テレビジョン",
   "start": 1712341800000,
   "end": 1712343600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "翔テレビジョン"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

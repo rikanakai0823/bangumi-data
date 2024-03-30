@@ -1,0 +1,23 @@
+{
+  "id": "idwscq8",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「2024年度のBS231ch番組の紹介」",
+  "start": 1711803600000,
+  "end": 1711805400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "2024年度のBS231ch番組の紹介",
+  "episode": 1,
+  "flags": []
+}
