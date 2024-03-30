@@ -1,0 +1,26 @@
+{
+  "id": "idvjte6",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "🈢🈓ＢＳイレブン競馬中継　第１部",
+  "detail": "【中山】５Ｒ～８Ｒ，９Ｒ「印西特別」，10Ｒ「鹿野山特別」\r\n【阪神】５Ｒ～７Ｒ，８Ｒ「宝塚市制70周年記念」，９Ｒ「忘れな草賞（Ｌ）」",
+  "start": 1712458800000,
+  "end": 1712469600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}

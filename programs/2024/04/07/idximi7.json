@@ -1,0 +1,25 @@
+{
+  "id": "idximi7",
+  "category": "sports",
+  "title": "メジャーリーグ中継2024 カブス×ドジャース(4/6)",
+  "fullTitle": "[無料]メジャーリーグ中継2024 カブス×ドジャース(4/6)",
+  "detail": "シカゴ・カブス（鈴木／今永 所属）×ロサンゼルス・ドジャース（大谷／山本 所属）\r\n\r\n解説：仁志敏久\r\n実況：熊谷龍一",
+  "start": 1712487600000,
+  "end": 1712498400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

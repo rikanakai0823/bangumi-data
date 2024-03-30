@@ -1,0 +1,23 @@
+{
+  "id": "idtvosh",
+  "category": "music",
+  "title": "～靴音～ presented by JOHN LOBB",
+  "fullTitle": "～靴音～ presented by JOHN LOBB",
+  "detail": "独自のスタイルを貫き続ける、ミュージシャンの”靴”へのこだわりを解き明かしていく",
+  "start": 1711814400000,
+  "end": 1711818000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
