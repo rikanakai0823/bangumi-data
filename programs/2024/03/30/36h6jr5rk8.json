@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5rk8",
+  "category": "sports",
+  "title": "オレアル",
+  "fullTitle": "オレアル🅂",
+  "detail": "トップチーム・VENTUSともにホームで勝利！試合をダイジェストでお伝えします。　大宮アルディージャ応援番組。オレアルでしか見られないチームの最新情報をお届けします。",
+  "start": 1711747800000,
+  "end": 1711748700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 15
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
