@@ -1,0 +1,23 @@
+{
+  "id": "3826py7s4q",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ千葉日報杯、11Ｒダービー卿チャレンジトロフィー（ＧⅢ）\r\n【阪神】10Ｒ仲春特別、11ＲポラリスＳ",
+  "start": 1711778400000,
+  "end": 1711782000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
