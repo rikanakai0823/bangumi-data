@@ -1,0 +1,23 @@
+{
+  "id": "idsmjth",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　広島」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡ　ｖｓ　広島」",
+  "detail": "横浜から生中継。午後２時試合開始。午後４時５３分以降試合が続いた場合は１６２ｃｈで放送【解説】内川聖一、【実況】伊藤隆佑",
+  "start": 1711861200000,
+  "end": 1711871580000,
+  "seconds": 10380,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "ＤｅＮＡ　ｖｓ　広島",
+  "episode": 1,
+  "flags": []
+}
