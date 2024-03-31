@@ -1,0 +1,23 @@
+{
+  "id": "idwqgva",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「心理学概論・初歩からの生物学」",
+  "start": 1712546100000,
+  "end": 1712547000000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "心理学概論・初歩からの生物学",
+  "episode": 1,
+  "flags": []
+}
