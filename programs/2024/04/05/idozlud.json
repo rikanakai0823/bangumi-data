@@ -1,0 +1,23 @@
+{
+  "id": "idozlud",
+  "category": "music",
+  "title": "さわやかウインドー「異人館の街　神戸」",
+  "fullTitle": "さわやかウインドー「異人館の街　神戸」",
+  "detail": "",
+  "start": 1712257200000,
+  "end": 1712259000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "異人館の街　神戸",
+  "episode": 1,
+  "flags": []
+}
