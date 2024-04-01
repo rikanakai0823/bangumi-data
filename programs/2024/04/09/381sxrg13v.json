@@ -1,0 +1,28 @@
+{
+  "id": "381sxrg13v",
+  "category": "sports",
+  "title": "マスターズ魂",
+  "fullTitle": "マスターズ魂",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
+  "start": 1712593680000,
+  "end": 1712593800000,
+  "seconds": 120,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
