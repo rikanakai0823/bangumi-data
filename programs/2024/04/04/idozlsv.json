@@ -1,0 +1,23 @@
+{
+  "id": "idozlsv",
+  "category": "music",
+  "title": "さわやかウインドー「京都　桜一色」",
+  "fullTitle": "さわやかウインドー「京都　桜一色」",
+  "detail": "",
+  "start": 1712161800000,
+  "end": 1712163600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "京都　桜一色",
+  "episode": 1,
+  "flags": []
+}
