@@ -1,0 +1,23 @@
+{
+  "id": "381f5kucrm",
+  "category": "news",
+  "title": "緊急警報試験信号",
+  "fullTitle": "緊急警報試験信号",
+  "detail": "",
+  "start": 1711940340000,
+  "end": 1711940400000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
