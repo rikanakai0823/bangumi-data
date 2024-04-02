@@ -1,12 +1,16 @@
 {
   "id": "36tfa8genz",
   "category": "variety",
-  "title": "ガルボムＴＶ",
-  "fullTitle": "ガルボムＴＶ",
-  "detail": "第一線で活躍しているアイドルが総出演する業界唯一の番組‼「ガルボムTV」\r\n普段は聞けない各チーム内での秘密の話から、メディア初の新情報まで特別に公開！",
+  "title": "ガルボムＴＶ　＃１９",
+  "fullTitle": "ガルボムＴＶ　＃１９",
+  "detail": "Girl’s bomb‼～春の大祭典～INドイツ村の模様を特別公開！アイドルが春のドイツ村に大集合‼\n◇出演者\n【出演】\r\n東京ダイナマイト松田大輔、むとパン、ワンダーウィード天、Bunny La Crew、RiNCENT♯、HIGH SPIRITS、PinkySpice、君に、胸キュン。、その他多数",
   "start": 1712336700000,
   "end": 1712338440000,
   "seconds": 1740,
+  "description": "Girl’s bomb‼～春の大祭典～INドイツ村の模様を特別公開！アイドルが春のドイツ村に大集合‼",
+  "extra": {
+    "出演者": "【出演】\r\n東京ダイナマイト松田大輔、むとパン、ワンダーウィード天、Bunny La Crew、RiNCENT♯、HIGH SPIRITS、PinkySpice、君に、胸キュン。、その他多数"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "ガルボムTV",
-  "episode": 1,
+  "subTitle": "",
+  "episode": 19,
   "flags": []
 }
