@@ -1,0 +1,26 @@
+{
+  "id": "iduweus",
+  "category": "cinema",
+  "title": "ＳＩＮＧ／シング：ネクストステージ",
+  "fullTitle": "🈙🅍ＳＩＮＧ／シング：ネクストステージ",
+  "detail": "大ヒットミュージカルアニメの続編。取り壊し寸前の劇場を再生させたバスター・ムーン一行が、今度はエンタメの聖地で公演する。",
+  "start": 1712750400000,
+  "end": 1712757600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

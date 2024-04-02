@@ -1,0 +1,26 @@
+{
+  "id": "iduwc04",
+  "category": "cinema",
+  "title": "ナイト＆デイ［特別版］",
+  "fullTitle": "🈙🅍ナイト＆デイ［特別版］",
+  "detail": "トム・クルーズ、キャメロン・ディアス共演のスパイアクション。平凡な女性が元スパイの男と出会ったことで騒動に巻き込まれる。",
+  "start": 1712678400000,
+  "end": 1712686500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

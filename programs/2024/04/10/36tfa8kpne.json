@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kpne",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「六分儀座特別」「こぐま座特別」「第35回 東京スプリント（JpnⅢ）」「山王坂賞」",
+  "start": 1712730000000,
+  "end": 1712750400000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "東京スプリント（JpnⅢ）",
+  "episode": 35,
+  "flags": []
+}

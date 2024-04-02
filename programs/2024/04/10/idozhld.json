@@ -1,0 +1,26 @@
+{
+  "id": "idozhld",
+  "category": "sports",
+  "title": "プロ野球２０２４「オリックス」対「楽天」",
+  "fullTitle": "プロ野球２０２４「オリックス」対「楽天」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】田中賢介，【アナウンサー】別井敬之　～京セラドーム大阪から中継～",
+  "start": 1712739600000,
+  "end": 1712752200000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "楽天",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
