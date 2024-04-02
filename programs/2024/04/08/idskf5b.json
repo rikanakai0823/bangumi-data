@@ -2,7 +2,7 @@
   "id": "idskf5b",
   "category": "etc",
   "title": "麺鉄",
-  "fullTitle": "麺鉄",
+  "fullTitle": "🈑麺鉄",
   "detail": "",
   "start": 1712563140000,
   "end": 1712566440000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
