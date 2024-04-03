@@ -1,0 +1,23 @@
+{
+  "id": "idwshar",
+  "category": "hobby",
+  "title": "数学の歴史　第1回",
+  "fullTitle": "数学の歴史　第1回",
+  "detail": "「古代エジプトの数学」",
+  "start": 1712151000000,
+  "end": 1712153700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "古代エジプトの数学",
+  "episode": 1,
+  "flags": []
+}

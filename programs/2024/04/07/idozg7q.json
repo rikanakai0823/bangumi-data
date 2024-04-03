@@ -1,9 +1,9 @@
 {
   "id": "idozg7q",
   "category": "sports",
-  "title": "競馬２０２４",
-  "fullTitle": "競馬２０２４🅍🈑",
-  "detail": "",
+  "title": "競馬２０２４「第８４回桜花賞」",
+  "fullTitle": "競馬２０２４「第８４回桜花賞」",
+  "detail": "クラシックレース第１弾「桜花賞」。選ばれた３歳牝馬が阪神１６００ｍで最初の冠を競う▽調教師を引退したばかりの安田隆行さんがＮＨＫ初解説！",
   "start": 1712469600000,
   "end": 1712473200000,
   "seconds": 3600,
@@ -17,10 +17,7 @@
     "hasLogoData": true,
     "n": 41
   },
-  "subTitle": "",
-  "episode": 1,
-  "flags": [
-    "SS",
-    "字"
-  ]
+  "subTitle": "第８４回桜花賞",
+  "episode": 84,
+  "flags": []
 }
