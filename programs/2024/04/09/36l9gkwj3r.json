@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwj3r",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃３２５",
-  "fullTitle": "チバミライチャンネル　＃３２５",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "第4回チャリティー音楽祭\n◇番組内容\nnewsチバ特集\r\n統合新設校　花島小の１年②",
   "start": 1712650500000,
   "end": 1712652600000,
   "seconds": 2100,
+  "description": "第4回チャリティー音楽祭",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n統合新設校　花島小の１年②"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 11
   },
   "subTitle": "",
-  "episode": 325,
+  "episode": 4,
   "flags": []
 }

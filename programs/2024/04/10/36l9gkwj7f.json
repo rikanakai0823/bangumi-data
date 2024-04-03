@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwj7f",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃３２６",
-  "fullTitle": "チバミライチャンネル　＃３２６",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "第4回チャリティー音楽祭\n◇番組内容\nnewsチバ特集\r\n災害時に役立つポリ袋調理",
   "start": 1712736900000,
   "end": 1712739000000,
   "seconds": 2100,
+  "description": "第4回チャリティー音楽祭",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n災害時に役立つポリ袋調理"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 11
   },
   "subTitle": "",
-  "episode": 326,
+  "episode": 4,
   "flags": []
 }

@@ -1,0 +1,25 @@
+{
+  "id": "idp3wx1",
+  "category": "news",
+  "title": "総合テレビ（石川県内）同時放送",
+  "fullTitle": "総合テレビ（石川県内）同時放送🈑",
+  "detail": "",
+  "start": 1712115000000,
+  "end": 1712115900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫ",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
