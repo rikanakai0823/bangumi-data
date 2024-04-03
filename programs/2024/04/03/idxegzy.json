@@ -1,0 +1,23 @@
+{
+  "id": "idxegzy",
+  "category": "sports",
+  "title": "【MLB中継ベストゲーム#12】NLDS 第4戦 フィリーズ×ブレーブス(2023/10/12)",
+  "fullTitle": "【MLB中継ベストゲーム#12】NLDS 第4戦 フィリーズ×ブレーブス(2023/10/12)",
+  "detail": "プロ野球「広島×東京ヤクルト」は雨天のため中止になりました。\r\nこの時間は予定を変更して別番組をお送りしています。",
+  "start": 1712149200000,
+  "end": 1712161800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "広島×東京ヤクルト",
+  "episode": 12,
+  "flags": []
+}

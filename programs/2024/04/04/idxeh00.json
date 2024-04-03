@@ -1,0 +1,25 @@
+{
+  "id": "idxeh00",
+  "category": "sports",
+  "title": "SUPER GT 2024 ナビ",
+  "fullTitle": "[無料]SUPER GT 2024 ナビ",
+  "detail": "プロ野球「広島×東京ヤクルト」は雨天のため中止になりました。\r\nこの時間は予定を変更して別番組をお送りしています。",
+  "start": 1712202300000,
+  "end": 1712203200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "広島×東京ヤクルト",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

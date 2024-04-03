@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1hor",
-  "category": "etc",
-  "title": "ショッピングインフォ",
-  "fullTitle": "ショッピングインフォ",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピングインフォ・森永製菓　ＴＶショッピング",
+  "fullTitle": "ショッピングインフォ・森永製菓　ＴＶショッピング🅂",
+  "detail": "森永製菓ＴＶショッピング\n◇番組内容\nひざ軽コラーゲン　０１２０－７７７２２７",
   "start": 1712543100000,
   "end": 1712544900000,
   "seconds": 1800,
+  "description": "森永製菓ＴＶショッピング",
+  "extra": {
+    "番組内容": "ひざ軽コラーゲン　０１２０－７７７２２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }

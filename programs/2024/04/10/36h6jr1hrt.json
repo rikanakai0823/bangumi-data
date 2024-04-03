@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1hrt",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・日本薬師堂テレビショッピング",
+  "fullTitle": "ＴＶショッピング・日本薬師堂テレビショッピング🅂",
+  "detail": "日本薬師堂スペシャル\n◇番組内容\n薬師楽歩錠　０１２０－８９４－００６",
   "start": 1712727000000,
   "end": 1712728800000,
   "seconds": 1800,
+  "description": "日本薬師堂スペシャル",
+  "extra": {
+    "番組内容": "薬師楽歩錠　０１２０－８９４－００６"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
