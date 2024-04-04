@@ -1,0 +1,23 @@
+{
+  "id": "idsop84",
+  "category": "information",
+  "title": "おはよう！買物列島",
+  "fullTitle": "おはよう！買物列島",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1712187000000,
+  "end": 1712188800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
