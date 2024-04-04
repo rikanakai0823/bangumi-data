@@ -1,0 +1,26 @@
+{
+  "id": "idozimo",
+  "category": "sports",
+  "title": "プロ野球２０２４「巨人」対「広島」",
+  "fullTitle": "プロ野球２０２４「巨人」対「広島」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】伊東勤，【アナウンサー】冨坂和男　～東京ドームから中継～",
+  "start": 1712912400000,
+  "end": 1712925000000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "広島",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
