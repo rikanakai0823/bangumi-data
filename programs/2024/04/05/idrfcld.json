@@ -1,0 +1,25 @@
+{
+  "id": "idrfcld",
+  "category": "anime",
+  "title": "バンステ！BanG Dream! STATION 2024　#1",
+  "fullTitle": "🈟バンステ！BanG Dream! STATION 2024　#1",
+  "detail": "メディアミックスプロジェクト『バンドリ！』の魅力の一つでもある、リアルライブをお送りする番組。ライブの熱気と興奮をテレビでもお楽しみいただけます。",
+  "start": 1712242800000,
+  "end": 1712244600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
