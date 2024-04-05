@@ -1,0 +1,25 @@
+{
+  "id": "idsopay",
+  "category": "information",
+  "title": "激ウマ！漁師めし▼早春の北海道を巡る",
+  "fullTitle": "🈑激ウマ！漁師めし▼早春の北海道を巡る",
+  "detail": "恵み豊かな海の幸を漁師さんと共に獲り食す。早春の北海道、函館から松前、島牧村、小樽を巡る。旬を迎えたヤリイカ、サクラマス、水ダコ、カレイの新鮮・極上の漁師めし",
+  "start": 1712322000000,
+  "end": 1712325240000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

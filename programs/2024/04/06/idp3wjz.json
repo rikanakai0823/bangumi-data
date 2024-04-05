@@ -3,10 +3,14 @@
   "category": "music",
   "title": "映像散歩",
   "fullTitle": "映像散歩",
-  "detail": "",
+  "detail": "◇出演者\n【バイオリン】伊藤万桜，【チェンバロ】鎌田茉帆",
   "start": 1712382600000,
   "end": 1712394000000,
   "seconds": 11400,
+  "description": "",
+  "extra": {
+    "出演者": "【バイオリン】伊藤万桜，【チェンバロ】鎌田茉帆"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS03_1",
