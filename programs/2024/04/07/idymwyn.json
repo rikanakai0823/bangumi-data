@@ -3,10 +3,14 @@
   "category": "information",
   "title": "BSJapanextからのお知らせ",
   "fullTitle": "BSJapanextからのお知らせ",
-  "detail": "",
+  "detail": "◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1712456100000,
   "end": 1712456700000,
   "seconds": 600,
+  "description": "",
+  "extra": {
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS23_2",

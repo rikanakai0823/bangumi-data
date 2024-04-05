@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ジャパネットたかたのテレビショッピング",
   "fullTitle": "ジャパネットたかたのテレビショッピング",
-  "detail": "",
+  "detail": "◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1712883600000,
   "end": 1712887200000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS23_2",
