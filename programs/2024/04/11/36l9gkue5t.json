@@ -1,15 +1,16 @@
 {
   "id": "36l9gkue5t",
   "category": "information",
-  "title": "ビジネストレンド　働き方改革",
-  "fullTitle": "ビジネストレンド　働き方改革",
-  "detail": "◇番組内容    \n働き方改革",
+  "title": "ビジネストレンド　ココロココ",
+  "fullTitle": "ビジネストレンド　ココロココ",
+  "detail": "◇番組内容    \n働き方改革\r\n\n◇番組内容\nココロココ",
   "start": 1712840100000,
   "end": 1712840400000,
   "seconds": 300,
   "description": " ",
   "extra": {
-    "番組内容    ": "働き方改革\r\n"
+    "番組内容    ": "働き方改革\r\n",
+    "番組内容": "ココロココ"
   },
   "channel": {
     "type": "GR",
