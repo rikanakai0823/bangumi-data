@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwisx",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席🈞",
+  "detail": "桂小すみ、春風亭昇々「決壊」",
+  "start": 1712394300000,
+  "end": 1712397600000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "決壊",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
