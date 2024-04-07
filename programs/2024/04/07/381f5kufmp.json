@@ -1,0 +1,25 @@
+{
+  "id": "381f5kufmp",
+  "category": "information",
+  "title": "どーも、ＮＨＫ",
+  "fullTitle": "どーも、ＮＨＫ🈑",
+  "detail": "ＮＨＫの春からのおすすめ番組を特集。ゲストは連続テレビ小説「虎に翼」に出演の塚地武雅さん。多彩な新番組、装いも新たパワーアップした番組などをたっぷり紹介します。",
+  "start": 1712455200000,
+  "end": 1712456700000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "虎に翼",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
