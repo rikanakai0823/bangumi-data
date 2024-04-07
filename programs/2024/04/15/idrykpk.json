@@ -1,0 +1,23 @@
+{
+  "id": "idrykpk",
+  "category": "information",
+  "title": "Ａの伝言　＃231",
+  "fullTitle": "Ａの伝言　＃231",
+  "detail": "今日までの“過去”から明日という“未来”へ向けて…。BS朝日からの未来への伝言。最新のムーブメントや、いま一番注目したいイベント情報などを紹介する。",
+  "start": 1713192840000,
+  "end": 1713193200000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 231,
+  "flags": []
+}

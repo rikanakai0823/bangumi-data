@@ -1,0 +1,25 @@
+{
+  "id": "idrd6nz",
+  "category": "music",
+  "title": "ＢＳ日本・こころの歌",
+  "fullTitle": "🈑ＢＳ日本・こころの歌",
+  "detail": "FORESTAが歌う服部良一、古関裕而の世界▽曲目：一杯のコーヒーから、山寺の和尚さん、「今週の明星」の歌、君の名は　ほか",
+  "start": 1713178800000,
+  "end": 1713182040000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "今週の明星",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

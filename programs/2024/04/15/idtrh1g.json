@@ -1,0 +1,25 @@
+{
+  "id": "idtrh1g",
+  "category": "variety",
+  "title": "ハートフルTV「虫の知らせ」",
+  "fullTitle": "🈟ハートフルTV「虫の知らせ」",
+  "detail": "日曜の深夜に新番組がスタート！小さな喫茶店「虫の知らせ」に今日も愉快なお客様が来店！松本伊代・ダチョウ倶楽部・榊原郁恵他\r\n",
+  "start": 1713106800000,
+  "end": 1713108600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "虫の知らせ",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}
