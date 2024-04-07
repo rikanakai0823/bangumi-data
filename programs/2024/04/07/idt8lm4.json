@@ -1,0 +1,23 @@
+{
+  "id": "idt8lm4",
+  "category": "information",
+  "title": "この時間はＢＳテレ東171チャンネルでお楽しみ下さい",
+  "fullTitle": "この時間はＢＳテレ東171チャンネルでお楽しみ下さい",
+  "detail": "",
+  "start": 1712476800000,
+  "end": 1712478600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
