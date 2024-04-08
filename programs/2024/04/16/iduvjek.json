@@ -1,0 +1,25 @@
+{
+  "id": "iduvjek",
+  "category": "drama",
+  "title": "ランドスケーパーズ　秘密の庭　＃２",
+  "fullTitle": "🅍ランドスケーパーズ　秘密の庭　＃２",
+  "detail": "【STAR　DRAMA　１１】",
+  "start": 1713276000000,
+  "end": 1713279600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "STAR　DRAMA　１１",
+  "episode": 2,
+  "flags": [
+    "SS"
+  ]
+}

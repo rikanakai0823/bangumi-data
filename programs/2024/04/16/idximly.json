@@ -1,0 +1,23 @@
+{
+  "id": "idximly",
+  "category": "sports",
+  "title": "MOTOR GAMES #524",
+  "fullTitle": "MOTOR GAMES #524",
+  "detail": "車＆バイクによる複合型モータースポーツイベント「MOTOR GAMES」と連動した情報をお届けする番組！",
+  "start": 1713254400000,
+  "end": 1713256200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "MOTOR GAMES",
+  "episode": 524,
+  "flags": []
+}
