@@ -1,12 +1,16 @@
 {
   "id": "381jqz095h",
   "category": "documentary",
-  "title": "こころの時代～宗教・人生～　選",
-  "fullTitle": "こころの時代～宗教・人生～　選🈑",
-  "detail": "",
+  "title": "こころの時代　選“ごちゃまぜ”で生きていく",
+  "fullTitle": "こころの時代　選“ごちゃまぜ”で生きていく🈑",
+  "detail": "【出演】雄谷良成\n◇出演者\n【出演】雄谷良成",
   "start": 1713038400000,
   "end": 1713042000000,
   "seconds": 3600,
+  "description": "【出演】雄谷良成",
+  "extra": {
+    "出演者": "【出演】雄谷良成"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "出演",
   "episode": 1,
   "flags": [
     "字"
