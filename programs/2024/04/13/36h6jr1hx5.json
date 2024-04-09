@@ -1,8 +1,8 @@
 {
   "id": "36h6jr1hx5",
-  "category": "etc",
-  "title": "オリバイショッピング",
-  "fullTitle": "オリバイショッピング",
+  "category": "information",
+  "title": "ＴＶショッピング・新大和漢方テレビショッピング",
+  "fullTitle": "ＴＶショッピング・新大和漢方テレビショッピング🅂",
   "detail": "",
   "start": 1712980800000,
   "end": 1712982600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
