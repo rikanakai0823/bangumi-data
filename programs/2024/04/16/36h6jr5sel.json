@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ライオンズアワー・千葉ロッテ×埼玉西武",
   "fullTitle": "ライオンズアワー・千葉ロッテ×埼玉西武🅂",
-  "detail": "",
+  "detail": "◇出演者\n解説：倉持明　実況：加藤暁",
   "start": 1713268800000,
   "end": 1713269700000,
   "seconds": 900,
+  "description": "",
+  "extra": {
+    "出演者": "解説：倉持明　実況：加藤暁"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
