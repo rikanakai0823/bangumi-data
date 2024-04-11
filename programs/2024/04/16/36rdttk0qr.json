@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n【PARCELS特集】\r\nPARCELSインタビュー\r\n“Comingback”\r\n“Reflex (Live from Le Palace, Paris)”\r\n“Iknowhowyoufeel (Live from Le Palace, Paris)”\n◇番組内容２\nGYUBIN“Really Like You”\r\nYUNGBLUD“Abyss(from Kaiju No. 8) [Visualizer]”\r\nMEGHAN TRAINOR, T-PAIN“Been Like This”",
   "start": 1713193200000,
   "end": 1713195000000,
   "seconds": 1800,
   "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "【PARCELS特集】\r\nPARCELSインタビュー\r\n“Comingback”\r\n“Reflex (Live from Le Palace, Paris)”\r\n“Iknowhowyoufeel (Live from Le Palace, Paris)”",
+    "番組内容２": "GYUBIN“Really Like You”\r\nYUNGBLUD“Abyss(from Kaiju No. 8) [Visualizer]”\r\nMEGHAN TRAINOR, T-PAIN“Been Like This”"
   },
   "channel": {
     "type": "GR",
