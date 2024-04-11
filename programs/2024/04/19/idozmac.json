@@ -1,0 +1,25 @@
+{
+  "id": "idozmac",
+  "category": "documentary",
+  "title": "スポーツ×ヒューマン",
+  "fullTitle": "スポーツ×ヒューマン🈑",
+  "detail": "",
+  "start": 1713536700000,
+  "end": 1713539400000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
