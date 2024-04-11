@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3mza",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽星座占い▽天気▽サガミレストランツ▽きゅうりの季節がやってきた！▽シルバニアファミリー森のお家▽ＧＷトレンド予測▽豪華プレゼントがあたる！木曜で賞",
+  "start": 1712820600000,
+  "end": 1712822400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
