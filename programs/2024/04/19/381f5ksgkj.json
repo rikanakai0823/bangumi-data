@@ -1,12 +1,16 @@
 {
   "id": "381f5ksgkj",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　おすすめ番組のご紹介",
+  "fullTitle": "＃ＮＨＫ　おすすめ番組のご紹介",
+  "detail": "【出演】中川安奈\n◇出演者\n【出演】中川安奈",
   "start": 1713526920000,
   "end": 1713527100000,
   "seconds": 180,
+  "description": "【出演】中川安奈",
+  "extra": {
+    "出演者": "【出演】中川安奈"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "出演",
   "episode": 1,
   "flags": []
 }
