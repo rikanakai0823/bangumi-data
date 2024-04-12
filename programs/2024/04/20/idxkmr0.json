@@ -1,0 +1,23 @@
+{
+  "id": "idxkmr0",
+  "category": "sports",
+  "title": "モータースポーツマガジン Mobil 1 The Grid 2024 #2",
+  "fullTitle": "モータースポーツマガジン Mobil 1 The Grid 2024 #2",
+  "detail": "モータースポーツの最新情報を中心に、世界各国のレース都市の情報や各チームの舞台裏、選手の素顔などに迫る情報番組。",
+  "start": 1713569400000,
+  "end": 1713571200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}

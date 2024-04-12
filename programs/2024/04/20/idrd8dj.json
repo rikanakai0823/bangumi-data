@@ -1,0 +1,25 @@
+{
+  "id": "idrd8dj",
+  "category": "anime",
+  "title": "アニメ　カードファイト!! ヴァンガード Divinez",
+  "fullTitle": "アニメ　カードファイト!! ヴァンガード Divinez🈡",
+  "detail": "",
+  "start": 1713623400000,
+  "end": 1713625200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "終"
+  ]
+}
