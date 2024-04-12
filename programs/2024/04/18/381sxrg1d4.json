@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "わんにゃん観察バラエティ　アニマリング",
   "fullTitle": "わんにゃん観察バラエティ　アニマリング🈑",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ http://www.tbs.co.jp/program/animaring/",
   "start": 1713438000000,
   "end": 1713445080000,
   "seconds": 7080,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ http://www.tbs.co.jp/program/animaring/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
