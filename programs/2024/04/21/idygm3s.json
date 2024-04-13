@@ -1,0 +1,23 @@
+{
+  "id": "idygm3s",
+  "category": "theater",
+  "title": "日曜ゴールデンシアター　歌舞伎「馬盗人」「梶原平三誉石切」",
+  "fullTitle": "日曜ゴールデンシアター　歌舞伎「馬盗人」「梶原平三誉石切」",
+  "detail": "",
+  "start": 1713693600000,
+  "end": 1713702600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "梶原平三誉石切",
+  "episode": 1,
+  "flags": []
+}

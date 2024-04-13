@@ -1,0 +1,23 @@
+{
+  "id": "idwqgx7",
+  "category": "hobby",
+  "title": "特別番組",
+  "fullTitle": "特別番組",
+  "detail": "「放送大学の修学支援～障害のある学生の学びのために～」",
+  "start": 1713657600000,
+  "end": 1713660300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "放送大学の修学支援～障害のある学生の学びのために～",
+  "episode": 1,
+  "flags": []
+}

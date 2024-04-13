@@ -1,0 +1,25 @@
+{
+  "id": "381ocdabl9",
+  "category": "anime",
+  "title": "ザ・ファブル",
+  "fullTitle": "ザ・ファブル🈑",
+  "detail": "＃２「素晴らしい夜」",
+  "start": 1713023700000,
+  "end": 1713025500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "素晴らしい夜",
+  "episode": 2,
+  "flags": [
+    "字"
+  ]
+}

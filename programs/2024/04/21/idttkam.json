@@ -1,0 +1,25 @@
+{
+  "id": "idttkam",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　東京：フローラS　京都：マイラーズC",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　東京：フローラS　京都：マイラーズC",
+  "detail": "フローラステークス（GⅡ）マイラーズカップ（GⅡ）福島中央テレビ杯／解説：沢田知希（競馬エイト）ゲスト：横山ルリカ／春GⅠに向けた前哨戦",
+  "start": 1713679140000,
+  "end": 1713682800000,
+  "seconds": 3660,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
