@@ -1,0 +1,23 @@
+{
+  "id": "ids2uy6",
+  "category": "information",
+  "title": "レッツ５！ショッピング",
+  "fullTitle": "レッツ５！ショッピング",
+  "detail": "家電量販店最大手ヤマダデンキのTVショッピング！価格も！品質も！アフターケアも！期待に応える！家電も住まいも旅行もヤマダ・テレビショッピング！",
+  "start": 1712966400000,
+  "end": 1712968200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
