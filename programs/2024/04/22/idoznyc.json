@@ -1,0 +1,26 @@
+{
+  "id": "idoznyc",
+  "category": "documentary",
+  "title": "しろ旅　～家康を生んだ城下町スペシャル～",
+  "fullTitle": "しろ旅　～家康を生んだ城下町スペシャル～🈑🈞",
+  "detail": "徳川家康が現代の日本にタイムスリップ。自身が築いた城や城下町で、ゆかりの場所や人を訪ねながら人生を振り返る旅番組。岡崎・名古屋・駿府の３つのまちをめぐる。",
+  "start": 1713751200000,
+  "end": 1713754800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

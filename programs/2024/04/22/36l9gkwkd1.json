@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwkd1",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "第4回チャリティー音楽祭",
+  "start": 1713735900000,
+  "end": 1713736800000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}

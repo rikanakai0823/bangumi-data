@@ -1,0 +1,23 @@
+{
+  "id": "idoznye",
+  "category": "documentary",
+  "title": "駅ピアノ「ブリュッセル　ｖｏｌ．１」",
+  "fullTitle": "駅ピアノ「ブリュッセル　ｖｏｌ．１」",
+  "detail": "ベルギーの首都ブリュッセル。古くから「ヨーロッパの十字路」と称された交易の拠点でＥＵやＮＡＴＯなどの本部が置かれる国際都市だ。人々はどんな思いでピアノを弾くのか",
+  "start": 1713754800000,
+  "end": 1713755700000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ブリュッセル　ｖｏｌ．１",
+  "episode": 1,
+  "flags": []
+}

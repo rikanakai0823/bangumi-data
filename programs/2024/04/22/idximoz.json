@@ -1,0 +1,26 @@
+{
+  "id": "idximoz",
+  "category": "sports",
+  "title": "GTV 2024 #2 ～SUPER GTトークバラエティ～",
+  "fullTitle": "[無料][生]GTV 2024 #2 ～SUPER GTトークバラエティ～",
+  "detail": "SUPER GTを楽しみ尽くすならGTV！\r\n\r\nゲスト：ケイ・コッツォリーノ、平手晃平\r\nMC：高橋二朗、竹内紫麻",
+  "start": 1713789000000,
+  "end": 1713792300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "～SUPER GTトークバラエティ～",
+  "episode": 2,
+  "flags": [
+    "無",
+    "生"
+  ]
+}
