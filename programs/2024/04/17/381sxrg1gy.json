@@ -1,12 +1,19 @@
 {
   "id": "381sxrg1gy",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "drama",
+  "title": "日曜劇場「アンチヒーロー」ナビ",
+  "fullTitle": "日曜劇場「アンチヒーロー」ナビ🈓",
+  "detail": "これを見れば乗り遅れない！\r\n日曜劇場「アンチヒーロー」第１話プレミアダイジェスト！！\n◇番組内容\n日曜劇場「アンチヒーロー」\r\nまだ間に合う！散りばめられた伏線をおさらいできる第１話スペシャルダイジェスト＆気になる第２話の注目ポイントをキャストが語る！！\n◇出演者\n長谷川博己、北村匠海、堀田真由、大島優子、岩田剛典、一ノ瀬ワタル\r\n木村佳乃、野村萬斎　他\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/antihero_tbs/\r\n\r\n◇番組Ｘ\r\nhttps://twitter.com/antihero_tbs/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/antihero_tbs/\r\n\r\n◇tiktok\r\nhttps://www.tiktok.com/@antihero_tbs/\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1713283080000,
   "end": 1713284880000,
   "seconds": 1800,
+  "description": "これを見れば乗り遅れない！\r\n日曜劇場「アンチヒーロー」第１話プレミアダイジェスト！！",
+  "extra": {
+    "番組内容": "日曜劇場「アンチヒーロー」\r\nまだ間に合う！散りばめられた伏線をおさらいできる第１話スペシャルダイジェスト＆気になる第２話の注目ポイントをキャストが語る！！",
+    "出演者": "長谷川博己、北村匠海、堀田真由、大島優子、岩田剛典、一ノ瀬ワタル\r\n木村佳乃、野村萬斎　他",
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/antihero_tbs/\r\n\r\n◇番組Ｘ\r\nhttps://twitter.com/antihero_tbs/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/antihero_tbs/\r\n\r\n◇tiktok\r\nhttps://www.tiktok.com/@antihero_tbs/",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -17,7 +24,9 @@
     "hasLogoData": true,
     "n": 24
   },
-  "subTitle": "",
+  "subTitle": "アンチヒーロー",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "デ"
+  ]
 }
