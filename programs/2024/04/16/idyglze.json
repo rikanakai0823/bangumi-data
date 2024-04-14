@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "ぷらっとニッポン",
   "fullTitle": "ぷらっとニッポン",
-  "detail": "",
+  "detail": "◇【番組内容】\n日本の風景をお届け！",
   "start": 1713258000000,
   "end": 1713258360000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "【番組内容】": "日本の風景をお届け！"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS23_3",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 81
   },
-  "subTitle": "",
+  "subTitle": "番組内容",
   "episode": 1,
   "flags": []
 }
