@@ -1,0 +1,23 @@
+{
+  "id": "ids2uzz",
+  "category": "music",
+  "title": "暦に集う　「チューリップ」",
+  "fullTitle": "暦に集う　「チューリップ」",
+  "detail": "4月上旬、千葉県北部の佐倉市に春を告げる色とりどりの花が集っていました。佐倉チューリップフェスタです。サッカー場2面分の敷地に様々なチューリップが咲き誇ります。",
+  "start": 1713095640000,
+  "end": 1713096000000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "チューリップ",
+  "episode": 1,
+  "flags": []
+}
