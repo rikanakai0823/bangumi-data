@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwjub",
+  "category": "variety",
+  "title": "モーターゾーンＴＶ",
+  "fullTitle": "モーターゾーンＴＶ",
+  "detail": "クルマやバイクなどあらゆるモータービークルの最新情報をお届けするモーターゾーンTV。毎週火曜日25：00より放送中！",
+  "start": 1713283200000,
+  "end": 1713285000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iduw603",
+  "category": "cinema",
+  "title": "イントゥ・ザ・ウッズ",
+  "fullTitle": "🈙🅍イントゥ・ザ・ウッズ",
+  "detail": "ジョニー・デップなど豪華キャスト共演のミュージカル。シンデレラや赤ずきんなど、おとぎ話の主人公たちに新たな運命が待つ。",
+  "start": 1713903300000,
+  "end": 1713911400000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

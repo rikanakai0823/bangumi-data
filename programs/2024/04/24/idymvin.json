@@ -1,0 +1,23 @@
+{
+  "id": "idymvin",
+  "category": "hobby",
+  "title": "～MリーグNo.1への道～ BEAST ROAD　＃４３",
+  "fullTitle": "～MリーグNo.1への道～ BEAST ROAD　＃４３",
+  "detail": "MリーグにBSJapanextが参戦！\r\nその名は「BEAST Japanext」\r\nチームの裏側や、Mリーグを駆け上がっていく軌跡を追いかけます！",
+  "start": 1713961800000,
+  "end": 1713965400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 43,
+  "flags": []
+}
