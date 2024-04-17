@@ -3,13 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容\n♪",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容\n♪\n◇番組内容１\n【CALUM SCOTT特集】\r\nCALUM SCOTTインタビュー\r\n“Biblical”\r\n“At Your Worst”\r\n“Lighthouse”\n◇番組内容２\nPAUL RUSSELL“Eat Pray Love”\r\nJOJO SIWA“Karma”",
   "start": 1713798000000,
   "end": 1713799800000,
   "seconds": 1800,
   "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
   "extra": {
-    "番組内容": "♪"
+    "番組内容": "♪",
+    "番組内容１": "【CALUM SCOTT特集】\r\nCALUM SCOTTインタビュー\r\n“Biblical”\r\n“At Your Worst”\r\n“Lighthouse”",
+    "番組内容２": "PAUL RUSSELL“Eat Pray Love”\r\nJOJO SIWA“Karma”"
   },
   "channel": {
     "type": "GR",
