@@ -3,10 +3,14 @@
   "category": "information",
   "title": "いまドキッ！埼玉🈐",
   "fullTitle": "いまドキッ！埼玉🈐🅂",
-  "detail": "",
+  "detail": "メイドイン埼玉の文房具▽実は知らない「歩道橋」の世界\n◇出演者\n司会：松井咲子　リポーター：才木玲佳　明坂聡美　ナレーター：岡本寛志",
   "start": 1713569400000,
   "end": 1713571200000,
   "seconds": 1800,
+  "description": "メイドイン埼玉の文房具▽実は知らない「歩道橋」の世界",
+  "extra": {
+    "出演者": "司会：松井咲子　リポーター：才木玲佳　明坂聡美　ナレーター：岡本寛志"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 13
   },
-  "subTitle": "",
+  "subTitle": "歩道橋",
   "episode": 1,
   "flags": [
     "S"
