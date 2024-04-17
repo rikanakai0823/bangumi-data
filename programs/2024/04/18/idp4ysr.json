@@ -1,0 +1,23 @@
+{
+  "id": "idp4ysr",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース",
+  "detail": "ニュース",
+  "start": 1713371400000,
+  "end": 1713381300000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫ",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

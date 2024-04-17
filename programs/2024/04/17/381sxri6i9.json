@@ -1,0 +1,23 @@
+{
+  "id": "381sxri6i9",
+  "category": "news",
+  "title": "報道特別番組",
+  "fullTitle": "報道特別番組",
+  "detail": "この時間は予定を変更して「報道特別番組」をお送りします。",
+  "start": 1713365760000,
+  "end": 1713369300000,
+  "seconds": 3540,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "報道特別番組",
+  "episode": 1,
+  "flags": []
+}
