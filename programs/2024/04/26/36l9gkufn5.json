@@ -1,0 +1,27 @@
+{
+  "id": "36l9gkufn5",
+  "category": "music",
+  "title": "ハッピーミュージック",
+  "fullTitle": "ハッピーミュージック",
+  "detail": "◇番組内容\n金村ひろし、伊達悠太が MC をつとめる、朝のさわやか歌謡曲番組。\r\n懐かしい歌から新しい曲までお伝えします。",
+  "start": 1714077000000,
+  "end": 1714078800000,
+  "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "番組内容": "金村ひろし、伊達悠太が MC をつとめる、朝のさわやか歌謡曲番組。\r\n懐かしい歌から新しい曲までお伝えします。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
