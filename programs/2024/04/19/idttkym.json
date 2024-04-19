@@ -1,0 +1,25 @@
+{
+  "id": "idttkym",
+  "category": "sports",
+  "title": "42nd フジサンケイレディスクラシック　第１日",
+  "fullTitle": "🈢42nd フジサンケイレディスクラシック　第１日",
+  "detail": "世界ゴルフ100選“川奈ホテルゴルフコース富士コース”から女子プロゴルファーたちの白熱の闘いをお届け！オリジナル生中継を中心に3日間全日程放送！",
+  "start": 1713506400000,
+  "end": 1713510000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
