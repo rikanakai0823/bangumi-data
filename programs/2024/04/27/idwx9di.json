@@ -1,0 +1,25 @@
+{
+  "id": "idwx9di",
+  "category": "sports",
+  "title": "トラックマンTV #643",
+  "fullTitle": "🈞トラックマンTV #643",
+  "detail": "「天皇賞（春）（Ｇ１）、青葉賞（Ｇ２）、ユニコーンＳ（Ｇ３）他　展望」",
+  "start": 1714170600000,
+  "end": 1714176000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "天皇賞（春）（Ｇ１）、青葉賞（Ｇ２）、ユニコーンＳ（Ｇ３）他　展望",
+  "episode": 643,
+  "flags": [
+    "再"
+  ]
+}
