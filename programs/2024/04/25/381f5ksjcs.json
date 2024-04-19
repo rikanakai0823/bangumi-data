@@ -1,12 +1,16 @@
 {
   "id": "381f5ksjcs",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ「君の声が聴きたい」関連番組のご紹介",
+  "fullTitle": "＃ＮＨＫ「君の声が聴きたい」関連番組のご紹介",
+  "detail": "【出演】二宮直輝\n◇出演者\n【出演】二宮直輝",
   "start": 1714045320000,
   "end": 1714045500000,
   "seconds": 180,
+  "description": "【出演】二宮直輝",
+  "extra": {
+    "出演者": "【出演】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "君の声が聴きたい",
   "episode": 1,
   "flags": []
 }
