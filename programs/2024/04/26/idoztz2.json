@@ -1,0 +1,23 @@
+{
+  "id": "idoztz2",
+  "category": "music",
+  "title": "さわやかウインドー「坂の町　尾道」",
+  "fullTitle": "さわやかウインドー「坂の町　尾道」",
+  "detail": "",
+  "start": 1714064400000,
+  "end": 1714066200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "坂の町　尾道",
+  "episode": 1,
+  "flags": []
+}
