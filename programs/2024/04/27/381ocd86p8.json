@@ -3,10 +3,14 @@
   "category": "music",
   "title": "バズリズム０２",
   "fullTitle": "バズリズム０２",
-  "detail": "",
+  "detail": "◇出演者\n【MC】バカリズム【進行】市來玲奈（日本テレビアナウンサー）【トーク・歌ゲスト】鈴木愛理【歌ゲスト】日向坂４６、WEST.【NEXT VIRAL ARTIST】LIL LEAGUE、DXTEEN【クイズ！ミュージックビデオ王】清水美依紗",
   "start": 1714147140000,
   "end": 1714150740000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】バカリズム【進行】市來玲奈（日本テレビアナウンサー）【トーク・歌ゲスト】鈴木愛理【歌ゲスト】日向坂４６、WEST.【NEXT VIRAL ARTIST】LIL LEAGUE、DXTEEN【クイズ！ミュージックビデオ王】清水美依紗"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
