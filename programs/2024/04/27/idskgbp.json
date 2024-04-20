@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "御社でインターンよろしいでしょうか？",
   "fullTitle": "御社でインターンよろしいでしょうか？",
-  "detail": "",
+  "detail": "◇制作\n2024年",
   "start": 1714210200000,
   "end": 1714212000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "制作": "2024年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",

@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "石ちゃんのビーフ天国",
   "fullTitle": "石ちゃんのビーフ天国",
-  "detail": "",
+  "detail": "◇制作\n2024年",
   "start": 1714226400000,
   "end": 1714229640000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2024年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
