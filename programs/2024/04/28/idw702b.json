@@ -1,0 +1,23 @@
+{
+  "id": "idw702b",
+  "category": "sports",
+  "title": "ｔｖ．ｍｏｔｏ　Ｃｈａｎｎｅｌ ＃２",
+  "fullTitle": "ｔｖ．ｍｏｔｏ　Ｃｈａｎｎｅｌ ＃２",
+  "detail": "ロードレースは国内最高峰のJSB1000クラスに加え、人気急上昇中のST1000クラスを中心に日本のトップライダー達の熱いバトルの模様などをお届けします。",
+  "start": 1714291200000,
+  "end": 1714293000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_2",
+    "name": "ＢＳ１２トゥエルビ",
+    "id": "8kta",
+    "sid": 222,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": []
+}
