@@ -1,0 +1,25 @@
+{
+  "id": "idximry",
+  "category": "sports",
+  "title": "ROLEXヨットシリーズ2024 #1 Rolex China Sea Race",
+  "fullTitle": "[初]ROLEXヨットシリーズ2024 #1 Rolex China Sea Race",
+  "detail": "ロレックスがスポンサードするエキサイティングなヨットレース番組。",
+  "start": 1714390200000,
+  "end": 1714392000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "Rolex China Sea Race",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

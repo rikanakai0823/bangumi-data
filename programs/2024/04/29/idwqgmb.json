@@ -1,0 +1,23 @@
+{
+  "id": "idwqgmb",
+  "category": "hobby",
+  "title": "学位記授与式",
+  "fullTitle": "学位記授与式",
+  "detail": "「2023年度放送大学学位記授与式」",
+  "start": 1714386600000,
+  "end": 1714391100000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "2023年度放送大学学位記授与式",
+  "episode": 1,
+  "flags": []
+}
