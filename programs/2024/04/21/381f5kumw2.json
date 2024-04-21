@@ -1,0 +1,25 @@
+{
+  "id": "381f5kumw2",
+  "category": "information",
+  "title": "どーも、ＮＨＫ",
+  "fullTitle": "どーも、ＮＨＫ🈑",
+  "detail": "特集は熱心なファンがいるなど、視聴者に支持されている「推し番組」を紹介。なぜ支持されるのか？その魅力を視聴者の意見や制作側の考えなどを交え、徹底解剖します。",
+  "start": 1713664800000,
+  "end": 1713666300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "推し番組",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
