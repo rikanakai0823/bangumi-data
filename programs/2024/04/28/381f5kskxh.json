@@ -1,12 +1,12 @@
 {
   "id": "381f5kskxh",
   "category": "etc",
-  "title": "ミッドナイトチャンネル",
-  "fullTitle": "ミッドナイトチャンネル",
+  "title": "セレクション",
+  "fullTitle": "セレクション",
   "detail": "",
   "start": 1714234140000,
-  "end": 1714245300000,
-  "seconds": 11160,
+  "end": 1714234200000,
+  "seconds": 60,
   "channel": {
     "type": "GR",
     "channel": "27",
