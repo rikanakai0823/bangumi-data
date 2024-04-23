@@ -1,0 +1,26 @@
+{
+  "id": "iduws26",
+  "category": "cinema",
+  "title": "キラーカブトガニ",
+  "fullTitle": "🈙🅍キラーカブトガニ",
+  "detail": "人喰いカブトガニが人間を襲うモンスターパニック。放射能の影響で凶暴化したカブトガニに、発明好きの少年と仲間が立ち向かう。",
+  "start": 1714505400000,
+  "end": 1714510800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

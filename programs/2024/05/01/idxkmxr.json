@@ -1,0 +1,23 @@
+{
+  "id": "idxkmxr",
+  "category": "sports",
+  "title": "休止",
+  "fullTitle": "休止",
+  "detail": "この時間は放送を休止しています。\r\n\r\n番組に関する詳細は下記ホームページまで\r\nwww.jsports.co.jp",
+  "start": 1714500900000,
+  "end": 1714510800000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
