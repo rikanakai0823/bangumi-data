@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0gsm",
+  "category": "hobby",
+  "title": "ギョふんでサカナ★スター",
+  "fullTitle": "ギョふんでサカナ★スター🈑",
+  "detail": "",
+  "start": 1714548900000,
+  "end": 1714549200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
