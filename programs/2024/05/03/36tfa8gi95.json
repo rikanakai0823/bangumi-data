@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8gi95",
+  "category": "sports",
+  "title": "Ｊリーグ中継２０２４",
+  "fullTitle": "Ｊリーグ中継２０２４",
+  "detail": "『ＦＣ東京ｖｓ京都サンガＦ．Ｃ．』～味の素スタジアム\n◇出演者      \n【実況】原 大悟\r\n【解説】石川直宏",
+  "start": 1714716000000,
+  "end": 1714723200000,
+  "seconds": 7200,
+  "description": "『ＦＣ東京ｖｓ京都サンガＦ．Ｃ．』～味の素スタジアム",
+  "extra": {
+    "出演者      ": "【実況】原 大悟\r\n【解説】石川直宏"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxkn25",
+  "category": "sports",
+  "title": "スーパーフォーミュラ 2024 ナビ",
+  "fullTitle": "[無料]スーパーフォーミュラ 2024 ナビ",
+  "detail": "国内最高峰のフォーミュラレース、スーパーフォーミュラ。",
+  "start": 1714711500000,
+  "end": 1714712400000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
