@@ -1,0 +1,26 @@
+{
+  "id": "3826py7tam",
+  "category": "music",
+  "title": "歌のサンセット",
+  "fullTitle": "歌のサンセット🈑🈖",
+  "detail": "最新曲と様々な情報をお届けする夕方の音楽情報番組！【ゲスト】大月みやこ、北山たけし、小山雄大、神野美伽、SWEET　STEADY、原田波人",
+  "start": 1714120200000,
+  "end": 1714121700000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "ゲスト",
+  "episode": 1,
+  "flags": [
+    "字",
+    "解"
+  ]
+}
