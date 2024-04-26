@@ -1,0 +1,23 @@
+{
+  "id": "38224jxokq",
+  "category": "news",
+  "title": "朝まで生テレビ！",
+  "fullTitle": "朝まで生テレビ！",
+  "detail": "1987年スタートの深夜討論番組。今月は、『激論！バイデンｖｓトランプ、ド～する？！世界と日本』をお送りします。",
+  "start": 1714149000000,
+  "end": 1714159500000,
+  "seconds": 10500,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjt",
+    "sid": 1065,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

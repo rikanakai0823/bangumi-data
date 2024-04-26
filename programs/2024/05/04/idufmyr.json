@@ -1,0 +1,26 @@
+{
+  "id": "idufmyr",
+  "category": "cinema",
+  "title": "ラヂオの時間",
+  "fullTitle": "🈙ラヂオの時間🈑",
+  "detail": "三谷幸喜が劇場用映画の初監督に挑んだ痛快コメディ。同名舞台劇をもとに、ラジオドラマ生放送中のスタジオで巻き起こるドタバタを、芸達者な俳優陣の豪華競演で描いた。",
+  "start": 1714789800000,
+  "end": 1714796100000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_2",
+    "name": "ＷＯＷＯＷライブ",
+    "id": "8ksg",
+    "sid": 192,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 61
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}
