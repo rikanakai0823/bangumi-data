@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【CRASH ADANS特集】\r\nCRASH ADAMSインタビュー\r\n\"Give Me a Kiss\"\r\n\"Good Side\"\n◇番組内容２\nHINDS\"Coffee\"\r\nJP SAXE\"Anywhere\"\r\nMIKA\"Jane Birkin\"\r\nTHE LIBERTINES\"Run Run Run\"",
   "start": 1714402800000,
   "end": 1714404600000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【CRASH ADANS特集】\r\nCRASH ADAMSインタビュー\r\n\"Give Me a Kiss\"\r\n\"Good Side\"",
+    "番組内容２": "HINDS\"Coffee\"\r\nJP SAXE\"Anywhere\"\r\nMIKA\"Jane Birkin\"\r\nTHE LIBERTINES\"Run Run Run\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
