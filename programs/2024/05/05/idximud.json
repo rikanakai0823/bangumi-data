@@ -1,0 +1,25 @@
+{
+  "id": "idximud",
+  "category": "sports",
+  "title": "第73回 関東大学バスケットボール選手権大会 決勝",
+  "fullTitle": "[生]第73回 関東大学バスケットボール選手権大会 決勝",
+  "detail": "解説：塚本清彦\r\n実況：久保田光彦\r\n開催日：２０２４年５月５日\r\n会場：国立代々木競技場第二体育館",
+  "start": 1714897500000,
+  "end": 1714905000000,
+  "seconds": 7500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "関東大学バスケットボール選手権大会 決勝",
+  "episode": 73,
+  "flags": [
+    "生"
+  ]
+}
