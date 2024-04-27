@@ -1,0 +1,23 @@
+{
+  "id": "idt8lrm",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10Ｒ府中市市制施行70周年記念\r\n　　　　11Ｒテレビ東京杯青葉賞（ＧⅡ）\r\n【京都】10Ｒ御池特別、11ＲユニコーンＳ（GⅢ）【新潟】11Ｒ三条Ｓ",
+  "start": 1714195800000,
+  "end": 1714201200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
