@@ -1,0 +1,25 @@
+{
+  "id": "idxkn03",
+  "category": "sports",
+  "title": "ジロ・デ・イタリア2024 第3ステージ Cycle*",
+  "fullTitle": "[生]ジロ・デ・イタリア2024 第3ステージ Cycle*",
+  "detail": "【ノヴァーラ ～ フォッサーノ】\r\n\r\n解説：浅田顕\r\n実況：足立清紀\r\n開催日：2024年5月6日(現地)",
+  "start": 1714996800000,
+  "end": 1715012400000,
+  "seconds": 15600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "ノヴァーラ ～ フォッサーノ",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

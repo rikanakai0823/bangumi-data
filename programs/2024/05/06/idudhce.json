@@ -1,0 +1,27 @@
+{
+  "id": "idudhce",
+  "category": "cinema",
+  "title": "ドリヴン（吹替版）",
+  "fullTitle": "🈙ドリヴン（吹替版）🅍🈑",
+  "detail": "Ｓ・スタローンが主演した迫力満点のカーレースムービー。スタローンが演じるベテランレーサーを主人公に、極限のスピードを競い合うカーレースの世界をスリリングに描写。",
+  "start": 1714951800000,
+  "end": 1714959000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
