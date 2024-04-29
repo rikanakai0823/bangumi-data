@@ -1,0 +1,23 @@
+{
+  "id": "idozugn",
+  "category": "information",
+  "title": "おしらせ",
+  "fullTitle": "おしらせ",
+  "detail": "",
+  "start": 1715054340000,
+  "end": 1715054400000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

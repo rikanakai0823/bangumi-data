@@ -1,0 +1,23 @@
+{
+  "id": "idsmm4x",
+  "category": "etc",
+  "title": "麗しの宝石ショッピングＣｏｎｎｅｃｔ",
+  "fullTitle": "麗しの宝石ショッピングＣｏｎｎｅｃｔ",
+  "detail": "",
+  "start": 1715043540000,
+  "end": 1715047140000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
