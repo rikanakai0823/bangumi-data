@@ -1,0 +1,23 @@
+{
+  "id": "idwspff",
+  "category": "hobby",
+  "title": "コースガイド2024",
+  "fullTitle": "コースガイド2024",
+  "detail": "「自然と環境コース」",
+  "start": 1714563000000,
+  "end": 1714563900000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "自然と環境コース",
+  "episode": 1,
+  "flags": []
+}
