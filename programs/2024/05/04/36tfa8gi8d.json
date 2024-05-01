@@ -1,12 +1,16 @@
 {
   "id": "36tfa8gi8d",
   "category": "variety",
-  "title": "ガルボムＴＶ",
-  "fullTitle": "ガルボムＴＶ",
-  "detail": "第一線で活躍しているアイドルが総出演する業界唯一の番組‼「ガルボムTV」\r\n普段は聞けない各チーム内での秘密の話から、メディア初の新情報まで特別に公開！",
+  "title": "ガルボムＴＶ　＃２１",
+  "fullTitle": "ガルボムＴＶ　＃２１",
+  "detail": "Girl’sBomb‼×アイドル王朝 応援会2024INZepp DiverCity の模様を紹介しちゃいます！ライブの間に恒例、ゲキ苦茶をプレゼント⁉誰に当たるか乞うご期待\n◇出演者\n【出演】\r\nCOWCOW、花いろは、仮面女子、【eN】、PATI PATI CANDY...☆、シークレットシャノワール、点染テンセイ少女。",
   "start": 1714755900000,
   "end": 1714757640000,
   "seconds": 1740,
+  "description": "Girl’sBomb‼×アイドル王朝 応援会2024INZepp DiverCity の模様を紹介しちゃいます！ライブの間に恒例、ゲキ苦茶をプレゼント⁉誰に当たるか乞うご期待",
+  "extra": {
+    "出演者": "【出演】\r\nCOWCOW、花いろは、仮面女子、【eN】、PATI PATI CANDY...☆、シークレットシャノワール、点染テンセイ少女。"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "ガルボムTV",
-  "episode": 1,
+  "subTitle": "",
+  "episode": 21,
   "flags": []
 }
