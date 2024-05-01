@@ -1,0 +1,25 @@
+{
+  "id": "idxkn10",
+  "category": "sports",
+  "title": "ジロ・デ・イタリア2024 第6ステージ Cycle*",
+  "fullTitle": "[生]ジロ・デ・イタリア2024 第6ステージ Cycle*",
+  "detail": "【ヴィアレッジョ ～ ラポラーノ・テルメ】\r\n\r\n解説：栗村修\r\n実況：谷口廣明\r\n開催日：2024年5月9日(現地)",
+  "start": 1715256000000,
+  "end": 1715271600000,
+  "seconds": 15600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "ヴィアレッジョ ～ ラポラーノ・テルメ",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

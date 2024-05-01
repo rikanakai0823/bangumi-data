@@ -1,0 +1,27 @@
+{
+  "id": "iduhsfa",
+  "category": "cinema",
+  "title": "交換ウソ日記",
+  "fullTitle": "🈙交換ウソ日記🅍🈑",
+  "detail": "高橋文哉と桜田ひよりがＷ主演した青春ラブストーリー。サッカー部所属で学校一のモテ男子と、昼の番組を担当する放送部女子。誤解とすれ違いから生まれる恋の行方を描く。",
+  "start": 1715212800000,
+  "end": 1715220000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "36l9gkwlyb",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "第4回チャリティー音楽祭\n◇番組内容\nnewsチバ特集\r\nrebirth奥華子",
+  "start": 1715242500000,
+  "end": 1715244600000,
+  "seconds": 2100,
+  "description": "第4回チャリティー音楽祭",
+  "extra": {
+    "番組内容": "newsチバ特集\r\nrebirth奥華子"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}
