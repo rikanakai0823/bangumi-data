@@ -1,12 +1,16 @@
 {
   "id": "381f5ksp3c",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　髙木美帆選手のスケート教室",
+  "fullTitle": "＃ＮＨＫ　髙木美帆選手のスケート教室",
+  "detail": "【出演】林田理沙\n◇出演者\n【出演】林田理沙",
   "start": 1715168520000,
   "end": 1715168700000,
   "seconds": 180,
+  "description": "【出演】林田理沙",
+  "extra": {
+    "出演者": "【出演】林田理沙"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "出演",
   "episode": 1,
   "flags": []
 }
