@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【KELLY JONES特集】\r\n\"Turn Bad Into Good\"\r\n\"Monsters In The House\"\r\n\"Inevitable Incredible\"\n◇番組内容２\nMARK AMBOR \"Belong Together\"\r\nKYGO with ZAK ABEL & NILE RODGERS\"For Life\"\r\nIMAGINE DRAGONS\"Eyes Closed\"\r\nSABRINA CARPENTER\"Espresso\"",
   "start": 1715007600000,
   "end": 1715009400000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【KELLY JONES特集】\r\n\"Turn Bad Into Good\"\r\n\"Monsters In The House\"\r\n\"Inevitable Incredible\"",
+    "番組内容２": "MARK AMBOR \"Belong Together\"\r\nKYGO with ZAK ABEL & NILE RODGERS\"For Life\"\r\nIMAGINE DRAGONS\"Eyes Closed\"\r\nSABRINA CARPENTER\"Espresso\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",

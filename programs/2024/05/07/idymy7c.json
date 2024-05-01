@@ -1,0 +1,23 @@
+{
+  "id": "idymy7c",
+  "category": "information",
+  "title": "ジャパネットたかたのテレビショッピング",
+  "fullTitle": "ジャパネットたかたのテレビショッピング",
+  "detail": "",
+  "start": 1715032800000,
+  "end": 1715034600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_2",
+    "name": "ＢＳＪａｐａｎｅｘｔ",
+    "id": "8kuf",
+    "sid": 263,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 82
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
