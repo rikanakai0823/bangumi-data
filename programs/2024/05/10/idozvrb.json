@@ -1,0 +1,26 @@
+{
+  "id": "idozvrb",
+  "category": "sports",
+  "title": "プロ野球２０２４「日本ハム」対「ロッテ」",
+  "fullTitle": "プロ野球２０２４「日本ハム」対「ロッテ」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】武田一浩，【アナウンサー】横山哲也　～エスコンフィールド北海道から中継～",
+  "start": 1715331600000,
+  "end": 1715344200000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ロッテ",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
