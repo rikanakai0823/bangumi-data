@@ -1,0 +1,25 @@
+{
+  "id": "idxkn1l",
+  "category": "sports",
+  "title": "5月番組情報",
+  "fullTitle": "[無料]5月番組情報",
+  "detail": "★番組に関する詳細は下記ホームページまで→http://www.jsports.co.jp",
+  "start": 1715422500000,
+  "end": 1715422800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

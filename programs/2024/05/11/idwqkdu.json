@@ -1,0 +1,23 @@
+{
+  "id": "idwqkdu",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「生きるための情動と感情と行動　～生理人類学の視点から考える～」",
+  "start": 1715431500000,
+  "end": 1715434200000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "生きるための情動と感情と行動　～生理人類学の視点から考える～",
+  "episode": 1,
+  "flags": []
+}

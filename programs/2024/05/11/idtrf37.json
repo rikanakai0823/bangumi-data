@@ -1,0 +1,23 @@
+{
+  "id": "idtrf37",
+  "category": "etc",
+  "title": "ＢＳフジセレクション",
+  "fullTitle": "ＢＳフジセレクション",
+  "detail": "",
+  "start": 1715410800000,
+  "end": 1715414100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

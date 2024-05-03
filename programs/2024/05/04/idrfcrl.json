@@ -1,0 +1,23 @@
+{
+  "id": "idrfcrl",
+  "category": "information",
+  "title": "お買い物エンターテインメント",
+  "fullTitle": "お買い物エンターテインメント",
+  "detail": "国内外から買い付けた商品を生放送でご紹介。ここでしか買えないレアなアイテムや人気ブランドのアイテムなどバラエティ豊かに登場しますので、お見逃しなく！",
+  "start": 1714752000000,
+  "end": 1714755600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

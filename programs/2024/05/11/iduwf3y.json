@@ -1,0 +1,26 @@
+{
+  "id": "iduwf3y",
+  "category": "cinema",
+  "title": "Ｐｅａｒｌ　パール",
+  "fullTitle": "🈙🅍Ｐｅａｒｌ　パール",
+  "detail": "『Ｘ　エックス』の前日譚で、スターを夢見る若き日のパールが主人公。鬱屈した日々の中で、彼女がなぜ凶行に至ったのかを描く。",
+  "start": 1715355000000,
+  "end": 1715362200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
