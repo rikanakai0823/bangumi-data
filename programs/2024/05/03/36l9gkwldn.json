@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwldn",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜東京１１Ｒ　ＮＨＫマイルカップ（ＧⅠ）　他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜東京１１Ｒ　ＮＨＫマイルカップ（ＧⅠ）　他",
+  "detail": "日曜東京１１Ｒ　ＮＨＫマイルカップ（ＧⅠ）\r\n日曜新潟１１Ｒ　新潟大賞典（ＧⅢ）\r\n土曜京都１１Ｒ　京都新聞杯（ＧⅡ）\r\n",
+  "start": 1714737600000,
+  "end": 1714739400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
