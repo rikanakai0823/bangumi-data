@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8inex",
+  "category": "sports",
+  "title": "Ｊリーグ中継２０２４『ＦＣ東京ｖｓ京都サンガＦ．Ｃ．』",
+  "fullTitle": "Ｊリーグ中継２０２４『ＦＣ東京ｖｓ京都サンガＦ．Ｃ．』",
+  "detail": "FC東京対京都サンガF.C.のリーグを生中継。相性の良い京都にFC東京がどんな闘いを挑むのか！味スタのリーグ戦チケットプレゼントの告知もあります！",
+  "start": 1714716000000,
+  "end": 1714723200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
