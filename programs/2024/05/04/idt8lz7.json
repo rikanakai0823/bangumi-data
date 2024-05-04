@@ -1,0 +1,23 @@
+{
+  "id": "idt8lz7",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10ＲメトロポリタンＳ（L）\r\n　　　　11ＲプリンシパルＳ（L）\r\n【京都】10Ｒ平城京Ｓ、11Ｒ京都新聞杯（ＧⅡ）【新潟】11Ｒ越後Ｓ",
+  "start": 1714800600000,
+  "end": 1714806000000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
