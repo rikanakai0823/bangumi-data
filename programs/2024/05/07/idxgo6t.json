@@ -1,0 +1,25 @@
+{
+  "id": "idxgo6t",
+  "category": "sports",
+  "title": "メジャーリーグ中継2024 カブス×パドレス(5/6)",
+  "fullTitle": "[生]メジャーリーグ中継2024 カブス×パドレス(5/6)",
+  "detail": "シカゴ・カブス（鈴木／今永 所属）×サンディエゴ・パドレス（ダルビッシュ／松井 所属）\r\n\r\n解説：齊藤明雄\r\n実況：菱沼州斗",
+  "start": 1715038500000,
+  "end": 1715052600000,
+  "seconds": 14100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
