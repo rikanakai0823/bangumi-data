@@ -1,0 +1,23 @@
+{
+  "id": "idw70de",
+  "category": "music",
+  "title": "あなたに届ける音楽会 ＃７１",
+  "fullTitle": "あなたに届ける音楽会 ＃７１",
+  "detail": "音楽トークだけにとどまらず、様々なコーナーをご用意して、音楽の楽しさや出演者の魅力をお届けします！",
+  "start": 1715455800000,
+  "end": 1715457600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_2",
+    "name": "ＢＳ１２トゥエルビ",
+    "id": "8kta",
+    "sid": 222,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "",
+  "episode": 71,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idygmot",
+  "category": "theater",
+  "title": "日曜ゴールデンシアター　歌舞伎「弁天娘女男白浪」「夕顔棚」",
+  "fullTitle": "日曜ゴールデンシアター　歌舞伎「弁天娘女男白浪」「夕顔棚」",
+  "detail": "",
+  "start": 1715508000000,
+  "end": 1715516700000,
+  "seconds": 8700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "夕顔棚",
+  "episode": 1,
+  "flags": []
+}
