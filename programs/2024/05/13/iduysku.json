@@ -1,0 +1,26 @@
+{
+  "id": "iduysku",
+  "category": "cinema",
+  "title": "キャビン・フィーバー（２００２）",
+  "fullTitle": "🈙🅍キャビン・フィーバー（２００２）",
+  "detail": "イーライ・ロス初長編となったスプラッタホラー。森のキャビンを訪れた若者たちが、謎のウィルス感染の恐怖から疑心暗鬼に陥る。",
+  "start": 1715559000000,
+  "end": 1715565600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
