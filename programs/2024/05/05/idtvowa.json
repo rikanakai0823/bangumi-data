@@ -1,0 +1,25 @@
+{
+  "id": "idtvowa",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　東京：NHKマイルC　新潟：新潟大賞典",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　東京：NHKマイルC　新潟：新潟大賞典",
+  "detail": "東京：NHKマイルカップ（GⅠ）新潟：新潟大賞典（GⅢ）／解説：吉田均（競馬エイト）ゲスト：松田丈志／2歳王者と2歳女王が激突3歳マイル王決定戦",
+  "start": 1714888800000,
+  "end": 1714892400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
