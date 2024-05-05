@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＱＶＣ　KAWAI OKADA × KiKKi",
   "fullTitle": "ＱＶＣ　KAWAI OKADA × KiKKi",
-  "detail": "カワイオカダとKiKKiのコラボレーション企画。ときめくコーデが飛び出します！",
+  "detail": "カワイオカダとKiKKiのコラボレーション企画。ときめくコーデが飛び出します！\n◇番組内容\n※番組の内容や放送日時は、変更となる場合がございます。",
   "start": 1715094000000,
   "end": 1715097600000,
   "seconds": 3600,
+  "description": "カワイオカダとKiKKiのコラボレーション企画。ときめくコーデが飛び出します！",
+  "extra": {
+    "番組内容": "※番組の内容や放送日時は、変更となる場合がございます。"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS09_2",

@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwlk3",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "ナオユキ、ぴろき、三遊亭圓丸「鹿政談」",
+  "start": 1714899900000,
+  "end": 1714903200000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "鹿政談",
+  "episode": 1,
+  "flags": []
+}
