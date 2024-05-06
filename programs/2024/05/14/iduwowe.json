@@ -1,0 +1,26 @@
+{
+  "id": "iduwowe",
+  "category": "cinema",
+  "title": "ハッピーニューイヤー",
+  "fullTitle": "🈙🅍ハッピーニューイヤー",
+  "detail": "『猟奇的な彼女』のクァク・ジェヨン監督による大晦日を舞台にした群像ラブストーリー。高級ホテルに集う人々の人間模様を描く。",
+  "start": 1715628600000,
+  "end": 1715637600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
