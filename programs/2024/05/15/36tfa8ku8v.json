@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ku8v",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「こぎつね座特別」「紀伊国坂賞」「第６９回　大井記念　（ＳⅠ）」「新緑賞」",
+  "start": 1715754000000,
+  "end": 1715774400000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "大井記念　（ＳⅠ）",
+  "episode": 69,
+  "flags": []
+}
