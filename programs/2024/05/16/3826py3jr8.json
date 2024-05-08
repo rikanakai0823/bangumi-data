@@ -1,0 +1,32 @@
+{
+  "id": "3826py3jr8",
+  "category": "cinema",
+  "title": "午後ロー",
+  "fullTitle": "午後ロー🈙🈑🈔",
+  "detail": "平日、月曜～金曜の午後1時40分から、選りすぐりラインナップで映画を毎日お届け！映画史に残る名作から地上波初放送の話題作までバラエティに富んだ作品をお送りします！\n◇音楽\n【午後のロードショー　オープニング曲】\r\n「Escaping　The　Smokers(Waterworld/Soundtrack　Version)」James　Newton　Howard\n◇関連情報\n【番組公式ホームページ】\r\nhttps://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+  "start": 1715834400000,
+  "end": 1715841600000,
+  "seconds": 7200,
+  "description": "平日、月曜～金曜の午後1時40分から、選りすぐりラインナップで映画を毎日お届け！映画史に残る名作から地上波初放送の話題作までバラエティに富んだ作品をお送りします！",
+  "extra": {
+    "音楽": "【午後のロードショー　オープニング曲】\r\n「Escaping　The　Smokers(Waterworld/Soundtrack　Version)」James　Newton　Howard",
+    "関連情報": "【番組公式ホームページ】\r\nhttps://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京１",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字",
+    "二"
+  ]
+}

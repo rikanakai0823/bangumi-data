@@ -1,0 +1,23 @@
+{
+  "id": "idrd87q",
+  "category": "information",
+  "title": "ジャパ得！ＢＳショッピング",
+  "fullTitle": "ジャパ得！ＢＳショッピング",
+  "detail": "ジャパネットたかたテレビショッピング！今だけの期間限定商品をお得に手にする大チャンス！さらに旬な商品もご紹介します！ジャパネットテレビショッピングをお楽しみに！",
+  "start": 1715842800000,
+  "end": 1715846400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

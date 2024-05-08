@@ -1,0 +1,23 @@
+{
+  "id": "idwx9rr",
+  "category": "sports",
+  "title": "競馬ブロス #57",
+  "fullTitle": "競馬ブロス #57",
+  "detail": "馬好きブラザーズと吉田豊騎手の夜な夜な競馬談義",
+  "start": 1715846400000,
+  "end": 1715850000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 57,
+  "flags": []
+}
