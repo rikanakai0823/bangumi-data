@@ -1,0 +1,23 @@
+{
+  "id": "idsmm7m",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日　ｖｓ　巨人」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日　ｖｓ　巨人」",
+  "detail": "バンテリンドームナゴヤから生中継。よる６時試合開始\r\n試合終了まで放送【解説】牛島和彦、【実況】西村俊仁（ＣＢＣアナウンサー）",
+  "start": 1715169180000,
+  "end": 1715180400000,
+  "seconds": 11220,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "中日　ｖｓ　巨人",
+  "episode": 1,
+  "flags": []
+}
