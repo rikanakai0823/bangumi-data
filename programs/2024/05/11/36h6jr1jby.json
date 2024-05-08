@@ -3,10 +3,14 @@
   "category": "information",
   "title": "いまドキッ！埼玉🈐",
   "fullTitle": "いまドキッ！埼玉🈐🅂",
-  "detail": "",
+  "detail": "グルメでまちおこしin朝霞市▽「狭山茶」世界へ行く\n◇出演者\n司会：松井咲子　リポーター：アンゴラ村長（にゃんこスター）　カナイ　ナレーター：明坂聡美",
   "start": 1715383800000,
   "end": 1715385600000,
   "seconds": 1800,
+  "description": "グルメでまちおこしin朝霞市▽「狭山茶」世界へ行く",
+  "extra": {
+    "出演者": "司会：松井咲子　リポーター：アンゴラ村長（にゃんこスター）　カナイ　ナレーター：明坂聡美"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 13
   },
-  "subTitle": "",
+  "subTitle": "狭山茶",
   "episode": 1,
   "flags": [
     "S"
