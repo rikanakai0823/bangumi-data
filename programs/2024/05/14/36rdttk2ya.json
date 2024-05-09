@@ -3,10 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【THE BLACK KEYS特集】\r\n\"Beautiful People (Stay High)\"\r\n\"On The Game\"\n◇番組内容２\n【映画『ボブ・マーリー：ONE LOVE』特集】\r\nBOB MARLEY & THE WAILERS\"One Love / People Get Ready\"\r\nBOB MARLEY & THE WAILERS\"No Woman, No Cry \r\n(Live At The Rainbow 4th June 1977)\"\n◇番組内容３\nMADISON BEER\"Make You Mine\"\r\nDUA LIPA\"Illusion\"",
   "start": 1715612400000,
   "end": 1715614200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【THE BLACK KEYS特集】\r\n\"Beautiful People (Stay High)\"\r\n\"On The Game\"",
+    "番組内容２": "【映画『ボブ・マーリー：ONE LOVE』特集】\r\nBOB MARLEY & THE WAILERS\"One Love / People Get Ready\"\r\nBOB MARLEY & THE WAILERS\"No Woman, No Cry \r\n(Live At The Rainbow 4th June 1977)\"",
+    "番組内容３": "MADISON BEER\"Make You Mine\"\r\nDUA LIPA\"Illusion\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
