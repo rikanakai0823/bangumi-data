@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1jka",
-  "category": "etc",
-  "title": "わくわくショッピング",
-  "fullTitle": "わくわくショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "わくわくショッピング・ワタミテレビショッピング",
+  "fullTitle": "わくわくショッピング・ワタミテレビショッピング🅂",
+  "detail": "◇番組内容\nワタミの宅食　０１２０－０１０３３３",
   "start": 1715826300000,
   "end": 1715828100000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ワタミの宅食　０１２０－０１０３３３"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
