@@ -1,0 +1,23 @@
+{
+  "id": "idtrfie",
+  "category": "variety",
+  "title": "夜な夜なプロジェクト　#06",
+  "fullTitle": "夜な夜なプロジェクト　#06",
+  "detail": "BSフジのイベント情報やプロジェクトを“楽しく・わかりやすく”伝える番組。MCは人気お笑い芸人マヂカルラブリー。",
+  "start": 1715958000000,
+  "end": 1715959800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 6,
+  "flags": []
+}

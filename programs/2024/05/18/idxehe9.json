@@ -1,0 +1,25 @@
+{
+  "id": "idxehe9",
+  "category": "sports",
+  "title": "サニックスワールドラグビーユース交流大会 2024",
+  "fullTitle": "[初]サニックスワールドラグビーユース交流大会 2024",
+  "detail": "【大会ハイライト】\r\n\r\n期間：2024年4月28日-5月5日\r\n会場：グローバル・アリーナ, 福岡県宗像市",
+  "start": 1716004200000,
+  "end": 1716007800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "大会ハイライト",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}
