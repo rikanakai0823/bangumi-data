@@ -1,15 +1,16 @@
 {
   "id": "36l9gkuhgf",
   "category": "information",
-  "title": "ビジネストレンド　ＴＯＰ　ＣＯＮＮＥＣＴ",
-  "fullTitle": "ビジネストレンド　ＴＯＰ　ＣＯＮＮＥＣＴ",
-  "detail": "◇番組内容    \nTOP CONNECT",
+  "title": "ビジネストレンド▽ＴＯＰ　ＣＯＮＮＥＣＴ",
+  "fullTitle": "ビジネストレンド▽ＴＯＰ　ＣＯＮＮＥＣＴ",
+  "detail": "◇番組内容    \nTOP CONNECT\n◇番組内容\nTOP CONNECT",
   "start": 1715864100000,
   "end": 1715864400000,
   "seconds": 300,
   "description": " ",
   "extra": {
-    "番組内容    ": "TOP CONNECT"
+    "番組内容    ": "TOP CONNECT",
+    "番組内容": "TOP CONNECT"
   },
   "channel": {
     "type": "GR",
