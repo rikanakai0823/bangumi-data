@@ -1,0 +1,23 @@
+{
+  "id": "idtvt1v",
+  "category": "information",
+  "title": "バリューファクトリーズテレビショッピング",
+  "fullTitle": "バリューファクトリーズテレビショッピング",
+  "detail": "",
+  "start": 1715365800000,
+  "end": 1715367600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
