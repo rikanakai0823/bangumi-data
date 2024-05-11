@@ -1,0 +1,23 @@
+{
+  "id": "idwqk93",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「物理の世界・身近な統計」",
+  "start": 1716089400000,
+  "end": 1716090300000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "物理の世界・身近な統計",
+  "episode": 1,
+  "flags": []
+}

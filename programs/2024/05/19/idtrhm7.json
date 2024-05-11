@@ -1,0 +1,23 @@
+{
+  "id": "idtrhm7",
+  "category": "music",
+  "title": "夢劇場音楽堂",
+  "fullTitle": "夢劇場音楽堂",
+  "detail": "",
+  "start": 1716060600000,
+  "end": 1716062400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
