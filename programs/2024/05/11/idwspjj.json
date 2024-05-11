@@ -1,0 +1,23 @@
+{
+  "id": "idwspjj",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「道の文化史　第1回　近世街道の成立('91)」",
+  "start": 1715423400000,
+  "end": 1715426100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "近世街道の成立('91)",
+  "episode": 1,
+  "flags": []
+}
