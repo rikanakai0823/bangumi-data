@@ -1,0 +1,23 @@
+{
+  "id": "idskhsd",
+  "category": "news",
+  "title": "朝一番ＢＳ－ＴＢＳニュース",
+  "fullTitle": "朝一番ＢＳ－ＴＢＳニュース",
+  "detail": "国内外のＪＮＮ取材網から送られてくるニュースを２４時間、いち早く伝えるＢＳ－ＴＢＳニュース。地上波では見られない、国内外の会見なども随時ライブで放送！",
+  "start": 1716145200000,
+  "end": 1716147900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
