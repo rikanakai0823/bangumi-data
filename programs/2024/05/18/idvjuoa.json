@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ショッピング情報",
   "fullTitle": "ショッピング情報",
-  "detail": "テレビショッピング",
+  "detail": "テレビショッピング\n◇番組内容\nテレビショッピング",
   "start": 1715997600000,
   "end": 1715999400000,
   "seconds": 1800,
+  "description": "テレビショッピング",
+  "extra": {
+    "番組内容": "テレビショッピング"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS09_0",
