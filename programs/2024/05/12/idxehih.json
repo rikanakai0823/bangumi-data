@@ -1,0 +1,25 @@
+{
+  "id": "idxehih",
+  "category": "sports",
+  "title": "ラグビー わんだほー！～ラグビー情報番組～ #77",
+  "fullTitle": "[無料]ラグビー わんだほー！～ラグビー情報番組～ #77",
+  "detail": "※本日のプロ野球「広島×中日」は雨天中止になりました。\r\nこの時間は予定を変更してお送りします。",
+  "start": 1715498700000,
+  "end": 1715502600000,
+  "seconds": 3900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "広島×中日",
+  "episode": 77,
+  "flags": [
+    "無"
+  ]
+}
