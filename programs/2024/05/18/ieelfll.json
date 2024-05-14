@@ -1,0 +1,23 @@
+{
+  "id": "ieelfll",
+  "category": "etc",
+  "title": "要求工学　第7回",
+  "fullTitle": "要求工学　第7回",
+  "detail": "「ネゴシエーション」",
+  "start": 1716020100000,
+  "end": 1716022800000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 84
+  },
+  "subTitle": "ネゴシエーション",
+  "episode": 7,
+  "flags": []
+}

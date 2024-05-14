@@ -1,0 +1,23 @@
+{
+  "id": "idp012u",
+  "category": "music",
+  "title": "クラシック倶楽部　黒川侑　バイオリン・リサイタル",
+  "fullTitle": "クラシック倶楽部　黒川侑　バイオリン・リサイタル",
+  "detail": "",
+  "start": 1716321600000,
+  "end": 1716324900000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

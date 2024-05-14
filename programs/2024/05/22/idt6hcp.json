@@ -1,0 +1,23 @@
+{
+  "id": "idt6hcp",
+  "category": "news",
+  "title": "モーサテ",
+  "fullTitle": "モーサテ",
+  "detail": "ＮＹ発のマーケット情報など世界の経済／金融ニュースを速報！金融のプロが詳しく解説します。",
+  "start": 1716324300000,
+  "end": 1716329100000,
+  "seconds": 4800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
