@@ -1,0 +1,26 @@
+{
+  "id": "iduy7ok",
+  "category": "cinema",
+  "title": "ＳＵＰＥＲ　８／スーパーエイト",
+  "fullTitle": "🈙🅍ＳＵＰＥＲ　８／スーパーエイト",
+  "detail": "スピルバーグ製作、８ミリカメラで映画を撮影していた少年たちが不思議な出来事に巻き込まれるＳＦアドベンチャー。",
+  "start": 1716393600000,
+  "end": 1716400800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_1",
+    "name": "スターチャンネル２",
+    "id": "8ksp",
+    "sid": 201,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 64
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
