@@ -1,0 +1,23 @@
+{
+  "id": "idrhii8",
+  "category": "music",
+  "title": "オトノヨリミチ",
+  "fullTitle": "オトノヨリミチ",
+  "detail": "",
+  "start": 1715797800000,
+  "end": 1715799300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
