@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3os5",
+  "category": "theater",
+  "title": "よしもと新喜劇",
+  "fullTitle": "よしもと新喜劇🅂",
+  "detail": "「愛を盗らないで！？」",
+  "start": 1715940000000,
+  "end": 1715943600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "愛を盗らないで！？",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
