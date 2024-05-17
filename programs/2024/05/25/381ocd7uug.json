@@ -1,0 +1,23 @@
+{
+  "id": "381ocd7uug",
+  "category": "sports",
+  "title": "第１０３回　関東インカレ陸上",
+  "fullTitle": "第１０３回　関東インカレ陸上",
+  "detail": "",
+  "start": 1716577200000,
+  "end": 1716582600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "関東インカレ陸上",
+  "episode": 103,
+  "flags": []
+}

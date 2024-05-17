@@ -1,0 +1,23 @@
+{
+  "id": "idtrhmm",
+  "category": "information",
+  "title": "シアワセリフォーム",
+  "fullTitle": "シアワセリフォーム",
+  "detail": "BSフジとYAMADAの特別コラボショッピング企画！",
+  "start": 1716598800000,
+  "end": 1716602400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

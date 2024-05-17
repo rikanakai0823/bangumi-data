@@ -1,0 +1,26 @@
+{
+  "id": "idxehlj",
+  "category": "sports",
+  "title": "スーパー耐久シリーズ2024 第2戦 富士SUPER TEC",
+  "fullTitle": "[無料][生]スーパー耐久シリーズ2024 第2戦 富士SUPER TEC",
+  "detail": "24時間　サンセット\r\n\r\n開催日：2024年5月25日\r\n会場：富士スピードウェイ，静岡県駿東郡小山町",
+  "start": 1716624000000,
+  "end": 1716631200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無",
+    "生"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ids0qz5",
+  "category": "information",
+  "title": "レッツ５！ショッピング",
+  "fullTitle": "レッツ５！ショッピング",
+  "detail": "テレビショッピング",
+  "start": 1715959800000,
+  "end": 1715961600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
