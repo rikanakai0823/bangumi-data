@@ -1,0 +1,26 @@
+{
+  "id": "idp1kjv",
+  "category": "sports",
+  "title": "大相撲（２０２４年）　夏場所",
+  "fullTitle": "大相撲（２０２４年）　夏場所🈕🈑",
+  "detail": "",
+  "start": 1716703500000,
+  "end": 1716705000000,
+  "seconds": 1500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

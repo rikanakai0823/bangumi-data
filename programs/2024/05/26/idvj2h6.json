@@ -1,0 +1,23 @@
+{
+  "id": "idvj2h6",
+  "category": "sports",
+  "title": "うまナビ！イレブン",
+  "fullTitle": "うまナビ！イレブン",
+  "detail": "当日の中央競馬レース結果と、ＧⅠ『日本ダービー』（東京）、ＧⅡ「目黒記念」（東京）を振り返ります。",
+  "start": 1716732000000,
+  "end": 1716733800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "目黒記念",
+  "episode": 1,
+  "flags": []
+}

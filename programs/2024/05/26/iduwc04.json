@@ -1,0 +1,26 @@
+{
+  "id": "iduwc04",
+  "category": "cinema",
+  "title": "クライムズ・オブ・ザ・フューチャー",
+  "fullTitle": "🈙🅍クライムズ・オブ・ザ・フューチャー",
+  "detail": "鬼才デヴィッド・クローネンバーグ監督のＳＦホラー。人類から痛みが消えた近未来、体内で新たな臓器を作り出す男の運命を描く。",
+  "start": 1716652800000,
+  "end": 1716660000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

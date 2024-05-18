@@ -1,0 +1,23 @@
+{
+  "id": "idwspks",
+  "category": "hobby",
+  "title": "放送大学アーカイブス・知の扉",
+  "fullTitle": "放送大学アーカイブス・知の扉",
+  "detail": "「日本語とコミュニケーション('15)第４回・５回・６回」",
+  "start": 1716049800000,
+  "end": 1716057900000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "日本語とコミュニケーション('15)第４回・５回・６回",
+  "episode": 4,
+  "flags": []
+}
