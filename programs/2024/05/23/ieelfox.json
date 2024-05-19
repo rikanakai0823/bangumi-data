@@ -1,0 +1,23 @@
+{
+  "id": "ieelfox",
+  "category": "etc",
+  "title": "コンピュータ通信概論　第8回",
+  "fullTitle": "コンピュータ通信概論　第8回",
+  "detail": "「情報を伝える伝送路」",
+  "start": 1716457500000,
+  "end": 1716460200000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 84
+  },
+  "subTitle": "情報を伝える伝送路",
+  "episode": 8,
+  "flags": []
+}
