@@ -1,0 +1,23 @@
+{
+  "id": "38224jzyp3",
+  "category": "information",
+  "title": "イベレコ",
+  "fullTitle": "イベレコ",
+  "detail": "テレビ朝日イチオシの「イベ」ントを「レコ」メンドするエンタメ情報番組。\r\n番組キャラクター“イベレコ王子”が、マンスリーゲストと一緒にイベント情報をお届けします！",
+  "start": 1716144000000,
+  "end": 1716145200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
