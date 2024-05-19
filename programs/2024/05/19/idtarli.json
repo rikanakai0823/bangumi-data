@@ -1,0 +1,25 @@
+{
+  "id": "idtarli",
+  "category": "music",
+  "title": "ＢＳ演歌の花道＜青江三奈・冠二郎・伍代夏子ほか＞",
+  "fullTitle": "ＢＳ演歌の花道＜青江三奈・冠二郎・伍代夏子ほか＞🈑",
+  "detail": "1978年から22年間レギュラー番組として日曜の夜に放送していた「演歌の花道」が、再び日曜の夜に帰ってきました！！",
+  "start": 1716120000000,
+  "end": 1716123300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "演歌の花道",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
