@@ -1,0 +1,23 @@
+{
+  "id": "ids0r2a",
+  "category": "information",
+  "title": "ショップチャンネル　お買い物エンターテインメント",
+  "fullTitle": "ショップチャンネル　お買い物エンターテインメント",
+  "detail": "国内外から買い付けた商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気ブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！",
+  "start": 1716166800000,
+  "end": 1716170100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
