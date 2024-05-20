@@ -1,0 +1,26 @@
+{
+  "id": "iduwibo",
+  "category": "cinema",
+  "title": "渇き（２００９）",
+  "fullTitle": "🈙🅍渇き（２００９）",
+  "detail": "【ラブロマンス】鬼才パク・チャヌク監督×ソン・ガンホ主演。吸血鬼となってしまった神父が禁断の恋に苦悩する…。［Ｒ１５＋］",
+  "start": 1716825600000,
+  "end": 1716834300000,
+  "seconds": 8700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "ラブロマンス",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

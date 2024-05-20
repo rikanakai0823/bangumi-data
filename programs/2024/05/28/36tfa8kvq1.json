@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kvq1",
+  "category": "news",
+  "title": "ヒーリングタイム＆ヘッドラインニュース",
+  "fullTitle": "ヒーリングタイム＆ヘッドラインニュース",
+  "detail": "あきる野編",
+  "start": 1716832800000,
+  "end": 1716836400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
