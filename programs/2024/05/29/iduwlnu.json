@@ -1,0 +1,26 @@
+{
+  "id": "iduwlnu",
+  "category": "cinema",
+  "title": "チャイルド・イン・タイム",
+  "fullTitle": "🈙🅍チャイルド・イン・タイム",
+  "detail": "ベネディクト・カンバーバッチ主演の人間ドラマ。娘が行方不明になった夫婦の悲しみと葛藤を繊細に描く。［ＰＧ１２相当］",
+  "start": 1716921000000,
+  "end": 1716927000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
