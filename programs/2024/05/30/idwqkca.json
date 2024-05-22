@@ -1,0 +1,23 @@
+{
+  "id": "idwqkca",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「入学者の集い」",
+  "start": 1717067700000,
+  "end": 1717069500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "入学者の集い",
+  "episode": 1,
+  "flags": []
+}
