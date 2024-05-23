@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "計算論　第8回",
   "fullTitle": "計算論　第8回",
-  "detail": "「正規文法とオートマトン」",
+  "detail": "「正規文法とオートマトン」\n◇出演者\n放送大学教授　隈部　正博",
   "start": 1716503400000,
   "end": 1716506100000,
   "seconds": 2700,
+  "description": "「正規文法とオートマトン」",
+  "extra": {
+    "出演者": "放送大学教授　隈部　正博"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS11_1",
