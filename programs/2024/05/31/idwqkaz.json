@@ -1,0 +1,23 @@
+{
+  "id": "idwqkaz",
+  "category": "hobby",
+  "title": "筋トレ　アカデミア",
+  "fullTitle": "筋トレ　アカデミア",
+  "detail": "「第15回　片足飛行機」",
+  "start": 1717126200000,
+  "end": 1717127100000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "片足飛行機",
+  "episode": 15,
+  "flags": []
+}

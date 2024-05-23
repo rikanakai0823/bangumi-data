@@ -1,0 +1,26 @@
+{
+  "id": "idozdys",
+  "category": "sports",
+  "title": "プロ野球２０２４「楽天」対「ヤクルト」",
+  "fullTitle": "プロ野球２０２４「楽天」対「ヤクルト」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】小早川毅彦，【アナウンサー】小野卓哉　～福島・県営あづま球場から中継～",
+  "start": 1717146000000,
+  "end": 1717158600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ヤクルト",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}
