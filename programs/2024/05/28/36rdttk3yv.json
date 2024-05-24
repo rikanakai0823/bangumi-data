@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【KNOWER特集】\r\nKNOWERインタビュー\r\n\"I'm The President\"\r\n\"Nightmare\"\n◇番組内容２\nICE SPICE\"Gimmie A Light\"\r\nDJ SNAKE, PESO PLUMA\"Teka\"\r\nNORAH JONES\"Paradise\"",
   "start": 1716822000000,
   "end": 1716823800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【KNOWER特集】\r\nKNOWERインタビュー\r\n\"I'm The President\"\r\n\"Nightmare\"",
+    "番組内容２": "ICE SPICE\"Gimmie A Light\"\r\nDJ SNAKE, PESO PLUMA\"Teka\"\r\nNORAH JONES\"Paradise\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
