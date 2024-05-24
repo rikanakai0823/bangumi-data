@@ -1,0 +1,25 @@
+{
+  "id": "idygnfm",
+  "category": "sports",
+  "title": "ＢＳ松竹東急　ベースボールシアター　オリックスVS中日　交流戦",
+  "fullTitle": "🈢ＢＳ松竹東急　ベースボールシアター　オリックスVS中日　交流戦",
+  "detail": "２０２４年プロ野球生中継。オリックス・バファローズVS中日ドラゴンズ",
+  "start": 1717217940000,
+  "end": 1717232400000,
+  "seconds": 14460,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
