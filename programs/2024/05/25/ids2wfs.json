@@ -1,0 +1,23 @@
+{
+  "id": "ids2wfs",
+  "category": "sports",
+  "title": "ゴルフ　リゾートトラスト レディス",
+  "fullTitle": "ゴルフ　リゾートトラスト レディス",
+  "detail": "第32回を迎える「リゾートトラスト レディス」の舞台は、6年ぶりの開催となる関西屈指の名門「関西ゴルフ倶楽部」。優勝賞金2520万円をかけ女子プロゴルファーが挑む！",
+  "start": 1716620400000,
+  "end": 1716625560000,
+  "seconds": 5160,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 32,
+  "flags": []
+}

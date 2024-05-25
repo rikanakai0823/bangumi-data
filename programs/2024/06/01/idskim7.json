@@ -3,10 +3,15 @@
   "category": "information",
   "title": "ＹＡＭＡＤＡテレビショッピング店",
   "fullTitle": "ＹＡＭＡＤＡテレビショッピング店",
-  "detail": "",
+  "detail": "◇出演者\n【出演】なし\n◇制作\n2024年",
   "start": 1717214400000,
   "end": 1717218000000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【出演】なし",
+    "制作": "2024年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
