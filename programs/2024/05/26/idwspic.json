@@ -1,0 +1,23 @@
+{
+  "id": "idwspic",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「放送大学で1年間学んだ学生に聞く」",
+  "start": 1716681600000,
+  "end": 1716683400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "放送大学で1年間学んだ学生に聞く",
+  "episode": 1,
+  "flags": []
+}
