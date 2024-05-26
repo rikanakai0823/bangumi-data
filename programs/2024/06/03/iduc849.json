@@ -1,0 +1,26 @@
+{
+  "id": "iduc849",
+  "category": "cinema",
+  "title": "メリちん",
+  "fullTitle": "🈙メリちん🈑",
+  "detail": "「ミッシング」の気鋭監督・吉田恵輔が自主製作時代に手掛けた監督第２作。１０年ぶりに帰郷した仲間に振り回される幼なじみの男女が、気まずい時間を過ごす様を綴る。",
+  "start": 1717362000000,
+  "end": 1717367400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "ミッシング",
+  "episode": 1,
+  "flags": [
+    "映",
+    "字"
+  ]
+}

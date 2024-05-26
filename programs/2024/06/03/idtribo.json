@@ -1,0 +1,23 @@
+{
+  "id": "idtribo",
+  "category": "variety",
+  "title": "ハートフルTV  「虫の知らせ」#8",
+  "fullTitle": "ハートフルTV  「虫の知らせ」#8",
+  "detail": "小さな喫茶店「虫の知らせ」に愉快なお客様が来店！本日のお客さまはラモス瑠偉！ドーハの悲劇の話しから孫の話まで爆笑トーク！",
+  "start": 1717340400000,
+  "end": 1717342200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "虫の知らせ",
+  "episode": 8,
+  "flags": []
+}
