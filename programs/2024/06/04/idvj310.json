@@ -1,0 +1,23 @@
+{
+  "id": "idvj310",
+  "category": "music",
+  "title": "音楽番組",
+  "fullTitle": "音楽番組",
+  "detail": "音楽番組",
+  "start": 1717509600000,
+  "end": 1717511400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

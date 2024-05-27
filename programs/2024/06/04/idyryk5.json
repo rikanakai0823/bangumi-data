@@ -1,0 +1,23 @@
+{
+  "id": "idyryk5",
+  "category": "news",
+  "title": "ウェザーニュースLiVE",
+  "fullTitle": "ウェザーニュースLiVE",
+  "detail": "日本国内各地に設置したライブカメラでの天候状況、最新の気象現況・今後の予報見解を随時お届け！",
+  "start": 1717450200000,
+  "end": 1717452000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
