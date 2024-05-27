@@ -1,0 +1,25 @@
+{
+  "id": "idrhj2p",
+  "category": "music",
+  "title": "ＢＳ日本・こころの歌",
+  "fullTitle": "🈑ＢＳ日本・こころの歌",
+  "detail": "悲しみの心に、優しく寄り添う「哀歌」を歌う▽曲目：東京アンナ、星の流れに、カスバの女、君待てども、小さな日記、フランシーヌの場合　ほか",
+  "start": 1716807600000,
+  "end": 1716810840000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "哀歌",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
