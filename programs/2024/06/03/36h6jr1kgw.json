@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1kgw",
   "category": "information",
-  "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン",
+  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン🅂",
+  "detail": "◇番組内容\nナイスデイ　０１２０－４４－００２７",
   "start": 1717389000000,
   "end": 1717390800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ナイスデイ　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

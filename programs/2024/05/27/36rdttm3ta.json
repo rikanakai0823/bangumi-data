@@ -1,0 +1,23 @@
+{
+  "id": "36rdttm3ta",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽あなたにエールを！星座占い▽天気▽おいしい山形▽マチコミワンニャン部▽豪華プレゼントが当たる！月曜で賞",
+  "start": 1716795000000,
+  "end": 1716796800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
