@@ -1,0 +1,23 @@
+{
+  "id": "idskiv7",
+  "category": "information",
+  "title": "ビバ！ショッピング",
+  "fullTitle": "ビバ！ショッピング",
+  "detail": "地上波でおなじみのＴＶショッピングがＢＳにも登場！",
+  "start": 1717578000000,
+  "end": 1717579800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

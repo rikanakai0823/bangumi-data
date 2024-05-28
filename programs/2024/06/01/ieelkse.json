@@ -1,0 +1,23 @@
+{
+  "id": "ieelkse",
+  "category": "etc",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「アルゴリズムとプログラミング('20)」",
+  "start": 1717212600000,
+  "end": 1717213500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学ラジオ",
+    "id": "8l1v",
+    "sid": 531,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 84
+  },
+  "subTitle": "アルゴリズムとプログラミング('20)",
+  "episode": 1,
+  "flags": []
+}
