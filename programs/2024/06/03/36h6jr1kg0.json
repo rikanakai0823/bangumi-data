@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1kg0",
   "category": "etc",
-  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ",
-  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ",
-  "detail": "",
+  "title": "ハーブ健康本舗ＴＶショッピング",
+  "fullTitle": "ハーブ健康本舗ＴＶショッピング🅂",
+  "detail": "シワの三難は今日で解決！\n◇番組内容\nＳＩＷＡ－ＫＣ",
   "start": 1717340400000,
   "end": 1717342200000,
   "seconds": 1800,
+  "description": "シワの三難は今日で解決！",
+  "extra": {
+    "番組内容": "ＳＩＷＡ－ＫＣ"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }

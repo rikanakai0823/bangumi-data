@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ki8",
-  "category": "etc",
-  "title": "ショッピングインフォ",
-  "fullTitle": "ショッピングインフォ",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピングインフォ・エバーライフＴＶショッピング",
+  "fullTitle": "ショッピングインフォ・エバーライフＴＶショッピング🅂",
+  "detail": "新感覚ファンデーションであなたの夢叶えます\n◇番組内容\nメッシュドボーテハイカバーＣＣ",
   "start": 1717467900000,
   "end": 1717469700000,
   "seconds": 1800,
+  "description": "新感覚ファンデーションであなたの夢叶えます",
+  "extra": {
+    "番組内容": "メッシュドボーテハイカバーＣＣ"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
