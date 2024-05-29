@@ -1,0 +1,23 @@
+{
+  "id": "idwspfd",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「データ構造の基礎・基礎看護学」",
+  "start": 1716981300000,
+  "end": 1716982200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "データ構造の基礎・基礎看護学",
+  "episode": 1,
+  "flags": []
+}
