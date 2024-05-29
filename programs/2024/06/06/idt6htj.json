@@ -1,0 +1,23 @@
+{
+  "id": "idt6htj",
+  "category": "news",
+  "title": "ＷＢＳ",
+  "fullTitle": "ＷＢＳ",
+  "detail": "４月からWBSが大幅リニューアル！「あなたと世界をつなぐ経済ニュース番組」として、より分かりやすく、より深く、明日からの仕事や生活に役立つ情報をお伝えします。",
+  "start": 1717682400000,
+  "end": 1717686000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "あなたと世界をつなぐ経済ニュース番組",
+  "episode": 1,
+  "flags": []
+}

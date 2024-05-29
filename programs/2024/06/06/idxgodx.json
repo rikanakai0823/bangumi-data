@@ -1,0 +1,25 @@
+{
+  "id": "idxgodx",
+  "category": "sports",
+  "title": "6月番組情報",
+  "fullTitle": "[無料]6月番組情報",
+  "detail": "J SPORTSについてのお問い合わせは、\r\nJ SPORTSカスタマーセンターまで\r\nTEL.0570-099-333\r\n（午前10：00～午後8：00）",
+  "start": 1717626600000,
+  "end": 1717626900000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
