@@ -1,0 +1,25 @@
+{
+  "id": "idozh2l",
+  "category": "sports",
+  "title": "ゴルフ２０２４",
+  "fullTitle": "ゴルフ２０２４🈑",
+  "detail": "",
+  "start": 1717732800000,
+  "end": 1717747140000,
+  "seconds": 14340,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
