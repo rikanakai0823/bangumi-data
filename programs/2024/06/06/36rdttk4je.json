@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１－１\n【映画『ボブ・マーリー：ONE LOVE』特集】\r\nレイナルド・マーカス・グリーン監督インタビュー\r\nBOB MARLEY & THE WAILERS\"Get Up, Stand Up\"\r\nBOB MARLEY & THE WAILERS\"Jamming\"\n◇番組内容１－２\nBOB MARLEY & THE WAILERS\"Exodus\"\r\nBOB MARLEY & THE WAILERS\"One Love / People Get Ready\"",
   "start": 1717635600000,
   "end": 1717637400000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１－１": "【映画『ボブ・マーリー：ONE LOVE』特集】\r\nレイナルド・マーカス・グリーン監督インタビュー\r\nBOB MARLEY & THE WAILERS\"Get Up, Stand Up\"\r\nBOB MARLEY & THE WAILERS\"Jamming\"",
+    "番組内容１－２": "BOB MARLEY & THE WAILERS\"Exodus\"\r\nBOB MARLEY & THE WAILERS\"One Love / People Get Ready\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
