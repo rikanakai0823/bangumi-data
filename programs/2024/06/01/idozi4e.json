@@ -1,0 +1,23 @@
+{
+  "id": "idozi4e",
+  "category": "information",
+  "title": "（放送休止）ＮＨＫ　ＢＳ放送休止",
+  "fullTitle": "（放送休止）ＮＨＫ　ＢＳ放送休止",
+  "detail": "放送設備の整備のため午前０時３０分～４時３０分まで放送を休止します",
+  "start": 1717169400000,
+  "end": 1717183800000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
