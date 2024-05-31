@@ -1,0 +1,26 @@
+{
+  "id": "idozhjx",
+  "category": "sports",
+  "title": "プロ野球２０２４「ヤクルト」対「日本ハム」",
+  "fullTitle": "プロ野球２０２４「ヤクルト」対「日本ハム」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　２：００）　【解説】藤川球児，【アナウンサー】浅井僚馬　～神宮球場から中継～",
+  "start": 1717822800000,
+  "end": 1717835400000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "日本ハム",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

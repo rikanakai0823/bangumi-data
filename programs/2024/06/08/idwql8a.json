@@ -1,0 +1,23 @@
+{
+  "id": "idwql8a",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「宮沢賢治と宇宙・会計学」",
+  "start": 1717806600000,
+  "end": 1717807500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "宮沢賢治と宇宙・会計学",
+  "episode": 1,
+  "flags": []
+}

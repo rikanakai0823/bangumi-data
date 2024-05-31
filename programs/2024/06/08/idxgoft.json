@@ -1,0 +1,25 @@
+{
+  "id": "idxgoft",
+  "category": "sports",
+  "title": "サッカー第50回モーリスレベロトーナメント 日本×インドネシア",
+  "fullTitle": "[生]サッカー第50回モーリスレベロトーナメント 日本×インドネシア",
+  "detail": "【U-19日本代表出場】\r\nグループB\r\n日本 vs. インドネシア\r\n\r\n解説：冨樫剛一\r\n実況：原大悟\r\n開催日：2024年6月8日(現地)",
+  "start": 1717847400000,
+  "end": 1717857000000,
+  "seconds": 9600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "U-19日本代表出場",
+  "episode": 50,
+  "flags": [
+    "生"
+  ]
+}

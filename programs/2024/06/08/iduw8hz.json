@@ -1,0 +1,25 @@
+{
+  "id": "iduw8hz",
+  "category": "information",
+  "title": "番組案内",
+  "fullTitle": "🈚番組案内",
+  "detail": "",
+  "start": 1717847700000,
+  "end": 1717848000000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}
