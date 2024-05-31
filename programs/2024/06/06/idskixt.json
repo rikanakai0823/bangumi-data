@@ -1,9 +1,9 @@
 {
   "id": "idskixt",
-  "category": "etc",
+  "category": "variety",
   "title": "ＡＩリリナがプロデューサー始めました！",
-  "fullTitle": "ＡＩリリナがプロデューサー始めました！",
-  "detail": "",
+  "fullTitle": "🈟ＡＩリリナがプロデューサー始めました！",
+  "detail": "リアルとバーチャルの境界を超え活動するＶｘｅｒ、すなわちＡＩの「リリナ」が、世界のアイドル達をプロデュースする。",
   "start": 1717684200000,
   "end": 1717686000000,
   "seconds": 1800,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 51
   },
-  "subTitle": "",
+  "subTitle": "リリナ",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "新"
+  ]
 }
