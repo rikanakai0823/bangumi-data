@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "夢の彼方に・ＥＮＧＬＡＮＤ",
   "fullTitle": "夢の彼方に・ＥＮＧＬＡＮＤ",
-  "detail": "",
+  "detail": "◇制作\n2013",
   "start": 1717351200000,
   "end": 1717354800000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "2013"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
