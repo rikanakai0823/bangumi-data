@@ -1,0 +1,26 @@
+{
+  "id": "idozi6u",
+  "category": "sports",
+  "title": "プロ野球２０２４「阪神」対「西武」",
+  "fullTitle": "プロ野球２０２４「阪神」対「西武」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　２：００）　【解説】大野豊，【アナウンサー】北嶋右京　～甲子園球場から中継～",
+  "start": 1717909200000,
+  "end": 1717921800000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "西武",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

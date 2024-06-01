@@ -1,0 +1,23 @@
+{
+  "id": "idyryua",
+  "category": "information",
+  "title": "テレビショッピング / チーキーズ ストア",
+  "fullTitle": "テレビショッピング / チーキーズ ストア",
+  "detail": "【テレビショッピング】または【チーキーズ ストア】をお送りします。",
+  "start": 1717878600000,
+  "end": 1717880400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

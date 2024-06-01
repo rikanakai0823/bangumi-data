@@ -1,0 +1,23 @@
+{
+  "id": "381xj5ollq",
+  "category": "information",
+  "title": "ミミヨリ！",
+  "fullTitle": "ミミヨリ！",
+  "detail": "耳より情報をお届けします！",
+  "start": 1717874100000,
+  "end": 1717875900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 30
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
