@@ -1,0 +1,23 @@
+{
+  "id": "ids2wno",
+  "category": "information",
+  "title": "健康テレビショッピング",
+  "fullTitle": "健康テレビショッピング",
+  "detail": "テレビショッピング",
+  "start": 1717192800000,
+  "end": 1717194600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
