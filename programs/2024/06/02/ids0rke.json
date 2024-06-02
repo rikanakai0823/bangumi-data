@@ -1,0 +1,23 @@
+{
+  "id": "ids0rke",
+  "category": "information",
+  "title": "この時間帯は151チャンネルをご覧ください",
+  "fullTitle": "この時間帯は151チャンネルをご覧ください",
+  "detail": "この時間帯は151チャンネルをご覧ください",
+  "start": 1717314840000,
+  "end": 1717318440000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
