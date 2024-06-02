@@ -1,0 +1,25 @@
+{
+  "id": "idxkndk",
+  "category": "sports",
+  "title": "RyuTube ～流通経済大学スポーツチャンネル～",
+  "fullTitle": "[無料]RyuTube ～流通経済大学スポーツチャンネル～",
+  "detail": "部活を中心に流通経済大学の今を紹介する番組。",
+  "start": 1717973100000,
+  "end": 1717974000000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

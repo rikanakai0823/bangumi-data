@@ -1,0 +1,25 @@
+{
+  "id": "idozkiz",
+  "category": "music",
+  "title": "プレミアムシアター　びわ湖ホール公演　歌劇「ばらの騎士」",
+  "fullTitle": "プレミアムシアター　びわ湖ホール公演　歌劇「ばらの騎士」🅍",
+  "detail": "びわ湖ホール公演　歌劇「ばらの騎士」（リヒャルト・シュトラウス）",
+  "start": 1717950900000,
+  "end": 1717963200000,
+  "seconds": 12300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ばらの騎士",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

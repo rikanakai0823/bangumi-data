@@ -1,0 +1,25 @@
+{
+  "id": "idxehow",
+  "category": "sports",
+  "title": "第73回全日本大学野球選手権 1回戦 ～神宮球場～",
+  "fullTitle": "[生]第73回全日本大学野球選手権 1回戦 ～神宮球場～",
+  "detail": "■福井工業大学×桐蔭横浜大学\r\n■中京大学×日本文理大学\r\n■中部学院大学×東海大学九州キャンパス",
+  "start": 1717977000000,
+  "end": 1718010000000,
+  "seconds": 33000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 73,
+  "flags": [
+    "生"
+  ]
+}
