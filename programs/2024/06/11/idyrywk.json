@@ -1,0 +1,23 @@
+{
+  "id": "idyrywk",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと",
+  "fullTitle": "競輪LIVE！チャリロトよしもと",
+  "detail": "競輪LIVE！チャリロトよしもと",
+  "start": 1718110800000,
+  "end": 1718114400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idxkndu",
+  "category": "sports",
+  "title": "第73回全日本大学野球選手権 1回戦/2回戦 ～東京ドーム～",
+  "fullTitle": "[生]第73回全日本大学野球選手権 1回戦/2回戦 ～東京ドーム～",
+  "detail": "～1回戦～\r\n■広島経済大学×和歌山大学\r\n■東日本国際大学×吉備国際大学\r\n～2回戦～\r\n■#16",
+  "start": 1718063400000,
+  "end": 1718096400000,
+  "seconds": 33000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "",
+  "episode": 73,
+  "flags": [
+    "生"
+  ]
+}

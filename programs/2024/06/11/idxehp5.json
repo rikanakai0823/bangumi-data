@@ -1,0 +1,25 @@
+{
+  "id": "idxehp5",
+  "category": "sports",
+  "title": "第73回全日本大学野球選手権 1回戦/2回戦 ～神宮球場～",
+  "fullTitle": "[生]第73回全日本大学野球選手権 1回戦/2回戦 ～神宮球場～",
+  "detail": "～1回戦～\r\n■天理大学×東京農業大学北海道オホーツク\r\n■共栄大学×関西学院大学\r\n～2回戦～\r\n■第12試合",
+  "start": 1718063400000,
+  "end": 1718096400000,
+  "seconds": 33000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 73,
+  "flags": [
+    "生"
+  ]
+}

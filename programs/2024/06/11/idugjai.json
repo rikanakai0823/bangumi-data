@@ -1,0 +1,26 @@
+{
+  "id": "idugjai",
+  "category": "cinema",
+  "title": "リプレイスメント（字幕版）",
+  "fullTitle": "🈙リプレイスメント（字幕版）🅍",
+  "detail": "Ｋ・リーヴス主演の痛快スポーツコメディ。あるプロアメフトチームで、プレーオフ進出の直前、選手たちがストを起こし、オーナーは代理選手たちで難局を乗り切ろうとする。",
+  "start": 1718107200000,
+  "end": 1718114400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
