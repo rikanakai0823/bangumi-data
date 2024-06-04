@@ -1,15 +1,16 @@
 {
   "id": "36l9gkujhl",
   "category": "variety",
-  "title": "Ｕ字工事の旅！発見　＃２４９",
-  "fullTitle": "Ｕ字工事の旅！発見　＃２４９",
-  "detail": "◇出演者      \nＵ字工事",
+  "title": "Ｕ字工事の旅！発見▽水沢うどん",
+  "fullTitle": "Ｕ字工事の旅！発見▽水沢うどん",
+  "detail": "◇出演者      \nＵ字工事\n◇出演者\nＵ字工事",
   "start": 1717810200000,
   "end": 1717812000000,
   "seconds": 1800,
   "description": " ",
   "extra": {
-    "出演者      ": "Ｕ字工事"
+    "出演者      ": "Ｕ字工事",
+    "出演者": "Ｕ字工事"
   },
   "channel": {
     "type": "GR",
@@ -22,6 +23,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 249,
+  "episode": 1,
   "flags": []
 }
