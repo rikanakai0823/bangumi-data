@@ -1,0 +1,26 @@
+{
+  "id": "iduwkek",
+  "category": "cinema",
+  "title": "ビッグ・ショット（２０１８）",
+  "fullTitle": "🈙🅍ビッグ・ショット（２０１８）",
+  "detail": "韓国映画『ベテラン』を中国でリメイクした痛快刑事アクション。権力を盾にした財閥御曹司の不正に対して熱血刑事が立ち向かう。",
+  "start": 1718157600000,
+  "end": 1718164800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

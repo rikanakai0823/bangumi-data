@@ -1,0 +1,27 @@
+{
+  "id": "idttn01",
+  "category": "music",
+  "title": "ＭＵＳＩＣ：Ｓ　欧州鉄道の旅・オーストリア２",
+  "fullTitle": "ＭＵＳＩＣ：Ｓ　欧州鉄道の旅・オーストリア２",
+  "detail": "ザルツブルクからインスブルック\n◇番組内容\nオーストリアの世界遺産と塩の道を巡って",
+  "start": 1718159400000,
+  "end": 1718161200000,
+  "seconds": 1800,
+  "description": "ザルツブルクからインスブルック",
+  "extra": {
+    "番組内容": "オーストリアの世界遺産と塩の道を巡って"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

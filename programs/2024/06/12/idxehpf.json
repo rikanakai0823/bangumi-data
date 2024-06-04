@@ -1,0 +1,25 @@
+{
+  "id": "idxehpf",
+  "category": "sports",
+  "title": "第73回 全日本大学野球選手権 2回戦 ～神宮球場～",
+  "fullTitle": "[生]第73回 全日本大学野球選手権 2回戦 ～神宮球場～",
+  "detail": "■第13試合\r\n■第14試合\r\n■第15試合",
+  "start": 1718149800000,
+  "end": 1718182800000,
+  "seconds": 33000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "全日本大学野球選手権 2回戦 ～神宮球場～",
+  "episode": 73,
+  "flags": [
+    "生"
+  ]
+}
