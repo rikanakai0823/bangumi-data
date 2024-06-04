@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ks8",
-  "category": "etc",
-  "title": "ショッピングインフォ",
-  "fullTitle": "ショッピングインフォ",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピングインフォ・ファーマフーズＴＶショッピング",
+  "fullTitle": "ショッピングインフォ・ファーマフーズＴＶショッピング🅂",
+  "detail": "ファーマフーズテレビショッピング\n◇番組内容\nタマゴサミン　０１２０－３７－１８－１８",
   "start": 1717986300000,
   "end": 1717988100000,
   "seconds": 1800,
+  "description": "ファーマフーズテレビショッピング",
+  "extra": {
+    "番組内容": "タマゴサミン　０１２０－３７－１８－１８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
