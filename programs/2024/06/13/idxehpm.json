@@ -1,0 +1,25 @@
+{
+  "id": "idxehpm",
+  "category": "sports",
+  "title": "第73回 全日本大学野球選手権 準々決勝 ～神宮球場～",
+  "fullTitle": "[生]第73回 全日本大学野球選手権 準々決勝 ～神宮球場～",
+  "detail": "■#20\r\n■#21\r\n■#22\r\n■#23",
+  "start": 1718236200000,
+  "end": 1718281800000,
+  "seconds": 45600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "全日本大学野球選手権 準々決勝 ～神宮球場～",
+  "episode": 73,
+  "flags": [
+    "生"
+  ]
+}

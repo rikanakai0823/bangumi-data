@@ -1,0 +1,25 @@
+{
+  "id": "idy8ree",
+  "category": "drama",
+  "title": "ザ・ロッジ#1",
+  "fullTitle": "ザ・ロッジ#1🈔",
+  "detail": "#1「新しい始まり」",
+  "start": 1718218800000,
+  "end": 1718220600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "新しい始まり",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
