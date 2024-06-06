@@ -1,0 +1,23 @@
+{
+  "id": "idozoao",
+  "category": "information",
+  "title": "おしらせ",
+  "fullTitle": "おしらせ",
+  "detail": "",
+  "start": 1718251140000,
+  "end": 1718251200000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

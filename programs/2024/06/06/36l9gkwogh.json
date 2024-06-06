@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwogh",
+  "category": "news",
+  "title": "ｎｅｗｓチバ",
+  "fullTitle": "ｎｅｗｓチバ",
+  "detail": "▽天気予報\r\n▽県内ニュース\r\n▽出演／関根苑子アナウンサー\r\n",
+  "start": 1717664400000,
+  "end": 1717665300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

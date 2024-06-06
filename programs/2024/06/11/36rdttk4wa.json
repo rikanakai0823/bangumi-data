@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【FELIP特集】\r\nFELIPインタビュー\r\n\"STRAYDOGS\"\r\n\"Fake Faces\"\n◇番組内容２\nDONAVON FRANKENREITER\"I'll Come A-Runnin' (Presented by Caddis)\"\r\nAUGUST MOON\"Guard Down\"\r\nBON JOVI\"Legendary\"",
   "start": 1718031600000,
   "end": 1718033400000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【FELIP特集】\r\nFELIPインタビュー\r\n\"STRAYDOGS\"\r\n\"Fake Faces\"",
+    "番組内容２": "DONAVON FRANKENREITER\"I'll Come A-Runnin' (Presented by Caddis)\"\r\nAUGUST MOON\"Guard Down\"\r\nBON JOVI\"Legendary\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
