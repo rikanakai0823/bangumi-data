@@ -1,0 +1,25 @@
+{
+  "id": "idtvtwn",
+  "category": "sports",
+  "title": "宮里藍サントリーレディスオープンゴルフ２０２４　第１日",
+  "fullTitle": "🈢宮里藍サントリーレディスオープンゴルフ２０２４　第１日",
+  "detail": "六甲の地で繰り広げられる4日間の激闘！BSフジでは熱戦の模様を連日お届け！",
+  "start": 1717655400000,
+  "end": 1717662600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
