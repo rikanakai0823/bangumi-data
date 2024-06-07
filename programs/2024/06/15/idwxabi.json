@@ -1,0 +1,23 @@
+{
+  "id": "idwxabi",
+  "category": "sports",
+  "title": "トレセンまるごと情報局 #483",
+  "fullTitle": "トレセンまるごと情報局 #483",
+  "detail": "東西トレセンのHOTな情報！マーメイドS！",
+  "start": 1718384400000,
+  "end": 1718388000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 483,
+  "flags": []
+}

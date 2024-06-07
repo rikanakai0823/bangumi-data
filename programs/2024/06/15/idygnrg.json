@@ -1,0 +1,23 @@
+{
+  "id": "idygnrg",
+  "category": "theater",
+  "title": "特選落語　笑福亭三喬「ぜんざい公社」「初天神」",
+  "fullTitle": "特選落語　笑福亭三喬「ぜんざい公社」「初天神」",
+  "detail": "",
+  "start": 1718420400000,
+  "end": 1718424000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "初天神",
+  "episode": 1,
+  "flags": []
+}
