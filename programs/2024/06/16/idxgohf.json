@@ -1,0 +1,23 @@
+{
+  "id": "idxgohf",
+  "category": "sports",
+  "title": "第73回全日本大学野球選手権 #25 準決勝",
+  "fullTitle": "第73回全日本大学野球選手権 #25 準決勝",
+  "detail": "開催日：2024年6月15日\r\n球場：明治神宮野球場",
+  "start": 1718463600000,
+  "end": 1718474400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "準決勝",
+  "episode": 73,
+  "flags": []
+}

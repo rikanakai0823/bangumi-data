@@ -1,0 +1,25 @@
+{
+  "id": "idxknfi",
+  "category": "sports",
+  "title": "第73回全日本大学野球選手権 #26 決勝",
+  "fullTitle": "[生]第73回全日本大学野球選手権 #26 決勝",
+  "detail": "解説：大久保秀昭(ENEOS野球部監督)\r\n実況：足立清紀\r\n開催日：2024年6月16日\r\n球場：明治神宮野球場",
+  "start": 1718509500000,
+  "end": 1718524800000,
+  "seconds": 15300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "決勝",
+  "episode": 73,
+  "flags": [
+    "生"
+  ]
+}

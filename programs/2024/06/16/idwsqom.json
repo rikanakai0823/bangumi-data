@@ -1,0 +1,23 @@
+{
+  "id": "idwsqom",
+  "category": "hobby",
+  "title": "フィラー",
+  "fullTitle": "フィラー",
+  "detail": "「お台場夜景 船と橋 「この時間帯は２３１ｃｈをご覧ください」」",
+  "start": 1718520300000,
+  "end": 1718523000000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "お台場夜景 船と橋 「この時間帯は２３１ｃｈをご覧ください",
+  "episode": 1,
+  "flags": []
+}
