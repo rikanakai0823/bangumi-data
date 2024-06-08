@@ -1,0 +1,23 @@
+{
+  "id": "idwsq23",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「わたしの学問研究　久野収・哲学者として生きた昭和[90分版]('92)」",
+  "start": 1717848000000,
+  "end": 1717853400000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "わたしの学問研究　久野収・哲学者として生きた昭和[90分版]('92)",
+  "episode": 1,
+  "flags": []
+}
