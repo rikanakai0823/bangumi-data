@@ -1,0 +1,25 @@
+{
+  "id": "38224jzqdd",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "社会教育や生涯学習の支援、社会貢献活動として開催している「テレ朝出前講座」と、情報学習や職業体験など、総合学習の支援を目的としている「出前授業」を紹介します。",
+  "start": 1717876800000,
+  "end": 1717878000000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
