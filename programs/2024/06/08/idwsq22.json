@@ -1,0 +1,23 @@
+{
+  "id": "idwsq22",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「ゲーテと近代生物学('92)」",
+  "start": 1717842600000,
+  "end": 1717845300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "ゲーテと近代生物学('92)",
+  "episode": 1,
+  "flags": []
+}
