@@ -1,0 +1,23 @@
+{
+  "id": "3826py5ps2",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10Ｒ青梅特別、11ＲジューンＳ\r\n【京都】10Ｒ長浜特別、11Ｒ水無月Ｓ\r\n【函館】11Ｒ函館日刊スポーツ杯",
+  "start": 1717826400000,
+  "end": 1717830000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレビ東京２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
