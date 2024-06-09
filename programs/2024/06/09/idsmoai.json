@@ -1,0 +1,23 @@
+{
+  "id": "idsmoai",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡｖｓソフトバンク」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「ＤｅＮＡｖｓソフトバンク」",
+  "detail": "横浜から生中継。午後２時試合開始。試合終了まで放送\r\n【解説】内川聖一、【実況】佐藤文康",
+  "start": 1717919580000,
+  "end": 1717934400000,
+  "seconds": 14820,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "ＤｅＮＡｖｓソフトバンク",
+  "episode": 1,
+  "flags": []
+}
