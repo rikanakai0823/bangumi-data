@@ -1,0 +1,25 @@
+{
+  "id": "idy8rjh",
+  "category": "anime",
+  "title": "響け！ユーフォニアム#1★レギュラー放送スタート！",
+  "fullTitle": "[新]響け！ユーフォニアム#1★レギュラー放送スタート！",
+  "detail": "#1「ようこそハイスクール」",
+  "start": 1718622000000,
+  "end": 1718623800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "ようこそハイスクール",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

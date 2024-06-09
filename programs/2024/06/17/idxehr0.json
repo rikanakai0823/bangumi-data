@@ -1,0 +1,23 @@
+{
+  "id": "idxehr0",
+  "category": "sports",
+  "title": "サッカー第50回モーリスレベロトーナメント 決勝",
+  "fullTitle": "サッカー第50回モーリスレベロトーナメント 決勝",
+  "detail": "※日本代表の勝敗によって放送内容変更の場合あり\r\n\r\n解説：名良橋晃\r\n実況：原大悟\r\n開催日：2024年6月16日(現地)",
+  "start": 1718618400000,
+  "end": 1718629200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 50,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idozon2",
+  "category": "theater",
+  "title": "プレミアムシアター　ドレスデン国立歌劇場バレエ団「白鳥の湖」",
+  "fullTitle": "プレミアムシアター　ドレスデン国立歌劇場バレエ団「白鳥の湖」🅍",
+  "detail": "ドレスデン国立歌劇場バレエ団「白鳥の湖」　振付・演出：ヨハン・インガー",
+  "start": 1718558400000,
+  "end": 1718565000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "白鳥の湖",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}
