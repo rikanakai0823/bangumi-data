@@ -1,0 +1,25 @@
+{
+  "id": "idp1uw4",
+  "category": "sports",
+  "title": "ＭＬＢ２０２４",
+  "fullTitle": "ＭＬＢ２０２４🈔",
+  "detail": "",
+  "start": 1718576040000,
+  "end": 1718578800000,
+  "seconds": 2760,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpy",
+    "sid": 102,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 42
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
