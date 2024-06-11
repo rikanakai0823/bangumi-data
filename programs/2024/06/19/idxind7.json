@@ -1,0 +1,23 @@
+{
+  "id": "idxind7",
+  "category": "sports",
+  "title": "停波",
+  "fullTitle": "停波",
+  "detail": "【停波】\r\n◎機器メンテナンスのため、停波致します。",
+  "start": 1718726400000,
+  "end": 1718748000000,
+  "seconds": 21600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "停波",
+  "episode": 1,
+  "flags": []
+}
