@@ -1,0 +1,23 @@
+{
+  "id": "idwqlbb",
+  "category": "hobby",
+  "title": "授業科目案内～大学の窓",
+  "fullTitle": "授業科目案内～大学の窓",
+  "detail": "「現代経済学・入門線型代数」",
+  "start": 1718883900000,
+  "end": 1718884800000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "現代経済学・入門線型代数",
+  "episode": 1,
+  "flags": []
+}
