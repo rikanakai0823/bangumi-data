@@ -1,0 +1,25 @@
+{
+  "id": "idozoqs",
+  "category": "information",
+  "title": "ＢＳ４Ｋ８Ｋ衛星放送で見ようよ！キャンペーン",
+  "fullTitle": "ＢＳ４Ｋ８Ｋ衛星放送で見ようよ！キャンペーン🈑",
+  "detail": "６月２２日（土）からＮＨＫと民放５社がタッグを組んでＢＳ４Ｋ８Ｋキャンペーンを開催！４Ｋ８Ｋの魅力や各局が誇る珠玉のラインナップを一挙に紹介します！",
+  "start": 1718896500000,
+  "end": 1718896800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

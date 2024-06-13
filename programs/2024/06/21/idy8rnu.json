@@ -1,0 +1,25 @@
+{
+  "id": "idy8rnu",
+  "category": "drama",
+  "title": "ザ・ロッジ#7",
+  "fullTitle": "ザ・ロッジ#7🈔",
+  "detail": "#7「特別な場所」",
+  "start": 1718910000000,
+  "end": 1718911800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "特別な場所",
+  "episode": 7,
+  "flags": [
+    "二"
+  ]
+}
