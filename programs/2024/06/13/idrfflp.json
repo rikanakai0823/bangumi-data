@@ -1,0 +1,23 @@
+{
+  "id": "idrfflp",
+  "category": "cinema",
+  "title": "映画「デイ・アフター・トゥモロー」",
+  "fullTitle": "映画「デイ・アフター・トゥモロー」",
+  "detail": "古代気象学者ジャックは、多くの人命を助けるため、そしてニューヨークで立ち往生したサムを救い出すため奔走するのだったが…。",
+  "start": 1718280000000,
+  "end": 1718288640000,
+  "seconds": 8640,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
