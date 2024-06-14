@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【WALLOWS特集】\r\nWALLOWS インタビュー\r\n\"Calling After Me\"\r\n\"A Warning\"\n◇番組内容２\nCHRIS BROWN\"Go Girlfriend\"\r\nPOST MALONE feat. MORGAN WALLEN\"I Had Some Help\"\r\nBLACK EYED PEAS×EL ALFA feat. BEACKY G\"TONIGHT (Bad Boys: Ride Or Die)\"",
   "start": 1718636400000,
   "end": 1718638200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【WALLOWS特集】\r\nWALLOWS インタビュー\r\n\"Calling After Me\"\r\n\"A Warning\"",
+    "番組内容２": "CHRIS BROWN\"Go Girlfriend\"\r\nPOST MALONE feat. MORGAN WALLEN\"I Had Some Help\"\r\nBLACK EYED PEAS×EL ALFA feat. BEACKY G\"TONIGHT (Bad Boys: Ride Or Die)\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
