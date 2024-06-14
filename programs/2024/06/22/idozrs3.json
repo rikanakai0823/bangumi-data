@@ -1,0 +1,23 @@
+{
+  "id": "idozrs3",
+  "category": "sports",
+  "title": "パリオリンピック最終予選　スケートボード　ブダペスト大会",
+  "fullTitle": "パリオリンピック最終予選　スケートボード　ブダペスト大会",
+  "detail": "",
+  "start": 1719065400000,
+  "end": 1719072000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
