@@ -1,0 +1,23 @@
+{
+  "id": "idtasfq",
+  "category": "information",
+  "title": "トクトク健康セレクション",
+  "fullTitle": "トクトク健康セレクション",
+  "detail": "便利な商品をお届け",
+  "start": 1718321040000,
+  "end": 1718322780000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
