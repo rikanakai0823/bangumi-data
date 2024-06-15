@@ -1,0 +1,23 @@
+{
+  "id": "idwsq2u",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「隣近所と日本人('92)」",
+  "start": 1718447400000,
+  "end": 1718450100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "隣近所と日本人('92)",
+  "episode": 1,
+  "flags": []
+}
