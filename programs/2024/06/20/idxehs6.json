@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ドキュメンタリーThe REAL【ラグビー特集】Home Field Advantage #6",
   "fullTitle": "ドキュメンタリーThe REAL【ラグビー特集】Home Field Advantage #6",
-  "detail": "【Season4】\r\n～Episode-6 Derby day～",
+  "detail": "【Season4】\r\n～Episode-6 Derby day～\n◇お知らせ\nこの番組は2Kで制作されたものです",
   "start": 1718852400000,
   "end": 1718854200000,
   "seconds": 1800,
+  "description": "【Season4】\r\n～Episode-6 Derby day～",
+  "extra": {
+    "お知らせ": "この番組は2Kで制作されたものです"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS19_1",
