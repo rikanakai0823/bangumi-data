@@ -1,0 +1,26 @@
+{
+  "id": "iduw4x2",
+  "category": "cinema",
+  "title": "アドベンチャー・ファミリー",
+  "fullTitle": "🈙🅍アドベンチャー・ファミリー",
+  "detail": "ロサンゼルスからロッキー山脈に移住した一家が大自然の中で自給自足を始める姿を描き、７０年代に人気を博した冒険家族ドラマ。",
+  "start": 1719123000000,
+  "end": 1719129600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

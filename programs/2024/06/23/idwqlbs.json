@@ -1,0 +1,23 @@
+{
+  "id": "idwqlbs",
+  "category": "hobby",
+  "title": "授業科目案内～大学の窓",
+  "fullTitle": "授業科目案内～大学の窓",
+  "detail": "「文学・芸術・武道にみる日本文化・量子化学」",
+  "start": 1719102600000,
+  "end": 1719103500000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "文学・芸術・武道にみる日本文化・量子化学",
+  "episode": 1,
+  "flags": []
+}

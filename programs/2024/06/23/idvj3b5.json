@@ -1,0 +1,26 @@
+{
+  "id": "idvj3b5",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "🈢🈓ＢＳイレブン競馬中継　第１部",
+  "detail": "【東京】東京５Ｒ～８Ｒ、９Ｒ「八ヶ岳特別」，10Ｒ「甲州街道ステークス」\r\n【京都】京都５Ｒ～７Ｒ、８Ｒ「木屋町特別」、９Ｒ「瀬田特別」",
+  "start": 1719111600000,
+  "end": 1719122400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}
