@@ -3,10 +3,14 @@
   "category": "music",
   "title": "バズリズム０２",
   "fullTitle": "バズリズム０２",
-  "detail": "",
+  "detail": "◇出演者\n【MC】バカリズム【進行】市來玲奈（日本テレビアナウンサー）【トーク・歌ゲスト】今市隆二【歌ゲスト】MyM、松下優也、ENVii GABRIELLA、【あの人ランキング】川栄李奈、福本莉子【BUZZ CLIPS】MAYSON's PARTY【クイズ！ミュージックビデオ王】THE RAMPAGE",
   "start": 1718987640000,
   "end": 1718991240000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】バカリズム【進行】市來玲奈（日本テレビアナウンサー）【トーク・歌ゲスト】今市隆二【歌ゲスト】MyM、松下優也、ENVii GABRIELLA、【あの人ランキング】川栄李奈、福本莉子【BUZZ CLIPS】MAYSON's PARTY【クイズ！ミュージックビデオ王】THE RAMPAGE"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
