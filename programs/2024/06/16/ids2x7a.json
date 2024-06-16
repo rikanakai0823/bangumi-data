@@ -1,0 +1,23 @@
+{
+  "id": "ids2x7a",
+  "category": "sports",
+  "title": "スーパーベースボール2024　日本ハム×巨人",
+  "fullTitle": "スーパーベースボール2024　日本ハム×巨人",
+  "detail": "BS朝日プロ野球黄金週間！3年目を迎え、上位進出を目指す新庄日本ハム。一方、阿部新監督率いる巨人は交流戦で勢いをつけてV奪回を目指す。※試合終了まで放送",
+  "start": 1718514000000,
+  "end": 1718524800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日３",
+    "id": "8krd",
+    "sid": 153,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 50
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
