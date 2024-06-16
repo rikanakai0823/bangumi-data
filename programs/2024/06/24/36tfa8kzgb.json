@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kzgb",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「夏椿特別」「淡路坂賞」「オフト後楽園賞」",
+  "start": 1719210000000,
+  "end": 1719230400000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
