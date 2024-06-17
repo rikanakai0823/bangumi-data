@@ -1,0 +1,25 @@
+{
+  "id": "iduw8yi",
+  "category": "drama",
+  "title": "ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃３",
+  "fullTitle": "🅍ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃３",
+  "detail": "【海外ドラマアンコール一挙放送】",
+  "start": 1719251400000,
+  "end": 1719254400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "海外ドラマアンコール一挙放送",
+  "episode": 3,
+  "flags": [
+    "SS"
+  ]
+}

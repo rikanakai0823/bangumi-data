@@ -1,0 +1,23 @@
+{
+  "id": "idy8rrx",
+  "category": "anime",
+  "title": "響け！ユーフォニアム#5",
+  "fullTitle": "響け！ユーフォニアム#5",
+  "detail": "#5「ただいまフェスティバル」",
+  "start": 1719243000000,
+  "end": 1719244800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "ただいまフェスティバル",
+  "episode": 5,
+  "flags": []
+}

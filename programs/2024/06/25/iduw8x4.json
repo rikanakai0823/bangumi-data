@@ -1,0 +1,25 @@
+{
+  "id": "iduw8x4",
+  "category": "drama",
+  "title": "ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃２",
+  "fullTitle": "🅍ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃２",
+  "detail": "【海外ドラマアンコール一挙放送】",
+  "start": 1719248400000,
+  "end": 1719251400000,
+  "seconds": 3000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "海外ドラマアンコール一挙放送",
+  "episode": 2,
+  "flags": [
+    "SS"
+  ]
+}

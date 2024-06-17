@@ -1,0 +1,29 @@
+{
+  "id": "idt6igw",
+  "category": "music",
+  "title": "プレイバック日本歌手協会歌謡祭",
+  "fullTitle": "プレイバック日本歌手協会歌謡祭🈑",
+  "detail": "「日本歌手協会歌謡祭」名曲＆懐かしの名場面を一挙放送！\n◇出演者\n＜司会＞合田道人",
+  "start": 1719305760000,
+  "end": 1719309600000,
+  "seconds": 3840,
+  "description": "「日本歌手協会歌謡祭」名曲＆懐かしの名場面を一挙放送！",
+  "extra": {
+    "出演者": "＜司会＞合田道人"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東",
+    "id": "8krv",
+    "sid": 171,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 54
+  },
+  "subTitle": "日本歌手協会歌謡祭",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
