@@ -1,9 +1,9 @@
 {
   "id": "idvj3a9",
   "category": "information",
-  "title": "ショッピング情報",
-  "fullTitle": "ショッピング情報",
-  "detail": "ショッピング情報",
+  "title": "ビックカメラ　コジマ　メガセール！",
+  "fullTitle": "🈢ビックカメラ　コジマ　メガセール！",
+  "detail": "生放送！ビックカメラ　コジマ　メガセール！大人気「羽根のない扇風機」が衝撃価格！",
   "start": 1719045000000,
   "end": 1719046800000,
   "seconds": 1800,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 66
   },
-  "subTitle": "",
+  "subTitle": "羽根のない扇風機",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "生"
+  ]
 }
