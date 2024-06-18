@@ -1,0 +1,25 @@
+{
+  "id": "idvj3el",
+  "category": "sports",
+  "title": "2024帝王賞生中継　大井10Ｒ・11Ｒ「帝王賞」・12Ｒ「BSイレブン賞」",
+  "fullTitle": "🈢2024帝王賞生中継　大井10Ｒ・11Ｒ「帝王賞」・12Ｒ「BSイレブン賞」",
+  "detail": "ダート界の実力馬たちが全国各地から集う、上半期のダート頂上決戦『帝王賞(JpnⅠ)』を生中継でお届けします。",
+  "start": 1719396000000,
+  "end": 1719403080000,
+  "seconds": 7080,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "BSイレブン賞",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

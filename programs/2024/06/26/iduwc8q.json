@@ -1,0 +1,25 @@
+{
+  "id": "iduwc8q",
+  "category": "drama",
+  "title": "ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃８",
+  "fullTitle": "🅍ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃８",
+  "detail": "【海外ドラマアンコール一挙放送】",
+  "start": 1719342600000,
+  "end": 1719346200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "海外ドラマアンコール一挙放送",
+  "episode": 8,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8rte",
+  "category": "drama",
+  "title": "ザ・ロッジ#10",
+  "fullTitle": "ザ・ロッジ#10🈔",
+  "detail": "#10「スカイの答え」",
+  "start": 1719342000000,
+  "end": 1719343800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "スカイの答え",
+  "episode": 10,
+  "flags": [
+    "二"
+  ]
+}

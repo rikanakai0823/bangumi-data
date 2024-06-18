@@ -1,0 +1,25 @@
+{
+  "id": "iduwc3b",
+  "category": "drama",
+  "title": "ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃６",
+  "fullTitle": "🅍ＢＲＡＶＥ　ＮＥＷ　ＷＯＲＬＤ／ブレイブ・ニュー・ワールド　＃６",
+  "detail": "【海外ドラマアンコール一挙放送】",
+  "start": 1719335700000,
+  "end": 1719339300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "海外ドラマアンコール一挙放送",
+  "episode": 6,
+  "flags": [
+    "SS"
+  ]
+}
