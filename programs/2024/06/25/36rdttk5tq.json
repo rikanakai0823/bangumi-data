@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【FUJI ROCK FESTIVAL'24特集】\r\n\"Night Time\"US\r\n\"Spite\"OMAR APOLLO\r\n\"(It Goes Like) Nanana\"PEGGY GOU\n◇番組内容２\n\"I'm Back\"girl in red\r\n\"Caesar on a TV Screen\"THE LAST DINNER PARTY\r\n\"Lose Control\"TEDDY SWIMS\r\n\"Council Skies\"NOEL GALLAGHER'S HIGH FLYING BIRDS",
   "start": 1719241200000,
   "end": 1719243000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【FUJI ROCK FESTIVAL'24特集】\r\n\"Night Time\"US\r\n\"Spite\"OMAR APOLLO\r\n\"(It Goes Like) Nanana\"PEGGY GOU",
+    "番組内容２": "\"I'm Back\"girl in red\r\n\"Caesar on a TV Screen\"THE LAST DINNER PARTY\r\n\"Lose Control\"TEDDY SWIMS\r\n\"Council Skies\"NOEL GALLAGHER'S HIGH FLYING BIRDS"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
