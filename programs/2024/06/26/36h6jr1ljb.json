@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ljb",
   "category": "information",
-  "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "title": "ＴＶショッピング・ショップジャパン",
+  "fullTitle": "ＴＶショッピング・ショップジャパン🅂",
+  "detail": "◇番組内容\nトゥルースリーパー　０１２０－１６－００７９",
   "start": 1719363600000,
   "end": 1719365400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "トゥルースリーパー　０１２０－１６－００７９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
