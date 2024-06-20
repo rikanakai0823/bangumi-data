@@ -1,12 +1,16 @@
 {
   "id": "381f5ksk5f",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ「あなたの天気・防災」のご紹介",
+  "fullTitle": "＃ＮＨＫ「あなたの天気・防災」のご紹介",
+  "detail": "【出演】二宮直輝\n◇出演者\n【出演】二宮直輝",
   "start": 1719488520000,
   "end": 1719488700000,
   "seconds": 180,
+  "description": "【出演】二宮直輝",
+  "extra": {
+    "出演者": "【出演】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "あなたの天気・防災",
   "episode": 1,
   "flags": []
 }
