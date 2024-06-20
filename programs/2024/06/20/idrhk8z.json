@@ -1,0 +1,23 @@
+{
+  "id": "idrhk8z",
+  "category": "cinema",
+  "title": "映画「ユニバーサル・ソルジャー」",
+  "fullTitle": "映画「ユニバーサル・ソルジャー」",
+  "detail": "",
+  "start": 1718884800000,
+  "end": 1718891700000,
+  "seconds": 6900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
