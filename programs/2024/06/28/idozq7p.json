@@ -1,0 +1,26 @@
+{
+  "id": "idozq7p",
+  "category": "sports",
+  "title": "プロ野球２０２４「楽天」対「西武」",
+  "fullTitle": "プロ野球２０２４「楽天」対「西武」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】与田剛，【アナウンサー】小野卓哉　～山形・きらやかスタジアムから中継～",
+  "start": 1719565200000,
+  "end": 1719567000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "西武",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

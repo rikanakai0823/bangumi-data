@@ -1,0 +1,25 @@
+{
+  "id": "idxingm",
+  "category": "sports",
+  "title": "WRC世界ラリー選手権2024 R7 ポーランド【ライブステージ(SS1)】",
+  "fullTitle": "[生]WRC世界ラリー選手権2024 R7 ポーランド【ライブステージ(SS1)】",
+  "detail": "WRC世界ラリー選手権2024\r\nRound7 ラリー・ポーランド\r\nライブステージ【SS1】\r\n\r\nMC：西尾タクト、鎌田卓麻\r\n開催日：2024年6月27日(現地)",
+  "start": 1719507600000,
+  "end": 1719512100000,
+  "seconds": 4500,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "ライブステージ(SS1)",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idy8rw5",
+  "category": "anime",
+  "title": "ツムツム#5",
+  "fullTitle": "ツムツム#5🈖",
+  "detail": "#5「時計じかけのツムたち」",
+  "start": 1719527220000,
+  "end": 1719527400000,
+  "seconds": 180,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "時計じかけのツムたち",
+  "episode": 5,
+  "flags": [
+    "解"
+  ]
+}
