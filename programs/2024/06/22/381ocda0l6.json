@@ -1,0 +1,23 @@
+{
+  "id": "381ocda0l6",
+  "category": "news",
+  "title": "日テレＮＥＷＳ２４",
+  "fullTitle": "日テレＮＥＷＳ２４",
+  "detail": "最新ニュースを２４時間お伝えするニュース専門チャンネル・日テレＮＥＷＳ２４。\r\nスカパー、Ｊ：ＣＯＭ、全国ＣＡＴＶで視聴可能。詳しくは番組ＨＰまで。",
+  "start": 1718997540000,
+  "end": 1719000240000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 18
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
