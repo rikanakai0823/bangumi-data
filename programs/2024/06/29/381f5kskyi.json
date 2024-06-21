@@ -1,0 +1,29 @@
+{
+  "id": "381f5kskyi",
+  "category": "sports",
+  "title": "第１０８回　日本陸上選手権",
+  "fullTitle": "第１０８回　日本陸上選手権🈑",
+  "detail": "～デンカビッグスワンスタジアムから中継～\n◇番組内容\n［総合２で放送継続］",
+  "start": 1719646200000,
+  "end": 1719651540000,
+  "seconds": 5340,
+  "description": "～デンカビッグスワンスタジアムから中継～",
+  "extra": {
+    "番組内容": "［総合２で放送継続］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "日本陸上選手権🈑",
+  "episode": 108,
+  "flags": [
+    "字"
+  ]
+}

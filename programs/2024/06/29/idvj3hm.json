@@ -1,0 +1,23 @@
+{
+  "id": "idvj3hm",
+  "category": "information",
+  "title": "医療番組",
+  "fullTitle": "医療番組",
+  "detail": "",
+  "start": 1719642600000,
+  "end": 1719644400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

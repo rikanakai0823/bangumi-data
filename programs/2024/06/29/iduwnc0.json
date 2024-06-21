@@ -1,0 +1,26 @@
+{
+  "id": "iduwnc0",
+  "category": "cinema",
+  "title": "ウィンター・ウォー",
+  "fullTitle": "🈙🅍ウィンター・ウォー",
+  "detail": "第二次世界大戦末期、フランスのアルザス地方で繰り広げられたフランス軍対ドイツ軍の壮絶な攻防戦を題材にした戦争アクション。",
+  "start": 1719615600000,
+  "end": 1719624600000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
