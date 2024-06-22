@@ -1,0 +1,25 @@
+{
+  "id": "idt8nss",
+  "category": "information",
+  "title": "シンデレラ通販",
+  "fullTitle": "シンデレラ通販🈑",
+  "detail": "便利な商品をお届け",
+  "start": 1719043200000,
+  "end": 1719045000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東２",
+    "id": "8krw",
+    "sid": 172,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 55
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

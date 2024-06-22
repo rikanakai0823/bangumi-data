@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "麺鉄",
   "fullTitle": "🈑麺鉄",
-  "detail": "",
+  "detail": "◇制作\n2024年",
   "start": 1719655200000,
   "end": 1719662040000,
   "seconds": 6840,
+  "description": "",
+  "extra": {
+    "制作": "2024年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
