@@ -1,0 +1,25 @@
+{
+  "id": "idwxalo",
+  "category": "sports",
+  "title": "グリーンチャンネル地方競馬中継(サファイア賞・盛岡）(佐賀ユースカップ・佐賀)",
+  "fullTitle": "🈢グリーンチャンネル地方競馬中継(サファイア賞・盛岡）(佐賀ユースカップ・佐賀)",
+  "detail": "サファイア賞(盛岡)、佐賀ユースカップ(佐賀)",
+  "start": 1719734400000,
+  "end": 1719739800000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iduwqza",
+  "category": "cinema",
+  "title": "海街クルムペンション",
+  "fullTitle": "🈙海街クルムペンション",
+  "detail": "［全世界初公開］元ＧＦＲＩＥＮＤイェリン主演のヒーリング三角関係のんびり青春ドラマ。スターチャンネルが本国含め世界初公開",
+  "start": 1719725400000,
+  "end": 1719735300000,
+  "seconds": 9900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}
