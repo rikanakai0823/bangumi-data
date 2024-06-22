@@ -1,0 +1,23 @@
+{
+  "id": "idtasom",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10Ｒ日野特別、11Ｒ江の島Ｓ\r\n【京都】10ＲストークＳ、11Ｒ天保山Ｓ\r\n【函館】11Ｒ青函Ｓ",
+  "start": 1719034200000,
+  "end": 1719039600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}

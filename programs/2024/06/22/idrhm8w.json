@@ -1,0 +1,23 @@
+{
+  "id": "idrhm8w",
+  "category": "information",
+  "title": "ＢＳ４Ｋ８Ｋ衛星放送で見ようよ！キャンペーン",
+  "fullTitle": "ＢＳ４Ｋ８Ｋ衛星放送で見ようよ！キャンペーン",
+  "detail": "6月22日（土）から民放５社とＮＨＫがタッグを組んでBS4K8Kキャンペーンを開催！\r\n4K8Kの魅力や各局が誇る珠玉のラインナップを一挙に紹介します！",
+  "start": 1719032100000,
+  "end": 1719032400000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
