@@ -1,0 +1,23 @@
+{
+  "id": "idtrj7a",
+  "category": "variety",
+  "title": "ハートフルTV  「虫の知らせ」",
+  "fullTitle": "ハートフルTV  「虫の知らせ」",
+  "detail": "小さな喫茶店「虫の知らせ」に愉快なお客様が来店！",
+  "start": 1719759600000,
+  "end": 1719761400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "虫の知らせ",
+  "episode": 1,
+  "flags": []
+}

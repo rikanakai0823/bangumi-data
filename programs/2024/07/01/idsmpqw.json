@@ -1,0 +1,23 @@
+{
+  "id": "idsmpqw",
+  "category": "etc",
+  "title": "この時間帯は１６１ｃｈをご覧ください",
+  "fullTitle": "この時間帯は１６１ｃｈをご覧ください",
+  "detail": "",
+  "start": 1719829380000,
+  "end": 1719835200000,
+  "seconds": 5820,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
