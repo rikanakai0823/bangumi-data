@@ -1,0 +1,23 @@
+{
+  "id": "idsoub0",
+  "category": "information",
+  "title": "ウィークエンドマーケット",
+  "fullTitle": "ウィークエンドマーケット",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1719095400000,
+  "end": 1719097200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
