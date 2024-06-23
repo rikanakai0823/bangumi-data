@@ -1,0 +1,23 @@
+{
+  "id": "idtv4kx",
+  "category": "information",
+  "title": "ビックカメラテレビショッピング",
+  "fullTitle": "ビックカメラテレビショッピング",
+  "detail": "",
+  "start": 1719109740000,
+  "end": 1719111600000,
+  "seconds": 1860,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
