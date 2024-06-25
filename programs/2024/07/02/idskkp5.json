@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "いぬじかん",
   "fullTitle": "🈑いぬじかん",
-  "detail": "",
+  "detail": "◇制作\n2024年",
   "start": 1719925200000,
   "end": 1719928440000,
   "seconds": 3240,
+  "description": "",
+  "extra": {
+    "制作": "2024年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
