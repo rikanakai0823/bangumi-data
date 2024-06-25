@@ -1,0 +1,26 @@
+{
+  "id": "idrdc7n",
+  "category": "anime",
+  "title": "アニメ　呪術廻戦",
+  "fullTitle": "🈟🈑アニメ　呪術廻戦",
+  "detail": "",
+  "start": 1719934500000,
+  "end": 1719936300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "新",
+    "字"
+  ]
+}
