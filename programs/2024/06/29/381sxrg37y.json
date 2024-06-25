@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "土曜☆ブレイク「今月あと１万円しかない！これがボクらの生きる道」",
   "fullTitle": "土曜☆ブレイク「今月あと１万円しかない！これがボクらの生きる道」🈑",
-  "detail": "番組情報決定までしばらくお待ち下さい。",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/only1manyen_tbs/",
   "start": 1719642600000,
   "end": 1719646200000,
   "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/only1manyen_tbs/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
