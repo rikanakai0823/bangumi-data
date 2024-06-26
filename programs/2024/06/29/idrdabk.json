@@ -3,10 +3,15 @@
   "category": "sports",
   "title": "ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２４　「巨人×広島」　～東京ドーム",
   "fullTitle": "🈓ＤＲＡＭＡＴＩＣ　ＢＡＳＥＢＡＬＬ　２０２４　「巨人×広島」　～東京ドーム",
-  "detail": "",
+  "detail": "◇出演者\n【解説】荒木大輔\r\n【実況】町田浩徳\n◇ホームページ\nhttps://www.bs4.jp/baseball/",
   "start": 1719637200000,
   "end": 1719647640000,
   "seconds": 10440,
+  "description": "",
+  "extra": {
+    "出演者": "【解説】荒木大輔\r\n【実況】町田浩徳",
+    "ホームページ": "https://www.bs4.jp/baseball/"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS13_0",

@@ -3,10 +3,15 @@
   "category": "variety",
   "title": "テレビショッピング",
   "fullTitle": "テレビショッピング",
-  "detail": "【テレビショッピング】をお送りします。",
+  "detail": "【テレビショッピング】をお送りします。\n◇【番組内容】\n今、欲しいが見つかる、お得なショッピング情報をお届け。\n◇【お知らせ】\nBSよしもとの番組情報はコチラから！\r\n◆BSよしもとWebサイト\r\nhttps://bsy.co.jp/\r\n◆BSよしもとX(旧Twitter)\r\n@bsyoshimoto\r\n◆BSよしもとYouTube\r\nhttps://www.youtube.com/@bsyoshimoto/videos",
   "start": 1719907200000,
   "end": 1719909000000,
   "seconds": 1800,
+  "description": "【テレビショッピング】をお送りします。",
+  "extra": {
+    "【番組内容】": "今、欲しいが見つかる、お得なショッピング情報をお届け。",
+    "【お知らせ】": "BSよしもとの番組情報はコチラから！\r\n◆BSよしもとWebサイト\r\nhttps://bsy.co.jp/\r\n◆BSよしもとX(旧Twitter)\r\n@bsyoshimoto\r\n◆BSよしもとYouTube\r\nhttps://www.youtube.com/@bsyoshimoto/videos"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS23_1",
