@@ -1,12 +1,17 @@
 {
   "id": "36tfa8gppx",
   "category": "anime",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
-  "detail": " ",
+  "title": "プロジェクトセカイ COLORFUL LIVE 3rd Blu-ray記念特番",
+  "fullTitle": "プロジェクトセカイ COLORFUL LIVE 3rd Blu-ray記念特番",
+  "detail": "「プロジェクトセカイ COLORFUL LIVE 3rd - Evolve -」Blu-ray発売を記念し、Blu-rayの収録楽曲から6曲をノーカットで放送！\n◇番組内容\nスマートフォン向けゲーム『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』のリアルライブイベント 「プロジェクトセカイ COLORFUL LIVE 3rd - Evolve -」のBlu-ray発売を記念し、Blu-rayの収録楽曲から6曲をノーカットで放送します。 放送予定楽曲：「仮死化」「Mr. Showtime」「てらてら」「パラソルサイダー」「バグ」「アイムマイン」\n◇出演者\n【ナレーション】野口 瑠璃子",
   "start": 1719666000000,
   "end": 1719667800000,
   "seconds": 1800,
+  "description": "「プロジェクトセカイ COLORFUL LIVE 3rd - Evolve -」Blu-ray発売を記念し、Blu-rayの収録楽曲から6曲をノーカットで放送！",
+  "extra": {
+    "番組内容": "スマートフォン向けゲーム『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』のリアルライブイベント 「プロジェクトセカイ COLORFUL LIVE 3rd - Evolve -」のBlu-ray発売を記念し、Blu-rayの収録楽曲から6曲をノーカットで放送します。 放送予定楽曲：「仮死化」「Mr. Showtime」「てらてら」「パラソルサイダー」「バグ」「アイムマイン」",
+    "出演者": "【ナレーション】野口 瑠璃子"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 34
   },
-  "subTitle": "",
+  "subTitle": "プロジェクトセカイ COLORFUL LIVE 3rd - Evolve -",
   "episode": 1,
   "flags": []
 }

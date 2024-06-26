@@ -1,0 +1,25 @@
+{
+  "id": "idozunw",
+  "category": "sports",
+  "title": "プロ野球２０２４　ゆる～く深く！プロ野球「ＤｅＮＡ」対「ヤクルト」",
+  "fullTitle": "プロ野球２０２４　ゆる～く深く！プロ野球「ＤｅＮＡ」対「ヤクルト」🈑",
+  "detail": "　（試合開始　６：００）　【解説】矢野燿大，石川雄洋，五十嵐亮太，【アナウンサー】宮田貴行",
+  "start": 1720081800000,
+  "end": 1720096200000,
+  "seconds": 14400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "ヤクルト",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

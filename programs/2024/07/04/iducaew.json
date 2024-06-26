@@ -1,0 +1,27 @@
+{
+  "id": "iducaew",
+  "category": "cinema",
+  "title": "春に散る",
+  "fullTitle": "🈙春に散る🅍🈑",
+  "detail": "佐藤浩市と横浜流星がＷ主演したスポーツムービー。米国から４０年ぶりに帰国してトレーナーとなった元ボクサーは一度引退した若きボクサーをチャンピオンにしようと挑む。",
+  "start": 1720082700000,
+  "end": 1720090800000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}
