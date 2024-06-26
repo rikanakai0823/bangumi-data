@@ -1,8 +1,8 @@
 {
   "id": "36h6jr1ltw",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
+  "category": "information",
+  "title": "Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・毎日笑顔テレビショッピング",
+  "fullTitle": "Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・毎日笑顔テレビショッピング🅂",
   "detail": "",
   "start": 1719811800000,
   "end": 1719813600000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
