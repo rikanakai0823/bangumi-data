@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【JUNGLE特集】\r\nJUNGLE インタビュー\r\nJUNGLE\"Back On 74\"\r\nJUNGLE feat. ERICK THE ARCHITECT\"Candle Flame\"\n◇番組内容２\nBILLIE EILISH\"CHIHIRO\"\r\nIMAGINE DRAGONS\"Nice to Meet You\"",
   "start": 1719846000000,
   "end": 1719847800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【JUNGLE特集】\r\nJUNGLE インタビュー\r\nJUNGLE\"Back On 74\"\r\nJUNGLE feat. ERICK THE ARCHITECT\"Candle Flame\"",
+    "番組内容２": "BILLIE EILISH\"CHIHIRO\"\r\nIMAGINE DRAGONS\"Nice to Meet You\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",

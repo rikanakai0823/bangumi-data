@@ -1,0 +1,23 @@
+{
+  "id": "idsmpfq",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ・プロ野球　ＤｅＮＡ　ｖｓ　巨人",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ・プロ野球　ＤｅＮＡ　ｖｓ　巨人",
+  "detail": "横浜から生中継。午後６時試合開始。\r\nよる８時５３分以降試合が続いた場合は１６２ｃｈで試合終了まで放送\r\n【解説】佐々木主浩【実況】小笠原亘",
+  "start": 1719478800000,
+  "end": 1719489180000,
+  "seconds": 10380,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
