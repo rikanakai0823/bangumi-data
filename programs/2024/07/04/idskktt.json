@@ -1,9 +1,9 @@
 {
   "id": "idskktt",
-  "category": "etc",
-  "title": "ＭＵＳＩＣ　Ｘ",
-  "fullTitle": "ＭＵＳＩＣ　Ｘ",
-  "detail": "",
+  "category": "music",
+  "title": "ＭＵＳＩＣ　Ｘ▼あなたに伝えたい愛の歌を特集！",
+  "fullTitle": "ＭＵＳＩＣ　Ｘ▼あなたに伝えたい愛の歌を特集！",
+  "detail": "今回はあなたに伝えたい愛の歌！池田聡　中西圭三　宮本美季　五条院凌（ピアニスト）　今夜からスタートの新コーナー「昭和歌謡音楽遺産」では八代亜紀の名曲を紹介！",
   "start": 1720094400000,
   "end": 1720097640000,
   "seconds": 3240,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 51
   },
-  "subTitle": "",
+  "subTitle": "昭和歌謡音楽遺産",
   "episode": 1,
   "flags": []
 }
