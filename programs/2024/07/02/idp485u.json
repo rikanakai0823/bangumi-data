@@ -1,0 +1,23 @@
+{
+  "id": "idp485u",
+  "category": "etc",
+  "title": "ご覧のチャンネルは７／１（月）午前０時に終了します　※６／３０（日）深夜",
+  "fullTitle": "ご覧のチャンネルは７／１（月）午前０時に終了します　※６／３０（日）深夜",
+  "detail": "",
+  "start": 1719892800000,
+  "end": 1719921600000,
+  "seconds": 28800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_1",
+    "name": "ＮＨＫ",
+    "id": "8kpz",
+    "sid": 103,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 43
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
