@@ -1,0 +1,23 @@
+{
+  "id": "idwqlpa",
+  "category": "hobby",
+  "title": "放送大学クラシックス",
+  "fullTitle": "放送大学クラシックス",
+  "detail": "「外国語への招待　マレーシア語('92)」",
+  "start": 1720261800000,
+  "end": 1720264500000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "外国語への招待　マレーシア語('92)",
+  "episode": 1,
+  "flags": []
+}

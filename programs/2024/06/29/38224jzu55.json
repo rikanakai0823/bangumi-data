@@ -1,0 +1,23 @@
+{
+  "id": "38224jzu55",
+  "category": "news",
+  "title": "朝まで生テレビ！",
+  "fullTitle": "朝まで生テレビ！",
+  "detail": "1987年スタートの深夜討論番組。今月は『激論！ド～する？！日本の未来～人口減少と移民の是非～』をお送りします。",
+  "start": 1719592200000,
+  "end": 1719602700000,
+  "seconds": 10500,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 22
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
