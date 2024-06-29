@@ -1,0 +1,25 @@
+{
+  "id": "idy5jv0",
+  "category": "cinema",
+  "title": "ミンナのウタ　【日曜邦画劇場】",
+  "fullTitle": "🈙ミンナのウタ　【日曜邦画劇場】",
+  "detail": "出演：GENERATIONS（白濱亜嵐・片寄涼太・小森 隼・佐野玲於・関口メンディー・中務裕太・数原龍友）／早見あかり　監督：清水崇　※ＴＶ初（2023年　103分）",
+  "start": 1720346400000,
+  "end": 1720353600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_1",
+    "name": "日本映画専門ｃｈ",
+    "id": "8ku7",
+    "sid": 255,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 79
+  },
+  "subTitle": "日曜邦画劇場",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

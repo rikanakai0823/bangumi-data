@@ -1,0 +1,26 @@
+{
+  "id": "idvj3qc",
+  "category": "sports",
+  "title": "ＢＳイレブン競馬中継　第１部",
+  "fullTitle": "🈢🈓ＢＳイレブン競馬中継　第１部",
+  "detail": "【福島】５Ｒ～８Ｒ、９Ｒ「織姫賞」\r\n【小倉】５Ｒ～８Ｒ、９Ｒ「八女特別」\r\n\r\n【展望】ＧⅢ『七夕賞』（福島）\r\nＧⅢ『プロキオンステークス』（小倉）",
+  "start": 1720321200000,
+  "end": 1720332000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生",
+    "デ"
+  ]
+}
