@@ -1,0 +1,25 @@
+{
+  "id": "idtvtid",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ　福島：ラジオNIKKEI賞　小倉：北九州記念　ダブルGⅢ",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ　福島：ラジオNIKKEI賞　小倉：北九州記念　ダブルGⅢ",
+  "detail": "福島：ラジオNIKKEI賞（GⅢ）小倉：北九州記念（GⅢ）函館：巴賞／解説：横山英二（競馬エイト）ゲスト：ほのか／夏の福島＆小倉開催がスタート！",
+  "start": 1719727200000,
+  "end": 1719730800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
