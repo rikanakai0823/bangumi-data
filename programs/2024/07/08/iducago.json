@@ -1,0 +1,26 @@
+{
+  "id": "iducago",
+  "category": "cinema",
+  "title": "メランコリア（字幕版）",
+  "fullTitle": "🈙メランコリア（字幕版）🅍",
+  "detail": "鬼才Ｌ・フォン・トリアーが監督。泣いても笑っても世界はこれっきりで終わり。この世の終末に立ち会う人々を圧巻の映像美で綴り、世界中をあっと言わせた、衝撃の問題作。",
+  "start": 1720375200000,
+  "end": 1720383600000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
