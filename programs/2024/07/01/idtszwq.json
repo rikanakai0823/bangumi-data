@@ -1,0 +1,23 @@
+{
+  "id": "idtszwq",
+  "category": "information",
+  "title": "ジャパネットたかたテレビショッピング",
+  "fullTitle": "ジャパネットたかたテレビショッピング",
+  "detail": "",
+  "start": 1719815280000,
+  "end": 1719817200000,
+  "seconds": 1920,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８２",
+    "id": "8ks6",
+    "sid": 182,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 58
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
