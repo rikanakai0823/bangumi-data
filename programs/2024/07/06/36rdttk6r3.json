@@ -3,13 +3,15 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\n。",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\n。\n◇番組内容１\nMR.BIG / Up On You\r\nVAN HALEN / Top Of The World\r\nVAN HALEN / Poundcake (Live at the West End Marketplace, Dallas, TX, 12/4/1991)\n◇番組内容２\nTUK SMITH & THE RESTLESS HEARTS / Take The Long Way\r\nMANESKIN / Off My Face",
   "start": 1720274400000,
   "end": 1720276200000,
   "seconds": 1800,
   "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
   "extra": {
-    "番組内容": "。"
+    "番組内容": "。",
+    "番組内容１": "MR.BIG / Up On You\r\nVAN HALEN / Top Of The World\r\nVAN HALEN / Poundcake (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
+    "番組内容２": "TUK SMITH & THE RESTLESS HEARTS / Take The Long Way\r\nMANESKIN / Off My Face"
   },
   "channel": {
     "type": "GR",
