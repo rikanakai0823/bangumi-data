@@ -1,0 +1,26 @@
+{
+  "id": "idtqrnm",
+  "category": "sports",
+  "title": "ＢＳフジＬＩＶＥプロ野球２０２４　広島×巨人　※延長時182ｃｈ",
+  "fullTitle": "🈢🈕ＢＳフジＬＩＶＥプロ野球２０２４　広島×巨人　※延長時182ｃｈ",
+  "detail": "広島東洋カープと読売ジャイアンツの熱い試合を、マツダ スタジアムから生中継！",
+  "start": 1720515600000,
+  "end": 1720526040000,
+  "seconds": 10440,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生",
+    "多"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idygodc",
+  "category": "sports",
+  "title": "ＢＳ松竹東急　ベースボールシアター　オリックスVSソフトバンク",
+  "fullTitle": "🈢ＢＳ松竹東急　ベースボールシアター　オリックスVSソフトバンク",
+  "detail": "２０２４年プロ野球生中継。オリックス・バファローズVS福岡ソフトバンクホークス",
+  "start": 1720515540000,
+  "end": 1720531800000,
+  "seconds": 16260,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
