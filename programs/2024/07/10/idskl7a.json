@@ -1,0 +1,23 @@
+{
+  "id": "idskl7a",
+  "category": "information",
+  "title": "情報セレクト",
+  "fullTitle": "情報セレクト",
+  "detail": "選りすぐりの商品をご紹介！",
+  "start": 1720565640000,
+  "end": 1720566000000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krl",
+    "sid": 161,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 51
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

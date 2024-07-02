@@ -1,0 +1,26 @@
+{
+  "id": "iduwc2w",
+  "category": "cinema",
+  "title": "ムーンライズ・キングダム",
+  "fullTitle": "🈙🅍ムーンライズ・キングダム",
+  "detail": "豪華スター共演のコメディドラマ。小島で起きた１２歳カップルの逃避行と周囲の大人たちの騒動を描く。［ＰＧ１２］",
+  "start": 1720544400000,
+  "end": 1720550700000,
+  "seconds": 6300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

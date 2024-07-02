@@ -1,0 +1,23 @@
+{
+  "id": "idrdavc",
+  "category": "information",
+  "title": "ジャパ得！ＢＳショッピング",
+  "fullTitle": "ジャパ得！ＢＳショッピング",
+  "detail": "ジャパネットたかたテレビショッピング。人気の家電製品やワクワクするような食品など生活を豊かにする素敵な商品をご紹介いたします！",
+  "start": 1720553400000,
+  "end": 1720555200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

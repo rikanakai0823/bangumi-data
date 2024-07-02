@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l1pu",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「フォーチュネイトあさがお特別」「こと座特別」「第１４回　優駿スプリント（ＳⅡ）」「デネブ賞」",
+  "start": 1720592400000,
+  "end": 1720612800000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "優駿スプリント（ＳⅡ）",
+  "episode": 14,
+  "flags": []
+}

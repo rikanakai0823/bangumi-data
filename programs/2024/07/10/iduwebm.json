@@ -1,0 +1,26 @@
+{
+  "id": "iduwebm",
+  "category": "cinema",
+  "title": "ジョン・ウィック：パラベラム",
+  "fullTitle": "🈙🅍ジョン・ウィック：パラベラム",
+  "detail": "キアヌ・リーヴス主演の大ヒットアクション第３弾。裏社会を追われた伝説の殺し屋が、生き残りを賭けた死闘を展開。［Ｒ１５＋］",
+  "start": 1720588200000,
+  "end": 1720596600000,
+  "seconds": 8400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
