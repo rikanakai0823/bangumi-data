@@ -1,0 +1,23 @@
+{
+  "id": "idozvv7",
+  "category": "news",
+  "title": "クローズアップ現代",
+  "fullTitle": "クローズアップ現代",
+  "detail": "【キャスター】桑子真帆",
+  "start": 1720639800000,
+  "end": 1720641480000,
+  "seconds": 1680,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "キャスター",
+  "episode": 1,
+  "flags": []
+}
