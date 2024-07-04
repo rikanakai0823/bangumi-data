@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【PAUL WELLER特集】\r\nPAUL WELLER インタビュー\r\n\"Nothing\"\r\n\"I Woke Up\"\n◇番組内容２\nFROM ASHES TO NEW feat.CHRISSY from AGAINST THE CURRENT\"Barely Breathing\"\r\nCHRIS BROWN\"Press Me\"\r\nEMINEM\"Houdini\"",
   "start": 1720450800000,
   "end": 1720452600000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【PAUL WELLER特集】\r\nPAUL WELLER インタビュー\r\n\"Nothing\"\r\n\"I Woke Up\"",
+    "番組内容２": "FROM ASHES TO NEW feat.CHRISSY from AGAINST THE CURRENT\"Barely Breathing\"\r\nCHRIS BROWN\"Press Me\"\r\nEMINEM\"Houdini\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
