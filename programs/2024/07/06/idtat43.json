@@ -1,0 +1,23 @@
+{
+  "id": "idtat43",
+  "category": "sports",
+  "title": "ウイニング競馬～福島～",
+  "fullTitle": "ウイニング競馬～福島～",
+  "detail": "【福島】10Ｒ猪苗代特別、11Ｒ鶴ヶ城Ｓ\r\n【小倉】10Ｒ西部スポニチ賞、11Ｒ釜山Ｓ\r\n【函館】11ＲマリーンＳ",
+  "start": 1720243800000,
+  "end": 1720249200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_2",
+    "name": "ＢＳテレ東３",
+    "id": "8krx",
+    "sid": 173,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 56
+  },
+  "subTitle": "福島",
+  "episode": 1,
+  "flags": []
+}
