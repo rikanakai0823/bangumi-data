@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "おんな酒場放浪記",
   "fullTitle": "🈑おんな酒場放浪記",
-  "detail": "",
+  "detail": "◇制作\n2024年",
   "start": 1720792800000,
   "end": 1720796400000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "制作": "2024年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
