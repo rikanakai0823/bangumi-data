@@ -1,0 +1,25 @@
+{
+  "id": "idy8sei",
+  "category": "cinema",
+  "title": "モアナと伝説の海",
+  "fullTitle": "モアナと伝説の海🈔",
+  "detail": "南の楽園、モトゥヌイで、伝説を聞いて育った少女モアナ。不穏な出来事が起こり始めた、島を救うという自分の運命を知ったモアナは、禁じられた大海原への航海へと旅立つ。",
+  "start": 1720951200000,
+  "end": 1720958400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}

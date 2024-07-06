@@ -1,0 +1,23 @@
+{
+  "id": "idrdb2q",
+  "category": "information",
+  "title": "汐留ＴＶ！～こちら、汐テレ★さきどり女子部～",
+  "fullTitle": "汐留ＴＶ！～こちら、汐テレ★さきどり女子部～",
+  "detail": "",
+  "start": 1720965240000,
+  "end": 1720965600000,
+  "seconds": 360,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr1",
+    "sid": 141,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 45
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

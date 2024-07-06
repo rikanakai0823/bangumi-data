@@ -1,0 +1,26 @@
+{
+  "id": "iduwon8",
+  "category": "cinema",
+  "title": "シークレット・ミッション",
+  "fullTitle": "🈙🅍シークレット・ミッション",
+  "detail": "韓国の人気ウェブ漫画を映画化したサスペンスアクション。北朝鮮のエリートスパイ３人が繰り広げる潜入ミッションの行方を描く。",
+  "start": 1720886400000,
+  "end": 1720894500000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
