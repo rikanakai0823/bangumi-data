@@ -1,0 +1,25 @@
+{
+  "id": "idtv27o",
+  "category": "sports",
+  "title": "第９１回日本プロゴルフ選手権大会　３日目",
+  "fullTitle": "🈢第９１回日本プロゴルフ選手権大会　３日目",
+  "detail": "富士カントリー可児クラブ志野コースで繰り広げられる4日間の激闘！BSフジでは熱戦の模様を連日お届け！",
+  "start": 1720234800000,
+  "end": 1720245600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 91,
+  "flags": [
+    "生"
+  ]
+}
