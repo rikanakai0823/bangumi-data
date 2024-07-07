@@ -1,0 +1,23 @@
+{
+  "id": "idrhl2s",
+  "category": "cinema",
+  "title": "映画「スピード2」",
+  "fullTitle": "映画「スピード2」",
+  "detail": "シージャックされた豪華客船を舞台にした、\r\n陸・海・空の見せ場満載の巨大スケールエンターテインメント！！",
+  "start": 1720348200000,
+  "end": 1720355040000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
