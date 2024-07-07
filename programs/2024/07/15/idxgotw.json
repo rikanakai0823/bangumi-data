@@ -1,0 +1,23 @@
+{
+  "id": "idxgotw",
+  "category": "sports",
+  "title": "メジャーリーグ中継2023 ホームランダービー(7/10)",
+  "fullTitle": "メジャーリーグ中継2023 ホームランダービー(7/10)",
+  "detail": "【7月17日オールスターゲーム開催】\r\nMLB中継 ～ALL STAR WEEK～\r\n\r\n解説：多村仁志、AKI猪瀬\r\n実況：谷口廣明\r\n開催日：2023年7月10日(現地)",
+  "start": 1721007000000,
+  "end": 1721019600000,
+  "seconds": 12600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_2",
+    "name": "Ｊ　ＳＰＯＲＴＳ　２",
+    "id": "8ktv",
+    "sid": 243,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 74
+  },
+  "subTitle": "7月17日オールスターゲーム開催",
+  "episode": 1,
+  "flags": []
+}

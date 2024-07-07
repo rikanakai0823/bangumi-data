@@ -1,0 +1,25 @@
+{
+  "id": "idugln4",
+  "category": "cinema",
+  "title": "サブウェイ（字幕版）",
+  "fullTitle": "🈙サブウェイ（字幕版）",
+  "detail": "「レオン」などのヒットメーカー、Ｌ・ベッソンの監督第２作。全編ほとんどがパリの地下鉄構内で展開するという、ベッソンらしい斬新なアイデアが光る都会派サスペンス。",
+  "start": 1721006400000,
+  "end": 1721013000000,
+  "seconds": 6600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "レオン",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

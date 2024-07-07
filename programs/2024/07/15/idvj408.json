@@ -1,0 +1,25 @@
+{
+  "id": "idvj408",
+  "category": "sports",
+  "title": "ＢＳイレブン住之江ボートレース中継",
+  "fullTitle": "🈢ＢＳイレブン住之江ボートレース中継",
+  "detail": "『ＧⅢ第35回アサヒビールカップ』最終日のレース模様を、実況生中継！\r\n企画も盛りだくさんに、ボートレースの楽しさを発信します！",
+  "start": 1721041200000,
+  "end": 1721044680000,
+  "seconds": 3480,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_0",
+    "name": "ＢＳ１１イレブン",
+    "id": "8ksz",
+    "sid": 211,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 66
+  },
+  "subTitle": "",
+  "episode": 35,
+  "flags": [
+    "生"
+  ]
+}
