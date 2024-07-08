@@ -1,0 +1,26 @@
+{
+  "id": "idozy8x",
+  "category": "sports",
+  "title": "プロ野球２０２４「巨人」対「阪神」",
+  "fullTitle": "プロ野球２０２４「巨人」対「阪神」🈕🈑",
+  "detail": "　※副音声は球場音声　（試合開始　６：００）　【解説】大野豊，伊東勤，【アナウンサー】塚本貴之　～東京ドームから中継～",
+  "start": 1721120400000,
+  "end": 1721131200000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "阪神",
+  "episode": 1,
+  "flags": [
+    "多",
+    "字"
+  ]
+}

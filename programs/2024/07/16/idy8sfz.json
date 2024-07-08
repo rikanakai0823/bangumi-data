@@ -1,0 +1,25 @@
+{
+  "id": "idy8sfz",
+  "category": "anime",
+  "title": "アウルハウス#1-2★夏休み特別放送",
+  "fullTitle": "アウルハウス#1-2🈔★夏休み特別放送",
+  "detail": "ディズニー・チャンネル人気番組を夏休み特別放送！#1「ウソつき魔女と怒りの番人」、#2「魔法使いの試練」",
+  "start": 1721134800000,
+  "end": 1721138400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_0",
+    "name": "ディズニーｃｈ",
+    "id": "8ku8",
+    "sid": 256,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 80
+  },
+  "subTitle": "ウソつき魔女と怒りの番人",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
