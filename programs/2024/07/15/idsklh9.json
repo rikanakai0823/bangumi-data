@@ -1,12 +1,16 @@
 {
   "id": "idsklh9",
   "category": "documentary",
-  "title": "夢の彼方に・ヨーロッパの街角",
-  "fullTitle": "夢の彼方に・ヨーロッパの街角",
-  "detail": "",
+  "title": "夢の彼方に・ハワイ編",
+  "fullTitle": "夢の彼方に・ハワイ編",
+  "detail": "◇制作\n2013年",
   "start": 1720980000000,
-  "end": 1720983600000,
-  "seconds": 3600,
+  "end": 1720985400000,
+  "seconds": 5400,
+  "description": "",
+  "extra": {
+    "制作": "2013年"
+  },
   "channel": {
     "type": "BS",
     "channel": "BS01_1",
