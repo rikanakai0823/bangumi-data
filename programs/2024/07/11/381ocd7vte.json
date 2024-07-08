@@ -3,10 +3,15 @@
   "category": "variety",
   "title": "ＡｐａｒｔｍｅｎｔＢ",
   "fullTitle": "ＡｐａｒｔｍｅｎｔＢ",
-  "detail": "",
+  "detail": "サックスの馬場智章、ピアノのJIN INOUEを迎えたジャズ回。SHUNTO、REIKOと「はじめてのチュウ」やあの名曲をセッション。ジャズを語り歌い踊ります。\n◇出演者\n馬場智章、JIN INOUE\r\nSHUNTO（BE:FIRST）、REIKO\r\nLEO（ALI）、荘子it（Dos Monos）、アオイヤマダ\n◇番組内容\n今夜は待望のジャズ特集。テナーサックスの馬場智章、ピアノのJIN INOUEを迎えて、ジャズの起源や初心者にオススメの聴き方、ジャズの本質などを語り合います。さらには「ちょっとだけジャズっぽく弾く」ピアノ講座も。\r\nそしてもちろんセッションも。SHUNTO(BE:FIRST)、REIKOとともに「はじめてのチュウ」やあの名曲のジャズバージョンをお届けします。\r\nジャジーなリビングをぜひご一緒に。",
   "start": 1720627140000,
   "end": 1720628940000,
   "seconds": 1800,
+  "description": "サックスの馬場智章、ピアノのJIN INOUEを迎えたジャズ回。SHUNTO、REIKOと「はじめてのチュウ」やあの名曲をセッション。ジャズを語り歌い踊ります。",
+  "extra": {
+    "出演者": "馬場智章、JIN INOUE\r\nSHUNTO（BE:FIRST）、REIKO\r\nLEO（ALI）、荘子it（Dos Monos）、アオイヤマダ",
+    "番組内容": "今夜は待望のジャズ特集。テナーサックスの馬場智章、ピアノのJIN INOUEを迎えて、ジャズの起源や初心者にオススメの聴き方、ジャズの本質などを語り合います。さらには「ちょっとだけジャズっぽく弾く」ピアノ講座も。\r\nそしてもちろんセッションも。SHUNTO(BE:FIRST)、REIKOとともに「はじめてのチュウ」やあの名曲のジャズバージョンをお届けします。\r\nジャジーなリビングをぜひご一緒に。"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
+  "subTitle": "はじめてのチュウ",
   "episode": 1,
   "flags": []
 }
