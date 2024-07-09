@@ -1,0 +1,26 @@
+{
+  "id": "iduvjhc",
+  "category": "cinema",
+  "title": "ジョン・ウィック：コンセクエンス",
+  "fullTitle": "🈙🅍ジョン・ウィック：コンセクエンス",
+  "detail": "キアヌ・リーヴス主演、人気アクションシリーズの第４弾。裏社会を支配する組織と決着をつけるべく、ジョンが死闘を繰り広げる。",
+  "start": 1721142000000,
+  "end": 1721152800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}

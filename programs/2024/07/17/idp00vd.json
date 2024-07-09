@@ -1,0 +1,25 @@
+{
+  "id": "idp00vd",
+  "category": "information",
+  "title": "Ｄｉｇ　Ｍｏｒｅ　Ｊａｐａｎ　山の恵み",
+  "fullTitle": "Ｄｉｇ　Ｍｏｒｅ　Ｊａｐａｎ　山の恵み🈑",
+  "detail": "日本を深堀りするＤｉｇ　Ｍｏｒｅ　Ｊａｐａｎ。ＮＨＫワールドジャパンの様々な番組をギュギュッと凝縮して紹介。今回のテーマは「山の恵み」です！",
+  "start": 1721146200000,
+  "end": 1721146800000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "山の恵み",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "36l9gkun1h",
+  "category": "information",
+  "title": "ビジネストレンド　ｂサーチ",
+  "fullTitle": "ビジネストレンド　ｂサーチ",
+  "detail": "◇番組内容    \nbサーチ",
+  "start": 1721220900000,
+  "end": 1721221200000,
+  "seconds": 300,
+  "description": " ",
+  "extra": {
+    "番組内容    ": "bサーチ"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
