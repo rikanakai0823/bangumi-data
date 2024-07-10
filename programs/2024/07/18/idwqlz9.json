@@ -1,0 +1,23 @@
+{
+  "id": "idwqlz9",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「大学院修了生に聞く」",
+  "start": 1721274300000,
+  "end": 1721276100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "大学院修了生に聞く",
+  "episode": 1,
+  "flags": []
+}
