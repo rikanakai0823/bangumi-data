@@ -1,0 +1,23 @@
+{
+  "id": "idsovj8",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「広島×巨人」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「広島×巨人」",
+  "detail": "広島から生中継。よる６時試合開始。よる８時５３分以降試合が続く場合は１６２ｃｈで試合終了まで放送【解説】槙原寛己、【実況】南波雅俊",
+  "start": 1720602000000,
+  "end": 1720612380000,
+  "seconds": 10380,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krn",
+    "sid": 163,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 53
+  },
+  "subTitle": "広島×巨人",
+  "episode": 1,
+  "flags": []
+}
