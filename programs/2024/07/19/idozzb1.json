@@ -1,0 +1,23 @@
+{
+  "id": "idozzb1",
+  "category": "hobby",
+  "title": "雪の魔法",
+  "fullTitle": "雪の魔法",
+  "detail": "",
+  "start": 1721325600000,
+  "end": 1721329200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

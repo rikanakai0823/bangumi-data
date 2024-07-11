@@ -1,0 +1,25 @@
+{
+  "id": "idxei46",
+  "category": "sports",
+  "title": "第95回都市対抗野球大会 1回戦 トヨタ自動車×沖縄電力",
+  "fullTitle": "[生]第95回都市対抗野球大会 1回戦 トヨタ自動車×沖縄電力",
+  "detail": "■#1 第1試合\r\nトヨタ自動車(豊田市)×沖縄電力(浦添市)\r\n\r\n解説：坂口裕之(元ENEOS監督)\r\n実況：上野晃",
+  "start": 1721378700000,
+  "end": 1721394000000,
+  "seconds": 15300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "第1試合",
+  "episode": 95,
+  "flags": [
+    "生"
+  ]
+}

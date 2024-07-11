@@ -1,0 +1,26 @@
+{
+  "id": "iduglog",
+  "category": "cinema",
+  "title": "２ガンズ（字幕版）",
+  "fullTitle": "🈙２ガンズ（字幕版）🅍",
+  "detail": "Ｄ・ワシントンとＭ・ウォールバーグという２大スターの共演が実現した痛快アクション。右を向いても左を向いても悪党だらけ。そんな汚れきった世界で最後に笑うのは誰だ？",
+  "start": 1721344500000,
+  "end": 1721351700000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS"
+  ]
+}
