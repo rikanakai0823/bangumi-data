@@ -1,0 +1,27 @@
+{
+  "id": "iduglos",
+  "category": "cinema",
+  "title": "決算！忠臣蔵",
+  "fullTitle": "🈙決算！忠臣蔵🅍🈑",
+  "detail": "堤真一と岡村隆史がＷ主演したエンターテインメント時代劇。藩主が起こした刃傷沙汰でお取りつぶしとなる赤穂藩。限られた予算内で討ち入りの準備をする浪人の奮闘を描く。",
+  "start": 1721424000000,
+  "end": 1721431800000,
+  "seconds": 7800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

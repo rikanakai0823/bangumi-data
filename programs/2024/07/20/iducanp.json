@@ -1,0 +1,23 @@
+{
+  "id": "iducanp",
+  "category": "theater",
+  "title": "井上芳雄ミュージカルアワー「芳雄のミュー」　＃１５",
+  "fullTitle": "井上芳雄ミュージカルアワー「芳雄のミュー」　＃１５",
+  "detail": "生放送でお届け！ミュージカル界のトップスター、井上芳雄が司会を務める、トーク＆音楽ショー番組",
+  "start": 1721440800000,
+  "end": 1721444400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS03_0",
+    "name": "ＷＯＷＯＷプライム",
+    "id": "8ksf",
+    "sid": 191,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 60
+  },
+  "subTitle": "芳雄のミュー",
+  "episode": 15,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "idsm1qk",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日×巨人」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日×巨人」",
+  "detail": "バンテリンドームナゴヤから生中継。ごご２時試合開始。試合終了まで放送\r\n【解説】荒木雅博、【実況】宮部和裕（ＣＢＣアナウンサー）",
+  "start": 1721461980000,
+  "end": 1721476320000,
+  "seconds": 14340,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "中日×巨人",
+  "episode": 1,
+  "flags": []
+}

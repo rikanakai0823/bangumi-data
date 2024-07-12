@@ -1,0 +1,23 @@
+{
+  "id": "idw721r",
+  "category": "cinema",
+  "title": "土曜洋画劇場 「スリー・リバーズ」（字幕）",
+  "fullTitle": "土曜洋画劇場 「スリー・リバーズ」（字幕）",
+  "detail": "ブルース・ウィリス主演、ピッツバーグを震撼させた猟奇殺人をめぐるサスペンス。アクション。",
+  "start": 1721469600000,
+  "end": 1721476800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_2",
+    "name": "ＢＳ１２トゥエルビ",
+    "id": "8kta",
+    "sid": 222,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 67
+  },
+  "subTitle": "スリー・リバーズ",
+  "episode": 1,
+  "flags": []
+}
