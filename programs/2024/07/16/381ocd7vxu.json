@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "まだまだオモウマい店",
   "fullTitle": "まだまだオモウマい店🈑",
-  "detail": "",
+  "detail": "まだまだ続く盛りすぎカツ丼普通盛り＆次回【関東】マグロ食べ放題㊙腹パン寿司\n◇出演者\n【MC】ヒロミ\r\n【進行】小峠英二\r\n【ゲスト】髙嶋政宏、エルフ",
   "start": 1721127240000,
   "end": 1721127600000,
   "seconds": 360,
+  "description": "まだまだ続く盛りすぎカツ丼普通盛り＆次回【関東】マグロ食べ放題㊙腹パン寿司",
+  "extra": {
+    "出演者": "【MC】ヒロミ\r\n【進行】小峠英二\r\n【ゲスト】髙嶋政宏、エルフ"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 17
   },
-  "subTitle": "",
+  "subTitle": "関東",
   "episode": 1,
   "flags": [
     "字"
