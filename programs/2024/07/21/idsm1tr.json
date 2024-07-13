@@ -1,0 +1,23 @@
+{
+  "id": "idsm1tr",
+  "category": "sports",
+  "title": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日×巨人」",
+  "fullTitle": "Ｓ☆１　ＢＡＳＥＢＡＬＬ「中日×巨人」",
+  "detail": "バンテリンドームから生中継。ごご１時３０分試合開始。試合終了まで放送\r\n【解説】川上憲伸【実況】西村俊仁　（ＣＢＣアナウンサー）",
+  "start": 1721546580000,
+  "end": 1721563200000,
+  "seconds": 16620,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_1",
+    "name": "ＢＳ－ＴＢＳ",
+    "id": "8krm",
+    "sid": 162,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 52
+  },
+  "subTitle": "中日×巨人",
+  "episode": 1,
+  "flags": []
+}

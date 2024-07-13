@@ -1,0 +1,23 @@
+{
+  "id": "idygot2",
+  "category": "theater",
+  "title": "日曜ゴールデンシアター　歌舞伎「棒しばり」「野田版　愛陀姫」",
+  "fullTitle": "日曜ゴールデンシアター　歌舞伎「棒しばり」「野田版　愛陀姫」",
+  "detail": "",
+  "start": 1721556000000,
+  "end": 1721565000000,
+  "seconds": 9000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "野田版　愛陀姫",
+  "episode": 1,
+  "flags": []
+}

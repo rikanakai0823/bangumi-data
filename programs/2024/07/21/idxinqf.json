@@ -1,0 +1,25 @@
+{
+  "id": "idxinqf",
+  "category": "sports",
+  "title": "第95回都市対抗野球大会 1回戦 SUBARU×JFE西日本",
+  "fullTitle": "[生]第95回都市対抗野球大会 1回戦 SUBARU×JFE西日本",
+  "detail": "■#5 第1試合\r\nSUBARU(太田市)×JFE西日本(福山市・倉敷市)\r\n\r\n解説：玉野武知(元TDKコーチ/侍ジャパン社会人代表コーチ)\r\n実況：槇嶋範彦",
+  "start": 1721523000000,
+  "end": 1721538000000,
+  "seconds": 15000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "第1試合",
+  "episode": 95,
+  "flags": [
+    "生"
+  ]
+}

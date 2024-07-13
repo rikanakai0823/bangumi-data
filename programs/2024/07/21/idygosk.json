@@ -1,0 +1,23 @@
+{
+  "id": "idygosk",
+  "category": "sports",
+  "title": "ゴルフＷClassic　＃１２",
+  "fullTitle": "ゴルフＷClassic　＃１２",
+  "detail": "女子プロペアが、コースを知り尽くしたアマチュアペアと真剣勝負！",
+  "start": 1721507400000,
+  "end": 1721511000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 12,
+  "flags": []
+}
