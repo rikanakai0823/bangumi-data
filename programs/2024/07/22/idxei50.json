@@ -1,0 +1,25 @@
+{
+  "id": "idxei50",
+  "category": "sports",
+  "title": "第95回都市対抗野球大会 第4日 1回戦(7/22)",
+  "fullTitle": "[生]第95回都市対抗野球大会 第4日 1回戦(7/22)",
+  "detail": "■四国銀行×東邦ガス\r\n■三菱自動車岡崎×NTT西日本\r\n■東海理化×ENEOS",
+  "start": 1721609400000,
+  "end": 1721653200000,
+  "seconds": 43800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 95,
+  "flags": [
+    "生"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "381xj5onsm",
+  "category": "etc",
+  "title": "調整中＜日曜ＰＬＵＳ！＞",
+  "fullTitle": "調整中＜日曜ＰＬＵＳ！＞",
+  "detail": "",
+  "start": 1721579400000,
+  "end": 1721581200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 30
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
