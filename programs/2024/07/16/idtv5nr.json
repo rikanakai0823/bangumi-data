@@ -1,0 +1,23 @@
+{
+  "id": "idtv5nr",
+  "category": "information",
+  "title": "サン・クロレラジャパンテレビショッピング",
+  "fullTitle": "サン・クロレラジャパンテレビショッピング",
+  "detail": "",
+  "start": 1721066460000,
+  "end": 1721068200000,
+  "seconds": 1740,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８３",
+    "id": "8ks7",
+    "sid": 183,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 59
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

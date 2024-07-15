@@ -1,0 +1,28 @@
+{
+  "id": "idryogq",
+  "category": "sports",
+  "title": "マイナビオールスターゲーム2024　第1戦 ホームランダービー",
+  "fullTitle": "マイナビオールスターゲーム2024　第1戦 ホームランダービー",
+  "detail": "エスコンフィールドHOKKAIDOで行われるマイナビオールスターゲーム2024　第1戦 ホームランダービーを生中継。\n◇会場\nエスコンフィールドHOKKAIDO\n◇番組ホームページ\n＜番組ホームページはこちら！＞\r\nwww.bs-asahi.co.jp/superbaseball/",
+  "start": 1721723400000,
+  "end": 1721727000000,
+  "seconds": 3600,
+  "description": "エスコンフィールドHOKKAIDOで行われるマイナビオールスターゲーム2024　第1戦 ホームランダービーを生中継。",
+  "extra": {
+    "会場": "エスコンフィールドHOKKAIDO",
+    "番組ホームページ": "＜番組ホームページはこちら！＞\r\nwww.bs-asahi.co.jp/superbaseball/"
+  },
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日１",
+    "id": "8krb",
+    "sid": 151,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 48
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

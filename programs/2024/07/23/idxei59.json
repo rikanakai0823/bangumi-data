@@ -1,0 +1,25 @@
+{
+  "id": "idxei59",
+  "category": "sports",
+  "title": "第95回都市対抗野球大会 第5日 1回戦(7/23)",
+  "fullTitle": "[生]第95回都市対抗野球大会 第5日 1回戦(7/23)",
+  "detail": "■王子×三菱重工West\r\n■日本製紙石巻×KMGホールディングス\r\n■北海道ガス×NTT東日本",
+  "start": 1721695800000,
+  "end": 1721739600000,
+  "seconds": 43800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 95,
+  "flags": [
+    "生"
+  ]
+}

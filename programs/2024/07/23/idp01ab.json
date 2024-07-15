@@ -1,0 +1,26 @@
+{
+  "id": "idp01ab",
+  "category": "documentary",
+  "title": "フロンティア　選　発光生物　進化の謎",
+  "fullTitle": "フロンティア　選　発光生物　進化の謎🈖🈑",
+  "detail": "光るキノコ、ホタルの群舞。暗闇を幻想的な光で照らす「発光生物」は、なぜ美しい光を放つのか？最新研究と超高感度カメラの映像から、進化のドラマに迫る。",
+  "start": 1721736000000,
+  "end": 1721739600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "発光生物",
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
