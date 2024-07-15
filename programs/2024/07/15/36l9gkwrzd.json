@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwrzd",
+  "category": "sports",
+  "title": "高校野球ダイジェスト",
+  "fullTitle": "高校野球ダイジェスト",
+  "detail": "今年のキャッチコピーは「チバナツ×ドラマティック」。当日行われた全試合の結果と、手に汗握る試合の模様をダイジェストでお届けします。番組恒例応援メッセージも募集中",
+  "start": 1721048400000,
+  "end": 1721052000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "チバナツ×ドラマティック",
+  "episode": 1,
+  "flags": []
+}
