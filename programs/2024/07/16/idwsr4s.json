@@ -1,0 +1,23 @@
+{
+  "id": "idwsr4s",
+  "category": "hobby",
+  "title": "授業科目案内",
+  "fullTitle": "授業科目案内",
+  "detail": "「映像コンテンツの制作技術・身近なネットワークサービス」",
+  "start": 1721103300000,
+  "end": 1721104200000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "映像コンテンツの制作技術・身近なネットワークサービス",
+  "episode": 1,
+  "flags": []
+}
