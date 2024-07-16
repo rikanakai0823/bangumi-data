@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "高校野球ダイジェスト２０２４",
   "fullTitle": "高校野球ダイジェスト２０２４🅂",
-  "detail": "",
+  "detail": "◇出演者\n中山翔貴、石井祐里枝、りゅうせい（みたらし祭り）",
   "start": 1721476800000,
   "end": 1721478600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "中山翔貴、石井祐里枝、りゅうせい（みたらし祭り）"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
