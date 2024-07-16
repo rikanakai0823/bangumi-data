@@ -1,0 +1,25 @@
+{
+  "id": "idxei5j",
+  "category": "sports",
+  "title": "第95回都市対抗野球大会 第6日 1回戦(7/24)",
+  "fullTitle": "[生]第95回都市対抗野球大会 第6日 1回戦(7/24)",
+  "detail": "■日本生命×日本通運\r\n■三菱重工East×伏木海陸運送\r\n■日本製鉄瀬戸内×エイジェック",
+  "start": 1721782200000,
+  "end": 1721826000000,
+  "seconds": 43800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "",
+  "episode": 95,
+  "flags": [
+    "生"
+  ]
+}

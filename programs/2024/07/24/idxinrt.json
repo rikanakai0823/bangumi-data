@@ -1,0 +1,23 @@
+{
+  "id": "idxinrt",
+  "category": "sports",
+  "title": "メジャーリーグ中継2024 ドジャース×ジャイアンツ(7/23)",
+  "fullTitle": "メジャーリーグ中継2024 ドジャース×ジャイアンツ(7/23)",
+  "detail": "ロサンゼルス・ドジャース（大谷翔平／山本由伸 所属）×サンフランシスコ・ジャイアンツ\r\n\r\n解説：藪恵壹、AKI猪瀬\r\n実況：石原敬士",
+  "start": 1721811600000,
+  "end": 1721822400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

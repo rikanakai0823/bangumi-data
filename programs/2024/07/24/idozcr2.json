@@ -1,0 +1,23 @@
+{
+  "id": "idozcr2",
+  "category": "sports",
+  "title": "パリオリンピック２０２４",
+  "fullTitle": "パリオリンピック２０２４",
+  "detail": "",
+  "start": 1721825400000,
+  "end": 1721826000000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
