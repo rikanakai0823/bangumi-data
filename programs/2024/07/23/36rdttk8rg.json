@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【SUMMER SONIC 2024特集】\r\nLAUFEY\"From The Start\"\r\nPINKPANTHERESS feat. CENTRAL CEE\"Nice to meet you \"\r\nAURORA\"Starvation\"\r\nTyla\"Water\"\n◇番組内容２\nONEREPUBLIC\"Nobody (from Kaiju No. 8)\"\r\nBRING ME THE HORIZON\"Top 10 staTues tHat CriEd bloOd\"\r\nMANESKIN\"OFF MY FACE\"\r\nMANESKIN\"HONEY (ARE U COMING?)\"",
   "start": 1721660400000,
   "end": 1721662200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【SUMMER SONIC 2024特集】\r\nLAUFEY\"From The Start\"\r\nPINKPANTHERESS feat. CENTRAL CEE\"Nice to meet you \"\r\nAURORA\"Starvation\"\r\nTyla\"Water\"",
+    "番組内容２": "ONEREPUBLIC\"Nobody (from Kaiju No. 8)\"\r\nBRING ME THE HORIZON\"Top 10 staTues tHat CriEd bloOd\"\r\nMANESKIN\"OFF MY FACE\"\r\nMANESKIN\"HONEY (ARE U COMING?)\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
