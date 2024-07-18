@@ -1,0 +1,25 @@
+{
+  "id": "idxei62",
+  "category": "sports",
+  "title": "第95回都市対抗野球大会 第8日 2回戦(7/26)",
+  "fullTitle": "[生]第95回都市対抗野球大会 第8日 2回戦(7/26)",
+  "detail": "■#20 第1試合\r\n■#21 第2試合\r\n■#22 第3試合\r\n\r\n開催日：2024年7月26日\r\n球場：東京ドーム",
+  "start": 1721955000000,
+  "end": 1721998800000,
+  "seconds": 43800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "第1試合",
+  "episode": 95,
+  "flags": [
+    "生"
+  ]
+}
