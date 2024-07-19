@@ -2,7 +2,7 @@
   "id": "idys0jr",
   "category": "variety",
   "title": "Blah!Blah!Blah!「銀シャリのハガキ職人全員芸人」 #3",
-  "fullTitle": "Blah!Blah!Blah!「銀シャリのハガキ職人全員芸人」 #3",
+  "fullTitle": "🈑Blah!Blah!Blah!「銀シャリのハガキ職人全員芸人」 #3",
   "detail": "ハガキ職人が“全員芸人”という前代未聞の新番組！ハガキ職人は本名を隠し、ラジオネームで参加。毎月最終週に決まるMVPのみが顔出し紹介されるシビアなシステム！",
   "start": 1721466000000,
   "end": 1721467800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "銀シャリのハガキ職人全員芸人",
   "episode": 3,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
