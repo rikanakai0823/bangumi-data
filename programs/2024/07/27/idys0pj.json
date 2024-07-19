@@ -1,0 +1,23 @@
+{
+  "id": "idys0pj",
+  "category": "information",
+  "title": "テレビショッピング",
+  "fullTitle": "テレビショッピング",
+  "detail": "【テレビショッピング】をお送りします。",
+  "start": 1722023100000,
+  "end": 1722024000000,
+  "seconds": 900,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "テレビショッピング",
+  "episode": 1,
+  "flags": []
+}

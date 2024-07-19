@@ -1,0 +1,25 @@
+{
+  "id": "idxei6b",
+  "category": "sports",
+  "title": "第95回都市対抗野球大会 第9日 2回戦／準々決勝(7/27)",
+  "fullTitle": "[生]第95回都市対抗野球大会 第9日 2回戦／準々決勝(7/27)",
+  "detail": "【2回戦】\r\n■#23 第1試合\r\n■#24 第2試合\r\n\r\n【準々決勝】\r\n■#25 第3試合",
+  "start": 1722041400000,
+  "end": 1722085200000,
+  "seconds": 43800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "2回戦",
+  "episode": 95,
+  "flags": [
+    "生"
+  ]
+}
