@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwsbz",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜小倉１１Ｒ　中京記念（ＧⅢ）",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜小倉１１Ｒ　中京記念（ＧⅢ）",
+  "detail": "日曜小倉１１Ｒ　中京記念（ＧⅢ）\r\n土曜福島１１Ｒ　ＴＵＦ杯\r\n土曜小倉１１Ｒ　テレＱ杯\r\n土曜札幌１１Ｒ　ＴＶｈ賞",
+  "start": 1721390400000,
+  "end": 1721392200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 11
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
