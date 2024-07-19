@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "サンバリュ「変顔スパイ」",
   "fullTitle": "サンバリュ「変顔スパイ」🈑",
-  "detail": "",
+  "detail": "◇出演者\n【MC】バカリズム\r\n【挑戦者】尾形貴弘(パンサー)/キンタロー。/SEITO(MAZZEL)/中岡創一(ロッチ)/松本明子/結那",
   "start": 1721538000000,
   "end": 1721541600000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】バカリズム\r\n【挑戦者】尾形貴弘(パンサー)/キンタロー。/SEITO(MAZZEL)/中岡創一(ロッチ)/松本明子/結那"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
