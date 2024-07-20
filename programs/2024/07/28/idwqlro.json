@@ -1,0 +1,23 @@
+{
+  "id": "idwqlro",
+  "category": "hobby",
+  "title": "スペシャル講演",
+  "fullTitle": "スペシャル講演",
+  "detail": "「「役割語」が切り開く、言語の地平」",
+  "start": 1722162600000,
+  "end": 1722165300000,
+  "seconds": 2700,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktj",
+    "sid": 231,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 68
+  },
+  "subTitle": "「役割語",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iduglrp",
+  "category": "cinema",
+  "title": "線は、僕を描く",
+  "fullTitle": "🈙線は、僕を描く🅍🈑",
+  "detail": "横浜流星が主演した青春映画。監督は「ちはやふる」３部作の小泉徳宏。深い悲しみの中で、青年は水墨画に出会う。巨匠の指導で水墨画を描き始めた彼の心の成長を描く。",
+  "start": 1722144600000,
+  "end": 1722151800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS05_1",
+    "name": "ＷＯＷＯＷシネマ",
+    "id": "8ksh",
+    "sid": 193,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 62
+  },
+  "subTitle": "ちはやふる",
+  "episode": 1,
+  "flags": [
+    "映",
+    "SS",
+    "字"
+  ]
+}

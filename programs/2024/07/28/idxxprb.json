@@ -1,0 +1,25 @@
+{
+  "id": "idxxprb",
+  "category": "hobby",
+  "title": "F JUNCTION 4 GEAR：鱒夢＆本多商店",
+  "fullTitle": "🈚F JUNCTION 4 GEAR：鱒夢＆本多商店",
+  "detail": "Fish、Future、Fun、Field、Fune、Fishing Vision、釣りにまつわる様々なFの交差点。釣りビジョンが全ての釣り人に送る釣り情報番組",
+  "start": 1722142800000,
+  "end": 1722146400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_2",
+    "name": "ＢＳ釣りビジョン",
+    "id": "8ku3",
+    "sid": 251,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 77
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

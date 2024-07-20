@@ -1,0 +1,25 @@
+{
+  "id": "idtqsr9",
+  "category": "sports",
+  "title": "ＢＳスーパーＫＥＩＢＡ新潟：アイビスSD（GⅢ）札幌：クイーンS（GⅢ）",
+  "fullTitle": "🈢ＢＳスーパーＫＥＩＢＡ新潟：アイビスSD（GⅢ）札幌：クイーンS（GⅢ）",
+  "detail": "新潟：アイビスサマーダッシュ（GⅢ）札幌：クイーンS（GⅢ）／解説：吉田均（競馬エイト）ゲスト：山本昌（元プロ野球選手）／国内唯一の芝直線1000m重賞\r\n",
+  "start": 1722146400000,
+  "end": 1722150000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_1",
+    "name": "ＢＳフジ・１８１",
+    "id": "8ks5",
+    "sid": 181,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 57
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
