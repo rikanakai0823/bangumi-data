@@ -1,0 +1,23 @@
+{
+  "id": "381sxri8y5",
+  "category": "news",
+  "title": "ＴＢＳ　ＮＥＷＳ",
+  "fullTitle": "ＴＢＳ　ＮＥＷＳ",
+  "detail": "今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。",
+  "start": 1721505600000,
+  "end": 1721507400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 25
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
