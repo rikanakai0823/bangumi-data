@@ -1,0 +1,23 @@
+{
+  "id": "idrfgln",
+  "category": "cinema",
+  "title": "映画「ランボー／怒りの脱出」",
+  "fullTitle": "映画「ランボー／怒りの脱出」",
+  "detail": "シルヴェスター・スタローン主演！大ヒットアクションシリーズ第２弾！！",
+  "start": 1721556000000,
+  "end": 1721562840000,
+  "seconds": 6840,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr2",
+    "sid": 142,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 46
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
