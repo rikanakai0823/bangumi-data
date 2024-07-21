@@ -1,0 +1,25 @@
+{
+  "id": "idxei73",
+  "category": "sports",
+  "title": "第95回都市対抗野球大会 第11日 準決勝(7/29)",
+  "fullTitle": "[生]第95回都市対抗野球大会 第11日 準決勝(7/29)",
+  "detail": "■#29 第1試合\r\n■#30 第2試合\r\n\r\n開催日：2024年7月29日\r\n球場：東京ドーム",
+  "start": 1722228600000,
+  "end": 1722258000000,
+  "seconds": 29400,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_1",
+    "name": "Ｊ　ＳＰＯＲＴＳ　１",
+    "id": "8ktu",
+    "sid": 242,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 73
+  },
+  "subTitle": "第1試合",
+  "episode": 95,
+  "flags": [
+    "生"
+  ]
+}

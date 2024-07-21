@@ -1,0 +1,23 @@
+{
+  "id": "ids0tkj",
+  "category": "news",
+  "title": "クロージング",
+  "fullTitle": "クロージング",
+  "detail": "番組の説明はありません",
+  "start": 1721583000000,
+  "end": 1721583060000,
+  "seconds": 60,
+  "channel": {
+    "type": "BS",
+    "channel": "BS01_3",
+    "name": "ＢＳ朝日２",
+    "id": "8krc",
+    "sid": 152,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 49
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
