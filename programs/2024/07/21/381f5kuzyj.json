@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuzyj",
+  "category": "information",
+  "title": "どーも、ＮＨＫ",
+  "fullTitle": "どーも、ＮＨＫ🈑",
+  "detail": "パリオリンピックの放送を特集。ＮＨＫではテレビ・ラジオ、あわせて６つの放送波とインターネットサービスで競技中継やハイライト、関連番組を放送します。",
+  "start": 1721527200000,
+  "end": 1721528700000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
