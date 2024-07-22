@@ -1,0 +1,25 @@
+{
+  "id": "idys0x4",
+  "category": "sports",
+  "title": "競輪LIVE！チャリロトよしもと(7/30)",
+  "fullTitle": "🈢競輪LIVE！チャリロトよしもと(7/30)",
+  "detail": "本日はミッドナイト競輪・大垣最終日を生中継！曜日対抗の回収率バトルを実施！※放送内容・出演者が変更の可能性有\r\n出演者：レインボー、葉月あや 他",
+  "start": 1722344400000,
+  "end": 1722348000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_1",
+    "name": "ＢＳよしもと",
+    "id": "8kuh",
+    "sid": 265,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 83
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

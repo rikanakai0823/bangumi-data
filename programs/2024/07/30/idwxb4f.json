@@ -1,0 +1,23 @@
+{
+  "id": "idwxb4f",
+  "category": "sports",
+  "title": "ザ・パトロールビデオ（場別） #810",
+  "fullTitle": "ザ・パトロールビデオ（場別） #810",
+  "detail": "「第２回新潟競馬第１・２日、第１回札幌競馬第３・４日」",
+  "start": 1722333600000,
+  "end": 1722344400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS21_2",
+    "name": "グリーンチャンネル",
+    "id": "8ktm",
+    "sid": 234,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 70
+  },
+  "subTitle": "第２回新潟競馬第１・２日、第１回札幌競馬第３・４日",
+  "episode": 810,
+  "flags": []
+}

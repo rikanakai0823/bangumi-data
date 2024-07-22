@@ -1,0 +1,25 @@
+{
+  "id": "idxknx0",
+  "category": "sports",
+  "title": "第95回都市対抗野球大会 #31 決勝",
+  "fullTitle": "[生]第95回都市対抗野球大会 #31 決勝",
+  "detail": "解説：坂口裕之(元ENEOS監督)\r\n実況：矢野吉彦",
+  "start": 1722329400000,
+  "end": 1722344400000,
+  "seconds": 15000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_0",
+    "name": "Ｊ　ＳＰＯＲＴＳ　４",
+    "id": "8ktx",
+    "sid": 245,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 76
+  },
+  "subTitle": "決勝",
+  "episode": 95,
+  "flags": [
+    "生"
+  ]
+}
