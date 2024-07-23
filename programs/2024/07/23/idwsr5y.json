@@ -1,0 +1,23 @@
+{
+  "id": "idwsr5y",
+  "category": "hobby",
+  "title": "キャンパスガイド",
+  "fullTitle": "キャンパスガイド",
+  "detail": "「学生募集と教養学部ガイド」",
+  "start": 1721706300000,
+  "end": 1721708100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "BS",
+    "channel": "BS11_1",
+    "name": "放送大学テレビ",
+    "id": "8ktk",
+    "sid": 232,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 69
+  },
+  "subTitle": "学生募集と教養学部ガイド",
+  "episode": 1,
+  "flags": []
+}
