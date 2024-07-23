@@ -1,0 +1,25 @@
+{
+  "id": "idozgft",
+  "category": "sports",
+  "title": "１００コマスポーツ（６）ホッケー",
+  "fullTitle": "１００コマスポーツ（６）ホッケー🈑",
+  "detail": "知っているようで知らないスポーツのルールやトリビアをざっくり５分でお伝えする１００コマスポーツ。",
+  "start": 1722223500000,
+  "end": 1722223800000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 6,
+  "flags": [
+    "字"
+  ]
+}

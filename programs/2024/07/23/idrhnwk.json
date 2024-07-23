@@ -1,0 +1,23 @@
+{
+  "id": "idrhnwk",
+  "category": "sports",
+  "title": "ＢＯＡＴ　ＲＡＣＥ　プレミア　～ＳＧ第２９回オーシャンカップ～",
+  "fullTitle": "ＢＯＡＴ　ＲＡＣＥ　プレミア　～ＳＧ第２９回オーシャンカップ～",
+  "detail": "ＢＯＡＴ　ＲＡＣＥプレミア　ＳＧ第２９回\r\nオーシャンカップ～ドリーム戦～",
+  "start": 1721732400000,
+  "end": 1721735640000,
+  "seconds": 3240,
+  "channel": {
+    "type": "BS",
+    "channel": "BS13_0",
+    "name": "ＢＳ日テレ",
+    "id": "8kr3",
+    "sid": 143,
+    "nid": 4,
+    "hasLogoData": false,
+    "n": 47
+  },
+  "subTitle": "",
+  "episode": 29,
+  "flags": []
+}
