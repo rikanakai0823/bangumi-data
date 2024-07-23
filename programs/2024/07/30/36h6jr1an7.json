@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1an7",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・いいモノ実感！ホンネの通販パラダイス",
+  "fullTitle": "ＴＶショッピング・いいモノ実感！ホンネの通販パラダイス🅂",
+  "detail": "コングルコン１～ストレッチ編～\n◇番組内容\nコングルコン１　０１２０－４２２１１１",
   "start": 1722283200000,
   "end": 1722285000000,
   "seconds": 1800,
+  "description": "コングルコン１～ストレッチ編～",
+  "extra": {
+    "番組内容": "コングルコン１　０１２０－４２２１１１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }

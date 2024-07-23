@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkunkl",
+  "category": "sports",
+  "title": "高校野球結果速報",
+  "fullTitle": "高校野球結果速報",
+  "detail": " ",
+  "start": 1721715900000,
+  "end": 1721716200000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
