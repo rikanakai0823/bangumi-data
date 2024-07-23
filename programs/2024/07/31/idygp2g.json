@@ -1,0 +1,23 @@
+{
+  "id": "idygp2g",
+  "category": "cinema",
+  "title": "よる８銀座シネマ　ファミリービジネス（字幕版）",
+  "fullTitle": "よる８銀座シネマ　ファミリービジネス（字幕版）",
+  "detail": "ショーン・コネリー、ダスティン・ホフマンら豪華スター競演！",
+  "start": 1722423600000,
+  "end": 1722431700000,
+  "seconds": 8100,
+  "channel": {
+    "type": "BS",
+    "channel": "BS23_3",
+    "name": "ＢＳ松竹東急",
+    "id": "8kuc",
+    "sid": 260,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 81
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
