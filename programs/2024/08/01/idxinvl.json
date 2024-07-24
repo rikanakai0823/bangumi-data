@@ -1,0 +1,25 @@
+{
+  "id": "idxinvl",
+  "category": "sports",
+  "title": "スーパーフォーミュラ2024【ダイジェスト】第4戦 富士スピードウェイ",
+  "fullTitle": "[初]スーパーフォーミュラ2024【ダイジェスト】第4戦 富士スピードウェイ",
+  "detail": "第4戦 富士スピードウェイ",
+  "start": 1722501000000,
+  "end": 1722501600000,
+  "seconds": 600,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "ダイジェスト",
+  "episode": 1,
+  "flags": [
+    "初"
+  ]
+}

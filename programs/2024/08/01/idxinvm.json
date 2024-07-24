@@ -1,0 +1,25 @@
+{
+  "id": "idxinvm",
+  "category": "sports",
+  "title": "8月番組情報",
+  "fullTitle": "[無料]8月番組情報",
+  "detail": "８月番組情報",
+  "start": 1722501600000,
+  "end": 1722501900000,
+  "seconds": 300,
+  "channel": {
+    "type": "BS",
+    "channel": "BS19_3",
+    "name": "Ｊ　ＳＰＯＲＴＳ　３",
+    "id": "8ktw",
+    "sid": 244,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 75
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "無"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "38224jvehf",
+  "category": "variety",
+  "title": "アメトーーク！",
+  "fullTitle": "アメトーーク！🈑",
+  "detail": "毎回、共通のテーマを持った○○芸人たちがトークを展開\n◇◇出演者\n【ＭＣ】蛍原徹\r\n【ゲスト】\n◇◇おしらせ\n※この番組は放送時間が変更になる場合があります\r\n\r\n☆詳しくはコチラ！\r\n　→https://www.tv-asahi.co.jp/ametalk/",
+  "start": 1722522300000,
+  "end": 1722525900000,
+  "seconds": 3600,
+  "description": "毎回、共通のテーマを持った○○芸人たちがトークを展開",
+  "extra": {
+    "◇出演者": "【ＭＣ】蛍原徹\r\n【ゲスト】",
+    "◇おしらせ": "※この番組は放送時間が変更になる場合があります\r\n\r\n☆詳しくはコチラ！\r\n　→https://www.tv-asahi.co.jp/ametalk/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1ara",
+  "category": "sports",
+  "title": "特番（仮）",
+  "fullTitle": "特番（仮）🅂",
+  "detail": "",
+  "start": 1722520800000,
+  "end": 1722538800000,
+  "seconds": 18000,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
