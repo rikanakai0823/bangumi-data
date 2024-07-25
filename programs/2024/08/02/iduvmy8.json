@@ -1,0 +1,25 @@
+{
+  "id": "iduvmy8",
+  "category": "cinema",
+  "title": "ホテル・ニューハンプシャー",
+  "fullTitle": "🈙ホテル・ニューハンプシャー",
+  "detail": "ジョン・アーヴィングの同名小説を映画化した家族ドラマ。幾多の不幸に遭いながらも、力強く生きる家族の姿をユーモラスに描く。",
+  "start": 1722538800000,
+  "end": 1722546000000,
+  "seconds": 7200,
+  "channel": {
+    "type": "BS",
+    "channel": "BS09_1",
+    "name": "スターチャンネル１",
+    "id": "8kso",
+    "sid": 200,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 63
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "映"
+  ]
+}

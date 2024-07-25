@@ -1,0 +1,25 @@
+{
+  "id": "idozdva",
+  "category": "sports",
+  "title": "パリオリンピック２０２４◆バドミントン　混合ダブルス・決勝",
+  "fullTitle": "パリオリンピック２０２４◆バドミントン　混合ダブルス・決勝🅍",
+  "detail": "◆バドミントン　混合ダブルス・決勝　※日本選手出場のとき放送",
+  "start": 1722605400000,
+  "end": 1722611400000,
+  "seconds": 6000,
+  "channel": {
+    "type": "BS",
+    "channel": "BS15_0",
+    "name": "ＮＨＫ　ＢＳ",
+    "id": "8kpx",
+    "sid": 101,
+    "nid": 4,
+    "hasLogoData": true,
+    "n": 41
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "SS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l4ua",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「カワセミ特別」「フレッシュスター特別」「東京スポーツ賞」「いるか座特別」",
+  "start": 1722579600000,
+  "end": 1722600000000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 36
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
