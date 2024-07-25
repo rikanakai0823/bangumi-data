@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【Last Dinosaurs特集】\r\n\"N.P.D\"\r\n\"Wait Your Turn\"\r\n\"Paranoia Paradise\"\n◇番組内容２\nVICTORIA MONET\"Alright\"\r\nLIL DURK\"Went Hollywood For A Year\"\r\nLEVEL42\"Lessons In Love\"\r\nPOST MALONE feat. BLAKE SHELTON\"Pour Me A Drink\"",
   "start": 1722265200000,
   "end": 1722267000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【Last Dinosaurs特集】\r\n\"N.P.D\"\r\n\"Wait Your Turn\"\r\n\"Paranoia Paradise\"",
+    "番組内容２": "VICTORIA MONET\"Alright\"\r\nLIL DURK\"Went Hollywood For A Year\"\r\nLEVEL42\"Lessons In Love\"\r\nPOST MALONE feat. BLAKE SHELTON\"Pour Me A Drink\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
