@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1aqq",
   "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "title": "ＴＶショッピング・日本予防医薬テレビショッピング",
+  "fullTitle": "ＴＶショッピング・日本予防医薬テレビショッピング🅂",
+  "detail": "◇番組内容\nイミダペプチドドリンク",
   "start": 1722486600000,
   "end": 1722488400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "イミダペプチドドリンク"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
