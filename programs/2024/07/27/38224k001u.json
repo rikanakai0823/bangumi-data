@@ -1,0 +1,23 @@
+{
+  "id": "38224k001u",
+  "category": "news",
+  "title": "朝まで生テレビ！",
+  "fullTitle": "朝まで生テレビ！",
+  "detail": "1987年スタートの深夜討論番組。今月は『激論！民主主義の危機』をお送りします。",
+  "start": 1722013500000,
+  "end": 1722021900000,
+  "seconds": 8400,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
