@@ -1,0 +1,23 @@
+{
+  "id": "381jqz5ocq",
+  "category": "etc",
+  "title": "放送番組未定",
+  "fullTitle": "放送番組未定",
+  "detail": "この時間放送する番組は未定です。",
+  "start": 1722270900000,
+  "end": 1722277500000,
+  "seconds": 6600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
