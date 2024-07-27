@@ -1,0 +1,23 @@
+{
+  "id": "381sxri9js",
+  "category": "information",
+  "title": "番組ナビ",
+  "fullTitle": "番組ナビ",
+  "detail": "",
+  "start": 1722104700000,
+  "end": 1722105000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

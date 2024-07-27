@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks99o",
+  "category": "information",
+  "title": "どーも、ＮＨＫ",
+  "fullTitle": "どーも、ＮＨＫ🈑",
+  "detail": "特集は、この夏放送予定のおすすめ番組を紹介。ＮＨＫでは、戦争と平和について考える番組や楽しみながら学びを深める番組、そして夏をとことん楽しむ番組を放送します。",
+  "start": 1722736800000,
+  "end": 1722738300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
