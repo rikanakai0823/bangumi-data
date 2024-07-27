@@ -1,0 +1,25 @@
+{
+  "id": "38224k00ab",
+  "category": "sports",
+  "title": "パリオリンピック応援宣言",
+  "fullTitle": "パリオリンピック応援宣言🈑",
+  "detail": "オリンピック最新情報を、期間中、毎日お届け！\r\nさらに、注目選手たちの知られざるエピソードを“ツーブル美術館”として紹介していきます‼",
+  "start": 1722092400000,
+  "end": 1722093000000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
