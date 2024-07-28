@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1asd",
   "category": "information",
-  "title": "ショップジャパン",
-  "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "title": "ＴＶショッピング・アルマードテレビショッピング",
+  "fullTitle": "ＴＶショッピング・アルマードテレビショッピング🅂",
+  "detail": "◇番組内容\nナイスデイ　０１２０－４４－００２７",
   "start": 1722573000000,
   "end": 1722574800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ナイスデイ　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -15,7 +19,7 @@
     "sid": 29752,
     "nid": 32295,
     "hasLogoData": true,
-    "n": 13
+    "n": 12
   },
   "subTitle": "",
   "episode": 1,

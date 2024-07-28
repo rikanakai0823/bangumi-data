@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1aqm",
-  "category": "etc",
-  "title": "わくわくショッピング",
-  "fullTitle": "わくわくショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "わくわくショッピング・マナラテレビショッピング",
+  "fullTitle": "わくわくショッピング・マナラテレビショッピング🅂",
+  "detail": "ズバッと解決！私たちの推しモノセレクション\n◇番組内容\n０１２０－１３０４１１",
   "start": 1722479100000,
   "end": 1722480900000,
   "seconds": 1800,
+  "description": "ズバッと解決！私たちの推しモノセレクション",
+  "extra": {
+    "番組内容": "０１２０－１３０４１１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -15,9 +19,11 @@
     "sid": 29752,
     "nid": 32295,
     "hasLogoData": true,
-    "n": 13
+    "n": 12
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
