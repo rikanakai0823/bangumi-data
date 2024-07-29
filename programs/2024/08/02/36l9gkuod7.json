@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２４年８月",
+  "detail": "Adoスペシャル\n◇番組内容\n●ショコラカタブラ\r\n●クラクラ\r\n●アタシは問題作\r\n●向日葵\r\n●MIRROR\r\n●ルル\r\n●唱\r\n●いばら",
   "start": 1722526200000,
   "end": 1722528000000,
   "seconds": 1800,
+  "description": "Adoスペシャル",
+  "extra": {
+    "番組内容": "●ショコラカタブラ\r\n●クラクラ\r\n●アタシは問題作\r\n●向日葵\r\n●MIRROR\r\n●ルル\r\n●唱\r\n●いばら"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
