@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1axo",
-  "category": "etc",
-  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ",
-  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ",
-  "detail": "",
+  "category": "information",
+  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン",
+  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン🅂",
+  "detail": "◇番組内容\nエアフリー　０１２０－１６－００７９",
   "start": 1722873600000,
   "end": 1722875400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "エアフリー　０１２０－１６－００７９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
