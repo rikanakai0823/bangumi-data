@@ -1,12 +1,17 @@
 {
   "id": "36tfa8guie",
   "category": "variety",
-  "title": "ガルボムＴＶ",
-  "fullTitle": "ガルボムＴＶ",
-  "detail": "第一線で活躍しているアイドルが総出演する業界唯一の番組‼「ガルボムTV」\r\n普段は聞けない各チーム内での秘密の話から、メディア初の新情報まで特別に公開！",
+  "title": "ガルボムＴＶ　＃２７",
+  "fullTitle": "ガルボムＴＶ　＃２７",
+  "detail": "今回のガルボムTVは日本最大規模のアイドルフェス「SEKIGAHARA IDOL WARS 2024 - 関ケ原唄姫合戦- 10thAnniversary」の模様をお伝えしちゃいます！\n◇番組内容\n今回のガルボムTVは日本最大規模のアイドルフェス「SEKIGAHARA IDOL WARS 2024 - 関ケ原唄姫合戦- 10thAnniversary」の模様をお伝えしちゃいます！\n◇出演者\n【出演】\r\n安田大サーカスクロちゃん、花いろは、C;ON、#ババババンビ、カラフルスクリーム、アップアップガールズ、FES☆TIVE、真っ白なキャンバス、仮面女子",
   "start": 1722618300000,
   "end": 1722620040000,
   "seconds": 1740,
+  "description": "今回のガルボムTVは日本最大規模のアイドルフェス「SEKIGAHARA IDOL WARS 2024 - 関ケ原唄姫合戦- 10thAnniversary」の模様をお伝えしちゃいます！",
+  "extra": {
+    "番組内容": "今回のガルボムTVは日本最大規模のアイドルフェス「SEKIGAHARA IDOL WARS 2024 - 関ケ原唄姫合戦- 10thAnniversary」の模様をお伝えしちゃいます！",
+    "出演者": "【出演】\r\n安田大サーカスクロちゃん、花いろは、C;ON、#ババババンビ、カラフルスクリーム、アップアップガールズ、FES☆TIVE、真っ白なキャンバス、仮面女子"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "ガルボムTV",
-  "episode": 1,
+  "subTitle": "SEKIGAHARA IDOL WARS 2024 - 関ケ原唄姫合戦- 10thAnniversary",
+  "episode": 27,
   "flags": []
 }
