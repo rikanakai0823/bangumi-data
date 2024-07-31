@@ -1,0 +1,30 @@
+{
+  "id": "381jqz056j",
+  "category": "sports",
+  "title": "第１０６回全国高校野球選手権大会　第２日",
+  "fullTitle": "第１０６回全国高校野球選手権大会　第２日🅍🈑",
+  "detail": "第３試合　～甲子園球場から中継～\n◇番組内容\n［Ｅテレ３で放送継続］",
+  "start": 1723103400000,
+  "end": 1723110240000,
+  "seconds": 6840,
+  "description": "第３試合　～甲子園球場から中継～",
+  "extra": {
+    "番組内容": "［Ｅテレ３で放送継続］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 106,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}
