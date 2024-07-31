@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1avf",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
+  "fullTitle": "ＴＶショッピング・ダイレクトテレショップ",
+  "detail": "◇番組内容\nグラマーシェイプクールリッチ　０１２０－９１９－２３９",
   "start": 1722734100000,
   "end": 1722735900000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "グラマーシェイプクールリッチ　０１２０－９１９－２３９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
