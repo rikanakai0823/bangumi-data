@@ -1,0 +1,25 @@
+{
+  "id": "38224jzost",
+  "category": "news",
+  "title": "スーパーＪチャンネル",
+  "fullTitle": "スーパーＪチャンネル🈑",
+  "detail": "日本勢が快進撃！▽体操個人総合　新星・岡慎之助が金！▽なでしこ　ナイジェリアに快勝で決勝Ｔ進出！▽京都に学ぶ猛暑対策▽コメ高騰に救世主！",
+  "start": 1722495000000,
+  "end": 1722501000000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
