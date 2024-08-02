@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwtln",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ▽日曜新潟７Ｒ　レパードステークス（GⅢ）　他",
+  "fullTitle": "金曜競馬ＣＬＵＢ▽日曜新潟７Ｒ　レパードステークス（GⅢ）　他",
+  "detail": "日曜新潟７Ｒ　レパードステークス（GⅢ）\r\n日曜札幌１１Ｒ　エルムステークス（GⅢ）\r\n土曜新潟７Ｒ　新潟日報賞\r\n土曜札幌１１Ｒ　札幌日経オープン（Ｌ）",
+  "start": 1722600000000,
+  "end": 1722601800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
