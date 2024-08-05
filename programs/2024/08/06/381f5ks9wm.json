@@ -2,10 +2,10 @@
   "id": "381f5ks9wm",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース🈑",
+  "fullTitle": "ニュース🈔🈑",
   "detail": "",
-  "start": 1722930300000,
-  "end": 1722930600000,
+  "start": 1722934800000,
+  "end": 1722935100000,
   "seconds": 300,
   "channel": {
     "type": "GR",
@@ -20,6 +20,7 @@
   "subTitle": "",
   "episode": 1,
   "flags": [
+    "二",
     "字"
   ]
 }
