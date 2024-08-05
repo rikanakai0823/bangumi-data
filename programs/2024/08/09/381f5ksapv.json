@@ -1,12 +1,16 @@
 {
   "id": "381f5ksapv",
-  "category": "documentary",
+  "category": "news",
   "title": "令和６年長崎平和祈念式典",
   "fullTitle": "令和６年長崎平和祈念式典🈔🈑",
-  "detail": "",
+  "detail": "【アナウンサー】金澤利夫　～長崎市平和公園から中継～\n◇出演者\n【アナウンサー】金澤利夫",
   "start": 1723167900000,
   "end": 1723171800000,
   "seconds": 3900,
+  "description": "【アナウンサー】金澤利夫　～長崎市平和公園から中継～",
+  "extra": {
+    "出演者": "【アナウンサー】金澤利夫"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": [
     "二",
