@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1bb9",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイドードリンコ　ロコモプロ　テレビショッピング",
+  "fullTitle": "ＴＶショッピング・ダイドードリンコ　ロコモプロ　テレビショッピング🅂",
+  "detail": "生島ヒロシの健康マニア倶楽部\n◇番組内容\nロコモプロ　０１２０－６６１３３１",
   "start": 1723579200000,
   "end": 1723581000000,
   "seconds": 1800,
+  "description": "生島ヒロシの健康マニア倶楽部",
+  "extra": {
+    "番組内容": "ロコモプロ　０１２０－６６１３３１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
