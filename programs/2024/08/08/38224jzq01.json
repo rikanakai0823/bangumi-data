@@ -1,0 +1,23 @@
+{
+  "id": "38224jzq01",
+  "category": "information",
+  "title": "テレ朝夏祭りナビ",
+  "fullTitle": "テレ朝夏祭りナビ",
+  "detail": "８月２５日（日）まで、今年も開催！\r\n『テレビ朝日・六本木ヒルズ 夏祭り ＳＵＭＭＥＲ ＳＴＡＴＩＯＮ』",
+  "start": 1723050000000,
+  "end": 1723050120000,
+  "seconds": 120,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

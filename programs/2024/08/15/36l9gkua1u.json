@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkua1u",
+  "category": "sports",
+  "title": "伊勢崎オートＳＧオートレースグランプリ中継",
+  "fullTitle": "伊勢崎オートＳＧオートレースグランプリ中継",
+  "detail": " ",
+  "start": 1723719600000,
+  "end": 1723723200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
