@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "パリオリンピック２０２４",
   "fullTitle": "パリオリンピック２０２４🅍🈑",
-  "detail": "",
+  "detail": "【スタジオ出演】アナウンサー…高山大吾，佐藤あゆみ\n◇出演者\n【スタジオ出演】アナウンサー…高山大吾，佐藤あゆみ",
   "start": 1723290900000,
   "end": 1723294800000,
   "seconds": 3900,
+  "description": "【スタジオ出演】アナウンサー…高山大吾，佐藤あゆみ",
+  "extra": {
+    "出演者": "【スタジオ出演】アナウンサー…高山大吾，佐藤あゆみ"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "スタジオ出演",
   "episode": 1,
   "flags": [
     "SS",

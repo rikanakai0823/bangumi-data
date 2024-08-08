@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【TRAVIS特集】\r\nTRAVIS インタビュー\r\n\"Gaslight\"\r\n\"Bus\"\n◇番組内容２\nCOLDPLAY\"feelslikeimfallinginlove\"\r\nJADE\"Angel Of My Dreams\"\r\nCHARLI XCX\"360\"",
   "start": 1723474800000,
   "end": 1723476600000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【TRAVIS特集】\r\nTRAVIS インタビュー\r\n\"Gaslight\"\r\n\"Bus\"",
+    "番組内容２": "COLDPLAY\"feelslikeimfallinginlove\"\r\nJADE\"Angel Of My Dreams\"\r\nCHARLI XCX\"360\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
