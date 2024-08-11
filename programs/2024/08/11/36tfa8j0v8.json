@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8j0v8",
+  "category": "sports",
+  "title": "Ｊリーグ中継２０２４",
+  "fullTitle": "Ｊリーグ中継２０２４",
+  "detail": "『ＦＣ東京ｖｓ川崎フロンターレ』～味の素スタジアム",
+  "start": 1723370400000,
+  "end": 1723377600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
