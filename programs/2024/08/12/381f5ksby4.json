@@ -1,12 +1,12 @@
 {
   "id": "381f5ksby4",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース🈑",
+  "title": "ニュース「台風５号」関連",
+  "fullTitle": "ニュース「台風５号」関連🈑",
   "detail": "【キャスター】山内泉\n◇出演者\n【キャスター】山内泉",
   "start": 1723431600000,
-  "end": 1723432200000,
-  "seconds": 600,
+  "end": 1723434000000,
+  "seconds": 2400,
   "description": "【キャスター】山内泉",
   "extra": {
     "出演者": "【キャスター】山内泉"
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "キャスター",
+  "subTitle": "台風５号",
   "episode": 1,
   "flags": [
     "字"
