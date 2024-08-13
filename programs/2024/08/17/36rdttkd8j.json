@@ -3,13 +3,15 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\n。",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\n。\n◇番組内容１\nDEEP PURPLE / Pictures Of You\r\nAEROSMITH / Train Kept a Rollin' (Live From The Office Depot Center, Sunrise, FL, April 3, 2004)\n◇番組内容２\nAEROSMITH / Dream On (Live From Mexico City, 2016 )\r\nARCH ENEMY / Dream Stealer",
   "start": 1723903200000,
   "end": 1723905000000,
   "seconds": 1800,
   "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
   "extra": {
-    "番組内容": "。"
+    "番組内容": "。",
+    "番組内容１": "DEEP PURPLE / Pictures Of You\r\nAEROSMITH / Train Kept a Rollin' (Live From The Office Depot Center, Sunrise, FL, April 3, 2004)",
+    "番組内容２": "AEROSMITH / Dream On (Live From Mexico City, 2016 )\r\nARCH ENEMY / Dream Stealer"
   },
   "channel": {
     "type": "GR",

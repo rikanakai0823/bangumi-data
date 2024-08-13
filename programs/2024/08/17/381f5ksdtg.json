@@ -1,12 +1,16 @@
 {
   "id": "381f5ksdtg",
   "category": "information",
-  "title": "明日へ１ｍｉｎ．",
-  "fullTitle": "明日へ１ｍｉｎ．",
-  "detail": "",
+  "title": "明日へ１ｍｉｎ．　防災の知恵　街の水害　地下から出る",
+  "fullTitle": "明日へ１ｍｉｎ．　防災の知恵　街の水害　地下から出る",
+  "detail": "【語り】佐藤あゆみ\n◇出演者\n【語り】佐藤あゆみ",
   "start": 1723902840000,
   "end": 1723902900000,
   "seconds": 60,
+  "description": "【語り】佐藤あゆみ",
+  "extra": {
+    "出演者": "【語り】佐藤あゆみ"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "語り",
   "episode": 1,
   "flags": []
 }
