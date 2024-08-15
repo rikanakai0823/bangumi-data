@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【FRIKO特集】\r\nFRIKO インタビュー\r\n\"Crashing Through\"\r\n\"Where We’ve Been\"\n◇番組内容２\nDONAVON FRANKENREITER\"All I Ever Wanted ft. Colbie Caillat\"\r\nKAROL G\"Si Antes Te Hubiera Conocido\"\r\nHALSEY\"Lucky\"",
   "start": 1724079600000,
   "end": 1724081400000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【FRIKO特集】\r\nFRIKO インタビュー\r\n\"Crashing Through\"\r\n\"Where We’ve Been\"",
+    "番組内容２": "DONAVON FRANKENREITER\"All I Ever Wanted ft. Colbie Caillat\"\r\nKAROL G\"Si Antes Te Hubiera Conocido\"\r\nHALSEY\"Lucky\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
