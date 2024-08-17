@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1buq",
+  "category": "information",
+  "title": "テレ玉認定！たまぐるめ　１５分版",
+  "fullTitle": "テレ玉認定！たまぐるめ　１５分版🅂",
+  "detail": "",
+  "start": 1724549400000,
+  "end": 1724550300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

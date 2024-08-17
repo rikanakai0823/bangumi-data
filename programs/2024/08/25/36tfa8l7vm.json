@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l7vm",
+  "category": "cinema",
+  "title": "映画『らせん』",
+  "fullTitle": "映画『らせん』",
+  "detail": " ",
+  "start": 1724580000000,
+  "end": 1724586180000,
+  "seconds": 6180,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
