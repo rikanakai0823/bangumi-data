@@ -3,10 +3,14 @@
   "category": "music",
   "title": "バズリズム０２",
   "fullTitle": "バズリズム０２",
-  "detail": "",
+  "detail": "◇出演者\n【MC】バカリズム【進行】市來玲奈（日本テレビアナウンサー）【アリーナライブ＆トークゲスト】THE YELLOW　MONKEY、櫻坂46、sumika、秦基博【あの人ランキング】MEGUMI【クイズ！ミュージックビデオ王】いきものがかり",
   "start": 1724429400000,
   "end": 1724433000000,
   "seconds": 3600,
+  "description": "",
+  "extra": {
+    "出演者": "【MC】バカリズム【進行】市來玲奈（日本テレビアナウンサー）【アリーナライブ＆トークゲスト】THE YELLOW　MONKEY、櫻坂46、sumika、秦基博【あの人ランキング】MEGUMI【クイズ！ミュージックビデオ王】いきものがかり"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
