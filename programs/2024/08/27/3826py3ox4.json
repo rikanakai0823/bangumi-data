@@ -1,0 +1,23 @@
+{
+  "id": "3826py3ox4",
+  "category": "information",
+  "title": "番組未定",
+  "fullTitle": "番組未定",
+  "detail": "番組調整中です。",
+  "start": 1724693400000,
+  "end": 1724693700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
