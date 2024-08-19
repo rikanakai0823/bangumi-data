@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1bwh",
-  "category": "etc",
-  "title": "ショッピングインフォ",
-  "fullTitle": "ショッピングインフォ",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピングインフォ・ダイレクトテレショップ",
+  "fullTitle": "ショッピングインフォ・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nジニエクールリッチブラ　０１２０－９１９－２３９",
   "start": 1724639100000,
   "end": 1724640900000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ジニエクールリッチブラ　０１２０－９１９－２３９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }

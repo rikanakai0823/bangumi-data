@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3gr9",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽マチコミクイズ５０１▽クックハンド▽新コーナー！結太朗の縁結びまっせ▽おいしさまるごとマイスター▽尾形春水とアイドル「タイムラプス」生出演！",
+  "start": 1724054400000,
+  "end": 1724057100000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "タイムラプス",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
