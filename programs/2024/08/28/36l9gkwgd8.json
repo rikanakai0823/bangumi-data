@@ -1,0 +1,28 @@
+{
+  "id": "36l9gkwgd8",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "成田太鼓祭り\r\n木更津総合高校\n◇番組内容１\n海の民話\r\n雪どけ塚の白ヘビ\n◇番組内容２\nnewsチバ特集\r\n万祝展特集",
+  "start": 1724832000000,
+  "end": 1724835000000,
+  "seconds": 3000,
+  "description": "成田太鼓祭り\r\n木更津総合高校",
+  "extra": {
+    "番組内容１": "海の民話\r\n雪どけ塚の白ヘビ",
+    "番組内容２": "newsチバ特集\r\n万祝展特集"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
