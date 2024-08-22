@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l8h4",
+  "category": "news",
+  "title": "ヒーリングタイム＆ヘッドラインニュース",
+  "fullTitle": "ヒーリングタイム＆ヘッドラインニュース",
+  "detail": "東京点描　城西２",
+  "start": 1725004800000,
+  "end": 1725005280000,
+  "seconds": 480,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
