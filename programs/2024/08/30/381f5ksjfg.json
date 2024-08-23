@@ -1,12 +1,16 @@
 {
   "id": "381f5ksjfg",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　今夜とあすのおすすめ番組",
+  "fullTitle": "＃ＮＨＫ　今夜とあすのおすすめ番組",
+  "detail": "【アナウンサー】中川安奈\n◇出演者\n【アナウンサー】中川安奈",
   "start": 1725018120000,
   "end": 1725018300000,
   "seconds": 180,
+  "description": "【アナウンサー】中川安奈",
+  "extra": {
+    "出演者": "【アナウンサー】中川安奈"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }
