@@ -1,0 +1,27 @@
+{
+  "id": "36l9gkubks",
+  "category": "variety",
+  "title": "ミクチャＴＶ",
+  "fullTitle": "ミクチャＴＶ",
+  "detail": "◇番組内容    \nLIVE配信動画投稿コミュニティアプリ「MixChannel 」で話題の様々なジャンルをまとめたレギュラー番組。",
+  "start": 1725202800000,
+  "end": 1725204600000,
+  "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "番組内容    ": "LIVE配信動画投稿コミュニティアプリ「MixChannel 」で話題の様々なジャンルをまとめたレギュラー番組。"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
