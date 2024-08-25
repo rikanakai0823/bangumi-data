@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwg2e",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "林家きく麿「寝かしつけ」、一玄亭米多朗「八問答」、桂幸丸「新島八重伝」",
+  "start": 1724576700000,
+  "end": 1724580000000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
