@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1c6z",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・イイものショッピングゥ～！",
+  "fullTitle": "ＴＶショッピング・イイものショッピングゥ～！🅂",
+  "detail": "◇番組内容\nｃｏｃｏｎｅクレイクリームシャンプー　０１２０－８９９－３０２",
   "start": 1725175800000,
   "end": 1725177600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ｃｏｃｏｎｅクレイクリームシャンプー　０１２０－８９９－３０２"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
