@@ -1,9 +1,9 @@
 {
   "id": "381jqz0itq",
-  "category": "sports",
+  "category": "information",
   "title": "サブチャンネル切り替え方法のご案内",
-  "fullTitle": "サブチャンネル切り替え方法のご案内🈑",
-  "detail": "",
+  "fullTitle": "サブチャンネル切り替え方法のご案内",
+  "detail": "サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。",
   "start": 1725180540000,
   "end": 1725180600000,
   "seconds": 60,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
