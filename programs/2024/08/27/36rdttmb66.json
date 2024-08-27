@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmb66",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽オトコミ　ダンスボーカルグループ２×ＦＥ生出演▽おでかけ！つかさ天気▽あなたにエールを！星座占い▽天気",
+  "start": 1724743800000,
+  "end": 1724745600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
