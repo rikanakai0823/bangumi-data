@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwgx8",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃３６４",
-  "fullTitle": "チバミライチャンネル　＃３６４",
-  "detail": " ",
+  "title": "チバミライチャンネル▽高文連放送コンテスト2023",
+  "fullTitle": "チバミライチャンネル▽高文連放送コンテスト2023",
+  "detail": "・柏南高校「蛍の光を追って」\r\n・東葛飾高校「Dream on the street」\r\n・千葉西高校「教科書で終わらせない戦争」\n◇番組内容\nｎｅｗｓチバ特集\r\n91歳アイアンマン",
   "start": 1725350400000,
   "end": 1725353400000,
   "seconds": 3000,
+  "description": "・柏南高校「蛍の光を追って」\r\n・東葛飾高校「Dream on the street」\r\n・千葉西高校「教科書で終わらせない戦争」",
+  "extra": {
+    "番組内容": "ｎｅｗｓチバ特集\r\n91歳アイアンマン"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 10
   },
-  "subTitle": "",
-  "episode": 364,
+  "subTitle": "蛍の光を追って",
+  "episode": 1,
   "flags": []
 }
