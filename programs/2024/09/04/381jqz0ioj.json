@@ -1,12 +1,16 @@
 {
   "id": "381jqz0ioj",
   "category": "hobby",
-  "title": "Ｎコン～歌で結ぶ青春～",
-  "fullTitle": "Ｎコン～歌で結ぶ青春～🈑",
-  "detail": "",
+  "title": "「ラブライブ！スーパースター！！」３期直前！　Ｎコン２０２４～歌で結ぶ青春～",
+  "fullTitle": "「ラブライブ！スーパースター！！」３期直前！　Ｎコン２０２４～歌で結ぶ青春～🈑",
+  "detail": "【声】伊達さゆり\n◇出演者\n【声】伊達さゆり",
   "start": 1725447300000,
   "end": 1725447600000,
   "seconds": 300,
+  "description": "【声】伊達さゆり",
+  "extra": {
+    "出演者": "【声】伊達さゆり"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "声",
   "episode": 1,
   "flags": [
     "字"
