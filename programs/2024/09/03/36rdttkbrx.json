@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【THE LAST DINNER PARTY特集】\r\nTHE LAST DINNER PARTY インタビュー\r\n\"Caesar On A TV Screen\"\r\n\"The Feminine Urge\"\n◇番組内容２\nCLEAN BANDIT × ANNE-MARIE × DAVID GUETTA\"Cry Baby\"\r\nGALLIANO\"In The Breaks\"\r\nLOS LONELY BOYS\"Wish You Would\"",
   "start": 1725289200000,
   "end": 1725291000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【THE LAST DINNER PARTY特集】\r\nTHE LAST DINNER PARTY インタビュー\r\n\"Caesar On A TV Screen\"\r\n\"The Feminine Urge\"",
+    "番組内容２": "CLEAN BANDIT × ANNE-MARIE × DAVID GUETTA\"Cry Baby\"\r\nGALLIANO\"In The Breaks\"\r\nLOS LONELY BOYS\"Wish You Would\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",

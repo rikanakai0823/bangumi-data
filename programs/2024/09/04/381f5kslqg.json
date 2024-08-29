@@ -1,12 +1,16 @@
 {
   "id": "381f5kslqg",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ“ＮＨＫアカデミア”を活用したキャリア教育",
+  "fullTitle": "＃ＮＨＫ“ＮＨＫアカデミア”を活用したキャリア教育",
+  "detail": "【アナウンサー】林田理沙\n◇出演者\n【アナウンサー】林田理沙",
   "start": 1725450120000,
   "end": 1725450300000,
   "seconds": 180,
+  "description": "【アナウンサー】林田理沙",
+  "extra": {
+    "出演者": "【アナウンサー】林田理沙"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }
