@@ -1,5 +1,5 @@
 {
-  "id": "381f5ksjdw",
+  "id": "381f5kuojo",
   "category": "news",
   "title": "ニュース・気象情報",
   "fullTitle": "ニュース・気象情報🈑",
@@ -10,12 +10,12 @@
   "channel": {
     "type": "GR",
     "channel": "27",
-    "name": "ＮＨＫ総合１・東京",
-    "id": "1i50mps",
-    "sid": 1024,
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
     "nid": 32736,
     "hasLogoData": true,
-    "n": 0
+    "n": 1
   },
   "subTitle": "",
   "episode": 1,
