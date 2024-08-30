@@ -1,0 +1,23 @@
+{
+  "id": "381f5kuwdy",
+  "category": "news",
+  "title": "ニュース「台風１０号」関連",
+  "fullTitle": "ニュース「台風１０号」関連",
+  "detail": "",
+  "start": 1725031200000,
+  "end": 1725048000000,
+  "seconds": 16800,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "台風１０号",
+  "episode": 1,
+  "flags": []
+}
