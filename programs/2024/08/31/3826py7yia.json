@@ -1,0 +1,23 @@
+{
+  "id": "3826py7yia",
+  "category": "sports",
+  "title": "ウイニング競馬～新潟～",
+  "fullTitle": "ウイニング競馬～新潟～",
+  "detail": "【新潟】10Ｒ赤倉特別、11Ｒ古町Ｓ\r\n【中京】10Ｒ鳥羽特別、11Ｒ長篠S\r\n【札幌】11Ｒ札幌２歳Ｓ（ＧⅢ）",
+  "start": 1725084000000,
+  "end": 1725087600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "新潟",
+  "episode": 1,
+  "flags": []
+}
