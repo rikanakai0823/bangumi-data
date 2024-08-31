@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0ikw",
+  "category": "sports",
+  "title": "第３０回世界少年野球大会",
+  "fullTitle": "第３０回世界少年野球大会🈑",
+  "detail": "",
+  "start": 1725773400000,
+  "end": 1725775200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 30,
+  "flags": [
+    "字"
+  ]
+}
