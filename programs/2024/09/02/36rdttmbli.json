@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmbli",
+  "category": "etc",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「ハックニー・ダイアモンズ」\r\nザ・ローリング・ストーンズ",
+  "start": 1725217200000,
+  "end": 1725219000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "ハックニー・ダイアモンズ",
+  "episode": 1,
+  "flags": []
+}
