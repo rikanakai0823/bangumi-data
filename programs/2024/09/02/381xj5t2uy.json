@@ -1,0 +1,23 @@
+{
+  "id": "381xj5t2uy",
+  "category": "sports",
+  "title": "ウマの耳に実況",
+  "fullTitle": "ウマの耳に実況",
+  "detail": "競馬史に刻まれた数々の名勝負を、いつまでも耳と心に残る名実況とともに振り返る",
+  "start": 1725207900000,
+  "end": 1725211200000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597du",
+    "sid": 1058,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 31
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

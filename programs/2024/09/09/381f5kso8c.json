@@ -1,0 +1,23 @@
+{
+  "id": "381f5kso8c",
+  "category": "etc",
+  "title": "ミッドナイトチャンネル",
+  "fullTitle": "ミッドナイトチャンネル",
+  "detail": "",
+  "start": 1725808200000,
+  "end": 1725810900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

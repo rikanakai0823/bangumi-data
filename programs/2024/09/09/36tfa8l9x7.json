@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l9x7",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「貴船坂賞」「サファイア賞」「武蔵野オープン」「りゅう座特別」",
+  "start": 1725862800000,
+  "end": 1725883200000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
