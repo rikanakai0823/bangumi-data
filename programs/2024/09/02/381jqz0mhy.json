@@ -1,0 +1,23 @@
+{
+  "id": "381jqz0mhy",
+  "category": "information",
+  "title": "サブチャンネル切り替え方法のご案内",
+  "fullTitle": "サブチャンネル切り替え方法のご案内",
+  "detail": "サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。",
+  "start": 1725272940000,
+  "end": 1725273000000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
