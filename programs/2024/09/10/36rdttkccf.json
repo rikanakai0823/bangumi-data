@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【RIDE特集】\r\nRIDE インタビュー\r\n\"Peace Sign (Official Visualiser)\"\n◇番組内容２\nLADY GAGA & BRUNO MARS\"Die With A Smile\"\r\nJAKE BUGG\"Zombieland\"\r\nPAUL WELLER\"Rise Up Singing\"\r\nkenzie\"the me i was\"",
   "start": 1725894000000,
   "end": 1725895800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【RIDE特集】\r\nRIDE インタビュー\r\n\"Peace Sign (Official Visualiser)\"",
+    "番組内容２": "LADY GAGA & BRUNO MARS\"Die With A Smile\"\r\nJAKE BUGG\"Zombieland\"\r\nPAUL WELLER\"Rise Up Singing\"\r\nkenzie\"the me i was\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
