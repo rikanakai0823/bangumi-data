@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8lad1",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「スティンガー賞」「うお座特別」「デイリースポーツ賞」「月見特別」\n◇出演者\n【MC】\r\n前半：剣持幸恵\r\n後半：瀬戸山知花\r\n【解説】\r\n《9R～12R》\r\n大木尚文（競馬ブック）",
+  "start": 1726208400000,
+  "end": 1726228800000,
+  "seconds": 20400,
+  "description": "「スティンガー賞」「うお座特別」「デイリースポーツ賞」「月見特別」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：剣持幸恵\r\n後半：瀬戸山知花\r\n【解説】\r\n《9R～12R》\r\n大木尚文（競馬ブック）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

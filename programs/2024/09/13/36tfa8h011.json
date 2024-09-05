@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8h011",
+  "category": "news",
+  "title": "ＴＯＫＹＯ　ＭＸ　ｎｅｗｓ　ＦＬＡＧ",
+  "fullTitle": "ＴＯＫＹＯ　ＭＸ　ｎｅｗｓ　ＦＬＡＧ",
+  "detail": "東京の様々なニュースをお伝えします。",
+  "start": 1726192800000,
+  "end": 1726193040000,
+  "seconds": 240,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
