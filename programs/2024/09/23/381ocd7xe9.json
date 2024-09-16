@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "フレンズオンアイス２０２４",
   "fullTitle": "フレンズオンアイス２０２４",
-  "detail": "",
+  "detail": "◇出演者\n荒川静香、浅田真央、高橋大輔、宇野昌磨、三浦佳生",
   "start": 1727033400000,
   "end": 1727038200000,
   "seconds": 4800,
+  "description": "",
+  "extra": {
+    "出演者": "荒川静香、浅田真央、高橋大輔、宇野昌磨、三浦佳生"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
