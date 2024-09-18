@@ -1,0 +1,25 @@
+{
+  "id": "3826py3q6j",
+  "category": "information",
+  "title": "「テレ東ＢＩＺ」オススメ",
+  "fullTitle": "「テレ東ＢＩＺ」オススメ🈑",
+  "detail": "見どころをご紹介します",
+  "start": 1727340600000,
+  "end": 1727340900000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
