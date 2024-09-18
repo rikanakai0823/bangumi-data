@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ddd",
-  "category": "etc",
-  "title": "ショッピングタイム",
-  "fullTitle": "ショッピングタイム",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピングタイム・ダイレクトテレショップ",
+  "fullTitle": "ショッピングタイム・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nナガラックスフィッテ　０１２０－８８８－６５４",
   "start": 1727238600000,
   "end": 1727240400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ナガラックスフィッテ　０１２０－８８８－６５４"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
