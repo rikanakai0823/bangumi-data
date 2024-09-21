@@ -1,0 +1,23 @@
+{
+  "id": "3826py7zg7",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ九十九里特別\r\n　　　　11Ｒながつきステークス\r\n【中京】10Ｒ賢島特別\r\n　　　　11Ｒ伊賀ステークス",
+  "start": 1726898400000,
+  "end": 1726902000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
