@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwiki",
+  "category": "information",
+  "title": "お昼の快傑！ＴＶ",
+  "fullTitle": "お昼の快傑！ＴＶ",
+  "detail": "元気をテーマに毎回多彩なゲスト（快傑達）がパワーフルトークする情報バラエティー番組。",
+  "start": 1726974000000,
+  "end": 1726975800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
