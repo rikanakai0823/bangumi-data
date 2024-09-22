@@ -2,7 +2,7 @@
   "id": "381f5ksub6",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース🈑",
+  "fullTitle": "ニュース",
   "detail": "",
   "start": 1727038800000,
   "end": 1727039400000,
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
