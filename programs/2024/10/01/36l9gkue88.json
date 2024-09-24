@@ -1,12 +1,16 @@
 {
   "id": "36l9gkue88",
   "category": "information",
-  "title": "生活情報",
-  "fullTitle": "生活情報",
-  "detail": " ",
+  "title": "生活情報【内容】やわたしじみの力",
+  "fullTitle": "生活情報【内容】やわたしじみの力",
+  "detail": "【内容】やわたしじみの力\n◇番組内容\nあなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！\r\n【内容】やわたしじみの力",
   "start": 1727740800000,
   "end": 1727742600000,
   "seconds": 1800,
+  "description": "【内容】やわたしじみの力",
+  "extra": {
+    "番組内容": "あなたの生活をより豊かに！知って得するオススメ情報をお伝えします！！\r\n【内容】やわたしじみの力"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "内容",
   "episode": 1,
   "flags": []
 }
