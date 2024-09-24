@@ -1,0 +1,30 @@
+{
+  "id": "381ocd7xle",
+  "category": "information",
+  "title": "情報ライブ　ミヤネ屋",
+  "fullTitle": "情報ライブ　ミヤネ屋🈑",
+  "detail": "ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！\n◇出演者\n宮根誠司\n◇番組ホームページ\nhttps://www.ytv.co.jp/miyaneya/",
+  "start": 1727844900000,
+  "end": 1727851800000,
+  "seconds": 6900,
+  "description": "ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！",
+  "extra": {
+    "出演者": "宮根誠司",
+    "番組ホームページ": "https://www.ytv.co.jp/miyaneya/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
