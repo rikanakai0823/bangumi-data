@@ -1,12 +1,16 @@
 {
   "id": "381f5ks700",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　Ｅテレ・ラジオ　秋のおすすめ番組",
+  "fullTitle": "＃ＮＨＫ　Ｅテレ・ラジオ　秋のおすすめ番組",
+  "detail": "【アナウンサー】林田理沙\n◇出演者\n【アナウンサー】林田理沙",
   "start": 1727869320000,
   "end": 1727869500000,
   "seconds": 180,
+  "description": "【アナウンサー】林田理沙",
+  "extra": {
+    "出演者": "【アナウンサー】林田理沙"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }

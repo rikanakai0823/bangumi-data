@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【kenzie特集】\r\nkenzie インタビュー\r\nkenzie feat. ASTN\"close to you\"\r\nkenzie\"anatomy\"\r\nkenzie\"paper\"\n◇番組内容２\nCHARLI XCX feat. BILLIE EILISH\"Guess\"\r\nTATE McRAE\"It's ok I'm ok\"\r\nFIFTY FIFTY\"Starry Night\"",
   "start": 1727708400000,
   "end": 1727710200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【kenzie特集】\r\nkenzie インタビュー\r\nkenzie feat. ASTN\"close to you\"\r\nkenzie\"anatomy\"\r\nkenzie\"paper\"",
+    "番組内容２": "CHARLI XCX feat. BILLIE EILISH\"Guess\"\r\nTATE McRAE\"It's ok I'm ok\"\r\nFIFTY FIFTY\"Starry Night\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
