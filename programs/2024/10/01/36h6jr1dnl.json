@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1dnl",
   "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "title": "ＴＶショッピング・スカイネットテレビショッピング",
+  "fullTitle": "ＴＶショッピング・スカイネットテレビショッピング🅂",
+  "detail": "◇番組内容\nおせち　奥の細道「雲海」・華舞「富の舞」",
   "start": 1727723700000,
   "end": 1727725500000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "おせち　奥の細道「雲海」・華舞「富の舞」"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
