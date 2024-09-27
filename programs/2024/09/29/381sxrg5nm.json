@@ -1,15 +1,17 @@
 {
   "id": "381sxrg5nm",
-  "category": "variety",
-  "title": "「オールスター感謝祭’２４秋」ナビ",
-  "fullTitle": "「オールスター感謝祭’２４秋」ナビ🈑",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/kanshasai/",
+  "category": "sports",
+  "title": "オールスター感謝祭30年史を豪華振り返り！永久保存名場面大放出SP佐藤健北島三郎",
+  "fullTitle": "オールスター感謝祭30年史を豪華振り返り！永久保存名場面大放出SP佐藤健北島三郎",
+  "detail": "佐藤健/星野源/新垣結衣/大泉洋橋本環奈ら豪華俳優の名勝負！永野芽郁＆川口春奈の生ドッキリに北島三郎は熱唱！五輪戦士続々参戦決定…10/5(土)生放送を完全解説\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/kanshasai/\n◇公式HP\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/kanshasai/\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1727589600000,
   "end": 1727595000000,
   "seconds": 5400,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "佐藤健/星野源/新垣結衣/大泉洋橋本環奈ら豪華俳優の名勝負！永野芽郁＆川口春奈の生ドッキリに北島三郎は熱唱！五輪戦士続々参戦決定…10/5(土)生放送を完全解説",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/kanshasai/"
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/kanshasai/",
+    "公式HP": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/kanshasai/",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
   },
   "channel": {
     "type": "GR",
@@ -23,7 +25,5 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }

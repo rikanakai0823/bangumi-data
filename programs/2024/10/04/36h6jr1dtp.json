@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1dtp",
-  "category": "etc",
-  "title": "わくわくショッピング",
-  "fullTitle": "わくわくショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "わくわくショッピング・森永乳業テレビショッピング",
+  "fullTitle": "わくわくショッピング・森永乳業テレビショッピング🅂",
+  "detail": "買いたい新書\n◇番組内容\n０１２０－３６９４２０",
   "start": 1728019800000,
   "end": 1728021600000,
   "seconds": 1800,
+  "description": "買いたい新書",
+  "extra": {
+    "番組内容": "０１２０－３６９４２０"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }

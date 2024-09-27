@@ -1,0 +1,26 @@
+{
+  "id": "3826py5ul3",
+  "category": "music",
+  "title": "歌のサンセット",
+  "fullTitle": "歌のサンセット🈑🈖",
+  "detail": "最新曲と様々な情報をお届けする夕方の音楽情報番組！【ゲスト】カセットガール、JEONG　DONG-WON、西方裕之、美川憲一、杜このみ、ONE　N’ONLY",
+  "start": 1727425800000,
+  "end": 1727427300000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "ゲスト",
+  "episode": 1,
+  "flags": [
+    "字",
+    "解"
+  ]
+}
