@@ -1,0 +1,23 @@
+{
+  "id": "3826py5umd",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ茨城新聞杯\r\n　　　　11Ｒ秋風Ｓ\r\n【中京】11ＲシリウスＳ（ＧⅢ）",
+  "start": 1727503200000,
+  "end": 1727506800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
