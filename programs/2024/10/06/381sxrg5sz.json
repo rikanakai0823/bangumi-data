@@ -1,0 +1,27 @@
+{
+  "id": "381sxrg5sz",
+  "category": "information",
+  "title": "ぜひモノ",
+  "fullTitle": "ぜひモノ",
+  "detail": "通販番組（ＴＶショッピング）\r\n\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
+  "start": 1728158400000,
+  "end": 1728162000000,
+  "seconds": 3600,
+  "description": "通販番組（ＴＶショッピング）\r\n",
+  "extra": {
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
