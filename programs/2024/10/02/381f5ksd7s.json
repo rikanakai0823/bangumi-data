@@ -1,12 +1,12 @@
 {
   "id": "381f5ksd7s",
-  "category": "documentary",
-  "title": "北アルプス「北アルプスの四季」",
-  "fullTitle": "北アルプス「北アルプスの四季」",
-  "detail": "北アルプスの山々の四季",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース",
+  "detail": "",
   "start": 1727801460000,
-  "end": 1727805060000,
-  "seconds": 3600,
+  "end": 1727801460001,
+  "seconds": 0.001,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "北アルプスの四季",
+  "subTitle": "",
   "episode": 1,
   "flags": []
 }
