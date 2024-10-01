@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "日向坂ミュージックパレード",
   "fullTitle": "日向坂ミュージックパレード",
-  "detail": "",
+  "detail": "日向坂４６四期「冠」音楽バラエティー！\n◇出演者\n日向坂４６\r\n３時のヒロイン",
   "start": 1727971140000,
   "end": 1727972940000,
   "seconds": 1800,
+  "description": "日向坂４６四期「冠」音楽バラエティー！",
+  "extra": {
+    "出演者": "日向坂４６\r\n３時のヒロイン"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
+  "subTitle": "冠",
   "episode": 1,
   "flags": []
 }
