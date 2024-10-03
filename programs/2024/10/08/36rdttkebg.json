@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【FIJI BLUE特集】\r\nFIJI BLUE インタビュー\r\n\"Angel\"\n◇番組内容２\nZACH BRYAN feat. JHON MAYER\"Better Days\"\r\nTOM WALKER\"Holy Ghost\"\r\nSHAWN MENDES\"Why Why Why\"\r\nFRIKO\"Get Numb To It!\"",
   "start": 1728313200000,
   "end": 1728315000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【FIJI BLUE特集】\r\nFIJI BLUE インタビュー\r\n\"Angel\"",
+    "番組内容２": "ZACH BRYAN feat. JHON MAYER\"Better Days\"\r\nTOM WALKER\"Holy Ghost\"\r\nSHAWN MENDES\"Why Why Why\"\r\nFRIKO\"Get Numb To It!\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",

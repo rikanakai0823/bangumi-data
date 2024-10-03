@@ -1,15 +1,16 @@
 {
   "id": "36l9gkuf2g",
   "category": "information",
-  "title": "ビジネストレンド　三船霊園",
-  "fullTitle": "ビジネストレンド　三船霊園",
-  "detail": "◇番組内容    \n三船霊園",
+  "title": "ビジネストレンド　三舟霊園",
+  "fullTitle": "ビジネストレンド　三舟霊園",
+  "detail": "◇番組内容    \n三船霊園\r\n\n◇番組内容\n三舟霊園",
   "start": 1728564900000,
   "end": 1728565200000,
   "seconds": 300,
   "description": " ",
   "extra": {
-    "番組内容    ": "三船霊園\r\n"
+    "番組内容    ": "三船霊園\r\n",
+    "番組内容": "三舟霊園"
   },
   "channel": {
     "type": "GR",
