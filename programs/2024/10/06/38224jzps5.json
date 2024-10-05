@@ -1,0 +1,25 @@
+{
+  "id": "38224jzps5",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "テレビについてみなさまと考える番組です。テレビ朝日に寄せられた視聴者のみなさまからの意見を反映し、一緒に考え今後の番組制作に生かします。",
+  "start": 1728158400000,
+  "end": 1728159600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
