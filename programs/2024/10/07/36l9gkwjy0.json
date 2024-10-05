@@ -1,9 +1,9 @@
 {
   "id": "36l9gkwjy0",
   "category": "sports",
-  "title": "秋の高校野球千葉県大会",
-  "fullTitle": "秋の高校野球千葉県大会",
-  "detail": " ",
+  "title": "秋の高校野球千葉県大会　決勝",
+  "fullTitle": "秋の高校野球千葉県大会　決勝",
+  "detail": "【会場】千葉県総合ＳＣ野球場\r\n【解説】木村雅一【実況】桑原秀和",
   "start": 1728259200000,
   "end": 1728291300000,
   "seconds": 32100,
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 10
   },
-  "subTitle": "",
+  "subTitle": "会場",
   "episode": 1,
   "flags": []
 }
