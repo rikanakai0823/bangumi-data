@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwjuc",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "桂竹丸「米丸を偲んで」、三遊亭遊三「蛙茶番」",
+  "start": 1728205500000,
+  "end": 1728208800000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
