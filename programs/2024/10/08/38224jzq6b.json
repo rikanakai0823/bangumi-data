@@ -1,0 +1,25 @@
+{
+  "id": "38224jzq6b",
+  "category": "information",
+  "title": "羽鳥慎一モーニングショー",
+  "fullTitle": "羽鳥慎一モーニングショー🈑",
+  "detail": "羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。",
+  "start": 1728342000000,
+  "end": 1728348900000,
+  "seconds": 6900,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
