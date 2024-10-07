@@ -1,0 +1,27 @@
+{
+  "id": "36h6jr1fi3",
+  "category": "information",
+  "title": "ショップジャパン",
+  "fullTitle": "ショップジャパン",
+  "detail": "◇番組内容\nナイスデイ　０１２０－４４－００２７",
+  "start": 1728712800000,
+  "end": 1728714540000,
+  "seconds": 1740,
+  "description": "",
+  "extra": {
+    "番組内容": "ナイスデイ　０１２０－４４－００２７"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
