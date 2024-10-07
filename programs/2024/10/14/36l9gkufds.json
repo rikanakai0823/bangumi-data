@@ -1,12 +1,16 @@
 {
   "id": "36l9gkufds",
   "category": "music",
-  "title": "ＯＮＧＡＸ　２０２４年１０月",
-  "fullTitle": "ＯＮＧＡＸ　２０２４年１０月",
-  "detail": " ",
+  "title": "ＯＮＧＡＸ",
+  "fullTitle": "ＯＮＧＡＸ",
+  "detail": "２０２４年１０月\n◇番組内容\n●Helsinki Lambda Club / THE FAKE ESCAPE\r\n●スパンコールグッドタイムズ / 雨のキネマとアンブレラ\r\n●カナイリョウタ / 狂炎のイド\r\n●RUSH300 / 渋谷DRUG ON20XX\r\n●Bimi / You Gotta Power\r\n●からあげ弁当 / Good day",
   "start": 1728910800000,
   "end": 1728911700000,
   "seconds": 900,
+  "description": "２０２４年１０月",
+  "extra": {
+    "番組内容": "●Helsinki Lambda Club / THE FAKE ESCAPE\r\n●スパンコールグッドタイムズ / 雨のキネマとアンブレラ\r\n●カナイリョウタ / 狂炎のイド\r\n●RUSH300 / 渋谷DRUG ON20XX\r\n●Bimi / You Gotta Power\r\n●からあげ弁当 / Good day"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
