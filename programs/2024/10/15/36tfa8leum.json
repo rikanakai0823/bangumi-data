@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8leum",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「あなたも私もねりま推し賞」「しぶやダイバーシティ賞」「北区賞」「目黒区賞」「せたがや新議場開場記念賞」「つる座特別」「神無月賞」「アンドロメダ賞」",
+  "start": 1728973200000,
+  "end": 1728993600000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
