@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ley4",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「都電とバラの街あらかわ賞」「マンガ・アニメ・トシマ賞」「白秋特別」「第３１回　マイルグランプリ（ＳⅡ）」「稲荷坂賞」",
+  "start": 1729059600000,
+  "end": 1729080000000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "マイルグランプリ（ＳⅡ）",
+  "episode": 31,
+  "flags": []
+}
