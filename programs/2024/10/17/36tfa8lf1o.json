@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lf1o",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「台東賞」「ＹＳＪトライアルラウンド大井第１戦」「馬産地日高賞」「ＹＳＪトライアルラウンド大井第２戦」「オパール賞」「野菊賞」",
+  "start": 1729146000000,
+  "end": 1729166400000,
+  "seconds": 20400,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
