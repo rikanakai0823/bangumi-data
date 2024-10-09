@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ee9",
   "category": "etc",
-  "title": "買物情報",
-  "fullTitle": "買物情報",
-  "detail": "",
+  "title": "買物情報・イチおし！Ｓｅｌｅｃｔｉｏｎ",
+  "fullTitle": "買物情報・イチおし！Ｓｅｌｅｃｔｉｏｎ🅂",
+  "detail": "◇番組内容\nＣＯＮＣリンクルインジェクション　０１２０－７３－４９０７",
   "start": 1729025700000,
   "end": 1729027500000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ＣＯＮＣリンクルインジェクション　０１２０－７３－４９０７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
