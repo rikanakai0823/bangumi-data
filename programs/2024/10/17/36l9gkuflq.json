@@ -1,12 +1,16 @@
 {
   "id": "36l9gkuflq",
   "category": "information",
-  "title": "生活情報",
-  "fullTitle": "生活情報",
-  "detail": " ",
+  "title": "生活情報【内容】飲みごたえ野菜青汁",
+  "fullTitle": "生活情報【内容】飲みごたえ野菜青汁",
+  "detail": "【内容】飲みごたえ野菜青汁\r\n【電話】0120-3030-83\n◇番組内容\n【内容】飲みごたえ野菜青汁\r\n【電話】0120-3030-83",
   "start": 1729123200000,
   "end": 1729125000000,
   "seconds": 1800,
+  "description": "【内容】飲みごたえ野菜青汁\r\n【電話】0120-3030-83",
+  "extra": {
+    "番組内容": "【内容】飲みごたえ野菜青汁\r\n【電話】0120-3030-83"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 9
   },
-  "subTitle": "",
+  "subTitle": "内容",
   "episode": 1,
   "flags": []
 }
