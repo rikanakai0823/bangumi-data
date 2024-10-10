@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【VIOLETTE WAUTIER特集】\r\nVIOLETTE WAUTIER インタビュー\r\n\"Dancing On A Graveyard\"\r\n\"Favourite Mistake\"\n◇番組内容２\nTHE WEEKND\"Dancing In The Flames\"\r\nHINDS\"Superstar\"\r\nZIGGY ALBERTS\"Where Does The Love Go?\"",
   "start": 1728918000000,
   "end": 1728919800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【VIOLETTE WAUTIER特集】\r\nVIOLETTE WAUTIER インタビュー\r\n\"Dancing On A Graveyard\"\r\n\"Favourite Mistake\"",
+    "番組内容２": "THE WEEKND\"Dancing In The Flames\"\r\nHINDS\"Superstar\"\r\nZIGGY ALBERTS\"Where Does The Love Go?\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
