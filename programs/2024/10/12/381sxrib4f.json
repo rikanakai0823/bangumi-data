@@ -1,0 +1,23 @@
+{
+  "id": "381sxrib4f",
+  "category": "information",
+  "title": "カイモノラボ",
+  "fullTitle": "カイモノラボ",
+  "detail": "TBSショッピングの最新売れ筋アイテムを超お得にお届けするショッピング・バラエティ!!",
+  "start": 1728669900000,
+  "end": 1728673200000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
