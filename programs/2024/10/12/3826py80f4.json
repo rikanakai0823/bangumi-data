@@ -1,0 +1,23 @@
+{
+  "id": "3826py80f4",
+  "category": "sports",
+  "title": "ウイニング競馬～京都～",
+  "fullTitle": "ウイニング競馬～京都～",
+  "detail": "【京都】10Ｒ大原Ｓ\r\n　　　　11Ｒ大阪スポーツ杯\r\n【新潟】10Ｒ粟島特別\r\n　　　　11Ｒ飛翼特別",
+  "start": 1728712800000,
+  "end": 1728716400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "京都",
+  "episode": 1,
+  "flags": []
+}
