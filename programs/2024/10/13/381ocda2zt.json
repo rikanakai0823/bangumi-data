@@ -1,0 +1,23 @@
+{
+  "id": "381ocda2zt",
+  "category": "information",
+  "title": "日テレポシュレ　夜は優雅にお買い物ＳＰ",
+  "fullTitle": "日テレポシュレ　夜は優雅にお買い物ＳＰ",
+  "detail": "",
+  "start": 1728761400000,
+  "end": 1728763200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
