@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwl5e",
+  "category": "etc",
+  "title": "この時間は０３１ｃｈをご覧ください。",
+  "fullTitle": "この時間は０３１ｃｈをご覧ください。",
+  "detail": "録画は０３１ｃｈで行ってください。",
+  "start": 1729459800000,
+  "end": 1729460100000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
