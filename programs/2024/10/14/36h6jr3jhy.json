@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3jhy",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ🅂",
+  "detail": "「川口オート」「西武園競輪」",
+  "start": 1728912600000,
+  "end": 1728914400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
