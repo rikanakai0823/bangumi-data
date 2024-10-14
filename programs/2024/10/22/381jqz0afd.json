@@ -1,0 +1,23 @@
+{
+  "id": "381jqz0afd",
+  "category": "sports",
+  "title": "第４７回ＮＨＫ杯全日本カヌースラローム",
+  "fullTitle": "第４７回ＮＨＫ杯全日本カヌースラローム",
+  "detail": "",
+  "start": 1729526400000,
+  "end": 1729533600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 47,
+  "flags": []
+}
