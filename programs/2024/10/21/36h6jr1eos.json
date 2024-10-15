@@ -1,8 +1,8 @@
 {
   "id": "36h6jr1eos",
   "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
+  "title": "ＴＶショッピング・スカイネットテレビショッピング",
+  "fullTitle": "ＴＶショッピング・スカイネットテレビショッピング🅂",
   "detail": "",
   "start": 1729488600000,
   "end": 1729490400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
