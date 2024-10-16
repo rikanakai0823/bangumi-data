@@ -1,0 +1,27 @@
+{
+  "id": "381xj5ots5",
+  "category": "information",
+  "title": "リモートシェフ",
+  "fullTitle": "リモートシェフ",
+  "detail": "料理人対決番組「リモートシェフ」！求められるのは料理を伝える力。\n◇番組内容\n＜Ｗナイト＞",
+  "start": 1729707000000,
+  "end": 1729710600000,
+  "seconds": 3600,
+  "description": "料理人対決番組「リモートシェフ」！求められるのは料理を伝える力。",
+  "extra": {
+    "番組内容": "＜Ｗナイト＞"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "リモートシェフ",
+  "episode": 1,
+  "flags": []
+}
