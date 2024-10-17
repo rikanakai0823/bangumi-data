@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【BRUNO MAJOR特集】\r\nBRUNO MAJOR インタビュー\r\n\"We Were Never Really Friends\"\r\n\"18\"\n◇番組内容２\nDUA LIPA\"Let's Get Physical Work Out\"\r\nYONLAPA\"I'm Just Like That\"\r\nFEVER 333\"Higher Power\"",
   "start": 1729522800000,
   "end": 1729524600000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【BRUNO MAJOR特集】\r\nBRUNO MAJOR インタビュー\r\n\"We Were Never Really Friends\"\r\n\"18\"",
+    "番組内容２": "DUA LIPA\"Let's Get Physical Work Out\"\r\nYONLAPA\"I'm Just Like That\"\r\nFEVER 333\"Higher Power\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
