@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwkxi",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ　ＮＥＯ▽日曜京都１１Ｒ　菊花賞（ＧⅠ）　他",
+  "fullTitle": "金曜競馬ＣＬＵＢ　ＮＥＯ▽日曜京都１１Ｒ　菊花賞（ＧⅠ）　他",
+  "detail": "日曜京都１１Ｒ　菊花賞（ＧⅠ）\r\n土曜東京１１Ｒ　富士ステークス（ＧⅡ）\r\n土曜京都１１Ｒ　オータムリーフステークス\r\n土曜新潟１１Ｒ　北陸ステークス\r\n",
+  "start": 1729252800000,
+  "end": 1729254600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
