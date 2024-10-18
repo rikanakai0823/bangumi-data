@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5otx",
+  "category": "theater",
+  "title": "よしもと新喜劇",
+  "fullTitle": "よしもと新喜劇🅂",
+  "detail": "「人生劇場、演じます！」",
+  "start": 1729245600000,
+  "end": 1729249200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "人生劇場、演じます！",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
