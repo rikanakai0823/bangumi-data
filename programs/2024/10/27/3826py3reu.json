@@ -1,0 +1,26 @@
+{
+  "id": "3826py3reu",
+  "category": "news",
+  "title": "集まれ！総選挙ライブ",
+  "fullTitle": "集まれ！総選挙ライブ🈑🈓",
+  "detail": "テレ東の選挙特番が進化します！テレ東の記者やキャスター、各界のゲストが集まり、選挙という“お祭り”を楽しく観戦。政治を語りつくします！",
+  "start": 1730026200000,
+  "end": 1730039400000,
+  "seconds": 13200,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
