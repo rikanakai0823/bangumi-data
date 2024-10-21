@@ -1,0 +1,23 @@
+{
+  "id": "381f5ksj0o",
+  "category": "information",
+  "title": "＃ＮＨＫ",
+  "fullTitle": "＃ＮＨＫ",
+  "detail": "",
+  "start": 1730202120000,
+  "end": 1730202300000,
+  "seconds": 180,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
