@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ezc",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ベルーナＴＶショッピング",
+  "fullTitle": "ＴＶショッピング・ベルーナＴＶショッピング🅂",
+  "detail": "ベルーナグルメＴＶショッピング\n◇番組内容\n宅菜便　はなまる御膳　０１２０－００－４１５５",
   "start": 1730014200000,
   "end": 1730016000000,
   "seconds": 1800,
+  "description": "ベルーナグルメＴＶショッピング",
+  "extra": {
+    "番組内容": "宅菜便　はなまる御膳　０１２０－００－４１５５"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
