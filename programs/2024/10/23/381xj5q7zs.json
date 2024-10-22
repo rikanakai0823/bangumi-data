@@ -1,0 +1,23 @@
+{
+  "id": "381xj5q7zs",
+  "category": "news",
+  "title": "政見放送（東京・比例代表）",
+  "fullTitle": "政見放送（東京・比例代表）",
+  "detail": "公職選挙法に基づいて衆議院議員総選挙比例代表東京都選挙区名簿届出政党の政見を放送します。",
+  "start": 1729624500000,
+  "end": 1729626900000,
+  "seconds": 2400,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597dt",
+    "sid": 1057,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 30
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
