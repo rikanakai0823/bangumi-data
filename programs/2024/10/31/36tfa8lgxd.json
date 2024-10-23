@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lgxd",
+  "category": "news",
+  "title": "ヒーリングタイム＆ヘッドラインニュース",
+  "fullTitle": "ヒーリングタイム＆ヘッドラインニュース",
+  "detail": "東京点描　城南１　等々力・城南島・羽田",
+  "start": 1730383200000,
+  "end": 1730386800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
