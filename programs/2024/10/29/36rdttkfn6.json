@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【FELIP特集】\r\nFELIP インタビュー\r\n\"envy\"\n◇番組内容２\nLL COOL J feat. EMINEM\"Murdergram Deux\"\r\nFUTURE\"Too Fast\"\r\nKAYTRANADA feat. CHILDISH GAMBINO\"Witchy\"",
   "start": 1730127600000,
   "end": 1730129400000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【FELIP特集】\r\nFELIP インタビュー\r\n\"envy\"",
+    "番組内容２": "LL COOL J feat. EMINEM\"Murdergram Deux\"\r\nFUTURE\"Too Fast\"\r\nKAYTRANADA feat. CHILDISH GAMBINO\"Witchy\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
