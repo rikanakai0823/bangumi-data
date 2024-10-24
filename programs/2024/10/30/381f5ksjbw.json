@@ -1,12 +1,16 @@
 {
   "id": "381f5ksjbw",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　ＮＨＫ環境経営の取り組み",
+  "fullTitle": "＃ＮＨＫ　ＮＨＫ環境経営の取り組み",
+  "detail": "【アナウンサー】牛田茉友\n◇出演者\n【アナウンサー】牛田茉友",
   "start": 1730288520000,
   "end": 1730288700000,
   "seconds": 180,
+  "description": "【アナウンサー】牛田茉友",
+  "extra": {
+    "出演者": "【アナウンサー】牛田茉友"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }
