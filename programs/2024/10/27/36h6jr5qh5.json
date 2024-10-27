@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5qh5",
+  "category": "information",
+  "title": "テレ玉認定！たまぐるめ",
+  "fullTitle": "テレ玉認定！たまぐるめ🅂",
+  "detail": "手打うどん　ひら田",
+  "start": 1730012100000,
+  "end": 1730012400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
