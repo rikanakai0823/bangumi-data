@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lhps",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「野馬追賞」「ほうおう座特別」「オフト大郷賞」「ポルックス賞」",
+  "start": 1730703000000,
+  "end": 1730722200000,
+  "seconds": 19200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
