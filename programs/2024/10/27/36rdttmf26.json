@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmf26",
+  "category": "sports",
+  "title": "横浜マラソン２０２４",
+  "fullTitle": "横浜マラソン２０２４",
+  "detail": "横浜ランドマークタワー前からスタート会場の模様を生中継！「横浜マラソン２０２４」",
+  "start": 1729983600000,
+  "end": 1729987200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "横浜マラソン２０２４",
+  "episode": 1,
+  "flags": []
+}
