@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lhxc",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「アメリカーノ賞」「ひいらぎ特別」「花梨賞」「第５７回ハイセイコー記念（ＳⅠ）」「ぎょしゃ座特別」",
+  "start": 1730875800000,
+  "end": 1730895000000,
+  "seconds": 19200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 57,
+  "flags": []
+}
