@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ffq",
-  "category": "etc",
-  "title": "ショッピング",
-  "fullTitle": "ショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピング・日本自然発酵テレビショッピング",
+  "fullTitle": "ショッピング・日本自然発酵テレビショッピング🅂",
+  "detail": "大切なあなたへ・・・　～飛騨からの贈り物～\n◇番組内容\nあもう酵素７７　０１２０－５９３－７７７",
   "start": 1730781000000,
   "end": 1730782740000,
   "seconds": 1740,
+  "description": "大切なあなたへ・・・　～飛騨からの贈り物～",
+  "extra": {
+    "番組内容": "あもう酵素７７　０１２０－５９３－７７７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
