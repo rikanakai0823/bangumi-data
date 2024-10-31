@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "２０２４年１１月",
+  "detail": "２０２４年１１月\n◇番組内容\n●佐藤優樹 / 花鳥風月 春夏秋冬\r\n●前島亜美 / Determination\r\n●レトロリロン / アンバランスブレンド\r\n●ゆうちゃみ / あなたに捧げる応援歌\r\n●武藤彩未 / あなたがくれた今日の日\r\n●小林柊矢 / ハイライト\r\n●アンジュルム / 悠々閑々 gonna be alright!!",
   "start": 1730469600000,
   "end": 1730471400000,
   "seconds": 1800,
+  "description": "２０２４年１１月",
+  "extra": {
+    "番組内容": "●佐藤優樹 / 花鳥風月 春夏秋冬\r\n●前島亜美 / Determination\r\n●レトロリロン / アンバランスブレンド\r\n●ゆうちゃみ / あなたに捧げる応援歌\r\n●武藤彩未 / あなたがくれた今日の日\r\n●小林柊矢 / ハイライト\r\n●アンジュルム / 悠々閑々 gonna be alright!!"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
