@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3kcn",
+  "category": "anime",
+  "title": "僕のヒーローアカデミア",
+  "fullTitle": "僕のヒーローアカデミア🅂",
+  "detail": "勝ち負け",
+  "start": 1730367000000,
+  "end": 1730368800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

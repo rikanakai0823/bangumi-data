@@ -1,12 +1,16 @@
 {
   "id": "381f5ksmbr",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　年に一度の“Ｅテレ　文化祭”スゴＥウイーク",
+  "fullTitle": "＃ＮＨＫ　年に一度の“Ｅテレ　文化祭”スゴＥウイーク",
+  "detail": "【アナウンサー】伊藤海彦\n◇出演者\n【アナウンサー】伊藤海彦",
   "start": 1730806920000,
   "end": 1730807100000,
   "seconds": 180,
+  "description": "【アナウンサー】伊藤海彦",
+  "extra": {
+    "出演者": "【アナウンサー】伊藤海彦"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }

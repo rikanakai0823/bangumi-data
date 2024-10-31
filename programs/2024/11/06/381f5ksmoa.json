@@ -1,12 +1,12 @@
 {
   "id": "381f5ksmoa",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース🈑",
+  "title": "ニュース「米大統領選挙開票速報」",
+  "fullTitle": "ニュース「米大統領選挙開票速報」🈑",
   "detail": "【キャスター】中山果奈\n◇出演者\n【キャスター】中山果奈",
   "start": 1730862000000,
-  "end": 1730862900000,
-  "seconds": 900,
+  "end": 1730864400000,
+  "seconds": 2400,
   "description": "【キャスター】中山果奈",
   "extra": {
     "出演者": "【キャスター】中山果奈"
@@ -21,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "キャスター",
+  "subTitle": "米大統領選挙開票速報",
   "episode": 1,
   "flags": [
     "字"
