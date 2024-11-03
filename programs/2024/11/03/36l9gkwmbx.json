@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwmbx",
+  "category": "information",
+  "title": "生活情報【内容】やわたDHA&EPAプレミアム",
+  "fullTitle": "生活情報【内容】やわたDHA&EPAプレミアム",
+  "detail": "【内容】やわたDHA&EPAプレミアム",
+  "start": 1730601000000,
+  "end": 1730602800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
