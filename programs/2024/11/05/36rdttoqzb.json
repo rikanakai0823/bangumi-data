@@ -1,0 +1,23 @@
+{
+  "id": "36rdttoqzb",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽「つかさ天気」▽オトコミ　吉田山田▽出張マチコミボード！大宮アルシェ前から生中継",
+  "start": 1730791800000,
+  "end": 1730793600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ３",
+    "id": "1hjjdzu",
+    "sid": 24634,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 7
+  },
+  "subTitle": "つかさ天気",
+  "episode": 1,
+  "flags": []
+}
