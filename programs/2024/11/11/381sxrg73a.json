@@ -1,9 +1,9 @@
 {
   "id": "381sxrg73a",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "variety",
+  "title": "月バラナイト「海をまるっと遊びつくせ　進め！ヒロミ丸」",
+  "fullTitle": "月バラナイト「海をまるっと遊びつくせ　進め！ヒロミ丸」🈑",
+  "detail": "番組情報決定までしばらくお待ち下さい。",
   "start": 1731336960000,
   "end": 1731340500000,
   "seconds": 3540,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 23
   },
-  "subTitle": "",
+  "subTitle": "海をまるっと遊びつくせ　進め！ヒロミ丸",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
