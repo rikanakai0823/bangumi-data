@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【MIKOLAS特集】\r\nMIKOLAS\"Boys Don’t Cry\"\r\nMIKOLAS, SKY-HI\"LALALALALALALALALALA (Tokyo Version)\"\n◇番組内容２\nTHE WEEKND, PLAYBOI CARTI\"Timeless\"\r\nROD WAVE\"25\"\r\nRAUW ALEJANDRO x MR. NAISGAI\"Pasaporte\"",
   "start": 1731337200000,
   "end": 1731339000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【MIKOLAS特集】\r\nMIKOLAS\"Boys Don’t Cry\"\r\nMIKOLAS, SKY-HI\"LALALALALALALALALALA (Tokyo Version)\"",
+    "番組内容２": "THE WEEKND, PLAYBOI CARTI\"Timeless\"\r\nROD WAVE\"25\"\r\nRAUW ALEJANDRO x MR. NAISGAI\"Pasaporte\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
