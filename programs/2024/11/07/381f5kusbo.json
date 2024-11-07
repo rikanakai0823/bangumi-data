@@ -1,0 +1,26 @@
+{
+  "id": "381f5kusbo",
+  "category": "news",
+  "title": "キャッチ！世界のトップニュース　アメリカ",
+  "fullTitle": "キャッチ！世界のトップニュース　アメリカ🈔🈑",
+  "detail": "【特集】米大統領選　開票状況を専門家が読み解く　キャスター：望月麻美／高橋彩",
+  "start": 1730941500000,
+  "end": 1730944500000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "特集",
+  "episode": 1,
+  "flags": [
+    "二",
+    "字"
+  ]
+}
