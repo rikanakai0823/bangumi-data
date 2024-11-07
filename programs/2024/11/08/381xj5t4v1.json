@@ -1,0 +1,23 @@
+{
+  "id": "381xj5t4v1",
+  "category": "music",
+  "title": "Ｔｕｎｅ",
+  "fullTitle": "Ｔｕｎｅ",
+  "detail": "日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。",
+  "start": 1731003900000,
+  "end": 1731005700000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597du",
+    "sid": 1058,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 31
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
