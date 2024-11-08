@@ -1,0 +1,23 @@
+{
+  "id": "3826py3rnj",
+  "category": "sports",
+  "title": "サタデーナイトＪ",
+  "fullTitle": "サタデーナイトＪ",
+  "detail": "最新のビジュアルイメージでお届けするＪリーグ応援番組がスタート!!最も熱く盛り上がった試合を中心に解説者独自の視点や情報で分かりやすく、深く、魅力を伝える30分です",
+  "start": 1731767400000,
+  "end": 1731769200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
