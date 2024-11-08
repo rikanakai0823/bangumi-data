@@ -1,12 +1,16 @@
 {
   "id": "381f5ksptg",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　被災した子どもたちの心に寄り添う「ラジオミニ朗読番組」",
+  "fullTitle": "＃ＮＨＫ　被災した子どもたちの心に寄り添う「ラジオミニ朗読番組」",
+  "detail": "【アナウンサー】林田理沙\n◇出演者\n【アナウンサー】林田理沙",
   "start": 1731498120000,
   "end": 1731498300000,
   "seconds": 180,
+  "description": "【アナウンサー】林田理沙",
+  "extra": {
+    "出演者": "【アナウンサー】林田理沙"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "ラジオミニ朗読番組",
   "episode": 1,
   "flags": []
 }
