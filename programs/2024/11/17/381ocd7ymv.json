@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7ymv",
+  "category": "cinema",
+  "title": "大ヒット矢野くんの普通の日々",
+  "fullTitle": "大ヒット矢野くんの普通の日々🈞",
+  "detail": "",
+  "start": 1731788400000,
+  "end": 1731788700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
