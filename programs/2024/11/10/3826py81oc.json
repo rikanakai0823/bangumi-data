@@ -1,0 +1,23 @@
+{
+  "id": "3826py81oc",
+  "category": "information",
+  "title": "サンデーテレショップ",
+  "fullTitle": "サンデーテレショップ",
+  "detail": "日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。",
+  "start": 1731187800000,
+  "end": 1731189600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
