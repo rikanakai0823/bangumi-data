@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1fuc",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
+  "fullTitle": "ＴＶショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nイオネスユネスタ　０１２０－８８８－６５４",
   "start": 1731574800000,
   "end": 1731576600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "イオネスユネスタ　０１２０－８８８－６５４"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
