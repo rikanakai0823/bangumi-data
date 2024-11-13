@@ -1,0 +1,25 @@
+{
+  "id": "381jqz2pof",
+  "category": "variety",
+  "title": "Ｅテレ０６５５　水曜日",
+  "fullTitle": "Ｅテレ０６５５　水曜日🈑",
+  "detail": "１日のはじまりをつくる５分番組『０６５５』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します",
+  "start": 1731448500000,
+  "end": 1731448800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
