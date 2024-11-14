@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwnz5",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "第4回チャリティー音楽祭　スーパーライブ2023",
+  "start": 1732262400000,
+  "end": 1732265700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 4,
+  "flags": []
+}
