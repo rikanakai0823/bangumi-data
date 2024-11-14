@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【UNDERWORLD特集】\r\n\"Born Slippy (Nuxx) \"\r\n\"Techno Shinkansen\"\n◇番組内容２\nBIIG PIIG\"Favourite Girl\"\r\nLALAH HATHAWAY \"So In Love\"",
   "start": 1731942000000,
   "end": 1731943800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【UNDERWORLD特集】\r\n\"Born Slippy (Nuxx) \"\r\n\"Techno Shinkansen\"",
+    "番組内容２": "BIIG PIIG\"Favourite Girl\"\r\nLALAH HATHAWAY \"So In Love\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
