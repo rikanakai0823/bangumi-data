@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwn95",
+  "category": "news",
+  "title": "ｎｅｗｓチバ",
+  "fullTitle": "ｎｅｗｓチバ",
+  "detail": "▽県内ニュース　▽天気予報　▽出演／岸波香桜アナウンサー",
+  "start": 1731587400000,
+  "end": 1731588900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
