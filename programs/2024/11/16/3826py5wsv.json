@@ -1,0 +1,23 @@
+{
+  "id": "3826py5wsv",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】11Ｒ東京スポーツ杯２歳Ｓ（GⅡ）【京都】10Ｒ近江特別・11ＲアンドロメダＳ（L）【福島】11RキビタキＳ・12R３歳以上１勝クラス",
+  "start": 1731736800000,
+  "end": 1731740400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
