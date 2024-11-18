@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1gdg",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ゴルフ　ギア魂！",
+  "fullTitle": "ＴＶショッピング・ゴルフ　ギア魂！🅂",
+  "detail": "◇番組内容\nＤＡＮＧＡＮ７　ＭＡＸアイアン　０１２０－７３－７３－７７",
   "start": 1732246200000,
   "end": 1732248000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ＤＡＮＧＡＮ７　ＭＡＸアイアン　０１２０－７３－７３－７７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
