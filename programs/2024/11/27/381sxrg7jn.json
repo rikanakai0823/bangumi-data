@@ -1,9 +1,9 @@
 {
   "id": "381sxrg7jn",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "variety",
+  "title": "淳×ジュニア×有吉　４０歳－５０歳～１０年観察～",
+  "fullTitle": "淳×ジュニア×有吉　４０歳－５０歳～１０年観察～🈑",
+  "detail": "番組情報決定までしばらくお待ち下さい。",
   "start": 1732712400000,
   "end": 1732717620000,
   "seconds": 5220,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
