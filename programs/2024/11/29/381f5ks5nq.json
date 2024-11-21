@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks5nq",
+  "category": "variety",
+  "title": "今夜も生でさだまさし",
+  "fullTitle": "今夜も生でさだまさし🈑",
+  "detail": "",
+  "start": 1732891500000,
+  "end": 1732896900000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

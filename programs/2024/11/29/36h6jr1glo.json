@@ -1,0 +1,29 @@
+{
+  "id": "36h6jr1glo",
+  "category": "information",
+  "title": "ＴＶショッピング・スマイルショッピング",
+  "fullTitle": "ＴＶショッピング・スマイルショッピング🅂",
+  "detail": "スマイルショッピング\n◇番組内容\nファインコーヒーＷ　０１２０－４９７－６８８",
+  "start": 1732821300000,
+  "end": 1732823100000,
+  "seconds": 1800,
+  "description": "スマイルショッピング",
+  "extra": {
+    "番組内容": "ファインコーヒーＷ　０１２０－４９７－６８８"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

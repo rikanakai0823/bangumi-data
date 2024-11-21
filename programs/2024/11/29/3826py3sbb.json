@@ -1,0 +1,30 @@
+{
+  "id": "3826py3sbb",
+  "category": "hobby",
+  "title": "ウタぷしゅ",
+  "fullTitle": "ウタぷしゅ🈑🈖",
+  "detail": "「シナぷしゅ」で人気のオリジナルソングを集めたスペシャル番組。\n◇放送形態\n解説放送あり",
+  "start": 1732869000000,
+  "end": 1732870500000,
+  "seconds": 1500,
+  "description": "「シナぷしゅ」で人気のオリジナルソングを集めたスペシャル番組。",
+  "extra": {
+    "放送形態": "解説放送あり"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "シナぷしゅ",
+  "episode": 1,
+  "flags": [
+    "字",
+    "解"
+  ]
+}
