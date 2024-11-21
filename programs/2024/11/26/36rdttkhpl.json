@@ -3,10 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【JOHN LENNON特集】\r\n\"Mind Games\"\r\n\"You Are Here (Ultimate Mix)\"\n◇番組内容２\n【DONAVON FRANKENREITER特集】\r\n\"Get Outta Your Mind\"\n◇番組内容３\nERIC CLAPTON\"Makes No Difference (Live) [Crossroads 2023]\"\r\nBRUCE SPRINGSTEEN\"Streets Of Philadelphia\"",
   "start": 1732546800000,
   "end": 1732548600000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【JOHN LENNON特集】\r\n\"Mind Games\"\r\n\"You Are Here (Ultimate Mix)\"",
+    "番組内容２": "【DONAVON FRANKENREITER特集】\r\n\"Get Outta Your Mind\"",
+    "番組内容３": "ERIC CLAPTON\"Makes No Difference (Live) [Crossroads 2023]\"\r\nBRUCE SPRINGSTEEN\"Streets Of Philadelphia\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
