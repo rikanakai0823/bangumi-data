@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ＪＲＡ競馬中継",
   "fullTitle": "ＪＲＡ競馬中継🅂",
-  "detail": "",
+  "detail": "中央競馬レース実況生中継\n◇出演者\n皆藤愛子、高田秋、舩山陽司、宮島咲良",
   "start": 1732338000000,
   "end": 1732341600000,
   "seconds": 3600,
+  "description": "中央競馬レース実況生中継",
+  "extra": {
+    "出演者": "皆藤愛子、高田秋、舩山陽司、宮島咲良"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

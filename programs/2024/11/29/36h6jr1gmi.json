@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1gmi",
-  "category": "etc",
-  "title": "ショッピング",
-  "fullTitle": "ショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピング・日本薬師堂テレビショッピング",
+  "fullTitle": "ショッピング・日本薬師堂テレビショッピング🅂",
+  "detail": "日本薬師堂スペシャル\n◇番組内容\n薬師八味丸錠　０１２０－８９４－５５５",
   "start": 1732863600000,
   "end": 1732865400000,
   "seconds": 1800,
+  "description": "日本薬師堂スペシャル",
+  "extra": {
+    "番組内容": "薬師八味丸錠　０１２０－８９４－５５５"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
