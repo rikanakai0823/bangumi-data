@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwoxp",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃３８５",
-  "fullTitle": "チバミライチャンネル　＃３８５",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "全日本中学生高校生管打楽器ソロコンテスト千葉県大会2023\n◇番組内容\nnewsチバ特集\r\n多様性と校則・制服",
   "start": 1733212800000,
   "end": 1733215800000,
   "seconds": 3000,
+  "description": "全日本中学生高校生管打楽器ソロコンテスト千葉県大会2023",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n多様性と校則・制服"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 385,
+  "episode": 1,
   "flags": []
 }
