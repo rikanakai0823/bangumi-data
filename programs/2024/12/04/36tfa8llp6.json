@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8llp6",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「鳥居坂賞」「第１６回　勝島王冠（ＳⅡ）」「カノープス賞」",
+  "start": 1733295000000,
+  "end": 1733314200000,
+  "seconds": 19200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "勝島王冠（ＳⅡ）",
+  "episode": 16,
+  "flags": []
+}
