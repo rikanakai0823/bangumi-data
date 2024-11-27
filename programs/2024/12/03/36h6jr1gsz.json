@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ショップジャパン",
   "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "detail": "◇番組内容\nホオンテックプレミアム　０１２０－１６－００７９",
   "start": 1733203800000,
   "end": 1733205600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ホオンテックプレミアム　０１２０－１６－００７９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
