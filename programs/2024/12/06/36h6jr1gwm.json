@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1gwm",
-  "category": "etc",
-  "title": "ミッドナイトテレビショッピング",
-  "fullTitle": "ミッドナイトテレビショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ミッドナイトテレビショッピング・ダイレクトテレショップ",
+  "fullTitle": "ミッドナイトテレビショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nグラマーシェイプウォームレギンス　０１２０－９１９－２３９",
   "start": 1733410800000,
   "end": 1733412600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "グラマーシェイプウォームレギンス　０１２０－９１９－２３９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
