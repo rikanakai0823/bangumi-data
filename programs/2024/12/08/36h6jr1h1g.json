@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1h1g",
+  "category": "hobby",
+  "title": "スロパチＴＶ",
+  "fullTitle": "スロパチＴＶ🅂",
+  "detail": "",
+  "start": 1733585400000,
+  "end": 1733587200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
