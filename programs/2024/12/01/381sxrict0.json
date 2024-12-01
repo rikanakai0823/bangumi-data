@@ -1,0 +1,25 @@
+{
+  "id": "381sxrict0",
+  "category": "news",
+  "title": "Ｎスタ",
+  "fullTitle": "Ｎスタ🈑",
+  "detail": "中国で全国一斉に公務員試験が始まる。空前の就職難の中、若者たちはどのように試験に挑むのか、ほか、この日のニュース気になる天気をまとめてお伝えします。",
+  "start": 1733041800000,
+  "end": 1733043600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
