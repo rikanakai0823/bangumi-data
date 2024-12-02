@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＯＮＧＡＸ",
   "fullTitle": "ＯＮＧＡＸ",
-  "detail": "モーニング娘。’２４スペシャル",
+  "detail": "モーニング娘。’２４スペシャル\n◇番組内容\n●勇敢なダンス\r\n●なんだかセンチメンタルな時の歌\r\n●最KIYOU\r\n●すっごいFEVER！\r\n●Wake-up Call～目覚めるとき～\r\n●Neverending Shine",
   "start": 1733239800000,
   "end": 1733241600000,
   "seconds": 1800,
+  "description": "モーニング娘。’２４スペシャル",
+  "extra": {
+    "番組内容": "●勇敢なダンス\r\n●なんだかセンチメンタルな時の歌\r\n●最KIYOU\r\n●すっごいFEVER！\r\n●Wake-up Call～目覚めるとき～\r\n●Neverending Shine"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
