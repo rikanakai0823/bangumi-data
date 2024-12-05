@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【PEACH TREE RASCALS特集】\r\n\"Lately I\"\r\n\"Come Around\"\n◇番組内容２\nLADY GAGA\"Disease\"\r\nTHE KID LAROI\"Aperol Spritz\"\r\nTYLER, THE CREATOR\"Noid\"\r\nG-DRAGON\"POWER\"",
   "start": 1733756400000,
   "end": 1733758200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【PEACH TREE RASCALS特集】\r\n\"Lately I\"\r\n\"Come Around\"",
+    "番組内容２": "LADY GAGA\"Disease\"\r\nTHE KID LAROI\"Aperol Spritz\"\r\nTYLER, THE CREATOR\"Noid\"\r\nG-DRAGON\"POWER\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
