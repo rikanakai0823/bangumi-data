@@ -1,12 +1,16 @@
 {
   "id": "381f5ksb2h",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　日本賞（２）",
+  "fullTitle": "＃ＮＨＫ　日本賞（２）",
+  "detail": "【アナウンサー】二宮直輝\n◇出演者\n【アナウンサー】二宮直輝",
   "start": 1734003720000,
   "end": 1734003900000,
   "seconds": 180,
+  "description": "【アナウンサー】二宮直輝",
+  "extra": {
+    "出演者": "【アナウンサー】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "アナウンサー",
+  "episode": 2,
   "flags": []
 }
