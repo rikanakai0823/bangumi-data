@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8hd95",
+  "category": "news",
+  "title": "東京都議会中継🈐",
+  "fullTitle": "東京都議会中継🈐",
+  "detail": "「令和６年第４回定例会　本会議最終日」\n◇おしらせ\n※最大延長　夕方６時まで",
+  "start": 1734494400000,
+  "end": 1734505200000,
+  "seconds": 10800,
+  "description": "「令和６年第４回定例会　本会議最終日」",
+  "extra": {
+    "おしらせ": "※最大延長　夕方６時まで"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "令和６年第４回定例会　本会議最終日",
+  "episode": 4,
+  "flags": []
+}
