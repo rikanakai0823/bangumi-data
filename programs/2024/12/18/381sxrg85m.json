@@ -1,12 +1,21 @@
 {
   "id": "381sxrg85m",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "variety",
+  "title": "水曜日のダウンタウン#SP",
+  "fullTitle": "水曜日のダウンタウン#SP🈑",
+  "detail": "芸能人が持ち寄った「自らの信じる説」を検証！\n◇番組内容\n　\n◇出演者\n【MC】ダウンタウン\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/suiyobinodowntown/\n◇公式ページ２\n◇番組X\r\n@wed_downtown\r\nhttps://twitter.com/wed_downtown\n◇スタッフ\n演出:藤井健太郎\n◇おことわり\n番組の内容と放送時間は、変更になる場合があります。",
   "start": 1734523200000,
   "end": 1734530220000,
   "seconds": 7020,
+  "description": "芸能人が持ち寄った「自らの信じる説」を検証！",
+  "extra": {
+    "番組内容": "　",
+    "出演者": "【MC】ダウンタウン",
+    "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/suiyobinodowntown/",
+    "公式ページ２": "◇番組X\r\n@wed_downtown\r\nhttps://twitter.com/wed_downtown",
+    "スタッフ": "演出:藤井健太郎",
+    "おことわり": "番組の内容と放送時間は、変更になる場合があります。"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -17,7 +26,9 @@
     "hasLogoData": true,
     "n": 23
   },
-  "subTitle": "",
+  "subTitle": "自らの信じる説",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
