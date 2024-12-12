@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1hn9",
+  "category": "news",
+  "title": "ＴＥＬＥＴＡＭＡ  ＮＥＷＳ",
+  "fullTitle": "ＴＥＬＥＴＡＭＡ  ＮＥＷＳ",
+  "detail": "",
+  "start": 1734665400000,
+  "end": 1734665700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
