@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【MINA OKABE特集】\r\nMINA OKABE インタビュー\r\n\"Strong (Lyric Video)\"\n◇番組内容２\nDAMIANO DAVID\"Born With A Broken Heart\"\r\nEZRA COLLECTIVE  feat. YAZMIN LACEY\r\n\"God Gave Me Feet For Dancing\"\r\nKANE BROWN\"Backseat Driver\"\r\nNATALIE IMBRUGLIA\"Torn\"",
   "start": 1734361200000,
   "end": 1734363000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【MINA OKABE特集】\r\nMINA OKABE インタビュー\r\n\"Strong (Lyric Video)\"",
+    "番組内容２": "DAMIANO DAVID\"Born With A Broken Heart\"\r\nEZRA COLLECTIVE  feat. YAZMIN LACEY\r\n\"God Gave Me Feet For Dancing\"\r\nKANE BROWN\"Backseat Driver\"\r\nNATALIE IMBRUGLIA\"Torn\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
