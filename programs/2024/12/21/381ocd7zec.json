@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7zec",
+  "category": "information",
+  "title": "日テレポシュレ　やっぱりこれだねＳＰ",
+  "fullTitle": "日テレポシュレ　やっぱりこれだねＳＰ🈞",
+  "detail": "",
+  "start": 1734718440000,
+  "end": 1734720240000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
