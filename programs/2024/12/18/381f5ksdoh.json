@@ -1,12 +1,16 @@
 {
   "id": "381f5ksdoh",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　おすすめ番組の紹介",
+  "fullTitle": "＃ＮＨＫ　おすすめ番組の紹介",
+  "detail": "【アナウンサー】伊藤海彦\n◇出演者\n【アナウンサー】伊藤海彦",
   "start": 1734522120000,
   "end": 1734522180000,
   "seconds": 60,
+  "description": "【アナウンサー】伊藤海彦",
+  "extra": {
+    "出演者": "【アナウンサー】伊藤海彦"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }
