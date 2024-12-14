@@ -1,0 +1,23 @@
+{
+  "id": "3826py83a2",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10R霞ヶ浦特別、11RターコイズＳ（ＧⅢ）\r\n【京都】10R出町特別、11RタンザナイトＳ\r\n【中京】11R尾頭橋Ｓ",
+  "start": 1734156000000,
+  "end": 1734159600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
