@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8jinx",
+  "category": "news",
+  "title": "ＴＯＫＹＯ ＭＸ ＮＥＷＳ",
+  "fullTitle": "ＴＯＫＹＯ ＭＸ ＮＥＷＳ",
+  "detail": "東京の様々なニュースをお伝えします。",
+  "start": 1734660000000,
+  "end": 1734660240000,
+  "seconds": 240,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
