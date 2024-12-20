@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr5ryx",
+  "category": "documentary",
+  "title": "ＭＩＤＴＶ",
+  "fullTitle": "ＭＩＤＴＶ🅂🈞",
+  "detail": "グランベルスクエア（第３回）",
+  "start": 1734668100000,
+  "end": 1734669000000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "S",
+    "再"
+  ]
+}
