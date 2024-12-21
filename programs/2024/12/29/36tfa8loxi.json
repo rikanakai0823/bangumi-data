@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8loxi",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「乃木坂賞」「第７０回　東京大賞典（ＧⅠ）」「ウインターテール賞」",
+  "start": 1735435800000,
+  "end": 1735462800000,
+  "seconds": 27000,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "東京大賞典（ＧⅠ）",
+  "episode": 70,
+  "flags": []
+}

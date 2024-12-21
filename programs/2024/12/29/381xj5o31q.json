@@ -1,0 +1,27 @@
+{
+  "id": "381xj5o31q",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n岸本理沙（フジテレビアナウンサー）",
+  "start": 1735401000000,
+  "end": 1735401600000,
+  "seconds": 600,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "岸本理沙（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
