@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lp3f",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ひばり特別」「第１８回　東京シンデレラマイル（ＳⅢ）」「カプリコーン賞」",
+  "start": 1735541400000,
+  "end": 1735549200000,
+  "seconds": 7800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "東京シンデレラマイル（ＳⅢ）",
+  "episode": 18,
+  "flags": []
+}
