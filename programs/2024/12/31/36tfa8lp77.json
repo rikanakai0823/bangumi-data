@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lp77",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「第４８回　東京２歳優駿牝馬（ＳⅠ）」「カウントダウン２０２５特別」「おおとり賞」",
+  "start": 1735608600000,
+  "end": 1735635600000,
+  "seconds": 27000,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "東京２歳優駿牝馬（ＳⅠ）",
+  "episode": 48,
+  "flags": []
+}
