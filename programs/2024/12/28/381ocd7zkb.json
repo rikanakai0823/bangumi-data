@@ -1,12 +1,17 @@
 {
   "id": "381ocd7zkb",
   "category": "music",
-  "title": "直前！今年イチバン聴いた歌～年間ミュージックアワード２０２４～",
-  "fullTitle": "直前！今年イチバン聴いた歌～年間ミュージックアワード２０２４～🈑",
-  "detail": "",
+  "title": "発表！今年イチバン聴いた歌▼夜まで待てない！直前生放送！",
+  "fullTitle": "発表！今年イチバン聴いた歌▼夜まで待てない！直前生放送！🈑",
+  "detail": "発表！今年イチバン聴いた歌▼夜まで待てない！直前生放送！少女時代スヨンは日本デビュー曲を！Aqua Timezは名曲「虹」を生歌唱！\n◇出演者\n【司会】上白石萌音、池田エライザ\r\n【進行】石川みなみ（日本テレビアナウンサー）\r\n【ゲスト】SooYoung(少女時代)、Aqua Timez、Travis Japan\n◇番組内容\n年間ランキング＆今年イチバン聴かれた曲＆アーティスト発表！豪華アーティストが幕張に集結！Creepy Nuts・Mrs. GREEN APPLE・King & Prince・NewJeans・Number_i今年イチバン聴かれた曲を披露！\r\n夜まで待てない直前生放送！今夜7時からの今年イチバン聴いた歌に出演する少女時代スヨンは日本デビュー曲を！Aqua Timezが名曲「虹」を生歌唱！",
   "start": 1735371000000,
   "end": 1735372500000,
   "seconds": 1500,
+  "description": "発表！今年イチバン聴いた歌▼夜まで待てない！直前生放送！少女時代スヨンは日本デビュー曲を！Aqua Timezは名曲「虹」を生歌唱！",
+  "extra": {
+    "出演者": "【司会】上白石萌音、池田エライザ\r\n【進行】石川みなみ（日本テレビアナウンサー）\r\n【ゲスト】SooYoung(少女時代)、Aqua Timez、Travis Japan",
+    "番組内容": "年間ランキング＆今年イチバン聴かれた曲＆アーティスト発表！豪華アーティストが幕張に集結！Creepy Nuts・Mrs. GREEN APPLE・King & Prince・NewJeans・Number_i今年イチバン聴かれた曲を披露！\r\n夜まで待てない直前生放送！今夜7時からの今年イチバン聴いた歌に出演する少女時代スヨンは日本デビュー曲を！Aqua Timezが名曲「虹」を生歌唱！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
+  "subTitle": "虹",
   "episode": 1,
   "flags": [
     "字"
