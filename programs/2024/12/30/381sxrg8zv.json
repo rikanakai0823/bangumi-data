@@ -1,12 +1,16 @@
 {
   "id": "381sxrg8zv",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "drama",
+  "title": "「不適切にもほどがある！」一挙放送ＳＰ",
+  "fullTitle": "「不適切にもほどがある！」一挙放送ＳＰ🈑",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/futekisetsunimohodogaaru/\r\n\r\n◇Ｘ\r\nhttps://twitter.com/futeki_tbs/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/futeki_tbs/\r\n\r\n◇tiktok\r\nhttps://www.tiktok.com/@futeki_tbs",
   "start": 1735524600000,
   "end": 1735535700000,
   "seconds": 11100,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/futekisetsunimohodogaaru/\r\n\r\n◇Ｘ\r\nhttps://twitter.com/futeki_tbs/\r\n\r\n◇instagram\r\nhttps://www.instagram.com/futeki_tbs/\r\n\r\n◇tiktok\r\nhttps://www.tiktok.com/@futeki_tbs"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
