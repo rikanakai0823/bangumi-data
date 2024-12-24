@@ -1,12 +1,12 @@
 {
   "id": "36h6jr1ifz",
   "category": "sports",
-  "title": "ＲＩＺＩＮ　４８（仮）",
-  "fullTitle": "ＲＩＺＩＮ　４８（仮）🅂",
-  "detail": "",
-  "start": 1735470000000,
+  "title": "ＲＩＺＩＮ１００ＣＬＵＢ　ｐｒｅｓｅｎｔｓ　ＲＩＺＩＮ　ＤＥＣＡＤＥ　２",
+  "fullTitle": "ＲＩＺＩＮ１００ＣＬＵＢ　ｐｒｅｓｅｎｔｓ　ＲＩＺＩＮ　ＤＥＣＡＤＥ　２",
+  "detail": "夜連続特🅂",
+  "start": 1735473600000,
   "end": 1735479000000,
-  "seconds": 9000,
+  "seconds": 5400,
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": [
-    "S"
-  ]
+  "flags": []
 }
