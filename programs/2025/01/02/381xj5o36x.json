@@ -1,0 +1,29 @@
+{
+  "id": "381xj5o36x",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース🈑",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n佐久間みなみ（フジテレビアナウンサー）",
+  "start": 1735799100000,
+  "end": 1735800000000,
+  "seconds": 900,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "佐久間みなみ（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
