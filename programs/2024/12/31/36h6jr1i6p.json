@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ＲＩＺＩＮ　ＤＡＮＣＥ　ＧＲＡＮＤ　ＰＲＩＸ　決勝戦！",
   "fullTitle": "ＲＩＺＩＮ　ＤＡＮＣＥ　ＧＲＡＮＤ　ＰＲＩＸ　決勝戦！🅂",
-  "detail": "",
+  "detail": "◇出演者\nＳＡＭ　ほか",
   "start": 1735614000000,
   "end": 1735621200000,
   "seconds": 7200,
+  "description": "",
+  "extra": {
+    "出演者": "ＳＡＭ　ほか"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
