@@ -1,0 +1,25 @@
+{
+  "id": "381f5kumf4",
+  "category": "news",
+  "title": "ひるまえほっと",
+  "fullTitle": "ひるまえほっと🈑",
+  "detail": "▽プロに聞く！年末大そうじ洗濯▽かんたんごはん「れんこん入り肉団子のきのこあんかけ」「洋風焼きさばずし」▽お便り紹介「みなさんの＃いちオシ」",
+  "start": 1735266600000,
+  "end": 1735268040000,
+  "seconds": 1440,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
