@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwrmq",
+  "category": "sports",
+  "title": "チバテレＢリーグ中継　千葉ジェッツ×レバンガ北海道",
+  "fullTitle": "チバテレＢリーグ中継　千葉ジェッツ×レバンガ北海道",
+  "detail": "解説：板倉令奈\r\n実況：菱沼洲斗\r\n会場：Lala　arena　TOKYO-BAY",
+  "start": 1736053200000,
+  "end": 1736064000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
