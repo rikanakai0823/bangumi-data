@@ -1,0 +1,23 @@
+{
+  "id": "3826py5yoo",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "【中山】10Ｒコントレイルカップ\r\n　　　　11ＲホープフルＳ（ＧⅠ）\r\n【京都】11ＲベテルギウスＳ（Ｌ）",
+  "start": 1735365600000,
+  "end": 1735369200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
