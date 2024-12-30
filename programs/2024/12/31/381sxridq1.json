@@ -1,0 +1,23 @@
+{
+  "id": "381sxridq1",
+  "category": "sports",
+  "title": "年またぎスポーツ祭り",
+  "fullTitle": "年またぎスポーツ祭り",
+  "detail": "TBSの年末年始はスポーツが盛りだくさん。",
+  "start": 1735584600000,
+  "end": 1735585200000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
