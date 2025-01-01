@@ -1,0 +1,23 @@
+{
+  "id": "3826py8442",
+  "category": "cinema",
+  "title": "新春ロードショー　映画「おそ松さん」",
+  "fullTitle": "新春ロードショー　映画「おそ松さん」",
+  "detail": "Snow　Manを主演に迎えた映画「おそ松さん」を地上波初放送！",
+  "start": 1735749600000,
+  "end": 1735758000000,
+  "seconds": 8400,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "おそ松さん",
+  "episode": 1,
+  "flags": []
+}
