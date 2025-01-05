@@ -1,0 +1,30 @@
+{
+  "id": "36h6jr1iul",
+  "category": "anime",
+  "title": "テレ玉くんのうた",
+  "fullTitle": "テレ玉くんのうた🈑🅂",
+  "detail": "テレ玉くんのうたをみんなでうたおう！\n◇出演者\n作詞　テレ玉くんと仲間たち　　作曲　前山田健一",
+  "start": 1736714400000,
+  "end": 1736714700000,
+  "seconds": 300,
+  "description": "テレ玉くんのうたをみんなでうたおう！",
+  "extra": {
+    "出演者": "作詞　テレ玉くんと仲間たち　　作曲　前山田健一"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "S"
+  ]
+}
