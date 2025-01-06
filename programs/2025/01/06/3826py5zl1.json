@@ -1,0 +1,23 @@
+{
+  "id": "3826py5zl1",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ初日の出賞\r\n　　　　11Ｒサンライズステークス\r\n【中京】11Ｒ万葉ステークス",
+  "start": 1736143200000,
+  "end": 1736146800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
