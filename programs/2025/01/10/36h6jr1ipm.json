@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ショップジャパン",
   "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "detail": "◇番組内容\nここだんヒートクールワン　０１２０－３６－２００８",
   "start": 1736460000000,
   "end": 1736461800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ここだんヒートクールワン　０１２０－３６－２００８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
