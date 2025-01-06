@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuqtp",
+  "category": "news",
+  "title": "首都圏ニュース８４５",
+  "fullTitle": "首都圏ニュース８４５🈑",
+  "detail": "一日の疲れを癒やすほっと一息の時間に、これさえ見ればきょう１日の首都圏のニュースやあすの気象情報がわかる。あしたにつながる１５分間。",
+  "start": 1736163900000,
+  "end": 1736164800000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
