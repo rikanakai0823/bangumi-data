@@ -2,11 +2,15 @@
   "id": "36h6jr1iv2",
   "category": "sports",
   "title": "第１０３回全国高校サッカー選手権大会",
-  "fullTitle": "第１０３回全国高校サッカー選手権大会🅂",
-  "detail": "",
+  "fullTitle": "第１０３回全国高校サッカー選手権大会🈑🅂",
+  "detail": "◇出演者\n解説：城彰二　実況：山本紘之( ＮＴＶ)",
   "start": 1736744400000,
   "end": 1736754300000,
   "seconds": 9900,
+  "description": "",
+  "extra": {
+    "出演者": "解説：城彰二　実況：山本紘之( ＮＴＶ)"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -20,6 +24,7 @@
   "subTitle": "",
   "episode": 103,
   "flags": [
+    "字",
     "S"
   ]
 }
