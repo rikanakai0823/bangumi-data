@@ -1,0 +1,27 @@
+{
+  "id": "36l9gkunku",
+  "category": "sports",
+  "title": "金曜競馬ＣＬＵＢ　ＮＥＯ",
+  "fullTitle": "金曜競馬ＣＬＵＢ　ＮＥＯ",
+  "detail": "◇出演者\n原奈津子、小松真也、中村愛",
+  "start": 1737115200000,
+  "end": 1737117000000,
+  "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "出演者": "原奈津子、小松真也、中村愛"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

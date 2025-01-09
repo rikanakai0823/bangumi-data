@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lrl5",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「鳶巣川賞」「サルビア特別」「銀嶺賞」「アングレカム特別」「春駒特別」",
+  "start": 1737096600000,
+  "end": 1737102600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
