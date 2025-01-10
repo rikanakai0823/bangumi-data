@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1j4a",
+  "category": "etc",
+  "title": "土曜スペシャル",
+  "fullTitle": "土曜スペシャル",
+  "detail": "",
+  "start": 1737194400000,
+  "end": 1737197700000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
