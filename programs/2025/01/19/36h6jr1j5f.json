@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1j5f",
   "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "title": "ＴＶショッピング・ハーブ健康本舗ＴＶショッピング",
+  "fullTitle": "ＴＶショッピング・ハーブ健康本舗ＴＶショッピング🅂",
+  "detail": "薄毛にお悩みの皆さん！必見です！\n◇番組内容\nホルモプレミアムヘアグロウエッセンス",
   "start": 1737228600000,
   "end": 1737230400000,
   "seconds": 1800,
+  "description": "薄毛にお悩みの皆さん！必見です！",
+  "extra": {
+    "番組内容": "ホルモプレミアムヘアグロウエッセンス"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
