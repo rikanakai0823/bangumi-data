@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1j99",
-  "category": "etc",
-  "title": "ショッピングタイム",
-  "fullTitle": "ショッピングタイム",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピングタイム・ダイレクトテレショップ",
+  "fullTitle": "ショッピングタイム・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nすっぽん皇帝　０１２０－４６２－４６９",
   "start": 1737442800000,
   "end": 1737444600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "すっぽん皇帝　０１２０－４６２－４６９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
