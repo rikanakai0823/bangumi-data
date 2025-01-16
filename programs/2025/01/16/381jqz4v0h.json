@@ -1,0 +1,26 @@
+{
+  "id": "381jqz4v0h",
+  "category": "hobby",
+  "title": "にほんごであそぼ「歌舞伎スペシャル」",
+  "fullTitle": "にほんごであそぼ「歌舞伎スペシャル」🈑🈓",
+  "detail": "歌舞伎（中村勘九郎）、うた「たのしやかぶき～夏祭・鈴ヶ森～」「ほのぼのよき」",
+  "start": 1737009300000,
+  "end": 1737009900000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "歌舞伎スペシャル",
+  "episode": 1,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
