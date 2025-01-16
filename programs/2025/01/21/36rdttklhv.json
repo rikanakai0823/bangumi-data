@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【d4vd特集】\r\nd4vd インタビュー\r\n\"Feel It\"\r\n\"Where'd It Go Wrong ?\"\n◇番組内容２\nSZA\"Drive\"\r\nLOLA BROOKE\"Go To Yo Head (Official Visualizer）\"\r\nPHARRELL WILLIAMS\"Piece By Piece\"\r\nMIGUEL\"Always Time\"",
   "start": 1737385200000,
   "end": 1737387000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【d4vd特集】\r\nd4vd インタビュー\r\n\"Feel It\"\r\n\"Where'd It Go Wrong ?\"",
+    "番組内容２": "SZA\"Drive\"\r\nLOLA BROOKE\"Go To Yo Head (Official Visualizer）\"\r\nPHARRELL WILLIAMS\"Piece By Piece\"\r\nMIGUEL\"Always Time\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
