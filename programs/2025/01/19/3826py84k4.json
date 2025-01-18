@@ -1,0 +1,23 @@
+{
+  "id": "3826py84k4",
+  "category": "information",
+  "title": "推しエンタＴＶ",
+  "fullTitle": "推しエンタＴＶ",
+  "detail": "アニメやイベントの最新エンタメ情報をお届けする、必見の新番組です！！",
+  "start": 1737231600000,
+  "end": 1737232200000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
