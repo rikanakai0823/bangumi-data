@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「フロストフラワー賞」「白富士賞」",
+  "detail": "「スノーフレーク賞」「白富士賞」\n◇出演者      \n【MC】\r\n堀江　舞\r\n【解説】\r\n《9R～12R》\r\n豊岡加奈子（勝馬）",
   "start": 1737960600000,
   "end": 1737966600000,
   "seconds": 6000,
+  "description": "「スノーフレーク賞」「白富士賞」",
+  "extra": {
+    "出演者      ": "【MC】\r\n堀江　舞\r\n【解説】\r\n《9R～12R》\r\n豊岡加奈子（勝馬）"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

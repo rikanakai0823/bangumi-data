@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "東京シティ競馬中継",
   "fullTitle": "東京シティ競馬中継",
-  "detail": "「初凪特別」「スノーフレーク賞」「別所坂賞」",
+  "detail": "「初凪特別」「ガーネット賞」「別所坂賞」\n◇出演者      \n【MC】\r\n飯野詩帆\r\n【解説】\r\n《9R～12R》\r\n藤田裕之（ケイシュウNEWS）",
   "start": 1738047000000,
   "end": 1738053000000,
   "seconds": 6000,
+  "description": "「初凪特別」「ガーネット賞」「別所坂賞」",
+  "extra": {
+    "出演者      ": "【MC】\r\n飯野詩帆\r\n【解説】\r\n《9R～12R》\r\n藤田裕之（ケイシュウNEWS）\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
