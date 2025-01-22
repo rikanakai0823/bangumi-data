@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8ltah",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ひなぎく特別」「フロストフラワー賞」「狸坂賞」\n◇出演者      \n【MC】\r\n鈴元まい\r\n【解説】\r\n《9R～12R》\r\n市川俊吾（日刊競馬）",
+  "start": 1738219800000,
+  "end": 1738225800000,
+  "seconds": 6000,
+  "description": "「ひなぎく特別」「フロストフラワー賞」「狸坂賞」",
+  "extra": {
+    "出演者      ": "【MC】\r\n鈴元まい\r\n【解説】\r\n《9R～12R》\r\n市川俊吾（日刊競馬）\r\n"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
