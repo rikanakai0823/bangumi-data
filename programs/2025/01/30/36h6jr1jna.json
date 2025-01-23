@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ショップジャパン",
   "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "detail": "◇番組内容\nアクティブスレンダー　０１２０－５５－７８２７",
   "start": 1738188000000,
   "end": 1738189800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "アクティブスレンダー　０１２０－５５－７８２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
