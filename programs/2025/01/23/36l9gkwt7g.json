@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwt7g",
+  "category": "news",
+  "title": "テレビ傍聴席🈐",
+  "fullTitle": "テレビ傍聴席🈐",
+  "detail": "令和７年２月定例県議会",
+  "start": 1737594000000,
+  "end": 1737601200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
