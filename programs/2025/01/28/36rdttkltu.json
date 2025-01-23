@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【MOTHER MOTHER特集】\r\n\"Hayloft II\" \r\n\"The Matrix\"\n◇番組内容２\nLINKIN PARK\"Two Faced\"\r\nREC HALL\"Delay\"\r\nTHREE DAYS GRACE\"Mayday\"",
   "start": 1737990000000,
   "end": 1737991800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【MOTHER MOTHER特集】\r\n\"Hayloft II\" \r\n\"The Matrix\"",
+    "番組内容２": "LINKIN PARK\"Two Faced\"\r\nREC HALL\"Delay\"\r\nTHREE DAYS GRACE\"Mayday\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
