@@ -1,0 +1,26 @@
+{
+  "id": "38224jvf29",
+  "category": "drama",
+  "title": "おはよう！時代劇",
+  "fullTitle": "おはよう！時代劇🈑🈞",
+  "detail": "テレビ朝日の朝は痛快時代劇から‼テレビ朝日がかつて放送した時代劇の中から、選りすぐりの人気作品をお天気情報と共にお届けします。",
+  "start": 1738609200000,
+  "end": 1738612500000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}
