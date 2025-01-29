@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwu56",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４０１",
-  "fullTitle": "チバミライチャンネル　＃４０１",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "千葉県立生浜高校定時制発表会　\r\n母国と日本の文化の比較\n◇番組内容\nnewsチバ特集\r\nSDGs特集・船橋ソーセージ",
   "start": 1738569600000,
   "end": 1738572600000,
   "seconds": 3000,
+  "description": "千葉県立生浜高校定時制発表会　\r\n母国と日本の文化の比較",
+  "extra": {
+    "番組内容": "newsチバ特集\r\nSDGs特集・船橋ソーセージ"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 401,
+  "episode": 1,
   "flags": []
 }
