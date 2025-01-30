@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr3otr",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "マチコミ傑作選　▽寺子屋はじめました▽オリガミ▽料理　毎週月ー金　１６：３０～１７：３０に放送中「情報番組マチコミ」の名場面集をお届けします",
+  "start": 1738238400000,
+  "end": 1738240200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "情報番組マチコミ",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}
