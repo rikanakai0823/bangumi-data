@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1k5n",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ショップジャパン",
+  "fullTitle": "ＴＶショッピング・ショップジャパン🅂",
+  "detail": "◇番組内容\nアクティブスレンダー　０１２０－５５－７８２７",
   "start": 1739154300000,
   "end": 1739156100000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "アクティブスレンダー　０１２０－５５－７８２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }

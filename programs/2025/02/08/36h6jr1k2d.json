@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1k2d",
-  "category": "etc",
-  "title": "わくわくショッピング",
-  "fullTitle": "わくわくショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "わくわくショッピング・トウ・キユーピー　テレビショッピング",
+  "fullTitle": "わくわくショッピング・トウ・キユーピー　テレビショッピング🅂",
+  "detail": "◇番組内容\n０１２０－２４０２４４",
   "start": 1739002500000,
   "end": 1739004300000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "０１２０－２４０２４４"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
