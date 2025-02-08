@@ -1,0 +1,30 @@
+{
+  "id": "3826py3vjh",
+  "category": "news",
+  "title": "ＴＸＮニュース🈐",
+  "fullTitle": "ＴＸＮニュース🈑🈐",
+  "detail": "日本や世界の最新ニュースをコンパクトにお伝えする。\n◇関連情報\n【番組公式HP】https://www.tv-tokyo.co.jp/txn/\n◇放送形態\n手話放送あり",
+  "start": 1739694000000,
+  "end": 1739694600000,
+  "seconds": 600,
+  "description": "日本や世界の最新ニュースをコンパクトにお伝えする。",
+  "extra": {
+    "関連情報": "【番組公式HP】https://www.tv-tokyo.co.jp/txn/",
+    "放送形態": "手話放送あり"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
