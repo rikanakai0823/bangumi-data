@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "おとなのＥテレタイムマシン　ＥＴＶ８",
   "fullTitle": "おとなのＥテレタイムマシン　ＥＴＶ８🈑",
-  "detail": "",
+  "detail": "シリーズ授業　児童文学作家　椋鳩十“生きものはすばらしい”　【出演】椋鳩十\n◇出演者\n【出演】椋鳩十",
   "start": 1739624400000,
   "end": 1739627100000,
   "seconds": 2700,
+  "description": "シリーズ授業　児童文学作家　椋鳩十“生きものはすばらしい”　【出演】椋鳩十",
+  "extra": {
+    "出演者": "【出演】椋鳩十"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 2
   },
-  "subTitle": "",
+  "subTitle": "出演",
   "episode": 1,
   "flags": [
     "字"
