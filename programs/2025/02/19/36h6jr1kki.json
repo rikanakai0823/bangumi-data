@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1kki",
+  "category": "news",
+  "title": "埼玉県議会中継🈐",
+  "fullTitle": "埼玉県議会中継🈐🅂",
+  "detail": "",
+  "start": 1739926800000,
+  "end": 1739932200000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
