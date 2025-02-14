@@ -3,10 +3,14 @@
   "category": "news",
   "title": "東京都議会中継🈐",
   "fullTitle": "東京都議会中継🈐",
-  "detail": " ",
+  "detail": "「令和７年第１回定例会　本会議初日」\n◇おしらせ\n※最大延長 夕方６時まで",
   "start": 1739937600000,
   "end": 1739948400000,
   "seconds": 10800,
+  "description": "「令和７年第１回定例会　本会議初日」",
+  "extra": {
+    "おしらせ": "※最大延長 夕方６時まで"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "令和７年第１回定例会　本会議初日",
   "episode": 1,
   "flags": []
 }
