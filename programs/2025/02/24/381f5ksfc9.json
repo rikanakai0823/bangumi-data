@@ -1,0 +1,26 @@
+{
+  "id": "381f5ksfc9",
+  "category": "documentary",
+  "title": "１００カメ",
+  "fullTitle": "１００カメ🈖🈑",
+  "detail": "",
+  "start": 1740393000000,
+  "end": 1740395700000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
