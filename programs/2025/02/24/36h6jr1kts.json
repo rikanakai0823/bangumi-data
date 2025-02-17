@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1kts",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・フォーマルクラインテレビショッピング",
+  "fullTitle": "ＴＶショッピング・フォーマルクラインテレビショッピング🅂",
+  "detail": "買いドキッ！セレクション\n◇番組内容\nフラバン血管サポート　０１２０－４０５０－９９",
   "start": 1740326400000,
   "end": 1740328200000,
   "seconds": 1800,
+  "description": "買いドキッ！セレクション",
+  "extra": {
+    "番組内容": "フラバン血管サポート　０１２０－４０５０－９９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }

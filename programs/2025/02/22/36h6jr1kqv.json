@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ノジマＴリーグ　Ｔ．Ｔ彩たま  ×  静岡ジェード",
   "fullTitle": "ノジマＴリーグ　Ｔ．Ｔ彩たま  ×  静岡ジェード🅂",
-  "detail": "",
+  "detail": "◇出演者\n解説：渡辺理貴　実況：波多江良一",
   "start": 1740204000000,
   "end": 1740211200000,
   "seconds": 7200,
+  "description": "",
+  "extra": {
+    "出演者": "解説：渡辺理貴　実況：波多江良一"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
