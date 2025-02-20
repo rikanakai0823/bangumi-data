@@ -3,10 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n映画『名もなき者／A COMPLETE UNKNOWN』特集\n◇番組内容２\nJONAH KAGEN\"Don't You Give Up On Me Yet\"\r\nZACH HOOD\"Simple Life\"\r\nDREW GREEN\"Comin' In Country\"\r\nJP SAXE\"Safe\"\n◇番組内容３\nJAMIE RAY\"LETTER TO GOD\"\r\nLIL BABY & FUTURE\"99\"",
   "start": 1740409200000,
   "end": 1740411000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "映画『名もなき者／A COMPLETE UNKNOWN』特集",
+    "番組内容２": "JONAH KAGEN\"Don't You Give Up On Me Yet\"\r\nZACH HOOD\"Simple Life\"\r\nDREW GREEN\"Comin' In Country\"\r\nJP SAXE\"Safe\"",
+    "番組内容３": "JAMIE RAY\"LETTER TO GOD\"\r\nLIL BABY & FUTURE\"99\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
