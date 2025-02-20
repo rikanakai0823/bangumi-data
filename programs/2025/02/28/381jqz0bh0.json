@@ -1,0 +1,25 @@
+{
+  "id": "381jqz0bh0",
+  "category": "theater",
+  "title": "芸能きわみ堂",
+  "fullTitle": "芸能きわみ堂🈑",
+  "detail": "",
+  "start": 1740744000000,
+  "end": 1740745800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
