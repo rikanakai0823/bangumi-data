@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8kiyc",
+  "category": "cinema",
+  "title": "映画『メジャーリーグ』",
+  "fullTitle": "映画『メジャーリーグ』🈔",
+  "detail": " ",
+  "start": 1740909600000,
+  "end": 1740915600000,
+  "seconds": 6000,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二"
+  ]
+}
