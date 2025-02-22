@@ -1,0 +1,23 @@
+{
+  "id": "3826py60xw",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】10Ｒ金蹄Ｓ\r\n11ＲダイヤモンドＳ（ＧⅢ）\r\n【京都】10Ｒ河原町Ｓ・11Ｒ阪急杯（ＧⅢ）\r\n【小倉】11Ｒ小倉城Ｓ",
+  "start": 1740204000000,
+  "end": 1740207600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
