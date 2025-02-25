@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwh2r",
+  "category": "sports",
+  "title": "チバテレＢリーグ中継　千葉ジェッツ×茨城ロボッツ",
+  "fullTitle": "チバテレＢリーグ中継　千葉ジェッツ×茨城ロボッツ",
+  "detail": " ",
+  "start": 1741168800000,
+  "end": 1741179600000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
