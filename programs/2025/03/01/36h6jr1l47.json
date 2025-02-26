@@ -1,8 +1,8 @@
 {
   "id": "36h6jr1l47",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
+  "category": "information",
+  "title": "ＴＶショッピング・あじかんテレビショッピング",
+  "fullTitle": "ＴＶショッピング・あじかんテレビショッピング🅂",
   "detail": "",
   "start": 1740801600000,
   "end": 1740803400000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
