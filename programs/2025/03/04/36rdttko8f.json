@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【ENGLISH TEACHER特集】\r\n\"The World’s Biggest Paving Slab\"\r\n\"R&B\"\n◇番組内容２\nLADY GAGA\"Abracadabra\"\r\nTRAVIS SCOTT\"4X4\"\r\nARIANA GRANDE & CYNTHIA ERIVO\"What Is This Feeling? from『ウィキッド ふたりの魔女』\"",
   "start": 1741014000000,
   "end": 1741015800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【ENGLISH TEACHER特集】\r\n\"The World’s Biggest Paving Slab\"\r\n\"R&B\"",
+    "番組内容２": "LADY GAGA\"Abracadabra\"\r\nTRAVIS SCOTT\"4X4\"\r\nARIANA GRANDE & CYNTHIA ERIVO\"What Is This Feeling? from『ウィキッド ふたりの魔女』\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",

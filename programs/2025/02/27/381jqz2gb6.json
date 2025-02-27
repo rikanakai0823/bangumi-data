@@ -1,0 +1,26 @@
+{
+  "id": "381jqz2gb6",
+  "category": "hobby",
+  "title": "にほんごであそぼ「歌スペシャル」",
+  "fullTitle": "にほんごであそぼ「歌スペシャル」🈑🈓",
+  "detail": "うた「くるぶしオバケ」「らららのら」「がらぴい」「星の言葉」「ちょんまげ」「ほのぼのよき」",
+  "start": 1740638100000,
+  "end": 1740638700000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "歌スペシャル",
+  "episode": 1,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}
