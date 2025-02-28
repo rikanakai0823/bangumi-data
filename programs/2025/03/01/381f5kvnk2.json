@@ -1,0 +1,23 @@
+{
+  "id": "381f5kvnk2",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース",
+  "detail": "ニュース",
+  "start": 1740767280000,
+  "end": 1740771000000,
+  "seconds": 3720,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
