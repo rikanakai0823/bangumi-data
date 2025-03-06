@@ -3,10 +3,14 @@
   "category": "news",
   "title": "都議会の焦点",
   "fullTitle": "都議会の焦点",
-  "detail": "「予算特別委員会の焦点」",
+  "detail": "「令和７年予算特別委員会」\n◇出演者\n【解説】\r\n大屋雄裕（慶応義塾大学 教授）\r\n【司会】\r\n二階堂絵美",
   "start": 1741687200000,
   "end": 1741689000000,
   "seconds": 1800,
+  "description": "「令和７年予算特別委員会」",
+  "extra": {
+    "出演者": "【解説】\r\n大屋雄裕（慶応義塾大学 教授）\r\n【司会】\r\n二階堂絵美\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "予算特別委員会の焦点",
+  "subTitle": "令和７年予算特別委員会",
   "episode": 1,
   "flags": []
 }

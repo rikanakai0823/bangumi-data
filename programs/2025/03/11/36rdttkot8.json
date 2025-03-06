@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【ASIAN DUB FOUNDATION特集】\r\nASIAN DUB FOUNDATION feat. SINEAD O'CONNOR & ED O'BRIEN\"1000 Mirrors\"\n◇番組内容２\nTHE WEEKND\"Open Hearts\"\r\nCENTRAL CEE\"Limitless\"\r\nLIL BABY\"So Sorry\"",
   "start": 1741618800000,
   "end": 1741620600000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【ASIAN DUB FOUNDATION特集】\r\nASIAN DUB FOUNDATION feat. SINEAD O'CONNOR & ED O'BRIEN\"1000 Mirrors\"",
+    "番組内容２": "THE WEEKND\"Open Hearts\"\r\nCENTRAL CEE\"Limitless\"\r\nLIL BABY\"So Sorry\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
