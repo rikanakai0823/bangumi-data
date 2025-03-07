@@ -1,12 +1,16 @@
 {
   "id": "381f5kslzi",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　おすすめ番組の紹介",
+  "fullTitle": "＃ＮＨＫ　おすすめ番組の紹介",
+  "detail": "【アナウンサー】江原啓一郎\n◇出演者\n【アナウンサー】江原啓一郎",
   "start": 1741606920000,
   "end": 1741607100000,
   "seconds": 180,
+  "description": "【アナウンサー】江原啓一郎",
+  "extra": {
+    "出演者": "【アナウンサー】江原啓一郎"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }
