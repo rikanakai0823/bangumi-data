@@ -1,0 +1,23 @@
+{
+  "id": "3826py3wr2",
+  "category": "music",
+  "title": "ミュージックブレイク",
+  "fullTitle": "ミュージックブレイク",
+  "detail": "演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。",
+  "start": 1742237400000,
+  "end": 1742237700000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
