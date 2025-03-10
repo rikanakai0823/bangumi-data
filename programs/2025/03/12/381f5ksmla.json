@@ -1,12 +1,16 @@
 {
   "id": "381f5ksmla",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　放送１００年関連　放送の始まりと社会的役割",
+  "fullTitle": "＃ＮＨＫ　放送１００年関連　放送の始まりと社会的役割",
+  "detail": "【アナウンサー】牛田茉友\n◇出演者\n【アナウンサー】牛田茉友",
   "start": 1741779720000,
   "end": 1741779900000,
   "seconds": 180,
+  "description": "【アナウンサー】牛田茉友",
+  "extra": {
+    "出演者": "【アナウンサー】牛田茉友"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }
