@@ -1,0 +1,23 @@
+{
+  "id": "381xj5o00e",
+  "category": "etc",
+  "title": "調整中＜Ｔナイト＞",
+  "fullTitle": "調整中＜Ｔナイト＞",
+  "detail": "",
+  "start": 1742320500000,
+  "end": 1742324100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
