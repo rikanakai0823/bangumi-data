@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwifp",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４１６",
-  "fullTitle": "チバミライチャンネル　＃４１６",
-  "detail": " ",
+  "title": "チバミライチャンネル▽海ノ民話",
+  "fullTitle": "チバミライチャンネル▽海ノ民話",
+  "detail": "寒川神社と獅子頭\n◇番組内容\n誰もが自分らしく活躍できる社会へ",
   "start": 1742457600000,
   "end": 1742460600000,
   "seconds": 3000,
+  "description": "寒川神社と獅子頭",
+  "extra": {
+    "番組内容": "誰もが自分らしく活躍できる社会へ"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 416,
+  "episode": 1,
   "flags": []
 }
