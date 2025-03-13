@@ -3,10 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【映画『ウィキッド ふたりの魔女』特集】\r\nARIANA GRANDE & CYNTHIA ERIVO\"What Is This Feeling?  映画『ウィキッド ふたりの魔女』より\"\n◇番組内容２\n【IDLES特集】\r\n\"Grace\"\r\n\"Dancer\"\n◇番組内容３\nLISA feat. DOJA CAT & RAYE\"Born Again\"",
   "start": 1742223600000,
   "end": 1742225400000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【映画『ウィキッド ふたりの魔女』特集】\r\nARIANA GRANDE & CYNTHIA ERIVO\"What Is This Feeling?  映画『ウィキッド ふたりの魔女』より\"",
+    "番組内容２": "【IDLES特集】\r\n\"Grace\"\r\n\"Dancer\"",
+    "番組内容３": "LISA feat. DOJA CAT & RAYE\"Born Again\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
