@@ -3,10 +3,15 @@
   "category": "sports",
   "title": "マスターズ４月１０日開幕ＳＰ",
   "fullTitle": "マスターズ４月１０日開幕ＳＰ",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "世界最高の夢舞台「マスターズ」が４月１０日（木）に開幕！世界最強ゴルファー スコッティ・シェフラー（昨年マスターズ王者）に日本のエース 松山英樹が挑む！\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs\n◇おことわり\n番組の内容と放送時間は変更になる可能性があります。",
   "start": 1742231100000,
   "end": 1742234700000,
   "seconds": 3600,
+  "description": "世界最高の夢舞台「マスターズ」が４月１０日（木）に開幕！世界最強ゴルファー スコッティ・シェフラー（昨年マスターズ王者）に日本のエース 松山英樹が挑む！",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs",
+    "おことわり": "番組の内容と放送時間は変更になる可能性があります。"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 23
   },
-  "subTitle": "",
+  "subTitle": "マスターズ",
   "episode": 1,
   "flags": []
 }
