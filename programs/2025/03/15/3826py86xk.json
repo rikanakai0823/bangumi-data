@@ -1,0 +1,23 @@
+{
+  "id": "3826py86xk",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10Ｒ幕張Ｓ・11ＲアネモネＳ（Ｌ）\r\n【阪神】10Ｒ難波Ｓ・11ＲコーラルＳ（Ｌ）\r\n【中京】11Ｒ中京スポーツ杯",
+  "start": 1742018400000,
+  "end": 1742022000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
