@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwi2p",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "三遊亭遊雀「粗忽長屋」、藤本芝裕、立川談幸「家見舞」",
+  "start": 1742115900000,
+  "end": 1742119200000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
