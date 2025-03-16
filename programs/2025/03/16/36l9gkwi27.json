@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwi27",
+  "category": "information",
+  "title": "生活情報【内容】カルプロニック",
+  "fullTitle": "生活情報【内容】カルプロニック",
+  "detail": "【内容】カルプロニック\r\n",
+  "start": 1742090400000,
+  "end": 1742091300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
