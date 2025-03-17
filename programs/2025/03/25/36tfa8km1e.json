@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8km1e",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「うみへび座特別」「虎ノ門賞」「けやき坂賞」",
+  "start": 1742885400000,
+  "end": 1742904600000,
+  "seconds": 19200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
