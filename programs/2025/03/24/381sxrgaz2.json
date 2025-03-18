@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "ＨＡＮＺＯ",
   "fullTitle": "ＨＡＮＺＯ",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/hanzo_tbs/\r\n\r\n◇X\r\nhttps://twitter.com/sasuke_tbs\r\n\r\n◇youtube\r\nhttps://www.youtube.com/c/sasuke_tbs\r\n\r\n◇instagram\r\nhttps://www.instagram.com/sasuke_tbs\r\n\r\n◇tiktok\r\nhttps://www.tiktok.com/@sasuke_tbs/",
   "start": 1742748780000,
   "end": 1742752380000,
   "seconds": 3600,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/program/hanzo_tbs/\r\n\r\n◇X\r\nhttps://twitter.com/sasuke_tbs\r\n\r\n◇youtube\r\nhttps://www.youtube.com/c/sasuke_tbs\r\n\r\n◇instagram\r\nhttps://www.instagram.com/sasuke_tbs\r\n\r\n◇tiktok\r\nhttps://www.tiktok.com/@sasuke_tbs/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
