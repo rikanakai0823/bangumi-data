@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwixp",
+  "category": "sports",
+  "title": "チバテレＢリーグ中継　千葉ジェッツ×越谷アルファーズ",
+  "fullTitle": "チバテレＢリーグ中継　千葉ジェッツ×越谷アルファーズ",
+  "detail": " ",
+  "start": 1742983200000,
+  "end": 1742994000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
