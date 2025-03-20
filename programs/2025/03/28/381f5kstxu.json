@@ -1,0 +1,23 @@
+{
+  "id": "381f5kstxu",
+  "category": "etc",
+  "title": "ミニ番組",
+  "fullTitle": "ミニ番組",
+  "detail": "",
+  "start": 1743173100000,
+  "end": 1743173400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
