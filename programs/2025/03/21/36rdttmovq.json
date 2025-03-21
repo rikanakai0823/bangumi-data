@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmovq",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽金曜特別パーソナリティ　兒玉遥を深掘り！▽スポーツ情報「スポたま！Ｔ．Ｔ彩たまから特別ゲスト！",
+  "start": 1742542200000,
+  "end": 1742544000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
