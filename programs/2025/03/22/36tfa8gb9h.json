@@ -3,10 +3,16 @@
   "category": "anime",
   "title": "UniteUp!絆特番-PROTOSTAR＆UniteUp!編-",
   "fullTitle": "UniteUp!絆特番-PROTOSTAR＆UniteUp!編-",
-  "detail": " ",
+  "detail": "ソニーミュージックが贈る多次元アイドルプロジェクト「UniteUp!」TVアニメ第2期！\n◇番組内容\n1月から放送がスタートした「UniteUp! -Uni:Birth-」。\r\n3組のユニットがそれぞれ新曲で競い合う、リリースバトルプロジェクトが物語の冒頭で発表され、ユニットごとの絆が描かれてきた。\r\n今回は特別版として物語を振り返りながら、メンバー達の絆に迫っていく。\n◇出演者\n【出演】\r\n戸谷菊之介／山口諒太郎／平井亜門／助川真蔵／森蔭晨之介／坂田隆一郎／masa／下前祐貴／馬越琢己／坪倉康晴／高本 学／斉藤壮馬／中島ヨシキ\n◇おしらせ\n【UniteUp! Official YouTube Channel】https://www.youtube.com/c/UniteUpOfficialYouTubeChannel\r\n【Official Twitter】@project_uniteup\r\n【Official Instagram】@project_uniteup\r\n【Official Site】https://uniteup.info",
   "start": 1742653800000,
   "end": 1742655600000,
   "seconds": 1800,
+  "description": "ソニーミュージックが贈る多次元アイドルプロジェクト「UniteUp!」TVアニメ第2期！",
+  "extra": {
+    "番組内容": "1月から放送がスタートした「UniteUp! -Uni:Birth-」。\r\n3組のユニットがそれぞれ新曲で競い合う、リリースバトルプロジェクトが物語の冒頭で発表され、ユニットごとの絆が描かれてきた。\r\n今回は特別版として物語を振り返りながら、メンバー達の絆に迫っていく。",
+    "出演者": "【出演】\r\n戸谷菊之介／山口諒太郎／平井亜門／助川真蔵／森蔭晨之介／坂田隆一郎／masa／下前祐貴／馬越琢己／坪倉康晴／高本 学／斉藤壮馬／中島ヨシキ",
+    "おしらせ": "【UniteUp! Official YouTube Channel】https://www.youtube.com/c/UniteUpOfficialYouTubeChannel\r\n【Official Twitter】@project_uniteup\r\n【Official Instagram】@project_uniteup\r\n【Official Site】https://uniteup.info"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "UniteUp!",
   "episode": 1,
   "flags": []
 }
