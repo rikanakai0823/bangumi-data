@@ -1,0 +1,23 @@
+{
+  "id": "3826py622a",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】１０Ｒ韓国馬事会杯・１１ＲフラワーＣ（ＧⅢ）\r\n【阪神】１０ＲレグルスＳ・１１Ｒ若葉Ｓ\r\n【中京】１１ＲファルコンＳ（ＧⅢ）",
+  "start": 1742623200000,
+  "end": 1742626800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
