@@ -1,0 +1,23 @@
+{
+  "id": "3826py3xz9",
+  "category": "hobby",
+  "title": "東京パソコンクラブ～地上波スタート記念ＳＰ～",
+  "fullTitle": "東京パソコンクラブ～地上波スタート記念ＳＰ～",
+  "detail": "地上波スタート記念！",
+  "start": 1743271200000,
+  "end": 1743276600000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

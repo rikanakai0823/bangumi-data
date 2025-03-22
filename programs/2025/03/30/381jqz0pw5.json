@@ -1,0 +1,30 @@
+{
+  "id": "381jqz0pw5",
+  "category": "sports",
+  "title": "第９７回選抜高校野球大会　決勝",
+  "fullTitle": "第９７回選抜高校野球大会　決勝🅍🈑",
+  "detail": "決勝　閉会式　～甲子園球場から中継～\n◇番組内容\n［総合テレビで放送継続］",
+  "start": 1743304500000,
+  "end": 1743308100000,
+  "seconds": 3600,
+  "description": "決勝　閉会式　～甲子園球場から中継～",
+  "extra": {
+    "番組内容": "［総合テレビで放送継続］"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 97,
+  "flags": [
+    "SS",
+    "字"
+  ]
+}
