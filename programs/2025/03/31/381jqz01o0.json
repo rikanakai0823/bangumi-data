@@ -1,0 +1,25 @@
+{
+  "id": "381jqz01o0",
+  "category": "hobby",
+  "title": "５分でわかる理科",
+  "fullTitle": "５分でわかる理科🈑",
+  "detail": "",
+  "start": 1743405000000,
+  "end": 1743405300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
