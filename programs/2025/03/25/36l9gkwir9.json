@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwir9",
+  "category": "information",
+  "title": "生活情報【内容】ビフィコロンＳ",
+  "fullTitle": "生活情報【内容】ビフィコロンＳ",
+  "detail": "【内容】ビフィコロンＳ\r\n【電話】0120-862-480",
+  "start": 1742832000000,
+  "end": 1742833800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
