@@ -1,12 +1,18 @@
 {
   "id": "38224jvq5n",
   "category": "variety",
-  "title": "ＳＯＮＧ　ｖｓ　ＤＡＮＣＥ",
-  "fullTitle": "ＳＯＮＧ　ｖｓ　ＤＡＮＣＥ🈑",
-  "detail": "※詳細が決まり次第、お知らせいたします",
+  "title": "ＳＯＮＧ　ｖｓ　ＤＡＮＣＥ　日米共同制作！世界レベルのエンタメ異種格闘技戦‼",
+  "fullTitle": "ＳＯＮＧ　ｖｓ　ＤＡＮＣＥ　日米共同制作！世界レベルのエンタメ異種格闘技戦‼🈑",
+  "detail": "「歌とダンス」世界レベルのパフォーマーたちがスリリングな異種格闘技戦を展開する、前代未聞のエンタメ・バトル番組！魂を揺さぶる超ハイレベルな戦いを繰り広げる！\n◇◇番組内容\nスリリングな異種格闘技戦を展開する前代未聞のエンタメ・バトル番組『SONG vs DANCE』。MCに吉村崇（平成ノブシコブシ）、審査員には渡辺直美・EXILE TAKAHIRO・Shigekix！各バトルの対戦カードを決めるコーチ陣は…《SONGチーム》が清塚信也、《DANCEチーム》が振付師・ダンサーのTAKAHIRO！未来のエンタメ業界を先導していくこと間違いナシのトップパフォーマー達が、魂を揺さぶる超ハイレベルな戦いを繰り広げる！\n◇◇出演者\n【MC】吉村崇（平成ノブシコブシ）\r\n【審査員】渡辺直美、TAKAHIRO（EXILE）、Shigekix\r\n【コーチ】清塚信也、TAKAHIRO\r\n【ソングチーム】ジョン・健・ヌッツォ、SARUKANI、Emoh Les、TiA\r\n【ダンスチーム】Chibi Unity、ISSEI、うた丸、白川りの・白川乃愛\n◇◇おしらせ\n☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/songvsdance/",
   "start": 1743171300000,
   "end": 1743174900000,
   "seconds": 3600,
+  "description": "「歌とダンス」世界レベルのパフォーマーたちがスリリングな異種格闘技戦を展開する、前代未聞のエンタメ・バトル番組！魂を揺さぶる超ハイレベルな戦いを繰り広げる！",
+  "extra": {
+    "◇番組内容": "スリリングな異種格闘技戦を展開する前代未聞のエンタメ・バトル番組『SONG vs DANCE』。MCに吉村崇（平成ノブシコブシ）、審査員には渡辺直美・EXILE TAKAHIRO・Shigekix！各バトルの対戦カードを決めるコーチ陣は…《SONGチーム》が清塚信也、《DANCEチーム》が振付師・ダンサーのTAKAHIRO！未来のエンタメ業界を先導していくこと間違いナシのトップパフォーマー達が、魂を揺さぶる超ハイレベルな戦いを繰り広げる！",
+    "◇出演者": "【MC】吉村崇（平成ノブシコブシ）\r\n【審査員】渡辺直美、TAKAHIRO（EXILE）、Shigekix\r\n【コーチ】清塚信也、TAKAHIRO\r\n【ソングチーム】ジョン・健・ヌッツォ、SARUKANI、Emoh Les、TiA\r\n【ダンスチーム】Chibi Unity、ISSEI、うた丸、白川りの・白川乃愛",
+    "◇おしらせ": "☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/songvsdance/"
+  },
   "channel": {
     "type": "GR",
     "channel": "24",
@@ -17,7 +23,7 @@
     "hasLogoData": true,
     "n": 19
   },
-  "subTitle": "",
+  "subTitle": "歌とダンス",
   "episode": 1,
   "flags": [
     "字"
