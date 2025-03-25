@@ -3,13 +3,14 @@
   "category": "sports",
   "title": "マスターズ魂",
   "fullTitle": "マスターズ魂",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs",
+  "detail": "昨年マスターズを制し、さらにパリ五輪も金メダルに輝いた「スコッティ・シェフラー 」！世界最強ゴルファーが４人目のマスターズ連覇に挑む！\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1743100980000,
   "end": 1743101100000,
   "seconds": 120,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "昨年マスターズを制し、さらにパリ五輪も金メダルに輝いた「スコッティ・シェフラー 」！世界最強ゴルファーが４人目のマスターズ連覇に挑む！",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs"
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +22,7 @@
     "hasLogoData": true,
     "n": 23
   },
-  "subTitle": "",
+  "subTitle": "スコッティ・シェフラー",
   "episode": 1,
   "flags": []
 }

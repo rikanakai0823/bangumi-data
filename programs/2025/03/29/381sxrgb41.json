@@ -3,13 +3,14 @@
   "category": "sports",
   "title": "マスターズゴルフ２０２５　４月１０日開幕！",
   "fullTitle": "マスターズゴルフ２０２５　４月１０日開幕！",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs",
+  "detail": "世界最高峰の夢舞台「マスターズ」！この大会をあの織田裕二が語る。ゴルフについて話すのは初めてという織田裕二。果たして何を語るのか?\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1743185100000,
   "end": 1743185700000,
   "seconds": 600,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "世界最高峰の夢舞台「マスターズ」！この大会をあの織田裕二が語る。ゴルフについて話すのは初めてという織田裕二。果たして何を語るのか?",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs"
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +22,7 @@
     "hasLogoData": true,
     "n": 23
   },
-  "subTitle": "",
+  "subTitle": "マスターズ",
   "episode": 1,
   "flags": []
 }
