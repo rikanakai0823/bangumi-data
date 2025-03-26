@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3rg1",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ🅂",
+  "detail": "「特集」",
+  "start": 1742995800000,
+  "end": 1742997600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "特集",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
