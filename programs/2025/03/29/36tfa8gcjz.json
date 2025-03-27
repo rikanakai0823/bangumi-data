@@ -1,8 +1,8 @@
 {
   "id": "36tfa8gcjz",
   "category": "cinema",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
+  "title": "平野耕太★大博覧會開催記念「DRIFTERS」",
+  "fullTitle": "平野耕太★大博覧會開催記念「DRIFTERS」🈕",
   "detail": " ",
   "start": 1743177600000,
   "end": 1743179400000,
@@ -17,7 +17,9 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "DRIFTERS",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "多"
+  ]
 }
