@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmpcn",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽よってこ！道の駅　きょうオープン！「道の駅べに花の郷おけがわ」から桶川出身の野口アナが生中継！",
+  "start": 1743060600000,
+  "end": 1743062400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "道の駅べに花の郷おけがわ",
+  "episode": 1,
+  "flags": []
+}
