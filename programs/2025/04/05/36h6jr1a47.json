@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1a47",
+  "category": "documentary",
+  "title": "埼玉ビジネスウオッチ",
+  "fullTitle": "埼玉ビジネスウオッチ🅂",
+  "detail": "",
+  "start": 1743856200000,
+  "end": 1743858000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
