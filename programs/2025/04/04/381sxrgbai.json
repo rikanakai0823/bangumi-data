@@ -3,13 +3,14 @@
   "category": "sports",
   "title": "マスターズ魂",
   "fullTitle": "マスターズ魂",
-  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs",
+  "detail": "2021年全ての日本人ゴルファーの夢、マスターズ王者を獲得した松山英樹。今年４年ぶり２度目の王者を目指す！\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1743699840000,
   "end": 1743699960000,
   "seconds": 120,
-  "description": "番組情報決定までしばらくお待ちください。",
+  "description": "2021年全ての日本人ゴルファーの夢、マスターズ王者を獲得した松山英樹。今年４年ぶり２度目の王者を目指す！",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs"
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/masters/\r\n◇Ｘ（旧Twitter）\r\nhttps://twitter.com/GolfTbs",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
   },
   "channel": {
     "type": "GR",
