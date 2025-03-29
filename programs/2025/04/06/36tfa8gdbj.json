@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8gdbj",
+  "category": "sports",
+  "title": "Ｂリーグ中継　アルバルク東京ＶＳ千葉ジェッツふなばし",
+  "fullTitle": "Ｂリーグ中継　アルバルク東京ＶＳ千葉ジェッツふなばし",
+  "detail": " ",
+  "start": 1743933600000,
+  "end": 1743940800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
