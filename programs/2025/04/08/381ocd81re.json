@@ -1,0 +1,23 @@
+{
+  "id": "381ocd81re",
+  "category": "drama",
+  "title": "シカゴ　Ｐ．Ｄ．#05",
+  "fullTitle": "シカゴ　Ｐ．Ｄ．#05",
+  "detail": "",
+  "start": 1744045140000,
+  "end": 1744048740000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 5,
+  "flags": []
+}

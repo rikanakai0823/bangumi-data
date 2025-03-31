@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkuexn",
+  "category": "hobby",
+  "title": "みんなで防災～もしもにソナエル～",
+  "fullTitle": "みんなで防災～もしもにソナエル～",
+  "detail": "災害時のライフライン停止に備える",
+  "start": 1744120500000,
+  "end": 1744120800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
