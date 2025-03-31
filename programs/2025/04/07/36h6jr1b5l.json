@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1b5l",
-  "category": "etc",
-  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ",
-  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ",
-  "detail": "",
-  "start": 1744026900000,
+  "category": "information",
+  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン",
+  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン🅂",
+  "detail": "◇番組内容\n楽ちんヒアリング　０１２０－４４－００２７",
+  "start": 1744026840000,
   "end": 1744027200000,
-  "seconds": 300,
+  "seconds": 360,
+  "description": "",
+  "extra": {
+    "番組内容": "楽ちんヒアリング　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
