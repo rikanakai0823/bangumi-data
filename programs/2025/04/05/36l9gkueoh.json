@@ -1,12 +1,16 @@
 {
   "id": "36l9gkueoh",
   "category": "music",
-  "title": "ほっと！ヒット！歌謡曲　２０２５年４月",
-  "fullTitle": "ほっと！ヒット！歌謡曲　２０２５年４月",
-  "detail": " ",
+  "title": "ほっと！ヒット！歌謡曲",
+  "fullTitle": "ほっと！ヒット！歌謡曲",
+  "detail": "２０２５年４月\n◇番組内容\nTJ(椿Japan) / Happy Dance Go!\r\n池田桃子 / 名前の無い駅\r\n一条貫太 / 凪か 嵐か\r\n川中美幸 / あなたの口ぐせ",
   "start": 1743810300000,
   "end": 1743811200000,
   "seconds": 900,
+  "description": "２０２５年４月",
+  "extra": {
+    "番組内容": "TJ(椿Japan) / Happy Dance Go!\r\n池田桃子 / 名前の無い駅\r\n一条貫太 / 凪か 嵐か\r\n川中美幸 / あなたの口ぐせ"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
