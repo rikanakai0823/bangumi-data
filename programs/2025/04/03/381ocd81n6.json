@@ -3,10 +3,15 @@
   "category": "variety",
   "title": "ＨＡＮＡ－ＣＨＡＮｎｅｌ",
   "fullTitle": "🈟ＨＡＮＡ－ＣＨＡＮｎｅｌ",
-  "detail": "",
+  "detail": "GIRLS GROUP AUDITION PROJECT 2024 「No No Girls」から誕生した7人組ガールズグループ・HANAによる地上波初の冠番組\n◇出演者\nＨＡＮＡ\n◇番組内容\nBMSG×CHANMINA GIRLS GROUP AUDITION PROJECT 2024 「No No Girls」から誕生した7人組ガールズグループ・HANA（CHIKA、NAOKO、JISOO、YURI、MOMOKA、KOHARU、MAHINA）による地上波初の冠番組",
   "start": 1743609540000,
   "end": 1743611340000,
   "seconds": 1800,
+  "description": "GIRLS GROUP AUDITION PROJECT 2024 「No No Girls」から誕生した7人組ガールズグループ・HANAによる地上波初の冠番組",
+  "extra": {
+    "出演者": "ＨＡＮＡ",
+    "番組内容": "BMSG×CHANMINA GIRLS GROUP AUDITION PROJECT 2024 「No No Girls」から誕生した7人組ガールズグループ・HANA（CHIKA、NAOKO、JISOO、YURI、MOMOKA、KOHARU、MAHINA）による地上波初の冠番組"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
+  "subTitle": "No No Girls",
   "episode": 1,
   "flags": [
     "新"
