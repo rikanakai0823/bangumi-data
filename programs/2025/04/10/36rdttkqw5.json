@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【ELTON JOHN特集】\r\nELTON JOHN & BRANDI CARLILE\"Who Believes In Angels?\"\r\nELTON JOHN & BRANDI CARLILE\"Swing For The Fences\"\r\nELTON JOHN & BRANDI CARLILE\"Never Too Late\"\n◇番組内容２\nDAVID KUSHNER\"Breathe In, Breathe Out\"\r\nJP SAXE\"SMARTPHONE MAKE ME DUMB\"\r\nSELENA GOMEZ & benny blanco\"Sunset Blvd\"\r\nSABRINA CARPENTER feat. DOLLY PARTON\"Please Please Please\"",
   "start": 1744236000000,
   "end": 1744237800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【ELTON JOHN特集】\r\nELTON JOHN & BRANDI CARLILE\"Who Believes In Angels?\"\r\nELTON JOHN & BRANDI CARLILE\"Swing For The Fences\"\r\nELTON JOHN & BRANDI CARLILE\"Never Too Late\"",
+    "番組内容２": "DAVID KUSHNER\"Breathe In, Breathe Out\"\r\nJP SAXE\"SMARTPHONE MAKE ME DUMB\"\r\nSELENA GOMEZ & benny blanco\"Sunset Blvd\"\r\nSABRINA CARPENTER feat. DOLLY PARTON\"Please Please Please\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
