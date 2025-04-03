@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwjll",
+  "category": "information",
+  "title": "生活情報【内容】ライフアップスマート",
+  "fullTitle": "生活情報【内容】ライフアップスマート",
+  "detail": "【内容】ライフアップスマート\r\n【電話】0120-888-654",
+  "start": 1743647100000,
+  "end": 1743648900000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
