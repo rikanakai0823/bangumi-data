@@ -1,0 +1,23 @@
+{
+  "id": "381sxrighc",
+  "category": "sports",
+  "title": "Ｗｉｔｈ☆ベイスターズ",
+  "fullTitle": "Ｗｉｔｈ☆ベイスターズ",
+  "detail": "横浜DeNAベイスターズ応援番組。\r\nベイスターズOB陣が、27年ぶりのリーグ制覇と2年連続の日本一を目指すチームに迫ります☆",
+  "start": 1743789180000,
+  "end": 1743789780000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
