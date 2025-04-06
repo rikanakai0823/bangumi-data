@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwjw3",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "ナオユキ、笑福亭羽光「マイフレンド」、桂伸治「代り目」",
+  "start": 1743930300000,
+  "end": 1743933600000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

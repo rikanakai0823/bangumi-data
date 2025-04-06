@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8iihb",
+  "category": "sports",
+  "title": "Ｂリーグ中継　アルバルク東京ＶＳ千葉ジェッツふなばし",
+  "fullTitle": "Ｂリーグ中継　アルバルク東京ＶＳ千葉ジェッツふなばし",
+  "detail": "これまで数々の激戦を繰り広げてきた強豪・千葉ジェッツを迎え撃つ！チャンピオンシップ進出を賭けてこの一戦は負けられない！",
+  "start": 1743933600000,
+  "end": 1743940800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
