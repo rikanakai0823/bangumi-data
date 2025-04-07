@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン",
   "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン🅂",
-  "detail": "",
+  "detail": "◇番組内容\n楽ちんヒアリング　０１２０－４４－００２７",
   "start": 1744631640000,
   "end": 1744632000000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "番組内容": "楽ちんヒアリング　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
