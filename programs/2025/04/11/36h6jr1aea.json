@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1aea",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・エバーライフＴＶショッピング",
+  "fullTitle": "ＴＶショッピング・エバーライフＴＶショッピング🅂",
+  "detail": "１００歳まで元気に！！健康長寿の秘訣は？？にあった！！\n◇番組内容\n飲みごたえ野菜青汁",
   "start": 1744315200000,
   "end": 1744317000000,
   "seconds": 1800,
+  "description": "１００歳まで元気に！！健康長寿の秘訣は？？にあった！！",
+  "extra": {
+    "番組内容": "飲みごたえ野菜青汁"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
