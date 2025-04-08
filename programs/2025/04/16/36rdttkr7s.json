@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkr7s",
+  "category": "etc",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「ダーク・ムーン」\r\nホリー・コール",
+  "start": 1744743600000,
+  "end": 1744745400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "ダーク・ムーン",
+  "episode": 1,
+  "flags": []
+}
