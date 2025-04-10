@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwk8v",
+  "category": "information",
+  "title": "生活情報　【内容】イタドリ",
+  "fullTitle": "生活情報　【内容】イタドリ",
+  "detail": "【内容】イタドリ\r\n【電話】0120-81-2424",
+  "start": 1744264500000,
+  "end": 1744266300000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
