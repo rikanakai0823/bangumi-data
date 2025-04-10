@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【BRIGITTE CALLS ME BABY特集】\r\n\"Careless Whisper (GEORGE MICHAEL Cover)\"\r\n\"Breathe In, Breathe Out\"\n◇番組内容２\nCHAPPELL ROAN\"The Giver (Official Lyric Video)\"\r\nMALCOLM TODD\"Cheer Me On\"",
   "start": 1744840800000,
   "end": 1744842600000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【BRIGITTE CALLS ME BABY特集】\r\n\"Careless Whisper (GEORGE MICHAEL Cover)\"\r\n\"Breathe In, Breathe Out\"",
+    "番組内容２": "CHAPPELL ROAN\"The Giver (Official Lyric Video)\"\r\nMALCOLM TODD\"Cheer Me On\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
