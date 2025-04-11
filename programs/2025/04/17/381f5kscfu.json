@@ -1,12 +1,16 @@
 {
   "id": "381f5kscfu",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　見どころを紹介！ドラマ１０「しあわせは食べて寝て待て」",
+  "fullTitle": "＃ＮＨＫ　見どころを紹介！ドラマ１０「しあわせは食べて寝て待て」",
+  "detail": "【アナウンサー】牛田茉友\n◇出演者\n【アナウンサー】牛田茉友",
   "start": 1744890120000,
   "end": 1744890300000,
   "seconds": 180,
+  "description": "【アナウンサー】牛田茉友",
+  "extra": {
+    "出演者": "【アナウンサー】牛田茉友"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "しあわせは食べて寝て待て",
   "episode": 1,
   "flags": []
 }
