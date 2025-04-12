@@ -1,0 +1,23 @@
+{
+  "id": "3826py630r",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】１０ＲあけぼのＳ、１１Ｒニュージーランドトロフィー（ＧⅡ）\r\n【阪神】１１Ｒ阪神牝馬Ｓ（ＧⅡ）\r\n【福島】１１Ｒ吾妻小富士Ｓ",
+  "start": 1744437600000,
+  "end": 1744441200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}
