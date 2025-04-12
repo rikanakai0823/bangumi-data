@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwkid",
+  "category": "information",
+  "title": "生活情報【内容】スノーオリジンＳ",
+  "fullTitle": "生活情報【内容】スノーオリジンＳ",
+  "detail": "【内容】スノーオリジンＳ",
+  "start": 1744487700000,
+  "end": 1744489500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}
