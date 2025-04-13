@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwkjd",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "柳家さん生「浮世床　－夢－」、三遊亭律歌「猫の皿」、五明楼玉の輔「紙入れ」",
+  "start": 1744535100000,
+  "end": 1744538400000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
