@@ -1,12 +1,18 @@
 {
   "id": "381sxrgbyx",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "music",
+  "title": "ＴＨＥ　オファー",
+  "fullTitle": "🈟ＴＨＥ　オファー🈑",
+  "detail": "アーティスト自らオファーをし\"この番組でしか見られない\"スペシャルなステージをお届け！第一弾は後輩が大先輩ATSUSHIにオファー！\n◇番組内容\n前代未聞の新番組がスタート！\r\nアーティスト自らオファー！\"この番組でしか見られない\"スペシャルなステージをお届け！第一弾は小波津志（PSYCHIC FEVER from EXILE TRIBE）が大先輩・ATSUSHIに「ATSUSHIさんのLIVEで一緒に歌いたい」という驚きのオファー！\n◇出演者\nEXILE ATSUSHI\r\n小波津志（PSYCHIC FEVER from EXILE TRIBE）\n◇おことわり\n番組の内容と放送時間は変更になる場合があります。",
   "start": 1745076480000,
   "end": 1745078280000,
   "seconds": 1800,
+  "description": "アーティスト自らオファーをし\"この番組でしか見られない\"スペシャルなステージをお届け！第一弾は後輩が大先輩ATSUSHIにオファー！",
+  "extra": {
+    "番組内容": "前代未聞の新番組がスタート！\r\nアーティスト自らオファー！\"この番組でしか見られない\"スペシャルなステージをお届け！第一弾は小波津志（PSYCHIC FEVER from EXILE TRIBE）が大先輩・ATSUSHIに「ATSUSHIさんのLIVEで一緒に歌いたい」という驚きのオファー！",
+    "出演者": "EXILE ATSUSHI\r\n小波津志（PSYCHIC FEVER from EXILE TRIBE）",
+    "おことわり": "番組の内容と放送時間は変更になる場合があります。"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -19,5 +25,8 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "新",
+    "字"
+  ]
 }
