@@ -1,0 +1,23 @@
+{
+  "id": "381ocd822j",
+  "category": "drama",
+  "title": "シカゴ　Ｐ．Ｄ．#07",
+  "fullTitle": "シカゴ　Ｐ．Ｄ．#07",
+  "detail": "",
+  "start": 1745256900000,
+  "end": 1745260500000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 7,
+  "flags": []
+}
