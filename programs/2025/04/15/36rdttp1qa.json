@@ -1,0 +1,23 @@
+{
+  "id": "36rdttp1qa",
+  "category": "news",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「プリンスアイスワールド」",
+  "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「プリンスアイスワールド」",
+  "detail": "県内の天気予報",
+  "start": 1744725300000,
+  "end": 1744725600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ３",
+    "id": "1hjjdzu",
+    "sid": 24634,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 7
+  },
+  "subTitle": "プリンスアイスワールド",
+  "episode": 1,
+  "flags": []
+}
