@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "浦和競馬　注目レース大討論会！！",
   "fullTitle": "浦和競馬　注目レース大討論会！！🅂",
-  "detail": "",
+  "detail": "２３日に開催される「しらさぎ賞（ＳⅢ）」を展望\n◇出演者\n細江純子（元ＪＲＡ騎手）、小堺翔太、鈴元まい",
   "start": 1745321400000,
   "end": 1745323200000,
   "seconds": 1800,
+  "description": "２３日に開催される「しらさぎ賞（ＳⅢ）」を展望",
+  "extra": {
+    "出演者": "細江純子（元ＪＲＡ騎手）、小堺翔太、鈴元まい"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 12
   },
-  "subTitle": "",
+  "subTitle": "しらさぎ賞（ＳⅢ）",
   "episode": 1,
   "flags": [
     "S"
