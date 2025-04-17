@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【MAYA DELILAH特集】\r\n\"Begin Again (Live From Middle Farm Studios / 2023)\"\r\n\"Look At The State Of Me Now (Live From Middle Farm Studios / 2024)\"\n◇番組内容２\nJENNIE & DUA LIPA\"Handlebars\"\r\nMAREN MORRIS\"carry me through\"\r\nELLA LANGLEY\"weren't for the wind\"",
   "start": 1745445600000,
   "end": 1745447400000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【MAYA DELILAH特集】\r\n\"Begin Again (Live From Middle Farm Studios / 2023)\"\r\n\"Look At The State Of Me Now (Live From Middle Farm Studios / 2024)\"",
+    "番組内容２": "JENNIE & DUA LIPA\"Handlebars\"\r\nMAREN MORRIS\"carry me through\"\r\nELLA LANGLEY\"weren't for the wind\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
