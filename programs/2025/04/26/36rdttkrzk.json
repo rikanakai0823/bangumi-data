@@ -1,0 +1,23 @@
+{
+  "id": "36rdttkrzk",
+  "category": "news",
+  "title": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「マルタとおどろう！スティールパン編」",
+  "fullTitle": "ｗｅａｔｈｅｒ　ｒｅｐｏｒｔ「マルタとおどろう！スティールパン編」",
+  "detail": "県内の天気予報",
+  "start": 1745618100000,
+  "end": 1745618400000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ１",
+    "id": "1hjjdzs",
+    "sid": 24632,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 5
+  },
+  "subTitle": "マルタとおどろう！スティールパン編",
+  "episode": 1,
+  "flags": []
+}

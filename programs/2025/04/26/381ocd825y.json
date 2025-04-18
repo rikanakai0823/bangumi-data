@@ -1,0 +1,27 @@
+{
+  "id": "381ocd825y",
+  "category": "news",
+  "title": "ニュースサタデー",
+  "fullTitle": "ニュースサタデー",
+  "detail": "最新のニュースをお伝えします\n◇出演者\n忽滑谷こころ、畑下由佳（NTVアナウンサー）",
+  "start": 1745613900000,
+  "end": 1745614500000,
+  "seconds": 600,
+  "description": "最新のニュースをお伝えします",
+  "extra": {
+    "出演者": "忽滑谷こころ、畑下由佳（NTVアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

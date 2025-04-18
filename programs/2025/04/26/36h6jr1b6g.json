@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr1b6g",
+  "category": "sports",
+  "title": "ジャパンラグビーリーグワン中継",
+  "fullTitle": "ジャパンラグビーリーグワン中継",
+  "detail": "・埼玉パナソニックワイルドナイツ×リコーブラックラムズ東京",
+  "start": 1745645400000,
+  "end": 1745652600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
