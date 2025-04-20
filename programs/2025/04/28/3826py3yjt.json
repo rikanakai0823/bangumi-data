@@ -1,0 +1,25 @@
+{
+  "id": "3826py3yjt",
+  "category": "anime",
+  "title": "闇芝居",
+  "fullTitle": "闇芝居🈞",
+  "detail": "よってらっしゃい、みてらっしゃい、闇芝居の時間ダヨ…",
+  "start": 1745776200000,
+  "end": 1745776500000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
