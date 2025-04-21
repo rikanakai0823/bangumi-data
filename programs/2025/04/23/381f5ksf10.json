@@ -1,12 +1,16 @@
 {
   "id": "381f5ksf10",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　地域発おすすめ番組１　松山局",
+  "fullTitle": "＃ＮＨＫ　地域発おすすめ番組１　松山局",
+  "detail": "【アナウンサー】二宮直輝\n◇出演者\n【アナウンサー】二宮直輝",
   "start": 1745408520000,
   "end": 1745408700000,
   "seconds": 180,
+  "description": "【アナウンサー】二宮直輝",
+  "extra": {
+    "出演者": "【アナウンサー】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }

@@ -1,12 +1,16 @@
 {
   "id": "381f5ksfhx",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　地域発おすすめ番組２　大分局・福井局",
+  "fullTitle": "＃ＮＨＫ　地域発おすすめ番組２　大分局・福井局",
+  "detail": "【アナウンサー】一橋忠之\n◇出演者\n【アナウンサー】一橋忠之",
   "start": 1745494920000,
   "end": 1745495100000,
   "seconds": 180,
+  "description": "【アナウンサー】一橋忠之",
+  "extra": {
+    "出演者": "【アナウンサー】一橋忠之"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }
