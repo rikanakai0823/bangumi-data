@@ -1,12 +1,16 @@
 {
   "id": "381f5ksj1c",
-  "category": "information",
+  "category": "drama",
   "title": "とと姉ちゃん再放送ＰＲ",
   "fullTitle": "とと姉ちゃん再放送ＰＲ",
-  "detail": "",
+  "detail": "とと姉ちゃん再放送のＰＲ番組\n◇番組内容\nとと姉ちゃん再放送のＰＲ番組",
   "start": 1745675460000,
   "end": 1745675640000,
   "seconds": 180,
+  "description": "とと姉ちゃん再放送のＰＲ番組",
+  "extra": {
+    "番組内容": "とと姉ちゃん再放送のＰＲ番組"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
