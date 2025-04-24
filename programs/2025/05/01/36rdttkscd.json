@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【THE DARKNESS特集】\r\n\"Walking Through Fire (Official Visualiser)\"\n◇番組内容２\nED SHEERAN\"Azizam\"\r\nBEACH WEATHER\"Hardcore Romance\"\r\nTHOMAS DAY\"Sleep When We're Dead\"\r\nAx and the Hatchetmen with ALBERT HAMMOND Jr\"Blurry Lights\"",
   "start": 1746050400000,
   "end": 1746052200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【THE DARKNESS特集】\r\n\"Walking Through Fire (Official Visualiser)\"",
+    "番組内容２": "ED SHEERAN\"Azizam\"\r\nBEACH WEATHER\"Hardcore Romance\"\r\nTHOMAS DAY\"Sleep When We're Dead\"\r\nAx and the Hatchetmen with ALBERT HAMMOND Jr\"Blurry Lights\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
