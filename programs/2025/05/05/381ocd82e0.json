@@ -1,0 +1,23 @@
+{
+  "id": "381ocd82e0",
+  "category": "information",
+  "title": "日テレポシュレ　お得で便利　ウルトラＳＰ",
+  "fullTitle": "日テレポシュレ　お得で便利　ウルトラＳＰ",
+  "detail": "",
+  "start": 1746387000000,
+  "end": 1746388200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
