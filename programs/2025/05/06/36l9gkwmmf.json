@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwmmf",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "でんしゃ見見録　～千葉・小湊鉄道～",
+  "start": 1746481500000,
+  "end": 1746482400000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
