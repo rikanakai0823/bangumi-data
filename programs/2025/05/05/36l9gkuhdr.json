@@ -1,12 +1,16 @@
 {
   "id": "36l9gkuhdr",
   "category": "sports",
-  "title": "ＭＡＲＩＮＥＳ　ＳＴＵＤＩＯ　第６２回",
-  "fullTitle": "ＭＡＲＩＮＥＳ　ＳＴＵＤＩＯ　第６２回",
-  "detail": " ",
+  "title": "ＭＡＲＩＮＥＳ　ＳＴＵＤＩＯ",
+  "fullTitle": "ＭＡＲＩＮＥＳ　ＳＴＵＤＩＯ",
+  "detail": "◇番組内容\n千葉ロッテマリーンズ応援番組、通称「マリスタ」。チバテレ独自の選手インタビューや、直近の試合を元マリーンズ投手の清水直行さんの解説で振り返るマリーンズファン必見の番組！毎月第１・３月曜日放送中！▼公式X ＠NighterMarines▼公式HP:https://www.chiba-tv.com/program/detail/1142",
   "start": 1746449700000,
   "end": 1746450900000,
   "seconds": 1200,
+  "description": " ",
+  "extra": {
+    "番組内容": "千葉ロッテマリーンズ応援番組、通称「マリスタ」。チバテレ独自の選手インタビューや、直近の試合を元マリーンズ投手の清水直行さんの解説で振り返るマリーンズファン必見の番組！毎月第１・３月曜日放送中！▼公式X ＠NighterMarines▼公式HP:https://www.chiba-tv.com/program/detail/1142"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 9
   },
   "subTitle": "",
-  "episode": 62,
+  "episode": 1,
   "flags": []
 }
