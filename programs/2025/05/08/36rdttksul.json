@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【HOLLY COLE特集】\r\n\"No Moon At All\"\n◇番組内容２\nJON CLEARY & THE ABSOLUTE MONSTER GENTLEMEN\"Just Kissed My Baby\"\r\nThe Marias\"No One Noticed(Visualizer)\"\r\nSELENA GOMEZ & benny blanco\"Younger And Hotter Than Me\"",
   "start": 1746655200000,
   "end": 1746657000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【HOLLY COLE特集】\r\n\"No Moon At All\"",
+    "番組内容２": "JON CLEARY & THE ABSOLUTE MONSTER GENTLEMEN\"Just Kissed My Baby\"\r\nThe Marias\"No One Noticed(Visualizer)\"\r\nSELENA GOMEZ & benny blanco\"Younger And Hotter Than Me\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
