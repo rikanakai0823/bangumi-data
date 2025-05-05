@@ -1,0 +1,29 @@
+{
+  "id": "381ocd82kz",
+  "category": "sports",
+  "title": "オフ・ザ・ピッチ",
+  "fullTitle": "オフ・ザ・ピッチ🈑",
+  "detail": "Jリーガーのプライベートを深掘り！\n◇出演者\n【ゲスト】濃野公人（鹿島アントラーズ）\r\n【MC】小木博明（おぎやはぎ）\r\n【進行】宇垣美里",
+  "start": 1747140840000,
+  "end": 1747141200000,
+  "seconds": 360,
+  "description": "Jリーガーのプライベートを深掘り！",
+  "extra": {
+    "出演者": "【ゲスト】濃野公人（鹿島アントラーズ）\r\n【MC】小木博明（おぎやはぎ）\r\n【進行】宇垣美里"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
