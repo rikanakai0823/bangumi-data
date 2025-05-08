@@ -1,0 +1,26 @@
+{
+  "id": "381jqz0jde",
+  "category": "information",
+  "title": "おとな時間研究所",
+  "fullTitle": "おとな時間研究所🈖🈑",
+  "detail": "",
+  "start": 1747393200000,
+  "end": 1747395900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
