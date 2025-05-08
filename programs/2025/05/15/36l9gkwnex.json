@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwnex",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４３９",
-  "fullTitle": "チバミライチャンネル　＃４３９",
-  "detail": " ",
+  "title": "チバミライチャンネル▽STYLES～技能技術職",
+  "fullTitle": "チバミライチャンネル▽STYLES～技能技術職",
+  "detail": "・ダイニッセイ(市原市)\r\n・あすか交通(千葉市)\n◇番組内容\n「多様性」を尊重した社会へ",
   "start": 1747296000000,
   "end": 1747299000000,
   "seconds": 3000,
+  "description": "・ダイニッセイ(市原市)\r\n・あすか交通(千葉市)",
+  "extra": {
+    "番組内容": "「多様性」を尊重した社会へ"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 439,
+  "episode": 1,
   "flags": []
 }

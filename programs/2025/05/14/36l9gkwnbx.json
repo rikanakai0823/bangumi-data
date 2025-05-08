@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwnbx",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４３８",
-  "fullTitle": "チバミライチャンネル　＃４３８",
-  "detail": " ",
+  "title": "チバミライチャンネル▽STYLES～技能技術職",
+  "fullTitle": "チバミライチャンネル▽STYLES～技能技術職",
+  "detail": "・ホテルニューオータニ幕張（千葉市）\r\n・JERA姉ケ崎火力発電所（市原市）\n◇番組内容\nｎｅｗｓチバ特集\r\n・コーヒーで至福のひと時を",
   "start": 1747209600000,
   "end": 1747212600000,
   "seconds": 3000,
+  "description": "・ホテルニューオータニ幕張（千葉市）\r\n・JERA姉ケ崎火力発電所（市原市）",
+  "extra": {
+    "番組内容": "ｎｅｗｓチバ特集\r\n・コーヒーで至福のひと時を"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 438,
+  "episode": 1,
   "flags": []
 }
