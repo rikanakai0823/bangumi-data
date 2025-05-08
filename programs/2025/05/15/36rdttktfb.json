@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【STING特集】\r\nTHE POLICE\"Every Breath You Take\"\r\nSTING\"Englishman In New York\"\r\nSTING\"I Wrote Your Name (Upon My Heart)\"\n◇番組内容２\nVAN MORRISON\"Have I Told You Lately\"\r\nMYLES SMITH\"My First Heartbreak\"\r\nSUNDAY(1994)\"Rain\"",
   "start": 1747260000000,
   "end": 1747261800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【STING特集】\r\nTHE POLICE\"Every Breath You Take\"\r\nSTING\"Englishman In New York\"\r\nSTING\"I Wrote Your Name (Upon My Heart)\"",
+    "番組内容２": "VAN MORRISON\"Have I Told You Lately\"\r\nMYLES SMITH\"My First Heartbreak\"\r\nSUNDAY(1994)\"Rain\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
