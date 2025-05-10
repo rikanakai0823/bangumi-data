@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr5m86",
+  "category": "sports",
+  "title": "ジャパンラグビーリーグワン中継",
+  "fullTitle": "ジャパンラグビーリーグワン中継",
+  "detail": "ジャパンラグビーリーグワン第１８節埼玉ワイルドナイツ×東京サンゴリアス",
+  "start": 1746855000000,
+  "end": 1746862200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
