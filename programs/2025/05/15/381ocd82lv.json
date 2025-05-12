@@ -1,12 +1,17 @@
 {
   "id": "381ocd82lv",
   "category": "variety",
-  "title": "ＨＡＮＡ－ＣＨＡＮｎｅｌ",
-  "fullTitle": "ＨＡＮＡ－ＣＨＡＮｎｅｌ",
-  "detail": "",
+  "title": "ＨＡＮＡ－ＣＨＡＮｎｅｌ　＃７　洋菓子店でケーキ作り＆青山テルマ英会話企画",
+  "fullTitle": "ＨＡＮＡ－ＣＨＡＮｎｅｌ　＃７　洋菓子店でケーキ作り＆青山テルマ英会話企画",
+  "detail": "「No No Girls」から誕生した7人組ガールズグループ・HANAの地上波初冠番組。NAOKO&MAHINAが洋菓子店でケーキ作り＆青山テルマ英会話企画！\n◇出演者\nHANA・青山テルマ\n◇番組内容\n「No No Girls」から誕生した7人組ガールズグループ・HANA（CHIKA、NAOKO、JISOO、YURI、MOMOKA、KOHARU、MAHINA）による地上波初の冠番組。プロデューサー・ちゃんみなからのアルバイトミッション！NAOKO&MAHINAが洋菓子店アルバイトでケーキ作りに挑戦！「HANAマルレッスン」エンタメ界の先輩青山テルマと英語力を高める企画にチャレンジ！",
   "start": 1747238340000,
   "end": 1747240140000,
   "seconds": 1800,
+  "description": "「No No Girls」から誕生した7人組ガールズグループ・HANAの地上波初冠番組。NAOKO&MAHINAが洋菓子店でケーキ作り＆青山テルマ英会話企画！",
+  "extra": {
+    "出演者": "HANA・青山テルマ",
+    "番組内容": "「No No Girls」から誕生した7人組ガールズグループ・HANA（CHIKA、NAOKO、JISOO、YURI、MOMOKA、KOHARU、MAHINA）による地上波初の冠番組。プロデューサー・ちゃんみなからのアルバイトミッション！NAOKO&MAHINAが洋菓子店アルバイトでケーキ作りに挑戦！「HANAマルレッスン」エンタメ界の先輩青山テルマと英語力を高める企画にチャレンジ！"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "洋菓子店でケーキ作り＆青山テルマ英会話企画",
+  "episode": 7,
   "flags": []
 }

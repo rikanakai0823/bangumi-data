@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン",
   "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン🅂",
-  "detail": "",
+  "detail": "◇番組内容\nここひえ　０１２０－３６－２００８",
   "start": 1747655640000,
   "end": 1747656000000,
   "seconds": 360,
+  "description": "",
+  "extra": {
+    "番組内容": "ここひえ　０１２０－３６－２００８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
