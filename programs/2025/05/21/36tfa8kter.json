@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kter",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ジン・トニック賞」「クレマチス特別」「ブゼントシユキ賞」「第７０回　大井記念（ＳⅠ）」",
+  "start": 1747810200000,
+  "end": 1747828800000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "大井記念（ＳⅠ）",
+  "episode": 70,
+  "flags": []
+}
