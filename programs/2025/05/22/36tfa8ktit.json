@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8ktit",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ヘルメス賞」「紀伊国坂賞」「’２５メトロポリタンメイカップ」「しし座特別」",
+  "start": 1747896600000,
+  "end": 1747915200000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
