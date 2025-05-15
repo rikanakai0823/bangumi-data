@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【SASAMI特集】\r\n\"Slugger\"\n◇番組内容２\nGRACIE ABRAMS\"That’s So True (Live At Radio City Music Hall)\"\r\nPINKPANTHERESS\"Tonight\"\r\nYEJI\"Air\"\r\ndori\"4Seasons\"\r\nMEOVV\"HANDS UP\"",
   "start": 1747864800000,
   "end": 1747866600000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【SASAMI特集】\r\n\"Slugger\"",
+    "番組内容２": "GRACIE ABRAMS\"That’s So True (Live At Radio City Music Hall)\"\r\nPINKPANTHERESS\"Tonight\"\r\nYEJI\"Air\"\r\ndori\"4Seasons\"\r\nMEOVV\"HANDS UP\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
