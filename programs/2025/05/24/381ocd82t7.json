@@ -1,0 +1,23 @@
+{
+  "id": "381ocd82t7",
+  "category": "sports",
+  "title": "第１０４回　関東インカレ陸上",
+  "fullTitle": "第１０４回　関東インカレ陸上",
+  "detail": "",
+  "start": 1748027700000,
+  "end": 1748033100000,
+  "seconds": 5400,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "関東インカレ陸上",
+  "episode": 104,
+  "flags": []
+}
