@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n有村昆の映画紹介コーナー「有村劇場3.0」\r\n出演：有村昆\r\n特集「サブスタンス」\n◇番組内容２\nMORGAN WALLEN\"Love Somebody (Live from Neyland Stadium)\"\r\nSLEEP TOKEN\"Emergence\"",
   "start": 1748271600000,
   "end": 1748273400000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "有村昆の映画紹介コーナー「有村劇場3.0」\r\n出演：有村昆\r\n特集「サブスタンス」",
+    "番組内容２": "MORGAN WALLEN\"Love Somebody (Live from Neyland Stadium)\"\r\nSLEEP TOKEN\"Emergence\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
