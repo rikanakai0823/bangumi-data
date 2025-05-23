@@ -1,12 +1,16 @@
 {
   "id": "381f5kstvh",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ「べらぼう」で注目を集める蔦屋重三郎の特別展　見どころ紹介",
+  "fullTitle": "＃ＮＨＫ「べらぼう」で注目を集める蔦屋重三郎の特別展　見どころ紹介",
+  "detail": "【アナウンサー】一橋忠之\n◇出演者\n【アナウンサー】一橋忠之",
   "start": 1748518920000,
   "end": 1748519100000,
   "seconds": 180,
+  "description": "【アナウンサー】一橋忠之",
+  "extra": {
+    "出演者": "【アナウンサー】一橋忠之"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "べらぼう",
   "episode": 1,
   "flags": []
 }
