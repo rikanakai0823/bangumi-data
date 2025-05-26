@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1d1m",
-  "category": "etc",
-  "title": "サンデーナイトショッピング",
-  "fullTitle": "サンデーナイトショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "サンデーナイトショッピング・ダイレクトテレショップ",
+  "fullTitle": "サンデーナイトショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nシュワッ！とパンチ　０１２０－４１４１－８１",
   "start": 1748781000000,
   "end": 1748782800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "シュワッ！とパンチ　０１２０－４１４１－８１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
