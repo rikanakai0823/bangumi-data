@@ -1,0 +1,29 @@
+{
+  "id": "381ocd831x",
+  "category": "sports",
+  "title": "オフ・ザ・ピッチ",
+  "fullTitle": "オフ・ザ・ピッチ🈑",
+  "detail": "ピッチを離れたJリーガーのプライベートを深掘り！\n◇出演者\n【MC】小木博明（おぎやはぎ）\r\n【進行】朝日奈央",
+  "start": 1748958840000,
+  "end": 1748959200000,
+  "seconds": 360,
+  "description": "ピッチを離れたJリーガーのプライベートを深掘り！",
+  "extra": {
+    "出演者": "【MC】小木博明（おぎやはぎ）\r\n【進行】朝日奈央"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
