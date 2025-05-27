@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwp3j",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４４８",
-  "fullTitle": "チバミライチャンネル　＃４４８",
-  "detail": " ",
+  "title": "チバミライチャンネル▽好きプロ",
+  "fullTitle": "チバミライチャンネル▽好きプロ",
+  "detail": "◇番組内容\nｎｅｗｓチバ特集\r\n・南房総市の新ご当地グルメ",
   "start": 1748937600000,
   "end": 1748940600000,
   "seconds": 3000,
+  "description": " ",
+  "extra": {
+    "番組内容": "ｎｅｗｓチバ特集\r\n・南房総市の新ご当地グルメ"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 448,
+  "episode": 1,
   "flags": []
 }
