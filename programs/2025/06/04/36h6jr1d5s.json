@@ -3,10 +3,14 @@
   "category": "information",
   "title": "買物情報・ビタブリッドジャパンテレビショッピング",
   "fullTitle": "買物情報・ビタブリッドジャパンテレビショッピング🅂",
-  "detail": "",
+  "detail": "◇番組内容\n０１２０－０１１－２２２",
   "start": 1748984100000,
   "end": 1748985900000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "０１２０－０１１－２２２"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
