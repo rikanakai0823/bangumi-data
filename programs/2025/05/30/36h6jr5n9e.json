@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr5n9e",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "▽マチコミじゃんけん▽明日オープン！ららテラス川口から生中継！埼玉初出店グルメも充実▽埼玉のスポーツ情報「スポたま！」▽明日からテレ玉感謝祭開催！",
+  "start": 1748606400000,
+  "end": 1748608200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "スポたま！",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}
