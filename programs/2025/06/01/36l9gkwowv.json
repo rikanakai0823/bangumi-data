@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwowv",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "ロケット団・柳家小春・ホンキートンク・入船亭扇遊「人形買い」",
+  "start": 1748768700000,
+  "end": 1748772000000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "人形買い",
+  "episode": 1,
+  "flags": []
+}
