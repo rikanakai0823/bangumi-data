@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kw2j",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「夏木立賞」「第７１回　東京ダービー（ＪｐｎⅠ）（クリソベリル賞）」「アルテア賞」",
+  "start": 1749624600000,
+  "end": 1749643200000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "東京ダービー（ＪｐｎⅠ）（クリソベリル賞）",
+  "episode": 71,
+  "flags": []
+}
