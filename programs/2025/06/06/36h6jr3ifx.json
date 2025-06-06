@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3ifx",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽あなたのまちの保健室▽ももクロ高城れにちゃんを深堀り！▽埼玉のスポーツ情報「スポたま！」▽テレ玉感謝祭開催中！マチコミからはお米をプレゼント！",
+  "start": 1749196800000,
+  "end": 1749198600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "スポたま！",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
