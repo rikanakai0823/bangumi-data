@@ -1,0 +1,23 @@
+{
+  "id": "3826py65cr",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】１０Ｒ由比ヶ浜特別\r\n　　　　１１Ｒ麦秋ステークス\r\n【阪神】１０Ｒ加古川特別\r\n　　　　１１Ｒ垂水ステークス",
+  "start": 1749276000000,
+  "end": 1749279600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}
