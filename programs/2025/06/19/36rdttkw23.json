@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【US特集】\r\n\"I Wanna Be Your Lover (Live in Japan 2024) [Visualizer]\"\r\n\"Hop On A Cloud\"\n◇番組内容２\nAVRIL LAVIGNE feat. SIMPLE PLAN\"Young & Dumb\"\r\nDAMIANO DAVID\"Next Summer\"\r\nBRYAN ADAMS\"Roll With The Punches\"\r\nMILEY CYRUS\"Something Beautiful\"",
   "start": 1750284000000,
   "end": 1750285800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【US特集】\r\n\"I Wanna Be Your Lover (Live in Japan 2024) [Visualizer]\"\r\n\"Hop On A Cloud\"",
+    "番組内容２": "AVRIL LAVIGNE feat. SIMPLE PLAN\"Young & Dumb\"\r\nDAMIANO DAVID\"Next Summer\"\r\nBRYAN ADAMS\"Roll With The Punches\"\r\nMILEY CYRUS\"Something Beautiful\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
