@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "買物情報・日清ファルマＴＶショッピング",
   "fullTitle": "買物情報・日清ファルマＴＶショッピング🅂",
-  "detail": "",
+  "detail": "◇番組内容\n０１２０－３９－２４２４",
   "start": 1750280400000,
   "end": 1750282200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "０１２０－３９－２４２４"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
