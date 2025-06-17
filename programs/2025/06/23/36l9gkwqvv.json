@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwqvv",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４４３",
-  "fullTitle": "チバミライチャンネル　＃４４３",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "全日本中学生高校生管打楽器ソロコンテスト千葉県大会2024\n◇出演者\n松本　心\r\n内山 奈菜\r\n古閑 一優",
   "start": 1750628700000,
   "end": 1750629900000,
   "seconds": 1200,
+  "description": "全日本中学生高校生管打楽器ソロコンテスト千葉県大会2024",
+  "extra": {
+    "出演者": "松本　心\r\n内山 奈菜\r\n古閑 一優"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 443,
+  "episode": 1,
   "flags": []
 }
