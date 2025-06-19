@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ニュース９３０ plus",
   "fullTitle": "ニュース９３０ plus 🅂",
-  "detail": "",
+  "detail": "◇番組内容\n特集では、再び人気が高まっている「女子プロレス」の話題をお送りします。",
   "start": 1750422600000,
   "end": 1750424400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "特集では、再び人気が高まっている「女子プロレス」の話題をお送りします。"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
