@@ -3,10 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【MEOVV特集】\r\n\"MEOW\"\r\n\"HANDS UP\"\r\n\"DROP TOP\"\n◇番組内容２\nPINKPANTHERESS\"Stateside\"\r\nADDISON RAE\"Headphones On\"\n◇番組内容３\nspill tab\"Angie\"\r\nBECKY G, MANUEL TURIZO\"QUE HACES\"\r\nJESSIE MURPH & SEXYY RED\"Blue Strips (Remix)\"",
   "start": 1750690800000,
   "end": 1750692600000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【MEOVV特集】\r\n\"MEOW\"\r\n\"HANDS UP\"\r\n\"DROP TOP\"",
+    "番組内容２": "PINKPANTHERESS\"Stateside\"\r\nADDISON RAE\"Headphones On\"",
+    "番組内容３": "spill tab\"Angie\"\r\nBECKY G, MANUEL TURIZO\"QUE HACES\"\r\nJESSIE MURPH & SEXYY RED\"Blue Strips (Remix)\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
