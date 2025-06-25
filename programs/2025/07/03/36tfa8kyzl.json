@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8kyzl",
+  "category": "sports",
+  "title": "パ・リーグ応援宣言！ホークス中継２０２５",
+  "fullTitle": "パ・リーグ応援宣言！ホークス中継２０２５",
+  "detail": "「福岡ソフトバンクホークス×北海道日本ハムファイターズ」～みずほＰａｙＰａｙドーム福岡",
+  "start": 1751544000000,
+  "end": 1751547600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "福岡ソフトバンクホークス×北海道日本ハムファイターズ",
+  "episode": 1,
+  "flags": []
+}
