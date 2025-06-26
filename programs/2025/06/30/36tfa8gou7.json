@@ -1,12 +1,16 @@
 {
   "id": "36tfa8gou7",
   "category": "anime",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
-  "detail": " ",
+  "title": "ゆるかわメルちゃん　最終回アンコール放送",
+  "fullTitle": "ゆるかわメルちゃん　最終回アンコール放送",
+  "detail": "＃１３「涙の卒業式」\n◇番組内容\n笑って、泣いて、時にはハラハラ…世話人形として修行(？)の日々が始まる",
   "start": 1751288040000,
   "end": 1751288400000,
   "seconds": 360,
+  "description": "＃１３「涙の卒業式」",
+  "extra": {
+    "番組内容": "笑って、泣いて、時にはハラハラ…世話人形として修行(？)の日々が始まる"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "涙の卒業式",
+  "episode": 13,
   "flags": []
 }
