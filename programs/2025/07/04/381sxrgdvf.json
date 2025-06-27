@@ -3,10 +3,14 @@
   "category": "music",
   "title": "ＴＨＥ　ＬＡＳＴ　ＰＩＥＣＥ　ホームルーム",
   "fullTitle": "🈟ＴＨＥ　ＬＡＳＴ　ＰＩＥＣＥ　ホームルーム",
-  "detail": "番組情報決定までしばらくお待ちください。",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/thelastpiece_tbs/",
   "start": 1751558340000,
   "end": 1751560080000,
   "seconds": 1740,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/thelastpiece_tbs/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
