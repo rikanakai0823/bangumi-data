@@ -1,12 +1,17 @@
 {
   "id": "36tfa8go1u",
   "category": "anime",
-  "title": "番組内容未定",
-  "fullTitle": "番組内容未定",
-  "detail": " ",
+  "title": "プロジェクトセカイ COLORFUL LIVE 4th - Unison - Blu-ray発売記念特番",
+  "fullTitle": "プロジェクトセカイ COLORFUL LIVE 4th - Unison - Blu-ray発売記念特番",
+  "detail": "大人気スマートフォンゲーム『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』のリアルライブ「プロジェクトセカイ COLORFUL LIVE」の模様を大公開！\n◇番組内容\n大人気スマートフォンゲーム『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』のリアルライブ「プロジェクトセカイ COLORFUL LIVE」の模様を大公開！\r\n7月23日にリリースされる「プロジェクトセカイ COLORFUL LIVE 4th - Unison -」のBlu-rayから、6曲をノーカットでお送りします。\n◇おしらせ\n【公式ホームページ】https://columbia.jp/projectsekai/\r\n【公式X(旧Twitter)】https://x.com/pjsekai_live",
   "start": 1751115600000,
   "end": 1751117400000,
   "seconds": 1800,
+  "description": "大人気スマートフォンゲーム『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』のリアルライブ「プロジェクトセカイ COLORFUL LIVE」の模様を大公開！",
+  "extra": {
+    "番組内容": "大人気スマートフォンゲーム『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』のリアルライブ「プロジェクトセカイ COLORFUL LIVE」の模様を大公開！\r\n7月23日にリリースされる「プロジェクトセカイ COLORFUL LIVE 4th - Unison -」のBlu-rayから、6曲をノーカットでお送りします。",
+    "おしらせ": "【公式ホームページ】https://columbia.jp/projectsekai/\r\n【公式X(旧Twitter)】https://x.com/pjsekai_live\r\n"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 33
   },
-  "subTitle": "",
+  "subTitle": "プロジェクトセカイ COLORFUL LIVE",
   "episode": 1,
   "flags": []
 }
