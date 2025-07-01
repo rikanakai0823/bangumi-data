@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwsb9",
+  "category": "sports",
+  "title": "白球の残像",
+  "fullTitle": "白球の残像",
+  "detail": "（第９８回大会）木更津総合×市船橋",
+  "start": 1752048000000,
+  "end": 1752051300000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 98,
+  "flags": []
+}
