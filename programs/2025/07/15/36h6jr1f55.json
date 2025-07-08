@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1f55",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・新大和漢方テレビショッピング",
+  "fullTitle": "ＴＶショッピング・新大和漢方テレビショッピング🅂",
+  "detail": "◇番組内容\n補調滋腎通耳湯　０１２０－７０１－８６６",
   "start": 1752512400000,
   "end": 1752514200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "補調滋腎通耳湯　０１２０－７０１－８６６"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
