@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l0uq",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「スローテキーラ賞」「フォーチュネイトひまわり特別」「ミヤサンキューティ賞」「第１５回　優駿スプリント（ＳⅡ）」「南部坂賞」",
+  "start": 1752735000000,
+  "end": 1752753600000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "優駿スプリント（ＳⅡ）",
+  "episode": 15,
+  "flags": []
+}
