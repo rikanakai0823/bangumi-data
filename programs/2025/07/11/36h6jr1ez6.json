@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ニュース９３０ plus",
   "fullTitle": "ニュース９３０ plus 🅂",
-  "detail": "【特集】参議院選挙",
+  "detail": "【特集】２０２５参院選情勢\n◇出演者\n山田惠資  時事通信社解説委員",
   "start": 1752237000000,
   "end": 1752238800000,
   "seconds": 1800,
+  "description": "【特集】２０２５参院選情勢",
+  "extra": {
+    "出演者": "山田惠資  時事通信社解説委員"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
