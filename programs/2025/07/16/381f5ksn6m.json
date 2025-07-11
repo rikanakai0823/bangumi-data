@@ -1,12 +1,16 @@
 {
   "id": "381f5ksn6m",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　阪神・淡路大震災３０年　大阪放送局と関西民放による勉強会",
+  "fullTitle": "＃ＮＨＫ　阪神・淡路大震災３０年　大阪放送局と関西民放による勉強会",
+  "detail": "【アナウンサー】二宮直輝\n◇出演者\n【アナウンサー】二宮直輝",
   "start": 1752666120000,
   "end": 1752666300000,
   "seconds": 180,
+  "description": "【アナウンサー】二宮直輝",
+  "extra": {
+    "出演者": "【アナウンサー】二宮直輝"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アナウンサー",
   "episode": 1,
   "flags": []
 }
