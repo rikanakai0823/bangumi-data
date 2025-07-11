@@ -1,0 +1,27 @@
+{
+  "id": "381ocd841y",
+  "category": "drama",
+  "title": "放送局占拠#02",
+  "fullTitle": "放送局占拠#02🈖🈑🈓",
+  "detail": "",
+  "start": 1752926400000,
+  "end": 1752929640000,
+  "seconds": 3240,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 2,
+  "flags": [
+    "解",
+    "字",
+    "デ"
+  ]
+}
