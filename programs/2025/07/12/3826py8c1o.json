@@ -1,0 +1,23 @@
+{
+  "id": "3826py8c1o",
+  "category": "sports",
+  "title": "ウイニング競馬～福島～",
+  "fullTitle": "ウイニング競馬～福島～",
+  "detail": "【福島】１０Ｒ会津特別１１Ｒ安達太良Ｓ\r\n【小倉】１０Ｒ八女特別１１Ｒ釜山ステークス\r\n【函館】１１Ｒ五稜郭ステークス",
+  "start": 1752300000000,
+  "end": 1752303600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "福島",
+  "episode": 1,
+  "flags": []
+}
