@@ -1,12 +1,16 @@
 {
   "id": "381f5ksqq4",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　広島放送局「被爆８０年プロジェクト」関連番組",
+  "fullTitle": "＃ＮＨＫ　広島放送局「被爆８０年プロジェクト」関連番組",
+  "detail": "【アナウンサー】一橋忠之\n◇出演者\n【アナウンサー】一橋忠之",
   "start": 1753357320000,
   "end": 1753357500000,
   "seconds": 180,
+  "description": "【アナウンサー】一橋忠之",
+  "extra": {
+    "出演者": "【アナウンサー】一橋忠之"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "被爆８０年プロジェクト",
   "episode": 1,
   "flags": []
 }

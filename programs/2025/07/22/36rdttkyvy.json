@@ -3,10 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【ARIANA GRANDE特集】\r\n\"we can't be friends (wait for your love)\"\r\n\"twilight zone\"\r\n\"supernatural\"\n◇番組内容２\nALEX WARREN with JELLY ROLL\"Bloodline\"\r\nMARSHMELLO, ELLIE GOULDING, AVAION\"Save My Love\"\n◇番組内容３\nDIANA KRALL\"The Look Of Love\"\r\nSABRINA CARPENTER\"Manchild\"",
   "start": 1753110000000,
   "end": 1753111800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【ARIANA GRANDE特集】\r\n\"we can't be friends (wait for your love)\"\r\n\"twilight zone\"\r\n\"supernatural\"",
+    "番組内容２": "ALEX WARREN with JELLY ROLL\"Bloodline\"\r\nMARSHMELLO, ELLIE GOULDING, AVAION\"Save My Love\"",
+    "番組内容３": "DIANA KRALL\"The Look Of Love\"\r\nSABRINA CARPENTER\"Manchild\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
