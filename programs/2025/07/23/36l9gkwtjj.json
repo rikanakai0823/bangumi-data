@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwtjj",
   "category": "sports",
-  "title": "夏の高校野球千葉大会",
-  "fullTitle": "夏の高校野球千葉大会",
-  "detail": " ",
+  "title": "夏の高校野球千葉大会▽準々決勝",
+  "fullTitle": "夏の高校野球千葉大会▽準々決勝",
+  "detail": "【球場】千葉県総合SC野球場\n◇番組内容\n今年も球児への応援メッセージを募集します！Ｘ、Instagram、Facebookで「＃夏オレ」をつけて投稿してください。高校野球中継やダイジェストでメッセージを紹介します。",
   "start": 1753227900000,
   "end": 1753252200000,
   "seconds": 24300,
+  "description": "【球場】千葉県総合SC野球場",
+  "extra": {
+    "番組内容": "今年も球児への応援メッセージを募集します！Ｘ、Instagram、Facebookで「＃夏オレ」をつけて投稿してください。高校野球中継やダイジェストでメッセージを紹介します。"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 10
   },
-  "subTitle": "",
+  "subTitle": "球場",
   "episode": 1,
   "flags": []
 }
