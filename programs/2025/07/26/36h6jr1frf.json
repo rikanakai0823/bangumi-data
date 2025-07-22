@@ -3,10 +3,14 @@
   "category": "information",
   "title": "いまドキッ！埼玉🈐",
   "fullTitle": "いまドキッ！埼玉🈐🅂",
-  "detail": "",
+  "detail": "暑さを吹き飛ばす！夏の郷土料理▽地元の宝「わらびりんご」\n◇出演者\n司会：松井咲子　リポーター：カナイ　小堺翔太　ナレーター：明坂聡美",
   "start": 1753486200000,
   "end": 1753488000000,
   "seconds": 1800,
+  "description": "暑さを吹き飛ばす！夏の郷土料理▽地元の宝「わらびりんご」",
+  "extra": {
+    "出演者": "司会：松井咲子　リポーター：カナイ　小堺翔太　ナレーター：明坂聡美"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 12
   },
-  "subTitle": "",
+  "subTitle": "わらびりんご",
   "episode": 1,
   "flags": [
     "S"

@@ -3,13 +3,16 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ🈞",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\n。",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\n。\n◇番組内容１\nMOTLEY CRUE / Home Sweet Home (Featuring Dolly Parton)\n◇番組内容２\nAEROSMITH / Sweet Emotion\r\nAEROSMITH / Same Old Song And Dance (Live From The Office Depot Center, Sunrise, FL, April 3, 2004)\n◇番組内容３\nROGER WATERS / Wish You Were Here(From This Is Not A Drill: Live From Prague)",
   "start": 1753716600000,
   "end": 1753718400000,
   "seconds": 1800,
   "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
   "extra": {
-    "番組内容": "。"
+    "番組内容": "。",
+    "番組内容１": "MOTLEY CRUE / Home Sweet Home (Featuring Dolly Parton)",
+    "番組内容２": "AEROSMITH / Sweet Emotion\r\nAEROSMITH / Same Old Song And Dance (Live From The Office Depot Center, Sunrise, FL, April 3, 2004)",
+    "番組内容３": "ROGER WATERS / Wish You Were Here(From This Is Not A Drill: Live From Prague)"
   },
   "channel": {
     "type": "GR",
