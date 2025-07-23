@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwu57",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４５５",
-  "fullTitle": "チバミライチャンネル　＃４５５",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "全日本管打楽器ソロコンテスト千葉県大会2024\n◇出演者\n中学生部門金賞\r\n村山 菜音\r\n齊藤莉緒菜",
   "start": 1753739100000,
   "end": 1753740000000,
   "seconds": 900,
+  "description": "全日本管打楽器ソロコンテスト千葉県大会2024",
+  "extra": {
+    "出演者": "中学生部門金賞\r\n村山 菜音\r\n齊藤莉緒菜"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 455,
+  "episode": 1,
   "flags": []
 }
