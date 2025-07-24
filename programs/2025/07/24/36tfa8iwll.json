@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8iwll",
+  "category": "news",
+  "title": "おはリナ！",
+  "fullTitle": "🈢おはリナ！",
+  "detail": "山本里菜が最新ニュースからグルメ、美容、健康など生活にプラスアルファの情報をお届け▼自分に合ったライフスタイルを見つけるための最新情報をお伝えします！",
+  "start": 1753308000000,
+  "end": 1753311600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}
