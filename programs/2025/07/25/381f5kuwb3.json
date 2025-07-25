@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuwb3",
+  "category": "information",
+  "title": "ぐるっと万博　おひるまえ",
+  "fullTitle": "ぐるっと万博　おひるまえ🈑",
+  "detail": "大阪・関西万博の会場からお伝えする生情報番組。健康と医療がテーマのパソナ・ネイチャーバースや食と癒やしが魅力的なタイパビリオンなど、見どころ満載です！",
+  "start": 1753410600000,
+  "end": 1753412040000,
+  "seconds": 1440,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
