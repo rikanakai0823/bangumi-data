@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1gcd",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・オリエンタルバイオ　テレビショッピング",
+  "fullTitle": "ＴＶショッピング・オリエンタルバイオ　テレビショッピング🅂",
+  "detail": "継続は自信なり！！～１０年先の健康のために～\n◇番組内容\n０１２０－４４４－７３８",
   "start": 1754290800000,
   "end": 1754292600000,
   "seconds": 1800,
+  "description": "継続は自信なり！！～１０年先の健康のために～",
+  "extra": {
+    "番組内容": "０１２０－４４４－７３８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
