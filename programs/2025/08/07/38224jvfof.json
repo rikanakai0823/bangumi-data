@@ -1,0 +1,29 @@
+{
+  "id": "38224jvfof",
+  "category": "sports",
+  "title": "熱闘甲子園",
+  "fullTitle": "熱闘甲子園🈑",
+  "detail": "※詳細が決まり次第、お知らせいたします\n◇◇おしらせ\n※この番組は休止および内容が変更になる場合があります。あらかじめご了承ください\r\n\r\n☆番組ＨＰ\r\n　https://www.asahi.co.jp/netto/",
+  "start": 1754575800000,
+  "end": 1754577600000,
+  "seconds": 1800,
+  "description": "※詳細が決まり次第、お知らせいたします",
+  "extra": {
+    "◇おしらせ": "※この番組は休止および内容が変更になる場合があります。あらかじめご了承ください\r\n\r\n☆番組ＨＰ\r\n　https://www.asahi.co.jp/netto/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
