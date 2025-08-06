@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l4py",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「フレッシュスター特別」「へびつかい座特別」「東京記念トライアル」「ミッドサマー特別」",
+  "start": 1755154200000,
+  "end": 1755172800000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
