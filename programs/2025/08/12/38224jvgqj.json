@@ -1,0 +1,25 @@
+{
+  "id": "38224jvgqj",
+  "category": "news",
+  "title": "報道ステーション",
+  "fullTitle": "報道ステーション🈑",
+  "detail": "",
+  "start": 1755003240000,
+  "end": 1755007800000,
+  "seconds": 4560,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
