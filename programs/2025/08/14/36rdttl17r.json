@@ -3,10 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【来日アーティスト特集】\r\nTYLER, THE CREATOR\"Noid\"\r\nSTING\"I Wrote Your Name (Upon My Heart)\"\r\nTOM GRENNAN\"Shadowboxing (Official Visualiser) \"\n◇番組内容２\nLIL BABY, YOUNG THUG, FUTURE\"Dum, Dumb, and Dumber\"\r\nTRAVIS SCOTT\"KICK OUT\"\r\nTEDDY SWIMS\"God Went Crazy\"\n◇番組内容３\nBRYAN ADAMS\"Never Ever Let You Go\"\r\nWET LEG\"CPR\"",
   "start": 1755122400000,
   "end": 1755124200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【来日アーティスト特集】\r\nTYLER, THE CREATOR\"Noid\"\r\nSTING\"I Wrote Your Name (Upon My Heart)\"\r\nTOM GRENNAN\"Shadowboxing (Official Visualiser) \"",
+    "番組内容２": "LIL BABY, YOUNG THUG, FUTURE\"Dum, Dumb, and Dumber\"\r\nTRAVIS SCOTT\"KICK OUT\"\r\nTEDDY SWIMS\"God Went Crazy\"",
+    "番組内容３": "BRYAN ADAMS\"Never Ever Let You Go\"\r\nWET LEG\"CPR\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
