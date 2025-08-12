@@ -3,13 +3,15 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ🈞",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\n。",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\n。\n◇番組内容１\nAEROSMITH / Back In The Saddle (Live At The Summit, Houston, TX, June 25, 1977) \r\nOZZY OSBOURNE / Mama, I'm Coming Home\r\nOZZY OSBOURNE / Crazy Train\n◇番組内容２\nHALESTORM / Darkness Always Wins\r\nCHEAP TRICK / Dream Police",
   "start": 1755531000000,
   "end": 1755532800000,
   "seconds": 1800,
   "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
   "extra": {
-    "番組内容": "。"
+    "番組内容": "。",
+    "番組内容１": "AEROSMITH / Back In The Saddle (Live At The Summit, Houston, TX, June 25, 1977) \r\nOZZY OSBOURNE / Mama, I'm Coming Home\r\nOZZY OSBOURNE / Crazy Train",
+    "番組内容２": "HALESTORM / Darkness Always Wins\r\nCHEAP TRICK / Dream Police"
   },
   "channel": {
     "type": "GR",

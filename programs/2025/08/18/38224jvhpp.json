@@ -1,0 +1,23 @@
+{
+  "id": "38224jvhpp",
+  "category": "sports",
+  "title": "Ｇｅｔ　Ｓｐｏｒｔｓ",
+  "fullTitle": "Ｇｅｔ　Ｓｐｏｒｔｓ",
+  "detail": "",
+  "start": 1755451500000,
+  "end": 1755455100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
