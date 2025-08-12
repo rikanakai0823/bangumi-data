@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwfvb",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４６０",
-  "fullTitle": "チバミライチャンネル　＃４６０",
-  "detail": " ",
+  "title": "チバミライチャンネル▽千葉聴覚障害者センター",
+  "fullTitle": "チバミライチャンネル▽千葉聴覚障害者センター",
+  "detail": "手話で広がるコミュニケーションの世界\n◇番組内容\nnewsチバ特集\r\n南海トラフ被害想定",
   "start": 1754985600000,
   "end": 1754988600000,
   "seconds": 3000,
+  "description": "手話で広がるコミュニケーションの世界",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n南海トラフ被害想定"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 460,
+  "episode": 1,
   "flags": []
 }
