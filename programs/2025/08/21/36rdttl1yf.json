@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【YORKE特集】\r\nYORKE feat. indigo la End\"sorry in advance\"\r\nYORKE\"love on the run\"\n◇番組内容２\nAVA MAX\"Lovin Myself\"\r\nTyla\"IS IT\"\r\nYOYO SHAM\"Come What May\"\r\nLAUFEY\"Silver Lining\"",
   "start": 1755727200000,
   "end": 1755729000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【YORKE特集】\r\nYORKE feat. indigo la End\"sorry in advance\"\r\nYORKE\"love on the run\"",
+    "番組内容２": "AVA MAX\"Lovin Myself\"\r\nTyla\"IS IT\"\r\nYOYO SHAM\"Come What May\"\r\nLAUFEY\"Silver Lining\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
