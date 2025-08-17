@@ -1,0 +1,23 @@
+{
+  "id": "381ocda9wt",
+  "category": "variety",
+  "title": "日テレ＋「明日はＸ秒後」",
+  "fullTitle": "日テレ＋「明日はＸ秒後」",
+  "detail": "",
+  "start": 1755435240000,
+  "end": 1755435600000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "明日はＸ秒後",
+  "episode": 1,
+  "flags": []
+}
