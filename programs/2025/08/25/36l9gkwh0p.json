@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwh0p",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "成田太鼓祭\r\n八千代高校鼓組",
+  "start": 1756108800000,
+  "end": 1756111800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
