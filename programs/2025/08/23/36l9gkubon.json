@@ -1,15 +1,16 @@
 {
   "id": "36l9gkubon",
   "category": "variety",
-  "title": "Ｕ字工事の旅！発見　＃３０７",
-  "fullTitle": "Ｕ字工事の旅！発見　＃３０７",
-  "detail": "◇出演者      \nＵ字工事",
+  "title": "Ｕ字工事の旅！発見▽野木のひまわり",
+  "fullTitle": "Ｕ字工事の旅！発見▽野木のひまわり",
+  "detail": "◇出演者      \nＵ字工事\n◇出演者\nＵ字工事",
   "start": 1755912600000,
   "end": 1755914400000,
   "seconds": 1800,
   "description": " ",
   "extra": {
-    "出演者      ": "Ｕ字工事"
+    "出演者      ": "Ｕ字工事",
+    "出演者": "Ｕ字工事"
   },
   "channel": {
     "type": "GR",
@@ -22,6 +23,6 @@
     "n": 9
   },
   "subTitle": "",
-  "episode": 307,
+  "episode": 1,
   "flags": []
 }
