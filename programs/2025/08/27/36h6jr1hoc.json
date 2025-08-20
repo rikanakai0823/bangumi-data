@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1hoc",
   "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング",
-  "detail": "",
+  "title": "ＴＶショッピング・イチおし！Ｓｅｌｅｃｔｉｏｎ",
+  "fullTitle": "ＴＶショッピング・イチおし！Ｓｅｌｅｃｔｉｏｎ🅂",
+  "detail": "◇番組内容\n０１２０－０１０－８８８",
   "start": 1756261500000,
   "end": 1756263300000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "０１２０－０１０－８８８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -19,5 +23,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "S"
+  ]
 }
