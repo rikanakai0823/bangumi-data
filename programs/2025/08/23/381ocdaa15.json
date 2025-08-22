@@ -1,0 +1,23 @@
+{
+  "id": "381ocdaa15",
+  "category": "information",
+  "title": "夜バゲット",
+  "fullTitle": "夜バゲット",
+  "detail": "金曜深夜のエンタメ情報番組！MCに日テレアナウンサー川畑一志と郡司恭子▽大ヒット！映画「近畿地方のある場所について」菅野美穂＆赤楚衛二がプレミアイベント登場！他",
+  "start": 1755883140000,
+  "end": 1755886440000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "近畿地方のある場所について",
+  "episode": 1,
+  "flags": []
+}
