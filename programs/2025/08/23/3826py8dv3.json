@@ -1,0 +1,23 @@
+{
+  "id": "3826py8dv3",
+  "category": "sports",
+  "title": "ウイニング競馬～新潟～",
+  "fullTitle": "ウイニング競馬～新潟～",
+  "detail": "【新潟】10Ｒ飯豊特別、11ＲBSN賞（L）\r\n【中京】11Ｒ伊賀Ｓ\r\n【札幌】10R2025WASJ第1戦\r\n　　　　11R2025WASJ第2戦",
+  "start": 1755928800000,
+  "end": 1755932400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "新潟",
+  "episode": 1,
+  "flags": []
+}
