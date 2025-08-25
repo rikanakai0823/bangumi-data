@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l75r",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「花野特別」「セプテンバー賞」「貴船坂賞」",
+  "start": 1756795800000,
+  "end": 1756814400000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
