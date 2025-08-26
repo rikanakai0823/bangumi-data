@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l79n",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「フォーチュネイトむくげ特別」「第３２回　アフター５スター賞(ＳⅢ)」「永代橋賞」",
+  "start": 1756882200000,
+  "end": 1756900800000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "アフター５スター賞(ＳⅢ)",
+  "episode": 32,
+  "flags": []
+}
