@@ -1,15 +1,16 @@
 {
   "id": "381sxrgfte",
   "category": "sports",
-  "title": "世界バレー直前　男子強化試合",
-  "fullTitle": "世界バレー直前　男子強化試合🈑",
-  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sebare/",
+  "title": "世界バレー直前　男子強化試合「日本vsブルガリア」",
+  "fullTitle": "世界バレー直前　男子強化試合「日本vsブルガリア」🈑",
+  "detail": "最強男子ニッポンが世界バレーで51年ぶりメダルへ！\r\n世界バレー直前で欧州の強豪と激突\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sebare/\n◇おことわり\n世界バレー女子で日本代表が準々決勝に進出し、夜7時に試合時間の場合、放送休止となります。",
   "start": 1756892700000,
   "end": 1756899000000,
   "seconds": 6300,
-  "description": "番組情報決定までしばらくお待ち下さい。",
+  "description": "最強男子ニッポンが世界バレーで51年ぶりメダルへ！\r\n世界バレー直前で欧州の強豪と激突",
   "extra": {
-    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sebare/"
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sebare/",
+    "おことわり": "世界バレー女子で日本代表が準々決勝に進出し、夜7時に試合時間の場合、放送休止となります。"
   },
   "channel": {
     "type": "GR",
@@ -21,7 +22,7 @@
     "hasLogoData": true,
     "n": 23
   },
-  "subTitle": "",
+  "subTitle": "日本vsブルガリア",
   "episode": 1,
   "flags": [
     "字"
