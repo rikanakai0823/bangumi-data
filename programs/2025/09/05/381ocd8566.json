@@ -1,0 +1,23 @@
+{
+  "id": "381ocd8566",
+  "category": "information",
+  "title": "日テレ＋「明日は放送局占拠」",
+  "fullTitle": "日テレ＋「明日は放送局占拠」",
+  "detail": "",
+  "start": 1757080440000,
+  "end": 1757080800000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "明日は放送局占拠",
+  "episode": 1,
+  "flags": []
+}

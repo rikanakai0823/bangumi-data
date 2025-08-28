@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l7hn",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「はやぶさ特別」「ソノラ賞」「ディーヴァ賞」「月見特別」「デイリースポーツ賞」",
+  "start": 1757055000000,
+  "end": 1757073600000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
