@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwhrb",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４７０",
-  "fullTitle": "チバミライチャンネル　＃４７０",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "第1回新妻チルドレン名曲コンサート\r\n第2部\n◇番組内容\nnewsチバ特集\r\n“もしも”に備える力を　ゲームで学ぶ避難所運営",
   "start": 1756800000000,
   "end": 1756803000000,
   "seconds": 3000,
+  "description": "第1回新妻チルドレン名曲コンサート\r\n第2部",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n“もしも”に備える力を　ゲームで学ぶ避難所運営"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 470,
+  "episode": 1,
   "flags": []
 }
