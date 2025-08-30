@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr3n0p",
+  "category": "sports",
+  "title": "ＲＥＤＳ　ＴＶ　ＧＧＲ",
+  "fullTitle": "ＲＥＤＳ　ＴＶ　ＧＧＲ🅂🈞",
+  "detail": "◇明治安田Ｊ１リーグ第２７節柏レイソル戦ハイライト◇天皇杯準々決勝ＦＣ東京戦ハイライト◇ＳＯＭＰＯ  ＷＥリーグ第３節日テレ・ベレーザ戦ハイライト◇",
+  "start": 1756506600000,
+  "end": 1756508400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}
