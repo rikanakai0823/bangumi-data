@@ -1,0 +1,23 @@
+{
+  "id": "3826py68yg",
+  "category": "sports",
+  "title": "サタデーナイトＪ",
+  "fullTitle": "サタデーナイトＪ",
+  "detail": "土曜日に最も熱く盛り上がったＪリーグの試合を中心に解説者独自の視点や情報で分かりやすく、深く、魅力を伝える番組です",
+  "start": 1756564200000,
+  "end": 1756566000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
