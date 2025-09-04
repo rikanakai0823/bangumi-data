@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【aron!特集】\r\n\"cozy you(lyric Video)\"\r\n\"table for two\"\n◇番組内容２\nED SHEERAN\"Sapphire\"\r\nMILEY CYRUS feat. BRITTANY HOWARD\"Walk Of Fame\"\r\nNELL\"Wanderer\"",
   "start": 1757345400000,
   "end": 1757347200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【aron!特集】\r\n\"cozy you(lyric Video)\"\r\n\"table for two\"",
+    "番組内容２": "ED SHEERAN\"Sapphire\"\r\nMILEY CYRUS feat. BRITTANY HOWARD\"Walk Of Fame\"\r\nNELL\"Wanderer\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
