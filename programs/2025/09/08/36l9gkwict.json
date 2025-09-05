@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwict",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４６９",
-  "fullTitle": "チバミライチャンネル　＃４６９",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "第1回新妻チルドレン名曲コンサート\r\n第1部\n◇番組内容\nnewsチバ特集\r\n団結力でロボットを導け！中学生が世界に挑戦",
   "start": 1757318400000,
   "end": 1757321400000,
   "seconds": 3000,
+  "description": "第1回新妻チルドレン名曲コンサート\r\n第1部",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n団結力でロボットを導け！中学生が世界に挑戦"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 469,
+  "episode": 1,
   "flags": []
 }

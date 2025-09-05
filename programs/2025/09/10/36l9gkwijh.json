@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwijh",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４７１",
-  "fullTitle": "チバミライチャンネル　＃４７１",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "第1回新妻チルドレン名曲コンサート\r\n第3部・前半\n◇番組内容\nnewsチバ特集\r\n千葉空襲（七夕空襲）体験者　当時を語り訴える平和",
   "start": 1757491200000,
   "end": 1757494200000,
   "seconds": 3000,
+  "description": "第1回新妻チルドレン名曲コンサート\r\n第3部・前半",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n千葉空襲（七夕空襲）体験者　当時を語り訴える平和"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 471,
+  "episode": 1,
   "flags": []
 }

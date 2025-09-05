@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwimn",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃４７２",
-  "fullTitle": "チバミライチャンネル　＃４７２",
-  "detail": " ",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "第1回新妻チルドレン名曲コンサート\r\n第3部・後半\n◇番組内容\nnewsチバ特集\r\n外国人との共生",
   "start": 1757577600000,
   "end": 1757580600000,
   "seconds": 3000,
+  "description": "第1回新妻チルドレン名曲コンサート\r\n第3部・後半",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n外国人との共生"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 472,
+  "episode": 1,
   "flags": []
 }
