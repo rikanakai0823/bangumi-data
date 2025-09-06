@@ -1,0 +1,23 @@
+{
+  "id": "3826py69ai",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】10R白井特別11R京成杯AH（ＧⅢ）\r\n【阪神】10R西宮Ｓ　11RエニフＳ（Ｌ）\r\n【札幌】11R札幌２歳Ｓ（ＧⅢ）",
+  "start": 1757138400000,
+  "end": 1757142000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}

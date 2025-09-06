@@ -1,12 +1,16 @@
 {
   "id": "381sxrgg22",
-  "category": "etc",
-  "title": "※ラインアップ未定",
-  "fullTitle": "※ラインアップ未定",
-  "detail": "",
+  "category": "sports",
+  "title": "東京２０２５世界陸上　１日目",
+  "fullTitle": "東京２０２５世界陸上　１日目🈑🈓",
+  "detail": "番組情報決定までしばらくお待ち下さい。\n◇公式ページ\n◇番組ＨＰ\r\nhttp://www.tbs.co.jp/seriku/\r\n\r\n◇youtube\r\nhttps://www.youtube.com/channel/UChFYmUZDkY2UfNjWo36_dbQ\r\n\r\n◇X\r\nhttps://twitter.com/athleteboo\r\n\r\n◇instagram\r\nhttps://www.instagram.com/tbsrikujou/",
   "start": 1757714400000,
   "end": 1757741400000,
   "seconds": 27000,
+  "description": "番組情報決定までしばらくお待ち下さい。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttp://www.tbs.co.jp/seriku/\r\n\r\n◇youtube\r\nhttps://www.youtube.com/channel/UChFYmUZDkY2UfNjWo36_dbQ\r\n\r\n◇X\r\nhttps://twitter.com/athleteboo\r\n\r\n◇instagram\r\nhttps://www.instagram.com/tbsrikujou/"
+  },
   "channel": {
     "type": "GR",
     "channel": "22",
@@ -19,5 +23,8 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字",
+    "デ"
+  ]
 }
