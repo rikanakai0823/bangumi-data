@@ -1,0 +1,25 @@
+{
+  "id": "381ocda35y",
+  "category": "information",
+  "title": "日テレポシュレ　人気商品がお得！ＳＰ",
+  "fullTitle": "日テレポシュレ　人気商品がお得！ＳＰ🈞",
+  "detail": "",
+  "start": 1777053240000,
+  "end": 1777056840000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

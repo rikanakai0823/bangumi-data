@@ -1,0 +1,25 @@
+{
+  "id": "381jqz4mqz",
+  "category": "hobby",
+  "title": "テレビ体操",
+  "fullTitle": "テレビ体操🈑",
+  "detail": "【出演】鈴木大輔，我喜屋佑衣，福島波奈，新井庸太，森山雅斗，【ピアノ】能條貴大",
+  "start": 1784669100000,
+  "end": 1784669700000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

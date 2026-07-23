@@ -1,0 +1,23 @@
+{
+  "id": "381jqz4vmt",
+  "category": "news",
+  "title": "ＮＨＫ手話ニュース８４５🈐",
+  "fullTitle": "ＮＨＫ手話ニュース８４５🈐",
+  "detail": "１日の国内外の出来事や最新のニュースを手話や映像でお伝えします。",
+  "start": 1764157500000,
+  "end": 1764158400000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

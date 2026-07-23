@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmc2c",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "▽木謡てんき　素敵なゲストが天気情報をお伝えします▽新木曜ＭＣ　ティモンディ高岸を年表で深掘り▽出張マチコミボード　アルシェ大宮前からマチの声をお届け",
+  "start": 1775719800000,
+  "end": 1775721600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

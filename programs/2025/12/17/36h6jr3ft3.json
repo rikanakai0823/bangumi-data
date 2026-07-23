@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3ft3",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽くらしの相談　相続についてわかりやすく解説！▽松坂屋上野店「北海道物産展」開催中！名物バイヤーが生出演で魅力を紹介▽天気",
+  "start": 1765956600000,
+  "end": 1765958400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "北海道物産展",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

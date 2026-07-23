@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr3hs8",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "▽森脇良太とマチコミじゃんけん▽冬の風物詩　埼玉県小鹿野町「尾ノ内氷柱」から生中継　絶景と美味しいグルメも楽しもう▽埼玉のスポーツ情報スポたま！",
+  "start": 1769169600000,
+  "end": 1769171400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "尾ノ内氷柱",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381f5kufm6",
+  "category": "sports",
+  "title": "スポーツニュース",
+  "fullTitle": "スポーツニュース🈑",
+  "detail": "プロ野球セ・リーグは上位３チームが大混戦▽巨人でチーム内の勝利数トップと奮闘する井上温大投手が見せた新しい姿に迫る",
+  "start": 1783258500000,
+  "end": 1783259700000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

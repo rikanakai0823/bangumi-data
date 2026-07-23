@@ -1,0 +1,25 @@
+{
+  "id": "381f5kusaq",
+  "category": "news",
+  "title": "ニュース６４５（関東・山梨）",
+  "fullTitle": "ニュース６４５（関東・山梨）🈑",
+  "detail": "",
+  "start": 1780220700000,
+  "end": 1780221600000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

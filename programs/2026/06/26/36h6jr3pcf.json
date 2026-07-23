@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3pcf",
+  "category": "sports",
+  "title": "ＲＥＤＳ　ＴＶ　ＧＧＲ",
+  "fullTitle": "ＲＥＤＳ　ＴＶ　ＧＧＲ🅂",
+  "detail": "特別コラボ企画！県情報番組「いまドキッ！埼玉」ＭＣの松井咲子さんとＭＣ森脇良太が浦和を巡ります。大原サッカー場や埼スタなどに潜入し、",
+  "start": 1782482400000,
+  "end": 1782484200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "いまドキッ！埼玉",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

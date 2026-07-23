@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5viu",
+  "category": "theater",
+  "title": "よしもと新喜劇",
+  "fullTitle": "よしもと新喜劇🅂",
+  "detail": "「刑事・須知山田の、事件現場は撮影現場」",
+  "start": 1762340400000,
+  "end": 1762344000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "刑事・須知山田の、事件現場は撮影現場",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

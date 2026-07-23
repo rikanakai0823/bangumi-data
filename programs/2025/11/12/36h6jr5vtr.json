@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5vtr",
+  "category": "information",
+  "title": "テレ玉認定！たまぐるめ",
+  "fullTitle": "テレ玉認定！たまぐるめ🅂",
+  "detail": "麺処ろくめい",
+  "start": 1762884000000,
+  "end": 1762884300000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

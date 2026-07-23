@@ -1,0 +1,25 @@
+{
+  "id": "381sxrin6k",
+  "category": "news",
+  "title": "ＪＮＮニュース🈐",
+  "fullTitle": "ＪＮＮニュース🈐🈑",
+  "detail": "最新のニュースをお送りします。",
+  "start": 1764361800000,
+  "end": 1764362700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

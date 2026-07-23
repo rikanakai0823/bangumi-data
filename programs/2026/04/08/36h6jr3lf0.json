@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3lf0",
+  "category": "news",
+  "title": "ニュース５３０",
+  "fullTitle": "ニュース５３０🅂",
+  "detail": "【中継】桜のさんぽ道　さいたま市大宮区の造幣局さいたま支局にある桜のさんぽ道。前村アナウンサーが中継でお届けします。",
+  "start": 1775637000000,
+  "end": 1775638800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "中継",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

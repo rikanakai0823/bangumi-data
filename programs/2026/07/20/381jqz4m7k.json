@@ -1,0 +1,26 @@
+{
+  "id": "381jqz4m7k",
+  "category": "hobby",
+  "title": "にほんごであそぼ「朗読スペシャル」",
+  "fullTitle": "にほんごであそぼ「朗読スペシャル」🈑🈓",
+  "detail": "朗読（高杉真宙）、うた「じゅうにかげつ」「ＪＵＭＰ」",
+  "start": 1784504100000,
+  "end": 1784504700000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "朗読スペシャル",
+  "episode": 1,
+  "flags": [
+    "字",
+    "デ"
+  ]
+}

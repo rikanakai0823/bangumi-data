@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwk4n",
+  "category": "information",
+  "title": "生活情報【内容】月弥",
+  "fullTitle": "生活情報【内容】月弥",
+  "detail": "【内容】月弥\r\n【電話】0120-123-222",
+  "start": 1774540800000,
+  "end": 1774542600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}

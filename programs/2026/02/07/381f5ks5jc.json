@@ -1,0 +1,23 @@
+{
+  "id": "381f5ks5jc",
+  "category": "information",
+  "title": "未解決事件１分ＰＲ",
+  "fullTitle": "未解決事件１分ＰＲ",
+  "detail": "",
+  "start": 1770435600000,
+  "end": 1770435660000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

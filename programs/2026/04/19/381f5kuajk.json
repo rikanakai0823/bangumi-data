@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuajk",
+  "category": "sports",
+  "title": "競馬２０２６　第８６回皐月賞",
+  "fullTitle": "競馬２０２６　第８６回皐月賞🈑",
+  "detail": "３歳クラシック三冠レースの第１戦▽中山競馬場　芝２０００ｍ　３時４０分発走▽解説：上原博之（調教師）　キャスター：黒住駿　レース実況：稲垣秀人",
+  "start": 1776578400000,
+  "end": 1776582000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "",
+  "episode": 86,
+  "flags": [
+    "字"
+  ]
+}

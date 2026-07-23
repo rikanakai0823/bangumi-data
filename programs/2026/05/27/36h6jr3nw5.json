@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3nw5",
+  "category": "news",
+  "title": "ニュース５３０",
+  "fullTitle": "ニュース５３０🅂",
+  "detail": "【特集】彩の国ふれあい牧場の天空のポピーを生中継！",
+  "start": 1779870600000,
+  "end": 1779872400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "特集",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

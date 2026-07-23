@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr5lri",
+  "category": "anime",
+  "title": "スクールランブル",
+  "fullTitle": "スクールランブル🅂🈡",
+  "detail": "突然の「さよなら」・・・",
+  "start": 1767364200000,
+  "end": 1767366000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "さよなら",
+  "episode": 1,
+  "flags": [
+    "S",
+    "終"
+  ]
+}

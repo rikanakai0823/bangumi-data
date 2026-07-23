@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3ofc",
+  "category": "information",
+  "title": "テレ玉認定！たまぐるめ　３０分版",
+  "fullTitle": "テレ玉認定！たまぐるめ　３０分版🅂",
+  "detail": "ちゅうか増田食堂、みよちゃん食堂、キャンディーラップ",
+  "start": 1759064400000,
+  "end": 1759066200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

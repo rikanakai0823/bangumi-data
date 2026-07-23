@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwofz",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "古今亭　菊之丞「死ぬなら今」・林家　たけ平「幾代餅」",
+  "start": 1763283900000,
+  "end": 1763287200000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3o8h",
+  "category": "information",
+  "title": "ＴＶショッピング・あじかんテレビショッピング",
+  "fullTitle": "ＴＶショッピング・あじかんテレビショッピング🅂",
+  "detail": "",
+  "start": 1780444800000,
+  "end": 1780446600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

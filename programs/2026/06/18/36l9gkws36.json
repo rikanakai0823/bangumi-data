@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkws36",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "全日本管打楽器ソロコンテスト千葉県大会2025～高校生部門金賞～",
+  "start": 1781732700000,
+  "end": 1781733600000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

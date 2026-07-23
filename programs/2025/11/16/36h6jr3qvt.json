@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3qvt",
+  "category": "sports",
+  "title": "川口オートＧ■オートレースメモリアル中継",
+  "fullTitle": "川口オートＧ■オートレースメモリアル中継🅂",
+  "detail": "川口オートで開催されているＧⅡオートレースメモリアル優勝戦の模様を生中継！",
+  "start": 1763278200000,
+  "end": 1763280900000,
+  "seconds": 2700,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

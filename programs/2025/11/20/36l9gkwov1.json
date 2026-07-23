@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwov1",
+  "category": "drama",
+  "title": "大忠臣蔵",
+  "fullTitle": "大忠臣蔵",
+  "detail": "第２４回　見えざる魔手",
+  "start": 1763614800000,
+  "end": 1763618100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "見えざる魔手",
+  "episode": 24,
+  "flags": []
+}

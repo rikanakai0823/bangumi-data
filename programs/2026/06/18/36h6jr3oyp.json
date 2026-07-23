@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr3oyp",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "▽マチコミじゃんけん▽肉乃小路ニクヨとお金について学ぼう▽▽浦和ＰＡＲＣＯから生中継▽週末高岸占い",
+  "start": 1781784000000,
+  "end": 1781785800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}

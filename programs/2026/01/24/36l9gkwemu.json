@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwemu",
+  "category": "information",
+  "title": "生活情報【内容】ヒアロモイスチャー",
+  "fullTitle": "生活情報【内容】ヒアロモイスチャー",
+  "detail": "【内容】ヒアロモイスチャー\r\n【電話】0120-240-234",
+  "start": 1769187600000,
+  "end": 1769189400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}

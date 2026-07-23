@@ -1,0 +1,25 @@
+{
+  "id": "381jqz2v20",
+  "category": "hobby",
+  "title": "テレビ体操",
+  "fullTitle": "テレビ体操🈑",
+  "detail": "【出演】岡本美佳，我喜屋佑衣，福島波奈，杉井勇介，森山雅斗，【ピアノ】細貝柊",
+  "start": 1781904300000,
+  "end": 1781904900000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

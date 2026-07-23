@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8kwfv",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「新馬」「プルメリア特別」「フロリダ賞」「ムーンストーン賞」「オフト後楽園賞」\n◇出演者      \n【MC】\r\n関根苑子\r\n【解説】\r\n《9R～12R》\r\n宮崎優希（勝馬／※崎は立つ崎）",
+  "start": 1782715800000,
+  "end": 1782734400000,
+  "seconds": 18600,
+  "description": "「新馬」「プルメリア特別」「フロリダ賞」「ムーンストーン賞」「オフト後楽園賞」",
+  "extra": {
+    "出演者      ": "【MC】\r\n関根苑子\r\n【解説】\r\n《9R～12R》\r\n宮崎優希（勝馬／※崎は立つ崎）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

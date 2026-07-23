@@ -1,0 +1,25 @@
+{
+  "id": "38224k0cht",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "２０２５年に活躍した日本人スポーツ選手、団体を表彰する第５９回テレビ朝日ビッグスポーツ賞表彰式の模様をお届けします。",
+  "start": 1769284800000,
+  "end": 1769286000000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 59,
+  "flags": [
+    "字"
+  ]
+}

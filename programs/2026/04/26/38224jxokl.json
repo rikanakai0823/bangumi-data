@@ -1,0 +1,25 @@
+{
+  "id": "38224jxokl",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "今年３月２７日に開場しました“東京ドリームパーク”。ＧＷを含む春祭りのイベント内容についてお知らせします。",
+  "start": 1777147200000,
+  "end": 1777148400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjt",
+    "sid": 1065,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

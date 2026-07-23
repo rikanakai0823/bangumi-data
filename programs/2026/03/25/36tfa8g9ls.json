@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8g9ls",
+  "category": "news",
+  "title": "東京都議会中継🈐",
+  "fullTitle": "東京都議会中継🈐",
+  "detail": "「予算特別委員会　最終日」",
+  "start": 1774411200000,
+  "end": 1774418400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "予算特別委員会　最終日",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381ocda1ag",
+  "category": "variety",
+  "title": "日テレ＋「火曜日は仰天ニュース２時間ＳＰ」",
+  "fullTitle": "日テレ＋「火曜日は仰天ニュース２時間ＳＰ」🈑",
+  "detail": "",
+  "start": 1769950440000,
+  "end": 1769950800000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "火曜日は仰天ニュース２時間ＳＰ",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr3hlv",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "▽マチコミじゃんけん▽おいしさまるごとマイスター　埼玉県産ほうれん草▽むさしの国の経済塾　経済情報をわかりやすく解説▽福島の冬の名物あんぽ柿",
+  "start": 1768824000000,
+  "end": 1768825800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}

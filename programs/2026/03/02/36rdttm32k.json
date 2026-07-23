@@ -1,0 +1,23 @@
+{
+  "id": "36rdttm32k",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽とちぎわかやまの名産品展開催中！錦糸町から生中継▽マチコミワンニャン部　ワンちゃん猫ちゃんの写真募集中▽天気",
+  "start": 1772436600000,
+  "end": 1772438400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

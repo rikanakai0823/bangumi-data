@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5k7k",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽豪華プレゼントゲットのチャンス！テレ玉感謝祭開催中！▽マチコミじゃんけん",
+  "start": 1764662400000,
+  "end": 1764664200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

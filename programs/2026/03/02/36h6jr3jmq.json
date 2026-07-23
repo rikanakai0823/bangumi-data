@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3jmq",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽とちぎわかやまの名産品展開催中！錦糸町から生中継▽マチコミワンニャン部　ワンちゃん猫ちゃんの写真募集中▽天気",
+  "start": 1772436600000,
+  "end": 1772438400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

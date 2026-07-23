@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1lo4",
+  "category": "documentary",
+  "title": "埼玉ビジネスウオッチ",
+  "fullTitle": "埼玉ビジネスウオッチ🅂",
+  "detail": "埼玉ビジネスウオッチは、県内・首都圏の経済にまつわる話題をタイムリーに伝えるビジネス情報番組です。",
+  "start": 1784982600000,
+  "end": 1784984400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

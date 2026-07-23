@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr3mn3",
+  "category": "sports",
+  "title": "ＲＥＤＳ　ＴＶ　ＧＧＲ",
+  "fullTitle": "ＲＥＤＳ　ＴＶ　ＧＧＲ🅂🈞",
+  "detail": "横浜Ｆ・マリノス戦、そして８試合ぶりの勝利を掴んだ川崎フロンターレ戦についてたっぷり放送！レディースのさいたまダービーもお届けします。",
+  "start": 1777674600000,
+  "end": 1777676400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}

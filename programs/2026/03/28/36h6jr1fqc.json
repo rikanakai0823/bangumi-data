@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1fqc",
+  "category": "news",
+  "title": "ウィークエンドニュース　サタデー",
+  "fullTitle": "ウィークエンドニュース　サタデー🅂",
+  "detail": "",
+  "start": 1774687500000,
+  "end": 1774688100000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

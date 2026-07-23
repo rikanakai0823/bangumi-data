@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr5rga",
+  "category": "sports",
+  "title": "Ｂリーグ中継・ディップ株式会社",
+  "fullTitle": "Ｂリーグ中継・ディップ株式会社",
+  "detail": "さいたまブロンコス対立川ダイスのプレーオフを実況生中継！　所沢市民体育館から実況生中継！プレーオフを戦うブロンコス、勝利の瞬間を見逃すな！",
+  "start": 1777111200000,
+  "end": 1777118400000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

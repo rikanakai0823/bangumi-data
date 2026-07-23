@@ -1,0 +1,23 @@
+{
+  "id": "3826py8k2r",
+  "category": "sports",
+  "title": "ウイニング競馬～中山～",
+  "fullTitle": "ウイニング競馬～中山～",
+  "detail": "【中山】11Ｒ初富士ステークス\r\n【京都】11Ｒ睦月ステークス\r\n【小倉】10Ｒ海の中道特別\r\n　　　　11Ｒ小倉牝馬ステークス（ＧⅢ）",
+  "start": 1769234400000,
+  "end": 1769238000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}

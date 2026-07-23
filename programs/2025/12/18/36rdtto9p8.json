@@ -1,0 +1,23 @@
+{
+  "id": "36rdtto9p8",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "あなたとツクルまちコミュニケーション！▽木謡てんき　演歌歌手　田川寿美が天気情報をお届け▽おいしい山形　雪もラーメンも！冬の山形は魅力がいっぱい",
+  "start": 1766043000000,
+  "end": 1766044800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ３",
+    "id": "1hjjdzu",
+    "sid": 24634,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 7
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

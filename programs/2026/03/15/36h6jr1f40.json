@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1f40",
+  "category": "sports",
+  "title": "ＪＲＡ競馬中継",
+  "fullTitle": "ＪＲＡ競馬中継🅂",
+  "detail": "",
+  "start": 1773550800000,
+  "end": 1773554400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

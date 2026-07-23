@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwkeh",
+  "category": "sports",
+  "title": "チバテレＢリーグ中継▽アルティーリ千葉×千葉ジェッツ",
+  "fullTitle": "チバテレＢリーグ中継▽アルティーリ千葉×千葉ジェッツ",
+  "detail": "【解説】塚本清彦\r\n【実況】菱沼洲斗\r\n【会場】千葉ポートアリーナ",
+  "start": 1774764000000,
+  "end": 1774774500000,
+  "seconds": 10500,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "解説",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3qm9",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ🅂",
+  "detail": "「大宮競輪」",
+  "start": 1762781400000,
+  "end": 1762783200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "大宮競輪",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

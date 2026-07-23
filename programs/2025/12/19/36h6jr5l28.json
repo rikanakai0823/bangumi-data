@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5l28",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽アイスショー「プリンスアイスワールド」の魅力を紹介▽気になる週末の天気は？▽スポたま　注目のスポーツ情報",
+  "start": 1766129400000,
+  "end": 1766131200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "プリンスアイスワールド",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

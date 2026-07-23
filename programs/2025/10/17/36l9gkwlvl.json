@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwlvl",
+  "category": "drama",
+  "title": "大忠臣蔵",
+  "fullTitle": "🈟大忠臣蔵",
+  "detail": "第１回　風雲はらむ赤穂城",
+  "start": 1760677200000,
+  "end": 1760680500000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "風雲はらむ赤穂城",
+  "episode": 1,
+  "flags": [
+    "新"
+  ]
+}

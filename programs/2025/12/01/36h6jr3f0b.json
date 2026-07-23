@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3f0b",
+  "category": "anime",
+  "title": "らんま１／２",
+  "fullTitle": "らんま１／２🈑",
+  "detail": "第１２４話「雪ん子冬物語」",
+  "start": 1764581400000,
+  "end": 1764583200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "雪ん子冬物語",
+  "episode": 124,
+  "flags": [
+    "字"
+  ]
+}

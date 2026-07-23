@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1jjh",
+  "category": "etc",
+  "title": "金曜競馬ＣＬＵＢ　ＮＥＯ",
+  "fullTitle": "金曜競馬ＣＬＵＢ　ＮＥＯ🅂",
+  "detail": "",
+  "start": 1781281800000,
+  "end": 1781283600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

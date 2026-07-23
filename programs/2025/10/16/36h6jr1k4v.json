@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1k4v",
+  "category": "news",
+  "title": "ニュース１１５５",
+  "fullTitle": "ニュース１１５５🅂",
+  "detail": "",
+  "start": 1760583300000,
+  "end": 1760583600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

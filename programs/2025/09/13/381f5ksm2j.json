@@ -4,9 +4,9 @@
   "title": "ニュース・気象情報",
   "fullTitle": "ニュース・気象情報🈑",
   "detail": "",
-  "start": 1757771700000,
+  "start": 1757771400000,
   "end": 1757772000000,
-  "seconds": 300,
+  "seconds": 600,
   "channel": {
     "type": "GR",
     "channel": "27",

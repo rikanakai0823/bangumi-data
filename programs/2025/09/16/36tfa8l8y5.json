@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8l8y5",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「ピンポン賞」「八景坂賞」「くじら座特別」「長月賞」\n◇出演者      \n【MC】\r\n前半：山田桃子／後半：堀江　舞\r\n【解説】\r\n《9R～12R》\r\nかなポッポ鳩村（勝馬）",
+  "start": 1758005400000,
+  "end": 1758024000000,
+  "seconds": 18600,
+  "description": "「ピンポン賞」「八景坂賞」「くじら座特別」「長月賞」",
+  "extra": {
+    "出演者      ": "【MC】\r\n前半：山田桃子／後半：堀江　舞\r\n【解説】\r\n《9R～12R》\r\nかなポッポ鳩村（勝馬）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

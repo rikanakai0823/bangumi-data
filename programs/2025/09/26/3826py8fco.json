@@ -1,0 +1,26 @@
+{
+  "id": "3826py8fco",
+  "category": "music",
+  "title": "歌のサンセット",
+  "fullTitle": "歌のサンセット🈑🈖",
+  "detail": "最新曲と様々な情報をお届けする夕方の音楽情報番組！【ゲスト】亜蘭、STU48、大月みやこ、二見颯一、THE　FRANK　VOX、望月琉叶",
+  "start": 1758875400000,
+  "end": 1758876900000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "ゲスト",
+  "episode": 1,
+  "flags": [
+    "字",
+    "解"
+  ]
+}

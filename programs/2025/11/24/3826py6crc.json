@@ -1,0 +1,23 @@
+{
+  "id": "3826py6crc",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "【東京】１１Ｒ東スポ杯２歳Ｓ（ＧⅡ）\r\n【福島】１１Ｒ奥羽ステークス\r\n　　　　１２Ｒ３歳以上１勝クラス",
+  "start": 1763964000000,
+  "end": 1763967600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}

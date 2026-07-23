@@ -1,0 +1,25 @@
+{
+  "id": "381sxrim84",
+  "category": "sports",
+  "title": "GO！スプラッシュ",
+  "fullTitle": "GO！スプラッシュ🈑",
+  "detail": "スピードの向こう側に夢がある！ \r\n最高峰ＳＧ『第７２回ボートレースダービー』",
+  "start": 1761462000000,
+  "end": 1761465600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

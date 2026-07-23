@@ -1,0 +1,25 @@
+{
+  "id": "38224jzvwk",
+  "category": "information",
+  "title": "はい！テレビ朝日です🈐",
+  "fullTitle": "はい！テレビ朝日です🈐🈑",
+  "detail": "テレビ朝日の放送において、テレビのバリアフリー（手話放送・字幕放送及び解説放送）の舞台裏をお届けします。",
+  "start": 1783195200000,
+  "end": 1783196400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

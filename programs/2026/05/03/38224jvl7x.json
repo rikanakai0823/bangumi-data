@@ -1,0 +1,26 @@
+{
+  "id": "38224jvl7x",
+  "category": "drama",
+  "title": "相棒セレクション",
+  "fullTitle": "相棒セレクション🈑🈞",
+  "detail": "",
+  "start": 1777788000000,
+  "end": 1777791600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "再"
+  ]
+}

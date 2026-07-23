@@ -1,0 +1,23 @@
+{
+  "id": "381jqz0m30",
+  "category": "etc",
+  "title": "おとなのＥテレタイムマシン",
+  "fullTitle": "おとなのＥテレタイムマシン",
+  "detail": "",
+  "start": 1770126300000,
+  "end": 1770128040000,
+  "seconds": 1740,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ１東京",
+    "id": "1i52rvs",
+    "sid": 1032,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 2
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

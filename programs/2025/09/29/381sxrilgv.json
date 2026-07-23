@@ -1,0 +1,25 @@
+{
+  "id": "381sxrilgv",
+  "category": "news",
+  "title": "トップニュース先出し",
+  "fullTitle": "トップニュース先出し🈑",
+  "detail": "きょうのｎｅｗｓ２３。みどころを、いち早くお伝えします！最新情報、満載です！",
+  "start": 1759154220000,
+  "end": 1759154400000,
+  "seconds": 180,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

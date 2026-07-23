@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5t6t",
+  "category": "information",
+  "title": "佐世保発！生放送テレビショッピング",
+  "fullTitle": "佐世保発！生放送テレビショッピング🅂",
+  "detail": "佐世保発ショッピング　期間限定商品がお得",
+  "start": 1757930400000,
+  "end": 1757934000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

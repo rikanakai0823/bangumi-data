@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1g2z",
+  "category": "music",
+  "title": "テレ玉くんのうた　ショコラミと踊ろう！",
+  "fullTitle": "テレ玉くんのうた　ショコラミと踊ろう！🅂",
+  "detail": "ショコラミとおどろう！（フル）",
+  "start": 1775323500000,
+  "end": 1775323800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

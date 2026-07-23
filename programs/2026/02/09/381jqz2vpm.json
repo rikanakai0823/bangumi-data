@@ -1,0 +1,25 @@
+{
+  "id": "381jqz2vpm",
+  "category": "sports",
+  "title": "ミラノ・コルティナオリンピック",
+  "fullTitle": "ミラノ・コルティナオリンピック🈑",
+  "detail": "",
+  "start": 1770641700000,
+  "end": 1770642000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

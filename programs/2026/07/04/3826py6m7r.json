@@ -1,0 +1,23 @@
+{
+  "id": "3826py6m7r",
+  "category": "sports",
+  "title": "ウイニング競馬～福島～",
+  "fullTitle": "ウイニング競馬～福島～",
+  "detail": "【福島】10Ｒ横手特別\r\n　　　　11ＲTUF杯\r\n【小倉】11Ｒ博多Ｓ\r\n【函館】11ＲTVh杯\r\n",
+  "start": 1783144800000,
+  "end": 1783148400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "福島",
+  "episode": 1,
+  "flags": []
+}

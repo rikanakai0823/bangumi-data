@@ -1,0 +1,27 @@
+{
+  "id": "381xj5onjj",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n浅倉美恩（フジテレビアナウンサー）",
+  "start": 1767041700000,
+  "end": 1767042000000,
+  "seconds": 300,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "浅倉美恩（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "381xj5sx5b",
+  "category": "anime",
+  "title": "アニメダマ",
+  "fullTitle": "アニメダマ",
+  "detail": "『アニメダマ』では、フジテレビで放送となるアニメ作品の魅力や注目ポイントなどの“目玉情報”を紹介！",
+  "start": 1774885500000,
+  "end": 1774889100000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597du",
+    "sid": 1058,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 31
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8jg9t",
+  "category": "news",
+  "title": "東京都議会中継🈐",
+  "fullTitle": "東京都議会中継🈐",
+  "detail": "「令和７年第４回定例会　本会議　最終日」",
+  "start": 1765944000000,
+  "end": 1765954800000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "令和７年第４回定例会　本会議　最終日",
+  "episode": 4,
+  "flags": []
+}

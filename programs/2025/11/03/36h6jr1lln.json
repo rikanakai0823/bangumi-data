@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1lln",
+  "category": "information",
+  "title": "佐世保発！テレビショッピング",
+  "fullTitle": "佐世保発！テレビショッピング🅂",
+  "detail": "",
+  "start": 1762167600000,
+  "end": 1762171200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3826py8gd7",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "【東京】11ＲオクトーバーＳ（Ｌ）\r\n【京都】10Ｒ堀川特別\r\n　　　　11ＲスワンＳ（ＧⅡ）",
+  "start": 1760335200000,
+  "end": 1760338800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwsff",
+  "category": "cinema",
+  "title": "映画　スイス・アーミー・マン",
+  "fullTitle": "映画　スイス・アーミー・マン",
+  "detail": "君となら、きっと生きて帰れるー。",
+  "start": 1767276000000,
+  "end": 1767282600000,
+  "seconds": 6600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3phf",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽マチコミじゃんけん▽料理のおけいこ　簡単レシピを紹介！▽ねえねえよしお兄さん▽埼玉の赤ちゃんへプレゼント「はじめてばこ」▽おたより",
+  "start": 1782720000000,
+  "end": 1782721800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "はじめてばこ",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

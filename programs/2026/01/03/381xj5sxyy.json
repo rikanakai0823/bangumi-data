@@ -1,0 +1,25 @@
+{
+  "id": "381xj5sxyy",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース🈑",
+  "detail": "最新ニュースをお届けします。",
+  "start": 1767408600000,
+  "end": 1767409200000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597du",
+    "sid": 1058,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 31
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

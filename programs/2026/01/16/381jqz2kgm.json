@@ -1,0 +1,27 @@
+{
+  "id": "381jqz2kgm",
+  "category": "theater",
+  "title": "日本の話芸　三遊亭笑遊　落語「千早ふる」",
+  "fullTitle": "日本の話芸　三遊亭笑遊　落語「千早ふる」🈖🈑🈞",
+  "detail": "三遊亭笑遊さんの落語「千早ふる」をアンコール放送します（令和７年２月２日（日）収録）",
+  "start": 1768538400000,
+  "end": 1768540200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "千早ふる",
+  "episode": 1,
+  "flags": [
+    "解",
+    "字",
+    "再"
+  ]
+}

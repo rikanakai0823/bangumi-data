@@ -1,0 +1,23 @@
+{
+  "id": "3826py6l3s",
+  "category": "sports",
+  "title": "ウイニング競馬",
+  "fullTitle": "ウイニング競馬",
+  "detail": "【東京】11Ｒジューンステークス\r\n【阪神】11Ｒ三宮ステークス\r\n【函館】10Ｒ松前特別\r\n　　　11Ｒ函館スプリントステークス（ＧⅢ）",
+  "start": 1781330400000,
+  "end": 1781334000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}

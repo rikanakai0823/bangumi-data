@@ -1,0 +1,23 @@
+{
+  "id": "36rdttmrwp",
+  "category": "music",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「ザ・ロマンティック」\r\nブルーノ・マーズ",
+  "start": 1776625200000,
+  "end": 1776627000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "ザ・ロマンティック",
+  "episode": 1,
+  "flags": []
+}

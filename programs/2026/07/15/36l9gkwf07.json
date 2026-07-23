@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwf07",
+  "category": "variety",
+  "title": "水曜どうでしょうプレミア",
+  "fullTitle": "水曜どうでしょうプレミア🈑",
+  "detail": "ジャングル・リベンジ①",
+  "start": 1784124000000,
+  "end": 1784125800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

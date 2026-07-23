@@ -1,0 +1,25 @@
+{
+  "id": "381jqz4j1k",
+  "category": "sports",
+  "title": "テレビ体操",
+  "fullTitle": "テレビ体操🈑",
+  "detail": "月曜日、朝のテレビ体操はラジオ体操第１のワンポイント解説と「ラジオ体操第１」、続いて「ラジオ体操第２」です。ワンポイントは１０番目の体を回す運動を解説します。",
+  "start": 1761513900000,
+  "end": 1761514500000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

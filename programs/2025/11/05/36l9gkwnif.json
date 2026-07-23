@@ -1,0 +1,27 @@
+{
+  "id": "36l9gkwnif",
+  "category": "hobby",
+  "title": "チバミライチャンネル",
+  "fullTitle": "チバミライチャンネル",
+  "detail": "チャリティー音楽祭スーパーライブ2024\n◇番組内容\nnewsチバ特集\r\nごはんで広がる笑顔の輪 シニア食堂",
+  "start": 1762329600000,
+  "end": 1762332900000,
+  "seconds": 3300,
+  "description": "チャリティー音楽祭スーパーライブ2024",
+  "extra": {
+    "番組内容": "newsチバ特集\r\nごはんで広がる笑顔の輪 シニア食堂"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

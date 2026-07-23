@@ -1,0 +1,25 @@
+{
+  "id": "381jqz4d0x",
+  "category": "sports",
+  "title": "テレビ体操",
+  "fullTitle": "テレビ体操🈑",
+  "detail": "火曜日、朝のテレビ体操は「オリジナルの体操」と「ラジオ体操第１」です。",
+  "start": 1760390700000,
+  "end": 1760391300000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ３東京",
+    "id": "1i52rvu",
+    "sid": 1034,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 4
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

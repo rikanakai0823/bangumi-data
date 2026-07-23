@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3j3p",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽マチコミじゃんけん▽越生梅林梅まつりから生中継！イベントや抽選会も同時開催！▽埼玉のスポーツ情報「スポたま」",
+  "start": 1771574400000,
+  "end": 1771576200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "スポたま",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

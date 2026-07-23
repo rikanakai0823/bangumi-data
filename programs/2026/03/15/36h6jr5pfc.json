@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5pfc",
+  "category": "information",
+  "title": "テレ玉認定！たまぐるめ　１５分版",
+  "fullTitle": "テレ玉認定！たまぐるめ　１５分版🅂",
+  "detail": "「海鮮丼編」カネハチ魚店／そうま水産／たろうまる",
+  "start": 1773536400000,
+  "end": 1773537300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "海鮮丼編",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

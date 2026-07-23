@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1jy2",
+  "category": "information",
+  "title": "テレ玉認定！たまぐるめ　１５分版",
+  "fullTitle": "テレ玉認定！たまぐるめ　１５分版🅂",
+  "detail": "喫茶キャンディーラップ／泉食堂／つけ蕎麦　もつ煮　なかじ",
+  "start": 1760210100000,
+  "end": 1760211000000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8ltl9",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「如月賞」「赤坂見附特別」\n◇出演者\n【MC】\r\n前半：関根苑子／後半：鈴元まい\r\n【解説】\r\n《9R～12R》\r\n市川俊吾（日刊競馬）",
+  "start": 1771224600000,
+  "end": 1771230600000,
+  "seconds": 6000,
+  "description": "「如月賞」「赤坂見附特別」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：関根苑子／後半：鈴元まい\r\n【解説】\r\n《9R～12R》\r\n市川俊吾（日刊競馬）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

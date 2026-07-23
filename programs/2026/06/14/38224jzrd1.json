@@ -1,0 +1,25 @@
+{
+  "id": "38224jzrd1",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "２０２６年度テレビ朝日アニメ・IP推進部のこれからの動きについて部長の小野さんに伺います。アニメJAPANの様子も合わせてお届けします。",
+  "start": 1781380800000,
+  "end": 1781382000000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

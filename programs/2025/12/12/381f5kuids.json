@@ -1,0 +1,25 @@
+{
+  "id": "381f5kuids",
+  "category": "news",
+  "title": "国会中継「参議院予算委員会質疑」",
+  "fullTitle": "国会中継「参議院予算委員会質疑」🈑",
+  "detail": "～参議院第１委員会室で収録～",
+  "start": 1765550700000,
+  "end": 1765551240000,
+  "seconds": 540,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "参議院予算委員会質疑",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

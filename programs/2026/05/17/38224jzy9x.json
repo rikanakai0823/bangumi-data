@@ -1,0 +1,25 @@
+{
+  "id": "38224jzy9x",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "テレビ朝日のプロレス実況について、現在行っているアナウンサーに実況の舞台裏をお聞きします。",
+  "start": 1778961600000,
+  "end": 1778962800000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

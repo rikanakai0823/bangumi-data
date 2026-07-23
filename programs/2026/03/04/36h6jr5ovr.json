@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5ovr",
+  "category": "theater",
+  "title": "よしもと新喜劇",
+  "fullTitle": "よしもと新喜劇🅂",
+  "detail": "「すち子の、お父さんは家出中！？」",
+  "start": 1772622000000,
+  "end": 1772625600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "すち子の、お父さんは家出中！？",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

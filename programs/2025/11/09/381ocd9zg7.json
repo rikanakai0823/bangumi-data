@@ -1,0 +1,25 @@
+{
+  "id": "381ocd9zg7",
+  "category": "cinema",
+  "title": "映画すみっコぐらし公開特別ＳＰ！",
+  "fullTitle": "映画すみっコぐらし公開特別ＳＰ！🈞",
+  "detail": "『映画すみっコぐらし』最新作大ひっと上映中！\r\nすみっコたちが空の王国で大冒険を繰り広げます！",
+  "start": 1762627500000,
+  "end": 1762627800000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

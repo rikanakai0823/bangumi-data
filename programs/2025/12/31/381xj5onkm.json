@@ -1,0 +1,29 @@
+{
+  "id": "381xj5onkm",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース🈑",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n宮本真綾（フジテレビアナウンサー）",
+  "start": 1767149400000,
+  "end": 1767150000000,
+  "seconds": 600,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "宮本真綾（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3lft",
+  "category": "information",
+  "title": "八幡物産テレビショッピング",
+  "fullTitle": "八幡物産テレビショッピング🅂",
+  "detail": "",
+  "start": 1774330200000,
+  "end": 1774332000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

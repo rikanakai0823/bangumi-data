@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1ltr",
+  "category": "news",
+  "title": "ニュース５３０",
+  "fullTitle": "ニュース５３０🅂",
+  "detail": "【中継】災害への備え",
+  "start": 1785227400000,
+  "end": 1785229200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "中継",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

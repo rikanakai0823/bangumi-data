@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3mji",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽マチコミじゃんけん▽菓子ごよみ▽漢方養生譚　漢方を「文化・歴史・暮らし・季節の知恵」からご紹介▽ハイパーミュージアム飯能から生中継",
+  "start": 1777536000000,
+  "end": 1777537800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "文化・歴史・暮らし・季節の知恵",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

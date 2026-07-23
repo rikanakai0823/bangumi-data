@@ -1,0 +1,25 @@
+{
+  "id": "381f5kstit",
+  "category": "information",
+  "title": "夜ドラ「コトコト」ＰＲ",
+  "fullTitle": "夜ドラ「コトコト」ＰＲ🈑",
+  "detail": "",
+  "start": 1763968980000,
+  "end": 1763969280000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "コトコト",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

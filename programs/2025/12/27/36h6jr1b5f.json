@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1b5f",
+  "category": "documentary",
+  "title": "埼玉ケーブルテレビスペシャル",
+  "fullTitle": "埼玉ケーブルテレビスペシャル🅂",
+  "detail": "飯能ケーブルテレビ",
+  "start": 1766785500000,
+  "end": 1766786400000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

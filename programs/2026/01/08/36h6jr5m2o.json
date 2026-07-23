@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr5m2o",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "▽２０２６年最初のマチコミじゃんけん▽漢方納得相談▽さいたま市インフォメーション▽ねんりんピック▽戸田市インフォメーション",
+  "start": 1767873600000,
+  "end": 1767875400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}

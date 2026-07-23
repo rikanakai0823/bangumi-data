@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwnjn",
+  "category": "drama",
+  "title": "大忠臣蔵",
+  "fullTitle": "大忠臣蔵",
+  "detail": "第１３回　下級武士",
+  "start": 1762318800000,
+  "end": 1762322100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "下級武士",
+  "episode": 13,
+  "flags": []
+}

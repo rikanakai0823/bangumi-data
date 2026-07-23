@@ -1,0 +1,26 @@
+{
+  "id": "3826py6bfn",
+  "category": "music",
+  "title": "歌のサンセット",
+  "fullTitle": "歌のサンセット🈑🈖",
+  "detail": "最新曲と様々な情報をお届けする夕方の音楽情報番組！【ゲスト】きゅるりんってしてみて、Suupeas、伊達悠太、鳥羽一郎、三丘翔太、山西アカリ",
+  "start": 1761294600000,
+  "end": 1761296100000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "ゲスト",
+  "episode": 1,
+  "flags": [
+    "字",
+    "解"
+  ]
+}

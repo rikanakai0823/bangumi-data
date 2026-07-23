@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwn3x",
+  "category": "drama",
+  "title": "大忠臣蔵",
+  "fullTitle": "大忠臣蔵",
+  "detail": "第１１回　神文血判",
+  "start": 1761886800000,
+  "end": 1761890100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "神文血判",
+  "episode": 11,
+  "flags": []
+}

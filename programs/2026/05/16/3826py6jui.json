@@ -1,0 +1,23 @@
+{
+  "id": "3826py6jui",
+  "category": "sports",
+  "title": "ウイニング競馬",
+  "fullTitle": "ウイニング競馬",
+  "detail": "【東京】11Ｒ六社ステークス\r\n【京都】11Ｒ鞍馬ステークス\r\n【新潟】10Ｒ中ノ岳特別、11Ｒ新潟大賞典（ＧⅢ）",
+  "start": 1778911200000,
+  "end": 1778914800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}

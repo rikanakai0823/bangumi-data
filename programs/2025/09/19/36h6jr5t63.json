@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5t63",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽きょうから開催！大宮のさいたまオクトーバーフェスト２０２５会場から生中継！▽ちちぶだより　秩父市　龍勢祭来月開催▽天気",
+  "start": 1758267000000,
+  "end": 1758268800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3fdj",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽おいしさまるごとマイスター　北海道産赤たまねぎ▽むさしの国の経済塾　経済情報をわかりやすくお伝えします▽マチコミじゃんけん",
+  "start": 1765180800000,
+  "end": 1765182600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

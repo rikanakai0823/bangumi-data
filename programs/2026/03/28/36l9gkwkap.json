@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwkap",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席🈞",
+  "detail": "三遊亭　天どん「ひろっちゃった!!」・東京ボーイズ・三遊亭　笑遊「惚けてたまるか」　作：桂　文枝",
+  "start": 1774688700000,
+  "end": 1774692000000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

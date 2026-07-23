@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3q7g",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ🅂",
+  "detail": "「浦和競馬」",
+  "start": 1784035800000,
+  "end": 1784037600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "浦和競馬",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

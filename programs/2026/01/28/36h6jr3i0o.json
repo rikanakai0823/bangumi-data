@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3i0o",
+  "category": "theater",
+  "title": "よしもと新喜劇",
+  "fullTitle": "よしもと新喜劇🅂",
+  "detail": "「花月小学校、最後の卒業式！？」",
+  "start": 1769598000000,
+  "end": 1769601600000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "花月小学校、最後の卒業式！？",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

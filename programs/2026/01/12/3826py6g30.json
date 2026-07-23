@@ -1,0 +1,23 @@
+{
+  "id": "3826py6g30",
+  "category": "sports",
+  "title": "ウイニング競馬　特別中継",
+  "fullTitle": "ウイニング競馬　特別中継",
+  "detail": "【中山】11Ｒニューイヤーステークス\r\n【京都】10Ｒ雅ステークス\r\n　　　　11Ｒシンザン記念（ＧⅢ）",
+  "start": 1768197600000,
+  "end": 1768201200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "中山",
+  "episode": 1,
+  "flags": []
+}

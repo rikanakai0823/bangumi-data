@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3pej",
+  "category": "sports",
+  "title": "ＢＡＣＨプラザ",
+  "fullTitle": "ＢＡＣＨプラザ🅂",
+  "detail": "「ボートレース戸田」",
+  "start": 1782567000000,
+  "end": 1782568800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "ボートレース戸田",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

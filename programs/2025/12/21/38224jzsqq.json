@@ -1,0 +1,25 @@
+{
+  "id": "38224jzsqq",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "テレビ朝日系列２４局から選ばれ第３１回PROGRESS賞を獲得した４番組をダイジェストでお送りします。今週は最優秀賞・奨励賞の２作品をお届けします。（後編）",
+  "start": 1766260800000,
+  "end": 1766262000000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 31,
+  "flags": [
+    "字"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8gzmp",
+  "category": "news",
+  "title": "東京都議会中継🈐",
+  "fullTitle": "東京都議会中継🈐",
+  "detail": "「令和７年第３回定例会　本会議初日」\n◇おしらせ\n※最大延長　夕方６時まで",
+  "start": 1758686400000,
+  "end": 1758690000000,
+  "seconds": 3600,
+  "description": "「令和７年第３回定例会　本会議初日」",
+  "extra": {
+    "おしらせ": "※最大延長　夕方６時まで"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrs",
+    "sid": 23608,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 33
+  },
+  "subTitle": "令和７年第３回定例会　本会議初日",
+  "episode": 3,
+  "flags": []
+}

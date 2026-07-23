@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8lwdn",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「’２６　スターバーストカップ」\n◇出演者      \n【MC】\r\n前半：飯野詩帆／後半：関根苑子\r\n【解説】\r\n《9R～12R》\r\n宮崎優希（勝馬／※崎は立つ崎）",
+  "start": 1773039000000,
+  "end": 1773046200000,
+  "seconds": 7200,
+  "description": "「’２６　スターバーストカップ」",
+  "extra": {
+    "出演者      ": "【MC】\r\n前半：飯野詩帆／後半：関根苑子\r\n【解説】\r\n《9R～12R》\r\n宮崎優希（勝馬／※崎は立つ崎）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "’２６　スターバーストカップ",
+  "episode": 1,
+  "flags": []
+}

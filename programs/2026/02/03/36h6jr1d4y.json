@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1d4y",
+  "category": "news",
+  "title": "ニュース９３０",
+  "fullTitle": "ニュース９３０🅂",
+  "detail": "",
+  "start": 1770121800000,
+  "end": 1770122700000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

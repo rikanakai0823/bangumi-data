@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5ren",
+  "category": "sports",
+  "title": "ＲＥＤＳ　ＴＶ　ＧＧＲ",
+  "fullTitle": "ＲＥＤＳ　ＴＶ　ＧＧＲ🅂",
+  "detail": "鹿島アントラーズ戦をハイライトで振り返ります。またユースの桐蔭学園高校戦もお届け！",
+  "start": 1777039200000,
+  "end": 1777041000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

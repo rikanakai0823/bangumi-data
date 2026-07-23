@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3p0h",
+  "category": "sports",
+  "title": "ＲＥＤＳ　ＴＶ　ＧＧＲ",
+  "fullTitle": "ＲＥＤＳ　ＴＶ　ＧＧＲ🅂",
+  "detail": "今週はゲストの北条ふとしさん（芸人／浦和レッズサポーター）、轡田哲朗さん（浦和レッズ番記者）をスタジオにお迎えし、熱く楽しくお届け！",
+  "start": 1781877600000,
+  "end": 1781879400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3826py8htd",
+  "category": "sports",
+  "title": "ウイニング競馬～福島～",
+  "fullTitle": "ウイニング競馬～福島～",
+  "detail": "【福島】１１Ｒ福島記念（ＧⅢ）\r\n　　　　１２Ｒ３歳以上１勝クラス\r\n【京都】１０Ｒ比叡ステークス\r\n　　　　１１Ｒシトリンステークス",
+  "start": 1763791200000,
+  "end": 1763794800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "福島",
+  "episode": 1,
+  "flags": []
+}

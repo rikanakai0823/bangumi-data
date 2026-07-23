@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3lrg",
+  "category": "anime",
+  "title": "ダンダダン",
+  "fullTitle": "ダンダダン🅂",
+  "detail": "第１４話　邪視",
+  "start": 1776263400000,
+  "end": 1776265200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "邪視",
+  "episode": 14,
+  "flags": [
+    "S"
+  ]
+}

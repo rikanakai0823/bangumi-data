@@ -1,0 +1,23 @@
+{
+  "id": "36rdttn69c",
+  "category": "etc",
+  "title": "朝の周波数カード",
+  "fullTitle": "朝の周波数カード",
+  "detail": "アルバム「モーニング・グローリー」\r\nオアシス",
+  "start": 1762110000000,
+  "end": 1762111800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "モーニング・グローリー",
+  "episode": 1,
+  "flags": []
+}

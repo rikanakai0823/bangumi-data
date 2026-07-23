@@ -1,0 +1,25 @@
+{
+  "id": "381ocd7xu6",
+  "category": "information",
+  "title": "日テレポシュレ　春うららの夜桜市ＳＰ",
+  "fullTitle": "日テレポシュレ　春うららの夜桜市ＳＰ🈞",
+  "detail": "",
+  "start": 1776453840000,
+  "end": 1776457440000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

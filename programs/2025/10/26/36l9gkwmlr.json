@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwmlr",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席",
+  "detail": "ロケット団・春風亭三朝「看板の一」・柳家はん治「粗忽長屋」・古今亭菊丸「ふぐ鍋」",
+  "start": 1761469500000,
+  "end": 1761472800000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

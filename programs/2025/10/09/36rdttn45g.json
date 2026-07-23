@@ -1,0 +1,23 @@
+{
+  "id": "36rdttn45g",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "▽木謡てんき　歌謡デュオはやぶさが天気予報をお届け！▽竹本ファーマーズ　みんなで家庭菜園を楽しもう▽秋の収穫祭　規格外の食材を美味しく！",
+  "start": 1759995000000,
+  "end": 1759996800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

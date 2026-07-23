@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3ga4",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽年末年始はお得にお買い物▽大宮　武蔵一宮氷川神社境内「氷川茶庭」から生中継！初詣とともに楽しみたいお茶やスイーツを紹介！▽埼玉のスポーツ情報　スポたま",
+  "start": 1766736000000,
+  "end": 1766737800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "氷川茶庭",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

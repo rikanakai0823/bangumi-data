@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3q6d",
+  "category": "information",
+  "title": "テレ玉認定！たまぐるめ　１５分版",
+  "fullTitle": "テレ玉認定！たまぐるめ　１５分版🅂",
+  "detail": "喫茶ルビー／小梅　浦和総本店／うどん処　おはな",
+  "start": 1783917000000,
+  "end": 1783917900000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

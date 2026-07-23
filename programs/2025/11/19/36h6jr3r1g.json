@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3r1g",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽おいしい山形　この時期の山形も魅力たっぷり▽ブラックフライデーでお得にお買い物！お侍ちゃんがレイクタウンから生中継▽天気",
+  "start": 1763537400000,
+  "end": 1763539200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

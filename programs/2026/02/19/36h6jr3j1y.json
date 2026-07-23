@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3j1y",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽世界トップレベルのアーティストが集結！ハッピードリームサーカス  吉川公演▽ねこだらけの雑誌「ねことも」最新号みどころ▽天気",
+  "start": 1771486200000,
+  "end": 1771488000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "ねことも",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

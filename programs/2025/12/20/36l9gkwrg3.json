@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwrg3",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席🈞",
+  "detail": "弁財亭 和泉・「謎の親戚」林家 ペー・柳家 小ゑん・「レプリカント」",
+  "start": 1766221500000,
+  "end": 1766224800000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

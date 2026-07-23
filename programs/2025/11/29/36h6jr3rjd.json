@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr3rjd",
+  "category": "sports",
+  "title": "オレアル",
+  "fullTitle": "オレアル🅂🈞",
+  "detail": "Ｊ１昇格に向け、負けられない一戦・・・",
+  "start": 1764365400000,
+  "end": 1764366300000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3q0h",
+  "category": "theater",
+  "title": "よしもと新喜劇",
+  "fullTitle": "よしもと新喜劇🅂",
+  "detail": "「アイドルは夢に向かっとる！？」",
+  "start": 1761735600000,
+  "end": 1761739200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "アイドルは夢に向かっとる！？",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "381sxritsr",
+  "category": "news",
+  "title": "ＴＨＥ　ＴＩＭＥ’",
+  "fullTitle": "ＴＨＥ　ＴＩＭＥ’🈓",
+  "detail": "ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継\r\nニュースも天気も充実",
+  "start": 1784575800000,
+  "end": 1784578800000,
+  "seconds": 3000,
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ２",
+    "id": "1i5727t",
+    "sid": 1049,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 24
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "デ"
+  ]
+}

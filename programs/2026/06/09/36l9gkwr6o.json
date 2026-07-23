@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwr6o",
+  "category": "information",
+  "title": "生活情報",
+  "fullTitle": "生活情報",
+  "detail": "【内容】シリカナノコロイド",
+  "start": 1780968300000,
+  "end": 1780970100000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "内容",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8jopp",
+  "category": "news",
+  "title": "東京都議会中継🈐",
+  "fullTitle": "東京都議会中継🈐",
+  "detail": "「令和８年第１回定例会　本会議初日」",
+  "start": 1771387200000,
+  "end": 1771398000000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "令和８年第１回定例会　本会議初日",
+  "episode": 1,
+  "flags": []
+}

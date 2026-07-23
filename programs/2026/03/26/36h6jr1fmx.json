@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1fmx",
+  "category": "news",
+  "title": "ニュース５３０",
+  "fullTitle": "ニュース５３０🅂",
+  "detail": "【中継】桜見頃",
+  "start": 1774513800000,
+  "end": 1774515600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "中継",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

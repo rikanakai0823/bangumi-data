@@ -1,0 +1,29 @@
+{
+  "id": "381xj5onml",
+  "category": "news",
+  "title": "ＦＮＮニュース",
+  "fullTitle": "ＦＮＮニュース🈑",
+  "detail": "最新ニュースをお届けします。\n◇出演者\n石渡花菜（フジテレビアナウンサー）",
+  "start": 1767364200000,
+  "end": 1767364800000,
+  "seconds": 600,
+  "description": "最新ニュースをお届けします。",
+  "extra": {
+    "出演者": "石渡花菜（フジテレビアナウンサー）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "21",
+    "name": "フジテレビ",
+    "id": "1i597ds",
+    "sid": 1056,
+    "nid": 32740,
+    "hasLogoData": true,
+    "n": 29
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

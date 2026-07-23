@@ -1,0 +1,23 @@
+{
+  "id": "3826py6aid",
+  "category": "sports",
+  "title": "ウイニング競馬～京都～",
+  "fullTitle": "ウイニング競馬～京都～",
+  "detail": "【東京】１０Ｒ白秋Ｓ\r\n　　　　１１ＲグリーンチャンネルＣ（Ｌ）\r\n【京都】１１Ｒオパールステークス（Ｌ）",
+  "start": 1759557600000,
+  "end": 1759561200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}

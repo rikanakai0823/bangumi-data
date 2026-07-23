@@ -1,0 +1,26 @@
+{
+  "id": "381jqz3icg",
+  "category": "news",
+  "title": "ニュース",
+  "fullTitle": "ニュース🈔🈑",
+  "detail": "ニュース",
+  "start": 1765204671000,
+  "end": 1765204671001,
+  "seconds": 0.001,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "二",
+    "字"
+  ]
+}

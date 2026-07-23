@@ -1,0 +1,25 @@
+{
+  "id": "381ocdabns",
+  "category": "cinema",
+  "title": "映画すみっコぐらし公開特別ＳＰ",
+  "fullTitle": "映画すみっコぐらし公開特別ＳＰ🈞",
+  "detail": "『映画すみっコぐらし』最新作が10月31日(金)にいよいよ公開。\r\nすみっコたちが空の王国で大冒険を繰り広げます！",
+  "start": 1761851940000,
+  "end": 1761852240000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}

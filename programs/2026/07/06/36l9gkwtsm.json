@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwtsm",
+  "category": "sports",
+  "title": "チバミライチャンネル　白球の残像",
+  "fullTitle": "チバミライチャンネル　白球の残像",
+  "detail": "（第７３回大会）我孫子×銚子商",
+  "start": 1783324800000,
+  "end": 1783328100000,
+  "seconds": 3300,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 73,
+  "flags": []
+}

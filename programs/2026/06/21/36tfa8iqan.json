@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8iqan",
+  "category": "news",
+  "title": "東京都議会中継ダイジェスト",
+  "fullTitle": "東京都議会中継ダイジェスト🈓",
+  "detail": "「令和８年第２回定例会　一般質問ダイジェスト」",
+  "start": 1782014400000,
+  "end": 1782021600000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "令和８年第２回定例会　一般質問ダイジェスト",
+  "episode": 2,
+  "flags": [
+    "デ"
+  ]
+}

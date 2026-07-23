@@ -1,0 +1,25 @@
+{
+  "id": "36tfa8jm0d",
+  "category": "news",
+  "title": "Ｗａｋｅ　Ｕｐ　７",
+  "fullTitle": "🈢Ｗａｋｅ　Ｕｐ　７",
+  "detail": "東京の朝は記者の言葉から！都民の朝に“顔の見えるニュース”をお届けします！",
+  "start": 1769637600000,
+  "end": 1769639400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ１",
+    "id": "1hkhnrt",
+    "sid": 23609,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 34
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "生"
+  ]
+}

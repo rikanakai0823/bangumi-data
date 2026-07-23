@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr5vyi",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "▽マチコミじゃんけん▽ムーミンバレーパークから生中継　クリスマスメニュー＆埼玉県民割引▽埼玉のスポーツ情報スポたま　ＲＢ大宮アルディージャの選手が生出演！",
+  "start": 1763121600000,
+  "end": 1763123400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}

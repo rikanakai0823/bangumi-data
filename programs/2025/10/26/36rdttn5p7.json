@@ -1,0 +1,23 @@
+{
+  "id": "36rdttn5p7",
+  "category": "sports",
+  "title": "横浜マラソン２０２５",
+  "fullTitle": "横浜マラソン２０２５",
+  "detail": "今年でフルマラソンになり１０周年記念の「横浜マラソン２０２５」。横浜ランドマークタワー前からスタート会場の模様を生中継でお送りします！",
+  "start": 1761433200000,
+  "end": 1761436800000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "横浜マラソン２０２５",
+  "episode": 1,
+  "flags": []
+}

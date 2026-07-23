@@ -1,0 +1,23 @@
+{
+  "id": "3826py5e67",
+  "category": "sports",
+  "title": "ウイニング競馬　～福島～",
+  "fullTitle": "ウイニング競馬　～福島～",
+  "detail": "レース中継を中心に、レース展開には欠かせないパドック情報、競馬界の最新ニュース、さらにインタビューコーナーなど盛りだくさんでお届けする。",
+  "start": 1783749600000,
+  "end": 1783753200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東２",
+    "id": "1i5dhpt",
+    "sid": 1073,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 27
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5t23",
+  "category": "theater",
+  "title": "よしもと新喜劇",
+  "fullTitle": "よしもと新喜劇🅂",
+  "detail": "「藍姐さんと一緒に遊ぼ！」",
+  "start": 1779879600000,
+  "end": 1779883200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "藍姐さんと一緒に遊ぼ！",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}

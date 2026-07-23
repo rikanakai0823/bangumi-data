@@ -1,0 +1,23 @@
+{
+  "id": "3826py8ogd",
+  "category": "sports",
+  "title": "ウイニング競馬～東京～",
+  "fullTitle": "ウイニング競馬～東京～",
+  "detail": "【東京】１０ＲスイートピーＳ（Ｌ）\r\n　　　　１１Ｒ京王杯ＳＣ（ＧⅡ）\r\n【京都】１１ＲユニコーンＳ（ＧⅢ）\r\n【新潟】１１Ｒ三条ステークス",
+  "start": 1777701600000,
+  "end": 1777705200000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "東京",
+  "episode": 1,
+  "flags": []
+}

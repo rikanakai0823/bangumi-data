@@ -1,0 +1,26 @@
+{
+  "id": "381f5kumkz",
+  "category": "hobby",
+  "title": "みんなの体操",
+  "fullTitle": "みんなの体操🈖🈑",
+  "detail": "【出演】岡本美佳，細貝柊，舘野伶奈，吉江晴菜，新井庸太，杉井勇介",
+  "start": 1784595300000,
+  "end": 1784595600000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合２・東京",
+    "id": "1i50mpt",
+    "sid": 1025,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 1
+  },
+  "subTitle": "出演",
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
