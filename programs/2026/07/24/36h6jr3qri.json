@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3qri",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽天気▽マチコミじゃんけん▽アレンジそうめんレシピを紹介▽【スポたま】埼玉の最新スポーツ情報をお届け▽おたより",
+  "start": 1784880000000,
+  "end": 1784881800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "スポたま",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
