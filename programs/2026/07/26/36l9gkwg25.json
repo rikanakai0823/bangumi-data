@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwg25",
+  "category": "information",
+  "title": "お昼の快傑！ＴＶ",
+  "fullTitle": "お昼の快傑！ＴＶ",
+  "detail": "千葉、東京のまちと人との情報番組",
+  "start": 1785052800000,
+  "end": 1785054600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
