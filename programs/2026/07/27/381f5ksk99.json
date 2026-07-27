@@ -1,12 +1,12 @@
 {
   "id": "381f5ksk99",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース🈔🈑",
+  "title": "ニュース「高市首相記者会見」",
+  "fullTitle": "ニュース「高市首相記者会見」🈔🈑",
   "detail": "",
   "start": 1785142800000,
-  "end": 1785143400000,
-  "seconds": 600,
+  "end": 1785144600000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "高市首相記者会見",
   "episode": 1,
   "flags": [
     "二",
