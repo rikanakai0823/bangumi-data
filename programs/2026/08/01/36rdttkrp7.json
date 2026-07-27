@@ -3,10 +3,14 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\nNESTOR / On The Run (Live At Gothenburg Film Studios)\r\nRIOT / Flight Of The Warrior(Live)\r\nRIOT / Warrior(Live)\r\nERIK GRONWALL / Bad Bones",
   "start": 1785592800000,
   "end": 1785594600000,
   "seconds": 1800,
+  "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "extra": {
+    "番組内容": "NESTOR / On The Run (Live At Gothenburg Film Studios)\r\nRIOT / Flight Of The Warrior(Live)\r\nRIOT / Warrior(Live)\r\nERIK GRONWALL / Bad Bones"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
