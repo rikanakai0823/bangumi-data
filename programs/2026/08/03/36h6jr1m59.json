@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1m59",
   "category": "etc",
-  "title": "ショッピング",
-  "fullTitle": "ショッピング🅂",
-  "detail": "",
+  "title": "ショッピング・フレージュＴＶショッピング",
+  "fullTitle": "ショッピング・フレージュＴＶショッピング🅂",
+  "detail": "◇番組内容\n美爽煌茶　０１２０－３２８－３２８",
   "start": 1785715200000,
   "end": 1785717000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "美爽煌茶　０１２０－３２８－３２８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

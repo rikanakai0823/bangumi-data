@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1m34",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・アルトルイズムテレビショッピング",
+  "fullTitle": "ＴＶショッピング・アルトルイズムテレビショッピング🅂",
+  "detail": "◇番組内容\nリドナール錠ＥＸ",
   "start": 1785619800000,
   "end": 1785621600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "リドナール錠ＥＸ"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
