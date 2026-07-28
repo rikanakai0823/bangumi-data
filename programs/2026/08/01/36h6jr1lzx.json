@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1lzx",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
+  "fullTitle": "ＴＶショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nシュワッ！とパンチ　０１２０－４１４１－８１",
   "start": 1785510000000,
   "end": 1785511800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "シュワッ！とパンチ　０１２０－４１４１－８１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

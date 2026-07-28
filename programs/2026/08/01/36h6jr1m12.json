@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1m12",
-  "category": "etc",
-  "title": "ショッピング",
-  "fullTitle": "ショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピング・八幡物産テレビショッピング",
+  "fullTitle": "ショッピング・八幡物産テレビショッピング🅂",
+  "detail": "◇番組内容\nローヤルゼリーゴールド８００　０１２０－２０－３８３８",
   "start": 1785547800000,
   "end": 1785549600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ローヤルゼリーゴールド８００　０１２０－２０－３８３８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

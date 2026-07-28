@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1m76",
-  "category": "etc",
-  "title": "ショッピング",
-  "fullTitle": "ショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピング・野草酵素テレビショッピング",
+  "fullTitle": "ショッピング・野草酵素テレビショッピング🅂",
+  "detail": "◇番組内容\n野草酵素　０１２０－３７－８３５３",
   "start": 1785817800000,
   "end": 1785819540000,
   "seconds": 1740,
+  "description": "",
+  "extra": {
+    "番組内容": "野草酵素　０１２０－３７－８３５３"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
