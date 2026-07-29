@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwgbg",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ",
+  "detail": "▽夏休み企画！君も天気キャスター▽【オトコミ】ゲスト：少年キッズボウイ▽ご当地ひと口かおり旅▽おたより",
+  "start": 1785310200000,
+  "end": 1785312000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "オトコミ",
+  "episode": 1,
+  "flags": []
+}

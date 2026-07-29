@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1m6v",
-  "category": "etc",
-  "title": "買物情報",
-  "fullTitle": "買物情報🅂",
-  "detail": "",
+  "category": "information",
+  "title": "買物情報・森永乳業テレビショッピング",
+  "fullTitle": "買物情報・森永乳業テレビショッピング🅂",
+  "detail": "◇番組内容\nミルク生活ＧＯＬＤ　０１２０－３６９－４２０",
   "start": 1785794400000,
   "end": 1785796200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ミルク生活ＧＯＬＤ　０１２０－３６９－４２０"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

@@ -1,12 +1,12 @@
 {
   "id": "381f5kskvc",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報🈑",
+  "title": "ニュース・気象情報「熊本県で震度７」関連",
+  "fullTitle": "ニュース・気象情報「熊本県で震度７」関連🈑",
   "detail": "",
   "start": 1785308400000,
-  "end": 1785308700000,
-  "seconds": 300,
+  "end": 1785312000000,
+  "seconds": 3600,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "熊本県で震度７",
   "episode": 1,
   "flags": [
     "字"

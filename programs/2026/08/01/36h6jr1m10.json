@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1m10",
-  "category": "etc",
-  "title": "さわやかショッピング",
-  "fullTitle": "さわやかショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "さわやかショッピング・ダイレクトテレショップ",
+  "fullTitle": "さわやかショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nシュワっとパンチ　０１２０－４１４１－８１",
   "start": 1785545100000,
   "end": 1785546000000,
   "seconds": 900,
+  "description": "",
+  "extra": {
+    "番組内容": "シュワっとパンチ　０１２０－４１４１－８１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

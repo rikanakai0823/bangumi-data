@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1m8x",
-  "category": "etc",
-  "title": "ショッピングタイム",
-  "fullTitle": "ショッピングタイム🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピングタイム・ダイレクトテレショップ",
+  "fullTitle": "ショッピングタイム・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nリエイジ　コッパーフィット　ウォークフリー　０１２０－４１４１－８１",
   "start": 1785904200000,
   "end": 1785906000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "リエイジ　コッパーフィット　ウォークフリー　０１２０－４１４１－８１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

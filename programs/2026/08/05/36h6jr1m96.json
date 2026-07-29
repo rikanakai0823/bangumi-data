@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1m96",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・銀座ステファニー　テレビショッピング",
+  "fullTitle": "ＴＶショッピング・銀座ステファニー　テレビショッピング🅂",
+  "detail": "◇番組内容\nエイジングオールケアクリーム　０１２０－２２－７７７７",
   "start": 1785920400000,
   "end": 1785922200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "エイジングオールケアクリーム　０１２０－２２－７７７７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
