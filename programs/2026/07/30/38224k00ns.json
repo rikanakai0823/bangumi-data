@@ -1,0 +1,23 @@
+{
+  "id": "38224k00ns",
+  "category": "variety",
+  "title": "ニカゲーム",
+  "fullTitle": "ニカゲーム",
+  "detail": "【特定班】写真から居場所を特定しろ！",
+  "start": 1785344460000,
+  "end": 1785345960000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "特定班",
+  "episode": 1,
+  "flags": []
+}
