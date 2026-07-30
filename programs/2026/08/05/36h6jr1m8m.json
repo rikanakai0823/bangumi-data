@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1m8m",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・りらいぶテレビショッピング",
+  "fullTitle": "ＴＶショッピング・りらいぶテレビショッピング🅂",
+  "detail": "◇番組内容\nリライブシャツ、リライブスパッツ　０１２０－６５２－４１４",
   "start": 1785880800000,
   "end": 1785882600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "リライブシャツ、リライブスパッツ　０１２０－６５２－４１４"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

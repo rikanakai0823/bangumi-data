@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwh3o",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃５５７",
-  "fullTitle": "チバミライチャンネル　＃５５７",
-  "detail": " ",
+  "title": "チバミライチャンネル▽第36回成田太鼓祭 ANA未来ステージ",
+  "fullTitle": "チバミライチャンネル▽第36回成田太鼓祭 ANA未来ステージ",
+  "detail": "八千代高等学校　鼓組\n◇番組内容\nnewsチバ特集\r\n・スイカバーガー",
   "start": 1786003200000,
   "end": 1786006200000,
   "seconds": 3000,
+  "description": "八千代高等学校　鼓組",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n・スイカバーガー"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 557,
+  "episode": 36,
   "flags": []
 }

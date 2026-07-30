@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1max",
-  "category": "etc",
-  "title": "わくわくショッピング",
-  "fullTitle": "わくわくショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "わくわくショッピング・ビタブリッドジャパンテレビショッピング",
+  "fullTitle": "わくわくショッピング・ビタブリッドジャパンテレビショッピング🅂",
+  "detail": "◇番組内容\nアクティブリッチ５　０１２０－３１９５５５",
   "start": 1785983100000,
   "end": 1785984900000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "アクティブリッチ５　０１２０－３１９５５５"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
