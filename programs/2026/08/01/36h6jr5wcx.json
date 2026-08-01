@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5wcx",
+  "category": "information",
+  "title": "テレ玉認定！たまぐるめ　１５分版",
+  "fullTitle": "テレ玉認定！たまぐるめ　１５分版🅂",
+  "detail": "「２０２６年海鮮丼編」",
+  "start": 1785571200000,
+  "end": 1785572100000,
+  "seconds": 900,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "２０２６年海鮮丼編",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
