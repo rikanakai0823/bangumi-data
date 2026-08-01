@@ -1,0 +1,25 @@
+{
+  "id": "38224jzozn",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "南極観測７０周年記念 特別展「大南極展」が日本科学未来館において７月１日から９月２７日まで開催されます。その展示内容についてお伝えします。",
+  "start": 1785614400000,
+  "end": 1785615600000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "大南極展",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
