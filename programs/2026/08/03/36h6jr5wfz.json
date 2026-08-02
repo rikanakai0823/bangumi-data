@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5wfz",
+  "category": "information",
+  "title": "テレ玉認定！たまぐるめ",
+  "fullTitle": "テレ玉認定！たまぐるめ🅂",
+  "detail": "珈琲処ふなこし",
+  "start": 1785693600000,
+  "end": 1785693900000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
