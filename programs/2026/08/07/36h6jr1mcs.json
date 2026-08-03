@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1mcs",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ていねい通販インフォマーシャル",
+  "fullTitle": "ＴＶショッピング・ていねい通販インフォマーシャル🅂",
+  "detail": "あなたがいるから・・・\n◇番組内容\nすっぽん小町",
   "start": 1786086000000,
   "end": 1786087800000,
   "seconds": 1800,
+  "description": "あなたがいるから・・・",
+  "extra": {
+    "番組内容": "すっぽん小町"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

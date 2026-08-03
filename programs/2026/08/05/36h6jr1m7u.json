@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1m7u",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
+  "fullTitle": "ＴＶショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nナガラックスフィッテ　０１２０－５１５１－２２",
   "start": 1785862800000,
   "end": 1785864600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ナガラックスフィッテ　０１２０－５１５１－２２"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

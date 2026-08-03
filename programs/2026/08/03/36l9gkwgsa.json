@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwgsa",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席🈞",
+  "detail": "まつトミ・三遊亭圓馬「鰻屋」",
+  "start": 1785738600000,
+  "end": 1785740400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "鰻屋",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
