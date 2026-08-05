@@ -3,10 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容\n【レジェンド アーティスト特集】\r\nMADONNA & SABRINA CARPENTER\"Bring Your Love\"\r\nU2\"Street Of Dreams\"\r\nERIC MARTIN\"Just Take My Heart\"\r\nMUSE\"Nightshift Superstar\"\r\nFOO FIGHTERS\"Of All People\"\r\nSTEVE LACY\"the feeling\"",
   "start": 1786370400000,
   "end": 1786372200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容": "【レジェンド アーティスト特集】\r\nMADONNA & SABRINA CARPENTER\"Bring Your Love\"\r\nU2\"Street Of Dreams\"\r\nERIC MARTIN\"Just Take My Heart\"\r\nMUSE\"Nightshift Superstar\"\r\nFOO FIGHTERS\"Of All People\"\r\nSTEVE LACY\"the feeling\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
