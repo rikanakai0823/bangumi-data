@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1men",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・新甲賀漢方テレビショッピング",
+  "fullTitle": "ＴＶショッピング・新甲賀漢方テレビショッピング🅂",
+  "detail": "◇番組内容\n腎気八味地黄丸　０１２０－１８６－８６６",
   "start": 1786147200000,
   "end": 1786149000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "腎気八味地黄丸　０１２０－１８６－８６６"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
