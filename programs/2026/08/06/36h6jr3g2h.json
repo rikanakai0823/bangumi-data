@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3g2h",
+  "category": "information",
+  "title": "日本薬師堂テレビショッピング",
+  "fullTitle": "日本薬師堂テレビショッピング🅂",
+  "detail": "スマイルショッピング",
+  "start": 1785967200000,
+  "end": 1785969000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
