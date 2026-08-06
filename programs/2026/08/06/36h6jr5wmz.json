@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr5wmz",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "▽マチコミじゃんけん▽ド【やればできるサイタマ】子どもたちが高速道路の裏側を見学▽大宮アルシェからマチコミボード生中継▽ねんりんピック▽週末高岸占い",
+  "start": 1786017600000,
+  "end": 1786019400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "やればできるサイタマ",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}

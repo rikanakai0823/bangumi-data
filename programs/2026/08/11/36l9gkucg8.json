@@ -1,12 +1,16 @@
 {
   "id": "36l9gkucg8",
   "category": "music",
-  "title": "ＭＵＳＩＣ　ＢＬＩＳＳ　＃１１",
-  "fullTitle": "ＭＵＳＩＣ　ＢＬＩＳＳ　＃１１",
-  "detail": " ",
+  "title": "ＭＵＳＩＣ　ＢＬＩＳＳ",
+  "fullTitle": "ＭＵＳＩＣ　ＢＬＩＳＳ",
+  "detail": "◇番組内容\nMAIN MC 【濱口優】ASSISTANT【宮崎寿々佳】スタジオから【生歌ライブ】でお届けする、明日へと羽ばたくアーティスト応援番組。Yes! Music MUSICBLISS",
   "start": 1786456800000,
   "end": 1786458600000,
   "seconds": 1800,
+  "description": " ",
+  "extra": {
+    "番組内容": "MAIN MC 【濱口優】ASSISTANT【宮崎寿々佳】スタジオから【生歌ライブ】でお届けする、明日へと羽ばたくアーティスト応援番組。Yes! Music MUSICBLISS"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 9
   },
   "subTitle": "",
-  "episode": 11,
+  "episode": 1,
   "flags": []
 }
