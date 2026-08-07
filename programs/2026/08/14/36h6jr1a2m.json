@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1a2m",
-  "category": "etc",
-  "title": "買物情報",
-  "fullTitle": "買物情報🅂",
-  "detail": "",
+  "category": "information",
+  "title": "買物情報・森永乳業テレビショッピング",
+  "fullTitle": "買物情報・森永乳業テレビショッピング🅂",
+  "detail": "お買い物ベストショー\n◇番組内容\n記憶対策サプリ　０１２０－３６９－７０１",
   "start": 1786674300000,
   "end": 1786676100000,
   "seconds": 1800,
+  "description": "お買い物ベストショー",
+  "extra": {
+    "番組内容": "記憶対策サプリ　０１２０－３６９－７０１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
