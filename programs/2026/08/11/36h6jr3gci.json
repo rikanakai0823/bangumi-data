@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3gci",
+  "category": "anime",
+  "title": "テレ玉くんのうた",
+  "fullTitle": "テレ玉くんのうた🅂",
+  "detail": "テレ玉くんのうたをみんなでうたおう！",
+  "start": 1786420560000,
+  "end": 1786420800000,
+  "seconds": 240,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
