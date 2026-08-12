@@ -1,12 +1,16 @@
 {
   "id": "36rdttksbg",
   "category": "music",
-  "title": "洋楽天国＋",
-  "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "title": "洋楽天国＋▽ＫＡＴＳＥＹＥ特集",
+  "fullTitle": "洋楽天国＋▽ＫＡＴＳＥＹＥ特集",
+  "detail": "グローバル・ガール・グループのKATSEYEを特集！！\n◇番組内容\nオーディション番組『The Debut: Dream Academy』を通じて結成されたグローバル・ガール・グループのKATSEYE！デビューから最新曲「Animal」までのMVを紹介！音楽とパフォーマンスの両面で称賛されているKATSEYEの魅力が詰まった30分！",
   "start": 1786804200000,
   "end": 1786806000000,
   "seconds": 1800,
+  "description": "グローバル・ガール・グループのKATSEYEを特集！！",
+  "extra": {
+    "番組内容": "オーディション番組『The Debut: Dream Academy』を通じて結成されたグローバル・ガール・グループのKATSEYE！デビューから最新曲「Animal」までのMVを紹介！音楽とパフォーマンスの両面で称賛されているKATSEYEの魅力が詰まった30分！"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
