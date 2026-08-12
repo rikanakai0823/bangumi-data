@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr5kb1",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "▽マチコミじゃんけん▽【漢方養生譚】漢方を「文化・歴史・暮らし・季節の知恵」からご紹介▽さいたま市インフォメーション▽おたより",
+  "start": 1786536000000,
+  "end": 1786537800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}
