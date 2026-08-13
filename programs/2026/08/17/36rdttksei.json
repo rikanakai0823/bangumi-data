@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【US特集】\r\n\"Man Ray\"\r\n\"Yo-Yo Revolution\"\n◇番組内容２\nsombr\"My Body Isn’t Ready\"\r\nVIOLET GROHL\"Bug In The Cake\"\r\nBECKY G\"PATRONA\"",
   "start": 1786975200000,
   "end": 1786977000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【US特集】\r\n\"Man Ray\"\r\n\"Yo-Yo Revolution\"",
+    "番組内容２": "sombr\"My Body Isn’t Ready\"\r\nVIOLET GROHL\"Bug In The Cake\"\r\nBECKY G\"PATRONA\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
