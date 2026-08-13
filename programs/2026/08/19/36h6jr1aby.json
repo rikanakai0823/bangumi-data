@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1aby",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・健康テレビショッピング",
+  "fullTitle": "ＴＶショッピング・健康テレビショッピング🅂",
+  "detail": "◇番組内容\nＫＡＰ×青汁満菜１５セット　０１２０－４４４－９８８",
   "start": 1787101200000,
   "end": 1787103000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ＫＡＰ×青汁満菜１５セット　０１２０－４４４－９８８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

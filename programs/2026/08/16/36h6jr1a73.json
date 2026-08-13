@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1a73",
-  "category": "etc",
-  "title": "サンデーナイトショッピング",
-  "fullTitle": "サンデーナイトショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "サンデーナイトショッピング・ダイレクトテレショップ",
+  "fullTitle": "サンデーナイトショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nナガラックスフィッテ　０１２０－５１５１－２２",
   "start": 1786883400000,
   "end": 1786885200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ナガラックスフィッテ　０１２０－５１５１－２２"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

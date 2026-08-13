@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ae3",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・あじかんテレビショッピング",
+  "fullTitle": "ＴＶショッピング・あじかんテレビショッピング🅂",
+  "detail": "◇番組内容\nごぼうのおかげ　０１２０－４４４－１７０",
   "start": 1787209200000,
   "end": 1787211000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ごぼうのおかげ　０１２０－４４４－１７０"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

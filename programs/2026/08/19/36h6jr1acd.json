@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1acd",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・エバーライフＴＶショッピング",
+  "fullTitle": "ＴＶショッピング・エバーライフＴＶショッピング🅂",
+  "detail": "◇番組内容\n飲みごたえ野菜青汁　０１２０－３０－３０－８３",
   "start": 1787130000000,
   "end": 1787131800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "飲みごたえ野菜青汁　０１２０－３０－３０－８３"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
