@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1afw",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ＳＨＩＲＯＲＵテレビショッピング",
+  "fullTitle": "ＴＶショッピング・ＳＨＩＲＯＲＵテレビショッピング🅂",
+  "detail": "肌悩みの女性たちを変えたのは・・・秘密は「？」大公開スペシャル！\n◇番組内容\n炭酸泡洗顔クリスタルホイップ　０１２０－５６０－４６０",
   "start": 1787286600000,
   "end": 1787288400000,
   "seconds": 1800,
+  "description": "肌悩みの女性たちを変えたのは・・・秘密は「？」大公開スペシャル！",
+  "extra": {
+    "番組内容": "炭酸泡洗顔クリスタルホイップ　０１２０－５６０－４６０"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 12
   },
-  "subTitle": "",
+  "subTitle": "？",
   "episode": 1,
   "flags": [
     "S"
