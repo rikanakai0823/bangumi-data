@@ -1,12 +1,17 @@
 {
   "id": "36l9gkud48",
   "category": "music",
-  "title": "ＭＵＳＩＣ　ＢＬＩＳＳ　＃１２",
-  "fullTitle": "ＭＵＳＩＣ　ＢＬＩＳＳ　＃１２",
-  "detail": " ",
+  "title": "ＭＵＳＩＣ　ＢＬＩＳＳ",
+  "fullTitle": "ＭＵＳＩＣ　ＢＬＩＳＳ",
+  "detail": "キラキラ王子はキラキラ歴60年、超人気ライバーのユニットCrimsonCratClan、お人形さんの様な可愛さCandy☆Drops、EbrioLazy沖縄の風\n◇番組内容\nMAIN MC 【濱口優】ASSISTANT【宮崎寿々佳】スタジオから【生歌ライブ】でお届けする、明日へと羽ばたくアーティスト応援番組。Yes! Music MUSICBLISS\n◇出演者\n出演者：濱口優、宮崎寿々佳、和泉静令、Crimson Crat Clan、Candy☆Drops、Ebrio Lazy",
   "start": 1787061600000,
   "end": 1787063400000,
   "seconds": 1800,
+  "description": "キラキラ王子はキラキラ歴60年、超人気ライバーのユニットCrimsonCratClan、お人形さんの様な可愛さCandy☆Drops、EbrioLazy沖縄の風",
+  "extra": {
+    "番組内容": "MAIN MC 【濱口優】ASSISTANT【宮崎寿々佳】スタジオから【生歌ライブ】でお届けする、明日へと羽ばたくアーティスト応援番組。Yes! Music MUSICBLISS",
+    "出演者": "出演者：濱口優、宮崎寿々佳、和泉静令、Crimson Crat Clan、Candy☆Drops、Ebrio Lazy"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +23,6 @@
     "n": 9
   },
   "subTitle": "",
-  "episode": 12,
+  "episode": 1,
   "flags": []
 }
