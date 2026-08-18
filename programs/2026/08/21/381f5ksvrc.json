@@ -1,12 +1,16 @@
 {
   "id": "381f5ksvrc",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "平日　夜８時４２分～　ＮＨＫの番組や取り組みついてお伝えしています。",
+  "fullTitle": "平日　夜８時４２分～　ＮＨＫの番組や取り組みついてお伝えしています。",
+  "detail": "◇出演者\n　【アナウンサー】安藤結衣",
   "start": 1787312520000,
   "end": 1787312700000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "　【アナウンサー】安藤結衣"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",

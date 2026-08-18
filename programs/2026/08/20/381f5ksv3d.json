@@ -1,12 +1,16 @@
 {
   "id": "381f5ksv3d",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "平日　夜８時４２分～　ＮＨＫの番組や取り組みついてお伝えしています。",
+  "fullTitle": "平日　夜８時４２分～　ＮＨＫの番組や取り組みついてお伝えしています。",
+  "detail": "◇出演者\n　【アナウンサー】伊藤海彦",
   "start": 1787226120000,
   "end": 1787226300000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "　【アナウンサー】伊藤海彦"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",

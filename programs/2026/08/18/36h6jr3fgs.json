@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr3fgs",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "▽マチコミじゃんけん▽「テレ玉奨学金」フランス留学レポート▽さいたま市インフォメーション▽踊ろう！テレ玉くんのうた▽おたより",
+  "start": 1787054400000,
+  "end": 1787056200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "テレ玉奨学金",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}
