@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1am8",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・日本薬師堂テレビショッピング",
+  "fullTitle": "ＴＶショッピング・日本薬師堂テレビショッピング🅂",
+  "detail": "スマイルショッピング\n◇番組内容\n薬師八味丸錠　０１２０－８９４－０１８",
   "start": 1787604900000,
   "end": 1787606700000,
   "seconds": 1800,
+  "description": "スマイルショッピング",
+  "extra": {
+    "番組内容": "薬師八味丸錠　０１２０－８９４－０１８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

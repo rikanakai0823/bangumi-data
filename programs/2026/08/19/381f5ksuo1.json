@@ -1,12 +1,16 @@
 {
   "id": "381f5ksuo1",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "平日　夜８時４２分～　ＮＨＫの番組や取り組みついてお伝えしています。",
+  "fullTitle": "平日　夜８時４２分～　ＮＨＫの番組や取り組みついてお伝えしています。",
+  "detail": "◇出演者\n　【アナウンサー】川口由梨香",
   "start": 1787139720000,
   "end": 1787139900000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "　【アナウンサー】川口由梨香"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
