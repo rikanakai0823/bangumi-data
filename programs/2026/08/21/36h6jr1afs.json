@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1afs",
-  "category": "etc",
-  "title": "買物情報",
-  "fullTitle": "買物情報🅂",
-  "detail": "",
+  "category": "information",
+  "title": "買物情報・東京ディベロ　テレビショッピング",
+  "fullTitle": "買物情報・東京ディベロ　テレビショッピング🅂",
+  "detail": "お買い物ベストショー\n◇番組内容\n薬用クリアオールインワンクリーム　０１２０－６０９－６３９",
   "start": 1787279100000,
   "end": 1787280900000,
   "seconds": 1800,
+  "description": "お買い物ベストショー",
+  "extra": {
+    "番組内容": "薬用クリアオールインワンクリーム　０１２０－６０９－６３９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

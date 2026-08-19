@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwij6",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃５５８",
-  "fullTitle": "チバミライチャンネル　＃５５８",
-  "detail": " ",
+  "title": "チバミライチャンネル▽第36回成田太鼓祭 ANA未来ステージ",
+  "fullTitle": "チバミライチャンネル▽第36回成田太鼓祭 ANA未来ステージ",
+  "detail": "木更津総合高等学校　和太鼓部\n◇番組内容\nnewsチバ特集\r\n・アムスメロン",
   "start": 1787299200000,
   "end": 1787302200000,
   "seconds": 3000,
+  "description": "木更津総合高等学校　和太鼓部",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n・アムスメロン"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 558,
+  "episode": 36,
   "flags": []
 }
