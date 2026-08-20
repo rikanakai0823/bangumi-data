@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3fjx",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽マチコミじゃんけん▽やればできるサイタマ！▽大宮アルシェからマチコミボード生中継▽踊ろう！テレ玉くんのうた▽ねんりんピック▽週末高岸占い",
+  "start": 1787212800000,
+  "end": 1787214600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
