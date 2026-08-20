@@ -3,10 +3,14 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容\nCHARLI XCX\"SS26\"\r\nSAM SMITH\"My Guy\"\r\nBECK\"In The Night\"\r\nSIENNA SPIRO\"Great Expectation\"\r\nFUTURE\"Radio\"\r\nCHRIS BROWN feat. LEON THOMAS\"Fallin'\"",
   "start": 1787580000000,
   "end": 1787581800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容": "CHARLI XCX\"SS26\"\r\nSAM SMITH\"My Guy\"\r\nBECK\"In The Night\"\r\nSIENNA SPIRO\"Great Expectation\"\r\nFUTURE\"Radio\"\r\nCHRIS BROWN feat. LEON THOMAS\"Fallin'\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
