@@ -1,12 +1,16 @@
 {
   "id": "381f5ks7p5",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　ＮＨＫ金沢放送局　被災地での朗読会",
+  "fullTitle": "＃ＮＨＫ　ＮＨＫ金沢放送局　被災地での朗読会",
+  "detail": "◇出演者\n　【アナウンサー】伊藤海彦",
   "start": 1787830920000,
   "end": 1787831100000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "　【アナウンサー】伊藤海彦"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
