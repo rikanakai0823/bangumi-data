@@ -1,0 +1,25 @@
+{
+  "id": "3826py3c43",
+  "category": "information",
+  "title": "通販特番",
+  "fullTitle": "通販特番🈑",
+  "detail": "とっておきのお得な商品をご紹介いたします！",
+  "start": 1787978700000,
+  "end": 1787980500000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
