@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ショップジャパン",
   "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "detail": "◇番組内容\nトゥルースリーパー　ペットベッド　０１２０－１６－００７９",
   "start": 1787907600000,
   "end": 1787909400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "トゥルースリーパー　ペットベッド　０１２０－１６－００７９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
