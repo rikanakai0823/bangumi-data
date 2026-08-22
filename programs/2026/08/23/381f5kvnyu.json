@@ -1,12 +1,12 @@
 {
-  "id": "381f5kugjs",
-  "category": "music",
+  "id": "381f5kvnyu",
+  "category": "etc",
   "title": "ニュース",
-  "fullTitle": "ニュース",
+  "fullTitle": "ニュース🈑",
   "detail": "",
-  "start": 1787416920000,
-  "end": 1787416920001,
-  "seconds": 0.001,
+  "start": 1787422200000,
+  "end": 1787423460000,
+  "seconds": 1260,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
