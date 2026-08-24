@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1asv",
-  "category": "etc",
-  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ",
-  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ダイレクトテレショップ",
+  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nフレーバーストーン双子パン　０１２０－３００－１２３",
   "start": 1787842800000,
   "end": 1787844600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "フレーバーストーン双子パン　０１２０－３００－１２３"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
