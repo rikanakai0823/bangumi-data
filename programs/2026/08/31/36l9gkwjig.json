@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwjig",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃５６６",
-  "fullTitle": "チバミライチャンネル　＃５６６",
-  "detail": " ",
+  "title": "チバミライチャンネル▽第36回成田太鼓祭 ANA未来ステージ",
+  "fullTitle": "チバミライチャンネル▽第36回成田太鼓祭 ANA未来ステージ",
+  "detail": "八千代高等学校　鼓組\n◇番組内容\nnewsチバ特集\r\n美食自慢　野田市「エダマメ」",
   "start": 1788163200000,
   "end": 1788166200000,
   "seconds": 3000,
+  "description": "八千代高等学校　鼓組",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n美食自慢　野田市「エダマメ」"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 566,
+  "episode": 36,
   "flags": []
 }

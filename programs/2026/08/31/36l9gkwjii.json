@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwjii",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃５６１",
-  "fullTitle": "チバミライチャンネル　＃５６１",
-  "detail": " ",
+  "title": "チバミライチャンネル▽高文連放送コンテスト2025",
+  "fullTitle": "チバミライチャンネル▽高文連放送コンテスト2025",
+  "detail": "柏南高校\r\n専修大松戸高校\n◇番組内容\nでんしゃ見見録・内房線",
   "start": 1788126300000,
   "end": 1788127200000,
   "seconds": 900,
+  "description": "柏南高校\r\n専修大松戸高校",
+  "extra": {
+    "番組内容": "でんしゃ見見録・内房線"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 561,
+  "episode": 1,
   "flags": []
 }
