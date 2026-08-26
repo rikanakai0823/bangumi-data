@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1b4a",
+  "category": "information",
+  "title": "ショップジャパン",
+  "fullTitle": "ショップジャパン🅂",
+  "detail": "",
+  "start": 1788433200000,
+  "end": 1788435000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
