@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n有村昆の映画紹介コーナー「有村劇場3.0」\r\n出演：有村昆\r\n『スパイダーマン：ブランド・ニュー・デイ』\n◇番組内容２\nGREEN DAY\"I'm Never Gonna R.I.P.\"\r\nALEX HENRY FOSTER\"Springtime\"\r\nBUFFALO TRAFFIC JAM\"Too Young To Die (Lyric Video)\"",
   "start": 1788184800000,
   "end": 1788186600000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "有村昆の映画紹介コーナー「有村劇場3.0」\r\n出演：有村昆\r\n『スパイダーマン：ブランド・ニュー・デイ』",
+    "番組内容２": "GREEN DAY\"I'm Never Gonna R.I.P.\"\r\nALEX HENRY FOSTER\"Springtime\"\r\nBUFFALO TRAFFIC JAM\"Too Young To Die (Lyric Video)\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
