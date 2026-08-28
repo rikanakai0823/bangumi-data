@@ -1,12 +1,16 @@
 {
   "id": "381f5ksap8",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　放送開始２０年「ダーウィンが来た！」",
+  "fullTitle": "＃ＮＨＫ　放送開始２０年「ダーウィンが来た！」",
+  "detail": "◇出演者\n【アナウンサー】川口由梨香",
   "start": 1788349320000,
   "end": 1788349500000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】川口由梨香"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "ダーウィンが来た！",
   "episode": 1,
   "flags": []
 }
