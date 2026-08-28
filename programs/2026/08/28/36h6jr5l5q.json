@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr5l5q",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂",
+  "detail": "▽マチコミじゃんけん▽お金の勉強イベント（ゲスト：倉持明日香）▽【スポたま】埼玉の最新スポーツ情報をお届け▽菓子ごよみ▽おたより",
+  "start": 1787904000000,
+  "end": 1787905800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "スポたま",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
