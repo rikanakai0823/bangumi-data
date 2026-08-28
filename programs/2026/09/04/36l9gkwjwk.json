@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwjwk",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃５７０",
-  "fullTitle": "チバミライチャンネル　＃５７０",
-  "detail": " ",
+  "title": "チバミライチャンネル▽高文連放送コンテスト2025",
+  "fullTitle": "チバミライチャンネル▽高文連放送コンテスト2025",
+  "detail": "検見川高校\r\n流経大柏高校\r\n東金高校\r\n鎌ヶ谷高校\r\n\n◇番組内容\nでんしゃ見見録・内房線",
   "start": 1788508800000,
   "end": 1788511800000,
   "seconds": 3000,
+  "description": "検見川高校\r\n流経大柏高校\r\n東金高校\r\n鎌ヶ谷高校\r\n",
+  "extra": {
+    "番組内容": "でんしゃ見見録・内房線"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 570,
+  "episode": 1,
   "flags": []
 }
