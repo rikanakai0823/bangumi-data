@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1bfy",
-  "category": "etc",
-  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ",
-  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＳＨＯＰＰＩＮＧ　ＴＶ・ダイレクトテレショップ",
+  "fullTitle": "ＳＨＯＰＰＩＮＧ　ＴＶ・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nイオネスユネスタ　０１２０－１２３－２２２",
   "start": 1789052400000,
   "end": 1789054200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "イオネスユネスタ　０１２０－１２３－２２２"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
