@@ -1,12 +1,16 @@
 {
   "id": "381f5kseaj",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　インターネットサービス　ＮＨＫ　ＯＮＥ",
+  "fullTitle": "＃ＮＨＫ　インターネットサービス　ＮＨＫ　ＯＮＥ",
+  "detail": "◇出演者\n【アナウンサー】伊藤海彦",
   "start": 1789040520000,
   "end": 1789040700000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】伊藤海彦"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
