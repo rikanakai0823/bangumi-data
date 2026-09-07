@@ -1,0 +1,23 @@
+{
+  "id": "38224jxr5r",
+  "category": "information",
+  "title": "ドリームナビ",
+  "fullTitle": "ドリームナビ",
+  "detail": "テレビ朝日が自信を持ってお勧めするイベントを紹介する番組。 \r\nこれを観れば夢中になれるイベントが、きっと見つかります！",
+  "start": 1788797700000,
+  "end": 1788798000000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjt",
+    "sid": 1065,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 20
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
