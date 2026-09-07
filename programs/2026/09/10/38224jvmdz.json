@@ -3,13 +3,17 @@
   "category": "music",
   "title": "Ｂｒｅａｋ　Ｏｕｔ",
   "fullTitle": "Ｂｒｅａｋ　Ｏｕｔ",
-  "detail": "様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。\n◇◇おしらせ\n☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/",
+  "detail": "様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。\n◇◇おしらせ\n☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/\n◇◇番組内容\nミクスチャーアーティスト「Novel Core」楽曲制作の裏側に潜入！話題の映画主題歌はどのようにして誕生したのか!?ジャンルを超え、独自のサウンドを貫く彼が、音楽で届けたい思いを語ります\n◇◇番組内容２\n▼都市型ヒップホップフェス「CITY GARDEN」が開催決定！主催者の「KEN THE 390」が語るイベントの魅力、そして子どもから大人までが楽しめる戦略とは…？\n◇◇出演者\nNovel Core、KEN THE 390、ほか\n◇◇音楽\nOP：Jene ♪ Preach to the Choir\r\nED：MurM ♪ Nicchi feat. chee",
   "start": 1788971100000,
   "end": 1788972900000,
   "seconds": 1800,
   "description": "様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。",
   "extra": {
-    "◇おしらせ": "☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/"
+    "◇おしらせ": "☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/",
+    "◇番組内容": "ミクスチャーアーティスト「Novel Core」楽曲制作の裏側に潜入！話題の映画主題歌はどのようにして誕生したのか!?ジャンルを超え、独自のサウンドを貫く彼が、音楽で届けたい思いを語ります",
+    "◇番組内容２": "▼都市型ヒップホップフェス「CITY GARDEN」が開催決定！主催者の「KEN THE 390」が語るイベントの魅力、そして子どもから大人までが楽しめる戦略とは…？",
+    "◇出演者": "Novel Core、KEN THE 390、ほか",
+    "◇音楽": "OP：Jene ♪ Preach to the Choir\r\nED：MurM ♪ Nicchi feat. chee"
   },
   "channel": {
     "type": "GR",
