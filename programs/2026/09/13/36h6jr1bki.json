@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1bki",
   "category": "etc",
-  "title": "買物情報",
-  "fullTitle": "買物情報🅂",
-  "detail": "",
+  "title": "買物情報・イチおし！Ｓｅｌｅｃｔｉｏｎ",
+  "fullTitle": "買物情報・イチおし！Ｓｅｌｅｃｔｉｏｎ🅂",
+  "detail": "◇番組内容\n０１２０－０１０－８８８",
   "start": 1789273800000,
   "end": 1789275600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "０１２０－０１０－８８８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
