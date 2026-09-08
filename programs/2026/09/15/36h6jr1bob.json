@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ショップジャパン",
   "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "detail": "◇番組内容\nトゥルースリーパー　プレミアリッチｐｒ．３　０１２０－１６－００７９",
   "start": 1789476300000,
   "end": 1789477200000,
   "seconds": 900,
+  "description": "",
+  "extra": {
+    "番組内容": "トゥルースリーパー　プレミアリッチｐｒ．３　０１２０－１６－００７９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
