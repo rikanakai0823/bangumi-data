@@ -1,0 +1,27 @@
+{
+  "id": "381sxrgq8d",
+  "category": "sports",
+  "title": "アジア大会　愛知・名古屋",
+  "fullTitle": "アジア大会　愛知・名古屋",
+  "detail": "番組情報決定までしばらくお待ちください。\n◇公式ページ\n◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/",
+  "start": 1789552800000,
+  "end": 1789561800000,
+  "seconds": 9000,
+  "description": "番組情報決定までしばらくお待ちください。",
+  "extra": {
+    "公式ページ": "◇番組ＨＰ\r\nhttps://www.tbs.co.jp/sports/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "22",
+    "name": "ＴＢＳ１",
+    "id": "1i5727s",
+    "sid": 1048,
+    "nid": 32739,
+    "hasLogoData": true,
+    "n": 23
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
