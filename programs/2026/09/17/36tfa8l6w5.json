@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8l6w5",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「クンツァイト賞」「サイレント・サード賞」「紀尾井坂賞」「第７回　ゴールドジュニア　（ＳⅢ）」「ペルセウス賞」",
+  "start": 1789627800000,
+  "end": 1789646400000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "ゴールドジュニア　（ＳⅢ）",
+  "episode": 7,
+  "flags": []
+}
