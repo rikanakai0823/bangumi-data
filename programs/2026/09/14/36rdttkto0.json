@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【CARDINALS特集】\r\nCARDINALS\"Masquerade\"\r\nCARDINALS\"I Like You\"\n◇番組内容２\nJENNIE\"Less than a Lover\"\r\nLOVE SPELLS\"Keep It To Yourself\"\r\nTHE LINDA LINDAS\"Burning Out\"",
   "start": 1789394400000,
   "end": 1789396200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【CARDINALS特集】\r\nCARDINALS\"Masquerade\"\r\nCARDINALS\"I Like You\"",
+    "番組内容２": "JENNIE\"Less than a Lover\"\r\nLOVE SPELLS\"Keep It To Yourself\"\r\nTHE LINDA LINDAS\"Burning Out\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",

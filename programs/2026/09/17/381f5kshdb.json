@@ -2,7 +2,7 @@
   "id": "381f5kshdb",
   "category": "news",
   "title": "ニュース",
-  "fullTitle": "ニュース🈔🈑",
+  "fullTitle": "ニュース🈑",
   "detail": "",
   "start": 1789635600000,
   "end": 1789636200000,
@@ -20,7 +20,6 @@
   "subTitle": "",
   "episode": 1,
   "flags": [
-    "二",
     "字"
   ]
 }
