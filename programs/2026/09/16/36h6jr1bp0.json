@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1bp0",
-  "category": "etc",
-  "title": "買物情報",
-  "fullTitle": "買物情報🅂",
-  "detail": "",
+  "category": "information",
+  "title": "買物情報・ウェルヴィーナステレビショッピング",
+  "fullTitle": "買物情報・ウェルヴィーナステレビショッピング🅂",
+  "detail": "◇番組内容\n北国の恵み",
   "start": 1789505700000,
   "end": 1789507500000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "北国の恵み"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
