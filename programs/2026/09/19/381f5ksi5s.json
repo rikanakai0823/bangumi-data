@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksi5s",
+  "category": "information",
+  "title": "連続テレビ小説「ブラッサム」ＰＲ",
+  "fullTitle": "連続テレビ小説「ブラッサム」ＰＲ🈑",
+  "detail": "",
+  "start": 1789810560000,
+  "end": 1789810680000,
+  "seconds": 120,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "ブラッサム",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
