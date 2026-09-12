@@ -1,0 +1,25 @@
+{
+  "id": "38224jzxhf",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "テレビ朝日の“国際ビジネス開発部”がどういった業務を行っているのか？海外番組販売の裏側についてお知らせします。",
+  "start": 1789243200000,
+  "end": 1789244400000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
