@@ -1,0 +1,25 @@
+{
+  "id": "381ocd81i5",
+  "category": "sports",
+  "title": "オフ・ザ・ピッチ",
+  "fullTitle": "オフ・ザ・ピッチ🈑",
+  "detail": "Jリーガーのオフの顔に迫ります",
+  "start": 1790081640000,
+  "end": 1790082000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
