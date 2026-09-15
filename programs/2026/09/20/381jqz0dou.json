@@ -1,8 +1,8 @@
 {
   "id": "381jqz0dou",
-  "category": "etc",
+  "category": "documentary",
   "title": "ＴＶシンポジウム",
-  "fullTitle": "ＴＶシンポジウム",
+  "fullTitle": "ＴＶシンポジウム🈑",
   "detail": "",
   "start": 1789882200000,
   "end": 1789885800000,
@@ -19,5 +19,7 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": []
+  "flags": [
+    "字"
+  ]
 }
