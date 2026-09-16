@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3gvc",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽天気▽【オトコミ】ゲスト：ＪＡＹＷＡＬＫ　杉田裕▽埼玉県の米どころ加須市！▽おたより",
+  "start": 1789543800000,
+  "end": 1789545600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "オトコミ",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
