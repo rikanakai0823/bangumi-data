@@ -1,12 +1,12 @@
 {
   "id": "381f5ksgye",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報🈑",
+  "title": "ニュース「自民党役員人事」関連",
+  "fullTitle": "ニュース「自民党役員人事」関連🈑",
   "detail": "",
   "start": 1789524000000,
-  "end": 1789524300000,
-  "seconds": 300,
+  "end": 1789525800000,
+  "seconds": 1800,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "自民党役員人事",
   "episode": 1,
   "flags": [
     "字"
