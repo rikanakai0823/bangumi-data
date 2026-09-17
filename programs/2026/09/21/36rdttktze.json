@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【THE GUEST LIST特集】\r\n\"Something Real\"\r\n\"You Should Care\"\n◇番組内容２\nROD WAVE\"Piece Of Your Love\"\r\nBILLY VINCENT\"Close The Door (Official Visualizer)\"\r\nMACK GEIGER\"String By (Official Visualizer)\"",
   "start": 1789999200000,
   "end": 1790001000000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【THE GUEST LIST特集】\r\n\"Something Real\"\r\n\"You Should Care\"",
+    "番組内容２": "ROD WAVE\"Piece Of Your Love\"\r\nBILLY VINCENT\"Close The Door (Official Visualizer)\"\r\nMACK GEIGER\"String By (Official Visualizer)\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
