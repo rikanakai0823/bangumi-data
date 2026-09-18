@@ -1,12 +1,16 @@
 {
   "id": "381f5kskac",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　ＮＨＫ民放６局連動　１．５℃の約束",
+  "fullTitle": "＃ＮＨＫ　ＮＨＫ民放６局連動　１．５℃の約束",
+  "detail": "◇出演者\n【アナウンサー】安藤結衣",
   "start": 1790250120000,
   "end": 1790250300000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】安藤結衣"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
