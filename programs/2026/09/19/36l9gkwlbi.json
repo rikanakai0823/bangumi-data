@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwlbi",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席🈞",
+  "detail": "ロケット団・古今亭志ん輔「お血脈」",
+  "start": 1789777800000,
+  "end": 1789779600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "お血脈",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
