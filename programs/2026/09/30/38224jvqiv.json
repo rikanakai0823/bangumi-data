@@ -1,0 +1,25 @@
+{
+  "id": "38224jvqiv",
+  "category": "variety",
+  "title": "伝説の社員",
+  "fullTitle": "伝説の社員🈑",
+  "detail": "※詳細が決まり次第、お知らせいたします",
+  "start": 1790777700000,
+  "end": 1790781300000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
