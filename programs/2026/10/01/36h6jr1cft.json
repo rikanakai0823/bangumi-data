@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1cft",
-  "category": "etc",
-  "title": "わくわくショッピング",
-  "fullTitle": "わくわくショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "わくわくショッピング・ＯＲＢＩＳテレビショッピング",
+  "fullTitle": "わくわくショッピング・ＯＲＢＩＳテレビショッピング🅂",
+  "detail": "わくわく！ベストバイ！\n◇番組内容\n０１２０－０５０３０３",
   "start": 1790821500000,
   "end": 1790823300000,
   "seconds": 1800,
+  "description": "わくわく！ベストバイ！",
+  "extra": {
+    "番組内容": "０１２０－０５０３０３"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

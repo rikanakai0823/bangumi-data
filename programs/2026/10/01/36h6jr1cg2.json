@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1cg2",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・森永乳業テレビショッピング",
+  "fullTitle": "ＴＶショッピング・森永乳業テレビショッピング🅂",
+  "detail": "買いたい新書\n◇番組内容\n記憶対策サプリ　０１２０－３６９５６１",
   "start": 1790838000000,
   "end": 1790839800000,
   "seconds": 1800,
+  "description": "買いたい新書",
+  "extra": {
+    "番組内容": "記憶対策サプリ　０１２０－３６９５６１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
