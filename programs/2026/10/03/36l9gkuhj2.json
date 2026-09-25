@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkuhj2",
+  "category": "sports",
+  "title": "チバテレBリーグ中継▽アルティーリ千葉×川崎ブレイブサンダース",
+  "fullTitle": "チバテレBリーグ中継▽アルティーリ千葉×川崎ブレイブサンダース",
+  "detail": "「B.LEAGUE PREMIER」アルティーリ千葉ホーム開幕戦を千葉ポートアリーナからお届けします。",
+  "start": 1791003600000,
+  "end": 1791014400000,
+  "seconds": 10800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ１",
+    "id": "1hgokns",
+    "sid": 27704,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 9
+  },
+  "subTitle": "B.LEAGUE PREMIER",
+  "episode": 1,
+  "flags": []
+}

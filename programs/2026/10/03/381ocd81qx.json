@@ -1,0 +1,25 @@
+{
+  "id": "381ocd81qx",
+  "category": "variety",
+  "title": "サタバリュ「ＤＥＬＥＴＥ」",
+  "fullTitle": "サタバリュ「ＤＥＬＥＴＥ」🈑",
+  "detail": "",
+  "start": 1791001800000,
+  "end": 1791005400000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "ＤＥＬＥＴＥ",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
