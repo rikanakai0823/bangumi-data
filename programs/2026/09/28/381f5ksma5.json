@@ -1,12 +1,16 @@
 {
   "id": "381f5ksma5",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　おすすめ番組の紹介",
+  "fullTitle": "＃ＮＨＫ　おすすめ番組の紹介",
+  "detail": "◇出演者\n【アナウンサー】一橋忠之",
   "start": 1790595720000,
   "end": 1790595900000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】一橋忠之"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",

@@ -1,12 +1,16 @@
 {
   "id": "381f5ksmw4",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　地域のおすすめ番組　仙台局　いつかは誰も“おひとりさま”",
+  "fullTitle": "＃ＮＨＫ　地域のおすすめ番組　仙台局　いつかは誰も“おひとりさま”",
+  "detail": "◇出演者\n【アナウンサー】川口由梨香",
   "start": 1790768520000,
   "end": 1790768700000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】川口由梨香"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
