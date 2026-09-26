@@ -1,0 +1,25 @@
+{
+  "id": "38224k008z",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "テレビ朝日がプロデュースに参加している映画「ファーストボイス」の公開に先駆けて、監督の前田哲さんに魅力と見どころを語っていただきます。",
+  "start": 1790452800000,
+  "end": 1790454000000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "ファーストボイス",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
