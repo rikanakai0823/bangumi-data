@@ -3,10 +3,14 @@
   "category": "news",
   "title": "ＮＨＫ手話ニュース🈐",
   "fullTitle": "ＮＨＫ手話ニュース🈐",
-  "detail": "",
+  "detail": "◇出演者\n【キャスター】工藤咲子",
   "start": 1791024900000,
   "end": 1791025200000,
   "seconds": 300,
+  "description": "",
+  "extra": {
+    "出演者": "【キャスター】工藤咲子"
+  },
   "channel": {
     "type": "GR",
     "channel": "26",
