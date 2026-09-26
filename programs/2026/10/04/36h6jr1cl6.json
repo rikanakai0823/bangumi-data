@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr1cl6",
+  "category": "etc",
+  "title": "テレビショッピング",
+  "fullTitle": "テレビショッピング🅂",
+  "detail": "",
+  "start": 1791095400000,
+  "end": 1791097200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13s",
+    "sid": 29752,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 12
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
