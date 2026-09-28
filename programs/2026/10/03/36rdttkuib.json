@@ -3,10 +3,14 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\nMEGADETH / Let There Be Shred\r\nEVANESCENCE / Tell Me When You've Had Enough\r\nSPIRITBOX / Mourning\r\nANTHRAX / Everybody’s Got A Plan\r\nEUROPE / Come This Madness",
   "start": 1791036000000,
   "end": 1791037800000,
   "seconds": 1800,
+  "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "extra": {
+    "番組内容": "MEGADETH / Let There Be Shred\r\nEVANESCENCE / Tell Me When You've Had Enough\r\nSPIRITBOX / Mourning\r\nANTHRAX / Everybody’s Got A Plan\r\nEUROPE / Come This Madness"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
