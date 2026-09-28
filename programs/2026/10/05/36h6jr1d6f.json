@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1d6f",
-  "category": "etc",
-  "title": "お買い物ナビ",
-  "fullTitle": "お買い物ナビ🅂",
-  "detail": "",
+  "category": "information",
+  "title": "お買い物ナビ・日本生薬漢方テレビショッピング",
+  "fullTitle": "お買い物ナビ・日本生薬漢方テレビショッピング🅂",
+  "detail": "◇番組内容\n千萬之素　０１２０－１５０－４１９",
   "start": 1791126000000,
   "end": 1791127800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "千萬之素　０１２０－１５０－４１９"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

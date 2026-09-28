@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1cmo",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・新大和漢方テレビショッピング",
+  "fullTitle": "ＴＶショッピング・新大和漢方テレビショッピング🅂",
+  "detail": "◇番組内容\n流整八味地黄丸　０１２０－７０１－８６６",
   "start": 1791167100000,
   "end": 1791168900000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "流整八味地黄丸　０１２０－７０１－８６６"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

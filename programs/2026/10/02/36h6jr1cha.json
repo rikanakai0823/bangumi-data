@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ショップジャパン",
   "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "detail": "◇番組内容\nインビクタスワン（Ｖ３）　０１２０－４４－００２７",
   "start": 1790899200000,
   "end": 1790901000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "インビクタスワン（Ｖ３）　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

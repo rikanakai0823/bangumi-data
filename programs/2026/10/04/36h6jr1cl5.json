@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1cl5",
-  "category": "etc",
-  "title": "テレビショッピング",
-  "fullTitle": "テレビショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "テレビショッピング・エムズサイエンステレビショッピング",
+  "fullTitle": "テレビショッピング・エムズサイエンステレビショッピング🅂",
+  "detail": "◇番組内容\n真滋腎通耳湯　０１２０－９３１－８６６",
   "start": 1791093600000,
   "end": 1791095400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "真滋腎通耳湯　０１２０－９３１－８６６"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

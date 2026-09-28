@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1d65",
-  "category": "etc",
-  "title": "お買い物ナビ",
-  "fullTitle": "お買い物ナビ🅂",
-  "detail": "",
+  "category": "information",
+  "title": "お買い物ナビ・エムズサイエンステレビショッピング",
+  "fullTitle": "お買い物ナビ・エムズサイエンステレビショッピング🅂",
+  "detail": "◇番組内容\n真滋腎通耳湯　０１２０－９３１－８６６",
   "start": 1790888400000,
   "end": 1790890200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "真滋腎通耳湯　０１２０－９３１－８６６"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
