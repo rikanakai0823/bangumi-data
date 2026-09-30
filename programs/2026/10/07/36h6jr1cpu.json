@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1cpu",
-  "category": "etc",
-  "title": "ショッピングタイム",
-  "fullTitle": "ショッピングタイム🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ショッピングタイム・ダイレクトテレショップ",
+  "fullTitle": "ショッピングタイム・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nリキュウ　０１２０－８８８－６５４",
   "start": 1791347400000,
   "end": 1791349200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "リキュウ　０１２０－８８８－６５４"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

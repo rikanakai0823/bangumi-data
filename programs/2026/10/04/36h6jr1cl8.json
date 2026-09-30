@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1cl8",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ダイレクトテレショップ",
+  "fullTitle": "ＴＶショッピング・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nリキュウ　０１２０－８８８－６５４",
   "start": 1791099000000,
   "end": 1791100800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "リキュウ　０１２０－８８８－６５４"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
