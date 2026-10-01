@@ -1,0 +1,23 @@
+{
+  "id": "36l9gkwn9y",
+  "category": "hobby",
+  "title": "チバテレミライチャンネルガイド",
+  "fullTitle": "チバテレミライチャンネルガイド",
+  "detail": " ",
+  "start": 1791495300000,
+  "end": 1791495900000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}

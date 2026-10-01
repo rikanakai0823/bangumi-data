@@ -1,0 +1,27 @@
+{
+  "id": "36tfa8l9t9",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「とき特別」「金風特別 」「ミザール賞」「神無月特別」\n◇出演者\n【MC】\r\n前半：剣持幸恵／後半：飯野詩帆\r\n\r\n【解説】\r\n《7R～10R》\r\n市川俊吾（日刊競馬）",
+  "start": 1791528600000,
+  "end": 1791547200000,
+  "seconds": 18600,
+  "description": "「とき特別」「金風特別 」「ミザール賞」「神無月特別」",
+  "extra": {
+    "出演者": "【MC】\r\n前半：剣持幸恵／後半：飯野詩帆\r\n\r\n【解説】\r\n《7R～10R》\r\n市川俊吾（日刊競馬）"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
