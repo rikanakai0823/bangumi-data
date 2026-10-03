@@ -1,0 +1,25 @@
+{
+  "id": "381ocda6x3",
+  "category": "variety",
+  "title": "日テレ＋「明日は大泉ボウリング」",
+  "fullTitle": "日テレ＋「明日は大泉ボウリング」🈑",
+  "detail": "",
+  "start": 1791035640000,
+  "end": 1791036000000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ２",
+    "id": "1i54x1t",
+    "sid": 1041,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 17
+  },
+  "subTitle": "明日は大泉ボウリング",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
