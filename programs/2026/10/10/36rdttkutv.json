@@ -3,10 +3,14 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\nSLIPKNOT / Arsenal\r\nERIK GRONWALL Interview Part2\r\nERIK GRONWALL / Bad Bones\r\nERIK GRONWALL / Born To Break\r\nAMON AMARTH / Upphaf",
   "start": 1791640800000,
   "end": 1791642600000,
   "seconds": 1800,
+  "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "extra": {
+    "番組内容": "SLIPKNOT / Arsenal\r\nERIK GRONWALL Interview Part2\r\nERIK GRONWALL / Bad Bones\r\nERIK GRONWALL / Born To Break\r\nAMON AMARTH / Upphaf"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
