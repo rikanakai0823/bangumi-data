@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1cwn",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ビタブリッドジャパンテレビショッピング",
+  "fullTitle": "ＴＶショッピング・ビタブリッドジャパンテレビショッピング🅂",
+  "detail": "◇番組内容\nターミナリアファースト　０１２０－３７２１１１",
   "start": 1791675000000,
   "end": 1791676800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ターミナリアファースト　０１２０－３７２１１１"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
