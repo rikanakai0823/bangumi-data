@@ -1,0 +1,25 @@
+{
+  "id": "381ocd8213",
+  "category": "variety",
+  "title": "日テレ＋「ＴＨＥ　ＦＬＯＯＲ」",
+  "fullTitle": "日テレ＋「ＴＨＥ　ＦＬＯＯＲ」🈑",
+  "detail": "",
+  "start": 1792068840000,
+  "end": 1792069200000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "ＴＨＥ　ＦＬＯＯＲ",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
