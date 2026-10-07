@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1cyu",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ワタミテレビショッピング",
+  "fullTitle": "ＴＶショッピング・ワタミテレビショッピング🅂",
+  "detail": "買いたい新書\n◇番組内容\n０１２０－０１０３３３",
   "start": 1791788400000,
   "end": 1791790200000,
   "seconds": 1800,
+  "description": "買いたい新書",
+  "extra": {
+    "番組内容": "０１２０－０１０３３３"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
