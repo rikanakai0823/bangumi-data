@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ホークス中継2026 パCS ファイナルステージ",
   "fullTitle": "ホークス中継2026 パCS ファイナルステージ",
-  "detail": " ",
+  "detail": "◇出演者      \n【実況】田中大貴\r\n【解説】多村仁志",
   "start": 1792061820000,
   "end": 1792069200000,
   "seconds": 7380,
+  "description": " ",
+  "extra": {
+    "出演者      ": "【実況】田中大貴\r\n【解説】多村仁志"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",
