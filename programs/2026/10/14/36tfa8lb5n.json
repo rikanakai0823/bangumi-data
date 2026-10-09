@@ -3,10 +3,14 @@
   "category": "sports",
   "title": "ホークス中継2026 パCS ファイナルステージ",
   "fullTitle": "ホークス中継2026 パCS ファイナルステージ",
-  "detail": " ",
+  "detail": "◇出演者      \n【実況】槇嶋範彦\r\n【解説】飯田哲也",
   "start": 1791975420000,
   "end": 1791982800000,
   "seconds": 7380,
+  "description": " ",
+  "extra": {
+    "出演者      ": "【実況】槇嶋範彦\r\n【解説】飯田哲也"
+  },
   "channel": {
     "type": "GR",
     "channel": "16",

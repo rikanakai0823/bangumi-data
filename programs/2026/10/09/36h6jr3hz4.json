@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3hz4",
+  "category": "information",
+  "title": "情報番組　マチコミ（ネット）",
+  "fullTitle": "情報番組　マチコミ（ネット）🅂",
+  "detail": "▽天気▽【マチリポ】さいたまオクトーバーフェスト▽最新映画情報▽おたより",
+  "start": 1791531000000,
+  "end": 1791532800000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "マチリポ",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
