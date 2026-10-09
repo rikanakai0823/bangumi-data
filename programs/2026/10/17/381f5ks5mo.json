@@ -1,0 +1,25 @@
+{
+  "id": "381f5ks5mo",
+  "category": "documentary",
+  "title": "ドキュメント７２時間ＰＲ",
+  "fullTitle": "ドキュメント７２時間ＰＲ🈑",
+  "detail": "",
+  "start": 1792222800000,
+  "end": 1792223100000,
+  "seconds": 300,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
