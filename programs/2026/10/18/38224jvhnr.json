@@ -1,0 +1,27 @@
+{
+  "id": "38224jvhnr",
+  "category": "information",
+  "title": "ＣＳテレ朝ナビ‼",
+  "fullTitle": "ＣＳテレ朝ナビ‼",
+  "detail": "テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！\n◇◇おしらせ\n☆ＣＳ放送『テレ朝チャンネル１』ＨＰ\r\n　https://www.tv-asahi.co.jp/ch/sphone/osusume/ch1/\r\n☆ＣＳ放送『テレ朝チャンネル２』ＨＰ\r\n　https://www.tv-asahi.co.jp/ch/sphone/osusume/ch2/",
+  "start": 1792263600000,
+  "end": 1792263900000,
+  "seconds": 300,
+  "description": "テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！",
+  "extra": {
+    "◇おしらせ": "☆ＣＳ放送『テレ朝チャンネル１』ＨＰ\r\n　https://www.tv-asahi.co.jp/ch/sphone/osusume/ch1/\r\n☆ＣＳ放送『テレ朝チャンネル２』ＨＰ\r\n　https://www.tv-asahi.co.jp/ch/sphone/osusume/ch2/"
+  },
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "ドラえもん",
+  "episode": 1,
+  "flags": []
+}
