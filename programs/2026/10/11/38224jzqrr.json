@@ -1,0 +1,25 @@
+{
+  "id": "38224jzqrr",
+  "category": "hobby",
+  "title": "コウペンちゃん　＃８０",
+  "fullTitle": "コウペンちゃん　＃８０🈑",
+  "detail": "＃８０「はなまるモーニングラジオ」\r\nはるまるモーニングラジオＯＡ中！本日のおたよりは…",
+  "start": 1791673200000,
+  "end": 1791673260000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "はなまるモーニングラジオ",
+  "episode": 80,
+  "flags": [
+    "字"
+  ]
+}
