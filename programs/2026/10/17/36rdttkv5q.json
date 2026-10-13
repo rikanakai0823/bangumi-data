@@ -3,10 +3,14 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\nBLIND CHANNEL / No Encores In A Swan Song\r\nPOWERWOLF / Fire & Forgive\r\nLOUDNESS / Crazy Nights(Live)\r\nVANDENBERG / Friday Night",
   "start": 1792245600000,
   "end": 1792247400000,
   "seconds": 1800,
+  "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "extra": {
+    "番組内容": "BLIND CHANNEL / No Encores In A Swan Song\r\nPOWERWOLF / Fire & Forgive\r\nLOUDNESS / Crazy Nights(Live)\r\nVANDENBERG / Friday Night"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
