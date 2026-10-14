@@ -3,10 +3,14 @@
   "category": "etc",
   "title": "ガイド",
   "fullTitle": "ガイド",
-  "detail": "",
+  "detail": "◇番組内容",
   "start": 1792306800000,
   "end": 1792307100000,
   "seconds": 300,
+  "description": "　",
+  "extra": {
+    "番組内容": "　"
+  },
   "channel": {
     "type": "GR",
     "channel": "21",
