@@ -1,12 +1,16 @@
 {
   "id": "381f5ksvx4",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　人形劇・ざわざわ森のがんこちゃん　放送開始３０周年",
+  "fullTitle": "＃ＮＨＫ　人形劇・ざわざわ森のがんこちゃん　放送開始３０周年",
+  "detail": "◇出演者\n【アナウンサー】川口由梨香",
   "start": 1792582920000,
   "end": 1792583100000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】川口由梨香"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
