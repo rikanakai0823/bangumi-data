@@ -3,10 +3,14 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\nERIK GRONWALL / Sukiyaki\r\nOZZY & BLACK SABBATH ライヴ・フィルム『Back to the Beginning 』劇場版トレイラー\r\nOZZY OSBOURNE / Mama, I'm Coming Home\r\nTONY IOMMI / Stormwatcher\r\nPINK FLOYD / One Of These Days(Live)",
   "start": 1792850400000,
   "end": 1792852200000,
   "seconds": 1800,
+  "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "extra": {
+    "番組内容": "ERIK GRONWALL / Sukiyaki\r\nOZZY & BLACK SABBATH ライヴ・フィルム『Back to the Beginning 』劇場版トレイラー\r\nOZZY OSBOURNE / Mama, I'm Coming Home\r\nTONY IOMMI / Stormwatcher\r\nPINK FLOYD / One Of These Days(Live)"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
