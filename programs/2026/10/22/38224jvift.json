@@ -3,13 +3,17 @@
   "category": "music",
   "title": "Ｂｒｅａｋ　Ｏｕｔ",
   "fullTitle": "Ｂｒｅａｋ　Ｏｕｔ",
-  "detail": "様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。\n◇◇おしらせ\n☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/",
+  "detail": "様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。\n◇◇おしらせ\n☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/\n◇◇番組内容\nビートボックスイベント「BEATCITY JAPAN」キッズ部門２年連続制覇の小学生チャンプ「SouShi」を大特集！人生初のレコーディングや大型音楽フェス出演の模様をお届け！SOIL & \"PIMP\" SESSIONSアジテーター社長が目撃したSouShiの驚きのステージとは！？\n◇◇番組内容２\n▼オルタナティブR&Bシンガーezoからメッセージ。彼がいま届けたい特別な曲とは？\r\n▼ビートボックス世界大会GBBで、日本勢が２部門制覇の大躍進！\n◇◇出演者\nSouShi、社長（SOIL & \"PIMP\" SESSIONS）、ezo、ほか\n◇◇音楽\nOP：MurM ♪ ケッキング\r\nED：SouShi ♪ STEPS",
   "start": 1792600800000,
   "end": 1792602600000,
   "seconds": 1800,
   "description": "様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。",
   "extra": {
-    "◇おしらせ": "☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/"
+    "◇おしらせ": "☆番組ホームページ\r\n　https://www.tv-asahi.co.jp/break-out/",
+    "◇番組内容": "ビートボックスイベント「BEATCITY JAPAN」キッズ部門２年連続制覇の小学生チャンプ「SouShi」を大特集！人生初のレコーディングや大型音楽フェス出演の模様をお届け！SOIL & \"PIMP\" SESSIONSアジテーター社長が目撃したSouShiの驚きのステージとは！？",
+    "◇番組内容２": "▼オルタナティブR&Bシンガーezoからメッセージ。彼がいま届けたい特別な曲とは？\r\n▼ビートボックス世界大会GBBで、日本勢が２部門制覇の大躍進！",
+    "◇出演者": "SouShi、社長（SOIL & \"PIMP\" SESSIONS）、ezo、ほか",
+    "◇音楽": "OP：MurM ♪ ケッキング\r\nED：SouShi ♪ STEPS"
   },
   "channel": {
     "type": "GR",
