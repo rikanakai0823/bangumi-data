@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lcoh",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「みんなにかけ橋いたばし賞」「アニメで夢を！中野応援賞」「都電とバラの街あらかわ賞」「マンガ・アニメ・トシマ賞」「金魚のふるさと江戸川区賞」🈀",
+  "start": 1793170200000,
+  "end": 1793188800000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
