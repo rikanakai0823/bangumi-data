@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "ＮＨＫＯＮＥ教養　ＰＲミニ番組",
   "fullTitle": "ＮＨＫＯＮＥ教養　ＰＲミニ番組",
-  "detail": "",
+  "detail": "◇出演者\n【出演】新納慎也",
   "start": 1792896780000,
   "end": 1792896840000,
   "seconds": 60,
+  "description": "",
+  "extra": {
+    "出演者": "【出演】新納慎也"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
