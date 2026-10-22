@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1dlk",
-  "category": "etc",
-  "title": "サンデーナイトショッピング",
-  "fullTitle": "サンデーナイトショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "サンデーナイトショッピング・ｆｏｒｔｙ‐ｆｏｕｒテレビショッピング",
+  "fullTitle": "サンデーナイトショッピング・ｆｏｒｔｙ‐ｆｏｕｒテレビショッピング🅂",
+  "detail": "◇番組内容\nジェットフロスコンパクト",
   "start": 1792931400000,
   "end": 1792933200000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ジェットフロスコンパクト"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

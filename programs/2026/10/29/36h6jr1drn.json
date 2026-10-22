@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1drn",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・エバーライフＴＶショッピング",
+  "fullTitle": "ＴＶショッピング・エバーライフＴＶショッピング🅂",
+  "detail": "◇番組内容\nアイノウＥＸ",
   "start": 1793257200000,
   "end": 1793259000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "アイノウＥＸ"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

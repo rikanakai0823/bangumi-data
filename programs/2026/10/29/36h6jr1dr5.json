@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1dr5",
-  "category": "etc",
-  "title": "買物情報",
-  "fullTitle": "買物情報🅂",
-  "detail": "",
+  "category": "information",
+  "title": "買物情報・ｆｏｒｔｙ‐ｆｏｕｒテレビショッピング",
+  "fullTitle": "買物情報・ｆｏｒｔｙ‐ｆｏｕｒテレビショッピング🅂",
+  "detail": "◇番組内容\nジェットフロスコンパクト",
   "start": 1793221200000,
   "end": 1793223000000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ジェットフロスコンパクト"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
