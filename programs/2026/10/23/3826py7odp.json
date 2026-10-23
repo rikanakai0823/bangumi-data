@@ -1,0 +1,27 @@
+{
+  "id": "3826py7odp",
+  "category": "music",
+  "title": "歌のサンセット",
+  "fullTitle": "歌のサンセット🈑🈕🈖",
+  "detail": "最新曲と様々な情報をお届けする夕方の音楽情報番組！",
+  "start": 1792744200000,
+  "end": 1792745700000,
+  "seconds": 1500,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東３",
+    "id": "1i5dhpu",
+    "sid": 1074,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 28
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字",
+    "多",
+    "解"
+  ]
+}
