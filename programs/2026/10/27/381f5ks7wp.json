@@ -1,12 +1,16 @@
 {
   "id": "381f5ks7wp",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　おすすめ番組の紹介",
+  "fullTitle": "＃ＮＨＫ　おすすめ番組の紹介",
+  "detail": "◇出演者\n【アナウンサー】川口由梨香",
   "start": 1793101320000,
   "end": 1793101500000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】川口由梨香"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",

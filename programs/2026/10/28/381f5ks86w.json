@@ -1,12 +1,16 @@
 {
   "id": "381f5ks86w",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　放送開始５０年「名曲アルバム」",
+  "fullTitle": "＃ＮＨＫ　放送開始５０年「名曲アルバム」",
+  "detail": "◇出演者\n【アナウンサー】川口由梨香",
   "start": 1793187720000,
   "end": 1793187900000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】川口由梨香"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "名曲アルバム",
   "episode": 1,
   "flags": []
 }

@@ -1,12 +1,16 @@
 {
   "id": "381f5ks8gp",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　うたでえがおに　スゴＥフェス",
+  "fullTitle": "＃ＮＨＫ　うたでえがおに　スゴＥフェス",
+  "detail": "◇出演者\n【アナウンサー】伊藤海彦",
   "start": 1793274120000,
   "end": 1793274300000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】伊藤海彦"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
