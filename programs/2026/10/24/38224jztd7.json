@@ -1,0 +1,25 @@
+{
+  "id": "38224jztd7",
+  "category": "documentary",
+  "title": "港時間",
+  "fullTitle": "港時間🈑",
+  "detail": "瀬戸内海に浮かぶ上島町。豊かな自然と人の温かさに触れ、移住を決めたのはニュージーランドのセーラー。今回の「港時間」とは…。",
+  "start": 1792850040000,
+  "end": 1792850400000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "港時間",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
