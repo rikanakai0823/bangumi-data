@@ -1,0 +1,25 @@
+{
+  "id": "38224jztj7",
+  "category": "information",
+  "title": "はい！テレビ朝日です",
+  "fullTitle": "はい！テレビ朝日です🈑",
+  "detail": "６月２０日配信されました第６８回テレビ塾『羽鳥慎一モーニングショー～視聴者に支持される“人気の秘密”とは～』をダイジェストでお届けします。",
+  "start": 1792872000000,
+  "end": 1792873200000,
+  "seconds": 1200,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 68,
+  "flags": [
+    "字"
+  ]
+}
