@@ -3,10 +3,14 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\nJUDAS PRIEST / Love Bites\r\nRAMMSTEIN / Armee Der Tristen(Live)\r\nRAMMSTEIN / Sonne(Live)\r\nHAGANE / 月光-TSUKIKAGE-",
   "start": 1793455200000,
   "end": 1793457000000,
   "seconds": 1800,
+  "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "extra": {
+    "番組内容": "JUDAS PRIEST / Love Bites\r\nRAMMSTEIN / Armee Der Tristen(Live)\r\nRAMMSTEIN / Sonne(Live)\r\nHAGANE / 月光-TSUKIKAGE-"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
