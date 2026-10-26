@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwox8",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席🈞",
+  "detail": "柳家花ごめ「熊の皮」・三遊亭吉窓「本膳」",
+  "start": 1792996200000,
+  "end": 1792998000000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
