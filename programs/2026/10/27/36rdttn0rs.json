@@ -1,0 +1,25 @@
+{
+  "id": "36rdttn0rs",
+  "category": "news",
+  "title": "横浜市会ダイジェスト",
+  "fullTitle": "横浜市会ダイジェスト🈞",
+  "detail": "第３回市会定例会で提出された主な議案の審議状況などについて、ダイジェストで放送。",
+  "start": 1793055600000,
+  "end": 1793057400000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "31",
+    "name": "ｔｖｋ２",
+    "id": "1hjjdzt",
+    "sid": 24633,
+    "nid": 32375,
+    "hasLogoData": true,
+    "n": 6
+  },
+  "subTitle": "",
+  "episode": 3,
+  "flags": [
+    "再"
+  ]
+}
