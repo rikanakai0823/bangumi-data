@@ -1,0 +1,26 @@
+{
+  "id": "36h6jr3iul",
+  "category": "information",
+  "title": "情報番組　マチコミ",
+  "fullTitle": "情報番組　マチコミ🅂🈞",
+  "detail": "▽マチコミじゃんけん▽【おいしい！うれしい♪彩の国】埼玉県産食材を使ったメニューが登場▽さいたま市インフォメーション▽おたより",
+  "start": 1793102400000,
+  "end": 1793104200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "おいしい！うれしい♪彩の国",
+  "episode": 1,
+  "flags": [
+    "S",
+    "再"
+  ]
+}
