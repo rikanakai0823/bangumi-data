@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1dzg",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・ウェルヴィーナステレビショッピング",
+  "fullTitle": "ＴＶショッピング・ウェルヴィーナステレビショッピング🅂",
+  "detail": "◇番組内容\n北国の恵み　０１２０－６８－６６８８",
   "start": 1793709900000,
   "end": 1793710800000,
   "seconds": 900,
+  "description": "",
+  "extra": {
+    "番組内容": "北国の恵み　０１２０－６８－６６８８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

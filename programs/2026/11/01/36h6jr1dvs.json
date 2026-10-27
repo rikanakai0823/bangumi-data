@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1dvs",
-  "category": "etc",
-  "title": "お買い物生活情報",
-  "fullTitle": "お買い物生活情報🅂",
-  "detail": "",
+  "category": "information",
+  "title": "お買い物生活情報・ダイレクトテレショップ",
+  "fullTitle": "お買い物生活情報・ダイレクトテレショップ🅂",
+  "detail": "◇番組内容\nイオネスユネスタ　０１２０－１２３－２２２",
   "start": 1793478600000,
   "end": 1793480400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "イオネスユネスタ　０１２０－１２３－２２２"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

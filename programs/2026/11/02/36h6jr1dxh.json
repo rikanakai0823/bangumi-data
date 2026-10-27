@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1dxh",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・フォーリーフ製薬テレビショッピング",
+  "fullTitle": "ＴＶショッピング・フォーリーフ製薬テレビショッピング🅂",
+  "detail": "◇番組内容\n百寿八味地黄丸",
   "start": 1793593800000,
   "end": 1793595600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "百寿八味地黄丸"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
