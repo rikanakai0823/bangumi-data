@@ -3,10 +3,14 @@
   "category": "documentary",
   "title": "埼玉ビジネスウオッチ",
   "fullTitle": "埼玉ビジネスウオッチ🅂",
-  "detail": "",
+  "detail": "◇出演者\n▽亀谷渉子（テレ玉アナウンサー）",
   "start": 1793449800000,
   "end": 1793451600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "▽亀谷渉子（テレ玉アナウンサー）"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
