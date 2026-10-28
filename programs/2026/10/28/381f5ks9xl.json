@@ -1,12 +1,12 @@
 {
   "id": "381f5ks9xl",
   "category": "sports",
-  "title": "ＭＬＢ２０２６　ワールドシリーズハイライト　第４戦",
-  "fullTitle": "ＭＬＢ２０２６　ワールドシリーズハイライト　第４戦🈑",
-  "detail": "ＭＬＢ２０２６決戦のステージ　ワールドチャンピオンをかけた激闘をハイライトで放送！",
+  "title": "ニュース",
+  "fullTitle": "ニュース",
+  "detail": "",
   "start": 1793199000000,
-  "end": 1793202600000,
-  "seconds": 3600,
+  "end": 1793199000001,
+  "seconds": 0.001,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -19,7 +19,5 @@
   },
   "subTitle": "",
   "episode": 1,
-  "flags": [
-    "字"
-  ]
+  "flags": []
 }
