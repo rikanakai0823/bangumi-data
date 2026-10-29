@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【BLIND CHANNEL特集】\r\nBLIND CHANNEL\"Diana\"\r\nBLIND CHANNEL\"No Encores In A Swan Song\"\r\nBLIND CHANNEL feat. AARON PAULEY of OF MICE & MEN\"Into The Void(Official Visualizer)\"\n◇番組内容２\nFLO\"Remedied!\"\r\nBARRY CAN'T SWIM\"Dance Dance Dance!\"\r\nGRETA VAN FLEET\"Saw You Stand\"\r\nJENNIE\"Fallen Angel\"",
   "start": 1793628000000,
   "end": 1793629800000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【BLIND CHANNEL特集】\r\nBLIND CHANNEL\"Diana\"\r\nBLIND CHANNEL\"No Encores In A Swan Song\"\r\nBLIND CHANNEL feat. AARON PAULEY of OF MICE & MEN\"Into The Void(Official Visualizer)\"",
+    "番組内容２": "FLO\"Remedied!\"\r\nBARRY CAN'T SWIM\"Dance Dance Dance!\"\r\nGRETA VAN FLEET\"Saw You Stand\"\r\nJENNIE\"Fallen Angel\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
