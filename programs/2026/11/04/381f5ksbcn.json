@@ -1,12 +1,12 @@
 {
   "id": "381f5ksbcn",
   "category": "news",
-  "title": "ニュース・気象情報",
-  "fullTitle": "ニュース・気象情報🈑",
+  "title": "ニュース「アメリカ中間選挙」関連",
+  "fullTitle": "ニュース「アメリカ中間選挙」関連🈑",
   "detail": "",
   "start": 1793772000000,
-  "end": 1793772420000,
-  "seconds": 420,
+  "end": 1793772900000,
+  "seconds": 900,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アメリカ中間選挙",
   "episode": 1,
   "flags": [
     "字"

@@ -1,12 +1,16 @@
 {
   "id": "381ocd82iw",
   "category": "music",
-  "title": "Ｔ．Ｎ．Ｔ　ＭＥＥＴＳ・・・",
-  "fullTitle": "Ｔ．Ｎ．Ｔ　ＭＥＥＴＳ・・・",
-  "detail": "",
+  "title": "Ｔ．Ｎ．Ｔ　ＭＥＥＴＳ・・・＃２　FLOW",
+  "fullTitle": "Ｔ．Ｎ．Ｔ　ＭＥＥＴＳ・・・＃２　FLOW",
+  "detail": "昨年２月に結成した手越祐也のロックバンドT.N.T。来年２月の日本武道館ワンマンライブに向け、世代やジャンルを超えたアーティストとの対談・コラボ企画\n◇出演者\nT.N.T（手越祐也、kyohey、Furutatsu、Ryu）\r\nSUGIZO\r\nFLOW",
   "start": 1793808240000,
   "end": 1793810040000,
   "seconds": 1800,
+  "description": "昨年２月に結成した手越祐也のロックバンドT.N.T。来年２月の日本武道館ワンマンライブに向け、世代やジャンルを超えたアーティストとの対談・コラボ企画",
+  "extra": {
+    "出演者": "T.N.T（手越祐也、kyohey、Furutatsu、Ryu）\r\nSUGIZO\r\nFLOW"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +21,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
-  "episode": 1,
+  "subTitle": "FLOW",
+  "episode": 2,
   "flags": []
 }

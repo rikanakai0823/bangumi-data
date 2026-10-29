@@ -1,12 +1,12 @@
 {
   "id": "381f5ksbcg",
   "category": "news",
-  "title": "ニュース",
-  "fullTitle": "ニュース🈑",
+  "title": "ニュース「アメリカ中間選挙」関連",
+  "fullTitle": "ニュース「アメリカ中間選挙」関連🈑",
   "detail": "",
   "start": 1793764800000,
-  "end": 1793765100000,
-  "seconds": 300,
+  "end": 1793765700000,
+  "seconds": 900,
   "channel": {
     "type": "GR",
     "channel": "27",
@@ -17,7 +17,7 @@
     "hasLogoData": true,
     "n": 0
   },
-  "subTitle": "",
+  "subTitle": "アメリカ中間選挙",
   "episode": 1,
   "flags": [
     "字"
