@@ -1,12 +1,16 @@
 {
   "id": "381f5ksbde",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　放送技術の舞台裏　ステディカム研修",
+  "fullTitle": "＃ＮＨＫ　放送技術の舞台裏　ステディカム研修",
+  "detail": "◇出演者\n【アナウンサー】伊藤海彦",
   "start": 1793792520000,
   "end": 1793792700000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】伊藤海彦"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
