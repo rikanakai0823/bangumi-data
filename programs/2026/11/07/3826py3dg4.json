@@ -1,0 +1,23 @@
+{
+  "id": "3826py3dg4",
+  "category": "sports",
+  "title": "サタデーナイトＪ",
+  "fullTitle": "サタデーナイトＪ",
+  "detail": "注目の試合を中心に解説者独自の視点や情報で分かりやすく、深く、Jリーグの魅力を伝える番組「サタデーナイトJ」\r\n試合はもちろんスタジアム観戦の楽しみ方もお届け！",
+  "start": 1794061800000,
+  "end": 1794063600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "23",
+    "name": "テレ東",
+    "id": "1i5dhps",
+    "sid": 1072,
+    "nid": 32742,
+    "hasLogoData": true,
+    "n": 26
+  },
+  "subTitle": "サタデーナイトJ",
+  "episode": 1,
+  "flags": []
+}
