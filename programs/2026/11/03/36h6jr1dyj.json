@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1dyj",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・Ａｉロボティクス　テレビショッピング",
+  "fullTitle": "ＴＶショッピング・Ａｉロボティクス　テレビショッピング🅂",
+  "detail": "◇番組内容\nＢｒｉｇｈｔｅ　ＥＬＥＫＩ　ＢＲＵＳＨ＋",
   "start": 1793649600000,
   "end": 1793651400000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "Ｂｒｉｇｈｔｅ　ＥＬＥＫＩ　ＢＲＵＳＨ＋"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
