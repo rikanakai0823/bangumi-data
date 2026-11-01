@@ -1,12 +1,16 @@
 {
   "id": "381f5ksdbo",
   "category": "information",
-  "title": "首都圏いちオシ！",
-  "fullTitle": "首都圏いちオシ！🈑",
-  "detail": "",
+  "title": "首都圏いちオシ！　笑ったび　～茨城県　守谷市～",
+  "fullTitle": "首都圏いちオシ！　笑ったび　～茨城県　守谷市～🈑",
+  "detail": "◇出演者\n【出演】三拍子",
   "start": 1794110700000,
   "end": 1794113100000,
   "seconds": 2400,
+  "description": "",
+  "extra": {
+    "出演者": "【出演】三拍子"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
