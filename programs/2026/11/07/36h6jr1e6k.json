@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1e6k",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・エバーライフＴＶショッピング",
+  "fullTitle": "ＴＶショッピング・エバーライフＴＶショッピング🅂",
+  "detail": "◇番組内容\n皇潤Ｗ　０１２０－３０３－７０７",
   "start": 1794024000000,
   "end": 1794025800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "皇潤Ｗ　０１２０－３０３－７０７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
