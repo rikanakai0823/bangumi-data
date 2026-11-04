@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1eb3",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・あじかんテレビショッピング",
+  "fullTitle": "ＴＶショッピング・あじかんテレビショッピング🅂",
+  "detail": "◇番組内容\nちょう快眠",
   "start": 1794268800000,
   "end": 1794270600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ちょう快眠"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

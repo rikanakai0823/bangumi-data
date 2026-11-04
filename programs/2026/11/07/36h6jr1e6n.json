@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1e6n",
-  "category": "etc",
-  "title": "テレビショッピング",
-  "fullTitle": "テレビショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "テレビショッピング・フィットライフショッピング",
+  "fullTitle": "テレビショッピング・フィットライフショッピング🅂",
+  "detail": "◇番組内容\nフィットライフコーヒー　０１２０－３６－１０９４",
   "start": 1794031200000,
-  "end": 1794034800000,
-  "seconds": 3600,
+  "end": 1794034500000,
+  "seconds": 3300,
+  "description": "",
+  "extra": {
+    "番組内容": "フィットライフコーヒー　０１２０－３６－１０９４"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
