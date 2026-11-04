@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwpzu",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃５９２",
-  "fullTitle": "チバミライチャンネル　＃５９２",
-  "detail": " ",
+  "title": "チバミライチャンネル▽千葉聴覚障害者センター",
+  "fullTitle": "チバミライチャンネル▽千葉聴覚障害者センター",
+  "detail": "手話落語・寿司道楽\n◇番組内容\nnewsチバ特集\r\n美食自慢　八街落花生",
   "start": 1793952000000,
   "end": 1793954700000,
   "seconds": 2700,
+  "description": "手話落語・寿司道楽",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n美食自慢　八街落花生"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 592,
+  "episode": 1,
   "flags": []
 }
