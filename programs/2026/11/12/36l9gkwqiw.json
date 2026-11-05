@@ -1,12 +1,16 @@
 {
   "id": "36l9gkwqiw",
   "category": "hobby",
-  "title": "チバミライチャンネル　＃５９１",
-  "fullTitle": "チバミライチャンネル　＃５９１",
-  "detail": " ",
+  "title": "チバミライチャンネル▽千葉聴覚障害者センター",
+  "fullTitle": "チバミライチャンネル▽千葉聴覚障害者センター",
+  "detail": "かみなり医者\n◇番組内容\nnewsチバ特集\r\n美食自慢　伊勢海老",
   "start": 1794470400000,
   "end": 1794473100000,
   "seconds": 2700,
+  "description": "かみなり医者",
+  "extra": {
+    "番組内容": "newsチバ特集\r\n美食自慢　伊勢海老"
+  },
   "channel": {
     "type": "GR",
     "channel": "30",
@@ -18,6 +22,6 @@
     "n": 10
   },
   "subTitle": "",
-  "episode": 591,
+  "episode": 1,
   "flags": []
 }
