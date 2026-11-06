@@ -1,12 +1,16 @@
 {
   "id": "381f5ksex2",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　インターネットサービス　ＮＨＫ　ＯＮＥ",
+  "fullTitle": "＃ＮＨＫ　インターネットサービス　ＮＨＫ　ＯＮＥ",
+  "detail": "◇出演者\n【アナウンサー】一橋忠之",
   "start": 1794483720000,
   "end": 1794483900000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】一橋忠之"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
