@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwq2c",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席🈞",
+  "detail": "雷門　小助六「七度狐」・柳亭　市馬「藪医者」",
+  "start": 1794011400000,
+  "end": 1794013200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
