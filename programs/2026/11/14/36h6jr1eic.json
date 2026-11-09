@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1eic",
-  "category": "etc",
-  "title": "テレビショッピング",
-  "fullTitle": "テレビショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "テレビショッピング・健康テレビショッピング",
+  "fullTitle": "テレビショッピング・健康テレビショッピング🅂",
+  "detail": "◇番組内容\n黒酢黒にんにく　０１２０－９８８－８８８",
   "start": 1794637800000,
   "end": 1794639600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "黒酢黒にんにく　０１２０－９８８－８８８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
