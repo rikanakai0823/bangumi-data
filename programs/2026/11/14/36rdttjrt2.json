@@ -3,10 +3,14 @@
   "category": "music",
   "title": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
   "fullTitle": "伊藤政則のＲＯＣＫ　ＣＩＴＹ",
-  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "detail": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組\n◇番組内容\nOZZY OSBOURNE / Mr. Crowley (Live From Back To The Beginning)\r\n映画『IRON MAIDEN: BURNING AMBITION』 予告編\r\nIRON MAIDEN / Women In Uniform\r\nIRON MAIDEN / Run To The Hills\r\nGRETA VAN FLEET / Lost In The Golden",
   "start": 1794664800000,
   "end": 1794666600000,
   "seconds": 1800,
+  "description": "▽音楽評論家・伊藤政則がおくる洋楽の最新情報番組",
+  "extra": {
+    "番組内容": "OZZY OSBOURNE / Mr. Crowley (Live From Back To The Beginning)\r\n映画『IRON MAIDEN: BURNING AMBITION』 予告編\r\nIRON MAIDEN / Women In Uniform\r\nIRON MAIDEN / Run To The Hills\r\nGRETA VAN FLEET / Lost In The Golden"
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
