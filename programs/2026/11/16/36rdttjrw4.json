@@ -3,10 +3,16 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【U2特集】\r\n\"Street Of Dreams\"\r\n\"Silencio\"\r\n\"The Greatest Show On Earth\"\n◇番組内容２\n【BRYAN ADAMS特集】\r\n\"How's It Goin'\"\r\n\"The Ballad Of Terry Fox (from the film ‘Run Terry Run’)\"\n◇番組内容３\nTAYLOR SWIFT\"Patient Zero\"",
   "start": 1794837600000,
   "end": 1794839400000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【U2特集】\r\n\"Street Of Dreams\"\r\n\"Silencio\"\r\n\"The Greatest Show On Earth\"",
+    "番組内容２": "【BRYAN ADAMS特集】\r\n\"How's It Goin'\"\r\n\"The Ballad Of Terry Fox (from the film ‘Run Terry Run’)\"",
+    "番組内容３": "TAYLOR SWIFT\"Patient Zero\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
