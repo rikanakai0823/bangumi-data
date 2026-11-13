@@ -1,12 +1,16 @@
 {
   "id": "381f5kshkt",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　美の壺　２０周年",
+  "fullTitle": "＃ＮＨＫ　美の壺　２０周年",
+  "detail": "◇出演者\n【アナウンサー】安藤結衣",
   "start": 1795002120000,
   "end": 1795002300000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】安藤結衣"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",

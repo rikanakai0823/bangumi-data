@@ -1,12 +1,16 @@
 {
   "id": "381f5kshzy",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　ＮＨＫ　ＯＮＥ　教養　使い方と魅力を紹介",
+  "fullTitle": "＃ＮＨＫ　ＮＨＫ　ＯＮＥ　教養　使い方と魅力を紹介",
+  "detail": "◇出演者\n【アナウンサー】安藤結衣",
   "start": 1795088520000,
   "end": 1795088700000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】安藤結衣"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
