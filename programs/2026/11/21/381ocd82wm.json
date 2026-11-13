@@ -1,0 +1,26 @@
+{
+  "id": "381ocd82wm",
+  "category": "variety",
+  "title": "満天☆青空レストラン　１時間まるごとカレーＳＰ",
+  "fullTitle": "満天☆青空レストラン　１時間まるごとカレーＳＰ🈖🈑",
+  "detail": "",
+  "start": 1795253400000,
+  "end": 1795257000000,
+  "seconds": 3600,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "解",
+    "字"
+  ]
+}
