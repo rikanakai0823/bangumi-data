@@ -1,0 +1,25 @@
+{
+  "id": "381f5ksjs4",
+  "category": "sports",
+  "title": "関東大学ラグビー対抗戦「慶応」対「早稲田」",
+  "fullTitle": "関東大学ラグビー対抗戦「慶応」対「早稲田」🈑",
+  "detail": "",
+  "start": 1795410000000,
+  "end": 1795417200000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "27",
+    "name": "ＮＨＫ総合１・東京",
+    "id": "1i50mps",
+    "sid": 1024,
+    "nid": 32736,
+    "hasLogoData": true,
+    "n": 0
+  },
+  "subTitle": "早稲田",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
