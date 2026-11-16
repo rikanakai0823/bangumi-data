@@ -1,15 +1,16 @@
 {
   "id": "36l9gkului",
   "category": "music",
-  "title": "ＭＵＳＩＣ　ＢＬＩＳＳ　＃２５",
-  "fullTitle": "ＭＵＳＩＣ　ＢＬＩＳＳ　＃２５",
-  "detail": "◇番組内容\nMAIN MC 【濱口優】ASSISTANT【宮崎寿々佳】スタジオから【生歌ライブ】でお届けする、明日へと羽ばたくアーティスト応援番組。Yes! Music MUSICBLISS",
+  "title": "ＭＵＳＩＣ　ＢＬＩＳＳ",
+  "fullTitle": "ＭＵＳＩＣ　ＢＬＩＳＳ",
+  "detail": "香瑠鼓氏による、おどるポンポコリン、全員で踊る！オリジナルダンス披露では恵中コンビが披露に騒然の濱口優と出演者たち。\n◇番組内容\nMAIN MC 【濱口優】ASSISTANT【宮崎寿々佳】スタジオから【生歌ライブ】でお届けする、明日へと羽ばたくアーティスト応援番組。Yes! Music MUSICBLISS\n◇出演者\n出演者：濱口優、宮崎寿々佳、ReViA、香瑠鼓、Ebrio Lazy、恵中瞳、南雲一範",
   "start": 1794924000000,
   "end": 1794925800000,
   "seconds": 1800,
-  "description": " ",
+  "description": "香瑠鼓氏による、おどるポンポコリン、全員で踊る！オリジナルダンス披露では恵中コンビが披露に騒然の濱口優と出演者たち。",
   "extra": {
-    "番組内容": "MAIN MC 【濱口優】ASSISTANT【宮崎寿々佳】スタジオから【生歌ライブ】でお届けする、明日へと羽ばたくアーティスト応援番組。Yes! Music MUSICBLISS"
+    "番組内容": "MAIN MC 【濱口優】ASSISTANT【宮崎寿々佳】スタジオから【生歌ライブ】でお届けする、明日へと羽ばたくアーティスト応援番組。Yes! Music MUSICBLISS",
+    "出演者": "出演者：濱口優、宮崎寿々佳、ReViA、香瑠鼓、Ebrio Lazy、恵中瞳、南雲一範"
   },
   "channel": {
     "type": "GR",
@@ -22,6 +23,6 @@
     "n": 9
   },
   "subTitle": "",
-  "episode": 25,
+  "episode": 1,
   "flags": []
 }
