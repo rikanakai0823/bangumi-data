@@ -3,10 +3,14 @@
   "category": "information",
   "title": "ショップジャパン",
   "fullTitle": "ショップジャパン🅂",
-  "detail": "",
+  "detail": "◇番組内容\nネルクリーン　０１２０－４４－００２７",
   "start": 1795384800000,
   "end": 1795386600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "ネルクリーン　０１２０－４４－００２７"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

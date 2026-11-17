@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1ewt",
   "category": "etc",
-  "title": "買物情報",
-  "fullTitle": "買物情報🅂",
-  "detail": "",
+  "title": "買物情報・富山常備薬　テレビショッピング",
+  "fullTitle": "買物情報・富山常備薬　テレビショッピング🅂",
+  "detail": "◇番組内容\n０１２０－０１０－８８８",
   "start": 1795338000000,
   "end": 1795339800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "０１２０－０１０－８８８"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
