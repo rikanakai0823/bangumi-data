@@ -1,0 +1,25 @@
+{
+  "id": "381jqz2hgy",
+  "category": "documentary",
+  "title": "大科学実験「美しき落下」",
+  "fullTitle": "大科学実験「美しき落下」🈑",
+  "detail": "物が落ちるとき、落ちる距離は落下時間の２乗で増える。一列に並んだ６０個の鉄球を０．２秒差で端から落とし、落下の法則を可視化する。",
+  "start": 1794985500000,
+  "end": 1794986100000,
+  "seconds": 600,
+  "channel": {
+    "type": "GR",
+    "channel": "26",
+    "name": "ＮＨＫＥテレ２東京",
+    "id": "1i52rvt",
+    "sid": 1033,
+    "nid": 32737,
+    "hasLogoData": true,
+    "n": 3
+  },
+  "subTitle": "美しき落下",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
