@@ -3,10 +3,15 @@
   "category": "music",
   "title": "洋楽天国＋",
   "fullTitle": "洋楽天国＋",
-  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "detail": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！\n◇番組内容１\n【ANAMANAGUCHI特集】\r\n\"Sucker Punch\"\r\n\"Yeah I Guess\"\n◇番組内容２\nBRUNO MARS\"Dance With Me\"\r\nHOLLY HUMBERSTONE\"Too Cute To Be Lonely\"\r\nDOMINIC FIKE(feat. EMMA OGIER & GABRIEL JACOBY)\"SMALL TOWN\"",
   "start": 1795442400000,
   "end": 1795444200000,
   "seconds": 1800,
+  "description": "洋楽の最新ミュージック・ビデオをはじめ話題の作品をノンジャンルで紹介。またアーティストのインタビューやライブ映像などもお届けします！",
+  "extra": {
+    "番組内容１": "【ANAMANAGUCHI特集】\r\n\"Sucker Punch\"\r\n\"Yeah I Guess\"",
+    "番組内容２": "BRUNO MARS\"Dance With Me\"\r\nHOLLY HUMBERSTONE\"Too Cute To Be Lonely\"\r\nDOMINIC FIKE(feat. EMMA OGIER & GABRIEL JACOBY)\"SMALL TOWN\""
+  },
   "channel": {
     "type": "GR",
     "channel": "31",
