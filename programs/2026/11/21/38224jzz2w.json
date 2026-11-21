@@ -1,0 +1,25 @@
+{
+  "id": "38224jzz2w",
+  "category": "news",
+  "title": "ＡＮＮスーパーＪチャンネル",
+  "fullTitle": "ＡＮＮスーパーＪチャンネル🈑",
+  "detail": "３連休も寒波襲来…日本海側は大荒れに🈀",
+  "start": 1795249800000,
+  "end": 1795251600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
