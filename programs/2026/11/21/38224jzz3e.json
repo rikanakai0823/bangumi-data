@@ -1,0 +1,25 @@
+{
+  "id": "38224jzz3e",
+  "category": "documentary",
+  "title": "港時間",
+  "fullTitle": "港時間🈑",
+  "detail": "瀬戸内海の中でも抜群の静穏度と美しい自然が魅力、天然の良港・沖野島にあるマリーナ。ここで過ごす「港時間」とは…。",
+  "start": 1795269240000,
+  "end": 1795269600000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcju",
+    "sid": 1066,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 21
+  },
+  "subTitle": "港時間",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}
