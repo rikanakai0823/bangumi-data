@@ -1,0 +1,25 @@
+{
+  "id": "36l9gkwrjs",
+  "category": "theater",
+  "title": "浅草お茶の間寄席",
+  "fullTitle": "浅草お茶の間寄席🈞",
+  "detail": "青空一風・千風・柳亭　小痴楽「まんじゅうこわい」",
+  "start": 1795415400000,
+  "end": 1795417200000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "30",
+    "name": "チバテレ２",
+    "id": "1hgoknt",
+    "sid": 27705,
+    "nid": 32327,
+    "hasLogoData": true,
+    "n": 10
+  },
+  "subTitle": "まんじゅうこわい",
+  "episode": 1,
+  "flags": [
+    "再"
+  ]
+}
