@@ -1,0 +1,23 @@
+{
+  "id": "38224jvehr",
+  "category": "information",
+  "title": "まいにちテレ朝クイズ",
+  "fullTitle": "まいにちテレ朝クイズ",
+  "detail": "今日放送の番組から、毎日４択クイズを出題する番組「まいにちテレ朝クイズ」。正解して、テレ朝コインを獲得＆豪華プレゼントに応募しよう！",
+  "start": 1796100900000,
+  "end": 1796100960000,
+  "seconds": 60,
+  "channel": {
+    "type": "GR",
+    "channel": "24",
+    "name": "テレビ朝日",
+    "id": "1i5bcjs",
+    "sid": 1064,
+    "nid": 32741,
+    "hasLogoData": true,
+    "n": 19
+  },
+  "subTitle": "まいにちテレ朝クイズ",
+  "episode": 1,
+  "flags": []
+}
