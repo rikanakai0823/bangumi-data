@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1fbp",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・日本生薬漢方テレビショッピング",
+  "fullTitle": "ＴＶショッピング・日本生薬漢方テレビショッピング🅂",
+  "detail": "◇番組内容\n幸輝滋腎通耳湯",
   "start": 1796068800000,
   "end": 1796070600000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "幸輝滋腎通耳湯"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",

@@ -3,10 +3,14 @@
   "category": "variety",
   "title": "ＶＳ．超特急",
   "fullTitle": "ＶＳ．超特急",
-  "detail": "",
+  "detail": "◇出演者\n【出演者】超特急\r\n【ゲスト】永野\r\n【進行】森本しんたろう",
   "start": 1796054340000,
   "end": 1796056140000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "出演者": "【出演者】超特急\r\n【ゲスト】永野\r\n【進行】森本しんたろう"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
