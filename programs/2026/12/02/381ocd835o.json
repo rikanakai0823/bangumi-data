@@ -1,0 +1,25 @@
+{
+  "id": "381ocd835o",
+  "category": "information",
+  "title": "日テレ＋「明日は突破ファイル」",
+  "fullTitle": "日テレ＋「明日は突破ファイル」🈑",
+  "detail": "",
+  "start": 1796216040000,
+  "end": 1796216400000,
+  "seconds": 360,
+  "channel": {
+    "type": "GR",
+    "channel": "25",
+    "name": "日テレ１",
+    "id": "1i54x1s",
+    "sid": 1040,
+    "nid": 32738,
+    "hasLogoData": true,
+    "n": 16
+  },
+  "subTitle": "明日は突破ファイル",
+  "episode": 1,
+  "flags": [
+    "字"
+  ]
+}

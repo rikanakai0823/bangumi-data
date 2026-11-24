@@ -1,0 +1,23 @@
+{
+  "id": "36tfa8lhal",
+  "category": "sports",
+  "title": "東京シティ競馬中継",
+  "fullTitle": "東京シティ競馬中継",
+  "detail": "「カナリア特別」「小雪賞」「第１８回　勝島王冠　（ＳⅡ）」「ブルージルコン賞」",
+  "start": 1796194200000,
+  "end": 1796212800000,
+  "seconds": 18600,
+  "channel": {
+    "type": "GR",
+    "channel": "16",
+    "name": "ＴＯＫＹＯ　ＭＸ２",
+    "id": "1hkhnru",
+    "sid": 23610,
+    "nid": 32391,
+    "hasLogoData": true,
+    "n": 35
+  },
+  "subTitle": "勝島王冠　（ＳⅡ）",
+  "episode": 18,
+  "flags": []
+}
