@@ -1,12 +1,17 @@
 {
   "id": "381ocd832b",
   "category": "music",
-  "title": "ＢＵＺＺ　ＴＶ　Ｄ．Ｕ．Ｎ．Ｋ．",
-  "fullTitle": "ＢＵＺＺ　ＴＶ　Ｄ．Ｕ．Ｎ．Ｋ．🈑",
-  "detail": "",
+  "title": "ＢＵＺＺ　ＴＶ　Ｄ．Ｕ．Ｎ．Ｋ．歌とダンスで紡ぐワンカット音楽番組",
+  "fullTitle": "ＢＵＺＺ　ＴＶ　Ｄ．Ｕ．Ｎ．Ｋ．歌とダンスで紡ぐワンカット音楽番組🈑",
+  "detail": "「D.U.N.K. in the City」第２弾…新宿の真ん中で4組のアーティストたちが音楽を鳴らす▼番組内で重大発表！\n◇出演者\n【出演者】SKY-HI、s**t kingz、龍宮城、STARGLOWほか\n◇番組内容\n「音楽番組というと定型化してしまうものをぶち壊したい」というD.U.N.K.オーガナイザー・SKY-HIのアイディアから、アーティストとアーティストが音楽やダンスでバトンを繋ぎワンテイクで撮影する今回の試み「D.U.N.K. in the City」▼SKY-HI、s**t kingz、龍宮城、STARGLOWが参戦！CMを除いた約23分間をワンカット撮影！リレー形式でノンストップパフォーマンス",
   "start": 1795843800000,
   "end": 1795845600000,
   "seconds": 1800,
+  "description": "「D.U.N.K. in the City」第２弾…新宿の真ん中で4組のアーティストたちが音楽を鳴らす▼番組内で重大発表！",
+  "extra": {
+    "出演者": "【出演者】SKY-HI、s**t kingz、龍宮城、STARGLOWほか",
+    "番組内容": "「音楽番組というと定型化してしまうものをぶち壊したい」というD.U.N.K.オーガナイザー・SKY-HIのアイディアから、アーティストとアーティストが音楽やダンスでバトンを繋ぎワンテイクで撮影する今回の試み「D.U.N.K. in the City」▼SKY-HI、s**t kingz、龍宮城、STARGLOWが参戦！CMを除いた約23分間をワンカット撮影！リレー形式でノンストップパフォーマンス"
+  },
   "channel": {
     "type": "GR",
     "channel": "25",
@@ -17,7 +22,7 @@
     "hasLogoData": true,
     "n": 16
   },
-  "subTitle": "",
+  "subTitle": "D.U.N.K. in the City",
   "episode": 1,
   "flags": [
     "字"
