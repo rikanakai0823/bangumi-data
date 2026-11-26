@@ -1,12 +1,16 @@
 {
   "id": "381f5ksnc6",
   "category": "information",
-  "title": "＃ＮＨＫ",
-  "fullTitle": "＃ＮＨＫ",
-  "detail": "",
+  "title": "＃ＮＨＫ　ＮＨＫハート展の歩み",
+  "fullTitle": "＃ＮＨＫ　ＮＨＫハート展の歩み",
+  "detail": "◇出演者\n【アナウンサー】安藤結衣",
   "start": 1796211720000,
   "end": 1796211900000,
   "seconds": 180,
+  "description": "",
+  "extra": {
+    "出演者": "【アナウンサー】安藤結衣"
+  },
   "channel": {
     "type": "GR",
     "channel": "27",
