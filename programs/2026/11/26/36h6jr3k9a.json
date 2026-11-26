@@ -1,0 +1,25 @@
+{
+  "id": "36h6jr3k9a",
+  "category": "news",
+  "title": "ニュース５３０",
+  "fullTitle": "ニュース５３０🅂",
+  "detail": "【特集】ツール・ド・フランス　さいたまクリテリウム",
+  "start": 1795681800000,
+  "end": 1795683600000,
+  "seconds": 1800,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉１",
+    "id": "1hes13t",
+    "sid": 29753,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 13
+  },
+  "subTitle": "特集",
+  "episode": 1,
+  "flags": [
+    "S"
+  ]
+}
