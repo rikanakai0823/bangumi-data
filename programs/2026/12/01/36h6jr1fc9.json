@@ -1,12 +1,16 @@
 {
   "id": "36h6jr1fc9",
-  "category": "etc",
-  "title": "ＴＶショッピング",
-  "fullTitle": "ＴＶショッピング🅂",
-  "detail": "",
+  "category": "information",
+  "title": "ＴＶショッピング・マイケアテレビショッピング",
+  "fullTitle": "ＴＶショッピング・マイケアテレビショッピング🅂",
+  "detail": "◇番組内容\nこんにゃく血管",
   "start": 1796103000000,
   "end": 1796104800000,
   "seconds": 1800,
+  "description": "",
+  "extra": {
+    "番組内容": "こんにゃく血管"
+  },
   "channel": {
     "type": "GR",
     "channel": "32",
