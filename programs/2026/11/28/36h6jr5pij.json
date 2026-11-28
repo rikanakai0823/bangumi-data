@@ -1,0 +1,23 @@
+{
+  "id": "36h6jr5pij",
+  "category": "sports",
+  "title": "Ｂリーグ中継・『さいたまブロンコスＶＳ東京ユナイテッド』",
+  "fullTitle": "Ｂリーグ中継・『さいたまブロンコスＶＳ東京ユナイテッド』",
+  "detail": "所沢市民体育館からさいたまブロンコスの熱戦を実況生中継！　さいたまブロンコスの熱戦を実況生中継！",
+  "start": 1795845600000,
+  "end": 1795852800000,
+  "seconds": 7200,
+  "channel": {
+    "type": "GR",
+    "channel": "32",
+    "name": "テレ玉２",
+    "id": "1hes13u",
+    "sid": 29754,
+    "nid": 32295,
+    "hasLogoData": true,
+    "n": 14
+  },
+  "subTitle": "",
+  "episode": 1,
+  "flags": []
+}
